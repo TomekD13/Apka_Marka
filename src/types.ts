@@ -135,7 +135,15 @@ export interface Prayer {
 /** Czytanki „40 dni modlitwy" (#JestNadzieja) - każdy dzień w dwóch wersjach. */
 export type Pray40Version = 'short' | 'long'
 export interface Pray40Section { heading?: string | null; paragraphs: string[] }
-export interface Pray40DayEntry { day: number; title: string; ref: string; lead: string }
+export interface Pray40DayEntry {
+  day: number
+  title: string
+  ref: string
+  lead: string
+  /** data dnia akcji: ISO i gotowa etykieta („5 września, sobota") */
+  date?: string
+  dateLabel?: string
+}
 export interface Pray40Day extends Pray40DayEntry {
   questions: string[]
   note?: string

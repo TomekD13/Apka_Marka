@@ -9,6 +9,8 @@ import {
   VersionToggle,
   type TextVersion,
 } from '../components/VersionToggle'
+import { ReadingFooter } from '../components/ReadingFooter'
+import { listRead } from '../lib/progress'
 import type { Pray40Day, Pray40Index } from '../types'
 
 const VERSION_KEY = 'zywe-slowo:pray40:version'
@@ -31,6 +33,9 @@ function useIndex() {
 export function Pray40List({ limit }: { limit?: number }) {
   const { lang, t } = useI18n()
   const { data, failed } = useIndex()
+  // wersje wybiera sie juz tutaj - czytanka otworzy sie w tej, ktora tu stoi
+  const [version, setVersion] = useState<TextVersion>(() => rememberedVersion(VERSION_KEY))
+  const done = listRead('pray40')
 
   if (failed) return <p className="text-sm text-slate-400">{t('pray40.unavailable', 'Czytanki są niedostępne.')}</p>
   if (!data) return <p className="text-sm text-slate-400">{t('common.loading', '…')}</p>
@@ -39,6 +44,14 @@ export function Pray40List({ limit }: { limit?: number }) {
 
   return (
     <div className="space-y-1.5">
+      <VersionToggle
+        value={version}
+        onChange={(v) => {
+          setVersion(v)
+          rememberVersion(VERSION_KEY, v)
+        }}
+        available={['short', 'long']}
+      />
       {days.map((d) => (
         <Link
           key={d.day}
@@ -48,8 +61,15 @@ export function Pray40List({ limit }: { limit?: number }) {
           <span className="w-6 shrink-0 pt-0.5 text-right text-xs tabular-nums text-slate-500">{d.day}</span>
           <span className="min-w-0 flex-1">
             <span className="block truncate font-medium leading-snug">{d.title}</span>
-            <span className="block truncate text-xs text-slate-500">{d.ref}</span>
+            <span className="block truncate text-xs text-slate-500">
+              {[d.dateLabel, d.ref].filter(Boolean).join(' · ')}
+            </span>
           </span>
+          {done.has(String(d.day)) && (
+            <span className="shrink-0 pt-0.5 text-emerald-600" title={t('reading.done', 'Przeczytane')}>
+              ✓
+            </span>
+          )}
         </Link>
       ))}
       {limit && data.days.length > limit && (
@@ -126,7 +146,9 @@ export function Pray40DayPage() {
           {t('pray40.day', 'Dzień')} {entry.day} / {total}
         </p>
         <h1 className="mt-1 text-2xl font-bold text-slate-100">{entry.title}</h1>
-        {entry.ref && <p className="mt-1 text-sm text-slate-400">{entry.ref}</p>}
+        <p className="mt-1 text-sm text-slate-400">
+          {[entry.dateLabel, entry.ref].filter(Boolean).join(' · ')}
+        </p>
         {entry.lead && <p className="mt-3 text-slate-300">{entry.lead}</p>}
       </header>
 
@@ -157,6 +179,15 @@ export function Pray40DayPage() {
           </ol>
         </section>
       )}
+
+      <ReadingFooter
+        kind="pray40"
+        id={entry.day}
+        showFull={version === 'short' && Boolean(entry.versions.long)}
+        onShowFull={() => pick('long')}
+        shareTitle={`${t('pray40.day', 'Dzień')} ${entry.day}: ${entry.title}`}
+        shareText={entry.lead || entry.title}
+      />
 
       <nav className="no-print mt-6 flex items-center justify-between text-sm">
         {entry.day > 1 ? (

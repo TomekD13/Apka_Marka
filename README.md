@@ -311,8 +311,19 @@ Wynik idzie do `public/content/pl/pray40/`: `index.json` (spis 40 dni, 9 KB) i `
 dzień, który otwiera. W trybie offline pobiera się sam spis; czytanki dociągają się
 przy czytaniu.
 
-Strona dnia (`pages/Pray40.tsx`) ma przełącznik **Krótko / Pełna wersja** – wybór
-przeżywa przejście do następnego dnia (`sessionStorage`), i nawigację między dniami.
+**Daty**: akcja zaczyna się **5 września 2026 (sobota)** – `START` w `extract_pray40.py`.
+Skrypt dopisuje do każdego dnia `date` (ISO) i `dateLabel` („5 września, sobota"), więc
+etykiety są w treści, a nie w kodzie. Przesunięcie akcji na inny rok to zmiana jednej stałej
+i ponowne uruchomienie skryptu.
+
+Przełącznik **Krótko / Pełna wersja** stoi w dwóch miejscach: nad spisem dni (wybór decyduje,
+w której wersji otworzy się czytanka) i w samej czytance. Wybór trzyma `sessionStorage`
+(`components/VersionToggle.tsx`).
+
+Pod czytanką stoi `components/ReadingFooter.tsx`: odhaczenie **„Przeczytane"**, przejście do
+pełnej wersji (gdy czytamy krótką) i **„Udostępnij"**. Odhaczone dni dostają ✓ na liście.
+Stan czytania trzyma `lib/progress.ts` (`localStorage`, klucz `rodzaj:numer`) – ten sam
+mechanizm obsługuje materiały edukacyjne.
 
 ## Materiały edukacyjne – skąd się bierze treść
 
@@ -334,7 +345,8 @@ ta sama, więc trzymamy ją raz.
 Wynik: `public/content/pl/edu/index.json` (spis) i `01.json` … `10.json` (~13 KB każdy),
 razem 133 KB. Strona szkolenia (`pages/Edu.tsx`) ma ten sam przełącznik
 **Krótko / Pełna wersja** co czytanki – wspólny komponent `components/VersionToggle.tsx`.
-Trasy: `/pl/edukacja` i `/pl/edukacja/{nr}`.
+Trasy: `/pl/edukacja` i `/pl/edukacja/{nr}`. Wybór wersji nad spisem, stopka z odhaczeniem
+i udostępnieniem – tak samo jak w czytankach, tyle że bez dat.
 
 ## Pieśni młodzieżowe – skąd się bierze treść
 

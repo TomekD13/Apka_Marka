@@ -9,6 +9,8 @@ import {
   VersionToggle,
   type TextVersion,
 } from '../components/VersionToggle'
+import { ReadingFooter } from '../components/ReadingFooter'
+import { listRead } from '../lib/progress'
 import type { EduIndex, EduItem } from '../types'
 
 const VERSION_KEY = 'zywe-slowo:edu:version'
@@ -31,6 +33,9 @@ function useIndex() {
 export function EduList({ limit }: { limit?: number }) {
   const { lang, t } = useI18n()
   const { data, failed } = useIndex()
+  // wersje wybiera sie juz tutaj - material otworzy sie w tej, ktora tu stoi
+  const [version, setVersion] = useState<TextVersion>(() => rememberedVersion(VERSION_KEY))
+  const done = listRead('edu')
 
   if (failed) return <p className="text-sm text-slate-400">{t('edu.unavailable', 'Materiały są niedostępne.')}</p>
   if (!data) return <p className="text-sm text-slate-400">{t('common.loading', '…')}</p>
@@ -39,6 +44,14 @@ export function EduList({ limit }: { limit?: number }) {
 
   return (
     <div className="space-y-1.5">
+      <VersionToggle
+        value={version}
+        onChange={(v) => {
+          setVersion(v)
+          rememberVersion(VERSION_KEY, v)
+        }}
+        available={['short', 'long']}
+      />
       {items.map((it) => (
         <Link
           key={it.nr}
@@ -50,6 +63,11 @@ export function EduList({ limit }: { limit?: number }) {
             <span className="block truncate font-medium leading-snug">{it.title}</span>
             {it.ref && <span className="block truncate text-xs text-slate-500">{it.ref}</span>}
           </span>
+          {done.has(String(it.nr)) && (
+            <span className="shrink-0 pt-0.5 text-emerald-600" title={t('reading.done', 'Przeczytane')}>
+              ✓
+            </span>
+          )}
         </Link>
       ))}
       {limit && data.items.length > limit && (
@@ -172,6 +190,15 @@ export function EduItemPage() {
           )}
         </section>
       )}
+
+      <ReadingFooter
+        kind="edu"
+        id={entry.nr}
+        showFull={version === 'short' && Boolean(entry.versions.long)}
+        onShowFull={() => pick('long')}
+        shareTitle={entry.title}
+        shareText={shown?.quote?.text ? `„${shown.quote.text}” (${shown.quote.ref})` : entry.title}
+      />
 
       <nav className="no-print mt-6 flex items-center justify-between text-sm">
         {entry.nr > 1 ? (

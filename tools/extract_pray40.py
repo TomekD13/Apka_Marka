@@ -28,6 +28,7 @@ import io
 import json
 import re
 import sys
+from datetime import date, timedelta
 from pathlib import Path
 
 try:
@@ -38,6 +39,19 @@ except ImportError:
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_SRC = Path.home() / "AIprojekty" / "one27"
 OUT = ROOT / "public" / "content" / "pl" / "pray40"
+
+# Akcja zaczyna sie 5 wrzesnia 2026 (sobota) - decyzja autora 2026-08-25.
+# Dzien N przypada N-1 dni pozniej; etykieta idzie do tresci, bo napisow
+# w kodzie nie trzymamy.
+START = date(2026, 9, 5)
+MIESIACE = ("stycznia lutego marca kwietnia maja czerwca lipca sierpnia września października listopada grudnia").split()
+DNI_TYGODNIA = "poniedziałek wtorek środa czwartek piątek sobota niedziela".split()
+
+
+def dzien_akcji(n: int) -> tuple[str, str]:
+    """(data ISO, etykieta w rodzaju „5 wrzesnia, sobota") dla dnia N."""
+    d = START + timedelta(days=n - 1)
+    return d.isoformat(), f"{d.day} {MIESIACE[d.month - 1]}, {DNI_TYGODNIA[d.weekday()]}"
 
 SIZE_DAY = 11.0
 SIZE_TITLE = 24.0
@@ -165,8 +179,11 @@ def main() -> int:
     for n in numbers:
         s, l = short.get(n), long.get(n)
         base = l or s
+        iso, etykieta = dzien_akcji(n)
         day = {
             "day": n,
+            "date": iso,
+            "dateLabel": etykieta,
             "title": base["title"],
             "ref": base["ref"],
             "lead": base["lead"],
@@ -179,7 +196,14 @@ def main() -> int:
         if l:
             day["versions"]["long"] = {"sections": l["sections"]}
         files[n] = day
-        index_days.append({"day": n, "title": base["title"], "ref": base["ref"], "lead": base["lead"]})
+        index_days.append({
+            "day": n,
+            "date": iso,
+            "dateLabel": etykieta,
+            "title": base["title"],
+            "ref": base["ref"],
+            "lead": base["lead"],
+        })
 
         if not base["title"]:
             problems.append(f"Dzień {n}: pusty tytuł")
