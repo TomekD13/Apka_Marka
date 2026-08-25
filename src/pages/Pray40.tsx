@@ -30,24 +30,8 @@ function useIndex() {
   return { data, failed }
 }
 
-/** Wybór wersji do belki menu - stoi obok tytułu, nie zabiera wiersza nad listą. */
-export function Pray40VersionToggle() {
-  const [version, setVersion] = useState<TextVersion>(() => rememberedVersion(VERSION_KEY))
-  return (
-    <VersionToggle
-      compact
-      value={version}
-      onChange={(v) => {
-        setVersion(v)
-        rememberVersion(VERSION_KEY, v)
-      }}
-      available={['short', 'long']}
-    />
-  )
-}
-
 /** Spis czterdziestu dni - w belce na stronie głównej i na stronie serii. */
-export function Pray40List({ limit, toggle = false }: { limit?: number; toggle?: boolean }) {
+export function Pray40List({ limit }: { limit?: number }) {
   const { lang, t } = useI18n()
   const { data, failed } = useIndex()
   const done = listRead('pray40')
@@ -59,11 +43,6 @@ export function Pray40List({ limit, toggle = false }: { limit?: number; toggle?:
 
   return (
     <div className="space-y-1.5">
-      {toggle && (
-        <div className="pb-1">
-          <Pray40VersionToggle />
-        </div>
-      )}
       {days.map((d) => (
         <Link
           key={d.day}
@@ -102,7 +81,7 @@ export function Pray40() {
     <div>
       <h1 className="mb-1 text-2xl font-bold text-slate-100">{t('pray40.title', '40 dni modlitwy')}</h1>
       <p className="mb-5 text-sm text-slate-400">{data?.series || '#JestNadzieja'}</p>
-      <Pray40List toggle />
+      <Pray40List />
     </div>
   )
 }
@@ -158,9 +137,8 @@ export function Pray40DayPage() {
           {t('pray40.day', 'Dzień')} {entry.day} / {total}
         </p>
         <h1 className="mt-1 text-2xl font-bold text-slate-100">{entry.title}</h1>
-        <p className="mt-1 text-sm text-slate-400">
-          {[entry.dateLabel, entry.ref].filter(Boolean).join(' · ')}
-        </p>
+        {entry.ref && <p className="mt-1 text-slate-300">{entry.ref}</p>}
+        {entry.dateLabel && <p className="mt-0.5 text-sm text-slate-400">{entry.dateLabel}</p>}
         {entry.lead && <p className="mt-3 text-slate-300">{entry.lead}</p>}
       </header>
 
@@ -195,6 +173,7 @@ export function Pray40DayPage() {
       <ReadingFooter
         kind="pray40"
         id={entry.day}
+        title={entry.title}
         showFull={version === 'short' && Boolean(entry.versions.long)}
         onShowFull={() => pick('long')}
         shareTitle={`${t('pray40.day', 'Dzień')} ${entry.day}: ${entry.title}`}

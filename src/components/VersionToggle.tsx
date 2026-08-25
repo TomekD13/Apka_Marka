@@ -4,14 +4,15 @@ import { useI18n } from '../i18n'
 export type TextVersion = 'short' | 'long'
 
 /**
- * Przelacznik dlugosci tekstu. Wybor czytelnika przezywa przejscie miedzy
- * dniami/szkoleniami, ale nie zostaje na stale - stad sessionStorage.
+ * Przelacznik dlugosci tekstu. Czytanka otwiera sie w pelnej wersji (decyzja
+ * autora 2026-08-25); przelaczenie na krotka przezywa przejscie do nastepnego
+ * dnia, ale nie zostaje na stale - stad sessionStorage.
  */
 export function rememberedVersion(key: string): TextVersion {
   try {
-    return sessionStorage.getItem(key) === 'long' ? 'long' : 'short'
+    return sessionStorage.getItem(key) === 'short' ? 'short' : 'long'
   } catch {
-    return 'short'
+    return 'long'
   }
 }
 

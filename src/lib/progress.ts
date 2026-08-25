@@ -42,6 +42,38 @@ export function setRead(kind: ReadKind, id: number | string, value: boolean): bo
   return write(marks) ? value : !value
 }
 
+// --- ocena materialu -----------------------------------------------------------
+// Gwiazdki 1-5. Trzymamy je tutaj, zeby czytelnik widzial swoja ocene po powrocie;
+// zbieranie opinii idzie osobno, przez formularz (patrz components/ReadingFooter.tsx).
+
+const RATE = 'zywe-slowo:rating:v1'
+
+function ratings(): Record<string, number> {
+  try {
+    const raw = localStorage.getItem(RATE)
+    const data = raw ? JSON.parse(raw) : {}
+    return data && typeof data === 'object' ? (data as Record<string, number>) : {}
+  } catch {
+    return {}
+  }
+}
+
+export function getRating(kind: ReadKind, id: number | string): number {
+  return ratings()[mark(kind, id)] || 0
+}
+
+/** Zapisuje ocene i zwraca to, co faktycznie zapisano. */
+export function setRating(kind: ReadKind, id: number | string, value: number): number {
+  const all = ratings()
+  all[mark(kind, id)] = value
+  try {
+    localStorage.setItem(RATE, JSON.stringify(all))
+    return value
+  } catch {
+    return getRating(kind, id)
+  }
+}
+
 /** Odhaczone pozycje jednego rodzaju - jednym odczytem, dla calej listy. */
 export function listRead(kind: ReadKind): Set<string> {
   const prefix = `${kind}:`

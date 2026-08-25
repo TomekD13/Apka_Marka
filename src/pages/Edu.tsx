@@ -30,24 +30,8 @@ function useIndex() {
   return { data, failed }
 }
 
-/** Wybór wersji do belki menu - stoi obok tytułu, nie zabiera wiersza nad listą. */
-export function EduVersionToggle() {
-  const [version, setVersion] = useState<TextVersion>(() => rememberedVersion(VERSION_KEY))
-  return (
-    <VersionToggle
-      compact
-      value={version}
-      onChange={(v) => {
-        setVersion(v)
-        rememberVersion(VERSION_KEY, v)
-      }}
-      available={['short', 'long']}
-    />
-  )
-}
-
 /** Spis szkoleń - w belce na stronie głównej i na stronie serii. */
-export function EduList({ limit, toggle = false }: { limit?: number; toggle?: boolean }) {
+export function EduList({ limit }: { limit?: number }) {
   const { lang, t } = useI18n()
   const { data, failed } = useIndex()
   const done = listRead('edu')
@@ -59,11 +43,6 @@ export function EduList({ limit, toggle = false }: { limit?: number; toggle?: bo
 
   return (
     <div className="space-y-1.5">
-      {toggle && (
-        <div className="pb-1">
-          <EduVersionToggle />
-        </div>
-      )}
       {items.map((it) => (
         <Link
           key={it.nr}
@@ -98,7 +77,7 @@ export function Edu() {
     <div>
       <h1 className="mb-1 text-2xl font-bold text-slate-100">{t('edu.title', 'Materiały edukacyjne')}</h1>
       <p className="mb-5 text-sm text-slate-400">{data?.series || '#JestNadzieja'}</p>
-      <EduList toggle />
+      <EduList />
     </div>
   )
 }
@@ -204,6 +183,7 @@ export function EduItemPage() {
       <ReadingFooter
         kind="edu"
         id={entry.nr}
+        title={entry.title}
         showFull={version === 'short' && Boolean(entry.versions.long)}
         onShowFull={() => pick('long')}
         shareTitle={entry.title}

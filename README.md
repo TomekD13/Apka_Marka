@@ -320,10 +320,34 @@ Przełącznik **Krótko / Pełna wersja** stoi w dwóch miejscach: nad spisem dn
 w której wersji otworzy się czytanka) i w samej czytance. Wybór trzyma `sessionStorage`
 (`components/VersionToggle.tsx`).
 
-Pod czytanką stoi `components/ReadingFooter.tsx`: odhaczenie **„Przeczytane"**, przejście do
-pełnej wersji (gdy czytamy krótką) i **„Udostępnij"**. Odhaczone dni dostają ✓ na liście.
-Stan czytania trzyma `lib/progress.ts` (`localStorage`, klucz `rodzaj:numer`) – ten sam
-mechanizm obsługuje materiały edukacyjne.
+Pod czytanką stoi `components/ReadingFooter.tsx`: odhaczenie **„Przeczytane"**, **„Oceń
+materiał"** (gwiazdki 1-5), przejście do pełnej wersji (gdy czytamy krótką) oraz dzielenie
+się: **WhatsApp**, **Messenger**, systemowe **„Udostępnij"** i **„Zaproś przyjaciół"**
+(link do strony głównej zamiast do czytanki). Odhaczone dni dostają ✓ na liście.
+Stan czytania i oceny trzyma `lib/progress.ts` (`localStorage`) – ten sam mechanizm
+obsługuje materiały edukacyjne.
+
+### Zbieranie ocen w arkuszu
+
+Aplikacja nie ma backendu, więc oceny idą do arkusza przez formularz. Adres siedzi
+w treści: `ui.json` → `reading.rateUrl`, jako wzorzec z miejscami `{ocena}` i `{material}`.
+**Pusty adres znaczy, że ocena zostaje tylko w przeglądarce czytelnika** – tak jest dziś.
+
+Google Forms (oceny lądują w Arkuszach Google, aplikacja nie przeładowuje strony):
+1. Formularz z dwoma pytaniami: *Ocena* (1-5) i *Materiał* (tekst).
+2. Menu ⋮ → **„Uzyskaj wypełniony wcześniej link"**, wpisz przykładowe wartości, skopiuj link.
+3. W skopiowanym adresie zamień `/viewform?usp=pp_url` na `/formResponse`, a przykładowe
+   wartości na `{ocena}` i `{material}`.
+4. Wklej do `reading.rateUrl`. Adres z `/formResponse` aplikacja wysyła w tle
+   (`fetch` z `mode: 'no-cors'`), więc czytelnik zostaje w czytance.
+5. W formularzu: *Odpowiedzi* → *Połącz z Arkuszami*.
+
+Microsoft Forms zapisuje odpowiedzi wprost do skoroszytu Excela w OneDrive – wtedy zostaw
+zwykły adres formularza (bez `/formResponse`), a aplikacja otworzy go w nowej karcie.
+
+**Messenger**: bez własnego identyfikatora aplikacji Facebooka działa tylko odnośnik
+`fb-messenger://`, czyli na telefonie. Na komputerze przycisk nic nie zrobi – stąd obok
+systemowe „Udostępnij".
 
 ## Materiały edukacyjne – skąd się bierze treść
 
