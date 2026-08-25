@@ -5,6 +5,7 @@ import { useSetPlace } from '../place'
 import { BiblePicker } from '../components/BiblePicker'
 import { VerseText } from '../components/VerseText'
 import { VerseActionBar } from '../components/VerseActionBar'
+import { BackLink } from '../components/BackLink'
 import {
   formatRef,
   getBibleSplit,
@@ -480,9 +481,7 @@ export function BibleChapterPage() {
         >
           ‹ {t('bible.prev', 'Poprzedni rozdział')}
         </button>
-        <Link to={`/${lang}/${BIBLE_PATH}`} className="text-brand-light hover:underline">
-          {t('bible.allBooks', 'Spis ksiąg')}
-        </Link>
+        <BackLink to={`/${lang}/${BIBLE_PATH}`}>{t('bible.allBooks', 'Spis ksiąg')}</BackLink>
         <button
           type="button"
           onClick={() => step(1)}
@@ -613,10 +612,8 @@ export function BibleBookmarksPage() {
         </ul>
       )}
 
-      <div className="mt-5 text-sm">
-        <Link to={`/${lang}/${BIBLE_PATH}`} className="text-brand-light hover:underline">
-          {t('bible.allBooks', 'Spis ksiąg')}
-        </Link>
+      <div className="mt-5">
+        <BackLink to={`/${lang}/${BIBLE_PATH}`}>{t('bible.allBooks', 'Spis ksiąg')}</BackLink>
       </div>
     </div>
   )

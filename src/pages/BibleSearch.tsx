@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
 import { useI18n } from '../i18n'
+import { BackLink } from '../components/BackLink'
 import { useSetPlace } from '../place'
 import { VerseText } from '../components/VerseText'
 import { formatRef, parseRef, searchBible, type SearchHit, type SearchScope } from '../lib/bible'
@@ -116,9 +117,9 @@ export function BibleSearchPage() {
               {label}
             </label>
           ))}
-          <Link to={`/${lang}/${BIBLE_PATH}`} className="ml-auto text-brand-light hover:underline">
+          <BackLink to={`/${lang}/${BIBLE_PATH}`} className="ml-auto">
             {t('bible.allBooks', 'Spis ksiąg')}
-          </Link>
+          </BackLink>
         </div>
       </form>
 

@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
-import { Link } from 'react-router-dom'
 import { useI18n } from '../i18n'
+import { BackLink } from '../components/BackLink'
 import { useSetPlace } from '../place'
 import {
   downloadTranslation,
@@ -441,10 +441,8 @@ export function BibleModulesPage() {
         </p>
       </section>
 
-      <div className="mt-5 text-sm">
-        <Link to={`/${lang}/${BIBLE_PATH}`} className="text-brand-light hover:underline">
-          {t('bible.allBooks', 'Spis ksiąg')}
-        </Link>
+      <div className="mt-5">
+        <BackLink to={`/${lang}/${BIBLE_PATH}`}>{t('bible.allBooks', 'Spis ksiąg')}</BackLink>
       </div>
     </div>
   )

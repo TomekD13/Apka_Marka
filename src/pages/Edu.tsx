@@ -10,6 +10,7 @@ import {
   type TextVersion,
 } from '../components/VersionToggle'
 import { ReadingFooter } from '../components/ReadingFooter'
+import { BackLink } from '../components/BackLink'
 import { listRead } from '../lib/progress'
 import type { EduIndex, EduItem } from '../types'
 
@@ -29,12 +30,26 @@ function useIndex() {
   return { data, failed }
 }
 
+/** Wybór wersji do belki menu - stoi obok tytułu, nie zabiera wiersza nad listą. */
+export function EduVersionToggle() {
+  const [version, setVersion] = useState<TextVersion>(() => rememberedVersion(VERSION_KEY))
+  return (
+    <VersionToggle
+      compact
+      value={version}
+      onChange={(v) => {
+        setVersion(v)
+        rememberVersion(VERSION_KEY, v)
+      }}
+      available={['short', 'long']}
+    />
+  )
+}
+
 /** Spis szkoleń - w belce na stronie głównej i na stronie serii. */
-export function EduList({ limit }: { limit?: number }) {
+export function EduList({ limit, toggle = false }: { limit?: number; toggle?: boolean }) {
   const { lang, t } = useI18n()
   const { data, failed } = useIndex()
-  // wersje wybiera sie juz tutaj - material otworzy sie w tej, ktora tu stoi
-  const [version, setVersion] = useState<TextVersion>(() => rememberedVersion(VERSION_KEY))
   const done = listRead('edu')
 
   if (failed) return <p className="text-sm text-slate-400">{t('edu.unavailable', 'Materiały są niedostępne.')}</p>
@@ -44,14 +59,11 @@ export function EduList({ limit }: { limit?: number }) {
 
   return (
     <div className="space-y-1.5">
-      <VersionToggle
-        value={version}
-        onChange={(v) => {
-          setVersion(v)
-          rememberVersion(VERSION_KEY, v)
-        }}
-        available={['short', 'long']}
-      />
+      {toggle && (
+        <div className="pb-1">
+          <EduVersionToggle />
+        </div>
+      )}
       {items.map((it) => (
         <Link
           key={it.nr}
@@ -86,7 +98,7 @@ export function Edu() {
     <div>
       <h1 className="mb-1 text-2xl font-bold text-slate-100">{t('edu.title', 'Materiały edukacyjne')}</h1>
       <p className="mb-5 text-sm text-slate-400">{data?.series || '#JestNadzieja'}</p>
-      <EduList />
+      <EduList toggle />
     </div>
   )
 }
@@ -122,9 +134,9 @@ export function EduItemPage() {
     return (
       <div>
         <p className="text-slate-400">{t('edu.missing', 'Nie ma takiego materiału.')}</p>
-        <Link to={backTo} className="mt-3 inline-block text-brand-light hover:underline">
+        <BackLink to={backTo} className="mt-3">
           {t('edu.backToList', 'Wróć do spisu materiałów')}
-        </Link>
+        </BackLink>
       </div>
     )
   if (!entry) return <p className="text-slate-400">{t('common.loading', '…')}</p>
@@ -136,9 +148,7 @@ export function EduItemPage() {
 
   return (
     <article>
-      <Link to={backTo} className="no-print text-sm text-slate-400 hover:text-brand-light">
-        ‹ {t('edu.backToList', 'Wróć do spisu materiałów')}
-      </Link>
+      <BackLink to={backTo}>{t('edu.backToList', 'Wróć do spisu materiałów')}</BackLink>
 
       <header className="mb-4 mt-2">
         <p className="text-xs font-semibold uppercase tracking-wide text-violet-300">
@@ -216,6 +226,10 @@ export function EduItemPage() {
           <span />
         )}
       </nav>
+
+      <div className="no-print mt-6 flex justify-center">
+        <BackLink to={backTo}>{t('edu.backToList', 'Wróć do spisu materiałów')}</BackLink>
+      </div>
 
       {entry.note && <p className="mt-8 text-xs text-slate-500">{entry.note}</p>}
     </article>

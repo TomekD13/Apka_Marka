@@ -10,6 +10,7 @@ import {
   type TextVersion,
 } from '../components/VersionToggle'
 import { ReadingFooter } from '../components/ReadingFooter'
+import { BackLink } from '../components/BackLink'
 import { listRead } from '../lib/progress'
 import type { Pray40Day, Pray40Index } from '../types'
 
@@ -29,12 +30,26 @@ function useIndex() {
   return { data, failed }
 }
 
+/** Wybór wersji do belki menu - stoi obok tytułu, nie zabiera wiersza nad listą. */
+export function Pray40VersionToggle() {
+  const [version, setVersion] = useState<TextVersion>(() => rememberedVersion(VERSION_KEY))
+  return (
+    <VersionToggle
+      compact
+      value={version}
+      onChange={(v) => {
+        setVersion(v)
+        rememberVersion(VERSION_KEY, v)
+      }}
+      available={['short', 'long']}
+    />
+  )
+}
+
 /** Spis czterdziestu dni - w belce na stronie głównej i na stronie serii. */
-export function Pray40List({ limit }: { limit?: number }) {
+export function Pray40List({ limit, toggle = false }: { limit?: number; toggle?: boolean }) {
   const { lang, t } = useI18n()
   const { data, failed } = useIndex()
-  // wersje wybiera sie juz tutaj - czytanka otworzy sie w tej, ktora tu stoi
-  const [version, setVersion] = useState<TextVersion>(() => rememberedVersion(VERSION_KEY))
   const done = listRead('pray40')
 
   if (failed) return <p className="text-sm text-slate-400">{t('pray40.unavailable', 'Czytanki są niedostępne.')}</p>
@@ -44,14 +59,11 @@ export function Pray40List({ limit }: { limit?: number }) {
 
   return (
     <div className="space-y-1.5">
-      <VersionToggle
-        value={version}
-        onChange={(v) => {
-          setVersion(v)
-          rememberVersion(VERSION_KEY, v)
-        }}
-        available={['short', 'long']}
-      />
+      {toggle && (
+        <div className="pb-1">
+          <Pray40VersionToggle />
+        </div>
+      )}
       {days.map((d) => (
         <Link
           key={d.day}
@@ -62,7 +74,9 @@ export function Pray40List({ limit }: { limit?: number }) {
           <span className="min-w-0 flex-1">
             <span className="block truncate font-medium leading-snug">{d.title}</span>
             <span className="block truncate text-xs text-slate-500">
-              {[d.dateLabel, d.ref].filter(Boolean).join(' · ')}
+              {d.dateLabel && <span className="font-semibold text-slate-700">{d.dateLabel}</span>}
+              {d.dateLabel && d.ref ? ' · ' : ''}
+              {d.ref}
             </span>
           </span>
           {done.has(String(d.day)) && (
@@ -88,7 +102,7 @@ export function Pray40() {
     <div>
       <h1 className="mb-1 text-2xl font-bold text-slate-100">{t('pray40.title', '40 dni modlitwy')}</h1>
       <p className="mb-5 text-sm text-slate-400">{data?.series || '#JestNadzieja'}</p>
-      <Pray40List />
+      <Pray40List toggle />
     </div>
   )
 }
@@ -124,9 +138,9 @@ export function Pray40DayPage() {
     return (
       <div>
         <p className="text-slate-400">{t('pray40.missing', 'Nie ma czytanki na ten dzień.')}</p>
-        <Link to={backTo} className="mt-3 inline-block text-brand-light hover:underline">
+        <BackLink to={backTo} className="mt-3">
           {t('pray40.backToList', 'Wróć do spisu dni')}
-        </Link>
+        </BackLink>
       </div>
     )
   if (!entry) return <p className="text-slate-400">{t('common.loading', '…')}</p>
@@ -137,9 +151,7 @@ export function Pray40DayPage() {
 
   return (
     <article>
-      <Link to={backTo} className="no-print text-sm text-slate-400 hover:text-brand-light">
-        ‹ {t('pray40.backToList', 'Wróć do spisu dni')}
-      </Link>
+      <BackLink to={backTo}>{t('pray40.backToList', 'Wróć do spisu dni')}</BackLink>
 
       <header className="mb-4 mt-2">
         <p className="text-xs font-semibold uppercase tracking-wide text-violet-300">
@@ -205,6 +217,10 @@ export function Pray40DayPage() {
           <span />
         )}
       </nav>
+
+      <div className="no-print mt-6 flex justify-center">
+        <BackLink to={backTo}>{t('pray40.backToList', 'Wróć do spisu dni')}</BackLink>
+      </div>
 
       {entry.note && <p className="mt-8 text-xs text-slate-500">{entry.note}</p>}
     </article>

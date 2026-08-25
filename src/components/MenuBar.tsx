@@ -34,7 +34,7 @@ interface Common {
   className?: string
 }
 
-function Face({ icon, title, logo, desc, badge, chip, open, expandable }: Common & { chip: string; open?: boolean; expandable?: boolean }) {
+function Face({ icon, title, logo, desc, badge, chip, open, expandable, hideChevron }: Common & { chip: string; open?: boolean; expandable?: boolean; hideChevron?: boolean }) {
   return (
     <div className="flex w-full items-center gap-3 text-left">
       {icon && <span className="text-2xl leading-none" aria-hidden>{icon}</span>}
@@ -51,12 +51,14 @@ function Face({ icon, title, logo, desc, badge, chip, open, expandable }: Common
         </div>
         {desc && <div className="mt-0.5 text-sm text-slate-300">{desc}</div>}
       </div>
-      <span
-        className={`shrink-0 text-slate-400 transition-transform ${expandable && open ? 'rotate-90' : ''}`}
-        aria-hidden
-      >
-        ›
-      </span>
+      {!hideChevron && (
+        <span
+          className={`shrink-0 text-slate-400 transition-transform ${expandable && open ? 'rotate-90' : ''}`}
+          aria-hidden
+        >
+          ›
+        </span>
+      )}
     </div>
   )
 }
@@ -122,17 +124,32 @@ export function MenuBar({
   href,
   id,
   defaultOpen = false,
+  action,
   children,
 }: Common & {
   to?: string
   href?: string
   id?: string
   defaultOpen?: boolean
+  /** sterowanie po prawej stronie belki (np. wybor wersji tekstu) */
+  action?: ReactNode
   children?: ReactNode
 }) {
   const a = ACCENT[accent]
   const [open, setOpen] = useRemembered(id, defaultOpen)
-  const face = <Face icon={icon} title={title} logo={logo} desc={desc} badge={badge} chip={a.chip} open={open} expandable={!!children} />
+  const face = (
+    <Face
+      icon={icon}
+      title={title}
+      logo={logo}
+      desc={desc}
+      badge={badge}
+      chip={a.chip}
+      open={open}
+      expandable={!!children}
+      hideChevron={!!action}
+    />
+  )
   const shell = `block rounded-2xl border p-4 transition ${a.panel} ${a.hover} ${className}`
 
   if (to) return <Link to={to} className={shell}>{face}</Link>
@@ -147,15 +164,34 @@ export function MenuBar({
   const panelId = `bar-${id || title.replace(/\W+/g, '-').toLowerCase()}`
   return (
     <div className={`rounded-2xl border transition ${a.panel} ${className}`}>
-      <button
-        type="button"
-        onClick={() => setOpen((v) => !v)}
-        aria-expanded={open}
-        aria-controls={panelId}
-        className="w-full rounded-2xl p-4 text-left"
-      >
-        {face}
-      </button>
+      {/* Sterowanie stoi obok naglowka, a nie w nim - przycisk w przycisku
+          to nieprawidlowy HTML, a klikniecie wyboru wersji nie ma rozwijac belki. */}
+      <div className="flex items-center">
+        <button
+          type="button"
+          onClick={() => setOpen((v) => !v)}
+          aria-expanded={open}
+          aria-controls={panelId}
+          className="min-w-0 flex-1 rounded-2xl p-4 text-left"
+        >
+          {face}
+        </button>
+        {action && (
+          <div className="flex shrink-0 items-center gap-2 pr-4">
+            {action}
+            <button
+              type="button"
+              onClick={() => setOpen((v) => !v)}
+              aria-expanded={open}
+              aria-controls={panelId}
+              aria-label={title}
+              className={`text-slate-400 transition-transform ${open ? 'rotate-90' : ''}`}
+            >
+              ›
+            </button>
+          </div>
+        )}
+      </div>
       {open && (
         <div id={panelId} className="border-t border-white/10 p-4 pt-3">
           {children}

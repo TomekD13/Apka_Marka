@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useNavigate, useParams, useSearchParams } from 'react-router-dom'
 import { useI18n } from '../i18n'
+import { BackLink } from '../components/BackLink'
 import { deleteNote, exportNotes, getNote, importNotes, listNotes, saveNote } from '../lib/notes'
 import type { BibleNote } from '../types'
 
@@ -188,17 +189,15 @@ export function NoteEdit() {
     return (
       <div>
         <p className="text-slate-300">{error}</p>
-        <Link to={`/${lang}/notatki`} className="mt-3 inline-block text-brand-light hover:underline">
+        <BackLink to={`/${lang}/notatki`} className="mt-3">
           {t('notes.backToList', 'Wróć do notatek')}
-        </Link>
+        </BackLink>
       </div>
     )
 
   return (
     <form onSubmit={submit}>
-      <Link to={`/${lang}/notatki`} className="no-print text-sm text-slate-400 hover:text-brand-light">
-        ‹ {t('notes.backToList', 'Wróć do notatek')}
-      </Link>
+      <BackLink to={`/${lang}/notatki`}>{t('notes.backToList', 'Wróć do notatek')}</BackLink>
 
       <h1 className="mb-4 mt-2 text-2xl font-bold text-slate-100">
         {isNew ? t('notes.new', 'Nowa notatka') : t('notes.edit', 'Edytuj notatkę')}

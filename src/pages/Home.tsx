@@ -9,8 +9,8 @@ import { MenuBar, type Accent } from '../components/MenuBar'
 import { SabbathSchoolBar } from '../components/SabbathSchoolBar'
 import { SongFinder } from './Songs'
 import { PrayerJournal } from '../components/PrayerJournal'
-import { Pray40List } from './Pray40'
-import { EduList } from './Edu'
+import { Pray40List, Pray40VersionToggle } from './Pray40'
+import { EduList, EduVersionToggle } from './Edu'
 import { NotesList } from './Notes'
 import { BibleFinder } from '../components/BibleFinder'
 import type { IndexFile } from '../types'
@@ -128,6 +128,7 @@ export function Home() {
               title={t('home.bars.pray40', '40 dni modlitwy')}
               desc={t('pray40.desc', '40 biblijnych historii nadziei – w wersji krótkiej i pełnej.')}
               accent="hope"
+              action={<Pray40VersionToggle />}
             >
               <Pray40List limit={8} />
             </MenuBar>
@@ -136,6 +137,7 @@ export function Home() {
               title={t('home.bars.edu', 'Materiały edukacyjne')}
               desc={t('edu.desc', 'Krótkie szkolenia o człowieku i wierze – w wersji krótkiej i pełnej.')}
               accent="hope"
+              action={<EduVersionToggle />}
             >
               <EduList limit={8} />
             </MenuBar>

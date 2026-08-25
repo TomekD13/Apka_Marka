@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
 import { useI18n } from '../i18n'
+import { BackLink } from '../components/BackLink'
 import { loadSongs } from '../content'
 import { useSetPlace } from '../place'
 import { isFavorite, listFavorites, toggleFavorite } from '../lib/favorites'
@@ -500,9 +501,7 @@ export function SongPage({ collection = 'hymnal' }: { collection?: SongCollectio
 
   return (
     <article>
-      <Link to={backTo} className="no-print text-sm text-slate-400 hover:text-brand-light">
-        ‹ {backLabel}
-      </Link>
+      <BackLink to={backTo}>{backLabel}</BackLink>
       <header className="mb-4 mt-2 flex items-start gap-2">
         <div className="min-w-0 flex-1">
           <h1 className="text-2xl font-bold text-slate-100">

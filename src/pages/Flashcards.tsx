@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useI18n } from '../i18n'
+import { BackButton } from '../components/BackLink'
 import { loadFlashcards, loadBible } from '../content'
 import type { Bible, FlashCard, Flashcards as FCData } from '../types'
 
@@ -181,7 +182,9 @@ export function Flashcards() {
     return (
       <div>
         <div className="mb-3 flex items-center justify-between text-sm text-slate-300">
-          <button onClick={() => setMode('select')} className="hover:text-brand-light">← {t('flashcards.backToThemes', 'Wróć do wyboru')}</button>
+          <BackButton onClick={() => setMode('select')}>
+            {t('flashcards.backToThemes', 'Wróć do wyboru')}
+          </BackButton>
           <span>{t('flashcards.toLearn', 'Do nauczenia')}: {toLearn} · {t('flashcards.learned', 'Nauczone')}: {learned}</span>
         </div>
         <div
