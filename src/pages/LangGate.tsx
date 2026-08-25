@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, Navigate } from 'react-router-dom'
 import { loadLangs } from '../content'
 import type { LangMeta } from '../types'
 
@@ -8,6 +8,10 @@ export function LangGate() {
   useEffect(() => {
     loadLangs().then((l) => setLangs(l.languages)).catch(() => setLangs([]))
   }, [])
+
+  // Przy jednym wlaczonym jezyku ekran wyboru jest jednym zbednym klikiem -
+  // wchodzimy prosto do aplikacji. Wroci sam, gdy dojdzie drugi jezyk.
+  if (langs.length === 1) return <Navigate to={`/${langs[0].code}`} replace />
 
   return (
     <div className="relative min-h-screen w-full overflow-hidden">
