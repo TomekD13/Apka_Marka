@@ -9,20 +9,26 @@ import { saveNote } from '../lib/notes'
  */
 export function QuickNoteDialog({
   source,
+  initialBody = '',
   onClose,
   onSaved,
 }: {
   source?: { label: string; path: string }
+  /** tresc na start - notatka spod zaznaczonego wersetu wchodzi z cytatem */
+  initialBody?: string
   onClose: () => void
   onSaved?: () => void
 }) {
   const { t } = useI18n()
-  const [body, setBody] = useState('')
+  const [body, setBody] = useState(initialBody)
   const [error, setError] = useState('')
   const areaRef = useRef<HTMLTextAreaElement>(null)
 
   useEffect(() => {
-    areaRef.current?.focus()
+    const area = areaRef.current
+    area?.focus()
+    // kursor na koncu, zeby cytat zostal, a mysl dopisala sie pod nim
+    area?.setSelectionRange(area.value.length, area.value.length)
     const onKey = (e: KeyboardEvent) => {
       if (e.key === 'Escape') onClose()
       // Ctrl/Cmd+Enter zapisuje bez siegania do myszy

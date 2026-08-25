@@ -213,6 +213,8 @@ export interface BibleBookmark {
   ref: string
   /** tekst wersetu w chwili dodania - zeby lista czytala sie bez pobierania ksiegi */
   text: string
+  /** nazwa nadana przez czytelnika; przy zaznaczeniu kilku wersetow wspolna dla nich */
+  name?: string
   createdAt: string
 }
 

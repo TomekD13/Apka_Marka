@@ -61,6 +61,27 @@ function Face({ icon, title, logo, desc, badge, chip, open, expandable }: Common
   )
 }
 
+// Powrot do menu glownego ma pokazywac czysty ekran - wszystkie belki zwiniete
+// (decyzja autora 2026-08-25). Belki sa rozsiane po drzewie, wiec zamiast
+// przekazywac stan w dol, slucha kazda z osobna jednego zdarzenia.
+const COLLAPSE = 'zywe-slowo:bars-collapse'
+const BAR_PREFIX = 'zywe-slowo:bar:'
+
+/** Zwija wszystkie belki: czysci pamiec i budzi te, ktore sa na ekranie. */
+export function collapseAllBars(): void {
+  try {
+    const keys: string[] = []
+    for (let i = 0; i < sessionStorage.length; i += 1) {
+      const k = sessionStorage.key(i)
+      if (k && k.startsWith(BAR_PREFIX)) keys.push(k)
+    }
+    keys.forEach((k) => sessionStorage.removeItem(k))
+  } catch {
+    /* prywatne okno - stan i tak zyje tylko w pamieci */
+  }
+  window.dispatchEvent(new Event(COLLAPSE))
+}
+
 /** Zwiniecie/rozwiniecie przezywa powrot z czytnika, ale nie zostaje na stale. */
 function useRemembered(id: string | undefined, initial: boolean) {
   const key = id ? `zywe-slowo:bar:${id}` : null
@@ -81,6 +102,11 @@ function useRemembered(id: string | undefined, initial: boolean) {
       /* prywatne okno - trudno, stan zyje tylko w pamieci */
     }
   }, [key, open])
+  useEffect(() => {
+    const onCollapse = () => setOpen(false)
+    window.addEventListener(COLLAPSE, onCollapse)
+    return () => window.removeEventListener(COLLAPSE, onCollapse)
+  }, [])
   return [open, setOpen] as const
 }
 

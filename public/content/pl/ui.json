@@ -6,7 +6,9 @@
     "topics": "Menu główne",
     "about": "O aplikacji",
     "back": "Wstecz",
-    "search": "Szukaj"
+    "search": "Szukaj",
+    "account": "Konto",
+    "signIn": "Zaloguj"
   },
   "home": {
     "projectTitle": "Żywe Słowo",
@@ -22,9 +24,9 @@
     "topic": "Różne tematy biblijne",
     "searchPlaceholder": "Szukaj: temat, słowo",
     "language": "Język",
-    "downloadOffline": "Pobierz do trybu offline",
-    "downloading": "Pobieranie…",
-    "offlineReady": "Dostępne offline",
+    "downloadOffline": "Offline",
+    "downloading": "Pobieram…",
+    "offlineReady": "Offline gotowe",
     "bars": {
       "studies": "Poznaj Boga i Biblię",
       "studiesDesc": "Studia biblijne w pięciu seriach – od pierwszego spotkania z Bogiem po proroctwa czasu końca.",
@@ -70,10 +72,10 @@
   },
   "about": {
     "title": "O aplikacji",
-    "body": "Zanim zacząłeś szukać Boga, On już wyszedł Ci naprzeciw. Odkryj to w Żywym Słowie - prowadzonym krok po kroku, jako droga do domu Ojca, którą przejdziesz w swoim tempie.\n\nBez kont, bez logowania, bez śledzenia. Działa offline po pobraniu modułu językowego.",
+    "body": "Cały tekst Pisma, studia biblijne, śpiewniki i czytanki – w jednym miejscu.\n\nNic nie trzeba zakładać ani wypełniać: otwierasz i czytasz w swoim tempie, a po pobraniu modułu także bez internetu.",
     "publisher": "Autor: Marek Micyk",
     "publisherUrl": "https://www.facebook.com/pastormarek",
-    "privacy": "Aplikacja nie zbiera danych o użytkowniku."
+    "privacy": "Notatki, zakładki i dziennik modlitw zostają w twojej przeglądarce. Bez śledzenia i bez reklam."
   },
   "contact": {
     "title": "Kontakt",
@@ -339,8 +341,13 @@
     "compareOff": "Czytaj jeden przekład",
     "splitVertical": "obok siebie",
     "splitHorizontal": "jeden pod drugim",
-    "otherTranslations": "Inne przekłady",
-    "noOther": "Nie ma na tym urządzeniu innego przekładu tego wersetu."
+    "noOther": "Nie ma na tym urządzeniu innego przekładu tego wersetu.",
+    "note": "Notatka",
+    "compareVerse": "Porównaj",
+    "compareOne": "Porównanie działa przy jednym zaznaczonym wersecie.",
+    "versesPicked": "wersety",
+    "bookmarkName": "Nazwa zakładki",
+    "bookmarkRename": "Nazwij zakładkę"
   },
   "edu": {
     "title": "Materiały edukacyjne",
@@ -354,5 +361,14 @@
     "next": "Następny materiał",
     "missing": "Nie ma takiego materiału.",
     "unavailable": "Materiały są niedostępne."
+  },
+  "account": {
+    "title": "Twoje konto",
+    "lead": "Konto jest po to, żeby twoje notatki, dziennik modlitw, ulubione pieśni i zakładki były na każdym twoim urządzeniu. Bez konta aplikacja działa tak samo – wszystko zostaje w tej przeglądarce.",
+    "soon": "Logowanie nie jest jeszcze podłączone.",
+    "soonBody": "Wejdzie logowanie linkiem na e-mail albo kontem Google – bez haseł. Adres służy wyłącznie do logowania: nie ma list wysyłkowych ani śledzenia.",
+    "backup": "Do czasu logowania kopię swoich rzeczy zrobisz sam:",
+    "notes": "Moje notatki",
+    "prayers": "Dziennik modlitw"
   }
 }

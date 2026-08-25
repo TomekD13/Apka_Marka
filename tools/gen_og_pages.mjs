@@ -13,7 +13,7 @@ const DIST = resolve('dist')
 // Teksty podgladu per jezyk (title = pogrubiona linia, desc = szara linia).
 const L = {
   en: { title: "Study Bible - Know God's heart", desc: 'A free Bible study course in 8 languages. Read online or offline.', site: 'Study Bible', locale: 'en_US' },
-  pl: { title: 'Studiuj Biblię - poznaj serce Boga', desc: 'Darmowy kurs studium Biblii. Czytaj online lub offline.', site: 'Studium Biblii', locale: 'pl_PL' },
+  pl: { title: '#JestNadzieja', desc: 'Cały tekst Pisma, studia biblijne, śpiewniki i czytanki. Czytaj online albo offline.', site: '#JestNadzieja', locale: 'pl_PL' },
   es: { title: 'Estudia la Biblia - conoce el corazón de Dios', desc: 'Curso gratuito de estudio de la Biblia en 8 idiomas. En línea o sin conexión.', site: 'Estudia la Biblia', locale: 'es_ES' },
   pt: { title: 'Estude a Bíblia - conheça o coração de Deus', desc: 'Curso gratuito de estudo da Bíblia em 8 idiomas. Online ou offline.', site: 'Estude a Bíblia', locale: 'pt_BR' },
   de: { title: 'Die Bibel entdecken - Gottes Herz kennenlernen', desc: 'Kostenloser Bibelkurs in 8 Sprachen. Online oder offline lesen.', site: 'Bibel entdecken', locale: 'de_DE' },

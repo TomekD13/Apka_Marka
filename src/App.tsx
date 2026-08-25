@@ -17,6 +17,7 @@ import { Notes, NoteEdit } from './pages/Notes'
 import { Prayers } from './pages/Prayers'
 import { Pray40, Pray40DayPage } from './pages/Pray40'
 import { Edu, EduItemPage } from './pages/Edu'
+import { Account } from './pages/Account'
 import { BibleBookmarksPage, BibleChapterPage, BiblePage } from './pages/Bible'
 import { BibleSearchPage } from './pages/BibleSearch'
 import { BibleModulesPage } from './pages/BibleModules'
@@ -68,6 +69,7 @@ export const router = createBrowserRouter(
         { path: '40-dni/:day', element: <Pray40DayPage /> },
         { path: 'edukacja', element: <Edu /> },
         { path: 'edukacja/:nr', element: <EduItemPage /> },
+        { path: 'konto', element: <Account /> },
         { path: 'notatki', element: <Notes /> },
         { path: 'notatki/:id', element: <NoteEdit /> }
       ]

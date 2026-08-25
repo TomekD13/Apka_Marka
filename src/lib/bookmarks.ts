@@ -39,6 +39,29 @@ export function toggleBookmark(input: Omit<BibleBookmark, 'id' | 'createdAt'>): 
   return write(next) ? true : false
 }
 
+/** Zakladki dla kilku wersetow naraz - wspolna nazwa opisuje caly wybor. */
+export function addBookmarks(list: Omit<BibleBookmark, 'id' | 'createdAt'>[]): boolean {
+  const items = read()
+  const now = new Date().toISOString()
+  for (const input of list) {
+    if (items.some((b) => sameVerse(b, input.osis, input.chapter, input.verse))) continue
+    items.unshift({ ...input, id: newId(), createdAt: now })
+  }
+  return write(items)
+}
+
+/** Zdejmuje zakladki ze wskazanych wersetow jednego rozdzialu. */
+export function removeBookmarksAt(osis: string, chapter: number, verses: number[]): boolean {
+  const set = new Set(verses)
+  return write(read().filter((b) => !(b.osis === osis && b.chapter === chapter && set.has(b.verse))))
+}
+
+/** Nazwa zakladki - pusta wraca do samego odnosnika. */
+export function renameBookmark(id: string, name: string): boolean {
+  const clean = name.trim()
+  return write(read().map((b) => (b.id === id ? { ...b, name: clean || undefined } : b)))
+}
+
 export function removeBookmark(id: string): boolean {
   return write(read().filter((b) => b.id !== id))
 }

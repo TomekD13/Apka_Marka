@@ -4,8 +4,7 @@ import { useI18n } from '../i18n'
 import { useSetPlace } from '../place'
 import { BiblePicker } from '../components/BiblePicker'
 import { VerseText } from '../components/VerseText'
-import { VerseCompare } from '../components/VerseCompare'
-import { shareContent } from '../lib/share'
+import { VerseActionBar } from '../components/VerseActionBar'
 import {
   formatRef,
   getBibleSplit,
@@ -25,8 +24,8 @@ import {
   getLastRead,
   listBookmarks,
   removeBookmark,
+  renameBookmark,
   saveLastRead,
-  toggleBookmark,
 } from '../lib/bookmarks'
 import type { BibleIndex } from '../types'
 
@@ -157,83 +156,6 @@ export function BiblePage() {
   )
 }
 
-/** Pasek akcji dla zaznaczonego wersetu. */
-function VerseActions({
-  refLabel,
-  text,
-  bookmarked,
-  onBookmark,
-  onClose,
-  osis,
-  chapter,
-  verse,
-  skip,
-}: {
-  refLabel: string
-  text: string
-  bookmarked: boolean
-  onBookmark: () => void
-  onClose: () => void
-  osis: string
-  chapter: number
-  verse: number
-  skip: string[]
-}) {
-  const { t } = useI18n()
-  const [toast, setToast] = useState('')
-  const [others, setOthers] = useState(false)
-
-  async function share() {
-    const r = await shareContent({ title: refLabel, text: `„${text}” (${refLabel})` })
-    setToast(
-      r === 'shared'
-        ? ''
-        : r === 'copied'
-          ? t('share.copied', 'Skopiowano')
-          : t('share.failed', 'Nie udało się')
-    )
-  }
-
-  return (
-    <div className="no-print mt-2 flex flex-wrap items-center gap-2 rounded-lg border border-slate-200 bg-slate-100 px-2 py-1.5 text-sm">
-      <span className="font-medium text-brand">{refLabel}</span>
-      <button
-        type="button"
-        onClick={onBookmark}
-        className={`rounded px-2 py-1 ${bookmarked ? 'text-amber-600' : 'text-slate-600 hover:text-amber-600'}`}
-      >
-        {bookmarked ? '★ ' : '☆ '}
-        {bookmarked ? t('bible.bookmarkOff', 'Usuń zakładkę') : t('bible.bookmarkOn', 'Zakładka')}
-      </button>
-      <button type="button" onClick={share} className="rounded px-2 py-1 text-slate-600 hover:text-brand">
-        {t('bible.copy', 'Kopiuj / wyślij')}
-      </button>
-      <button
-        type="button"
-        onClick={() => setOthers((v) => !v)}
-        aria-expanded={others}
-        className={`rounded px-2 py-1 ${others ? 'text-brand' : 'text-slate-600 hover:text-brand'}`}
-      >
-        {t('bible.otherTranslations', 'Inne przekłady')}
-      </button>
-      {toast && <span className="text-xs text-slate-500">{toast}</span>}
-      <button
-        type="button"
-        onClick={onClose}
-        aria-label={t('common.close', 'Zamknij')}
-        className="ml-auto rounded px-2 py-1 text-slate-400 hover:text-slate-600"
-      >
-        ✕
-      </button>
-      {others && (
-        <div className="w-full border-t border-slate-300 pt-1.5">
-          <VerseCompare osis={osis} chapter={chapter} verse={verse} skip={skip} />
-        </div>
-      )}
-    </div>
-  )
-}
-
 /** Czytnik rozdzialu. */
 export function BibleChapterPage() {
   const { lang, t } = useI18n()
@@ -243,7 +165,8 @@ export function BibleChapterPage() {
   const { code, index, failed, choose } = useBibleIndex()
   const [chapters, setChapters] = useState<string[][] | null>(null)
   const [missing, setMissing] = useState(false)
-  const [active, setActive] = useState<number | null>(null)
+  // zaznaczonych moze byc kilka - kopiowanie i notatka biora caly wybor
+  const [selected, setSelected] = useState<number[]>([])
   const [marks, setMarks] = useState<Set<number>>(new Set())
   const [pickerOpen, setPickerOpen] = useState(false)
   // drugi przeklad czytany rownolegle - pusty kod znaczy: czytamy jeden
@@ -310,7 +233,7 @@ export function BibleChapterPage() {
       setMarks(bookmarkedVerses(meta.osis, ch))
       saveLastRead({ translation: code, osis: meta.osis, chapter: ch, ref: refLabel })
     }
-    setActive(null)
+    setSelected([])
   }, [meta, ch, code, refLabel])
 
   // wejscie z odnosnikiem („?w=16") - przewijamy do wersetu, gdy tekst juz jest
@@ -318,7 +241,7 @@ export function BibleChapterPage() {
     if (!wanted || !chapters) return
     const el = bodyRef.current?.querySelector(`[data-verse="${wanted}"]`)
     el?.scrollIntoView({ block: 'center' })
-    setActive(wanted)
+    setSelected([wanted])
   }, [wanted, chapters])
 
   if (failed) return <p className="text-slate-400">{t('bible.unavailable', 'Tekst Biblii jest niedostępny.')}</p>
@@ -351,32 +274,21 @@ export function BibleChapterPage() {
   }
 
   function onVerseClick(n: number) {
-    setActive((cur) => (cur === n ? null : n))
+    setSelected((cur) =>
+      cur.includes(n) ? cur.filter((x) => x !== n) : [...cur, n].sort((a, b) => a - b)
+    )
     if (wanted) {
       params.delete('w')
       setParams(params, { replace: true })
     }
   }
 
-  function onToggleBookmark(n: number) {
-    const on = toggleBookmark({
-      translation: code,
-      osis: meta!.osis,
-      chapter: ch,
-      verse: n,
-      ref: formatRef(meta!, ch, n),
-      text: stripTags(verses[n - 1] || ''),
-    })
-    setMarks((prev) => {
-      const next = new Set(prev)
-      if (on) next.add(n)
-      else next.delete(n)
-      return next
-    })
+  function refreshMarks() {
+    if (meta) setMarks(bookmarkedVerses(meta.osis, ch))
   }
 
   return (
-    <article>
+    <article className={selected.length ? 'pb-40' : ''}>
       <div className="no-print flex flex-wrap items-center gap-2">
         <button
           type="button"
@@ -514,13 +426,13 @@ export function BibleChapterPage() {
           verses.map((text, i) => {
             const n = i + 1
             if (!text) return null
-            const isActive = active === n
+            const picked = selected.includes(n)
             return (
               <div key={n} data-verse={n}>
                 <p
                   onClick={() => onVerseClick(n)}
                   className={`cursor-pointer rounded px-1 py-0.5 transition ${
-                    isActive ? 'bg-amber-100' : 'hover:bg-slate-50'
+                    picked ? 'bg-amber-100 ring-1 ring-amber-300' : 'hover:bg-slate-50'
                   }`}
                 >
                   <span className="mr-1.5 align-super text-xs font-semibold tabular-nums text-brand">
@@ -533,19 +445,6 @@ export function BibleChapterPage() {
                   )}
                   <VerseText text={text} />
                 </p>
-                {isActive && (
-                  <VerseActions
-                    refLabel={formatRef(meta, ch, n)}
-                    text={stripTags(text)}
-                    bookmarked={marks.has(n)}
-                    onBookmark={() => onToggleBookmark(n)}
-                    onClose={() => setActive(null)}
-                    osis={meta.osis}
-                    chapter={ch}
-                    verse={n}
-                    skip={skip}
-                  />
-                )}
               </div>
             )
           })
@@ -594,6 +493,22 @@ export function BibleChapterPage() {
       </div>
 
       <p className="mt-4 text-xs text-slate-500">{index.license}</p>
+    
+      {selected.length > 0 && (
+        <VerseActionBar
+          osis={meta.osis}
+          chapter={ch}
+          translation={code}
+          selected={selected}
+          refFor={(n) => formatRef(meta, ch, n)}
+          textFor={(n) => stripTags(verses[n - 1] || '')}
+          bookmarked={marks}
+          onBookmarksChanged={refreshMarks}
+          onClose={() => setSelected([])}
+          skip={skip}
+          backPath={`/${lang}/${BIBLE_PATH}/${meta.osis}/${ch}`}
+        />
+      )}
     </article>
   )
 }
@@ -602,7 +517,16 @@ export function BibleChapterPage() {
 export function BibleBookmarksPage() {
   const { lang, t } = useI18n()
   const [items, setItems] = useState(() => listBookmarks())
+  // nazwa zakladki - poprawia sie w miejscu, bez osobnego ekranu
+  const [editing, setEditing] = useState<string | null>(null)
+  const [draft, setDraft] = useState('')
   useSetPlace(t('bible.bookmarks', 'Zakładki'))
+
+  function saveName(id: string) {
+    renameBookmark(id, draft)
+    setEditing(null)
+    setItems(listBookmarks())
+  }
 
   return (
     <div>
@@ -619,27 +543,71 @@ export function BibleBookmarksPage() {
         <ul className="mt-4 space-y-2">
           {items.map((b) => (
             <li key={b.id} className="rounded-lg border border-slate-200 bg-white p-3 text-slate-800">
-              <div className="flex items-start gap-2">
-                <Link
-                  to={`/${lang}/${BIBLE_PATH}/${b.osis}/${b.chapter}?w=${b.verse}`}
-                  className="min-w-0 flex-1"
-                >
-                  <span className="font-semibold text-brand">{b.ref}</span>
-                  <span className="ml-2 text-xs text-slate-500">{b.translation}</span>
-                  <p className="mt-0.5 text-sm">{b.text}</p>
-                </Link>
-                <button
-                  type="button"
-                  onClick={() => {
-                    removeBookmark(b.id)
-                    setItems(listBookmarks())
-                  }}
-                  aria-label={t('bible.bookmarkOff', 'Usuń zakładkę')}
-                  className="shrink-0 rounded px-2 py-1 text-slate-400 hover:text-rose-600"
-                >
-                  ✕
-                </button>
-              </div>
+              {editing === b.id ? (
+                <div className="flex flex-wrap items-center gap-2">
+                  <input
+                    autoFocus
+                    value={draft}
+                    onChange={(e) => setDraft(e.target.value)}
+                    onKeyDown={(e) => {
+                      if (e.key === 'Enter') saveName(b.id)
+                      if (e.key === 'Escape') setEditing(null)
+                    }}
+                    placeholder={t('bible.bookmarkName', 'Nazwa zakładki')}
+                    aria-label={t('bible.bookmarkName', 'Nazwa zakładki')}
+                    className="min-w-0 flex-1 rounded-lg border border-slate-300 px-3 py-1.5 text-sm outline-none focus:border-brand"
+                  />
+                  <button
+                    type="button"
+                    onClick={() => saveName(b.id)}
+                    className="rounded-lg bg-brand px-3 py-1.5 text-sm font-semibold text-white hover:bg-brand-light"
+                  >
+                    {t('notes.save', 'Zapisz')}
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => setEditing(null)}
+                    className="rounded-lg border border-slate-300 px-3 py-1.5 text-sm text-slate-600"
+                  >
+                    {t('notes.cancel', 'Anuluj')}
+                  </button>
+                </div>
+              ) : (
+                <div className="flex items-start gap-2">
+                  <Link
+                    to={`/${lang}/${BIBLE_PATH}/${b.osis}/${b.chapter}?w=${b.verse}`}
+                    className="min-w-0 flex-1"
+                  >
+                    {b.name && <p className="font-semibold text-slate-900">{b.name}</p>}
+                    <span className="font-semibold text-brand">{b.ref}</span>
+                    <span className="ml-2 text-xs text-slate-500">{b.translation}</span>
+                    <p className="mt-0.5 text-sm">{b.text}</p>
+                  </Link>
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setDraft(b.name || b.ref)
+                      setEditing(b.id)
+                    }}
+                    aria-label={t('bible.bookmarkRename', 'Nazwij zakładkę')}
+                    title={t('bible.bookmarkRename', 'Nazwij zakładkę')}
+                    className="shrink-0 rounded px-2 py-1 text-slate-400 hover:text-brand"
+                  >
+                    ✎
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => {
+                      removeBookmark(b.id)
+                      setItems(listBookmarks())
+                    }}
+                    aria-label={t('bible.bookmarkOff', 'Usuń zakładkę')}
+                    className="shrink-0 rounded px-2 py-1 text-slate-400 hover:text-rose-600"
+                  >
+                    ✕
+                  </button>
+                </div>
+              )}
             </li>
           ))}
         </ul>

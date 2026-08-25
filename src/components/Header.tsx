@@ -2,6 +2,7 @@ import { useEffect, useRef, useState, type FormEvent } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { useI18n } from '../i18n'
 import { downloadModule, loadLangs } from '../content'
+import { collapseAllBars } from './MenuBar'
 import type { LangMeta } from '../types'
 
 export function Header() {
@@ -51,6 +52,7 @@ export function Header() {
       <div className="max-w-3xl mx-auto px-4 py-3 flex items-center gap-2 sm:gap-3">
         <Link
           to={`/${lang}`}
+          onClick={collapseAllBars}
           className="shrink-0 inline-flex items-center justify-center min-w-[9.1rem] sm:min-w-[10.5rem] rounded-lg bg-brand text-white px-3 sm:px-4 py-2 text-sm font-bold shadow-sm hover:bg-brand-light"
         >
           {t('nav.topics', 'Lista tematów')}
@@ -103,6 +105,17 @@ export function Header() {
             <span aria-hidden>{dl === 'done' ? '✓' : '↓'}</span>
             <span className="hidden sm:inline">{dlLabel}</span>
           </button>
+          <Link
+            to={`/${lang}/konto`}
+            title={t('nav.signIn', 'Zaloguj')}
+            aria-label={t('nav.signIn', 'Zaloguj')}
+            className="inline-flex items-center justify-center h-8 w-8 sm:h-9 sm:w-auto sm:gap-1 rounded-md border border-slate-300 dark:border-slate-600 sm:border-brand px-0 sm:px-2.5 text-xs text-slate-500 sm:text-brand-light hover:bg-brand/10"
+          >
+            <svg viewBox="0 0 20 20" fill="currentColor" className="h-4 w-4" aria-hidden>
+              <path d="M10 10a3.5 3.5 0 100-7 3.5 3.5 0 000 7zM3.5 17a6.5 6.5 0 1113 0 .75.75 0 01-.75.75H4.25A.75.75 0 013.5 17z" />
+            </svg>
+            <span className="hidden sm:inline">{t('nav.signIn', 'Zaloguj')}</span>
+          </Link>
           <div className="relative" ref={langRef}>
             <button
               type="button"
