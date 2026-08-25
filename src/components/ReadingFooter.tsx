@@ -72,11 +72,17 @@ export function ReadingFooter({
     open(`https://wa.me/?text=${encodeURIComponent(`${text}\n${link}`)}`)
   }
 
+  // Messenger otwiera sie tylko przez okno Facebooka, a ono wymaga wlasnego
+  // identyfikatora aplikacji. Bez niego przycisku nie pokazujemy: odnosnik
+  // `fb-messenger://` milczy na komputerze, czyli wyglada jak zepsuty przycisk.
+  // Identyfikator wpisuje sie w `ui.json`, klucz `reading.fbAppId`.
+  const fbAppId = t('reading.fbAppId', '')
+
   function messenger(link: string) {
-    // Bez wlasnego identyfikatora aplikacji Facebooka zostaje odnosnik, ktory
-    // przejmuje Messenger na telefonie. Na komputerze nie zadziala - stad
-    // systemowe „Udostępnij" obok.
-    open(`fb-messenger://share/?link=${encodeURIComponent(link)}`)
+    open(
+      `https://www.facebook.com/dialog/send?app_id=${encodeURIComponent(fbAppId)}` +
+        `&link=${encodeURIComponent(link)}&redirect_uri=${encodeURIComponent(link)}`
+    )
   }
 
   async function share(text: string, link: string) {
@@ -169,15 +175,17 @@ export function ReadingFooter({
             {t('reading.full', 'Czytaj pełną wersję')}
           </button>
         )}
-        <button type="button" onClick={() => whatsapp(`${shareTitle}\n${shareText}`, url)} className={btn}>
-          {t('reading.whatsapp', 'WhatsApp')}
-        </button>
-        <button type="button" onClick={() => messenger(url)} className={btn}>
-          {t('reading.messenger', 'Messenger')}
-        </button>
         <button type="button" onClick={() => share(shareText, url)} className={btn}>
           {t('reading.share', 'Udostępnij')}
         </button>
+        <button type="button" onClick={() => whatsapp(`${shareTitle}\n${shareText}`, url)} className={btn}>
+          {t('reading.whatsapp', 'WhatsApp')}
+        </button>
+        {fbAppId && (
+          <button type="button" onClick={() => messenger(url)} className={btn}>
+            {t('reading.messenger', 'Messenger')}
+          </button>
+        )}
       </div>
 
       <div className="mt-3 flex flex-wrap items-center justify-center gap-2">

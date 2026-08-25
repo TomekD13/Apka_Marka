@@ -351,14 +351,18 @@ Ten sam mechanizm obsługuje formularz kontaktu (`components/ContactForm.tsx`):
 `ui.json` → `contact.postUrl`, wzorzec z miejscami `{wiadomosc}`, `{imie}` i `{email}`.
 - **pusty** (tak jest dziś) – wiadomość otwiera się w programie pocztowym (`mailto:`);
 - **adres z `/formResponse`** (Google Forms) – wysyłka w tle, czytelnik zostaje w aplikacji,
-  a odpowiedzi lądują w arkuszu. W formularzu włącz *Odpowiedzi → Otrzymuj powiadomienia
-  e-mail*, żeby każda wiadomość przychodziła też na skrzynkę;
+  a odpowiedzi lądują w arkuszu (bez powiadomień e-mail – decyzja autora: wiadomości
+  czyta się w arkuszu);
 - **inny adres** (Formspree, FormSubmit, własny punkt) – zwykły POST z polami
   `message`, `name`, `email`, `_subject`; wynik sprawdzamy po statusie odpowiedzi.
 
-**Messenger**: bez własnego identyfikatora aplikacji Facebooka działa tylko odnośnik
-`fb-messenger://`, czyli na telefonie. Na komputerze przycisk nic nie zrobi – stąd obok
-systemowe „Udostępnij".
+**Kolejność przycisków**: „Udostępnij" (systemowe okno) stoi pierwsze, dalej WhatsApp.
+
+**Messenger** wymaga własnego identyfikatora aplikacji Facebooka: okno wysyłki
+(`facebook.com/dialog/send`) bez `app_id` nie działa, a odnośnik `fb-messenger://` milczy
+na komputerze. Dlatego przycisk pokazuje się **tylko wtedy, gdy `ui.json` → `reading.fbAppId`
+jest wypełniony**; dziś jest pusty. Na telefonie Messenger i tak jest w systemowym oknie
+„Udostępnij".
 
 ## Materiały edukacyjne – skąd się bierze treść
 
