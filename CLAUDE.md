@@ -73,8 +73,16 @@ nigdy ludzi; dar proroctwa i EGW bez nacisku, fundamentem Biblia.
 
 ## Publikacja
 
-- Repozytorium: **`pastormarek/aplikacja`, prywatne** (decyzja autora 2026-08-25).
-- `deploy.sh` publikuje gotowy build na gałęzi `gh-pages`. **Uwaga:** GitHub Pages
-  z prywatnego repozytorium wymaga płatnego planu. Dopóki repo jest prywatne, publikuj
-  zawartość `dist/` na własnym serwerze (planowana subdomena w `adwent.pl`).
-- `VITE_BASE` musi pasować do adresu: `/aplikacja/` dla GitHub Pages, `/` dla własnej domeny.
+- Repozytorium: **`pastormarek/aplikacja`, publiczne** (decyzja autora 2026-08-25: podgląd
+  i możliwość przesłania linku dalej). Historia zaczyna się od jednego commitu – wcześniejsze
+  commity zawierały produkcyjne PDF-y śpiewnika i zostały nadpisane przed upublicznieniem.
+- **Źródła śpiewników nie wchodzą do repo.** `Spiewnik/*` i `SpiewnikiYouth/*` są w `.gitignore`
+  (wyjątek: `Spiewnik/_701-750.json`). Teksty pieśni są w `public/content` i to wystarcza;
+  produkcyjny plik wydawnictwa to co innego niż tekst w aplikacji.
+- Aplikacja stoi na **https://pastormarek.github.io/aplikacja/**. Publikuje `bash deploy.sh`
+  (build + wypchnięcie `dist/` na gałąź `gh-pages`). Pierwsze przebudowanie po stronie GitHuba
+  trwa kilka minut.
+- `VITE_BASE` musi pasować do adresu: `/aplikacja/` dla GitHub Pages, `/` dla własnej domeny
+  (planowana subdomena w `adwent.pl`).
+- **Przy jednym włączonym języku** `LangGate` przechodzi prosto do aplikacji, a nagłówki
+  Open Graph w `index.html` są po polsku. Gdy wrócą pozostałe języki, wróć tam po angielski.
