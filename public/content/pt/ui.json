@@ -1,0 +1,141 @@
+{
+  "appName": "Estudo Bíblico",
+  "tagline": "Leitor de estudos bíblicos",
+  "nav": {
+    "home": "Início",
+    "topics": "Lista de temas",
+    "about": "Sobre",
+    "back": "Voltar",
+    "search": "Buscar"
+  },
+  "home": {
+    "projectTitle": "Palavra Viva",
+    "projectTagline": "o caminho para a casa do Pai",
+    "todayTitle": "Para hoje",
+    "topicsCount": "temas",
+    "playVideo": "Reproduzir vídeo",
+    "categoriesTitle": "Categorias",
+    "basicTitle": "Ensinos bíblicos básicos",
+    "basic_systematic": "Estudo sistemático",
+    "basic_practical": "Estudo prático",
+    "series": "Séries de estudo",
+    "topic": "Temas bíblicos diversos",
+    "searchPlaceholder": "Buscar: tema, palavra",
+    "language": "Idioma",
+    "downloadOffline": "Baixar para uso offline",
+    "downloading": "Baixando…",
+    "offlineReady": "Disponível offline"
+  },
+  "reader": {
+    "levels": "Nível",
+    "base": "Simples",
+    "extended": "Mais",
+    "advanced": "Perito",
+    "application": "Resumo",
+    "challenge": "Desafio",
+    "print": "PDF",
+    "backToList": "Lista de temas",
+    "showVerse": "Mostrar texto",
+    "hideVerse": "Ocultar texto",
+    "minutes": "min",
+    "question": "Pergunta",
+    "original": "Forma original",
+    "noteTypes": {
+      "syntax": "Sintaxe",
+      "verb": "Verbo",
+      "background": "Contexto",
+      "textual": "Crítica textual",
+      "term": "Termo",
+      "variant": "Variante",
+      "worship": "Adoração",
+      "other": "Nota"
+    },
+    "share": "Compartilhar"
+  },
+  "search": {
+    "title": "Resultados da busca",
+    "noResults": "Nenhum resultado.",
+    "for": "para"
+  },
+  "category": {
+    "empty": "Não há estudos nesta categoria."
+  },
+  "about": {
+    "title": "Sobre",
+    "body": "Antes de você começar a buscar a Deus, Ele já tinha saído ao seu encontro. Descubra isso na Palavra viva - conduzido passo a passo, como um caminho para a casa do Pai que você percorrerá no seu próprio ritmo.\n\nSem contas, sem login, sem rastreamento. Funciona offline após baixar o módulo de idioma.",
+    "publisher": "Autor: Marek Micyk",
+    "privacy": "O aplicativo não coleta dados do usuário."
+  },
+  "contact": {
+    "title": "Contato",
+    "intro": "Tem uma pergunta ou quer conversar? Escreva para nós.",
+    "name": "Nome",
+    "email": "Seu e-mail (para resposta)",
+    "message": "Sua mensagem",
+    "human": "Sou uma pessoa",
+    "send": "Enviar mensagem",
+    "subject": "Contato - Palavra Viva",
+    "hint": "A mensagem abrirá no seu programa de e-mail.",
+    "who": "Quem somos?",
+    "whoUrl": "https://institucional.adventistas.org/"
+  },
+  "common": {
+    "loading": "Carregando…",
+    "placeholderBible": "O texto do versículo aparecerá ao conectar uma tradução.",
+    "copied": "Copiado para a área de transferência"
+  },
+  "flashcards": {
+    "title": "Memorize a Escritura",
+    "intro": "Aprenda de cor os 50 textos mais importantes da Bíblia. Escolha temas e pratique com cartões; os textos que não lembrar voltarão para revisão nos dias seguintes.",
+    "cta": "Memorize versículos da Bíblia",
+    "ctaDesc": "Os 50 textos mais importantes da Bíblia - cartões com revisão espaçada.",
+    "chooseThemes": "Escolha temas para aprender",
+    "all": "Todos / nenhum",
+    "selectAtLeastOne": "Selecione pelo menos um tema.",
+    "start": "Começar a aprender",
+    "direction": "Direção",
+    "dirR2T": "Referência → texto",
+    "dirT2R": "Texto → referência",
+    "flip": "Mostrar resposta",
+    "flipHint": "Toque para mostrar a resposta",
+    "g1": "Não sei",
+    "g2": "Fraco",
+    "g3": "Bem",
+    "g4": "Sei",
+    "today": "hoje",
+    "dayAbbr": "d",
+    "noRepeat": "sem revisão",
+    "remaining": "Restam",
+    "toLearn": "A aprender",
+    "learned": "Aprendidos",
+    "mastered": "Dominados",
+    "sessionDone": "Concluído por hoje!",
+    "sessionDoneDesc": "Você terminou todas as revisões previstas para hoje. Volte amanhã para fixar.",
+    "practiceAll": "Praticar todos",
+    "backToThemes": "Voltar aos temas",
+    "localOnly": "O seu progresso é guardado apenas neste dispositivo (no navegador), sem conta. Limpar os dados do navegador o apaga.",
+    "reset": "Limpar progresso",
+    "resetConfirm": "Limpar todo o progresso guardado?",
+    "resetDone": "Progresso limpo.",
+    "ankiR2T": "AnkiDroid: Referência → Texto",
+    "ankiT2R": "AnkiDroid: Texto → Referência",
+    "quizlet": "Prefere o Quizlet? Abra o conjunto",
+    "onlyPl": "Disponível por enquanto em polonês."
+  },
+  "occasions": {
+    "title": "Versículos para cada ocasião",
+    "intro": "Escolha uma ocasião e encontre passagens adequadas da Escritura. Você pode enviar cada uma a alguém querido.",
+    "cta": "Versículos para cada ocasião",
+    "ctaDesc": "Versículos para tristeza, alegria, medo, doença e muito mais - prontos para enviar.",
+    "share": "Compartilhar",
+    "onlyPl": "Disponível por enquanto em polonês."
+  },
+  "share": {
+    "title": "Compartilhar",
+    "hint": "Você pode acrescentar uma mensagem pessoal ou remover parte do texto antes de enviar.",
+    "includeLink": "Convidar para usar o aplicativo",
+    "cancel": "Cancelar",
+    "copy": "Copiar",
+    "send": "Enviar"
+  }
+}

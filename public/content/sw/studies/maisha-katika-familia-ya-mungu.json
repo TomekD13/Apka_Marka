@@ -1,0 +1,496 @@
+{
+  "id": "maisha-katika-familia-ya-mungu",
+  "lang": "sw",
+  "title": "Maisha katika familia ya Mungu",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 13,
+  "summary": "Kanisa si jengo, bali ni familia na mwili wa Kristo - mahali pa ushirika, msaada na ukuaji. Tunajifunza maana ya kuwa mali ya kanisa, umoja unaodhihirishwa kwa utii kwa Kristo-Kichwa, pamoja na Meza ya Bwana kama ukumbusho wa dhabihu, ikiwa na ibada ya unyenyekevu. Safu za ziada: kutambua mapenzi ya Mungu pamoja na Meza ya Bwana kama ukumbusho ikilinganishwa na misa na fundisho la kugeuka kwa mkate na divai.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "kanisa",
+    "ushirika",
+    "mwili wa Kristo",
+    "Meza ya Bwana",
+    "uongozi"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Kanisa ni familia, si jengo",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Eph.2.19",
+              "ref": "Efe 2:19"
+            }
+          ],
+          "comment": "Waaminio ni \"watu wa nyumbani mwa Mungu\" - si wageni wala wapitao, bali ni wanafamilia. Kanisa kwanza kabisa ni watu walioungwanishwa na Mungu, si mahali wala taasisi.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Inabadilisha nini kukiona kanisa kama \"familia\" ambayo wewe ni sehemu yake, badala ya \"mahali\" unapokwenda?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"kanisa\" lina maana \"kusanyiko lililoitwa\" (ekklesia)",
+          "content": "Neno la Kiyunani *ekklesia* lina maana \"walioitwa, kusanyiko\" (kutoka *ek-kaleo* - \"kuita nje\") na katika ulimwengu wa kale lilimaanisha mkutano wa raia, si jengo. Agano Jipya kamwe haliiti \"kanisa\" jengo - kanisa ni watu walioitwa na Mungu. Ndiyo maana kanisa unaweza \"kuwa\", si tu \"kwenda\" kwake.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐκκλησία",
+              "translit": "ekklesia"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Uelewa wako wa kujihusisha unabadilikaje, \"kanisa\" linapomaanisha ushirika wa watu, na si mahali?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "1Pet.2.9-10",
+              "ref": "1Pet 2:9-10"
+            }
+          ],
+          "comment": "\"Watu ambao zamani hawakuwa watu\" wamekuwa \"watu wa Mungu\". Kuwa mali ya familia ya Mungu si jambo la kustahili - ni zawadi inayoumba utambulisho mpya na ushirika.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Ina maana gani kwa mtu aliyejihisi \"nje\", kusikia kwamba ametiwa ndani ya \"watu wa Mungu\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "1Cor.12.12-14",
+              "ref": "1Kor 12:12-14"
+            }
+          ],
+          "comment": "Kanisa ni kama mwili mmoja wenye viungo vingi - tofauti, lakini vinavyohitajiana. Hakuna asiyehitajika na hakuna anayejitosheleza yeye mwenyewe.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Ni \"viungo vya mwili\" gani katika mazingira yako ya imani ambavyo mara nyingine havithaminiwi - na hili linakufundisha nini kuhusu wewe mwenyewe?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "\"mwili wa Kristo\" (soma) kama picha ya kanisa",
+          "content": "Paulo anaiita kanisa *soma Christou* - \"mwili wa Kristo\". Picha hii inasema mambo matatu: utofauti (viungo vingi tofauti), kutegemeana (jicho haliwezi kuuambia mkono \"sikuhitaji\") na hatma ya pamoja (kiungo kimoja kinapoteseka, vyote vinateseka pamoja). Hii si stiari ya umoja wa kawaida tu, bali ni ya kiumbe hai, ambamo Kristo ni Kichwa, na waaminio - ni viungo vilivyounganishwa wao kwa wao.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "σῶμα",
+              "translit": "soma"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "1Cor.12.21-26",
+              "ref": "1Kor 12:21-26"
+            }
+          ],
+          "comment": "\"Jicho haliwezi kuuambia mkono: sikuhitaji\". \"Kiungo kimoja kinapoteseka, vyote vinateseka pamoja\" - ushirika ni kutegemeana na kuhisiana, si mkusanyiko huru wa watu binafsi.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Ni lini mara ya mwisho ulipopata uzoefu kwamba mtu \"aliteseka pamoja\" au \"alifurahi pamoja\" nawe katika ushirika?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Umoja: Kristo Kichwa cha mwili",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Eph.4.15-16",
+              "ref": "Efe 4:15-16"
+            }
+          ],
+          "comment": "Tunapaswa \"kukua kuelekea Yeye aliye Kichwa - Kristo\". Umoja wa mwili haupo katika kujitiisha chini ya mamlaka fulani ya kidunia, bali katika utii wa pamoja kwa Kichwa kimoja - Kristo. Kutoka kwake \"mwili wote\" hupata ukuaji.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Ina maana gani kivitendo kwamba Kristo - si chombo fulani cha kibinadamu - ndiye \"Kichwa\" cha ushirika?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "umoja kama kujitiisha kwa Kichwa, si kwa mamlaka ya kidunia (Ef 4:15-16)",
+          "content": "Katika Efe 4:15-16 umoja na ukuaji wa kanisa hutoka \"katika Kichwa\" - Kristo, ambaye kutoka kwake \"mwili wote\" \"huunganishwa\" na \"hushikamanishwa\". Picha hii inaweka mamlaka katika Kristo, si katika muundo wa kidunia. Hivyo umoja wa Wakristo si kufananishwa chini ya uongozi wa kibinadamu, bali ni kujitiisha kwa pamoja kwa Kichwa kimoja na kuhudumiana. Utii katika ushirika ni tunda la uhusiano na Kristo, si kutawaliwa na taasisi - kwa kupatana na kanuni ya sola scriptura.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Unawezaje kutambua tofauti kati ya umoja \"chini ya Kristo-Kichwa\" na umoja unaolazimishwa na mamlaka ya kibinadamu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Col.1.18",
+              "ref": "Kol 1:18"
+            }
+          ],
+          "comment": "\"Yeye ndiye Kichwa cha mwili, yaani kanisa\". Nafasi ya kwanza katika kanisa ni ya Kristo - ni Yeye anayetoa mwelekeo na kuunganisha ushirika.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Unawezaje kutambua kama ushirika kweli \"unashikamana na Kichwa\", yaani unaongozwa na Kristo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "John.17.20-23",
+              "ref": "Yoh 17:20-23"
+            }
+          ],
+          "comment": "Yesu anaomba, \"ili wote wawe kitu kimoja\" - umoja wa waaminio uwe ushuhuda kwa ulimwengu. Si lengo lenyewe, bali ni ishara kwamba Baba alimtuma Mwana.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Ni kwa namna gani umoja wa Wakristo unaweza kuwa \"uthibitisho\" wa ukweli wa imani kwa mtazamaji wa nje?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "umoja kama ushuhuda: \"ili wawe kitu kimoja\" (Yoh 17:21)",
+          "content": "Katika sala ya ukuhani mkuu Yesu anaomba, \"ili wote wawe kitu kimoja... ili ulimwengu uamini\". Umoja wa waaminio si lengo lenyewe wala ufanano wa kiutaratibu - ni ushuhuda. Kielelezo cha umoja huo ni uhusiano wa Baba na Mwana (\"kama Wewe, Baba, ulivyo ndani yangu\"): umoja katika upendo na lengo, huku Nafsi zikidumisha utofauti wao. Umoja kama huo unakuwa kwa mtazamaji hoja kwamba nyuma ya kanisa kuna Mungu."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Eph.4.1-3",
+              "ref": "Efe 4:1-3"
+            }
+          ],
+          "comment": "Umoja \"huhifadhiwa\" kwa \"unyenyekevu, upole, uvumilivu\" na \"kuchukuliana katika upendo\". Hii ni kazi ya kila siku ya mahusiano, si hali inayojitokea yenyewe.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Ni ipi kati ya tabia hizi - unyenyekevu, upole, uvumilivu - ingeusaidia zaidi ushirika wako?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Ushirika: msaada na ukuaji",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Heb.10.24-25",
+              "ref": "Ebr 10:24-25"
+            }
+          ],
+          "comment": "Tunapaswa \"tusiache kukutana pamoja\" na \"kuchocheana katika upendo na matendo mema\". Kukutana si jambo la kawaida tu - ni kutiana moyo, lililo muhimu zaidi, \"kadiri siku\" ya kurudi kwa Bwana \"inavyokaribia\".",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Unapoteza nini unapojitenga na ushirika wa waaminio - na unapata nini unapodumu ndani yake?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Acts.2.42-47",
+              "ref": "Mdo 2:42-47"
+            }
+          ],
+          "comment": "Wakristo wa kwanza walidumu \"katika fundisho la mitume, katika ushirika, katika kumega mkate na katika sala\", wakigawana walichokuwa nacho. Hii ni picha ya ushirika hai, wa kivitendo, si nadharia tu.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Ni kipengele kipi cha maisha ya kanisa la kwanza (fundisho, ushirika, kumega mkate, sala) ambacho ungependa zaidi kukiona leo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "\"ushirika\" ni ushiriki na kugawana (koinonia)",
+          "content": "Neno la Kiyunani *koinonia* (Mdo 2:42) lina maana zaidi ya \"kuwa pamoja\": ni \"ushiriki, kumiliki kwa pamoja, kugawana\". Ndiyo maana Wakristo wa kwanza si tu walikutana, bali \"walikuwa na vitu vyote shirika\" na kugawana mali (Mdo 2:44-45). *Koinonia* inajumuisha ushirika wa imani, sala, meza (\"kumega mkate\") na maisha ya kila siku. Huu ni kielelezo cha ushirika ambao ni kugawana maisha kwa kweli, si tu kukutana kila wiki.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "κοινωνία",
+              "translit": "koinonia"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Gal.6.2",
+              "ref": "Gal 6:2"
+            }
+          ],
+          "comment": "\"Chukulianeni mizigo\" - ushirika ni mahali ambapo mizigo hugawanwa, si kubebwa peke yake. Kwa njia hii \"tunatimiza sheria ya Kristo\".",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Ni \"mzigo\" gani unaobeba peke yako sasa, ambao ungeweza kuugawana katika ushirika?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Eph.4.11-13",
+              "ref": "Efe 4:11-13"
+            }
+          ],
+          "comment": "Mungu huipa jamii vipawa na huduma mbalimbali, \"ili kuwakamilisha watakatifu kwa kazi ya huduma\" na ili mwili \"ufikie utimilifu\". Ukuaji wa kiroho hutokea katika ushirika, si katika upweke.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Ni kipawa au uwezo gani ungeweza kuleta, ili kuwahudumia wengine katika familia ya Mungu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Meza ya Bwana: ukumbusho na ibada ya unyenyekevu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Luke.22.19-20",
+              "ref": "Lk 22:19-20"
+            }
+          ],
+          "comment": "Yesu anaanzisha Meza kwa maneno \"fanyeni hivi kwa ukumbusho wangu\". Mkate na kikombe vinaelekeza kwenye mwili wake uliovunjwa na damu yake iliyomwagika - huu ni ukumbusho wa dhabihu yake, si kuirudia.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Ina maana gani kushiriki katika Meza kama \"ukumbusho\" - inakusudia kukufanya usisahau nini ndani yako?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "\"ukumbusho\" (anamnesis) katika Lk 22:19",
+          "content": "Neno la Kiyunani *anamnesis* (\"kumbukumbu, ukumbusho\") linaelekeza kwenye kukumbuka kwa hai tukio la zamani, si kwenye kulifanya tena. \"Fanyeni hivi kwa *anamnesis* yangu\" lina maana: fanyeni hivi ili kukumbuka na kuibeba moyoni dhabihu iliyotolewa \"mara moja kwa ajili ya wote\". Huu ndio msingi wa kuielewa Meza kama ukumbusho, si dhabihu inayorudiwa.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἀνάμνησις",
+              "translit": "anamnesis"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "John.13.1-5",
+              "ref": "Yoh 13:1-5"
+            }
+          ],
+          "comment": "Kabla ya Meza Yesu anawaosha wanafunzi miguu - kazi ya mtumwa. Ibada hii ya unyenyekevu inatangulia Meza na inaipa mwelekeo: kukutana na Mungu anayehudumu.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Unahisije unapofikiri juu ya Mungu anayepiga magoti, ili kuwaosha miguu wale ambao wangelimwangusha?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "worship",
+          "label": "kuoshana miguu kama ibada (Yoh 13:14-15)",
+          "content": "Yesu si tu aliwaosha wanafunzi miguu, bali aliagiza waziwazi: \"nanyi imewapasa kuoshana miguu... nimewapa mfano\". Jumuiya nyingi za Kikristo zinatekeleza kuoshana miguu kama ibada ya unyenyekevu inayotangulia Meza ya Bwana - utimilifu halisi wa agizo la Yesu na maandalizi ya moyo kwa njia ya upatanisho na huduma. Huu ni ukumbusho kwamba kwenye meza ya Bwana mtu hujongea kwa hali ya unyenyekevu, si ya kujiona bora."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "John.13.14-17",
+              "ref": "Yoh 13:14-17"
+            }
+          ],
+          "comment": "\"Ikiwa Mimi nimewaosha miguu... nanyi imewapasa kuoshana miguu\". Yesu anaacha kielelezo cha huduma ya unyenyekevu, ya kuhudumiana - na anaahidi baraka kwa wale wanaomwiga.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Ibada ya kuoshana miguu inajidhihirishaje katika huduma mahususi, ya kila siku kwa wengine?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "1Cor.11.27-29",
+              "ref": "1Kor 11:27-29"
+            }
+          ],
+          "comment": "Paulo anaita kujongea kwenye Meza baada ya \"kujihukumu mwenyewe\" - kwa hali ya unyofu na upatanisho, si \"isivyostahili\". Hili ni mwaliko wa kutafakari, si wa kuogopa.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Ni nini inafaa \"kujihukumu\" ndani yako kabla ya kujongea kwenye Meza ya Bwana?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "Meza kama ukumbusho ikilinganishwa na misa na kugeuka kwa mkate na divai",
+          "content": "Swali nyeti: je, katika Meza mkate na divai vinageuka kihalisi kuwa mwili na damu ya Kristo (kugeuka kwa mkate na divai), na je, ibada ni kurudiwa kwa dhabihu (misa)? Maandiko yanaiwasilisha Meza kama \"ukumbusho\" (Lk 22:19 - *anamnesis*) na \"kutangaza mauti ya Bwana, hata atakapokuja\" (1Kor 11:24-26), si kama dhabihu inayorudiwa. Waraka kwa Waebrania unasisitiza kwamba dhabihu ya Kristo ilikuwa ya mara moja na ya kutosha: \"mara moja kwa ajili ya wote\" (Ebr 10:10), \"kwa dhabihu moja amewakamilisha milele\" (Ebr 10:14). Kwa kuwa ilitendeka \"mara moja kwa ajili ya wote\", haihitaji kurudiwa. Vitu vya Meza vinabaki kuwa ishara zinazoelekeza kwa Kristo. Ukosoaji unahusu fundisho na ibada, kamwe si watu, ambao kwa nia njema wanamwabudu Mungu - kipimo ni Maandiko (Isa 8:20).",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Ikiwa dhabihu ya Kristo ilikuwa \"mara moja kwa ajili ya wote\" (Ebr 10:10,14), hili linasema nini kuhusu Meza ni nini, na si nini?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Ufalme wa Mungu hapa na sasa",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Luke.17.20-21",
+              "ref": "Lk 17:20-21"
+            }
+          ],
+          "comment": "\"Ufalme wa Mungu uko katikati yenu\" - si uhalisia wa baadaye tu. Ushirika wa familia ya Mungu ni mahali ambapo Ufalme huu tayari unadhihirika duniani.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Ni wapi katika maisha ya familia ya Mungu unaonekana ukweli kwamba \"Ufalme wa Mungu uko katikati\" ya watu tayari sasa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Matt.5.13-16",
+              "ref": "Mt 5:13-16"
+            }
+          ],
+          "comment": "Ushirika ni \"chumvi ya dunia\" na \"nuru ya ulimwengu\" - unapaswa kuathiri mazingira, si kujifungia ndani yake. Ufalme unaonekana kwa kuwa \"matendo mema\" yanawaongoza watu kumtukuza Mungu.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Ushirika wako ungewezaje kuwa \"nuru\" zaidi kwa mazingira, na si tu mahali kwa ajili ya \"wa kwetu\"?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Kanisa si jengo unalokwenda, bali ni familia ambayo wewe ni mali yake - mwili wa Kristo, ambamo hakuna asiyehitajika na hakuna anayejitosheleza yeye mwenyewe. Umoja wake haupo katika kutawaliwa na mamlaka ya kibinadamu, bali katika kushikamana kwa pamoja na Kichwa kimoja - Kristo. Katika ushirika tunagawana mizigo, tunakua na kusaidiana. Meza ya Bwana inatukumbusha dhabihu ya Yesu iliyotolewa \"mara moja kwa ajili ya wote\", na ibada ya unyenyekevu inayoitangulia inatufundisha kwamba Mungu wetu ni Yule anayehudumu. Haya yote tayari leo ni udhihirisho wa Ufalme wa Mungu katikati yetu.",
+    "challenge": "Wiki hii chukua hatua moja mahususi kuelekea ushirika: zungumza na mtu kutoka familia ya Mungu, pendekeza msaada katika kubeba \"mzigo\" au jihusishe katika huduma moja. Ukishiriki katika Meza ya Bwana, jiandae kwa muda wa tafakari ya unyofu na upatanisho (1Kor 11:28) na uichukue ibada ya unyenyekevu kama kielelezo cha huduma kwa siku zilizobaki za wiki."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study zycie-w-bozej-rodzinie"
+  }
+}

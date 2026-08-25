@@ -1,0 +1,450 @@
+{
+  "id": "neuer-himmel-und-neue-erde",
+  "lang": "de",
+  "title": "Neuer Himmel und neue Erde",
+  "category": "basic_systematic",
+  "seriesId": "proroctwo-i-nadzieja",
+  "order": 28,
+  "summary": "Das Finale des großen Kampfes: Sünde, Tod und das Böse werden für immer vernichtet, und Gott schafft einen neuen Himmel und eine neue Erde. Ohne Tränen, Schmerz und Tod, mit wiederhergestelltem Eden und einer ewigen, engen Beziehung zu Gott - das ist das Ziel des ganzen Weges und eine offene Einladung.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "neue Erde",
+    "neuer Himmel",
+    "Ende der Sünde",
+    "Ende des Todes",
+    "Eden",
+    "Hoffnung",
+    "Einladung"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Das Ende des großen Kampfes: das Ende des Bösen und des Todes",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Rev.20.10",
+              "ref": "Offb 20,10"
+            }
+          ],
+          "comment": "Nach dem letzten Aufstand wird das Böse endgültig gerichtet - der Satan, der Urheber der Sünde, wird in das Feuer geworfen. Der große Kampf hat ein Ende; das Böse ist nicht ewig.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Welchen Frieden gibt der Gedanke, dass das Böse nicht für immer bestehen wird, sondern ein festgesetztes Ende hat?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Rev.20.14",
+              "ref": "Offb 20,14"
+            }
+          ],
+          "comment": "Der Text sagt, dass der Tod selbst und das Reich der Toten vernichtet werden - das ist eben der zweite Tod. Es bleibt nichts mehr, was erneut verletzen könnte.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Was bedeutet es für dich, dass eines Tages nicht nur der Schmerz verschwindet, sondern auch der Tod als solcher?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "background",
+          "label": "\"Feuersee / zweiter Tod\": das Ende des Bösen, keine ewige Qual (Offb 20,10.14)",
+          "content": "Der Feuersee und der zweite Tod sind als endgültige VERNICHTUNG des Bösen, der Sünde und der Unerlösten zu verstehen und nicht als ewiges bewusstes Leiden. Biblische Argumente: Der Tod als letzter Feind wird VERNICHTET (1Kor 15,26); der \"zweite Tod\" ist eben ein Tod und kein Leben in Qual (Offb 20,14); und Gott versichert, dass die Bedrängnis nicht ein zweites Mal aufkommen wird (Nah 1,9). Die Folgen sind ewig (unwiderruflich), doch der Vorgang ist keine endlose Folter. Das macht das Finale stimmig mit dem Bild eines Gottes der Liebe und mit der Verheißung eines Universums frei vom Bösen. Exegetische Feinheiten - bei der Durchsicht zu prüfen."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "1Cor.15.26",
+              "ref": "1Kor 15,26"
+            }
+          ],
+          "comment": "Paulus nennt den Tod den letzten Feind, der vernichtet wird. Der Tod ist keine natürliche Ordnung, sondern ein Feind - und er wird besiegt werden.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Wie verändern sich Trauer und Angst, wenn du den Tod als einen \"Feind\" siehst, der beseitigt werden soll?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "\"er wird den Tod für immer verschlingen\": die Propheten und Paulus sprechen mit einer Stimme (Jes 25,8)",
+          "content": "Das paulinische Bild des Todes als letzter Feind (1Kor 15,26) wurzelt in den Propheten: Jesaja kündigt an, dass Gott \"den Tod für immer verschlingen\" und \"die Tränen von jedem Angesicht abwischen\" wird (Jes 25,8) - dieselbe Verheißung wiederholt Offb 21,4. Die Schrift behandelt den Tod also nicht als natürliche Etappe, sondern als Eindringling, der für immer aus Gottes Welt beseitigt werden soll. Das ist einer der stärksten Stränge, die das Alte und das Neue Testament in der Hoffnung auf die neue Erde verbinden.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Was verändert in der Trauer das Bewusstsein, dass schon die Propheten den Tag sahen, an dem Gott persönlich den Tod beseitigt?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Nah.1.9",
+              "ref": "Nah 1,9"
+            }
+          ],
+          "comment": "Der Prophet versichert, dass die Bedrängnis kein zweites Mal aufkommen wird. Gott löscht das Böse nicht nur aus, sondern garantiert, dass es nie wiederkehrt - das Universum wird dauerhaft sicher sein.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Warum ist es wichtig, dass das Böse ein für alle Mal beseitigt wird, ohne die Gefahr eines Rückfalls?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Mal.4.1-3",
+              "ref": "Mal 3,19-21"
+            }
+          ],
+          "comment": "Der Prophet malt einen Tag, der Hochmut und Böses verbrennt, für die Verehrer Gottes aber wie die Sonne der Gerechtigkeit aufgeht, die Heilung bringt. Derselbe Tag ist das Ende des Bösen und der Anfang der Heilung.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Was sagt es über Gott aus, dass derselbe Akt das Böse beendet und den Gerechten Heilung bringt?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Der neue Himmel und die neue Erde",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Rev.21.1",
+              "ref": "Offb 21,1"
+            }
+          ],
+          "comment": "Johannes sieht einen neuen Himmel und eine neue Erde an der Stelle der vergehenden, alten Welt. Gott gibt die Materie nicht auf - er erneuert die Schöpfung, gibt ein wirkliches, physisches Zuhause.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Was bedeutet es, dass Gottes Zukunft keine Flucht aus der Welt ist, sondern eine NEUE, wirkliche Welt?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"neu\" als erneuert (Offb 21,1.5; Jes 65,17)",
+          "content": "Das griechische Adjektiv, das in Offb 21,1.5 verwendet wird (kainos), betont gewöhnlich die QUALITATIVE Neuheit (erneuert, verwandelt) und nicht nur das nächste in der Reihe. Das stimmt mit Jes 65,17 und mit Gottes Ankündigung überein, alles neu zu machen (Offb 21,5): Gott löscht die Schöpfung weniger aus, als dass er sie reinigt und in den Zustand verwandelt, für den sie bestimmt war. Die griechische Form und die Bedeutungsnuance werden vorsichtig angegeben - bei der Durchsicht zu prüfen.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "καινός",
+              "translit": "kainos"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Rev.21.3-4",
+              "ref": "Offb 21,3-4"
+            }
+          ],
+          "comment": "Der Kern des Himmels ist kein Ort, sondern Gegenwart - Gott wird inmitten seines Volkes wohnen, persönlich jede Träne abwischen und Tod, Trauer, Klage und Schmerz beseitigen. Das ist das Ende all dessen, was verletzt.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Welche dieser Verheißungen - das Ende der Tränen, des Todes, der Trauer oder des Schmerzes - musst du heute am meisten hören?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "\"die Hütte Gottes bei den Menschen\": das Ziel der ganzen Heilsgeschichte (Offb 21,3)",
+          "content": "Die Ankündigung \"siehe, die Hütte Gottes bei den Menschen\" ist nicht eines von vielen Motiven, sondern der Abschluss eines Stranges, der sich durch die ganze Schrift zieht: Gott, der mit dem Menschen in Eden wandelt (1Mose 3,8), die Stiftshütte und der Tempel, \"Gott mit uns\" (Immanuel) - alles steuert auf den Moment zu, in dem Gott bleibend inmitten seines Volkes wohnt. Die neue Erde ist das endgültige Ziel des Evangeliums und der Heilsgeschichte. Der Himmel ist vor allem Gegenwart, nicht Kulisse.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Wie verändert der Gedanke dein Verständnis des Himmels, dass sein Kern Gott selbst ist, der bei dir wohnt, und nicht ein Ort oder Belohnungen?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Isa.65.17",
+              "ref": "Jes 65,17"
+            }
+          ],
+          "comment": "Schon Jesaja hörte die Verheißung eines neuen Himmels und einer neuen Erde, nach denen die früheren Nöte nicht mehr ins Gedächtnis zurückkehren werden. Der frühere Schmerz wird nicht mehr quälen.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Was würde es für dich bedeuten, dass die früheren Leiden \"nicht mehr in Erinnerung\" sein werden als Wunde?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Isa.65.21-25",
+              "ref": "Jes 65,21-25"
+            }
+          ],
+          "comment": "Die neue Erde ist konkret: Häuser bauen, Weinberge pflanzen, fruchtbare Arbeit, Frieden sogar unter den Tieren, die niemandem mehr Schaden zufügen werden. Das ist das wiederhergestellte Eden, keine körperlose Abstraktion.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Was sagt es über Gottes Fürsorge aus, dass er die Fülle des Lebens verheißt - Arbeit, ein Zuhause, Frieden - und nicht nur \"Ruhe der Seelen\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "worship",
+          "label": "\"von Sabbat zu Sabbat\": wir beten Gott auf der neuen Erde an (Jes 66,23)",
+          "content": "Gleich nach dem Bild des konkreten Lebens fügt Jesaja das Bild der konkreten Anbetung hinzu: Die Erlösten werden kommen, um Gott anzubeten \"von Neumond zu Neumond und von Sabbat zu Sabbat\" (Jes 66,23). Die hebräische Wendung lässt sich auf zweierlei Weise verstehen - als Anbetung an festgesetzten Tagen (besonders am Sabbat als Gedenken an die Schöpfung) oder als unaufhörliche Anbetung, \"von Fest zu Fest\". Es ist hervorzuheben, dass die erste Lesart dem Original näher ist, doch der geistliche Reichtum der zweiten muss nicht ausgeschlossen werden. So oder so besteht der Sabbat auf der neuen Erde fort.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Was sagt es über den Sabbat aus, dass er als einziger Rhythmus der Anbetung ununterbrochen von der Schöpfung über die ganze Geschichte bis auf die neue Erde fortbesteht?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "2Pet.3.13",
+              "ref": "2Petr 3,13"
+            }
+          ],
+          "comment": "Petrus richtet die Erwartung auf einen neuen Himmel und eine neue Erde, in denen die Gerechtigkeit bleibend wohnen wird. Die neue Welt ist eine Umgebung, in der das Gute zu Hause ist.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Wie sähe das Leben in einer Welt aus, in der bleibend \"die Gerechtigkeit wohnt\" - nichts Verkrümmtes, nichts Ungerechtes?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"Erneuerung\", keine neue Schöpfung aus dem Nichts (2Petr 3,13; Mt 19,28)",
+          "content": "Die Sprache von 2Petr 3,7-13 spricht eher von Erneuerung und Wiederherstellung - von einem gereinigten Universum, das aus dem alten hervorgeführt wird, und nicht von einer zweiten Schöpfung \"aus dem Nichts\". Das stützt Mt 19,28, wo ein Begriff fällt, der die \"Wiedergeburt\" der Welt beschreibt (übersetzt als \"neue Welt\", \"Wiedergeburt\"), sowie Apg 3,21 - \"die Zeiten der Wiederherstellung aller Dinge\". Gott wirft sein Werk nicht auf den Müll; er erlöst es. Das ist ein wichtiges Argument für die Wirklichkeit und Kontinuität der neuen Erde. Die Bedeutungsnuance - bei der Durchsicht zu prüfen."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Rev.22.1-3",
+              "ref": "Offb 22,1-3"
+            }
+          ],
+          "comment": "Der Baum des Lebens kehrt wieder, und der frühere Fluch wird aufgehoben - das ist unmittelbar die Rücknahme der Folgen des Sündenfalls aus Eden. Die Geschichte schließt sich zum Kreis: vom verlorenen Garten zum wiedergewonnenen.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Was bedeutet es, dass es \"keinen Fluch mehr geben wird\" - welche Last wird dann von der ganzen Schöpfung genommen?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "das wiederhergestellte Eden: die Klammer der Schrift (1Mose 1-3 ↔ Offb 21-22)",
+          "content": "Die Schlusskapitel der Offenbarung kehren bewusst die Folgen des Sündenfalls aus dem 1. Buch Mose um: Wieder erscheint der Baum des Lebens (1Mose 3,22-24 ↔ Offb 22,2), der nach dem Sündenfall verhängte Fluch wird aufgehoben (1Mose 3,17 ↔ Offb 22,3), und Gott wohnt erneut bei den Menschen (1Mose 3,8 ↔ Offb 21,3). Jes 65,17-25 ergänzt das Bild mit konkretem Leben (Häuser, Weinberge, Frieden in der Natur). Die Bibel bildet also eine Klammer: vom verlorenen Garten zur wiedergewonnenen Garten-Stadt - das ist keine Flucht aus der Materie, sondern ihre Erlösung. Die Einzelheiten der Parallelen sind bei der Durchsicht zu prüfen."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Die ewige Beziehung und die Einladung",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Rev.21.7",
+              "ref": "Offb 21,7"
+            }
+          ],
+          "comment": "Die Verheißung für den Überwinder ist beziehungshaft: Gott wird sein Gott sein und er Gottes Kind. Das Ziel der Ewigkeit ist nicht die Belohnung von Dingen, sondern die Nähe zu Gott.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Was ist für dich die größere Verheißung: eine vollkommene Welt oder dass \"Gott für immer dein Gott sein wird\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Rev.22.3-4",
+              "ref": "Offb 22,3-4"
+            }
+          ],
+          "comment": "Die Erlösten werden das Angesicht Gottes schauen - das, was zu Lebzeiten nicht einmal Mose sehen konnte. Eine Beziehung von Angesicht zu Angesicht, ohne Schleier.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Was würde es für dich bedeuten, \"das Angesicht Gottes zu schauen\" - in voller, durch nichts gestörter Nähe zu ihm zu leben?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "worship",
+          "label": "\"sie werden ihm dienen\": die Hauptbeschäftigung auf der neuen Erde (Offb 22,3)",
+          "content": "Das in Offb 22,3 verwendete Verb (latreuō) ist typischerweise ein Wort der Anbetung und des Dienstes vor Gott - desselben Stammes, mit dem jene beschrieben werden, \"die ihre Kleider im Blut des Lammes weiß gemacht haben\" und \"ihm Tag und Nacht dienen\" (Offb 7,14-15). Beachten wir, dass die Hauptbeschäftigung der Erlösten die freudige Anbetung des Lammes sein wird. Die Anbetung auf der neuen Erde ist also keine Pflicht, die das Leben unterbricht, sondern sein natürlicher Atem - in Freiheit, von Angesicht zu Angesicht mit Gott. Die griechische Form - bei der Durchsicht zu prüfen.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "λατρεύω",
+              "translit": "latreuō"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Rev.22.17",
+              "ref": "Offb 22,17"
+            }
+          ],
+          "comment": "Die Bibel endet nicht mit einer Drohung, sondern mit einer Einladung: Der Geist und die Braut rufen, zu kommen, und jeder Dürstende darf das Wasser des Lebens umsonst nehmen. Die Tür steht für jeden offen.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Wenn das Wasser des Lebens \"umsonst\" ist und \"für jeden, der will\" - was steht heute zwischen dir und der Annahme dieser Einladung?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Rev.21.6",
+              "ref": "Offb 21,6"
+            }
+          ],
+          "comment": "Gott verkündigt, dass alles vollbracht ist, und gibt dem Dürstenden umsonst aus der Quelle des Wassers des Lebens. Der ganze Weg durch die Prophetie und den großen Kampf führt zu diesem Geschenk.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Was bedeutet es, dass die Erfüllung von allem ein Geschenk ist (\"umsonst\") und keine Belohnung, die man sich erarbeiten muss?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "1Cor.2.9",
+              "ref": "1Kor 2,9"
+            }
+          ],
+          "comment": "Paulus erinnert daran, dass das, was Gott denen bereitet hat, die ihn lieben, bisher kein menschliches Auge, kein Ohr und keine Vorstellungskraft erfasst hat. Selbst die beste Beschreibung der neuen Erde kommt der Wirklichkeit nicht gleich, die Gott bereitet.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Wie lebt es sich mit der Hoffnung auf etwas, das alles übertrifft, was du dir vorstellen kannst?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "\"was kein Auge gesehen hat\": die Beschreibung tritt hinter die Wirklichkeit zurück (1Kor 2,9)",
+          "content": "Paulus sagt nicht, dass wir über die neue Erde nichts wissen, sondern dass keine Beschreibung der Wirklichkeit gleichkommt - \"was kein Auge gesehen und kein Ohr gehört hat\". Beachten wir, dass die Furcht vor einem \"zu materiellen\" Bild des Himmels viele dazu brachte, eben jene Wahrheiten zu \"vergeistlichen\" und zu verwischen, die es erlauben, in ihm ein wirkliches Zuhause zu sehen. Wir halten bewusst am Konkreten fest: Die neue Erde ist ein Ort, keine vage Abstraktion. Demut (\"wir erfassen es nicht\") und Konkretheit (\"es ist ein wirkliches Zuhause\") gehen hier zusammen.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Wie hält man das Gleichgewicht zwischen Demut vor dem, was wir nicht begreifen, und einer konkreten, wirklichen Hoffnung auf ein Zuhause auf der neuen Erde?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Das ist das Ziel des ganzen Weges durch die Prophetie und den großen Kampf: nicht nur das Ende des Bösen, sondern der Anfang des Lebens, für das wir geschaffen wurden. Sünde, Schmerz und Tod werden ein für alle Mal beseitigt - und kehren nie wieder. Gott wird jede Träne abwischen und inmitten seines Volkes in einer wirklichen, erneuerten Welt wohnen: im wiederhergestellten Eden, wo die Erlösten sein Angesicht schauen werden. Und das letzte Wort der Bibel ist kein Urteil, sondern eine Einladung - jeder Dürstende darf das Wasser des Lebens umsonst annehmen. Die Hoffnung auf den Himmel ist keine Flucht aus dem Leben - sie ist die Verheißung eines endlosen Lebens mit dem, der uns zuerst geliebt hat.",
+    "challenge": "Schreibe drei Dinge in der jetzigen Welt auf, die dir am meisten wehtun, und notiere neben jedem die entsprechende Verheißung aus Offb 21,3-4 oder Jes 65. Antworte dann Gott auf seine Einladung aus Offb 22,17 - sage ihm mit eigenen Worten \"komm\" und nimm das Geschenk des Lebens an."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "DE translation of PL study nowa-ziemia"
+  }
+}

@@ -1,0 +1,503 @@
+{
+  "id": "ahadi-kuu-ya-yesu",
+  "lang": "sw",
+  "title": "Ahadi kuu ya Yesu",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 11,
+  "summary": "Kurudi kwa Yesu ni ahadi na kiini cha tumaini la Kikristo. Tunajifunza uhakika wa ahadi hii na ishara za nyakati, hasa namna ya ujio wake: utakaoonekana, utakaosikika, wa ulimwengu mzima na wa mwisho - \"kila jicho litamwona\". Tunajibu mawazo yenye makosa kuhusu \"unyakuo wa siri\" na \"uwepo usioonekana\". Hili ni tumaini, si sababu ya kuogopa.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "ujio wa pili",
+    "tumaini",
+    "ishara za nyakati",
+    "parousia",
+    "mambo ya mwisho"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Ahadi ya kurudi",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "John.14.1-3",
+              "ref": "Yoh 14:1-3"
+            }
+          ],
+          "comment": "Yesu anawafariji wanafunzi kwa ahadi ya binafsi: \"nitakuja tena niwakaribishe kwangu\". Hili si wazo wala ishara - ni unabii wa kurudi kwa Mtu maalum aliyeondoka na atakayerudi.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Inamaanisha nini kwako kwamba kurudi kwa Yesu ni ahadi yake binafsi aliyowapa wale anaowapenda?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Acts.1.9-11",
+              "ref": "Mdo 1:9-11"
+            }
+          ],
+          "comment": "Malaika wanahakikisha: \"Yesu huyu... atakuja jinsi iyo hiyo mlivyomwona akienda zake mbinguni\". Alichukuliwa juu mbele ya macho ya wanafunzi - atarudi kwa namna iyo hiyo, inayoonekana.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Ikiwa kuondoka kwa Yesu kulionekana na kulikuwa halisi, hilo hufundisha nini kuhusu namna ya kurudi kwake?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "background",
+          "label": "\"mawingu\" na \"Mwana wa Adamu\" (Dn 7:13)",
+          "content": "Unabii wa kuja \"na mawingu\" (Mdo 1:11; Ufu 1:7) unafikia Dan 7:13-14, ambapo \"mmoja aliye mfano wa Mwana wa Adamu\" anakuja \"na mawingu ya mbinguni\" na kupokea ufalme wa milele. Katika Biblia yote wingu huandamana na ufunuo wa utukufu wa Mungu (Kut 13:21; 40:34). Kwa hiyo kurudi kwa Yesu \"na mawingu\" si suala la hali ya hewa, bali ni lugha ya ufunuo wa Mungu: kuja kwa Mfalme katika utukufu kamili wa Mungu - yuleyule \"Mwana wa Adamu\", jina ambalo Yesu mara nyingi alijiita mwenyewe.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Kujua kwamba \"kuja na mawingu\" ni lugha ya Agano la Kale ya utukufu na ufalme wa Mungu kunaongeza nini katika taswira ya kurudi kwa Yesu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Heb.9.28",
+              "ref": "Ebr 9:28"
+            }
+          ],
+          "comment": "Kristo \"atatokea mara ya pili\" - si kwa ajili ya kushughulikia dhambi (hilo lilitendeka msalabani), bali \"kwa ajili ya wokovu wao wamtazamiao\". Kurudi ni ukamilisho wa kazi ya wokovu.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Kumtazamia mtu wa karibu kunatofautianaje na \"kungoja\" kwa kukaa tu, hadi jambo litokee?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Uhakika na ishara za nyakati",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Matt.24.3-8",
+              "ref": "Mt 24:3-8"
+            }
+          ],
+          "comment": "Kwa swali kuhusu \"ishara ya kuja kwake\" Yesu anataja vita, njaa, matetemeko ya nchi - anaviita \"mwanzo wa utungu\". Ishara hazikusudii kuhesabu tarehe, bali kudumisha kuwa macho.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Kwa nini ishara zinapaswa kuamsha kuwa macho, si udadisi wa \"lini hasa\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "\"mwanzo wa utungu\" ni utungu wa kuzaa (Mt 24:8)",
+          "content": "Neno la Kiyunani *odin* linamaanisha utungu wa kuzaa. Kwa hiyo Yesu hasemi juu ya kuongezeka kwa mateso kusiko na maana, bali juu ya kitu kinachotangaza kuzaliwa: maumivu huja mara kwa mara na kwa nguvu zaidi, lakini huongoza kwa uhai mpya. Ishara za nyakati zasomwa kama utungu wa kuzaa - ni vigumu, lakini ni vitangulizi vya kinachokuja, si mwisho usio na tumaini.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ὠδίν",
+              "translit": "odin"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Matt.24.14",
+              "ref": "Mt 24:14"
+            }
+          ],
+          "comment": "\"Habari njema ya ufalme itahubiriwa katika ulimwengu wote... ndipo ule mwisho utakapokuja\". Kuhubiriwa kwa habari njema kwa ulimwengu wote ni mojawapo ya ishara kuu za kurudi kunakokaribia.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Ni nafasi gani katika ishara hii - kuhubiri Injili \"katika ulimwengu wote\" - unaweza kuwa nayo wewe?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Matt.24.36",
+              "ref": "Mt 24:36"
+            }
+          ],
+          "comment": "\"Habari ya siku ile na saa ile hakuna aijuaye\" - wala malaika, wala Mwana katika kujishusha kwake duniani, ila Baba peke yake. Ndiyo maana kuhesabu tarehe yoyote ni kinyume na maneno ya Yesu; uhakika unahusu jambo lenyewe, si tarehe.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Kwa nini \"kutojua tarehe\" hapa ni sifa ya imani, si upungufu wake?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "2Pet.3.3-4",
+              "ref": "2Pet 3:3-4"
+            }
+          ],
+          "comment": "Petro anatabiri wenye dhihaka: \"iko wapi ahadi ile ya kuja kwake?\". Kuchelewa kwakati mwingine huleweka vibaya kama kufuta ahadi - kumbe ni nafasi ya uvumilivu wa Mungu.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Unawezaje kutofautisha kutazamia kwenye afya na kukosa subira kunakoanza kutilia shaka ahadi?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "2Pet.3.9",
+              "ref": "2Pet 3:9"
+            }
+          ],
+          "comment": "\"Bwana hakawii... bali huvumilia, maana hapendi mtu ye yote apotee\". Sababu ya \"kuchelewa\" ni upendo - muda, ili watu zaidi waweze kuja kwa Mungu.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Kuona kwamba \"kuchelewa\" kwa kurudi ni tendo la uvumilivu wa Mungu kwa watu kunabadilisha nini?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Jinsi Yesu atakavyokuja: kwa kuonekana, kusikika, kwa ulimwengu mzima",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Rev.1.7",
+              "ref": "Ufu 1:7"
+            }
+          ],
+          "comment": "\"Tazama, yuaja na mawingu; na kila jicho litamwona\". Huu ni maelezo muhimu: kuja kutaonekana kwa watu wote, bila ubaguzi - si kwa siri, si kwa wateule.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Kwa imani ya kawaida, uhakikisho kwamba Yesu \"kila jicho litamwona\", si wachache tu, unamaanisha nini?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"kila jicho litamwona\" (Ufu 1:7)",
+          "content": "Usemi wa Kiyunani *opsetai... pas ophthalmos* (\"litaona... kila jicho\") hutumia kitenzi cha kawaida cha kuona kwa macho pamoja na kiima \"kila jicho\". Hii ni lugha ya kuona kihalisi, kwa wote, si ya \"kutambua\" kwa ndani kiroho. Nyongeza ya \"hata wale waliomchoma\" inathibitisha uhalisi na ujumla wa kuona huku - watamwona pia wale waliomkataa.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ὄψεται… πᾶς ὀφθαλμός",
+              "translit": "opsetai… pas ophthalmos"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Matt.24.27",
+              "ref": "Mt 24:27"
+            }
+          ],
+          "comment": "\"Kama vile umeme... ndivyo kutakavyokuwa kuja kwake Mwana wa Adamu\". Umeme huonekana kutoka kila upande mara moja - taswira ya kuja kunakoonekana wazi kwa dunia nzima, kusikoweza kupuuzwa wala kuigwa kwa siri.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Kwa nini taswira ya umeme inakataa kuja \"kwa kimya, kwa eneo dogo\" ambako wachache tu wangekujua?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "parousia: kuwasili kwa fahari, kwa wazi (Mt 24:27)",
+          "content": "Neno la Kiyunani *parousia* linamaanisha \"kuwasili, uwepo\" na katika ulimwengu wa kale lilieleza kuingia rasmi, kwa hadhara, kwa mtawala mjini - akipokewa na umati, kusikoweza kufichwa. Agano Jipya hutumia neno hili kwa kurudi kwa Kristo (Mt 24:3,27,37; 1 Tes 4:15). Tayari msamiati wenyewe unakataa kuja \"kwa faragha\", kwa kimya: parousia kwa fasili yake ni tukio la hadhara.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "παρουσία",
+              "translit": "parousia"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Kuelewa *parousia* kama kuwasili kwa fahari, kwa hadhara kunadhoofishaje wazo la \"uwepo usioonekana\" wa Kristo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Matt.24.30-31",
+              "ref": "Mt 24:30-31"
+            }
+          ],
+          "comment": "Mwana wa Adamu atakuja \"kwa nguvu nyingi na utukufu\", kwa sauti ya tarumbeta na malaika. Kuja si tu kwa kuonekana, bali pia kwa kusikika - kwa fahari na kwa wazi.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "\"Nguvu na utukufu\" wa kuja huku unatofautianaje na tukio la kimya, lisiloonekana?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Matt.24.23-26",
+              "ref": "Mt 24:23-26"
+            }
+          ],
+          "comment": "Yesu anaonya waziwazi: \"wakiwaambia, Yuko jangwani - msitoke; Yumo vyumbani - msisadiki\". Kila tangazo la kuja kwa Kristo kwa eneo fulani au kwa siri limekwisha funuliwa tangu mwanzo kuwa ni uongo.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Onyo hili linasaidiaje kutambua na kukataa habari za uongo kwamba \"Kristo tayari yuko hapa au pale\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "1Thess.4.16-17",
+              "ref": "1The 4:16-17"
+            }
+          ],
+          "comment": "\"Bwana mwenyewe atashuka... kwa sauti ya malaika mkuu, na parapanda ya Mungu\". Ufufuo wa wenye haki na kunyakuliwa kwa walio hai kutatendeka katika kuja huku kumoja, kwa sauti, kwa wazi - si kwa siri.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Ikiwa kuja kumeelezwa kuwa kwa sauti na kwa wazi, kwa nini hakuwezi kupatanishwa na wazo la \"unyakuo wa kimya\" ambao ulimwengu hautautambua?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "neno \"unyakuo\" (rapture) linatoka wapi na linamaanisha nini hasa (1 Tes 4:17)",
+          "content": "\"Tutanyakuliwa\" ni Kiyunani *harpazo* (\"kunyakua, kushika kwa nguvu\"). Vulgata ya Kilatini ililitafsiri kwa neno *rapiemur*, na hapo likaja neno \"rapture\", \"unyakuo\". Lakini muhimu ni LINI hili linatokea: katika mstari uleule, kwa \"sauti ya malaika mkuu na parapanda ya Mungu\" (mst. 16) - yaani wakati wa tukio lenye sauti kubwa zaidi, lililo wazi zaidi katika historia. Kwa hiyo \"unyakuo\" wa Kibiblia ni sehemu ya kurudi kwa Yesu kunakoonekana, si kutoweka kwa kimya, kwa siri kwa waumini mapema.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἁρπάζω",
+              "translit": "harpazo"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Matt.26.64",
+              "ref": "Mt 26:64"
+            }
+          ],
+          "comment": "Mbele ya mahakama Yesu anatangaza kwamba watamwona \"akija juu ya mawingu ya mbinguni\". Walewale waliomhukumu wataona kurudi kwake - kuja ni kwa hadhara na kusikoweza kupingwa.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Ukweli kwamba Yesu aliitangaza ahadi hii waziwazi kwa waliomhukumu unasema nini kuhusu uhakika wake?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "jibu kwa \"unyakuo wa siri\" na \"uwepo usioonekana\"",
+          "content": "Baadhi ya mafundisho hufundisha kuhusu \"unyakuo wa kimya\" wa Kanisa ambao ulimwengu hautautambua, au \"uwepo usioonekana\" wa Kristo ambao tayari umeanza. Maandiko huelezea kurudi kwa Yesu kuwa: kunakoonekana (Ufu 1:7; Mdo 1:11), kunakosikika (1 Tes 4:16 - \"sauti ya malaika mkuu na parapanda\"), kwa ulimwengu mzima (Mt 24:27 - umeme kutoka mashariki hadi magharibi) na kwa mwisho (Mt 24:30-31 - kukusanywa kwa wateule katika kuja kumoja). Zaidi ya hayo, Yesu anaonya tangu mwanzo dhidi ya madai kwamba yuko \"jangwani\" au \"vyumbani\" (Mt 24:23-26). Lawama inahusu fundisho, si watu walioipokea kwa nia njema - kipimo ni Maandiko yenyewe (Isa 8:20).",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Ni ipi kati ya sifa nne za maelezo ya Kibiblia (kunakoonekana, kunakosikika, kwa ulimwengu mzima, kwa mwisho) iliyo vigumu zaidi kupatanisha na wazo la \"unyakuo wa siri\"?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Tumaini, si hofu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Titus.2.13",
+              "ref": "Tit 2:13"
+            }
+          ],
+          "comment": "Paulo anaita kurudi kwa Yesu \"tumaini lenye baraka\". Kwa wale wamjuao, ni siku ya kutamaniwa, si ya kutisha.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Ni nini kinachofanya kurudi kwa Yesu kuwa tumaini kwa wengine, na hofu kwa wengine? Ni nini huamua tofauti?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"tumaini lenye baraka\" na \"kufunuliwa\" kwa wazi (Tt 2:13)",
+          "content": "Kurudi kwa Yesu kunaitwa hapa \"tumaini lenye baraka\" na \"kufunuliwa kwa utukufu\" - Kiyunani *epifaneia* (\"kutokea, kujitokeza kwa wazi\"). Hili ni neno jingine (kando ya *parousia*) linalosisitiza kuonekana: *epifaneia* humaanisha kutokea kunakovuta macho. Kwa mwamini hili si tisho, bali ni utimilifu wa tumaini - siku ambayo Bwana asiyeonekana hadi sasa atajitokeza kwa wazi.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐπιφάνεια",
+              "translit": "epifaneia"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "John.14.1",
+              "ref": "Yoh 14:1"
+            }
+          ],
+          "comment": "\"Msifadhaike mioyoni mwenu\" - maneno haya Yesu anayasema hasa katika muktadha wa unabii wa kurudi kwake. Kujua kuhusu kuja kunapaswa kutuliza, si kutisha.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Ni nini kinachofadhaisha zaidi moyo wako leo unapofikiria juu ya wakati ujao - na ahadi ya Yesu hufanya kazi gani juu ya hilo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "1Thess.4.18",
+              "ref": "1The 4:18"
+            }
+          ],
+          "comment": "\"Farijianeni kwa maneno hayo\" - fundisho la kurudi kwa Yesu lilipaswa kuwa chanzo cha faraja ya kuhurumiana, hasa mbele ya kifo cha wapendwa.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Ni nani kati ya wapendwa wako ungeweza kumkabidhi fundisho hili kama faraja, si kama tisho?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Luke.21.28",
+              "ref": "Lk 21:28"
+            }
+          ],
+          "comment": "Ishara zinapotimia, Yesu anasema: \"inueni vichwa vyenu, kwa kuwa ukombozi wenu umekaribia\". Jibu la mwamini kwa ishara za nyakati liwe tumaini na msimamo ulionyooka, si hofu.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Namna unavyotazama matukio magumu ulimwenguni ingeonekanaje kama yangeandamana na wazo \"ukombozi umekaribia\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "kurudi kwa Yesu katika mtazamo wa pambano kuu",
+          "content": "Ujio wa pili ni kilele cha pambano kuu kati ya Mungu na uovu. Si tendo la kisasi, bali ni ukombozi na utimilifu wa ahadi iliyotolewa kwa upendo (Yn 14:1-3). Hukumu inayohusiana na siku hiyo ni habari njema kwa mwamini, kwa sababu Kristo ni Mtetezi, si mshtaki. Ndiyo maana msimamo unaofaa kwa fundisho hili ni \"tumaini lenye baraka\" (Tt 2:13) na kichwa kilichoinuliwa (Lk 21:28), si hofu. Utayari wa kusoma unabii na kuliamini Neno linalotabiri matukio haya ni sehemu ya tumaini hilo.",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Kwa nini hali ya uhusiano wako na Yesu leo ndiyo inayoamua kama kurudi kwake kutakuwa tumaini au hofu kwako?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Kurudi kwa Yesu si wazo lisiloeleweka wala sababu ya kuogopa - ni ahadi binafsi ya Rafiki aliyeondoka na kutangaza kwamba atarudi. Atarudi jinsi alivyoondoka: kwa kuonekana, kwa kusikika, mbele ya macho ya ulimwengu mzima - \"kila jicho litamwona\". Kwa hiyo usidanganywe na habari za \"unyakuo wa siri\" au \"uwepo usioonekana\"; Yesu mwenyewe alionya dhidi yake. Tarehe hatuijui wala hatuhitaji kuijua - lililo hakika ni jambo lenyewe. Na kwa wale wamjuao, siku hiyo ni \"tumaini lenye baraka\": siku inayostahili kuinua kichwa.",
+    "challenge": "Utakaposikia wiki hii habari zenye kutia wasiwasi kutoka ulimwenguni, simama na kwa kusudi zigeuze kuwa maneno ya Yesu ya Lk 21:28 (\"inueni vichwa vyenu\"). Soma kwa utulivu Yn 14:1-3 na uandike ni nini hasa kinachokupa tumaini katika ahadi ya kurudi kwa Yesu - kisha shiriki hilo na mtu mmoja."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study nadzieja-jezus-wroci"
+  }
+}

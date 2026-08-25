@@ -1,0 +1,481 @@
+{
+  "id": "jinsi-ya-kuzungumza-na-mungu",
+  "lang": "sw",
+  "title": "Jinsi ya kuzungumza na Mungu?",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 8,
+  "summary": "Maombi si neno la kichawi wala wajibu wa kidini, bali ni mazungumzo ya kweli na Mungu anayesikia na kujibu. Tunajifunza kuzungumza na Rafiki kwa unyenyekevu, kwa ukawaida na kwa kumtumaini - na tunagundua kwamba maombi yanatubadilisha sisi na hali zetu.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "maombi",
+    "mazungumzo",
+    "kutumaini",
+    "Baba yetu",
+    "uhusiano"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Maombi ni mazungumzo, si maneno ya kukariri",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Matt.6.7-8",
+              "ref": "Mt 6:7-8"
+            }
+          ],
+          "comment": "Yesu anaondoa wazo la maombi kuwa ni kumshawishi Mungu kwa wingi wa maneno. Baba anajua unachohitaji kabla hujamwomba - kwa hiyo maombi ni mazungumzo na Mtu wa karibu, si maneno ya uchawi.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Wazo kwamba Mungu tayari anajua mahitaji yako kabla hujasema linabadilisha nini katika namna unavyofanya maombi?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Matt.7.7-8",
+              "ref": "Mt 7:7-8"
+            }
+          ],
+          "comment": "\"Ombeni... tafuteni... bisheni\" - maombi ni tendo lenye bidii na ustahimilivu. Yesu anatutia moyo tusinyamaze baada ya mara ya kwanza, bali tuendelee kuzungumza.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Ni nini katika maisha yako kinachofanya iwe rahisi kunyamaza kuliko kuendelea \"kubisha\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "verb",
+          "label": "\"ombeni, tafuteni, bisheni\" (Mt 7:7)",
+          "content": "Katika Kiyunani vitenzi *aiteo*, *zeteo*, *krouo* viko katika hali ya amri ya wakati uliopo, ambayo huonyesha tendo linaloendelea, linalorudiwa: \"ombeni na msiache kuomba\". Muundo wenyewe wa sarufi unatia moyo wa kustahimili - si \"omba\" mara moja, bali \"endelea kuzungumza\".",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "αἰτεῖτε… ζητεῖτε… κρούετε",
+              "translit": "aiteite… zeteite… krouete"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Maana ya wito huu inabadilikaje unaposoma kama \"ombeni kwa kustahimili\" badala ya \"omba\" mara moja tu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Matt.7.9-11",
+              "ref": "Mt 7:9-11"
+            }
+          ],
+          "comment": "Mungu si mbaya kuliko mzazi wa duniani. Ikiwa wazazi wasio wakamilifu wanawapa watoto wao vitu vizuri, je, si zaidi sana Baba mwema atakavyojibu maombi ya watoto wake?",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Mungu kama Baba mwema anatofautianaje na taswira ya Mungu anayesubiri tu makosa yetu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Mfano alioutoa Yesu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Matt.6.9-13",
+              "ref": "Mt 6:9-13"
+            }
+          ],
+          "comment": "\"Baba yetu\" si maneno ya kusema kimitambo, bali ni mfano: huanza na uhusiano na utukufu wa Mungu, kisha huomba mahitaji ya kila siku, msamaha na ulinzi. Huu ni mfumo wa mazungumzo bora na Mungu.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Ni sehemu zipi za Sala ya Bwana unazoziacha mara nyingi katika maombi yako - na kwa nini?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "\"Baba\" (Abba) kama kiini cha Sala ya Bwana",
+          "content": "Neno \"Baba\", ambalo Yesu anafungulia sala ya mfano (Mt 6:9; Lk 11:2), huonyesha uhusiano wa mtoto kwa mzazi, si wa raia kwa mtawala. Katika Rum 8:15 na Gal 4:6 linatokea neno la Kiaramu *Abba* - lenye upendo, la kifamilia \"baba\". Yesu mwenyewe aliomba kwa neno hilohilo bustanini Gethsemane (Mk 14:36). Ndilo linalotia sauti sala yote: mazungumzo, si hadhira rasmi.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἀββά",
+              "translit": "abba"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"riziki ya kila siku\" (Mt 6:11)",
+          "content": "Neno la Kiyunani *epiousios* ni nadra na gumu kutafsiri - kwa kawaida hutolewa kama \"ya kila siku / ya leo\". Ombi linahusu hitaji la sasa, la kila siku; hufundisha kumtumaini Mungu \"kwa leo\", si kujilundikia akiba. Ni mwangwi wa mana jangwani: ya kutosha kwa siku moja, kwa kumtumaini kwa ajili ya kesho.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐπιούσιος",
+              "translit": "epiousios"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Luke.11.1",
+              "ref": "Lk 11:1"
+            }
+          ],
+          "comment": "Wanafunzi, walipoona Yesu akiomba, walisema: \"tufundishe\". Maombi yanaweza na yanafaa kujifunzwa - huhitaji \"kuyajua\" tangu mwanzo.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Kama leo ungeweza kumwomba Yesu \"nifundishe kuomba\", ni nini hasa ungetaka kuelewa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Matt.6.5-6",
+              "ref": "Mt 6:5-6"
+            }
+          ],
+          "comment": "Yesu anaonya dhidi ya maombi ya \"kujionyesha\". Yenye thamani zaidi ni yale ya faraghani - kwa sababu lengo ni kukutana na Baba, si kuwavutia watu.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Maombi \"kwa ajili ya Mungu\" yanatofautianaje na maombi \"kwa ajili ya watu\" wanaotazama?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Ps.62.8",
+              "ref": "Zab 62:9"
+            }
+          ],
+          "comment": "\"Mfunulieni mioyo yenu mbele zake\" - maombi ni kummiminia Mungu kile kilicho ndani yetu kweli. Mungu ni kimbilio ambalo mbele yake hatuhitaji kujifanya.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Ingemaanisha nini kwako \"kumwaga moyo\" mbele za Mungu badala ya kusema kile \"kinachofaa\"?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Ukweli na ukawaida",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Phil.4.6-7",
+              "ref": "Flp 4:6-7"
+            }
+          ],
+          "comment": "Badala ya kujihangaisha, tunapaswa \"katika kila jambo\" kumwelekezea Mungu maombi pamoja na shukrani. Ahadi si suluhisho la papo hapo, bali ni amani ya Mungu inayolinda mioyo.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Ni nini kinachokuondolea amani mara nyingi - na ingekuwaje kumkabidhi Mungu jambo hilo katika maombi pamoja na shukrani?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "\"amani inayolinda\" (Flp 4:7)",
+          "content": "Neno la Kiyunani *eirene* hutafsiri neno la Kiebrania *shalom* - si tu kutokuwepo kwa mgogoro, bali utimilifu na ukamilifu. \"Amani ipitayo akili zote\" haitegemei suluhisho la tatizo, bali \"inalinda\" moyo na mawazo (Kiyunani *phroureo* - neno la kijeshi: kusimama ulinzi, kuweka walinzi). Taswira ina nguvu: amani ya Mungu inasimama ulinzi kuzunguka moyo wako kama jeshi kuzunguka mji.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "εἰρήνη",
+              "translit": "eirene"
+            },
+            {
+              "lang": "hbo",
+              "text": "שָׁלוֹם",
+              "translit": "szalom"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "1Thess.5.16-18",
+              "ref": "1The 5:16-18"
+            }
+          ],
+          "comment": "\"Ombeni bila kukoma\" si wito wa kupiga magoti daima, bali wa kuwa na njia ya mawasiliano iliyo wazi na Mungu mchana kutwa.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Mazungumzo \"yasiyokoma\" na Mungu yaliyofumwa katika siku yako ya kawaida yangeonekanaje?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "Danieli na mfumo wa maombi mara tatu kwa siku (Dn 6:10)",
+          "content": "Lilipotoka katazo la maombi chini ya adhabu ya kifo, Danieli \"kama alivyozoea kufanya\" alipiga magoti na kuomba mara tatu kwa siku karibu na dirisha lililo wazi. Mambo mawili ni muhimu: maombi yalikuwa kwake tabia ya kudumu (si jibu la dharura wakati wa shida), na tabia hiyo ilithibitika kuwa na nguvu kuliko hofu. Ukawaida wa maombi hujenga uti wa mgongo wa imani kwa wakati wa majaribu."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Mark.1.35",
+              "ref": "Mk 1:35"
+            }
+          ],
+          "comment": "Yesu mwenyewe, ingawa alikuwa Mwana wa Mungu, alitafuta mahali na wakati wa kuzungumza na Baba - alfajiri mapema, faraghani. Ukawaida si dalili ya udhaifu wa imani, bali ni nguvu yake.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Ni wakati gani katika siku yako ungeweza kuwa na kipindi cha kudumu, cha utulivu cha kuzungumza na Mungu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Luke.18.1",
+              "ref": "Lk 18:1"
+            }
+          ],
+          "comment": "Yesu anafundisha \"kwamba imewapasa kuomba sikuzote, wala wasikate tamaa\". Kustahimili katika maombi ni kinyume cha kukata tamaa.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Ni katika jambo gani unajaribiwa kuacha kuomba? Ingemaanisha nini \"kutokata tamaa\"?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Mungu husikia na hujibu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "1John.5.14-15",
+              "ref": "1Yoh 5:14-15"
+            }
+          ],
+          "comment": "Tuna ujasiri kwamba Mungu hutusikia tunapoomba sawasawa na mapenzi yake. Maombi si kuzungumza katika ombwe - yanasikiwa.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Kujua kwamba Mungu kweli anakusikia, si tu \"kupokea\" maneno yako, kunabadilisha nini?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Isa.65.24",
+              "ref": "Isa 65:24"
+            }
+          ],
+          "comment": "\"Kabla hawajaniita, nitajibu\" - Mungu si mvivu. Jibu lake mara nyingi hutangulia maombi yetu.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Je, imewahi kukutokea kuona jibu kwa hitaji ambalo bado hujapata nafasi ya kulisema?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Luke.22.42",
+              "ref": "Lk 22:42"
+            }
+          ],
+          "comment": "Huko Gethsemane Yesu anaomba: \"si mapenzi yangu, bali yako yatendeke\". Mungu hujibu kwa namna tatu - \"ndiyo\", \"hapana\", \"subiri\" - na jibu lake daima hutoka katika upendo, si kutojali.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Unalipokeaje jibu la Mungu la \"hapana\" au \"subiri\"? Je, ni rahisi zaidi kumtumaini jibu linapokuwa \"ndiyo\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "\"kikombe\" huko Gethsemane (Lk 22:42)",
+          "content": "\"Kikombe\", ambacho Yesu anaomba kiondolewe, katika Agano la Kale ni taswira ya hukumu ya Mungu juu ya dhambi (mf. Zab 75:8; Isa 51:17). Yesu harudi nyuma mbele ya mateso ya kawaida tu - anakabiliana na kunywa \"kikombe\" kilichotustahili sisi. Maombi yake \"si mapenzi yangu, bali yako\" pia yanaonyesha kwamba mfano wa juu kabisa wa maombi si kulazimisha maoni yako mwenyewe, bali ni kuyatumaini mapenzi ya Baba hata katika giza kuu."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "2Cor.12.8-9",
+              "ref": "2Kor 12:8-9"
+            }
+          ],
+          "comment": "Paulo aliomba mara tatu mateso yaondolewe, naye Mungu akajibu tofauti na alivyoomba: \"neema yangu yakutosha\". Wakati mwingine Mungu habadilishi hali, bali hutoa nguvu ya kupita ndani yake.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Je, unaweza kueleza wakati ambapo jibu la Mungu lilikuwa tofauti na bora kuliko ulichokiomba?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Jas.4.3",
+              "ref": "Yak 4:3"
+            }
+          ],
+          "comment": "Wakati mwingine \"twaomba, wala hatupati\", kwa sababu twaomba vibaya - kwa kutaka kuridhisha tamaa zetu wenyewe. Maombi si chombo cha kutimiza ubinafsi, bali ni mahali pa moyo kukomaa.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Unawezaje kutofautisha ombi linalotafuta kweli mapenzi ya Mungu na jaribio la \"kumtumia\" Mungu kwa malengo yako mwenyewe?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Maombi hunibadilisha mimi na hali",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Jas.5.16",
+              "ref": "Yak 5:16"
+            }
+          ],
+          "comment": "\"Kuomba kwake mwenye haki kwafaa sana, kukiwa kwa bidii\" - maombi kweli yanabadilisha jambo fulani ulimwenguni. Si tu tiba kwa anayeomba; Mungu hutenda kwa kuyajibu.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Je, ni rahisi zaidi kwako kuamini kwamba maombi yanakubadilisha wewe, au kwamba yanabadilisha pia mwenendo wa mambo? Kwa nini?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "worship",
+          "label": "maombi kama uvumba mbele za Mungu (Ufu 5:8)",
+          "content": "Katika Ufu 5:8 na 8:3-4 maombi ya watakatifu yanaonyeshwa kama uvumba unaopanda mbele ya kiti cha enzi cha Mungu (linganisha Zab 141:2: \"maombi yangu na yawe kama uvumba\"). Taswira inasema mambo mawili: maombi ni yenye kupendeza kwa Mungu kama moshi wenye harufu nzuri wa sadaka, na hakuna linalopotea - yote \"yanakusanywa\" mbinguni. Ombi lako la kimya kabisa hufika mpaka katika ua wa mbingu yenyewe."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Luke.11.9-13",
+              "ref": "Lk 11:9-13"
+            }
+          ],
+          "comment": "Zawadi bora kuliko zote ambayo Baba huwapa wanaomwomba ni Roho Mtakatifu. Maombi hutubadilisha hasa sisi - hufungua moyo kupokea uwepo wa Mungu.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Kama \"jibu\" kubwa kuliko yote kwa maombi yako lingekuwa Mungu mwenyewe, si kitu unachokiomba - je, hilo lingekutosha?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Maombi si mtihani wa maneno yanayofaa wala wajibu wa kidini. Ni mazungumzo na Rafiki ambaye tayari anakujua, anakusikia kweli na hujibu - wakati mwingine \"ndiyo\", wakati mwingine \"hapana\", wakati mwingine \"subiri\" - daima kwa upendo. Huhitaji kujua kuomba ili uanze; inatosha uanze kusema. Na kadiri unavyozungumza zaidi na Mungu, ndivyo maombi yanavyobadilisha si tu hali zako, bali hasa wewe mwenyewe.",
+    "challenge": "Kwa wiki ijayo, kila siku tafuta kipindi kimoja cha utulivu cha mazungumzo ya kweli, mafupi na Mungu - bila maneno yaliyotayarishwa, kwa maneno yako mwenyewe. Unaweza kuyajenga juu ya mfano wa Sala ya Bwana (Mt 6:9-13): anza kwa shukrani, kisha mwambie Mungu kuhusu hitaji moja maalum na wasiwasi mmoja unaotaka kumkabidhi."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study modlitwa"
+  }
+}

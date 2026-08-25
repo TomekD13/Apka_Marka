@@ -1,0 +1,415 @@
+{
+  "lang": "sw",
+  "translation": "NENO",
+  "title": "Biblia - mistari 50 muhimu",
+  "themes": [
+    {
+      "id": "wielki-boj",
+      "name": "Historia ya wokovu",
+      "cards": [
+        {
+          "id": "wb-1",
+          "ref": "Isaya 14:12-14",
+          "osis": [
+            "Isa.14.12-14"
+          ]
+        },
+        {
+          "id": "wb-2",
+          "ref": "Ezekieli 28:12-17",
+          "osis": [
+            "Ezek.28.12-17"
+          ]
+        },
+        {
+          "id": "wb-3",
+          "ref": "Ufunuo 12:7-9",
+          "osis": [
+            "Rev.12.7-9"
+          ]
+        },
+        {
+          "id": "wb-4",
+          "ref": "Mwanzo 1:1,27,31",
+          "osis": [
+            "Gen.1.1",
+            "Gen.1.27",
+            "Gen.1.31"
+          ]
+        },
+        {
+          "id": "wb-5",
+          "ref": "Mwanzo 3:6-8,15",
+          "osis": [
+            "Gen.3.6-8",
+            "Gen.3.15"
+          ]
+        },
+        {
+          "id": "wb-6",
+          "ref": "Ayubu 1:6-12",
+          "osis": [
+            "Job.1.6-12"
+          ]
+        },
+        {
+          "id": "wb-7",
+          "ref": "Ufunuo 21:1-5",
+          "osis": [
+            "Rev.21.1-5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zbawienie",
+      "name": "Wokovu kwa neema",
+      "cards": [
+        {
+          "id": "zb-1",
+          "ref": "Warumi 6:23",
+          "osis": [
+            "Rom.6.23"
+          ]
+        },
+        {
+          "id": "zb-2",
+          "ref": "Waefeso 2:8-10",
+          "osis": [
+            "Eph.2.8-10"
+          ]
+        },
+        {
+          "id": "zb-3",
+          "ref": "Isaya 53:3-7",
+          "osis": [
+            "Isa.53.3-7"
+          ]
+        },
+        {
+          "id": "zb-4",
+          "ref": "Warumi 3:21-26",
+          "osis": [
+            "Rom.3.21-26"
+          ]
+        },
+        {
+          "id": "zb-5",
+          "ref": "Wagalatia 2:16",
+          "osis": [
+            "Gal.2.16"
+          ]
+        },
+        {
+          "id": "zb-6",
+          "ref": "Yohana 3:3-6",
+          "osis": [
+            "John.3.3-6"
+          ]
+        },
+        {
+          "id": "zb-7",
+          "ref": "2 Wakorintho 5:19-21",
+          "osis": [
+            "2Cor.5.19-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jezus",
+      "name": "Yesu ni nani",
+      "cards": [
+        {
+          "id": "jz-1",
+          "ref": "Isaya 9:6",
+          "osis": [
+            "Isa.9.6"
+          ]
+        },
+        {
+          "id": "jz-2",
+          "ref": "Mathayo 1:23",
+          "osis": [
+            "Matt.1.23"
+          ]
+        },
+        {
+          "id": "jz-3",
+          "ref": "Yohana 1:1-3",
+          "osis": [
+            "John.1.1-3"
+          ]
+        },
+        {
+          "id": "jz-4",
+          "ref": "Yohana 14:9",
+          "osis": [
+            "John.14.9"
+          ]
+        },
+        {
+          "id": "jz-5",
+          "ref": "Yohana 20:28",
+          "osis": [
+            "John.20.28"
+          ]
+        },
+        {
+          "id": "jz-6",
+          "ref": "Wafilipi 2:5-8",
+          "osis": [
+            "Phil.2.5-8"
+          ]
+        },
+        {
+          "id": "jz-7",
+          "ref": "Waebrania 1:8",
+          "osis": [
+            "Heb.1.8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "powtorne-przyjscie",
+      "name": "Kuja mara ya pili kwa Yesu",
+      "cards": [
+        {
+          "id": "pp-1",
+          "ref": "Isaya 25:9",
+          "osis": [
+            "Isa.25.9"
+          ]
+        },
+        {
+          "id": "pp-2",
+          "ref": "Yohana 14:1-3",
+          "osis": [
+            "John.14.1-3"
+          ]
+        },
+        {
+          "id": "pp-3",
+          "ref": "Mathayo 24:26-27",
+          "osis": [
+            "Matt.24.26-27"
+          ]
+        },
+        {
+          "id": "pp-4",
+          "ref": "Matendo 1:9-11",
+          "osis": [
+            "Acts.1.9-11"
+          ]
+        },
+        {
+          "id": "pp-5",
+          "ref": "1 Wathesalonike 4:13-17",
+          "osis": [
+            "1Thess.4.13-17"
+          ]
+        },
+        {
+          "id": "pp-6",
+          "ref": "2 Wathesalonike 1:6-10",
+          "osis": [
+            "2Thess.1.6-10"
+          ]
+        },
+        {
+          "id": "pp-7",
+          "ref": "Ufunuo 1:7",
+          "osis": [
+            "Rev.1.7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "szabat",
+      "name": "Siku ya mapumziko",
+      "cards": [
+        {
+          "id": "sz-1",
+          "ref": "Mwanzo 2:2-3",
+          "osis": [
+            "Gen.2.2-3"
+          ]
+        },
+        {
+          "id": "sz-2",
+          "ref": "Ezekieli 20:12,20",
+          "osis": [
+            "Ezek.20.12",
+            "Ezek.20.20"
+          ]
+        },
+        {
+          "id": "sz-3",
+          "ref": "Isaya 66:23",
+          "osis": [
+            "Isa.66.23"
+          ]
+        },
+        {
+          "id": "sz-4",
+          "ref": "Marko 2:27-28",
+          "osis": [
+            "Mark.2.27-28"
+          ]
+        },
+        {
+          "id": "sz-5",
+          "ref": "Luka 4:16",
+          "osis": [
+            "Luke.4.16"
+          ]
+        },
+        {
+          "id": "sz-6",
+          "ref": "Luka 23:56; 24:1",
+          "osis": [
+            "Luke.23.56",
+            "Luke.24.1"
+          ]
+        },
+        {
+          "id": "sz-7",
+          "ref": "Kutoka 20:8-11",
+          "osis": [
+            "Exod.20.8-11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prawo",
+      "name": "Sheria ya Mungu",
+      "cards": [
+        {
+          "id": "pr-1",
+          "ref": "Mwanzo 26:5",
+          "osis": [
+            "Gen.26.5"
+          ]
+        },
+        {
+          "id": "pr-2",
+          "ref": "Kutoka 20:1-17",
+          "osis": [
+            "Exod.20.1-17"
+          ]
+        },
+        {
+          "id": "pr-3",
+          "ref": "Yeremia 31:31-33",
+          "osis": [
+            "Jer.31.31-33"
+          ]
+        },
+        {
+          "id": "pr-4",
+          "ref": "Mathayo 5:17-19",
+          "osis": [
+            "Matt.5.17-19"
+          ]
+        },
+        {
+          "id": "pr-5",
+          "ref": "Yakobo 2:10-12",
+          "osis": [
+            "Jas.2.10-12"
+          ]
+        },
+        {
+          "id": "pr-6",
+          "ref": "Warumi 3:20,31",
+          "osis": [
+            "Rom.3.20",
+            "Rom.3.31"
+          ]
+        },
+        {
+          "id": "pr-7",
+          "ref": "1 Yohana 5:2-3",
+          "osis": [
+            "1John.5.2-3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smierc",
+      "name": "Kifo na ufufuo",
+      "cards": [
+        {
+          "id": "sm-1",
+          "ref": "Mwanzo 2:7,17",
+          "osis": [
+            "Gen.2.7",
+            "Gen.2.17"
+          ]
+        },
+        {
+          "id": "sm-2",
+          "ref": "Mhubiri 9:5-6,10",
+          "osis": [
+            "Eccl.9.5-6",
+            "Eccl.9.10"
+          ]
+        },
+        {
+          "id": "sm-3",
+          "ref": "Zaburi 6:5",
+          "osis": [
+            "Ps.6.5"
+          ]
+        },
+        {
+          "id": "sm-4",
+          "ref": "Danieli 12:2",
+          "osis": [
+            "Dan.12.2"
+          ]
+        },
+        {
+          "id": "sm-5",
+          "ref": "Yohana 11:11-14,23-26",
+          "osis": [
+            "John.11.11-14",
+            "John.11.23-26"
+          ]
+        },
+        {
+          "id": "sm-6",
+          "ref": "1 Wakorintho 15:51-54",
+          "osis": [
+            "1Cor.15.51-54"
+          ]
+        },
+        {
+          "id": "sm-7",
+          "ref": "Ufunuo 20:14",
+          "osis": [
+            "Rev.20.14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "j316",
+      "name": "Yohana 3:16",
+      "bonus": true,
+      "cards": [
+        {
+          "id": "j316",
+          "ref": "Yohana 3:16",
+          "osis": [
+            "John.3.16"
+          ]
+        }
+      ]
+    }
+  ]
+}

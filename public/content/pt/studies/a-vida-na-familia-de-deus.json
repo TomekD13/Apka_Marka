@@ -1,0 +1,496 @@
+{
+  "id": "a-vida-na-familia-de-deus",
+  "lang": "pt",
+  "title": "A vida na família de Deus",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 13,
+  "summary": "A igreja não é um edifício, mas uma família e o corpo de Cristo - um lugar de comunhão, apoio e crescimento. Descobrimos o sentido de pertencer, a unidade expressa na obediência a Cristo, a Cabeça, e a Ceia do Senhor como memorial do sacrifício, com o rito de humildade. Camadas adicionais: discernir a vontade de Deus e a Ceia como memorial face à missa e à transubstanciação.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "a igreja",
+    "a comunhão",
+    "o corpo de Cristo",
+    "a Ceia do Senhor",
+    "orientação"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "A igreja é uma família, não um edifício",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Eph.2.19",
+              "ref": "Ef 2:19"
+            }
+          ],
+          "comment": "Os crentes são „membros da família de Deus\" - não convidados nem estranhos, mas membros da família. A igreja é, antes de tudo, pessoas unidas por Deus, e não um lugar ou uma instituição.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "O que muda quando olhamos para a igreja como uma „família\" à qual pertencemos, e não como um „lugar\" ao qual vamos?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "„Igreja\" significa „assembleia convocada\" (ekklesia)",
+          "content": "O grego *ekklesia* significa „os convocados, a assembleia\" (de *ek-kaleo* - „chamar para fora\") e, no mundo antigo, designava uma reunião de cidadãos, não um edifício. O Novo Testamento nunca chama „igreja\" a uma construção - a igreja são as pessoas chamadas por Deus. Por isso se pode „ser\" igreja, e não apenas „ir\" a ela.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐκκλησία",
+              "translit": "ekklesia"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Como muda a tua compreensão do compromisso quando „igreja\" significa uma comunidade de pessoas, e não um lugar?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "1Pet.2.9-10",
+              "ref": "1 Pe 2:9-10"
+            }
+          ],
+          "comment": "„O povo que outrora não era povo\" tornou-se „povo de Deus\". Pertencer à família de Deus não é um mérito - é um dom que cria uma nova identidade e comunhão.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "O que significa, para alguém que se sentia „de fora\", ouvir que foi incluído no „povo de Deus\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "1Cor.12.12-14",
+              "ref": "1 Co 12:12-14"
+            }
+          ],
+          "comment": "A igreja é como um só corpo com muitos membros - diferentes, mas necessários uns aos outros. Ninguém é dispensável e ninguém se basta a si mesmo.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Que „membros do corpo\" no teu meio de fé costumam ser desvalorizados - e o que é que isso te ensina sobre ti mesmo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "„o corpo de Cristo\" (soma) como imagem da igreja",
+          "content": "Paulo chama à igreja *soma Christou* - „o corpo de Cristo\". A imagem diz três coisas: diversidade (muitos membros diferentes), interdependência (o olho não pode dizer à mão „não preciso de ti\") e um destino comum (quando um membro sofre, todos sofrem com ele). Não é a metáfora de uma associação solta, mas de um organismo vivo, no qual Cristo é a Cabeça e os crentes são membros ligados uns aos outros.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "σῶμα",
+              "translit": "soma"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "1Cor.12.21-26",
+              "ref": "1 Co 12:21-26"
+            }
+          ],
+          "comment": "„Não pode o olho dizer à mão: não preciso de ti\". Quando „um membro sofre, todos sofrem com ele\" - a comunhão é interdependência e compaixão mútua, não um conjunto solto de indivíduos.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Quando foi a última vez que sentiste que alguém „sofreu contigo\" ou „se alegrou contigo\" na comunhão?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Unidade: Cristo, a Cabeça do corpo",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Eph.4.15-16",
+              "ref": "Ef 4:15-16"
+            }
+          ],
+          "comment": "Devemos „crescer para Aquele que é a Cabeça - Cristo\". A unidade do corpo não consiste em submeter-se a alguma autoridade terrena, mas na obediência comum a uma só Cabeça - Cristo. É dele que „todo o corpo\" recebe o crescimento.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "O que significa, na prática, que é Cristo - e não alguma instância humana - que é a „Cabeça\" da comunidade?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "unidade como submissão à Cabeça, não a uma autoridade terrena (Ef 4:15-16)",
+          "content": "Em Ef 4:15-16 a unidade e o crescimento da igreja fluem „da Cabeça\" - Cristo, de quem „todo o corpo\" é „ajustado\" e „unido\". A imagem situa a autoridade em Cristo, não numa estrutura terrena. A unidade dos cristãos não é, pois, uniformização sob um domínio humano, mas submissão comum a uma só Cabeça e serviço mútuo. A obediência na comunhão é fruto da relação com Cristo, não sujeição a uma instituição - em coerência com o princípio da sola scriptura.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Como reconhecer a diferença entre uma unidade „sob Cristo, a Cabeça\" e uma unidade imposta por uma autoridade humana?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Col.1.18",
+              "ref": "Cl 1:18"
+            }
+          ],
+          "comment": "„Ele é a Cabeça do corpo, da igreja\". A primazia na igreja pertence a Cristo - é Ele que dá a direção e une a comunidade.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Como reconhecer se uma comunidade realmente „se mantém ligada à Cabeça\", isto é, se orienta por Cristo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "John.17.20-23",
+              "ref": "Jo 17:20-23"
+            }
+          ],
+          "comment": "Jesus ora „para que todos sejam um\" - a unidade dos crentes deve ser um testemunho para o mundo. Não é um fim em si mesma, mas um sinal de que o Pai enviou o Filho.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Em que é que a unidade dos cristãos pode ser, para quem observa de fora, uma „prova\" da veracidade da fé?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "unidade como testemunho: „para que sejam um\" (Jo 17:21)",
+          "content": "Na oração sacerdotal, Jesus pede „para que todos sejam um… para que o mundo creia\". A unidade dos crentes não é um fim em si mesma nem uma uniformidade organizacional - é um testemunho. O modelo dessa unidade é o vínculo entre o Pai e o Filho („como Tu, Pai, em Mim\"): unidade no amor e no propósito, mantendo a distinção das Pessoas. Tal unidade torna-se, para quem observa, um argumento de que por detrás da igreja está Deus."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Eph.4.1-3",
+              "ref": "Ef 4:1-3"
+            }
+          ],
+          "comment": "A unidade „guarda-se\" na „humildade, mansidão, paciência\" e „suportando-vos uns aos outros em amor\". É o trabalho diário das relações, não um estado automático.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Qual destas atitudes - humildade, mansidão, paciência - ajudaria mais a tua comunidade?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Comunhão: apoio e crescimento",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Heb.10.24-25",
+              "ref": "Hb 10:24-25"
+            }
+          ],
+          "comment": "Devemos „não abandonar as nossas reuniões\" e „incentivar-nos uns aos outros ao amor e às boas obras\". Reunir-se não é uma formalidade - é um encorajamento mútuo, tanto mais importante „quanto mais perto está o dia\" da volta do Senhor.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "O que perdes quando te afastas da comunhão dos crentes - e o que ganhas quando permaneces nela?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Acts.2.42-47",
+              "ref": "At 2:42-47"
+            }
+          ],
+          "comment": "Os primeiros cristãos perseveravam „no ensino dos apóstolos, na comunhão, no partir do pão e nas orações\", partilhando o que tinham. É a imagem de uma comunhão viva e prática, e não apenas teoria.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Qual elemento da vida da primeira igreja (ensino, comunhão, partir do pão, oração) gostarias mais de ver hoje?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "„comunhão\" é participação e partilha (koinonia)",
+          "content": "O grego *koinonia* (At 2:42) significa mais do que „companhia\": é „participação, posse comum, partilha\". Por isso os primeiros cristãos não só se reuniam, mas „tinham tudo em comum\" e partilhavam os bens (At 2:44-45). A *koinonia* abrange a comunhão da fé, da oração, da mesa („partir do pão\") e da vida quotidiana. É o modelo de uma comunhão que é uma partilha real da vida, e não apenas um encontro semanal.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "κοινωνία",
+              "translit": "koinonia"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Gal.6.2",
+              "ref": "Gl 6:2"
+            }
+          ],
+          "comment": "„Levai as cargas uns dos outros\" - a comunhão é o lugar onde os fardos se partilham, em vez de se carregarem sozinhos. Assim „cumprimos a lei de Cristo\".",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Que „fardo\" carregas agora sozinho e que poderias partilhar na comunhão?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Eph.4.11-13",
+              "ref": "Ef 4:11-13"
+            }
+          ],
+          "comment": "Deus dá à comunidade diversos dons e ministérios, „para preparar os santos para a obra do ministério\" e para que o corpo „chegue à maturidade\". O crescimento espiritual realiza-se na comunhão, não no isolamento.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Que dom ou capacidade poderias trazer para servir os outros na família de Deus?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "A Ceia do Senhor: memorial e rito de humildade",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Luke.22.19-20",
+              "ref": "Lc 22:19-20"
+            }
+          ],
+          "comment": "Jesus institui a Ceia com as palavras „fazei isto em memória de mim\". O pão e o cálice apontam para o seu corpo partido e o seu sangue derramado - é um memorial do seu sacrifício, e não a sua repetição.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "O que significa participar na Ceia como num „memorial\" - o que é que ela não deve deixar-te esquecer?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "„memorial\" (anamnesis) em Lc 22:19",
+          "content": "O grego *anamnesis* („recordação, lembrança\") aponta para a evocação viva de um acontecimento do passado, não para a sua nova realização. „Fazei isto em minha *anamnesis*\" significa: fazei isto para lembrar e guardar no coração o sacrifício oferecido „de uma vez por todas\". É a base para entender a Ceia como memorial, e não como um sacrifício repetido.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἀνάμνησις",
+              "translit": "anamnesis"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "John.13.1-5",
+              "ref": "Jo 13:1-5"
+            }
+          ],
+          "comment": "Antes da Ceia, Jesus lava os pés aos discípulos - tarefa de escravo. Este rito de humildade precede a Ceia e dá-lhe o tom: um encontro com o Deus que serve.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "O que sentes ao pensar num Deus que se ajoelha para lavar os pés daqueles que O iriam atraiçoar?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "worship",
+          "label": "o lava-pés como rito (Jo 13:14-15)",
+          "content": "Jesus não só lavou os pés aos discípulos, mas ordenou expressamente: „também vós deveis lavar os pés uns aos outros… dei-vos o exemplo\". Muitas comunidades cristãs praticam o lava-pés como rito de humildade que precede a Ceia do Senhor - o cumprimento literal da ordem de Jesus e a preparação do coração através da reconciliação e do serviço. É um lembrete de que à mesa do Senhor se chega numa atitude de humildade, não de superioridade."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "John.13.14-17",
+              "ref": "Jo 13:14-17"
+            }
+          ],
+          "comment": "„Se Eu vos lavei os pés… também vós deveis lavar os pés uns aos outros\". Jesus deixa o modelo de um serviço mútuo e humilde - e promete bênção àqueles que o seguem.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Como é que o rito de lavar os pés se traduz num serviço concreto e quotidiano para com os outros?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "1Cor.11.27-29",
+              "ref": "1 Co 11:27-29"
+            }
+          ],
+          "comment": "Paulo apela a que nos aproximemos da Ceia depois de „examinar-nos a nós mesmos\" - numa atitude de sinceridade e reconciliação, não „indignamente\". É um convite à reflexão, não ao medo.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "O que vale a pena „examinar\" em nós antes de participar na Ceia do Senhor?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "A Ceia como memorial face à missa e à transubstanciação",
+          "content": "Questão sensível: na Ceia, o pão e o vinho tornam-se literalmente o corpo e o sangue de Cristo (transubstanciação), e o rito é uma renovação do sacrifício (a missa)? A Escritura apresenta a Ceia como „memorial\" (Lc 22:19 - *anamnesis*) e „anúncio da morte do Senhor, até que Ele venha\" (1 Co 11:24-26), e não como um sacrifício repetido. A Carta aos Hebreus sublinha que o sacrifício de Cristo foi único e suficiente: „de uma vez por todas\" (Hb 10:10), „com uma só oferta tornou perfeitos para sempre\" (Hb 10:14). Visto que se realizou „de uma vez por todas\", não precisa de ser repetido. Os elementos da Ceia permanecem sinais que apontam para Cristo. A crítica diz respeito ao ensino e ao rito, nunca às pessoas que, de boa fé, adoram a Deus - a medida é a Escritura (Is 8:20).",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Se o sacrifício de Cristo foi „de uma vez por todas\" (Hb 10:10,14), o que é que isso diz sobre o que a Ceia é e o que não é?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "O Reino de Deus aqui e agora",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Luke.17.20-21",
+              "ref": "Lc 17:20-21"
+            }
+          ],
+          "comment": "„O Reino de Deus está no meio de vós\" - não é apenas uma realidade futura. A comunhão da família de Deus é o lugar onde esse Reino já se concretiza na terra.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Onde, na vida da família de Deus, se vê que o „Reino de Deus está no meio\" das pessoas já agora?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Matt.5.13-16",
+              "ref": "Mt 5:13-16"
+            }
+          ],
+          "comment": "A comunidade é „o sal da terra\" e „a luz do mundo\" - deve influenciar o que a rodeia, não fechar-se em si mesma. O Reino vê-se pelo facto de as „boas obras\" levarem as pessoas a glorificar a Deus.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Como poderia a tua comunidade ser mais „luz\" para o que a rodeia, e não apenas um lugar para „os de dentro\"?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "A igreja não é um edifício ao qual se vai, mas uma família à qual se pertence - o corpo de Cristo, no qual ninguém é dispensável e ninguém se basta a si mesmo. A sua unidade não consiste na sujeição a uma autoridade humana, mas em manter-se em conjunto ligado a uma só Cabeça - Cristo. Na comunhão partilhamos os fardos, crescemos e apoiamo-nos uns aos outros. A Ceia do Senhor recorda-nos o sacrifício de Jesus oferecido „de uma vez por todas\", e o rito de humildade que a precede ensina-nos que o nosso Deus é Aquele que serve. Tudo isto já hoje é uma manifestação do Reino de Deus no meio de nós.",
+    "challenge": "Esta semana dá um passo concreto rumo à comunhão: contacta alguém da família de Deus, oferece ajuda para carregar um „fardo\" ou envolve-te num serviço. Se participares na Ceia do Senhor, prepara-te com um momento de reflexão sincera e de reconciliação (1 Co 11:28) e encara o rito de humildade como modelo de serviço para o resto da semana."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "PT translation of PL study zycie-w-bozej-rodzinie"
+  }
+}

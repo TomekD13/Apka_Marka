@@ -1,0 +1,540 @@
+{
+  "id": "utume-wangu-na-vipawa-vyangu",
+  "lang": "sw",
+  "title": "Utume wangu na vipawa vyangu",
+  "category": "basic_systematic",
+  "seriesId": "zycie-w-przymierzu",
+  "order": 21,
+  "summary": "Kila kitu ni mali ya Mungu - mimi ni msimamizi, si mmiliki. Uwakili waaminifu unahusu wakati, vipaji na pesa (zaka na sadaka) na hutoka katika shukrani, si katika kulazimishwa. Kutokana na hili unazaliwa utume wangu binafsi na wa hapa nilipo: jinsi ninavyomtumikia Mungu na watu kwa vitendo katika jumuiya yangu na mazingira yangu.",
+  "minutes": {
+    "base": 45,
+    "extended": 65
+  },
+  "tags": [
+    "uwakili",
+    "usimamizi",
+    "zaka",
+    "utume",
+    "huduma",
+    "ushuhuda"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Msimamizi, si mmiliki",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Ps.24.1",
+              "ref": "Zab 24:1"
+            }
+          ],
+          "comment": "\"Nchi ni ya BWANA na vyote viijazavyo\". Mahali pa kuanzia pa uwakili waaminifu: hakuna kati ya vile ninavyovimiliki ni changu hatimaye - kila kitu kimekabidhiwa.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Ni nini kinachobadilika katika mtazamo kuhusu pesa na vitu wazo kwamba wewe ni msimamizi, si mmiliki?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "1Cor.4.2",
+              "ref": "1Kor 4:2"
+            }
+          ],
+          "comment": "\"Inatakiwa kwa mawakili kila mmoja aonekane mwaminifu\". Mungu hauulizi kwanza kuhusu ukubwa wa kile kilichokabidhiwa, bali kuhusu uaminifu katika kukisimamia.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Unafikiri ni katika nini ni rahisi zaidi, na katika nini ni vigumu zaidi kuwa \"msimamizi mwaminifu\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "1Chr.29.14",
+              "ref": "1Nya 29:14"
+            }
+          ],
+          "comment": "Daudi anakiri: \"vyote vyatoka kwako, na tumekupa tu vile vilivyo vya mkono wako\". Hata sadaka zetu kwa Mungu ni kwanza zawadi yake kwetu.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Je, ufahamu kwamba unampa Mungu kile ulichokwisha kupokea kutoka kwake unamaanisha nini kwa ukarimu wako?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"msimamizi / uwakili\" (oikonomos / oikonomia)",
+          "content": "Neno la Kiyunani *oikonomos* ni msimamizi wa nyumba na mali ya mtu mwingine (*oikonomia* - usimamizi). Msimamizi hutumia mali iliyokabidhiwa kwa manufaa ya mmiliki na huhesabu mbele yake. Neno lenyewe linadhihirisha kwamba mimi si mmiliki wa maisha na mali, bali msimamizi wa kuaminika wa mali ya Mungu.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "οἰκονόμος",
+              "translit": "oikonomos"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Je, mfano wa *oikonomos* (msimamizi wa nyumba ya mtu mwingine) unapangaje fikira zako kuhusu pesa, wakati na vipaji?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "\"aliyewekwa juu ya nyumba\" katika Agano la Kale",
+          "content": "Taswira ya kibiblia ya msimamizi mwaminifu inakua kutoka kwa mtu wa wakili wa kuaminika \"aliyewekwa juu ya nyumba\" ya bwana: mtumishi wa Abrahamu alisimamia mali yake yote (Mwa 24:2), na Yusufu alisimamia kwanza nyumba ya Potifa, kisha gereza, hatimaye Misri yote (Mwa 39:4; 41:40). \"Nyumba\" hapa inamaanisha mali, familia, hata ufalme wote. Msimamizi ni mtumishi, lakini mtumishi mwenye mamlaka halisi - na mwenye uwajibikaji mbele ya bwana."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Kusimamia wakati na vipaji",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Eph.5.15-16",
+              "ref": "Efe 5:15-16"
+            }
+          ],
+          "comment": "\"Tumieni vyema wakati\" (kihalisi \"ukombozeni\"), kwa kuwa siku ni za uovu. Wakati ni rasilimali iliyokabidhiwa, ninayoutumia mara moja tu - nao pia unahitaji usimamizi waaminifu.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Ni katika nini \"unautumia\" wakati mwingi zaidi, na ni katika nini ungependa kuuelekeza kwa makusudi?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Matt.25.19-23",
+              "ref": "Mt 25:19-23"
+            }
+          ],
+          "comment": "Bwana anawahesabu watumishi kwa talanta walizokabidhiwa; kwa waaminifu anasema: \"vyema, mtumishi mwema\". Kinachohesabiwa si idadi ya talanta, bali kama zilitumika katika huduma.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Ni \"talanta\" gani (vipaji) Mungu amekukabidhi - na unavitumiaje leo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "1Pet.4.10-11",
+              "ref": "1Pet 4:10-11"
+            }
+          ],
+          "comment": "Anayehudumu, na afanye hivyo \"kwa nguvu anazozitoa Mungu\" - ili \"katika mambo yote Mungu atukuzwe\". Lengo la usimamizi si utukufu wetu, bali wa Mungu.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Ni nini kinachobadilika wakati huduma inapaswa kuelekea utukufu wa Mungu, si sifa yangu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "karama za neema kama *charismata",
+          "content": "Paulo anaviita vipaji vya huduma *charismata* - \"kile kilichotolewa kama karama ya neema\" (1Kor 12:4-11; Rum 12:6-8). Vipaji vinavyoitwa vya asili huwa *charismata* tu vinapotumika kwa kuijenga jumuiya. Kanisa ni \"jumuiya ya waliopewa karama\" wanaoutumikia ulimwengu - hivyo kusimamia talanta kunamaanisha utume na huduma maalum kwa jina la Kristo.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χαρίσματα",
+              "translit": "charismata"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "wakati kama zawadi iliyokabidhiwa",
+          "content": "Maandiko mara nyingi yanasisitiza ufupi wa wakati na uhitaji wa kuusimamia kwa hekima: \"utufundishe kuzihesabu siku zetu\" (Zab 90:12), \"lolote mkono wako utakalolipata kulifanya, lifanye\" (Mhu 9:10), \"usiku waja ambao hakuna awezaye kutenda kazi\" (Yoh 9:4). Inafaa kuutaja wakati pamoja na talanta, mali na mwili kama mojawapo ya rasilimali zilizokabidhiwa, ambazo tutazitolea hesabu. Wakati ni \"malighafi ambayo kwayo maisha yamefumwa\"."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Kusimamia pesa: zaka na sadaka",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Mal.3.8-10",
+              "ref": "Mal 3:8-10"
+            }
+          ],
+          "comment": "Mungu anasema juu ya zaka na sadaka kama kitu kilicho chake, na anaalika: \"nijaribuni\". Zaka si kodi, bali ni ungamo la imani kwamba Mungu ndiye chanzo.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Mwaliko wa Mungu \"nijaribuni\" katika suala la kumtumaini katika eneo la fedha unamaanisha nini?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "2Cor.9.6-8",
+              "ref": "2Kor 9:6-8"
+            }
+          ],
+          "comment": "\"Kila mtu na atoe kama alivyokusudia moyoni, si kwa huzuni… Mungu humpenda atoaye kwa furaha\". Kutoa kunapaswa kutiririka kutoka katika shukrani na uhuru, si kutoka katika kulazimishwa.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Je, kutoa \"kwa huzuni/wajibu\" kunatofautianaje na kutoa \"kwa furaha\"? Ni nini kinachozaa tofauti hiyo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"atoaye kwa furaha\" (hilaros)",
+          "content": "Katika sentensi \"Mungu humpenda atoaye kwa furaha\" (2Kor 9:7) neno la Kiyunani *hilaros* linamaanisha \"mchangamfu, mwenye hiari, aliyefurahi\" - kutoka kwake linatokana neno la Kiingereza \"hilarious\". Mungu hatafuti mtoaji aliyelazimishwa wala anayehesabu kwa huzuni, bali yule anayetoa kutoka katika furaha ya ndani. Ukarimu hapa ni tunda la shukrani, si njia ya \"kununua\" upendeleo wa Mungu.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἱλαρόν",
+              "translit": "hilaron"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Matt.6.19-21",
+              "ref": "Mt 6:19-21"
+            }
+          ],
+          "comment": "\"Hazina yako ilipo, ndipo utakapokuwa na moyo wako\". Kile ninachowekeza kinaonyesha na kuumba kile ninachokipenda kweli.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Je, matumizi yako ya mwezi uliopita yanasema nini kuhusu mahali ilipo \"hazina\" yako?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Luke.21.1-4",
+              "ref": "Lk 21:1-4"
+            }
+          ],
+          "comment": "Mjane maskini anatupa \"senti mbili\", na Yesu anaithamini sadaka yake kuliko fedha nyingi za matajiri - kwa sababu alitoa \"katika umaskini wake, vyote\". Mungu anatazama uwiano wa moyo, si kiasi.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Je, habari hii inamwambia nini mtu anayefikiri kwamba \"ana kidogo mno hata kutoa\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Prov.3.9-10",
+              "ref": "Mit 3:9-10"
+            }
+          ],
+          "comment": "\"Mheshimu BWANA kwa mali yako na kwa malimbuko\". Kumpa Mungu kile cha kwanza na bora ni tendo la heshima na imani, si hasara.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Inamaanisha nini kumpa Mungu \"malimbuko\", si kile kinachobaki mwishoni?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "\"zaka\" (maʿăśēr)",
+          "content": "Neno la Kiebrania *maʿăśēr* linamaanisha tu \"sehemu ya kumi\". Katika Agano la Kale kutoa zaka (Mwa 14:20 - Abrahamu; Mwa 28:22 - Yakobo) kunatangulia Sheria ya Musa, jambo linaloonyesha kwamba ni kanuni ya zamani kuliko mfumo wa kiibada na inadhihirisha kumtambua Mungu kuwa chanzo cha vitu vyote.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "מַעֲשֵׂר",
+              "translit": "maʿăśēr"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "\"sadaka/dhabihu\" (mattānāh)",
+          "content": "Mbali na zaka Mungu aliomba sadaka za hiari; neno la Kiebrania *mattānāh* (kutoka kitenzi *nātan*, \"kutoa\") ni zawadi inayotiririka kutoka katika moyo mwema na wenye ukarimu. Neno hilohilo linaeleza zawadi ya baba kwa mtoto (Mwa 25:5) na zawadi ya Mungu ya ukuhani kwa Aroni (Hes 18:7). Hivyo sadaka si kodi, bali ni tendo la upendo - jibu kwa neema ya Yule \"awapaye wote kwa ukarimu\" (Yak 1:5).",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "מַתָּנָה",
+              "translit": "mattānāh"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "zaka dhidi ya mgawanyo wa uongo kati ya \"kiroho\" na \"kimwili\"",
+          "content": "Zaka inashikika - inakumbusha kwamba uumbaji wa kimwili uliitwa \"mwema\". Tuzingatie kwamba kuitoa kunamwokoa mwamini na mgawanyo wa uongo kati ya nyanja ya kiroho na ya kimwili: Mungu wa Israeli ni mtoaji wa kila wema na haugawi kuwa \"takatifu\" na \"wa kawaida\". Jambo la maana, katika nyakati za Nehemia ukarimu ulitiririka kutoka katika furaha - watu \"walifurahi\" kwa huduma ya makuhani na Walawi (Neh 12:44)."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Utume wangu: binafsi na wa hapa nilipo",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Matt.28.18-20",
+              "ref": "Mt 28:18-20"
+            }
+          ],
+          "comment": "\"Nendeni mkawafanye mataifa kuwa wanafunzi\" - hii ni amri kwa kila mwamini, si kwa wachungaji tu. Utume unaanza pale nilipo.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Liko wapi \"nendeni\" lako mahususi - ni katika mazingira gani Mungu amekuweka?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Acts.1.8",
+              "ref": "Mdo 1:8"
+            }
+          ],
+          "comment": "Tunapaswa kuwa mashahidi \"katika Yerusalemu\" (hapa, karibu) na \"hata miisho ya nchi\". Utume una mpangilio: kwanza mazingira yangu ya karibu.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Ni nani aliye \"Yerusalemu\" yako - mduara wa karibu zaidi ambao Mungu anakutuma kwao?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Matt.5.14-16",
+              "ref": "Mt 5:14-16"
+            }
+          ],
+          "comment": "\"Ninyi ni nuru ya ulimwengu… nuru yenu na iangaze\". Utume si maneno tu, bali matendo mema, ambayo kwayo watu \"wanamtukuza Baba\".",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Ni kwa \"tendo jema\" gani wiki hii nuru yako ingeweza kuangaza kwa mtu fulani mahususi?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Gal.6.9-10",
+              "ref": "Gal 6:9-10"
+            }
+          ],
+          "comment": "\"Tutende mema kwa watu wote… tusichoke\". Utume wa hapa nilipo ni wema wa kudumu, wa kila siku kwa watu wanaonizunguka, hasa katika jumuiya ya imani.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Ni nini kinachokusaidia \"usichoke\" katika kutenda mema, wakati matokeo ya haraka hayaonekani?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "utume kama tunda la asili la uwakili waaminifu",
+          "content": "Katika Agano Jipya utume si jukumu la kundi maalum, bali ni kazi ya mwili wote wa Kristo (Mt 28:18-20; Mdo 1:8; 1Pet 2:9 - \"taifa lake mwenyewe… mpate kuzitangaza\"). Kusimamia wakati, vipaji na mali pamoja na utume ni pande mbili za mtazamo uleule: kila kitu nilicho nacho kinatumikia kusudi la Mungu - kuwafikia watu kwa habari njema. Namna yenye ufanisi zaidi ni ushuhuda wa kiuhusiano, wa hapa nilipo (\"njoo uone\"), si shinikizo."
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Sehemu ya 5 (extended · III/7-D1) - Jinsi ya kushiriki imani na kumwongoza mtu kwa Yesu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "1Pet.3.15",
+              "ref": "1Pet 3:15"
+            }
+          ],
+          "comment": "\"Iweni tayari kujibu… kwa upole na heshima\". Kushiriki imani si kulazimisha, bali ni utayari wa kueleza kwa heshima juu ya tumaini nililo nalo.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Ni \"tumaini lililo ndani yako\" gani ungeweza kumweleza mtu leo kwa sentensi chache?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "John.1.40-46",
+              "ref": "Yoh 1:40-46"
+            }
+          ],
+          "comment": "Andrea anamwendea ndugu yake, Filipo anamwendea rafiki - njia rahisi zaidi ya utume ni \"njoo uone\". Huhitaji kuwa na majibu yote; inatosha kumwalika kwa Yesu.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Ni nani - kwa mfano wa Andrea na Filipo - ungeweza tu kumwalika ili \"aje aone\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "John.4.28-30",
+              "ref": "Yoh 4:28-30"
+            }
+          ],
+          "comment": "Mwanamke Msamaria, mara tu baada ya kukutana na Yesu, anakimbia mjini: \"Njooni, mwone\". Ushuhuda hauhitaji elimu ya kitheolojia - kinatosha uzoefu wako mwenyewe, mpya, wa kukutana.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Ni nini katika kukutana kwako mwenyewe na Mungu ni halisi kiasi cha kutaka kukishiriki?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "Mark.5.19",
+              "ref": "Mk 5:19"
+            }
+          ],
+          "comment": "Yesu anamwambia yule aliyeponywa: \"Nenda nyumbani kwako, kwa watu wako, ukawaeleze mambo aliyokutendea Bwana\". Eneo la karibu na la asili la utume ni nyumba yako mwenyewe na watu unaowafahamu.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Ni nini Bwana amekutendea, ambacho kinafaa kueleza kwanza kwa \"watu wako\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "Kanisa la kwanza kama kielelezo cha kushiriki",
+          "content": "Jumuiya ya mitume ilikuwa onyesho hai la uwakili: waamini \"walikuwa na vitu vyote shirika\" na waligawana kulingana na mahitaji (Mdo 2:44-45), na Wakristo kutoka mataifa waliisaidia kwa ukarimu Kanisa la Yudea lililokuwa na njaa (Mdo 11:29-30). Kanisa la mitume ni \"kielelezo cha usimamizi waaminifu kwa nyakati zote\" - kushiriki mali na imani si nyongeza, bali ni asili yenyewe ya jumuiya ambayo \"haipo kwa ajili yake yenyewe\"."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n11",
+          "noteType": "background",
+          "label": "ushuhuda wa \"njoo uone\" kama njia ya utume",
+          "content": "Mfano rahisi zaidi wa kushiriki imani katika Injili ni mwaliko binafsi: Andrea anamwendea ndugu yake, Filipo anasema \"njoo uone\" (Yoh 1:40-46), mwanamke Msamaria anaita mji (Yoh 4:28-30), na yule aliyeponywa anarudi \"kwa watu wake\" (Mk 5:19). Huhitaji kuwa na majibu yote wala elimu ya kitheolojia - kinatosha uzoefu mpya, wako mwenyewe wa kukutana na Yesu na uhusiano na mtu fulani mahususi.",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Ni \"njoo uone\" la nani lilikuwa na uzito katika safari yako ya imani - na ni nani ungeweza kumwambia jambo lilelile leo?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Mimi si mmiliki wa maisha yangu - mimi ni msimamizi wa kile Mungu amenikabidhi: wakati, vipaji na pesa. Uwakili waaminifu, pamoja na zaka na sadaka, hautiriki kutoka katika kulazimishwa wala woga, bali kutoka katika shukrani kwa Yule ambaye kila kitu kinatoka kwake. Na kwa kuwa kila kitu ni mali ya Mungu na kinatumikia makusudi yake, kwa kawaida unazaliwa utume - wa hapa nilipo na mahususi sana: mazingira yangu, jumuiya yangu, nyumba yangu. Sihitaji kuwa na majibu yote. Inatosha kwamba kwa shukrani ninasimamia kile nilicho nacho, na kwa heshima ninawaalika wengine: \"njoo uone\".",
+    "challenge": "Fanya wiki hii \"ukaguzi rahisi wa msimamizi\": andika jinsi unavyotumia kwa uhalisia wakati, vipaji na pesa, na ubainishe eneo moja unalotaka kumpa Mungu kwa makusudi. Zaidi ya hayo chagua mtu mmoja kutoka katika \"Yerusalemu\" yako na wiki hii uchukue kwake hatua moja mahususi ya utume - tendo la wema au mwaliko wa \"njoo uone\"."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study szafarstwo-i-misja"
+  }
+}

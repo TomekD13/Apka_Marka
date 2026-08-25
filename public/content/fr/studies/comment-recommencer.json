@@ -1,0 +1,540 @@
+{
+  "id": "comment-recommencer",
+  "lang": "fr",
+  "title": "Comment recommencer ?",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 6,
+  "summary": "La conversion n'est pas une amélioration de soi, mais un changement de direction : la repentance et le don de sa vie à Dieu, par lequel il fait naître l'homme de nouveau, donne un coeur nouveau et fait de lui une nouvelle créature. C'est le début d'une relation renouvelée chaque jour, et non un acte ponctuel à cocher.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "la conversion",
+    "la repentance",
+    "la nouvelle naissance",
+    "le coeur nouveau",
+    "la nouvelle créature",
+    "le don de sa vie"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "La repentance : un changement de direction",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Mark.1.15",
+              "ref": "Mc 1:15"
+            }
+          ],
+          "comment": "Les premières paroles de la mission publique de Jésus : *convertissez-vous et croyez à l'Évangile*. La conversion et la foi sont les deux faces d'un même retournement vers Dieu.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Que signifie « se convertir » - une simple amélioration du comportement, ou un changement de celui en qui je place ma confiance et vers qui je marche ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "la « conversion » est un changement de pensée et de direction",
+          "content": "Le grec *metanoia* ne signifie pas d'abord « tristesse » ni « punition », mais « changement de pensée et de disposition » qui conduit à un changement de direction de vie. Ce n'est pas de l'auto-flagellation, mais une nouvelle façon de voir d'où découle un nouveau chemin. La repentance et la foi de Mc 1:15 sont les deux faces d'un même retournement : je me détourne de mon ancienne route parce que j'ai fait confiance à la Bonne Nouvelle.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μετάνοια",
+              "translit": "metanoia"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Comment le fait de comprendre la conversion comme un « changement de pensée et de direction » (et non comme un simple regret) change-t-il la pratique de la repentance ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Acts.3.19",
+              "ref": "Ac 3:19"
+            }
+          ],
+          "comment": "*Repentez-vous et convertissez-vous, pour que vos péchés soient effacés.* La repentance n'est pas une punition que je m'inflige - elle est le chemin vers la libération et un « rafraîchissement ».",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "À quoi associais-tu jusqu'ici la « repentance » - à un fardeau ou à un soulagement ? Qu'est-ce que ce texte change ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Luke.15.17-20",
+              "ref": "Lc 15:17-20"
+            }
+          ],
+          "comment": "Le fils prodigue *rentra d'abord en lui-même*, puis *se leva et alla vers son père*. La conversion, c'est la lucidité plus un mouvement réel vers la maison.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Lequel est parfois le plus difficile : voir la vérité sur soi-même, ou faire le premier pas du retour ? Pourquoi ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "rétabli dans la filiation, non à l'essai (Lc 15)",
+          "content": "Le fils espérait au mieux un statut de salarié, mais le père le rétablit pleinement comme fils : la robe (la dignité), l'anneau (l'autorité et l'appartenance à la famille), les sandales (que portaient les hommes libres, non les esclaves) et le festin. C'est l'image de la conversion aux yeux de Dieu : non une « période d'essai » ni une « seconde division », mais une restauration immédiate et complète dans la famille. Le retour à Dieu ne fait pas de nous des serviteurs sous conditions - il fait de nous de nouveau des enfants."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "2Cor.7.10",
+              "ref": "2 Co 7:10"
+            }
+          ],
+          "comment": "Paul distingue la *tristesse selon Dieu*, qui *produit la repentance*, de la tristesse stérile *du monde*. Il s'agit d'un regret qui conduit au changement, et non d'auto-flagellation.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Quelle est la différence entre le regret qui conduit à Dieu et au changement, et le regret qui ne fait qu'enfoncer ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Isa.55.7",
+              "ref": "És 55:7"
+            }
+          ],
+          "comment": "*Que le méchant abandonne sa voie... et qu'il revienne à l'Éternel, qui aura compassion de lui.* La conversion, c'est abandonner une voie et recevoir le pardon de Dieu, qui est « abondant ».",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Que nous dit de Dieu le fait que celui qui revient soit attendu non par un reproche, mais par un pardon « abondant » ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "l'hébreu « shoub » : fais demi-tour et reviens",
+          "content": "L'équivalent de la conversion dans l'Ancien Testament est *shoub* - « faire demi-tour, se retourner et revenir ». C'est un mot du langage du chemin : quelqu'un marchait dans une direction, s'arrête, se retourne et revient à la maison. C'est pourquoi les prophètes crient « convertissez-vous (revenez) à l'Éternel ». La conversion est donc le retournement de toute la personne vers Dieu, et non un simple sentiment de regret ni une amélioration cosmétique des oeuvres.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "שׁוּב",
+              "translit": "szub"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Donner sa vie à Dieu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Rom.12.1",
+              "ref": "Rm 12:1"
+            }
+          ],
+          "comment": "La réponse à la miséricorde de Dieu, c'est d'offrir *soi-même* comme un *sacrifice vivant*. Non un fragment de la vie ou un dimanche - la totalité.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Qu'est-ce qui t'est le plus difficile à donner « en totalité » à Dieu, et que garderais-tu volontiers pour toi seul ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Gal.2.20",
+              "ref": "Ga 2:20"
+            }
+          ],
+          "comment": "*Ce n'est plus moi qui vis, c'est Christ qui vit en moi.* Donner sa vie, ce n'est pas se perdre, mais un échange : mon vieux « moi » contre la vie de Christ en moi.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Donner sa vie à Dieu te semble-t-il plutôt une perte ou un gain ? Lequel l'emporte ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Luke.9.23",
+              "ref": "Lc 9:23"
+            }
+          ],
+          "comment": "Jésus invite à prendre sa croix *chaque jour* et à le suivre. Le mot « chaque jour » montre que donner sa vie est un rythme, et non une décision ponctuelle.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Que pourrait signifier pour toi suivre Jésus « chaque jour » - dans le concret de demain ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "La nouvelle naissance",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "John.3.3",
+              "ref": "Jn 3:3"
+            }
+          ],
+          "comment": "Jésus dit à Nicodème : *si un homme ne naît de nouveau, il ne peut voir le royaume de Dieu*. Il faut un nouveau commencement, et non un ravalement de l'ancienne vie.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Pourquoi Jésus parle-t-il de « nouvelle naissance », et non simplement d'« amélioration » ? Qu'est-ce que cela suggère sur notre situation ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "« de nouveau » signifie aussi « d'en haut » (Jn 3:3)",
+          "content": "Le grec *anothen* a un double sens : « de nouveau » et « d'en haut, de Dieu ». Cette ambiguïté est voulue : la nouvelle naissance est à la fois un nouveau commencement et une oeuvre qui vient d'en haut (de l'Esprit). Le malentendu de Nicodème (il n'a compris que « de nouveau », au sens humain) met en relief l'essentiel : la source de cette naissance est le ciel, et non la biologie humaine ni la seule volonté.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἄνωθεν",
+              "translit": "anothen"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Que gagnons-nous à lire la nouvelle naissance à la fois comme « de nouveau » et « d'en haut » ? Que perdons-nous en ne retenant qu'un seul sens ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "John.3.5-6",
+              "ref": "Jn 3:5-6"
+            }
+          ],
+          "comment": "Naître *de l'Esprit* est l'oeuvre de Dieu, non notre exploit : *ce qui est né de l'Esprit est esprit*. Nous naissons - mais c'est un Autre qui nous fait naître.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Que signifie le fait que la vie nouvelle ne puisse pas se « fabriquer » par l'effort, mais seulement se recevoir ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "John.3.7-8",
+              "ref": "Jn 3:7-8"
+            }
+          ],
+          "comment": "Jésus compare l'action de l'Esprit au vent : nous ne le maîtrisons pas, mais nous en voyons les effets. La nouvelle naissance est parfois mystérieuse, mais réelle et reconnaissable.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "À quels « effets » (comme au bruit du vent) peut-on reconnaître que l'Esprit de Dieu agit dans la vie de quelqu'un ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "1Pet.1.23",
+              "ref": "1 P 1:23"
+            }
+          ],
+          "comment": "*Régénérés... par une semence incorruptible, par la Parole de Dieu.* L'instrument de la nouvelle naissance est la Parole vivante - d'où l'importance de se nourrir de la Bible.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Quel rôle la rencontre régulière avec la Parole de Dieu peut-elle jouer dans le fait de « naître de nouveau » ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "la « régénération » / palingénésie (Tt 3:5)",
+          "content": "La nouvelle naissance est aussi appelée *palingenesia* - « venue à l'existence à nouveau, régénération » (Tt 3:5 : *le bain de la régénération*). Par ce même mot, Jésus désigne le renouvellement du monde entier à la fin (Mt 19:28). Ce rapprochement est lourd de sens : la même puissance qui renouvellera un jour l'univers entier agit déjà maintenant dans l'homme qui renaît. La conversion est le début d'une nouvelle création qui s'accomplira à l'échelle cosmique.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "παλιγγενεσία",
+              "translit": "palingenesia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Un coeur nouveau et une nouvelle créature",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Ezek.36.26",
+              "ref": "Éz 36:26"
+            }
+          ],
+          "comment": "Dieu promet : *je vous donnerai un coeur nouveau... j'ôterai le coeur de pierre et je vous donnerai un coeur de chair*. La transformation commence par l'intérieur, que nous ne savons pas changer nous-mêmes.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "De quoi le « coeur de pierre » a-t-il besoin pour devenir un « coeur de chair » - et qui est ici l'auteur du changement ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "le coeur nouveau comme promesse de la nouvelle alliance",
+          "content": "Ez 36:26-27 appartient aux promesses de la nouvelle alliance (cf. Jr 31:31-34), données au peuple en exil, lorsque ses propres forces ont échoué. Dieu annonce non seulement le pardon, mais une transformation intérieure : la loi écrite dans le coeur et son propre Esprit rendant capable d'obéir. C'est le fondement biblique de la thèse selon laquelle l'obéissance est le fruit de l'action de Dieu dans l'homme (un coeur transformé), et non une condition préalable que l'homme devrait remplir lui-même.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Comment la promesse d'un « coeur nouveau » explique-t-elle pourquoi le vrai changement commence en Dieu, et non en serrant les dents ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Ezek.36.27",
+              "ref": "Éz 36:27"
+            }
+          ],
+          "comment": "*Je mettrai mon Esprit en vous et je ferai que vous marchiez selon... mes lois.* Même l'obéissance est un don : c'est Dieu qui « fait » que nous voulons et que nous pouvons.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Comment l'image de la vie pieuse change-t-elle lorsque Dieu non seulement ordonne, mais rend lui-même capable d'obéir, de l'intérieur ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "2Cor.5.17",
+              "ref": "2 Co 5:17"
+            }
+          ],
+          "comment": "*Si quelqu'un est en Christ, il est une nouvelle créature ; les choses anciennes sont passées, voici, tout est devenu nouveau.* L'identité du croyant est définie non par le passé, mais par le nouveau commencement en Christ.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Que signifierait pour toi te regarder non à travers le prisme de l'« ancien », mais de la « nouvelle créature » ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "« nouvelle créature » (2 Co 5:17)",
+          "content": "Paul emploie l'expression *kaine ktisis* - « nouvelle création ». C'est le même mot (*ktisis*) par lequel la Bible décrit l'acte de création du monde. Le message est fort : lorsque quelqu'un est en Christ, il se produit quelque chose du même ordre qu'« au commencement » - Dieu crée à nouveau. L'identité du croyant n'est donc pas une « version améliorée de l'ancien », mais une oeuvre nouvelle du Créateur.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "καινὴ κτίσις",
+              "translit": "kaine ktisis"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Eph.4.22-24",
+              "ref": "Ép 4:22-24"
+            }
+          ],
+          "comment": "L'image du changement de vêtement : *dépouiller le vieil homme... revêtir l'homme nouveau, créé selon Dieu*. La vie nouvelle a une forme réelle et perceptible.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Que vaudrait-il la peine de « dépouiller » dans ta vie, et que « revêtir », si c'était l'image d'une nouvelle garde-robe ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Phil.2.13",
+              "ref": "Ph 2:13"
+            }
+          ],
+          "comment": "*C'est Dieu qui produit en vous le vouloir et le faire.* La vie nouvelle est une coopération où l'initiative et la puissance appartiennent à Dieu, et la réponse - à moi.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Comment comprends-tu cet équilibre : Dieu « produit le vouloir et le faire », et moi je dois m'abandonner à lui, sans le remplacer par mon propre effort ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "une coopération, non une compétition (Ph 2:12-13)",
+          "content": "Paul rapproche deux choses qui paraissent contradictoires : *travaillez à votre salut avec crainte* et aussitôt *c'est Dieu qui produit en vous le vouloir et le faire*. Elles ne s'opposent pas : mon effort ne remplace pas Dieu et ne le contraint pas - il est une réponse à son action préalable en moi. La vie nouvelle n'est pas une course « moi contre Dieu », mais une coopération où sa puissance est la première et la dernière, et où je ne la bloque pas, mais m'y abandonne."
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Une relation quotidienne, non un acte ponctuel",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "2Cor.4.16",
+              "ref": "2 Co 4:16"
+            }
+          ],
+          "comment": "*Notre homme intérieur se renouvelle de jour en jour.* La vie nouvelle n'est pas un événement isolé du passé, mais un renouvellement quotidien.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Que pourrait signifier concrètement, dans ta journée, « se renouveler » avec Dieu - le matin, dans la journée, le soir ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "1John.1.9",
+              "ref": "1 Jn 1:9"
+            }
+          ],
+          "comment": "Quand je tombe, le chemin du retour reste ouvert : *si nous confessons nos péchés, il... nous pardonne*. La conversion, c'est aussi revenir chaque jour, et non un démarrage unique sans droit aux faux pas.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Qu'est-ce qui donne l'assurance qu'un faux pas n'annule pas la relation, mais qu'on peut aussitôt revenir à Dieu ensuite ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u20",
+          "passage": [
+            {
+              "osis": "Phil.3.13-14",
+              "ref": "Ph 3:13-14"
+            }
+          ],
+          "comment": "Paul *oublie ce qui est derrière* et *se porte vers ce qui est devant*. La vie nouvelle a une direction et un but - c'est un chemin, et non une ligne d'arrivée franchie une fois pour toutes.",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Qu'est-ce qui, dans le passé, t'est le plus difficile à « laisser derrière toi » pour pouvoir continuer à suivre Jésus ?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "La conversion n'est pas une héroïque amélioration de soi, mais un retournement : je me détourne de ma propre voie et je reviens à Dieu en lui donnant ma vie. Et alors il fait quelque chose dont je suis incapable - il me fait naître de nouveau, me donne un coeur nouveau, fait de moi une nouvelle créature. Ce n'est pas un acte ponctuel à cocher dans l'agenda, mais le début d'une relation renouvelée chaque jour, où, même après une chute, le chemin du retour est toujours ouvert.",
+    "challenge": "Fixe cette semaine un moment précis de la journée (par exemple le matin) pour « renouveler » la relation : confie à Dieu la journée qui vient et une chose particulière dans laquelle tu veux que ce soit lui qui « produise le vouloir et le faire » (Ph 2:13). Si tu trébuches, ne remets pas ton retour à plus tard - recours aussitôt à 1 Jn 1:9. À la fin de la semaine, note un « fruit » remarqué (comme le bruit du vent de Jn 3:8), auquel tu reconnais que ce n'est pas seulement ton effort, mais l'action de l'Esprit."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "FR translation of PL study nawrocenie-i-nowe-zycie"
+  }
+}

@@ -1,0 +1,1434 @@
+{
+  "lang": "en",
+  "featured": {
+    "youtube": {
+      "playlistId": "UU_7kb8sC8E_03jLNl9tWk4w",
+      "videoIds": [
+        "cLeJgPo5C_o",
+        "tlwuSHa24n8",
+        "tj1FpWQsyCg",
+        "_vshWMijtm4",
+        "LRN_p9FjcHI",
+        "ZrjAPfEcTK4",
+        "IDrHGTbgrZg",
+        "CDWY1XDfc2k",
+        "G3UDFOQS_VM",
+        "HtOkRy1D97Q",
+        "PEkP97ubuIc",
+        "pHJJWzBpcQ4",
+        "KnzO4mkEJoY",
+        "HAtcLvj-tBg",
+        "wsUdRxiQipM",
+        "QGQx5Q80l74",
+        "3X8LkLfvuVk",
+        "h0pMQS9I9Xk",
+        "yQIDU1IBDv8",
+        "CdTHMPEf0UU"
+      ]
+    }
+  },
+  "series": [
+    {
+      "id": "spotkanie-z-bogiem",
+      "title": "I. Meeting God",
+      "order": 1
+    },
+    {
+      "id": "zycie-z-bogiem",
+      "title": "II. Life with God",
+      "order": 2
+    },
+    {
+      "id": "zycie-w-przymierzu",
+      "title": "III. Life in the Covenant and Service",
+      "order": 3
+    },
+    {
+      "id": "proroctwo-i-nadzieja",
+      "title": "IV. Prophecies and the Hope of the End",
+      "order": 4
+    },
+    {
+      "id": "zycie-i-emocje",
+      "title": "V. Life and Emotions - practical module",
+      "order": 5
+    }
+  ],
+  "studies": [
+    {
+      "id": "does-god-care-about-me",
+      "title": "Does God care about me?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 1,
+      "summary": "A first encounter with a God who knows me personally, who made me out of love and cares about my everyday life - a starting point for a relationship, not for religion.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "God",
+        "love",
+        "creation",
+        "care",
+        "identity"
+      ],
+      "refs": [
+        "Ps 139:1-4",
+        "Ps 139:13-16",
+        "Ps 8:4-6",
+        "1 John 4:8-10",
+        "John 3:16",
+        "Rom 5:8",
+        "Jer 31:3",
+        "Luke 15:20",
+        "Matt 6:26",
+        "Matt 6:31-33",
+        "1 Pet 5:7",
+        "Luke 12:6-7",
+        "Gen 1:27",
+        "Isa 43:1",
+        "Acts 17:24-28",
+        "1 John 3:1"
+      ]
+    },
+    {
+      "id": "who-really-is-jesus",
+      "title": "Who really is Jesus?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 2,
+      "summary": "Who Jesus of Nazareth really is: a historical figure and at the same time the eternal God, the Creator who became human to save me and reveal the Father - and who he wants to be for me personally.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Jesus",
+        "deity",
+        "incarnation",
+        "Creator",
+        "I AM",
+        "revealing the Father"
+      ],
+      "refs": [
+        "Matt 16:13-16",
+        "Luke 2:4-7",
+        "Mark 6:2-3",
+        "John 8:58",
+        "John 1:1-3",
+        "John 1:14",
+        "Col 1:16-17",
+        "Heb 1:3",
+        "John 14:9",
+        "John 20:28-29",
+        "Matt 28:9",
+        "Rev 1:17-18",
+        "Phil 2:6-8",
+        "John 1:12",
+        "John 10:10",
+        "Matt 11:28-29"
+      ]
+    },
+    {
+      "id": "where-do-evil-and-suffering-come-from",
+      "title": "Where do evil and suffering come from?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 3,
+      "summary": "If God is good and almighty, where does evil come from? The Bible answers not with philosophy, but with the story of the great controversy: a world created good, love that requires freedom, rebellion in heaven, the fall of humanity - and a God who is not the author of evil, but the One who resolves it on the cross.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "evil",
+        "suffering",
+        "the great controversy",
+        "freedom",
+        "Satan",
+        "the fall",
+        "hope"
+      ],
+      "refs": [
+        "Gen 1:31",
+        "1 John 1:5",
+        "1 John 4:8",
+        "Deut 30:19",
+        "Josh 24:15",
+        "Rev 3:20",
+        "Rev 12:7-9",
+        "Isa 14:12-14",
+        "Ezek 28:12-17",
+        "John 8:44",
+        "Gen 3:1-6",
+        "Gen 3:15",
+        "Rom 5:12",
+        "Job 1:8-12",
+        "Rev 12:17",
+        "Rev 21:4",
+        "Rom 8:18",
+        "Nah 1:9"
+      ]
+    },
+    {
+      "id": "why-did-jesus-have-to-die",
+      "title": "Why did Jesus have to die?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 4,
+      "summary": "Sin is not just a list of bad deeds, but a broken bond with God - lost trust, out of which specific sins grow. The result is separation and death, and God's answer is the cross: Jesus took my place to restore the relationship. Obedience is the fruit of reconciliation, not its condition.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "sin",
+        "relationship",
+        "the cross",
+        "reconciliation",
+        "the death of Jesus",
+        "trust",
+        "redemption"
+      ],
+      "refs": [
+        "Isa 59:2",
+        "Gen 3:8-10",
+        "Isa 53:6",
+        "John 16:9",
+        "Mark 7:21-23",
+        "Jer 17:9",
+        "Rom 7:18-19",
+        "Rom 3:23",
+        "Rom 6:23",
+        "Ezek 18:4",
+        "Isa 64:6",
+        "Rom 5:8",
+        "Isa 53:4-5",
+        "1 Pet 2:24",
+        "2 Cor 5:21",
+        "John 15:13",
+        "2 Cor 5:18-19",
+        "Rom 5:1",
+        "Titus 2:11-12",
+        "1 John 4:19"
+      ]
+    },
+    {
+      "id": "a-gift-you-cant-buy",
+      "title": "A gift you can't buy",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 5,
+      "summary": "Salvation is a gift of grace received through faith, not a reward earned by works. God justifies the sinner and gives the assurance of eternal life right now - an assurance grounded in Christ, not in my own sinlessness. Works are the fruit of salvation, never its price.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "grace",
+        "faith",
+        "salvation",
+        "justification",
+        "assurance",
+        "gift",
+        "works"
+      ],
+      "refs": [
+        "Eph 2:8-9",
+        "Titus 3:5",
+        "Rom 4:4-5",
+        "Rom 11:6",
+        "Gal 2:16",
+        "Rom 3:23-24",
+        "Rom 5:1",
+        "Gen 15:6",
+        "Luke 18:13-14",
+        "1 John 5:11-13",
+        "John 5:24",
+        "John 10:28-29",
+        "Rom 8:38-39",
+        "Phil 1:6",
+        "Eph 2:10",
+        "John 15:4-5",
+        "Titus 2:11-14",
+        "Jas 2:17-18",
+        "Rom 7:24-25"
+      ]
+    },
+    {
+      "id": "how-to-start-over",
+      "title": "How to start over?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 6,
+      "summary": "Conversion is not self-improvement, but a change of direction: repentance and the surrender of your life to God, in which he gives you new birth, a new heart, and makes you a new creation. It is the beginning of a relationship renewed every day, not a one-time act to be checked off.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "conversion",
+        "repentance",
+        "new birth",
+        "new heart",
+        "new creation",
+        "surrender of life"
+      ],
+      "refs": [
+        "Mark 1:15",
+        "Acts 3:19",
+        "Luke 15:17-20",
+        "2 Cor 7:10",
+        "Isa 55:7",
+        "Rom 12:1",
+        "Gal 2:20",
+        "Luke 9:23",
+        "John 3:3",
+        "John 3:5-6",
+        "John 3:7-8",
+        "1 Pet 1:23",
+        "Ezek 36:26",
+        "Ezek 36:27",
+        "2 Cor 5:17",
+        "Eph 4:22-24",
+        "Phil 2:13",
+        "2 Cor 4:16",
+        "1 John 1:9",
+        "Phil 3:13-14"
+      ]
+    },
+    {
+      "id": "the-holy-spirit-in-my-life",
+      "title": "The Holy Spirit in my life",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 7,
+      "summary": "The Holy Spirit is not an impersonal \"energy,\" but a Person and God - the third Person of the Trinity. He guides, comforts, convicts of sin, gives power to live, and bears the fruit of character. We come to know him as an ever-present Companion, with whom we can be filled.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Holy Spirit",
+        "Trinity",
+        "Comforter",
+        "fruit of the Spirit",
+        "power",
+        "guidance",
+        "filling"
+      ],
+      "refs": [
+        "Acts 5:3-4",
+        "John 14:16-17",
+        "John 16:13-14",
+        "Eph 4:30",
+        "Rom 8:26-27",
+        "Matt 28:19",
+        "2 Cor 13:13",
+        "Gen 1:1-2",
+        "Ps 139:7",
+        "John 14:26",
+        "John 16:7-8",
+        "Rom 8:14",
+        "Rom 8:15-16",
+        "John 14:18",
+        "Acts 1:8",
+        "Gal 5:22-23",
+        "Gal 5:16",
+        "Rom 8:11",
+        "Luke 11:13",
+        "Eph 5:18",
+        "Acts 2:1-4",
+        "John 7:37-39"
+      ]
+    },
+    {
+      "id": "how-to-talk-with-god",
+      "title": "How to talk with God?",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 8,
+      "summary": "Prayer is not a magic formula or a religious duty, but an honest conversation with God, who hears and answers. We learn to talk with a Friend simply, regularly, and with trust - and we discover that prayer changes us and our circumstances.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "prayer",
+        "conversation",
+        "trust",
+        "the Lord's Prayer",
+        "relationship"
+      ],
+      "refs": [
+        "Matt 6:7-8",
+        "Matt 7:7-8",
+        "Matt 7:9-11",
+        "Matt 6:9-13",
+        "Luke 11:1",
+        "Matt 6:5-6",
+        "Ps 62:9",
+        "Phil 4:6-7",
+        "1 Thess 5:16-18",
+        "Mark 1:35",
+        "Luke 18:1",
+        "1 John 5:14-15",
+        "Isa 65:24",
+        "Luke 22:42",
+        "2 Cor 12:8-9",
+        "Jas 4:3",
+        "Jas 5:16",
+        "Luke 11:9-13"
+      ]
+    },
+    {
+      "id": "the-bible-gods-voice-to-me",
+      "title": "The Bible - God's voice to me",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 9,
+      "summary": "The Bible is the inspired Word of God - a letter from a Friend, not a collection of human opinions. We learn where its authority comes from (sola scriptura), pick up simple principles for reading it on your own, and discover where it is best to begin. The PRO layer addresses the question of Scripture and Tradition, and of the canon.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "the Bible",
+        "the Word of God",
+        "inspiration",
+        "sola scriptura",
+        "reading Scripture"
+      ],
+      "refs": [
+        "2 Tim 3:16-17",
+        "2 Pet 1:20-21",
+        "Heb 4:12",
+        "Isa 8:20",
+        "Acts 17:11",
+        "John 17:17",
+        "Ps 119:105",
+        "Ps 119:18",
+        "Luke 24:27",
+        "2 Pet 1:20",
+        "Isa 28:10",
+        "Jas 1:22",
+        "Matt 4:4",
+        "John 20:30-31",
+        "Josh 1:8",
+        "Ps 1:1-3"
+      ]
+    },
+    {
+      "id": "temptation-falling-forgiveness",
+      "title": "Temptation, falling, forgiveness",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 10,
+      "summary": "The struggle with temptation is a normal part of the life of faith, not proof of failure. We learn to overcome in the power of Jesus, and after a fall to return through confession and accepting forgiveness. God does not reject the one who falls - we distinguish between a stumble and deliberately remaining in sin, and we learn to forgive ourselves and others.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "sin",
+        "temptation",
+        "forgiveness",
+        "grace",
+        "spiritual struggle"
+      ],
+      "refs": [
+        "1 Cor 10:13",
+        "Heb 4:15",
+        "Jas 1:14-15",
+        "1 Cor 15:57",
+        "Matt 4:4, 7, 10",
+        "Gal 5:16-17",
+        "Phil 4:13",
+        "Jas 4:7",
+        "1 John 1:9",
+        "1 John 2:1",
+        "Ps 103:10-12",
+        "Isa 1:18",
+        "Prov 24:16",
+        "John 6:37",
+        "1 John 3:6, 9",
+        "Luke 15:17-20",
+        "Matt 6:14-15",
+        "Phil 3:13-14",
+        "Rom 8:1"
+      ]
+    },
+    {
+      "id": "jesus-greatest-promise",
+      "title": "Jesus' greatest promise",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 11,
+      "summary": "The return of Jesus is the promise and the heart of Christian hope. We learn the certainty of this promise and the signs of the times, and especially the character of His coming: visible, audible, global, and final - \"every eye will see Him.\" We respond to mistaken ideas of a \"secret rapture\" and an \"invisible presence.\" This is hope, not a reason for fear.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "the second coming",
+        "hope",
+        "signs of the times",
+        "parousia",
+        "eschatology"
+      ],
+      "refs": [
+        "John 14:1-3",
+        "Acts 1:9-11",
+        "Heb 9:28",
+        "Matt 24:3-8",
+        "Matt 24:14",
+        "Matt 24:36",
+        "2 Pet 3:3-4",
+        "2 Pet 3:9",
+        "Rev 1:7",
+        "Matt 24:27",
+        "Matt 24:30-31",
+        "Matt 24:23-26",
+        "1 Thess 4:16-17",
+        "Matt 26:64",
+        "Titus 2:13",
+        "John 14:1",
+        "1 Thess 4:18",
+        "Luke 21:28"
+      ]
+    },
+    {
+      "id": "hope-stronger-than-death",
+      "title": "Hope stronger than death",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 12,
+      "summary": "The Bible speaks of death as a \"sleep\" from which the resurrection awakens us when Jesus returns - this is hope, not a reason for fear. We explore this teaching, a warning against spiritism and \"contacting the dead,\" and the biblical answer to reincarnation. The PRO layer addresses the doctrine of purgatory and prayers for the dead.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "death",
+        "resurrection",
+        "the state of the dead",
+        "hope",
+        "spiritism"
+      ],
+      "refs": [
+        "John 11:11-14",
+        "Eccl 9:5-6",
+        "Ps 146:4",
+        "Ps 115:17",
+        "Gen 2:7",
+        "1 Thess 4:13-14",
+        "1 Thess 4:15-17",
+        "John 5:28-29",
+        "1 Cor 15:51-54",
+        "Dan 12:2",
+        "Isa 8:19-20",
+        "Deut 18:10-12",
+        "2 Cor 11:14",
+        "Rev 16:14",
+        "Heb 9:27",
+        "2 Cor 5:10",
+        "John 3:16"
+      ]
+    },
+    {
+      "id": "life-in-gods-family",
+      "title": "Life in God's family",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 13,
+      "summary": "The church is not a building but a family and the body of Christ - a place of community, support, and growth. We explore the meaning of belonging, the unity expressed in obedience to Christ the Head, and the Lord's Supper as a memorial of his sacrifice, with the ordinance of humility. Additional layers: discerning God's will, and the Supper as a memorial in light of the Mass and transubstantiation.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "the church",
+        "community",
+        "the body of Christ",
+        "the Lord's Supper",
+        "guidance"
+      ],
+      "refs": [
+        "Eph 2:19",
+        "1 Pet 2:9-10",
+        "1 Cor 12:12-14",
+        "1 Cor 12:21-26",
+        "Eph 4:15-16",
+        "Col 1:18",
+        "John 17:20-23",
+        "Eph 4:1-3",
+        "Heb 10:24-25",
+        "Acts 2:42-47",
+        "Gal 6:2",
+        "Eph 4:11-13",
+        "Luke 22:19-20",
+        "John 13:1-5",
+        "John 13:14-17",
+        "1 Cor 11:27-29",
+        "Luke 17:20-21",
+        "Matt 5:13-16"
+      ]
+    },
+    {
+      "id": "a-decision-that-changes-life",
+      "title": "A decision that changes life",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 14,
+      "summary": "Baptism is a public confession of faith and an identification with the death and resurrection of Jesus - believer's baptism by immersion. We speak gently about \"rebaptism\" after a childhood baptism, emphasizing that it is a declaration of readiness, not haste, and that the strength to persevere comes from Jesus himself. This closes the series and is an invitation to the daily decision to walk with God.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "baptism",
+        "decision",
+        "following Jesus",
+        "new life",
+        "perseverance"
+      ],
+      "refs": [
+        "Rom 6:3-4",
+        "Matt 28:19-20",
+        "Acts 2:38",
+        "Gal 3:27",
+        "Matt 3:13-17",
+        "Acts 8:36-39",
+        "Mark 1:9-10",
+        "Col 2:12",
+        "Acts 8:12",
+        "Acts 19:4-5",
+        "Acts 22:16",
+        "Luke 14:27-30",
+        "Josh 24:15",
+        "Rev 3:20",
+        "John 15:5",
+        "Phil 1:6",
+        "Matt 28:20",
+        "Phil 4:13"
+      ]
+    },
+    {
+      "id": "the-god-who-keeps-his-word",
+      "title": "The God who keeps his word",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 15,
+      "summary": "From creation, God binds himself to humanity through covenant; when we fall, he seeks us out and renews his promise - because he always keeps his word. Here the heart of the great controversy is laid bare: can God be trusted? The blood of Jesus is the new covenant, and the Ten Commandments are a revelation of God's character, not legalism.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "covenant",
+        "the character of God",
+        "the great controversy",
+        "trust",
+        "the Ten Commandments",
+        "the blood of Jesus"
+      ],
+      "refs": [
+        "Gen 1:26-27",
+        "Gen 9:9-13",
+        "Gen 12:1-3",
+        "Gen 15:17-18",
+        "Gen 3:8-9",
+        "Gen 3:15",
+        "Exod 34:6-7",
+        "Hos 11:8-9",
+        "Gen 3:1-5",
+        "Num 23:19",
+        "Titus 1:2",
+        "Matt 26:27-28",
+        "Jer 31:31-33",
+        "Heb 9:11-15",
+        "Exod 20:1-3",
+        "Deut 5:6-7",
+        "Gen 26:5",
+        "Rom 13:8-10",
+        "1 John 5:3"
+      ]
+    },
+    {
+      "id": "why-do-we-need-commandments",
+      "title": "Why do we need commandments?",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 16,
+      "summary": "The Bible distinguishes the moral law (the Ten Commandments - enduring, because it expresses God's character) from the ceremonial law of Moses (which pointed to Christ and was fulfilled in him). Keeping the commandments is not legalism, but obedience born of love and in the power of the Spirit - relationship before rules.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "law",
+        "the Ten Commandments",
+        "the ceremonial law",
+        "grace",
+        "obedience",
+        "the Holy Spirit"
+      ],
+      "refs": [
+        "Matt 5:17-18",
+        "Rom 3:31",
+        "Rom 7:12",
+        "Deut 31:24-26",
+        "Exod 31:18",
+        "Heb 10:1",
+        "Col 2:14-17",
+        "Eph 2:14-16",
+        "John 1:29",
+        "Heb 9:9-10",
+        "Heb 7:18-19",
+        "Matt 19:17-19",
+        "Jas 2:10-12",
+        "1 John 2:3-4",
+        "Rev 14:12",
+        "John 14:15",
+        "Rom 8:3-4",
+        "Eph 2:8-10",
+        "Gal 5:6",
+        "Ezek 36:26-27"
+      ]
+    },
+    {
+      "id": "the-sabbath-time-with-god",
+      "title": "The Sabbath - time with God",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 17,
+      "summary": "The Sabbath was instituted already at creation, for all people, as a memorial of the Creator and a weekly gift of relationship and freedom. The fourth commandment, which Jesus himself kept, leads to rest in Christ - not a burden, but a space to meet with God.",
+      "minutes": {
+        "base": 45,
+        "extended": 70
+      },
+      "tags": [
+        "the Sabbath",
+        "creation",
+        "rest",
+        "the Creator",
+        "the fourth commandment",
+        "freedom"
+      ],
+      "refs": [
+        "Gen 2:1-3",
+        "Mark 2:27-28",
+        "Exod 16:22-26",
+        "Exod 20:8-11",
+        "Ezek 20:12",
+        "Isa 58:13-14",
+        "Rev 14:6-7",
+        "Luke 4:16",
+        "Luke 13:15-16",
+        "Matt 24:20",
+        "Matt 11:28-29",
+        "Heb 4:9-10",
+        "Heb 4:1-3",
+        "Luke 23:54-56",
+        "Acts 17:2"
+      ]
+    },
+    {
+      "id": "jesus-our-high-priest",
+      "title": "Jesus - our High Priest",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 18,
+      "summary": "The earthly sanctuary was a model of the plan of salvation: its sacrifices pointed to Jesus the Lamb, and its priesthood to his ministry. Today Jesus is the High Priest in the heavenly sanctuary - our only Mediator. The sanctuary is linked with the covenant: the law in the ark, grace on the mercy seat; we have sure access to God.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "the sanctuary",
+        "high priest",
+        "mediator",
+        "covenant",
+        "the plan of salvation",
+        "judgment"
+      ],
+      "refs": [
+        "Exod 25:8-9",
+        "Heb 8:5",
+        "Ps 77:14",
+        "Lev 4:27-31",
+        "John 1:29",
+        "Isa 53:5-6",
+        "1 Pet 1:18-19",
+        "Heb 4:14-16",
+        "Heb 7:25",
+        "1 John 2:1",
+        "Heb 8:1-2",
+        "Exod 25:16",
+        "Exod 25:17-22",
+        "Heb 9:11-15",
+        "Heb 10:19-22",
+        "Dan 7:9-10",
+        "Dan 7:13-14",
+        "Heb 9:24"
+      ]
+    },
+    {
+      "id": "gods-principles-of-health",
+      "title": "God's principles of health",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 19,
+      "summary": "The body is a gift from God and a temple of the Spirit. We approach health holistically: nutrition, exercise, rest, water, sunlight, temperance, and trust in God, along with our emotions, forgiveness, gratitude, joy, and service. The \"Blue Zones\" (including Loma Linda) show that God's principles for living truly serve a long life.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "health",
+        "body",
+        "lifestyle",
+        "gratitude",
+        "forgiveness",
+        "longevity"
+      ],
+      "refs": [
+        "1 Cor 6:19-20",
+        "1 Cor 10:31",
+        "3 John 1:2",
+        "Gen 1:29",
+        "Exod 20:9-10",
+        "1 Cor 9:25",
+        "Prov 17:22",
+        "Prov 3:7-8",
+        "1 Thess 5:16-18",
+        "Eph 4:31-32",
+        "Matt 6:25-27",
+        "Acts 20:35",
+        "Deut 30:19-20",
+        "Exod 15:26",
+        "1 Tim 4:8"
+      ]
+    },
+    {
+      "id": "spiritual-gifts-in-service",
+      "title": "Spiritual gifts in service",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 20,
+      "summary": "God equips every believer for service. The Spirit distributes different gifts, and one body - the Church - joins them into a whole. Everyone is to discover and use their gift. The Bible also gives criteria for recognizing a true gift and a true prophet. The gift of healing reminds us that God acts today - within His will and the mystery of suffering. The goal of all the gifts: building up the Church.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "spiritual gifts",
+        "the Holy Spirit",
+        "service",
+        "one body",
+        "discernment",
+        "healing"
+      ],
+      "refs": [
+        "1 Cor 12:4-7",
+        "1 Cor 12:11",
+        "1 Pet 4:10",
+        "Rom 12:4-8",
+        "1 Cor 12:14-20",
+        "1 Cor 12:21-26",
+        "Eph 4:11-13",
+        "Matt 25:14-18",
+        "1 Tim 4:14",
+        "2 Tim 1:6-7",
+        "Isa 8:20",
+        "Matt 7:15-20",
+        "1 John 4:1",
+        "Deut 18:21-22",
+        "1 Thess 5:19-21",
+        "Jas 5:14-16",
+        "1 Cor 12:9-10",
+        "2 Cor 12:7-9",
+        "John 9:1-3"
+      ]
+    },
+    {
+      "id": "my-mission-and-talents",
+      "title": "My mission and talents",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 21,
+      "summary": "Everything belongs to God - I am a steward, not an owner. Faithful stewardship covers time, abilities, and money (tithe and offerings) and flows from gratitude, not compulsion. Out of this is born my personal and local mission: how I concretely serve God and people in my community and surroundings.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "stewardship",
+        "management",
+        "tithe",
+        "mission",
+        "service",
+        "witness"
+      ],
+      "refs": [
+        "Ps 24:1",
+        "1 Cor 4:2",
+        "1 Chr 29:14",
+        "Eph 5:15-16",
+        "Matt 25:19-23",
+        "1 Pet 4:10-11",
+        "Mal 3:8-10",
+        "2 Cor 9:6-8",
+        "Matt 6:19-21",
+        "Luke 21:1-4",
+        "Prov 3:9-10",
+        "Matt 28:18-20",
+        "Acts 1:8",
+        "Matt 5:14-16",
+        "Gal 6:9-10",
+        "1 Pet 3:15",
+        "John 1:40-46",
+        "John 4:28-30",
+        "Mark 5:19"
+      ]
+    },
+    {
+      "id": "world-history-in-prophecy",
+      "title": "World history in prophecy",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 22,
+      "summary": "Nebuchadnezzar's dream in Daniel 2 shows that God knows and guides the course of history: empire after empire will pass away, but His eternal Kingdom - the \"stone\" - will remain. Fulfilled prophecy becomes a solid foundation for trusting the Bible.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "prophecy",
+        "Daniel",
+        "history",
+        "kingdoms",
+        "the Kingdom of God",
+        "trusting the Bible"
+      ],
+      "refs": [
+        "Dan 2:1-3",
+        "Dan 2:27-28",
+        "Dan 2:20-22",
+        "Dan 2:31-33",
+        "Dan 2:36-38",
+        "Dan 2:39-40",
+        "Dan 2:41-43",
+        "Dan 7:17",
+        "Isa 46:9-10",
+        "Dan 2:34-35",
+        "Dan 2:44-45",
+        "Dan 2:46-47"
+      ]
+    },
+    {
+      "id": "70-weeks-and-2300-days",
+      "title": "70 weeks and 2300 days",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 23,
+      "summary": "Daniel's numerical prophecies - 70 weeks and 2300 days - read by the day-year principle. The 70 weeks point precisely to the Messiah (proof that Jesus is the Christ), and the 2300 days lead to the year 1844 and open up the theme of the cleansing of the heavenly sanctuary and the judgment.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "prophecy",
+        "Daniel",
+        "70 weeks",
+        "2300 days",
+        "the Messiah",
+        "the sanctuary",
+        "judgment",
+        "1844"
+      ],
+      "refs": [
+        "Dan 8:14",
+        "Ezek 4:6",
+        "Num 14:34",
+        "Dan 9:24",
+        "Dan 9:25",
+        "Dan 9:26",
+        "Dan 9:27",
+        "Mark 1:15",
+        "Gal 4:4",
+        "Dan 8:26-27",
+        "Dan 9:23",
+        "Heb 8:1-2",
+        "Heb 9:23-24"
+      ]
+    },
+    {
+      "id": "apocalyptic-beasts-and-the-lamb",
+      "title": "Apocalyptic beasts and the Lamb",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 24,
+      "summary": "Daniel 7 retells the line of empires in the language of beasts, and the \"little horn\" foretells a religious-political power active through a period of 1260 day-years (Dan 7:25; Rev 12; 13). This is a prophecy about domination and persecution - but its heart is the Lamb, who conquers and takes possession of the eternal kingdom.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "prophecy",
+        "Daniel 7",
+        "Daniel 8",
+        "beasts",
+        "the little horn",
+        "1260 days",
+        "Revelation",
+        "the Lamb",
+        "the great controversy"
+      ],
+      "refs": [
+        "Dan 7:2-3",
+        "Dan 7:17",
+        "Dan 7:4-6",
+        "Dan 8:3-8",
+        "Dan 8:20-21",
+        "Dan 7:7",
+        "Dan 7:8",
+        "Dan 7:25",
+        "Rev 12:6",
+        "Rev 12:14",
+        "Rev 13:5",
+        "2 Thess 2:3-4",
+        "Dan 7:9-10",
+        "Dan 7:13-14",
+        "Dan 7:27",
+        "Rev 5:5-6",
+        "Rev 17:14"
+      ]
+    },
+    {
+      "id": "why-is-the-judgment-good-news",
+      "title": "Why is the judgment good news?",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 25,
+      "summary": "The three angels' messages proclaim that \"the hour of judgment has come\" - in the context of the eternal gospel and a call to worship the Creator. The investigative judgment of Daniel 7 is not meant to frighten: in heaven Jesus is our Advocate, and those who believe in Him are safe.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "judgment",
+        "the three angels",
+        "the gospel",
+        "the Creator",
+        "Sabbath",
+        "Babylon",
+        "Jesus the Advocate",
+        "assurance of salvation"
+      ],
+      "refs": [
+        "Rev 14:6-7",
+        "Rev 14:7",
+        "Rev 14:8",
+        "Rev 14:12",
+        "Rev 18:4",
+        "Dan 7:9-10",
+        "Dan 7:22",
+        "1 John 2:1",
+        "Heb 7:25",
+        "Rom 8:1",
+        "Rom 8:33-34",
+        "John 5:24",
+        "Heb 4:14-16"
+      ]
+    },
+    {
+      "id": "gods-church-in-the-last-days",
+      "title": "God's church in the last days",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 26,
+      "summary": "Prophecy does not only describe the powers hostile to God - it also shows where His faithful people are in the last days: the remnant, who keep the commandments, hold the testimony of Jesus and have the gift of prophecy, and whose distinguishing mark is a global mission of proclaiming Christ's return.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "church",
+        "the remnant",
+        "the commandments",
+        "the testimony of Jesus",
+        "the gift of prophecy",
+        "mission",
+        "Revelation"
+      ],
+      "refs": [
+        "Rev 12:17",
+        "Rev 14:12",
+        "1 John 2:3-4",
+        "John 14:15",
+        "Rev 19:10",
+        "Joel 2:28",
+        "Rev 22:7",
+        "1 Thess 5:19-21",
+        "Isa 8:20",
+        "Rev 14:6",
+        "Matt 24:14",
+        "Rev 18:4",
+        "1 Pet 2:9",
+        "Rev 14:7"
+      ]
+    },
+    {
+      "id": "jesus-coming-and-the-millennium",
+      "title": "Jesus' coming and the millennium",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 27,
+      "summary": "A deeper look at the second coming: it will be visible, audible, glorious and global. It is accompanied by the resurrection of the righteous and the transformation of the living, and then a thousand years (the millennium) - the saved in heaven, an emptied earth, Satan bound, and judgment on the wicked.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "the second coming",
+        "the resurrection",
+        "being caught up",
+        "the millennium",
+        "Revelation",
+        "hope"
+      ],
+      "refs": [
+        "Rev 1:7",
+        "Matt 24:27",
+        "Matt 24:30-31",
+        "Acts 1:9-11",
+        "Matt 24:23-26",
+        "1 Thess 4:16-17",
+        "1 Cor 15:51-52",
+        "1 Cor 15:53-54",
+        "John 5:28-29",
+        "Titus 2:13",
+        "Rev 20:4-5",
+        "Rev 20:6",
+        "Rev 20:1-3",
+        "Jer 4:23-26",
+        "1 Cor 6:2-3",
+        "Rev 20:7-9"
+      ]
+    },
+    {
+      "id": "a-new-heaven-and-a-new-earth",
+      "title": "A new heaven and a new earth",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 28,
+      "summary": "The finale of the great controversy: sin, death and evil are destroyed forever, and God creates a new heaven and a new earth. No tears, pain or death, with Eden restored and an eternal, close relationship with God - this is the goal of the whole journey and an open invitation.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "the new earth",
+        "the new heaven",
+        "the end of sin",
+        "the end of death",
+        "Eden",
+        "hope",
+        "invitation"
+      ],
+      "refs": [
+        "Rev 20:10",
+        "Rev 20:14",
+        "1 Cor 15:26",
+        "Nah 1:9",
+        "Mal 4:1-3",
+        "Rev 21:1",
+        "Rev 21:3-4",
+        "Isa 65:17",
+        "Isa 65:21-25",
+        "2 Pet 3:13",
+        "Rev 22:1-3",
+        "Rev 21:7",
+        "Rev 22:3-4",
+        "Rev 22:17",
+        "Rev 21:6",
+        "1 Cor 2:9"
+      ]
+    },
+    {
+      "id": "your-true-worth",
+      "title": "Your true worth",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 29,
+      "summary": "Where my sense of worth comes from and who has the right to tell me who I am. Despite childhood wounds, comparisons and a sense of inferiority, God calls me his child, made on purpose, treasured and accepted in Christ.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "identity",
+        "worth",
+        "a child of God",
+        "sense of inferiority",
+        "self-esteem",
+        "grace"
+      ],
+      "refs": [
+        "Ps 139:13-16",
+        "Isa 43:1",
+        "Isa 43:4",
+        "1 Sam 16:7",
+        "Gal 6:4",
+        "Ps 27:10",
+        "John 1:12",
+        "1 John 3:1",
+        "Gal 3:26",
+        "Rom 8:15-16",
+        "Luke 15:21-24",
+        "Eph 1:4-5",
+        "Eph 1:6-7",
+        "2 Cor 5:17",
+        "1 Pet 2:9"
+      ]
+    },
+    {
+      "id": "conflicts-and-reconciliation",
+      "title": "Conflicts and reconciliation",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 30,
+      "summary": "What to do with the wounds, bitterness and conflicts between people. How to understand forgiveness (which is not pretending nothing happened), how to resolve disputes God's way, and how not to let anger turn into bitterness.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "relationships",
+        "forgiveness",
+        "conflict",
+        "reconciliation",
+        "anger",
+        "bitterness"
+      ],
+      "refs": [
+        "Eph 4:31",
+        "Heb 12:15",
+        "Gen 4:5-7",
+        "Eph 4:26-27",
+        "Jas 1:19-20",
+        "Prov 15:1",
+        "Eph 4:32",
+        "Col 3:13",
+        "Matt 18:21-22",
+        "Matt 18:23-35",
+        "Mark 11:25",
+        "Matt 18:15",
+        "Matt 18:16-17",
+        "Rom 12:18",
+        "Matt 5:23-24",
+        "Rom 12:19-21"
+      ]
+    },
+    {
+      "id": "peace-that-surpasses-understanding",
+      "title": "Peace that surpasses understanding",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 31,
+      "summary": "What Scripture says about worry, anxiety and being overwhelmed - and how a peace is born that \"surpasses all understanding.\" It is not about suppressing emotions but about shifting the weight onto God, who knows our needs and is near.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "anxiety",
+        "stress",
+        "worry",
+        "peace",
+        "trust",
+        "prayer"
+      ],
+      "refs": [
+        "Matt 6:25-27",
+        "Matt 6:31-32",
+        "Matt 6:33-34",
+        "Ps 94:19",
+        "1 Pet 5:7",
+        "Ps 55:23",
+        "Matt 11:28-30",
+        "Ps 46:2-3",
+        "Phil 4:6",
+        "Phil 4:7",
+        "John 14:27",
+        "Phil 4:8-9",
+        "Isa 41:10",
+        "Isa 43:2",
+        "Ps 23:4",
+        "Josh 1:9"
+      ]
+    },
+    {
+      "id": "hope-in-sorrow-and-loneliness",
+      "title": "Hope in sorrow and loneliness",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 32,
+      "summary": "For the days when it is hard, empty or dark. Scripture is not ashamed of sorrow or loneliness - it shows a God who is near to the broken in spirit, and people of faith who went through the depths. About hope, community, and the truth that seeking help is not a lack of faith.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "loneliness",
+        "sorrow",
+        "depression",
+        "hope",
+        "support",
+        "community"
+      ],
+      "refs": [
+        "Ps 42:4-6",
+        "Ps 42:11",
+        "Ps 88:2-4",
+        "Eccl 3:4",
+        "Ps 34:19",
+        "Ps 147:3",
+        "Matt 5:4",
+        "Isa 53:3-4",
+        "Ps 56:9",
+        "1 Kgs 19:3-5",
+        "1 Kgs 19:5-8",
+        "1 Kgs 19:9-13",
+        "1 Kgs 19:15-18",
+        "Matt 11:28-30",
+        "Gal 6:2",
+        "Eccl 4:9-10",
+        "Rom 12:15",
+        "Ps 40:2-4"
+      ]
+    },
+    {
+      "id": "joy-beyond-circumstances",
+      "title": "Joy beyond circumstances",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 33,
+      "summary": "About a joy that does not depend on circumstances, about giving thanks \"in every situation,\" and about where to look for meaning in life. Gratitude and joy in the Lord are not naive optimism - they are attitudes that genuinely change the heart and give direction to everyday life.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "gratitude",
+        "joy",
+        "meaning",
+        "thanksgiving",
+        "purpose in life",
+        "God"
+      ],
+      "refs": [
+        "Phil 4:4",
+        "Neh 8:10",
+        "Ps 16:11",
+        "Gal 5:22",
+        "1 Thess 5:16-18",
+        "Ps 103:1-2",
+        "Ps 103:3-5",
+        "Ps 100:4-5",
+        "Luke 17:15-18",
+        "Phil 4:8",
+        "Col 3:15-17",
+        "Ps 107:1-2",
+        "Matt 6:33",
+        "Eccl 12:13",
+        "John 10:10",
+        "Eph 2:10",
+        "1 Cor 10:31"
+      ]
+    },
+    {
+      "id": "freedom-in-everyday-choices",
+      "title": "Freedom in everyday choices",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 34,
+      "summary": "What true freedom is - not \"do whatever you want,\" but release from what enslaves us: addictions, the power of money, pressure, and the compulsion of sin. How Christ sets us free, how to master ourselves as the fruit of the Spirit, and how to make everyday choices (money, work) as a free person.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "freedom",
+        "addictions",
+        "money",
+        "work",
+        "self-control",
+        "the fruit of the Spirit"
+      ],
+      "refs": [
+        "John 8:34",
+        "John 8:32",
+        "John 8:36",
+        "Gal 5:1",
+        "Rom 6:11-12",
+        "Rom 6:13-14",
+        "1 Cor 10:13",
+        "1 Cor 6:12",
+        "Jas 1:14-15",
+        "Matt 6:24",
+        "1 Tim 6:9-10",
+        "1 Tim 6:6-8",
+        "Heb 13:5",
+        "Luke 12:15",
+        "Col 3:23-24",
+        "Gal 5:22-23",
+        "Gal 5:16",
+        "1 Cor 10:31",
+        "Prov 25:28"
+      ]
+    },
+    {
+      "id": "how-to-know-gods-will",
+      "title": "How to know God's will?",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 35,
+      "summary": "How to make decisions and discern God's guidance - without the magic of \"signs\" and without the paralysis of fear. About trust, a renewed mind, the role of the Word, prayer, circumstances, and community, and about how a readiness to obey opens up knowledge of God's will.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "the will of God",
+        "guidance",
+        "decisions",
+        "trust",
+        "wisdom",
+        "discernment"
+      ],
+      "refs": [
+        "Prov 3:5-6",
+        "Ps 32:8",
+        "Ps 37:5",
+        "Jer 29:11-13",
+        "Rom 12:2",
+        "Rom 12:1",
+        "Heb 5:14",
+        "Eph 5:17",
+        "John 7:17",
+        "Luke 22:42",
+        "Ps 25:9",
+        "Jas 1:5",
+        "Ps 119:105",
+        "Phil 4:6-7",
+        "Prov 15:22",
+        "Prov 16:9",
+        "Isa 30:21",
+        "Ps 143:8, 10"
+      ]
+    }
+  ]
+}

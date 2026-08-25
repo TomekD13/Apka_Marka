@@ -1,0 +1,546 @@
+{
+  "id": "uhuru-katika-maamuzi-ya-kila-siku",
+  "lang": "sw",
+  "title": "Uhuru katika maamuzi ya kila siku",
+  "category": "topic",
+  "seriesId": "zycie-i-emocje",
+  "order": 34,
+  "summary": "Uhuru wa kweli ni nini - si \"fanya utakalo\", bali ni kuwekwa huru kutoka kile kinachofunga: uraibu, mamlaka ya pesa, shinikizo na ulazimisho wa dhambi. Jinsi Kristo anavyoweka huru, jinsi ya kujizuia kama tunda la Roho na jinsi ya kufanya maamuzi ya kila siku (pesa, kazi) kama mtu huru.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "uhuru",
+    "uraibu",
+    "pesa",
+    "kazi",
+    "kujizuia",
+    "tunda la Roho"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Inamaanisha nini kuwa huru kweli?",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "John.8.34",
+              "ref": "Yoh 8:34"
+            }
+          ],
+          "comment": "\"Kila atendaye dhambi ni mtumwa wa dhambi.\" Yesu anahamisha mazungumzo kuhusu uhuru kutoka nje kwenda ndani: minyororo halisi mara nyingine haionekani - ni ulazimisho, mazoea, uraibu.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Mara nyingi tunaelewa nini kwa \"uhuru\"? Unatofautiana vipi na uhuru ambao Yesu anauzungumzia?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "John.8.32",
+              "ref": "Yoh 8:32"
+            }
+          ],
+          "comment": "\"Mtaifahamu kweli, nayo hiyo kweli itawaweka huru.\" Uhuru huanza kutoka kweli - pia kutoka kukiri waziwazi kile kinachonifunga, badala ya kujifanya kuwa ninaitawala hali.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Ni kweli gani kuhusu nafsi yako ngumu kwako kuikubali, kwa sababu ingehitaji mabadiliko? Ni nini kingebadilika kama ungeitaja waziwazi?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "John.8.36",
+              "ref": "Yoh 8:36"
+            }
+          ],
+          "comment": "\"Mwana akiwaweka huru, mtakuwa huru kweli kweli.\" Uhuru wa kweli si mafanikio ya nguvu ya utashi, bali ni zawadi - ni Kristo anayeweka huru, si sisi wenyewe.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Jaribio la \"kujiweka huru kwa nguvu zako mwenyewe\" linatofautiana vipi na kuruhusu Mtu mwingine akuweke huru?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "\"ukombozi / ufidio\" / ἀπολύτρωσις (apolytrōsis)",
+          "content": "Agano Jipya linaelezea wokovu miongoni mwa mambo mengine kwa neno la familia ya *lytroō* (mfano *apolytrōsis* - \"ukombozi, kununuliwa\"). Maana yake kamili hujumuisha mawazo matatu: utumwa, kuwekwa huru na (mara nyingi) bei ya fidia. Hivyo uhuru katika Kristo si kujiokoa mwenyewe, bali ni kununuliwa na Mtu aliyelipa bei - si nyara ya nguvu ya utashi, bali ni zawadi iliyonunuliwa msalabani.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἀπολύτρωσις",
+              "translit": "apolytrōsis"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Ufahamu kwamba ulinunuliwa kwa bei, na si kwamba ulijiweka huru mwenyewe, unabadilishaje fikira zako kuhusu \"kutoka utumwani\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Gal.5.1",
+              "ref": "Gal 5:1"
+            }
+          ],
+          "comment": "\"Kristo alituandika huru ili tuwe huru... msinaswe tena na kongwa la utumwa.\" Uhuru waweza kupotea kwa kurudi kwenye minyororo ya zamani - pia kwenye dini iliyojengwa juu ya hofu na ulazimisho.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Ni \"kongwa\" lipi ambalo ni rahisi kwako kurudia, ingawa tayari ulishatoka humo? Ni nini kinachokuvuta huko?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "uhuru kama \"nafasi\" katika picha ya wokovu ya Agano la Kale",
+          "content": "Shina muhimu zaidi la Kiebrania kwa wokovu (*yasha*, ambalo kutoka kwake linatoka jina \"Yesu\") hubeba picha ya kutolewa kutoka mahali pembamba, penye kufunga, kwenda mahali penye nafasi, ambapo maisha hustawi na kuna ulinzi. Wokovu wa kibiblia si kusamehewa hatia tu, bali ni kutolewa kutoka dhiki kuingia uhuru - \"kutoka mahali pembamba kuingia mahali pana\". Utumwa wa dhambi hubana na kusonga; ukombozi wa Mungu hufungua nafasi ya kuishi. Mfano mkuu ni kutoka Misri, ambapo mwanadamu alipaswa \"kusimama kimya na kuuona wokovu wa Bwana\".",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Ni wapi leo unahisi \"umebanwa\" na zoea au ulazimisho - na ingeonekanaje katika jambo hilo ile \"nafasi pana\" ambayo Mungu anataka kukutolea kuelekea?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Uhuru kutoka ulazimisho wa dhambi na uraibu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Rom.6.11-12",
+              "ref": "Rum 6:11-12"
+            }
+          ],
+          "comment": "\"Jihesabuni kuwa wafu kwa dhambi... basi, dhambi isitawale.\" Paulo anazungumzia mabadiliko ya utawala: dhambi hupoteza hadhi ya \"mfalme\", ingawa bado \"inagonga mlango\". Silazimiki kumtii bwana wa zamani.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Ni nini hubadilika katika vita dhidi ya zoea unapoamini kwamba dhambi si \"mfalme\" wako tena, bali ni mnyang'anyi aliyeshindwa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Rom.6.13-14",
+              "ref": "Rum 6:13-14"
+            }
+          ],
+          "comment": "\"Jitoeni nafsi zenu kwa Mungu... kwa maana dhambi haitawatawala, kwa sababu hampo chini ya sheria, bali chini ya neema.\" Uhuru hukua si kwa kukaza meno, bali kwa \"kujitoa\" chini ya utawala mpya wa neema.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Vita dhidi ya uraibu \"chini ya sheria\" (peke yako, kwa kustahili) inatofautiana vipi na vita \"chini ya neema\" (pamoja na Mungu, kwa kupokea)? Unaijaribu ipi?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "Rum 6 na mabadiliko ya utawala, si tabia tu",
+          "content": "Hoja ya Paulo katika Rum 6 inaegemea picha ya mabadiliko ya mmiliki/bwana: kwa njia ya ubatizo mwamini \"hufa\" kwa bwana wa zamani (dhambi) na kuhamia chini ya utawala wa neema (mst. 14). Hivyo wito wa kimaadili (\"msiitoe viungo vyenu kwa dhambi\") hutokana na mabadiliko ya hadhi yaliyokwisha kufanyika, si kinyume chake - ni maelekezo kwa yule aliyekwisha kuwekwa huru, si masharti ili astahili uhuru. Hii inaweza kuelezwa kama \"kubadilishana kwa tawala\": kutoka utawala wa dhambi na mauti kwenda utawala wa Kristo na uzima - na ni chini ya utawala wa Kristo tu ndipo kuna uhuru wa kweli. Utii hapa ni tunda la uhusiano mpya, si bei ya kuupata.",
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Ni nini hubadilika katika hamasa ya kubadilika unapofahamu kwamba kwanza uliwekwa huru (mabadiliko ya bwana), na ndipo ulipoitwa kwenye maisha mapya - na si kinyume chake?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "1Cor.10.13",
+              "ref": "1Kor 10:13"
+            }
+          ],
+          "comment": "\"Jaribu halikuwapata ila lililo kawaida ya wanadamu... Mungu pamoja na lile jaribu atafanya na mlango wa kutokea.\" Jaribu si ushahidi wa kushindwa, na \"mlango wa kutokea\" daima upo - ingawa ni lazima uutafute na uutumie.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Ni wakati gani katika jaribu lako huwa kawaida kuna \"mlango wa kutokea\" usioutambua au uupitao? Ungewezaje kuutambua mapema?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "1Cor.6.12",
+              "ref": "1Kor 6:12"
+            }
+          ],
+          "comment": "\"Vitu vyote ni halali kwangu, lakini si vyote vifaavyo... mimi sitatawaliwa na cho chote.\" Kipimo cha uhuru: ni mimi ninayekitawala kitu, au ni kitu kinachonitawala mimi. Uhuru si kukosa mipaka, bali ni kukosa kufungwa.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Ni kitu kipi \"halali\" katika maisha yako kinachoanza \"kukutawala\"? Unatambua vipi kwamba umeacha kukitawala?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Jas.1.14-15",
+              "ref": "Yak 1:14-15"
+            }
+          ],
+          "comment": "Yakobo anaonyesha utaratibu: tamaa \"ikiisha kuchukua mimba\" huzaa dhambi, na dhambi \"ikiisha kukomaa\" - mauti. Kuelewa mnyororo huu husaidia kuukata mapema, kabla haujakua.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Ni kwenye kiungo kipi cha mnyororo huu (wazo → tamaa → tendo → zoea) huwa unashindwa? Ni wapi ungeweza kuukata mapema zaidi?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "tumewekwa huru kutoka utawala wa dhambi, lakini si kutoka majaribu yake",
+          "content": "Kufafanua Rum 6 kunatoa tofauti muhimu: mwamini amewekwa huru kutoka utawala (mamlaka) ya dhambi, lakini upande huu wa ufufuo bado hayuko huru kutoka uvutano na majaribu yake. Dhambi imepoteza hadhi ya \"bwana\", lakini inabaki \"adui\" anayepiganwa naye. Hii hueleza uhalisia wa uzoefu: uhuru ni halisi, ingawa jaribu bado \"linagonga mlango\". Hii husaidia kuepuka makosa mawili - kukata tamaa (\"kwa kuwa najaribiwa, basi nimeshindwa\") na kiburi (\"kwa kuwa ni huru, hakuna kinachoniogopesha\", linganisha 1 Kor 10:12).",
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Vita dhidi ya dhambi kama \"bwana aliyeshindwa, lakini bado adui anayesonga mbele\" inatofautiana vipi na vita dhidi yake kama \"bwana ambaye bado ana haki juu yako\"?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Pesa: mtumishi au bwana?",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Matt.6.24",
+              "ref": "Mt 6:24"
+            }
+          ],
+          "comment": "\"Hamwezi kumtumikia Mungu na mali.\" Yesu anaifanya pesa kuwa kama \"bwana\" mshindani. Pesa ni mtumishi mwema, lakini bwana mwenye kuangamiza - haiwezekani kuwatumikia wote wawili kwa wakati mmoja.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Unajuaje kama pesa ni \"mtumishi\" au \"bwana\" katika maisha yako? Unamtumikia nani hasa, ikifika wakati wa kuchagua?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "\"mali\" / μαμωνᾶς (mamōnas)",
+          "content": "\"Mamona\" ni neno la Kiaramu lililochukuliwa (*māmōn*) lenye maana ya \"mali, utajiri, kile kinachotegemewa\". Yesu kwa makusudi haisemi pesa kwa namna isiyoegemea upande, bali anaifanya kuwa kama \"bwana\" mshindani anayeweza kutumikiwa. Hivyo kiini si kiasi cha kumiliki, bali ni kile ambacho mwanadamu anakikabidhi usalama wake na moyo wake. Pesa huwa sanamu si kwa ukubwa wa kiasi, bali kwa nafasi inayoichukua moyoni (linganisha 1 Tim 6:10).",
+          "original": [
+            {
+              "lang": "arc",
+              "text": "מָמוֹן",
+              "translit": "māmōn"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q24",
+              "text": "Kama matumizi yako na kalenda yako vingeulizwa \"unategemea nini hasa\", vingejibu nini? Ni wapi pesa inajiweka kwako katika nafasi ya \"bwana\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "1Tim.6.9-10",
+              "ref": "1Tim 6:9-10"
+            }
+          ],
+          "comment": "\"Shina moja la mabaya ya kila namna ni kupenda pesa.\" Angalia: tatizo si pesa, bali ni \"kuipenda\" - ni moyo, si mfuko, unaoamua kuhusu kufungwa.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "\"Kuwa na pesa\" kunatofautiana vipi na \"kupenda pesa\"? Mpaka huo unapita wapi kwako?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "1Tim.6.6-8",
+              "ref": "1Tim 6:6-8"
+            }
+          ],
+          "comment": "\"Utauwa pamoja na kuridhika ni faida kubwa.\" Uhuru kuhusiana na pesa si umaskini, bali ni \"kutosheka\" - uwezo wa kusema \"ninacho cha kutosha\".",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Ingemaanisha nini kwako kusema kwa unyofu \"ninacho cha kutosha\"? Ni nini mara nyingi hukuambia kwamba \"bado ni kidogo mno\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Heb.13.5",
+              "ref": "Ebr 13:5"
+            }
+          ],
+          "comment": "\"Mwenendo wenu na uwe bila kupenda fedha; mwe radhi na vitu mlivyo navyo... kwa kuwa yeye mwenyewe amesema, Sitakupungukia kamwe.\" Dawa ya tamaa ni uhakika wa uwepo wa Mungu - silazimiki kujihakikishia usalama kwa vitu, ikiwa Yeye hatanipungukia.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Kufukuza kwako usalama wa kifedha ni kwa kiasi gani hasa ni kutafuta hisia ya usalama? Unautafuta wapi badala ya kwa Mungu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Luke.12.15",
+              "ref": "Lk 12:15"
+            }
+          ],
+          "comment": "\"Uzima wa mtu haupatikani kwa wingi wa vitu vyake.\" Utamaduni husema kinyume: \"unathamani kadiri ya unachomiliki\". Yesu anaikata thamani ya maisha kutoka hali ya akaunti.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Ni wapi ndani yako linakaa wazo kwamba \"unathamani kadiri ya unavyokuwa navyo\"? Jibu la Yesu kwalo linasemaje?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "ndama wa dhahabu na \"kanuni ya kumtegemea Mungu peke yake\"",
+          "content": "Tukio la ndama wa dhahabu (Kut 32) ni picha ya mwelekeo wa mwanadamu wa kujitengenezea \"kitovu cha maisha\" mwenyewe - na kinaonya kwamba pesa, mamlaka, umaarufu au tamaa zinaweza \"kumeza nguvu zetu na kutugeuza kutoka kwa Mungu na jirani\". Kutoka hapo \"kanuni ya kumtegemea Mungu peke yake\": utajiri hutoa hisia ya nguvu na kujitegemea, hivyo kwa urahisi husogeza moyo kutoka kwa Mungu kwenda kwa vitu. Uhuru kuhusiana na pesa huanza kwa uamuzi wa makusudi wa wapi ninaweka imani na usalama wangu.",
+          "questions": [
+            {
+              "id": "q25",
+              "text": "Ni nini katika maisha yako huwa kwa urahisi zaidi \"ndama\" - badala ya usalama unaouamini badala ya Mungu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Kazi na maamuzi ya kila siku ya mtu huru",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Col.3.23-24",
+              "ref": "Kol 3:23-24"
+            }
+          ],
+          "comment": "\"Lo lote mfanyalo, lifanyeni kwa moyo, kana kwamba mkimtumikia Bwana, wala si wanadamu.\" Kazi ifanywayo \"kwa ajili ya Bwana\" haibaki kuwa wajibu tu au chanzo cha kipato - huwa utumishi na hupata heshima.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Mtazamo wako kuhusu kazi (au masomo) ungebadilikaje kama ungeifanya \"kwa ajili ya Bwana\", na si kwa ajili ya bosi, daraja au mshahara tu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Gal.5.22-23",
+              "ref": "Gal 5:22-23"
+            }
+          ],
+          "comment": "Tunda la Roho ni pamoja na \"kiasi / kujizuia\" (Kiyunani *enkrateia*). Hapa kujizuia si jitihada yetu peke yake - ni tunda linalokomaa tunapoishi \"kwa Roho\".",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Ni katika eneo lipi unahitaji \"kujizuia\" zaidi? Ingemaanisha nini kuiomba kama \"tunda la Roho\", na si kukaza meno tu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"kiasi / kujizuia\" / ἐγκράτεια (enkrateia)",
+          "content": "*Enkrateia* (kutoka *kratos* - \"nguvu, mamlaka, utawala\") inamaanisha kihalisia \"kujitawala mwenyewe\", kujizuia kwa ndani. Jambo muhimu ni kwamba Paulo anaiweka miongoni mwa \"matunda ya Roho\", na si \"matendo\" yanayozalishwa kwa nguvu ya utashi. Hivyo kujizuia kwa mtazamo wa kibiblia si kukaza meno kishujaa, bali ni matokeo ya maisha yaliyojitiisha kwa Roho - tunda la uhusiano linalokomaa, si tuzo ya jitihada. Hii hutofautisha uhuru wa Kikristo na kujiboresha mwenyewe.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐγκράτεια",
+              "translit": "enkrateia"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q26",
+              "text": "Vita yako ya kujizuia hubadilikaje kwa imani kwamba ni \"tunda\" linalokomaa katika uhusiano, na si bidhaa ya nguvu yako ya utashi?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Gal.5.16",
+              "ref": "Gal 5:16"
+            }
+          ],
+          "comment": "\"Enendeni kwa Roho, wala hamtazitimiza kamwe tamaa za mwili.\" Mkakati wa uhuru ni chanya: si sana \"usifanye ubaya\", bali \"fuata Roho\" - jaza nafasi kwa wema, si kupambana na ubaya tu.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Ni kwa nini ungeweza \"kujaza\" nafasi iliyoachwa na zoea unalotaka kutoka humo? Ingemaanisha nini hasa \"kufuata Roho\" katika jambo hilo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "1Cor.10.31",
+              "ref": "1Kor 10:31"
+            }
+          ],
+          "comment": "\"Mlapo, au mnywapo, au mtendapo lo lote, fanyeni yote kwa utukufu wa Mungu.\" Mtu huru ana dira rahisi kwa maamuzi ya kila siku: je, ninachofanya kinatumikia utukufu wa Mungu na mema ya watu?",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Kama ungeliweka swali hili (\"je, ni kwa utukufu wa Mungu?\") kwenye maamuzi yako ya kila siku, ni nini kingelazimika kubadilika?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "kujizuia kama kiungo katika mnyororo wa ukuaji (2 Pet 1:5-7)",
+          "content": "Petro anaweka \"kiasi\" (Kiyunani *enkrateia*) katika mnyororo wa sifa zinazokua: imani → wema → maarifa → kiasi → saburi → utauwa → upendano wa ndugu → upendo. Hapa kujizuia si lengo lenyewe wala si kilele - ni hatua njiani, ambayo upeo wake ni upendo. Hii hulinda dhidi ya kuelewa uhuru kama ujizuiaji mkali: kujitawala kuna lengo la kutumikia ukuaji katika upendo, si kuwa ushahidi wa nguvu ya mtu mwenyewe.",
+          "questions": [
+            {
+              "id": "q27",
+              "text": "Kama \"kiasi\" chako kingepaswa kuelekeza kwenye upendo (na si kwenye kiburi cha nidhamu binafsi), ni nini kingebadilika katika namna unavyokipigania?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "Prov.25.28",
+              "ref": "Mit 25:28"
+            }
+          ],
+          "comment": "\"Mtu asiyeitawala roho yake ni kama mji uliobomolewa, usio na kuta.\" Kukosa kujizuia si kujikwaa mara moja moja tu - ni \"ufa katika ukuta\", ambao kwa njia yake huingia machafuko.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Ni wapi katika \"ukuta\" wa maisha yako kuna \"ufa\" mkubwa zaidi leo? Ni jiwe lipi la kwanza ungeweza kuliweka humo kwa msaada wa Mungu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "\"alipo Roho wa Bwana, hapo pana uhuru\" (2 Kor 3:17)",
+          "content": "Paulo anaunganisha uhuru si na nguvu ya utashi tu, bali na uwepo wa Roho: \"alipo Roho wa Bwana, hapo pana uhuru\". Andiko la sheria \"linalosomwa chini ya utaji\", bila uhusiano, \"huua\" na huongoza kwenye utumwa; ni kuunganishwa na Roho wa Bwana ndiko kunakotoa uhuru na uzima. Hii hukamilisha picha ya mada yote: Kristo huweka huru (Yoh 8:36), na nguvu ya kudumu katika uhuru hutolewa na Roho (linganisha Rum 8:2 - \"sheria ya Roho wa uzima imeniweka huru\"). Hivyo uhuru si jitihada ya pekee, bali ni tunda la maisha katika Roho.",
+          "questions": [
+            {
+              "id": "q28",
+              "text": "Ni nini mara nyingi unajaribu kukifanya kwa \"andiko peke yake\" (kwa nguvu ya utashi, kwa kanuni), na ni nini kingeweza kubadilika kama vita hiyo ingeendeshwa ndani yako na Roho?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Uhuru wa kweli si kukosa mipaka, bali ni kukosa kufungwa - kuwekwa huru kutoka ulazimisho wa dhambi, mamlaka ya uraibu na udhalimu wa \"mamona\". Haupatikani kwa nguvu ya utashi; hupokewa kutoka kwa Kristo aanayeweka huru, na hutunzwa kwa kuishi \"kwa Roho\", ambaye tunda lake ni kujizuia. Mtu huru huangalia kwa namna tofauti pesa (mtumishi, si bwana), kazi (utumishi kwa Bwana) na maamuzi ya kila siku (kwa utukufu wa Mungu). Huu ni uhuru wa kutenda mema, si kutoka katika ubaya tu.",
+    "challenge": "Taja waziwazi mbele za Mungu jambo moja linaloanza \"kukutawala\" (zoea, skrini, kilevi, pesa, hofu ya usalama). Wiki hii: (1) mwombe Mungu uhuru kama zawadi na \"tunda la Roho\" katika jambo hilo, badala ya kupigana peke yako (Gal 5:16,22-23); (2) panga mapema \"mlango wako wa kutokea\" kutoka jaribu la kawaida (1 Kor 10:13) na ni kwa wema gani utajaza nafasi iliyoachwa; (3) kama ni uraibu unaokuzidi - kuchukua msaada (mtu unayemwamini, jumuiya, mtaalamu) kuuhesabu kuwa sehemu ya njia ya Mungu kuelekea uhuru, na si kushindwa."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study wolnosc"
+  }
+}

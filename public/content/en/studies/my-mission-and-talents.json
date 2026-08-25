@@ -1,0 +1,540 @@
+{
+  "id": "my-mission-and-talents",
+  "lang": "en",
+  "title": "My mission and talents",
+  "category": "basic_systematic",
+  "seriesId": "zycie-w-przymierzu",
+  "order": 21,
+  "summary": "Everything belongs to God - I am a steward, not an owner. Faithful stewardship covers time, abilities, and money (tithe and offerings) and flows from gratitude, not compulsion. Out of this is born my personal and local mission: how I concretely serve God and people in my community and surroundings.",
+  "minutes": {
+    "base": 45,
+    "extended": 65
+  },
+  "tags": [
+    "stewardship",
+    "management",
+    "tithe",
+    "mission",
+    "service",
+    "witness"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "A steward, not an owner",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Ps.24.1",
+              "ref": "Ps 24:1"
+            }
+          ],
+          "comment": "\"The earth is the Lord's, and all that fills it.\" The starting point of faithful stewardship: nothing of what I have at my disposal is ultimately mine - everything is entrusted.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "What changes in your approach to money and possessions when you think that you are a steward and not an owner?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "1Cor.4.2",
+              "ref": "1 Cor 4:2"
+            }
+          ],
+          "comment": "\"It is required of stewards that each one be found faithful.\" God does not ask first about the size of what is entrusted, but about faithfulness in managing it.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Where do you think it is easiest, and where hardest, to be a \"faithful steward\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "1Chr.29.14",
+              "ref": "1 Chr 29:14"
+            }
+          ],
+          "comment": "David confesses: \"all things come from You, and we have given You only what comes from Your hand.\" Even our gifts to God are first His gift to us.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "What does it mean for your generosity to be aware that you are giving back to God what you first received from Him?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"steward / stewardship\" (oikonomos / oikonomia)",
+          "content": "The Greek *oikonomos* is the manager of another's house and estate (*oikonomia* - management). A steward handles entrusted property in the owner's interest and gives an account to him. The very word settles the matter: I am not the owner of my life and goods, but a trusted steward of God's property.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "οἰκονόμος",
+              "translit": "oikonomos"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q20",
+              "text": "How does the image of the *oikonomos* (the steward of another's house) order your thinking about money, time, and abilities?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "\"set over the house\" in the Old Testament",
+          "content": "The biblical image of the faithful steward grows out of the figure of the trusted manager \"set over the house\" of his master: Abraham's servant managed all his property (Gen 24:2), and Joseph managed first Potiphar's house, then the prison, and finally all of Egypt (Gen 39:4; 41:40). \"House\" here means property, family, and even a whole kingdom. A steward is a servant, but a servant with real authority - and with responsibility before his master."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Stewardship of time and abilities",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Eph.5.15-16",
+              "ref": "Eph 5:15-16"
+            }
+          ],
+          "comment": "\"Make the most of the time\" (literally \"redeem\" it), for the days are evil. Time is an entrusted resource that I spend only once - it too is subject to faithful stewardship.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "On what do you \"spend\" the most time, and on what would you like to spend it intentionally?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Matt.25.19-23",
+              "ref": "Matt 25:19-23"
+            }
+          ],
+          "comment": "The master settles accounts with the servants over the talents entrusted to them; to the faithful he says: \"well done, good servant.\" What counts is not the number of talents, but whether they were used in service.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "What \"talents\" (abilities) has God entrusted to you - and how do you use them today?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "1Pet.4.10-11",
+              "ref": "1 Pet 4:10-11"
+            }
+          ],
+          "comment": "Whoever serves, let him do it \"by the strength that God supplies\" - so that \"in everything God may be glorified.\" The goal of stewardship is not our glory, but God's.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "What changes when service is meant to lead to the glory of God and not to my own recognition?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "gifts of grace as *charismata*",
+          "content": "Paul calls abilities for service *charismata* - \"that which is given as a gift of grace\" (1 Cor 12:4-11; Rom 12:6-8). So-called natural abilities become *charismata* only when they are used for building up the community. The Church is a \"community of the gifted\" who serve the world - stewardship of talents therefore means a concrete mission and service in the name of Christ.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χαρίσματα",
+              "translit": "charismata"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "time as an entrusted gift",
+          "content": "Scripture repeatedly stresses the shortness of time and the need to manage it wisely: \"teach us to number our days\" (Ps 90:12), \"whatever your hand finds to do, do it\" (Eccl 9:10), \"night is coming, when no one can work\" (John 9:4). Time stands alongside talents, means, and the body as one of the entrusted resources for which we will give an account. Time is \"the fabric of which life is woven.\""
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Stewardship of money: tithe and offerings",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Mal.3.8-10",
+              "ref": "Mal 3:8-10"
+            }
+          ],
+          "comment": "God speaks of tithes and offerings as something that belongs to Him, and He invites us: \"test Me.\" The tithe is not a tax, but a confession of trust that God is the source.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "What does God's invitation \"test Me\" mean for trust in the area of finances?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "2Cor.9.6-8",
+              "ref": "2 Cor 9:6-8"
+            }
+          ],
+          "comment": "\"Each one should give as he has decided in his heart, not reluctantly... God loves a cheerful giver.\" Giving is to flow from gratitude and freedom, not from compulsion.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "How does giving \"reluctantly / out of obligation\" differ from \"cheerful\" giving? What produces that difference?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"cheerful giver\" (hilaros)",
+          "content": "In the sentence \"God loves a cheerful giver\" (2 Cor 9:7) the Greek *hilaros* means \"glad, willing, joyful\" - it is the source of the English \"hilarious.\" God is not looking for a giver who is compelled or who counts the cost with regret, but for one who gives out of inner joy. Generosity here is the fruit of gratitude, not a way of \"buying\" God's favor.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἱλαρόν",
+              "translit": "hilaron"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Matt.6.19-21",
+              "ref": "Matt 6:19-21"
+            }
+          ],
+          "comment": "\"Where your treasure is, there your heart will be also.\" What I invest in shows and shapes what I truly love.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "What do your expenses from the last month say about where your \"treasure\" is?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Luke.21.1-4",
+              "ref": "Luke 21:1-4"
+            }
+          ],
+          "comment": "A poor widow puts in \"two small coins,\" and Jesus values her gift more highly than the large sums of the rich - because she gave \"out of her poverty, everything.\" God looks at the proportion of the heart, not at the amount.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "What does this story say to someone who thinks they \"have too little to give\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Prov.3.9-10",
+              "ref": "Prov 3:9-10"
+            }
+          ],
+          "comment": "\"Honor the Lord with your wealth and with the firstfruits.\" Giving God what is first and best is an act of worship and trust, not a loss.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "What does it mean to give God the \"firstfruits\" and not what is left over at the end?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "\"tithe\" (maʿăśēr)",
+          "content": "The Hebrew *maʿăśēr* simply means \"a tenth part.\" In the Old Testament the giving of the tithe (Gen 14:20 - Abraham; Gen 28:22 - Jacob) precedes the Law of Moses, which indicates that it is a principle older than the ceremonial system and expresses recognition of God as the source of everything.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "מַעֲשֵׂר",
+              "translit": "maʿăśēr"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "\"gift/offering\" (mattānāh)",
+          "content": "Alongside the tithe, God asked for freewill offerings; the Hebrew *mattānāh* (from the verb *nātan*, \"to give\") is a gift flowing from a good and kindly attitude of the heart. The same word describes a father's gift to his child (Gen 25:5) and God's gift of the priesthood to Aaron (Num 18:7). An offering is therefore not a tribute, but a gesture of love - a response to the grace of the One \"who gives generously to all\" (Jas 1:5).",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "מַתָּנָה",
+              "translit": "mattānāh"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "the tithe against the false split into \"spiritual\" and \"material\"",
+          "content": "The tithe is tangible - it reminds us that the material creation was called \"good.\" Note that giving it saves the believer from a false division between the spiritual and the material spheres: the God of Israel is the giver of every good and does not divide it into \"sacred\" and \"ordinary.\" Importantly, in the days of Nehemiah generosity flowed from joy - the people \"rejoiced\" over the service of the priests and Levites (Neh 12:44)."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "My mission: personal and local",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Matt.28.18-20",
+              "ref": "Matt 28:18-20"
+            }
+          ],
+          "comment": "\"Go and make disciples\" - this is a commission for every believer, not only for pastors. Mission begins where I am.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Where is your concrete \"go\" - in what surroundings has God placed you?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Acts.1.8",
+              "ref": "Acts 1:8"
+            }
+          ],
+          "comment": "We are to be witnesses \"in Jerusalem\" (here, nearby) and \"to the ends of the earth.\" Mission has an order: first my closest surroundings.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Who is your \"Jerusalem\" - the closest circle to which God sends you?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Matt.5.14-16",
+              "ref": "Matt 5:14-16"
+            }
+          ],
+          "comment": "\"You are the light of the world... let your light shine.\" Mission is not only words, but good deeds through which people \"glorify the Father.\"",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Through what \"good deed\" this week could your light shine toward a specific person?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Gal.6.9-10",
+              "ref": "Gal 6:9-10"
+            }
+          ],
+          "comment": "\"Let us do good to everyone... and not grow weary.\" Local mission is persistent, daily good toward the people around us, especially within the community of faith.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "What helps you \"not grow weary\" in doing good, when quick results are not visible?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "mission as the natural fruit of faithful stewardship",
+          "content": "In the New Testament, mission is not the task of a specialized group, but a function of the whole body of Christ (Matt 28:18-20; Acts 1:8; 1 Pet 2:9 - \"a people for His own possession... that you may proclaim\"). Stewardship of time, abilities, and means and mission are two sides of the same attitude: everything I have serves God's purpose - reaching people with the good news. The most effective form is relational, local witness (\"come and see\"), not pressure."
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Section 5 (extended · III/7-D1) - How to share your faith and lead someone to Jesus",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "1Pet.3.15",
+              "ref": "1 Pet 3:15"
+            }
+          ],
+          "comment": "\"Be ready to give a defense... with gentleness and respect.\" Sharing your faith is not imposing, but a readiness to speak respectfully about the hope I have.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "What \"hope that is in you\" could you describe to someone today in a few sentences?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "John.1.40-46",
+              "ref": "John 1:40-46"
+            }
+          ],
+          "comment": "Andrew goes for his brother, Philip for his friend - the simplest method of mission is \"come and see.\" You do not need to have all the answers; it is enough to invite someone to Jesus.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Whom - following the example of Andrew and Philip - could you simply invite to \"come and see\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "John.4.28-30",
+              "ref": "John 4:28-30"
+            }
+          ],
+          "comment": "The Samaritan woman, having barely met Jesus, runs to the town: \"Come, see.\" Witness does not require theological training - one's own fresh experience of the encounter is enough.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "What in your own encounter with God is real enough that you would want to share it?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "Mark.5.19",
+              "ref": "Mark 5:19"
+            }
+          ],
+          "comment": "Jesus tells the healed man: \"Go home to your own people and tell them what the Lord has done for you.\" The nearest, most natural mission field is your own home and acquaintances.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "What has the Lord done for you that is worth telling first to \"your own people\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "the early Church as a model of sharing",
+          "content": "The apostolic community was a living demonstration of stewardship: the believers \"had everything in common\" and shared according to need (Acts 2:44-45), and Christians from the Gentiles generously supported the famine-stricken Church in Judea (Acts 11:29-30). The apostolic Church is \"a model of faithful stewardship for all time\" - sharing goods and faith is not an add-on, but the very nature of a community that \"does not exist for itself.\""
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n11",
+          "noteType": "background",
+          "label": "the \"come and see\" witness as a method of mission",
+          "content": "The simplest model of sharing faith in the Gospels is a personal invitation: Andrew goes for his brother, Philip says \"come and see\" (John 1:40-46), the Samaritan woman calls the town (John 4:28-30), and the healed man returns \"to his own people\" (Mark 5:19). You do not need to have all the answers or theological training - a fresh, personal experience of meeting Jesus and a relationship with a specific person are enough.",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Whose \"come and see\" mattered on your own path of faith - and to whom could you say the same today?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "I am not the owner of my life - I am a steward of what God has entrusted to me: time, abilities, and money. Faithful stewardship, including the tithe and offerings, does not flow from compulsion or fear, but from gratitude toward the One from whom everything comes. And since everything belongs to God and serves His purposes, mission is naturally born - very concrete and local: my surroundings, my community, my home. I do not need to have all the answers. It is enough that I manage what I have with gratitude and respectfully invite others: \"come and see.\"",
+    "challenge": "This week do a simple \"steward's review\": write down how you actually use your time, abilities, and money, and point to one area you want to intentionally give over to God. In addition, choose one person from your \"Jerusalem\" and this week take one concrete step of mission toward them - a gesture of kindness or an invitation to \"come and see.\""
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "EN translation of PL study szafarstwo-i-misja"
+  }
+}

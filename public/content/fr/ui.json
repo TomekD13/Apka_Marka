@@ -1,0 +1,141 @@
+{
+  "appName": "Étude biblique",
+  "tagline": "Lecteur d'études bibliques",
+  "nav": {
+    "home": "Accueil",
+    "topics": "Liste des thèmes",
+    "about": "À propos",
+    "back": "Retour",
+    "search": "Rechercher"
+  },
+  "home": {
+    "projectTitle": "Parole Vivante",
+    "projectTagline": "le chemin vers la maison du Père",
+    "todayTitle": "Pour aujourd'hui",
+    "topicsCount": "thèmes",
+    "playVideo": "Lire la vidéo",
+    "categoriesTitle": "Catégories",
+    "basicTitle": "Enseignements bibliques de base",
+    "basic_systematic": "Étude systématique",
+    "basic_practical": "Étude pratique",
+    "series": "Séries d'étude",
+    "topic": "Thèmes bibliques divers",
+    "searchPlaceholder": "Rechercher : thème, mot",
+    "language": "Langue",
+    "downloadOffline": "Télécharger hors ligne",
+    "downloading": "Téléchargement…",
+    "offlineReady": "Disponible hors ligne"
+  },
+  "reader": {
+    "levels": "Niveau",
+    "base": "Simple",
+    "extended": "Plus",
+    "advanced": "Expert",
+    "application": "Résumé",
+    "challenge": "Défi",
+    "print": "PDF",
+    "backToList": "Liste des thèmes",
+    "showVerse": "Afficher le texte",
+    "hideVerse": "Masquer le texte",
+    "minutes": "min",
+    "question": "Question",
+    "original": "Forme originale",
+    "noteTypes": {
+      "syntax": "Syntaxe",
+      "verb": "Verbe",
+      "background": "Contexte",
+      "textual": "Critique textuelle",
+      "term": "Terme",
+      "variant": "Variante",
+      "worship": "Adoration",
+      "other": "Note"
+    },
+    "share": "Partager"
+  },
+  "search": {
+    "title": "Résultats de recherche",
+    "noResults": "Aucun résultat.",
+    "for": "pour"
+  },
+  "category": {
+    "empty": "Aucune étude dans cette catégorie."
+  },
+  "about": {
+    "title": "À propos",
+    "body": "Avant même que tu commences à chercher Dieu, il était déjà venu à ta rencontre. Découvre-le dans la Parole vivante - guidé pas à pas, comme un chemin vers la maison du Père, que tu parcourras à ton propre rythme.\n\nSans comptes, sans connexion, sans suivi. Fonctionne hors ligne après le téléchargement du module linguistique.",
+    "publisher": "Auteur : Marek Micyk",
+    "privacy": "L'application ne collecte aucune donnée utilisateur."
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "Vous avez une question ou souhaitez échanger ? Écrivez-nous.",
+    "name": "Nom",
+    "email": "Votre e-mail (pour la réponse)",
+    "message": "Votre message",
+    "human": "Je suis une personne",
+    "send": "Envoyer le message",
+    "subject": "Contact - Parole Vivante",
+    "hint": "Le message s'ouvrira dans votre logiciel de messagerie.",
+    "who": "Qui sommes-nous ?",
+    "whoUrl": "https://www.adventiste.org/"
+  },
+  "common": {
+    "loading": "Chargement…",
+    "placeholderBible": "Le texte du verset apparaîtra une fois une traduction connectée.",
+    "copied": "Copié dans le presse-papiers"
+  },
+  "flashcards": {
+    "title": "Mémoriser l'Écriture",
+    "intro": "Apprends par cœur les 50 textes bibliques les plus importants. Choisis des thèmes et entraîne-toi avec des cartes ; les textes que tu ne retiens pas reviendront en révision les jours suivants.",
+    "cta": "Mémoriser des versets bibliques",
+    "ctaDesc": "Les 50 textes bibliques les plus importants - des cartes avec révision espacée.",
+    "chooseThemes": "Choisis des thèmes à apprendre",
+    "all": "Tous / aucun",
+    "selectAtLeastOne": "Sélectionne au moins un thème.",
+    "start": "Commencer à apprendre",
+    "direction": "Sens",
+    "dirR2T": "Référence → texte",
+    "dirT2R": "Texte → référence",
+    "flip": "Montrer la réponse",
+    "flipHint": "Touche pour afficher la réponse",
+    "g1": "Je ne sais pas",
+    "g2": "Faible",
+    "g3": "Bien",
+    "g4": "Je sais",
+    "today": "aujourd'hui",
+    "dayAbbr": "j",
+    "noRepeat": "sans révision",
+    "remaining": "Restant",
+    "toLearn": "À apprendre",
+    "learned": "Appris",
+    "mastered": "Maîtrisés",
+    "sessionDone": "Terminé pour aujourd'hui !",
+    "sessionDoneDesc": "Tu as fait toutes les révisions prévues pour aujourd'hui. Reviens demain pour consolider.",
+    "practiceAll": "Tout réviser",
+    "backToThemes": "Retour aux thèmes",
+    "localOnly": "Ta progression est enregistrée uniquement sur cet appareil (dans le navigateur), sans compte. Effacer les données du navigateur la supprime.",
+    "reset": "Effacer la progression",
+    "resetConfirm": "Effacer toute la progression enregistrée ?",
+    "resetDone": "Progression effacée.",
+    "ankiR2T": "AnkiDroid : Référence → Texte",
+    "ankiT2R": "AnkiDroid : Texte → Référence",
+    "quizlet": "Tu préfères Quizlet ? Ouvre le jeu",
+    "onlyPl": "Disponible pour l'instant en polonais."
+  },
+  "occasions": {
+    "title": "Versets pour chaque occasion",
+    "intro": "Choisis une occasion et trouve des passages bibliques adaptés. Tu peux envoyer chacun à un proche.",
+    "cta": "Versets pour chaque occasion",
+    "ctaDesc": "Des versets pour la tristesse, la joie, la peur, la maladie et bien plus - prêts à envoyer.",
+    "share": "Partager",
+    "onlyPl": "Disponible pour l'instant en polonais."
+  },
+  "share": {
+    "title": "Partager",
+    "hint": "Vous pouvez ajouter un mot personnel ou supprimer une partie du texte avant l'envoi.",
+    "includeLink": "Inviter à utiliser l'application",
+    "cancel": "Annuler",
+    "copy": "Copier",
+    "send": "Envoyer"
+  }
+}

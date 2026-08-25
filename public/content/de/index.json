@@ -1,0 +1,1408 @@
+{
+  "lang": "de",
+  "featured": {},
+  "series": [
+    {
+      "id": "spotkanie-z-bogiem",
+      "title": "I. Begegnung mit Gott",
+      "order": 1
+    },
+    {
+      "id": "zycie-z-bogiem",
+      "title": "II. Leben mit Gott",
+      "order": 2
+    },
+    {
+      "id": "zycie-w-przymierzu",
+      "title": "III. Leben im Bund und Dienst",
+      "order": 3
+    },
+    {
+      "id": "proroctwo-i-nadzieja",
+      "title": "IV. Prophetie und die Hoffnung des Endes",
+      "order": 4
+    },
+    {
+      "id": "zycie-i-emocje",
+      "title": "V. Leben und Emotionen - praktisches Modul",
+      "order": 5
+    }
+  ],
+  "studies": [
+    {
+      "id": "kummert-sich-gott-um-mich",
+      "title": "Kümmert sich Gott um mich?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 1,
+      "summary": "Eine erste Begegnung mit Gott, der mich persönlich kennt, mich aus Liebe geschaffen hat und sich um meinen Alltag kümmert - der Ausgangspunkt für eine Beziehung, nicht für Religion.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Gott",
+        "Liebe",
+        "Schöpfung",
+        "Fürsorge",
+        "Identität"
+      ],
+      "refs": [
+        "Ps 139,1-4",
+        "Ps 139,13-16",
+        "Ps 8,4-6",
+        "1Joh 4,8-10",
+        "Joh 3,16",
+        "Röm 5,8",
+        "Jer 31,3",
+        "Lk 15,20",
+        "Mt 6,26",
+        "Mt 6,31-33",
+        "1Petr 5,7",
+        "Lk 12,6-7",
+        "1Mo 1,27",
+        "Jes 43,1",
+        "Apg 17,24-28",
+        "1Joh 3,1"
+      ]
+    },
+    {
+      "id": "wer-ist-jesus-wirklich",
+      "title": "Wer ist Jesus wirklich?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 2,
+      "summary": "Wer Jesus von Nazareth wirklich ist: eine historische Gestalt und zugleich der ewige Gott, der Schöpfer, der Mensch wurde, um mich zu erlösen und den Vater zu offenbaren - und wer er für mich persönlich sein möchte.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Jesus",
+        "Gottheit",
+        "Menschwerdung",
+        "Schöpfer",
+        "Ich bin",
+        "Offenbarung des Vaters"
+      ],
+      "refs": [
+        "Mt 16,13-16",
+        "Lk 2,4-7",
+        "Mk 6,2-3",
+        "Joh 8,58",
+        "Joh 1,1-3",
+        "Joh 1,14",
+        "Kol 1,16-17",
+        "Hebr 1,3",
+        "Joh 14,9",
+        "Joh 20,28-29",
+        "Mt 28,9",
+        "Offb 1,17-18",
+        "Phil 2,6-8",
+        "Joh 1,12",
+        "Joh 10,10",
+        "Mt 11,28-29"
+      ]
+    },
+    {
+      "id": "woher-kommen-boses-und-leid",
+      "title": "Woher kommen Böses und Leid?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 3,
+      "summary": "Wenn Gott gut und allmächtig ist, woher kommt dann das Böse? Die Bibel antwortet nicht mit Philosophie, sondern mit der Geschichte des großen Kampfes: eine gut geschaffene Welt, eine Liebe, die Freiheit verlangt, eine Auflehnung im Himmel, der Fall des Menschen - und Gott, der nicht der Urheber des Bösen ist, sondern derjenige, der es am Kreuz löst.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "das Böse",
+        "Leid",
+        "der große Kampf",
+        "Freiheit",
+        "Satan",
+        "Fall",
+        "Hoffnung"
+      ],
+      "refs": [
+        "1Mo 1,31",
+        "1Joh 1,5",
+        "1Joh 4,8",
+        "5Mo 30,19",
+        "Jos 24,15",
+        "Offb 3,20",
+        "Offb 12,7-9",
+        "Jes 14,12-14",
+        "Hes 28,12-17",
+        "Joh 8,44",
+        "1Mo 3,1-6",
+        "1Mo 3,15",
+        "Röm 5,12",
+        "Hi 1,8-12",
+        "Offb 12,17",
+        "Offb 21,4",
+        "Röm 8,18",
+        "Nah 1,9"
+      ]
+    },
+    {
+      "id": "warum-musste-jesus-sterben",
+      "title": "Warum musste Jesus sterben?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 4,
+      "summary": "Sünde ist nicht nur eine Liste schlechter Taten, sondern eine zerbrochene Verbindung zu Gott - verlorenes Vertrauen, aus dem konkrete Sünden erwachsen. Die Folge ist Trennung und Tod, und Gottes Antwort ist das Kreuz: Jesus nahm meinen Platz ein, um die Beziehung wiederherzustellen. Der Gehorsam ist Frucht der Versöhnung, nicht ihre Bedingung.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Sünde",
+        "Beziehung",
+        "Kreuz",
+        "Versöhnung",
+        "Tod Jesu",
+        "Vertrauen",
+        "Erlösung"
+      ],
+      "refs": [
+        "Jes 59,2",
+        "1Mo 3,8-10",
+        "Jes 53,6",
+        "Joh 16,9",
+        "Mk 7,21-23",
+        "Jer 17,9",
+        "Röm 7,18-19",
+        "Röm 3,23",
+        "Röm 6,23",
+        "Hes 18,4",
+        "Jes 64,6",
+        "Röm 5,8",
+        "Jes 53,4-5",
+        "1Petr 2,24",
+        "2Kor 5,21",
+        "Joh 15,13",
+        "2Kor 5,18-19",
+        "Röm 5,1",
+        "Tit 2,11-12",
+        "1Joh 4,19"
+      ]
+    },
+    {
+      "id": "ein-geschenk-das-man-nicht-kaufen-kann",
+      "title": "Ein Geschenk, das man nicht kaufen kann",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 5,
+      "summary": "Die Erlösung ist ein Geschenk der Gnade, das durch den Glauben empfangen wird, kein Lohn für Werke. Gott spricht den Sünder gerecht und schenkt schon jetzt die Gewissheit des ewigen Lebens - eine Gewissheit, die auf Christus gründet, nicht auf meiner Sündlosigkeit. Die Werke sind die Frucht der Erlösung, niemals ihr Preis.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Gnade",
+        "Glaube",
+        "Erlösung",
+        "Rechtfertigung",
+        "Gewissheit",
+        "Geschenk",
+        "Werke"
+      ],
+      "refs": [
+        "Eph 2,8-9",
+        "Tit 3,5",
+        "Röm 4,4-5",
+        "Röm 11,6",
+        "Gal 2,16",
+        "Röm 3,23-24",
+        "Röm 5,1",
+        "1Mo 15,6",
+        "Lk 18,13-14",
+        "1Joh 5,11-13",
+        "Joh 5,24",
+        "Joh 10,28-29",
+        "Röm 8,38-39",
+        "Phil 1,6",
+        "Eph 2,10",
+        "Joh 15,4-5",
+        "Tit 2,11-14",
+        "Jak 2,17-18",
+        "Röm 7,24-25"
+      ]
+    },
+    {
+      "id": "wie-neu-anfangen",
+      "title": "Wie neu anfangen?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 6,
+      "summary": "Bekehrung ist keine Selbstverbesserung, sondern ein Richtungswechsel: Buße und die Hingabe des Lebens an Gott, in der er den Menschen neu zur Welt bringt, ihm ein neues Herz schenkt und ihn zu einer neuen Schöpfung macht. Das ist der Anfang einer Beziehung, die täglich erneuert wird, und kein einmaliger Akt zum Abhaken.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Bekehrung",
+        "Buße",
+        "Wiedergeburt",
+        "neues Herz",
+        "neue Schöpfung",
+        "Hingabe des Lebens"
+      ],
+      "refs": [
+        "Mk 1,15",
+        "Apg 3,19",
+        "Lk 15,17-20",
+        "2Kor 7,10",
+        "Jes 55,7",
+        "Röm 12,1",
+        "Gal 2,20",
+        "Lk 9,23",
+        "Joh 3,3",
+        "Joh 3,5-6",
+        "Joh 3,7-8",
+        "1Petr 1,23",
+        "Hes 36,26",
+        "Hes 36,27",
+        "2Kor 5,17",
+        "Eph 4,22-24",
+        "Phil 2,13",
+        "2Kor 4,16",
+        "1Joh 1,9",
+        "Phil 3,13-14"
+      ]
+    },
+    {
+      "id": "der-heilige-geist-in-meinem-leben",
+      "title": "Der Heilige Geist in meinem Leben",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 7,
+      "summary": "Der Heilige Geist ist keine unpersönliche „Energie\", sondern eine Person und Gott - die dritte Person der Dreieinigkeit. Er führt, tröstet, überführt von Sünde, gibt Kraft zum Leben und bringt die Frucht des Charakters hervor. Wir lernen ihn als ständig gegenwärtigen Begleiter kennen, mit dem wir erfüllt werden können.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Heiliger Geist",
+        "Dreieinigkeit",
+        "Tröster",
+        "Frucht des Geistes",
+        "Kraft",
+        "Führung",
+        "Erfüllung"
+      ],
+      "refs": [
+        "Apg 5,3-4",
+        "Joh 14,16-17",
+        "Joh 16,13-14",
+        "Eph 4,30",
+        "Röm 8,26-27",
+        "Mt 28,19",
+        "2Kor 13,13",
+        "1Mo 1,1-2",
+        "Ps 139,7",
+        "Joh 14,26",
+        "Joh 16,7-8",
+        "Röm 8,14",
+        "Röm 8,15-16",
+        "Joh 14,18",
+        "Apg 1,8",
+        "Gal 5,22-23",
+        "Gal 5,16",
+        "Röm 8,11",
+        "Lk 11,13",
+        "Eph 5,18",
+        "Apg 2,1-4",
+        "Joh 7,37-39"
+      ]
+    },
+    {
+      "id": "wie-mit-gott-reden",
+      "title": "Wie mit Gott reden?",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 8,
+      "summary": "Das Gebet ist keine magische Formel und keine religiöse Pflicht, sondern ein ehrliches Gespräch mit Gott, der hört und antwortet. Wir lernen, mit dem Freund einfach, regelmäßig und vertrauensvoll zu reden - und entdecken, dass das Gebet uns und unsere Situationen verändert.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Gebet",
+        "Gespräch",
+        "Vertrauen",
+        "Vaterunser",
+        "Beziehung"
+      ],
+      "refs": [
+        "Mt 6,7-8",
+        "Mt 7,7-8",
+        "Mt 7,9-11",
+        "Mt 6,9-13",
+        "Lk 11,1",
+        "Mt 6,5-6",
+        "Ps 62,9",
+        "Phil 4,6-7",
+        "1Thess 5,16-18",
+        "Mk 1,35",
+        "Lk 18,1",
+        "1Joh 5,14-15",
+        "Jes 65,24",
+        "Lk 22,42",
+        "2Kor 12,8-9",
+        "Jak 4,3",
+        "Jak 5,16",
+        "Lk 11,9-13"
+      ]
+    },
+    {
+      "id": "die-bibel-gottes-stimme-an-mich",
+      "title": "Die Bibel - Gottes Stimme an mich",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 9,
+      "summary": "Die Bibel ist das inspirierte Wort Gottes - ein Brief vom Freund und keine Sammlung menschlicher Meinungen. Wir erkennen, woher ihre Autorität stammt (sola scriptura), lernen einfache Grundsätze für das eigenständige Lesen und entdecken, womit man am besten beginnt. Die PRO-Ebene beantwortet die Frage nach Schrift und Tradition sowie nach dem Kanon.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Bibel",
+        "Wort Gottes",
+        "Inspiration",
+        "sola scriptura",
+        "Lesen der Schrift"
+      ],
+      "refs": [
+        "2Tim 3,16-17",
+        "2Petr 1,20-21",
+        "Hebr 4,12",
+        "Jes 8,20",
+        "Apg 17,11",
+        "Joh 17,17",
+        "Ps 119,105",
+        "Ps 119,18",
+        "Lk 24,27",
+        "2Petr 1,20",
+        "Jes 28,10",
+        "Jak 1,22",
+        "Mt 4,4",
+        "Joh 20,30-31",
+        "Jos 1,8",
+        "Ps 1,1-3"
+      ]
+    },
+    {
+      "id": "versuchung-fall-vergebung",
+      "title": "Versuchung, Fall, Vergebung",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 10,
+      "summary": "Der Kampf mit der Versuchung ist ein normaler Teil des Glaubenslebens und kein Beweis für Versagen. Wir lernen, in der Kraft Jesu zu siegen und nach einem Fall durch das Bekenntnis und die Annahme der Vergebung zurückzukehren. Gott verstößt den Fallenden nicht - wir unterscheiden zwischen einem Stolpern und dem bewussten Verharren in der Sünde und lernen, uns selbst und anderen zu vergeben.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Sünde",
+        "Versuchung",
+        "Vergebung",
+        "Gnade",
+        "geistlicher Kampf"
+      ],
+      "refs": [
+        "1Kor 10,13",
+        "Hebr 4,15",
+        "Jak 1,14-15",
+        "1Kor 15,57",
+        "Mt 4,4.7.10",
+        "Gal 5,16-17",
+        "Phil 4,13",
+        "Jak 4,7",
+        "1Joh 1,9",
+        "1Joh 2,1",
+        "Ps 103,10-12",
+        "Jes 1,18",
+        "Spr 24,16",
+        "Joh 6,37",
+        "1Joh 3,6.9",
+        "Lk 15,17-20",
+        "Mt 6,14-15",
+        "Phil 3,13-14",
+        "Röm 8,1"
+      ]
+    },
+    {
+      "id": "das-grosste-versprechen-jesu",
+      "title": "Das größte Versprechen Jesu",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 11,
+      "summary": "Die Wiederkunft Jesu ist eine Verheißung und das Herz der christlichen Hoffnung. Wir erkennen die Gewissheit dieser Verheißung und die Zeichen der Zeit, vor allem aber den Charakter seines Kommens: sichtbar, hörbar, weltweit und endgültig - „jedes Auge wird ihn sehen\". Wir antworten auf falsche Vorstellungen von einer „geheimen Entrückung\" und einer „unsichtbaren Gegenwart\". Das ist Hoffnung, kein Grund zur Angst.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Wiederkunft",
+        "Hoffnung",
+        "Zeichen der Zeit",
+        "Parusie",
+        "Eschatologie"
+      ],
+      "refs": [
+        "Joh 14,1-3",
+        "Apg 1,9-11",
+        "Hebr 9,28",
+        "Mt 24,3-8",
+        "Mt 24,14",
+        "Mt 24,36",
+        "2Petr 3,3-4",
+        "2Petr 3,9",
+        "Offb 1,7",
+        "Mt 24,27",
+        "Mt 24,30-31",
+        "Mt 24,23-26",
+        "1Thess 4,16-17",
+        "Mt 26,64",
+        "Tit 2,13",
+        "Joh 14,1",
+        "1Thess 4,18",
+        "Lk 21,28"
+      ]
+    },
+    {
+      "id": "hoffnung-starker-als-der-tod",
+      "title": "Hoffnung stärker als der Tod",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 12,
+      "summary": "Die Bibel spricht vom Tod als einem \"Schlaf\", aus dem die Auferstehung bei der Wiederkunft Jesu erweckt - das ist Hoffnung, kein Grund zur Angst. Wir lernen diese Lehre kennen, die Warnung vor Spiritismus und \"Kontakten mit Verstorbenen\" sowie die biblische Antwort auf die Reinkarnation. Die PRO-Ebene geht auf die Lehre vom Fegefeuer und auf Gebete für die Verstorbenen ein.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Tod",
+        "die Auferstehung",
+        "der Zustand der Toten",
+        "die Hoffnung",
+        "Spiritismus"
+      ],
+      "refs": [
+        "Joh 11,11-14",
+        "Pred 9,5-6",
+        "Ps 146,4",
+        "Ps 115,17",
+        "1Mo 2,7",
+        "1Thess 4,13-14",
+        "1Thess 4,15-17",
+        "Joh 5,28-29",
+        "1Kor 15,51-54",
+        "Dan 12,2",
+        "Jes 8,19-20",
+        "5Mo 18,10-12",
+        "2Kor 11,14",
+        "Offb 16,14",
+        "Hebr 9,27",
+        "2Kor 5,10",
+        "Joh 3,16"
+      ]
+    },
+    {
+      "id": "leben-in-gottes-familie",
+      "title": "Leben in Gottes Familie",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 13,
+      "summary": "Die Gemeinde ist kein Gebäude, sondern eine Familie und der Leib Christi - ein Ort der Gemeinschaft, der Unterstützung und des Wachstums. Wir lernen den Sinn der Zugehörigkeit kennen, die Einheit, die sich im Gehorsam gegenüber Christus als dem Haupt ausdrückt, und das Abendmahl als Gedächtnis des Opfers, mit dem Brauch der Fußwaschung. Zusatzebenen: das Erkennen des Willens Gottes sowie das Abendmahl als Gedächtnis im Verhältnis zu Messe und Transsubstantiation.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "die Gemeinde",
+        "die Gemeinschaft",
+        "der Leib Christi",
+        "das Abendmahl",
+        "Führung"
+      ],
+      "refs": [
+        "Eph 2,19",
+        "1Petr 2,9-10",
+        "1Kor 12,12-14",
+        "1Kor 12,21-26",
+        "Eph 4,15-16",
+        "Kol 1,18",
+        "Joh 17,20-23",
+        "Eph 4,1-3",
+        "Hebr 10,24-25",
+        "Apg 2,42-47",
+        "Gal 6,2",
+        "Eph 4,11-13",
+        "Lk 22,19-20",
+        "Joh 13,1-5",
+        "Joh 13,14-17",
+        "1Kor 11,27-29",
+        "Lk 17,20-21",
+        "Mt 5,13-16"
+      ]
+    },
+    {
+      "id": "eine-entscheidung-die-das-leben-verandert",
+      "title": "Eine Entscheidung, die das Leben verändert",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 14,
+      "summary": "Die Taufe ist ein öffentliches Glaubensbekenntnis und das Sich-eins-Machen mit dem Tod und der Auferstehung Jesu - die Glaubenstaufe durch Untertauchen. Wir sprechen in Ruhe über eine \"erneute Taufe\" nach einer Taufe in der Kindheit, betonen, dass es eine Erklärung der Bereitschaft ist und keine Eile, und dass die Kraft zum Durchhalten Jesus selbst gibt. Das ist der Abschluss der Reihe und eine Einladung zur täglichen Entscheidung, mit Gott zu gehen.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "die Taufe",
+        "Entscheidung",
+        "Nachfolge",
+        "das neue Leben",
+        "Durchhalten"
+      ],
+      "refs": [
+        "Röm 6,3-4",
+        "Mt 28,19-20",
+        "Apg 2,38",
+        "Gal 3,27",
+        "Mt 3,13-17",
+        "Apg 8,36-39",
+        "Mk 1,9-10",
+        "Kol 2,12",
+        "Apg 8,12",
+        "Apg 19,4-5",
+        "Apg 22,16",
+        "Lk 14,27-30",
+        "Jos 24,15",
+        "Offb 3,20",
+        "Joh 15,5",
+        "Phil 1,6",
+        "Mt 28,20",
+        "Phil 4,13"
+      ]
+    },
+    {
+      "id": "der-gott-der-sein-wort-halt",
+      "title": "Der Gott, der sein Wort hält",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 15,
+      "summary": "Seit der Schöpfung verbindet sich Gott mit dem Menschen durch einen Bund; wenn wir fallen, sucht er uns und erneuert seine Verheißung - denn er hält immer Wort. Hier zeigt sich das Herz des großen Kampfes: ob man Gott vertrauen kann. Das Blut Jesu ist der neue Bund, und der Dekalog ist die Offenbarung des Charakters Gottes, kein Gesetzlichkeitsdenken.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "der Bund",
+        "Charakter Gottes",
+        "der große Kampf",
+        "Vertrauen",
+        "der Dekalog",
+        "das Blut Jesu"
+      ],
+      "refs": [
+        "1Mo 1,26-27",
+        "1Mo 9,9-13",
+        "1Mo 12,1-3",
+        "1Mo 15,17-18",
+        "1Mo 3,8-9",
+        "1Mo 3,15",
+        "2Mo 34,6-7",
+        "Hos 11,8-9",
+        "1Mo 3,1-5",
+        "4Mo 23,19",
+        "Tit 1,2",
+        "Mt 26,27-28",
+        "Jer 31,31-33",
+        "Hebr 9,11-15",
+        "2Mo 20,1-3",
+        "5Mo 5,6-7",
+        "1Mo 26,5",
+        "Röm 13,8-10",
+        "1Joh 5,3"
+      ]
+    },
+    {
+      "id": "wozu-gebote",
+      "title": "Wozu Gebote?",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 16,
+      "summary": "Die Bibel unterscheidet das Sittengesetz (den Dekalog - bleibend, weil er den Charakter Gottes ausdrückt) und das Zeremonialgesetz des Mose (es kündigte Christus an und erfüllte sich in ihm). Das Halten der Gebote ist kein Gesetzlichkeitsdenken, sondern Gehorsam aus Liebe und in der Kraft des Geistes - Beziehung vor Regeln.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "Gesetz",
+        "der Dekalog",
+        "das Zeremonialgesetz",
+        "Gnade",
+        "Gehorsam",
+        "Heiliger Geist"
+      ],
+      "refs": [
+        "Mt 5,17-18",
+        "Röm 3,31",
+        "Röm 7,12",
+        "5Mo 31,24-26",
+        "2Mo 31,18",
+        "Hebr 10,1",
+        "Kol 2,14-17",
+        "Eph 2,14-16",
+        "Joh 1,29",
+        "Hebr 9,9-10",
+        "Hebr 7,18-19",
+        "Mt 19,17-19",
+        "Jak 2,10-12",
+        "1Joh 2,3-4",
+        "Offb 14,12",
+        "Joh 14,15",
+        "Röm 8,3-4",
+        "Eph 2,8-10",
+        "Gal 5,6",
+        "Hes 36,26-27"
+      ]
+    },
+    {
+      "id": "der-sabbat-zeit-mit-gott",
+      "title": "Der Sabbat - Zeit mit Gott",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 17,
+      "summary": "Der Sabbat wurde bereits bei der Schöpfung eingesetzt, für alle Menschen, als Gedenktag des Schöpfers und als wöchentliche Gabe der Beziehung und der Freiheit. Das vierte Gebot, das Jesus selbst hielt, führt zur Ruhe in Christus - er ist keine Last, sondern ein Raum der Begegnung mit Gott.",
+      "minutes": {
+        "base": 45,
+        "extended": 70
+      },
+      "tags": [
+        "der Sabbat",
+        "die Schöpfung",
+        "die Ruhe",
+        "der Schöpfer",
+        "das vierte Gebot",
+        "Freiheit"
+      ],
+      "refs": [
+        "1Mo 2,1-3",
+        "Mk 2,27-28",
+        "2Mo 16,22-26",
+        "2Mo 20,8-11",
+        "Hes 20,12",
+        "Jes 58,13-14",
+        "Offb 14,6-7",
+        "Lk 4,16",
+        "Lk 13,15-16",
+        "Mt 24,20",
+        "Mt 11,28-29",
+        "Hebr 4,9-10",
+        "Hebr 4,1-3",
+        "Lk 23,54-56",
+        "Apg 17,2"
+      ]
+    },
+    {
+      "id": "jesus-unser-hoherpriester",
+      "title": "Jesus - unser Hoherpriester",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 18,
+      "summary": "Das irdische Heiligtum war ein Modell des Erlösungsplans: seine Opfer wiesen auf Jesus, das Lamm, und das Priestertum auf seinen Dienst hin. Heute ist Jesus Hoherpriester im himmlischen Heiligtum - unser einziger Mittler. Das Heiligtum verbindet sich mit dem Bund: das Gesetz in der Lade, die Gnade auf dem Gnadenthron; wir haben einen sicheren Zugang zu Gott.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "das Heiligtum",
+        "Hoherpriester",
+        "Mittler",
+        "der Bund",
+        "Erlösungsplan",
+        "Gericht"
+      ],
+      "refs": [
+        "2Mo 25,8-9",
+        "Hebr 8,5",
+        "Ps 77,14",
+        "3Mo 4,27-31",
+        "Joh 1,29",
+        "Jes 53,5-6",
+        "1Petr 1,18-19",
+        "Hebr 4,14-16",
+        "Hebr 7,25",
+        "1Joh 2,1",
+        "Hebr 8,1-2",
+        "2Mo 25,16",
+        "2Mo 25,17-22",
+        "Hebr 9,11-15",
+        "Hebr 10,19-22",
+        "Dan 7,9-10",
+        "Dan 7,13-14",
+        "Hebr 9,24"
+      ]
+    },
+    {
+      "id": "gottes-gesundheitsprinzipien",
+      "title": "Gottes Gesundheitsprinzipien",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 19,
+      "summary": "Der Leib ist ein Geschenk Gottes und ein Tempel des Geistes. Gesundheit verstehen wir ganzheitlich: Ernährung, Bewegung, Ruhe, Wasser, Sonne, Mäßigkeit und Vertrauen auf Gott, aber auch Gefühle, Vergebung, Dankbarkeit, Freude und Dienst. Die \"Blauen Zonen\" (unter anderem Loma Linda) zeigen, dass Gottes Lebensprinzipien wirklich einem langen Leben dienen.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "Gesundheit",
+        "Leib",
+        "Lebensstil",
+        "Dankbarkeit",
+        "Vergebung",
+        "Langlebigkeit"
+      ],
+      "refs": [
+        "1Kor 6,19-20",
+        "1Kor 10,31",
+        "3Joh 1,2",
+        "1Mo 1,29",
+        "2Mo 20,9-10",
+        "1Kor 9,25",
+        "Spr 17,22",
+        "Spr 3,7-8",
+        "1Thess 5,16-18",
+        "Eph 4,31-32",
+        "Mt 6,25-27",
+        "Apg 20,35",
+        "5Mo 30,19-20",
+        "2Mo 15,26",
+        "1Tim 4,8"
+      ]
+    },
+    {
+      "id": "geistliche-gaben-im-dienst",
+      "title": "Geistliche Gaben im Dienst",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 20,
+      "summary": "Gott rüstet jeden Gläubigen zum Dienst aus. Der Geist teilt verschiedene Gaben aus, und ein Leib - die Gemeinde - verbindet sie zu einem Ganzen. Jeder soll seine Gabe entdecken und gebrauchen. Die Bibel nennt auch Kriterien, um eine echte Gabe und einen echten Propheten zu erkennen. Die Gabe der Heilung erinnert daran, dass Gott heute wirkt - im Rahmen seines Willens und des Geheimnisses des Leidens. Das Ziel aller Gaben: der Aufbau der Gemeinde.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "Geistesgaben",
+        "Heiliger Geist",
+        "Dienst",
+        "ein Leib",
+        "Unterscheidung",
+        "Heilung"
+      ],
+      "refs": [
+        "1Kor 12,4-7",
+        "1Kor 12,11",
+        "1Petr 4,10",
+        "Röm 12,4-8",
+        "1Kor 12,14-20",
+        "1Kor 12,21-26",
+        "Eph 4,11-13",
+        "Mt 25,14-18",
+        "1Tim 4,14",
+        "2Tim 1,6-7",
+        "Jes 8,20",
+        "Mt 7,15-20",
+        "1Joh 4,1",
+        "5Mo 18,21-22",
+        "1Thess 5,19-21",
+        "Jak 5,14-16",
+        "1Kor 12,9-10",
+        "2Kor 12,7-9",
+        "Joh 9,1-3"
+      ]
+    },
+    {
+      "id": "meine-mission-und-talente",
+      "title": "Meine Mission und Talente",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 21,
+      "summary": "Alles gehört Gott - ich bin ein Verwalter, nicht ein Besitzer. Treue Verwaltung umfasst Zeit, Fähigkeiten und Geld (den Zehnten und Gaben) und entspringt der Dankbarkeit, nicht dem Zwang. Daraus erwächst meine persönliche und lokale Mission: wie ich Gott und den Menschen in meiner Gemeinschaft und meinem Umfeld ganz konkret diene.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "Haushalterschaft",
+        "Verwaltung",
+        "der Zehnte",
+        "Mission",
+        "Dienst",
+        "Zeugnis"
+      ],
+      "refs": [
+        "Ps 24,1",
+        "1Kor 4,2",
+        "1Chr 29,14",
+        "Eph 5,15-16",
+        "Mt 25,19-23",
+        "1Petr 4,10-11",
+        "Mal 3,8-10",
+        "2Kor 9,6-8",
+        "Mt 6,19-21",
+        "Lk 21,1-4",
+        "Spr 3,9-10",
+        "Mt 28,18-20",
+        "Apg 1,8",
+        "Mt 5,14-16",
+        "Gal 6,9-10",
+        "1Petr 3,15",
+        "Joh 1,40-46",
+        "Joh 4,28-30",
+        "Mk 5,19"
+      ]
+    },
+    {
+      "id": "die-weltgeschichte-in-der-prophetie",
+      "title": "Die Weltgeschichte in der Prophetie",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 22,
+      "summary": "Nebukadnezars Traum aus Daniel 2 zeigt, dass Gott den Lauf der Geschichte kennt und lenkt: Ein Weltreich nach dem anderen vergeht, doch sein ewiges Reich - der \"Stein\" - bleibt bestehen. Erfüllte Prophetie wird zu einem festen Fundament des Vertrauens in die Bibel.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Prophetie",
+        "Daniel",
+        "Geschichte",
+        "Königreiche",
+        "Reich Gottes",
+        "Vertrauen in die Bibel"
+      ],
+      "refs": [
+        "Dan 2,1-3",
+        "Dan 2,27-28",
+        "Dan 2,20-22",
+        "Dan 2,31-33",
+        "Dan 2,36-38",
+        "Dan 2,39-40",
+        "Dan 2,41-43",
+        "Dan 7,17",
+        "Jes 46,9-10",
+        "Dan 2,34-35",
+        "Dan 2,44-45",
+        "Dan 2,46-47"
+      ]
+    },
+    {
+      "id": "70-wochen-und-2300-tage",
+      "title": "70 Wochen und 2300 Tage",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 23,
+      "summary": "Die Zahlenprophetien Daniels - 70 Wochen und 2300 Tage - gelesen nach dem Jahr-Tag-Prinzip. Die 70 Wochen weisen präzise auf den Messias (ein Beweis, dass Jesus der Christus ist), und die 2300 Tage führen zum Jahr 1844 und eröffnen das Thema der Reinigung des himmlischen Heiligtums sowie des Gerichts.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Prophetie",
+        "Daniel",
+        "70 Wochen",
+        "2300 Tage",
+        "Messias",
+        "Heiligtum",
+        "Gericht",
+        "1844"
+      ],
+      "refs": [
+        "Dan 8,14",
+        "Hes 4,6",
+        "4Mo 14,34",
+        "Dan 9,24",
+        "Dan 9,25",
+        "Dan 9,26",
+        "Dan 9,27",
+        "Mk 1,15",
+        "Gal 4,4",
+        "Dan 8,26-27",
+        "Dan 9,23",
+        "Hebr 8,1-2",
+        "Hebr 9,23-24"
+      ]
+    },
+    {
+      "id": "apokalyptische-tiere-und-das-lamm",
+      "title": "Apokalyptische Tiere und das Lamm",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 24,
+      "summary": "Daniel 7 wiederholt die Linie der Weltreiche in der Sprache der Tiere, und das \"kleine Horn\" kündigt eine religiös-politische Macht an, die über einen Zeitraum von 1260 Tagen-Jahren wirkt (Dan 7,25; Offb 12; 13). Das ist eine Prophetie über Vorherrschaft und Verfolgung - doch ihr Herz ist das Lamm, das siegt und das ewige Reich übernimmt.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Prophetie",
+        "Daniel 7",
+        "Daniel 8",
+        "Tiere",
+        "kleines Horn",
+        "1260 Tage",
+        "Offenbarung",
+        "Lamm",
+        "der große Kampf"
+      ],
+      "refs": [
+        "Dan 7,2-3",
+        "Dan 7,17",
+        "Dan 7,4-6",
+        "Dan 8,3-8",
+        "Dan 8,20-21",
+        "Dan 7,7",
+        "Dan 7,8",
+        "Dan 7,25",
+        "Offb 12,6",
+        "Offb 12,14",
+        "Offb 13,5",
+        "2Thess 2,3-4",
+        "Dan 7,9-10",
+        "Dan 7,13-14",
+        "Dan 7,27",
+        "Offb 5,5-6",
+        "Offb 17,14"
+      ]
+    },
+    {
+      "id": "warum-ist-das-gericht-gute-nachricht",
+      "title": "Warum ist das Gericht gute Nachricht?",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 25,
+      "summary": "Die Dreiengelsbotschaft verkündet, dass \"die Stunde des Gerichts gekommen ist\" - im Zusammenhang des ewigen Evangeliums und des Aufrufs, den Schöpfer anzubeten. Das Untersuchungsgericht aus Daniel 7 soll nicht erschrecken: Im Himmel ist Jesus unser Verteidiger, und die an ihn Glaubenden sind in ihm sicher.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Gericht",
+        "drei Engel",
+        "Evangelium",
+        "Schöpfer",
+        "Sabbat",
+        "Babylon",
+        "Jesus der Verteidiger",
+        "Heilsgewissheit"
+      ],
+      "refs": [
+        "Offb 14,6-7",
+        "Offb 14,7",
+        "Offb 14,8",
+        "Offb 14,12",
+        "Offb 18,4",
+        "Dan 7,9-10",
+        "Dan 7,22",
+        "1Joh 2,1",
+        "Hebr 7,25",
+        "Röm 8,1",
+        "Röm 8,33-34",
+        "Joh 5,24",
+        "Hebr 4,14-16"
+      ]
+    },
+    {
+      "id": "gottes-gemeinde-in-der-endzeit",
+      "title": "Gottes Gemeinde in der Endzeit",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 26,
+      "summary": "Die Prophetie beschreibt nicht nur die Mächte, die sich Gott widersetzen - sie zeigt auch, wo in der Endzeit sein treues Volk ist: der \"Überrest\", der die Gebote hält, das Zeugnis Jesu und die Gabe der Weissagung besitzt und dessen Erkennungszeichen die weltweite Mission ist, die Wiederkunft Christi zu verkündigen.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Gemeinde",
+        "Überrest",
+        "Gebote",
+        "Zeugnis Jesu",
+        "Gabe der Weissagung",
+        "Mission",
+        "Offenbarung"
+      ],
+      "refs": [
+        "Offb 12,17",
+        "Offb 14,12",
+        "1Joh 2,3-4",
+        "Joh 14,15",
+        "Offb 19,10",
+        "Joel 3,1",
+        "Offb 22,7",
+        "1Thess 5,19-21",
+        "Jes 8,20",
+        "Offb 14,6",
+        "Mt 24,14",
+        "Offb 18,4",
+        "1Petr 2,9",
+        "Offb 14,7"
+      ]
+    },
+    {
+      "id": "jesu-wiederkunft-und-das-millennium",
+      "title": "Jesu Wiederkunft und das Millennium",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 27,
+      "summary": "Ein vertiefter Blick auf die Wiederkunft: Sie wird sichtbar, hörbar, herrlich und weltweit sein. Begleitet wird sie von der Auferstehung der Gerechten und der Verwandlung der Lebenden, und danach folgen tausend Jahre (das Millennium) - die Erlösten im Himmel, die Erde verwüstet, der Satan gebunden und das Gericht über die Gottlosen.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Wiederkunft",
+        "Auferstehung",
+        "Entrückung",
+        "Millennium",
+        "Offenbarung",
+        "Hoffnung"
+      ],
+      "refs": [
+        "Offb 1,7",
+        "Mt 24,27",
+        "Mt 24,30-31",
+        "Apg 1,9-11",
+        "Mt 24,23-26",
+        "1Thess 4,16-17",
+        "1Kor 15,51-52",
+        "1Kor 15,53-54",
+        "Joh 5,28-29",
+        "Tit 2,13",
+        "Offb 20,4-5",
+        "Offb 20,6",
+        "Offb 20,1-3",
+        "Jer 4,23-26",
+        "1Kor 6,2-3",
+        "Offb 20,7-9"
+      ]
+    },
+    {
+      "id": "neuer-himmel-und-neue-erde",
+      "title": "Neuer Himmel und neue Erde",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 28,
+      "summary": "Das Finale des großen Kampfes: Sünde, Tod und das Böse werden für immer vernichtet, und Gott schafft einen neuen Himmel und eine neue Erde. Ohne Tränen, Schmerz und Tod, mit wiederhergestelltem Eden und einer ewigen, engen Beziehung zu Gott - das ist das Ziel des ganzen Weges und eine offene Einladung.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "neue Erde",
+        "neuer Himmel",
+        "Ende der Sünde",
+        "Ende des Todes",
+        "Eden",
+        "Hoffnung",
+        "Einladung"
+      ],
+      "refs": [
+        "Offb 20,10",
+        "Offb 20,14",
+        "1Kor 15,26",
+        "Nah 1,9",
+        "Mal 3,19-21",
+        "Offb 21,1",
+        "Offb 21,3-4",
+        "Jes 65,17",
+        "Jes 65,21-25",
+        "2Petr 3,13",
+        "Offb 22,1-3",
+        "Offb 21,7",
+        "Offb 22,3-4",
+        "Offb 22,17",
+        "Offb 21,6",
+        "1Kor 2,9"
+      ]
+    },
+    {
+      "id": "dein-wahrer-wert",
+      "title": "Dein wahrer Wert",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 29,
+      "summary": "Woher nehme ich mein Selbstwertgefühl, und wer hat das Recht, mir zu sagen, wer ich bin. Allen Verletzungen aus der Kindheit, allen Vergleichen und jedem Gefühl der Minderwertigkeit zum Trotz nennt Gott mich sein Kind, mit Absicht geschaffen, geschätzt und in Christus angenommen.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "die Identität",
+        "der Wert",
+        "Kind Gottes",
+        "Minderwertigkeitsgefühl",
+        "Selbstwert",
+        "die Gnade"
+      ],
+      "refs": [
+        "Ps 139,13-16",
+        "Jes 43,1",
+        "Jes 43,4",
+        "1Sam 16,7",
+        "Gal 6,4",
+        "Ps 27,10",
+        "Joh 1,12",
+        "1Joh 3,1",
+        "Gal 3,26",
+        "Röm 8,15-16",
+        "Lk 15,21-24",
+        "Eph 1,4-5",
+        "Eph 1,6-7",
+        "2Kor 5,17",
+        "1Petr 2,9"
+      ]
+    },
+    {
+      "id": "konflikte-und-versohnung",
+      "title": "Konflikte und Versöhnung",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 30,
+      "summary": "Was tun mit Verletzungen, Bitterkeit und Konflikten zwischen Menschen. Wie man Vergebung versteht (die kein So-tun-als-wäre-nichts-geschehen ist), wie man Streit auf Gottes Weise löst und wie man nicht zulässt, dass Zorn sich in Bitterkeit verwandelt.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Beziehungen",
+        "die Vergebung",
+        "Konflikt",
+        "die Versöhnung",
+        "Zorn",
+        "die Bitterkeit"
+      ],
+      "refs": [
+        "Eph 4,31",
+        "Hebr 12,15",
+        "1Mo 4,5-7",
+        "Eph 4,26-27",
+        "Jak 1,19-20",
+        "Spr 15,1",
+        "Eph 4,32",
+        "Kol 3,13",
+        "Mt 18,21-22",
+        "Mt 18,23-35",
+        "Mk 11,25",
+        "Mt 18,15",
+        "Mt 18,16-17",
+        "Röm 12,18",
+        "Mt 5,23-24",
+        "Röm 12,19-21"
+      ]
+    },
+    {
+      "id": "der-friede-der-allen-verstand-ubersteigt",
+      "title": "Der Friede, der allen Verstand übersteigt",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 31,
+      "summary": "Was die Schrift über Sorge, Angst und Überlastung sagt - und wie der Friede entsteht, der „allen Verstand übersteigt\". Es geht nicht darum, Gefühle zu unterdrücken, sondern die Last auf Gott zu legen, der unsere Bedürfnisse kennt und nahe ist.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "die Angst",
+        "Stress",
+        "Sorge",
+        "der Friede",
+        "Vertrauen",
+        "Gebet"
+      ],
+      "refs": [
+        "Mt 6,25-27",
+        "Mt 6,31-32",
+        "Mt 6,33-34",
+        "Ps 94,19",
+        "1Petr 5,7",
+        "Ps 55,23",
+        "Mt 11,28-30",
+        "Ps 46,2-3",
+        "Phil 4,6",
+        "Phil 4,7",
+        "Joh 14,27",
+        "Phil 4,8-9",
+        "Jes 41,10",
+        "Jes 43,2",
+        "Ps 23,4",
+        "Jos 1,9"
+      ]
+    },
+    {
+      "id": "hoffnung-in-trauer-und-einsamkeit",
+      "title": "Hoffnung in Trauer und Einsamkeit",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 32,
+      "summary": "Für die Tage, an denen es schwer, leer oder dunkel ist. Die Schrift schämt sich weder der Trauer noch der Einsamkeit - sie zeigt einen Gott, der den im Geist Gebrochenen nahe ist, und Menschen des Glaubens, die durch ein Tief gegangen sind. Es geht um Hoffnung, um Gemeinschaft und darum, dass das Suchen von Hilfe kein Mangel an Glauben ist.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "die Einsamkeit",
+        "die Trauer",
+        "die Depression",
+        "Hoffnung",
+        "Beistand",
+        "die Gemeinschaft"
+      ],
+      "refs": [
+        "Ps 42,4-6",
+        "Ps 42,11",
+        "Ps 88,2-4",
+        "Pred 3,4",
+        "Ps 34,19",
+        "Ps 147,3",
+        "Mt 5,4",
+        "Jes 53,3-4",
+        "Ps 56,9",
+        "1Kön 19,3-5",
+        "1Kön 19,5-8",
+        "1Kön 19,9-13",
+        "1Kön 19,15-18",
+        "Mt 11,28-30",
+        "Gal 6,2",
+        "Pred 4,9-10",
+        "Röm 12,15",
+        "Ps 40,2-4"
+      ]
+    },
+    {
+      "id": "freude-unabhangig-von-den-umstanden",
+      "title": "Freude unabhängig von den Umständen",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 33,
+      "summary": "Über die Freude, die nicht von den Umständen abhängt, über das Danken \"in jeder Lage\" und darüber, wo man den Sinn des Lebens suchen kann. Dankbarkeit und Freude im Herrn sind kein naiver Optimismus - es sind Haltungen, die das Herz wirklich verändern und dem Alltag eine Richtung geben.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Dankbarkeit",
+        "Freude",
+        "Sinn",
+        "Danksagung",
+        "Lebensziel",
+        "Gott"
+      ],
+      "refs": [
+        "Phil 4,4",
+        "Neh 8,10",
+        "Ps 16,11",
+        "Gal 5,22",
+        "1Thess 5,16-18",
+        "Ps 103,1-2",
+        "Ps 103,3-5",
+        "Ps 100,4-5",
+        "Lk 17,15-18",
+        "Phil 4,8",
+        "Kol 3,15-17",
+        "Ps 107,1-2",
+        "Mt 6,33",
+        "Pred 12,13",
+        "Joh 10,10",
+        "Eph 2,10",
+        "1Kor 10,31"
+      ]
+    },
+    {
+      "id": "freiheit-in-den-taglichen-entscheidungen",
+      "title": "Freiheit in den täglichen Entscheidungen",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 34,
+      "summary": "Was wahre Freiheit ist - nicht \"jeder macht, was er will\", sondern die Befreiung von dem, was versklavt: von Süchten, von der Macht des Geldes, vom Druck und vom Zwang der Sünde. Wie Christus befreit, wie man Selbstbeherrschung als Frucht des Geistes ausübt und wie man die täglichen Entscheidungen (Geld, Arbeit) als freier Mensch trifft.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Freiheit",
+        "Süchte",
+        "Geld",
+        "Arbeit",
+        "Selbstbeherrschung",
+        "Frucht des Geistes"
+      ],
+      "refs": [
+        "Joh 8,34",
+        "Joh 8,32",
+        "Joh 8,36",
+        "Gal 5,1",
+        "Röm 6,11-12",
+        "Röm 6,13-14",
+        "1Kor 10,13",
+        "1Kor 6,12",
+        "Jak 1,14-15",
+        "Mt 6,24",
+        "1Tim 6,9-10",
+        "1Tim 6,6-8",
+        "Hebr 13,5",
+        "Lk 12,15",
+        "Kol 3,23-24",
+        "Gal 5,22-23",
+        "Gal 5,16",
+        "1Kor 10,31",
+        "Spr 25,28"
+      ]
+    },
+    {
+      "id": "wie-erkenne-ich-gottes-willen",
+      "title": "Wie erkenne ich Gottes Willen?",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 35,
+      "summary": "Wie man Entscheidungen trifft und die Führung Gottes erkennt - ohne die Magie der \"Zeichen\" und ohne die Lähmung durch Furcht. Über das Vertrauen, den erneuerten Verstand, die Rolle des Wortes, des Gebets, der Umstände und der Gemeinschaft sowie darüber, dass die Bereitschaft zum Gehorsam die Erkenntnis des Willens Gottes erschließt.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Wille Gottes",
+        "Führung",
+        "Entscheidungen",
+        "Vertrauen",
+        "Weisheit",
+        "Unterscheidung"
+      ],
+      "refs": [
+        "Spr 3,5-6",
+        "Ps 32,8",
+        "Ps 37,5",
+        "Jer 29,11-13",
+        "Röm 12,2",
+        "Röm 12,1",
+        "Hebr 5,14",
+        "Eph 5,17",
+        "Joh 7,17",
+        "Lk 22,42",
+        "Ps 25,9",
+        "Jak 1,5",
+        "Ps 119,105",
+        "Phil 4,6-7",
+        "Spr 15,22",
+        "Spr 16,9",
+        "Jes 30,21",
+        "Ps 143,8.10"
+      ]
+    }
+  ]
+}

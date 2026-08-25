@@ -1,0 +1,470 @@
+{
+  "id": "hoffnung-starker-als-der-tod",
+  "lang": "de",
+  "title": "Hoffnung stärker als der Tod",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 12,
+  "summary": "Die Bibel spricht vom Tod als einem \"Schlaf\", aus dem die Auferstehung bei der Wiederkunft Jesu erweckt - das ist Hoffnung, kein Grund zur Angst. Wir lernen diese Lehre kennen, die Warnung vor Spiritismus und \"Kontakten mit Verstorbenen\" sowie die biblische Antwort auf die Reinkarnation. Die PRO-Ebene geht auf die Lehre vom Fegefeuer und auf Gebete für die Verstorbenen ein.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "Tod",
+    "die Auferstehung",
+    "der Zustand der Toten",
+    "die Hoffnung",
+    "Spiritismus"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Der Tod als Schlaf",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "John.11.11-14",
+              "ref": "Joh 11,11-14"
+            }
+          ],
+          "comment": "Jesus sagt über den verstorbenen Lazarus: \"Er ist eingeschlafen, aber ich gehe hin, um ihn aufzuwecken\" - und erklärt dann unmissverständlich: \"Lazarus ist gestorben\". Jesus selbst nennt also den Tod einen Schlaf, aus dem man aufgeweckt werden kann.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Was verändert das Bild vom \"Schlaf\", das Jesus selbst gebraucht hat, an deinem Denken über den Tod?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"Schlaf\" als Bild für den Tod (Joh 11,11)",
+          "content": "Das griechische *koimaomai* (\"einschlafen\") beschreibt im NT vielfach den Tod der Gläubigen (Joh 11,11; 1Thess 4,13-15; 1Kor 15,6.18; Apg 7,60). Daher heißt \"Friedhof\" auf Griechisch *koimeterion* - wörtlich \"Schlafstätte, Ort des Schlafes\". Das Bild vom Schlaf setzt ein Erwachen voraus: Wer schläft, wird aufgeweckt werden. Das ist der Kern der Auferstehungshoffnung - der Tod ist kein Ende, sondern ein \"Schlaf\" vor dem Ruf Gottes.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "κοιμάομαι",
+              "translit": "koimaomai"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Wie verändert das Wort \"Schlaf\" (mit der Erwartung des Erwachens) die emotionale Haltung zum Tod?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Eccl.9.5-6",
+              "ref": "Pred 9,5-6"
+            }
+          ],
+          "comment": "\"Die Toten wissen gar nichts ... sie haben keinen Anteil mehr an allem, was unter der Sonne geschieht\". Der Zustand des Todes ist ein Zustand der Bewusstlosigkeit - kein fortgesetztes, paralleles Dasein anderswo.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Wie wirkt sich dieser Gedanke - dass die Toten \"gar nichts wissen\" - auf die verbreiteten Vorstellungen vom Leben \"gleich nach dem Tod\" aus?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Ps.146.4",
+              "ref": "Ps 146,4"
+            }
+          ],
+          "comment": "\"Wenn sein Geist entweicht, kehrt er zurück zu seiner Erde; an jenem Tag ist es aus mit all seinen Plänen\". Mit dem Tod hört die bewusste Tätigkeit des Menschen auf - Gedanken, Pläne, Gefühle.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Was bedeutet für das Gesamtbild dieser Lehre die Aussage, dass mit dem Tod die \"Pläne\" des Menschen \"vergehen\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "Was im Augenblick des Todes \"zu Gott zurückkehrt\" (Koh 12,7)",
+          "content": "Koh 12,7 sagt: \"Der Staub kehrt zur Erde zurück ... und der Geist kehrt zu Gott zurück, der ihn gegeben hat\". \"Geist\" (hebr. *ruach*) bedeutet hier der Lebensatem, der belebende Funke Gottes, und nicht eine bewusste, selbstständige \"Seele\", die in den Himmel davonfliegt. Das ist die Umkehrung des Schöpfungsaktes aus 1Mose 2,7: Im Tod trennen sich Staub und Atem, und der Mensch (die bewusste Person) hört auf zu existieren, bis zur Auferstehung. \"Der Geist kehrt zu Gott zurück\" bedeutet also: Das Leben kehrt zu seinem Geber zurück, nicht dass der Verstorbene bewusst weiterlebt.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "רוּחַ",
+              "translit": "ruach"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Ps.115.17",
+              "ref": "Ps 115,17"
+            }
+          ],
+          "comment": "\"Nicht die Toten loben den HERRN ... sondern wir werden den HERRN preisen\". Die Toten sind weder bewusst noch tätig - auch nicht religiös. Das ist das stimmige Bild der ganzen Schrift.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Wie passt dieser Vers zum Bild des Todes als Schlaf und nicht als sofortiger Übergang in Himmel oder Hölle?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Gen.2.7",
+              "ref": "1Mo 2,7"
+            }
+          ],
+          "comment": "Der Mensch \"hat\" keine Seele als ein gesondertes, unsterbliches Teil - der Mensch \"wurde eine lebendige Seele\", als der Staub sich mit dem Atem Gottes verband. Der Tod ist die Trennung dieser Bestandteile (vgl. Koh 12,7), nicht die Befreiung einer unsterblichen Seele.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Wie verändert das Verständnis des Menschen als Ganzheit (Staub + Lebensatem) das Bild davon, was im Augenblick des Todes geschieht?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"lebendige Seele\", nicht \"unsterbliche Seele\" (1Mose 2,7)",
+          "content": "Das hebräische *nefesch chajja* bedeutet \"lebendiges Wesen / lebendige Seele\". Der Mensch *empfängt* keine Seele als gesondertes, unsterbliches Teil - er *wird* ein lebendiges Wesen (*nefesch*), wenn der Staub sich mit dem \"Lebensatem\" verbindet. Dasselbe Wort *nefesch* wird auch von Tieren gebraucht (1Mose 1,20-21). Mehr noch: Die Bibel sagt, dass allein Gott Unsterblichkeit besitzt (1Tim 6,16), und die Gläubigen empfangen sie als Geschenk erst bei der Auferstehung (1Kor 15,53-54) - nicht als angeborene Eigenschaft.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "נֶפֶשׁ חַיָּה",
+              "translit": "nefesz chajja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Die Auferstehung bei der Wiederkunft Jesu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "1Thess.4.13-14",
+              "ref": "1Thess 4,13-14"
+            }
+          ],
+          "comment": "Paulus will nicht, dass wir \"traurig sind wie die anderen, die keine Hoffnung haben\". Die christliche Antwort auf den Tod ist nicht das Verleugnen der Trauer, sondern die Hoffnung, die auf der Auferstehung Jesu gründet.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Worin unterscheidet sich Trauer \"ohne Hoffnung\" von einer Trauer, die die Hoffnung der Auferstehung hat?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "1Thess.4.15-17",
+              "ref": "1Thess 4,15-17"
+            }
+          ],
+          "comment": "\"Die Toten in Christus werden zuerst auferstehen\", und danach werden die Lebenden entrückt - all das geschieht bei der Wiederkunft Jesu. Die Hoffnung der Verstorbenen liegt nicht \"gleich nach dem Tod\", sondern am Tag der Wiederkunft des Herrn.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Warum ist es wichtig, dass die Auferstehung an ein konkretes Ereignis gebunden ist - die Wiederkunft Jesu - und nicht gleich nach dem Tod eintritt?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "John.5.28-29",
+              "ref": "Joh 5,28-29"
+            }
+          ],
+          "comment": "Es kommt die Stunde, in der \"alle, die in den Gräbern sind, seine Stimme hören und hervorkommen werden\". Die Auferstehung ist allumfassend und konkret - aus dem Grab, auf die Stimme Jesu hin.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Was sagt es über die Hoffnung aus, dass die Auferstehung eine Antwort auf die persönliche \"Stimme\" Jesu ist, die aus dem Grab ruft?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "zwei Auferstehungen (Joh 5,28-29)",
+          "content": "Jesus spricht von zwei Gruppen: von der \"Auferstehung des Lebens\" und der \"Auferstehung des Gerichts\". Die Offenbarung entfaltet das mit dem Bild der \"ersten Auferstehung\" - der Gerechten bei der Wiederkunft Jesu (Offb 20,4-6; 1Thess 4,16) - und der allgemeinen Auferstehung der Übrigen nach dem Tausendjährigen Reich. Das ordnet die Hoffnung: Nicht alle stehen im selben Augenblick auf, sondern jeder \"in seiner Ordnung\" (1Kor 15,23). Für den Gläubigen zählt, dass er Anteil an der \"ersten Auferstehung\" hat, über die der \"zweite Tod keine Macht\" hat (Offb 20,6).",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Was gibt Hoffnung darin, dass die Gläubigen Anteil an der \"ersten Auferstehung\" haben, über die der \"zweite Tod keine Macht\" hat?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "1Cor.15.51-54",
+              "ref": "1Kor 15,51-54"
+            }
+          ],
+          "comment": "\"In einem Augenblick ... bei der letzten Posaune\" werden die Toten unverweslich auferstehen, und das Sterbliche wird mit Unsterblichkeit überkleidet. Die Unsterblichkeit ist ein Geschenk, das bei der Auferstehung empfangen wird, keine Eigenschaft, die der Mensch bereits besitzt.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Was bedeutet es, dass die Unsterblichkeit ein Geschenk \"bei der Auferstehung\" ist und nicht etwas, das wir von Natur aus haben?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Dan.12.2",
+              "ref": "Dan 12,2"
+            }
+          ],
+          "comment": "\"Viele, die im Staub der Erde schlafen, werden erwachen\" - schon das Alte Testament spricht vom Tod als Schlaf und vom Erwachen. Das ist eine stimmige, biblische Hoffnung von Anfang an.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Wie stärkt die Tatsache, dass dieselbe Hoffnung schon bei Daniel auftaucht, das Vertrauen in sie?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Warnung: Spiritismus und \"Kontakte mit Verstorbenen\"",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Isa.8.19-20",
+              "ref": "Jes 8,19-20"
+            }
+          ],
+          "comment": "\"Soll ein Volk nicht seinen Gott befragen? Soll es die Toten befragen?\" - Die Schrift verwirft das Suchen nach Kontakt mit den Toten ausdrücklich und verweist \"auf das Gesetz und auf das Zeugnis\". Da die Toten schlafen, stammt jeder vermeintliche \"Kontakt\" nicht von ihnen.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Wenn die Toten \"gar nichts wissen\" und schlafen - wer kann dann nach der Bibel hinter angeblichen \"Kontakten mit Verstorbenen\" stehen?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Deut.18.10-12",
+              "ref": "5Mo 18,10-12"
+            }
+          ],
+          "comment": "Gott verbietet eindeutig Wahrsagerei, Totenbeschwörung und das \"Befragen der Toten\" und nennt es einen \"Gräuel\". Das ist keine Nebensache, sondern eine reale geistliche Gefahr.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Warum warnt Gott so entschieden vor diesen Praktiken - was will er damit schützen?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "\"das Land der Toten\": Scheol und Hades",
+          "content": "Das hebräische *Scheol* und das griechische *Hades* bedeuten schlicht \"das Land der Toten, das Grab\" - das gemeinsame Los aller Verstorbenen, der Gerechten wie der Ungerechten (etwa erwartet Jakob, in den Scheol hinabzusteigen, 1Mose 37,35). In der Bibel ist das kein Ort bewussten Leidens oder Lohnes, sondern der Zustand des Todesschlafes. Spätere, verbreitete Vorstellungen vom \"Jenseits\" als einem Ort aktiven Daseins legen diesen Wörtern Bedeutungen bei, die sie ursprünglich nicht hatten.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "שְׁאוֹל",
+              "translit": "szeol"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "2Cor.11.14",
+              "ref": "2Kor 11,14"
+            }
+          ],
+          "comment": "\"Der Satan selbst nimmt die Gestalt eines Engels des Lichts an\". Erscheinungen, die sich als verstorbene Angehörige ausgeben, können überzeugend und dennoch trügerisch sein - deshalb bleibt das Wort der Maßstab.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Wie schützt die biblische Lehre vom Tod davor, sich von einer \"vertrauten\" Stimme oder Gestalt eines Verstorbenen täuschen zu lassen?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Rev.16.14",
+              "ref": "Offb 16,14"
+            }
+          ],
+          "comment": "Am Ende der Zeit wirken \"Geister von Dämonen, die Zeichen tun\". Die Verführung, die einen Kontakt mit den Toten vortäuscht, fügt sich in die umfassendere Strategie des Bösen im großen Kampf ein - daher die Notwendigkeit, sich an die Schrift zu halten.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Warum ist die Fähigkeit, \"Zeichen\" zu tun, an sich kein Beweis dafür, dass etwas von Gott stammt?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Und was ist mit der Reinkarnation? Ein Leben und ein Gericht",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Heb.9.27",
+              "ref": "Hebr 9,27"
+            }
+          ],
+          "comment": "\"Es ist den Menschen bestimmt, einmal zu sterben, danach aber das Gericht\". Die Bibel spricht von einem Leben und einem Gericht - nicht von einem Kreislauf der Wiedergeburten. Das schließt die Reinkarnation aus.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Wie wirkt sich der Gedanke an \"ein Leben\" statt vieler Wiedergeburten darauf aus, wie du mit der Zeit umgehst, die du hast?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "das Gleichnis vom reichen Mann und Lazarus (Lk 16,19-31)",
+          "content": "Dieser Abschnitt wird mitunter als \"Beweis\" für ein bewusstes Leben gleich nach dem Tod angeführt. Er trägt jedoch die Züge eines Gleichnisses: Er bedient sich eines verbreiteten, volkstümlichen Bildes vom Jenseits, um eine Lehre zu vermitteln - nicht, um die Geografie des Todes zu beschreiben. Seine Pointe wird ausdrücklich ausgesprochen: Wer nicht auf \"Mose und die Propheten\" (die Schrift) hört, wird auch nicht glauben, \"wenn jemand von den Toten auferstünde\" (V. 31). Im Licht der klaren Texte gelesen (Koh 9,5; Ps 146,4), widerlegt es nicht die Lehre vom Todesschlaf, sondern ruft dazu auf, schon jetzt auf das Wort zu hören.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Warum ist es bei der Auslegung eines bildhaften Gleichnisses sicherer, die Lehre auf seine ausdrückliche Pointe zu gründen als auf die Einzelheiten der Szenerie?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "2Cor.5.10",
+              "ref": "2Kor 5,10"
+            }
+          ],
+          "comment": "\"Wir alle müssen vor dem Richterstuhl Christi offenbar werden\". Die Hoffnung des Gläubigen ist keine \"weitere Chance im nächsten Leben\", sondern Christus, der im Gericht der Anwalt ist. Das Gericht ist eine gute Nachricht für die, die in ihm sind.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Worin unterscheidet sich eine Hoffnung, die auf einer \"nächsten Wiedergeburt\" gründet, von einer Hoffnung, die auf Christus als dem Anwalt gründet?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "John.3.16",
+              "ref": "Joh 3,16"
+            }
+          ],
+          "comment": "Die Alternative zum Tod ist keine \"Wiederkehr in anderer Gestalt\", sondern das \"ewige Leben\" als Geschenk für den Gläubigen. Das ist eine positive Antwort auf die Angst vor der Vergänglichkeit.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Was gibt mehr Hoffnung: die Idee unendlicher Wiedergeburten oder die Verheißung des ewigen Lebens als Geschenk? Und warum?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "Fegefeuer und Gebete für die Verstorbenen",
+          "content": "Eine heikle Frage: Gibt es nach dem Tod ein \"Fegefeuer\", und können die Gebete der Lebenden den Verstorbenen helfen? Die Bibel lehrt das nicht. Erstens ist der Zustand der Toten ein bewusstloser Schlaf (Koh 9,5-6.10; Ps 146,4) und kein Ort reinigenden Leidens. Zweitens ist das Heil ein Geschenk der Gnade, das im Glauben in diesem Leben empfangen wird (Eph 2,8-9; Joh 3,16), und nicht etwas, das man durch Leiden \"nachreinigen\" oder durch Gebete nach dem Tod erlangen könnte. Drittens fällt die Entscheidung über die Beziehung zu Gott zu Lebzeiten (Hbr 9,27 - \"einmal sterben, danach das Gericht\"). Das schmälert nicht die Liebe zu verstorbenen Angehörigen - ihre Hoffnung ist gewiss und schön: die Auferstehung bei der Wiederkunft Jesu (1Thess 4,16). Die Kritik gilt der Lehre, nicht den Menschen, die im guten Glauben für die Verstorbenen beten; der Maßstab ist die Schrift (Jes 8,20).",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Wenn das Heil ein Geschenk ist, das zu Lebzeiten empfangen wird, und die Toten bis zur Auferstehung schlafen - was wird dann zur wahren Quelle des Trostes nach dem Verlust eines geliebten Menschen?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Die Bibel nimmt dem Tod den Schrecken, indem sie ihn einen \"Schlaf\" nennt. Die Toten leiden nicht, sie wandern nicht umher, sie beobachten uns nicht - sie schlafen, um von Jesus bei seiner Wiederkunft aufgeweckt zu werden. Darum suche keinen Kontakt mit den Toten: Da sie schlafen, ist jeder solche \"Kontakt\" eine Verführung, vor der die Schrift ausdrücklich warnt. Auch erwartet dich keine Kette von Wiedergeburten - du hast ein Leben und einen Retter, der im Gericht dein Anwalt ist. All das läuft auf eines hinaus: Der Tod ist nicht das Ende der Hoffnung, sondern ein Schlaf vor dem Erwachen.",
+    "challenge": "Wenn du den Verlust eines geliebten Menschen durchlebst, lies in Ruhe 1Thess 4,13-18 und halte fest, worin sich die Hoffnung der Auferstehung von der \"Trauer ohne Hoffnung\" unterscheidet. Falls du mit Praktiken des Kontakts mit Verstorbenen in Berührung gekommen bist (Séancen, Wahrsagerei, \"Zeichen\" von Verstorbenen), weise sie im Gebet bewusst zurück und gründe deine Hoffnung auf die Verheißung der Wiederkunft Jesu."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "DE translation of PL study co-po-smierci"
+  }
+}

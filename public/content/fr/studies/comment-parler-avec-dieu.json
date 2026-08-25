@@ -1,0 +1,481 @@
+{
+  "id": "comment-parler-avec-dieu",
+  "lang": "fr",
+  "title": "Comment parler avec Dieu ?",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 8,
+  "summary": "La prière n'est ni une formule magique ni un devoir religieux, mais une conversation sincère avec Dieu, qui entend et qui répond. Nous apprenons à parler avec un Ami simplement, régulièrement et avec confiance - et nous découvrons que la prière nous change, nous et nos situations.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "prière",
+    "conversation",
+    "confiance",
+    "Notre Père",
+    "relation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "La prière est une conversation, pas une formule",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Matt.6.7-8",
+              "ref": "Mt 6:7-8"
+            }
+          ],
+          "comment": "Jésus écarte l'idée d'une prière qui servirait à « remonter » Dieu à force de paroles. Le Père sait ce dont tu as besoin avant que tu le lui demandes - la prière est donc une conversation avec quelqu'un de proche, et non une incantation.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Qu'est-ce que change dans ton rapport à la prière l'idée que Dieu connaît déjà tes besoins avant même que tu parles ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Matt.7.7-8",
+              "ref": "Mt 7:7-8"
+            }
+          ],
+          "comment": "« Demandez... cherchez... frappez » - la prière est active et persévérante. Jésus encourage à ne pas se taire après la première fois, mais à continuer la conversation.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Qu'est-ce qui, dans ta vie, te pousse plus facilement à te taire qu'à continuer de « frapper » ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "verb",
+          "label": "« demandez, cherchez, frappez » (Mt 7:7)",
+          "content": "En grec, les verbes *aiteo*, *zeteo*, *krouo* sont à l'impératif présent, qui exprime une action continue, répétée : « demandez et ne cessez pas de demander ». La forme grammaticale elle-même invite à la persévérance - ce n'est pas un « demande » ponctuel, mais un « continue de parler ».",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "αἰτεῖτε… ζητεῖτε… κρούετε",
+              "translit": "aiteite… zeteite… krouete"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Comment le sens de cet appel change-t-il lorsque tu le lis comme « demandez avec persévérance » plutôt que comme un « demande » unique ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Matt.7.9-11",
+              "ref": "Mt 7:9-11"
+            }
+          ],
+          "comment": "Dieu n'est pas moins bon qu'un parent terrestre. Si des parents imparfaits donnent de bonnes choses à leurs enfants, combien plus un bon Père répond-il aux demandes de ses enfants.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "En quoi l'image de Dieu comme un bon Père diffère-t-elle de celle d'un Dieu qui ne ferait qu'attendre nos erreurs ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Le modèle que Jésus a donné",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Matt.6.9-13",
+              "ref": "Mt 6:9-13"
+            }
+          ],
+          "comment": "Le « Notre Père » n'est pas une formule à réciter mécaniquement, mais un modèle : il commence par la relation et la gloire de Dieu, puis demande les besoins quotidiens, le pardon et la protection. C'est l'ossature d'une conversation saine avec Dieu.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Quels éléments de la prière du Seigneur omets-tu le plus souvent dans tes propres prières - et pourquoi ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "« Père » (Abba) au cœur de la prière du Seigneur",
+          "content": "Le mot « Père » par lequel Jésus ouvre la prière modèle (Mt 6:9 ; Lc 11:2) exprime la relation d'un enfant à son parent, et non celle d'un sujet à un souverain. En Rm 8:15 et Ga 4:6 apparaît l'araméen *Abba* - un « papa » tendre, familial. C'est par ce même mot que Jésus lui-même a prié à Gethsémané (Mc 14:36). C'est lui qui donne le ton à toute la prière : une conversation, pas une audience.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἀββά",
+              "translit": "abba"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "« le pain quotidien » (Mt 6:11)",
+          "content": "Le grec *epiousios* est un mot rare et difficile à traduire - rendu traditionnellement par « quotidien / pour aujourd'hui ». La demande porte sur le besoin courant, du jour ; elle enseigne la confiance « pour aujourd'hui », et non l'accumulation de réserves. C'est un écho de la manne au désert : assez pour un jour, en faisant confiance pour le lendemain.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐπιούσιος",
+              "translit": "epiousios"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Luke.11.1",
+              "ref": "Lc 11:1"
+            }
+          ],
+          "comment": "Voyant Jésus prier, les disciples ont demandé : « apprends-nous ». La prière peut et mérite de s'apprendre - il n'est pas nécessaire de « savoir » dès le départ.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Si tu pouvais aujourd'hui demander à Jésus « apprends-moi à prier », qu'aimerais-tu comprendre concrètement ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Matt.6.5-6",
+              "ref": "Mt 6:5-6"
+            }
+          ],
+          "comment": "Jésus met en garde contre la prière « pour la galerie ». La plus précieuse est celle qui se fait dans le secret - car il s'agit de rencontrer le Père, et non de faire impression sur les autres.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Qu'est-ce qui distingue une prière « pour Dieu » d'une prière « pour les gens » qui regardent ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Ps.62.8",
+              "ref": "Ps 62:9"
+            }
+          ],
+          "comment": "« Répandez votre cœur devant lui » - la prière, c'est déverser devant Dieu ce qui est vraiment en nous. Dieu est un refuge devant lequel il n'est pas besoin de faire semblant.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Que signifierait pour toi « répandre ton cœur » devant Dieu, au lieu de dire ce qu'il « convient » de dire ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Sincérité et régularité",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Phil.4.6-7",
+              "ref": "Ph 4:6-7"
+            }
+          ],
+          "comment": "Au lieu de nous inquiéter, nous devons « en toute chose » présenter nos demandes à Dieu avec des actions de grâces. La promesse n'est pas une solution immédiate, mais la paix de Dieu qui garde les cœurs.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Qu'est-ce qui t'ôte le plus souvent la paix - et à quoi ressemblerait le fait de le remettre à Dieu dans une prière avec action de grâces ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "« la paix qui garde » (Flp 4:7)",
+          "content": "Le grec *eirene* traduit l'hébreu *shalom* - non seulement l'absence de conflit, mais la plénitude et l'intégrité. La « paix qui surpasse toute intelligence » ne dépend pas de la résolution du problème, mais elle « garde » le cœur et les pensées (gr. *phroureo* - terme militaire : monter la garde, tenir un poste). L'image est forte : la paix de Dieu monte la garde autour de ton intérieur comme une garnison autour d'une ville.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "εἰρήνη",
+              "translit": "eirene"
+            },
+            {
+              "lang": "hbo",
+              "text": "שָׁלוֹם",
+              "translit": "szalom"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "1Thess.5.16-18",
+              "ref": "1 Th 5:16-18"
+            }
+          ],
+          "comment": "« Priez sans cesse » n'est pas un appel à rester continuellement à genoux, mais à garder une ligne de conversation ouverte et permanente avec Dieu tout au long de la journée.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "À quoi pourrait ressembler une conversation « sans cesse » avec Dieu, glissée dans ta journée ordinaire ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "Daniel et le rythme de trois prières par jour (Dn 6:10)",
+          "content": "Lorsque parut l'interdiction de prier sous peine de mort, Daniel, « comme il le faisait habituellement », se mettait à genoux trois fois par jour et priait, la fenêtre ouverte. Deux choses sont remarquables : la prière était chez lui une habitude constante (et non une réaction occasionnelle à la crise), et cette habitude s'est révélée plus forte que la peur. La régularité de la prière construit l'épine dorsale de la foi pour le temps de l'épreuve."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Mark.1.35",
+              "ref": "Mc 1:35"
+            }
+          ],
+          "comment": "Jésus lui-même, bien qu'il fût le Fils de Dieu, cherchait un lieu et un temps pour parler avec le Père - tôt le matin, à l'écart. La régularité n'est pas un signe de faiblesse de la foi, mais sa force.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Quand, dans ta journée, pourrait se trouver un moment fixe et paisible pour parler avec Dieu ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Luke.18.1",
+              "ref": "Lc 18:1"
+            }
+          ],
+          "comment": "Jésus enseigne « qu'il faut toujours prier et ne pas se lasser ». La persévérance dans la prière est le contraire du découragement.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Dans quel domaine es-tu tenté de cesser de prier ? Que signifierait « ne pas se lasser » ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Dieu entend et répond",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "1John.5.14-15",
+              "ref": "1 Jn 5:14-15"
+            }
+          ],
+          "comment": "Nous avons l'assurance que Dieu nous entend lorsque nous demandons selon sa volonté. La prière n'est pas parler dans le vide - elle est entendue.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Qu'est-ce que change la conscience que Dieu t'entend vraiment, et ne fait pas que « capter » tes paroles ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Isa.65.24",
+              "ref": "És 65:24"
+            }
+          ],
+          "comment": "« Avant qu'ils appellent, je répondrai » - Dieu n'est pas lent. Sa réponse devance souvent nos demandes.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "T'est-il déjà arrivé de remarquer une réponse à un besoin que tu n'avais pas encore eu le temps d'exprimer ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Luke.22.42",
+              "ref": "Lc 22:42"
+            }
+          ],
+          "comment": "À Gethsémané, Jésus prie : « non pas ma volonté, mais la tienne ». Dieu répond de trois façons - « oui », « non », « attends » - et sa réponse jaillit toujours de l'amour, jamais de l'indifférence.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Comment accueilles-tu le « non » ou le « attends » de Dieu ? T'est-il plus facile de faire confiance quand la réponse est « oui » ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "la « coupe » à Gethsémané (Lc 22:42)",
+          "content": "La « coupe » dont Jésus demande l'éloignement est, dans l'Ancien Testament, une image du jugement de Dieu sur le péché (par ex. Ps 75:9 ; Es 51:17). Jésus ne recule pas devant une simple souffrance - il affronte le fait de boire la « coupe » qui nous revenait. Sa prière « non pas ma volonté, mais la tienne » montre aussi que le plus haut modèle de prière n'est pas d'imposer son propre avis, mais de faire confiance à la volonté du Père, même dans les ténèbres les plus profondes."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "2Cor.12.8-9",
+              "ref": "2 Co 12:8-9"
+            }
+          ],
+          "comment": "Paul a demandé trois fois que sa souffrance soit ôtée, et Dieu a répondu autrement que ce qu'il demandait : « ma grâce te suffit ». Parfois Dieu ne change pas la situation, mais donne la force de la traverser.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Peux-tu identifier un moment où la réponse de Dieu a été différente et meilleure que ce que tu demandais ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Jas.4.3",
+              "ref": "Jc 4:3"
+            }
+          ],
+          "comment": "Parfois « nous demandons et ne recevons pas », parce que nous demandons mal - pour satisfaire nos propres désirs. La prière n'est pas un outil pour réaliser notre égoisme, mais un lieu où le cœur mûrit.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Comment distinguer une demande qui cherche vraiment la volonté de Dieu d'une tentative d'« utiliser » Dieu à ses propres fins ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "La prière me change, moi et les situations",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Jas.5.16",
+              "ref": "Jc 5:16"
+            }
+          ],
+          "comment": "« La prière fervente du juste a une grande efficacité » - la prière change vraiment quelque chose dans le monde. Elle n'est pas seulement une thérapie pour celui qui prie ; Dieu agit en réponse à elle.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "T'est-il plus facile de croire que la prière te change, toi, ou qu'elle change aussi le cours des choses ? Pourquoi ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "worship",
+          "label": "les prières comme un parfum devant Dieu (Ap 5:8)",
+          "content": "En Ap 5:8 et 8:3-4, les prières des saints sont présentées comme un parfum qui monte devant le trône de Dieu (cf. Ps 141:2 : « que ma prière soit comme l'encens »). L'image dit deux choses : la prière est agréable à Dieu comme la fumée odorante d'un sacrifice, et aucune ne se perd - toutes sont « rassemblées » au ciel. Ta prière la plus discrète parvient jusqu'à la cour même du ciel."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Luke.11.9-13",
+              "ref": "Lc 11:9-13"
+            }
+          ],
+          "comment": "Le meilleur don que le Père fait à ceux qui demandent, c'est le Saint-Esprit. La prière nous change avant tout nous-mêmes - elle ouvre le cœur à la présence de Dieu.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Si la plus grande « réponse » à ta prière était Dieu lui-même, et non la chose que tu demandes - cela te suffirait-il ?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "La prière n'est pas un examen des mots justes ni un devoir religieux. C'est une conversation avec un Ami qui te connaît déjà, qui t'entend vraiment et qui répond - parfois « oui », parfois « non », parfois « attends » - toujours par amour. Tu n'as pas besoin de savoir prier pour commencer ; il suffit que tu te mettes à parler. Et plus tu parles avec Dieu, plus la prière change non seulement tes situations, mais avant tout toi-même.",
+    "challenge": "Pendant la semaine qui vient, trouve chaque jour un moment paisible pour une conversation sincère et brève avec Dieu - sans formules toutes faites, avec tes propres mots. Tu peux t'appuyer sur le modèle de la prière du Seigneur (Mt 6:9-13) : commence par l'action de grâces, puis parle à Dieu d'un besoin concret et d'un souci que tu veux lui remettre."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "FR translation of PL study modlitwa"
+  }
+}

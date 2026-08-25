@@ -1,0 +1,514 @@
+{
+  "id": "tumaini-katika-huzuni-na-upweke",
+  "lang": "sw",
+  "title": "Tumaini katika huzuni na upweke",
+  "category": "topic",
+  "seriesId": "zycie-i-emocje",
+  "order": 32,
+  "summary": "Kwa siku ambazo ni ngumu, tupu au za giza. Maandiko hayaoni aibu kuhusu huzuni wala upweke - yanaonyesha Mungu aliye karibu na waliovunjika moyo, na watu wa imani waliopita katika mashimo ya chini. Kuhusu tumaini, jumuiya na kwamba kutafuta msaada si upungufu wa imani.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "upweke",
+    "huzuni",
+    "sonona",
+    "tumaini",
+    "msaada",
+    "jumuiya"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Naruhusiwa kutojisikia vizuri",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Ps.42.4-6",
+              "ref": "Zab 42:4-6"
+            }
+          ],
+          "comment": "\"Mbona unasononeka, nafsi yangu...?\" Mtunga-zaburi anazungumza na huzuni yake mwenyewe kwa uwazi, bila kujifanya. Imani haikatazi kukiri: \"naumia\".",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Ni rahisi zaidi kwako kukiri mbele za Mungu kwamba unajisikia vizuri, au kwamba ni vigumu kwako? Ni nini kinakuzuia kuwa mkweli?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Ps.42.11",
+              "ref": "Zab 42:11"
+            }
+          ],
+          "comment": "Zaburi ile ile inarudi kama kiitikio: \"umtumaini Mungu\". Huzuni na tumaini havipingani - waweza kulia na wakati huo huo \"kuikumbusha nafsi\" ni nani mwenye neno la mwisho.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Ingemaanisha nini kwako \"kuzungumza na nafsi yako mwenyewe\" - kujikumbusha ukweli kuhusu Mungu, wakati hisia zinasema kinyume?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Ps.88.2-4",
+              "ref": "Zab 88:2-4"
+            }
+          ],
+          "comment": "Zaburi 88 ni zaburi yenye giza zaidi katika Biblia - inaishia kwa neno \"giza\". Na bado ni sala. Mungu aliweka katika Maandiko sauti ya mtu ambaye hakupata nafuu, ili mtu yeyote asijisikie peke yake.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Inakuambia nini kuhusu Mungu ukweli kwamba alitoa nafasi katika Biblia kwa sala isiyoishia kwa \"mwisho wa furaha\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Eccl.3.4",
+              "ref": "Mhu 3:4"
+            }
+          ],
+          "comment": "\"Kuna wakati wa kulia, na wakati wa kucheka, wakati wa kuomboleza, na wakati wa kucheza.\" Huzuni ina wakati wake na mahali pake - si hitilafu inayopaswa \"kurekebishwa\" mara moja.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Je, unajipa haki ya \"wakati wa kulia\", au badala yake unasukuma \"ujikaze tu\"? Msukumo huo unatoka wapi?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "worship",
+          "label": "maombolezo kama namna halali ya sala (Ps 42; 88)",
+          "content": "Sehemu kubwa ya Zaburi ni maombolezo - sala za malalamiko. Nyingi husogea kutoka huzuni hadi kumtumaini Mungu, lakini Ps 88 kwa kusudi inaishia gizani, bila ufumbuzi. Kuwepo kwa maandiko kama hayo ndani ya Maandiko yaliyovuviwa kunaonyesha kwamba Mungu anaruhusu, na hata anaalika, sala ya kweli \"kutoka shimoni\", bila ulazima wa kujifanya kuwa na amani usiyoihisi. Maombolezo si upungufu wa imani - ni imani inayozungumza na Mungu hata pale isipoelewa na isipohisi nafuu.",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Ni nini kingebadilika katika sala yako kama ungejiruhusu kusali kwa \"maombolezo\" - kumwambia Mungu wazi kwamba unaumia, bila kulazimisha hitimisho la matumaini?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "\"wakati wa kulia\" na mdundo wa maisha (Koh 3,4)",
+          "content": "Neno la Kiebrania la \"kulia/kuomboleza\" (*bekha*) huelezea maombolezo ya sauti, yasiyozuilika, si tu mguso wa kimya. Koh 3 inaweka kulia na kucheka, maombolezo na densi kama \"nyakati\" zenye hadhi sawa zilizoandikwa katika mdundo wa maisha ya mwanadamu chini ya mbingu za Mungu. Huzuni hapa si kuvuruga utaratibu, bali ni sehemu yake - jambo linaloondoa shinikizo la kuruka mara moja kwenda kwenye furaha.",
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Je, waweza kuukubali \"wakati\" wa sasa wa maisha yako bila kuuhukumu - kukubali kwamba na maombolezo yana nafasi yake ndani yake?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Mungu yu karibu na waliovunjika moyo",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Ps.34.19",
+              "ref": "Zab 34:19"
+            }
+          ],
+          "comment": "\"Bwana yu karibu nao waliovunjika moyo, na waliopondeka roho huwaokoa.\" Mungu hasubiri tujikusanye - yu karibu zaidi hasa pale tunapokuwa vipande vipande.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Hofu husema kwamba katika huzuni Mungu yu mbali. Ni nini kinabadilika kwa ahadi kwamba wakati huo yu karibu zaidi?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"waliovunjika moyo\" / נִשְׁבְּרֵי־לֵב (niszbere-lew) (Ps 34,19)",
+          "content": "Usemi wa Kiebrania katika Ps 34,19 unaunganisha \"kuvunjika/kupondeka\" (shina *szabar* - kuvunja, kuponda) na \"moyo\" (*lew*) na \"roho\" (*ruach*). Hauelezi imani dhaifu wala hatia, bali jeraha halisi, la ndani kabisa. Zaburi haidai \"ujikusanye\" kabla ya kumwendea Mungu - kinyume chake, ni kwa waliovunjika ndio Mungu \"hujikaribisha\". Hii ni marekebisho muhimu dhidi ya hisia kwamba huzuni humtenga mtu na Mungu.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "נִשְׁבְּרֵי־לֵב",
+              "translit": "niszbere-lew"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Inabadilishaje mtazamo wako kuhusu siku ngumu ukweli kwamba Mungu hukaribia waliovunjika, badala ya kungoja \"wajirekebishe\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Ps.147.3",
+              "ref": "Zab 147:3"
+            }
+          ],
+          "comment": "\"Huwaponya waliovunjika moyo, na kuviganga vidonda vyao.\" Taswira ya tabibu na bendeji: Mungu haupuuzi uchungu wala hauchukii - anainama juu yake.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Kama Mungu angeganga jeraha lako moja, ni lipi ungemwonyesha leo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Matt.5.4",
+              "ref": "Mt 5:4"
+            }
+          ],
+          "comment": "\"Heri wenye huzuni, kwa kuwa watafarijiwa.\" Yesu hasemi \"heri wachangamfu\" - kati ya waliobarikiwa anaweka wenye maombolezo, pamoja na ahadi ya faraja.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Inamaanisha nini kwamba Yesu anawaita \"wenye heri\" hasa wenye huzuni? Hilo linabadilishaje mtazamo juu ya huzuni yako?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Isa.53.3-4",
+              "ref": "Isa 53:3-4"
+            }
+          ],
+          "comment": "Masihi ni \"mtu wa huzuni nyingi, ajuaye sikitiko\", aliye\"chukua masikitiko yetu\". Yesu hatazami mateso kwa mbali - anayajua mwenyewe kutoka ndani.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Ni nini kinatolewa na ufahamu kwamba Yule unayemwomba, mwenyewe alionja kukataliwa na uchungu - si tu alisikia kuhusu hayo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "\"mtu wa huzuni\" - Masihi ajuaye uchungu kutoka ndani (Iz 53,3)",
+          "content": "Iz 53,3 anamwita Mtumishi \"mtu wa huzuni nyingi\" na \"ajuaye sikitiko\"; maneno yaliyotumika hapa (*makobot* - maumivu, *choli* - ugonjwa, udhaifu) yanahusisha mateso ya kimwili pamoja na uchungu wa nafsi. Injili zinamwonyesha Yesu akilia kaburini kwa rafiki yake (J 11,35) na akipatwa na uchungu Gethsemane. Mtazamo wa ujumla kuhusu mwanadamu husisitiza kwamba Mungu katika Kristo aliingia katika ukamilifu wa hali ya kibinadamu - pia katika hisia zake za giza - kwa hiyo huwa humwombi mtu asiyeujua uchungu.",
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Ni nini kinabadilika katika picha yako ya Mungu kwa kuwa Yesu mwenyewe alipatwa na huzuni na uchungu, si tu alifundisha kuhusu hayo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Ps.56.9",
+              "ref": "Zab 56:9"
+            }
+          ],
+          "comment": "\"Uihesabu mizunguko yangu, uyatie machozi yangu katika chupa yako - je, hayako katika kitabu chako?\" Hakuna chozi lako linalokosa kuonekana wala kupotea bure.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Unahisije unaposikia kwamba Mungu \"hukusanya machozi yako\" na kuyahesabu - kwamba hayaepuki uangalifu wake?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Eliya shimoni: jinsi Mungu anavyomtendea aliyechoka",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "1Kgs.19.3-5",
+              "ref": "1Fal 19:3-5"
+            }
+          ],
+          "comment": "Nabii mkuu baada ya ushindi mkubwa anavunjika moyo, anakimbia na kuomba kufa: \"yatosha sasa, uitwae roho yangu\". Hata watu wa imani kuu hufika chini ya uchovu na kukata tamaa.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Inakuambia nini kwamba Biblia inamwonyesha \"shujaa wa imani\" kama Eliya katika hali ambayo anataka tu kufa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "1Kgs.19.5-8",
+              "ref": "1Fal 19:5-8"
+            }
+          ],
+          "comment": "Jibu la kwanza la Mungu si mahubiri wala lawama - ni usingizi, chakula na mguso wa malaika: \"ondoka ule\". Mungu kwanza alishughulikia mwili na mapumziko.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Inasema nini kuhusu Mungu kwamba kwa kukata tamaa kwa Eliya alijibu kwanza kwa usingizi na chakula? Ni \"misingi\" gani huenda nawe unaikosa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "1Kgs.19.9-13",
+              "ref": "1Fal 19:9-13"
+            }
+          ],
+          "comment": "Ndipo tu baadaye Mungu anazungumza - na huja si katika upepo mkali wala moto, bali katika \"sauti ndogo, ya utulivu\". Kukutana na Mungu wakati wa shida mara nyingine huwa kimya, si kwa mshtuko mkubwa.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Unamtafuta Mungu wapi katika siku ngumu - katika ishara za \"kustaajabisha\" au katika sauti ndogo, ya kawaida? Ni nini ungeweza kukosa kuona?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "1Kgs.19.15-18",
+              "ref": "1Fal 19:15-18"
+            }
+          ],
+          "comment": "Mungu anampa Eliya vitu vitatu: kazi mpya, mwenzi (Elisha) na ukweli kwamba \"hayuko peke yake\" - wamebaki bado elfu saba waaminifu. Dawa ya hisia ya kutengwa ni pamoja na ukweli na jumuiya.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Eliya alikuwa na hakika kwamba \"amebaki yeye peke yake\". Ni wapi hisia ya upweke yaweza kukudanganya kuhusu idadi halisi ya watu walio pamoja nawe?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "Eliya (1 Krl 19) na \"utaratibu\" wa Mungu kwa aliyechoka",
+          "content": "Kuvunjika moyo kwa Eliya kunatokea mara tu baada ya ushindi wa kilele katika Karmeli (1 Krl 18) - wakati wa kawaida wa mtikisiko baada ya jitihada kubwa na mvutano. Mpangilio wa jibu la Mungu unavutia: kwanza mapumziko na chakula (mahitaji ya mwili), kisha kukutana kwa upole na mazungumzo (mahitaji ya roho), hatimaye kazi mpya, mwenzi na ukweli kuhusu jumuiya (maana, uhusiano, kuwa wa mahali). Hii ni taswira ya kibiblia ya kumjali mwanadamu kwa ujumla - mwili, akili, roho na mahusiano - inayopatana na mtazamo wa ujumla kuhusu asili ya mwanadamu.",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Ukiangalia mpangilio kwa Eliya (mwili -> sauti ndogo -> maana na jumuiya), ni kipimo kipi kati ya hivi kimepuuzwa zaidi kwako?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "\"sauti ndogo, ya utulivu\" - Mungu hamfokei aliyechoka (1 Krl 19,12)",
+          "content": "Usemi wa Kiebrania katika 1 Krl 19,12 (*kol demama daka*) hutafsiriwa mara nyingine kama \"sauti ya ukimya mtulivu\" au \"mnong'ono mdogo, wa utulivu\". Mungu anaupita upepo, tetemeko la nchi na moto - ishara za nguvu - na kujidhihirisha kwa Eliya katika kimya. Kwa aliyechoka hii ni taswira muhimu: Mungu wakati wa shida mara nyingi hushusha sauti, badala ya kuipandisha, na huwa yupo katika kile kisichoonekana cha maana, si katika mafanikio ya kustaajabisha.",
+          "questions": [
+            {
+              "id": "q24",
+              "text": "Je, unamtafuta Mungu hasa katika matukio ya \"nguvu\"? Ungewezaje kujifunza kuutambua uwepo wake katika kimya cha siku ya kawaida?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Mwaliko, jumuiya na msaada wa dhahiri",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Matt.11.28-30",
+              "ref": "Mt 11:28-30"
+            }
+          ],
+          "comment": "\"Njoni kwangu, ninyi nyote msumbukao na wenye kulemewa na mizigo, nami nitawapumzisha.\" Mwaliko rahisi zaidi wa Yesu umeelekezwa hasa kwa waliochoka.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Ingemaanisha nini kumwendea Yesu hasa jinsi ulivyo leo - bila \"kujikusanya\" kwanza?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Gal.6.2",
+              "ref": "Gal 6:2"
+            }
+          ],
+          "comment": "\"Chukulianeni mizigo.\" Mungu alipanga kwamba sehemu ya mizigo hatutaibeba peke yetu - jumuiya ni mojawapo ya njia za Mungu za kuleta msaada.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Ni mzigo wa nani ungeweza kusaidia kuubeba leo - na ni nani ungeweza kumruhusu akusaidie kubeba wako? Ni nini kinakuzuia kuomba msaada?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"mizigo\" - mizigo isiyobebeka peke yake (Ga 6,2)",
+          "content": "Katika Ga 6,2 \"mzigo\" (Kiyunani *baros*) humaanisha mzigo unaolemea, mkubwa mno kwa mtu mmoja - neno tofauti na \"mzigo wake mwenyewe\" (Kiyunani *fortion*) katika Ga 6,5, ambao kila mtu hubeba peke yake. Paulo hakatai uwajibikaji binafsi, bali anaonyesha kwamba kuna mizigo ambayo kwa asili hatupaswi kuibeba peke yetu. Kwa hiyo kuomba msaada si udhaifu, bali ni kuitimiza \"sheria ya Kristo\". Miongoni mwa njia za Mungu za msaada inaingia pia uangalizi wa watu wenye ujuzi, wakiwemo madaktari na wataalamu.",
+          "questions": [
+            {
+              "id": "q25",
+              "text": "Ni mzigo wako upi unajaribu kuubeba kama *fortion* (peke yako), ingawa ni zaidi *baros* - kitu kilichokusudiwa kubebwa pamoja?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Eccl.4.9-10",
+              "ref": "Mhu 4:9-10"
+            }
+          ],
+          "comment": "\"Afadhali kuwa wawili kuliko mmoja... kwa kuwa mmoja akianguka, mwenzake atamwinua. Lakini ole wake aliye peke yake aangukapo.\" Kutengwa huongeza anguko; ukaribu wa mtu mwingine huokoa.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Ni nani \"mwenzako\" - mtu ambaye angekuinua ukianguka? Kama hakuna mtu kama huyo, ungewezaje kuanza kumtafuta?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Rom.12.15",
+              "ref": "Rum 12:15"
+            }
+          ],
+          "comment": "\"Lieni pamoja nao waliao.\" Msaada si mara zote ushauri au suluhisho - mara nyingine ni uwepo na kulia pamoja. Hivyo pia tunaweza kuwa msaada kwa wengine.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Unahitaji zaidi nini kutoka kwa watu katika nyakati ngumu: ushauri au uwepo? Na ni kipi unawapa wengine mara nyingi zaidi?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Ps.40.2-4",
+              "ref": "Zab 40:2-4"
+            }
+          ],
+          "comment": "\"Akanipandisha kutoka shimo la uharibifu, kutoka udongo wa matope, akaisimamisha miguu yangu mwambani.\" Ushuhuda wa mtu aliyekuwa chini na akatolewa - tumaini kwamba shimo si mahali pa mwisho.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Kutoka katika \"matope\" katika zaburi hii ni mchakato, si kuruka. Ni hatua gani ndogo ya kwanza ingeweza kuwa yako \"kuelekea mwambani\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "\"Mungu wa faraja yote\" - paraklesis (2 Kor 1,3-4)",
+          "content": "Paulo anamwita Mungu \"Baba wa rehema na Mungu wa faraja yote\". Neno la Kiyunani *paraklesis* (faraja, kutia moyo) na kitenzi *parakaleo* humaanisha kihalisi \"kumwita mtu aje kwako\", ili asimame kando na kusaidia. Kwa shina lile lile huelezwa Roho Mtakatifu - *Parakletos*, \"Mfariji\" (J 14,16). Jambo la maana, Mungu hutufariji \"katika kila dhiki yetu\", ili baadaye tuweze kuwafariji wengine - uchungu uliopitwa waweza kuwa chombo cha msaada, si jeraha tu.",
+          "questions": [
+            {
+              "id": "q26",
+              "text": "Je, waweza kumtaja mtu aliyekufariji \"kwa sababu yeye mwenyewe alipita katika hayo\"? Ni nani wewe ungeweza kuwa msaada wa namna hiyo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "term",
+          "label": "tumaini kama \"nanga ya nafsi\" (Hbr 6,19)",
+          "content": "Hbr 6,19 inaliita tumaini \"nanga ya nafsi, iliyo salama na imara\" (Kiyunani *ankyra*). Tumaini la kibiblia si matumaini ya kutamani tu, bali ni kutia nanga katika uaminifu wa Mungu na ahadi yake - kitu kinachoishikilia mashua, mawimbi ya hisia yanapoirusha huku na huku. Tumaini kama hilo haliahidi kwamba dhoruba itapita mara moja, bali kwamba haitatung'oa kutoka mahali petu pa kushikiliwa. Ndiyo sababu mtu aweza kujisikia vibaya kabisa, na pamoja na hayo asielee bila tegemeo.",
+          "questions": [
+            {
+              "id": "q27",
+              "text": "Ni nini leo \"nanga\" yako, hisia zinaporusha mawimbi? Tumaini lako linaegemea juu ya nini, usipohisi nafuu?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Kuwa Mkristo hakumaanishi kwamba daima itakuwa rahisi. Maandiko hutoa nafasi kwa huzuni, upweke na uchovu - na huonyesha Mungu aliye karibu zaidi na waliovunjika, anayehesabu machozi yako na mwenyewe ajuaye uchungu. Pia huonyesha Eliya, ambaye Mungu alimjibu kwa usingizi, chakula, sauti ndogo na jumuiya. Huhitaji \"kujikusanya\" ili umwendee Yesu. Na huhitaji kwenda peke yako: jumuiya na - inapohitajika - msaada wa mtaalamu si upungufu wa imani, bali ni njia za Mungu za kukuinua.",
+    "challenge": "Fanya wiki hii mambo mawili. (1) Sali mara moja kwa \"maombolezo\" ya kweli - mwambie Mungu wazi kile kilicho kigumu, bila kupamba (mfano: Ps 42 au 88). (2) Chukua hatua moja dhahiri kuelekea mtu mwingine: andika au pigia simu mtu unayemwamini na umwambie jinsi unavyojisikia hasa. Na kama mzigo unalemea sana au umedumu kwa muda mrefu - chukua kuonana na daktari au mtaalamu kuwa tendo la ujasiri na hekima, si udhaifu."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study samotnosc-smutek-depresja"
+  }
+}

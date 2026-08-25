@@ -1,0 +1,470 @@
+{
+  "id": "uma-esperanca-mais-forte-que-a-morte",
+  "lang": "pt",
+  "title": "Uma esperança mais forte que a morte",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 12,
+  "summary": "A Bíblia fala da morte como um \"sono\", do qual a ressurreição desperta no regresso de Jesus - é esperança, não motivo de medo. Conhecemos este ensino, o aviso contra o espiritismo e os \"contactos com os mortos\", e a resposta bíblica à reencarnação. A camada PRO refere-se ao ensino sobre o purgatório e às orações pelos mortos.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "morte",
+    "ressurreição",
+    "o estado dos mortos",
+    "esperança",
+    "espiritismo"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "A morte como sono",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "John.11.11-14",
+              "ref": "Jo 11:11-14"
+            }
+          ],
+          "comment": "Jesus diz acerca de Lázaro, que tinha morrido: \"adormeceu, mas vou despertá-lo\" - e depois explica claramente: \"Lázaro morreu\". É o próprio Jesus que chama à morte um sono, do qual se pode ser despertado.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "O que muda no teu modo de pensar sobre a morte a imagem do \"sono\", que o próprio Jesus usou?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"sono\" como imagem da morte (Jo 11:11)",
+          "content": "O grego *koimaomai* (\"adormecer\") descreve muitas vezes no NT a morte dos crentes (Jo 11:11, 1 Ts 4:13-15, 1 Co 15:6,18, At 7:60). Daí que \"cemitério\" em grego seja *koimeterion* - literalmente \"dormitório, lugar de sono\". A imagem do sono pressupõe o despertar: quem dorme será despertado. Esta é a raiz da esperança da ressurreição - a morte não é o fim, mas um \"sono\" antes do chamamento de Deus.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "κοιμάομαι",
+              "translit": "koimaomai"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Como é que a palavra \"sono\" (com o pressuposto do despertar) muda a relação emocional com a morte?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Eccl.9.5-6",
+              "ref": "Ec 9:5-6"
+            }
+          ],
+          "comment": "\"Os mortos nada sabem… já não têm parte alguma em tudo o que se faz debaixo do sol\". O estado da morte é inconsciência - não uma existência paralela e contínua noutro lugar.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Como é que este pensamento - que os mortos \"nada sabem\" - influencia as imagens populares de uma vida \"logo após a morte\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Ps.146.4",
+              "ref": "Sl 146:4"
+            }
+          ],
+          "comment": "\"Quando o seu espírito sai, volta para a sua terra; nesse dia perecem os seus planos\". Com a morte cessa a atividade consciente do ser humano - pensamentos, planos, sentimentos.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "O que significa, para a plenitude deste ensino, a afirmação de que com a morte \"perecem os planos\" do ser humano?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "o que \"volta para Deus\" no momento da morte (Ec 12:7)",
+          "content": "Ec 12:7 diz: \"o pó volta à terra… e o espírito volta a Deus, que o deu\". O \"espírito\" (heb. *ruach*) é aqui o sopro de vida, a centelha vivificante de Deus, e não uma \"alma\" consciente e autónoma que voa para o céu. Trata-se da inversão do ato da criação de Gn 2:7: na morte separam-se o pó e o sopro, e o ser humano (a pessoa consciente) deixa de existir até à ressurreição. \"O espírito volta a Deus\" significa, portanto: a vida volta ao seu Doador, não que o falecido continue a viver conscientemente.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "רוּחַ",
+              "translit": "ruach"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Ps.115.17",
+              "ref": "Sl 115:17"
+            }
+          ],
+          "comment": "\"Não são os mortos que louvam o Senhor… mas nós bendiremos o Senhor\". Os mortos não estão conscientes nem ativos - também no plano religioso. É a imagem coerente de toda a Escritura.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Como é que este versículo se harmoniza com a imagem da morte como sono, e não como uma passagem imediata para o céu ou para o inferno?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Gen.2.7",
+              "ref": "Gn 2:7"
+            }
+          ],
+          "comment": "O ser humano não \"tem\" uma alma como uma parte separada e imortal - o ser humano \"tornou-se alma vivente\" quando o pó se uniu ao sopro de Deus. A morte é a separação destes elementos (cf. Ec 12:7), e não a libertação de uma alma imortal.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Como é que entender o ser humano como um todo (pó + sopro de vida) muda a imagem daquilo que acontece no momento da morte?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"alma vivente\", não \"alma imortal\" (Gn 2:7)",
+          "content": "O hebraico *nefesh chayyah* significa \"ser / alma vivente\". O ser humano não *recebe* uma alma como uma parte separada e imortal - ele *torna-se* um ser vivo (*nefesh*) quando o pó se une ao \"sopro de vida\". A mesma palavra *nefesh* é usada para os animais (Gn 1:20-21). Mais ainda, a Bíblia diz que só Deus tem imortalidade (1 Tm 6:16), e os crentes recebem-na como dom apenas na ressurreição (1 Co 15:53-54) - não como característica inata.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "נֶפֶשׁ חַיָּה",
+              "translit": "nefesz chajja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "A ressurreição no regresso de Jesus",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "1Thess.4.13-14",
+              "ref": "1 Ts 4:13-14"
+            }
+          ],
+          "comment": "Paulo não quer que nos entristeçamos \"como aqueles que não têm esperança\". A resposta cristã à morte não é negar o luto, mas uma esperança fundada na ressurreição de Jesus.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Em que difere a tristeza \"sem esperança\" da tristeza que tem a esperança da ressurreição?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "1Thess.4.15-17",
+              "ref": "1 Ts 4:15-17"
+            }
+          ],
+          "comment": "\"Os mortos em Cristo ressuscitarão primeiro\", e depois os vivos serão arrebatados - tudo isto acontecerá no regresso de Jesus. A esperança dos mortos não é \"logo após a morte\", mas no dia do regresso do Senhor.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Por que é importante que a ressurreição esteja ligada a um acontecimento concreto - o regresso de Jesus - e não aconteça logo após a morte?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "John.5.28-29",
+              "ref": "Jo 5:28-29"
+            }
+          ],
+          "comment": "Virá a hora em que \"todos os que estão nos túmulos ouvirão a sua voz e sairão\". A ressurreição é universal e concreta - do túmulo, à voz de Jesus.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "O que diz acerca da esperança o facto de a ressurreição ser a resposta à \"voz\" pessoal de Jesus que chama do túmulo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "as duas ressurreições (Jo 5:28-29)",
+          "content": "Jesus fala de dois grupos: a \"ressurreição da vida\" e a \"ressurreição do juízo\". O Apocalipse desenvolve isto com a imagem da \"primeira ressurreição\" - a dos justos no regresso de Jesus (Ap 20:4-6, 1 Ts 4:16) - e da ressurreição universal dos restantes depois do milénio. Isto ordena a esperança: nem todos ressuscitam no mesmo momento, mas cada um \"pela sua ordem\" (1 Co 15:23). Para o crente, o que conta é ter parte na \"primeira ressurreição\", sobre a qual \"a segunda morte não tem poder\" (Ap 20:6).",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "O que dá esperança no facto de os crentes terem parte na \"primeira ressurreição\", sobre a qual \"a segunda morte não tem poder\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "1Cor.15.51-54",
+              "ref": "1 Co 15:51-54"
+            }
+          ],
+          "comment": "\"Num abrir e fechar de olhos… ao som da última trombeta\" os mortos ressuscitarão incorruptíveis, e o que é mortal se revestirá de imortalidade. A imortalidade é um dom recebido na ressurreição, e não uma característica que o ser humano já possui.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "O que significa que a imortalidade é um dom \"na ressurreição\", e não algo que temos por natureza?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Dan.12.2",
+              "ref": "Dn 12:2"
+            }
+          ],
+          "comment": "\"Muitos dos que dormem no pó da terra acordarão\" - já o Antigo Testamento fala da morte como sono e do despertar. É uma esperança bíblica coerente desde o início.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Como é que o facto de essa mesma esperança já aparecer em Daniel reforça a confiança nela?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Aviso: o espiritismo e os \"contactos com os mortos\"",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Isa.8.19-20",
+              "ref": "Is 8:19-20"
+            }
+          ],
+          "comment": "\"Não deve o povo consultar o seu Deus? Acaso há de consultar os mortos?\" - a Escritura rejeita claramente a procura de contacto com os mortos e remete \"para a lei e para o testemunho\". Visto que os mortos dormem, qualquer suposto \"contacto\" não vem deles.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Se os mortos \"nada sabem\" e dormem, quem - segundo a Bíblia - pode estar por detrás dos supostos \"contactos com os mortos\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Deut.18.10-12",
+              "ref": "Dt 18:10-12"
+            }
+          ],
+          "comment": "Deus proíbe inequivocamente a adivinhação, a evocação de espíritos e o \"consultar os mortos\", chamando a isso \"abominação\". Não é uma curiosidade, mas um perigo espiritual real.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Por que é que Deus adverte com tanta firmeza contra estas práticas - o que quer assim proteger?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "\"a região dos mortos\": sheol e hades",
+          "content": "O hebraico *sheol* e o grego *hades* significam simplesmente \"a região dos mortos, o túmulo\" - o destino comum de todos os mortos, justos e injustos (por exemplo, Jacob espera descer ao sheol, Gn 37:35). Na Bíblia não é um lugar de sofrimento consciente nem de recompensa, mas o estado de morte-sono. As imagens populares posteriores do \"além\" como lugar de existência ativa atribuem a estas palavras conteúdos que originalmente não tinham.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "שְׁאוֹל",
+              "translit": "szeol"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "2Cor.11.14",
+              "ref": "2 Co 11:14"
+            }
+          ],
+          "comment": "\"O próprio Satanás se disfarça em anjo de luz\". Os fenómenos que se fazem passar por entes queridos falecidos podem ser convincentes e, ainda assim, enganadores - por isso a medida continua a ser a Palavra.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Como é que o ensino bíblico sobre a morte protege de se deixar enganar por uma voz ou figura \"conhecida\" de um falecido?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Rev.16.14",
+              "ref": "Ap 16:14"
+            }
+          ],
+          "comment": "No fim dos tempos atuam \"espíritos de demónios que fazem prodígios\". O engano que finge ser contacto com os mortos insere-se numa estratégia mais ampla do mal no grande conflito - daí a necessidade de nos mantermos firmes na Escritura.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Por que é que a capacidade de fazer \"prodígios\" não é, em si mesma, prova de que algo vem de Deus?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "E quanto à reencarnação? Uma só vida e o juízo",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Heb.9.27",
+              "ref": "Hb 9:27"
+            }
+          ],
+          "comment": "\"Está determinado aos homens morrerem uma só vez, e depois disto o juízo\". A Bíblia fala de uma só vida e de um só juízo - não de um ciclo de encarnações. Isso exclui a reencarnação.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Como é que o pensamento de uma \"só vida\", e não de muitas encarnações, influencia o modo como tratas o tempo que tens?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "a parábola do rico e de Lázaro (Lc 16:19-31)",
+          "content": "Este texto é por vezes citado como \"prova\" de uma vida consciente logo após a morte. Mas tem características de parábola: serve-se de uma imagem popular do além para transmitir um ensino - não para descrever a geografia da morte. A sua conclusão é dita claramente: quem não ouve \"Moisés e os Profetas\" (a Escritura) não acreditará, \"ainda que alguém ressuscite dos mortos\" (v. 31). Lida à luz dos textos claros (Ec 9:5, Sl 146:4), não derruba o ensino sobre o sono da morte, mas chama a ouvir a Palavra já hoje.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Por que é que, ao interpretar uma parábola figurativa, é mais seguro basear o ensino na sua conclusão explícita do que nos pormenores do cenário?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "2Cor.5.10",
+              "ref": "2 Co 5:10"
+            }
+          ],
+          "comment": "\"Todos temos de comparecer diante do tribunal de Cristo\". A esperança do crente não é \"mais uma oportunidade numa vida seguinte\", mas Cristo, que no juízo é o Advogado. O juízo é boa nova para os que estão Nele.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Em que difere a esperança fundada numa \"próxima encarnação\" da esperança fundada em Cristo, o Advogado?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "John.3.16",
+              "ref": "Jo 3:16"
+            }
+          ],
+          "comment": "A alternativa à morte não é \"voltar noutra forma\", mas \"a vida eterna\" como dom para o crente. É a resposta positiva ao medo da transitoriedade.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "O que dá maior esperança: a ideia de encarnações infinitas ou a promessa da vida eterna como dom? Porquê?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "o purgatório e as orações pelos mortos",
+          "content": "Pergunta delicada: existe depois da morte um \"purgatório\", e podem as orações dos vivos ajudar os mortos? A Bíblia não ensina isso. Em primeiro lugar, o estado dos mortos é um sono inconsciente (Ec 9:5-6,10, Sl 146:4), e não um lugar de sofrimento purificador. Em segundo lugar, a salvação é um dom da graça recebido pela fé nesta vida (Ef 2:8-9, Jo 3:16), e não algo que se possa \"acabar de purificar\" pelo sofrimento ou obter por orações depois da morte. Em terceiro lugar, a decisão sobre a relação com Deus toma-se em vida (Hb 9:27 - \"morrer uma só vez, e depois o juízo\"). Isto não diminui o amor pelos entes queridos falecidos - a sua esperança é certa e bela: a ressurreição no regresso de Jesus (1 Ts 4:16). A crítica diz respeito ao ensino, não às pessoas que, de boa fé, oram pelos mortos; a medida é a Escritura (Is 8:20).",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Se a salvação é um dom recebido em vida, e os mortos dormem até à ressurreição, o que se torna a verdadeira fonte de consolo após a perda de uma pessoa querida?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "A Bíblia tira à morte o seu horror, chamando-lhe \"sono\". Os mortos não sofrem, não vagueiam, não nos observam - dormem, para serem despertados por Jesus no Seu regresso. Por isso, não procures contacto com os mortos: visto que dormem, qualquer \"contacto\" desses é um engano, contra o qual a Escritura adverte claramente. Também não te espera uma cadeia de encarnações - tens uma só vida e um Salvador que no juízo é o teu Advogado. Tudo isto se resume a uma só coisa: a morte não é o fim da esperança, mas um sono antes do despertar.",
+    "challenge": "Se estás a viver a perda de uma pessoa querida, lê com calma 1 Ts 4:13-18 e anota em que difere a esperança da ressurreição da \"tristeza sem esperança\". Se alguma vez te cruzaste com práticas de contacto com os mortos (sessões, adivinhações, \"sinais\" dos falecidos), rejeita-as conscientemente em oração e funda a tua esperança na promessa do regresso de Jesus."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "PT translation of PL study co-po-smierci"
+  }
+}

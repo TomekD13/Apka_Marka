@@ -1,0 +1,508 @@
+{
+  "id": "uovu-na-mateso-yanatoka-wapi",
+  "lang": "sw",
+  "title": "Uovu na mateso yanatoka wapi?",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 3,
+  "summary": "Ikiwa Mungu ni mwema na mwenye uwezo wote, uovu unatoka wapi? Biblia inajibu si kwa falsafa, bali kwa historia ya pambano kuu: ulimwengu uliumbwa mwema, upendo unaohitaji uhuru, uasi mbinguni, anguko la mwanadamu - na Mungu ambaye si chanzo cha uovu, bali Yule anayeutatua msalabani.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "uovu",
+    "mateso",
+    "pambano kuu",
+    "uhuru",
+    "shetani",
+    "anguko",
+    "tumaini"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Ulimwengu uliotoka mwema mikononi mwa Mungu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Gen.1.31",
+              "ref": "Mwa 1:31"
+            }
+          ],
+          "comment": "Ulimwengu wa awali haukuwa \"mchanganyiko wa mema na uovu\". Mungu aliuona uumbaji wote kuwa \"mwema sana\" - uovu haukuwa sehemu ya mpango wa awali.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Kwa kuwa ulimwengu ulianza ukiwa \"mwema sana\", basi ukweli kwamba leo hauonekani hivyo unashuhudia nini?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"mwema sana\" (Mwa 1:31)",
+          "content": "Katika Mwa 1 neno \"mwema\" (Kiebrania *tow*) linarudi kama kiitikio - mara sita wakati wa uumbaji, na mwishoni kilele: \"mwema sana\" (*tow me'od*). Si tathmini ya urembo tu, bali ushahidi kwamba yote yaliendana na kusudi na yalikuwa huru kutokana na uovu. Uovu si \"upungufu wa ukamilishaji\" wa ulimwengu, bali ni mvamizi aliyekuja baadaye.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "טוֹב מְאֹד",
+              "translit": "tow me'od"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "1John.1.5",
+              "ref": "1Yoh 1:5"
+            }
+          ],
+          "comment": "\"Mungu ni nuru, wala giza lolote hamna ndani yake.\" Uovu hauwezi kutwikwa Mungu - ndani yake hakuna chanzo chake.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Ni nini kinachobadilika katika taswira ya Mungu kwa imani kwamba hana \"upande wa giza\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "huu si uwili wa milele wa mema na uovu",
+          "content": "Taswira ya kibiblia inatofautiana na uwili (mfano wa Kiajemi au Kignosti), ambapo mema na uovu ni nguvu mbili za milele, zenye usawa. Hapa uovu si mungu-pinzani wa milele: ulijitokeza katika wakati, ndani ya wema ulioumbwa, ulioharibika - na ndiyo maana unaweza kuwa na mwisho. Nuru ni ya awali; giza ni upungufu wake, si mpinzani wa milele."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "1John.4.8",
+              "ref": "1Yoh 4:8"
+            }
+          ],
+          "comment": "Mungu \"ni upendo\". Na upendo kwa asili yake hauwezi kulazimishwa - huu ndio ufunguo wa kuelewa kwa nini hata kuliwezekana uovu kuwepo.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Kwa nini upendo ambao ungekuwa wa kuprogramiwa au wa kulazimishwa usingekuwa upendo kabisa?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Upendo unahitaji uhuru",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Deut.30.19",
+              "ref": "Kum 30:19"
+            }
+          ],
+          "comment": "Mungu anaweka mbele ya mtu chaguo halisi: uzima au mauti - na anasema \"chagua\". Uhuru wa kuchagua ni zawadi, lakini unaleta hatari.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Kwa nini uhusiano wa kweli lazima ujumuishe uwezekano wa kusema \"hapana\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Josh.24.15",
+              "ref": "Yos 24:15"
+            }
+          ],
+          "comment": "\"Jichagulieni leo mtakayemtumikia.\" Mungu hamlazimishi mtu kuja kwake - anaalika. Hatari ile ile inayozaa upendo, inaruhusu pia uasi.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Ni nini hili linalosema kuhusu Mungu kwamba anapendelea hatari ya upendo huru kuliko uhakika wa utii wa kulazimishwa?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "pambano kuu linahusu nini",
+          "content": "Mzozo hauhusu \"nani ana nguvu zaidi\", bali tabia ya Mungu, sheria yake na utawala wake juu ya ulimwengu. Shetani anashtaki kwamba utawala wa Mungu si wa haki na kwamba utii kwa upendo hauwezekani. Ndiyo maana Mungu hamalizi mzozo kwa nguvu mara moja: anaruhusu uovu ujidhihirishe wenyewe mbele ya ulimwengu wote, badala ya \"kuamuru\" haki yake.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Kwa nini mzozo \"kuhusu tabia ya Mungu\" unahitaji wakati na ushahidi, si tu hukumu kwa nguvu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Rev.3.20",
+              "ref": "Ufu 3:20"
+            }
+          ],
+          "comment": "Mungu \"anasimama mlangoni na kubisha\" - anangoja hadi tufungue kutoka ndani. Kamwe havunji mlango wa moyo wa mwanadamu.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Hili linabadilishaje taswira ya Mungu kwamba anabisha, badala ya kuingia kwa nguvu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Uasi ulioanzia mbinguni",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Rev.12.7-9",
+              "ref": "Ufu 12:7-9"
+            }
+          ],
+          "comment": "Uovu una mwanzo wake katika uasi halisi: \"vita mbinguni\", na shetani (malaika wa zamani) anatupwa chini. Nyuma ya uovu kuna nafsi, si dhana isiyo na umbo.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Ni nini kinachobadilika kwa kutambua kwamba nyuma ya mapambano ya wanadamu unaendelea mgogoro mkubwa zaidi, ambao sisi ni sehemu yake?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Isa.14.12-14",
+              "ref": "Isa 14:12-14"
+            }
+          ],
+          "comment": "Chini ya taswira ya mfalme wa Babeli aliyeanguka unameremeta uanguko mkubwa zaidi: mara tano \"nitapanda... nitakuwa sawa na Aliye Juu\". Mzizi wa uasi ni kiburi na hamu ya kuchukua nafasi ya Mungu.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Jinsi gani \"nataka kuwa kama Mungu / badala ya Mungu\" hadi leo huwa mzizi wa uovu pia katika moyo wa mwanadamu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "jina \"Lusifa\" lilitoka wapi (Isa 14:12)",
+          "content": "Neno la Kiebrania *helel ben-szachar* maana yake \"ung'aao, mwana wa alfajiri\" (nyota ya asubuhi). Vulgata ya Kilatini iliitafsiri kwa neno *Lucifer* - \"mbeba nuru\". Ndipo katika mapokeo jina \"Lusifa\" likawa la kumtaja yule aliye nyuma ya uasi. Andiko lenyewe linaonyesha kejeli ya kusikitisha: mtu aliyeumbwa kuakisi nuru alitamani kuchukua nafasi ya Chanzo cha nuru.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "הֵילֵל בֶּן־שָׁחַר",
+              "translit": "helel ben-szachar"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Ezek.28.12-17",
+              "ref": "Eze 28:12-17"
+            }
+          ],
+          "comment": "Nyuma ya \"mfalme wa Tiro\" unaonekana kiumbe kilichoumbwa \"kikamilifu\", ambamo \"ulionekana uovu\". Uovu si wa milele - ulijitokeza katika mtu fulani mwema aliyeuchagua.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Ina maana gani kwamba uovu haukuwepo \"tangu milele\", bali ulizuka katika moyo wa kiumbe kilichokuwa kizuri awali?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "mtazamo wa pande mbili wa Isa 14 na Eze 28",
+          "content": "Isa 14 (mfalme wa Babeli) na Eze 28 (mfalme wa Tiro) ni moja kwa moja maneno dhidi ya watawala wa kidunia. Wakati huo huo lugha ya maandiko haya (kiumbe \"kikamilifu tangu siku ya kuumbwa\", uwepo \"katika mlima mtakatifu wa Mungu\", hamu ya kuwa sawa na Aliye Juu) inapita uwezo wa mwanadamu na kwa kawaida inasomwa kama kufunua nguvu iliyo nyuma ya kiburi cha wafalme hao. Inafaa kuhifadhi viwango vyote viwili - cha kihistoria na cha juu ya historia - bila kupoteza chochote."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "kerubi aliyeumbwa bila dhambi (Eze 28:15)",
+          "content": "Andiko linasema wazi: \"ulikuwa mkamilifu katika njia zako tangu siku ya kuumbwa kwako, hata uovu ulipoonekana ndani yako\". Hili ni muhimu kwa kuelewa asili ya uovu: haukuumbwa na Mungu wala haukuwepo tangu milele - ulizuka katika kiumbe kilichokuwa kizuri awali, kama matumizi mabaya ya uhuru. Uovu ni \"kimelea\" juu ya wema, si malighafi tofauti."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "John.8.44",
+              "ref": "Yoh 8:44"
+            }
+          ],
+          "comment": "Yesu anamwita Ibilisi \"baba wa uongo\" na \"muuaji tangu mwanzo\". Silaha ya kwanza ya uasi ni taswira potofu ya Mungu - uongo kuhusu tabia yake.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Ni \"uongo gani kuhusu Mungu\" (kwamba ni mkali, wa mbali, asiye na huruma) ambao ni rahisi zaidi kupandwa ndani yetu leo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"shetani\" na \"ibilisi\": mshtaki na msingiziaji",
+          "content": "Neno la Kiebrania *satan* maana yake \"adui, mshtaki\" (jukumu la mshtaki mahakamani, mfano Ayu 1-2; Zek 3:1). Neno la Kigiriki *diabolos* ni \"msingiziaji, anayetupa mashtaka ya uongo\". Majina yote mawili yanafichua mbinu: si nguvu kiasi, bali uongo na kushtaki - kumshtaki Mungu mbele ya mwanadamu na mwanadamu mbele ya Mungu. Ndiyo maana habari njema ni kwamba tunaye Mtetezi.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "שָׂטָן",
+              "translit": "satan"
+            },
+            {
+              "lang": "grc",
+              "text": "διάβολος",
+              "translit": "diabolos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Anguko la mwanadamu na pambano kuu kama mfumo wa historia",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Gen.3.1-6",
+              "ref": "Mwa 3:1-6"
+            }
+          ],
+          "comment": "Nyoka haanzi kwa amri, bali kwa swali linalotia shaka neno la Mungu na wema wake: \"Ati kweli Mungu amesema...\". Anguko kwanza kabisa ni kupoteza imani.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Ni nini hasa kilicho\"vunjika\" ndani ya mwanadamu kwanza: utii au imani katika wema wa Mungu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Gen.3.15",
+              "ref": "Mwa 3:15"
+            }
+          ],
+          "comment": "Tayari wakati wa anguko inatolewa ahadi ya kwanza: \"mzao wa mwanamke\" atapondaponda kichwa cha nyoka. Pambano kuu lina suluhisho lililotangazwa tangu mwanzo.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Ina maana gani kwako kwamba tumaini linatokea hasa pale palipotokea uovu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "Mwa 3:15 kama \"injili ya kwanza\"",
+          "content": "Mstari huu mara nyingine huitwa *protoevangelium* - \"Injili ya kwanza\". Ni tangazo la mapema zaidi katika Biblia kwamba mzao wa mwanamke atamshinda nyoka, ingawa yeye mwenyewe atajeruhiwa (\"atakuponda kichwa, nawe utamponda kisigino\"). Historia yote inayofuata ya wokovu ni ufunuzi wa ahadi hii moja iliyotolewa mara tu baada ya anguko."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Rom.5.12",
+              "ref": "Rum 5:12"
+            }
+          ],
+          "comment": "Kwa mtu mmoja dhambi na mauti viliingia ulimwenguni. Mateso na mauti ni matokeo ya kutengwa na Mtoaji wa uzima, si mpango wa awali wa Mungu.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Jinsi gani kutambua kwamba mateso ni \"mvamizi\", si jambo alilolipanga Mungu, kunabadilisha mtazamo juu yake?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "pambano kuu kama mfumo wa Biblia nzima",
+          "content": "Jibu la kibiblia kwa uovu si la kifalsafa, bali la kihadithi: historia yote inajitokeza kama mgogoro kati ya Kristo na shetani - mzozo kuhusu kama Mungu ni mwenye haki na aliyejaa upendo. Mabano yanahusisha Mwa 3 (uongo uliopandwa) na Ufu 20-22 (utakaso wa mwisho). Mtazamo huu unaunganisha maandiko binafsi kuwa hadithi moja na unaeleza kwa nini Mungu anavumilia uovu kwa muda."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Job.1.8-12",
+              "ref": "Ayu 1:8-12"
+            }
+          ],
+          "comment": "Kitabu cha Ayubu kinainua pazia: mateso ya mwenye haki hayatoki kwa Mungu, bali kwa mshtaki. Ni Mungu anayeshtakiwa - si yeye mwandishi wa msiba.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Jinsi gani ukweli kwamba nyuma ya mateso ya Ayubu yuko shetani, si Mungu, unabadilisha swali \"kwa nini Mungu alinifanyia hivi\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "\"baraza\" la mbinguni katika Kitabu cha Ayubu",
+          "content": "Ayu 1-2 inaonyesha tukio ambamo \"wana wa Mungu\" (viumbe wa mbinguni) wanasimama mbele za Mungu, na miongoni mwao anatokea mshtaki. Huu ni mtazamo nadra wa \"nyuma ya pazia\": mateso ya mwanadamu yanawekwa ndani ya mzozo unaoendelea, ambapo dau ni kama mtu anamtumikia Mungu kwa upendo, au kwa faida tu. Msomaji anajua kile ambacho Ayubu hajui - ndiyo maana hairuhusiwi kusoma mateso yake kama adhabu kutoka kwa Mungu."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Rev.12.17",
+              "ref": "Ufu 12:17"
+            }
+          ],
+          "comment": "Pambano linaendelea hadi leo: joka \"likakasirika\" na linafanya vita na wale wanaoshikamana na Mungu. Mapambano yetu yana maana katika hadithi hii kubwa zaidi.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Ni nini kinachotokana na kutambua kwamba mapigano yako binafsi si ya bahati, bali ni sehemu ya pambano linaloendelea?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Mateso ni ya muda, uovu una mwisho",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Rev.21.4",
+              "ref": "Ufu 21:4"
+            }
+          ],
+          "comment": "Mwisho wa historia si mgogoro wa milele, bali ulimwengu usio na machozi, mauti wala maumivu: \"mambo ya kwanza yamekwisha kupita\". Uovu ni kipindi, si neno la mwisho.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Ingemaanisha nini kwako maisha ambamo \"hayapo tena\" maumivu unayoyapata leo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Rom.8.18",
+              "ref": "Rum 8:18"
+            }
+          ],
+          "comment": "Paulo hapuuzi mateso, bali anayapima: hayalinganishwi na utukufu utakaodhihirishwa. Uovu wa sasa ni halisi, lakini ni wa muda.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Jinsi gani tumaini la wakati ujao \"unaozidi uzito\" linasaidia kupita katika yaliyo magumu sasa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Nah.1.9",
+              "ref": "Nah 1:9"
+            }
+          ],
+          "comment": "Ahadi ni imara: \"dhiki haitatokea mara ya pili\". Mungu atatatua tatizo la uovu kwa kina kiasi kwamba hautawahi kujirudia tena.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Kwa nini ni muhimu kwamba Mungu hatausimamisha uovu tu, bali atauondoa chanzo chake milele?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n11",
+          "noteType": "background",
+          "label": "kwa nini uovu hautarudi \"mara ya pili\" (Nah 1:9)",
+          "content": "Kwa kuwa uovu ulizuka mara moja katika ulimwengu mkamilifu, swali linazuka: je, unaweza kulipuka tena? Jibu la pambano kuu ni: hapana. Mungu hauangamizi uovu mara moja hasa ili kuufichua asili yake mbele ya ulimwengu wote - kwa kina kiasi kwamba mzozo utakapomalizika, hakuna atakayetaka kuurudia tena. Ulimwengu utakuwa salama milele si kwa kulazimishwa, bali kwa ushahidi."
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Uovu hautoki kwa Mungu wala haukuwa sehemu ya ulimwengu wake. Ulizuka pale ambapo uhuru - wa lazima ili upendo uwe wa kweli - ulitumiwa dhidi ya Mungu, kwanza mbinguni, kisha duniani. Tunaishi katikati ya pambano kuu, lakini si bila tumaini: Mungu si mwandishi wa mateso, bali Yule aliyeyaingia mwenyewe msalabani na aliyeahidi mwisho kamili wa uovu. Mateso yako ni halisi - lakini si neno la mwisho.",
+    "challenge": "Fikiria juu ya teso moja maalum (lako au la mtu wa karibu) linalokufanya uulize \"Mungu yuko wapi?\". Badala ya kumtwika Mungu kama mwenye hatia, lipeleke kwa Mungu kama Mshirika katika pambano - liseme waziwazi katika maombi. Andika sentensi moja ungetamani kuisikia kutoka kwa Mungu juu ya jambo hili, na uilinganishe na ahadi ya Ufu 21:4."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study skad-zlo-i-cierpienie"
+  }
+}

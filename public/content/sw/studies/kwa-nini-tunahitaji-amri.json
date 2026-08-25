@@ -1,0 +1,590 @@
+{
+  "id": "kwa-nini-tunahitaji-amri",
+  "lang": "sw",
+  "title": "Kwa nini tunahitaji amri?",
+  "category": "basic_systematic",
+  "seriesId": "zycie-w-przymierzu",
+  "order": 16,
+  "summary": "Biblia inatofautisha sheria ya maadili (Amri Kumi - ya kudumu, kwa sababu inaonyesha tabia ya Mungu) na sheria ya kiibada ya Musa (ilitabiri Kristo na ndani yake ilitimizwa). Kushika amri si sheria kavu, bali ni utii unaotokana na upendo na kwa nguvu ya Roho - uhusiano kabla ya kanuni.",
+  "minutes": {
+    "base": 45,
+    "extended": 65
+  },
+  "tags": [
+    "sheria",
+    "Amri Kumi",
+    "sheria ya kiibada",
+    "neema",
+    "utii",
+    "Roho Mtakatifu"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Je, Mkristo bado ana amri?",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Matt.5.17-18",
+              "ref": "Mt 5:17-18"
+            }
+          ],
+          "comment": "Yesu anasema waziwazi kwamba hakuja kuitangua Sheria, bali kuitimiza. \"Kutimiza\" hakumaanishi \"kufuta\" - kunamaanisha \"kuipa maana kamili\".",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Ni nini Yesu anachokitenga hapa, na ni nini anachokithibitisha kuhusu Sheria?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"kutimiza\" (plēroō)",
+          "content": "Katika Mt 5:17 Yesu anatumia *plēroō* - \"kujaza, kukamilisha, kuleta katika ukamilifu\". Si sawa na \"kutangua\" (Kiyunani *katalyō*, ambalo Yesu anajikana nalo waziwazi). Kitenzi kinaonyesha kuipa Sheria maana kamili, si kuiondoa.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "πληρῶσαι",
+              "translit": "plērōsai"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Je, tofauti kati ya *plēroō* (kukamilisha) na *katalyō* (kutangua) inavyoupanga vipi mjadala kuhusu udumu wa sheria?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Rom.3.31",
+              "ref": "Rum 3:31"
+            }
+          ],
+          "comment": "Paulo, mtume wa neema, anauliza: je, imani inaitangua Sheria? Naye anajibu: kinyume chake - inaithibitisha. Neema haiitangui sheria, bali inairudishia mahali pake sahihi.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Inawezekanaje kwamba imani \"inaithibitisha\" sheria, badala ya kuitangua?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Rom.7.12",
+              "ref": "Rum 7:12"
+            }
+          ],
+          "comment": "Sheria ni \"takatifu, na ya haki, na njema\". Tatizo halikuwahi kuwa sheria, bali moyo wetu - ndiyo maana tunahitaji si kutanguliwa kwa sheria, bali kubadilishwa kwa moyo.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Kama sheria ni njema, tatizo la dhambi liko wapi hasa?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "\"Sheria\" ni Kiebrania tora (\"mafundisho\")",
+          "content": "Neno la kawaida zaidi la Agano la Kale kwa \"sheria\" ni *tora* - \"mwelekeo, mafundisho, mwongozo\", si tu \"agizo\" kavu. Katika Agano Jipya linatolewa kwa Kiyunani *nomos*. Ndiyo maana \"sheria\" katika Biblia mara nyingine ni maelezo mapana ya mapenzi yote ya Mungu yaliyofunuliwa, si tu orodha ya makatazo - jambo linaloeleza kwa nini Paulo anasema imani \"inaithibitisha\" sheria, badala ya kuitangua.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "תּוֹרָה",
+              "translit": "tora"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Je, mjadala kuhusu \"sheria\" unabadilikaje tunapoielewa kama \"mafundisho\", si tu \"kifungu cha sheria\"?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Aina mbili za sheria: ya maadili na ya kiibada",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Deut.31.24-26",
+              "ref": "Kum 31:24-26"
+            }
+          ],
+          "comment": "Sheria iliyoandikwa na Musa iliwekwa KANDO ya sanduku. Amri Kumi nazo Mungu aliziandika kwa kidole chake mwenyewe nazo ziliwekwa NDANI ya sanduku - Biblia inatofautisha mikusanyiko hii miwili tayari katika namna ya kuihifadhi.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Tofauti hii inaweza kumaanisha nini: sheria ya Musa kando ya sanduku, na Amri Kumi ndani yake?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "mikusanyiko miwili ya sheria na sanduku",
+          "content": "Katika Biblia Amri Kumi (\"maneno kumi\") zinawekwa ndani ya sanduku (Kut 25:16; Kum 10:5), na \"kitabu cha Sheria\" kilichoandikwa na Musa - kando yake (Kum 31:26). Tofauti hii ya mahali pa kuhifadhi mara nyingine husomwa kama dalili ya hadhi tofauti ya sheria ya maadili na ya kiibada."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Exod.31.18",
+              "ref": "Kut 31:18"
+            }
+          ],
+          "comment": "Amri Kumi zimeandikwa kwa \"kidole cha Mungu\" juu ya jiwe. Hilo linasisitiza upekee na udumu wake - zinatoka moja kwa moja kwa Mungu.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Kwa nini kifaa (jiwe) na mwandishi (Mungu mwenyewe) vinasisitiza udumu wa Amri Kumi?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "\"maneno kumi\" (Amri Kumi)",
+          "content": "\"Amri Kumi\" kwa Kiebrania kihalisi ni \"maneno kumi\" (taz. Kut 34:28). Maneno haya kumi ya Mungu yalikuwa sehemu pekee ya Tora iliyotangazwa kati ya ngurumo na umeme kutoka mlimani, na kisha kuandikwa kwa kidole cha Mungu mwenyewe juu ya mbao mbili za mawe (Kut 31:18; Kum 4:13; 10:4). Katika mtazamo huu hali hii ya kipekee ya kutokea kwake inaitofautisha sheria ya maadili na maagizo mengine ya Israeli."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Heb.10.1",
+              "ref": "Ebr 10:1"
+            }
+          ],
+          "comment": "Sheria ya dhabihu ilikuwa \"kivuli cha mema yajayo\", si uhalisia wenyewe. Kivuli hutoweka unapotokea kile kilichotupa kivuli - yaani Kristo.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Kwa nini kivuli hupoteza maana unapowasili uhalisia ulioutabiri?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Col.2.14-17",
+              "ref": "Kol 2:14-17"
+            }
+          ],
+          "comment": "Paulo anazungumza kuhusu maagizo \"juu ya sikukuu, mwandamo wa mwezi na sabato [za kiibada]\", yaliyokuwa kivuli - mwili ni Kristo. Inazungumzwa kuhusu mfumo wa kiibada wa dhabihu na sikukuu, uliotimizwa katika Yesu.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Ina maana gani kwamba maagizo ya kiibada yalikuwa \"kivuli\", na \"mwili\" ni Kristo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"kivuli\" (skia) dhidi ya \"mwili\" (sōma)",
+          "content": "Kol 2:17 inalinganisha *skia* (kivuli) na *sōma* (mwili, uhalisia). Maagizo ya ibada ni kivuli kinachotupwa kutoka uhalisia unaokuja - Kristo. Unapowasili *sōma*, kivuli hupoteza kazi yake, kwa sababu kilitimiza wajibu wake wa kuonyesha.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "σκιὰ … τὸ δὲ σῶμα τοῦ Χριστοῦ",
+              "translit": "skia … to de sōma tou Christou"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "textual",
+          "label": "\"alifuta hati iliyokuwa juu yetu\" (cheirographon)",
+          "content": "Neno ambalo Paulo analitolea kama hati iliyofutwa na \"kuigongomelea msalabani\" dhidi yetu (Kol 2:14), ni Kiyunani *cheirographon* - \"hati ya deni iliyoandikwa kwa mkono, hati ya wajibu\". Linatokea katika Agano Jipya hapa tu. Kile ambacho Yesu kwa mfano aligongomelea msalabani ni hukumu yetu na deni tulilolichukua kwa dhambi pamoja na mfumo wa \"maagizo\" ya kiibada (Kiyunani *dogma*), si sheria ya maadili ya milele.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χειρόγραφον",
+              "translit": "cheirographon"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Ni nini hasa kilichogongomelewa msalabani kulingana na muktadha wa Kol 2 - na hilo HALIHUSU nini?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "\"sabato\" katika Kol 2,16",
+          "content": "Katika Kol 2:16 orodha (sikukuu, mwandamo wa mwezi, \"sabato\") inahusu kalenda ya sikukuu za kiibada za Israeli (taz. Law 23), pamoja na siku za sherehe za kila mwaka zilizoitwa sabato, zilizohusiana na mfumo wa dhabihu. Maandiko yanahusu mzunguko huo wa kiibada, ambao wajibu wake ulitimizwa na Kristo, si amri ya kila juma ya Amri Kumi - ambayo ni mada ya somo tofauti."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Eph.2.14-16",
+              "ref": "Efe 2:14-16"
+            }
+          ],
+          "comment": "Kristo aliitangua \"sheria ya amri zilizo katika maagizo\", iliyowatenganisha Wayahudi na watu wa mataifa - mfumo wa kiibada. Ukuta wa utengano unaanguka, kwa sababu wajibu wake ulitimia.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Ni sheria ipi iliyowagawanya watu kuwa \"wa kwetu\" na \"wageni\" na kwa nini ingeweza kutoweka?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Kilichotimizwa katika Kristo",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "John.1.29",
+              "ref": "Yoh 1:29"
+            }
+          ],
+          "comment": "Yohana anamwita Yesu \"Mwana-Kondoo wa Mungu\". Maelfu ya wana-kondoo waliotolewa dhabihu walikuwa wanaonyesha wakati huu mmoja - anapokuja Mwana-Kondoo wa kweli, unabii unatimia.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Kama dhabihu zote zilikuwa zinamwonyesha Yesu, ni nini kinachotokea kwazo, sasa Yeye amekwisha kuja?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Heb.9.9-10",
+              "ref": "Ebr 9:9-10"
+            }
+          ],
+          "comment": "Sadaka, dhabihu na maagizo ya kiibada yalitawala \"hata wakati wa matengenezo\". Yalikuwa na muda wake - yalionyesha mbele, kuelekea kwa Kristo.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Ina maana gani kwamba maagizo haya yalitawala \"hata wakati wa matengenezo\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Heb.7.18-19",
+              "ref": "Ebr 7:18-19"
+            }
+          ],
+          "comment": "Agizo la kale linatanguliwa kwa sababu ya udhaifu wake - halikuleta kitu chochote kwenye ukamilifu. Mahali pake panaingia tumaini bora: njia ya moja kwa moja kwa Mungu kupitia Yesu.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Ni nini mfumo wa kale haukuweza kutoa, na ni nini Yesu anatoa?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "\"kiongozi kuelekea Kristo\" (paidagogos)",
+          "content": "Katika Gal 3:24 sheria inaitwa \"kiongozi\" kinachoongoza kuelekea kwa Kristo - Kiyunani *paidagogos*. Katika nyakati za kale *paidagogos* hakuwa mwalimu (Kiyunani *didaskalos*), bali mtumwa aliyempeleka mvulana shuleni, akimlinda na kumsimamia. Inafaa kuona kwamba inahusu hapa mfumo wote wa kiibada, uliopaswa kuongoza kuelekea kwa Kristo - alipokuja Yeye, wajibu huo ulitimia.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "παιδαγωγός",
+              "translit": "paidagogos"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q24",
+              "text": "Wajibu wa \"kiongozi anayeongoza kuelekea kwa Kristo\" unatofautianaje na wajibu wa \"lengo\", ambalo ni Kristo mwenyewe?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Kinachomtawala Mkristo",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Matt.19.17-19",
+              "ref": "Mt 19:17-19"
+            }
+          ],
+          "comment": "Alipoulizwa kuhusu njia ya uzima, Yesu anaonyesha amri mahususi za Amri Kumi. Baada ya msalaba hakuna mtu anayenukuu maagizo ya dhabihu kama kanuni ya maisha - lakini amri za maadili zinabaki kuwa kipimo cha marejeo.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Kwa nini Yesu, akizungumza kuhusu uzima, anachukua hasa amri za Amri Kumi?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "term",
+          "label": "\"amri\" (entolē), si dhabihu",
+          "content": "Kwa swali la kijana tajiri Yesu anataja mahususi: usiue, usizini, usiibe, usishuhudie uongo - yaani Amri Kumi. Neno lililotumika hapa ni Kiyunani *entolē* (\"amri\"), lile lile ambalo Yohana analitumia kuhusu amri za Mungu. Inafaa kuona kwamba kijana huyu alizishika kwa namna ya sheria kavu, kama sheria yenyewe tu, na alipungukiwa na Mtoa-Sheria: \"Nifuate\".",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐντολή",
+              "translit": "entolē"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Jas.2.10-12",
+              "ref": "Yak 2:10-12"
+            }
+          ],
+          "comment": "Yakobo, akiandika baada ya msalaba, bado anaiona Amri Kumi (uuaji, uzinzi) kama \"sheria ya uhuru\", ambayo kwayo tutahukumiwa. Sheria ya maadili bado inatawala.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Kwa nini Yakobo anaiita sheria ambayo bado inatawala \"sheria ya uhuru\", si ya utumwa?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "\"sheria ya kifalme\", \"sheria ya uhuru\"",
+          "content": "Yakobo anaiita Amri Kumi \"sheria ya kifalme\" na \"sheria ya uhuru\", ambayo kwayo hukumu itafanyika (Yak 2:8-12). Ingawa wokovu ni kwa imani katika msalaba, hukumu inahusu sheria. Tuzingatie kwamba utumwa hautoki kwa sheria - unatoka katika kujitiisha kwa dhambi; nako kuhesabiwa haki hutoka katika rehema, kwa sababu \"rehema hujivuna juu ya hukumu\" (Yak 2:13)."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "1John.2.3-4",
+              "ref": "1Yoh 2:3-4"
+            }
+          ],
+          "comment": "Ishara kwamba kwa kweli tunamjua Mungu ni kuzishika amri zake. Si ustahili, bali ni uthibitisho wa uhusiano wa kweli.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "\"Kushika amri kama uthibitisho wa uhusiano\" kunatofautianaje na \"kustahili kwa amri\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Rev.14.12",
+              "ref": "Ufu 14:12"
+            }
+          ],
+          "comment": "Mwisho wa nyakati watu wa Mungu wameelezwa kama wale \"wazishikao amri za Mungu na imani ya Yesu\". Amri na imani si vitu vinavyopingana - vinakwenda pamoja.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Tunawezaje kuelewa muunganiko wa \"amri za Mungu\" na \"imani ya Yesu\" katika maelezo moja?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Utii unaotokana na upendo, kwa nguvu ya Roho - si sheria kavu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "John.14.15",
+              "ref": "Yoh 14:15"
+            }
+          ],
+          "comment": "\"Mkinipenda, mtazishika amri zangu\". Mpangilio ni wa muhimu: kwanza upendo, kutoka kwake unatiririka utii - si kinyume chake.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Ni nini kinachobadilika utii unapotiririka kutoka upendo, badala ya kuutangulia?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Rom.8.3-4",
+              "ref": "Rum 8:3-4"
+            }
+          ],
+          "comment": "Kile sheria isichoweza kukifanya kwa sababu ya udhaifu wetu, Mungu anakifanya kwa Roho - ili \"haki ya sheria itimizwe ndani yetu\". Utii ni kazi ya Roho ndani yetu, si juhudi yetu ya pekee.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Sheria inatimizwa kwa nguvu ya nani katika maisha ya muumini kulingana na maandiko haya?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Eph.2.8-10",
+              "ref": "Efe 2:8-10"
+            }
+          ],
+          "comment": "Wokovu ni kwa neema, si kwa matendo - na hata hivyo tumeumbwa \"kwa ajili ya matendo mema\". Matendo si shina la wokovu, bali ni tunda lake.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Mahali pa matendo ni wapi katika maandiko haya, ikiwa wokovu ni bure?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "Gal.5.6",
+              "ref": "Gal 5:6"
+            }
+          ],
+          "comment": "Kinachohesabika ni \"imani itendayo kazi kwa upendo\". Hili ni dawa ya kibiblia ya sheria kavu: si kanuni iliyokufa, bali imani inayojidhihirisha katika upendo.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Tunawezaje kutofautisha \"imani itendayo kazi kwa upendo\" na kutimiza kanuni kwa namna tupu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u20",
+          "passage": [
+            {
+              "osis": "Ezek.36.26-27",
+              "ref": "Eze 36:26-27"
+            }
+          ],
+          "comment": "Mungu anaahidi moyo mpya na Roho wake, atakayefanya \"tutembee katika amri zake\". Mabadiliko yanaanza ndani - kutoka kwa Mungu, si kwa meno yaliyokazwa.",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Ni nini Mungu anaahidi kubadilisha kwanza - mwenendo au moyo? Kwa nini hilo ni la maana?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n11",
+          "noteType": "verb",
+          "label": "\"kufanya\" (poieō) na \"kutimiza\" (plēroō) sheria",
+          "content": "Inafaa kuona kwamba Paulo kwa makusudi anatumia vitenzi viwili tofauti. Kuhusu maagizo ya kiibada anasema \"kufanya\" (Kiyunani *poieō*) - msisitizo unaangukia kwenye juhudi ya mwanadamu. Kuhusu sheria ya maadili na \"sheria ya Kristo\" anasema \"kutimiza\" (Kiyunani *plēroō*, mf. Gal 5:14) - msisitizo unaangukia kwenye kazi ya Roho. Utii kwa Amri Kumi unakuwa kamili si kwa meno yaliyokazwa, bali kama tunda la Roho.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ποιέω",
+              "translit": "poieō"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q25",
+              "text": "Kwa nini tofauti kati ya \"kufanya\" (juhudi yangu) na \"kutimiza\" (kazi ya Roho) ni dawa ya sheria kavu?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Biblia haijui mgogoro kati ya neema na sheria. Sheria ya kiibada - dhabihu, sikukuu, ibada - ilikuwa kivuli kilichoonyesha kuelekea kwa Kristo nacho ndani yake kilitimia. Sheria ya maadili, Amri Kumi, inadumu, kwa sababu inaeleza tabia ya Mungu isiyobadilika. Lakini kushika amri kamwe si njia ya kustahili upendo. Ni tunda la uhusiano: tunapenda, kwa hiyo tunatii - na hilo si kwa nguvu zetu wenyewe, bali kwa nguvu ya Roho, anayetoa moyo mpya. Uhusiano daima unatangulia kanuni.",
+    "challenge": "Wiki hii fanya jaribio rahisi la moyo: chagua amri moja na ujiulize, je, unaishika kwa hofu/wajibu, au kwa upendo kwa Mungu. Mwombe Roho Mtakatifu abadilishe nia yako kutoka \"lazima\" hadi \"nataka\"."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study dekalog-a-prawo-mojzeszowe"
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "id": "je-mungu-ananijali",
+  "lang": "sw",
+  "title": "Je, Mungu ananijali?",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 1,
+  "summary": "Mkutano wa kwanza na Mungu anayenijua binafsi, aliyeniumba kwa upendo na anayejali maisha yangu ya kila siku - mahali pa kuanzia uhusiano, si dini.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "Mungu",
+    "upendo",
+    "uumbaji",
+    "kujali",
+    "utambulisho"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Je, yupo Mtu anayenijali mimi?",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Ps.139.1-4",
+              "ref": "Zab 139:1-4"
+            }
+          ],
+          "comment": "Kabla hatujauliza \"Je, Mungu yupo?\", Zaburi inauliza tofauti: je, kuna mtu anayenijua kweli. Mungu anajua kila wazo na kila neno kabla sijalitamka.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Unahisije unaposoma kwamba kuna Mtu anayekujua kwa undani kiasi hicho - wasiwasi au faraja? Kwa nini?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Ps.139.13-16",
+              "ref": "Zab 139:13-16"
+            }
+          ],
+          "comment": "Mimi si bahati nasibu wala kosa - nili\"fumwa\" na kuandikwa katika kitabu cha Mungu kabla sijafanya chochote.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Ni nini kinachobadilika katika jinsi unavyojiona unapotambua kwamba upo kwa kusudi, si kwa bahati?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "background",
+          "label": "Zaburi 139 kama faraja, si tishio",
+          "content": "Ujuzi wote na uwepo wa Mungu kila mahali katika Zab 139 haviwasilishwi kama ufuatiliaji wa kijasusi, bali kama kujali kwa Yule anayejua na asiyeacha. Huu ndio ufunguo wa kuelewa zaburi nzima: \"unanijua\" hapa maana yake \"unanijali\".",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Je, ujuzi wa Mungu juu yako unakusikia wa kutisha au wa kuliwaza? Ni nini kinachoamua hilo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "\"katika kitabu chako siku zimeandikwa\" (Zab 139:16)",
+          "content": "Picha hii inatoka katika ulimwengu wa hati za kale na vitabu vya kifalme, ambapo hatima na majina yaliandikwa. Mtunga-zaburi anasema kwamba Mungu \"aliziona\" siku zake kabla hata mojawapo haijafika - ni njia ya kishairi ya kusema kwamba maisha yangu si mfululizo wa matukio ya bahati bila mwandishi wala maana."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Ps.8.4-6",
+              "ref": "Zab 8:4-6"
+            }
+          ],
+          "comment": "Mbele ya ukubwa wa ulimwengu mtu anaonekana mdogo - na bado Mungu anamkumbuka na kumpa heshima.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Ni lini mara ya mwisho ulijihisi \"mdogo\" au usiye na thamani? Jibu la Zaburi linasikikaje juu ya hilo?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Mungu ambaye NI upendo",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "1John.4.8-10",
+              "ref": "1Yoh 4:8-10"
+            }
+          ],
+          "comment": "Biblia haisemi tu kwamba Mungu anapenda - inasema kwamba Mungu *ni* upendo, na uthibitisho ni kwamba yeye ndiye wa kwanza kuja kwetu.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Kuna tofauti gani kati ya kusema \"Mungu anapenda\" na \"Mungu ni upendo\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"Mungu ni upendo\" (1Yoh 4:8)",
+          "content": "Katika Kigiriki \"upendo\" ni *agapē* - upendo wa kujitoa, unaochagua mema ya mwingine, usiotegemea sifa zake. Sentensi \"Mungu ni upendo\" haielezi tu kile Mungu anachofanya, bali kile alivyo: upendo ni asili yake, si hisia ya muda.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ὁ θεὸς ἀγάπη ἐστίν",
+              "translit": "ho theos agapē estin"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Je, kuelewa *agapē* kama upendo unaochagua (si unaolipwa) kunabadilishaje taswira ya Mungu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "John.3.16",
+              "ref": "Yoh 3:16"
+            }
+          ],
+          "comment": "Upendo wa Mungu una anwani halisi - ulimwengu, yaani pamoja na mimi - na bei halisi: Mwana.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Kama ungeweka jina lako mahali pa \"ulimwengu\", mstari huu ungesikikaje kwako?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Rom.5.8",
+              "ref": "Rum 5:8"
+            }
+          ],
+          "comment": "Mungu hakungoja hadi nijirekebishe. Alionyesha upendo *wakati* nilipokuwa bado nimemgeuzia mgongo.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Hili lina maana gani kwa mtu anayedhani kwamba lazima kwanza \"astahili\" ndipo Mungu ampende?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Jer.31.3",
+              "ref": "Yer 31:3"
+            }
+          ],
+          "comment": "Upendo wa Mungu si hisia ya muda - ni wa \"milele\", wenye msimamo, unaotafuta.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Ina maana gani kwamba mtu anakupenda kwa \"upendo wa milele\", si unaotegemea hali yako?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "\"upendo wa milele\" na \"fadhili\" (Yer 31:3)",
+          "content": "\"Nimekupenda kwa upendo wa milele\" ni neno la Kiebrania *ahavat olam* - upendo wa kudumu, usio na tarehe ya kumalizika. Neno linalofuata, lililotafsiriwa kama \"fadhili\" au \"nimekuvuta\", ni *chesed* - wema wa Mungu mwaminifu wa agano, ambao hauachi. Si hisia, bali ni ahadi imara.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "אַהֲבַת עוֹלָם",
+              "translit": "ahavat olam"
+            },
+            {
+              "lang": "hbo",
+              "text": "חֶסֶד",
+              "translit": "chesed"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Luke.15.20",
+              "ref": "Lk 15:20"
+            }
+          ],
+          "comment": "Katika mfano huo baba ndiye anayekimbia kwanza - taswira ya Mungu asiyengoja akiwa amekunja mikono.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Ni hatua gani inayoshangaza hapa: kurudi kwa mwana au kukimbia kwa baba? Kwa nini?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "kwa nini kukimbia kwa baba kulikuwa aibu (Lk 15:20)",
+          "content": "Katika utamaduni wa Mashariki ya Kati mwanamume mzee mwenye hadhi hakukimbia hadharani - ingelazimu ainue vazi lake na kuonyesha miguu, jambo lililohesabiwa kuwa la kufedhehesha. Baba katika mfano huo anajitwika aibu hiyo, ili tu awe wa kwanza kumfikia mwanawe. Ni taswira ya makusudi ya Mungu anayeacha \"hadhi ya kujitenga\", ili atupate tena."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Anajali maisha yangu ya kila siku",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Matt.6.26",
+              "ref": "Mt 6:26"
+            }
+          ],
+          "comment": "Ikiwa Mungu analisha ndege, basi anakujali wewe zaidi sana - wewe ni wa thamani kuliko wao.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Mara nyingi unahangaikia nini zaidi? Kutambua kujali kwa Mungu kunabadilishaje mtazamo huo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Matt.6.31-33",
+              "ref": "Mt 6:31-33"
+            }
+          ],
+          "comment": "Mungu haahidi maisha yasiyo na mahitaji, bali Baba ambaye \"anajua\", na anaalika kumtafuta yeye kwanza.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Kivitendo ingemaanisha nini \"kutafuta kwanza Ufalme\" katika juma lako?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "\"msihangaike\" si wito wa kukaa bila kufanya kitu (Mt 6)",
+          "content": "Katika Mahubiri ya Mlimani \"msihangaike\" haimaanishi \"msipange\", bali \"msiruhusu wasiwasi uwararue\". \"Tafuteni kwanza Ufalme\" inazungumzia kipaumbele, si mpangilio wa wakati: ni jambo gani liko mahali pa kwanza, si kuacha kazi na majukumu."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "1Pet.5.7",
+              "ref": "1Pet 5:7"
+            }
+          ],
+          "comment": "Wasiwasi unaweza \"kutupwa\" kwa Mungu - kwa sababu kweli anakujali wewe.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Ni wasiwasi gani mmoja ungependa kuutupa kwa Mungu leo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"mtwikeni yeye fadhaa yenu yote\" (1Pet 5:7)",
+          "content": "\"Fadhaa\" ni neno la Kigiriki *merimna* - wazo linaloumiza, wasiwasi unaotawanya akili. Kitenzi kilichotafsiriwa kama \"kutwika\" ni *epiriptō*, kihalisi \"kutupia\" (kama mzigo unaotupwa kutoka mabegani mwa mtu kwenda kwa mwingine mwenye nguvu zaidi). Picha ni ya kimwili: si \"shughulikia hofu yako mwenyewe\", bali \"itupie kwa Yule anayekujali wewe\".",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μέριμνα",
+              "translit": "merimna"
+            },
+            {
+              "lang": "grc",
+              "text": "ἐπιρίπτω",
+              "translit": "epiriptō"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Luke.12.6-7",
+              "ref": "Lk 12:6-7"
+            }
+          ],
+          "comment": "Nywele zilizohesabiwa ni taswira ya uangalifu hata kwa jambo dogo kabisa la maisha yako.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Je, ni rahisi kwako kumwamini Mungu \"wa mambo makubwa\" au Mungu anayejali vidogo vidogo?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Tuliumbwa kwa ajili ya uhusiano",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Gen.1.27",
+              "ref": "Mwa 1:27"
+            }
+          ],
+          "comment": "Mtu ameumbwa \"kwa mfano wa Mungu\" - ndiyo asili ya thamani yake ya pekee na uwezo wake wa kuwa na uhusiano.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Ikiwa ninabeba \"mfano wa Mungu\", hili linasema nini kuhusu thamani ya kila mtu, pamoja na yangu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "\"mfano wa Mungu\" (Mwa 1:27)",
+          "content": "Neno la Kiebrania *celem* (\"mfano\") ni neno lililotumika pia kwa sanamu inayomwakilisha mfalme katika jimbo la mbali. Mtu ni \"sanamu\" ya Mungu katika uumbaji: anamwakilisha na ameitwa kuwa na uhusiano naye. Huu ndio msingi wa heshima ya mwanadamu - isiyotegemea mafanikio, uwezo wala maoni ya wengine.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "צֶלֶם",
+              "translit": "celem"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Isa.43.1",
+              "ref": "Isa 43:1"
+            }
+          ],
+          "comment": "Mungu anaita kwa jina na kusema \"u wangu\" - hii ni lugha ya uhusiano, si dini isiyo na jina.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Ingemaanisha nini kusikia kutoka kwa Mungu jina lako mwenyewe na maneno \"u wangu\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "term",
+          "label": "vitenzi vinne vya ukaribu (Isa 43:1)",
+          "content": "Katika mstari mmoja Mungu anasema: \"nimekuumba\" (*bara*), \"nimekufinyanga\" (*jacar*), \"nimekukomboa\" (*ga'al*) na \"nimekuita kwa jina\". *Ga'al* ni neno la sheria ya familia: \"mkombozi\" (go'el) ni ndugu wa karibu aliyelipa deni na kumwokoa wa kwake. Mungu hapa si Muumba wa mbali, bali Ndugu anayebeba uwajibikaji kwa ajili ya wake.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "גָּאַל",
+              "translit": "ga'al"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Acts.17.24-28",
+              "ref": "Mdo 17:24-28"
+            }
+          ],
+          "comment": "Mungu Muumba si wa mbali - \"katika yeye tunaishi, tunatembea na tuko\", naye anataka kupatikana.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Ni nini katika andiko hili kinachosema Mungu yu karibu, ingawa hatumwoni?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "Paulo ananukuu mshairi wa kipagani (Mdo 17:28)",
+          "content": "Katika Areopago ya Athene Paulo, akizungumza na wasio Wakristo, anatumia utamaduni wao wenyewe: \"sisi tu wa uzao wake\" ni nukuu kutoka kwa mshairi wa Kigiriki Aratosi. Badala ya kuanza kwa hukumu, anajenga daraja: Muumba yu karibu kiasi kwamba hata washairi wa kipagani walihisi kitu kuhusu hilo. Ni mfano wa kuzungumza juu ya Mungu kwa lugha inayoeleweka kwa msikilizaji.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "τοῦ γὰρ καὶ γένος ἐσμέν",
+              "translit": "tou gar kai genos esmen"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "1John.3.1",
+              "ref": "1Yoh 3:1"
+            }
+          ],
+          "comment": "Lengo la upendo huu si kustaajabia kutoka mbali, bali kutuita watoto wa Mungu.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Ni nini kinachobadilika katika uhusiano na Mungu unapotoka kwa \"Muumba\" kwenda kwa \"Baba\"?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Mungu si hakimu wa mbali wala nguvu isiyo na nafsi. Anakujua kwa jina, alikuumba kwa kusudi na upendo, naye anajali maisha yako ya kila siku. Imani haianzi kwa juhudi za kustahili - inaanza kwa kukubali kwamba unatakiwa na unapendwa.",
+    "challenge": "Kwa juma lijalo andika kila siku jambo moja ambamo unaona kujali kwa Mungu juu yako. Mara moja katika juma hili \"mtwike\" Mungu wasiwasi mmoja maalum (1Pet 5:7) - mwambie waziwazi."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study czy-ktos-sie-o-mnie-troszczy"
+  }
+}

@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+
+html, body, #root { height: 100%; }
+/* Domyślnie ciemny motyw (mniej męczący przy czytaniu) */
+body {
+  @apply bg-slate-900 text-slate-100 antialiased;
+}
+
+/* Druk zawsze na biało, niezależnie od motywu */
+@media print {
+  html.dark, body { background: #fff !important; color: #000 !important; }
+}
+
+/* czytelna typografia treści */
+.study-prose { @apply text-[1.05rem] leading-relaxed; }
+
+/* Druk - chowamy nawigację; pokazujemy tylko treść studium */
+@media print {
+  .no-print { display: none !important; }
+  body { @apply bg-white text-black; }
+  .verse-box { border: 1px solid #ccc !important; }
+  a[href]::after { content: ""; }
+}

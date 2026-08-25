@@ -1,0 +1,477 @@
+{
+  "id": "szabat",
+  "lang": "pl",
+  "title": "Szabat - czas z Bogiem",
+  "category": "basic_systematic",
+  "seriesId": "zycie-w-przymierzu",
+  "order": 17,
+  "summary": "Szabat ustanowiony już przy stworzeniu, dla wszystkich ludzi, jako pamiątka Stwórcy i cotygodniowy dar relacji oraz wolności. Czwarte przykazanie, które zachowywał sam Jezus, prowadzi do odpoczynku w Chrystusie - to nie ciężar, lecz przestrzeń spotkania z Bogiem.",
+  "minutes": {
+    "base": 45,
+    "extended": 70
+  },
+  "tags": [
+    "szabat",
+    "stworzenie",
+    "odpoczynek",
+    "Stwórca",
+    "czwarte przykazanie",
+    "wolność"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Dar starszy niż Izrael: szabat przy stworzeniu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Gen.2.1-3",
+              "ref": "Rdz 2,1-3"
+            }
+          ],
+          "comment": "Po sześciu dniach Bóg odpoczywa, błogosławi i poświęca siódmy dzień. Dzieje się to w Edenie - dla całej ludzkości, na długo przed istnieniem Izraela czy jakiejkolwiek religii.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Skoro szabat pojawia się już przy stworzeniu, dla kogo właściwie był pomyślany?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "„siódmy dzień\" (yôm haššᵉbîʿî / šabbāt)",
+          "content": "W Rdz 2,2-3 i Wj 20,10 mowa o „dniu siódmym\" (*yôm haššᵉbîʿî*); rzeczownik *šabbāt* pochodzi od rdzenia „ustać, zaprzestać\". Biblijny tydzień liczy dni od pierwszego (niedziela) do siódmego (sobota) - szabat to konsekwentnie ostatni, siódmy dzień, a nie pierwszy.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "יוֹם הַשְּׁבִיעִי",
+              "translit": "yôm haššᵉbîʿî"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Jak biblijne liczenie dni (pierwszy = niedziela, siódmy = sobota) pomaga ustalić, o który dzień chodzi w przykazaniu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "verb",
+          "label": "czasownik „odpoczął\" (šābaṯ) w opisie stworzenia",
+          "content": "W Rdz 2,2-3 rzeczownik *šabbāt* jeszcze nie pada; występuje za to dwukrotnie czasownik *šābaṯ* („ustać, zaprzestać\") na określenie Bożego odpoczynku po dziele stworzenia. Sednem nie jest więc ratunek na zmęczenie, lecz świadome ZAPRZESTANIE skończonej pracy - dzień ten Bóg pobłogosławił (*bārak*) i poświęcił (*qādaš*), czyli „oddzielił\" do trwałego celu.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "שָׁבַת",
+              "translit": "šābaṯ"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Co zmienia spojrzenie na szabat, gdy widzimy w nim „zaprzestanie\" skończonej pracy, a nie tylko sposób na zmęczenie?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Mark.2.27-28",
+              "ref": "Mk 2,27-28"
+            }
+          ],
+          "comment": "Jezus mówi: „Szabat został ustanowiony dla człowieka\". To dar dla ludzi, nie ciężar nałożony na nich - i Jezus jest jego Panem.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Co zmienia spojrzenie na szabat jako „dla człowieka\", a nie „przeciw człowiekowi\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Exod.16.22-26",
+              "ref": "Wj 16,22-26"
+            }
+          ],
+          "comment": "Bóg uczy ludu odpoczynku szabatowego przy mannie - JESZCZE przed Synajem. Szabat nie jest „wynalazkiem\" Dekalogu; Dekalog go tylko potwierdza.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Czego uczy fakt, że Bóg wprowadził szabat, zanim spisał Dekalog?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "pierwsze użycie rzeczownika *šabbāt*",
+          "content": "Właśnie w opowiadaniu o mannie (Wj 16) po raz pierwszy w całym Starym Testamencie pojawia się rzeczownik *šabbāt* (czterokrotnie). Boże słowa: „Patrzcie, Pan dał wam szabat\" oraz wyrzut „Jak długo będziecie się wzbraniać?\" zakładają, że szabat był ludowi JUŻ znany, a nie dopiero ustanawiany. To dodatkowo potwierdza jego korzenie sięgające stworzenia."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Czwarte przykazanie i pamięć o Stwórcy",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Exod.20.8-11",
+              "ref": "Wj 20,8-11"
+            }
+          ],
+          "comment": "Jedyne przykazanie zaczynające się od „Pamiętaj\". Powód jest jasny: bo Bóg stworzył wszystko w sześć dni, a siódmego odpoczął. Szabat to cotygodniowa pamiątka, że mam Stwórcę.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Przed czym ma chronić słowo „Pamiętaj\" na początku tego przykazania?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "verb",
+          "label": "„Pamiętaj\" (zākar)",
+          "content": "Czasownik *zākar* („pamiętaj\") otwiera czwarte przykazanie jako jedyne. Może nieść kilka odcieni naraz: pamiętać o czymś już od dawna ustanowionym, pamiętać, bo grozi zapomnienie, oraz pamiętać z myślą o przyszłości - bo szabat jest stale aktualny dla przymierza. Język całego przykazania (sześć dni pracy, siódmy odpoczynek, błogosławieństwo i poświęcenie dnia) wprost streszcza Rdz 2,2-3.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "זָכוֹר",
+              "translit": "zākôr"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Który z odcieni słowa „pamiętaj\" najbardziej przemawia do twojej sytuacji - pamięć o przeszłości, ostrzeżenie przed zapomnieniem czy spojrzenie w przyszłość?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "szabat jako „pieczęć\" Dekalogu",
+          "content": "W starożytności pełna pieczęć zawierała trzy elementy: imię, tytuł (urząd) i zakres władzy właściciela. Czwarte przykazanie jako jedyne w Dekalogu podaje wszystkie trzy: imię („Pan, twój Bóg\"), urząd (Stwórca - „uczynił\") i zakres władzy („niebo i ziemię, morze i wszystko, co w nich jest\"). Dlatego bywa ono nazywane „pieczęcią\" prawa Bożego, potwierdzającą, czyim autorytetem stoi cały Dekalog."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Ezek.20.12",
+              "ref": "Ez 20,12"
+            }
+          ],
+          "comment": "Bóg nazywa szabat „znakiem\" między Nim a Jego ludem - znakiem, że to On uświęca. Szabat to znak relacji, kto kogo poznaje.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Czego znakiem ma być szabat według tego tekstu - naszego wysiłku czy Bożego działania?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "worship",
+          "label": "szabat jako „znak\" i „przymierze wieczne\" (Wj 31,13.17)",
+          "content": "W Wj 31,13-17 szabat jest „znakiem\" o podwójnym wymiarze: że to Bóg uświęca swój lud (w. 13) i że jest Stwórcą (w. 17). Tekst nazywa go też „przymierzem wiecznym\" (w. 16) i mówi, że Bóg po stworzeniu „wytchnął\" - nie ze zmęczenia, lecz jako radosne ukojenie po dokończonym, doskonałym dziele. Hebrajskie „poznać\", że „Ja jestem Pan\", oznacza przede wszystkim bliską relację, nie tylko wiedzę.",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Czym różni się „znanie\" Boga jako bliska relacja od samej wiedzy o Nim - i jak szabat tę relację buduje?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Isa.58.13-14",
+              "ref": "Iz 58,13-14"
+            }
+          ],
+          "comment": "Szabat opisany jest jako „rozkosz\", dzień odrywany od własnych spraw i pogoni. To zaproszenie do radości, nie do drobiazgowych zakazów.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Co znaczyłoby przeżyć szabat jako „rozkosz\", a nie jako listę „nie wolno\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Rev.14.6-7",
+              "ref": "Ap 14,6-7"
+            }
+          ],
+          "comment": "Ostateczne wezwanie ewangelii brzmi: „Oddajcie pokłon Temu, który stworzył niebo i ziemię\". Język wprost nawiązuje do czwartego przykazania - szabat łączy się z apelem o uznanie Stwórcy.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Dlaczego u końca dziejów wraca akurat wezwanie do oddania czci Stwórcy?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Jezus i szabat",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Luke.4.16",
+              "ref": "Łk 4,16"
+            }
+          ],
+          "comment": "„Według swego zwyczaju\" Jezus szedł w szabat do synagogi. Jeśli chcemy żyć jak Jezus, warto zauważyć, jaki był Jego zwyczaj wobec tego dnia.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Co mówi nam zwyczaj Jezusa o Jego stosunku do szabatu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Luke.13.15-16",
+              "ref": "Łk 13,15-16"
+            }
+          ],
+          "comment": "Jezus uzdrawia w szabat i broni tego: to dzień uwalniania od pęt, nie dzień martwych zakazów. Oczyszcza szabat z ludzkich obciążeń, a nie znosi go.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Co Jezus „naprawia\" w rozumieniu szabatu, a czego nie usuwa?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "spory toczyły się o tradycję, nie o przykazanie",
+          "content": "Spory Jezusa o szabat nie dotyczyły rzeczy zakazanych w Starym Testamencie, lecz „prawa ustnego\" - rozbudowanej tradycji rabinicznej (później spisanej w Misznie), która wyliczała 39 głównych klas „pracy\" i mnóstwo drobiazgowych zakazów. Jezus nie łamał Pisma, lecz przywracał pierwotny, wewnętrzny sens dnia, oczyszczając go z ludzkich obciążeń. Krytyce podlega więc wypaczone NAUCZANIE, nie sam szabat.",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Jak odróżnić Boże przykazanie o szabacie od ludzkich tradycji, które z czasem narosły wokół niego?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Matt.24.20",
+              "ref": "Mt 24,20"
+            }
+          ],
+          "comment": "Mówiąc o wydarzeniach po swoim odejściu (zburzenie Jerozolimy ok. 40 lat później), Jezus wciąż zakłada, że szabat będzie istotny dla uczniów. Nie zapowiada jego zniknięcia.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Co wynika z tego, że Jezus mówi o szabacie jako wciąż ważnym po swoim odejściu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Odpoczynek w Chrystusie",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Matt.11.28-29",
+              "ref": "Mt 11,28-29"
+            }
+          ],
+          "comment": "Jezus zaprasza spracowanych: „przyjdźcie, a Ja wam dam odpoczynek\". Szabat zewnętrzny wskazuje na głębszy odpoczynek - ustanie z wysiłku zasługiwania.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Od jakiego „dźwigania\" Jezus chce nas uwolnić, ofiarując odpoczynek?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Heb.4.9-10",
+              "ref": "Hbr 4,9-10"
+            }
+          ],
+          "comment": "„Pozostaje odpoczynek szabatu dla ludu Bożego\" - kto wszedł do tego odpoczynku, odpoczął od swoich dzieł, jak Bóg od swoich. Szabat staje się obrazem zbawienia z łaski, nie z uczynków.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Jak cotygodniowy odpoczynek może uczyć prawdy, że zbawienie jest darem, nie zasługą?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "„odpoczynek szabatu\" (sabbatismos)",
+          "content": "W Hbr 4,9 pada rzadkie greckie słowo *sabbatismos* („odpoczynek szabatu\"), użyte w Nowym Testamencie tylko raz. W całym fragmencie (Hbr 3,7-4,13) osiem razy pojawia się też rzeczownik *katapausis* („odpoczynek\"). Argument autora ma sens tylko wtedy, gdy adresaci wciąż zachowują cotygodniowy szabat - dzień staje się dla nich obrazem głębszego, duchowego spoczynku w Chrystusie.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "σαββατισμός",
+              "translit": "sabbatismos"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Jak zewnętrzny dzień odpoczynku może wskazywać na wewnętrzny „odpoczynek wiary\" w Chrystusie?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Heb.4.1-3",
+              "ref": "Hbr 4,1-3"
+            }
+          ],
+          "comment": "Do Bożego odpoczynku wchodzi się przez wiarę. Zewnętrzny dzień bez wewnętrznego zaufania pozostaje pusty - ale jedno nie wyklucza drugiego.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Czym jest „wejście do odpoczynku przez wiarę\" w odróżnieniu od samego wolnego dnia?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Dlaczego sobota, nie niedziela",
+      "items": [
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Luke.23.54-56",
+              "ref": "Łk 23,54-56"
+            }
+          ],
+          "comment": "Po śmierci Jezusa kobiety „zgodnie z przykazaniem odpoczywały\" w szabat (sobota), a po nim, „pierwszego dnia tygodnia\" (niedziela), poszły do grobu. Tekst sam rozróżnia oba dni - siódmy to dzień odpoczynku zgodny z przykazaniem.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Który dzień ewangelista nazywa dniem odpoczynku „według przykazania\", a który zwykłym dniem pracy?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "niedzielne zebrania w Nowym Testamencie",
+          "content": "Teksty przywoływane na rzecz niedzieli (np. Dz 20,7 - łamanie chleba pierwszego dnia tygodnia; 1 Kor 16,2 - odkładanie darów) opisują pojedyncze zgromadzenia lub praktykę zbierania składki, ale nie ustanawiają nowego dnia świętego ani nie znoszą czwartego przykazania. Co więcej, zebranie z Dz 20,7 było nocnym spotkaniem (wg rachuby biblijnej - sobotni wieczór), a składkę z 1 Kor 16,2 należało odkładać w domu, nie w zborze. Brak w tych tekstach języka nakazu czy przeniesienia świętości dnia."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Acts.17.2",
+              "ref": "Dz 17,2"
+            }
+          ],
+          "comment": "„Według swego zwyczaju\" Paweł naucza w szabaty - wiele lat po zmartwychwstaniu. W Nowym Testamencie nie ma polecenia przeniesienia dnia odpoczynku na inny.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Gdyby dzień święty został oficjalnie zmieniony, czego spodziewałbyś się w Nowym Testamencie, a czego brak?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "historyczna zmiana dnia czci",
+          "content": "Nowy Testament nie zawiera nakazu przeniesienia odpoczynku z siódmego dnia na pierwszy; brak też w nim śladu sporu o szabat - a każda poważna zmiana w praktyce religijnej (jak spór o obrzezanie) zostawiała wyraźny ślad. Powszechne świętowanie niedzieli utrwaliło się stopniowo w pierwszych wiekach Kościoła i zostało potwierdzone późniejszymi decyzjami kościelnymi i cesarskimi (m.in. edykt Konstantyna z 321 r. o „czcigodnym dniu słońca\", który wszakże dopuszczał prace rolne, zakazane w szabat Pięcioksięgu). Z perspektywy sola scriptura to zmiana wprowadzona ludzką tradycją, nie poleceniem biblijnym. Uwaga: oceniamy nauczanie i decyzje instytucji, nigdy szczerość konkretnych wierzących, z których wielu czci Boga w niedzielę w dobrej wierze."
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Szabat nie jest żydowskim przeżytkiem ani ciężarem zakazów. To dar starszy niż Izrael - ustanowiony w Edenie dla każdego człowieka, cotygodniowa pamiątka, że mam Stwórcę, do którego należę. Jezus go zachowywał i uwolnił od ludzkich obciążeń. Co tydzień szabat zaprasza, bym przestał udowadniać swoją wartość pracą i osiągnięciami, i spoczął w Tym, który już mnie kocha. Zewnętrzny odpoczynek wskazuje na ten najgłębszy - odpoczynek w Chrystusie, zbawienie z łaski, nie z uczynków.",
+    "challenge": "Zaplanuj najbliższy siódmy dzień (sobotę) świadomie jako dzień relacji, nie obowiązków: odłóż pracę i pośpiech, znajdź czas na Biblię, modlitwę, bliskich i naturę. Zapisz po nim jedno zdanie: co odkryłeś o Bogu, gdy przestałeś „produkować\"?"
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "status: draft needsReview: true generatedBy: claude notes: Założenia przyjęte przy braku danych: `category = basic_systematic`, `seriesId = zycie-w-przymierzu`, `order = 17` (Blok III wg briefu). Do sprawdzenia przez recenzenta: poprawność kodów OSIS (zwł. `Mark`, `Ezek`, `Rev`, `Acts`, `Heb`); brzmienie odniesień w przyjętym przekładzie PL. Formy oryginalne (advanced) do weryfikacji: `יוֹם הַשְּׁבִיעִי` / *yôm haššᵉbîʿîoraz `שַׁבָּת` / *šabbātpotwierdzić zapis wokalizacji i transliterację u recenzenta. Add-on III/3-D1 („Dlaczego sobota, nie niedziela\") umieszczony jako Sekcja 5 (extended/advanced) zgodnie ze zleceniem; ton: krytyka nauczania/instytucji i tradycji, nie ludzi (sola scriptura). Data edyktu 321 r. (dies Solis) fakt powszechnie znany, do potwierdzenia przez recenzenta. Fakt historyczny do weryfikacji: datacja i charakter wczesnych decyzji o niedzieli podane ogólnikowo, bez przypisywania konkretnych nazwisk/soborów; recenzent niech sprawdzi sformułowania. Tekst wersetów celowo NIE jest wstawiony tylko odnośniki (osis + ref); treść dociągana z przekładu."
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "id": "tentacion-caida-perdon",
+  "lang": "es",
+  "title": "Tentación, caída, perdón",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 10,
+  "summary": "La lucha con la tentación es una parte normal de la vida de fe, y no una prueba de fracaso. Aprendemos a vencer con el poder de Jesús y, tras la caída, a volver mediante la confesión y la aceptación del perdón. Dios no rechaza al que cae; distinguimos entre un tropiezo y la permanencia consciente en el pecado, y aprendemos a perdonarnos a nosotros mismos y a los demás.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "el pecado",
+    "la tentación",
+    "el perdón",
+    "gracia",
+    "lucha espiritual"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "La lucha con la tentación es algo normal",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "1Cor.10.13",
+              "ref": "1 Co 10:13"
+            }
+          ],
+          "comment": "Ninguna tentación que te sobrevenga es \"sobrehumana\": todos la viven. Dios promete que, junto con la tentación, dará la salida para que puedas soportarla. La tentación en sí no es pecado; pecado es ceder a ella.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "¿Qué cambia tomar conciencia de que la tentación en sí misma no es culpa, sino un terreno en el que Dios da una \"salida\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "la \"salida\" de la tentación (1 Kor 10,13)",
+          "content": "La palabra griega *ekbasis* significa \"salida, vía de escape\": la imagen de un desfiladero o un paso por el que se puede salir del cerco. Dios no promete ausencia de tentaciones, sino que siempre deja una vía de escape, \"para que podáis soportar\". No hay, pues, situación en la que la caída sea la única salida: siempre existe una puerta que buscamos junto a él.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἔκβασις",
+              "translit": "ekbasis"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "¿Cómo cambia tu sensación de impotencia entender la tentación como una situación con una \"salida\" siempre presente?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Heb.4.15",
+              "ref": "Heb 4:15"
+            }
+          ],
+          "comment": "Jesús \"fue tentado en todo... igual que nosotros, pero sin pecado\". Comprende la lucha con la tentación desde dentro: no la mira desde la distancia.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "¿Cómo cambia tu idea de si Jesús te comprende el hecho de que él mismo fuera tentado?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Jas.1.14-15",
+              "ref": "Stg 1:14-15"
+            }
+          ],
+          "comment": "La tentación nace del propio deseo; \"cuando el deseo ha concebido, da a luz el pecado\". Hay, pues, un momento de decisión entre la aparición de la tentación y el ceder a ella. Es una buena noticia: no estamos condenados a caer.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "¿En qué punto de la \"cadena\" de la tentación es todavía más fácil decir \"no\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "la misma palabra: \"tentación\" y \"prueba\" (Jk 1)",
+          "content": "La palabra griega *peirasmos* significa tanto \"tentación\" (incitación al mal) como \"prueba, experiencia\" (un examen que fortalece). Stg 1 usa ambos matices: Dios no tienta a nadie al mal (v. 13), pero permite pruebas que, soportadas, traen madurez (vv. 2-4.12). La misma situación puede convertirse, pues, en caída o en crecimiento, según a quién recurra en ella.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "πειρασμός",
+              "translit": "peirasmos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Vencer con el poder de Jesús",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "1Cor.15.57",
+              "ref": "1 Co 15:57"
+            }
+          ],
+          "comment": "La victoria sobre el pecado no es un logro nuestro: \"Dios nos da la victoria por medio de nuestro Señor Jesucristo\". Luchamos con su poder, no con nuestra propia fuerza de voluntad.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "¿En qué se diferencia luchar \"con la propia fuerza de voluntad\" de luchar \"con el poder de Jesús\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Matt.4.4",
+              "ref": "Mt 4:4, 7, 10"
+            }
+          ],
+          "comment": "Jesús, en el desierto, vencía las tentaciones con la Palabra de Dios: \"Escrito está...\". Mostró que la Escritura es un arma real en el momento de la tentación.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "¿Qué pasaje de la Escritura podría ser tu \"respuesta\" ante una tentación que se repite a menudo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"escrito está\" como arma (Mt 4)",
+          "content": "Al rechazar las tentaciones tres veces, Jesús usa la fórmula *gegraptai*: \"escrito está / queda escrito\". El tiempo perfecto griego subraya un efecto duradero y vigente: la Palabra fue escrita y permanece en vigor. Jesús no discute con el tentador con argumentos propios, sino que aplica a cada tentación un texto concreto de la Escritura. De ahí la práctica: conviene tener \"a mano\" versículos para tus tentaciones habituales.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "γέγραπται",
+              "translit": "gegraptai"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q18",
+              "text": "¿Por qué un versículo concreto suele ser más eficaz en la tentación que un propósito general de \"voy a ser más fuerte\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Gal.5.16-17",
+              "ref": "Gá 5:16-17"
+            }
+          ],
+          "comment": "\"Andad en el Espíritu, y no satisfaréis los deseos de la carne\". La victoria brota de someterse al Espíritu, no de apretar los dientes.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "¿Qué significa, en la práctica, \"andar en el Espíritu\" en una situación en la que sueles ceder?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Phil.4.13",
+              "ref": "Fil 4:13"
+            }
+          ],
+          "comment": "\"Todo lo puedo en aquel que me fortalece\". La fuente de la perseverancia es el poder de Cristo, disponible también en el momento de debilidad.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "¿Dónde necesitas más hoy oír que la fuerza la recibes de Jesús, y no la produces tú mismo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Jas.4.7",
+              "ref": "Stg 4:7"
+            }
+          ],
+          "comment": "\"Someteos a Dios; resistid al diablo, y huirá de vosotros\". El orden es importante: primero la sumisión a Dios, y solo después la resistencia frente al mal.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "¿Por qué la \"resistencia frente al mal\" por sí sola, sin una previa sumisión a Dios, se agota pronto?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Tras la caída: confesión y perdón",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "1John.1.9",
+              "ref": "1 Jn 1:9"
+            }
+          ],
+          "comment": "\"Si confesamos nuestros pecados, él es fiel y justo para perdonarlos y limpiarnos\". El camino de regreso es sencillo: una confesión sincera, y Dios mismo realiza el perdón y la purificación.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "¿Qué te detiene a veces de \"nombrar\" sinceramente delante de Dios lo que has hecho?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "\"confesar\" significa \"darle la razón a Dios\" (1 J 1,9)",
+          "content": "El verbo *homologeo* significa literalmente \"decir lo mismo, estar de acuerdo\". Confesar el pecado no es flagelarse, sino \"darle la razón a Dios\": coincidir con su valoración de mi acto. Por eso conduce a la liberación, y no al hundimiento: dejo de defenderme y de justificarme, y empiezo a coincidir con la verdad que él, de todos modos, ya conoce.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ὁμολογῶμεν",
+              "translit": "homologomen"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "1John.2.1",
+              "ref": "1 Jn 2:1"
+            }
+          ],
+          "comment": "Juan escribe \"para que no pequéis\", pero añade: \"y si alguno hubiere pecado, abogado tenemos para con el Padre: a Jesús\". La meta es una vida sin pecado, pero, por si hay una caída, hay un Defensor, no un acusador.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "¿Cómo cambia tu actitud ante la caída saber que tienes ante el Padre un Defensor, y no solo un Juez?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "Jesús como \"Defensor\" y Satanás como acusador (1 J 2,1)",
+          "content": "Aquí Jesús es llamado *parakletos*: \"Intercesor, Abogado, Defensor\" (la misma palabra con la que el Evangelio de Juan designa al Espíritu). Al otro lado está Satanás, \"el acusador de los hermanos\" (Ap 12:10). La imagen es judicial: cuando caes, en el cielo no quedas sin defensa; Cristo mismo, que murió por ti, es tu Abogado. Por eso la voz de condenación tras la confesión no procede de Dios.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "παράκλητος",
+              "translit": "parakletos"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Ps.103.10-12",
+              "ref": "Sal 103:10-12"
+            }
+          ],
+          "comment": "Dios \"no ha hecho con nosotros conforme a nuestros pecados\" y los aleja \"cuanto está lejos el oriente del occidente\". El perdón es real y pleno, no a medias.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "¿Qué significaría para ti creer que Dios alejó tu pecado \"tan lejos\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "\"como el oriente del occidente\" (Ps 103,12)",
+          "content": "El salmo no dice a propósito \"como el norte del sur\", sino \"como el oriente del occidente\". El norte y el sur tienen puntos límite (los polos): son finitos. Pero el oriente y el occidente nunca se encuentran: yendo hacia el oriente, jamás llegarás al occidente. Es una imagen poética del perdón sin límites y sin retorno: Dios no aparta el pecado \"a un lado\", sino que lo aleja hasta el infinito.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "¿Qué cambia en tu sentimiento de culpa la imagen de un pecado alejado \"hasta el infinito\", y no solo escondido?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Isa.1.18",
+              "ref": "Is 1:18"
+            }
+          ],
+          "comment": "\"Aunque vuestros pecados sean como la grana, como la nieve serán emblanquecidos\". Ningún pecado es para Dios \"demasiado oscuro\" como para no poder purificarlo.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "¿Hay en ti el pensamiento \"esto en concreto es demasiado grave como para que Dios pueda perdonarlo\"? ¿Qué responde a eso este versículo?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Dios no rechaza; la caída frente a la permanencia en el pecado",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Prov.24.16",
+              "ref": "Pr 24:16"
+            }
+          ],
+          "comment": "\"El justo cae siete veces, y vuelve a levantarse\". Lo que distingue a una persona de fe no es que nunca caiga, sino que cada vez se levanta. La caída no es el final del camino.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "¿En qué se diferencia para ti \"caer y levantarse\" de \"dar por hecho que ya no vale la pena levantarse\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "John.6.37",
+              "ref": "Jn 6:37"
+            }
+          ],
+          "comment": "Jesús dice: \"al que a mí viene, no le echo fuera\". Dios no rechaza al que vuelve, nunca.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "¿Qué cambiaría si creyeras de verdad que Jesús no te rechazará, cuantas veces vuelvas?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "1John.3.6",
+              "ref": "1 Jn 3:6, 9"
+            }
+          ],
+          "comment": "Juan distingue una caída puntual (1 J 2:1) de la \"permanencia en el pecado\" consciente como estilo de vida. La diferencia no está en la perfección, sino en la dirección del corazón: si vuelvo a Dios o si me aparto de él de forma consciente.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "¿Cómo reconocer la diferencia entre un tropiezo del que te arrepientes y un cómodo \"habitar\" en el pecado?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "syntax",
+          "label": "\"no peca\" significa \"no permanece en el pecado\" (1 J 3,6.9)",
+          "content": "La aparente contradicción entre 1 J 1:8-10 (\"si decimos que no tenemos pecado, nos engañamos a nosotros mismos\") y 1 J 3:6.9 (\"todo aquel que permanece en él, no peca\") desaparece gracias al tiempo presente griego de sentido continuo y repetido. Juan no habla de una caída aislada, sino del pecado como forma de vida constante y practicada. El creyente puede caer, pero ya no \"habita\" en el pecado como en su elemento. Esto protege tanto de la desesperación tras un tropiezo como de tomar a la ligera la permanencia consciente en el mal.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "οὐχ ἁμαρτάνει",
+              "translit": "ouch hamartanei"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Luke.15.17-20",
+              "ref": "Lc 15:17-20"
+            }
+          ],
+          "comment": "El hijo pródigo \"volvió en sí\", se levantó y regresó, y el padre corrió a su encuentro. El regreso comienza con una decisión, pero se encuentra con un amor que ya está esperando.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "¿Cuál es tu primer paso para \"levantarte y volver\" cuando caes?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Perdonarse a uno mismo y a los demás",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Matt.6.14-15",
+              "ref": "Mt 6:14-15"
+            }
+          ],
+          "comment": "Jesús une la aceptación del perdón de Dios con la disposición a perdonar a los demás. Quien ha experimentado una deuda condonada no puede mantener a otros en deuda.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "¿A quién te cuesta perdonar hoy, y cómo influye en eso pensar en el perdón de Dios hacia ti?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "el pecado (en singular) y los pecados (en plural); la gracia va primero",
+          "content": "En la perspectiva bíblica, el \"pecado\" en singular es ante todo la comunión rota con Dios, un estado de separación; los \"pecados\" en plural son sus manifestaciones. Por eso la solución a la caída no es solo \"mejorar la conducta\", sino restaurar la relación. La obediencia es fruto del vínculo restaurado, no condición para ser aceptado; la ausencia de pecado no es condición para la salvación: la gracia va primero (Ro 5:8). Es la perspectiva del gran conflicto: el mal quiere hacer creer que, tras la caída, Dios te ha rechazado; el evangelio dice que precisamente entonces el Padre corre a tu encuentro (Lc 15:20).",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "¿Cómo cambia tu forma de volver a Dios tras la caída la distinción entre \"el pecado como vínculo roto\" y \"los pecados como manifestaciones\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Phil.3.13-14",
+              "ref": "Fil 3:13-14"
+            }
+          ],
+          "comment": "Pablo \"olvida lo que queda atrás\" y \"prosigue hacia la meta\". Perdonarse a uno mismo significa no volver una y otra vez a lo que Dios ya ha condonado, sino seguir adelante.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "¿Qué de tu pasado te cuesta más \"dejar atrás\", aunque Dios ya lo haya perdonado?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "Rom.8.1",
+              "ref": "Ro 8:1"
+            }
+          ],
+          "comment": "\"Ninguna condenación hay para los que están en Cristo Jesús\". Tras el perdón no queda sentencia: queda libertad. El sentimiento de condenación tras la confesión no procede de Dios.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "¿De dónde crees que viene el atormentador sentimiento de culpa incluso después de una confesión sincera, y qué dice ante eso este versículo?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "La lucha con la tentación no es una prueba de que algo va mal en ti: es una parte normal del camino de fe, y Jesús la conoce desde dentro. No vences con tu propia fuerza de voluntad, sino con su poder. Y cuando caes, el camino de regreso es sencillo: una confesión sincera, y un Dios que no rechaza, sino que perdona y purifica. La caída no es lo mismo que \"habitar\" en el pecado; lo que da testimonio de la fe no es la ausencia de tropiezos, sino que cada vez te levantas. Y el perdón de Dios te enseña a perdonar, también a ti mismo y a quienes te han hecho daño.",
+    "challenge": "Nombra hoy con sinceridad delante de Dios una cosa concreta con la que luchas, y acepta su perdón (1 J 1:9), sin volver a ella con sentimiento de condenación. Señala además a una persona a la que le \"tengas algo en deuda\", y pide a Dios la disposición para perdonarla."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "ES translation of PL study gdy-upadam"
+  }
+}

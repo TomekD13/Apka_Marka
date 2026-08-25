@@ -1,0 +1,1408 @@
+{
+  "lang": "fr",
+  "featured": {},
+  "series": [
+    {
+      "id": "spotkanie-z-bogiem",
+      "title": "I. À la rencontre de Dieu",
+      "order": 1
+    },
+    {
+      "id": "zycie-z-bogiem",
+      "title": "II. Vivre avec Dieu",
+      "order": 2
+    },
+    {
+      "id": "zycie-w-przymierzu",
+      "title": "III. Vivre dans l'alliance et le service",
+      "order": 3
+    },
+    {
+      "id": "proroctwo-i-nadzieja",
+      "title": "IV. Prophéties et l'espérance de la fin",
+      "order": 4
+    },
+    {
+      "id": "zycie-i-emocje",
+      "title": "V. Vie et émotions - module pratique",
+      "order": 5
+    }
+  ],
+  "studies": [
+    {
+      "id": "dieu-se-soucie-t-il-de-moi",
+      "title": "Dieu se soucie-t-il de moi ?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 1,
+      "summary": "Une première rencontre avec le Dieu qui me connaît personnellement, qui m'a créé par amour et qui prend soin de mon quotidien - un point de départ pour une relation, non pour une religion.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Dieu",
+        "amour",
+        "création",
+        "sollicitude",
+        "identité"
+      ],
+      "refs": [
+        "Ps 139:1-4",
+        "Ps 139:13-16",
+        "Ps 8:4-6",
+        "1 Jn 4:8-10",
+        "Jn 3:16",
+        "Rm 5:8",
+        "Jr 31:3",
+        "Lc 15:20",
+        "Mt 6:26",
+        "Mt 6:31-33",
+        "1 P 5:7",
+        "Lc 12:6-7",
+        "Gn 1:27",
+        "És 43:1",
+        "Ac 17:24-28",
+        "1 Jn 3:1"
+      ]
+    },
+    {
+      "id": "qui-est-vraiment-jesus",
+      "title": "Qui est vraiment Jésus ?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 2,
+      "summary": "Qui est vraiment Jésus de Nazareth : un personnage historique et en même temps le Dieu éternel, le Créateur, qui s'est fait homme pour me sauver et révéler le Père - et qui veut être pour moi personnellement.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Jésus",
+        "divinité",
+        "incarnation",
+        "Créateur",
+        "Je Suis",
+        "révélation du Père"
+      ],
+      "refs": [
+        "Mt 16:13-16",
+        "Lc 2:4-7",
+        "Mc 6:2-3",
+        "Jn 8:58",
+        "Jn 1:1-3",
+        "Jn 1:14",
+        "Col 1:16-17",
+        "Hé 1:3",
+        "Jn 14:9",
+        "Jn 20:28-29",
+        "Mt 28:9",
+        "Ap 1:17-18",
+        "Ph 2:6-8",
+        "Jn 1:12",
+        "Jn 10:10",
+        "Mt 11:28-29"
+      ]
+    },
+    {
+      "id": "dou-viennent-le-mal-et-la-souffrance",
+      "title": "D'où viennent le mal et la souffrance ?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 3,
+      "summary": "Si Dieu est bon et tout-puissant, d'où vient le mal ? La Bible répond non par une philosophie, mais par l'histoire du grand conflit : un monde créé bon, un amour qui exige la liberté, une révolte dans le ciel, la chute de l'homme - et un Dieu qui n'est pas l'auteur du mal, mais Celui qui le résout à la croix.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "mal",
+        "souffrance",
+        "le grand conflit",
+        "liberté",
+        "Satan",
+        "chute",
+        "espérance"
+      ],
+      "refs": [
+        "Gn 1:31",
+        "1 Jn 1:5",
+        "1 Jn 4:8",
+        "Dt 30:19",
+        "Jos 24:15",
+        "Ap 3:20",
+        "Ap 12:7-9",
+        "És 14:12-14",
+        "Éz 28:12-17",
+        "Jn 8:44",
+        "Gn 3:1-6",
+        "Gn 3:15",
+        "Rm 5:12",
+        "Jb 1:8-12",
+        "Ap 12:17",
+        "Ap 21:4",
+        "Rm 8:18",
+        "Na 1:9"
+      ]
+    },
+    {
+      "id": "pourquoi-jesus-devait-il-mourir",
+      "title": "Pourquoi Jésus devait-il mourir ?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 4,
+      "summary": "Le péché n'est pas seulement une liste de mauvaises actions, mais un lien rompu avec Dieu - une confiance perdue d'où naissent les péchés concrets. La conséquence en est la séparation et la mort, et la réponse de Dieu est la croix : Jésus a pris ma place pour rétablir la relation. L'obéissance est le fruit de la réconciliation, non sa condition.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "péché",
+        "relation",
+        "croix",
+        "réconciliation",
+        "mort de Jésus",
+        "confiance",
+        "rédemption"
+      ],
+      "refs": [
+        "És 59:2",
+        "Gn 3:8-10",
+        "És 53:6",
+        "Jn 16:9",
+        "Mc 7:21-23",
+        "Jr 17:9",
+        "Rm 7:18-19",
+        "Rm 3:23",
+        "Rm 6:23",
+        "Éz 18:4",
+        "És 64:6",
+        "Rm 5:8",
+        "És 53:4-5",
+        "1 P 2:24",
+        "2 Co 5:21",
+        "Jn 15:13",
+        "2 Co 5:18-19",
+        "Rm 5:1",
+        "Tt 2:11-12",
+        "1 Jn 4:19"
+      ]
+    },
+    {
+      "id": "un-cadeau-qui-ne-sachete-pas",
+      "title": "Un cadeau qui ne s'achète pas",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 5,
+      "summary": "Le salut est un don de la grâce que l'on reçoit par la foi, et non une récompense pour des oeuvres. Dieu justifie le pécheur et donne dès maintenant l'assurance de la vie éternelle - une assurance fondée sur Christ, et non sur mon absence de péché. Les oeuvres sont le fruit du salut, jamais son prix.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "la grâce",
+        "la foi",
+        "le salut",
+        "la justification",
+        "l'assurance",
+        "le don",
+        "les oeuvres"
+      ],
+      "refs": [
+        "Ép 2:8-9",
+        "Tt 3:5",
+        "Rm 4:4-5",
+        "Rm 11:6",
+        "Ga 2:16",
+        "Rm 3:23-24",
+        "Rm 5:1",
+        "Gn 15:6",
+        "Lc 18:13-14",
+        "1 Jn 5:11-13",
+        "Jn 5:24",
+        "Jn 10:28-29",
+        "Rm 8:38-39",
+        "Ph 1:6",
+        "Ép 2:10",
+        "Jn 15:4-5",
+        "Tt 2:11-14",
+        "Jc 2:17-18",
+        "Rm 7:24-25"
+      ]
+    },
+    {
+      "id": "comment-recommencer",
+      "title": "Comment recommencer ?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 6,
+      "summary": "La conversion n'est pas une amélioration de soi, mais un changement de direction : la repentance et le don de sa vie à Dieu, par lequel il fait naître l'homme de nouveau, donne un coeur nouveau et fait de lui une nouvelle créature. C'est le début d'une relation renouvelée chaque jour, et non un acte ponctuel à cocher.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "la conversion",
+        "la repentance",
+        "la nouvelle naissance",
+        "le coeur nouveau",
+        "la nouvelle créature",
+        "le don de sa vie"
+      ],
+      "refs": [
+        "Mc 1:15",
+        "Ac 3:19",
+        "Lc 15:17-20",
+        "2 Co 7:10",
+        "És 55:7",
+        "Rm 12:1",
+        "Ga 2:20",
+        "Lc 9:23",
+        "Jn 3:3",
+        "Jn 3:5-6",
+        "Jn 3:7-8",
+        "1 P 1:23",
+        "Éz 36:26",
+        "Éz 36:27",
+        "2 Co 5:17",
+        "Ép 4:22-24",
+        "Ph 2:13",
+        "2 Co 4:16",
+        "1 Jn 1:9",
+        "Ph 3:13-14"
+      ]
+    },
+    {
+      "id": "le-saint-esprit-dans-ma-vie",
+      "title": "Le Saint-Esprit dans ma vie",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 7,
+      "summary": "Le Saint-Esprit n'est pas une « énergie » impersonnelle, mais une Personne et Dieu - la troisième Personne de la Trinité. C'est lui qui guide, console, convainc de péché, donne la force de vivre et produit le fruit du caractère. Nous le connaissons comme un Compagnon constamment présent, dont nous pouvons être remplis.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "le Saint-Esprit",
+        "la Trinité",
+        "le Consolateur",
+        "le fruit de l'Esprit",
+        "la puissance",
+        "la conduite",
+        "la plénitude"
+      ],
+      "refs": [
+        "Ac 5:3-4",
+        "Jn 14:16-17",
+        "Jn 16:13-14",
+        "Ép 4:30",
+        "Rm 8:26-27",
+        "Mt 28:19",
+        "2 Co 13:13",
+        "Gn 1:1-2",
+        "Ps 139:7",
+        "Jn 14:26",
+        "Jn 16:7-8",
+        "Rm 8:14",
+        "Rm 8:15-16",
+        "Jn 14:18",
+        "Ac 1:8",
+        "Ga 5:22-23",
+        "Ga 5:16",
+        "Rm 8:11",
+        "Lc 11:13",
+        "Ép 5:18",
+        "Ac 2:1-4",
+        "Jn 7:37-39"
+      ]
+    },
+    {
+      "id": "comment-parler-avec-dieu",
+      "title": "Comment parler avec Dieu ?",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 8,
+      "summary": "La prière n'est ni une formule magique ni un devoir religieux, mais une conversation sincère avec Dieu, qui entend et qui répond. Nous apprenons à parler avec un Ami simplement, régulièrement et avec confiance - et nous découvrons que la prière nous change, nous et nos situations.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "prière",
+        "conversation",
+        "confiance",
+        "Notre Père",
+        "relation"
+      ],
+      "refs": [
+        "Mt 6:7-8",
+        "Mt 7:7-8",
+        "Mt 7:9-11",
+        "Mt 6:9-13",
+        "Lc 11:1",
+        "Mt 6:5-6",
+        "Ps 62:9",
+        "Ph 4:6-7",
+        "1 Th 5:16-18",
+        "Mc 1:35",
+        "Lc 18:1",
+        "1 Jn 5:14-15",
+        "És 65:24",
+        "Lc 22:42",
+        "2 Co 12:8-9",
+        "Jc 4:3",
+        "Jc 5:16",
+        "Lc 11:9-13"
+      ]
+    },
+    {
+      "id": "la-bible-la-voix-de-dieu-pour-moi",
+      "title": "La Bible - la voix de Dieu pour moi",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 9,
+      "summary": "La Bible est la Parole de Dieu inspirée - une lettre d'un Ami, et non un recueil d'opinions humaines. Nous découvrons d'où vient son autorité (sola scriptura), nous apprenons des principes simples pour la lire par soi-même et nous voyons par où il vaut mieux commencer. Le niveau PRO répond à la question de l'Écriture et de la Tradition, ainsi qu'à celle du canon.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Bible",
+        "Parole de Dieu",
+        "inspiration",
+        "sola scriptura",
+        "lecture de l'Écriture"
+      ],
+      "refs": [
+        "2 Tm 3:16-17",
+        "2 P 1:20-21",
+        "Hé 4:12",
+        "És 8:20",
+        "Ac 17:11",
+        "Jn 17:17",
+        "Ps 119:105",
+        "Ps 119:18",
+        "Lc 24:27",
+        "2 P 1:20",
+        "És 28:10",
+        "Jc 1:22",
+        "Mt 4:4",
+        "Jn 20:30-31",
+        "Jos 1:8",
+        "Ps 1:1-3"
+      ]
+    },
+    {
+      "id": "tentation-chute-pardon",
+      "title": "Tentation, chute, pardon",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 10,
+      "summary": "La lutte contre la tentation est une partie normale de la vie de foi, et non une preuve d'échec. Nous apprenons à vaincre par la puissance de Jésus, et après une chute à revenir par la confession et l'accueil du pardon. Dieu ne rejette pas celui qui tombe - nous distinguons entre un faux pas et le fait de demeurer sciemment dans le péché, et nous apprenons à nous pardonner à nous-mêmes comme aux autres.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "péché",
+        "tentation",
+        "pardon",
+        "grâce",
+        "combat spirituel"
+      ],
+      "refs": [
+        "1 Co 10:13",
+        "Hé 4:15",
+        "Jc 1:14-15",
+        "1 Co 15:57",
+        "Mt 4:4, 7, 10",
+        "Ga 5:16-17",
+        "Ph 4:13",
+        "Jc 4:7",
+        "1 Jn 1:9",
+        "1 Jn 2:1",
+        "Ps 103:10-12",
+        "És 1:18",
+        "Pr 24:16",
+        "Jn 6:37",
+        "1 Jn 3:6, 9",
+        "Lc 15:17-20",
+        "Mt 6:14-15",
+        "Ph 3:13-14",
+        "Rm 8:1"
+      ]
+    },
+    {
+      "id": "la-plus-grande-promesse-de-jesus",
+      "title": "La plus grande promesse de Jésus",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 11,
+      "summary": "Le retour de Jésus est une promesse et le cœur de l'espérance chrétienne. Nous découvrons la certitude de cette promesse et les signes des temps, et surtout le caractère de sa venue : visible, audible, mondiale et définitive - « tout œil le verra ». Nous répondons aux idées fausses d'un « enlèvement secret » et d'une « présence invisible ». C'est une espérance, et non un motif de peur.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "second avènement",
+        "espérance",
+        "signes des temps",
+        "parousie",
+        "eschatologie"
+      ],
+      "refs": [
+        "Jn 14:1-3",
+        "Ac 1:9-11",
+        "Hé 9:28",
+        "Mt 24:3-8",
+        "Mt 24:14",
+        "Mt 24:36",
+        "2 P 3:3-4",
+        "2 P 3:9",
+        "Ap 1:7",
+        "Mt 24:27",
+        "Mt 24:30-31",
+        "Mt 24:23-26",
+        "1 Th 4:16-17",
+        "Mt 26:64",
+        "Tt 2:13",
+        "Jn 14:1",
+        "1 Th 4:18",
+        "Lc 21:28"
+      ]
+    },
+    {
+      "id": "une-esperance-plus-forte-que-la-mort",
+      "title": "Une espérance plus forte que la mort",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 12,
+      "summary": "La Bible parle de la mort comme d'un « sommeil » dont la résurrection nous réveille au retour de Jésus - une espérance, et non un motif de peur. Nous découvrons cet enseignement, la mise en garde contre le spiritisme et les « contacts avec les morts », ainsi que la réponse biblique à la réincarnation. Le niveau PRO aborde la doctrine du purgatoire et les prières pour les morts.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "mort",
+        "résurrection",
+        "état des morts",
+        "espérance",
+        "spiritisme"
+      ],
+      "refs": [
+        "Jn 11:11-14",
+        "Ec 9:5-6",
+        "Ps 146:4",
+        "Ps 115:17",
+        "Gn 2:7",
+        "1 Th 4:13-14",
+        "1 Th 4:15-17",
+        "Jn 5:28-29",
+        "1 Co 15:51-54",
+        "Dn 12:2",
+        "És 8:19-20",
+        "Dt 18:10-12",
+        "2 Co 11:14",
+        "Ap 16:14",
+        "Hé 9:27",
+        "2 Co 5:10",
+        "Jn 3:16"
+      ]
+    },
+    {
+      "id": "la-vie-dans-la-famille-de-dieu",
+      "title": "La vie dans la famille de Dieu",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 13,
+      "summary": "L'Église n'est pas un bâtiment, mais une famille et le corps du Christ - un lieu de communion fraternelle, de soutien et de croissance. Nous découvrons le sens de l'appartenance, l'unité exprimée dans l'obéissance au Christ-Tête, et la Cène comme mémorial du sacrifice, avec le rite de l'humilité. Niveaux supplémentaires : discerner la volonté de Dieu, et la Cène comme mémorial face à la messe et à la transsubstantiation.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Église",
+        "communion fraternelle",
+        "corps du Christ",
+        "la Cène",
+        "conduite de Dieu"
+      ],
+      "refs": [
+        "Ép 2:19",
+        "1 P 2:9-10",
+        "1 Co 12:12-14",
+        "1 Co 12:21-26",
+        "Ép 4:15-16",
+        "Col 1:18",
+        "Jn 17:20-23",
+        "Ép 4:1-3",
+        "Hé 10:24-25",
+        "Ac 2:42-47",
+        "Ga 6:2",
+        "Ép 4:11-13",
+        "Lc 22:19-20",
+        "Jn 13:1-5",
+        "Jn 13:14-17",
+        "1 Co 11:27-29",
+        "Lc 17:20-21",
+        "Mt 5:13-16"
+      ]
+    },
+    {
+      "id": "une-decision-qui-change-la-vie",
+      "title": "Une décision qui change la vie",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 14,
+      "summary": "Le baptême est une confession publique de la foi et une identification à la mort et à la résurrection de Jésus - le baptême de la foi par immersion. Nous parlons avec sérénité du « nouveau baptême » après un baptême reçu dans l'enfance, en soulignant que c'est une déclaration de disponibilité, non une précipitation, et que c'est Jésus lui-même qui donne la force de persévérer. C'est la conclusion de la série et une invitation à la décision quotidienne de marcher avec Dieu.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "baptême",
+        "décision",
+        "imitation",
+        "vie nouvelle",
+        "persévérance"
+      ],
+      "refs": [
+        "Rm 6:3-4",
+        "Mt 28:19-20",
+        "Ac 2:38",
+        "Ga 3:27",
+        "Mt 3:13-17",
+        "Ac 8:36-39",
+        "Mc 1:9-10",
+        "Col 2:12",
+        "Ac 8:12",
+        "Ac 19:4-5",
+        "Ac 22:16",
+        "Lc 14:27-30",
+        "Jos 24:15",
+        "Ap 3:20",
+        "Jn 15:5",
+        "Ph 1:6",
+        "Mt 28:20",
+        "Ph 4:13"
+      ]
+    },
+    {
+      "id": "le-dieu-qui-tient-parole",
+      "title": "Le Dieu qui tient parole",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 15,
+      "summary": "Depuis la création, Dieu se lie à l'homme par une alliance ; quand nous tombons, il nous cherche et renouvelle sa promesse - car il tient toujours parole. C'est là que se révèle le coeur du grand conflit : peut-on faire confiance à Dieu ? Le sang de Jésus est la nouvelle alliance, et le Décalogue est la révélation du caractère de Dieu, non du légalisme.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "alliance",
+        "caractère de Dieu",
+        "grand conflit",
+        "confiance",
+        "Décalogue",
+        "sang de Jésus"
+      ],
+      "refs": [
+        "Gn 1:26-27",
+        "Gn 9:9-13",
+        "Gn 12:1-3",
+        "Gn 15:17-18",
+        "Gn 3:8-9",
+        "Gn 3:15",
+        "Ex 34:6-7",
+        "Os 11:8-9",
+        "Gn 3:1-5",
+        "Nb 23:19",
+        "Tt 1:2",
+        "Mt 26:27-28",
+        "Jr 31:31-33",
+        "Hé 9:11-15",
+        "Ex 20:1-3",
+        "Dt 5:6-7",
+        "Gn 26:5",
+        "Rm 13:8-10",
+        "1 Jn 5:3"
+      ]
+    },
+    {
+      "id": "a-quoi-servent-les-commandements",
+      "title": "À quoi servent les commandements ?",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 16,
+      "summary": "La Bible distingue la loi morale (le Décalogue - permanent, car il exprime le caractère de Dieu) et la loi cérémonielle de Moïse (qui annonçait le Christ et s'est accomplie en lui). Garder les commandements n'est pas du légalisme, mais une obéissance par amour et dans la puissance de l'Esprit - la relation avant les règles.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "loi",
+        "Décalogue",
+        "loi cérémonielle",
+        "grâce",
+        "obéissance",
+        "Saint-Esprit"
+      ],
+      "refs": [
+        "Mt 5:17-18",
+        "Rm 3:31",
+        "Rm 7:12",
+        "Dt 31:24-26",
+        "Ex 31:18",
+        "Hé 10:1",
+        "Col 2:14-17",
+        "Ép 2:14-16",
+        "Jn 1:29",
+        "Hé 9:9-10",
+        "Hé 7:18-19",
+        "Mt 19:17-19",
+        "Jc 2:10-12",
+        "1 Jn 2:3-4",
+        "Ap 14:12",
+        "Jn 14:15",
+        "Rm 8:3-4",
+        "Ép 2:8-10",
+        "Ga 5:6",
+        "Éz 36:26-27"
+      ]
+    },
+    {
+      "id": "le-sabbat-du-temps-avec-dieu",
+      "title": "Le sabbat - du temps avec Dieu",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 17,
+      "summary": "Le sabbat a été institué dès la création, pour tous les humains, comme mémorial du Créateur et don hebdomadaire de relation et de liberté. Le quatrième commandement, que Jésus lui-même observait, conduit au repos en Christ - ce n'est pas un fardeau, mais un espace de rencontre avec Dieu.",
+      "minutes": {
+        "base": 45,
+        "extended": 70
+      },
+      "tags": [
+        "sabbat",
+        "création",
+        "repos",
+        "Créateur",
+        "quatrième commandement",
+        "liberté"
+      ],
+      "refs": [
+        "Gn 2:1-3",
+        "Mc 2:27-28",
+        "Ex 16:22-26",
+        "Ex 20:8-11",
+        "Éz 20:12",
+        "És 58:13-14",
+        "Ap 14:6-7",
+        "Lc 4:16",
+        "Lc 13:15-16",
+        "Mt 24:20",
+        "Mt 11:28-29",
+        "Hé 4:9-10",
+        "Hé 4:1-3",
+        "Lc 23:54-56",
+        "Ac 17:2"
+      ]
+    },
+    {
+      "id": "jesus-notre-souverain-sacrificateur",
+      "title": "Jésus - notre souverain sacrificateur",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 18,
+      "summary": "Le sanctuaire terrestre était une maquette du plan du salut : ses sacrifices indiquaient Jésus-l'Agneau, et son sacerdoce, son ministère. Aujourd'hui, Jésus est souverain sacrificateur dans le sanctuaire céleste - notre unique médiateur. Le sanctuaire est lié à l'alliance : la loi dans l'arche, la grâce sur le propitiatoire ; nous avons un accès assuré à Dieu.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "sanctuaire",
+        "souverain sacrificateur",
+        "médiateur",
+        "alliance",
+        "plan du salut",
+        "jugement"
+      ],
+      "refs": [
+        "Ex 25:8-9",
+        "Hé 8:5",
+        "Ps 77:14",
+        "Lv 4:27-31",
+        "Jn 1:29",
+        "És 53:5-6",
+        "1 P 1:18-19",
+        "Hé 4:14-16",
+        "Hé 7:25",
+        "1 Jn 2:1",
+        "Hé 8:1-2",
+        "Ex 25:16",
+        "Ex 25:17-22",
+        "Hé 9:11-15",
+        "Hé 10:19-22",
+        "Dn 7:9-10",
+        "Dn 7:13-14",
+        "Hé 9:24"
+      ]
+    },
+    {
+      "id": "les-principes-de-sante-de-dieu",
+      "title": "Les principes de santé de Dieu",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 19,
+      "summary": "Le corps est un don de Dieu et un temple de l'Esprit. Nous comprenons la santé de façon holistique : alimentation, activité physique, repos, eau, soleil, modération et confiance en Dieu, mais aussi les émotions, le pardon, la gratitude, la joie et le service. Les \"zones bleues\" (notamment Loma Linda) montrent que les principes de vie de Dieu favorisent réellement la longévité.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "santé",
+        "corps",
+        "mode de vie",
+        "gratitude",
+        "pardon",
+        "longévité"
+      ],
+      "refs": [
+        "1 Co 6:19-20",
+        "1 Co 10:31",
+        "3 Jn 1:2",
+        "Gn 1:29",
+        "Ex 20:9-10",
+        "1 Co 9:25",
+        "Pr 17:22",
+        "Pr 3:7-8",
+        "1 Th 5:16-18",
+        "Ép 4:31-32",
+        "Mt 6:25-27",
+        "Ac 20:35",
+        "Dt 30:19-20",
+        "Ex 15:26",
+        "1 Tm 4:8"
+      ]
+    },
+    {
+      "id": "les-dons-spirituels-au-service",
+      "title": "Les dons spirituels au service",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 20,
+      "summary": "Dieu équipe chaque croyant pour le service. L'Esprit distribue des dons variés, et un seul corps - l'Église - les réunit en un tout. Chacun est appelé à découvrir et à exercer son don. La Bible donne aussi des critères pour reconnaître un don véritable et un vrai prophète. Le don de guérison rappelle que Dieu agit aujourd'hui - dans le cadre de sa volonté et du mystère de la souffrance. Le but de tous les dons : édifier l'Église.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "dons spirituels",
+        "Saint-Esprit",
+        "service",
+        "un seul corps",
+        "discernement",
+        "guérison"
+      ],
+      "refs": [
+        "1 Co 12:4-7",
+        "1 Co 12:11",
+        "1 P 4:10",
+        "Rm 12:4-8",
+        "1 Co 12:14-20",
+        "1 Co 12:21-26",
+        "Ép 4:11-13",
+        "Mt 25:14-18",
+        "1 Tm 4:14",
+        "2 Tm 1:6-7",
+        "És 8:20",
+        "Mt 7:15-20",
+        "1 Jn 4:1",
+        "Dt 18:21-22",
+        "1 Th 5:19-21",
+        "Jc 5:14-16",
+        "1 Co 12:9-10",
+        "2 Co 12:7-9",
+        "Jn 9:1-3"
+      ]
+    },
+    {
+      "id": "ma-mission-et-mes-talents",
+      "title": "Ma mission et mes talents",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 21,
+      "summary": "Tout appartient à Dieu - je suis gérant, et non propriétaire. La gestion fidèle englobe le temps, les capacités et l'argent (la dîme et les offrandes) et découle de la gratitude, non de la contrainte. De là naît ma mission, personnelle et locale : comment, concrètement, je sers Dieu et les gens dans ma communauté et autour de moi.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "intendance",
+        "gestion",
+        "dîme",
+        "mission",
+        "service",
+        "témoignage"
+      ],
+      "refs": [
+        "Ps 24:1",
+        "1 Co 4:2",
+        "1 Ch 29:14",
+        "Ép 5:15-16",
+        "Mt 25:19-23",
+        "1 P 4:10-11",
+        "Ml 3:8-10",
+        "2 Co 9:6-8",
+        "Mt 6:19-21",
+        "Lc 21:1-4",
+        "Pr 3:9-10",
+        "Mt 28:18-20",
+        "Ac 1:8",
+        "Mt 5:14-16",
+        "Ga 6:9-10",
+        "1 P 3:15",
+        "Jn 1:40-46",
+        "Jn 4:28-30",
+        "Mc 5:19"
+      ]
+    },
+    {
+      "id": "lhistoire-du-monde-dans-la-prophetie",
+      "title": "L'histoire du monde dans la prophétie",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 22,
+      "summary": "Le songe de Nebucadnetsar en Daniel 2 montre que Dieu connaît et dirige le cours de l'histoire : les empires se succèdent et passent, mais son Royaume éternel - la « pierre » - demeure. Une prophétie accomplie devient un fondement solide pour la confiance en la Bible.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "prophétie",
+        "Daniel",
+        "histoire",
+        "royaumes",
+        "Royaume de Dieu",
+        "confiance en la Bible"
+      ],
+      "refs": [
+        "Dn 2:1-3",
+        "Dn 2:27-28",
+        "Dn 2:20-22",
+        "Dn 2:31-33",
+        "Dn 2:36-38",
+        "Dn 2:39-40",
+        "Dn 2:41-43",
+        "Dn 7:17",
+        "És 46:9-10",
+        "Dn 2:34-35",
+        "Dn 2:44-45",
+        "Dn 2:46-47"
+      ]
+    },
+    {
+      "id": "70-semaines-et-2300-jours",
+      "title": "70 semaines et 2300 jours",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 23,
+      "summary": "Les prophéties chiffrées de Daniel - les 70 semaines et les 2300 jours - lues selon le principe jour-année. Les 70 semaines désignent avec précision le Messie (la preuve que Jésus est le Christ), et les 2300 jours conduisent à l'année 1844 et ouvrent le thème de la purification du sanctuaire céleste et du jugement.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "prophétie",
+        "Daniel",
+        "70 semaines",
+        "2300 jours",
+        "Messie",
+        "sanctuaire",
+        "jugement",
+        "1844"
+      ],
+      "refs": [
+        "Dn 8:14",
+        "Éz 4:6",
+        "Nb 14:34",
+        "Dn 9:24",
+        "Dn 9:25",
+        "Dn 9:26",
+        "Dn 9:27",
+        "Mc 1:15",
+        "Ga 4:4",
+        "Dn 8:26-27",
+        "Dn 9:23",
+        "Hé 8:1-2",
+        "Hé 9:23-24"
+      ]
+    },
+    {
+      "id": "les-betes-apocalyptiques-et-lagneau",
+      "title": "Les bêtes apocalyptiques et l'Agneau",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 24,
+      "summary": "Daniel 7 reprend la ligne des empires dans le langage des animaux, et la « petite corne » annonce une puissance religieuse et politique agissant pendant une période de 1260 jours-années (Dn 7:25 ; Ap 12 ; 13). C'est une prophétie sur la domination et la persécution - mais son cœur est l'Agneau, qui triomphe et reçoit le royaume éternel.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "prophétie",
+        "Daniel 7",
+        "Daniel 8",
+        "bêtes",
+        "petite corne",
+        "1260 jours",
+        "Apocalypse",
+        "Agneau",
+        "le grand conflit"
+      ],
+      "refs": [
+        "Dn 7:2-3",
+        "Dn 7:17",
+        "Dn 7:4-6",
+        "Dn 8:3-8",
+        "Dn 8:20-21",
+        "Dn 7:7",
+        "Dn 7:8",
+        "Dn 7:25",
+        "Ap 12:6",
+        "Ap 12:14",
+        "Ap 13:5",
+        "2 Th 2:3-4",
+        "Dn 7:9-10",
+        "Dn 7:13-14",
+        "Dn 7:27",
+        "Ap 5:5-6",
+        "Ap 17:14"
+      ]
+    },
+    {
+      "id": "pourquoi-le-jugement-est-il-une-bonne-nouvelle",
+      "title": "Pourquoi le jugement est-il une bonne nouvelle ?",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 25,
+      "summary": "Le message des trois anges proclame que « l'heure du jugement est venue » - dans le contexte de l'Évangile éternel et de l'appel à adorer le Créateur. Le jugement investigateur de Daniel 7 n'est pas fait pour effrayer : dans le ciel, Jésus est notre Défenseur, et ceux qui croient en lui sont en sécurité.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "jugement",
+        "trois anges",
+        "Évangile",
+        "Créateur",
+        "sabbat",
+        "Babylone",
+        "Jésus Défenseur",
+        "assurance du salut"
+      ],
+      "refs": [
+        "Ap 14:6-7",
+        "Ap 14:7",
+        "Ap 14:8",
+        "Ap 14:12",
+        "Ap 18:4",
+        "Dn 7:9-10",
+        "Dn 7:22",
+        "1 Jn 2:1",
+        "Hé 7:25",
+        "Rm 8:1",
+        "Rm 8:33-34",
+        "Jn 5:24",
+        "Hé 4:14-16"
+      ]
+    },
+    {
+      "id": "leglise-de-dieu-des-derniers-temps",
+      "title": "L'Église de Dieu des derniers temps",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 26,
+      "summary": "La prophétie ne décrit pas seulement les puissances hostiles à Dieu: elle indique aussi où se trouve, dans les derniers temps, son peuple fidèle - un \"reste\" qui garde les commandements, possède le témoignage de Jésus et le don de prophétie, et dont le signe distinctif est une mission mondiale: annoncer le retour du Christ.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Peuple de Dieu",
+        "le reste",
+        "les commandements",
+        "témoignage de Jésus",
+        "don de prophétie",
+        "mission",
+        "Apocalypse"
+      ],
+      "refs": [
+        "Ap 12:17",
+        "Ap 14:12",
+        "1 Jn 2:3-4",
+        "Jn 14:15",
+        "Ap 19:10",
+        "Jl 2:28",
+        "Ap 22:7",
+        "1 Th 5:19-21",
+        "És 8:20",
+        "Ap 14:6",
+        "Mt 24:14",
+        "Ap 18:4",
+        "1 P 2:9",
+        "Ap 14:7"
+      ]
+    },
+    {
+      "id": "le-retour-de-jesus-et-le-millenium",
+      "title": "Le retour de Jésus et le millénium",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 27,
+      "summary": "Un regard approfondi sur le second avènement: il sera visible, audible, glorieux et mondial. Il s'accompagne de la résurrection des justes et de la transformation des vivants, puis de mille ans (le millénium) - les rachetés au ciel, la terre dévastée, Satan lié et le jugement des impies.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "second avènement",
+        "résurrection",
+        "enlèvement",
+        "millénium",
+        "Apocalypse",
+        "espérance"
+      ],
+      "refs": [
+        "Ap 1:7",
+        "Mt 24:27",
+        "Mt 24:30-31",
+        "Ac 1:9-11",
+        "Mt 24:23-26",
+        "1 Th 4:16-17",
+        "1 Co 15:51-52",
+        "1 Co 15:53-54",
+        "Jn 5:28-29",
+        "Tt 2:13",
+        "Ap 20:4-5",
+        "Ap 20:6",
+        "Ap 20:1-3",
+        "Jr 4:23-26",
+        "1 Co 6:2-3",
+        "Ap 20:7-9"
+      ]
+    },
+    {
+      "id": "un-ciel-nouveau-et-une-terre-nouvelle",
+      "title": "Un ciel nouveau et une terre nouvelle",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 28,
+      "summary": "Le final du grand conflit: le péché, la mort et le mal sont anéantis pour toujours, et Dieu crée un nouveau ciel et une nouvelle terre. Sans larmes, sans douleur ni mort, avec l'Éden restauré et une relation éternelle et intime avec Dieu - c'est le but de tout le chemin et une invitation ouverte.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "nouvelle terre",
+        "nouveau ciel",
+        "fin du péché",
+        "fin de la mort",
+        "Éden",
+        "espérance",
+        "invitation"
+      ],
+      "refs": [
+        "Ap 20:10",
+        "Ap 20:14",
+        "1 Co 15:26",
+        "Na 1:9",
+        "Ml 4:1-3",
+        "Ap 21:1",
+        "Ap 21:3-4",
+        "És 65:17",
+        "És 65:21-25",
+        "2 P 3:13",
+        "Ap 22:1-3",
+        "Ap 21:7",
+        "Ap 22:3-4",
+        "Ap 22:17",
+        "Ap 21:6",
+        "1 Co 2:9"
+      ]
+    },
+    {
+      "id": "ta-vraie-valeur",
+      "title": "Ta vraie valeur",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 29,
+      "summary": "D'où vient mon sentiment de valeur personnelle et qui a le droit de me dire qui je suis. Malgré les blessures de l'enfance, les comparaisons et le sentiment d'infériorité, Dieu m'appelle son enfant, créé selon un dessein, aimé et accueilli en Christ.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "l'identité",
+        "la valeur",
+        "enfant de Dieu",
+        "sentiment d'infériorité",
+        "estime de soi",
+        "la grâce"
+      ],
+      "refs": [
+        "Ps 139:13-16",
+        "És 43:1",
+        "És 43:4",
+        "1 S 16:7",
+        "Ga 6:4",
+        "Ps 27:10",
+        "Jn 1:12",
+        "1 Jn 3:1",
+        "Ga 3:26",
+        "Rm 8:15-16",
+        "Lc 15:21-24",
+        "Ép 1:4-5",
+        "Ép 1:6-7",
+        "2 Co 5:17",
+        "1 P 2:9"
+      ]
+    },
+    {
+      "id": "conflits-et-reconciliation",
+      "title": "Conflits et réconciliation",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 30,
+      "summary": "Que faire des blessures, de l'amertume et des conflits entre les personnes. Comment comprendre le pardon (qui n'est pas faire semblant que rien ne s'est passé), comment résoudre les différends à la manière de Dieu et comment ne pas laisser la colère se transformer en amertume.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "relations",
+        "le pardon",
+        "conflit",
+        "la réconciliation",
+        "colère",
+        "l'amertume"
+      ],
+      "refs": [
+        "Ép 4:31",
+        "Hé 12:15",
+        "Gn 4:5-7",
+        "Ép 4:26-27",
+        "Jc 1:19-20",
+        "Pr 15:1",
+        "Ép 4:32",
+        "Col 3:13",
+        "Mt 18:21-22",
+        "Mt 18:23-35",
+        "Mc 11:25",
+        "Mt 18:15",
+        "Mt 18:16-17",
+        "Rm 12:18",
+        "Mt 5:23-24",
+        "Rm 12:19-21"
+      ]
+    },
+    {
+      "id": "la-paix-qui-surpasse-toute-intelligence",
+      "title": "La paix qui surpasse toute intelligence",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 31,
+      "summary": "Ce que l'Écriture dit du souci, de la peur et de la surcharge - et comment naît une paix qui « surpasse toute intelligence ». Il ne s'agit pas d'étouffer ses émotions, mais de transférer son fardeau sur Dieu, qui connaît nos besoins et est tout proche.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "la peur",
+        "stress",
+        "souci",
+        "la paix",
+        "confiance",
+        "prière"
+      ],
+      "refs": [
+        "Mt 6:25-27",
+        "Mt 6:31-32",
+        "Mt 6:33-34",
+        "Ps 94:19",
+        "1 P 5:7",
+        "Ps 55:23",
+        "Mt 11:28-30",
+        "Ps 46:2-3",
+        "Ph 4:6",
+        "Ph 4:7",
+        "Jn 14:27",
+        "Ph 4:8-9",
+        "És 41:10",
+        "És 43:2",
+        "Ps 23:4",
+        "Jos 1:9"
+      ]
+    },
+    {
+      "id": "lesperance-dans-la-tristesse-et-la-solitude",
+      "title": "L'espérance dans la tristesse et la solitude",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 32,
+      "summary": "Pour les jours où c'est lourd, vide ou sombre. L'Écriture n'a honte ni de la tristesse ni de la solitude - elle montre un Dieu qui est tout proche de ceux qui ont le cœur brisé, et des hommes de foi qui ont traversé des creux. Au sujet de l'espérance, de la communauté, et du fait que demander de l'aide n'est pas un manque de foi.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "la solitude",
+        "la tristesse",
+        "la dépression",
+        "espérance",
+        "soutien",
+        "la communauté"
+      ],
+      "refs": [
+        "Ps 42:4-6",
+        "Ps 42:11",
+        "Ps 88:2-4",
+        "Ec 3:4",
+        "Ps 34:19",
+        "Ps 147:3",
+        "Mt 5:4",
+        "És 53:3-4",
+        "Ps 56:9",
+        "1 R 19:3-5",
+        "1 R 19:5-8",
+        "1 R 19:9-13",
+        "1 R 19:15-18",
+        "Mt 11:28-30",
+        "Ga 6:2",
+        "Ec 4:9-10",
+        "Rm 12:15",
+        "Ps 40:2-4"
+      ]
+    },
+    {
+      "id": "la-joie-au-dela-des-circonstances",
+      "title": "La joie au-delà des circonstances",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 33,
+      "summary": "Sur la joie qui ne dépend pas des circonstances, sur l'action de grâces « en toute situation » et sur l'endroit où chercher le sens de la vie. La gratitude et la joie dans le Seigneur ne sont pas un optimisme naïf - ce sont des attitudes qui transforment réellement le cœur et donnent une direction au quotidien.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "gratitude",
+        "joie",
+        "sens",
+        "action de grâces",
+        "but de la vie",
+        "Dieu"
+      ],
+      "refs": [
+        "Ph 4:4",
+        "Né 8:10",
+        "Ps 16:11",
+        "Ga 5:22",
+        "1 Th 5:16-18",
+        "Ps 103:1-2",
+        "Ps 103:3-5",
+        "Ps 100:4-5",
+        "Lc 17:15-18",
+        "Ph 4:8",
+        "Col 3:15-17",
+        "Ps 107:1-2",
+        "Mt 6:33",
+        "Ec 12:13",
+        "Jn 10:10",
+        "Ép 2:10",
+        "1 Co 10:31"
+      ]
+    },
+    {
+      "id": "la-liberte-dans-les-choix-quotidiens",
+      "title": "La liberté dans les choix quotidiens",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 34,
+      "summary": "Qu'est-ce que la vraie liberté - non pas « fais ce qu'il te plaît », mais la libération de ce qui asservit : les dépendances, le pouvoir de l'argent, la pression et la contrainte du péché. Comment le Christ libère, comment se maîtriser soi-même comme fruit de l'Esprit, et comment faire ses choix quotidiens (argent, travail) en homme libre.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "liberté",
+        "dépendances",
+        "argent",
+        "travail",
+        "maîtrise de soi",
+        "fruit de l'Esprit"
+      ],
+      "refs": [
+        "Jn 8:34",
+        "Jn 8:32",
+        "Jn 8:36",
+        "Ga 5:1",
+        "Rm 6:11-12",
+        "Rm 6:13-14",
+        "1 Co 10:13",
+        "1 Co 6:12",
+        "Jc 1:14-15",
+        "Mt 6:24",
+        "1 Tm 6:9-10",
+        "1 Tm 6:6-8",
+        "Hé 13:5",
+        "Lc 12:15",
+        "Col 3:23-24",
+        "Ga 5:22-23",
+        "Ga 5:16",
+        "1 Co 10:31",
+        "Pr 25:28"
+      ]
+    },
+    {
+      "id": "comment-discerner-la-volonte-de-dieu",
+      "title": "Comment discerner la volonté de Dieu ?",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 35,
+      "summary": "Comment prendre des décisions et discerner la direction de Dieu - sans la magie des « signes » et sans la paralysie de la peur. Sur la confiance, l'esprit renouvelé, le rôle de la Parole, de la prière, des circonstances et de la communauté, et sur le fait que la disposition à obéir ouvre la connaissance de la volonté de Dieu.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "volonté de Dieu",
+        "direction",
+        "décisions",
+        "confiance",
+        "sagesse",
+        "discernement"
+      ],
+      "refs": [
+        "Pr 3:5-6",
+        "Ps 32:8",
+        "Ps 37:5",
+        "Jr 29:11-13",
+        "Rm 12:2",
+        "Rm 12:1",
+        "Hé 5:14",
+        "Ép 5:17",
+        "Jn 7:17",
+        "Lc 22:42",
+        "Ps 25:9",
+        "Jc 1:5",
+        "Ps 119:105",
+        "Ph 4:6-7",
+        "Pr 15:22",
+        "Pr 16:9",
+        "És 30:21",
+        "Ps 143:8, 10"
+      ]
+    }
+  ]
+}

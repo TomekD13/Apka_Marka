@@ -1,0 +1,508 @@
+{
+  "id": "de-onde-vem-o-mal-e-o-sofrimento",
+  "lang": "pt",
+  "title": "De onde vêm o mal e o sofrimento?",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 3,
+  "summary": "Se Deus é bom e todo-poderoso, de onde vem o mal? A Bíblia responde não com filosofia, mas com a história do grande conflito: um mundo criado bom, o amor que exige liberdade, a rebelião no céu, a queda do ser humano - e um Deus que não é o autor do mal, mas Aquele que o resolve na cruz.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "mal",
+    "sofrimento",
+    "o grande conflito",
+    "liberdade",
+    "satanás",
+    "queda",
+    "esperança"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Um mundo que saiu bom das mãos de Deus",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Gen.1.31",
+              "ref": "Gn 1:31"
+            }
+          ],
+          "comment": "O mundo original não era uma \"mistura de bem e mal\". Deus avaliou toda a criação como \"muito boa\" - o mal não fazia parte do projeto original.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Se o mundo começou como \"muito bom\", o que demonstra o fato de que hoje ele não é assim?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"muito bom\" (Gn 1:31)",
+          "content": "Em Gn 1, a palavra \"bom\" (hebraico *tow*) retorna como um refrão - seis vezes ao longo da criação, e no fim a culminância: \"muito bom\" (*tow me'od*). Não é apenas uma avaliação estética, mas um testemunho de que o todo estava de acordo com o propósito e livre do mal. O mal não é uma \"falta de acabamento\" do mundo, mas um intruso posterior.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "טוֹב מְאֹד",
+              "translit": "tow me'od"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "1John.1.5",
+              "ref": "1 Jo 1:5"
+            }
+          ],
+          "comment": "\"Deus é luz e nele não há treva nenhuma.\" O mal não pode ser atribuído a Deus - Nele não está a sua origem.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "O que muda na imagem de Deus a convicção de que Nele não há um \"lado obscuro\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "isto não é um dualismo eterno entre bem e mal",
+          "content": "A imagem bíblica difere do dualismo (por exemplo, o persa ou o gnóstico), em que bem e mal são duas forças eternas e equivalentes. Aqui o mal não é um anti-deus eterno: surgiu no tempo, dentro de um bem criado que se corrompeu - e por isso pode ter um fim. A luz é original; a treva é a sua ausência, não uma rival eterna."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "1John.4.8",
+              "ref": "1 Jo 4:8"
+            }
+          ],
+          "comment": "Deus \"é amor\". E o amor, por definição, não pode ser forçado - essa é a chave para entender por que a possibilidade do mal sequer existiu.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Por que um amor que fosse programado ou obrigatório não seria, de modo algum, amor?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "O amor exige liberdade",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Deut.30.19",
+              "ref": "Dt 30:19"
+            }
+          ],
+          "comment": "Deus coloca diante do ser humano uma escolha real: a vida ou a morte - e diz \"escolhe\". A liberdade de escolha é um dom, mas traz um risco.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Por que um relacionamento verdadeiro precisa pressupor a possibilidade de dizer \"não\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Josh.24.15",
+              "ref": "Js 24:15"
+            }
+          ],
+          "comment": "\"Escolhei hoje a quem haveis de servir.\" Deus nunca obriga a vir a Ele - Ele convida. O mesmo risco que dá origem ao amor também permite a rebelião.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "O que diz sobre Deus o fato de Ele preferir o risco do amor livre à certeza de uma obediência forçada?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "sobre o que se trata o grande conflito",
+          "content": "A disputa não é sobre \"quem é mais forte\", mas sobre o caráter de Deus, a Sua lei e o Seu governo sobre o universo. Satanás acusa o governo de Deus de ser injusto e afirma que a obediência por amor é impossível. Por isso Deus não encerra a disputa pela força de imediato: Ele permite que o mal se desmascare a si mesmo diante de todo o universo, em vez de \"decretar\" que tem razão.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Por que a disputa \"sobre o caráter de Deus\" exige tempo e prova, e não simplesmente uma sentença pela força?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Rev.3.20",
+              "ref": "Ap 3:20"
+            }
+          ],
+          "comment": "Deus \"está à porta e bate\" - espera que abramos por dentro. Ele nunca arromba a porta do coração humano.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Como muda a imagem de Deus o fato de Ele bater, em vez de entrar pela força?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "A rebelião que começou no céu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Rev.12.7-9",
+              "ref": "Ap 12:7-9"
+            }
+          ],
+          "comment": "O mal tem o seu início numa rebelião real: \"houve guerra no céu\", e satanás (um antigo anjo) é lançado fora. Por trás do mal está uma pessoa, não uma abstração.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "O que muda a consciência de que, por trás das lutas humanas, se desenrola um conflito maior do qual fazemos parte?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Isa.14.12-14",
+              "ref": "Is 14:12-14"
+            }
+          ],
+          "comment": "Sob a imagem do rei caído da Babilônia transparece uma queda mais profunda: cinco vezes \"subirei... serei semelhante ao Altíssimo\". A raiz da rebelião é o orgulho e o desejo de ocupar o lugar de Deus.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Como \"quero ser como Deus / no lugar de Deus\" continua sendo, até hoje, a raiz do mal também no coração humano?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "de onde veio o nome \"Lúcifer\" (Is 14:12)",
+          "content": "O hebraico *helel ben-szachar* significa \"o resplandecente, filho da aurora\" (a estrela da manhã). A Vulgata latina traduziu isso pela palavra *Lucifer* - \"portador de luz\". Daí, na tradição, o nome \"Lúcifer\" para designar o ser que está por trás da rebelião. O próprio texto mostra uma ironia trágica: alguém criado para refletir a luz quis ocupar o lugar da Fonte da luz.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "הֵילֵל בֶּן־שָׁחַר",
+              "translit": "helel ben-szachar"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Ezek.28.12-17",
+              "ref": "Ez 28:12-17"
+            }
+          ],
+          "comment": "Por trás do \"rei de Tiro\" vê-se um ser criado \"perfeito\", no qual \"se achou iniquidade\". O mal não é eterno - surgiu em alguém bom, que o escolheu.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "O que significa que o mal não existia \"desde sempre\", mas surgiu no coração de um ser originalmente bom?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "a dupla perspectiva de Is 14 e Ez 28",
+          "content": "Is 14 (o rei da Babilônia) e Ez 28 (o rei de Tiro) são, de forma direta, discursos contra soberanos terrenos. Ao mesmo tempo, a linguagem desses textos (um ser \"perfeito desde o dia da criação\", a presença \"no santo monte de Deus\", o desejo de igualdade com o Altíssimo) ultrapassa as possibilidades humanas e é tradicionalmente lida como o desvelar do poder que está por trás do orgulho desses reis. Vale a pena preservar os dois níveis - o histórico e o supra-histórico - sem perder nenhum."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "um querubim criado sem pecado (Ez 28:15)",
+          "content": "O texto diz claramente: \"foste perfeito nos teus caminhos, desde o dia em que foste criado, até que se achou iniquidade em ti\". Isso é fundamental para entender a origem do mal: ele não foi criado por Deus nem existia desde a eternidade - surgiu num ser originalmente bom, como um abuso da liberdade. O mal é um \"parasita\" sobre o bem, não uma matéria à parte."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "John.8.44",
+              "ref": "Jo 8:44"
+            }
+          ],
+          "comment": "Jesus chama o diabo de \"pai da mentira\" e \"homicida desde o princípio\". A primeira arma da rebelião é uma imagem distorcida de Deus - a mentira sobre o Seu caráter.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Quais \"mentiras sobre Deus\" (de que Ele é severo, distante, malévolo) é mais fácil semear em nós hoje?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"satanás\" e \"diabo\": acusador e caluniador",
+          "content": "O hebraico *satan* significa \"adversário, acusador\" (o papel do acusador num tribunal, por exemplo, Jó 1-2; Zc 3:1). O grego *diabolos* é \"caluniador, o que lança falsas acusações\". Ambos os nomes revelam a estratégia: não tanto a força, quanto a mentira e a acusação - de Deus diante do ser humano e do ser humano diante de Deus. Por isso é boa notícia que temos um Defensor.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "שָׂטָן",
+              "translit": "satan"
+            },
+            {
+              "lang": "grc",
+              "text": "διάβολος",
+              "translit": "diabolos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "A queda do ser humano e o grande conflito como moldura da história",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Gen.3.1-6",
+              "ref": "Gn 3:1-6"
+            }
+          ],
+          "comment": "A serpente não começa por uma ordem, mas por uma pergunta que põe em dúvida a palavra e a bondade de Deus: \"É assim que Deus disse...\". A queda é, antes de tudo, a perda da confiança.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "O que, na verdade, \"quebrou\" primeiro no ser humano: a obediência ou a confiança na bondade de Deus?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Gen.3.15",
+              "ref": "Gn 3:15"
+            }
+          ],
+          "comment": "Já no momento da queda surge a primeira promessa: \"a semente da mulher\" esmagará a cabeça da serpente. O grande conflito tem, de antemão, a sua resolução anunciada.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "O que significa para você que a esperança aparece exatamente ali onde apareceu o mal?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "Gn 3:15 como \"protoevangelho\"",
+          "content": "O versículo costuma ser chamado de *protoevangelium* - o \"primeiro Evangelho\". É o anúncio mais antigo da Bíblia de que o descendente da mulher vencerá a serpente, ainda que ele mesmo seja ferido (\"este te ferirá a cabeça, e tu lhe ferirás o calcanhar\"). Toda a história subsequente da salvação é o desdobramento dessa única promessa, dada logo após a queda."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Rom.5.12",
+              "ref": "Rm 5:12"
+            }
+          ],
+          "comment": "Por um só homem o pecado e a morte entraram no mundo. O sofrimento e a morte são consequência da separação do Doador da vida, não o propósito original de Deus.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Como muda o olhar sobre o sofrimento a consciência de que ele é um \"intruso\", e não algo que Deus planejou?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "o grande conflito como moldura de toda a Bíblia",
+          "content": "A resposta bíblica ao mal não é filosófica, mas narrativa: toda a história se desenrola como um conflito entre Cristo e satanás - uma disputa sobre se Deus é justo e cheio de amor. A moldura abrange Gn 3 (a mentira semeada) e Ap 20-22 (a purificação final). Essa perspectiva une os textos isolados numa só narrativa e explica por que Deus tolera o mal temporariamente."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Job.1.8-12",
+              "ref": "Jó 1:8-12"
+            }
+          ],
+          "comment": "O livro de Jó levanta o véu: o sofrimento do justo não vem de Deus, mas do acusador. É Deus quem é acusado - e não o autor da desgraça.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Como o fato de que, por trás do sofrimento de Jó, está satanás, e não Deus, muda a pergunta \"por que Deus me fez isso\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "a \"corte\" celestial no livro de Jó",
+          "content": "Jó 1-2 mostra uma cena em que os \"filhos de Deus\" (seres celestiais) se apresentam diante de Deus, e entre eles aparece o acusador. É um raro olhar para os \"bastidores\": o sofrimento humano é inserido numa disputa em curso, na qual está em jogo se o ser humano serve a Deus por amor ou apenas por interesse. O leitor sabe o que Jó não sabe - por isso não se deve ler o seu sofrimento como um castigo de Deus."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Rev.12.17",
+              "ref": "Ap 12:17"
+            }
+          ],
+          "comment": "O conflito continua até hoje: o dragão \"irou-se\" e move guerra contra os que se mantêm fiéis a Deus. As nossas lutas têm sentido nessa história maior.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "O que traz a consciência de que as suas batalhas pessoais não são um acaso, mas parte de um conflito em curso?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "O sofrimento é passageiro, o mal tem um fim",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Rev.21.4",
+              "ref": "Ap 21:4"
+            }
+          ],
+          "comment": "O desfecho da história não é um conflito eterno, mas um mundo sem lágrimas, sem morte e sem dor: \"as primeiras coisas já passaram\". O mal é um episódio, não a última palavra.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "O que significaria para você uma vida em que \"já não há\" a dor que você experimenta hoje?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Rom.8.18",
+              "ref": "Rm 8:18"
+            }
+          ],
+          "comment": "Paulo não minimiza os sofrimentos, mas os pesa: eles são \"incomparáveis\" com a glória que há de ser revelada. O mal presente é real, mas passageiro.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Como a esperança num futuro que \"pesa mais\" ajuda a atravessar aquilo que é difícil agora?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Nah.1.9",
+              "ref": "Na 1:9"
+            }
+          ],
+          "comment": "A promessa é firme: \"a angústia não se levantará uma segunda vez\". Deus resolverá o problema do mal de modo tão completo que ele nunca mais se repetirá.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Por que é importante que Deus não apenas \"detenha\" o mal, mas remova a sua origem para sempre?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n11",
+          "noteType": "background",
+          "label": "por que o mal não voltará \"uma segunda vez\" (Na 1:9)",
+          "content": "Já que o mal uma vez surgiu num mundo perfeito, nasce a pergunta: pode ele irromper de novo? A resposta do grande conflito é: não. Deus não destrói o mal de imediato justamente para revelar a sua natureza diante de todo o universo - de modo tão completo que, quando a disputa terminar, ninguém jamais quererá repeti-lo. O universo será para sempre seguro não pela coação, mas pela prova."
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "O mal não vem de Deus e não fazia parte do Seu mundo. Surgiu ali onde a liberdade - necessária para que o amor fosse verdadeiro - foi usada contra Deus, primeiro no céu, depois na terra. Vivemos em meio ao grande conflito, mas não sem esperança: Deus não é o autor do sofrimento, mas Aquele que Ele mesmo entrou nele na cruz e prometeu um fim definitivo do mal. O seu sofrimento é real - mas não é a última palavra.",
+    "challenge": "Pense num sofrimento concreto (seu ou de alguém próximo) que o leva a perguntar \"onde está Deus?\". Em vez de atribuí-lo a Deus como culpado, leve-o a Deus como Aliado na luta - expresse isso diretamente em oração. Anote uma frase que você gostaria de ouvir de Deus nesse assunto, e contraste-a com a promessa de Ap 21:4."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "PT translation of PL study skad-zlo-i-cierpienie"
+  }
+}

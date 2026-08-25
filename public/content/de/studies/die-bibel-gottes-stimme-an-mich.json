@@ -1,0 +1,462 @@
+{
+  "id": "die-bibel-gottes-stimme-an-mich",
+  "lang": "de",
+  "title": "Die Bibel - Gottes Stimme an mich",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 9,
+  "summary": "Die Bibel ist das inspirierte Wort Gottes - ein Brief vom Freund und keine Sammlung menschlicher Meinungen. Wir erkennen, woher ihre Autorität stammt (sola scriptura), lernen einfache Grundsätze für das eigenständige Lesen und entdecken, womit man am besten beginnt. Die PRO-Ebene beantwortet die Frage nach Schrift und Tradition sowie nach dem Kanon.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "Bibel",
+    "Wort Gottes",
+    "Inspiration",
+    "sola scriptura",
+    "Lesen der Schrift"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Woher die Bibel ihre Autorität hat",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "2Tim.3.16-17",
+              "ref": "2Tim 3,16-17"
+            }
+          ],
+          "comment": "„Die ganze Schrift ist von Gott eingegeben\" - sie stammt von ihm und ist nützlich, damit der Mensch „zu jedem guten Werk geschickt\" sei. Die Autorität der Bibel entspringt weder ihrem Alter noch menschlichen Beschlüssen, sondern der Tatsache, dass Gott hinter ihr steht.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Was verändert in der Art, wie du die Bibel liest, der Gedanke, dass dies ein Wort von Gott ist und nicht nur menschliche Weisheit?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "„eingegeben\" heißt „von Gott gehaucht\" (2Tim 3,16)",
+          "content": "Das griechische *theopneustos* bedeutet wörtlich „von Gott gehaucht\" (*theos* - Gott, *pneo* - hauchen, wehen). Die Schrift ist nicht „inspiriert\" im Sinne dichterischer Begeisterung - sie stammt aus Gottes Hauch, demselben, der dem Menschen Leben gab (1Mose 2,7). Das ist das Fundament ihrer Autorität: Hinter den Worten steht der Atem Gottes.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "θεόπνευστος",
+              "translit": "theopneustos"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Wie beeinflusst das Verständnis der Schrift als „von Gott gehaucht\" dein Vertrauen in das, was du liest?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "2Pet.1.20-21",
+              "ref": "2Petr 1,20-21"
+            }
+          ],
+          "comment": "Die Prophetie entstand nicht aus menschlichem Willen - „getrieben vom Heiligen Geist haben Menschen von Gott geredet\". Gott bediente sich der Menschen, aber er ist der erste Urheber.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Wie verstehst du es, dass die Bibel menschliche Verfasser hat und zugleich einen Urheber - Gott?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "Verfasser, „getrieben\" vom Geist (2Petr 1,21)",
+          "content": "Hier wird das Verb *phero* („tragen\") im Passiv verwendet: Menschen „wurden getragen\" vom Heiligen Geist. Dasselbe Wort wird in Apg 27,15.17 für ein Schiff gebraucht, das vom Wind getrieben wird. Das Bild ist ausgewogen: Die biblischen Verfasser waren keine passiven Diktiermaschinen, sondern der Geist „trug\" sie in die richtige Richtung und bewahrte dabei ihre Persönlichkeit, ihren Stil und ihre Sprache.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "φερόμενοι",
+              "translit": "pheromenoi"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Heb.4.12",
+              "ref": "Hebr 4,12"
+            }
+          ],
+          "comment": "Das Wort Gottes ist „lebendig und kräftig\" - kein toter Text aus der Vergangenheit, sondern etwas, das das Herz erreicht und verwandelt. Die Bibel liest uns ebenso, wie wir sie lesen.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Hast du schon erlebt, dass dich ein Abschnitt der Bibel persönlich „getroffen\" hat? Was war es?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "„schärfer als ein zweischneidiges Schwert\" (Hebr 4,12)",
+          "content": "Das Wort Gottes wird mit der *machaira* verglichen - einem kurzen, scharfen Schwert - und zwar einem „zweischneidigen\" (gr. *distomos*, wörtlich „zweimündig\"). Das Bild ist keine Drohung, sondern Präzision: Das Wort dringt tiefer ein als jede Klinge, „bis es scheidet Seele und Geist\", und legt die wahren Gedanken und Absichten des Herzens bloß. Darum ist das Lesen der Bibel nicht neutral - es durchleuchtet uns.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μάχαιρα",
+              "translit": "machaira"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Die Schrift als höchste Autorität (sola scriptura)",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Isa.8.20",
+              "ref": "Jes 8,20"
+            }
+          ],
+          "comment": "„Zur Weisung und zum Zeugnis!\" - alles, was in Glaubensfragen Autorität beansprucht, muss an der Schrift geprüft werden. Das ist der biblische Grundsatz, den man später *sola scriptura* nannte: Die Schrift ist der höchste Maßstab.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Warum braucht es einen festen Bezugspunkt (einen „Maßstab\") in Glaubensfragen?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "Schrift und Tradition",
+          "content": "Eine heikle Frage: Braucht es neben der Bibel eine gleichrangige Tradition als Glaubensquelle? Die Bibel stellt durchgängig die Schrift als höchste Autorität dar (*sola scriptura*). Jesus stellt in Mk 7,7-9 ausdrücklich das „Gebot Gottes\" der menschlichen „Tradition\" gegenüber und wirft vor, dass man „das Gebot Gottes verwerfen\" könne, „um die Tradition zu halten\". Jes 8,20 setzt den Maßstab. Die kirchliche Tradition hat historischen und ordnenden Wert, kann aber nicht über der Schrift stehen oder sie korrigieren. Die Kritik betrifft den Grundsatz und die Lehre, nie konkrete Menschen.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Wo verläuft die Grenze zwischen einer hilfreichen Tradition (z. B. der Gewohnheit, morgens die Bibel zu lesen) und einer Tradition, die anfängt, das Wort zu ersetzen?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Acts.17.11",
+              "ref": "Apg 17,11"
+            }
+          ],
+          "comment": "Die Einwohner von Beröa hörten Paulus zu und „forschten dennoch täglich in der Schrift, ob es sich so verhielte\". Die Bibel lobt jene, die eine Lehre - sogar die apostolische - im Licht des Wortes prüfen.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Was bedeutet „in der Schrift forschen\", statt einfach jedem zu glauben, der im Namen Gottes spricht?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "Die Beröer „prüften\" die Schrift (Apg 17,11)",
+          "content": "Das verwendete Verb *anakrino* ist ein juristischer Begriff: „verhören, Beweise prüfen, untersuchen\". Lukas nennt die Beröer gerade deshalb „edler\", weil sie die Lehre des Apostels an der Schrift prüften - nicht aus Mangel an Respekt, sondern aus Respekt vor dem Wort als höchster Instanz. Ein Vorbild reifen Glaubens: nicht Leichtgläubigkeit und nicht Misstrauen, sondern Prüfung an der Schrift.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἀνακρίνω",
+              "translit": "anakrino"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "John.17.17",
+              "ref": "Joh 17,17"
+            }
+          ],
+          "comment": "Jesus betet: „Dein Wort ist die Wahrheit\". Die Schrift bestimmt, was Wahrheit ist, und sie ist es, die heiligt - die das Leben des Gläubigen formt.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Wodurch unterscheidet sich der Umgang mit der Bibel als „Wahrheit\" von dem Umgang mit ihr als einer von vielen Meinungen?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Ps.119.105",
+              "ref": "Ps 119,105"
+            }
+          ],
+          "comment": "„Dein Wort ist meines Fußes Leuchte\" - die Bibel erhellt den nächsten Schritt und den ganzen Weg. Sie ist ein praktischer Wegweiser für Entscheidungen, nicht nur eine Sammlung von Lehren.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "In welchem Lebensbereich brauchst du gerade jetzt am meisten das „Licht\" des Wortes Gottes?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Wie man die Bibel selbst liest",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Ps.119.18",
+              "ref": "Ps 119,18"
+            }
+          ],
+          "comment": "Bevor wir zu lesen beginnen, lohnt es sich zu beten: „Öffne mir die Augen, dass ich sehe die Wunder deines Gesetzes\". Derselbe Geist, der die Schrift eingegeben hat, hilft, sie zu verstehen.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Was würde sich ändern, wenn du jedes Bibellesen mit einer kurzen Bitte um Verständnis beginnen würdest?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Luke.24.27",
+              "ref": "Lk 24,27"
+            }
+          ],
+          "comment": "Jesus „legte ihnen aus, was in allen Schriften von ihm gesagt war\". Die ganze Bibel hat ihre Mitte in Christus - wir lesen sie, um ihm zu begegnen, und nicht nur, um Informationen zu sammeln. Lesen unter Beachtung des Zusammenhangs schützt davor, Sätze aus dem Ganzen zu reißen.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Wie könnte der Gedanke, dass die „Mitte\" der Bibel Jesus ist, die Art verändern, wie du sie liest?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "die ganze Bibel führt zu Christus (Lk 24,27)",
+          "content": "Auf dem Weg nach Emmaus zeigte Jesus, „bei Mose anfangend und bei allen Propheten\", dass die Schrift von ihm redet. Das gibt einen Schlüssel zum Lesen des Ganzen: Das Alte Testament kündigt an, das Neue erfüllt. Darum lohnt es sich, schwierigere Abschnitte mit der Frage zu lesen „wie weist das auf Jesus und sein Werk hin?\" - statt in ihnen losgelöste Regeln zu suchen. Christus ist die Linse, die den Sinn der ganzen Schrift bündelt."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "2Pet.1.20",
+              "ref": "2Petr 1,20"
+            }
+          ],
+          "comment": "„Keine Weissagung der Schrift unterliegt eigenmächtiger Auslegung\". Die Schrift erklärt sich selbst - klare Abschnitte helfen, schwierigere zu verstehen, und kein Vers bedeutet das, was uns gerade passt.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Warum ist es riskant, Überzeugungen auf einen einzigen, aus dem Zusammenhang gerissenen Vers zu bauen?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Isa.28.10",
+              "ref": "Jes 28,10"
+            }
+          ],
+          "comment": "„Gebot auf Gebot... ein wenig hier, ein wenig da\" - die Bibel erschließen wir, indem wir ihre Abschnitte miteinander zusammenstellen. Das vollständige Bild einer Wahrheit entsteht aus der ganzen Schrift, nicht aus einer einzelnen Stelle.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Wie schützt das Vergleichen verschiedener Abschnitte zum selben Thema vor einem falschen Schluss?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Jas.1.22",
+              "ref": "Jak 1,22"
+            }
+          ],
+          "comment": "„Seid Täter des Wortes und nicht nur Hörer\". Das Lesen der Bibel soll zum Leben nach ihr führen, nicht zum Anhäufen von Wissen. Der Gehorsam ist nicht die Bedingung dafür, von Gott angenommen zu werden, sondern die Frucht der Beziehung zu ihm.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Was hast du zuletzt in der Bibel gelesen, das eher nach „Tun\" als nach „Merken\" verlangt?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Tägliche Nahrung und womit man beginnt",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Matt.4.4",
+              "ref": "Mt 4,4"
+            }
+          ],
+          "comment": "„Der Mensch lebt nicht vom Brot allein, sondern von jedem Wort, das aus dem Mund Gottes kommt\". Das Wort Gottes ist Nahrung - täglich nötig, nicht nur an Feiertagen.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Wie sähe dein Tag aus, wenn das Wort Gottes so regelmäßig wäre wie eine Mahlzeit?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "John.20.30-31",
+              "ref": "Joh 20,30-31"
+            }
+          ],
+          "comment": "Das Johannesevangelium sagt selbst, wozu es geschrieben wurde: „damit ihr glaubt, dass Jesus der Christus ist... und damit ihr durch den Glauben das Leben habt\". Das ist ein natürlicher Ausgangspunkt für das eigenständige Lesen - es führt direkt zu Jesus.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Warum kann gerade die Lebensgeschichte Jesu ein guter Anfang sein, um Gott kennenzulernen?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Josh.1.8",
+              "ref": "Jos 1,8"
+            }
+          ],
+          "comment": "Gott rät Josua, das Wort „Tag und Nacht\" zu betrachten - es geht nicht um die Menge, sondern um das beständige Zurückkehren und Nachsinnen. Die Frucht ist Weisheit und Gelingen auf dem Lebensweg.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Wodurch unterscheidet sich das „Betrachten\" des Wortes von einem einmaligen Durchlesen und Beiseitelegen?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "„betrachten\" heißt „flüstern\" (Jos 1,8; Ps 1,2)",
+          "content": "Das hebräische *haga*, übersetzt als „betrachten, nachsinnen\", bedeutet wörtlich „murmeln, flüstern, vor sich hin brummen\". In der Antike las und betrachtete man die Schrift laut, indem man die Worte halblaut wiederholte. Das „Nachsinnen über das Gesetz Tag und Nacht\" ist also kein abstraktes Denken, sondern ein Zurückkehren zum Text, ein Auskosten und Wiederholen - bis er in Gedächtnis und Herz eingeht.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "הָגָה",
+              "translit": "haga"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "Kanon und Deuterokanon",
+          "content": "„Kanon\" (gr. *kanon* - „Maß, Regel\") ist die Liste der als inspiriert anerkannten Bücher. Der hebräische Kanon des Alten Testaments (vom Protestantismus übernommen) enthält nicht die sogenannten deuterokanonischen Bücher (von Protestanten: Apokryphen) - etwa Tobit, Judit, Weisheit, Sirach, 1-2 Makkabäer -, die in der griechischen Septuaginta und im römisch-katholischen Kanon vorhanden sind. Jesus und die Apostel zitieren reichlich aus den hebräischen Schriften, ohne sich auf den Deuterokanon als „Schrift\" zu berufen. Daher nehmen wir einen Kanon von 66 Büchern an. Das ist eine historische Frage - wir stellen sie sachlich dar, ohne Menschen anderer Konfessionen herabzuwürdigen.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "κανών",
+              "translit": "kanon"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Ps.1.1-3",
+              "ref": "Ps 1,1-3"
+            }
+          ],
+          "comment": "Der Mensch, der „über dem Gesetz des Herrn nachsinnt\", ist wie ein Baum am Wasserbach - verwurzelt, fruchtbar, beständig. Der regelmäßige Kontakt mit dem Wort gibt dem Leben Stabilität.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Was in deinem Leben würde am meisten von einer solchen „Verwurzelung\" im Wort profitieren?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Die Bibel ist keine Sammlung alter Meinungen und kein religiöses Lehrbuch, das man bestehen muss. Sie ist das inspirierte Wort Gottes - ein Brief vom Freund, der gekannt werden will. Ihre Autorität entspringt Gott, darum ist sie der höchste Maßstab des Glaubens (sola scriptura). Lies sie mit Gebet, mit Achtsamkeit auf den Zusammenhang, und lass die Schrift die Schrift erklären - und behandle sie wie tägliche Nahrung. Du musst nicht „am Anfang\" beginnen: Das Johannesevangelium ist der einfachste Weg, Jesus zu begegnen.",
+    "challenge": "Lies in der kommenden Woche jeden Tag ein Kapitel des Johannesevangeliums. Beginne jedes Lesen mit einem kurzen Gebet in den Worten von Ps 119,18 („Öffne mir die Augen...\"), und schreibe nach dem Lesen einen Satz auf: Was du heute über Jesus erfahren hast und was du damit tun willst."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "DE translation of PL study biblia"
+  }
+}

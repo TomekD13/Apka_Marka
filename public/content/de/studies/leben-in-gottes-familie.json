@@ -1,0 +1,496 @@
+{
+  "id": "leben-in-gottes-familie",
+  "lang": "de",
+  "title": "Leben in Gottes Familie",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 13,
+  "summary": "Die Gemeinde ist kein Gebäude, sondern eine Familie und der Leib Christi - ein Ort der Gemeinschaft, der Unterstützung und des Wachstums. Wir lernen den Sinn der Zugehörigkeit kennen, die Einheit, die sich im Gehorsam gegenüber Christus als dem Haupt ausdrückt, und das Abendmahl als Gedächtnis des Opfers, mit dem Brauch der Fußwaschung. Zusatzebenen: das Erkennen des Willens Gottes sowie das Abendmahl als Gedächtnis im Verhältnis zu Messe und Transsubstantiation.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "die Gemeinde",
+    "die Gemeinschaft",
+    "der Leib Christi",
+    "das Abendmahl",
+    "Führung"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Die Gemeinde ist eine Familie, kein Gebäude",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Eph.2.19",
+              "ref": "Eph 2,19"
+            }
+          ],
+          "comment": "Die Gläubigen sind \"Hausgenossen Gottes\" - keine Gäste und keine Fremden, sondern Glieder der Familie. Die Gemeinde besteht vor allem aus Menschen, die durch Gott verbunden sind, und nicht aus einem Ort oder einer Institution.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Was verändert die Sicht auf die Gemeinde als eine \"Familie\", zu der man gehört, statt als einen \"Ort\", zu dem man geht?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"Gemeinde\" bedeutet \"herausgerufene Versammlung\" (ekklesia)",
+          "content": "Das griechische *ekklesia* bedeutet \"die Herausgerufenen, die Versammlung\" (von *ek-kaleo* - \"herausrufen\") und bezeichnete in der antiken Welt eine Zusammenkunft der Bürger, kein Gebäude. Das Neue Testament nennt niemals ein Bauwerk \"Gemeinde\" - die Gemeinde sind die von Gott gerufenen Menschen. Daher kann man Gemeinde \"sein\" und nicht nur zu ihr \"hingehen\".",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐκκλησία",
+              "translit": "ekklesia"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Wie verändert sich dein Verständnis von Engagement, wenn \"Gemeinde\" eine Gemeinschaft von Menschen bedeutet und keinen Ort?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "1Pet.2.9-10",
+              "ref": "1Petr 2,9-10"
+            }
+          ],
+          "comment": "\"Ein Volk, das einst kein Volk war\" ist zum \"Volk Gottes\" geworden. Die Zugehörigkeit zur Familie Gottes ist kein Verdienst - sie ist ein Geschenk, das eine neue Identität und Gemeinschaft schafft.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Was bedeutet es für jemanden, der sich \"außen vor\" gefühlt hat, zu hören, dass er in das \"Volk Gottes\" aufgenommen wurde?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "1Cor.12.12-14",
+              "ref": "1Kor 12,12-14"
+            }
+          ],
+          "comment": "Die Gemeinde ist wie ein Leib mit vielen Gliedern - verschieden, aber einander nötig. Niemand ist überflüssig, und niemand genügt sich selbst.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Welche \"Glieder des Leibes\" in deinem Glaubensumfeld werden manchmal unterschätzt - und was lehrt dich das über dich selbst?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "\"der Leib Christi\" (soma) als Bild der Gemeinde",
+          "content": "Paulus nennt die Gemeinde *soma Christou* - \"den Leib Christi\". Das Bild sagt drei Dinge aus: Vielfalt (viele verschiedene Glieder), gegenseitige Abhängigkeit (das Auge kann nicht zur Hand sagen \"ich brauche dich nicht\") und ein gemeinsames Geschick (wenn ein Glied leidet, leiden alle mit). Das ist nicht das Bild eines losen Vereins, sondern eines lebendigen Organismus, in dem Christus das Haupt ist und die Gläubigen die untereinander verbundenen Glieder sind.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "σῶμα",
+              "translit": "soma"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "1Cor.12.21-26",
+              "ref": "1Kor 12,21-26"
+            }
+          ],
+          "comment": "\"Das Auge kann nicht zur Hand sagen: Ich brauche dich nicht\". Wenn \"ein Glied leidet, leiden alle mit\" - Gemeinschaft ist gegenseitige Abhängigkeit und Mitgefühl, kein loser Haufen von Einzelnen.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Wann hast du zuletzt erlebt, dass jemand in der Gemeinschaft mit dir \"mitgelitten\" oder \"sich mitgefreut\" hat?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Einheit: Christus als Haupt des Leibes",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Eph.4.15-16",
+              "ref": "Eph 4,15-16"
+            }
+          ],
+          "comment": "Wir sollen \"hinwachsen zu dem, der das Haupt ist - zu Christus\". Die Einheit des Leibes besteht nicht in der Unterordnung unter eine irdische Macht, sondern im gemeinsamen Gehorsam gegenüber dem einen Haupt - Christus. Aus ihm schöpft \"der ganze Leib\" das Wachstum.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Was bedeutet es praktisch, dass Christus - und nicht irgendeine menschliche Instanz - das \"Haupt\" der Gemeinschaft ist?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "Einheit als Unterordnung unter das Haupt, nicht unter irdische Macht (Eph 4,15-16)",
+          "content": "In Eph 4,15-16 fließen Einheit und Wachstum der Gemeinde \"aus dem Haupt\" - aus Christus, von dem her \"der ganze Leib\" \"zusammengefügt\" und \"verbunden\" wird. Das Bild verortet die Autorität in Christus, nicht in einer irdischen Struktur. Die Einheit der Christen ist also keine Gleichmacherei unter menschlicher Oberhoheit, sondern gemeinsame Unterordnung unter das eine Haupt und gegenseitiger Dienst. Gehorsam in der Gemeinschaft ist Frucht der Beziehung zu Christus, nicht Unterwerfung unter eine Institution - in Übereinstimmung mit dem Grundsatz sola scriptura.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Wie erkennt man den Unterschied zwischen einer Einheit \"unter Christus als dem Haupt\" und einer durch menschliche Autorität erzwungenen Einheit?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Col.1.18",
+              "ref": "Kol 1,18"
+            }
+          ],
+          "comment": "\"Er ist das Haupt des Leibes, der Gemeinde\". Der Vorrang in der Gemeinde gehört Christus - er gibt die Richtung vor und hält die Gemeinschaft zusammen.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Wie erkennt man, ob sich eine Gemeinschaft wirklich \"an das Haupt hält\", also sich von Christus leiten lässt?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "John.17.20-23",
+              "ref": "Joh 17,20-23"
+            }
+          ],
+          "comment": "Jesus betet, \"dass sie alle eins seien\" - die Einheit der Gläubigen soll ein Zeugnis für die Welt sein. Sie ist kein Selbstzweck, sondern ein Zeichen dafür, dass der Vater den Sohn gesandt hat.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Inwiefern kann die Einheit der Christen für einen Außenstehenden ein \"Beweis\" für die Echtheit des Glaubens sein?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "Einheit als Zeugnis: \"damit sie eins seien\" (Joh 17,21)",
+          "content": "Im hohepriesterlichen Gebet bittet Jesus, \"dass sie alle eins seien ... damit die Welt glaube\". Die Einheit der Gläubigen ist kein Selbstzweck und keine organisatorische Gleichförmigkeit - sie ist ein Zeugnis. Vorbild dieser Einheit ist die Verbindung von Vater und Sohn (\"wie du, Vater, in mir\"): Einheit in Liebe und Ziel, bei Wahrung der Eigenständigkeit der Personen. Eine solche Einheit wird für den Beobachter zum Argument, dass Gott hinter der Gemeinde steht."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Eph.4.1-3",
+              "ref": "Eph 4,1-3"
+            }
+          ],
+          "comment": "Die Einheit \"bewahrt\" man in \"Demut, Sanftmut, Geduld\" und indem man \"einander in Liebe erträgt\". Das ist tägliche Beziehungsarbeit, kein automatischer Zustand.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Welche dieser Haltungen - Demut, Sanftmut, Geduld - würde deiner Gemeinschaft am meisten helfen?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Gemeinschaft: Unterstützung und Wachstum",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Heb.10.24-25",
+              "ref": "Hebr 10,24-25"
+            }
+          ],
+          "comment": "Wir sollen \"unsere Zusammenkünfte nicht verlassen\" und uns \"gegenseitig zur Liebe und zu guten Werken anspornen\". Das Zusammenkommen ist keine Formsache - es ist gegenseitige Ermutigung, umso wichtiger, \"je näher der Tag\" der Wiederkunft des Herrn ist.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Was verlierst du, wenn du dich von der Gemeinschaft der Gläubigen abschneidest - und was gewinnst du, wenn du in ihr bleibst?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Acts.2.42-47",
+              "ref": "Apg 2,42-47"
+            }
+          ],
+          "comment": "Die ersten Christen hielten fest \"an der Lehre der Apostel, an der Gemeinschaft, am Brotbrechen und an den Gebeten\" und teilten, was sie hatten. Das ist das Bild einer lebendigen, praktischen Gemeinschaft und nicht bloß einer Theorie.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Welches Element aus dem Leben der ersten Gemeinde (Lehre, Gemeinschaft, Brotbrechen, Gebet) würdest du am liebsten heute sehen?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "\"Gemeinschaft\" bedeutet Teilhabe und Teilen (koinonia)",
+          "content": "Das griechische *koinonia* (Apg 2,42) bedeutet mehr als \"Geselligkeit\": es heißt \"Teilhabe, gemeinsamer Besitz, Teilen\". Daher kamen die ersten Christen nicht nur zusammen, sondern \"hatten alles gemeinsam\" und teilten ihre Güter (Apg 2,44-45). *Koinonia* umfasst die Gemeinschaft des Glaubens, des Gebets, des Tisches (\"Brotbrechen\") und des Alltags. Das ist das Vorbild einer Gemeinschaft, die ein wirkliches Teilen des Lebens ist und nicht nur ein wöchentliches Treffen.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "κοινωνία",
+              "translit": "koinonia"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Gal.6.2",
+              "ref": "Gal 6,2"
+            }
+          ],
+          "comment": "\"Einer trage des anderen Last\" - die Gemeinschaft ist ein Ort, an dem man Lasten teilt, statt sie allein zu tragen. So \"erfüllen wir das Gesetz Christi\".",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Welche \"Last\" trägst du gerade allein, die du in der Gemeinschaft teilen könntest?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Eph.4.11-13",
+              "ref": "Eph 4,11-13"
+            }
+          ],
+          "comment": "Gott gibt der Gemeinschaft verschiedene Gaben und Dienste, \"um die Heiligen zum Werk des Dienstes zuzurüsten\" und damit der Leib \"zur Reife\" gelangt. Geistliches Wachstum geschieht in der Gemeinschaft, nicht in der Isolation.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Welche Gabe oder Fähigkeit könntest du einbringen, um anderen in der Familie Gottes zu dienen?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Das Abendmahl: Gedächtnis und Brauch der Demut",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Luke.22.19-20",
+              "ref": "Lk 22,19-20"
+            }
+          ],
+          "comment": "Jesus setzt das Abendmahl ein mit den Worten \"das tut zu meinem Gedächtnis\". Brot und Kelch weisen auf seinen gebrochenen Leib und sein vergossenes Blut hin - es ist ein Gedächtnis seines Opfers und keine Wiederholung davon.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Was bedeutet es, am Abendmahl als einem \"Gedächtnis\" teilzunehmen - was soll es dich nicht vergessen lassen?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "\"Gedächtnis\" (anamnesis) in Lk 22,19",
+          "content": "Das griechische *anamnesis* (\"Erinnerung, Gedächtnis\") weist auf ein lebendiges Vergegenwärtigen eines vergangenen Ereignisses hin, nicht auf dessen erneute Vollziehung. \"Das tut zu meinem *anamnesis*\" bedeutet: Tut es, um das \"ein für alle Mal\" dargebrachte Opfer im Herzen zu behalten und zu erinnern. Das ist die Grundlage des Verständnisses vom Abendmahl als Gedächtnis und nicht als wiederholtes Opfer.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἀνάμνησις",
+              "translit": "anamnesis"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "John.13.1-5",
+              "ref": "Joh 13,1-5"
+            }
+          ],
+          "comment": "Vor dem Abendmahl wäscht Jesus den Jüngern die Füße - eine Tätigkeit des Sklaven. Dieser Brauch der Demut geht dem Abendmahl voraus und gibt ihm den Ton an: die Begegnung mit einem Gott, der dient.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Was empfindest du bei dem Gedanken an einen Gott, der niederkniet, um denen die Füße zu waschen, die ihn enttäuschen würden?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "worship",
+          "label": "Fußwaschung als Brauch (Joh 13,14-15)",
+          "content": "Jesus hat den Jüngern nicht nur die Füße gewaschen, sondern es ausdrücklich aufgetragen: \"so sollt auch ihr einander die Füße waschen ... ich habe euch ein Beispiel gegeben\". Viele christliche Gemeinschaften üben die Fußwaschung als Brauch der Demut, der dem Abendmahl vorausgeht - eine wörtliche Erfüllung des Auftrags Jesu und eine Vorbereitung des Herzens durch Versöhnung und Dienst. Das ist eine Erinnerung daran, dass man an den Tisch des Herrn in einer Haltung der Demut tritt, nicht der Überlegenheit."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "John.13.14-17",
+              "ref": "Joh 13,14-17"
+            }
+          ],
+          "comment": "\"Wenn ich euch die Füße gewaschen habe ... so sollt auch ihr einander die Füße waschen\". Jesus hinterlässt ein Vorbild gegenseitigen, demütigen Dienstes - und verheißt denen einen Segen, die ihm darin folgen.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Wie überträgt sich der Brauch der Fußwaschung auf den konkreten, alltäglichen Dienst an anderen?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "1Cor.11.27-29",
+              "ref": "1Kor 11,27-29"
+            }
+          ],
+          "comment": "Paulus ruft dazu auf, zum Abendmahl nach der \"Selbstprüfung\" zu treten - in einer Haltung der Aufrichtigkeit und Versöhnung, nicht \"unwürdig\". Das ist eine Einladung zur Besinnung, nicht zur Angst.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Was lohnt es sich, vor dem Hinzutreten zum Abendmahl in sich zu \"prüfen\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "Das Abendmahl als Gedächtnis im Verhältnis zu Messe und Transsubstantiation",
+          "content": "Eine heikle Frage: Werden im Abendmahl Brot und Wein buchstäblich zu Leib und Blut Christi (Transsubstantiation), und ist der Brauch eine Erneuerung des Opfers (Messe)? Die Schrift stellt das Abendmahl als \"Gedächtnis\" dar (Lk 22,19 - *anamnesis*) und als \"Verkündigung des Todes des Herrn, bis er kommt\" (1Kor 11,24-26), und nicht als wiederholtes Opfer. Der Hebräerbrief betont, dass das Opfer Christi einmalig und ausreichend war: \"ein für alle Mal\" (Hbr 10,10), \"mit einem Opfer hat er die für immer vollkommen gemacht\" (Hbr 10,14). Da es sich \"ein für alle Mal\" vollzogen hat, bedarf es keiner Wiederholung. Die Elemente des Abendmahls bleiben Zeichen, die auf Christus hinweisen. Die Kritik gilt der Lehre und dem Brauch, niemals den Menschen, die im guten Glauben Gott verehren - der Maßstab ist die Schrift (Jes 8,20).",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Wenn das Opfer Christi \"ein für alle Mal\" geschah (Hbr 10,10.14) - was sagt das darüber aus, was das Abendmahl ist und was nicht?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Das Reich Gottes hier und jetzt",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Luke.17.20-21",
+              "ref": "Lk 17,20-21"
+            }
+          ],
+          "comment": "\"Das Reich Gottes ist mitten unter euch\" - es ist nicht nur eine zukünftige Wirklichkeit. Die Gemeinschaft der Familie Gottes ist der Ort, an dem dieses Reich sich schon jetzt auf Erden verwirklicht.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Wo sieht man im Leben der Familie Gottes, dass das \"Reich Gottes\" schon jetzt \"mitten unter\" den Menschen ist?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Matt.5.13-16",
+              "ref": "Mt 5,13-16"
+            }
+          ],
+          "comment": "Die Gemeinschaft ist \"das Salz der Erde\" und \"das Licht der Welt\" - sie soll ihre Umgebung beeinflussen und sich nicht in sich selbst verschließen. Das Reich erkennt man daran, dass \"gute Werke\" Menschen dazu führen, Gott zu loben.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Wie könnte deine Gemeinschaft mehr \"Licht\" für ihre Umgebung sein und nicht nur ein Ort für die \"Eigenen\"?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Die Gemeinde ist kein Gebäude, zu dem man hingeht, sondern eine Familie, zu der man gehört - der Leib Christi, in dem niemand überflüssig ist und niemand sich selbst genügt. Ihre Einheit besteht nicht in der Unterwerfung unter menschliche Macht, sondern im gemeinsamen Festhalten an dem einen Haupt - Christus. In der Gemeinschaft teilen wir Lasten, wachsen und unterstützen einander. Das Abendmahl erinnert uns an das \"ein für alle Mal\" dargebrachte Opfer Jesu, und der ihm vorausgehende Brauch der Demut lehrt uns, dass unser Gott der ist, der dient. All das ist schon heute ein Ausdruck des Reiches Gottes mitten unter uns.",
+    "challenge": "Tu in dieser Woche einen konkreten Schritt hin zur Gemeinschaft: Melde dich bei jemandem aus der Familie Gottes, biete Hilfe beim Tragen einer \"Last\" an oder engagiere dich in einem Dienst. Wenn du am Abendmahl teilnimmst, bereite dich durch einen Augenblick aufrichtiger Besinnung und Versöhnung vor (1Kor 11,28) und nimm den Brauch der Demut als Vorbild des Dienstes für den Rest der Woche."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "DE translation of PL study zycie-w-bozej-rodzinie"
+  }
+}

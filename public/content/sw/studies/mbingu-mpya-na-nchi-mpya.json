@@ -1,0 +1,450 @@
+{
+  "id": "mbingu-mpya-na-nchi-mpya",
+  "lang": "sw",
+  "title": "Mbingu mpya na nchi mpya",
+  "category": "basic_systematic",
+  "seriesId": "proroctwo-i-nadzieja",
+  "order": 28,
+  "summary": "Tamati ya pambano kuu: dhambi, mauti na uovu vinaangamizwa milele, na Mungu anaumba mbingu mpya na dunia mpya. Bila machozi, maumivu na mauti, pamoja na Edeni iliyorudishwa na uhusiano wa milele, wa karibu na Mungu - huu ndio lengo la safari nzima na mwaliko ulio wazi.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "dunia mpya",
+    "mbingu mpya",
+    "mwisho wa dhambi",
+    "mwisho wa mauti",
+    "Edeni",
+    "tumaini",
+    "mwaliko"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Mwisho wa pambano kuu: kikomo cha uovu na mauti",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Rev.20.10",
+              "ref": "Ufu 20:10"
+            }
+          ],
+          "comment": "Baada ya uasi wa mwisho uovu unahukumiwa kabisa - Shetani, mwanzilishi wa dhambi, anatupwa katika moto. Pambano kuu lina mwisho; uovu si wa milele.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Ni amani gani inayotokana na wazo kwamba uovu hautakuwepo daima, bali una kikomo kilichowekwa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Rev.20.14",
+              "ref": "Ufu 20:14"
+            }
+          ],
+          "comment": "Andiko linasema kwamba mauti yenyewe na kuzimu vinaangamizwa - hii ndiyo mauti ya pili. Hakuna kinachobaki ambacho kingeweza tena kuumiza.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Inamaanisha nini kwako kwamba siku moja hayataondoka maumivu pekee, bali pia mauti yenyewe?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "background",
+          "label": "\"ziwa la moto / mauti ya pili\": kikomo cha uovu, si mateso ya milele (Ufu 20:10.14)",
+          "content": "Tunaelewa ziwa la moto na mauti ya pili kama KUANGAMIZWA kwa mwisho kwa uovu, dhambi na wasiokombolewa, na si mateso ya milele ya fahamu. Hoja za kibiblia: mauti kama adui wa mwisho yanaANGAMIZWA (1 Kor 15:26); \"mauti ya pili\" ni mauti hasa, na si maisha katika mateso (Ufu 20:14); na Mungu anahakikisha kwamba dhiki haitatokea tena (Nah 1:9). Matokeo ni ya milele (yasiyobatilika), lakini mchakato si mateso yasiyo na mwisho. Hili linaufanya mwisho uwe na mwafaka na picha ya Mungu wa upendo na ahadi ya ulimwengu usio na uovu. Vipengele vya kifafanuzi - vithibitishwe wakati wa ukaguzi."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "1Cor.15.26",
+              "ref": "1Kor 15:26"
+            }
+          ],
+          "comment": "Paulo anaiita mauti adui wa mwisho atakayeangamizwa. Mauti si utaratibu wa asili, bali adui - na yatashindwa.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Jinsi gani huzuni na hofu vinabadilika unapoiangalia mauti kama \"adui\" anayepaswa kuondolewa?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "\"atameza mauti milele\": manabii na Paulo wanasema kwa sauti moja (Isa 25:8)",
+          "content": "Picha ya Paulo ya mauti kama adui wa mwisho (1 Kor 15:26) ina mizizi kwa manabii: Isaya anatabiri kwamba Mungu \"atameza mauti milele\" na \"atafuta machozi katika nyuso zote\" (Isa 25:8) - ahadi ileile inarudiwa katika Ufu 21:4. Kwa hiyo Maandiko hayaichukulii mauti kama hatua ya asili, bali kama mvamizi anayepaswa kuondolewa katika ulimwengu wa Mungu milele. Huu ni mojawapo ya nyuzi zenye nguvu zaidi zinazounganisha Agano la Kale na Jipya katika tumaini la dunia mpya.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Ni nini kinachobadilika katika huzuni kwa ufahamu kwamba tayari manabii waliiona siku ambayo Mungu mwenyewe ataiondoa mauti?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Nah.1.9",
+              "ref": "Nah 1:9"
+            }
+          ],
+          "comment": "Nabii anahakikisha kwamba dhiki haitatokea mara ya pili. Mungu si tu anaizima uovu, bali anahakikisha kwamba hautarudi kamwe - ulimwengu utakuwa salama kwa kudumu.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Kwa nini ni jambo muhimu kwamba uovu utaondolewa mara moja kwa milele, bila hatari ya kurudi?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Mal.4.1-3",
+              "ref": "Mal 4:1-3"
+            }
+          ],
+          "comment": "Nabii anachora siku itakayoteketeza kiburi na uovu, lakini kwa wamchao Mungu itachomoza kama jua la haki linaloleta uponyaji. Siku ileile ni mwisho wa uovu na mwanzo wa uponyaji.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Inasema nini kuhusu Mungu ukweli kwamba tendo lileile linamaliza uovu na kuwaletea wenye haki uponyaji?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Mbingu mpya na dunia mpya",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Rev.21.1",
+              "ref": "Ufu 21:1"
+            }
+          ],
+          "comment": "Yohana anaona mbingu mpya na dunia mpya mahali pa ulimwengu wa zamani unaopita. Mungu haiachi maada - anauhuisha uumbaji, anatoa nyumba halisi, ya kimwili.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Inamaanisha nini kwamba wakati ujao wa Mungu si kukimbia ulimwengu, bali ulimwengu MPYA, wa kweli?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"mpya\" kama lililohuishwa (Ufu 21:1.5; Isa 65:17)",
+          "content": "Kivumishi cha Kigiriki kilichotumika katika Ufu 21:1.5 (kainos) kwa kawaida kinasisitiza upya wa UBORA (lililohuishwa, lililobadilishwa), na si tu jingine katika mfululizo. Hii inalingana na Isa 65:17 na ahadi ya Mungu ya kuyafanya yote kuwa mapya (Ufu 21:5): Mungu hauondoi uumbaji kiasi kikubwa, bali anausafisha na kuubadilisha hadi hali ambayo uliumbiwa. Umbo la Kigiriki na kivuli cha maana vimetolewa kwa tahadhari - vithibitishwe wakati wa ukaguzi.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "καινός",
+              "translit": "kainos"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Rev.21.3-4",
+              "ref": "Ufu 21:3-4"
+            }
+          ],
+          "comment": "Kiini cha mbingu si mahali, bali Uwepo - Mungu atakaa kati ya watu wake, atafuta kila chozi mwenyewe na ataondoa mauti, maombolezo, kilio na maumivu. Huu ni mwisho wa kila kitu kinachoumiza.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Ni ipi kati ya ahadi hizi - mwisho wa machozi, mauti, maombolezo au maumivu - unayoihitaji zaidi kuisikia leo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "\"maskani ya Mungu pamoja na wanadamu\": lengo la historia yote ya wokovu (Ufu 21:3)",
+          "content": "Tangazo \"tazama, maskani ya Mungu pamoja na wanadamu\" si mojawapo ya mawazo mengi, bali ni kuhitimishwa kwa uzi unaopita Maandiko yote: Mungu akitembea na mwanadamu Edeni (Mwa 3:8), hema ya kukutania na hekalu, \"Mungu pamoja nasi\" (Imanueli) - vyote vinaelekea wakati ambapo Mungu atakaa kati ya watu wake kwa kudumu. Dunia mpya ni \"lengo la mwisho la injili na historia ya wokovu\". Mbingu kwanza kabisa ni Uwepo, si mandhari.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Jinsi gani uelewa wako wa mbingu unabadilika kwa wazo kwamba kiini chake ni Mungu mwenyewe akiishi pamoja nawe, na si mahali au tuzo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Isa.65.17",
+              "ref": "Isa 65:17"
+            }
+          ],
+          "comment": "Tayari Isaya alisikia ahadi ya mbingu mpya na dunia mpya, ambapo baada yake mateso ya zamani hayatarudi tena kumbukumbuni. Maumivu ya zamani hayatasumbua tena.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Ingekuwa na maana gani kwako kwamba mateso ya zamani \"hayatakumbukwa tena\" kama jeraha?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Isa.65.21-25",
+              "ref": "Isa 65:21-25"
+            }
+          ],
+          "comment": "Dunia mpya ni halisi: kujenga nyumba, kupanda mizabibu, kazi yenye matunda, amani hata kati ya wanyama ambao hawatamdhuru tena yeyote. Huu ni Edeni iliyorudishwa, si dhana isiyo na mwili.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Inasema nini kuhusu uangalifu wa Mungu kwamba anaahidi utimilifu wa maisha - kazi, nyumba, amani - na si tu \"pumziko la roho\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "worship",
+          "label": "\"toka Sabato hata Sabato\": tunamwabudu Mungu katika dunia mpya (Isa 66:23)",
+          "content": "Mara baada ya picha ya maisha halisi Isaya anaongeza picha ya ibada halisi: waliokombolewa watakuja kumsujudia Mungu \"toka mwandamo wa mwezi hata mwandamo wa mwezi, na toka Sabato hata Sabato\" (Isa 66:23). Msemo wa Kiebrania unaweza kueleweka kwa namna mbili - kama ibada katika siku zilizowekwa (hasa Sabato kama kumbukumbu ya uumbaji) au kama ibada isiyokoma, \"toka sikukuu hata sikukuu\". Inaonekana kwamba usomaji wa kwanza upo karibu zaidi na asili, lakini utajiri wa kiroho wa wa pili si lazima ukataliwe. Kwa namna yoyote ile, Sabato inaendelea katika dunia mpya.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Inasema nini kuhusu Sabato ukweli kwamba kama mdundo pekee wa ibada inavuka bila kukatika kutoka uumbaji, kupitia historia yote, hadi dunia mpya?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "2Pet.3.13",
+              "ref": "2Pet 3:13"
+            }
+          ],
+          "comment": "Petro anaelekeza matarajio kwenye mbingu mpya na dunia mpya, ambapo haki itakaa kwa kudumu. Ulimwengu mpya ni mazingira ambamo wema uko nyumbani.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Maisha katika ulimwengu ambamo \"haki inakaa\" kwa kudumu - bila kilichopotoka, bila kisicho cha haki - yangeonekanaje?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"kuhuishwa\", si uumbaji mpya kutoka katika utupu (2Pe 3:13; Mt 19:28)",
+          "content": "Lugha ya 2Pe 3:7-13 inazungumzia zaidi kuhuishwa na kurudishwa - juu ya ulimwengu uliosafishwa unaotolewa kutoka katika ule wa zamani, na si juu ya uumbaji wa pili \"kutoka katika utupu\". Hili linaungwa mkono na Mt 19:28, ambapo linatokea neno linaloeleza \"kuzaliwa upya\" kwa ulimwengu (lililotafsiriwa kama \"ulimwengu mpya\", \"kuzaliwa upya\"), na Mdo 3:21 - \"nyakati za kufanywa upya kwa vitu vyote\". Mungu haitupi kazi yake jaani; Yeye anaikomboa. Hii ni hoja muhimu ya uhalisia na mwendelezo wa dunia mpya. Kivuli cha maana - kithibitishwe wakati wa ukaguzi."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Rev.22.1-3",
+              "ref": "Ufu 22:1-3"
+            }
+          ],
+          "comment": "Mti wa uzima unarudi, na laana ya zamani inaondolewa - hili ni kufutwa moja kwa moja kwa matokeo ya anguko la Edeni. Historia inakamilisha mzunguko: kutoka bustani iliyopotea hadi iliyorudishwa.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Inamaanisha nini kwamba \"laana haitakuwapo tena\" - ni mzigo gani unaoondolewa wakati huo kwa uumbaji wote?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "Edeni iliyorudishwa: ufungamano wa Maandiko (Mwa 1-3 ↔ Ufu 21-22)",
+          "content": "Sura za mwisho za Ufunuo zinageuza kwa makusudi matokeo ya anguko kutoka Kitabu cha Mwanzo: tena unajitokeza mti wa uzima (Mwa 3:22-24 ↔ Ufu 22:2), inaondolewa laana iliyowekwa baada ya anguko (Mwa 3:17 ↔ Ufu 22:3), na Mungu anakaa tena pamoja na wanadamu (Mwa 3:8 ↔ Ufu 21:3). Isa 65:17-25 inakamilisha picha kwa hali halisi za maisha (nyumba, mizabibu, amani katika maumbile). Kwa hiyo Biblia inaunda ufungamano: kutoka bustani iliyopotea hadi bustani-mji iliyorudishwa - hii si kukimbia maada, bali ukombozi wake. Vipengele vya ulinganifu vithibitishwe wakati wa ukaguzi."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Uhusiano wa milele na mwaliko",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Rev.21.7",
+              "ref": "Ufu 21:7"
+            }
+          ],
+          "comment": "Ahadi kwa mshindi ni ya kiuhusiano: Mungu atakuwa Mungu wake, na yeye atakuwa mtoto wa Mungu. Lengo la milele si tuzo ya vitu, bali ukaribu na Mungu.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Ni ipi ahadi kubwa zaidi kwako: ulimwengu mkamilifu au kwamba \"Mungu atakuwa Mungu wako\" milele?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Rev.22.3-4",
+              "ref": "Ufu 22:3-4"
+            }
+          ],
+          "comment": "Waliokombolewa wataona uso wa Mungu - kile ambacho hata Musa hakuweza kukiona akiwa hai. Uhusiano wa uso kwa uso, bila vifuniko.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Ingemaanisha nini kwako \"kuona uso wa Mungu\" - kuishi katika ukaribu kamili, usiotatizwa na kitu pamoja naye?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "worship",
+          "label": "\"watamtumikia\": shughuli kuu katika dunia mpya (Ufu 22:3)",
+          "content": "Kitenzi kilichotumika katika Ufu 22:3 (latreuo) ni neno la kawaida la ibada na utumishi kwa Mungu - la shina lilelile ambalo wameelezwa wale \"waliofua mavazi yao katika damu ya Mwana-Kondoo\" na \"wanaomtumikia mchana na usiku\" (Ufu 7:14-15). Shughuli kuu ya waliokombolewa itakuwa ibada ya furaha kwa Mwana-Kondoo. Kwa hiyo ibada katika dunia mpya si wajibu unaokatiza maisha, bali ni pumzi yake ya asili - katika uhuru, uso kwa uso na Mungu. Umbo la Kigiriki - lithibitishwe wakati wa ukaguzi.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "λατρεύω",
+              "translit": "latreuō"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Rev.22.17",
+              "ref": "Ufu 22:17"
+            }
+          ],
+          "comment": "Biblia inaishia si kwa tisho, bali kwa mwaliko: Roho na bibi-arusi wanaita, mtu aje, na kila mwenye kiu anaweza kuyachukua maji ya uzima bure. Mlango uko wazi kwa kila mtu.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Kwa kuwa maji ya uzima ni \"bure\" na \"kwa kila atakaye\" - ni nini leo kinachosimama kati yako na kukubali mwaliko huu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Rev.21.6",
+              "ref": "Ufu 21:6"
+            }
+          ],
+          "comment": "Mungu anatangaza kwamba yote yamekwisha kutimizwa, na mwenye kiu anampa bure kutoka chemchemi ya maji ya uzima. Safari nzima kupitia unabii na pambano kuu inaongoza kwenye zawadi hii.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Inamaanisha nini kwamba utimilifu wa yote ni zawadi (\"bure\"), na si tuzo ya kufanyiwa kazi?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "1Cor.2.9",
+              "ref": "1Kor 2:9"
+            }
+          ],
+          "comment": "Paulo anakumbusha kwamba kile ambacho Mungu amewaandalia wampendao, hadi sasa jicho la mwanadamu, sikio wala fikira havijawahi kukiwaza. Maelezo bora kabisa ya dunia mpya hayalingani na uhalisia ambao Mungu anaandaa.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Jinsi gani unaishi kwa tumaini la kitu kinachozidi kila kitu unachoweza kukiwaza?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "\"ambacho jicho halikukiona\": maelezo yanashindwa na uhalisia (1 Kor 2:9)",
+          "content": "Paulo hasemi kwamba kuhusu dunia mpya hatujui kitu, bali kwamba hakuna maelezo yanayolingana na uhalisia - \"ambacho jicho halikukiona wala sikio halikukisikia\". E. White anaeleza kwamba hofu ya picha ya mbingu iliyo \"ya kimaada mno\" iliwafanya wengi \"kuipa hali ya kiroho\" na kuifuta haswa kweli zile zinazoturuhusu kuiona kama nyumba halisi. Tunashikamana kwa makusudi na hali halisi: dunia mpya ni mahali, si dhana isiyo wazi. Unyenyekevu (\"hatutaifahamu yote\") na hali halisi (\"ni nyumba ya kweli\") vinakwenda hapa pamoja.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Jinsi gani kudumisha usawa kati ya unyenyekevu mbele ya kile tusichokielewa, na tumaini halisi, la kweli la nyumba katika dunia mpya?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Hili ndilo lengo la safari nzima kupitia unabii na pambano kuu: si tu mwisho wa uovu, bali mwanzo wa maisha ambayo kwa ajili yake tuliumbwa. Dhambi, maumivu na mauti vitaondolewa mara moja kwa milele - na havitarudi kamwe. Mungu atafuta kila chozi na atakaa kati ya watu wake katika ulimwengu halisi, uliohuishwa: Edeni iliyorudishwa, ambapo waliokombolewa wataona uso wake. Na neno la mwisho la Biblia si hukumu, bali mwaliko - kila mwenye kiu anaweza kuyapokea bure maji ya uzima. Tumaini la mbingu si kukimbia maisha - ni ahadi ya maisha yasiyo na mwisho pamoja na Yule aliyetupenda kwanza.",
+    "challenge": "Andika mambo matatu katika ulimwengu wa sasa yanayokuumiza zaidi, na kando ya kila moja andika ahadi inayolingana kutoka Ufu 21:3-4 au Isa 65. Kisha mjibu Mungu mwaliko wake kutoka Ufu 22:17 - kwa maneno yako mwenyewe mwambie \"njoo\" na upokee zawadi ya uzima."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study nowa-ziemia"
+  }
+}

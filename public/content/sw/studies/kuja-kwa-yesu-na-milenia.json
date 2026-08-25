@@ -1,0 +1,434 @@
+{
+  "id": "kuja-kwa-yesu-na-milenia",
+  "lang": "sw",
+  "title": "Kuja kwa Yesu na milenia",
+  "category": "basic_systematic",
+  "seriesId": "proroctwo-i-nadzieja",
+  "order": 27,
+  "summary": "Mtazamo wa kina juu ya ujio wa pili: utakuwa wa kuonekana, wa kusikika, wa utukufu na wa kimataifa. Unaambatana na ufufuo wa wenye haki na kubadilishwa kwa walio hai, kisha miaka elfu (milenia) - waliokombolewa mbinguni, dunia iliyoachwa ukiwa, Shetani amefungwa na hukumu juu ya wasiomcha Mungu.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "ujio wa pili",
+    "ufufuo",
+    "kunyakuliwa",
+    "miaka elfu",
+    "Ufunuo",
+    "tumaini"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Je, Yesu atarudi kwa namna gani hasa?",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Rev.1.7",
+              "ref": "Ufu 1:7"
+            }
+          ],
+          "comment": "Yohana anatangaza kurudi kwa Yesu juu ya mawingu, kunakoonekana na wanadamu wote. Ujio utaonekana kwa ulimwengu mzima - si wa siri, si wa mfano.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Kwa nini ni jambo muhimu kwamba wote watamwona - kuonekana huku kwa wote kunaondoa nini?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Matt.24.27",
+              "ref": "Mt 24:27"
+            }
+          ],
+          "comment": "Yesu analinganisha kurudi kwake na umeme unaoonekana katika anga lote - wa wazi, wa ghafla, usioweza kupuuzwa. Ni kinga dhidi ya ujio wa uongo, wa \"kimya\".",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Jinsi gani picha hii inalinda dhidi ya uvumi wa namna ya \"Kristo tayari amekuja kwa siri hapa au pale\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Matt.24.30-31",
+              "ref": "Mt 24:30-31"
+            }
+          ],
+          "comment": "Ujio unaambatana na sauti ya tarumbeta na malaika wanaowakusanya watu wa Mungu kutoka dunia nzima. Tukio ni la kusikika, la utukufu na la kiulimwengu kwa ukubwa.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Inasema nini kuhusu uzito wa tukio hili ukweli kwamba mbingu nzima inashiriki ndani yake?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Acts.1.9-11",
+              "ref": "Mdo 1:9-11"
+            }
+          ],
+          "comment": "Malaika wanawahakikishia wanafunzi kwamba Yesu atarudi kwa namna ileile aliyopaa mbinguni mbele ya macho yao - kwa nafsi, kwa kuonekana, kwa mwili. Namna ya kuondoka inaonyesha namna ya kurudi.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Kwa kuwa Yesu atarudi \"vivyo hivyo\", ni mawazo gani kuhusu ujio wake yanayopaswa kukataliwa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Matt.24.23-26",
+              "ref": "Mt 24:23-26"
+            }
+          ],
+          "comment": "Yesu anaonya tusiwaamini wale watakaomwonyesha Kristo aliyefichwa mahali fulani jangwani au vyumbani. Kuonekana na kuwa kwa kimataifa kwa ujio wake ni ngao dhidi ya udanganyifu.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Kwa nini - kulingana na Yesu mwenyewe - kutambua kwamba \"tangazo fulani la ujio\" ni la uongo?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Ufufuo na kubadilishwa",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "1Thess.4.16-17",
+              "ref": "1The 4:16-17"
+            }
+          ],
+          "comment": "Paulo anaeleza kwamba wakati wa kurudi kwa Yesu, kwanza watafufuka waaminio waliokufa, na walio hai watanyakuliwa pamoja nao kumlaki Bwana. Tumaini la Wakristo ni ufufuo wakati wa ujio, si kuondoka kwa roho kabla.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Ni faraja gani inayotokana na wazo kwamba kutengana na waliokufa katika Kristo ni kwa muda - hadi siku ya ujio?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "\"kunyakuliwa / kuchukuliwa\" (1The 4:17)",
+          "content": "Kitenzi cha Kigiriki katika 1The 4:17 (harpazo) kinamaanisha kuchukuliwa kwa ghafla, kwa nguvu, \"kunyakuliwa\". Hata hivyo Agano Jipya halijui kunyakuliwa kwa kimya, kwa siri: kunatokea kwa sauti ya tarumbeta, wakati wa ujio unaoonekana (Ufu 1:7; Mt 24:27.30-31). Kunyakuliwa na ujio wa pili katika Biblia ni tukio moja, si awamu mbili tofauti. Umbo la Kigiriki limetolewa kwa tahadhari - matamshi na maana yathibitishwe wakati wa ukaguzi."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "\"ujio\" kama parousia, epifaneia, apokalypsis",
+          "content": "Agano Jipya linaelezea kurudi kwa Yesu kwa maneno makuu matatu: parousia (ujio, uwepo wa kifalme), epiphaneia (kujidhihirisha wazi) na apokalypsis (kufunuliwa). Yote matatu yanasisitiza kwamba tukio litakuwa la wazi na la kuonekana, na si la siri au la kiroho - parousia linarejelea moja kwa moja ujio wa sherehe, wa kuonekana wa mfalme. Huu ni msingi wa kilugha wa ukweli kwamba ujio wake \"kila jicho litamwona\" (Ufu 1:7). Maumbo ya Kigiriki yametolewa kwa tahadhari - yathibitishwe wakati wa ukaguzi."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "1Cor.15.51-52",
+              "ref": "1Kor 15:51-52"
+            }
+          ],
+          "comment": "Paulo anatangaza kwamba kwa sauti ya tarumbeta ya mwisho waaminio wote watabadilishwa kwa dakika moja. Mwili wenye kufa utageuzwa kufumba na kufumbua - ni tukio la papo hapo, si mchakato.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Inamaanisha nini kwako ahadi kwamba mwili dhaifu, wenye kufa, unaweza kubadilishwa kwa dakika moja?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "1Cor.15.53-54",
+              "ref": "1Kor 15:53-54"
+            }
+          ],
+          "comment": "Kile chenye kufa kitavikwa kutokufa, na mauti yatamezwa kabisa na ushindi. Ujio wa Yesu ni siku ya kushindwa kwa mauti.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Jinsi gani maisha yanakuwa tofauti unapojua kwamba mauti si neno la mwisho, bali adui aliyeshindwa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "John.5.28-29",
+              "ref": "Yoh 5:28-29"
+            }
+          ],
+          "comment": "Yesu anatangaza saa ambayo wote walio makaburini watasikia sauti yake na kufufuka - wengine kwa uzima. Ni sauti yake inayowaamsha wafu, si kutokufa kwao wenyewe.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Inasema nini kuhusu nguvu ya Yesu ukweli kwamba sauti yake pekee inawarudisha wafu kwenye uzima?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "ufufuo wawili: \"kwa uzima\" na \"kwa hukumu\"",
+          "content": "Maneno ya Yesu kuhusu \"ufufuo wa uzima\" na \"ufufuo wa hukumu\" (Yoh 5:29) yanalingana na ufufuo wawili wa Ufunuo 20. \"Ufufuo wa kwanza\" (Ufu 20:5-6), wakati wa ujio wa pili, ni huo \"ufufuo wa uzima\" - wanaoshiriki ndani yake ni waaminifu wote wa Mungu tangu mwanzo wa historia ya dunia. \"Wafu waliosalia\" wanafufuka tu baada ya miaka elfu (Ufu 20:5). Mwafaka wa picha hizi (Yoh 5; 1The 4; Ufu 20) uthibitishwe wakati wa ukaguzi."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Titus.2.13",
+              "ref": "Tit 2:13"
+            }
+          ],
+          "comment": "Paulo anauita kutarajia kudhihirika kwa utukufu wa Yesu tumaini la baraka la waaminio. Ujio kwa mwamini ni tumaini, si tisho.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Je, kurudi kwa Yesu kwako ni zaidi \"tumaini la baraka\", au chanzo cha hofu - na kwa nini?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Miaka elfu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Rev.20.4-5",
+              "ref": "Ufu 20:4-5"
+            }
+          ],
+          "comment": "Andiko linaongelea waliokombolewa, wanaofufuka na kutawala pamoja na Kristo kwa miaka elfu, wakati wafu waliosalia hawafufuki hadi mwisho wa kipindi hicho. Kwa hiyo kuna ufufuo wawili, ukitenganishwa na miaka elfu.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Inamaanisha nini kwamba ufufuo wa kwanza (wa wenye haki) na wa pili (wa waliosalia) unatenganishwa na miaka elfu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "neno \"milenia\" na \"miaka elfu\" linatoka wapi",
+          "content": "Neno \"milenia\" linatokana na maneno mawili ya Kilatini: mille (\"elfu\") na annus (\"mwaka\"), yaani \"miaka elfu\". Msemo wenyewe \"miaka elfu\" unajitokeza katika Ufunuo 20 mara sita (mst. 2.3.4.5.6.7) na ni hapa pekee katika Maandiko yote ambapo fundisho la miaka elfu limefafanuliwa moja kwa moja. Cha kushangaza, E.G. White alitofautisha wazo potofu la \"miaka elfu ya kidunia\" duniani na \"miaka elfu\" ya kibiblia, ambayo waliokombolewa wanaitumia mbinguni pamoja na Kristo."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "background",
+          "label": "ufufuo wawili na muundo wa miaka elfu",
+          "content": "Ufunuo 20 unaonyesha ufufuo MWILI uliotenganishwa na miaka elfu: wa kwanza - wa wenye haki, wakati wa ujio wa pili (Ufu 20:4-6; 1The 4:16); wa pili - wa waliosalia, baada ya miaka elfu (Ufu 20:5.7-9). Katika mtazamo huu hujipanga hivi: wakati wa ujio wa Yesu waliokombolewa wanachukuliwa mbinguni, wasiomcha Mungu wanaangamia, dunia inabaki ukiwa (linganisha Yer 4:23-26), na Shetani anasimamishwa kwa kukosa yeyote wa kumdanganya. Baada ya miaka elfu unafuata ufufuo na hukumu ya mwisho juu ya uovu (inayoendelezwa katika somo la 28). Mwafaka unahitaji kusoma Ufu 20 pamoja na 1The 4 na Yoh 5:28-29 - uthibitishwe wakati wa ukaguzi."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Rev.20.6",
+              "ref": "Ufu 20:6"
+            }
+          ],
+          "comment": "Mshiriki wa ufufuo wa kwanza anaitwa mbarikiwa, kwa sababu mauti ya pili haina tena nguvu juu yake. Waliokombolewa wanaitumia miaka elfu pamoja na Kristo, wakiwa salama.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Ni uhakika gani unaotolewa na ahadi kwamba juu ya mshiriki wa ufufuo wa kwanza \"mauti ya pili haina nguvu\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Rev.20.1-3",
+              "ref": "Ufu 20:1-3"
+            }
+          ],
+          "comment": "Shetani anasimamishwa kwa miaka elfu - hana tena wa kumdanganya, kwa sababu wasiomcha Mungu wamekufa, na waliokombolewa wako mbinguni. \"Kufungwa\" kwake ni kukatwa kutoka utendaji juu ya dunia iliyoachwa ukiwa.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Inamaanisha nini kwamba \"kufungwa kwa Shetani\" ni kukosa wahanga wa kudanganya, na si tu mnyororo halisi?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "\"kufungwa kwa Shetani\" kama kutotenda, si toba (Ufu 20:1-3)",
+          "content": "Kusimamishwa kwa Shetani kwa miaka elfu hakumaanishi kuboreka kwake wala wokovu wake, bali kutotenda kwa lazima: juu ya dunia iliyoachwa ukiwa hakuna tena yeyote ambaye angeweza kumdanganya (waliokombolewa wako mbinguni, wasiomcha Mungu wamekufa). Ufunuo unampa majina manne - joka, nyoka wa zamani, Ibilisi na Shetani - yaleyale yaliyo katika Ufu 12:7-9. Kwa kuwa ni kiumbe cha kiroho, \"ufunguo\" na \"mnyororo\" pia ni vya kimfano: ni mazingira yanayomnyang'anya uwanja wa utendaji. Hii si nafasi ya pili kwa uovu, bali kutengwa kwake kabla ya hukumu ya mwisho."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "\"kuzimu\" (abyssos) kama hali ya machafuko na ukiwa",
+          "content": "Neno la Kigiriki abyssos (\"shimo\", \"kuzimu kusiko na chini\"), ambako Shetani anatupwa (Ufu 20:1.3), ni neno lilelile ambalo LXX inalitumia katika Mwa 1:2 kuhusu dunia \"isiyo na umbo na tupu\" kabla ya uumbaji. Kwa hiyo picha haiongelei gereza halisi kiasi kikubwa, bali hali ya ukiwa: dunia baada ya ujio wa Yesu inarudi kwenye machafuko, na Shetani amefungwa juu yake, bila uwezo wa utendaji wowote wa kuumba au kupanga. Hii ni picha inayogusa moyo ya kutokuwa na nguvu kabisa kwa uovu.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἄβυσσος",
+              "translit": "abyssos"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Jer.4.23-26",
+              "ref": "Yer 4:23-26"
+            }
+          ],
+          "comment": "Nabii anaiona dunia tupu na isiyo na umbo, isiyo na watu - picha ya ukiwa inayofanana na hali iliyokuwepo kabla ya uumbaji. Hii inalingana na dunia iliyoachwa ukiwa wakati wa miaka elfu.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Jinsi gani picha hii ya dunia iliyoachwa ukiwa inasaidia kuelewa mahali ambapo uzima HAUtokei wakati wa miaka elfu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "1Cor.6.2-3",
+              "ref": "1Kor 6:2-3"
+            }
+          ],
+          "comment": "Paulo anakumbusha kwamba ni watakatifu watakaouhukumu ulimwengu. Wakati wa miaka elfu waliokombolewa wanashiriki katika kupitia hukumu za Mungu - hukumu ni ya wazi na ya haki, si ya kiholela.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Kwa nini ni vyema kwamba waliokombolewa wanaweza \"kupitia\" hukumu za Mungu, kabla hukumu ya mwisho haijatolewa?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "kwa nini hukumu ya waliokombolewa, ikiwa hatima tayari imeamuliwa?",
+          "content": "Kwa kuwa hatima za watu zinaamuliwa tayari wakati wa ujio wa pili, hukumu ya waliokombolewa wakati wa miaka elfu (Ufu 20:4; 1 Kor 6:2-3) haiwekei maamuzi, bali inatumikia kuelewa na kuthibitisha. Kwa sababu ya upana wa kiulimwengu wa tatizo la dhambi (Ayu 1-2; Efe 3:10) ulimwengu wote - waliokombolewa, malaika, viumbe vya dunia zisizoanguka - unapaswa kujihakikishia kwamba Mungu alitenda kwa haki. Pia ni jibu kwa maumivu ya waliokombolewa wanaouliza kuhusu hatima ya wapendwa wao: hukumu inatoa uwazi kamili kuhusu tabia ya Mungu."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Rev.20.7-9",
+              "ref": "Ufu 20:7-9"
+            }
+          ],
+          "comment": "Baada ya miaka elfu Shetani anafunguliwa, wasiomcha Mungu wanafufuka (ufufuo wa pili), lakini uasi wao wa mwisho unaishia kwa hukumu. Miaka elfu inahitimisha pambano kuu.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Inamaanisha nini kwamba hata uasi wa mwisho haumshtuki Mungu, bali unaongoza kwenye mwisho wa haki wa uovu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "\"Gogu na Magogu\" kama picha ya uasi wa wote",
+          "content": "\"Gogu na Magogu\" wa Ufu 20:8 si majina ya mataifa mahususi wala nchi za kisasa, bali ni ishara ya uasi wa wote dhidi ya Mungu (linganisha Eze 38:2). Idadi ya waasi \"kama mchanga wa bahari\" inasisitiza ukubwa, lakini pia ubatili wa shambulizi hili la mwisho dhidi ya \"mji upendwao\" (Yerusalemu Mpya). Ukweli kwamba wasiomcha Mungu baada ya ufufuo mara moja wanageuka tena dhidi ya Mungu unathibitisha haki ya hukumu ya Mungu ya awali."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "\"kiti kikuu cheupe cha enzi\" na \"mauti ya pili\" (Ufu 20:11-15)",
+          "content": "Baada ya miaka elfu inafanyika hukumu mbele ya \"kiti kikuu cheupe cha enzi\" (Ufu 20:11-15): vitabu vinafunguliwa, na wasiomcha Mungu wanahukumiwa kulingana na matendo yao. \"Mauti ya pili\", inayofananishwa na \"ziwa la moto\", katika mtazamo huu ni mauti ya mwisho na isiyoweza kubatilishwa, na si mateso ya milele - mwanadamu si asili yake hawezi kufa, kwa hiyo anaangamizwa (linganisha Mal 4:1; Mt 10:28). Hata adhabu ya Shetani ina mwisho, kwa kuwa naye pia ni kiumbe. Matokeo ni ya milele, lakini tendo lenyewe la moto linaisha - na kutoka majivuni Mungu anaumba dunia mpya (2Pe 3:13)."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n11",
+          "noteType": "term",
+          "label": "\"akawala / akateketeza\" (katesthio) na mwisho wa uovu",
+          "content": "Katika Ufu 20:9 wasiomcha Mungu \"wanateketezwa\" na moto - kitenzi cha Kigiriki (katesthio, \"kumeza, kuteketeza\") kinaonyesha kuangamizwa kabisa, si kudumu kusiko na mwisho kwa mateso. Vivyo hivyo inatokea kwa mauti na kuzimu (Hadesi), vinavyotupwa katika ziwa la moto (Ufu 20:14): kinachoondolewa si dhambi pekee, bali pia mauti yenyewe. Kutoka hapa inakuja ahadi kwamba machozi, mauti na maumivu havitakuwapo tena (Ufu 21:4). Umbo la Kigiriki limetolewa kwa tahadhari - lithibitishwe wakati wa ukaguzi."
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Ujio wa pili si wazo lisilo wazi wala tukio la kibinafsi - utakuwa wa kuonekana, wa kusikika na wa kimataifa, unaotambulika kwa kila mwanadamu. Kwa mwamini ni tumaini la baraka: siku ambayo waliokufa katika Kristo watafufuka, walio hai watabadilishwa, na mauti yatashindwa. Kisha miaka elfu pamoja na Kristo - wakiwa salama, wakishiriki katika hukumu ya wazi na ya haki, wakati uovu unatengwa. Pambano kuu linaelekea mwisho ambao Mungu si tu anashinda, bali pia anaeleza kila kitu. Hili ni tumaini linaloyapanga maisha leo.",
+    "challenge": "Soma wiki hii 1The 4:16-18 na utambue kwamba Paulo anahitimisha fungu hili kwa wito wa kufarijiana kwa maneno haya. Ikiwa umempoteza mtu aliyemtumaini Yesu, tumia ahadi hii kama faraja. Andika pia swali moja ambalo ungependa kulielewa wakati wa miaka elfu - na ulikabidhi kwa Mungu wa haki."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study przyjscie-i-millenium"
+  }
+}

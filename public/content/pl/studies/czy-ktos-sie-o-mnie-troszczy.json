@@ -1,0 +1,488 @@
+{
+  "id": "czy-ktos-sie-o-mnie-troszczy",
+  "lang": "pl",
+  "title": "Czy Bóg się o mnie troszczy?",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 1,
+  "summary": "Pierwsze spotkanie z Bogiem, który zna mnie osobiście, stworzył mnie z miłości i troszczy się o moją codzienność - punkt wyjścia do relacji, nie do religii.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "Bóg",
+    "miłość",
+    "stworzenie",
+    "troska",
+    "tożsamość"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Czy jest Ktoś, komu na mnie zależy?",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Ps.139.1-4",
+              "ref": "Ps 139,1-4"
+            }
+          ],
+          "comment": "Zanim zapytamy „czy Bóg istnieje?\", Psalm pyta inaczej: czy ktoś naprawdę mnie zna. Bóg zna każdą myśl i słowo, zanim je wypowiem.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Co czujesz, czytając, że Ktoś zna cię aż tak dokładnie - niepokój czy ulgę? Dlaczego?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Ps.139.13-16",
+              "ref": "Ps 139,13-16"
+            }
+          ],
+          "comment": "Nie jestem przypadkiem ani błędem - zostałem „utkany\" i zapisany w Bożej księdze, zanim cokolwiek zrobiłem.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Co zmienia w spojrzeniu na siebie myśl, że istniejesz z zamysłu, a nie z przypadku?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "background",
+          "label": "Psalm 139 jako pocieszenie, nie zagrożenie",
+          "content": "Wszechwiedza i wszechobecność Boga w Ps 139 nie są przedstawione jako inwigilacja, lecz jako troska Tego, który zna i nie opuszcza. To klucz interpretacyjny całego psalmu: „Ty mnie przenikasz i znasz\" znaczy tu „zależy Ci na mnie\".",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Czy Boża wiedza o tobie brzmi dla ciebie groźnie czy kojąco? Co o tym decyduje?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "„w Twojej księdze zapisane dni\" (Ps 139,16)",
+          "content": "Obraz pochodzi ze świata starożytnych zwojów i ksiąg dworskich, gdzie zapisywano losy i imiona. Psalmista mówi, że Bóg „widział\" jego dni, zanim którykolwiek nastał - to poetycki sposób wyrażenia, że moje życie nie jest serią przypadków bez autora i sensu."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Ps.8.4-6",
+              "ref": "Ps 8,5-7"
+            }
+          ],
+          "comment": "Wobec ogromu wszechświata człowiek wydaje się mały - a jednak Bóg o nim pamięta i obdarza godnością.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Kiedy ostatnio czułeś się „mały\" lub nieważny? Jak brzmi na to odpowiedź Psalmu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Bóg, który JEST miłością",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "1John.4.8-10",
+              "ref": "1 J 4,8-10"
+            }
+          ],
+          "comment": "Biblia nie mówi tylko, że Bóg kocha - mówi, że Bóg *jest* miłością, a dowodem jest to, że pierwszy wyszedł do nas.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Czym różni się stwierdzenie „Bóg kocha\" od „Bóg jest miłością\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "„Bóg jest miłością\" (1 J 4,8)",
+          "content": "W grece „miłość\" to *agapē* - miłość ofiarna, wybierająca dobro drugiego, niezależna od jego zasług. Zdanie „Bóg jest miłością\" opisuje nie tylko to, co Bóg robi, ale to, kim jest: miłość to Jego natura, nie nastrój.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ὁ θεὸς ἀγάπη ἐστίν",
+              "translit": "ho theos agapē estin"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Jak rozumienie *agapē* jako miłości wybierającej (a nie odwzajemnianej) zmienia obraz Boga?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "John.3.16",
+              "ref": "J 3,16"
+            }
+          ],
+          "comment": "Miłość Boga ma konkretny adres - świat, czyli także ja - i konkretną cenę: Syna.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Gdybyś wstawił swoje imię w miejsce „świata\", jak brzmiałby ten werset dla ciebie?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Rom.5.8",
+              "ref": "Rz 5,8"
+            }
+          ],
+          "comment": "Bóg nie czekał, aż się poprawię. Pokazał miłość, *gdy* jeszcze byłem od Niego odwrócony.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Co to znaczy dla kogoś, kto myśli, że najpierw musi „zasłużyć\", by Bóg go pokochał?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Jer.31.3",
+              "ref": "Jr 31,3"
+            }
+          ],
+          "comment": "Boża miłość nie jest chwilowym uczuciem - jest „wieczna\", uparta, szukająca.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Co znaczy, że ktoś kocha cię „miłością wieczną\", a nie zależną od twojej formy?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "„miłość wieczna\" i „łaskawość\" (Jr 31,3)",
+          "content": "„Ukochałem cię miłością wieczną\" to hebr. *ahavat olam* - miłość trwała, bez terminu ważności. Następne słowo, oddawane jako „łaskawość\" lub „przyciągnąłem cię\", to *chesed* - wierna, przymierzowa dobroć Boga, która nie odpuszcza. To nie sentyment, lecz zobowiązanie.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "אַהֲבַת עוֹלָם",
+              "translit": "ahavat olam"
+            },
+            {
+              "lang": "hbo",
+              "text": "חֶסֶד",
+              "translit": "chesed"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Luke.15.20",
+              "ref": "Łk 15,20"
+            }
+          ],
+          "comment": "W przypowieści to ojciec wybiega pierwszy - obraz Boga, który nie czeka z założonymi rękami.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Który ruch jest tu zaskakujący: powrót syna czy bieg ojca? Dlaczego?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "dlaczego bieg ojca był skandalem (Łk 15,20)",
+          "content": "W kulturze Bliskiego Wschodu dostojny, starszy mężczyzna nie biegał publicznie - musiałby podkasać szatę i odsłonić nogi, co uchodziło za upokarzające. Ojciec z przypowieści bierze ten wstyd na siebie, byle pierwszy dobiec do syna. To celowy obraz Boga, który rezygnuje z „godności z dystansu\", aby nas odzyskać."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Troszczy się o moją codzienność",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Matt.6.26",
+              "ref": "Mt 6,26"
+            }
+          ],
+          "comment": "Jeśli Bóg karmi ptaki, to tym bardziej zależy Mu na tobie - jesteś od nich cenniejszy.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "O co najczęściej się martwisz? Jak zmienia to spojrzenie świadomość Bożej troski?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Matt.6.31-33",
+              "ref": "Mt 6,31-33"
+            }
+          ],
+          "comment": "Bóg nie obiecuje życia bez potrzeb, lecz Ojca, który „wie\", i zaprasza, by szukać najpierw Jego.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Co praktycznie znaczyłoby „szukać najpierw Królestwa\" w twoim tygodniu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "„nie martwcie się\" to nie wezwanie do bierności (Mt 6)",
+          "content": "W Kazaniu na Górze „nie martwcie się\" nie znaczy „nie planujcie\", lecz „nie dajcie się rozedrzeć niepokojowi\". „Szukajcie więc najpierw Królestwa Boga\" mówi o priorytecie, nie o kolejności w czasie: chodzi o to, co jest na pierwszym miejscu, a nie o porzucenie pracy i obowiązków."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "1Pet.5.7",
+              "ref": "1 P 5,7"
+            }
+          ],
+          "comment": "Troskę można „złożyć\" na Boga - bo naprawdę Mu na tobie zależy.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Jaką jedną troskę chciałbyś dziś „złożyć\" na Boga?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "„całą troskę złóżcie na Niego\" (1 P 5,7)",
+          "content": "„Troska\" to gr. *merimna* - rozdzierająca myśl, niepokój, który rozprasza. Czasownik oddawany jako „złożyć\" to *epiriptō*, dosłownie „przerzucić\" (jak ciężar zrzucany z własnych pleców na kogoś silniejszego). Obraz jest fizyczny: nie „radź sobie z lękiem\", lecz „przerzuć go na Tego, komu na tobie zależy\".",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μέριμνα",
+              "translit": "merimna"
+            },
+            {
+              "lang": "grc",
+              "text": "ἐπιρίπτω",
+              "translit": "epiriptō"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Luke.12.6-7",
+              "ref": "Łk 12,6-7"
+            }
+          ],
+          "comment": "Policzone włosy to obraz uwagi do najmniejszego szczegółu twojego życia.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Czy łatwiej ci wierzyć w Boga „od wielkich spraw\" czy w Boga uważnego na drobiazgi?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Stworzeni do relacji",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Gen.1.27",
+              "ref": "Rdz 1,27"
+            }
+          ],
+          "comment": "Człowiek jest stworzony „na obraz Boży\" - stąd jego wyjątkowa wartość i zdolność do relacji.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Jeśli noszę „obraz Boży\", co to mówi o wartości każdego człowieka, także mojej?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "„obraz Boży\" (Rdz 1,27)",
+          "content": "Hebrajskie *celem* („obraz\") to słowo używane też o posągu reprezentującym władcę w odległej prowincji. Człowiek jest „posągiem\" Boga w stworzeniu: reprezentuje Go i jest powołany do relacji z Nim. To fundament ludzkiej godności - niezależnej od osiągnięć, sprawności czy opinii innych.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "צֶלֶם",
+              "translit": "celem"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Isa.43.1",
+              "ref": "Iz 43,1"
+            }
+          ],
+          "comment": "Bóg woła po imieniu i mówi „należysz do Mnie\" - to język relacji, nie anonimowej religii.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Co znaczyłoby usłyszeć od Boga swoje własne imię i słowa „należysz do Mnie\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "term",
+          "label": "cztery czasowniki bliskości (Iz 43,1)",
+          "content": "W jednym wersecie Bóg mówi: „stworzyłem\" (*bara*), „ukształtowałem\" (*jacar*), „odkupiłem\" (*ga'al*) i „wezwałem po imieniu\". *Ga'al* to termin z prawa rodzinnego: „wykupiciel\" (go'el) to bliski krewny, który spłacał dług i ratował swojego. Bóg nie jest tu odległym Stwórcą, lecz Krewnym, który bierze odpowiedzialność za swojego.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "גָּאַל",
+              "translit": "ga'al"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Acts.17.24-28",
+              "ref": "Dz 17,24-28"
+            }
+          ],
+          "comment": "Bóg Stwórca nie jest daleki - „W Nim przecież żyjemy, poruszamy się i jesteśmy\", a On chce być znaleziony.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Co w tym tekście mówi, że Bóg jest blisko, mimo że Go nie widzimy?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "Paweł cytuje pogańskiego poetę (Dz 17,28)",
+          "content": "Na ateńskim Areopagu Paweł, mówiąc do niechrześcijan, sięga po ich własną kulturę: „jego rodu jesteśmy\" to cytat z greckiego poety Aratosa. Zamiast zaczynać od potępienia, buduje most: Stwórca jest tak blisko, że nawet pogańscy poeci coś z tego przeczuli. Wzór mówienia o Bogu językiem zrozumiałym dla słuchacza.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "τοῦ γὰρ καὶ γένος ἐσμέν",
+              "translit": "tou gar kai genos esmen"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "1John.3.1",
+              "ref": "1 J 3,1"
+            }
+          ],
+          "comment": "Cel tej miłości to nie podziw z dystansu, lecz nazwanie nas dziećmi Boga.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Co zmienia w relacji z Bogiem przejście od „Stwórca\" do „Ojciec\"?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Bóg nie jest odległym sędzią ani bezosobową siłą. Zna cię po imieniu, stworzył cię z zamysłu i miłości, i troszczy się o twoją codzienność. Wiara nie zaczyna się od wysiłku, żeby zasłużyć - zaczyna się od przyjęcia, że jesteś chciany i kochany.",
+    "challenge": "Przez najbliższy tydzień zapisuj każdego dnia jedną rzecz, w której dostrzegasz Bożą troskę o ciebie. Raz w tym tygodniu „złóż\" na Boga jedną konkretną troskę (1 P 5,7) - wypowiedz ją Mu wprost."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "status: draft needsReview: true generatedBy: claude notes: Ciekawostki PRO (10) rozłożone w sekcjach, przy tekstach, których dotyczą (nie na końcu). Źródła tła doktrynalnego: `books/_txt/00103 Doctrine of God`, `00111 Creation` (handbook ADS). Formy oryginalne (PRO) do weryfikacji u recenzenta: `ἀγάπη` (1 J 4,8); `אַהֲבַת עוֹלָם`, `חֶסֶד` (Jr 31,3); `μέριμνα`, `ἐπιρίπτω` (1 P 5,7); `צֶלֶם` (Rdz 1,27); `גָּאַל` (Iz 43,1); cytat `τοῦ γὰρ καὶ γένος ἐσμέν` (Dz 17,28, Aratos) potwierdzić zapis i transliterację. Tło kulturowe do potwierdzenia: zwyczaj „biegnącego ojca\" (Łk 15,20) jako uchybienie godności starszego mężczyzny na Bliskim Wschodzie. Tekst wersetów celowo NIE jest wstawiony tylko odnośniki (osis + ref); treść dociągana z przekładu."
+  }
+}

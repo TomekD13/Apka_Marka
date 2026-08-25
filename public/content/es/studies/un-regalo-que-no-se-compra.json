@@ -1,0 +1,523 @@
+{
+  "id": "un-regalo-que-no-se-compra",
+  "lang": "es",
+  "title": "Un regalo que no se compra",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 5,
+  "summary": "La salvación es un don de la gracia que se recibe por la fe, no una recompensa por las obras. Dios justifica al pecador y le da la seguridad de la vida eterna ya ahora, una seguridad fundada en Cristo, no en mi ausencia de pecado. Las obras son el fruto de la salvación, nunca su precio.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "la gracia",
+    "la fe",
+    "la salvación",
+    "la justificación",
+    "la seguridad",
+    "el don",
+    "las obras"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Por gracia, no por obras",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Eph.2.8-9",
+              "ref": "Ef 2:8-9"
+            }
+          ],
+          "comment": "Tres palabras clave: \"por gracia... mediante la fe... don\". Y una negación clara: \"no por obras, para que nadie se gloríe\". La salvación es de principio a fin un regalo.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "¿Cómo se vive de manera distinta cuando la salvación es un don que se recibe y no una recompensa que hay que ganarse?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"gracia\" como don sin mérito",
+          "content": "El griego *charis* significa un don dado por pura buena voluntad, sin mérito y sin esperar retribución. En la teología de Pablo la gracia no es una \"ayuda para auto-salvarse\", sino todo el fundamento: Dios da lo que no podíamos ni merecer ni devolver. Por eso la salvación \"por gracia, mediante la fe\" excluye el gloriarse (Ef 2:9): un don, por definición, no es un sueldo ganado.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χάρις",
+              "translit": "charis"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "¿Cómo protege de dos extremos - la desesperación y el orgullo - entender la gracia como un don \"sin mérito y sin retribución\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Titus.3.5",
+              "ref": "Tit 3:5"
+            }
+          ],
+          "comment": "Dios nos salvó \"no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia\". El punto de partida es su misericordia, no nuestros logros.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "¿Qué hay en ti que se resiste a la idea de que no tienes que (ni puedes) ganarte la salvación?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Rom.4.4-5",
+              "ref": "Ro 4:4-5"
+            }
+          ],
+          "comment": "Pablo contrapone la \"paga\" (debida por el trabajo) y el \"don\" (acreditado por gracia al que cree). Dios \"justifica al impío\", no al que lo \"merece\".",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "¿Por qué llamar a la salvación \"paga\" cambiaría por completo su sentido?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "\"se contó\" es un término contable (Ro 4)",
+          "content": "En Ro 4 vuelve una y otra vez la palabra *logizomai*: \"contar, anotar en la cuenta\" (lenguaje de contabilidad). Dios \"acredita\" al creyente una justicia que este no produjo, igual que se anota a alguien un don en su cuenta. No es una ficción: es la decisión de Dios que, por causa de Cristo, trata al pecador como justo. La fe no \"gana\" ese asiento, sino que lo recibe.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "λογίζομαι",
+              "translit": "logizomai"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Rom.11.6",
+              "ref": "Ro 11:6"
+            }
+          ],
+          "comment": "La gracia y las obras como base de la salvación se excluyen mutuamente: \"si es por gracia, ya no es por obras; de lo contrario, la gracia ya no sería gracia\". No se pueden mezclar.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "¿Por qué incluso \"una pizca de mérito\" añadida a la gracia echa a perder todo el Evangelio?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Gal.2.16",
+              "ref": "Gá 2:16"
+            }
+          ],
+          "comment": "\"El hombre no es justificado por las obras de la Ley, sino por la fe.\" Esto no rebaja la Ley de Dios, sino que reconoce que ella no nos salva.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "¿Qué función cumple entonces la Ley de Dios, si no salva? (Cf. Ga 3:24: el \"ayo\" que conduce a Cristo.)"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"fe\" es confianza, no solo asentimiento mental",
+          "content": "La \"fe\" bíblica (gr. *pistis*) no es solo la convicción de que algo es verdad, sino la confianza y el apoyarse en alguien; la misma palabra lleva también el sentido de \"fidelidad\". Por eso ser justificado \"por la fe\" no significa \"por tener ideas correctas\", sino \"por confiarse uno mismo a Cristo\". La fe no es, pues, otra \"obra\" de la cual gloriarnos: es la mano vacía que se extiende para recibir el don.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "πίστις",
+              "translit": "pistis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "La justificación: un don recibido por la fe",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Rom.3.23-24",
+              "ref": "Ro 3:23-24"
+            }
+          ],
+          "comment": "Todos pecaron, y esos mismos \"todos\" son \"justificados gratuitamente por su gracia\". La misma universalidad del pecado y la universalidad de la oferta.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "¿Qué significa para ti estar en la misma fila de los \"necesitados de gracia\" que cualquier otra persona?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "\"justificar\" es un veredicto, no un proceso",
+          "content": "El verbo *dikaioō* proviene del lenguaje judicial y significa \"declarar justo, absolver\". La justificación es un veredicto de Dios que cambia el estatus del pecador: no \"hecho gradualmente mejor\", sino \"declarado justo\" por causa de Cristo, recibido por la fe. Este es el fundamento de la seguridad: el veredicto ya fue emitido y no depende de los altibajos de mi condición espiritual.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "δικαιόω",
+              "translit": "dikaioō"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q18",
+              "text": "¿Por qué entender la justificación como un veredicto ya emitido (y no como un proceso de \"llegar a ser bueno\") da una seguridad más firme?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Rom.5.1",
+              "ref": "Ro 5:1"
+            }
+          ],
+          "comment": "\"Justificados por la fe, tenemos paz para con Dios.\" La justificación no es solo un cambio de estatus legal, sino el fin de la enemistad y el comienzo de la paz.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "¿Qué es esa \"paz con Dios\" que no se puede producir ni con miedo ni con esfuerzo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Gen.15.6",
+              "ref": "Gn 15:6"
+            }
+          ],
+          "comment": "Ya Abraham \"creyó a Dios y le fue contado por justicia\". El principio \"la justicia por la fe\" no es una novedad de Pablo: es el corazón de la Biblia desde el principio.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "¿Qué dice el hecho de que Dios le \"acreditara la justicia\" a Abraham por su fe, antes de que él hiciera nada?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "Abraham justificado antes de la Ley y de la circuncisión",
+          "content": "Pablo subraya el orden: Dios declaró justo a Abraham (Gn 15:6) muchos años antes de la circuncisión (Gn 17) y siglos antes de la entrega de la Ley en el Sinaí. Es un argumento contundente: si el \"padre de los creyentes\" fue justificado solo por la fe, antes de que existiera la Ley o la circuncisión, tampoco nosotros somos salvos por las obras de la Ley, sino por la fe, exactamente como él (Ro 4:9-12)."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Luke.18.13-14",
+              "ref": "Lc 18:13-14"
+            }
+          ],
+          "comment": "El publicano no enumera méritos, sino que ruega: \"Dios, sé propicio a mí, pecador\", y es él quien \"descendió justificado\". La fe es la mano vacía que se extiende.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "¿A qué actitud te sientes hoy más cercano: a la del fariseo (\"tengo de qué presumir\") o a la del publicano (\"me confío a la misericordia\")?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "La seguridad de la salvación ya ahora",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "1John.5.11-13",
+              "ref": "1 Jn 5:11-13"
+            }
+          ],
+          "comment": "Juan escribe sin rodeos: \"para que sepáis que tenéis vida eterna\". La seguridad no es orgullo: es el propósito por el cual se nos dio este testimonio.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "¿Te parecía hasta ahora que la seguridad de la salvación era presunción? ¿Qué cambia este texto?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "textual",
+          "label": "el objetivo de la Carta de Juan: \"para que SEPÁIS\" (1 Jn 5:13)",
+          "content": "Toda la primera parte de la Carta de Juan apunta a esta frase: \"os he escrito... para que sepáis que tenéis vida eterna\". El verbo empleado (\"para que sepáis\") indica un conocimiento cierto, no un deseo piadoso. La seguridad de la salvación es aquí el objetivo declarado del texto inspirado: no es atrevimiento, sino el fruto de confiar en el testimonio de Dios acerca de su Hijo (1 Jn 5:9-12).",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Si la seguridad de la salvación es el objetivo de una carta inspirada, ¿cómo hay que tratar la duda constante de \"¿estaré realmente salvado?\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "John.5.24",
+              "ref": "Jn 5:24"
+            }
+          ],
+          "comment": "\"El que oye... y cree, tiene (ahora) vida eterna y no viene a juicio, sino que ha pasado de muerte a vida.\" Tiempo presente y perfecto: ya es un hecho, no solo una esperanza.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "¿Qué significa que la vida eterna sea algo que el creyente \"tiene\" ya ahora, y no algo que recibirá solo algún día?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "John.10.28-29",
+              "ref": "Jn 10:28-29"
+            }
+          ],
+          "comment": "\"No perecerán jamás, y nadie las arrebatará de mi mano.\" La seguridad se apoya en el poder del Pastor, no en la fuerza con que yo me sujeto.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "¿Cómo cambia el sentimiento de seguridad saber que es la mano de Jesús la que me sostiene, y no la mía a Él?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Rom.8.38-39",
+              "ref": "Ro 8:38-39"
+            }
+          ],
+          "comment": "\"Nada podrá separarnos del amor de Dios en Cristo.\" La lista es exhaustiva: ni siquiera \"yo mismo\" soy una excepción capaz de quedar fuera de ese amor.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "¿Qué hay en tu lista personal de \"¿y si esto me separa?\" que Pablo ya tuvo en cuenta aquí?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Phil.1.6",
+              "ref": "Fil 1:6"
+            }
+          ],
+          "comment": "\"El que comenzó en vosotros la buena obra la perfeccionará.\" La salvación es un proyecto de Dios, y Él no abandona lo que empezó.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "¿Por la perseverancia de quién se sostiene tu salvación: la tuya o la de Dios? ¿Qué cambia eso?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "el Espíritu como \"arras\" de la salvación",
+          "content": "Como confirmación de la promesa, Dios da a los creyentes el Espíritu como *arrabon* (Ef 1:14; 2 Co 1:22; 5:5): \"arras, anticipo, garantía\". En el griego comercial era el adelanto que sellaba la transacción; en el griego moderno la misma palabra significa anillo de compromiso. La presencia del Espíritu en la vida del creyente es, pues, un \"anticipo del cielo\": la garantía de Dios de que lo que comenzó lo llevará a término (Flp 1:6).",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἀρραβών",
+              "translit": "arrabon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Seguridad en Cristo, las obras como fruto",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Eph.2.10",
+              "ref": "Ef 2:10"
+            }
+          ],
+          "comment": "Justo después de \"no por obras\" (Ef 2:9) viene: somos \"creados... para buenas obras\". La vida buena es la meta y el fruto de la salvación, no su precio.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "¿Cómo entiendes la diferencia entre las obras \"para ser salvado\" y las obras \"porque ya soy salvado\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "justificación y santificación (no son contradicción)",
+          "content": "La Biblia dice tanto \"por gracia, no por obras\" (Ef 2:8-9) como \"la fe sin obras está muerta\" (Stg 2:17). No es una contradicción, sino dos aspectos: la justificación (ser aceptado por Dios) es gratuita y única; la santificación (la transformación de la vida) es su fruto y un proceso. Las obras no son la raíz de la salvación, sino su fruto; el orden es siempre: primero el don, después la respuesta (1 Jn 4:19).",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "¿Cómo resuelve la distinción entre \"raíz y fruto\" el aparente conflicto entre Pablo y Santiago?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "John.15.4-5",
+              "ref": "Jn 15:4-5"
+            }
+          ],
+          "comment": "El fruto nace de \"permanecer\" en la Vid, no del esfuerzo de la rama: \"sin mí nada podéis hacer\". Primero el vínculo, después el fruto.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "¿Qué significa en la práctica \"permanecer en Jesús\" en lugar de \"esforzarse por cuenta propia\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Titus.2.11-14",
+              "ref": "Tit 2:11-14"
+            }
+          ],
+          "comment": "Es la \"gracia... la que nos enseña\" a abandonar el mal y a vivir piadosamente. La gracia no es un permiso para vivir de cualquier manera: es el poder que realmente transforma.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "¿Cómo puede la gracia ser a la vez gratuita y conducir a un cambio real de vida?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Jas.2.17-18",
+              "ref": "Stg 2:17-18"
+            }
+          ],
+          "comment": "\"La fe sin obras está muerta.\" Esto no niega la gracia, sino que la pone a prueba: una fe viva siempre da fruto. El fruto demuestra la vida, no la compra.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "¿En qué se diferencia la \"fe que da fruto\" (viva) de la \"fe que pretende conseguir algo con sus obras\" (un regateo)?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "Rom.7.24-25",
+              "ref": "Ro 7:24-25"
+            }
+          ],
+          "comment": "Incluso al exclamar \"¡miserable de mí!\", Pablo enseguida da gracias a Dios \"por Jesucristo\". La seguridad no depende de mi ausencia de pecado, sino de Cristo.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "¿Por qué la conciencia de la propia debilidad no tiene por qué socavar la seguridad de la salvación fundada en Jesús?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "La salvación no se puede comprar ni ganar con esfuerzo: solo se puede recibir como un don. Dios, por gracia y mediante la fe, declara justo al pecador por causa de Cristo y le da la seguridad de la vida eterna ya ahora. Esa seguridad no se apoya en lo bueno que yo soy hoy, sino en quién es Jesús y en lo que Él hizo. Tu ausencia de pecado no es la condición de la salvación: cierto, una vida transformada llegará, pero como fruto del don, nunca como su precio.",
+    "challenge": "Lee en voz alta 1 Jn 5:11-13 y Jn 5:24, poniendo en ellos tu propio nombre. Escribe en primera persona una frase de seguridad (p. ej. \"Tengo vida eterna, porque tengo al Hijo\"). Esta semana, cada vez que vuelva el pensamiento \"tengo que merecerlo\", responde con esa frase, y haz una buena obra no para conseguir algo, sino por gratitud por lo que ya has recibido."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "ES translation of PL study zbawienie-za-darmo"
+  }
+}

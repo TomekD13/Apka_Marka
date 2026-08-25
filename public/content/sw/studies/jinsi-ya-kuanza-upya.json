@@ -1,0 +1,542 @@
+{
+  "id": "jinsi-ya-kuanza-upya",
+  "lang": "sw",
+  "title": "Jinsi ya kuanza upya?",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 6,
+  "summary": "Wongofu si kujirekebisha mwenyewe, bali ni kubadilisha mwelekeo: toba na kumkabidhi Mungu maisha, ambamo Yeye humzaa mtu upya, humpa moyo mpya na kumfanya kiumbe kipya. Huu ni mwanzo wa uhusiano unaohuishwa kila siku, si tendo la mara moja la kumaliza.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "wongofu",
+    "toba",
+    "kuzaliwa upya",
+    "moyo mpya",
+    "kiumbe kipya",
+    "kukabidhi maisha"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Toba: kubadilisha mwelekeo",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Mark.1.15",
+              "ref": "Mk 1:15"
+            }
+          ],
+          "comment": "Maneno ya kwanza ya huduma ya hadhara ya Yesu: „tubuni na kuiamini Injili\". Toba na imani ni pande mbili za mgeuko ule ule kuelekea kwa Mungu.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Inamaanisha nini „kutubu\" - kurekebisha tabia tu au kubadilisha yule ninayemtumaini na ninayemwendea?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "„toba\" ni kubadilisha fikra na mwelekeo",
+          "content": "Neno la Kiyunani *metanoia* halimaanishi kwanza „huzuni\" wala „adhabu\", bali „kubadilika kwa fikra na mwelekeo\" kunakoongoza kwenye kubadilika kwa njia ya maisha. Si kujiadhibu, bali ni namna mpya ya kuona, ambayo kutoka kwake huzuka njia mpya. Toba na imani katika Mk 1:15 ni pande mbili za mgeuko mmoja: najigeuza kutoka njia yangu ya zamani, kwa sababu nimeiamini Habari Njema.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μετάνοια",
+              "translit": "metanoia"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Je, kuelewa wongofu kama „kubadilika kwa fikra na mwelekeo\" (si majuto tu) hubadilishaje matendo ya toba?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Acts.3.19",
+              "ref": "Mdo 3:19"
+            }
+          ],
+          "comment": "„Tubuni na kuongoka, ili dhambi zenu zifutwe.\" Toba si adhabu ninayojiwekea - ni njia ya ukombozi na „kuburudishwa\".",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Hadi sasa „toba\" iliambatana na nini akilini mwako - mzigo au faraja? Andiko hili linabadilisha nini?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Luke.15.17-20",
+              "ref": "Lk 15:17-20"
+            }
+          ],
+          "comment": "Mwana mpotevu kwanza „alijitafakari\", kisha „akaondoka, akaenda kwa baba yake\". Wongofu ni utambuzi pamoja na hatua halisi kuelekea nyumbani.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Ni kipi huwa kigumu zaidi: kuona ukweli kuhusu nafsi yako au kuchukua hatua ya kwanza ya kurudi? Kwa nini?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "kurudishwa kwenye uana, si kwa majaribio (Lk 15)",
+          "content": "Mwana alitazamia hadhi ya kibarua tu, lakini baba humrudisha kikamilifu kama mwana: vazi (heshima), pete (mamlaka na kuwa wa familia), viatu (waliovaa walikuwa watu huru, si watumwa) na karamu. Huu ni mfano wa wongofu machoni pa Mungu: si „kipindi cha majaribio\" wala „daraja la pili\", bali kurudishwa kamili na mara moja kwenye familia. Kurudi kwa Mungu hakutufanyi watumishi wa masharti - hutufanya tena watoto.",
+          "questions": []
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "2Cor.7.10",
+              "ref": "2Kor 7:10"
+            }
+          ],
+          "comment": "Paulo anatofautisha „huzuni ya kimungu\", inayoleta toba, na huzuni tasa ya „dunia hii\". Suala ni majuto yanayoongoza kwenye mabadiliko, si kujiadhibu.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Ni tofauti gani kati ya majuto yanayoongoza kwa Mungu na kwenye mabadiliko, na majuto yanayozamisha tu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Isa.55.7",
+              "ref": "Isa 55:7"
+            }
+          ],
+          "comment": "„Mtu mbaya na aiache njia yake... amrudie BWANA, naye atamrehemu.\" Wongofu ni kuacha njia moja na kupokea msamaha wa Mungu ulio „mwingi\".",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Inasema nini kuhusu Mungu kwamba anayemrudia humsubiri si lawama, bali msamaha „mwingi\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "neno la Kiebrania „shub\": geuka na urudi",
+          "content": "Mlinganisho wa wongofu katika Agano la Kale ni *shub* - „kugeuka, kujigeuza na kurudi\". Hili ni neno la lugha ya njiani: mtu alikuwa akielekea upande mmoja, anasimama, anageuka na kurudi nyumbani. Ndiyo maana manabii hupaza sauti „mrudieni (rudini kwa) BWANA\". Hivyo wongofu ni mgeuko wa nafsi nzima kuelekea kwa Mungu, si hisia ya majuto tu wala kurekebisha matendo kwa juujuu.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "שׁוּב",
+              "translit": "szub"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Kumkabidhi Mungu maisha",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Rom.12.1",
+              "ref": "Rum 12:1"
+            }
+          ],
+          "comment": "Jibu kwa rehema za Mungu ni kuitoa „nafsi yenu\" kama „dhabihu iliyo hai\". Si sehemu ya maisha wala siku moja - bali nzima.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Ni kipi kwako kigumu zaidi kumkabidhi Mungu „kikamilifu\", na ni kipi ungependa kukibakiza kwa ajili yako tu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Gal.2.20",
+              "ref": "Gal 2:20"
+            }
+          ],
+          "comment": "„Si mimi tena ninayeishi, bali Kristo anaishi ndani yangu.\" Kukabidhi maisha si kupoteza nafsi, bali ni kubadilishana: „mimi\" wangu wa zamani kwa uzima wa Kristo ndani yangu.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Je, kumkabidhi Mungu maisha kunakusikia zaidi kama hasara au faida? Ni kipi kinachozidi?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Luke.9.23",
+              "ref": "Lk 9:23"
+            }
+          ],
+          "comment": "Yesu anaalika „kila siku\" kujitwika msalaba na kumfuata. Neno „kila siku\" laonyesha kuwa kukabidhi maisha ni mdundo, si uamuzi wa mara moja.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Ni nini kungeweza kumaanisha kwako „kila siku\" kumfuata Yesu - katika mambo halisi ya kesho?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Kuzaliwa upya",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "John.3.3",
+              "ref": "Yoh 3:3"
+            }
+          ],
+          "comment": "Yesu amwambia Nikodemo: „mtu asipozaliwa mara ya pili, hawezi kuuona Ufalme wa Mungu\". Unahitajika mwanzo mpya, si kuremba maisha ya zamani.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Kwa nini Yesu anena juu ya „kuzaliwa upya\", si tu „kujirekebisha\"? Hili linadokeza nini kuhusu hali yetu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "„mara ya pili\" humaanisha pia „kutoka juu\" (Yoh 3:3)",
+          "content": "Neno la Kiyunani *anothen* lina maana mbili: „mara ya pili\" na „kutoka juu, kutoka kwa Mungu\". Utata huu ni wa makusudi: kuzaliwa upya ni mwanzo mpya na wakati huo huo ni kazi inayotoka juu (kutoka kwa Roho). Kutoelewa kwa Nikodemo (alielewa „tena\" tu, kwa namna ya kibinadamu) hudhihirisha kiini: chanzo cha kuzaliwa huku ni mbingu, si biolojia ya kibinadamu wala nia peke yake.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἄνωθεν",
+              "translit": "anothen"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Tunapata nini kwa kusoma kuzaliwa upya kama „mara ya pili\" na pia „kutoka juu\"? Tunapoteza nini kwa kuchukua maana moja tu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "John.3.5-6",
+              "ref": "Yoh 3:5-6"
+            }
+          ],
+          "comment": "Kuzaliwa „kwa Roho\" ni kazi ya Mungu, si jitihada yetu: „kilichozaliwa kwa Roho ni roho\". Sisi twazaliwa - lakini anayetuzaa ni Mwingine.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Inamaanisha nini kwamba maisha mapya hayawezi „kutengenezwa\" kwa jitihada, bali yaweza tu kupokelewa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "John.3.7-8",
+              "ref": "Yoh 3:7-8"
+            }
+          ],
+          "comment": "Yesu analinganisha utendaji wa Roho na upepo: hatuudhibiti, lakini twaona matokeo yake. Kuzaliwa upya huwa kwa siri, lakini ni halisi na hutambulika.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Kwa „matokeo\" gani (kama sauti ya upepo) yaweza kutambulika kwamba Roho wa Mungu anatenda katika maisha ya mtu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "1Pet.1.23",
+              "ref": "1Pet 1:23"
+            }
+          ],
+          "comment": "„Mmezaliwa upya... kwa mbegu isiyoharibika, kwa Neno la Mungu.\" Chombo cha kuzaliwa upya ni Neno lililo hai - ndiyo maana ni muhimu sana kujilisha kwa Biblia.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Ni jukumu gani katika „kuzaliwa upya\" linaloweza kutekelezwa na kukutana mara kwa mara na Neno la Mungu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "„kuzaliwa upya\" / palingenesia (Tt 3:5)",
+          "content": "Kuzaliwa upya pia kunaitwa *palingenesia* - „kuwepo tena, kuzaliwa upya\" (Tt 3:5: „kuoshwa kwa kuzaliwa upya\"). Kwa neno hilo hilo Yesu hueleza kufanywa upya kwa ulimwengu wote mwishoni (Mt 19:28). Mwunganisho huu una maana kubwa: nguvu ile ile itakayoufanya upya ulimwengu wote tayari inatenda sasa katika mtu anayezaliwa upya. Wongofu ni mwanzo wa uumbaji mpya, utakaokamilika kwa kipimo cha ulimwengu.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "παλιγγενεσία",
+              "translit": "palingenesia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Moyo mpya na kiumbe kipya",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Ezek.36.26",
+              "ref": "Eze 36:26"
+            }
+          ],
+          "comment": "Mungu aahidi: „nitawapa moyo mpya... nitauondoa moyo wa jiwe, nami nitawapa moyo wa nyama\". Mabadiliko huanzia ndani, ambamo sisi wenyewe hatuwezi kubadilisha.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "„Moyo wa jiwe\" unahitaji nini ili uwe „moyo wa nyama\" - na ni nani mtendaji wa mabadiliko hayo hapa?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "moyo mpya kama ahadi ya Agano Jipya",
+          "content": "Eze 36:26-27 ni miongoni mwa ahadi za Agano Jipya (linganisha Yer 31:31-34), zilizopewa watu wakiwa uhamishoni, pale nguvu zao wenyewe zilipokwama. Mungu hatangazi msamaha tu, bali mabadiliko ya ndani: Sheria iliyoandikwa moyoni na Roho wake mwenyewe anayewezesha utii. Huu ni msingi wa kibiblia wa hoja kwamba utii ni tunda la kutenda kwa Mungu ndani ya mtu (moyo uliobadilishwa), si sharti la awali ambalo mtu lazima alitimize mwenyewe.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Je, ahadi ya „moyo mpya\" hueleza vipi kwa nini mabadiliko ya kweli huanza kutoka kwa Mungu, si kwa kukaza meno?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Ezek.36.27",
+              "ref": "Eze 36:27"
+            }
+          ],
+          "comment": "„Nitatia Roho yangu ndani yenu, na kuwafanya kuenenda katika... amri zangu.\" Hata utii ni zawadi: ni Mungu „afanyaye\" tutake na tuweze.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Jinsi gani hubadilisha picha ya maisha ya uchaji kwamba Mungu hatoi amri tu, bali mwenyewe huwezesha kuyaishi kutoka ndani?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "2Cor.5.17",
+              "ref": "2Kor 5:17"
+            }
+          ],
+          "comment": "„Mtu akiwa ndani ya Kristo, amekuwa kiumbe kipya; ya kale yamepita, mambo mapya yamekuja\". Utambulisho wa mwaminio haukamatwi na yaliyopita, bali na mwanzo mpya ndani ya Kristo.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Ingekuwa na maana gani kwako kujitazama si kupitia kioo cha „mtu wa kale\", bali cha „kiumbe kipya\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "„kiumbe kipya\" (2 Kor 5:17)",
+          "content": "Paulo hutumia usemi *kaine ktisis* - „kiumbe kipya\". Ni neno lile lile (*ktisis*) ambalo Biblia hutumia kueleza tendo la kuumba ulimwengu. Ujumbe ni mzito: mtu anapokuwa ndani ya Kristo, jambo la cheo kile kile cha „hapo mwanzo\" hutendeka - Mungu huumba upya. Hivyo utambulisho wa mwaminio si „toleo lililoboreshwa la la zamani\", bali ni kazi mpya ya Muumba.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "καινὴ κτίσις",
+              "translit": "kaine ktisis"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Eph.4.22-24",
+              "ref": "Efe 4:22-24"
+            }
+          ],
+          "comment": "Picha ya kubadilisha mavazi: „kuuvua utu wa kale... kuuvaa utu mpya, ulioumbwa kwa mfano wa Mungu\". Maisha mapya yana umbo halisi linaloonekana.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Ni nini katika maisha yako ingefaa „kuvua\", na nini „kuvaa\", kama ingekuwa picha ya mavazi mapya?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Phil.2.13",
+              "ref": "Flp 2:13"
+            }
+          ],
+          "comment": "„Mungu ndiye atendaye kazi ndani yenu, kutaka na kutenda.\" Maisha mapya ni ushirikiano ambamo hamu na nguvu ni za Mungu, na jibu - ni langu.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Unaielewaje hali ya usawa: Mungu „afanya tutake na tutende\", na mimi nipaswa kujisalimisha kwake, si kumbadilisha kwa jitihada zangu mwenyewe?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "ushirikiano, si ushindani (Flp 2:12-13)",
+          "content": "Paulo huweka pamoja mambo mawili yanayoonekana kupingana: „utimizeni wokovu wenu kwa hofu\" na papo hapo „ni Mungu atendaye kazi ndani yenu, kutaka na kutenda\". Hayapingani: jitihada yangu haimbadilishi Mungu wala haimlazimishi - ni jibu kwa kutenda kwake kulikotangulia ndani yangu. Maisha mapya si mashindano ya „mimi dhidi ya Mungu\", bali ni ushirikiano ambamo nguvu yake ni ya kwanza na ya mwisho, nami siiziuili, bali najisalimisha kwayo.",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Uhusiano wa kila siku, si tendo la mara moja",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "2Cor.4.16",
+              "ref": "2Kor 4:16"
+            }
+          ],
+          "comment": "„Utu wetu wa ndani unafanywa upya siku kwa siku.\" Maisha mapya si tukio moja la wakati uliopita, bali ni kufanywa upya kila siku.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Kwa vitendo ingeweza kumaanisha nini katika siku yako „kufanywa upya\" na Mungu - asubuhi, mchana, jioni?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "1John.1.9",
+              "ref": "1Yoh 1:9"
+            }
+          ],
+          "comment": "Niangukapo, njia ya kurudi iko wazi: „tukiziungama dhambi zetu, Yeye... atatusamehe\". Wongofu pia ni kurudi kwa kila siku, si mwanzo wa mara moja usiokubali kujikwaa.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Ni nini hutoa uhakika kwamba kujikwaa hakuvunji uhusiano, bali baada yake mtu aweza kurudi mara moja kwa Mungu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u20",
+          "passage": [
+            {
+              "osis": "Phil.3.13-14",
+              "ref": "Flp 3:13-14"
+            }
+          ],
+          "comment": "Paulo „husahau yaliyo nyuma\" na „hukaza mwendo kuelekea yaliyo mbele\". Maisha mapya yana mwelekeo na lengo - ni njia, si mstari wa kufikia uliopitwa mara moja milele.",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Ni nini katika yaliyopita kigumu zaidi kwako „kuyaacha nyuma\", ili uweze kuendelea kumfuata Yesu?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Wongofu si kujirekebisha mwenyewe kishujaa, bali ni mgeuko: najigeuza kutoka njia yangu mwenyewe na kurudi kwa Mungu, nikimkabidhi maisha. Na hapo Yeye hufanya kile ambacho mimi siwezi - hunizaa upya, hunipa moyo mpya, hunifanya kiumbe kipya. Hili si tendo la mara moja la kumaliza katika kalenda, bali ni mwanzo wa uhusiano unaohuishwa kila siku, ambamo hata baada ya kuanguka njia ya kurudi daima iko wazi.",
+    "challenge": "Weka wiki hii wakati mmoja maalum wa siku (mfano asubuhi) kwa ajili ya „kuhuisha\" uhusiano: mkabidhi Mungu siku inayokuja na jambo moja ambalo unataka Yeye „atende kutaka na kutenda\" ndani yake (Flp 2:13). Ukijikwaa, usiahirishe kurudi - tumia mara moja 1Yoh 1:9. Mwishoni mwa wiki andika „tunda\" moja ulilolitambua (kama sauti ya upepo ya Yoh 3:8), ambalo kwalo unatambua kuwa si jitihada yako tu, bali ni kutenda kwa Roho."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study nawrocenie-i-nowe-zycie"
+  }
+}

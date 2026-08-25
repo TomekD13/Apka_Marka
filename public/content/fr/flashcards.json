@@ -1,0 +1,415 @@
+{
+  "lang": "fr",
+  "translation": "LS1910",
+  "title": "Bible - 50 textes clés",
+  "themes": [
+    {
+      "id": "wielki-boj",
+      "name": "L'histoire du salut",
+      "cards": [
+        {
+          "id": "wb-1",
+          "ref": "Ésaïe 14:12-14",
+          "osis": [
+            "Isa.14.12-14"
+          ]
+        },
+        {
+          "id": "wb-2",
+          "ref": "Ézéchiel 28:12-17",
+          "osis": [
+            "Ezek.28.12-17"
+          ]
+        },
+        {
+          "id": "wb-3",
+          "ref": "Apocalypse 12:7-9",
+          "osis": [
+            "Rev.12.7-9"
+          ]
+        },
+        {
+          "id": "wb-4",
+          "ref": "Genèse 1:1,27,31",
+          "osis": [
+            "Gen.1.1",
+            "Gen.1.27",
+            "Gen.1.31"
+          ]
+        },
+        {
+          "id": "wb-5",
+          "ref": "Genèse 3:6-8,15",
+          "osis": [
+            "Gen.3.6-8",
+            "Gen.3.15"
+          ]
+        },
+        {
+          "id": "wb-6",
+          "ref": "Job 1:6-12",
+          "osis": [
+            "Job.1.6-12"
+          ]
+        },
+        {
+          "id": "wb-7",
+          "ref": "Apocalypse 21:1-5",
+          "osis": [
+            "Rev.21.1-5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zbawienie",
+      "name": "Le salut par la grâce",
+      "cards": [
+        {
+          "id": "zb-1",
+          "ref": "Romains 6:23",
+          "osis": [
+            "Rom.6.23"
+          ]
+        },
+        {
+          "id": "zb-2",
+          "ref": "Éphésiens 2:8-10",
+          "osis": [
+            "Eph.2.8-10"
+          ]
+        },
+        {
+          "id": "zb-3",
+          "ref": "Ésaïe 53:3-7",
+          "osis": [
+            "Isa.53.3-7"
+          ]
+        },
+        {
+          "id": "zb-4",
+          "ref": "Romains 3:21-26",
+          "osis": [
+            "Rom.3.21-26"
+          ]
+        },
+        {
+          "id": "zb-5",
+          "ref": "Galates 2:16",
+          "osis": [
+            "Gal.2.16"
+          ]
+        },
+        {
+          "id": "zb-6",
+          "ref": "Jean 3:3-6",
+          "osis": [
+            "John.3.3-6"
+          ]
+        },
+        {
+          "id": "zb-7",
+          "ref": "2 Corinthiens 5:19-21",
+          "osis": [
+            "2Cor.5.19-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jezus",
+      "name": "Qui est Jésus",
+      "cards": [
+        {
+          "id": "jz-1",
+          "ref": "Ésaïe 9:6",
+          "osis": [
+            "Isa.9.6"
+          ]
+        },
+        {
+          "id": "jz-2",
+          "ref": "Matthieu 1:23",
+          "osis": [
+            "Matt.1.23"
+          ]
+        },
+        {
+          "id": "jz-3",
+          "ref": "Jean 1:1-3",
+          "osis": [
+            "John.1.1-3"
+          ]
+        },
+        {
+          "id": "jz-4",
+          "ref": "Jean 14:9",
+          "osis": [
+            "John.14.9"
+          ]
+        },
+        {
+          "id": "jz-5",
+          "ref": "Jean 20:28",
+          "osis": [
+            "John.20.28"
+          ]
+        },
+        {
+          "id": "jz-6",
+          "ref": "Philippiens 2:5-8",
+          "osis": [
+            "Phil.2.5-8"
+          ]
+        },
+        {
+          "id": "jz-7",
+          "ref": "Hébreux 1:8",
+          "osis": [
+            "Heb.1.8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "powtorne-przyjscie",
+      "name": "Le retour de Jésus",
+      "cards": [
+        {
+          "id": "pp-1",
+          "ref": "Ésaïe 25:9",
+          "osis": [
+            "Isa.25.9"
+          ]
+        },
+        {
+          "id": "pp-2",
+          "ref": "Jean 14:1-3",
+          "osis": [
+            "John.14.1-3"
+          ]
+        },
+        {
+          "id": "pp-3",
+          "ref": "Matthieu 24:26-27",
+          "osis": [
+            "Matt.24.26-27"
+          ]
+        },
+        {
+          "id": "pp-4",
+          "ref": "Actes 1:9-11",
+          "osis": [
+            "Acts.1.9-11"
+          ]
+        },
+        {
+          "id": "pp-5",
+          "ref": "1 Thessaloniciens 4:13-17",
+          "osis": [
+            "1Thess.4.13-17"
+          ]
+        },
+        {
+          "id": "pp-6",
+          "ref": "2 Thessaloniciens 1:6-10",
+          "osis": [
+            "2Thess.1.6-10"
+          ]
+        },
+        {
+          "id": "pp-7",
+          "ref": "Apocalypse 1:7",
+          "osis": [
+            "Rev.1.7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "szabat",
+      "name": "Le jour du repos",
+      "cards": [
+        {
+          "id": "sz-1",
+          "ref": "Genèse 2:2-3",
+          "osis": [
+            "Gen.2.2-3"
+          ]
+        },
+        {
+          "id": "sz-2",
+          "ref": "Ézéchiel 20:12,20",
+          "osis": [
+            "Ezek.20.12",
+            "Ezek.20.20"
+          ]
+        },
+        {
+          "id": "sz-3",
+          "ref": "Ésaïe 66:23",
+          "osis": [
+            "Isa.66.23"
+          ]
+        },
+        {
+          "id": "sz-4",
+          "ref": "Marc 2:27-28",
+          "osis": [
+            "Mark.2.27-28"
+          ]
+        },
+        {
+          "id": "sz-5",
+          "ref": "Luc 4:16",
+          "osis": [
+            "Luke.4.16"
+          ]
+        },
+        {
+          "id": "sz-6",
+          "ref": "Luc 23:56; 24:1",
+          "osis": [
+            "Luke.23.56",
+            "Luke.24.1"
+          ]
+        },
+        {
+          "id": "sz-7",
+          "ref": "Exode 20:8-11",
+          "osis": [
+            "Exod.20.8-11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prawo",
+      "name": "La loi de Dieu",
+      "cards": [
+        {
+          "id": "pr-1",
+          "ref": "Genèse 26:5",
+          "osis": [
+            "Gen.26.5"
+          ]
+        },
+        {
+          "id": "pr-2",
+          "ref": "Exode 20:1-17",
+          "osis": [
+            "Exod.20.1-17"
+          ]
+        },
+        {
+          "id": "pr-3",
+          "ref": "Jérémie 31:31-33",
+          "osis": [
+            "Jer.31.31-33"
+          ]
+        },
+        {
+          "id": "pr-4",
+          "ref": "Matthieu 5:17-19",
+          "osis": [
+            "Matt.5.17-19"
+          ]
+        },
+        {
+          "id": "pr-5",
+          "ref": "Jacques 2:10-12",
+          "osis": [
+            "Jas.2.10-12"
+          ]
+        },
+        {
+          "id": "pr-6",
+          "ref": "Romains 3:20,31",
+          "osis": [
+            "Rom.3.20",
+            "Rom.3.31"
+          ]
+        },
+        {
+          "id": "pr-7",
+          "ref": "1 Jean 5:2-3",
+          "osis": [
+            "1John.5.2-3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smierc",
+      "name": "Mort et résurrection",
+      "cards": [
+        {
+          "id": "sm-1",
+          "ref": "Genèse 2:7,17",
+          "osis": [
+            "Gen.2.7",
+            "Gen.2.17"
+          ]
+        },
+        {
+          "id": "sm-2",
+          "ref": "Ecclésiaste 9:5-6,10",
+          "osis": [
+            "Eccl.9.5-6",
+            "Eccl.9.10"
+          ]
+        },
+        {
+          "id": "sm-3",
+          "ref": "Psaume 6:6",
+          "osis": [
+            "Ps.6.5"
+          ]
+        },
+        {
+          "id": "sm-4",
+          "ref": "Daniel 12:2",
+          "osis": [
+            "Dan.12.2"
+          ]
+        },
+        {
+          "id": "sm-5",
+          "ref": "Jean 11:11-14,23-26",
+          "osis": [
+            "John.11.11-14",
+            "John.11.23-26"
+          ]
+        },
+        {
+          "id": "sm-6",
+          "ref": "1 Corinthiens 15:51-54",
+          "osis": [
+            "1Cor.15.51-54"
+          ]
+        },
+        {
+          "id": "sm-7",
+          "ref": "Apocalypse 20:14",
+          "osis": [
+            "Rev.20.14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "j316",
+      "name": "Jean 3:16",
+      "bonus": true,
+      "cards": [
+        {
+          "id": "j316",
+          "ref": "Jean 3:16",
+          "osis": [
+            "John.3.16"
+          ]
+        }
+      ]
+    }
+  ]
+}

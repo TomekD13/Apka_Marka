@@ -1,0 +1,541 @@
+{
+  "id": "przymierze-i-charakter-boga",
+  "lang": "pl",
+  "title": "Bóg, który dotrzymuje słowa",
+  "category": "basic_systematic",
+  "seriesId": "zycie-w-przymierzu",
+  "order": 15,
+  "summary": "Bóg od stworzenia wiąże się z człowiekiem przymierzem; gdy upadamy, szuka nas i ponawia obietnicę - bo zawsze dotrzymuje słowa. Tu odsłania się serce wielkiego boju: czy Bogu można zaufać. Krew Jezusa to nowe przymierze, a Dekalog to objawienie charakteru Boga, nie legalizm.",
+  "minutes": {
+    "base": 45,
+    "extended": 65
+  },
+  "tags": [
+    "przymierze",
+    "charakter Boga",
+    "wielki bój",
+    "zaufanie",
+    "Dekalog",
+    "krew Jezusa"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Bóg, który wiąże się z człowiekiem",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Gen.1.26-27",
+              "ref": "Rdz 1,26-27"
+            }
+          ],
+          "comment": "Zanim padło pierwsze przykazanie, był akt stworzenia z miłości. Bóg czyni człowieka na swój obraz - zdolnym do relacji, do wolnej odpowiedzi.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Co zmienia w spojrzeniu na Boże wymagania świadomość, że najpierw był dar stworzenia, a nie żądanie?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Gen.9.9-13",
+              "ref": "Rdz 9,9-13"
+            }
+          ],
+          "comment": "Po potopie Bóg zawiera przymierze z Noem i wszelkim stworzeniem. Tęcza to znak, że to Bóg się zobowiązuje - nie człowiek wymusza.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Kto tu daje obietnicę i czego od ciebie wymaga, by była ważna?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "„przymierze\" (berît)",
+          "content": "Hebrajskie *berît* oznacza wiążące zobowiązanie, często pieczętowane krwią ofiary. W Biblii to zwykle Bóg ustanawia przymierze i bierze na siebie ciężar jego utrzymania - stąd język łaski, nie negocjacji równych stron.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "בְּרִית",
+              "translit": "berît"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Jak zmienia obraz Boga to, że w *berît* zobowiązuje się głównie On, a nie żąda gwarancji od człowieka?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Gen.12.1-3",
+              "ref": "Rdz 12,1-3"
+            }
+          ],
+          "comment": "Przymierze z Abrahamem to nie umowa równych stron - Bóg sam się zobowiązuje błogosławić i przez jednego człowieka dosięgnąć wszystkich narodów.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Co znaczy, że błogosławieństwo dla świata zaczyna się od Bożej inicjatywy, nie od ludzkiej zasługi?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Gen.15.17-18",
+              "ref": "Rdz 15,17-18"
+            }
+          ],
+          "comment": "W starożytnym rytuale obie strony przechodziły między połówkami zwierząt. Tu przechodzi sam Bóg (symbol ognia) - bierze na siebie konsekwencje zerwania.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Dlaczego to ważne, że w tym obrzędzie zobowiązuje się Bóg, a nie Abraham?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "textual",
+          "label": "przejście Boga między połówkami (Rdz 15)",
+          "content": "W Rdz 15,17 to dymiący piec i ognista pochodnia (symbole obecności Boga) przechodzą między rozciętymi zwierzętami, choć w tym obrzędzie zazwyczaj przechodziły obie strony. Tekst sugeruje, że Bóg jednostronnie bierze na siebie odpowiedzialność za przymierze."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Gdy upadamy, Bóg szuka i ponawia przymierze",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Gen.3.8-9",
+              "ref": "Rdz 3,8-9"
+            }
+          ],
+          "comment": "Po upadku to człowiek się chowa, a Bóg woła: „Gdzie jesteś?\". Pierwszy ruch po grzechu należy do Boga, który szuka.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Czyim ruchem jest tu poszukiwanie - Boga czy człowieka? Co to mówi o Jego charakterze?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Gen.3.15",
+              "ref": "Rdz 3,15"
+            }
+          ],
+          "comment": "W samym wyroku Bóg składa pierwszą obietnicę Zbawiciela. Plan ratunku nie jest reakcją spóźnioną - jest gotowy zanim człowiek zdąży zrozumieć skutki.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Co mówi o Bogu to, że obietnicę ratunku daje już w chwili upadku, a nie po latach próby?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Exod.34.6-7",
+              "ref": "Wj 34,6-7"
+            }
+          ],
+          "comment": "Bóg sam ogłasza swoje imię: miłosierny, łaskawy, wierny. To autoportret Boga - taki jest naprawdę.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Które z określeń Boga z tego tekstu najbardziej cię zaskakuje albo pociesza?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "„łaska i wierność\" (chesed we-emet)",
+          "content": "W tej autoprezentacji Boga z Wj 34,6 powraca para określeń często tłumaczona jako „łaska i prawda\" lub „miłosierdzie i wierność\". *Chesed* to lojalna miłość wierna przymierzu, a *emet* to niezawodność, na której można się oprzeć. Bóg nie zostaje opisany przez moc czy wszechwiedzę, lecz najpierw przez przymierzową wierność - to ona stoi u podstaw zaufania, o które toczy się wielki bój.",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Dlaczego Bóg, ogłaszając swoje imię, na pierwszym miejscu stawia łaskę i wierność, a nie potęgę?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Hos.11.8-9",
+              "ref": "Oz 11,8-9"
+            }
+          ],
+          "comment": "Mimo niewierności ludu serce Boga „zadrżało\". Bóg nie kocha jak człowiek - Jego wierność nie zależy od naszej formy.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Czym różni się wierność Boga od ludzkiej lojalności, która gaśnie, gdy druga strona zawodzi?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Serce wielkiego boju: czy Bogu można zaufać",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Gen.3.1-5",
+              "ref": "Rdz 3,1-5"
+            }
+          ],
+          "comment": "Pierwsza pokusa to podważenie zaufania: „Czy Bóg naprawdę chce twojego dobra?\". Tu zaczyna się wielki bój - nie o jabłko, lecz o zaufanie do Bożego charakteru.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Jakie kłamstwo o Bogu kryje się w pytaniu węża i jak ono działa do dziś?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Num.23.19",
+              "ref": "Lb 23,19"
+            }
+          ],
+          "comment": "Bóg nie jest jak człowiek, by kłamał. Jeśli coś powiedział - wypełni. Na tym opiera się odzyskanie naszego zaufania.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Co w twojej historii utrudnia, a co ułatwia uwierzenie, że Bóg dotrzymuje słowa?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "other",
+          "label": "niezmienność Boga jako fundament zaufania",
+          "content": "Pewność przymierza nie wynika z naszej wytrwałości, lecz z niezmiennego charakteru Boga: skoro On się nie zmienia, nie zmienia się też Jego słowo. Warto podkreślić, że Boże prawo, będące odbiciem tego charakteru, jest równie trwałe jak jego Autor. Dlatego podważanie wiarygodności Boga - sedno wielkiego boju - uderza nie w jakiś przepis, lecz w to, kim Bóg jest.",
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Jak świadomość, że Bóg się nie zmienia, wpływa na zaufanie do Jego obietnic w trudnych chwilach?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Titus.1.2",
+              "ref": "Tt 1,2"
+            }
+          ],
+          "comment": "„Bóg, który nie kłamie\", obiecał życie wieczne przed wiekami. Cała nadzieja stoi na tym, że Jego słowo jest pewne.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Na czym praktycznie opierasz pewność, że Boża obietnica się spełni?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Nowe przymierze we krwi Jezusa",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Matt.26.27-28",
+              "ref": "Mt 26,27-28"
+            }
+          ],
+          "comment": "Przy ostatniej wieczerzy Jezus nazywa swoją krew „krwią przymierza\" na odpuszczenie grzechów. To, co zapowiadał obrzęd z Abrahamem, wypełnia się w Nim.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Co znaczy, że nowe przymierze jest „we krwi\" - kto płaci cenę za jego trwałość?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "„nowe przymierze\" (kainē diathēkē)",
+          "content": "Greckie *diathēkē* w Mt 26,28 i Hbr 9,15 znaczy zarówno „przymierze\", jak i „testament\". Wskazuje, że przymierze wchodzi w pełną moc przez śmierć Tego, który je ustanawia - stąd związek krwi Jezusa z jego ważnością.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "καινὴ διαθήκη",
+              "translit": "kainē diathēkē"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Jer.31.31-33",
+              "ref": "Jr 31,31-33"
+            }
+          ],
+          "comment": "Nowe przymierze to nie nowe przepisy, lecz to samo prawo wpisane w serce. Posłuszeństwo przestaje być przymusem z zewnątrz, staje się pragnieniem.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Czym różni się prawo „na kamieniu\" od prawa „w sercu\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "prawo wpisane w serce przez Ducha",
+          "content": "Różnica między starym a nowym przymierzem nie leży w treści prawa (jest ta sama), lecz w miejscu jego zapisu i w rodzaju posłuszeństwa. Stare było „na kamieniu\", na zewnątrz człowieka; nowe Duch wypisuje w sercu i umyśle (Jr 31,33; Ez 36,26-27). Dlatego posłuszeństwo staje się aktem wolnej woli i owocem relacji, a nie legalizmem.",
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Co się zmienia, gdy prawo jest nie tylko znane, ale „napisane\" w sercu mocą Ducha?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Heb.9.11-15",
+              "ref": "Hbr 9,11-15"
+            }
+          ],
+          "comment": "Jezus jako Arcykapłan wszedł z własną krwią, zapewniając wieczne odkupienie. Stary system ofiar wskazywał na tę jedną, ostateczną ofiarę.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Dlaczego ofiara Jezusa nie musi być powtarzana, w odróżnieniu od dawnych ofiar?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Dekalog: objawienie charakteru, nie legalizm",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Exod.20.1-3",
+              "ref": "Wj 20,1-3"
+            }
+          ],
+          "comment": "Dekalog otwiera przypomnienie: „Ja jestem Pan, który cię wyprowadził\". Najpierw ratunek, potem przykazania - prawo jest odpowiedzią na wyzwolenie, nie warunkiem jego otrzymania.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Co zmienia kolejność: najpierw uwolnienie, a dopiero potem przykazania?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "Dekalog jako „dziesięć słów\" (aseret ha-devarim)",
+          "content": "Hebrajska nazwa Dekalogu to nie „dziesięć przykazań\", lecz „dziesięć słów\" (Wj 34,28; Pwt 4,13). To nie przypadkowy zbiór nakazów, ale jedno spójne orędzie, które Bóg wypowiedział i własną ręką wyrył na kamiennych tablicach - znak, że pochodzi wprost od Niego.",
+          "questions": [
+            {
+              "id": "q24",
+              "text": "Jak nazwanie Dekalogu „dziesięcioma słowami\" Boga, a nie „przepisami\", zmienia sposób, w jaki go czytasz?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Deut.5.6-7",
+              "ref": "Pwt 5,6-7"
+            }
+          ],
+          "comment": "Powtórzony Dekalog znów zaczyna się od wybawienia. Prawo jest częścią przymierza - opisuje, jak wygląda życie ludzi należących do wiernego Boga.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Jeśli przykazania opisują charakter Boga, czego się z nich o Nim dowiadujesz?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "Dekalog jako tekst przymierza",
+          "content": "Struktura Wj 20 i Pwt 5 (przedstawienie się Władcy, przypomnienie dobrodziejstw, warunki) przypomina starożytne traktaty przymierza. Dekalog funkcjonuje więc nie jako oderwany kodeks, lecz jako serce relacji przymierza między Bogiem a Jego ludem."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Gen.26.5",
+              "ref": "Rdz 26,5"
+            }
+          ],
+          "comment": "Abraham „przestrzegał przykazań i praw\" Boga na wieki przed Synajem. Boże prawo nie jest wynalazkiem Mojżesza - istniało wcześniej, bo wyraża niezmienny charakter Boga.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Co wynika z tego, że Abraham znał Boże prawa, choć Dekalog spisano dużo później?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "prawo Boże przed Synajem",
+          "content": "Zasady Dekalogu wyrastają z prawa miłości panującego we wszechświecie jeszcze przed pojawieniem się grzechu i dają się odnaleźć w okresie patriarchów. Synaj nie wprowadził nowej moralności - tylko spisał i potwierdził to, co od dawna wynikało z charakteru Boga. Świadectwo o Abrahamie (Rdz 26,5) pokazuje, że Boże prawo poprzedzało Mojżesza.",
+          "questions": [
+            {
+              "id": "q25",
+              "text": "Jeśli Boże prawo istniało na długo przed Synajem, co to mówi o jego źródle i trwałości?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Rom.13.8-10",
+              "ref": "Rz 13,8-10"
+            }
+          ],
+          "comment": "Miłość jest „wypełnieniem prawa\". Przykazania nie są listą zakazów dla samych zakazów - opisują, jak wygląda miłość w praktyce.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Jak to, że „Miłość bliźniemu nie wyrządza zła\", pomaga zrozumieć sens przykazań?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "other",
+          "label": "prawo jako transkrypt charakteru Boga (miłość)",
+          "content": "Dekalog jest odbiciem charakteru Boga, a fundamentalną zasadą tego prawa jest miłość. Dlatego Jezus streszcza całe Prawo i Proroków w dwóch przykazaniach miłości (Mt 22,37-40), a Paweł nazywa miłość „wypełnieniem prawa\" (Rz 13,10). Skoro „Bóg jest miłością\" (1 J 4,8), przykazania opisują, jak wygląda Jego charakter przełożony na życie - nie są przeszkodą dla miłości, lecz jej kształtem.",
+          "questions": [
+            {
+              "id": "q26",
+              "text": "Jeśli każde przykazanie jest opisem miłości, którego z nich najtrudniej ci dziś czytać właśnie w ten sposób?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "1John.5.3",
+              "ref": "1 J 5,3"
+            }
+          ],
+          "comment": "„Miłość względem Boga polega bowiem na przestrzeganiu Jego przykazań – a przykazania Jego nie są ciężkie\". Posłuszeństwo z miłości jest lekkie - przymus z lęku jest ciężarem.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Kiedy przestrzeganie przykazań staje się ciężarem, a kiedy radością? Od czego to zależy?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Cała Biblia to opowieść o Bogu, który wiąże się z człowiekiem przymierzem, a gdy człowiek zrywa - szuka go i ponawia obietnicę. Sercem wielkiego boju jest pytanie: czy Bogu można zaufać. Odpowiedzią jest krzyż: Bóg sam zapłacił cenę przymierza własną krwią. Dekalog nie jest listą warunków, by zasłużyć na miłość - jest portretem charakteru Boga i opisem życia tych, którzy już są kochani.",
+    "challenge": "Przeczytaj w tym tygodniu Dekalog (Wj 20,1-17) nie jako listę zakazów, lecz jako opis charakteru Boga, którego chcesz poznać. Przy każdym przykazaniu zapisz jedno zdanie: „To pokazuje, że mój Bóg jest…\"."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "status: draft needsReview: true generatedBy: claude notes: Założenia przyjęte przy braku danych: `category = basic_systematic`, `seriesId = zycie-w-przymierzu`, `order = 15` (Blok III wg briefu). Do sprawdzenia przez recenzenta: poprawność kodów OSIS (zwł. `Titus`, `1John`, `Num`, `Hos`); brzmienie odniesień w przyjętym przekładzie PL. Formy oryginalne (advanced) do weryfikacji: `בְּרִית` / *berît*, `καινὴ διαθήκη` / *kainē diathēkē*; potwierdzić zapis i transliterację u recenzenta. Tekst wersetów celowo NIE jest wstawiony tylko odnośniki (osis + ref); treść dociągana z przekładu."
+  }
+}

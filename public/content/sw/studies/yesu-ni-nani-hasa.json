@@ -1,0 +1,497 @@
+{
+  "id": "yesu-ni-nani-hasa",
+  "lang": "sw",
+  "title": "Yesu ni nani hasa?",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 2,
+  "summary": "Yesu wa Nazareti ni nani hasa: mtu wa kihistoria na wakati huo huo Mungu wa milele, Muumba aliyekuwa mwanadamu ili kuniokoa na kunifunulia Baba - na vilevile anataka kuwa nani kwangu binafsi.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "Yesu",
+    "uungu",
+    "kufanyika mwili",
+    "Muumba",
+    "Mimi Niko",
+    "kumfunua Baba"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Mtu asiyeweza kupuuzwa",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Matt.16.13-16",
+              "ref": "Mt 16:13-16"
+            }
+          ],
+          "comment": "Yesu mwenyewe anauliza swali muhimu zaidi: si \"watu wananisemaje\", bali \"ninyi mnasema mimi ni nani\". Jibu la swali hili linaamua kila kitu kingine.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Kama Yesu angekuuliza swali hili leo wewe, ungejibu nini kwa unyofu - na kwa nini?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"Masihi\" na \"Kristo\" yanamaanisha kitu kile kile (Mt 16:16)",
+          "content": "Ungamo la Petro \"Wewe ndiwe Masihi\" linatumia neno linalosomeka *masziach* kwa Kiebrania, na *christos* kwa Kigiriki - yote yanamaanisha \"Mpakwa Mafuta\". Katika Israeli walipakwa mafuta wafalme, makuhani na manabii; cheo hicho kilimtangaza Yule ambaye angeunganisha nafasi zote tatu. Hivyo \"Kristo\" si jina la ukoo la Yesu, bali ni cheo: \"Mpakwa Mafuta, Mkombozi aliyeahidiwa\".",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χριστός",
+              "translit": "christos"
+            },
+            {
+              "lang": "hbo",
+              "text": "מָשִׁיחַ",
+              "translit": "masziach"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Luke.2.4-7",
+              "ref": "Lk 2:4-7"
+            }
+          ],
+          "comment": "Yesu ni mtu wa kihistoria - alizaliwa mahali maalum na wakati maalum, ameandikwa katika sensa ya watu ya himaya halisi. Huu si hekaya.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Ni nini kinachobadilika katika jinsi ya kumpokea Yesu kwa ukweli kwamba si ngano, bali ni mtu wa historia?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "Yesu ametiwa nanga katika historia (Lk 2)",
+          "content": "Luka kwa makusudi anaweka kuzaliwa kwa Yesu katika hali halisi za Himaya ya Roma: sensa ya watu, safari ya kwenda Bethlehemu, maeneo maalum. Injili hazianzi kwa \"hapo zamani za kale\", bali kwa tarehe, watawala na jiografia. Hili linaitofautisha imani ya Kikristo na hekaya: inategemea matukio katika wakati na nafasi, yanayoweza kuthibitishwa kuhusu mazingira yake."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Mark.6.2-3",
+              "ref": "Mk 6:2-3"
+            }
+          ],
+          "comment": "Majirani walijua familia yake na kazi yake. Na bado maneno na matendo yake yalipasua mipaka ya \"mwana wa seremala\" - watu hawakujua wamfikirie nini.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Kwa nini watu waliomjua Yesu \"kwa upande wa kawaida\" ndio waliopata vigumu zaidi kukubali yeye ni nani?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Wa milele: \"Mimi Niko\"",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "John.8.58",
+              "ref": "Yoh 8:58"
+            }
+          ],
+          "comment": "Yesu hasemi \"nilikuwepo, kabla Abrahamu hajakuwepo\", bali \"NIKO\". Kwa kujua anatumia jina la Mungu kutoka Kut 3:14 - ndiyo maana wasikilizaji wanataka kumpiga mawe kwa kufuru.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Kwa nini neno \"Niko\" lilizua mwitikio mkali kiasi hicho? Yesu alisema nini hapa kuhusu yeye mwenyewe?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"Mimi Niko\" (Yoh 8:58)",
+          "content": "Katika Yoh 8:58 Yesu anatumia usemi *egō eimi* (\"Mimi niko\") pale ambapo kisarufi ungefaa wakati uliopita. Ni kurejea kwa makusudi jina la Mungu kutoka Kut 3:14 (\"NIKO AMBAYE NIKO\"), katika tafsiri ya Kigiriki ya Septuaginta. Mwitikio wa wasikilizaji (jaribio la kupiga mawe, mst. 59) unathibitisha kwamba walielewa kama dai la kuwa sawa na Mungu - si tamko la kawaida kuhusu umri.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐγώ εἰμι",
+              "translit": "egō eimi"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Kwa nini kwa wasikilizaji wa kwanza maneno haya mawili yalikuwa ama kufuru ama ufunuo - bila uwezekano wa tatu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "John.1.1-3",
+              "ref": "Yoh 1:1-3"
+            }
+          ],
+          "comment": "\"Hapo mwanzo kulikuwako Neno... na Neno alikuwa Mungu.\" Kabla chochote hakijawako, Yesu alikuwepo tayari - na yeye ndiye aliyeumba.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Ina maana gani kwamba Yule tunayemkuta katika Injili alikuwepo \"hapo mwanzo\", kabla ya vyote?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "\"Neno\" (Logos) kama daraja kati ya ulimwengu mbili (Yoh 1:1)",
+          "content": "Neno \"Neno\" (Kigiriki *logos*) lilikuwa na maana kwa tamaduni zote mbili: kwa Wayahudi ni Neno ambalo kwalo Mungu anaumba (Mwa 1; Zab 33:6), kwa Wagiriki - kanuni ya akili inayopanga ulimwengu. Yohana anaunganisha pande zote mbili na kusema jambo jipya: huyu Logos ni Nafsi, ni Mungu, naye alikuwa mwanadamu. Ni mfano wa kuzungumza kuhusu Kristo kwa lugha inayoeleweka kwa wasikilizaji mbalimbali.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "λόγος",
+              "translit": "logos"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "John.1.14",
+              "ref": "Yoh 1:14"
+            }
+          ],
+          "comment": "Neno \"alifanyika mwili\". Mungu wa milele hakubaki mbali - alikaa kati yetu kama mwanadamu ambaye angeweza kuguswa.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Ni nini hili linalosema kuhusu Mungu kwamba alikubali kuwa mmoja wetu, badala ya kubaki katika utukufu usiofikika?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "\"alikaa\" maana yake \"alipiga hema\" (Yoh 1:14)",
+          "content": "Kitenzi cha Kigiriki kilichotafsiriwa kama \"alikaa kati yetu\" (*eskēnōsen*) kihalisi maana yake \"alipiga hema\". Ni mwangwi unaoeleweka wa hema ya kukutania ya Agano la Kale, ambamo juu yake ulikaa utukufu wa Mungu (shekina). Hivyo Yohana anasema: utukufu uliokuwa ukijaza maskani zamani, sasa \"umepiga hema\" katika mwili wa kibinadamu wa Yesu - Mungu alikaa kati yetu si katika jengo, bali katika Nafsi."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "\"mzaliwa pekee\" (Yoh 1:14; 3:16)",
+          "content": "Neno la Kigiriki *monogenēs* maana yake \"wa pekee wa aina yake, wa namna yake pekee\", si \"aliyeumbwa kwanza\". Yesu si \"mmoja wa watoto wa Mungu\" kwa maana ile ile kama waaminio: sisi tunakuwa watoto wa Mungu kwa kupokelewa (Yoh 1:12), yeye ni Mwana kwa asili yake yenyewe. Tofauti hii inalinda dhidi ya kufikiri kwamba Yesu ni tu mwanadamu bora au malaika wa juu.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μονογενής",
+              "translit": "monogenēs"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Col.1.16-17",
+              "ref": "Kol 1:16-17"
+            }
+          ],
+          "comment": "Vyote viliumbwa \"kwa yeye na kwa ajili yake\", naye \"yu kabla ya vyote\" na vyote vinashikana katika yeye. Huu ni maelezo ya Muumba, si kiumbe.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Uhusiano na Yesu unabadilikaje unapomwona kama Yule \"ambaye katika yeye vyote vina uhai\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Heb.1.3",
+              "ref": "Ebr 1:3"
+            }
+          ],
+          "comment": "Mwana ni \"mng'ao wa utukufu na chapa ya nafsi\" ya Mungu na anaushikilia ulimwengu kwa neno la uweza wake - si kiumbe cha chini wala malaika aliyeumbwa.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Ina maana gani kwamba tunapomtazama Yesu, tunatazama \"chapa ya nafsi\" ya Mungu mwenyewe?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"chapa ya nafsi\" kama alama ya muhuri (Ebr 1:3)",
+          "content": "\"Chapa ya nafsi\" ni neno la Kigiriki *charaktēr tēs hypostaseōs*. Neno *charaktēr* lilimaanisha muhuri na alama yake kamili - mfano sura iliyoko juu ya sarafu. Picha inasema kwamba Mwana ni \"alama\" kamili ya Mungu mwenyewe: anayemwona Yesu, anaona taswira kamili ya asili ya Baba, si makadirio wala nakala ya ubora wa chini.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χαρακτήρ",
+              "translit": "charaktēr"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "worship",
+          "label": "kifungu cha kulinganisha \"Yahwe wa AK = Yesu wa AJ\"",
+          "content": "Agano Jipya mara nyingi linamhusisha Yesu na kile ambacho Agano la Kale kinasema kuhusu Yahwe - ni mojawapo ya hoja zenye nguvu zaidi za uungu wake kamili. Jozi za kulinganisha mwenyewe: - **Mchungaji:** Zab 23:1 (Yahwe mchungaji) dhidi ya Yoh 10:11 (Yesu \"mchungaji mwema\") - **Wa Kwanza na wa Mwisho:** Isa 44:6 dhidi ya Ufu 1:17 - **NIKO / jina la Mungu:** Kut 3:14 dhidi ya Yoh 8:58 - **Mbele yake kila goti litapigwa:** Isa 45:23 dhidi ya Flp 2:10 - **Kuliitia jina la Bwana kwa wokovu:** Yoeli 2:32 dhidi ya Rum 10:13 - **Aliyechomwa, ambaye watamtazama:** Zek 12:10 dhidi ya Yoh 19:37",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Ni jozi gani kati ya hizi inakugusa zaidi - na kwa nini ni muhimu kwamba AJ \"linahamishia\" kwa Yesu jina na utukufu wa Yahwe?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Mungu anayepokea ibada na kumfunua Baba",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "John.14.9",
+              "ref": "Yoh 14:9"
+            }
+          ],
+          "comment": "\"Aliyeniona mimi amemwona Baba.\" Ukitaka kujua Mungu yukoje, mtazame Yesu - yeye ni uso wa Baba.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Taswira gani ya Mungu inajitokeza unapokubali kwamba Mungu yu sawasawa kabisa na Yesu wa Injili?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "John.20.28-29",
+              "ref": "Yoh 20:28-29"
+            }
+          ],
+          "comment": "Tomaso anamwambia Yesu: \"Bwana wangu na Mungu wangu\" - na Yesu harekebishi hili, bali anapokea na kuibariki imani.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Kama Yesu asingekuwa Mungu, angepaswa kuyaitikiaje maneno haya? Ina maana gani kwamba hakuyakataa?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "worship",
+          "label": "Yesu anapokea ibada inayostahili Mungu peke yake",
+          "content": "Kitenzi \"kusujudu, kuabudu\" (Kigiriki *proskyneō*) katika Biblia kinamstahili Mungu peke yake. Ndiyo maana malaika (Ufu 22:8-9) na mitume (Mdo 10:25-26) wanakataa kabisa kuipokea. Yesu kinyume chake anaipokea ibada (Mt 14:33; 28:9,17; Yoh 9:38). Katika tauhidi thabiti ya Biblia, kipekee hiki cha pekee ni ushahidi wa kimya lakini wenye nguvu kwamba Yesu ni Mungu.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "προσκυνέω",
+              "translit": "proskyneō"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Ni nini kinachotokana na kwamba kipekee pekee kutoka kanuni ya \"ibada kwa Mungu peke yake\" katika Injili ni Yesu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Matt.28.9",
+              "ref": "Mt 28:9"
+            }
+          ],
+          "comment": "Yesu anapokea ibada (sijda inayomstahili Mungu peke yake) - tofauti na malaika au mitume waliokataa kabisa (taz. Ufu 22:8-9; Mdo 10:25-26).",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Kwa nini ni muhimu kwamba Yesu aliruhusu aabudiwe, lakini wanafunzi wake na malaika hawakuruhusu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Rev.1.17-18",
+              "ref": "Ufu 1:17-18"
+            }
+          ],
+          "comment": "Aliyefufuka anajisema mwenyewe \"wa Kwanza na wa Mwisho\" - cheo ambacho katika AK Mungu-Yahwe alijiita mwenyewe (Isa 44:6). Naye anaongeza: \"nalikuwa nimekufa, na tazama, ni hai\".",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Ni nini kinachokupa kutambua kwamba Yule anayejiita \"wa Kwanza na wa Mwisho\" alipita pia katika mauti - njia yako?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Phil.2.6-8",
+              "ref": "Flp 2:6-8"
+            }
+          ],
+          "comment": "Akiwa \"katika umbo la Mungu\", Yesu \"alijinyenyekeza\", akitwaa umbo la mtumishi hata mauti ya msalaba. Uungu na unyenyekevu vinakutana katika Nafsi moja.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Ni nini hili linalosema kuhusu tabia ya Mungu kwamba ukuu wake unadhihirika katika kujishusha, si katika kutawala?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "term",
+          "label": "\"alijifanya kuwa hana kitu\" (Flp 2:7)",
+          "content": "Usemi \"alijifanya kuwa hana kitu\" ni neno la Kigiriki *ekenōsen* (ndiyo asili ya neno la kitheolojia *kenosis*). Halimaanishi kwamba Yesu aliacha kuwa Mungu - bali kwamba aliacha mapendeleo na utukufu, akitwaa mipaka ya asili ya kibinadamu na njia ya mtumishi hata msalabani. Ukuu wa Mungu unadhihirika hapa si katika kutawala, bali katika kujishusha kwa hiari kwa ajili yetu.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐκένωσεν",
+              "translit": "ekenōsen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Yeye ni nani kwangu binafsi?",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "John.1.12",
+              "ref": "Yoh 1:12"
+            }
+          ],
+          "comment": "Wale wanaompokea, Yesu anawapa haki ya kuwa watoto wa Mungu. Huu ni mpito kutoka kumjua hadi kuwa na uhusiano naye.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Kuna tofauti gani kati ya \"kujua Yesu ni nani\" na \"kumpokea\" katika maisha yako mwenyewe?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "John.10.10",
+              "ref": "Yoh 10:10"
+            }
+          ],
+          "comment": "Yesu alikuja ili kutoa uzima \"tele\". Yeye si mtoaji wa kanuni, bali mtoaji wa uzima.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Ni nini unachohitaji zaidi leo kutoka kwa Mtu anayeahidi \"uzima tele\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Matt.11.28-29",
+              "ref": "Mt 11:28-29"
+            }
+          ],
+          "comment": "Mungu aliyeuumba ulimwengu anamwambia mtu aliyechoka: \"Njoni kwangu... nami nitawapumzisha\". Ukaribu, si umbali.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Ingemaanisha nini kuja kwa Yesu na kile hasa kinachokuchosha au kukulemea leo?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Yesu si mwalimu mkuu tu wala mtu kutoka historia ya mbali. Yeye ni Mungu wa milele - Muumba, \"Mimi Niko\" - aliyekuwa mwanadamu kwa upendo, ili kunipata na kunionyesha jinsi Baba alivyo kweli. Nikimtazama Yesu, ninautazama moyo wenyewe wa Mungu. Hivyo swali si tu \"yeye ni nani\", bali \"yeye ni nani kwangu\".",
+    "challenge": "Soma juma hili Injili moja nzima (mfano Marko - fupi zaidi), ukiwa na swali moja nyuma ya akili: \"Ninagundua nini kuhusu jinsi Mungu alivyo, nikimtazama Yesu?\". Andika sifa tatu za Yesu ambazo ungetamani ziwe kweli kuhusu Mungu - na mwambie waziwazi."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study kim-jest-jezus"
+  }
+}

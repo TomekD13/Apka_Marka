@@ -1,0 +1,141 @@
+{
+  "appName": "Funzo la Biblia",
+  "tagline": "Kisomaji cha mafunzo ya Biblia",
+  "nav": {
+    "home": "Nyumbani",
+    "topics": "Orodha ya mada",
+    "about": "Kuhusu",
+    "back": "Rudi",
+    "search": "Tafuta"
+  },
+  "home": {
+    "projectTitle": "Neno Hai",
+    "projectTagline": "njia ya kwenda nyumbani kwa Baba",
+    "todayTitle": "Kwa leo",
+    "topicsCount": "mada",
+    "playVideo": "Cheza video",
+    "categoriesTitle": "Kategoria",
+    "basicTitle": "Mafundisho ya msingi ya Biblia",
+    "basic_systematic": "Funzo la utaratibu",
+    "basic_practical": "Funzo la vitendo",
+    "series": "Mfululizo wa masomo",
+    "topic": "Mada mbalimbali za Biblia",
+    "searchPlaceholder": "Tafuta: mada, neno",
+    "language": "Lugha",
+    "downloadOffline": "Pakua kwa matumizi nje ya mtandao",
+    "downloading": "Inapakua…",
+    "offlineReady": "Inapatikana nje ya mtandao"
+  },
+  "reader": {
+    "levels": "Ngazi",
+    "base": "Rahisi",
+    "extended": "Zaidi",
+    "advanced": "Mtaalamu",
+    "application": "Muhtasari",
+    "challenge": "Changamoto",
+    "print": "PDF",
+    "backToList": "Orodha ya mada",
+    "showVerse": "Onyesha maandiko",
+    "hideVerse": "Ficha maandiko",
+    "minutes": "dak",
+    "question": "Swali",
+    "original": "Umbo asili",
+    "noteTypes": {
+      "syntax": "Sintaksia",
+      "verb": "Kitenzi",
+      "background": "Usuli",
+      "textual": "Uhakiki wa maandishi",
+      "term": "Istilahi",
+      "variant": "Toleo tofauti",
+      "worship": "Ibada",
+      "other": "Dokezo"
+    },
+    "share": "Shiriki"
+  },
+  "search": {
+    "title": "Matokeo ya utafutaji",
+    "noResults": "Hakuna matokeo.",
+    "for": "kwa"
+  },
+  "category": {
+    "empty": "Hakuna masomo katika kategoria hii."
+  },
+  "about": {
+    "title": "Kuhusu",
+    "body": "Kabla hujaanza kumtafuta Mungu, Yeye alikuwa amekwisha kukulaki. Gundua hili katika Neno lililo hai - ukiongozwa hatua kwa hatua, kama njia ya kwenda nyumbani kwa Baba, utakayoipita kwa mwendo wako mwenyewe.\n\nHakuna akaunti, hakuna kuingia, hakuna ufuatiliaji. Hufanya kazi nje ya mtandao baada ya kupakua moduli ya lugha.",
+    "publisher": "Mwandishi: Marek Micyk",
+    "privacy": "Programu haikusanyi data ya mtumiaji."
+  },
+  "contact": {
+    "title": "Wasiliana",
+    "intro": "Una swali au ungependa kuzungumza? Tuandikie.",
+    "name": "Jina",
+    "email": "Barua pepe yako (kwa majibu)",
+    "message": "Ujumbe wako",
+    "human": "Mimi ni mwanadamu",
+    "send": "Tuma ujumbe",
+    "subject": "Wasiliana - Neno Hai",
+    "hint": "Ujumbe utafunguliwa katika programu yako ya barua pepe.",
+    "who": "Sisi ni nani?",
+    "whoUrl": "https://adventist.or.tz/"
+  },
+  "common": {
+    "loading": "Inapakia…",
+    "placeholderBible": "Maandiko ya mstari yataonekana mara tafsiri itakapounganishwa.",
+    "copied": "Imenakiliwa"
+  },
+  "flashcards": {
+    "title": "Kariri Maandiko",
+    "intro": "Jifunze kwa moyo mistari 50 muhimu zaidi ya Biblia. Chagua mada na ufanye mazoezi kwa kadi; mistari usiyoikumbuka itarudi kwa marudio siku zinazofuata.",
+    "cta": "Kariri mistari ya Biblia",
+    "ctaDesc": "Mistari 50 muhimu zaidi ya Biblia - kadi zenye marudio.",
+    "chooseThemes": "Chagua mada za kujifunza",
+    "all": "Zote / hakuna",
+    "selectAtLeastOne": "Chagua angalau mada moja.",
+    "start": "Anza kujifunza",
+    "direction": "Mwelekeo",
+    "dirR2T": "Rejea → maandishi",
+    "dirT2R": "Maandishi → rejea",
+    "flip": "Onyesha jibu",
+    "flipHint": "Gusa kuonyesha jibu",
+    "g1": "Sijui",
+    "g2": "Hafifu",
+    "g3": "Vizuri",
+    "g4": "Najua",
+    "today": "leo",
+    "dayAbbr": "s",
+    "noRepeat": "bila marudio",
+    "remaining": "Zilizobaki",
+    "toLearn": "Za kujifunza",
+    "learned": "Zilizojifunzwa",
+    "mastered": "Zilizomudiwa",
+    "sessionDone": "Imekamilika kwa leo!",
+    "sessionDoneDesc": "Umemaliza marudio yote yaliyopangwa kwa leo. Rudi kesho kuimarisha.",
+    "practiceAll": "Fanya mazoezi zote",
+    "backToThemes": "Rudi kwenye mada",
+    "localOnly": "Maendeleo yako yanahifadhiwa kwenye kifaa hiki tu (kwenye kivinjari), bila akaunti. Kufuta data ya kivinjari kunayaondoa.",
+    "reset": "Futa maendeleo",
+    "resetConfirm": "Kufuta maendeleo yote yaliyohifadhiwa?",
+    "resetDone": "Maendeleo yamefutwa.",
+    "ankiR2T": "AnkiDroid: Rejea → Maandishi",
+    "ankiT2R": "AnkiDroid: Maandishi → Rejea",
+    "quizlet": "Unapendelea Quizlet? Fungua seti",
+    "onlyPl": "Kwa sasa inapatikana kwa Kipolandi."
+  },
+  "occasions": {
+    "title": "Mistari ya Biblia kwa kila tukio",
+    "intro": "Chagua tukio upate vifungu vya Maandiko vinavyofaa. Kila kimoja unaweza kumtumia mpendwa.",
+    "cta": "Mistari ya Biblia kwa kila tukio",
+    "ctaDesc": "Mistari kwa huzuni, furaha, hofu, ugonjwa na mengi zaidi - tayari kutuma.",
+    "share": "Shiriki",
+    "onlyPl": "Kwa sasa inapatikana kwa Kipolandi."
+  },
+  "share": {
+    "title": "Shiriki",
+    "hint": "Unaweza kuongeza ujumbe wako mwenyewe au kuondoa sehemu ya maandishi kabla ya kutuma.",
+    "includeLink": "Alika kutumia programu",
+    "cancel": "Ghairi",
+    "copy": "Nakili",
+    "send": "Tuma"
+  }
+}

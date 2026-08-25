@@ -1,0 +1,590 @@
+{
+  "id": "dekalog-a-prawo-mojzeszowe",
+  "lang": "pl",
+  "title": "Po co nam przykazania?",
+  "category": "basic_systematic",
+  "seriesId": "zycie-w-przymierzu",
+  "order": 16,
+  "summary": "Biblia rozróżnia prawo moralne (Dekalog - trwałe, bo wyraża charakter Boga) i prawo ceremonialne Mojżesza (zapowiadało Chrystusa i w Nim się wypełniło). Przestrzeganie przykazań to nie legalizm, lecz posłuszeństwo z miłości i w mocy Ducha - relacja przed regułami.",
+  "minutes": {
+    "base": 45,
+    "extended": 65
+  },
+  "tags": [
+    "prawo",
+    "Dekalog",
+    "prawo ceremonialne",
+    "łaska",
+    "posłuszeństwo",
+    "Duch Święty"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Czy chrześcijanin ma jeszcze przykazania?",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Matt.5.17-18",
+              "ref": "Mt 5,17-18"
+            }
+          ],
+          "comment": "Jezus mówi wprost, że nie przyszedł unieważnić Prawa, lecz dopełnić. „Wypełnić\" nie znaczy „skasować\" - znaczy „nadać pełny sens\".",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Co Jezus tu wyklucza, a co potwierdza w sprawie Prawa?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "„wypełnić\" (plēroō)",
+          "content": "W Mt 5,17 Jezus używa *plēroō* - „napełnić, dopełnić, doprowadzić do pełni\". To nie to samo co „znieść\" (gr. *katalyō*, którego Jezus wprost się wypiera). Czasownik wskazuje na nadanie Prawu pełnego sensu, nie na jego usunięcie.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "πληρῶσαι",
+              "translit": "plērōsai"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Jak rozróżnienie *plēroō* (dopełnić) i *katalyō* (znieść) porządkuje spór o trwałość prawa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Rom.3.31",
+              "ref": "Rz 3,31"
+            }
+          ],
+          "comment": "Paweł, apostoł łaski, pyta: czy wiara unieważnia Prawo? I odpowiada: przeciwnie - utwierdza je. Łaska nie znosi prawa, lecz przywraca mu właściwe miejsce.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Jak to możliwe, że wiara „utwierdza\" prawo, zamiast je znosić?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Rom.7.12",
+              "ref": "Rz 7,12"
+            }
+          ],
+          "comment": "Prawo jest „święte i sprawiedliwe, i dobre\". Problemem nigdy nie było prawo, lecz nasze serce - dlatego potrzebujemy nie zniesienia prawa, ale przemiany serca.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Jeśli prawo jest dobre, gdzie naprawdę leży problem grzechu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "„Prawo\" to hebr. tora („pouczenie\")",
+          "content": "Najczęstsze starotestamentowe słowo na „prawo\" to *tora* - „kierunek, pouczenie, wskazanie\", nie tylko suchy „przepis\". W Nowym Testamencie oddaje je gr. *nomos*. Dlatego „prawo\" w Biblii bywa szerokim określeniem całej objawionej woli Boga, a nie jedynie listą zakazów - co tłumaczy, czemu Paweł mówi, że wiara prawo „utwierdza\", a nie znosi.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "תּוֹרָה",
+              "translit": "tora"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Jak zmienia się spór o „prawo\", gdy rozumiemy je jako „pouczenie\", a nie tylko „paragraf\"?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Dwa rodzaje prawa: moralne i ceremonialne",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Deut.31.24-26",
+              "ref": "Pwt 31,24-26"
+            }
+          ],
+          "comment": "Prawo spisane przez Mojżesza złożono OBOK arki. Dekalog natomiast Bóg napisał własnym palcem i umieszczono go WEWNĄTRZ arki - Biblia rozróżnia te dwa zbiory już w sposobie ich przechowywania.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Co może oznaczać różnica: prawo Mojżesza obok arki, a Dekalog w jej wnętrzu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "dwa zbiory praw i arka",
+          "content": "W Biblii Dekalog („dziesięć słów\") zostaje umieszczony wewnątrz arki (Wj 25,16; Pwt 10,5), a „księga Prawa\" spisana przez Mojżesza - obok niej (Pwt 31,26). To rozróżnienie miejsca przechowywania bywa odczytywane jako wskazanie na różny status prawa moralnego i ceremonialnego."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Exod.31.18",
+              "ref": "Wj 31,18"
+            }
+          ],
+          "comment": "Dekalog spisany jest „palcem Bożym\" na kamieniu. To podkreśla jego wyjątkowość i trwałość - pochodzi bezpośrednio od Boga.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Dlaczego materiał (kamień) i autor (sam Bóg) podkreślają trwałość Dekalogu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "„dziesięć słów\" (Dekalog)",
+          "content": "„Dekalog\" to po hebrajsku dosłownie „dziesięć słów\" (por. Wj 34,28). To Boże dziesięć Słów było jedyną częścią Tory ogłoszoną wśród gromu i błyskawic z góry, a potem napisaną palcem samego Boga na dwóch kamiennych tablicach (Wj 31,18; Pwt 4,13; 10,4). Ta wyjątkowa okoliczność powstania wyróżnia prawo moralne spośród pozostałych przepisów Izraela."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Heb.10.1",
+              "ref": "Hbr 10,1"
+            }
+          ],
+          "comment": "Prawo ofiar było „cieniem przyszłych dóbr\", a nie samą rzeczywistością. Cień znika, gdy pojawia się to, co rzucało cień - czyli Chrystus.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Czemu cień traci sens, gdy nadchodzi rzeczywistość, którą zapowiadał?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Col.2.14-17",
+              "ref": "Kol 2,14-17"
+            }
+          ],
+          "comment": "Paweł mówi o przepisach „z powodu jedzenia i picia, czy też świąt, nowiu lub szabatów\", które były cieniem - ciałem jest Chrystus. Mowa o ceremonialnym systemie ofiar i świąt, wypełnionym w Jezusie.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Co znaczy, że przepisy ceremonialne były „cieniem\", a „ciałem\" jest Chrystus?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "„cień\" (skia) wobec „ciała\" (sōma)",
+          "content": "Kol 2,17 przeciwstawia *skia* (cień) i *sōma* (ciało, rzeczywistość). Przepisy obrzędowe to cień rzucany z góry przez nadchodzącą rzeczywistość - Chrystusa. Gdy nadchodzi *sōma*, cień traci funkcję, bo spełnił swoje zadanie wskazywania.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "σκιὰ … τὸ δὲ σῶμα τοῦ Χριστοῦ",
+              "translit": "skia … to de sōma tou Christou"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "textual",
+          "label": "„zatarł obciążający nas list\" (cheirographon)",
+          "content": "Słowo, które Paweł oddaje jako skreślony i „przybity do krzyża\" zapis przeciwko nam (Kol 2,14), to gr. *cheirographon* - „własnoręcznie spisany dokument dłużny, skrypt zobowiązania\". Występuje w Nowym Testamencie tylko tutaj. To, co Jezus obrazowo przybił do krzyża, to nasze potępienie i dług zaciągnięty przez grzech wraz z systemem obrzędowych „postanowień\" (gr. *dogma*), a nie wieczne prawo moralne.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χειρόγραφον",
+              "translit": "cheirographon"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Co właściwie zostało „przybite do krzyża\" według kontekstu Kol 2 - i czego to NIE dotyczy?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "„szabaty\" w Kol 2,16",
+          "content": "W Kol 2,16 lista (święta, nów, „szabaty\") nawiązuje do kalendarza świąt obrzędowych Izraela (por. Kpł 23), w tym dorocznych dni świątecznych zwanych szabatami, związanych z systemem ofiarniczym. Tekst dotyczy tego ceremonialnego cyklu, którego rolę wypełnił Chrystus, a nie cotygodniowego przykazania Dekalogu - co jest tematem odrębnego studium."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Eph.2.14-16",
+              "ref": "Ef 2,14-16"
+            }
+          ],
+          "comment": "Chrystus zniósł „Prawo przykazań w postanowieniach\", które dzieliło Żydów i pogan - system obrzędowy. Mur podziału pada, bo wypełniła się jego rola.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Które prawo dzieliło ludzi na „swoich\" i „obcych\" i dlaczego mogło zniknąć?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Co wypełniło się w Chrystusie",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "John.1.29",
+              "ref": "J 1,29"
+            }
+          ],
+          "comment": "Jan nazywa Jezusa „Barankiem Bożym\". Tysiące baranków składanych w ofierze wskazywały na ten jeden moment - gdy przychodzi prawdziwy Baranek, zapowiedź się dopełnia.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Jeśli wszystkie ofiary wskazywały na Jezusa, co dzieje się z nimi, gdy On już przyszedł?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Heb.9.9-10",
+              "ref": "Hbr 9,9-10"
+            }
+          ],
+          "comment": "Dary, ofiary i przepisy obrzędowe obowiązywały „do czasu naprawy\". Miały swój termin - wskazywały dalej, ku Chrystusowi.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Co znaczy, że te przepisy obowiązywały „do czasu naprawy\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Heb.7.18-19",
+              "ref": "Hbr 7,18-19"
+            }
+          ],
+          "comment": "Dawne zarządzenie zostaje uchylone z powodu jego słabości - niczego nie doprowadzało do doskonałości. Na jego miejsce wchodzi lepsza nadzieja: bezpośredni dostęp do Boga przez Jezusa.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Czego dawny system nie potrafił dać, a co daje Jezus?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "„wychowawca do Chrystusa\" (paidagogos)",
+          "content": "W Ga 3,24 prawo jest nazwane „wychowawcą\" prowadzącym do Chrystusa - gr. *paidagogos*. W starożytności *paidagogos* nie był nauczycielem (gr. *didaskalos*), lecz niewolnikiem, który odprowadzał chłopca do szkoły, chronił go i pilnował. Chodzi tu o cały system obrzędowy, który miał doprowadzić do Chrystusa - gdy On przyszedł, ta rola się dopełniła.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "παιδαγωγός",
+              "translit": "paidagogos"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q24",
+              "text": "Czym różni się rola „przewodnika prowadzącego do Chrystusa\" od roli „celu\", którym jest sam Chrystus?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Co obowiązuje chrześcijanina",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Matt.19.17-19",
+              "ref": "Mt 19,17-19"
+            }
+          ],
+          "comment": "Pytany o drogę do życia, Jezus wskazuje konkretne przykazania Dekalogu. Po krzyżu nikt nie cytuje przepisów o ofiarach jako reguły życia - lecz przykazania moralne pozostają punktem odniesienia.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Dlaczego Jezus, mówiąc o życiu, sięga właśnie po przykazania Dekalogu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "term",
+          "label": "„przykazania\" (entolē), nie ofiary",
+          "content": "Na pytanie bogatego młodzieńca Jezus wylicza konkretnie: nie zabijaj, nie cudzołóż, nie kradnij, nie mów fałszywego świadectwa - czyli Dekalog. Użyte tu słowo to gr. *entolē* („przykazanie\"), to samo, którego Jan używa o przykazaniach Bożych. Zauważmy, że młodzieniec zachowywał je legalistycznie, jako sam kodeks, brakowało mu zaś Prawodawcy: „Pójdź za Mną\".",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐντολή",
+              "translit": "entolē"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Jas.2.10-12",
+              "ref": "Jk 2,10-12"
+            }
+          ],
+          "comment": "Jakub, pisząc po krzyżu, wciąż traktuje Dekalog (zabójstwo, cudzołóstwo) jako „prawo wolności\", według którego będziemy sądzeni. Prawo moralne nadal obowiązuje.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Czemu Jakub nazywa prawo, które wciąż obowiązuje, „prawem wolności\", a nie niewoli?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "„królewskie prawo\", „prawo wolności\"",
+          "content": "Jakub nazywa Dekalog „prawem królewskim\" i „prawem wolności\", według którego dokona się sąd (Jk 2,8-12). Choć zbawienie jest z wiary w krzyż, sąd odnosi się do prawa. Warto zauważyć, że niewola nie pochodzi od prawa - bierze się z poddania się grzechowi; usprawiedliwienie zaś przychodzi z miłosierdzia, bo „miłosierdzie góruje nad sądem\" (Jk 2,13)."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "1John.2.3-4",
+              "ref": "1 J 2,3-4"
+            }
+          ],
+          "comment": "Znakiem, że naprawdę znamy Boga, jest zachowywanie Jego przykazań. To nie zasługa, lecz dowód autentycznej relacji.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Czym różni się „zachowywanie przykazań jako dowód relacji\" od „zasługiwania przykazaniami\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Rev.14.12",
+              "ref": "Ap 14,12"
+            }
+          ],
+          "comment": "U końca dziejów lud Boży opisany jest jako ci, którzy „zachowują przykazania Boga i wiarę Jezusa\". Przykazania i wiara nie są przeciwieństwami - idą razem.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Jak rozumieć połączenie „przykazań Boga\" i „wiary Jezusa\" w jednym opisie?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Posłuszeństwo z miłości, w mocy Ducha - nie legalizm",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "John.14.15",
+              "ref": "J 14,15"
+            }
+          ],
+          "comment": "„Jeśli Mnie miłujecie, będziecie zachowywać Moje przykazania\". Kolejność jest kluczowa: najpierw miłość, z niej wypływa posłuszeństwo - nie odwrotnie.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Co się zmienia, gdy posłuszeństwo wypływa z miłości, a nie ją poprzedza?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Rom.8.3-4",
+              "ref": "Rz 8,3-4"
+            }
+          ],
+          "comment": "Czego prawo nie mogło dokonać przez naszą słabość, Bóg dokonuje przez Ducha - by „sprawiedliwy czyn Prawa został wypełniony w nas\". Posłuszeństwo to dzieło Ducha w nas, nie nasz samotny wysiłek.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Czyją mocą wypełnia się prawo w życiu wierzącego według tego tekstu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Eph.2.8-10",
+              "ref": "Ef 2,8-10"
+            }
+          ],
+          "comment": "Zbawienie jest z łaski, nie z uczynków - a jednak jesteśmy stworzeni „do dobrych uczynków\". Uczynki nie są korzeniem zbawienia, lecz jego owocem.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Gdzie w tym tekście jest miejsce na uczynki, skoro zbawienie jest darmo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "Gal.5.6",
+              "ref": "Ga 5,6"
+            }
+          ],
+          "comment": "Liczy się „wiara, która działa przez miłość\". To biblijne lekarstwo na legalizm: nie martwa reguła, lecz wiara wyrażająca się w miłości.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Jak odróżnić „wiarę działającą przez miłość\" od pustego spełniania reguł?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u20",
+          "passage": [
+            {
+              "osis": "Ezek.36.26-27",
+              "ref": "Ez 36,26-27"
+            }
+          ],
+          "comment": "Bóg obiecuje nowe serce i swojego Ducha, który sprawi, że „będziecie postępowali według Moich nakazów\". Przemiana zaczyna się wewnątrz - od Boga, nie od zaciśniętych zębów.",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Co Bóg obiecuje zmienić najpierw - zachowanie czy serce? Dlaczego to ważne?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n11",
+          "noteType": "verb",
+          "label": "„czynić\" (poieō) a „wypełniać\" (plēroō) prawo",
+          "content": "Warto zwrócić uwagę, że Paweł celowo używa dwóch różnych czasowników. O przepisach obrzędowych mówi „czynić\" (gr. *poieō*) - akcent pada na ludzki wysiłek. O prawie moralnym i „prawie Chrystusa\" mówi „wypełniać\" (gr. *plēroō*, np. Ga 5,14) - akcent pada na dzieło Ducha. Posłuszeństwo Dekalogowi staje się pełne nie przez zaciśnięte zęby, lecz jako owoc Ducha.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ποιέω",
+              "translit": "poieō"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q25",
+              "text": "Dlaczego rozróżnienie „czynić\" (mój wysiłek) i „wypełniać\" (dzieło Ducha) jest lekarstwem na legalizm?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Biblia nie zna konfliktu między łaską a prawem. Prawo ceremonialne - ofiary, święta, obrzędy - było cieniem, który wskazywał na Chrystusa i w Nim się wypełnił. Prawo moralne, Dekalog, trwa, bo opisuje niezmienny charakter Boga. Ale przestrzeganie przykazań nigdy nie jest sposobem na zasłużenie miłości. To owoc relacji: kochamy, więc jesteśmy posłuszni - i to nie własną siłą, lecz mocą Ducha, który daje nowe serce. Relacja zawsze idzie przed regułami.",
+    "challenge": "Zrób w tym tygodniu prosty test serca: wybierz jedno przykazanie i zapytaj, czy zachowujesz je z lęku/obowiązku, czy z miłości do Boga. Poproś Ducha Świętego, by zmienił twoją motywację z „muszę\" na „chcę\"."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "status: draft needsReview: true generatedBy: claude notes: Założenia przyjęte przy braku danych: `category = basic_systematic`, `seriesId = zycie-w-przymierzu`, `order = 16` (Blok III wg briefu). Do sprawdzenia przez recenzenta: poprawność kodów OSIS (zwł. `Jas`, `1John`, `Rev`, `Ezek`, `Col`, `Eph`); brzmienie odniesień w przyjętym przekładzie PL. Formy oryginalne (advanced) do weryfikacji: `πληρῶσαι` / *plērōsai*, `σκιὰ / σῶμα` / *skia / sōma*; potwierdzić zapis i transliterację u recenzenta. Uwaga teologiczna: rozróżnienie prawa moralnego i ceremonialnego oraz interpretacja „szabatów\" w Kol 2,16 (jako świąt obrzędowych, nie cotygodniowego szabatu) zgodne z linią ADS; pełne omówienie szabatu w studium 17. Tekst wersetów celowo NIE jest wstawiony tylko odnośniki (osis + ref); treść dociągana z przekładu."
+  }
+}

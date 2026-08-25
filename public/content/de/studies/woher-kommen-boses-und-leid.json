@@ -1,0 +1,508 @@
+{
+  "id": "woher-kommen-boses-und-leid",
+  "lang": "de",
+  "title": "Woher kommen Böses und Leid?",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 3,
+  "summary": "Wenn Gott gut und allmächtig ist, woher kommt dann das Böse? Die Bibel antwortet nicht mit Philosophie, sondern mit der Geschichte des großen Kampfes: eine gut geschaffene Welt, eine Liebe, die Freiheit verlangt, eine Auflehnung im Himmel, der Fall des Menschen - und Gott, der nicht der Urheber des Bösen ist, sondern derjenige, der es am Kreuz löst.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "das Böse",
+    "Leid",
+    "der große Kampf",
+    "Freiheit",
+    "Satan",
+    "Fall",
+    "Hoffnung"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Eine Welt, die gut aus Gottes Hand hervorging",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Gen.1.31",
+              "ref": "1Mo 1,31"
+            }
+          ],
+          "comment": "Die ursprüngliche Welt war keine \"Mischung aus Gut und Böse\". Gott beurteilte die ganze Schöpfung als \"sehr gut\" - das Böse gehörte nicht zum ursprünglichen Entwurf.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Wenn die Welt als \"sehr gut\" begann, wovon zeugt dann die Tatsache, dass sie heute nicht so aussieht?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"sehr gut\" (1Mo 1,31)",
+          "content": "In 1Mo 1 kehrt das Wort \"gut\" (hebr. *tow*) wie ein Refrain wieder - sechsmal im Lauf der Schöpfung, und am Ende der Höhepunkt: \"sehr gut\" (*tow me'od*). Das ist nicht nur ein ästhetisches Urteil, sondern ein Zeugnis dafür, dass das Ganze dem Plan entsprach und frei vom Bösen war. Das Böse ist kein \"Mangel an Vollendung\" der Welt, sondern ein späterer Eindringling.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "טוֹב מְאֹד",
+              "translit": "tow me'od"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "1John.1.5",
+              "ref": "1Joh 1,5"
+            }
+          ],
+          "comment": "\"Gott ist Licht, und in ihm ist keine Finsternis.\" Das Böse lässt sich nicht auf Gott abwälzen - in ihm hat es keine Quelle.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Was verändert an deinem Bild von Gott die Überzeugung, dass er keine \"dunkle Seite\" hat?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "das ist kein ewiger Dualismus von Gut und Böse",
+          "content": "Das biblische Bild unterscheidet sich vom Dualismus (etwa dem persischen oder gnostischen), in dem Gut und Böse zwei ewige, gleichrangige Kräfte sind. Hier ist das Böse kein urzeitlicher Gegen-Gott: Es entstand in der Zeit, in einem geschaffenen Gut, das verdarb - und deshalb kann es auch ein Ende haben. Das Licht ist ursprünglich; die Finsternis ist sein Fehlen, kein urzeitlicher Rivale."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "1John.4.8",
+              "ref": "1Joh 4,8"
+            }
+          ],
+          "comment": "Gott \"ist Liebe\". Und Liebe kann per Definition nicht erzwungen sein - das ist der Schlüssel zum Verständnis, warum die Möglichkeit des Bösen überhaupt bestand.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Warum wäre eine Liebe, die programmiert oder erzwungen wäre, überhaupt keine Liebe?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Liebe verlangt Freiheit",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Deut.30.19",
+              "ref": "5Mo 30,19"
+            }
+          ],
+          "comment": "Gott legt dem Menschen eine echte Wahl vor: Leben oder Tod - und sagt \"erwähle\". Die Freiheit der Wahl ist ein Geschenk, aber sie birgt ein Risiko.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Warum muss eine echte Beziehung die Möglichkeit voraussetzen, \"nein\" zu sagen?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Josh.24.15",
+              "ref": "Jos 24,15"
+            }
+          ],
+          "comment": "\"Erwählt euch heute, wem ihr dienen wollt.\" Gott zwingt nie zu sich - er lädt ein. Dasselbe Risiko, das Liebe hervorbringt, lässt auch Auflehnung zu.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Was sagt es über Gott aus, dass er das Risiko freier Liebe der Gewissheit erzwungenen Gehorsams vorzieht?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "worum es im großen Kampf geht",
+          "content": "Der Streit betrifft nicht die Frage \"wer ist stärker\", sondern den Charakter Gottes, sein Gesetz und seine Herrschaft über das Universum. Satan wirft vor, Gottes Regierung sei ungerecht und Gehorsam aus Liebe sei unmöglich. Deshalb beendet Gott den Streit nicht sofort mit Gewalt: Er lässt zu, dass sich das Böse vor dem ganzen Universum selbst entlarvt, statt seine Sache zu \"dekretieren\".",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Warum erfordert ein Streit \"um den Charakter Gottes\" Zeit und Beweis und nicht einfach ein Urteil mit Gewalt?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Rev.3.20",
+              "ref": "Offb 3,20"
+            }
+          ],
+          "comment": "Gott \"steht vor der Tür und klopft an\" - er wartet, bis wir von innen öffnen. Nie bricht er die Tür des menschlichen Herzens auf.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Wie verändert es das Bild von Gott, dass er anklopft, statt mit Gewalt einzutreten?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Eine Auflehnung, die im Himmel begann",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Rev.12.7-9",
+              "ref": "Offb 12,7-9"
+            }
+          ],
+          "comment": "Das Böse hat seinen Anfang in einer realen Auflehnung: \"Krieg im Himmel\", und Satan (ein einstiger Engel) wird hinabgeworfen. Hinter dem Bösen steht eine Person, keine Abstraktion.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Was verändert das Bewusstsein, dass sich im Hintergrund des menschlichen Ringens ein größerer Konflikt abspielt, dessen Teil wir sind?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Isa.14.12-14",
+              "ref": "Jes 14,12-14"
+            }
+          ],
+          "comment": "Hinter dem Bild des gefallenen Königs von Babylon scheint ein tieferer Fall durch: das fünffache \"ich will hinaufsteigen... ich will dem Höchsten gleich sein\". Die Wurzel der Auflehnung ist Hochmut und der Wunsch, den Platz Gottes einzunehmen.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Wie ist \"ich will wie Gott sein / anstelle Gottes\" bis heute eine Wurzel des Bösen auch im menschlichen Herzen?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "woher der Name \"Luzifer\" stammt (Jes 14,12)",
+          "content": "Das hebräische *helel ben-schachar* bedeutet \"Glänzender, Sohn der Morgenröte\" (Morgenstern). Die lateinische Vulgata gab das mit dem Wort *Lucifer* wieder - \"der Lichtträger\". Daher in der Überlieferung der Name \"Luzifer\" für das Wesen, das hinter der Auflehnung steht. Der Text selbst zeigt die tragische Ironie: Jemand, der geschaffen wurde, um Licht widerzuspiegeln, wollte den Platz der Quelle des Lichts einnehmen.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "הֵילֵל בֶּן־שָׁחַר",
+              "translit": "helel ben-szachar"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Ezek.28.12-17",
+              "ref": "Hes 28,12-17"
+            }
+          ],
+          "comment": "Hinter dem \"König von Tyrus\" zeigt sich ein Wesen, das \"vollkommen\" geschaffen wurde und in dem sich \"Unrecht fand\". Das Böse ist nicht ewig - es entstand in jemandem Guten, der es wählte.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Was bedeutet es, dass das Böse nicht \"schon immer\" existierte, sondern im Herzen eines ursprünglich guten Wesens entstand?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "die doppelte Perspektive von Jes 14 und Hes 28",
+          "content": "Jes 14 (König von Babylon) und Hes 28 (König von Tyrus) sind unmittelbar Reden gegen irdische Herrscher. Zugleich übersteigt die Sprache dieser Texte (ein Wesen \"vollkommen vom Tag seiner Erschaffung an\", die Anwesenheit \"auf dem heiligen Berg Gottes\", der Wunsch nach Gleichheit mit dem Höchsten) die Möglichkeiten eines Menschen und wird traditionell als Enthüllung der Macht gelesen, die hinter dem Hochmut dieser Könige steht. Es lohnt sich, beide Ebenen zu bewahren - die historische und die übergeschichtliche - ohne eine davon zu verlieren."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "ein sündlos geschaffener Cherub (Hes 28,15)",
+          "content": "Der Text sagt es direkt: \"du warst vollkommen in deinen Wegen vom Tag deiner Erschaffung an, bis sich Unrecht in dir fand\". Das ist entscheidend für das Verständnis des Ursprungs des Bösen: Es wurde nicht von Gott geschaffen und existierte nicht von Ewigkeit her - es entstand in einem ursprünglich guten Wesen als Missbrauch der Freiheit. Das Böse ist ein \"Parasit\" am Guten, kein eigener Stoff."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "John.8.44",
+              "ref": "Joh 8,44"
+            }
+          ],
+          "comment": "Jesus nennt den Teufel \"den Vater der Lüge\" und einen \"Mörder von Anfang an\". Die erste Waffe der Auflehnung ist ein verzerrtes Bild von Gott - eine Lüge über seinen Charakter.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Welche \"Lügen über Gott\" (dass er streng, fern, lieblos sei) lassen sich heute am leichtesten in uns säen?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"Satan\" und \"Teufel\": Ankläger und Verleumder",
+          "content": "Das hebräische *satan* bedeutet \"Widersacher, Ankläger\" (die Rolle des Anklägers im Gericht, z. B. Hi 1-2; Sach 3,1). Das griechische *diabolos* heißt \"Verleumder, einer, der falsche Anschuldigungen erhebt\". Beide Namen verraten die Strategie: nicht so sehr Gewalt, sondern Lüge und Anklage - gegen Gott vor dem Menschen und gegen den Menschen vor Gott. Deshalb ist es eine gute Nachricht, dass wir einen Fürsprecher haben.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "שָׂטָן",
+              "translit": "satan"
+            },
+            {
+              "lang": "grc",
+              "text": "διάβολος",
+              "translit": "diabolos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Der Fall des Menschen und der große Kampf als Rahmen der Geschichte",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Gen.3.1-6",
+              "ref": "1Mo 3,1-6"
+            }
+          ],
+          "comment": "Die Schlange beginnt nicht mit einem Befehl, sondern mit einer Frage, die Gottes Wort und Güte in Zweifel zieht: \"Sollte Gott wirklich gesagt haben...\". Der Fall ist vor allem ein Verlust des Vertrauens.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Was \"zerbrach\" im Menschen tatsächlich zuerst: der Gehorsam oder das Vertrauen in Gottes Güte?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Gen.3.15",
+              "ref": "1Mo 3,15"
+            }
+          ],
+          "comment": "Schon im Augenblick des Falls fällt die erste Verheißung: Der \"Nachkomme der Frau\" wird der Schlange den Kopf zertreten. Der große Kampf hat von Anfang an eine angekündigte Lösung.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Was bedeutet es für dich, dass die Hoffnung genau dort auftaucht, wo das Böse auftauchte?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "1Mo 3,15 als \"Protoevangelium\"",
+          "content": "Der Vers wird manchmal *Protoevangelium* genannt - \"das erste Evangelium\". Es ist die früheste Ankündigung der Bibel, dass der Nachkomme der Frau die Schlange besiegen wird, obwohl er selbst verwundet wird (\"er wird dir den Kopf zertreten, und du wirst ihn in die Ferse treffen\"). Die ganze weitere Heilsgeschichte ist eine Entfaltung dieser einen Verheißung, die unmittelbar nach dem Fall gegeben wurde."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Rom.5.12",
+              "ref": "Röm 5,12"
+            }
+          ],
+          "comment": "Durch einen Menschen kamen die Sünde und der Tod in die Welt. Leid und Tod sind die Folge der Trennung vom Geber des Lebens, nicht der ursprüngliche Plan Gottes.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Wie verändert das Bewusstsein den Blick auf das Leid, dass es ein \"Eindringling\" ist und nicht etwas, das Gott geplant hat?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "der große Kampf als Rahmen der ganzen Bibel",
+          "content": "Die biblische Antwort auf das Böse ist nicht philosophisch, sondern erzählerisch: Die ganze Geschichte spielt sich als Konflikt zwischen Christus und Satan ab - ein Streit darüber, ob Gott gerecht und voller Liebe ist. Die Klammer umfasst 1Mo 3 (die gesäte Lüge) und Offb 20-22 (die endgültige Reinigung). Diese Perspektive fügt die einzelnen Texte zu einer einzigen Erzählung zusammen und erklärt, warum Gott das Böse für eine Zeit duldet."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Job.1.8-12",
+              "ref": "Hi 1,8-12"
+            }
+          ],
+          "comment": "Das Buch Hiob lüftet den Vorhang: Das Leid des Gerechten kommt nicht von Gott, sondern vom Ankläger. Gott wird angeklagt - er ist nicht der Urheber des Unglücks.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Wie verändert die Tatsache, dass hinter dem Leid Hiobs Satan steht und nicht Gott, die Frage \"warum hat Gott mir das angetan\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "der himmlische \"Hof\" im Buch Hiob",
+          "content": "Hi 1-2 zeigt eine Szene, in der die \"Söhne Gottes\" (himmlische Wesen) vor Gott treten und unter ihnen der Ankläger erscheint. Das ist ein seltener Blick \"hinter die Kulissen\": Das menschliche Leid wird in einen andauernden Streit eingebettet, in dem es darum geht, ob der Mensch Gott aus Liebe dient oder nur um des Vorteils willen. Der Leser weiß, was Hiob nicht weiß - deshalb darf man sein Leid nicht als Strafe Gottes deuten."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Rev.12.17",
+              "ref": "Offb 12,17"
+            }
+          ],
+          "comment": "Der Kampf dauert bis heute: Der Drache \"wurde zornig\" und führt Krieg gegen die, die an Gott festhalten. Unser Ringen hat Sinn in dieser größeren Geschichte.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Was gibt das Bewusstsein, dass deine persönlichen Kämpfe kein Zufall sind, sondern Teil eines andauernden Kampfes?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Das Leid ist vorübergehend, das Böse hat ein Ende",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Rev.21.4",
+              "ref": "Offb 21,4"
+            }
+          ],
+          "comment": "Das Ende der Geschichte ist kein ewiger Konflikt, sondern eine Welt ohne Tränen, Tod und Schmerz: \"das Erste ist vergangen\". Das Böse ist eine Episode, nicht das letzte Wort.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Was würde für dich ein Leben bedeuten, in dem es den Schmerz, den du heute erlebst, \"nicht mehr\" gibt?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Rom.8.18",
+              "ref": "Röm 8,18"
+            }
+          ],
+          "comment": "Paulus verharmlost das Leid nicht, sondern wägt es ab: Es ist \"nicht zu vergleichen\" mit der Herrlichkeit, die offenbar werden soll. Das gegenwärtige Böse ist real, aber vorübergehend.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Wie hilft die Hoffnung auf eine Zukunft, die \"überwiegt\", durch das hindurchzukommen, was jetzt schwer ist?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Nah.1.9",
+              "ref": "Nah 1,9"
+            }
+          ],
+          "comment": "Die Verheißung ist stark: \"die Drangsal wird sich nicht ein zweites Mal erheben\". Gott wird das Problem des Bösen so gründlich lösen, dass es sich nie wieder wiederholt.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Warum ist es bedeutsam, dass Gott das Böse nicht nur \"aufhält\", sondern seine Quelle für immer beseitigt?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n11",
+          "noteType": "background",
+          "label": "warum das Böse nicht \"ein zweites Mal\" wiederkehrt (Nah 1,9)",
+          "content": "Wenn das Böse einmal in einer vollkommenen Welt entstand, stellt sich die Frage: Kann es erneut ausbrechen? Die Antwort des großen Kampfes lautet: nein. Gott vernichtet das Böse nicht sofort, gerade um seine Natur vor dem ganzen Universum zu enthüllen - so gründlich, dass niemand es je wiederholen will, wenn der Streit beendet ist. Das Universum soll für immer sicher sein, nicht durch Zwang, sondern durch Beweis."
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Das Böse kommt nicht von Gott und gehörte nicht zu seiner Welt. Es entstand dort, wo die Freiheit - die nötig ist, damit Liebe echt sein kann - gegen Gott eingesetzt wurde, zuerst im Himmel, dann auf der Erde. Wir leben mitten im großen Kampf, aber nicht ohne Hoffnung: Gott ist nicht der Urheber des Leides, sondern derjenige, der selbst am Kreuz in es hineingegangen ist und ein endgültiges Ende des Bösen verheißen hat. Dein Leid ist real - aber es ist nicht das letzte Wort.",
+    "challenge": "Denke an ein konkretes Leid (dein eigenes oder das eines nahen Menschen), das dich fragen lässt \"wo ist Gott?\". Statt es Gott als Schuldigem zuzuschreiben, bring es Gott als Verbündetem im Kampf - sprich es im Gebet direkt aus. Schreibe einen Satz auf, den du in dieser Sache von Gott hören möchtest, und stelle ihn der Verheißung aus Offb 21,4 gegenüber."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "DE translation of PL study skad-zlo-i-cierpienie"
+  }
+}

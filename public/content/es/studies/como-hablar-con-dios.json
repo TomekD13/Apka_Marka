@@ -1,0 +1,481 @@
+{
+  "id": "como-hablar-con-dios",
+  "lang": "es",
+  "title": "¿Cómo hablar con Dios?",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 8,
+  "summary": "La oración no es una fórmula mágica ni una obligación religiosa, sino una conversación sincera con Dios, que escucha y responde. Aprendemos a hablar con el Amigo de forma sencilla, constante y con confianza, y descubrimos que la oración nos transforma a nosotros y a nuestras situaciones.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "la oración",
+    "conversación",
+    "confianza",
+    "Padre nuestro",
+    "relación"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "La oración es una conversación, no una fórmula",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Matt.6.7-8",
+              "ref": "Mt 6:7-8"
+            }
+          ],
+          "comment": "Jesús deja a un lado la idea de la oración como un modo de \"manipular\" a Dios con muchas palabras. El Padre sabe lo que necesitas antes de que se lo pidas, así que la oración es una conversación con Alguien cercano, no un conjuro.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "¿Qué cambia en tu manera de orar la idea de que Dios ya conoce tus necesidades antes de que hables?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Matt.7.7-8",
+              "ref": "Mt 7:7-8"
+            }
+          ],
+          "comment": "\"Pedid... buscad... llamad\": la oración es activa y perseverante. Jesús anima a no callar después de la primera vez, sino a seguir conversando.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "¿Qué hay en tu vida que hace más fácil callar que seguir \"llamando\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "verb",
+          "label": "\"pedid, buscad, llamad\" (Mt 7,7)",
+          "content": "En griego los verbos *aiteo*, *zeteo*, *krouo* están en imperativo presente, que expresa una acción continua y repetida: \"pedid y no dejéis de pedir\". La forma gramatical misma invita a la perseverancia: no es un \"pide\" puntual, sino un \"sigue conversando\".",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "αἰτεῖτε… ζητεῖτε… κρούετε",
+              "translit": "aiteite… zeteite… krouete"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "¿Cómo cambia el sentido de la invitación cuando la lees como \"pedid con perseverancia\" en lugar de un \"pide\" de una sola vez?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Matt.7.9-11",
+              "ref": "Mt 7:9-11"
+            }
+          ],
+          "comment": "Dios no es peor que un padre terrenal. Si unos padres imperfectos dan cosas buenas a sus hijos, cuánto más un Padre bueno responde a las peticiones de sus hijos.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "¿En qué se diferencia la imagen de Dios como un buen Padre de la de un Dios que solo espera nuestros errores?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "El modelo que dio Jesús",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Matt.6.9-13",
+              "ref": "Mt 6:9-13"
+            }
+          ],
+          "comment": "El \"Padre nuestro\" no es una fórmula para recitar de forma mecánica, sino un modelo: comienza con la relación y la gloria de Dios, luego pide por las necesidades diarias, el perdón y la protección. Es el esqueleto de una conversación sana con Dios.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "¿Qué elementos del Padrenuestro sueles omitir con más frecuencia en tus oraciones, y por qué?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "\"Padre\" (Abba) como núcleo del Padrenuestro",
+          "content": "La palabra \"Padre\" con la que Jesús abre la oración modelo (Mt 6:9; Lc 11:2) expresa la relación de un hijo con su padre, no la de un súbdito con su soberano. En Ro 8:15 y Gá 4:6 aparece el arameo *Abba*, un \"papá\" tierno y familiar. Con esa misma palabra oró el propio Jesús en Getsemaní (Mr 14:36). Es la que da el tono a toda la oración: conversación, no audiencia.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἀββά",
+              "translit": "abba"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"el pan de cada día\" (Mt 6,11)",
+          "content": "La palabra griega *epiousios* es rara y difícil de traducir; tradicionalmente se vierte como \"de cada día / para el día de hoy\". La petición se refiere a la necesidad actual, cotidiana; enseña a confiar \"para hoy\", no a acumular reservas. Es un eco del maná en el desierto: lo suficiente para un día, confiando en Dios para el mañana.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐπιούσιος",
+              "translit": "epiousios"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Luke.11.1",
+              "ref": "Lc 11:1"
+            }
+          ],
+          "comment": "Los discípulos, al ver orar a Jesús, le pidieron: \"enséñanos\". La oración se puede y vale la pena aprenderla: no hace falta \"saber\" hacerla desde el principio.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Si hoy pudieras pedirle a Jesús \"enséñame a orar\", ¿qué te gustaría entender en concreto?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Matt.6.5-6",
+              "ref": "Mt 6:5-6"
+            }
+          ],
+          "comment": "Jesús advierte contra la oración \"de exhibición\". La más valiosa es la que se hace en lo secreto, porque se trata de un encuentro con el Padre, no de causar impresión en la gente.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "¿En qué se diferencia la oración \"para Dios\" de la oración \"para la gente\" que mira?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Ps.62.8",
+              "ref": "Sal 62:9"
+            }
+          ],
+          "comment": "\"Derramad delante de él vuestro corazón\": la oración es poner delante de Dios lo que realmente hay en nosotros. Dios es un refugio ante el cual no hace falta fingir.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "¿Qué significaría para ti \"derramar el corazón\" delante de Dios en lugar de decir lo que \"queda bien\"?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Sinceridad y constancia",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Phil.4.6-7",
+              "ref": "Fil 4:6-7"
+            }
+          ],
+          "comment": "En lugar de inquietarnos, debemos presentar a Dios nuestras peticiones \"en toda situación\" con acción de gracias. La promesa no es una solución inmediata, sino la paz de Dios, que guarda el corazón.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "¿Qué es lo que más a menudo te quita la paz, y cómo sería entregárselo a Dios en oración con acción de gracias?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "\"la paz que guarda\" (Flp 4,7)",
+          "content": "La palabra griega *eirene* traduce el hebreo *shalom*: no solo ausencia de conflicto, sino plenitud e integridad. La \"paz que sobrepasa todo entendimiento\" no depende de que el problema se resuelva, sino que \"guarda\" el corazón y los pensamientos (gr. *phroureo*, un término militar: montar guardia, poner vigilancia). La imagen es fuerte: la paz de Dios se aposta como centinela alrededor de tu interior, como una guarnición alrededor de una ciudad.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "εἰρήνη",
+              "translit": "eirene"
+            },
+            {
+              "lang": "hbo",
+              "text": "שָׁלוֹם",
+              "translit": "szalom"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "1Thess.5.16-18",
+              "ref": "1 Ts 5:16-18"
+            }
+          ],
+          "comment": "\"Orad sin cesar\" no es una invitación a estar siempre de rodillas, sino a mantener una línea de conversación abierta y constante con Dios a lo largo de todo el día.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "¿Cómo podría ser una conversación \"sin cesar\" con Dios entretejida en tu día corriente?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "Daniel y el ritmo de tres oraciones al día (Dn 6,10)",
+          "content": "Cuando se promulgó la prohibición de orar bajo pena de muerte, Daniel, \"como solía hacerlo\", se arrodillaba tres veces al día y oraba ante la ventana abierta. Dos cosas son significativas: la oración era en él un hábito constante (no una reacción esporádica ante la crisis), y ese hábito resultó más fuerte que el miedo. La constancia en la oración construye la columna vertebral de la fe para el tiempo de prueba."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Mark.1.35",
+              "ref": "Mr 1:35"
+            }
+          ],
+          "comment": "El propio Jesús, aun siendo el Hijo de Dios, buscaba un lugar y un tiempo para conversar con el Padre: muy de mañana, a solas. La constancia no es señal de una fe débil, sino de su fortaleza.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "¿Cuándo, en tu día, podría haber un momento fijo y tranquilo para conversar con Dios?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Luke.18.1",
+              "ref": "Lc 18:1"
+            }
+          ],
+          "comment": "Jesús enseña \"que es necesario orar siempre y no desfallecer\". La perseverancia en la oración es lo contrario del desánimo.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "¿En qué asunto te sientes tentado a dejar de orar? ¿Qué significaría \"no desfallecer\"?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Dios escucha y responde",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "1John.5.14-15",
+              "ref": "1 Jn 5:14-15"
+            }
+          ],
+          "comment": "Tenemos la confianza de que Dios nos escucha cuando pedimos conforme a su voluntad. La oración no es hablar al vacío: es escuchada.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "¿Qué cambia tomar conciencia de que Dios de verdad te escucha, y no solo \"recibe\" tus palabras?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Isa.65.24",
+              "ref": "Is 65:24"
+            }
+          ],
+          "comment": "\"Antes que clamen, yo responderé\": Dios no es tardo. Su respuesta a menudo se adelanta a nuestras peticiones.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "¿Te ha ocurrido percibir una respuesta a una necesidad que aún no habías llegado a expresar?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Luke.22.42",
+              "ref": "Lc 22:42"
+            }
+          ],
+          "comment": "En Getsemaní Jesús ora: \"no se haga mi voluntad, sino la tuya\". Dios responde de tres maneras (\"sí\", \"no\", \"espera\") y su respuesta siempre brota del amor, no de la indiferencia.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "¿Cómo recibes el \"no\" o el \"espera\" de Dios? ¿Te resulta más fácil confiar cuando la respuesta es \"sí\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "\"la copa\" en Getsemaní (Łk 22,42)",
+          "content": "La \"copa\" cuyo apartamiento pide Jesús es, en el Antiguo Testamento, una imagen del juicio de Dios sobre el pecado (p. ej. Sal 75:8; Is 51:17). Jesús no retrocede ante un sufrimiento cualquiera: se enfrenta a beber la \"copa\" que nos correspondía a nosotros. Su oración \"no mi voluntad, sino la tuya\" muestra además que el modelo supremo de oración no es imponer la propia opinión, sino confiar en la voluntad del Padre incluso en la mayor oscuridad."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "2Cor.12.8-9",
+              "ref": "2 Co 12:8-9"
+            }
+          ],
+          "comment": "Pablo pidió tres veces que se le quitara un sufrimiento, y Dios respondió de un modo distinto a lo pedido: \"bástate mi gracia\". A veces Dios no cambia la situación, sino que da fuerzas para atravesarla.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "¿Puedes señalar un momento en que la respuesta de Dios fue distinta y mejor que aquello que pedías?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Jas.4.3",
+              "ref": "Stg 4:3"
+            }
+          ],
+          "comment": "A veces \"pedimos y no recibimos\" porque pedimos mal, para satisfacer nuestros propios deseos. La oración no es una herramienta para realizar el egoísmo, sino un lugar donde el corazón madura.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "¿Cómo distinguir una petición que de verdad busca la voluntad de Dios de un intento de \"usar\" a Dios para los propios fines?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "La oración me transforma a mí y a las situaciones",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Jas.5.16",
+              "ref": "Stg 5:16"
+            }
+          ],
+          "comment": "\"La oración ferviente del justo puede mucho\": la oración de verdad cambia algo en el mundo. No es solo una terapia para quien ora; Dios actúa en respuesta a ella.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "¿Te resulta más fácil creer que la oración te cambia a ti, o que cambia también el curso de las cosas? ¿Por qué?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "worship",
+          "label": "las oraciones como incienso ante Dios (Ap 5,8)",
+          "content": "En Ap 5:8 y 8:3-4 las oraciones de los santos se representan como incienso que se eleva ante el trono de Dios (cf. Sal 141:2: \"suba mi oración como el incienso\"). La imagen dice dos cosas: la oración es grata a Dios como el humo fragante de la ofrenda, y ninguna se pierde, todas se \"acumulan\" en el cielo. Tu oración más callada llega hasta la misma corte del cielo."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Luke.11.9-13",
+              "ref": "Lc 11:9-13"
+            }
+          ],
+          "comment": "El mejor don que el Padre da a quienes piden es el Espíritu Santo. La oración nos transforma sobre todo a nosotros: abre el corazón a la presencia de Dios.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Si la mayor \"respuesta\" a tu oración fuera Dios mismo, y no la cosa que pides, ¿te bastaría con eso?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "La oración no es un examen de palabras correctas ni una obligación religiosa. Es una conversación con el Amigo que ya te conoce, que de verdad te escucha y responde: a veces \"sí\", a veces \"no\", a veces \"espera\", siempre por amor. No necesitas saber orar para empezar; basta con que empieces a hablar. Y cuanto más conversas con Dios, más transforma la oración no solo tus situaciones, sino sobre todo a ti.",
+    "challenge": "Durante la próxima semana, busca cada día un momento tranquilo para una conversación sincera y breve con Dios, sin fórmulas hechas, con tus propias palabras. Puedes apoyarte en el modelo del Padrenuestro (Mt 6:9-13): empieza con acción de gracias, luego habla a Dios de una necesidad concreta y de una preocupación que quieras entregarle."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "ES translation of PL study modlitwa"
+  }
+}

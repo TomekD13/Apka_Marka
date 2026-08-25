@@ -1,0 +1,497 @@
+{
+  "id": "quien-es-realmente-jesus",
+  "lang": "es",
+  "title": "¿Quién es realmente Jesús?",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 2,
+  "summary": "Quién es realmente Jesús de Nazaret: una figura histórica y, a la vez, el Dios eterno, el Creador que se hizo hombre para salvarme y revelar al Padre, y quién quiere ser para mí personalmente.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "Jesús",
+    "divinidad",
+    "encarnación",
+    "Creador",
+    "Yo Soy",
+    "revelación del Padre"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Un hombre al que no se puede ignorar",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Matt.16.13-16",
+              "ref": "Mt 16:13-16"
+            }
+          ],
+          "comment": "Jesús mismo plantea la pregunta más importante: no \"qué dicen de Mí\", sino \"quién dicen ustedes que soy Yo\". De la respuesta a esta pregunta depende todo lo demás.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Si Jesús te hiciera hoy esta pregunta a ti, ¿qué responderías con sinceridad, y por qué?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"Mesías\" y \"Cristo\" significan lo mismo (Mt 16:16)",
+          "content": "La confesión de Pedro \"Tú eres el Mesías\" usa una palabra que en hebreo suena *masziach* y en griego *christos*: ambas significan \"Ungido\". En Israel se ungía con aceite a reyes, sacerdotes y profetas; el título anunciaba a Aquel que reuniría las tres funciones. \"Cristo\" no es, pues, el apellido de Jesús, sino un título: \"el Ungido, el Libertador prometido\".",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χριστός",
+              "translit": "christos"
+            },
+            {
+              "lang": "hbo",
+              "text": "מָשִׁיחַ",
+              "translit": "masziach"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Luke.2.4-7",
+              "ref": "Lc 2:4-7"
+            }
+          ],
+          "comment": "Jesús es una figura histórica: nació en un lugar y un tiempo concretos, inscrito en el censo de un imperio real. Esto no es un mito.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "¿Qué cambia en tu manera de ver a Jesús el hecho de que no sea una leyenda, sino una persona de la historia?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "Jesús anclado en la historia (Lc 2)",
+          "content": "Lucas sitúa deliberadamente el nacimiento de Jesús en el contexto real del Imperio Romano: el censo, el viaje a Belén, lugares concretos. Los Evangelios no comienzan con \"érase una vez\", sino con fechas, gobernantes y geografía. Esto distingue la fe cristiana del mito: se apoya en hechos ocurridos en el tiempo y el espacio, verificables en cuanto a su contexto."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Mark.6.2-3",
+              "ref": "Mr 6:2-3"
+            }
+          ],
+          "comment": "Los vecinos conocían a su familia y su oficio. Y, sin embargo, sus palabras y sus obras hacían estallar el marco del \"hijo del carpintero\": la gente no sabía qué pensar de Él.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "¿Por qué a quienes conocían a Jesús \"por su lado cotidiano\" les costaba tanto reconocer quién era?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "El eterno: \"Yo Soy\"",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "John.8.58",
+              "ref": "Jn 8:58"
+            }
+          ],
+          "comment": "Jesús no dice \"existía antes de que Abraham fuera\", sino \"YO SOY\". Toma de manera consciente el nombre de Dios de Éx 3:14, y por eso sus oyentes quieren apedrearlo por blasfemia.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "¿Por qué la palabra \"Soy\" provocó una reacción tan violenta? ¿Qué dijo Jesús aquí sobre sí mismo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"Yo Soy\" (J 8:58)",
+          "content": "En Jn 8:58 Jesús usa la expresión *egō eimi* (\"Yo soy\") donde gramaticalmente correspondería el tiempo pasado. Es una alusión deliberada al nombre de Dios de Éx 3:14 (\"YO SOY el que SOY\"), en la versión griega de la Septuaginta. La reacción de los oyentes (el intento de apedrearlo, v. 59) confirma que lo entendieron como una pretensión de igualdad con Dios, no como una simple declaración sobre su edad.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐγώ εἰμι",
+              "translit": "egō eimi"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "¿Por qué para los primeros oyentes estas dos palabras eran, o blasfemia, o revelación, sin una tercera posibilidad?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "John.1.1-3",
+              "ref": "Jn 1:1-3"
+            }
+          ],
+          "comment": "\"En el principio era el Verbo... y el Verbo era Dios.\" Antes de que algo existiera, Jesús ya era, y fue Él quien creó.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "¿Qué significa que Aquel a quien encontramos en los Evangelios existía \"en el principio\", antes de todo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "El \"Verbo\" (Logos) como puente entre dos mundos (J 1:1)",
+          "content": "El término \"Verbo\" (gr. *logos*) tenía peso para ambas culturas: para los judíos era la Palabra con la que Dios crea (Gn 1; Sal 33:6); para los griegos, el principio racional que ordena el mundo. Juan une ambas líneas y dice algo nuevo: este Logos es una Persona, es Dios y se hizo hombre. Es un modelo de cómo hablar de Cristo en un lenguaje comprensible para distintos oyentes.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "λόγος",
+              "translit": "logos"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "John.1.14",
+              "ref": "Jn 1:14"
+            }
+          ],
+          "comment": "El Verbo \"se hizo carne\". El Dios eterno no se quedó lejos: habitó entre nosotros como un hombre al que se podía tocar.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "¿Qué dice de Dios que haya querido hacerse uno de nosotros, en lugar de permanecer en una majestad inaccesible?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "\"habitó\" significa \"plantó su tienda\" (J 1:14)",
+          "content": "El verbo griego traducido como \"habitó entre nosotros\" (*eskēnōsen*) significa literalmente \"plantó su tienda\". Es un eco claro de la tienda de reunión del Antiguo Testamento, sobre la que reposaba la gloria de Dios (la shekiná). Juan dice entonces: la gloria que antes llenaba el santuario ahora \"plantó su tienda\" en el cuerpo humano de Jesús; Dios habitó entre nosotros no en un edificio, sino en una Persona."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "\"unigénito\" (J 1:14; 3:16)",
+          "content": "El griego *monogenēs* significa \"único en su especie, único en su clase\", y no \"creado el primero\". Jesús no es \"uno de los hijos de Dios\" en el mismo sentido que los creyentes: nosotros llegamos a ser hijos de Dios por adopción (Jn 1:12), Él es el Hijo por su misma naturaleza. Esta distinción protege de pensar que Jesús es simplemente un hombre excepcional o un ángel de alto rango.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μονογενής",
+              "translit": "monogenēs"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Col.1.16-17",
+              "ref": "Col 1:16-17"
+            }
+          ],
+          "comment": "Todo fue creado \"por medio de Él y para Él\", y Él \"es antes de todas las cosas\" y todo subsiste en Él. Es una descripción del Creador, no de una criatura.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "¿Cómo cambia tu relación con Jesús cuando ves en Él a Aquel \"en quien todas las cosas tienen su existencia\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Heb.1.3",
+              "ref": "Heb 1:3"
+            }
+          ],
+          "comment": "El Hijo es \"el resplandor de la gloria y la imagen misma de la esencia\" de Dios, y sostiene el universo con la palabra de su poder: no es un ser inferior ni un ángel creado.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "¿Qué significa que, al mirar a Jesús, miramos la \"imagen misma de la esencia\" del propio Dios?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"imagen de la esencia\" como el sello de un cuño (Hb 1:3)",
+          "content": "\"Imagen de la esencia\" es en griego *charaktēr tēs hypostaseōs*. La palabra *charaktēr* designaba el cuño y su impresión exacta, por ejemplo la imagen en una moneda. La metáfora dice que el Hijo es la \"impresión\" precisa de Dios mismo: quien ve a Jesús ve una imagen fiel de la naturaleza del Padre, no una aproximación ni una copia de menor calidad.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χαρακτήρ",
+              "translit": "charaktēr"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "worship",
+          "label": "bloque comparativo \"Yahvé del AT = Jesús del NT\"",
+          "content": "El Nuevo Testamento aplica repetidas veces a Jesús lo que el Antiguo Testamento dice de Yahvé: es uno de los argumentos más fuertes a favor de su plena divinidad. Pares para comparar por cuenta propia: - **Pastor:** Sal 23:1 (Yahvé es el pastor) frente a Jn 10:11 (Jesús es el \"buen pastor\") - **Primero y Último:** Is 44:6 frente a Ap 1:17 - **YO SOY / el nombre de Dios:** Éx 3:14 frente a Jn 8:58 - **Ante Él se doblará toda rodilla:** Is 45:23 frente a Flp 2:10 - **Invocar el nombre del Señor para salvación:** Jl 2:32 frente a Ro 10:13 - **El traspasado, al que mirarán:** Zac 12:10 frente a Jn 19:37",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "¿Cuál de estos pares te impacta más, y por qué es importante que el NT \"traslade\" a Jesús el nombre y la gloria de Yahvé?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Dios que recibe adoración y revela al Padre",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "John.14.9",
+              "ref": "Jn 14:9"
+            }
+          ],
+          "comment": "\"El que me ha visto a Mí, ha visto al Padre.\" Si quieres saber cómo es Dios, mira a Jesús: Él es el rostro del Padre.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "¿Qué imagen de Dios surge cuando aceptas que Dios es exactamente como el Jesús de los Evangelios?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "John.20.28-29",
+              "ref": "Jn 20:28-29"
+            }
+          ],
+          "comment": "Tomás le dice a Jesús: \"Señor mío y Dios mío\", y Jesús no lo corrige, sino que lo acepta y bendice esa fe.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Si Jesús no fuera Dios, ¿cómo debería haber reaccionado ante estas palabras? ¿Qué significa que no las rechazara?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "worship",
+          "label": "Jesús recibe la adoración que solo corresponde a Dios",
+          "content": "El verbo \"postrarse, adorar\" (gr. *proskyneō*) en la Biblia corresponde exclusivamente a Dios. Por eso los ángeles (Ap 22:8-9) y los apóstoles (Hch 10:25-26) se niegan con firmeza a recibirla. Jesús, en cambio, sí recibe adoración (Mt 14:33; 28:9, 17; Jn 9:38). Dentro del monoteísmo coherente de la Biblia, esta única excepción es un testimonio silencioso pero contundente de que Jesús es Dios.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "προσκυνέω",
+              "translit": "proskyneō"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q19",
+              "text": "¿Qué se deduce de que la única excepción al principio \"adoración solo a Dios\" sea, en los Evangelios, Jesús?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Matt.28.9",
+              "ref": "Mt 28:9"
+            }
+          ],
+          "comment": "Jesús recibe adoración (el postrarse que solo corresponde a Dios), a diferencia de los ángeles o los apóstoles, que se negaban con firmeza a aceptarla (cf. Ap 22:8-9; Hch 10:25-26).",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "¿Por qué es importante que Jesús permitiera que lo adoraran, mientras que sus discípulos y los ángeles no lo permitían?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Rev.1.17-18",
+              "ref": "Ap 1:17-18"
+            }
+          ],
+          "comment": "El Resucitado dice de sí mismo \"el Primero y el Último\", un título con el que en el AT Dios-Yahvé se designaba a sí mismo (Is 44:6). Y añade: \"estuve muerto, y vivo\".",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "¿Qué te aporta saber que Aquel que se llama a sí mismo \"el Primero y el Último\" también pasó por la muerte, tu mismo camino?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Phil.2.6-8",
+              "ref": "Fil 2:6-8"
+            }
+          ],
+          "comment": "Siendo \"en forma de Dios\", Jesús \"se despojó a sí mismo\", tomando forma de siervo hasta la muerte de cruz. La divinidad y la humildad se encuentran en una sola Persona.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "¿Qué dice sobre el carácter de Dios que su grandeza se revele en el abajamiento y no en la dominación?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "term",
+          "label": "\"se despojó a sí mismo\" (Flp 2:7)",
+          "content": "La expresión \"se despojó a sí mismo\" es en griego *ekenōsen* (de ahí el término teológico *kénosis*). No significa que Jesús dejara de ser Dios, sino que renunció a los privilegios y a la gloria, asumiendo las limitaciones de la naturaleza humana y el camino del siervo hasta la cruz. La grandeza de Dios se revela aquí no en la dominación, sino en el abajamiento voluntario por nosotros.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐκένωσεν",
+              "translit": "ekenōsen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "¿Quién es para mí personalmente?",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "John.1.12",
+              "ref": "Jn 1:12"
+            }
+          ],
+          "comment": "A quienes lo reciben, Jesús les da el derecho de llegar a ser hijos de Dios. Es el paso del conocimiento sobre Él a la relación con Él.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "¿En qué se diferencia \"saber quién es Jesús\" de \"recibirlo\" en la propia vida?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "John.10.10",
+              "ref": "Jn 10:10"
+            }
+          ],
+          "comment": "Jesús vino para dar vida \"en abundancia\". No es quien reparte reglas, sino quien da vida.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "¿Qué es lo que más necesitas hoy de Alguien que promete \"vida en abundancia\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Matt.11.28-29",
+              "ref": "Mt 11:28-29"
+            }
+          ],
+          "comment": "Dios, que creó el universo, le dice al ser humano cansado: \"Vengan a Mí... y Yo les daré descanso\". Cercanía, no distancia.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "¿Qué significaría venir a Jesús precisamente con aquello que hoy te cansa o te abruma?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Jesús no es solo un gran maestro ni una figura de la historia lejana. Es el Dios eterno - el Creador, el \"Yo Soy\" - que por amor se hizo hombre para encontrarme y mostrarme cómo es realmente el Padre. Al mirar a Jesús, miro el mismísimo corazón de Dios. Por eso la pregunta no es solo \"quién es Él\", sino \"quién es para mí\".",
+    "challenge": "Lee esta semana un Evangelio completo (por ejemplo, el de Marcos, el más corto), con una sola pregunta de fondo: \"¿Qué descubro sobre cómo es Dios al mirar a Jesús?\". Anota tres rasgos de Jesús que quisieras que fueran verdad acerca de Dios, y díselo a Él directamente."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "ES translation of PL study kim-jest-jezus"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "appName": "Bibelstudium",
+  "tagline": "Leser für Bibelstudien",
+  "nav": {
+    "home": "Start",
+    "topics": "Themenliste",
+    "about": "Über",
+    "back": "Zurück",
+    "search": "Suchen"
+  },
+  "home": {
+    "projectTitle": "Lebendiges Wort",
+    "projectTagline": "der Weg zum Haus des Vaters",
+    "todayTitle": "Für heute",
+    "topicsCount": "Themen",
+    "playVideo": "Video abspielen",
+    "categoriesTitle": "Kategorien",
+    "basicTitle": "Grundlegende biblische Lehren",
+    "basic_systematic": "Systematisches Studium",
+    "basic_practical": "Praktisches Studium",
+    "series": "Studienreihen",
+    "topic": "Verschiedene biblische Themen",
+    "searchPlaceholder": "Suche: Thema, Wort",
+    "language": "Sprache",
+    "downloadOffline": "Offline herunterladen",
+    "downloading": "Wird heruntergeladen…",
+    "offlineReady": "Offline verfügbar"
+  },
+  "reader": {
+    "levels": "Stufe",
+    "base": "Einfach",
+    "extended": "Mehr",
+    "advanced": "Experte",
+    "application": "Zusammenfassung",
+    "challenge": "Herausforderung",
+    "print": "PDF",
+    "backToList": "Themenliste",
+    "showVerse": "Text anzeigen",
+    "hideVerse": "Text ausblenden",
+    "minutes": "Min",
+    "question": "Frage",
+    "original": "Originalform",
+    "noteTypes": {
+      "syntax": "Syntax",
+      "verb": "Verb",
+      "background": "Hintergrund",
+      "textual": "Textkritik",
+      "term": "Begriff",
+      "variant": "Variante",
+      "worship": "Anbetung",
+      "other": "Notiz"
+    },
+    "share": "Teilen"
+  },
+  "search": {
+    "title": "Suchergebnisse",
+    "noResults": "Keine Ergebnisse.",
+    "for": "für"
+  },
+  "category": {
+    "empty": "Keine Studien in dieser Kategorie."
+  },
+  "about": {
+    "title": "Über",
+    "body": "Noch bevor du angefangen hast, Gott zu suchen, ist Er dir bereits entgegengekommen. Entdecke das im lebendigen Wort - Schritt für Schritt geführt, als ein Weg zum Haus des Vaters, den du in deinem eigenen Tempo gehen kannst.\n\nKeine Konten, keine Anmeldung, kein Tracking. Funktioniert offline nach dem Herunterladen des Sprachmoduls.",
+    "publisher": "Autor: Marek Micyk",
+    "privacy": "Die App sammelt keine Nutzerdaten."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "intro": "Hast du eine Frage oder möchtest du reden? Schreib uns.",
+    "name": "Name",
+    "email": "Deine E-Mail (für die Antwort)",
+    "message": "Deine Nachricht",
+    "human": "Ich bin ein Mensch",
+    "send": "Nachricht senden",
+    "subject": "Kontakt - Lebendiges Wort",
+    "hint": "Die Nachricht wird in deinem E-Mail-Programm geöffnet.",
+    "who": "Wer sind wir?",
+    "whoUrl": "https://www.adventisten.de/"
+  },
+  "common": {
+    "loading": "Wird geladen…",
+    "placeholderBible": "Der Verstext erscheint, sobald eine Übersetzung verbunden ist.",
+    "copied": "In die Zwischenablage kopiert"
+  },
+  "flashcards": {
+    "title": "Bibel auswendig lernen",
+    "intro": "Lerne die 50 wichtigsten Bibeltexte auswendig. Wähle Themen und übe mit Karteikarten; Texte, die du nicht behältst, kommen an den folgenden Tagen zur Wiederholung zurück.",
+    "cta": "Bibelverse auswendig lernen",
+    "ctaDesc": "Die 50 wichtigsten Bibeltexte - Karteikarten mit Wiederholung.",
+    "chooseThemes": "Themen zum Lernen wählen",
+    "all": "Alle / keine",
+    "selectAtLeastOne": "Wähle mindestens ein Thema.",
+    "start": "Lernen beginnen",
+    "direction": "Richtung",
+    "dirR2T": "Stelle → Text",
+    "dirT2R": "Text → Stelle",
+    "flip": "Antwort zeigen",
+    "flipHint": "Tippen, um die Antwort zu zeigen",
+    "g1": "Weiß nicht",
+    "g2": "Schwach",
+    "g3": "Gut",
+    "g4": "Kann ich",
+    "today": "heute",
+    "dayAbbr": "T",
+    "noRepeat": "keine Wiederholung",
+    "remaining": "Verbleibend",
+    "toLearn": "Zu lernen",
+    "learned": "Gelernt",
+    "mastered": "Beherrscht",
+    "sessionDone": "Für heute fertig!",
+    "sessionDoneDesc": "Du hast alle für heute geplanten Wiederholungen geschafft. Komm morgen wieder, um zu festigen.",
+    "practiceAll": "Alle üben",
+    "backToThemes": "Zurück zu den Themen",
+    "localOnly": "Dein Fortschritt wird nur auf diesem Gerät (im Browser) gespeichert, ohne Konto. Das Löschen der Browserdaten entfernt ihn.",
+    "reset": "Fortschritt löschen",
+    "resetConfirm": "Den gesamten gespeicherten Lernfortschritt löschen?",
+    "resetDone": "Fortschritt gelöscht.",
+    "ankiR2T": "AnkiDroid: Stelle → Text",
+    "ankiT2R": "AnkiDroid: Text → Stelle",
+    "quizlet": "Lieber Quizlet? Set öffnen",
+    "onlyPl": "Derzeit auf Polnisch verfügbar."
+  },
+  "occasions": {
+    "title": "Bibeltexte für jede Gelegenheit",
+    "intro": "Wähle einen Anlass und finde passende Bibelstellen. Jede kannst du einem lieben Menschen senden.",
+    "cta": "Bibeltexte für jede Gelegenheit",
+    "ctaDesc": "Verse für Trauer, Freude, Angst, Krankheit und vieles mehr - bereit zum Senden.",
+    "share": "Teilen",
+    "onlyPl": "Derzeit auf Polnisch verfügbar."
+  },
+  "share": {
+    "title": "Teilen",
+    "hint": "Du kannst eine persönliche Nachricht hinzufügen oder einen Teil des Textes vor dem Senden entfernen.",
+    "includeLink": "Zur App einladen",
+    "cancel": "Abbrechen",
+    "copy": "Kopieren",
+    "send": "Senden"
+  }
+}

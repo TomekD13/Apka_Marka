@@ -1,0 +1,10 @@
+# Pliki tekstowe trzymamy z LF - skrypty w tools/ pisza i czytaja LF.
+* text=auto eol=lf
+
+# binaria bez zadnej konwersji
+*.png binary
+*.jpg binary
+*.pdf binary
+*.doc binary
+*.docx binary
+*.yes binary

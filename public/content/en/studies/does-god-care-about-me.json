@@ -1,0 +1,491 @@
+{
+  "id": "does-god-care-about-me",
+  "lang": "en",
+  "title": "Does God care about me?",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 1,
+  "summary": "A first encounter with a God who knows me personally, who made me out of love and cares about my everyday life - a starting point for a relationship, not for religion.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "God",
+    "love",
+    "creation",
+    "care",
+    "identity"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Is there Someone who cares about me?",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Ps.139.1-4",
+              "ref": "Ps 139:1-4"
+            }
+          ],
+          "comment": "Before we ask \"does God exist?\", the Psalm asks something different: does anyone really know me. God knows every thought and word before I speak it.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "How do you feel reading that Someone knows you this thoroughly - uneasy or relieved? Why?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Ps.139.13-16",
+              "ref": "Ps 139:13-16"
+            }
+          ],
+          "comment": "I am not an accident or a mistake - I was \"knit together\" and written in God's book before I did anything.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "What changes in how you see yourself when you think that you exist by design, and not by chance?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "background",
+          "label": "Psalm 139 as comfort, not threat",
+          "content": "God's omniscience and omnipresence in Ps 139 are not presented as surveillance, but as the care of One who knows and never leaves. This is the interpretive key to the whole psalm: \"you know me\" here means \"you care about me\".",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Does God's knowledge of you sound menacing or soothing to you? What decides that?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "\"in your book the days were written\" (Ps 139:16)",
+          "content": "The image comes from the world of ancient scrolls and royal records, where destinies and names were written down. The psalmist says that God \"saw\" his days before any of them came to be - a poetic way of expressing that my life is not a series of accidents without an author or meaning.",
+          "questions": []
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Ps.8.4-6",
+              "ref": "Ps 8:4-6"
+            }
+          ],
+          "comment": "Against the vastness of the universe a human being seems small - and yet God remembers him and crowns him with dignity.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "When did you last feel \"small\" or unimportant? How does the Psalm answer that?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "The God who IS love",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "1John.4.8-10",
+              "ref": "1 John 4:8-10"
+            }
+          ],
+          "comment": "The Bible does not only say that God loves - it says that God *is* love, and the proof is that he was the first to reach out to us.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "What is the difference between saying \"God loves\" and \"God is love\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"God is love\" (1 John 4:8)",
+          "content": "In Greek, \"love\" is *agapē* - self-giving love that chooses the good of the other, independent of their merit. The statement \"God is love\" describes not only what God does, but who he is: love is his nature, not his mood.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ὁ θεὸς ἀγάπη ἐστίν",
+              "translit": "ho theos agapē estin"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q18",
+              "text": "How does understanding *agapē* as a love that chooses (rather than one that repays) change the picture of God?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "John.3.16",
+              "ref": "John 3:16"
+            }
+          ],
+          "comment": "God's love has a specific address - the world, which means me too - and a specific price: his Son.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "If you put your own name in place of \"the world\", how would this verse read for you?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Rom.5.8",
+              "ref": "Rom 5:8"
+            }
+          ],
+          "comment": "God did not wait until I improved. He showed his love *while* I was still turned away from him.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "What does this mean for someone who thinks they first have to \"earn it\" for God to love them?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Jer.31.3",
+              "ref": "Jer 31:3"
+            }
+          ],
+          "comment": "God's love is not a passing feeling - it is \"everlasting\", persistent, seeking.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "What does it mean that someone loves you with an \"everlasting love\", one that does not depend on how well you are doing?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "\"everlasting love\" and \"lovingkindness\" (Jer 31:3)",
+          "content": "\"I have loved you with an everlasting love\" is the Hebrew *ahavat olam* - lasting love, with no expiry date. The next word, rendered as \"lovingkindness\" or \"I have drawn you\", is *chesed* - God's faithful, covenant goodness that will not let go. It is not sentiment, but commitment.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "אַהֲבַת עוֹלָם",
+              "translit": "ahavat olam"
+            },
+            {
+              "lang": "hbo",
+              "text": "חֶסֶד",
+              "translit": "chesed"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Luke.15.20",
+              "ref": "Luke 15:20"
+            }
+          ],
+          "comment": "In the parable it is the father who runs out first - a picture of a God who does not wait with folded arms.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Which move is the surprising one here: the son's return or the father's run? Why?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "why the father's run was a scandal (Luke 15:20)",
+          "content": "In Middle Eastern culture, a dignified, older man did not run in public - he would have to hitch up his robe and expose his legs, which was considered humiliating. The father in the parable takes that shame upon himself just so he can be the first to reach his son. It is a deliberate picture of a God who gives up \"dignity at a distance\" in order to win us back.",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "He cares about my everyday life",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Matt.6.26",
+              "ref": "Matt 6:26"
+            }
+          ],
+          "comment": "If God feeds the birds, then he cares about you all the more - you are more precious than they are.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "What do you worry about most often? How does awareness of God's care change that outlook?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Matt.6.31-33",
+              "ref": "Matt 6:31-33"
+            }
+          ],
+          "comment": "God does not promise a life without needs, but a Father who \"knows\", and he invites us to seek him first.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "What would \"seeking the Kingdom first\" look like in practice in your week?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "\"do not be anxious\" is not a call to passivity (Matt 6)",
+          "content": "In the Sermon on the Mount, \"do not worry\" does not mean \"do not plan\", but \"do not let anxiety tear you apart\". \"Seek first the Kingdom\" speaks of priority, not of order in time: it is about what comes first, not about abandoning work and responsibilities.",
+          "questions": []
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "1Pet.5.7",
+              "ref": "1 Pet 5:7"
+            }
+          ],
+          "comment": "You can \"cast\" your worry onto God - because he truly cares about you.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "What is one worry you would like to \"cast\" onto God today?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"cast all your anxiety on him\" (1 Pet 5:7)",
+          "content": "\"Anxiety\" is the Greek *merimna* - a tearing thought, a worry that scatters us. The verb rendered as \"cast\" is *epiriptō*, literally \"to throw over\" (like a load thrown off one's own back onto someone stronger). The image is physical: not \"cope with your fear\", but \"throw it onto the One who cares about you\".",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μέριμνα",
+              "translit": "merimna"
+            },
+            {
+              "lang": "grc",
+              "text": "ἐπιρίπτω",
+              "translit": "epiriptō"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Luke.12.6-7",
+              "ref": "Luke 12:6-7"
+            }
+          ],
+          "comment": "The hairs counted are a picture of attention to the smallest detail of your life.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Is it easier for you to believe in a God \"of the big things\" or in a God attentive to small details?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Created for relationship",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Gen.1.27",
+              "ref": "Gen 1:27"
+            }
+          ],
+          "comment": "The human being is created \"in the image of God\" - hence his unique worth and his capacity for relationship.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "If I bear \"the image of God\", what does that say about the worth of every human being, including my own?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "\"the image of God\" (Gen 1:27)",
+          "content": "The Hebrew *celem* (\"image\") is a word also used for a statue representing a ruler in a distant province. The human being is God's \"statue\" in creation: he represents him and is called into relationship with him. This is the foundation of human dignity - independent of achievements, abilities or the opinions of others.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "צֶלֶם",
+              "translit": "celem"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Isa.43.1",
+              "ref": "Isa 43:1"
+            }
+          ],
+          "comment": "God calls us by name and says \"you are mine\" - this is the language of relationship, not of anonymous religion.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "What would it mean to hear God speak your own name and the words \"you are mine\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "term",
+          "label": "four verbs of closeness (Isa 43:1)",
+          "content": "In a single verse God says: \"I created\" (*bara*), \"I formed\" (*jacar*), \"I redeemed\" (*ga'al*) and \"I called you by name\". *Ga'al* is a term from family law: the \"redeemer\" (go'el) is a close relative who paid off a debt and rescued his own. Here God is not a distant Creator, but a Relative who takes responsibility for his own.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "גָּאַל",
+              "translit": "ga'al"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Acts.17.24-28",
+              "ref": "Acts 17:24-28"
+            }
+          ],
+          "comment": "God the Creator is not far away - \"in him we live and move and have our being\", and he wants to be found.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "What in this text says that God is near, even though we do not see him?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "Paul quotes a pagan poet (Acts 17:28)",
+          "content": "On the Areopagus in Athens, speaking to non-Christians, Paul reaches for their own culture: \"we are his offspring\" is a quotation from the Greek poet Aratus. Instead of starting with condemnation, he builds a bridge: the Creator is so near that even pagan poets sensed something of it. A model for speaking about God in language the listener can understand.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "τοῦ γὰρ καὶ γένος ἐσμέν",
+              "translit": "tou gar kai genos esmen"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "1John.3.1",
+              "ref": "1 John 3:1"
+            }
+          ],
+          "comment": "The goal of this love is not admiration from a distance, but for us to be called children of God.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "What changes in your relationship with God when you move from \"Creator\" to \"Father\"?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "God is not a distant judge or an impersonal force. He knows you by name, he made you by design and out of love, and he cares about your everyday life. Faith does not begin with the effort to earn it - it begins with accepting that you are wanted and loved.",
+    "challenge": "Over the coming week, write down one thing each day in which you notice God's care for you. Once this week, \"cast\" one specific worry onto God (1 Pet 5:7) - speak it out to him directly."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "EN translation of PL study czy-ktos-sie-o-mnie-troszczy"
+  }
+}

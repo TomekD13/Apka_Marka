@@ -1,0 +1,497 @@
+{
+  "id": "wer-ist-jesus-wirklich",
+  "lang": "de",
+  "title": "Wer ist Jesus wirklich?",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 2,
+  "summary": "Wer Jesus von Nazareth wirklich ist: eine historische Gestalt und zugleich der ewige Gott, der Schöpfer, der Mensch wurde, um mich zu erlösen und den Vater zu offenbaren - und wer er für mich persönlich sein möchte.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "Jesus",
+    "Gottheit",
+    "Menschwerdung",
+    "Schöpfer",
+    "Ich bin",
+    "Offenbarung des Vaters"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Ein Mensch, den man nicht ignorieren kann",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Matt.16.13-16",
+              "ref": "Mt 16,13-16"
+            }
+          ],
+          "comment": "Jesus stellt selbst die wichtigste Frage: nicht \"was sagt man über mich\", sondern \"für wen haltet ihr mich\". Von der Antwort darauf hängt alles andere ab.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Wenn Jesus dir diese Frage heute stellen würde, was würdest du ehrlich antworten - und warum?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"Messias\" und \"Christus\" bedeuten dasselbe (Mt 16,16)",
+          "content": "Das Bekenntnis des Petrus \"Du bist der Messias\" verwendet ein Wort, das auf Hebräisch *maschiach* und auf Griechisch *christos* lautet - beide bedeuten \"der Gesalbte\". In Israel wurden Könige, Priester und Propheten mit Öl gesalbt; der Titel kündigte den an, der alle drei Rollen vereinen würde. \"Christus\" ist also kein Nachname Jesu, sondern ein Titel: \"der Gesalbte, der verheißene Retter\".",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χριστός",
+              "translit": "christos"
+            },
+            {
+              "lang": "hbo",
+              "text": "מָשִׁיחַ",
+              "translit": "masziach"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Luke.2.4-7",
+              "ref": "Lk 2,4-7"
+            }
+          ],
+          "comment": "Jesus ist eine historische Gestalt - er wurde an einem konkreten Ort und zu einer konkreten Zeit geboren, eingetragen in die Volkszählung eines realen Reiches. Das ist kein Mythos.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Was verändert es an der Wahrnehmung Jesu, dass er keine Legende ist, sondern eine Person der Geschichte?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "Jesus in der Geschichte verankert (Lk 2)",
+          "content": "Lukas verortet die Geburt Jesu bewusst in den Verhältnissen des Römischen Reiches: Volkszählung, Reise nach Betlehem, konkrete Orte. Die Evangelien beginnen nicht mit \"es war einmal\", sondern mit Daten, Herrschern und Geografie. Das unterscheidet den christlichen Glauben vom Mythos: Er beruht auf Ereignissen in Zeit und Raum, die hinsichtlich ihres Hintergrunds überprüfbar sind."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Mark.6.2-3",
+              "ref": "Mk 6,2-3"
+            }
+          ],
+          "comment": "Die Nachbarn kannten seine Familie und seinen Beruf. Und doch sprengten seine Worte und Taten den Rahmen des \"Sohnes des Zimmermanns\" - die Leute wussten nicht, was sie von ihm halten sollten.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Warum fiel es gerade den Menschen, die Jesus \"von der gewöhnlichen Seite\" kannten, am schwersten anzuerkennen, wer er ist?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Der Ewige: \"Ich bin\"",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "John.8.58",
+              "ref": "Joh 8,58"
+            }
+          ],
+          "comment": "Jesus sagt nicht \"ich war, bevor Abraham war\", sondern \"ich BIN\". Bewusst greift er nach dem Namen Gottes aus 2Mo 3,14 - deshalb wollen ihn die Zuhörer wegen Gotteslästerung steinigen.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Warum löste das Wort \"ich bin\" eine so heftige Reaktion aus? Was hat Jesus hier über sich gesagt?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"Ich bin\" (Joh 8,58)",
+          "content": "In Joh 8,58 verwendet Jesus die Wendung *egō eimi* (\"ich bin\") dort, wo grammatisch die Vergangenheitsform passen würde. Das ist eine bewusste Anspielung auf den Gottesnamen aus 2Mo 3,14 (\"Ich bin, der ich bin\") in der griechischen Fassung der Septuaginta. Die Reaktion der Zuhörer (der Versuch zu steinigen, V. 59) bestätigt, dass sie es als Anspruch auf Gleichheit mit Gott verstanden - nicht als bloße Aussage über das Alter.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐγώ εἰμι",
+              "translit": "egō eimi"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Warum waren diese zwei Worte für die ersten Zuhörer entweder Gotteslästerung oder Offenbarung - ohne eine dritte Möglichkeit?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "John.1.1-3",
+              "ref": "Joh 1,1-3"
+            }
+          ],
+          "comment": "\"Im Anfang war das Wort... und das Wort war Gott.\" Bevor irgendetwas entstand, war Jesus schon da - und er war es, der schuf.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Was bedeutet es, dass der, dem wir in den Evangelien begegnen, schon \"im Anfang\", vor allem, existierte?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "\"Das Wort\" (Logos) als Brücke zwischen den Welten (Joh 1,1)",
+          "content": "Der Begriff \"Wort\" (griech. *logos*) war für beide Kulturen bedeutsam: für die Juden ist es das Wort, mit dem Gott schafft (1Mo 1; Ps 33,6), für die Griechen das vernünftige Prinzip, das die Welt ordnet. Johannes verbindet beide Linien und sagt etwas Neues: Dieser Logos ist eine Person, ist Gott und wurde Mensch. Das ist ein Vorbild dafür, von Christus in einer Sprache zu sprechen, die verschiedene Hörer verstehen.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "λόγος",
+              "translit": "logos"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "John.1.14",
+              "ref": "Joh 1,14"
+            }
+          ],
+          "comment": "Das Wort \"wurde Fleisch\". Der ewige Gott blieb nicht fern - er nahm Wohnung unter uns als ein Mensch, den man berühren konnte.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Was sagt es über Gott aus, dass er einer von uns werden wollte, statt in unnahbarer Majestät zu bleiben?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "\"wohnte\" bedeutet \"schlug sein Zelt auf\" (Joh 1,14)",
+          "content": "Das griechische Verb, das mit \"wohnte unter uns\" wiedergegeben wird (*eskēnōsen*), bedeutet wörtlich \"schlug ein Zelt auf\". Das ist ein deutliches Echo des Begegnungszeltes aus dem Alten Testament, über dem die Herrlichkeit Gottes ruhte (die Schechina). Johannes sagt also: Die Herrlichkeit, die einst das Heiligtum erfüllte, hat nun \"ihr Zelt aufgeschlagen\" im menschlichen Leib Jesu - Gott wohnte unter uns nicht in einem Gebäude, sondern in einer Person."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "\"eingeboren\" (Joh 1,14; 3,16)",
+          "content": "Das griechische *monogenēs* bedeutet \"einzigartig, einzig in seiner Art\" und nicht \"als Erster geschaffen\". Jesus ist nicht \"eines der Kinder Gottes\" im selben Sinn wie die Gläubigen: Wir werden durch Annahme zu Kindern Gottes (Joh 1,12), er ist Sohn aus seinem Wesen selbst. Diese Unterscheidung schützt vor dem Gedanken, Jesus sei einfach ein herausragender Mensch oder ein hoher Engel.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μονογενής",
+              "translit": "monogenēs"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Col.1.16-17",
+              "ref": "Kol 1,16-17"
+            }
+          ],
+          "comment": "Alles ist \"durch ihn und zu ihm hin\" geschaffen, und er \"ist vor allem\", und alles hat in ihm Bestand. Das ist die Beschreibung des Schöpfers, nicht des Geschöpfs.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Wie verändert sich die Beziehung zu Jesus, wenn du in ihm den siehst, \"in dem alles Bestand hat\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Heb.1.3",
+              "ref": "Hebr 1,3"
+            }
+          ],
+          "comment": "Der Sohn ist \"der Abglanz der Herrlichkeit und das Ebenbild des Wesens\" Gottes und trägt das Universum durch das Wort seiner Kraft - er ist kein geringeres Wesen und kein geschaffener Engel.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Was bedeutet es, dass wir, wenn wir auf Jesus schauen, auf das \"Ebenbild des Wesens\" Gottes selbst schauen?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"Ebenbild des Wesens\" wie ein Siegelabdruck (Hebr 1,3)",
+          "content": "\"Ebenbild des Wesens\" heißt auf Griechisch *charaktēr tēs hypostaseōs*. Das Wort *charaktēr* bezeichnete den Stempel und seinen genauen Abdruck - etwa das Bild auf einer Münze. Das Bild sagt, dass der Sohn der präzise \"Abdruck\" Gottes selbst ist: Wer Jesus sieht, sieht das getreue Abbild des Wesens des Vaters, keine Annäherung und keine Kopie minderer Qualität.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χαρακτήρ",
+              "translit": "charaktēr"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "worship",
+          "label": "Vergleichsblock \"Jahwe im AT = Jesus im NT\"",
+          "content": "Das Neue Testament bezieht vielfach auf Jesus, was das Alte Testament über Jahwe sagt - das ist eines der stärksten Argumente für seine volle Gottheit. Paare zum eigenständigen Vergleich: - **Hirte:** Ps 23,1 (Jahwe als Hirte) gegenüber Joh 10,11 (Jesus als \"der gute Hirte\") - **Der Erste und der Letzte:** Jes 44,6 gegenüber Offb 1,17 - **ICH BIN / Gottesname:** 2Mo 3,14 gegenüber Joh 8,58 - **Vor ihm wird sich jedes Knie beugen:** Jes 45,23 gegenüber Phil 2,10 - **Den Namen des Herrn anrufen zur Rettung:** Joel 2,32 gegenüber Röm 10,13 - **Der Durchbohrte, auf den sie schauen werden:** Sach 12,10 gegenüber Joh 19,37",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Welches dieser Paare spricht dich am stärksten an - und warum ist es bedeutsam, dass das NT den Namen und die Herrlichkeit Jahwes auf Jesus \"überträgt\"?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Gott, der Anbetung annimmt und den Vater offenbart",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "John.14.9",
+              "ref": "Joh 14,9"
+            }
+          ],
+          "comment": "\"Wer mich gesehen hat, hat den Vater gesehen.\" Wenn du wissen willst, wie Gott ist, schau auf Jesus - er ist das Angesicht des Vaters.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Welches Gottesbild ergibt sich, wenn du anerkennst, dass Gott genau so ist wie Jesus aus den Evangelien?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "John.20.28-29",
+              "ref": "Joh 20,28-29"
+            }
+          ],
+          "comment": "Thomas sagt zu Jesus: \"Mein Herr und mein Gott\" - und Jesus weist das nicht zurück, sondern nimmt es an und segnet den Glauben.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Wenn Jesus nicht Gott wäre, wie hätte er auf diese Worte reagieren müssen? Was bedeutet es, dass er sie nicht zurückwies?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "worship",
+          "label": "Jesus nimmt die Anbetung an, die allein Gott gebührt",
+          "content": "Das Verb \"sich niederwerfen, anbeten\" (griech. *proskyneō*) gebührt in der Bibel ausschließlich Gott. Deshalb lehnen Engel (Offb 22,8-9) und Apostel (Apg 10,25-26) es entschieden ab, sie anzunehmen. Jesus dagegen nimmt die Anbetung an (Mt 14,33; 28,9.17; Joh 9,38). Beim konsequenten Monotheismus der Bibel ist diese einzige Ausnahme ein leises, aber starkes Zeugnis dafür, dass Jesus Gott ist.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "προσκυνέω",
+              "translit": "proskyneō"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Was folgt daraus, dass die einzige Ausnahme von der Regel \"Anbetung allein für Gott\" in den Evangelien Jesus ist?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Matt.28.9",
+              "ref": "Mt 28,9"
+            }
+          ],
+          "comment": "Jesus nimmt die Anbetung an (die Niederwerfung, die allein Gott gebührt) - anders als die Engel oder Apostel, die sie entschieden ablehnten (vgl. Offb 22,8-9; Apg 10,25-26).",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Warum ist es bedeutsam, dass Jesus zuließ, sich anbeten zu lassen, seine Jünger und die Engel aber nicht?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Rev.1.17-18",
+              "ref": "Offb 1,17-18"
+            }
+          ],
+          "comment": "Der Auferstandene nennt sich \"der Erste und der Letzte\" - mit einem Titel, mit dem sich im AT Gott-Jahwe selbst bezeichnete (Jes 44,6). Und er fügt hinzu: \"ich war tot, und siehe, ich lebe\".",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Was gibt dir das Bewusstsein, dass der, der sich \"den Ersten und den Letzten\" nennt, auch durch den Tod gegangen ist - deinen Weg?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Phil.2.6-8",
+              "ref": "Phil 2,6-8"
+            }
+          ],
+          "comment": "Obwohl er \"in der Gestalt Gottes\" war, \"entäußerte sich\" Jesus, nahm die Gestalt eines Knechtes an bis hin zum Tod am Kreuz. Gottheit und Demut begegnen sich in einer Person.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Was sagt es über den Charakter Gottes aus, dass sich seine Größe in der Erniedrigung offenbart und nicht in der Beherrschung?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "term",
+          "label": "\"entäußerte sich\" (Phil 2,7)",
+          "content": "Der Ausdruck \"entäußerte sich\" heißt auf Griechisch *ekenōsen* (daher der theologische Begriff *Kenosis*). Er bedeutet nicht, dass Jesus aufhörte, Gott zu sein - sondern dass er auf seine Vorrechte und seine Herrlichkeit verzichtete und die Begrenzungen der menschlichen Natur und den Weg des Knechtes bis zum Kreuz auf sich nahm. Die Größe Gottes offenbart sich hier nicht in der Beherrschung, sondern in der freiwilligen Erniedrigung für uns.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐκένωσεν",
+              "translit": "ekenōsen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Wer ist er für mich persönlich?",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "John.1.12",
+              "ref": "Joh 1,12"
+            }
+          ],
+          "comment": "Denen, die ihn aufnehmen, gibt Jesus das Recht, Kinder Gottes zu werden. Das ist der Übergang vom Wissen über ihn zur Beziehung mit ihm.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Worin unterscheidet sich \"zu wissen, wer Jesus ist\" davon, \"ihn aufzunehmen\" im eigenen Leben?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "John.10.10",
+              "ref": "Joh 10,10"
+            }
+          ],
+          "comment": "Jesus ist gekommen, um Leben \"in Fülle\" zu geben. Er ist kein Geber von Regeln, sondern ein Geber von Leben.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Was brauchst du heute am meisten von jemandem, der \"Leben in Fülle\" verspricht?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Matt.11.28-29",
+              "ref": "Mt 11,28-29"
+            }
+          ],
+          "comment": "Gott, der das Universum geschaffen hat, sagt zum müden Menschen: \"Kommt zu mir... und ich werde euch Ruhe geben\". Nähe, nicht Distanz.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Was würde es bedeuten, genau mit dem zu Jesus zu kommen, was dich heute müde macht oder erdrückt?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Jesus ist nicht nur ein großer Lehrer oder eine Gestalt aus ferner Geschichte. Er ist der ewige Gott - der Schöpfer, das \"Ich bin\" - der aus Liebe Mensch wurde, um mich zu finden und zu zeigen, wie der Vater wirklich ist. Wenn ich auf Jesus schaue, schaue ich auf das Herz Gottes selbst. Die Frage lautet also nicht nur \"wer ist er\", sondern \"wer ist er für mich\".",
+    "challenge": "Lies in dieser Woche ein Evangelium ganz durch (z. B. Markus - das kürzeste), mit einer Frage im Hintergrund: \"Was entdecke ich darüber, wie Gott ist, wenn ich auf Jesus schaue?\". Schreibe drei Eigenschaften Jesu auf, von denen du dir wünschst, dass sie über Gott wahr wären - und sag es ihm direkt."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "DE translation of PL study kim-jest-jezus"
+  }
+}

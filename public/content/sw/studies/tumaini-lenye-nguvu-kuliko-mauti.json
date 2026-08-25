@@ -1,0 +1,470 @@
+{
+  "id": "tumaini-lenye-nguvu-kuliko-mauti",
+  "lang": "sw",
+  "title": "Tumaini lenye nguvu kuliko mauti",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 12,
+  "summary": "Biblia inazungumza juu ya kifo kama \"usingizi\", ambao mtu huamshwa kutoka kwake kwa ufufuo wakati Yesu atakaporudi - hili ni tumaini, si sababu ya kuogopa. Tunajifunza fundisho hili, onyo dhidi ya uchawi wa kuwasiliana na roho na \"kuwasiliana na wafu\", pamoja na jibu la Biblia kwa fundisho la kuzaliwa upya (reinkarneshini). Safu ya PRO inagusia fundisho la toharani na sala kwa ajili ya wafu.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "kifo",
+    "ufufuo",
+    "hali ya wafu",
+    "tumaini",
+    "uchawi wa roho"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Kifo kama usingizi",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "John.11.11-14",
+              "ref": "Yoh 11:11-14"
+            }
+          ],
+          "comment": "Yesu anasema juu ya Lazaro aliyekufa: \"amelala usingizi, lakini ninakwenda nikamwamshe\" - na kisha anaeleza waziwazi: \"Lazaro amekufa\". Hivyo Yesu mwenyewe anakiita kifo usingizi, ambao mtu anaweza kuamshwa kutoka kwake.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Picha ya \"usingizi\", ambayo Yesu mwenyewe aliitumia, inabadilisha nini katika fikira zako kuhusu kifo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"usingizi\" kama picha ya kifo (Yoh 11:11)",
+          "content": "Neno la Kiyunani *koimaomai* (\"kulala usingizi\") mara nyingi katika Agano Jipya linaeleza kifo cha waaminio (Yoh 11:11; 1The 4:13-15; 1Kor 15:6,18; Mdo 7:60). Ndiyo maana \"makaburi\" kwa Kiyunani ni *koimeterion* - kihalisi \"chumba cha kulala, mahali pa usingizi\". Picha ya usingizi inadokeza kuamka: aliyelala usingizi ataamshwa. Hii ndiyo msingi wa tumaini la ufufuo - kifo si mwisho, bali ni \"usingizi\" kabla ya wito wa Mungu.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "κοιμάομαι",
+              "translit": "koimaomai"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Neno \"usingizi\" (lenye dhana ya kuamka) linabadilishaje hisia zako kuhusu kifo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Eccl.9.5-6",
+              "ref": "Mhu 9:5-6"
+            }
+          ],
+          "comment": "\"Wafu hawajui neno lolote... wala hawana sehemu tena katika jambo lolote linalotendeka chini ya jua\". Hali ya kifo ni kutokuwa na ufahamu - si kuendelea kuishi mahali pengine maisha ya sambamba.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Wazo hili - kwamba wafu \"hawajui neno lolote\" - linaathirije picha maarufu za maisha \"mara tu baada ya kifo\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Ps.146.4",
+              "ref": "Zab 146:4"
+            }
+          ],
+          "comment": "\"Pumzi yake ikitoka, hurudi ardhini mwake; siku hiyo mawazo yake hutoweka\". Pamoja na kifo, shughuli ya mtu yenye ufahamu hukoma - mawazo, mipango, hisia.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Kwa ukamilifu wa fundisho hili, ina maana gani kauli kwamba pamoja na kifo \"mawazo\" ya mtu \"hutoweka\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "ni nini \"hurudi kwa Mungu\" wakati wa kifo (Mhu 12:7)",
+          "content": "Mhubiri 12:7 inasema: \"mavumbi yatarudi ardhini... na roho itamrudia Mungu aliyeitoa\". \"Roho\" (Kiebrania *ruach*) hapa ni pumzi ya uhai, cheche ya Mungu inayohuisha, si \"nafsi\" yenye ufahamu na inayojitegemea inayopaa kwenda mbinguni. Hii ni kinyume cha tendo la uumbaji kutoka Mwa 2:7: katika kifo mavumbi na pumzi hutenganishwa, na mtu (nafsi yenye ufahamu) hukoma kuwepo mpaka ufufuo. Hivyo \"roho itamrudia Mungu\" lina maana: uhai unamrudia Mtoaji wake, si kwamba aliyekufa anaendelea kuishi kwa ufahamu.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "רוּחַ",
+              "translit": "ruach"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Ps.115.17",
+              "ref": "Zab 115:17"
+            }
+          ],
+          "comment": "\"Si wafu wanaomsifu Bwana... bali sisi tutambariki Bwana\". Wafu hawana ufahamu wala shughuli - hata kidini. Hii ni picha thabiti ya Maandiko yote.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Mstari huu unapatanaje na picha ya kifo kama usingizi, badala ya kuwa kupita papo hapo kwenda mbinguni au jehanamu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Gen.2.7",
+              "ref": "Mwa 2:7"
+            }
+          ],
+          "comment": "Mtu si kwamba \"ana\" nafsi kama sehemu tofauti, isiyokufa - mtu \"akawa nafsi hai\", wakati mavumbi yalipoungana na pumzi ya Mungu. Kifo ni kutenganishwa kwa vipengele hivi (linganisha Mhu 12:7), si kuachiliwa kwa nafsi isiyokufa.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Kumwelewa mtu kama kitu kimoja kamili (mavumbi + pumzi ya uhai) kunabadilishaje picha ya kile kinachotokea wakati wa kifo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"nafsi hai\", si \"nafsi isiyokufa\" (Mwa 2:7)",
+          "content": "Neno la Kiebrania *nefesh chajja* lina maana \"kiumbe / nafsi hai\". Mtu hapokei nafsi kama sehemu tofauti, isiyokufa - yeye huwa kiumbe hai (*nefesh*), wakati mavumbi yanapoungana na \"pumzi ya uhai\". Neno hilohilo *nefesh* linatumika kuhusu wanyama (Mwa 1:20-21). Zaidi ya hayo, Biblia inasema kwamba Mungu peke yake ndiye asiyekufa (1Tim 6:16), na waaminio huipokea kutokufa kama zawadi wakati wa ufufuo tu (1Kor 15:53-54) - si kama tabia ya kuzaliwa nayo.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "נֶפֶשׁ חַיָּה",
+              "translit": "nefesz chajja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Ufufuo wakati Yesu atakaporudi",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "1Thess.4.13-14",
+              "ref": "1The 4:13-14"
+            }
+          ],
+          "comment": "Paulo hataki tu-\"huzunike kama wale wasio na tumaini\". Jibu la Kikristo kwa kifo si kukana maombolezo, bali ni tumaini lililojengwa juu ya ufufuo wa Yesu.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Huzuni \"isiyo na tumaini\" inatofautianaje na huzuni iliyo na tumaini la ufufuo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "1Thess.4.15-17",
+              "ref": "1The 4:15-17"
+            }
+          ],
+          "comment": "\"Wafu katika Kristo watafufuliwa kwanza\", na kisha walio hai watanyakuliwa - haya yote yatatokea wakati Yesu atakaporudi. Tumaini la wafu si \"mara tu baada ya kifo\", bali ni siku ya kurudi kwa Bwana.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Kwa nini ni muhimu kwamba ufufuo unahusiana na tukio mahususi - kurudi kwa Yesu - na si kwamba unatokea papo hapo baada ya kifo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "John.5.28-29",
+              "ref": "Yoh 5:28-29"
+            }
+          ],
+          "comment": "Saa itakuja, ambapo \"wote walio makaburini wataisikia sauti yake na watatoka\". Ufufuo ni wa wote na ni mahususi - kutoka kaburini, kwa sauti ya Yesu.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Inasema nini kuhusu tumaini kwamba ufufuo ni jibu kwa \"sauti\" binafsi ya Yesu inayoita kutoka kaburini?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "ufufuo mbili (Yoh 5:28-29)",
+          "content": "Yesu anazungumza juu ya makundi mawili: \"ufufuo wa uzima\" na \"ufufuo wa hukumu\". Ufunuo unaendeleza hili kwa picha ya \"ufufuo wa kwanza\" - wa wenye haki wakati Yesu atakaporudi (Ufu 20:4-6; 1The 4:16) - pamoja na ufufuo wa wote waliobaki baada ya miaka elfu. Hii inapanga tumaini: si wote wanaofufuka wakati uleule, bali kila mmoja \"katika utaratibu wake\" (1Kor 15:23). Kwa mwaminio kinachohesabika ni kwamba ana sehemu katika \"ufufuo wa kwanza\", ambao \"mauti ya pili haina nguvu juu yake\" (Ufu 20:6).",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Ni tumaini gani linalopatikana katika kwamba waaminio wana sehemu katika \"ufufuo wa kwanza\", ambao \"mauti ya pili haina nguvu juu yake\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "1Cor.15.51-54",
+              "ref": "1Kor 15:51-54"
+            }
+          ],
+          "comment": "\"Kwa kufumba na kufumbua jicho... kwa baragumu ya mwisho\" wafu watafufuka bila kuharibika, na kile cha kufa kitavaa kutokufa. Kutokufa ni zawadi inayopokelewa wakati wa ufufuo, si tabia ambayo mtu tayari anayo.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Ina maana gani kwamba kutokufa ni zawadi \"wakati wa ufufuo\", na si kitu ambacho tunacho kwa asili?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Dan.12.2",
+              "ref": "Dan 12:2"
+            }
+          ],
+          "comment": "\"Wengi wa wale walalao katika mavumbi ya nchi wataamka\" - tayari Agano la Kale linazungumza juu ya kifo kama usingizi na juu ya kuamka. Hili ni tumaini thabiti la Biblia tangu mwanzo.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Ukweli kwamba tumaini hilohilo linaonekana tayari kwa Danieli unaimarishaje imani kwalo?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Onyo: uchawi wa roho na \"kuwasiliana na wafu\"",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Isa.8.19-20",
+              "ref": "Isa 8:19-20"
+            }
+          ],
+          "comment": "\"Je, watu wasimtafute Mungu wao? Je, watafute wafu?\" - Maandiko yanakataa waziwazi kutafuta mawasiliano na wafu na yanaelekeza \"kwenye sheria na kwenye ushuhuda\". Kwa kuwa wafu wamelala usingizi, kila \"mawasiliano\" yanayodaiwa hayatoki kwao.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Ikiwa wafu \"hawajui neno lolote\" na wamelala usingizi, ni nani - kulingana na Biblia - anayeweza kuwa nyuma ya \"mawasiliano na wafu\" yanayodaiwa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Deut.18.10-12",
+              "ref": "Kum 18:10-12"
+            }
+          ],
+          "comment": "Mungu anakataza waziwazi uaguzi, kuita roho na \"kuuliza wafu\", akiita hayo \"chukizo\". Hii si jambo la kustaajabisha tu, bali ni hatari halisi ya kiroho.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Kwa nini Mungu anaonya kwa nguvu hivi dhidi ya matendo haya - anataka kulinda nini kwa njia hii?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "\"nchi ya wafu\": sheoli na hadesi",
+          "content": "Neno la Kiebrania *sheoli* na la Kiyunani *hadesi* yana maana tu \"nchi ya wafu, kaburi\" - hatma ya pamoja ya wafu wote, wenye haki na wasio na haki (mfano, Yakobo anatazamia kushuka sheolini, Mwa 37:35). Katika Biblia hili si mahali pa mateso yenye ufahamu wala thawabu, bali ni hali ya kifo-usingizi. Picha za baadaye, maarufu za \"ulimwengu wa baada ya kifo\" kama mahali pa maisha yenye shughuli zinaongeza juu ya maneno haya maana ambazo hapo awali hazikuwa nazo.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "שְׁאוֹל",
+              "translit": "szeol"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "2Cor.11.14",
+              "ref": "2Kor 11:14"
+            }
+          ],
+          "comment": "\"Shetani mwenyewe hujigeuza kuwa malaika wa nuru\". Matukio yanayojifanya kuwa wapendwa waliokufa yanaweza kuwa ya kushawishi, na hata hivyo ni ya kudanganya - ndiyo maana kipimo kinabaki kuwa Neno.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Fundisho la Biblia kuhusu kifo linakulindaje usidanganywe na sauti au sura ya mfu anayedaiwa kuwa \"mtu unayemjua\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Rev.16.14",
+              "ref": "Ufu 16:14"
+            }
+          ],
+          "comment": "Mwishoni mwa nyakati zinatenda \"roho za mashetani zifanyazo ishara\". Udanganyifu unaojifanya kuwa mawasiliano na wafu unaingia katika mkakati mpana wa uovu katika pambano kuu - ndiyo maana kuna haja ya kushikamana na Maandiko.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Kwa nini uwezo wa kufanya \"ishara\" wenyewe si uthibitisho kwamba kitu kinatoka kwa Mungu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Na vipi kuhusu kuzaliwa upya? Maisha moja na hukumu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Heb.9.27",
+              "ref": "Ebr 9:27"
+            }
+          ],
+          "comment": "\"Imewekwa kwa wanadamu kufa mara moja, na baada ya hayo hukumu\". Biblia inazungumza juu ya maisha moja na hukumu moja - si juu ya mzunguko wa kuzaliwa tena na tena. Hii inakataa fundisho la kuzaliwa upya.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Wazo la \"maisha moja\", na si maisha mengi ya kuzaliwa tena, linaathirije jinsi unavyotumia muda ulio nao?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "mfano wa tajiri na Lazaro (Lk 16:19-31)",
+          "content": "Fungu hili mara nyingine linatajwa kama \"uthibitisho\" wa maisha yenye ufahamu mara tu baada ya kifo. Hata hivyo lina sifa za mfano: linatumia picha maarufu, ya kawaida ya ulimwengu wa baada ya kifo, ili kufikisha fundisho - si ili kueleza ramani ya kifo. Lengo lake limetamkwa waziwazi: yule asiyewasikiliza \"Musa na Manabii\" (Maandiko), hataamini, \"hata kama mtu atafufuka kutoka kwa wafu\" (mst. 31). Linaposomwa katika nuru ya maandiko yaliyo wazi (Mhu 9:5; Zab 146:4) halibatilishi fundisho la usingizi wa kifo, bali linatuita tumsikilize Neno tangu sasa.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Kwa nini katika kutafsiri mfano wenye picha ni salama zaidi kujenga fundisho juu ya lengo lake lililo wazi kuliko juu ya maelezo ya mandhari?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "2Cor.5.10",
+              "ref": "2Kor 5:10"
+            }
+          ],
+          "comment": "\"Sote lazima tusimame mbele ya kiti cha hukumu cha Kristo\". Tumaini la mwaminio si \"nafasi nyingine katika maisha yajayo\", bali ni Kristo, ambaye katika hukumu ni Mtetezi. Hukumu ni habari njema kwa wale walio ndani yake.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Tumaini lililojengwa juu ya \"kuzaliwa upya\" linatofautianaje na tumaini lililojengwa juu ya Kristo-Mtetezi?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "John.3.16",
+              "ref": "Yoh 3:16"
+            }
+          ],
+          "comment": "Mbadala wa kifo si \"kurudi katika umbo lingine\", bali ni \"uzima wa milele\" kama zawadi kwa mwaminio. Hili ni jibu chanya kwa hofu ya kupita.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Ni kipi kinatoa tumaini kubwa zaidi: wazo la kuzaliwa upya kusiko na mwisho au ahadi ya uzima wa milele kama zawadi? Kwa nini?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "toharani na sala kwa ajili ya wafu",
+          "content": "Swali nyeti: je, baada ya kifo kuna \"toharani\", na je, sala za walio hai zinaweza kuwasaidia wafu? Biblia haifundishi hivyo. Kwanza, hali ya wafu ni usingizi usio na ufahamu (Mhu 9:5-6,10; Zab 146:4), si mahali pa mateso ya kutakasa. Pili, wokovu ni zawadi ya neema inayopokelewa kwa imani katika maisha haya (Efe 2:8-9; Yoh 3:16), si kitu kinachoweza \"kutakaswa zaidi\" kwa mateso au kupatikana kwa sala baada ya kifo. Tatu, uamuzi kuhusu uhusiano na Mungu unafanyika wakati wa uhai (Ebr 9:27 - \"kufa mara moja, na baada ya hayo hukumu\"). Hili halipunguzi upendo kwa wapendwa waliokufa - tumaini lao ni hakika na zuri: ufufuo wakati Yesu atakaporudi (1The 4:16). Ukosoaji unahusu fundisho, si watu, ambao kwa nia njema wanawaombea wafu; kipimo ni Maandiko (Isa 8:20).",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Ikiwa wokovu ni zawadi inayopokelewa wakati wa uhai, na wafu wamelala usingizi mpaka ufufuo, ni nini hugeuka kuwa chanzo cha kweli cha faraja baada ya kupoteza mpendwa?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Biblia inakiondolea kifo hofu, kwa kukiita \"usingizi\". Wafu hawateseki, hawatangatangi, hawatuangalii - wamelala usingizi, ili waamshwe na Yesu wakati atakaporudi. Ndiyo maana usitafute mawasiliano na wafu: kwa kuwa wamelala usingizi, kila \"mawasiliano\" kama hayo ni udanganyifu, ambao Maandiko yanaonya waziwazi dhidi yake. Wala hakukungoji mlolongo wa kuzaliwa tena - una maisha moja na Mwokozi, ambaye katika hukumu ni Mtetezi wako. Haya yote yanakusanyika kuwa jambo moja: kifo si mwisho wa tumaini, bali ni usingizi kabla ya kuamka.",
+    "challenge": "Ikiwa unapitia kupotelewa na mpendwa, soma kwa utulivu 1The 4:13-18 na uandike ni kwa namna gani tumaini la ufufuo linatofautiana na \"huzuni isiyo na tumaini\". Ikiwa umewahi kukutana na matendo ya kuwasiliana na wafu (vikao vya kuita roho, uaguzi, \"ishara\" kutoka kwa wafu), yakatae kwa makusudi katika sala na ujenge tumaini lako juu ya ahadi ya kurudi kwa Yesu."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study co-po-smierci"
+  }
+}

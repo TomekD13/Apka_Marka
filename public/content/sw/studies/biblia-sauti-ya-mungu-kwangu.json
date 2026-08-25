@@ -1,0 +1,462 @@
+{
+  "id": "biblia-sauti-ya-mungu-kwangu",
+  "lang": "sw",
+  "title": "Biblia - sauti ya Mungu kwangu",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 9,
+  "summary": "Biblia ni Neno la Mungu lililovuviwa - barua kutoka kwa Rafiki, si mkusanyiko wa maoni ya wanadamu. Tunajifunza mamlaka yake yanakotoka (sola scriptura), tunajifunza kanuni rahisi za kuisoma sisi wenyewe na kugundua mahali pazuri pa kuanzia. Sehemu ya PRO inajibu swali kuhusu Maandiko na Mapokeo pamoja na kanoni.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "Biblia",
+    "Neno la Mungu",
+    "uvuvio",
+    "sola scriptura",
+    "kusoma Maandiko"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Biblia inapata mamlaka yake wapi",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "2Tim.3.16-17",
+              "ref": "2Tim 3:16-17"
+            }
+          ],
+          "comment": "\"Kila andiko, lenye pumzi ya Mungu\" - linatoka kwake na lina faida, ili mtu \"awe amekamilishwa kwa kila tendo jema\". Mamlaka ya Biblia hayatokani na umri wake wala maamuzi ya wanadamu, bali na ukweli kwamba Mungu yuko nyuma yake.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Wazo kwamba Biblia ni neno kutoka kwa Mungu, si tu hekima ya wanadamu, linabadilisha nini katika namna unavyoisoma?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"lililovuviwa\" maana yake \"lenye pumzi ya Mungu\" (2 Tim 3:16)",
+          "content": "Neno la Kiyunani *theopneustos* kihalisi linamaanisha \"lenye pumzi ya Mungu\" (*theos* - Mungu, *pneo* - kupumua, kuvuma). Maandiko hayajavuviwa kwa maana ya mvuto wa kishairi - yanatoka katika pumzi ya Mungu, ileile iliyotoa uhai kwa mwanadamu (Mwa 2:7). Huu ndio msingi wa mamlaka yake: nyuma ya maneno kuna pumzi ya Mungu.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "θεόπνευστος",
+              "translit": "theopneustos"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Kuelewa Maandiko kama \"yenye pumzi ya Mungu\" kunaathirije kuyatumaini unayoyasoma?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "2Pet.1.20-21",
+              "ref": "2Pet 1:20-21"
+            }
+          ],
+          "comment": "Unabii haukutokana na mapenzi ya mwanadamu - \"watu walinena yaliyotoka kwa Mungu, wakiongozwa na Roho Mtakatifu\". Mungu aliwatumia watu, lakini yeye ndiye Mwandishi wa kwanza.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Unaelewaje kwamba Biblia ina waandishi wanadamu, na wakati huohuo Mwandishi mmoja - Mungu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "waandishi \"wakiongozwa\" na Roho (2 Pet 1:21)",
+          "content": "Hapa kinatumika kitenzi *phero* (\"kubeba\") katika hali ya kutendwa: watu \"walibebwa\" na Roho Mtakatifu. Neno hilohilo linatumika katika Mdo 27:15,17 kuhusu meli iliyobebwa na upepo. Taswira ina uwiano: waandishi wa Biblia hawakuwa mashine za kuandika kwa kuamriwa, bali Roho aliwabeba katika mwelekeo sahihi, akiidumisha haiba yao, mtindo wao na lugha yao.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "φερόμενοι",
+              "translit": "pheromenoi"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Heb.4.12",
+              "ref": "Ebr 4:12"
+            }
+          ],
+          "comment": "Neno la Mungu ni \"hai, tena lina nguvu\" - si maandishi yaliyokufa ya zamani, bali kitu kinachofika moyoni na kubadilisha. Biblia hutusoma sisi kama vile sisi tunavyoisoma.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Je, imewahi kukutokea kwamba fungu fulani la Biblia \"likakugusa\" wewe binafsi? Ni lipi hilo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"lenye makali kuliko upanga wa kuwili\" (Hbr 4:12)",
+          "content": "Neno la Mungu linafananishwa na *machaira* - upanga mfupi, mkali - tena wa \"kuwili\" (Kiyunani *distomos*, kihalisi \"wenye vinywa viwili\"). Taswira si tisho, bali usahihi: Neno hupenya ndani zaidi kuliko ncha yoyote, \"hata kuzigawanya nafsi na roho\", likifunua mawazo na nia za kweli za moyo. Ndiyo maana kusoma Biblia si jambo lisilo na athari - hutuchunguza ndani kabisa.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μάχαιρα",
+              "translit": "machaira"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Maandiko ni mamlaka ya juu kabisa (sola scriptura)",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Isa.8.20",
+              "ref": "Isa 8:20"
+            }
+          ],
+          "comment": "\"Na waende kwa sheria na ushuhuda!\" - kila kitu kinachodai mamlaka katika mambo ya imani lazima kichunguzwe kwa Maandiko. Hii ni kanuni ya Kibiblia iliyoitwa baadaye *sola scriptura*: Maandiko ndiyo kipimo cha juu kabisa.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Kwa nini kunahitajika kuwa na kipimo cha kudumu cha kurejea katika maswali ya imani?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "Maandiko na Mapokeo",
+          "content": "Swali nyeti: je, kando ya Biblia kunahitajika Mapokeo yenye hadhi sawa kama chanzo cha imani? Biblia kwa kudumu inaweka Maandiko kama mamlaka ya juu kabisa (*sola scriptura*). Yesu katika Mk 7:7-9 anaweka wazi \"amri ya Mungu\" dhidi ya \"mapokeo\" ya wanadamu, akilaumu kwamba mtu aweza \"kuiacha amri ya Mungu ili kuyashika mapokeo\". Isa 8:20 inaweka kipimo. Mapokeo ya kanisa yana thamani ya kihistoria na ya kupanga, lakini hayawezi kusimama juu ya Maandiko wala kuyarekebisha. Lawama inahusu kanuni na fundisho, kamwe si watu binafsi.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Tofauti ipo wapi kati ya mapokeo yenye kusaidia (mf. desturi ya kusoma Biblia asubuhi) na mapokeo yanayoanza kuchukua nafasi ya Neno?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Acts.17.11",
+              "ref": "Mdo 17:11"
+            }
+          ],
+          "comment": "Wakazi wa Beroya walimsikiliza Paulo, lakini hata hivyo \"wakayachunguza maandiko kila siku, waone kwamba mambo hayo ndivyo yalivyo\". Biblia huwasifu wale wanaochunguza fundisho - hata la kitume - katika nuru ya Neno.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Maana ya \"kuyachunguza Maandiko\" ni nini, badala ya kumwamini tu kila anayesema kwa jina la Mungu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "Waberoya \"walichunguza\" Maandiko (Mdo 17:11)",
+          "content": "Kitenzi kilichotumika *anakrino* ni neno la kimahakama: \"kuhoji, kuchunguza ushahidi, kuchunguza kwa makini\". Luka anawaita Waberoya \"wenye akili nzuri zaidi\" kwa sababu hasa walichunguza fundisho la mtume katika Maandiko - si kwa kukosa heshima, bali kwa heshima kwa Neno kama mamlaka ya juu kabisa. Mfano wa imani iliyokomaa: si uaminifu wa kupita kiasi wala wa kushuku, bali uthibitisho kwa Maandiko.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἀνακρίνω",
+              "translit": "anakrino"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "John.17.17",
+              "ref": "Yoh 17:17"
+            }
+          ],
+          "comment": "Yesu anaomba: \"Neno lako ndiyo kweli\". Ni Maandiko yanayoamua kilicho kweli, na ndiyo yanayotakasa - hutengeneza maisha ya mwamini.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Kuichukulia Biblia kama \"kweli\" kunatofautianaje na kuichukulia kama mojawapo ya maoni?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Ps.119.105",
+              "ref": "Zab 119:105"
+            }
+          ],
+          "comment": "\"Neno lako ni taa ya miguu yangu\" - Biblia huangaza hatua ya karibu na njia yote. Ni mwongozo wa vitendo katika maamuzi, si tu mkusanyiko wa mafundisho.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Ni katika eneo gani la maisha unahitaji zaidi sasa \"nuru\" ya Neno la Mungu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Jinsi ya kusoma Biblia mwenyewe",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Ps.119.18",
+              "ref": "Zab 119:18"
+            }
+          ],
+          "comment": "Kabla ya kuanza kusoma, ni vyema kuomba: \"Unifumbue macho yangu nipate kuyatazama maajabu ya sheria yako\". Roho yuleyule aliyevuvia Maandiko husaidia kuyaelewa.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Kungebadilika nini kama kila usomaji wa Biblia ungeanza kwa ombi fupi la kuelewa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Luke.24.27",
+              "ref": "Lk 24:27"
+            }
+          ],
+          "comment": "Yesu \"akawafafanulia katika Maandiko yote mambo yaliyomhusu yeye\". Biblia yote ina kiini chake katika Kristo - tunaisoma ili kukutana naye, si tu kupata habari. Kusoma kwa kuzingatia muktadha hulinda dhidi ya kung'oa sentensi kutoka katika kizima.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Wazo kwamba \"kitovu\" cha Biblia ni Yesu kingebadilishaje namna unavyoisoma?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "Biblia yote inaongoza kwa Kristo (Lk 24:27)",
+          "content": "Akiwa njiani kuelekea Emau, Yesu \"akianza katika Musa na manabii wote\", alionyesha kwamba Maandiko yanena juu yake. Hii inatoa ufunguo wa kusoma kizima: Agano la Kale linatabiri, Jipya linatimiza. Ndiyo maana mafungu magumu zaidi yafaa kusomwa kwa kuuliza \"hili linaelekezaje kwa Yesu na kazi yake?\" - badala ya kutafuta ndani yake sheria zilizotenganishwa. Kristo ni lenzi inayolenga maana ya Maandiko yote."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "2Pet.1.20",
+              "ref": "2Pet 1:20"
+            }
+          ],
+          "comment": "\"Hakuna unabii katika Maandiko upatao kufasiriwa kama apendavyo mtu fulani\". Maandiko hujieleza yenyewe - mafungu yaliyo wazi husaidia kuelewa yaliyo magumu, wala hakuna fungu lenye maana inayotufurahisha tu.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Kwa nini ni hatari kujenga imani juu ya fungu moja lililong'olewa katika muktadha wake?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Isa.28.10",
+              "ref": "Isa 28:10"
+            }
+          ],
+          "comment": "\"Amri juu ya amri... kidogo hapa, kidogo pale\" - Biblia tunaijua kwa kulinganisha mafungu yake. Picha kamili ya kweli fulani hutokana na Maandiko yote, si kutoka mahali pamoja.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Kulinganisha mafungu mbalimbali juu ya mada moja hulindaje dhidi ya hitimisho lenye makosa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Jas.1.22",
+              "ref": "Yak 1:22"
+            }
+          ],
+          "comment": "\"Iweni watendaji wa Neno, wala si wasikiaji tu\". Kusoma Biblia kunapaswa kuongoza kuishi kwalo, si kulundika maarifa. Utii si sharti la kukubaliwa na Mungu, bali ni tunda la uhusiano naye.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Ni jambo gani umelisoma karibuni katika Biblia linaloomba zaidi \"kutendeka\" kuliko \"kukumbukwa\"?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Chakula cha kila siku na pa kuanzia",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Matt.4.4",
+              "ref": "Mt 4:4"
+            }
+          ],
+          "comment": "\"Mtu hataishi kwa mkate tu, ila kwa kila neno litokalo katika kinywa cha Mungu\". Neno la Mungu ni chakula - lenye kuhitajika kila siku, si tu sikukuu.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Siku yako ingeonekanaje kama Neno la Mungu lingekuwa la kawaida kama mlo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "John.20.30-31",
+              "ref": "Yoh 20:30-31"
+            }
+          ],
+          "comment": "Injili ya Yohana yenyewe inasema kwa nini iliandikwa: \"mpate kuamini ya kwamba Yesu ndiye Kristo... na kwa kuamini muwe na uzima\". Ni mahali pa kawaida pa kuanzia katika kusoma mwenyewe - inaongoza moja kwa moja kwa Yesu.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Kwa nini mwanzo mzuri wa kumjua Mungu unaweza kuwa hasa habari ya maisha ya Yesu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Josh.1.8",
+              "ref": "Yos 1:8"
+            }
+          ],
+          "comment": "Mungu anamshauri Yoshua aitafakari Neno \"mchana na usiku\" - si suala la wingi, bali la kulirudia daima na kulitafakari. Tunda ni hekima na mafanikio katika njia ya maisha.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "\"Kutafakari\" Neno kunatofautianaje na kulisoma mara moja na kuliweka kando?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"kutafakari\" maana yake \"kunong'ona\" (Yos 1:8; Zab 1:2)",
+          "content": "Neno la Kiebrania *haga*, linalotafsiriwa \"kutafakari, kuwaza\", kihalisi linamaanisha \"kunung'unika, kunong'ona, kuvuma kwa sauti ndogo\". Zamani za kale Maandiko yalisomwa na kutafakariwa kwa sauti, kwa kurudia maneno polepole. \"Kutafakari Sheria mchana na usiku\" si fikra ya dhahania, bali ni kurudia maandishi, kuyaonja na kuyarudia - hadi yaingie kumbukumbuni na moyoni.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "הָגָה",
+              "translit": "haga"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "kanoni na vitabu vya deuterokanoni",
+          "content": "\"Kanoni\" (Kiyunani *kanon* - \"kipimo, kanuni\") ni orodha ya vitabu vinavyotambuliwa kuwa vimevuviwa. Kanoni ya Kiebrania ya Agano la Kale (iliyopokewa na Uprotestanti) haina vitabu viitwavyo vya deuterokanoni (na Waprotestanti: apokrifa) - mf. Tobiti, Yudithi, Hekima, Sira, 1-2 Makabayo - vilivyomo katika Septuaginta ya Kiyunani na katika kanoni ya Kanisa Katoliki la Roma. Yesu na mitume wananukuu kwa wingi Maandiko ya Kiebrania, bila kuvitaja vitabu vya deuterokanoni kama \"Maandiko\". Ndiyo maana tunapokea kanoni ya vitabu 66. Hili ni suala la kihistoria - tunaliwasilisha kwa uwazi, bila kuwadharau watu wa madhehebu mengine.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "κανών",
+              "translit": "kanon"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Ps.1.1-3",
+              "ref": "Zab 1:1-3"
+            }
+          ],
+          "comment": "Mtu \"atafakariye sheria ya Bwana\" ni kama mti uliopandwa kandokando ya mito ya maji - mwenye mizizi, wenye matunda, wenye kudumu. Mawasiliano ya kawaida na Neno hutoa uthabiti wa maisha.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Ni nini katika maisha yako kingenufaika zaidi na \"kuwa na mizizi\" hivyo katika Neno?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Biblia si mkusanyiko wa maoni ya kale wala kitabu cha kidini cha kumaliza tu. Ni Neno la Mungu lililovuviwa - barua kutoka kwa Rafiki anayetaka kujulikana. Mamlaka yake yanatoka kwa Mungu, ndiyo maana ni kipimo cha juu kabisa cha imani (sola scriptura). Isome kwa maombi, kwa kuzingatia muktadha, ukiruhusu Maandiko yajieleze yenyewe - na uichukulie kama chakula cha kila siku. Huhitaji kuanza \"tangu mwanzo\": Injili ya Yohana ni njia rahisi kabisa ya kukutana na Yesu.",
+    "challenge": "Kwa wiki ijayo soma kila siku sura moja ya Injili ya Yohana. Anza kila usomaji kwa ombi fupi kwa maneno ya Zab 119:18 (\"Unifumbue macho yangu...\"), na baada ya kusoma andika sentensi moja: ni nini umejifunza leo kuhusu Yesu na unataka kufanya nini kuhusu hilo."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study biblia"
+  }
+}

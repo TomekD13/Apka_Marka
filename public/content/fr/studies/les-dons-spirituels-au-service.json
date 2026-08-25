@@ -1,0 +1,530 @@
+{
+  "id": "les-dons-spirituels-au-service",
+  "lang": "fr",
+  "title": "Les dons spirituels au service",
+  "category": "basic_systematic",
+  "seriesId": "zycie-w-przymierzu",
+  "order": 20,
+  "summary": "Dieu équipe chaque croyant pour le service. L'Esprit distribue des dons variés, et un seul corps - l'Église - les réunit en un tout. Chacun est appelé à découvrir et à exercer son don. La Bible donne aussi des critères pour reconnaître un don véritable et un vrai prophète. Le don de guérison rappelle que Dieu agit aujourd'hui - dans le cadre de sa volonté et du mystère de la souffrance. Le but de tous les dons : édifier l'Église.",
+  "minutes": {
+    "base": 45,
+    "extended": 65
+  },
+  "tags": [
+    "dons spirituels",
+    "Saint-Esprit",
+    "service",
+    "un seul corps",
+    "discernement",
+    "guérison"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Dieu équipe pour le service",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "1Cor.12.4-7",
+              "ref": "1 Co 12:4-7"
+            }
+          ],
+          "comment": "Des dons divers, des services divers - mais \"le même Esprit\" et \"le même Dieu\". À chacun est donnée \"la manifestation de l'Esprit pour le bien commun\". Personne n'est laissé de côté.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Que signifie le fait que tu reçois un don non pour toi-même, mais \"pour le bien commun\" ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "1Cor.12.11",
+              "ref": "1 Co 12:11"
+            }
+          ],
+          "comment": "C'est l'Esprit qui \"distribue à chacun comme il veut\". Le don n'est ni une récompense pour des mérites ni un motif d'orgueil - c'est un don, c'est-à-dire quelque chose de reçu.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Puisque c'est l'Esprit qui choisit et distribue les dons, qu'est-ce que cela dit du fait de se comparer aux autres ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "1Pet.4.10",
+              "ref": "1 P 4:10"
+            }
+          ],
+          "comment": "\"Comme de bons intendants… mettez-vous au service les uns des autres\" avec le don que chacun a reçu. Le don est un trésor confié pour être utilisé, et non pour être caché.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "En quoi un \"intendant d'un don\" diffère-t-il d'un \"propriétaire d'un talent\" ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "les \"dons de la grâce\" (charismata)",
+          "content": "Le grec *charisma* (pluriel *charismata*, 1 Co 12 ; Rm 12) vient de *charis* - \"grâce\". Les dons spirituels sont par définition des \"manifestations de la grâce\" : quelque chose reçu gratuitement, non mérité. Le mot lui-même exclut déjà l'orgueil et la comparaison - un don n'est pas une décoration, mais un équipement pour le service.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χαρίσματα",
+              "translit": "charismata"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Comment le lien *charisma-charis* (don-grâce) protège-t-il de deux excès : l'orgueil et le sentiment de ne rien valoir ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "deux mots : \"spirituelles\" et \"dons\"",
+          "content": "Paul commence son exposé par le mot *pneumatika* - \"les choses spirituelles\" (1 Co 12:1), mais il passe presque aussitôt à *charismata* - \"les dons de la grâce\" (1 Co 12:4). Des commentateurs suggèrent que *pneumatika* était un terme des Corinthiens eux-mêmes, par lequel ils soulignaient leur propre \"spiritualité\" ; Paul change délibérément de mot pour déplacer l'accent du vécu vers la grâce du Donateur et vers le service.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "πνευματικά",
+              "translit": "pneumatika"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Qu'est-ce que change le regard lorsqu'on appelle un \"don spirituel\" d'abord un \"don de la grâce\", et non \"mon vécu spirituel\" ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Un seul corps, beaucoup de dons",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Rom.12.4-8",
+              "ref": "Rm 12:4-8"
+            }
+          ],
+          "comment": "Comme le corps a beaucoup de membres aux fonctions diverses, ainsi en est-il de l'Église. Les dons mentionnés (servir, enseigner, exhorter, partager, exercer la miséricorde) sont ordinaires et pratiques - la plupart d'entre nous les portent déjà en eux.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Lequel des dons mentionnés ressemble le plus à ce qui te vient naturellement ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "1Cor.12.14-20",
+              "ref": "1 Co 12:14-20"
+            }
+          ],
+          "comment": "Le pied n'est pas inférieur à la main, ni l'oreille à l'œil. Si tout le corps était œil - il n'y aurait pas de corps. La diversité n'est pas un problème à uniformiser, mais le dessein de Dieu.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Quand t'es-tu senti \"moins important\" dans la communauté ? Comment cette image du corps y répond-elle ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"aucun don n'a moins de valeur\"",
+          "content": "L'image du corps (1 Co 12 ; Rm 12) sert à Paul à montrer que les dons se complètent mutuellement et qu'aucun n'est superflu. Quand manquent ceux que l'on tient pour les \"plus petits\", c'est le corps tout entier qui souffre. Comme l'a formulé un commentaire : \"aucun des dons de la grâce n'est sans valeur, et aucun ne vaut moins qu'un autre\" - toute hiérarchie d'importance est étrangère à la pensée de Paul."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "1Cor.12.21-26",
+              "ref": "1 Co 12:21-26"
+            }
+          ],
+          "comment": "\"Je ne peux pas me passer de toi\" - aucun membre n'est superflu, et l'on prend d'autant plus soin des plus faibles. Quand l'un souffre, tous souffrent ; quand l'un est honoré, tous se réjouissent.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Qu'est-ce que cela signifierait, dans ta communauté, de traiter les \"plus faibles\" avec plus de soin, et non moins ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Eph.4.11-13",
+              "ref": "Ép 4:11-13"
+            }
+          ],
+          "comment": "Christ a donné à l'Église des services divers, \"afin de préparer les saints à l'œuvre du ministère\". Le but : la maturité et l'unité du corps tout entier - pour que chacun puisse servir, et pas seulement les responsables.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Quel est, selon ce texte, le véritable but de l'existence des responsables et des enseignants dans l'Église ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "des listes de dons différentes dans le Nouveau Testament",
+          "content": "Les listes de dons (1 Co 12:8-10.28 ; Rm 12:6-8 ; Ep 4:11 ; 1 P 4:11) diffèrent entre elles et se recoupent en partie. Cela indique qu'aucune d'elles n'est un catalogue fermé - l'Esprit équipe l'Église selon les besoins, et le but est toujours l'édification du corps, et non le caractère spectaculaire du don."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "\"charismatique\" signifie \"rendu capable pour le service\"",
+          "content": "Dans le Nouveau Testament, l'Église tout entière est \"charismatique\", car elle a tout entière reçu des dons pour la mission. Dans le langage d'aujourd'hui, ce mot évoque un vécu émotionnel pendant le culte, mais au sens biblique \"charismatique\" signifie tout simplement \"équipé pour le service\" - personnellement et communautairement (Ac 1:8 ; 4:31).",
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Comment l'image de l'Église change-t-elle lorsqu'on comprend \"charismatique\" comme \"rendu capable pour le service\", et non \"expressif dans le vécu\" ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Matt.25.14-18",
+              "ref": "Mt 25:14-18"
+            }
+          ],
+          "comment": "Le maître distribue les talents \"à chacun selon sa capacité\". Deux serviteurs font fructifier, le troisième enfouit. Un don non utilisé dépérit - il a été donné pour agir.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Qu'est-ce qui pousse le plus souvent les gens à \"enfouir\" leur don au lieu de l'utiliser ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "1Tim.4.14",
+              "ref": "1 Tm 4:14"
+            }
+          ],
+          "comment": "\"Ne néglige pas le don qui est en toi\". Le don est parfois remarqué et confirmé par la communauté - il vaut la peine de le cultiver, et non de l'étouffer.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Qui, dans ta vie, pourrait t'aider à reconnaître un don que tu ne vois pas toi-même chez toi ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "2Tim.1.6-7",
+              "ref": "2 Tm 1:6-7"
+            }
+          ],
+          "comment": "Paul appelle à \"ranimer\" le don de Dieu, car Dieu a donné \"un esprit de force, d'amour et de sagesse\", non de crainte. Bien souvent, c'est la peur qui éteint le don.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Quel don en toi a besoin aujourd'hui d'être \"ranimé\" - et qu'est-ce qui l'éteint en toi ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "d'abord le Donateur, puis les dons",
+          "content": "Les Actes des Apôtres emploient le mot *dorea* (\"don\") pour désigner le Saint-Esprit lui-même donné aux croyants (Ac 2:38 ; 10:45 ; 11:17). L'ordre est significatif : d'abord vient le Donateur - l'Esprit -, et c'est alors seulement qu'apparaissent les *charismata*, c'est-à-dire les dons particuliers (1 Co 12). La recherche d'un don commence donc par l'ouverture à l'Esprit lui-même, et non par la chasse à une capacité précise.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "δωρεά",
+              "translit": "dorea"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Comment la recherche de \"son don\" change-t-elle lorsqu'on demande d'abord le Donateur lui-même, et non une compétence précise ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Isa.8.20",
+              "ref": "És 8:20"
+            }
+          ],
+          "comment": "\"À la loi et au témoignage !\" - si quelqu'un parle autrement que la Parole, la lumière n'est pas en lui. Premier critère d'un don véritable : l'accord avec l'Écriture.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Pourquoi l'accord avec la Bible doit-il être la première vérification de tout message \"inspiré\" ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Matt.7.15-20",
+              "ref": "Mt 7:15-20"
+            }
+          ],
+          "comment": "\"Vous les reconnaîtrez à leurs fruits\". Un don véritable et un vrai prophète se reconnaissent non à l'effet spectaculaire, mais aux fruits de la vie et de l'enseignement.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Quels \"fruits\" distinguent un service authentique d'un service de façade ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "1John.4.1",
+              "ref": "1 Jn 4:1"
+            }
+          ],
+          "comment": "\"Éprouvez les esprits, pour savoir s'ils sont de Dieu\". Le discernement n'est ni un manque de foi ni de la méfiance - c'est un devoir biblique, car \"beaucoup de faux prophètes sont venus dans le monde\".",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "En quoi un sain \"examen des esprits\" diffère-t-il de la crédulité et d'une méfiance cynique ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "critères de discernement d'un vrai prophète",
+          "content": "La Bible donne un ensemble cohérent de vérifications : l'accord avec l'Écriture (Es 8:20), l'accomplissement des annonces (Dt 18:21-22), les fruits de la vie et de l'enseignement (Mt 7:15-20) et la confession de Christ venu en chair (1 Jn 4:2-3). Ce sont des critères objectifs - ils ne dépendent ni des impressions ni du charisme de l'orateur. (Le don de prophétie comme signe particulier du peuple des derniers temps fait l'objet d'une étude distincte, l'étude 26 ; nous le traitons ici de façon générale.)"
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "\"le témoignage de Jésus est l'esprit de la prophétie\"",
+          "content": "En Ap 19:10, l'ange parle de ceux \"qui ont le témoignage de Jésus\", et Jean explique : \"le témoignage de Jésus est l'esprit de la prophétie\". En grec, *tēn martyrian Iēsou* est un génitif \"subjectif\" - un témoignage qui vient DE Jésus. En Ap 22:9, ce même ange, au lieu de \"le témoignage de Jésus\", dit \"les prophètes\", ce qui montre que les deux expressions sont liées au don de prophétie. (Le lien de ce don avec le peuple des derniers temps est développé dans l'étude 26.)"
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Deut.18.21-22",
+              "ref": "Dt 18:21-22"
+            }
+          ],
+          "comment": "La vérification d'un prophète est l'accomplissement de ses paroles. Dieu lui-même donne le critère - la vérité se défend, elle ne craint pas la vérification.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Que dit de Dieu le fait qu'il permette, et même ordonne, d'éprouver ceux qui parlent en son nom ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "la prophétie conditionnelle (Ninive)",
+          "content": "La vérification de Dt 18:22 doit se lire avec le principe de la prophétie conditionnelle (Jr 18:7-10). Jonas proclamait : \"encore quarante jours, et Ninive sera détruite\" - et la ville ne fut pas détruite, car elle se convertit. Jonas resta pourtant un véritable prophète : une annonce de jugement contient une condition implicite, et son non-accomplissement après la conversion ne rend pas le prophète faux.",
+          "questions": [
+            {
+              "id": "q24",
+              "text": "Pourquoi la conversion de Ninive ne remet-elle pas en cause la vérification du prophète de Dt 18:22, mais la complète-t-elle ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "1Thess.5.19-21",
+              "ref": "1 Th 5:19-21"
+            }
+          ],
+          "comment": "\"N'éteignez pas l'Esprit… examinez tout, retenez ce qui est bon\". L'équilibre : l'ouverture à l'action de l'Esprit et, en même temps, le discernement.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Comment garder l'équilibre entre \"n'éteignez pas l'Esprit\" et \"examinez tout\" ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Le don de guérison et l'action de Dieu aujourd'hui",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Jas.5.14-16",
+              "ref": "Jc 5:14-16"
+            }
+          ],
+          "comment": "Le malade doit appeler les anciens pour qu'ils prient et l'oignent d'huile ; \"la prière de la foi sauvera le malade\". Dieu nous invite à lui apporter nos maladies - la prière pour la guérison est une part normale de la vie de l'Église.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Qu'est-ce qui te retient de demander à la communauté de prier dans la maladie - et que dit ce texte à ce sujet ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "1Cor.12.9-10",
+              "ref": "1 Co 12:9-10"
+            }
+          ],
+          "comment": "Parmi les dons de l'Esprit, il y a aussi les \"dons de guérison\" et \"le pouvoir de faire des miracles\". Dieu agit aujourd'hui - la guérison est un don de l'Esprit, et non seulement une vieille histoire.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "À ton avis, pourquoi la guérison est-elle ici appelée un \"don\", et non une \"récompense\" ou un \"droit\" ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "le don de guérison : la voie ordinaire et les exceptions",
+          "content": "Paul parle des \"dons de guérison\" au pluriel (1 Co 12:9). La voie ordinaire, indiquée par Dieu, pour rechercher la guérison est la prière et l'onction d'huile (Jc 5:14-15), même si la guérison est parfois accordée par la seule prière. \"Le pouvoir de faire des miracles\" (1 Co 12:10) est lié au don de guérison, mais il est plus large - il englobe ce qui, humainement, paraît impossible.",
+          "questions": [
+            {
+              "id": "q25",
+              "text": "Pourquoi est-il bon que la Bible indique \"une voie ordinaire\" (la prière et l'onction), tout en ne fermant pas à Dieu d'autres manières d'agir ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "2Cor.12.7-9",
+              "ref": "2 Co 12:7-9"
+            }
+          ],
+          "comment": "Paul a demandé trois fois la guérison, mais il a entendu : \"Ma grâce te suffit\". Dieu ne guérit pas toujours aussitôt, ni toujours comme nous le demandons - sa puissance agit aussi dans la faiblesse. C'est le mystère de la souffrance, et non un manque de l'amour de Dieu.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Comment concilier la foi en la guérison avec le fait que Dieu dise parfois \"ma grâce te suffit\" ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "John.9.1-3",
+              "ref": "Jn 9:1-3"
+            }
+          ],
+          "comment": "Jésus rejette le schéma simpliste \"maladie = punition du péché\". La souffrance reste un mystère, dans lequel pourtant \"les œuvres de Dieu doivent se manifester\".",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Qu'est-ce que change, dans le regard sur la souffrance, le rejet de la pensée \"je suis malade parce que j'ai fauté\" ?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Dieu ne divise pas les croyants en \"professionnels\" et \"spectateurs\". L'Esprit équipe chacun pour le service et donne au moins un don - pour le bien commun. Ton don est nécessaire au corps de Christ : sans toi, quelque chose manque. Il vaut la peine de le découvrir (souvent avec l'aide de la communauté) et de l'utiliser, et non de l'enfouir par peur. La Bible enseigne aussi un sage discernement des dons et des prophètes véritables - toujours selon la Parole et selon les fruits. Et quand nous sommes malades, nous pouvons hardiment demander la prière pour la guérison, en ayant confiance que Dieu agit aujourd'hui - même si sa réponse demeure parfois un mystère, et que sa grâce suffit aussi dans la faiblesse.",
+    "challenge": "Cette semaine, demande à deux personnes qui te connaissent : \"Quel don ou quelle qualité voyez-vous en moi ?\". Choisis une façon, dans les jours qui viennent, d'utiliser ce don au service de quelqu'un de précis. Si tu luttes contre la maladie - demande à la communauté ou aux anciens de prier (Jc 5:14)."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "FR translation of PL study dary-duchowe"
+  }
+}

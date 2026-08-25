@@ -1,0 +1,462 @@
+{
+  "id": "the-bible-gods-voice-to-me",
+  "lang": "en",
+  "title": "The Bible - God's voice to me",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 9,
+  "summary": "The Bible is the inspired Word of God - a letter from a Friend, not a collection of human opinions. We learn where its authority comes from (sola scriptura), pick up simple principles for reading it on your own, and discover where it is best to begin. The PRO layer addresses the question of Scripture and Tradition, and of the canon.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "the Bible",
+    "the Word of God",
+    "inspiration",
+    "sola scriptura",
+    "reading Scripture"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Where the Bible gets its authority",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "2Tim.3.16-17",
+              "ref": "2 Tim 3:16-17"
+            }
+          ],
+          "comment": "\"All Scripture is inspired by God\" - it comes from Him and is useful so that a person may be \"equipped for every good work.\" The Bible's authority does not come from its age or from human decisions, but from the fact that God stands behind it.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "How does it change the way you read the Bible to think of it as a word from God, and not just human wisdom?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"inspired\" means \"breathed out by God\" (2 Tim 3:16)",
+          "content": "The Greek *theopneustos* literally means \"breathed out by God\" (*theos* - God, *pneo* - to breathe, to blow). Scripture is not \"inspired\" in the sense of poetic excitement - it comes from the breath of God, the same breath that gave life to the human being (Gen 2:7). This is the foundation of its authority: behind the words stands the breath of God.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "θεόπνευστος",
+              "translit": "theopneustos"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "How does understanding Scripture as \"breathed out by God\" affect your trust in what you read?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "2Pet.1.20-21",
+              "ref": "2 Pet 1:20-21"
+            }
+          ],
+          "comment": "Prophecy did not arise from human will - \"people moved by the Holy Spirit spoke from God.\" God used people, but He is the first Author.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "How do you understand the fact that the Bible has human authors and at the same time one Author - God?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "authors \"carried along\" by the Spirit (2 Pet 1:21)",
+          "content": "The verb used here is *phero* (\"to carry\") in the passive voice: people \"were carried along\" by the Holy Spirit. The same word is used in Acts 27:15,17 of a ship carried by the wind. The image is balanced: the biblical authors were not passive machines taking dictation, but the Spirit \"carried\" them in the right direction, preserving their personality, style, and language.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "φερόμενοι",
+              "translit": "pheromenoi"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Heb.4.12",
+              "ref": "Heb 4:12"
+            }
+          ],
+          "comment": "The Word of God is \"living and active\" - not a dead text from the past, but something that reaches the heart and transforms it. The Bible reads us just as we read it.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Has a passage of the Bible ever \"hit\" you personally? What was it?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"sharper than a two-edged sword\" (Heb 4:12)",
+          "content": "The Word of God is compared to a *machaira* - a short, sharp sword - and a \"two-edged\" one at that (Greek *distomos*, literally \"two-mouthed\"). The image is not a threat but a matter of precision: the Word penetrates deeper than any blade, \"to the division of soul and spirit,\" laying bare the true thoughts and intentions of the heart. That is why reading the Bible is not neutral - it x-rays us.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μάχαιρα",
+              "translit": "machaira"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Scripture as the highest authority (sola scriptura)",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Isa.8.20",
+              "ref": "Isa 8:20"
+            }
+          ],
+          "comment": "\"To the law and to the testimony!\" - everything that claims authority in matters of faith must be checked against Scripture. This is the biblical principle later called *sola scriptura*: Scripture is the highest standard.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Why is a fixed point of reference (a \"standard\") needed in questions of faith?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "Scripture and Tradition",
+          "content": "A sensitive question: alongside the Bible, is an equal Tradition needed as a source of faith? The Bible consistently sets Scripture as the highest authority (*sola scriptura*). In Mark 7:7-9 Jesus directly contrasts \"the commandment of God\" with human \"tradition,\" charging that one can \"reject the commandment of God in order to keep tradition.\" Isa 8:20 sets the standard. Church tradition has historical and ordering value, but it cannot stand above Scripture or correct it. The critique is of the principle and the teaching, never of particular people.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Where is the line between a helpful tradition (such as the custom of reading the Bible in the morning) and a tradition that begins to replace the Word?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Acts.17.11",
+              "ref": "Acts 17:11"
+            }
+          ],
+          "comment": "The people of Berea listened to Paul, yet still \"examined the Scriptures daily to see whether these things were so.\" The Bible commends those who check teaching - even apostolic teaching - in the light of the Word.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "What does it mean to \"examine the Scriptures\" rather than simply believe everyone who speaks in God's name?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "the Bereans \"examined\" the Scriptures (Acts 17:11)",
+          "content": "The verb used, *anakrino*, is a legal term: \"to interrogate, to examine evidence, to investigate.\" Luke calls the Bereans \"more noble\" precisely because they checked the apostle's teaching against Scripture - not out of disrespect, but out of respect for the Word as the highest authority. It is a model of mature faith: neither gullibility nor suspicion, but verification by Scripture.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἀνακρίνω",
+              "translit": "anakrino"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "John.17.17",
+              "ref": "John 17:17"
+            }
+          ],
+          "comment": "Jesus prays, \"Your word is truth.\" It is Scripture that defines what is true, and it is Scripture that sanctifies - that shapes the life of the believer.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "How is treating the Bible as \"truth\" different from treating it as one opinion among many?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Ps.119.105",
+              "ref": "Ps 119:105"
+            }
+          ],
+          "comment": "\"Your word is a lamp to my feet\" - the Bible lights up the next step and the whole road. It is a practical guide for decisions, not just a collection of doctrines.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "In what area of life do you most need the \"light\" of God's Word right now?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "How to read the Bible on your own",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Ps.119.18",
+              "ref": "Ps 119:18"
+            }
+          ],
+          "comment": "Before we begin reading, it is worth praying: \"Open my eyes, that I may see the wonders of Your law.\" The same Spirit who inspired Scripture helps us understand it.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "What would change if you began every Bible reading with a short request for understanding?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Luke.24.27",
+              "ref": "Luke 24:27"
+            }
+          ],
+          "comment": "Jesus \"explained to them what was written about Himself in all the Scriptures.\" The whole Bible has its center in Christ - we read it to meet Him, not just to gather information. Reading with attention to context guards against tearing sentences out of the whole.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "How might the thought that the \"center\" of the Bible is Jesus change the way you read it?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "the whole Bible leads to Christ (Luke 24:27)",
+          "content": "On the road to Emmaus Jesus, \"beginning with Moses and all the Prophets,\" showed that Scripture speaks of Him. This gives a key for reading the whole: the Old Testament foretells, the New fulfills. So it is worth reading harder passages by asking, \"how does this point to Jesus and His work?\" - rather than searching them for detached rules. Christ is the lens that focuses the meaning of all Scripture."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "2Pet.1.20",
+              "ref": "2 Pet 1:20"
+            }
+          ],
+          "comment": "\"No prophecy of Scripture is a matter of one's own interpretation.\" Scripture explains itself - clear passages help us understand the harder ones, and no verse means whatever is convenient for us.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Why is it risky to build convictions on a single verse taken out of context?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Isa.28.10",
+              "ref": "Isa 28:10"
+            }
+          ],
+          "comment": "\"Precept upon precept... a little here, a little there\" - we come to know the Bible by setting its passages alongside one another. The full picture of a given truth emerges from the whole of Scripture, not from a single place.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "How does comparing different passages on the same topic guard against a wrong conclusion?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Jas.1.22",
+              "ref": "Jas 1:22"
+            }
+          ],
+          "comment": "\"Be doers of the Word, and not hearers only.\" Reading the Bible is meant to lead to living by it, not to amassing knowledge. Obedience is not a condition for being accepted by God, but the fruit of a relationship with Him.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "What have you read in the Bible recently that calls more for \"doing\" than for \"memorizing\"?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Daily food and where to begin",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Matt.4.4",
+              "ref": "Matt 4:4"
+            }
+          ],
+          "comment": "\"Man shall not live by bread alone, but by every word that comes from the mouth of God.\" The Word of God is food - needed daily, not only on special occasions.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "What would your day look like if the Word of God were as regular as a meal?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "John.20.30-31",
+              "ref": "John 20:30-31"
+            }
+          ],
+          "comment": "The Gospel of John itself tells why it was written: \"that you may believe that Jesus is the Christ... and that by believing you may have life.\" This is a natural starting point for reading on your own - it leads straight to Jesus.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Why might the very story of Jesus' life be a good beginning for getting to know God?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Josh.1.8",
+              "ref": "Josh 1:8"
+            }
+          ],
+          "comment": "God advises Joshua to meditate on the Word \"day and night\" - it is not about quantity, but about constantly returning to it and reflecting. The fruit is wisdom and success on the road of life.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "How is \"meditating\" on the Word different from reading it once and setting it aside?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"to meditate\" means \"to murmur\" (Josh 1:8; Ps 1:2)",
+          "content": "The Hebrew *haga*, translated \"to meditate, to ponder,\" literally means \"to mutter, to whisper, to murmur under one's breath.\" In antiquity Scripture was read and pondered aloud, repeating the words in an undertone. \"Meditating on the Law day and night\" is therefore not abstract thinking, but returning to the text, savoring it, and repeating it - until it enters the memory and the heart.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "הָגָה",
+              "translit": "haga"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "the canon and the deuterocanon",
+          "content": "The \"canon\" (Greek *kanon* - \"measure, rule\") is the list of books recognized as inspired. The Hebrew canon of the Old Testament (taken over by Protestantism) does not include the books called deuterocanonical (by Protestants: apocrypha) - such as Tobit, Judith, Wisdom, Sirach, 1-2 Maccabees - present in the Greek Septuagint and in the Roman Catholic canon. Jesus and the apostles quote the Hebrew Scriptures abundantly, without appealing to the deuterocanon as \"Scripture.\" Hence we accept a canon of 66 books. This is a historical question - we present it factually, without disparaging people of other faith traditions.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "κανών",
+              "translit": "kanon"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Ps.1.1-3",
+              "ref": "Ps 1:1-3"
+            }
+          ],
+          "comment": "The person who \"meditates on the Law of the Lord\" is like a tree by a stream - rooted, fruitful, lasting. Regular contact with the Word gives stability to life.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "What in your life would benefit most from such \"rootedness\" in the Word?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "The Bible is not a collection of ancient opinions or a religious textbook to pass. It is the inspired Word of God - a letter from a Friend who wants to be known. Its authority comes from God, which is why it is the highest standard of faith (sola scriptura). Read it with prayer, with attention to context, letting Scripture explain Scripture - and treat it as daily food. You do not have to start \"from the beginning\": the Gospel of John is the simplest way to meet Jesus.",
+    "challenge": "For the coming week, read one chapter of the Gospel of John each day. Begin each reading with a short prayer in the words of Ps 119:18 (\"Open my eyes...\"), and after reading write one sentence: what you learned today about Jesus and what you want to do with it."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "EN translation of PL study biblia"
+  }
+}

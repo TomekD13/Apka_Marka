@@ -1,0 +1,477 @@
+{
+  "id": "sabato-wakati-pamoja-na-mungu",
+  "lang": "sw",
+  "title": "Sabato - wakati pamoja na Mungu",
+  "category": "basic_systematic",
+  "seriesId": "zycie-w-przymierzu",
+  "order": 17,
+  "summary": "Sabato iliwekwa tayari wakati wa uumbaji, kwa ajili ya watu wote, kama ukumbusho wa Muumba na zawadi ya kila juma ya uhusiano na uhuru. Amri ya nne, ambayo Yesu mwenyewe aliishika, inaongoza kwenye pumziko katika Kristo - si mzigo, bali ni nafasi ya kukutana na Mungu.",
+  "minutes": {
+    "base": 45,
+    "extended": 70
+  },
+  "tags": [
+    "Sabato",
+    "uumbaji",
+    "pumziko",
+    "Muumba",
+    "amri ya nne",
+    "uhuru"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Zawadi ya zamani kuliko Israeli: Sabato wakati wa uumbaji",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Gen.2.1-3",
+              "ref": "Mwa 2:1-3"
+            }
+          ],
+          "comment": "Baada ya siku sita Mungu anapumzika, anabariki na kuitakasa siku ya saba. Hili linatokea Edeni - kwa ajili ya wanadamu wote, muda mrefu kabla ya kuwepo kwa Israeli au dini yoyote.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Kwa kuwa Sabato inatokea tayari wakati wa uumbaji, ilibuniwa hasa kwa ajili ya nani?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"siku ya saba\" (yôm haššᵉbîʿî / šabbāt)",
+          "content": "Katika Mwa 2:2-3 na Kut 20:10 inazungumzwa kuhusu \"siku ya saba\" (*yôm haššᵉbîʿî*); nomino *šabbāt* inatoka katika shina la \"kukoma, kuacha\". Juma la kibiblia linahesabu siku kutoka ya kwanza (Jumapili) hadi ya saba (Jumamosi) - Sabato kwa kufuatana ni siku ya mwisho, ya saba, si ya kwanza.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "יוֹם הַשְּׁבִיעִי",
+              "translit": "yôm haššᵉbîʿî"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Je, kuhesabu siku kibiblia (ya kwanza = Jumapili, ya saba = Jumamosi) kunasaidiaje kuthibitisha ni siku ipi inayozungumzwa katika amri?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "verb",
+          "label": "kitenzi \"alipumzika\" (šābaṯ) katika maelezo ya uumbaji",
+          "content": "Katika Mwa 2:2-3 nomino *šabbāt* bado haijatokea; badala yake kinatokea mara mbili kitenzi *šābaṯ* (\"kukoma, kuacha\") kuelezea pumziko la Mungu baada ya kazi ya uumbaji. Kwa hiyo kiini si suluhu ya uchovu, bali ni KUKOMA kwa makusudi kwa kazi iliyokamilika - siku hii Mungu aliibariki (*bārak*) na kuitakasa (*qādaš*), yaani \"akaitenga\" kwa lengo la kudumu.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "שָׁבַת",
+              "translit": "šābaṯ"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Ni nini kinachobadilika katika kuiangalia Sabato tunapoiona kama \"kukoma\" kwa kazi iliyokamilika, si tu njia ya kuondoa uchovu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Mark.2.27-28",
+              "ref": "Mk 2:27-28"
+            }
+          ],
+          "comment": "Yesu anasema: \"Sabato ilifanywa kwa ajili ya mwanadamu\". Ni zawadi kwa watu, si mzigo uliowekwa juu yao - na Yesu ni Bwana wake.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Ni nini kinachobadilika kwa kuiangalia Sabato kama \"kwa ajili ya mwanadamu\", si \"dhidi ya mwanadamu\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Exod.16.22-26",
+              "ref": "Kut 16:22-26"
+            }
+          ],
+          "comment": "Mungu anawafundisha watu pumziko la Sabato kupitia mana - KABLA bado ya Sinai. Sabato si \"uvumbuzi\" wa Amri Kumi; Amri Kumi zinaithibitisha tu.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Tunajifunza nini kutokana na ukweli kwamba Mungu anaanzisha Sabato kabla ya kuandika Amri Kumi?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "matumizi ya kwanza ya nomino *šabbāt",
+          "content": "Ni hasa katika simulizi la mana (Kut 16) ambapo kwa mara ya kwanza katika Agano lote la Kale inatokea nomino *šabbāt* (mara nne). Maneno ya Mungu: \"Angalieni, Bwana amewapa Sabato\" na pia lawama \"Hata lini mtakataa?\" yanadhania kwamba Sabato ILIKUWA tayari inajulikana kwa watu, si ndiyo inaanzishwa. Hilo linathibitisha zaidi mizizi yake inayofika hadi uumbaji."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Amri ya nne na kumbukumbu ya Muumba",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Exod.20.8-11",
+              "ref": "Kut 20:8-11"
+            }
+          ],
+          "comment": "Amri pekee inayoanza na \"Kumbuka\". Sababu ni wazi: kwa sababu Mungu aliumba vyote katika siku sita, na ya saba alipumzika. Sabato ni ukumbusho wa kila juma kwamba nina Muumba.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Neno \"Kumbuka\" mwanzoni mwa amri hii linapaswa kulinda dhidi ya nini?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "verb",
+          "label": "\"Kumbuka\" (zākar)",
+          "content": "Kitenzi *zākar* (\"kumbuka\") kinafungua amri ya nne kama pekee. Kinaweza kubeba vivuli kadhaa kwa pamoja: kukumbuka jambo lililoanzishwa tangu zamani, kukumbuka kwa sababu kuna hatari ya kusahau, na kukumbuka kwa kuiangalia siku zijazo - kwa sababu Sabato daima ni ya wakati huu kwa agano. Lugha ya amri nzima (siku sita za kazi, ya saba pumziko, baraka na kuitakasa siku) inafupisha waziwazi Mwa 2:2-3.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "זָכוֹר",
+              "translit": "zākôr"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Ni kivuli kipi cha neno \"kumbuka\" kinachoongea zaidi na hali yako - kumbukumbu ya yaliyopita, onyo dhidi ya kusahau, au kuangalia siku zijazo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "Sabato kama \"muhuri\" wa Amri Kumi",
+          "content": "Katika nyakati za kale muhuri kamili ulikuwa na vipengele vitatu: jina, cheo (wadhifa) na mipaka ya mamlaka ya mwenye muhuri. Amri ya nne kama pekee katika Amri Kumi inatoa vyote vitatu: jina (\"Bwana, Mungu wako\"), wadhifa (Muumba - \"alifanya\") na mipaka ya mamlaka (\"mbingu na nchi, bahari na vyote vilivyomo\"). Ndiyo maana mara nyingine inaitwa \"muhuri\" wa sheria ya Mungu, ukithibitisha ni mamlaka ya nani inayosimamia Amri Kumi zote."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Ezek.20.12",
+              "ref": "Eze 20:12"
+            }
+          ],
+          "comment": "Mungu anaiita Sabato \"ishara\" kati yake na watu wake - ishara kwamba ni Yeye anayetakasa. Sabato ni ishara ya uhusiano, ni nani anayemjua nani.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Sabato inapaswa kuwa ishara ya nini kulingana na maandiko haya - juhudi yetu au tendo la Mungu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "worship",
+          "label": "Sabato kama \"ishara\" na \"agano la milele\" (Kut 31,13.17)",
+          "content": "Katika Kut 31:13-17 Sabato ni \"ishara\" yenye pande mbili: kwamba ni Mungu anayewatakasa watu wake (mst. 13) na kwamba ni Muumba (mst. 17). Maandiko yanaiita pia \"agano la milele\" (mst. 16) na yanasema kwamba Mungu baada ya uumbaji \"alistarehe\" - si kwa uchovu, bali kama tulizo la furaha baada ya kazi iliyokamilika, kamilifu. Neno la Kiebrania \"kujua\" kwamba \"Mimi ni Bwana\" lina maana kwanza kabisa ya uhusiano wa karibu, si tu maarifa.",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "\"Kumjua\" Mungu kama uhusiano wa karibu kunatofautianaje na maarifa tu kumhusu - na Sabato inaujengaje uhusiano huo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Isa.58.13-14",
+              "ref": "Isa 58:13-14"
+            }
+          ],
+          "comment": "Sabato imeelezwa kama \"furaha\", siku ya kujitenga na mambo yako mwenyewe na harakati. Ni mwaliko wa furaha, si wa makatazo ya kina.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Ingemaanisha nini kuishi Sabato kama \"furaha\", si kama orodha ya \"hairuhusiwi\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Rev.14.6-7",
+              "ref": "Ufu 14:6-7"
+            }
+          ],
+          "comment": "Wito wa mwisho wa injili unasema: \"Msujudieni yeye aliyeziumba mbingu na nchi\". Lugha inahusu waziwazi amri ya nne - Sabato inaunganika na rai ya kumtambua Muumba.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Kwa nini mwisho wa nyakati unarudi hasa wito wa kumpa heshima Muumba?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Yesu na Sabato",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Luke.4.16",
+              "ref": "Lk 4:16"
+            }
+          ],
+          "comment": "\"Kama ilivyokuwa desturi yake\" Yesu alikwenda siku ya Sabato katika sinagogi. Kama tunataka kuishi kama Yesu, inafaa kuona desturi yake ilikuwaje kuhusu siku hii.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Desturi ya Yesu inatuambia nini kuhusu mtazamo wake kwa Sabato?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Luke.13.15-16",
+              "ref": "Lk 13:15-16"
+            }
+          ],
+          "comment": "Yesu anaponya siku ya Sabato na anatetea hilo: ni siku ya kuwekwa huru kutoka vifungo, si siku ya makatazo yaliyokufa. Anaisafisha Sabato kutoka mizigo ya wanadamu, si kuiondoa.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Ni nini Yesu \"anatengeneza\" katika kuielewa Sabato, na ni nini asichokiondoa?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "mabishano yalihusu mapokeo, si amri",
+          "content": "Mabishano ya Yesu kuhusu Sabato hayakuhusu mambo yaliyokatazwa katika Agano la Kale, bali \"sheria ya mdomo\" - mapokeo ya kirabi yaliyojengeka (baadaye yaliyoandikwa katika Mishna), ambayo yaliorodhesha makundi makuu 39 ya \"kazi\" na makatazo mengi ya kina. Yesu hakuvunja Maandiko, bali alirudisha maana ya awali, ya ndani ya siku, akiisafisha kutoka mizigo ya wanadamu. Kwa hiyo kinachokosolewa ni MAFUNDISHO yaliyopotoshwa, si Sabato yenyewe.",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Tunawezaje kutofautisha amri ya Mungu kuhusu Sabato na mapokeo ya wanadamu yaliyojengeka kuizunguka kwa muda?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Matt.24.20",
+              "ref": "Mt 24:20"
+            }
+          ],
+          "comment": "Akizungumza kuhusu matukio baada ya kuondoka kwake (uharibifu wa Yerusalemu miaka kama 40 baadaye), Yesu bado anadhania kwamba Sabato itakuwa ya muhimu kwa wanafunzi. Hatabiri kutoweka kwake.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Ni nini kinachotokana na ukweli kwamba Yesu anaizungumzia Sabato kama bado ya muhimu baada ya kuondoka kwake?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Pumziko katika Kristo",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Matt.11.28-29",
+              "ref": "Mt 11:28-29"
+            }
+          ],
+          "comment": "Yesu anawaalika waliotaabika: \"njoni, nami nitawapumzisha\". Sabato ya nje inaonyesha pumziko la ndani zaidi - kukoma kwa juhudi ya kustahili.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Ni \"mzigo\" gani Yesu anataka kutuweka huru kutoka kwao, akitoa pumziko?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Heb.4.9-10",
+              "ref": "Ebr 4:9-10"
+            }
+          ],
+          "comment": "\"Basi, pumziko la Sabato lawabakia watu wa Mungu\" - aliyeingia katika pumziko hilo, amepumzika kutoka kazi zake, kama Mungu kutoka zake. Sabato inakuwa picha ya wokovu kwa neema, si kwa matendo.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Je, pumziko la kila juma linawezaje kufundisha ukweli kwamba wokovu ni zawadi, si ustahili?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "\"pumziko la Sabato\" (sabbatismos)",
+          "content": "Katika Ebr 4:9 linatokea neno adimu la Kiyunani *sabbatismos* (\"pumziko la Sabato\"), lililotumika katika Agano Jipya mara moja tu. Katika fungu lote (Ebr 3:7-4:13) mara nane inatokea pia nomino *katapausis* (\"pumziko\"). Hoja ya mwandishi ina maana tu ikiwa wasomaji bado wanaishika Sabato ya kila juma - siku inakuwa kwao picha ya pumziko la ndani zaidi, la kiroho katika Kristo.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "σαββατισμός",
+              "translit": "sabbatismos"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Je, siku ya pumziko ya nje inawezaje kuonyesha \"pumziko la imani\" la ndani katika Kristo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Heb.4.1-3",
+              "ref": "Ebr 4:1-3"
+            }
+          ],
+          "comment": "Katika pumziko la Mungu mtu huingia kwa imani. Siku ya nje bila kuamini kwa ndani inabaki tupu - lakini moja halizuii lingine.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Ni nini \"kuingia katika pumziko kwa imani\" tofauti na siku ya mapumziko tu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Sehemu ya 5 (extended · III/3-D1) - Kwa nini Jumamosi, si Jumapili",
+      "items": [
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Luke.23.54-56",
+              "ref": "Lk 23:54-56"
+            }
+          ],
+          "comment": "Baada ya kifo cha Yesu wanawake \"walipumzika kulingana na amri\" siku ya Sabato (Jumamosi), na baada yake, \"siku ya kwanza ya juma\" (Jumapili), walikwenda kaburini. Maandiko yenyewe yanatofautisha siku zote mbili - ya saba ndiyo siku ya pumziko inayopatana na amri.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Ni siku ipi mwandishi wa injili anaiita siku ya pumziko \"kulingana na amri\", na ipi siku ya kawaida ya kazi?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "mikutano ya Jumapili katika Agano Jipya",
+          "content": "Maandiko yanayotumiwa kwa ajili ya Jumapili (mf. Mdo 20:7 - kumega mkate siku ya kwanza ya juma; 1 Kor 16:2 - kuweka kando sadaka) yanaeleza mikutano ya pekee au desturi ya kukusanya mchango, lakini hayaanzishi siku mpya takatifu wala hayaitangui amri ya nne. Zaidi ya hayo, mkutano wa Mdo 20:7 ulikuwa wa usiku (kwa hesabu ya kibiblia - jioni ya Jumamosi), na mchango wa 1 Kor 16:2 ulipaswa kuwekwa kando nyumbani, si kanisani. Hakuna katika maandiko haya lugha ya amri au ya kuhamishwa kwa utakatifu wa siku."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Acts.17.2",
+              "ref": "Mdo 17:2"
+            }
+          ],
+          "comment": "\"Kama ilivyokuwa desturi yake\" Paulo anafundisha katika sabato - miaka mingi baada ya ufufuo. Katika Agano Jipya hakuna agizo la kuhamisha siku ya pumziko kwenda nyingine.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Kama siku takatifu ingebadilishwa rasmi, ni nini ungetegemea katika Agano Jipya, na ni nini kinachokosekana?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "mabadiliko ya kihistoria ya siku ya ibada",
+          "content": "Agano Jipya halina agizo la kuhamisha pumziko kutoka siku ya saba kwenda ya kwanza; wala halina ndani yake alama ya mabishano kuhusu Sabato - na kila mabadiliko makubwa katika desturi ya kidini (kama mabishano kuhusu tohara) yaliacha alama dhahiri. Kuadhimisha Jumapili kwa wote kulijengeka taratibu katika karne za kwanza za Kanisa nako kuthibitishwa na maamuzi ya baadaye ya kikanisa na ya kifalme (miongoni mwao amri ya Konstantino ya mwaka 321 kuhusu \"siku ya heshima ya jua\", ambayo hata hivyo iliruhusu kazi za kilimo, zilizokatazwa katika Sabato ya Vitabu vitano vya Musa). Kwa mtazamo wa sola scriptura haya ni mabadiliko yaliyoletwa na mapokeo ya wanadamu, si kwa agizo la kibiblia. Kumbuka: tunahukumu mafundisho na maamuzi ya taasisi, kamwe si unyofu wa waumini mahususi, ambao wengi wao wanamwabudu Mungu siku ya Jumapili kwa nia njema."
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Sabato si mabaki ya Kiyahudi wala mzigo wa makatazo. Ni zawadi ya zamani kuliko Israeli - iliyowekwa Edeni kwa ajili ya kila mwanadamu, ukumbusho wa kila juma kwamba nina Muumba, ambaye ni wake. Yesu aliishika na akaiweka huru kutoka mizigo ya wanadamu. Kila juma Sabato inaalika nikome kuthibitisha thamani yangu kwa kazi na mafanikio, nami nipumzike katika Yule ambaye tayari ananipenda. Pumziko la nje linaonyesha pumziko la ndani zaidi - pumziko katika Kristo, wokovu kwa neema, si kwa matendo.",
+    "challenge": "Panga siku ya saba inayofuata (Jumamosi) kwa makusudi kama siku ya uhusiano, si ya wajibu: weka kando kazi na haraka, tafuta muda kwa ajili ya Biblia, sala, wapendwa na asili. Baada yake andika sentensi moja: uligundua nini kuhusu Mungu uliposhindwa \"kuzalisha\"?"
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study szabat"
+  }
+}

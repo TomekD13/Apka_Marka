@@ -1,0 +1,1408 @@
+{
+  "lang": "sw",
+  "featured": {},
+  "series": [
+    {
+      "id": "spotkanie-z-bogiem",
+      "title": "I. Kukutana na Mungu",
+      "order": 1
+    },
+    {
+      "id": "zycie-z-bogiem",
+      "title": "II. Maisha na Mungu",
+      "order": 2
+    },
+    {
+      "id": "zycie-w-przymierzu",
+      "title": "III. Maisha katika agano na huduma",
+      "order": 3
+    },
+    {
+      "id": "proroctwo-i-nadzieja",
+      "title": "IV. Unabii na tumaini la mwisho",
+      "order": 4
+    },
+    {
+      "id": "zycie-i-emocje",
+      "title": "V. Maisha na hisia - moduli ya vitendo",
+      "order": 5
+    }
+  ],
+  "studies": [
+    {
+      "id": "je-mungu-ananijali",
+      "title": "Je, Mungu ananijali?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 1,
+      "summary": "Mkutano wa kwanza na Mungu anayenijua binafsi, aliyeniumba kwa upendo na anayejali maisha yangu ya kila siku - mahali pa kuanzia uhusiano, si dini.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Mungu",
+        "upendo",
+        "uumbaji",
+        "kujali",
+        "utambulisho"
+      ],
+      "refs": [
+        "Zab 139:1-4",
+        "Zab 139:13-16",
+        "Zab 8:4-6",
+        "1Yoh 4:8-10",
+        "Yoh 3:16",
+        "Rum 5:8",
+        "Yer 31:3",
+        "Lk 15:20",
+        "Mt 6:26",
+        "Mt 6:31-33",
+        "1Pet 5:7",
+        "Lk 12:6-7",
+        "Mwa 1:27",
+        "Isa 43:1",
+        "Mdo 17:24-28",
+        "1Yoh 3:1"
+      ]
+    },
+    {
+      "id": "yesu-ni-nani-hasa",
+      "title": "Yesu ni nani hasa?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 2,
+      "summary": "Yesu wa Nazareti ni nani hasa: mtu wa kihistoria na wakati huo huo Mungu wa milele, Muumba aliyekuwa mwanadamu ili kuniokoa na kunifunulia Baba - na vilevile anataka kuwa nani kwangu binafsi.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Yesu",
+        "uungu",
+        "kufanyika mwili",
+        "Muumba",
+        "Mimi Niko",
+        "kumfunua Baba"
+      ],
+      "refs": [
+        "Mt 16:13-16",
+        "Lk 2:4-7",
+        "Mk 6:2-3",
+        "Yoh 8:58",
+        "Yoh 1:1-3",
+        "Yoh 1:14",
+        "Kol 1:16-17",
+        "Ebr 1:3",
+        "Yoh 14:9",
+        "Yoh 20:28-29",
+        "Mt 28:9",
+        "Ufu 1:17-18",
+        "Flp 2:6-8",
+        "Yoh 1:12",
+        "Yoh 10:10",
+        "Mt 11:28-29"
+      ]
+    },
+    {
+      "id": "uovu-na-mateso-yanatoka-wapi",
+      "title": "Uovu na mateso yanatoka wapi?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 3,
+      "summary": "Ikiwa Mungu ni mwema na mwenye uwezo wote, uovu unatoka wapi? Biblia inajibu si kwa falsafa, bali kwa historia ya pambano kuu: ulimwengu uliumbwa mwema, upendo unaohitaji uhuru, uasi mbinguni, anguko la mwanadamu - na Mungu ambaye si chanzo cha uovu, bali Yule anayeutatua msalabani.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "uovu",
+        "mateso",
+        "pambano kuu",
+        "uhuru",
+        "shetani",
+        "anguko",
+        "tumaini"
+      ],
+      "refs": [
+        "Mwa 1:31",
+        "1Yoh 1:5",
+        "1Yoh 4:8",
+        "Kum 30:19",
+        "Yos 24:15",
+        "Ufu 3:20",
+        "Ufu 12:7-9",
+        "Isa 14:12-14",
+        "Eze 28:12-17",
+        "Yoh 8:44",
+        "Mwa 3:1-6",
+        "Mwa 3:15",
+        "Rum 5:12",
+        "Ayu 1:8-12",
+        "Ufu 12:17",
+        "Ufu 21:4",
+        "Rum 8:18",
+        "Nah 1:9"
+      ]
+    },
+    {
+      "id": "kwa-nini-yesu-alikufa",
+      "title": "Kwa nini Yesu alikufa?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 4,
+      "summary": "Dhambi si orodha tu ya matendo mabaya, bali ni uhusiano uliovunjika na Mungu - imani iliyopotea, ambayo kutoka kwayo zinachipuka dhambi maalum. Matokeo yake ni kutengwa na mauti, na jibu la Mungu ni msalaba: Yesu alichukua nafasi yangu, ili kurejesha uhusiano. Utii ni tunda la upatanisho, si sharti lake.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "dhambi",
+        "uhusiano",
+        "msalaba",
+        "upatanisho",
+        "kifo cha Yesu",
+        "imani",
+        "ukombozi"
+      ],
+      "refs": [
+        "Isa 59:2",
+        "Mwa 3:8-10",
+        "Isa 53:6",
+        "Yoh 16:9",
+        "Mk 7:21-23",
+        "Yer 17:9",
+        "Rum 7:18-19",
+        "Rum 3:23",
+        "Rum 6:23",
+        "Eze 18:4",
+        "Isa 64:6",
+        "Rum 5:8",
+        "Isa 53:4-5",
+        "1Pet 2:24",
+        "2Kor 5:21",
+        "Yoh 15:13",
+        "2Kor 5:18-19",
+        "Rum 5:1",
+        "Tit 2:11-12",
+        "1Yoh 4:19"
+      ]
+    },
+    {
+      "id": "zawadi-usiyoweza-kununua",
+      "title": "Zawadi usiyoweza kununua",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 5,
+      "summary": "Wokovu ni zawadi ya neema inayopokelewa kwa imani, si tuzo ya matendo. Mungu humhesabia haki mwenye dhambi na humpa uhakika wa uzima wa milele tangu sasa - uhakika unaotegemea Kristo, si kutokuwa kwangu na dhambi. Matendo ni tunda la wokovu, kamwe si gharama yake.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "neema",
+        "imani",
+        "wokovu",
+        "kuhesabiwa haki",
+        "uhakika",
+        "zawadi",
+        "matendo"
+      ],
+      "refs": [
+        "Efe 2:8-9",
+        "Tit 3:5",
+        "Rum 4:4-5",
+        "Rum 11:6",
+        "Gal 2:16",
+        "Rum 3:23-24",
+        "Rum 5:1",
+        "Mwa 15:6",
+        "Lk 18:13-14",
+        "1Yoh 5:11-13",
+        "Yoh 5:24",
+        "Yoh 10:28-29",
+        "Rum 8:38-39",
+        "Flp 1:6",
+        "Efe 2:10",
+        "Yoh 15:4-5",
+        "Tit 2:11-14",
+        "Yak 2:17-18",
+        "Rum 7:24-25"
+      ]
+    },
+    {
+      "id": "jinsi-ya-kuanza-upya",
+      "title": "Jinsi ya kuanza upya?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 6,
+      "summary": "Wongofu si kujirekebisha mwenyewe, bali ni kubadilisha mwelekeo: toba na kumkabidhi Mungu maisha, ambamo Yeye humzaa mtu upya, humpa moyo mpya na kumfanya kiumbe kipya. Huu ni mwanzo wa uhusiano unaohuishwa kila siku, si tendo la mara moja la kumaliza.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "wongofu",
+        "toba",
+        "kuzaliwa upya",
+        "moyo mpya",
+        "kiumbe kipya",
+        "kukabidhi maisha"
+      ],
+      "refs": [
+        "Mk 1:15",
+        "Mdo 3:19",
+        "Lk 15:17-20",
+        "2Kor 7:10",
+        "Isa 55:7",
+        "Rum 12:1",
+        "Gal 2:20",
+        "Lk 9:23",
+        "Yoh 3:3",
+        "Yoh 3:5-6",
+        "Yoh 3:7-8",
+        "1Pet 1:23",
+        "Eze 36:26",
+        "Eze 36:27",
+        "2Kor 5:17",
+        "Efe 4:22-24",
+        "Flp 2:13",
+        "2Kor 4:16",
+        "1Yoh 1:9",
+        "Flp 3:13-14"
+      ]
+    },
+    {
+      "id": "roho-mtakatifu-katika-maisha-yangu",
+      "title": "Roho Mtakatifu katika maisha yangu",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 7,
+      "summary": "Roho Mtakatifu si „nguvu\" isiyo na nafsi, bali ni Nafsi na ni Mungu - Nafsi ya tatu ya Utatu. Yeye ndiye aongozaye, afarijiye, ashawishiye juu ya dhambi, atoaye nguvu za kuishi na azaaye tunda la tabia. Tunamjua kama Rafiki aliyepo daima, ambaye tunaweza kujazwa naye.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Roho Mtakatifu",
+        "Utatu",
+        "Mfariji",
+        "tunda la Roho",
+        "nguvu",
+        "kuongoza",
+        "kujazwa"
+      ],
+      "refs": [
+        "Mdo 5:3-4",
+        "Yoh 14:16-17",
+        "Yoh 16:13-14",
+        "Efe 4:30",
+        "Rum 8:26-27",
+        "Mt 28:19",
+        "2Kor 13:13",
+        "Mwa 1:1-2",
+        "Zab 139:7",
+        "Yoh 14:26",
+        "Yoh 16:7-8",
+        "Rum 8:14",
+        "Rum 8:15-16",
+        "Yoh 14:18",
+        "Mdo 1:8",
+        "Gal 5:22-23",
+        "Gal 5:16",
+        "Rum 8:11",
+        "Lk 11:13",
+        "Efe 5:18",
+        "Mdo 2:1-4",
+        "Yoh 7:37-39"
+      ]
+    },
+    {
+      "id": "jinsi-ya-kuzungumza-na-mungu",
+      "title": "Jinsi ya kuzungumza na Mungu?",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 8,
+      "summary": "Maombi si neno la kichawi wala wajibu wa kidini, bali ni mazungumzo ya kweli na Mungu anayesikia na kujibu. Tunajifunza kuzungumza na Rafiki kwa unyenyekevu, kwa ukawaida na kwa kumtumaini - na tunagundua kwamba maombi yanatubadilisha sisi na hali zetu.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "maombi",
+        "mazungumzo",
+        "kutumaini",
+        "Baba yetu",
+        "uhusiano"
+      ],
+      "refs": [
+        "Mt 6:7-8",
+        "Mt 7:7-8",
+        "Mt 7:9-11",
+        "Mt 6:9-13",
+        "Lk 11:1",
+        "Mt 6:5-6",
+        "Zab 62:9",
+        "Flp 4:6-7",
+        "1The 5:16-18",
+        "Mk 1:35",
+        "Lk 18:1",
+        "1Yoh 5:14-15",
+        "Isa 65:24",
+        "Lk 22:42",
+        "2Kor 12:8-9",
+        "Yak 4:3",
+        "Yak 5:16",
+        "Lk 11:9-13"
+      ]
+    },
+    {
+      "id": "biblia-sauti-ya-mungu-kwangu",
+      "title": "Biblia - sauti ya Mungu kwangu",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 9,
+      "summary": "Biblia ni Neno la Mungu lililovuviwa - barua kutoka kwa Rafiki, si mkusanyiko wa maoni ya wanadamu. Tunajifunza mamlaka yake yanakotoka (sola scriptura), tunajifunza kanuni rahisi za kuisoma sisi wenyewe na kugundua mahali pazuri pa kuanzia. Sehemu ya PRO inajibu swali kuhusu Maandiko na Mapokeo pamoja na kanoni.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Biblia",
+        "Neno la Mungu",
+        "uvuvio",
+        "sola scriptura",
+        "kusoma Maandiko"
+      ],
+      "refs": [
+        "2Tim 3:16-17",
+        "2Pet 1:20-21",
+        "Ebr 4:12",
+        "Isa 8:20",
+        "Mdo 17:11",
+        "Yoh 17:17",
+        "Zab 119:105",
+        "Zab 119:18",
+        "Lk 24:27",
+        "2Pet 1:20",
+        "Isa 28:10",
+        "Yak 1:22",
+        "Mt 4:4",
+        "Yoh 20:30-31",
+        "Yos 1:8",
+        "Zab 1:1-3"
+      ]
+    },
+    {
+      "id": "majaribu-kuanguka-msamaha",
+      "title": "Majaribu, kuanguka, msamaha",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 10,
+      "summary": "Kupambana na majaribu ni sehemu ya kawaida ya maisha ya imani, si uthibitisho wa kushindwa. Tunajifunza kushinda kwa nguvu za Yesu, na baada ya kuanguka kurudi kwa kuungama na kupokea msamaha. Mungu hamtupi anayeanguka - tunatofautisha kati ya kujikwaa na kudumu kwa makusudi katika dhambi, na tunajifunza kujisamehe sisi wenyewe na wengine.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "dhambi",
+        "majaribu",
+        "msamaha",
+        "neema",
+        "vita vya kiroho"
+      ],
+      "refs": [
+        "1Kor 10:13",
+        "Ebr 4:15",
+        "Yak 1:14-15",
+        "1Kor 15:57",
+        "Mt 4:4, 7, 10",
+        "Gal 5:16-17",
+        "Flp 4:13",
+        "Yak 4:7",
+        "1Yoh 1:9",
+        "1Yoh 2:1",
+        "Zab 103:10-12",
+        "Isa 1:18",
+        "Mit 24:16",
+        "Yoh 6:37",
+        "1Yoh 3:6, 9",
+        "Lk 15:17-20",
+        "Mt 6:14-15",
+        "Flp 3:13-14",
+        "Rum 8:1"
+      ]
+    },
+    {
+      "id": "ahadi-kuu-ya-yesu",
+      "title": "Ahadi kuu ya Yesu",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 11,
+      "summary": "Kurudi kwa Yesu ni ahadi na kiini cha tumaini la Kikristo. Tunajifunza uhakika wa ahadi hii na ishara za nyakati, hasa namna ya ujio wake: utakaoonekana, utakaosikika, wa ulimwengu mzima na wa mwisho - \"kila jicho litamwona\". Tunajibu mawazo yenye makosa kuhusu \"unyakuo wa siri\" na \"uwepo usioonekana\". Hili ni tumaini, si sababu ya kuogopa.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "ujio wa pili",
+        "tumaini",
+        "ishara za nyakati",
+        "parousia",
+        "mambo ya mwisho"
+      ],
+      "refs": [
+        "Yoh 14:1-3",
+        "Mdo 1:9-11",
+        "Ebr 9:28",
+        "Mt 24:3-8",
+        "Mt 24:14",
+        "Mt 24:36",
+        "2Pet 3:3-4",
+        "2Pet 3:9",
+        "Ufu 1:7",
+        "Mt 24:27",
+        "Mt 24:30-31",
+        "Mt 24:23-26",
+        "1The 4:16-17",
+        "Mt 26:64",
+        "Tit 2:13",
+        "Yoh 14:1",
+        "1The 4:18",
+        "Lk 21:28"
+      ]
+    },
+    {
+      "id": "tumaini-lenye-nguvu-kuliko-mauti",
+      "title": "Tumaini lenye nguvu kuliko mauti",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 12,
+      "summary": "Biblia inazungumza juu ya kifo kama \"usingizi\", ambao mtu huamshwa kutoka kwake kwa ufufuo wakati Yesu atakaporudi - hili ni tumaini, si sababu ya kuogopa. Tunajifunza fundisho hili, onyo dhidi ya uchawi wa kuwasiliana na roho na \"kuwasiliana na wafu\", pamoja na jibu la Biblia kwa fundisho la kuzaliwa upya (reinkarneshini). Safu ya PRO inagusia fundisho la toharani na sala kwa ajili ya wafu.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "kifo",
+        "ufufuo",
+        "hali ya wafu",
+        "tumaini",
+        "uchawi wa roho"
+      ],
+      "refs": [
+        "Yoh 11:11-14",
+        "Mhu 9:5-6",
+        "Zab 146:4",
+        "Zab 115:17",
+        "Mwa 2:7",
+        "1The 4:13-14",
+        "1The 4:15-17",
+        "Yoh 5:28-29",
+        "1Kor 15:51-54",
+        "Dan 12:2",
+        "Isa 8:19-20",
+        "Kum 18:10-12",
+        "2Kor 11:14",
+        "Ufu 16:14",
+        "Ebr 9:27",
+        "2Kor 5:10",
+        "Yoh 3:16"
+      ]
+    },
+    {
+      "id": "maisha-katika-familia-ya-mungu",
+      "title": "Maisha katika familia ya Mungu",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 13,
+      "summary": "Kanisa si jengo, bali ni familia na mwili wa Kristo - mahali pa ushirika, msaada na ukuaji. Tunajifunza maana ya kuwa mali ya kanisa, umoja unaodhihirishwa kwa utii kwa Kristo-Kichwa, pamoja na Meza ya Bwana kama ukumbusho wa dhabihu, ikiwa na ibada ya unyenyekevu. Safu za ziada: kutambua mapenzi ya Mungu pamoja na Meza ya Bwana kama ukumbusho ikilinganishwa na misa na fundisho la kugeuka kwa mkate na divai.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "kanisa",
+        "ushirika",
+        "mwili wa Kristo",
+        "Meza ya Bwana",
+        "uongozi"
+      ],
+      "refs": [
+        "Efe 2:19",
+        "1Pet 2:9-10",
+        "1Kor 12:12-14",
+        "1Kor 12:21-26",
+        "Efe 4:15-16",
+        "Kol 1:18",
+        "Yoh 17:20-23",
+        "Efe 4:1-3",
+        "Ebr 10:24-25",
+        "Mdo 2:42-47",
+        "Gal 6:2",
+        "Efe 4:11-13",
+        "Lk 22:19-20",
+        "Yoh 13:1-5",
+        "Yoh 13:14-17",
+        "1Kor 11:27-29",
+        "Lk 17:20-21",
+        "Mt 5:13-16"
+      ]
+    },
+    {
+      "id": "uamuzi-unaobadilisha-maisha",
+      "title": "Uamuzi unaobadilisha maisha",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 14,
+      "summary": "Ubatizo ni ungamo la hadharani la imani na kujitambulisha na kifo na ufufuo wa Yesu - ubatizo wa imani kwa njia ya kuzamishwa. Tunazungumza kwa utulivu juu ya \"kubatizwa tena\" baada ya ubatizo wa utotoni, tunasisitiza kwamba huu ni tangazo la utayari, si haraka, na kwamba nguvu ya kuvumilia inatolewa na Yesu mwenyewe. Hili ni hitimisho la mfululizo na mwaliko wa uamuzi wa kila siku wa kutembea na Mungu.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "ubatizo",
+        "uamuzi",
+        "kufuata",
+        "maisha mapya",
+        "kuvumilia"
+      ],
+      "refs": [
+        "Rum 6:3-4",
+        "Mt 28:19-20",
+        "Mdo 2:38",
+        "Gal 3:27",
+        "Mt 3:13-17",
+        "Mdo 8:36-39",
+        "Mk 1:9-10",
+        "Kol 2:12",
+        "Mdo 8:12",
+        "Mdo 19:4-5",
+        "Mdo 22:16",
+        "Lk 14:27-30",
+        "Yos 24:15",
+        "Ufu 3:20",
+        "Yoh 15:5",
+        "Flp 1:6",
+        "Mt 28:20",
+        "Flp 4:13"
+      ]
+    },
+    {
+      "id": "mungu-anayetimiza-neno-lake",
+      "title": "Mungu anayetimiza neno lake",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 15,
+      "summary": "Tangu uumbaji Mungu hujifunga na mwanadamu kwa agano; tunapoanguka, hututafuta na kurudia ahadi - kwa sababu daima hutimiza neno lake. Hapa ndipo moyo wa pambano kuu hufunuliwa: je, Mungu anaweza kuaminiwa. Damu ya Yesu ni agano jipya, na Amri Kumi ni ufunuo wa tabia ya Mungu, si sheria kavu.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "agano",
+        "tabia ya Mungu",
+        "pambano kuu",
+        "kuamini",
+        "Amri Kumi",
+        "damu ya Yesu"
+      ],
+      "refs": [
+        "Mwa 1:26-27",
+        "Mwa 9:9-13",
+        "Mwa 12:1-3",
+        "Mwa 15:17-18",
+        "Mwa 3:8-9",
+        "Mwa 3:15",
+        "Kut 34:6-7",
+        "Hos 11:8-9",
+        "Mwa 3:1-5",
+        "Hes 23:19",
+        "Tit 1:2",
+        "Mt 26:27-28",
+        "Yer 31:31-33",
+        "Ebr 9:11-15",
+        "Kut 20:1-3",
+        "Kum 5:6-7",
+        "Mwa 26:5",
+        "Rum 13:8-10",
+        "1Yoh 5:3"
+      ]
+    },
+    {
+      "id": "kwa-nini-tunahitaji-amri",
+      "title": "Kwa nini tunahitaji amri?",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 16,
+      "summary": "Biblia inatofautisha sheria ya maadili (Amri Kumi - ya kudumu, kwa sababu inaonyesha tabia ya Mungu) na sheria ya kiibada ya Musa (ilitabiri Kristo na ndani yake ilitimizwa). Kushika amri si sheria kavu, bali ni utii unaotokana na upendo na kwa nguvu ya Roho - uhusiano kabla ya kanuni.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "sheria",
+        "Amri Kumi",
+        "sheria ya kiibada",
+        "neema",
+        "utii",
+        "Roho Mtakatifu"
+      ],
+      "refs": [
+        "Mt 5:17-18",
+        "Rum 3:31",
+        "Rum 7:12",
+        "Kum 31:24-26",
+        "Kut 31:18",
+        "Ebr 10:1",
+        "Kol 2:14-17",
+        "Efe 2:14-16",
+        "Yoh 1:29",
+        "Ebr 9:9-10",
+        "Ebr 7:18-19",
+        "Mt 19:17-19",
+        "Yak 2:10-12",
+        "1Yoh 2:3-4",
+        "Ufu 14:12",
+        "Yoh 14:15",
+        "Rum 8:3-4",
+        "Efe 2:8-10",
+        "Gal 5:6",
+        "Eze 36:26-27"
+      ]
+    },
+    {
+      "id": "sabato-wakati-pamoja-na-mungu",
+      "title": "Sabato - wakati pamoja na Mungu",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 17,
+      "summary": "Sabato iliwekwa tayari wakati wa uumbaji, kwa ajili ya watu wote, kama ukumbusho wa Muumba na zawadi ya kila juma ya uhusiano na uhuru. Amri ya nne, ambayo Yesu mwenyewe aliishika, inaongoza kwenye pumziko katika Kristo - si mzigo, bali ni nafasi ya kukutana na Mungu.",
+      "minutes": {
+        "base": 45,
+        "extended": 70
+      },
+      "tags": [
+        "Sabato",
+        "uumbaji",
+        "pumziko",
+        "Muumba",
+        "amri ya nne",
+        "uhuru"
+      ],
+      "refs": [
+        "Mwa 2:1-3",
+        "Mk 2:27-28",
+        "Kut 16:22-26",
+        "Kut 20:8-11",
+        "Eze 20:12",
+        "Isa 58:13-14",
+        "Ufu 14:6-7",
+        "Lk 4:16",
+        "Lk 13:15-16",
+        "Mt 24:20",
+        "Mt 11:28-29",
+        "Ebr 4:9-10",
+        "Ebr 4:1-3",
+        "Lk 23:54-56",
+        "Mdo 17:2"
+      ]
+    },
+    {
+      "id": "yesu-kuhani-wetu-mkuu",
+      "title": "Yesu - Kuhani wetu Mkuu",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 18,
+      "summary": "Patakatifu pa duniani palikuwa mfano wa mpango wa wokovu: dhabihu zake zilimwonyesha Yesu-Mwana-Kondoo, na ukuhani ulionyesha huduma yake. Leo Yesu ni Kuhani Mkuu katika patakatifu pa mbinguni - mpatanishi wetu pekee. Patakatifu panaunganika na agano: sheria ndani ya sanduku, neema juu ya kiti cha rehema; tunao uhakika wa kumfikia Mungu.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "patakatifu",
+        "Kuhani Mkuu",
+        "mpatanishi",
+        "agano",
+        "mpango wa wokovu",
+        "hukumu"
+      ],
+      "refs": [
+        "Kut 25:8-9",
+        "Ebr 8:5",
+        "Zab 77:14",
+        "Law 4:27-31",
+        "Yoh 1:29",
+        "Isa 53:5-6",
+        "1Pet 1:18-19",
+        "Ebr 4:14-16",
+        "Ebr 7:25",
+        "1Yoh 2:1",
+        "Ebr 8:1-2",
+        "Kut 25:16",
+        "Kut 25:17-22",
+        "Ebr 9:11-15",
+        "Ebr 10:19-22",
+        "Dan 7:9-10",
+        "Dan 7:13-14",
+        "Ebr 9:24"
+      ]
+    },
+    {
+      "id": "kanuni-za-mungu-za-afya",
+      "title": "Kanuni za Mungu za afya",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 19,
+      "summary": "Mwili ni zawadi ya Mungu na hekalu la Roho. Tunaiangalia afya kwa ukamilifu: lishe, mazoezi, mapumziko, maji, jua, kiasi na kumtumaini Mungu, pamoja na hisia, kusamehe, shukrani, furaha na huduma. \"Maeneo ya buluu\" (mfano Loma Linda) yanaonyesha kwamba kanuni za Mungu za maisha kweli zinasaidia maisha marefu.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "afya",
+        "mwili",
+        "mtindo wa maisha",
+        "shukrani",
+        "kusamehe",
+        "maisha marefu"
+      ],
+      "refs": [
+        "1Kor 6:19-20",
+        "1Kor 10:31",
+        "3Yoh 1:2",
+        "Mwa 1:29",
+        "Kut 20:9-10",
+        "1Kor 9:25",
+        "Mit 17:22",
+        "Mit 3:7-8",
+        "1The 5:16-18",
+        "Efe 4:31-32",
+        "Mt 6:25-27",
+        "Mdo 20:35",
+        "Kum 30:19-20",
+        "Kut 15:26",
+        "1Tim 4:8"
+      ]
+    },
+    {
+      "id": "karama-za-rohoni-katika-huduma",
+      "title": "Karama za rohoni katika huduma",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 20,
+      "summary": "Mungu humpa kila mwamini vifaa vya huduma. Roho hugawa karama mbalimbali, na mwili mmoja - Kanisa - huziunganisha kuwa kitu kimoja. Kila mtu anapaswa kugundua na kutumia karama yake. Biblia pia inatoa vigezo vya kutambua karama ya kweli na nabii wa kweli. Karama ya kuponya inakumbusha kwamba Mungu anatenda kazi leo - ndani ya mapenzi yake na fumbo la mateso. Lengo la karama zote: kulijenga Kanisa.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "karama za rohoni",
+        "Roho Mtakatifu",
+        "huduma",
+        "mwili mmoja",
+        "utambuzi",
+        "uponyaji"
+      ],
+      "refs": [
+        "1Kor 12:4-7",
+        "1Kor 12:11",
+        "1Pet 4:10",
+        "Rum 12:4-8",
+        "1Kor 12:14-20",
+        "1Kor 12:21-26",
+        "Efe 4:11-13",
+        "Mt 25:14-18",
+        "1Tim 4:14",
+        "2Tim 1:6-7",
+        "Isa 8:20",
+        "Mt 7:15-20",
+        "1Yoh 4:1",
+        "Kum 18:21-22",
+        "1The 5:19-21",
+        "Yak 5:14-16",
+        "1Kor 12:9-10",
+        "2Kor 12:7-9",
+        "Yoh 9:1-3"
+      ]
+    },
+    {
+      "id": "utume-wangu-na-vipawa-vyangu",
+      "title": "Utume wangu na vipawa vyangu",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 21,
+      "summary": "Kila kitu ni mali ya Mungu - mimi ni msimamizi, si mmiliki. Uwakili waaminifu unahusu wakati, vipaji na pesa (zaka na sadaka) na hutoka katika shukrani, si katika kulazimishwa. Kutokana na hili unazaliwa utume wangu binafsi na wa hapa nilipo: jinsi ninavyomtumikia Mungu na watu kwa vitendo katika jumuiya yangu na mazingira yangu.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "uwakili",
+        "usimamizi",
+        "zaka",
+        "utume",
+        "huduma",
+        "ushuhuda"
+      ],
+      "refs": [
+        "Zab 24:1",
+        "1Kor 4:2",
+        "1Nya 29:14",
+        "Efe 5:15-16",
+        "Mt 25:19-23",
+        "1Pet 4:10-11",
+        "Mal 3:8-10",
+        "2Kor 9:6-8",
+        "Mt 6:19-21",
+        "Lk 21:1-4",
+        "Mit 3:9-10",
+        "Mt 28:18-20",
+        "Mdo 1:8",
+        "Mt 5:14-16",
+        "Gal 6:9-10",
+        "1Pet 3:15",
+        "Yoh 1:40-46",
+        "Yoh 4:28-30",
+        "Mk 5:19"
+      ]
+    },
+    {
+      "id": "historia-ya-dunia-katika-unabii",
+      "title": "Historia ya dunia katika unabii",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 22,
+      "summary": "Ndoto ya Nebukadneza katika Danieli 2 inaonyesha kwamba Mungu anajua na anaongoza mwenendo wa historia: falme zifuatazo zitapita, lakini Ufalme wake wa milele - \"jiwe\" - utabaki. Unabii uliotimia unakuwa msingi imara wa kumtumaini Biblia.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "unabii",
+        "Danieli",
+        "historia",
+        "falme",
+        "Ufalme wa Mungu",
+        "kumtumaini Biblia"
+      ],
+      "refs": [
+        "Dan 2:1-3",
+        "Dan 2:27-28",
+        "Dan 2:20-22",
+        "Dan 2:31-33",
+        "Dan 2:36-38",
+        "Dan 2:39-40",
+        "Dan 2:41-43",
+        "Dan 7:17",
+        "Isa 46:9-10",
+        "Dan 2:34-35",
+        "Dan 2:44-45",
+        "Dan 2:46-47"
+      ]
+    },
+    {
+      "id": "majuma-70-na-siku-2300",
+      "title": "Majuma 70 na siku 2300",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 23,
+      "summary": "Unabii wa kihesabu wa Danieli - majuma 70 na siku 2300 - unaosomwa kwa kanuni ya \"siku-kwa-mwaka\". Majuma 70 yanamuonyesha Masihi kwa usahihi (uthibitisho kwamba Yesu ndiye Kristo), na siku 2300 huongoza hadi mwaka 1844 na kufungua mada ya utakaso wa patakatifu pa mbinguni pamoja na hukumu.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "unabii",
+        "Danieli",
+        "majuma 70",
+        "siku 2300",
+        "Masihi",
+        "patakatifu",
+        "hukumu",
+        "1844"
+      ],
+      "refs": [
+        "Dan 8:14",
+        "Eze 4:6",
+        "Hes 14:34",
+        "Dan 9:24",
+        "Dan 9:25",
+        "Dan 9:26",
+        "Dan 9:27",
+        "Mk 1:15",
+        "Gal 4:4",
+        "Dan 8:26-27",
+        "Dan 9:23",
+        "Ebr 8:1-2",
+        "Ebr 9:23-24"
+      ]
+    },
+    {
+      "id": "wanyama-wa-unabii-na-mwana-kondoo",
+      "title": "Wanyama wa unabii na Mwana-Kondoo",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 24,
+      "summary": "Danieli 7 unarudia mstari wa falme kwa lugha ya wanyama, na \"pembe ndogo\" inatangaza nguvu ya kidini-kisiasa inayotenda kazi katika kipindi cha siku-miaka 1260 (Dan 7:25; Ufu 12; 13). Huu ni unabii kuhusu utawala na mateso - lakini kitovu chake ni Mwana-Kondoo, anayeshinda na kuchukua ufalme wa milele.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "unabii",
+        "Danieli 7",
+        "Danieli 8",
+        "wanyama",
+        "pembe ndogo",
+        "siku 1260",
+        "Ufunuo",
+        "Mwana-Kondoo",
+        "pambano kuu"
+      ],
+      "refs": [
+        "Dan 7:2-3",
+        "Dan 7:17",
+        "Dan 7:4-6",
+        "Dan 8:3-8",
+        "Dan 8:20-21",
+        "Dan 7:7",
+        "Dan 7:8",
+        "Dan 7:25",
+        "Ufu 12:6",
+        "Ufu 12:14",
+        "Ufu 13:5",
+        "2The 2:3-4",
+        "Dan 7:9-10",
+        "Dan 7:13-14",
+        "Dan 7:27",
+        "Ufu 5:5-6",
+        "Ufu 17:14"
+      ]
+    },
+    {
+      "id": "kwa-nini-hukumu-ni-habari-njema",
+      "title": "Kwa nini hukumu ni habari njema?",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 25,
+      "summary": "Ujumbe wa malaika watatu hutangaza kwamba \"saa ya hukumu imewadia\" - katika muktadha wa injili ya milele na wito wa kumheshimu Muumba. Hukumu ya upelelezi ya Danieli 7 haikusudii kutisha: mbinguni Yesu ni Mtetezi wetu, na waaminio ndani yake wako salama.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "hukumu",
+        "malaika watatu",
+        "injili",
+        "Muumba",
+        "Sabato",
+        "Babeli",
+        "Yesu Mtetezi",
+        "uhakika wa wokovu"
+      ],
+      "refs": [
+        "Ufu 14:6-7",
+        "Ufu 14:7",
+        "Ufu 14:8",
+        "Ufu 14:12",
+        "Ufu 18:4",
+        "Dan 7:9-10",
+        "Dan 7:22",
+        "1Yoh 2:1",
+        "Ebr 7:25",
+        "Rum 8:1",
+        "Rum 8:33-34",
+        "Yoh 5:24",
+        "Ebr 4:14-16"
+      ]
+    },
+    {
+      "id": "kanisa-la-mungu-katika-siku-za-mwisho",
+      "title": "Kanisa la Mungu katika siku za mwisho",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 26,
+      "summary": "Unabii hauelezi tu nguvu zinazompinga Mungu - pia unaonyesha mahali ambapo, katika siku za mwisho, wako watu wake waaminifu: \"mabaki\" wanaoshika amri, wenye ushuhuda wa Yesu na karama ya unabii, ambao alama yao ya kutambulika ni utume wa kimataifa wa kuhubiri kurudi kwa Kristo.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Kanisa",
+        "mabaki",
+        "amri",
+        "ushuhuda wa Yesu",
+        "karama ya unabii",
+        "utume",
+        "Ufunuo"
+      ],
+      "refs": [
+        "Ufu 12:17",
+        "Ufu 14:12",
+        "1Yoh 2:3-4",
+        "Yoh 14:15",
+        "Ufu 19:10",
+        "Yoe 2:28",
+        "Ufu 22:7",
+        "1The 5:19-21",
+        "Isa 8:20",
+        "Ufu 14:6",
+        "Mt 24:14",
+        "Ufu 18:4",
+        "1Pet 2:9",
+        "Ufu 14:7"
+      ]
+    },
+    {
+      "id": "kuja-kwa-yesu-na-milenia",
+      "title": "Kuja kwa Yesu na milenia",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 27,
+      "summary": "Mtazamo wa kina juu ya ujio wa pili: utakuwa wa kuonekana, wa kusikika, wa utukufu na wa kimataifa. Unaambatana na ufufuo wa wenye haki na kubadilishwa kwa walio hai, kisha miaka elfu (milenia) - waliokombolewa mbinguni, dunia iliyoachwa ukiwa, Shetani amefungwa na hukumu juu ya wasiomcha Mungu.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "ujio wa pili",
+        "ufufuo",
+        "kunyakuliwa",
+        "miaka elfu",
+        "Ufunuo",
+        "tumaini"
+      ],
+      "refs": [
+        "Ufu 1:7",
+        "Mt 24:27",
+        "Mt 24:30-31",
+        "Mdo 1:9-11",
+        "Mt 24:23-26",
+        "1The 4:16-17",
+        "1Kor 15:51-52",
+        "1Kor 15:53-54",
+        "Yoh 5:28-29",
+        "Tit 2:13",
+        "Ufu 20:4-5",
+        "Ufu 20:6",
+        "Ufu 20:1-3",
+        "Yer 4:23-26",
+        "1Kor 6:2-3",
+        "Ufu 20:7-9"
+      ]
+    },
+    {
+      "id": "mbingu-mpya-na-nchi-mpya",
+      "title": "Mbingu mpya na nchi mpya",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 28,
+      "summary": "Tamati ya pambano kuu: dhambi, mauti na uovu vinaangamizwa milele, na Mungu anaumba mbingu mpya na dunia mpya. Bila machozi, maumivu na mauti, pamoja na Edeni iliyorudishwa na uhusiano wa milele, wa karibu na Mungu - huu ndio lengo la safari nzima na mwaliko ulio wazi.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "dunia mpya",
+        "mbingu mpya",
+        "mwisho wa dhambi",
+        "mwisho wa mauti",
+        "Edeni",
+        "tumaini",
+        "mwaliko"
+      ],
+      "refs": [
+        "Ufu 20:10",
+        "Ufu 20:14",
+        "1Kor 15:26",
+        "Nah 1:9",
+        "Mal 4:1-3",
+        "Ufu 21:1",
+        "Ufu 21:3-4",
+        "Isa 65:17",
+        "Isa 65:21-25",
+        "2Pet 3:13",
+        "Ufu 22:1-3",
+        "Ufu 21:7",
+        "Ufu 22:3-4",
+        "Ufu 22:17",
+        "Ufu 21:6",
+        "1Kor 2:9"
+      ]
+    },
+    {
+      "id": "thamani-yako-ya-kweli",
+      "title": "Thamani yako ya kweli",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 29,
+      "summary": "Hisia ya thamani yangu inatoka wapi na nani ana haki ya kuniambia mimi ni nani. Licha ya majeraha ya utotoni, kujilinganisha na wengine na hisia za udunivu, Mungu ananiita mtoto wake, niliyeumbwa kwa kusudi, ninayethaminiwa na kukubaliwa katika Kristo.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "utambulisho",
+        "thamani",
+        "mtoto wa Mungu",
+        "hisia za udunivu",
+        "kujithamini",
+        "neema"
+      ],
+      "refs": [
+        "Zab 139:13-16",
+        "Isa 43:1",
+        "Isa 43:4",
+        "1Sam 16:7",
+        "Gal 6:4",
+        "Zab 27:10",
+        "Yoh 1:12",
+        "1Yoh 3:1",
+        "Gal 3:26",
+        "Rum 8:15-16",
+        "Lk 15:21-24",
+        "Efe 1:4-5",
+        "Efe 1:6-7",
+        "2Kor 5:17",
+        "1Pet 2:9"
+      ]
+    },
+    {
+      "id": "migogoro-na-maridhiano",
+      "title": "Migogoro na maridhiano",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 30,
+      "summary": "Nini cha kufanya na majeraha, uchungu na migogoro kati ya watu. Jinsi ya kuelewa msamaha (ambao si kujifanya kwamba hakuna kilichotokea), jinsi ya kutatua mizozo kwa njia ya Mungu na jinsi ya kutoruhusu hasira kugeuka kuwa uchungu.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "mahusiano",
+        "msamaha",
+        "mgogoro",
+        "upatanisho",
+        "hasira",
+        "uchungu"
+      ],
+      "refs": [
+        "Efe 4:31",
+        "Ebr 12:15",
+        "Mwa 4:5-7",
+        "Efe 4:26-27",
+        "Yak 1:19-20",
+        "Mit 15:1",
+        "Efe 4:32",
+        "Kol 3:13",
+        "Mt 18:21-22",
+        "Mt 18:23-35",
+        "Mk 11:25",
+        "Mt 18:15",
+        "Mt 18:16-17",
+        "Rum 12:18",
+        "Mt 5:23-24",
+        "Rum 12:19-21"
+      ]
+    },
+    {
+      "id": "amani-ipitayo-akili-zote",
+      "title": "Amani ipitayo akili zote",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 31,
+      "summary": "Maandiko yanasema nini kuhusu wasiwasi, hofu na kuelemewa - na jinsi amani \"ipitayo akili zote\" inavyozaliwa. Si suala la kukandamiza hisia, bali la kuuhamishia mzigo kwa Mungu, ajuaye mahitaji yetu na aliye karibu.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "hofu",
+        "msongo",
+        "wasiwasi",
+        "amani",
+        "kuamini",
+        "sala"
+      ],
+      "refs": [
+        "Mt 6:25-27",
+        "Mt 6:31-32",
+        "Mt 6:33-34",
+        "Zab 94:19",
+        "1Pet 5:7",
+        "Zab 55:23",
+        "Mt 11:28-30",
+        "Zab 46:2-3",
+        "Flp 4:6",
+        "Flp 4:7",
+        "Yoh 14:27",
+        "Flp 4:8-9",
+        "Isa 41:10",
+        "Isa 43:2",
+        "Zab 23:4",
+        "Yos 1:9"
+      ]
+    },
+    {
+      "id": "tumaini-katika-huzuni-na-upweke",
+      "title": "Tumaini katika huzuni na upweke",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 32,
+      "summary": "Kwa siku ambazo ni ngumu, tupu au za giza. Maandiko hayaoni aibu kuhusu huzuni wala upweke - yanaonyesha Mungu aliye karibu na waliovunjika moyo, na watu wa imani waliopita katika mashimo ya chini. Kuhusu tumaini, jumuiya na kwamba kutafuta msaada si upungufu wa imani.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "upweke",
+        "huzuni",
+        "sonona",
+        "tumaini",
+        "msaada",
+        "jumuiya"
+      ],
+      "refs": [
+        "Zab 42:4-6",
+        "Zab 42:11",
+        "Zab 88:2-4",
+        "Mhu 3:4",
+        "Zab 34:19",
+        "Zab 147:3",
+        "Mt 5:4",
+        "Isa 53:3-4",
+        "Zab 56:9",
+        "1Fal 19:3-5",
+        "1Fal 19:5-8",
+        "1Fal 19:9-13",
+        "1Fal 19:15-18",
+        "Mt 11:28-30",
+        "Gal 6:2",
+        "Mhu 4:9-10",
+        "Rum 12:15",
+        "Zab 40:2-4"
+      ]
+    },
+    {
+      "id": "furaha-isiyotegemea-mazingira",
+      "title": "Furaha isiyotegemea mazingira",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 33,
+      "summary": "Kuhusu furaha isiyotegemea mazingira, kuhusu kushukuru \"katika kila hali\" na kuhusu mahali pa kutafuta maana ya maisha. Shukrani na furaha katika Bwana si matumaini ya kipumbavu - ni mielekeo inayobadilisha moyo kweli na kuelekeza maisha ya kila siku.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "shukrani",
+        "furaha",
+        "maana",
+        "kushukuru",
+        "kusudi la maisha",
+        "Mungu"
+      ],
+      "refs": [
+        "Flp 4:4",
+        "Neh 8:10",
+        "Zab 16:11",
+        "Gal 5:22",
+        "1The 5:16-18",
+        "Zab 103:1-2",
+        "Zab 103:3-5",
+        "Zab 100:4-5",
+        "Lk 17:15-18",
+        "Flp 4:8",
+        "Kol 3:15-17",
+        "Zab 107:1-2",
+        "Mt 6:33",
+        "Mhu 12:13",
+        "Yoh 10:10",
+        "Efe 2:10",
+        "1Kor 10:31"
+      ]
+    },
+    {
+      "id": "uhuru-katika-maamuzi-ya-kila-siku",
+      "title": "Uhuru katika maamuzi ya kila siku",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 34,
+      "summary": "Uhuru wa kweli ni nini - si \"fanya utakalo\", bali ni kuwekwa huru kutoka kile kinachofunga: uraibu, mamlaka ya pesa, shinikizo na ulazimisho wa dhambi. Jinsi Kristo anavyoweka huru, jinsi ya kujizuia kama tunda la Roho na jinsi ya kufanya maamuzi ya kila siku (pesa, kazi) kama mtu huru.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "uhuru",
+        "uraibu",
+        "pesa",
+        "kazi",
+        "kujizuia",
+        "tunda la Roho"
+      ],
+      "refs": [
+        "Yoh 8:34",
+        "Yoh 8:32",
+        "Yoh 8:36",
+        "Gal 5:1",
+        "Rum 6:11-12",
+        "Rum 6:13-14",
+        "1Kor 10:13",
+        "1Kor 6:12",
+        "Yak 1:14-15",
+        "Mt 6:24",
+        "1Tim 6:9-10",
+        "1Tim 6:6-8",
+        "Ebr 13:5",
+        "Lk 12:15",
+        "Kol 3:23-24",
+        "Gal 5:22-23",
+        "Gal 5:16",
+        "1Kor 10:31",
+        "Mit 25:28"
+      ]
+    },
+    {
+      "id": "jinsi-ya-kutambua-mapenzi-ya-mungu",
+      "title": "Jinsi ya kutambua mapenzi ya Mungu?",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 35,
+      "summary": "Jinsi ya kufanya maamuzi na kutambua uongozi wa Mungu - bila uchawi wa \"ishara\" na bila kupooza kwa hofu. Kuhusu kuamini, akili iliyofanywa upya, nafasi ya Neno, maombi, mazingira na jumuiya, na kuhusu kwamba utayari wa kutii hufungua kuyafahamu mapenzi ya Mungu.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "mapenzi ya Mungu",
+        "uongozi",
+        "maamuzi",
+        "kuamini",
+        "hekima",
+        "utambuzi"
+      ],
+      "refs": [
+        "Mit 3:5-6",
+        "Zab 32:8",
+        "Zab 37:5",
+        "Yer 29:11-13",
+        "Rum 12:2",
+        "Rum 12:1",
+        "Ebr 5:14",
+        "Efe 5:17",
+        "Yoh 7:17",
+        "Lk 22:42",
+        "Zab 25:9",
+        "Yak 1:5",
+        "Zab 119:105",
+        "Flp 4:6-7",
+        "Mit 15:22",
+        "Mit 16:9",
+        "Isa 30:21",
+        "Zab 143:8, 10"
+      ]
+    }
+  ]
+}

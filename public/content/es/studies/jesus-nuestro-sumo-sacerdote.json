@@ -1,0 +1,525 @@
+{
+  "id": "jesus-nuestro-sumo-sacerdote",
+  "lang": "es",
+  "title": "Jesús - nuestro Sumo Sacerdote",
+  "category": "basic_systematic",
+  "seriesId": "zycie-w-przymierzu",
+  "order": 18,
+  "summary": "El santuario terrenal era un modelo del plan de salvación: sus sacrificios apuntaban a Jesús-Cordero, y el sacerdocio a su ministerio. Hoy Jesús es Sumo Sacerdote en el santuario celestial: nuestro único Mediador. El santuario se vincula con el pacto: la ley en el arca, la gracia sobre el propiciatorio; tenemos un acceso seguro a Dios.",
+  "minutes": {
+    "base": 45,
+    "extended": 65
+  },
+  "tags": [
+    "el santuario",
+    "Sumo Sacerdote",
+    "mediador",
+    "el pacto",
+    "el plan de salvación",
+    "el juicio"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "El santuario como modelo divino de la salvación",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Exod.25.8-9",
+              "ref": "Éx 25:8-9"
+            }
+          ],
+          "comment": "Dios pide un santuario \"para habitar entre\" el pueblo, y manda construirlo \"conforme al modelo\". No es una idea humana de religión: es un plan de Dios que muestra cómo quiere estar con el ser humano.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "¿Qué desea Dios sobre todo al pedir un santuario: el rito o habitar entre el pueblo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Heb.8.5",
+              "ref": "Heb 8:5"
+            }
+          ],
+          "comment": "El santuario terrenal era \"figura y sombra\" de la realidad celestial. Es un modelo que enseña: apunta a algo mayor que él mismo.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Si el santuario es \"sombra\", ¿a qué realidad debe apuntar?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Ps.77.14",
+              "ref": "Sal 77:14"
+            }
+          ],
+          "comment": "\"Tu camino, oh Dios, está en el santuario\": el santuario presenta el camino por el cual Dios salva al ser humano. Cada uno de sus elementos significa algo.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "¿Qué significa que Dios revele su \"camino\" de salvación por medio de objetos y ritos?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "\"santuario\": mishkán y miqdash",
+          "content": "La Biblia usa dos palabras principales para el santuario: *mishkán* (\"morada\", de la raíz \"habitar, residir\") y *miqdash* (\"lugar santo\", de \"santo\"). Juntas expresan el núcleo: el Dios santo desea habitar en medio del pueblo. Lo dice directamente la orden de Éx 25:8: \"Hacedme un santuario, para que habite entre ellos\". Es significativo que la petición del santuario aparezca solo tras la salida de Egipto y la celebración del pacto: la redención precede al acceso al santuario.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "מִשְׁכָּן",
+              "translit": "miszkan"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Si Dios \"hizo un santuario para habitar entre ellos\", ¿qué dice esto sobre lo que más desea respecto a ti?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "la estructura del santuario y el plan de salvación",
+          "content": "El atrio (el altar de los sacrificios, la fuente), el lugar santo (los panes, el candelabro, el altar del incienso) y el lugar santísimo (el arca) suelen leerse como etapas sucesivas de la salvación: el sacrificio/la cruz, la intercesión y la comunión diarias, y finalmente el juicio y la plenitud de la presencia de Dios. El santuario es, así, un \"diagrama\" claro del evangelio."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "\"conforme al modelo\" (tabnit)",
+          "content": "Moisés debía construir el santuario \"conforme al modelo\" que se le mostró en el monte (Éx 25:9.40). El hebreo *tabnit* (de \"construir\") significa un modelo o reproducción de algo, lo que normalmente supone la existencia de un original. Conviene notar que ese original es el santuario celestial: el terrenal es su \"figura y sombra\" (Heb 8:5), que apunta más allá de sí mismo.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "תַּבְנִית",
+              "translit": "tabnit"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q20",
+              "text": "¿Qué cambia en la mirada sobre los ritos terrenales la conciencia de que son \"sombra\" de una realidad celestial real?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Los sacrificios que apuntaban al Cordero",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Lev.4.27-31",
+              "ref": "Lv 4:27-31"
+            }
+          ],
+          "comment": "El pecador ponía la mano sobre el animal, confesaba su culpa, y este moría en su lugar. La imagen es clara: el pecado conduce a la muerte, pero alguien inocente puede ocupar mi lugar.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "¿Qué debía comprender el corazón de quien, con su propia mano, señalaba el sacrificio que moría por él?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "John.1.29",
+              "ref": "Jn 1:29"
+            }
+          ],
+          "comment": "Juan señala a Jesús: \"el Cordero de Dios, que quita el pecado del mundo\". Todos los corderos sacrificados apuntaban a este único: el verdadero Sacrificio.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Si cada sacrificio era un anuncio, ¿qué ocurrió cuando vino Jesús-Cordero?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Isa.53.5-6",
+              "ref": "Is 53:5-6"
+            }
+          ],
+          "comment": "Cientos de años antes, el profeta describe al Siervo sobre quien \"el Señor cargó el pecado de todos nosotros\". Este es el corazón del sistema sacrificial: la sustitución.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "¿Qué palabras de este texto dicen con más fuerza que alguien llevó el castigo en tu lugar?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "1Pet.1.18-19",
+              "ref": "1 P 1:18-19"
+            }
+          ],
+          "comment": "Fuimos rescatados \"con la sangre preciosa de Cristo, como de un cordero\". El lenguaje del santuario se traslada directamente a Jesús: Él es la realidad de los sacrificios.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "¿Qué dice sobre el valor del ser humano el precio que Dios pagó por su rescate?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "\"una vez para siempre\"",
+          "content": "La carta a los Hebreos subraya que los repetidos sacrificios de animales \"no podían quitar los pecados\" (Heb 10:4); eran solo una sombra. Cristo, en cambio, se ofreció a sí mismo \"una vez para siempre\" (Heb 7:27; 10:10) y \"por su propia sangre\" entró \"una vez para siempre en el lugar santo, habiendo obtenido una redención eterna\" (Heb 9:12). La cruz es perfecta e irrepetible: no hace falta añadirle nada.",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Si el sacrificio de Jesús fue ofrecido \"una vez para siempre\", ¿qué es lo que ya no necesitas añadir para ser aceptado por Dios?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Jesús, nuestro Sumo Sacerdote en el cielo",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Heb.4.14-16",
+              "ref": "Heb 4:14-16"
+            }
+          ],
+          "comment": "Tenemos un \"gran Sumo Sacerdote que traspasó los cielos\" y se compadece de nuestras debilidades. Por eso podemos \"acercarnos confiadamente al trono de la gracia\". El sacerdote no es aquí un guardián de la distancia, sino quien abre el acceso.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "¿Qué cambia en la oración la conciencia de que el Sumo Sacerdote entiende tu debilidad y no te condena?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Heb.7.25",
+              "ref": "Heb 7:25"
+            }
+          ],
+          "comment": "Jesús \"vive siempre para interceder\" por nosotros y por eso puede \"salvar por completo\". Su mediación es continua y eficaz hasta el fin.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "¿Qué da la certeza de que Jesús puede salvar \"por completo\" y no solo en parte?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "sacerdote \"según el orden de Melquisedec\"",
+          "content": "Heb 7 demuestra la superioridad del sacerdocio de Cristo recurriendo a Sal 110:4: \"Tú eres sacerdote para siempre, según el orden de Melquisedec\". Jesús es sacerdote no por descender del linaje de Aarón (no era levita), sino \"por el poder de una vida indestructible\" y por el juramento de Dios. Por eso su sacerdocio es imperecedero: si \"permanece para siempre\", puede salvar por completo.",
+          "questions": [
+            {
+              "id": "q22",
+              "text": "¿Qué significa para tu seguridad que Jesús sea Sumo Sacerdote \"para siempre\", cuyo ministerio nunca terminará?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "1John.2.1",
+              "ref": "1 Jn 2:1"
+            }
+          ],
+          "comment": "Cuando caemos, \"tenemos un Abogado ante el Padre: a Jesucristo el justo\". Tenemos un Defensor, no un acusador.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Según este texto, ¿quién está de tu lado cuando pecas, y cómo influye esto en el sentimiento de culpa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Heb.8.1-2",
+              "ref": "Heb 8:1-2"
+            }
+          ],
+          "comment": "Jesús \"se sentó a la diestra\" y ejerce su ministerio en el \"verdadero tabernáculo, levantado por el Señor\". El santuario celestial no es una metáfora: es el lugar real de su ministerio por nosotros.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "¿Qué significa para ti que Jesús ejerza ahora un ministerio concreto por ti en el cielo?"
+            },
+            {
+              "id": "q23",
+              "text": "Si Jesús nos entiende, vive siempre y nunca rechaza a quienes acuden a Él, ¿qué le faltaría para que hiciera falta un mediador adicional?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "El santuario unido al pacto",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Exod.25.16",
+              "ref": "Éx 25:16"
+            }
+          ],
+          "comment": "En el corazón del santuario, en el arca, se colocó el \"Testimonio\": las tablas del Decálogo. La ley de Dios está en el mismísimo centro del santuario: es el fundamento del pacto.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "¿Qué significa que la ley de Dios se encuentre en el mismísimo corazón del santuario?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Exod.25.17-22",
+              "ref": "Éx 25:17-22"
+            }
+          ],
+          "comment": "Sobre la ley, encima del arca, está el \"propiciatorio\" (la tapa de la reconciliación), donde Dios se encuentra con el pueblo. Sobre la ley está la gracia: la justicia y la misericordia se encuentran justo allí donde Dios habla al ser humano.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "¿Qué dice sobre Dios esta imagen: la ley dentro del arca y, encima, el lugar de la propiciación y del encuentro?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"propiciatorio\" (kappōret / hilastērion)",
+          "content": "El hebreo *kappōret* (la tapa del arca) se relaciona con la raíz \"cubrir, hacer propiciación\"; la Septuaginta y el Nuevo Testamento usan *hilastērion* (Ro 3:25 lo aplica a Cristo). El lugar donde la sangre cubría la ley se vuelve imagen de Cristo, en quien la justicia y la misericordia se encuentran.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "כַּפֹּרֶת",
+              "translit": "kappōret"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q24",
+              "text": "¿Cómo ayuda la imagen de \"cubrir la ley con sangre\" a entender qué es la propiciación en Cristo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Heb.9.11-15",
+              "ref": "Heb 9:11-15"
+            }
+          ],
+          "comment": "Jesús, como Sumo Sacerdote, entró con su propia sangre y se hizo \"mediador del nuevo pacto\". El santuario y el pacto son una sola cosa: el Mediador garantiza que la ley y la gracia no se oponen entre sí.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "¿Cómo une Jesús en sí mismo tanto la ley (la justicia) como la gracia (el perdón)?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Heb.10.19-22",
+              "ref": "Heb 10:19-22"
+            }
+          ],
+          "comment": "Gracias a la sangre de Jesús tenemos \"libre acceso\" al lugar santísimo y podemos \"acercarnos con plena certeza de fe\". El velo, que antes cerraba el paso, ha sido abierto.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "¿Qué cambia en tu relación con Dios la verdad de que el acceso a Él ya está abierto y es seguro?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "el velo rasgado",
+          "content": "En el momento de la muerte de Jesús, el velo del santuario \"se rasgó en dos, de arriba abajo\" (Mt 27:51). En el santuario, el velo separaba el lugar santo del santísimo y guardaba la distancia. Su rasgadura -y precisamente en el momento del sacrificio de Cristo- representa que, por su sangre, el camino a Dios ha quedado abierto; es la misma verdad que proclama Heb 10:19-20 sobre el \"camino nuevo y vivo a través del velo\".",
+          "questions": [
+            {
+              "id": "q25",
+              "text": "¿Qué significa para tu oración que el velo que separaba de Dios haya sido rasgado \"desde arriba\", por iniciativa de Dios?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "La fase del juicio: buena noticia (enlace con \"La hora del juicio\")",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Dan.7.9-10",
+              "ref": "Dn 7:9-10"
+            }
+          ],
+          "comment": "Daniel ve un trono, libros abiertos y un tribunal sentado. En el contexto del santuario, no es una escena de terror: es el momento en que la causa del pueblo de Dios queda resuelta. (Alusión al estudio \"La hora del juicio\".)",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "¿Tiene el juicio que despertar miedo, si tu Juez es a la vez tu Defensor?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Dan.7.13-14",
+              "ref": "Dn 7:13-14"
+            }
+          ],
+          "comment": "El \"Hijo del Hombre\" viene ante el Anciano de días y recibe el reino. En la escena del juicio, la figura central es Jesús: Aquel que nos representa.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "¿Quién está en el centro de la escena del juicio y qué significa esto para alguien que ha confiado en Él?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Heb.9.24",
+              "ref": "Heb 9:24"
+            }
+          ],
+          "comment": "Cristo entró \"ante la presencia de Dios por nosotros\". En la fase del juicio, Jesús no es el acusador: está allí como nuestro representante.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "¿Qué significa que Jesús esté ante Dios \"por nosotros\", precisamente en el tiempo del juicio?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "worship",
+          "label": "el Día de la Expiación (Lv 16)",
+          "content": "Una vez al año el sumo sacerdote entraba en el lugar santísimo para realizar la purificación final del santuario \"de las impurezas y las transgresiones\" del pueblo (Lv 16). Es un día de purificación y, a la vez, de juicio: Dios evaluaba quién se apoyaba de veras en su gracia. Las dos fases del ministerio terrenal -el diario y el del Día de la Expiación- corresponden a dos aspectos del ministerio de Cristo: la intercesión continua y la obra de juicio/purificación (cf. Heb 9:23). Para quienes confían en Jesús no es una amenaza, sino la confirmación definitiva de que sus pecados han sido borrados.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "יוֹם הַכִּפֻּרִים",
+              "translit": "jom hakkippurim"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q26",
+              "text": "Si el Día de la Expiación zanjaba el asunto del pecado a favor del pueblo de Dios, ¿por qué la fase del juicio puede ser para ti una buena noticia?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "El santuario es la imagen que Dios da de todo el camino de la salvación. Los sacrificios apuntaban a Jesús-Cordero, que murió en mi lugar. Hoy ese mismo Jesús es mi Sumo Sacerdote en el cielo: intercede sin cesar por mí y me da un acceso seguro y abierto a Dios. En el corazón del santuario la ley (la justicia) se encuentra con la gracia (el perdón), y las une un solo Mediador. Ni siquiera el juicio tiene por qué aterrar: mi Juez es mi Defensor. No necesito a nadie más entre Dios y yo: tengo a Jesús, y eso basta.",
+    "challenge": "Esta semana, en cada oración, dirígete a Dios conscientemente \"por medio de Jesús, mi Sumo Sacerdote\". Una vez, confiésale abiertamente un pecado concreto y acepta que tienes un Abogado, no un acusador (1 Jn 2:1), y escribe cómo cambia esto tu sentido de acceso a Dios."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "ES translation of PL study swiatynia-i-przymierze"
+  }
+}

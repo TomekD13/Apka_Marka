@@ -1,0 +1,28 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.vite
+
+# generowane przez `tsc -b` z plikow konfiguracyjnych
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+
+# Python (skrypty pipeline'u w tools/)
+__pycache__/
+*.pyc
+
+# cache pobrań z bolls.life (tools/build_bible_full.py) - odtwarzalny, 5 MB
+tools/.cache/
+
+# moduły przekładów chronionych prawem autorskim - TYLKO lokalnie, nigdy do repo
+Moduly/*.json
+
+# Zrodla spiewnikow: produkcyjne PDF/DOC wydawnictwa i spiewniczki obozowe.
+# Zostaja lokalnie - w repo sa tylko gotowe teksty w public/content.
+# Wyjatek: plik posredni z rozdzialem 41, ktorego potrzebuje extract_youth.py.
+Spiewnik/*
+!Spiewnik/_701-750.json
+SpiewnikiYouth/*

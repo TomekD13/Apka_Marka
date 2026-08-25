@@ -1,0 +1,530 @@
+{
+  "id": "geistliche-gaben-im-dienst",
+  "lang": "de",
+  "title": "Geistliche Gaben im Dienst",
+  "category": "basic_systematic",
+  "seriesId": "zycie-w-przymierzu",
+  "order": 20,
+  "summary": "Gott rüstet jeden Gläubigen zum Dienst aus. Der Geist teilt verschiedene Gaben aus, und ein Leib - die Gemeinde - verbindet sie zu einem Ganzen. Jeder soll seine Gabe entdecken und gebrauchen. Die Bibel nennt auch Kriterien, um eine echte Gabe und einen echten Propheten zu erkennen. Die Gabe der Heilung erinnert daran, dass Gott heute wirkt - im Rahmen seines Willens und des Geheimnisses des Leidens. Das Ziel aller Gaben: der Aufbau der Gemeinde.",
+  "minutes": {
+    "base": 45,
+    "extended": 65
+  },
+  "tags": [
+    "Geistesgaben",
+    "Heiliger Geist",
+    "Dienst",
+    "ein Leib",
+    "Unterscheidung",
+    "Heilung"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Gott rüstet zum Dienst aus",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "1Cor.12.4-7",
+              "ref": "1Kor 12,4-7"
+            }
+          ],
+          "comment": "Verschiedene Gaben, verschiedene Dienste - aber \"derselbe Geist\" und \"derselbe Gott\". Jedem wird \"die Offenbarung des Geistes zum gemeinsamen Nutzen\" gegeben. Niemand wird übergangen.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Was bedeutet es, dass du eine Gabe nicht für dich selbst, sondern \"zum gemeinsamen Nutzen\" empfängst?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "1Cor.12.11",
+              "ref": "1Kor 12,11"
+            }
+          ],
+          "comment": "Es ist der Geist, der \"einem jeden zuteilt, wie er will\". Eine Gabe ist weder Belohnung für Verdienste noch Grund zum Stolz - sie ist ein Geschenk, also etwas Empfangenes.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Wenn der Geist die Gaben auswählt und austeilt, was sagt das über das Vergleichen mit anderen aus?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "1Pet.4.10",
+              "ref": "1Petr 4,10"
+            }
+          ],
+          "comment": "\"Als gute Haushalter … dient einander\" mit der Gabe, die jeder empfangen hat. Eine Gabe ist ein anvertrauter Schatz zum Gebrauch, nicht zum Verstecken.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Worin unterscheidet sich ein \"Haushalter einer Gabe\" von einem \"Besitzer eines Talents\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"Gnadengaben\" (charismata)",
+          "content": "Das griechische *charisma* (Plural *charismata*, 1Kor 12; Röm 12) leitet sich von *charis* - \"Gnade\" - ab. Geistesgaben sind per Definition \"Erweise der Gnade\": etwas umsonst Empfangenes, nicht Verdientes. Schon das Wort selbst schließt Stolz und Vergleichen aus - eine Gabe ist keine Auszeichnung, sondern eine Ausrüstung zum Dienst.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χαρίσματα",
+              "translit": "charismata"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Wie schützt der Zusammenhang von *charisma-charis* (Gabe-Gnade) vor zwei Extremen: Stolz und dem Gefühl der Wertlosigkeit?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "zwei Wörter: \"geistlich\" und \"Gaben\"",
+          "content": "Paulus beginnt seine Ausführung mit dem Wort *pneumatika* - \"geistliche Dinge\" (1Kor 12,1), wechselt aber fast sofort zu *charismata* - \"Gnadengaben\" (1Kor 12,4). Ausleger vermuten, dass *pneumatika* ein Begriff der Korinther selbst war, mit dem sie ihre eigene \"Geistlichkeit\" betonten; Paulus ändert das Wort bewusst, um den Akzent vom Erlebnis auf die Gnade des Gebers und auf den Dienst zu verlagern.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "πνευματικά",
+              "translit": "pneumatika"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Was verändert sich an der Sichtweise, wenn wir eine \"geistliche Gabe\" zuerst eine \"Gnadengabe\" nennen und nicht \"mein geistliches Erlebnis\"?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Ein Leib, viele Gaben",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Rom.12.4-8",
+              "ref": "Röm 12,4-8"
+            }
+          ],
+          "comment": "Wie der Leib viele Glieder mit verschiedenen Funktionen hat, so auch die Gemeinde. Die genannten Gaben (Dienen, Lehren, Ermutigen, Teilen, Barmherzigkeit) sind gewöhnlich und praktisch - die meisten von uns tragen sie bereits in sich.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Welche der genannten Gaben kommt dem am nächsten, was dir natürlich zufällt?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "1Cor.12.14-20",
+              "ref": "1Kor 12,14-20"
+            }
+          ],
+          "comment": "Der Fuß ist nicht schlechter als die Hand, das Ohr nicht schlechter als das Auge. Wäre der ganze Leib ein Auge - dann gäbe es keinen Leib. Die Vielfalt ist kein Problem, das ausgeglichen werden müsste, sondern Gottes Absicht.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Wann hast du dich in der Gemeinschaft \"weniger wichtig\" gefühlt? Wie antwortet dieses Bild vom Leib darauf?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"keine Gabe ist weniger wert\"",
+          "content": "Das Bild vom Leib (1Kor 12; Röm 12) dient Paulus dazu zu zeigen, dass die Gaben einander ergänzen und keine überflüssig ist. Wenn die fehlen, die als die \"geringsten\" gelten, leidet der ganze Leib. Wie es ein Kommentar formuliert: \"keine der Gnadengaben ist wertlos und keine ist weniger wert als eine andere\" - eine Rangordnung der Wichtigkeit ist dem Denken des Paulus fremd."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "1Cor.12.21-26",
+              "ref": "1Kor 12,21-26"
+            }
+          ],
+          "comment": "\"Ich kann dich nicht entbehren\" - kein Glied ist überflüssig, und für die schwächeren sorgt man umso mehr. Wenn eines leidet, leiden alle; wenn eines geehrt wird, freuen sich alle.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Was würde es in deiner Gemeinschaft bedeuten, die \"Schwächeren\" mit mehr Fürsorge zu behandeln und nicht mit weniger?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Eph.4.11-13",
+              "ref": "Eph 4,11-13"
+            }
+          ],
+          "comment": "Christus gab der Gemeinde verschiedene Dienste, \"um die Heiligen zuzurüsten für das Werk des Dienstes\". Das Ziel: die Reife und Einheit des ganzen Leibes - damit jeder dienen kann, nicht nur die Leiter.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Was ist nach diesem Text das wahre Ziel der Existenz von Leitern und Lehrern in der Gemeinde?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "verschiedene Listen von Gaben im Neuen Testament",
+          "content": "Die Listen der Gaben (1Kor 12,8-10.28; Röm 12,6-8; Eph 4,11; 1Petr 4,11) unterscheiden sich voneinander und überschneiden sich teilweise. Das zeigt, dass keine von ihnen ein abgeschlossener Katalog ist - der Geist rüstet die Gemeinde entsprechend dem Bedarf aus, und das Ziel ist immer der Aufbau des Leibes, nicht das Spektakuläre der Gabe."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "\"charismatisch\" bedeutet \"zum Dienst befähigt\"",
+          "content": "Im Neuen Testament ist die ganze Gemeinde \"charismatisch\", weil sie als Ganzes für die Mission beschenkt wurde. Im heutigen Sprachgebrauch wird das Wort mit einem emotionalen Erlebnis während des Gottesdienstes verbunden, doch im biblischen Sinn bedeutet \"charismatisch\" schlicht \"zum Dienst ausgerüstet\" - persönlich und gemeinschaftlich (Apg 1,8; 4,31).",
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Wie verändert sich das Bild der Gemeinde, wenn wir \"charismatisch\" als \"zum Dienst befähigt\" verstehen und nicht als \"ausdrucksstark im Erleben\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Matt.25.14-18",
+              "ref": "Mt 25,14-18"
+            }
+          ],
+          "comment": "Der Herr verteilt die Talente \"einem jeden nach seiner Fähigkeit\". Zwei Knechte vermehren sie, der dritte vergräbt seines. Eine ungenutzte Gabe verkümmert - sie wurde gegeben, um zu wirken.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Was bringt Menschen am häufigsten dazu, ihre Gabe zu \"vergraben\", statt sie zu gebrauchen?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "1Tim.4.14",
+              "ref": "1Tim 4,14"
+            }
+          ],
+          "comment": "\"Vernachlässige die Gabe nicht, die in dir ist\". Eine Gabe wird oft von der Gemeinschaft erkannt und bestätigt - es lohnt sich, sie zu pflegen und nicht zu unterdrücken.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Wer in deinem Leben könnte dir helfen, eine Gabe zu erkennen, die du selbst bei dir nicht siehst?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "2Tim.1.6-7",
+              "ref": "2Tim 1,6-7"
+            }
+          ],
+          "comment": "Paulus ruft dazu auf, die Gabe Gottes \"neu zu entfachen\", denn Gott gab \"einen Geist der Kraft, der Liebe und der Besonnenheit\", nicht der Furcht. Oft löscht die Furcht die Gabe aus.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Welche Gabe in dir braucht heute ein \"neues Entfachen\" - und was dämpft sie in dir?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "zuerst der Geber, dann die Gaben",
+          "content": "Die Apostelgeschichte verwendet das Wort *dorea* (\"Gabe\") für den Heiligen Geist selbst, der den Gläubigen gegeben wird (Apg 2,38; 10,45; 11,17). Die Reihenfolge ist bedeutsam: Zuerst kommt der Geber - der Geist - und erst dann erscheinen die *charismata*, also die einzelnen Gaben (1Kor 12). Die Suche nach einer Gabe beginnt also mit der Öffnung für den Geist selbst und nicht mit der Jagd nach einer bestimmten Fähigkeit.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "δωρεά",
+              "translit": "dorea"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Wie verändert sich die Suche nach \"deiner Gabe\", wenn man zuerst um den Geber selbst bittet und nicht um eine bestimmte Fähigkeit?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Isa.8.20",
+              "ref": "Jes 8,20"
+            }
+          ],
+          "comment": "\"Zum Gesetz und zum Zeugnis!\" - wenn jemand anders redet als das Wort, ist kein Licht in ihm. Das erste Kriterium einer echten Gabe: die Übereinstimmung mit der Schrift.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Warum muss die Übereinstimmung mit der Bibel der erste Prüfstein jeder \"inspirierten\" Botschaft sein?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Matt.7.15-20",
+              "ref": "Mt 7,15-20"
+            }
+          ],
+          "comment": "\"An ihren Früchten werdet ihr sie erkennen\". Eine echte Gabe und einen echten Propheten erkennt man nicht an der Effekthascherei, sondern an den Früchten des Lebens und der Lehre.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Welche \"Früchte\" unterscheiden einen echten Dienst von einem scheinbaren?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "1John.4.1",
+              "ref": "1Joh 4,1"
+            }
+          ],
+          "comment": "\"Prüft die Geister, ob sie aus Gott sind\". Unterscheidung ist weder Mangel an Glauben noch Misstrauen - sie ist eine biblische Pflicht, denn \"viele falsche Propheten sind in die Welt ausgegangen\".",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Worin unterscheidet sich ein gesundes \"Prüfen der Geister\" von Leichtgläubigkeit und von zynischem Misstrauen?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "Kriterien zur Unterscheidung eines echten Propheten",
+          "content": "Die Bibel nennt eine zusammenhängende Reihe von Prüfsteinen: die Übereinstimmung mit der Schrift (Jes 8,20), das Eintreffen der Ankündigungen (5Mose 18,21-22), die Früchte des Lebens und der Lehre (Mt 7,15-20) sowie das Bekenntnis zu Christus, der im Fleisch gekommen ist (1Joh 4,2-3). Das sind objektive Kriterien - sie hängen nicht von Eindrücken oder dem Charisma des Redners ab. (Die Gabe der Weissagung als besonderes Kennzeichen des Überrests ist Thema eines eigenen Studiums 26; hier behandeln wir sie allgemein, ohne Bezugnahme auf Ellen White.)"
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "\"das Zeugnis Jesu ist der Geist der Weissagung\"",
+          "content": "In Offb 19,10 spricht der Engel von denen, \"die das Zeugnis Jesu haben\", und Johannes erklärt: \"das Zeugnis Jesu ist der Geist der Weissagung\". Im Griechischen ist *tēn martyrian Iēsou* ein \"subjektiver\" Genitiv - ein Zeugnis, das VON Jesus stammt. In Offb 22,9 sagt derselbe Engel statt \"Zeugnis Jesu\" die \"Propheten\", was zeigt, dass beide Ausdrücke mit der Gabe der Weissagung verbunden sind. (Den Zusammenhang dieser Gabe mit dem Volk des Überrests entfaltet Studium 26.)"
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Deut.18.21-22",
+              "ref": "5Mo 18,21-22"
+            }
+          ],
+          "comment": "Der Prüfstein eines Propheten ist das Eintreffen seiner Worte. Gott selbst nennt das Kriterium - die Wahrheit verteidigt sich selbst, sie fürchtet die Überprüfung nicht.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Was sagt es über Gott aus, dass er erlaubt, ja sogar gebietet, jene zu prüfen, die in seinem Namen reden?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "bedingte Weissagung (Ninive)",
+          "content": "Den Prüfstein aus 5Mose 18,22 muss man zusammen mit dem Grundsatz der bedingten Weissagung lesen (Jer 18,7-10). Jona verkündete: \"noch vierzig Tage, dann wird Ninive zerstört\" - und die Stadt wurde nicht zerstört, weil sie umkehrte. Jona blieb dennoch ein echter Prophet: Eine Gerichtsankündigung enthält eine verborgene Bedingung, und ihr Nicht-Eintreffen nach der Umkehr macht den Propheten nicht zu einem falschen.",
+          "questions": [
+            {
+              "id": "q24",
+              "text": "Warum stellt die Umkehr Ninives Gottes Prüfstein eines Propheten aus 5Mose 18,22 nicht infrage, sondern ergänzt ihn?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "1Thess.5.19-21",
+              "ref": "1Thess 5,19-21"
+            }
+          ],
+          "comment": "\"Den Geist löscht nicht aus … prüft alles, das Gute behaltet\". Das Gleichgewicht: Offenheit für das Wirken des Geistes und zugleich Unterscheidung.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Wie hält man das Gleichgewicht zwischen \"den Geist nicht auslöschen\" und \"alles prüfen\"?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Die Gabe der Heilung und Gottes Wirken heute",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Jas.5.14-16",
+              "ref": "Jak 5,14-16"
+            }
+          ],
+          "comment": "Der Kranke soll die Ältesten rufen, damit sie beten und ihn mit Öl salben; \"das Gebet des Glaubens wird den Kranken heilen\". Gott lädt uns ein, ihm die Krankheiten zu bringen - das Gebet um Heilung ist ein normaler Teil des Gemeindelebens.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Was hält dich davon ab, die Gemeinschaft in der Krankheit um Gebet zu bitten - und was sagt dieser Text dazu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "1Cor.12.9-10",
+              "ref": "1Kor 12,9-10"
+            }
+          ],
+          "comment": "Zu den Gaben des Geistes gehören auch \"Gaben der Heilung\" und das \"Wirken von Wundern\". Gott wirkt heute - die Heilung ist eine Gabe des Geistes und nicht nur eine alte Geschichte.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Warum, glaubst du, wird die Heilung hier eine \"Gabe\" genannt und nicht eine \"Belohnung\" oder ein \"Recht\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "die Gabe der Heilung: der gewöhnliche Weg und die Ausnahmen",
+          "content": "Paulus spricht von \"Gaben der Heilung\" im Plural (1Kor 12,9). Der gewöhnliche, von Gott gewiesene Weg, Heilung zu suchen, ist das Gebet und die Salbung mit Öl (Jak 5,14-15), wobei Heilung auch durch das Gebet allein gewährt werden kann. Das \"Wirken von Wundern\" (1Kor 12,10) ist mit der Gabe der Heilung verbunden, aber weiter gefasst - es umfasst das, was menschlich gesehen unmöglich scheint.",
+          "questions": [
+            {
+              "id": "q25",
+              "text": "Warum ist es gut, dass die Bibel einen \"gewöhnlichen Weg\" (Gebet und Salbung) nennt und zugleich Gott andere Weisen des Wirkens nicht verschließt?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "2Cor.12.7-9",
+              "ref": "2Kor 12,7-9"
+            }
+          ],
+          "comment": "Paulus bat dreimal um Heilung, hörte aber: \"Meine Gnade genügt dir\". Gott heilt nicht immer sofort und nicht immer so, wie wir bitten - seine Kraft wirkt auch in der Schwachheit. Das ist das Geheimnis des Leidens, nicht ein Mangel an Gottes Liebe.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Wie lässt sich der Glaube an die Heilung damit vereinbaren, dass Gott manchmal sagt: \"Meine Gnade genügt dir\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "John.9.1-3",
+              "ref": "Joh 9,1-3"
+            }
+          ],
+          "comment": "Jesus weist das einfache Schema \"Krankheit = Strafe für Sünde\" zurück. Das Leiden bleibt ein Geheimnis, in dem sich jedoch \"die Werke Gottes offenbaren\" sollen.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Was verändert die Zurückweisung des Denkens \"ich bin krank, weil ich schuldig bin\" im Blick auf das Leiden?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Gott teilt die Gläubigen nicht in \"Profis\" und \"Zuschauer\". Der Geist rüstet jeden zum Dienst aus und gibt mindestens eine Gabe - zum gemeinsamen Nutzen. Deine Gabe wird vom Leib Christi gebraucht: ohne dich fehlt etwas. Es lohnt sich, sie zu entdecken (oft mit Hilfe der Gemeinschaft) und zu gebrauchen, statt sie aus Furcht zu vergraben. Die Bibel lehrt auch eine weise Unterscheidung echter Gaben und Propheten - immer nach dem Wort und den Früchten. Und wenn wir krank sind, dürfen wir mutig um Gebet für Heilung bitten und darauf vertrauen, dass Gott heute wirkt - auch wenn seine Antwort manchmal ein Geheimnis bleibt und seine Gnade auch in der Schwachheit genügt.",
+    "challenge": "Frage in dieser Woche zwei Menschen, die dich kennen: \"Welche Gabe oder Stärke seht ihr in mir?\". Wähle eine Möglichkeit, diese Gabe in nächster Zeit im Dienst an einer konkreten Person zu gebrauchen. Wenn du mit einer Krankheit ringst - bitte die Gemeinschaft oder die Ältesten um Gebet (Jak 5,14)."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "DE translation of PL study dary-duchowe"
+  }
+}

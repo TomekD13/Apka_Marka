@@ -1,0 +1,470 @@
+{
+  "id": "une-esperance-plus-forte-que-la-mort",
+  "lang": "fr",
+  "title": "Une espérance plus forte que la mort",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 12,
+  "summary": "La Bible parle de la mort comme d'un « sommeil » dont la résurrection nous réveille au retour de Jésus - une espérance, et non un motif de peur. Nous découvrons cet enseignement, la mise en garde contre le spiritisme et les « contacts avec les morts », ainsi que la réponse biblique à la réincarnation. Le niveau PRO aborde la doctrine du purgatoire et les prières pour les morts.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "mort",
+    "résurrection",
+    "état des morts",
+    "espérance",
+    "spiritisme"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "La mort comme un sommeil",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "John.11.11-14",
+              "ref": "Jn 11:11-14"
+            }
+          ],
+          "comment": "Au sujet de Lazare décédé, Jésus dit : « il s'est endormi, mais je vais le réveiller » - puis il explique clairement : « Lazare est mort ». C'est donc Jésus lui-même qui appelle la mort un sommeil dont on peut être réveillé.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Qu'est-ce que l'image du « sommeil », employée par Jésus lui-même, change dans ta façon de penser la mort ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "le « sommeil » comme image de la mort (Jn 11:11)",
+          "content": "Le grec *koimaomai* (« s'endormir ») décrit à plusieurs reprises dans le NT la mort des croyants (Jn 11:11 ; 1 Th 4:13-15 ; 1 Co 15:6.18 ; Ac 7:60). De là vient que « cimetière » en grec se dit *koimeterion* - littéralement « dortoir, lieu de sommeil ». L'image du sommeil suppose un réveil : celui qui dort sera réveillé. C'est le cœur de l'espérance de la résurrection - la mort n'est pas une fin, mais un « sommeil » avant l'appel de Dieu.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "κοιμάομαι",
+              "translit": "koimaomai"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Comment le mot « sommeil » (avec la promesse d'un réveil) change-t-il ton rapport émotionnel à la mort ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Eccl.9.5-6",
+              "ref": "Ec 9:5-6"
+            }
+          ],
+          "comment": "« Les morts ne savent rien… ils n'ont plus aucune part à tout ce qui se fait sous le soleil ». L'état de mort est une inconscience - et non une existence parallèle qui se poursuivrait ailleurs.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Comment cette idée - que les morts « ne savent rien » - influence-t-elle les représentations populaires d'une vie « juste après la mort » ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Ps.146.4",
+              "ref": "Ps 146:4"
+            }
+          ],
+          "comment": "« Son souffle s'en va, il retourne à la terre ; ce jour-là, ses projets périssent ». Avec la mort cesse toute activité consciente de l'être humain - pensées, projets, sentiments.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Pour bien comprendre cet enseignement, que signifie l'affirmation qu'à la mort les « projets » de l'être humain « périssent » ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "ce qui « retourne à Dieu » au moment de la mort (Koh 12,7)",
+          "content": "Ec 12:7 dit : « la poussière retourne à la terre… et le souffle retourne à Dieu qui l'a donné ». Le « souffle » (héb. *ruach*) désigne ici le souffle de vie, l'étincelle divine qui anime, et non une « âme » consciente et autonome s'envolant au ciel. C'est l'inverse de l'acte créateur de Gn 2:7 : dans la mort, la poussière et le souffle se séparent, et l'être humain (la personne consciente) cesse d'exister jusqu'à la résurrection. « Le souffle retourne à Dieu » signifie donc : la vie retourne à celui qui l'a donnée, et non que le défunt continue de vivre consciemment.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "רוּחַ",
+              "translit": "ruach"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Ps.115.17",
+              "ref": "Ps 115:17"
+            }
+          ],
+          "comment": "« Ce ne sont pas les morts qui louent l'Éternel… mais nous, nous bénirons l'Éternel ». Les morts ne sont ni conscients ni actifs - y compris sur le plan religieux. C'est l'image cohérente de toute l'Écriture.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Comment ce verset s'accorde-t-il avec l'image de la mort comme sommeil, plutôt que comme passage immédiat au ciel ou en enfer ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Gen.2.7",
+              "ref": "Gn 2:7"
+            }
+          ],
+          "comment": "L'être humain ne « possède » pas une âme comme une partie séparée et immortelle - il « devint une âme vivante » lorsque la poussière s'unit au souffle de Dieu. La mort est la séparation de ces éléments (cf. Ec 12:7), et non la libération d'une âme immortelle.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Comment la compréhension de l'être humain comme un tout (poussière + souffle de vie) change-t-elle l'image de ce qui se passe au moment de la mort ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "« âme vivante », non « âme immortelle » (Rdz 2,7)",
+          "content": "L'hébreu *nefesh chayya* signifie « être / âme vivant(e) ». L'être humain ne *reçoit* pas une âme comme une partie séparée et immortelle - il *devient* un être vivant (*nefesh*) lorsque la poussière s'unit au « souffle de vie ». Le même mot *nefesh* est employé pour les animaux (Gn 1:20-21). De plus, la Bible dit que Dieu seul possède l'immortalité (1 Tm 6:16), et que les croyants la reçoivent comme un don seulement à la résurrection (1 Co 15:53-54) - non comme une qualité innée.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "נֶפֶשׁ חַיָּה",
+              "translit": "nefesz chajja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "La résurrection au retour de Jésus",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "1Thess.4.13-14",
+              "ref": "1 Th 4:13-14"
+            }
+          ],
+          "comment": "Paul ne veut pas que nous nous attristions « comme ceux qui n'ont pas d'espérance ». La réponse chrétienne à la mort n'est pas le déni du deuil, mais une espérance fondée sur la résurrection de Jésus.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "En quoi la tristesse « sans espérance » diffère-t-elle d'une tristesse habitée par l'espérance de la résurrection ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "1Thess.4.15-17",
+              "ref": "1 Th 4:15-17"
+            }
+          ],
+          "comment": "« Les morts en Christ ressusciteront premièrement », puis les vivants seront enlevés - tout cela s'accomplira au retour de Jésus. L'espérance des morts n'est pas « juste après la mort », mais au jour du retour du Seigneur.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Pourquoi est-il important que la résurrection soit liée à un événement précis - le retour de Jésus - et ne survienne pas aussitôt après la mort ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "John.5.28-29",
+              "ref": "Jn 5:28-29"
+            }
+          ],
+          "comment": "L'heure vient où « tous ceux qui sont dans les tombeaux entendront sa voix et en sortiront ». La résurrection est universelle et concrète - sortir du tombeau, à la voix de Jésus.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Que dit de l'espérance le fait que la résurrection soit la réponse à une « voix » personnelle de Jésus appelant hors du tombeau ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "les deux résurrections (Jn 5:28-29)",
+          "content": "Jésus parle de deux groupes : la « résurrection de vie » et la « résurrection de jugement ». L'Apocalypse développe cela par l'image de la « première résurrection » - celle des justes au retour de Jésus (Ap 20:4-6 ; 1 Th 4:16) - et de la résurrection générale des autres après le millénium. Cela met de l'ordre dans l'espérance : tous ne se relèvent pas au même instant, mais chacun « à son rang » (1 Co 15:23). Pour le croyant, ce qui compte est d'avoir part à la « première résurrection », sur laquelle « la seconde mort n'a point de pouvoir » (Ap 20:6).",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Quelle espérance trouve-t-on dans le fait que les croyants ont part à la « première résurrection », sur laquelle « la seconde mort n'a point de pouvoir » ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "1Cor.15.51-54",
+              "ref": "1 Co 15:51-54"
+            }
+          ],
+          "comment": "« En un clin d'œil… à la dernière trompette », les morts ressusciteront incorruptibles, et ce qui est mortel revêtira l'immortalité. L'immortalité est un don reçu à la résurrection, non une qualité que l'être humain possède déjà.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Que signifie le fait que l'immortalité soit un don reçu « à la résurrection », et non quelque chose que nous possédons par nature ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Dan.12.2",
+              "ref": "Dn 12:2"
+            }
+          ],
+          "comment": "« Beaucoup de ceux qui dorment dans la poussière de la terre se réveilleront » - déjà l'Ancien Testament parle de la mort comme d'un sommeil et d'un réveil. C'est une espérance biblique cohérente dès le commencement.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Comment le fait que cette même espérance apparaisse déjà chez Daniel renforce-t-il la confiance qu'on peut lui accorder ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Mise en garde : le spiritisme et les « contacts avec les morts »",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Isa.8.19-20",
+              "ref": "És 8:19-20"
+            }
+          ],
+          "comment": "« Le peuple ne consultera-t-il pas son Dieu ? Consultera-t-il les morts ? » - l'Écriture rejette clairement la recherche de contact avec les morts et renvoie « à la loi et au témoignage ». Puisque les morts dorment, tout prétendu « contact » ne vient pas d'eux.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Si les morts « ne savent rien » et dorment, qui - selon la Bible - peut se cacher derrière les prétendus « contacts avec les morts » ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Deut.18.10-12",
+              "ref": "Dt 18:10-12"
+            }
+          ],
+          "comment": "Dieu interdit sans équivoque la divination, l'évocation des esprits et le fait d'« interroger les morts », appelant cela une « abomination ». Ce n'est pas une curiosité, mais un véritable danger spirituel.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Pourquoi Dieu met-il en garde avec tant de fermeté contre ces pratiques - que cherche-t-il ainsi à protéger ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "le « séjour des morts » : shéol et hadès",
+          "content": "L'hébreu *shéol* et le grec *hadès* signifient simplement « séjour des morts, tombeau » - le sort commun de tous les défunts, justes et injustes (par ex. Jacob s'attend à descendre au shéol, Gn 37:35). Dans la Bible, ce n'est ni un lieu de souffrance consciente ni un lieu de récompense, mais l'état de mort-sommeil. Les représentations populaires plus tardives de l'« au-delà » comme lieu d'existence active projettent sur ces mots un contenu qu'ils n'avaient pas à l'origine.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "שְׁאוֹל",
+              "translit": "szeol"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "2Cor.11.14",
+              "ref": "2 Co 11:14"
+            }
+          ],
+          "comment": "« Satan lui-même se déguise en ange de lumière ». Les phénomènes qui se font passer pour des proches défunts peuvent être convaincants et pourtant trompeurs - c'est pourquoi la mesure reste la Parole.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Comment l'enseignement biblique sur la mort protège-t-il du risque de se laisser tromper par une voix ou une apparence « familière » d'un défunt ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Rev.16.14",
+              "ref": "Ap 16:14"
+            }
+          ],
+          "comment": "À la fin des temps agissent « des esprits de démons qui opèrent des prodiges ». La séduction qui imite le contact avec les morts s'inscrit dans une stratégie plus large du mal dans le grand conflit - d'où la nécessité de s'en tenir à l'Écriture.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Pourquoi la capacité d'accomplir des « prodiges » n'est-elle pas, en soi, une preuve qu'une chose vient de Dieu ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Et la réincarnation ? Une seule vie et un jugement",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Heb.9.27",
+              "ref": "Hé 9:27"
+            }
+          ],
+          "comment": "« Il est réservé aux hommes de mourir une seule fois, après quoi vient le jugement ». La Bible parle d'une seule vie et d'un seul jugement - non d'un cycle de réincarnations. Cela exclut la réincarnation.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Comment l'idée d'« une seule vie », et non de nombreuses réincarnations, influence-t-elle ta façon de considérer le temps dont tu disposes ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "la parabole de l'homme riche et de Lazare (Lc 16:19-31)",
+          "content": "Ce passage est parfois cité comme une « preuve » d'une vie consciente juste après la mort. Mais il a les traits d'une parabole : il emploie une image populaire de l'au-delà pour transmettre une leçon - non pour décrire la géographie de la mort. Sa pointe est dite explicitement : qui n'écoute pas « Moïse et les prophètes » (l'Écriture) ne croira pas « même si quelqu'un ressuscitait d'entre les morts » (v. 31). Lue à la lumière de textes clairs (Ec 9:5 ; Ps 146:4), elle ne contredit pas l'enseignement du sommeil de la mort, mais appelle à écouter la Parole dès maintenant.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Pourquoi, pour interpréter une parabole imagée, est-il plus sûr de fonder l'enseignement sur sa pointe explicite plutôt que sur les détails du décor ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "2Cor.5.10",
+              "ref": "2 Co 5:10"
+            }
+          ],
+          "comment": "« Nous devons tous comparaître devant le tribunal de Christ ». L'espérance du croyant n'est pas « une nouvelle chance dans une vie suivante », mais le Christ, qui au jugement est notre Défenseur. Le jugement est une bonne nouvelle pour ceux qui sont en lui.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "En quoi une espérance fondée sur une « prochaine réincarnation » diffère-t-elle d'une espérance fondée sur le Christ-Défenseur ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "John.3.16",
+              "ref": "Jn 3:16"
+            }
+          ],
+          "comment": "L'alternative à la mort n'est pas un « retour sous une autre forme », mais la « vie éternelle » comme don pour le croyant. C'est une réponse positive à la peur de la finitude.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Qu'est-ce qui donne le plus d'espérance : l'idée de réincarnations sans fin ou la promesse de la vie éternelle comme don ? Pourquoi ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "le purgatoire et les prières pour les morts",
+          "content": "Question sensible : existe-t-il après la mort un « purgatoire », et les prières des vivants peuvent-elles aider les morts ? La Bible ne l'enseigne pas. Premièrement, l'état des morts est un sommeil inconscient (Ec 9:5-6.10 ; Ps 146:4), et non un lieu de souffrance purificatrice. Deuxièmement, le salut est un don de la grâce reçu par la foi dans cette vie (Ep 2:8-9 ; Jn 3:16), et non quelque chose qu'on pourrait « parfaire » par la souffrance ou obtenir par des prières après la mort. Troisièmement, la décision concernant la relation avec Dieu se prend de notre vivant (Hé 9:27 - « mourir une seule fois, après quoi vient le jugement »). Cela n'enlève rien à l'amour pour les proches défunts - leur espérance est sûre et belle : la résurrection au retour de Jésus (1 Th 4:16). La critique porte sur l'enseignement, non sur les personnes qui, de bonne foi, prient pour les morts ; la mesure est l'Écriture (Es 8:20).",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Si le salut est un don reçu de notre vivant, et que les morts dorment jusqu'à la résurrection, quelle devient la véritable source de consolation après la perte d'un proche ?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "La Bible retire à la mort son effroi en l'appelant un « sommeil ». Les morts ne souffrent pas, n'errent pas, ne nous observent pas - ils dorment, pour être réveillés par Jésus à son retour. C'est pourquoi ne cherche pas le contact avec les morts : puisqu'ils dorment, tout « contact » de ce genre est une séduction, contre laquelle l'Écriture met expressément en garde. Aucune chaîne de réincarnations ne t'attend non plus - tu as une seule vie et un Sauveur qui, au jugement, est ton Défenseur. Tout cela converge vers une seule vérité : la mort n'est pas la fin de l'espérance, mais un sommeil avant le réveil.",
+    "challenge": "Si tu traverses la perte d'un proche, lis dans le calme 1 Th 4:13-18 et note en quoi l'espérance de la résurrection diffère de la « tristesse sans espérance ». S'il t'est arrivé d'avoir affaire à des pratiques de contact avec les morts (séances, divination, « signes » des défunts), rejette-les consciemment dans la prière et fonde ton espérance sur la promesse du retour de Jésus."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "FR translation of PL study co-po-smierci"
+  }
+}

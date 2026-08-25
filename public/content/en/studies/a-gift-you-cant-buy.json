@@ -1,0 +1,523 @@
+{
+  "id": "a-gift-you-cant-buy",
+  "lang": "en",
+  "title": "A gift you can't buy",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 5,
+  "summary": "Salvation is a gift of grace received through faith, not a reward earned by works. God justifies the sinner and gives the assurance of eternal life right now - an assurance grounded in Christ, not in my own sinlessness. Works are the fruit of salvation, never its price.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "grace",
+    "faith",
+    "salvation",
+    "justification",
+    "assurance",
+    "gift",
+    "works"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "By grace, not by works",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Eph.2.8-9",
+              "ref": "Eph 2:8-9"
+            }
+          ],
+          "comment": "Three key words: \"by grace... through faith... a gift.\" And a clear denial: \"not from works, so that no one may boast.\" Salvation is a present from start to finish.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "How does life look different when salvation is a gift to be received rather than a reward to be earned?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"grace\" as a gift without merit",
+          "content": "The Greek *charis* means a gift given out of pure kindness, with no merit and no expectation of repayment. In Paul's theology grace is not \"help toward saving yourself,\" but the entire foundation: God gives what we could neither earn nor repay. That is why salvation \"by grace through faith\" excludes boasting (Eph 2:9) - a gift, by definition, is not a wage.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χάρις",
+              "translit": "charis"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "How does understanding grace as a gift \"without merit and without repayment\" guard against two extremes: despair and pride?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Titus.3.5",
+              "ref": "Titus 3:5"
+            }
+          ],
+          "comment": "God saved us \"not because of works of righteousness that we had done, but according to his mercy.\" The starting point is his mercy, not our record.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "What in you resists the thought that you do not have to (and cannot) earn salvation for yourself?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Rom.4.4-5",
+              "ref": "Rom 4:4-5"
+            }
+          ],
+          "comment": "Paul contrasts \"wages\" (owed for work) with a \"gift\" (credited by grace to the one who believes). God \"justifies the ungodly\" - not the deserving.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Why would calling salvation \"wages\" completely change its meaning?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "\"credited\" is an accounting term (Rom 4)",
+          "content": "In Rom 4 the word *logizomai* appears again and again - \"to credit, to enter on an account\" (the language of bookkeeping). God \"credits\" righteousness to the believer that the believer did not produce, the way a gift is entered into someone's account. This is not a fiction - it is the decision of God who, for Christ's sake, treats the sinner as righteous. Faith does not \"earn\" this entry; it receives it.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "λογίζομαι",
+              "translit": "logizomai"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Rom.11.6",
+              "ref": "Rom 11:6"
+            }
+          ],
+          "comment": "Grace and works as the basis of salvation are mutually exclusive: \"if by grace, then it is no longer by works, otherwise grace would no longer be grace.\" They cannot be mixed.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Why does even \"a little merit\" added to grace spoil the whole Gospel?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Gal.2.16",
+              "ref": "Gal 2:16"
+            }
+          ],
+          "comment": "\"A person is not justified by works of the Law, but through faith.\" This is not a belittling of God's Law, but a recognition that the Law does not save us.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "What function, then, does God's Law serve, if it does not save? (Cf. Gal 3:24 - a \"guardian\" leading us to Christ.)"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"faith\" is trust, not mere mental assent",
+          "content": "Biblical \"faith\" (Greek *pistis*) is not only the conviction that something is true, but trusting and leaning on someone - the same word also carries the sense of \"faithfulness.\" So justification \"by faith\" does not mean \"by holding correct opinions,\" but \"by entrusting yourself to Christ.\" That is why faith is not just another \"work\" we boast about - it is an empty hand reached out for the gift.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "πίστις",
+              "translit": "pistis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Justification: a gift received through faith",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Rom.3.23-24",
+              "ref": "Rom 3:23-24"
+            }
+          ],
+          "comment": "All have sinned - and those same \"all\" are \"justified freely by his grace.\" The same universality of sin and universality of the offer.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "What does it mean to you that you stand in the same line of \"those who need grace\" as every other person?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "\"to justify\" is a verdict, not a process",
+          "content": "The verb *dikaioō* comes from the language of the courtroom and means \"to declare righteous, to acquit.\" Justification is God's verdict that changes the sinner's status: not \"gradually made better,\" but \"declared righteous\" for Christ's sake, received by faith. This is the basis of assurance: the verdict has already been handed down and does not depend on the ups and downs of my spiritual condition.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "δικαιόω",
+              "translit": "dikaioō"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Why does understanding justification as a verdict already pronounced (rather than a process of \"becoming good\") give a firmer assurance?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Rom.5.1",
+              "ref": "Rom 5:1"
+            }
+          ],
+          "comment": "\"Justified by faith, we have peace with God.\" Justification is not only a change of legal status, but the end of hostility and the beginning of peace.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "What is the \"peace with God\" that cannot be produced by fear or effort?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Gen.15.6",
+              "ref": "Gen 15:6"
+            }
+          ],
+          "comment": "Already Abraham \"believed God, and it was credited to him as righteousness.\" The principle of \"righteousness through faith\" is not Paul's novelty - it is the heart of the Bible from the very beginning.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "What does it tell you that God \"credited righteousness\" to Abraham for his faith, before he had done anything?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "Abraham justified before the Law and circumcision",
+          "content": "Paul stresses the sequence: God reckoned Abraham righteous (Gen 15:6) many years before circumcision (Gen 17) and whole centuries before the Law was given at Sinai. This is a crushing argument: if the \"father of believers\" was justified by faith alone, before circumcision or the Law existed, then we too are not saved by works of the Law, but by faith - exactly as he was (Rom 4:9-12)."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Luke.18.13-14",
+              "ref": "Luke 18:13-14"
+            }
+          ],
+          "comment": "The tax collector does not list his merits but pleads: \"God, be merciful to me, a sinner\" - and he is the one who \"went home justified.\" Faith is an empty hand reached out.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Are you closer today to the posture of the Pharisee (\"I have something to show\") or the tax collector (\"I throw myself on mercy\")?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "The assurance of salvation right now",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "1John.5.11-13",
+              "ref": "1 John 5:11-13"
+            }
+          ],
+          "comment": "John writes plainly: \"so that you may know that you have eternal life.\" Assurance is not arrogance - it is the very purpose for which this testimony was given to us.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Until now, did the assurance of salvation seem like presumption to you? What does this text change?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "textual",
+          "label": "the aim of John's letter: \"so that you may KNOW\" (1 John 5:13)",
+          "content": "The whole first part of John's letter moves toward this sentence: \"I have written... so that you may know that you have eternal life.\" The verb used (\"that you may know\") points to certain knowledge, not pious wishful thinking. The assurance of salvation is here the declared aim of the inspired text - not presumption, but the fruit of trusting God's testimony about his Son (1 John 5:9-12).",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "If the assurance of salvation is the aim of an inspired letter, how should we treat the constant doubt \"am I really saved?\""
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "John.5.24",
+              "ref": "John 5:24"
+            }
+          ],
+          "comment": "\"Whoever hears... and believes has (now) eternal life and does not come into judgment, but has passed from death to life.\" Present and perfect tense - this is already a fact, not just a hope.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "What does it mean that eternal life is something the believer \"has\" already now, and not only will receive someday?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "John.10.28-29",
+              "ref": "John 10:28-29"
+            }
+          ],
+          "comment": "\"They will never perish, and no one will snatch them out of my hand.\" Assurance rests on the strength of the Shepherd, not on the firmness of my own grip.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "How does it change your sense of security that Jesus' hand holds me, rather than my hand holding his?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Rom.8.38-39",
+              "ref": "Rom 8:38-39"
+            }
+          ],
+          "comment": "\"Nothing will be able to separate us from the love of God in Christ.\" The list is exhaustive - even \"I myself\" am not an exception in it, able to fall outside that love.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "What on your personal list of \"but maybe this will separate me?\" has Paul already accounted for here?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Phil.1.6",
+              "ref": "Phil 1:6"
+            }
+          ],
+          "comment": "\"He who began a good work in you will bring it to completion.\" Salvation is God's project, and he does not abandon what he has begun.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "By whose perseverance is your salvation upheld - yours or God's? What does that change?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "the Spirit as the \"down payment\" of salvation",
+          "content": "To confirm the promise, God gives believers the Spirit as an *arrabon* (Eph 1:14; 2 Cor 1:22; 5:5) - \"a down payment, a deposit, a guarantee.\" In commercial Greek it was a deposit that sealed a transaction; in modern Greek the same word means an engagement ring. The Spirit's presence in the believer's life is therefore a \"down payment of heaven\" - God's guarantee that what he began he will bring to completion (Phil 1:6).",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἀρραβών",
+              "translit": "arrabon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Assurance in Christ, works as fruit",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Eph.2.10",
+              "ref": "Eph 2:10"
+            }
+          ],
+          "comment": "Right after \"not from works\" (Eph 2:9) comes: we are \"created... for good works.\" A good life is the goal and fruit of salvation, not its price.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "How do you understand the difference: works \"in order to be saved\" versus works \"because I am saved\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "justification and sanctification (not a contradiction)",
+          "content": "The Bible says both \"by grace, not from works\" (Eph 2:8-9) and \"faith without works is dead\" (Jas 2:17). This is not a contradiction, but two aspects: justification (being accepted by God) is free and once-for-all; sanctification (the transformation of life) is its fruit and a process. Works are not the root of salvation, but its fruit - the order is always: first the gift, then the response (1 John 4:19).",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "How does the distinction between \"root and fruit\" resolve the apparent conflict between Paul and James?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "John.15.4-5",
+              "ref": "John 15:4-5"
+            }
+          ],
+          "comment": "Fruit is born from \"abiding\" in the Vine, not from the branch's effort: \"apart from me you can do nothing.\" First the relationship, then the fruit.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "What does it practically mean to \"abide in Jesus\" instead of \"trying on your own\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Titus.2.11-14",
+              "ref": "Titus 2:11-14"
+            }
+          ],
+          "comment": "Here \"grace... teaches us\" to renounce evil and live godly lives. Grace is not permission for a careless life - it is a power that truly transforms.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "How can grace be at once free and lead to real change of life?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Jas.2.17-18",
+              "ref": "Jas 2:17-18"
+            }
+          ],
+          "comment": "\"Faith without works is dead.\" This is not a denial of grace but its test: living faith always bears fruit. Fruit proves life; it does not buy it.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "How does \"faith that bears fruit\" (living) differ from \"faith that tries to settle something with its fruit\" (bargaining)?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "Rom.7.24-25",
+              "ref": "Rom 7:24-25"
+            }
+          ],
+          "comment": "Even while crying out \"wretched man that I am!\", Paul at once thanks God \"through Jesus Christ.\" Assurance does not depend on my sinlessness, but on Christ.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Why does awareness of your own weakness not have to undermine an assurance of salvation grounded in Jesus?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Salvation cannot be bought or earned - it can only be received like a gift. By grace, through faith, God declares the sinner righteous for Christ's sake and gives the assurance of eternal life right now. This assurance does not rest on how good I am today, but on who Jesus is and what he has done. Your sinlessness is not a condition of salvation - yes, a changed life will come, but as the fruit of the gift, never as its price.",
+    "challenge": "Read 1 John 5:11-13 and John 5:24 out loud, inserting your own name into them. Write down one sentence of assurance in the first person (e.g. \"I have eternal life, because I have the Son\"). This week, whenever the thought \"I must earn it\" comes back, answer with that sentence - and do one good work not to gain something, but out of gratitude for what you have already received."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "EN translation of PL study zbawienie-za-darmo"
+  }
+}

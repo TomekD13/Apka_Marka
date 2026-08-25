@@ -1,0 +1,540 @@
+{
+  "id": "nawrocenie-i-nowe-zycie",
+  "lang": "pl",
+  "title": "Jak zacząć od nowa?",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 6,
+  "summary": "Nawrócenie to nie samopoprawa, lecz zmiana kierunku: pokuta i oddanie życia Bogu, w którym On rodzi człowieka na nowo, daje nowe serce i czyni nowym stworzeniem. To początek relacji odnawianej każdego dnia, a nie jednorazowy akt do odhaczenia.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "nawrócenie",
+    "pokuta",
+    "nowe narodzenie",
+    "nowe serce",
+    "nowe stworzenie",
+    "oddanie życia"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Pokuta: zmiana kierunku",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Mark.1.15",
+              "ref": "Mk 1,15"
+            }
+          ],
+          "comment": "Pierwsze słowa publicznej misji Jezusa: „nawróćcie się i wierzcie w Ewangelię\". Nawrócenie i wiara to dwie strony tego samego zwrotu ku Bogu.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Co znaczy „nawrócić się\" - sama poprawa zachowania czy zmiana tego, komu ufam i ku komu idę?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "„nawrócenie\" to zmiana myślenia i kierunku",
+          "content": "Greckie *metanoia* nie oznacza w pierwszym rzędzie „smutku\" ani „kary\", lecz „zmianę myślenia i nastawienia\" prowadzącą do zmiany kierunku życia. To nie samobiczowanie, lecz nowy sposób patrzenia, z którego wynika nowa droga. Pokuta i wiara z Mk 1,15 to dwie strony jednego zwrotu: odwracam się od dotychczasowej drogi, bo zaufałem Dobrej Nowinie.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μετάνοια",
+              "translit": "metanoia"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Jak rozumienie nawrócenia jako „zmiany myślenia i kierunku\" (a nie samego żalu) zmienia praktykę pokuty?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Acts.3.19",
+              "ref": "Dz 3,19"
+            }
+          ],
+          "comment": "„Zmieńcie więc sposób myślenia i nawróćcie się, aby wasze grzechy zostały zgładzone\". Pokuta nie jest karą, którą sobie nakładam - jest drogą do uwolnienia i „odświeżenia\".",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Z czym dotąd kojarzyła ci się „pokuta\" - z ciężarem czy z ulgą? Co zmienia ten tekst?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Luke.15.17-20",
+              "ref": "Łk 15,17-20"
+            }
+          ],
+          "comment": "Syn marnotrawny najpierw „pomyślał\", a potem „Wstał więc i wrócił do swojego ojca\". Nawrócenie to świadomość + realny ruch w stronę domu.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Który element bywa trudniejszy: zobaczyć prawdę o sobie czy zrobić pierwszy krok z powrotem? Dlaczego?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "przywrócenie do synostwa, nie na próbę (Łk 15)",
+          "content": "Syn liczył najwyżej na status najemnika, ale ojciec przywraca go w pełni jako syna: szata (godność), pierścień (władza i przynależność do rodziny), sandały (nosili je wolni, nie niewolnicy) i uczta. To obraz nawrócenia w oczach Boga: nie „okres próbny\" ani „druga liga\", lecz natychmiastowe, pełne przywrócenie do rodziny. Powrót do Boga nie czyni z nas sług na warunkach - czyni nas znów dziećmi."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "2Cor.7.10",
+              "ref": "2 Kor 7,10"
+            }
+          ],
+          "comment": "Paweł rozróżnia „smutek według Boga\", który „sprawia nawrócenie\", od jałowego smutku „tego świata\". Chodzi o żal prowadzący do zmiany, nie o samobiczowanie.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Czym różni się żal, który prowadzi do Boga i do zmiany, od żalu, który tylko pogrąża?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Isa.55.7",
+              "ref": "Iz 55,7"
+            }
+          ],
+          "comment": "„Niech niegodziwy porzuci swą drogę [...] Niech powróci do PANA, a On ulituje się nad nim\". Nawrócenie to porzucenie jednej drogi i przyjęcie Bożego przebaczenia, które jest „obfite\".",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Co mówi o Bogu to, że na powracającego czeka nie wyrzut, lecz „obfite\" przebaczenie?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "hebrajskie „szub\": zawróć i wróć",
+          "content": "Starotestamentowym odpowiednikiem nawrócenia jest *szub* - „zawrócić, odwrócić się i wrócić\". To słowo z języka drogi: ktoś szedł w jedną stronę, zatrzymuje się, odwraca i wraca do domu. Dlatego prorocy wołają „nawróćcie się (wróćcie) do Pana\". Nawrócenie jest więc obrotem całej osoby ku Bogu, nie samym uczuciem żalu ani samą kosmetyczną poprawą uczynków.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "שׁוּב",
+              "translit": "szub"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Oddanie życia Bogu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Rom.12.1",
+              "ref": "Rz 12,1"
+            }
+          ],
+          "comment": "Odpowiedzią na Boże miłosierdzie jest oddanie „samych siebie\" jako „żywej ofiary\". Nie fragmentu życia czy niedzieli - całości.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Co u ciebie najtrudniej oddać Bogu „w całości\", a co chętnie zostawiłbyś tylko dla siebie?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Gal.2.20",
+              "ref": "Ga 2,20"
+            }
+          ],
+          "comment": "„Już nie ja żyję, lecz żyje we mnie Chrystus.\" Oddanie życia to nie utrata siebie, lecz wymiana: moje stare „ja\" za życie Chrystusa we mnie.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Czy oddanie życia Bogu brzmi dla ciebie bardziej jak strata, czy jak zysk? Co przeważa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Luke.9.23",
+              "ref": "Łk 9,23"
+            }
+          ],
+          "comment": "Jezus zaprasza, by „codziennie\" brać krzyż i iść za Nim. Słowo „codziennie\" pokazuje, że oddanie życia jest rytmem, nie jednorazową decyzją.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Co mogłoby u ciebie znaczyć „codzienne\" pójście za Jezusem - w konkretach jutrzejszego dnia?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Nowe narodzenie",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "John.3.3",
+              "ref": "J 3,3"
+            }
+          ],
+          "comment": "Jezus mówi Nikodemowi: „jeśli się ktoś nie narodzi z góry, nie może ujrzeć Królestwa Boga\". Potrzebny jest nowy początek, nie kosmetyka starego życia.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Dlaczego Jezus mówi o „nowym narodzeniu\", a nie po prostu o „poprawie\"? Co to sugeruje o naszej sytuacji?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "„na nowo\" znaczy też „z góry\" (J 3,3)",
+          "content": "Greckie *anothen* ma podwójne znaczenie: „na nowo\" oraz „z góry, od Boga\". Ta dwuznaczność jest celowa: nowe narodzenie jest jednocześnie nowym początkiem i dziełem pochodzącym z góry (z Ducha). Nieporozumienie Nikodema (zrozumiał tylko „ponownie\", po ludzku) uwypukla sedno: źródłem tych narodzin jest niebo, nie ludzka biologia ani sama wola.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἄνωθεν",
+              "translit": "anothen"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Co zyskujemy, czytając nowe narodzenie zarazem jako „na nowo\" i „z góry\"? Co tracimy, biorąc tylko jedno znaczenie?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "John.3.5-6",
+              "ref": "J 3,5-6"
+            }
+          ],
+          "comment": "Narodzenie „z Ducha\" to dzieło Boga, nie nasz wyczyn: „co się narodziło z Ducha, jest duchem\". My się rodzimy - ale rodzi nas Ktoś inny.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Co znaczy, że nowego życia nie da się „wyprodukować\" wysiłkiem, lecz można je tylko otrzymać?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "John.3.7-8",
+              "ref": "J 3,7-8"
+            }
+          ],
+          "comment": "Jezus porównuje działanie Ducha do wiatru: nie kontrolujemy go, ale widzimy skutki. Nowe narodzenie bywa tajemnicze, lecz realne i rozpoznawalne.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Po jakich „skutkach\" (jak po szumie wiatru) można rozpoznać, że w czyimś życiu działa Boży Duch?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "1Pet.1.23",
+              "ref": "1 P 1,23"
+            }
+          ],
+          "comment": "„Odrodzeni... z nasienia niezniszczalnego, przez Słowo Boże.\" Narzędziem nowego narodzenia jest żywe Słowo - dlatego tak ważne jest karmienie się Biblią.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Jaką rolę w „rodzeniu na nowo\" może odgrywać regularne spotkanie z Bożym Słowem?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "„odrodzenie\" / palingenezja (Tt 3,5)",
+          "content": "Nowe narodzenie nazwane jest też *palingenesia* - „ponowne zaistnienie, odrodzenie\" (Tt 3,5: „obmycie odrodzenia\"). Tym samym słowem Jezus określa odnowienie całego świata przy końcu (Mt 19,28). To znaczące zestawienie: ta sama moc, która kiedyś odnowi cały wszechświat, działa już teraz w odradzającym się człowieku. Nawrócenie to początek nowego stworzenia, które dopełni się w skali kosmicznej.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "παλιγγενεσία",
+              "translit": "palingenesia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Nowe serce i nowe stworzenie",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Ezek.36.26",
+              "ref": "Ez 36,26"
+            }
+          ],
+          "comment": "Bóg obiecuje: „dam wam serce nowe... usunę serce kamienne, a dam serce z ciała\". Przemiana zaczyna się od wnętrza, którego sami nie umiemy zmienić.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Czego potrzebuje „serce z kamienia\", by stać się „sercem z ciała\" - i kto jest tu sprawcą zmiany?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "nowe serce jako obietnica Nowego Przymierza",
+          "content": "Ez 36,26-27 należy do obietnic Nowego Przymierza (por. Jr 31,31-34), danych ludowi na wygnaniu, gdy własne siły zawiodły. Bóg zapowiada nie tylko przebaczenie, ale wewnętrzną przemianę: Prawo wypisane w sercu i własny Duch uzdalniający do posłuszeństwa. To biblijny fundament tezy, że posłuszeństwo jest owocem działania Boga w człowieku (przemienione serce), a nie wstępnym warunkiem, który człowiek sam musi spełnić.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Jak obietnica „nowego serca\" tłumaczy, dlaczego prawdziwa zmiana zaczyna się od Boga, a nie od zaciskania zębów?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Ezek.36.27",
+              "ref": "Ez 36,27"
+            }
+          ],
+          "comment": "„Ducha Mojego dam w wasze wnętrze i sprawię, że będziecie postępowali według Moich nakazów\". Nawet posłuszeństwo jest darem: to Bóg „sprawia\", że chcemy i możemy.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Jak to zmienia obraz pobożnego życia, że Bóg nie tylko nakazuje, ale sam uzdalnia do niego od środka?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "2Cor.5.17",
+              "ref": "2 Kor 5,17"
+            }
+          ],
+          "comment": "„Jeśli ktoś jest w Chrystusie, jest nowym stworzeniem; stare przeminęło, nastało nowe\". Tożsamość wierzącego określa nie przeszłość, lecz nowy początek w Chrystusie.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Co znaczyłoby dla ciebie patrzeć na siebie nie przez pryzmat „starego\", lecz „nowego stworzenia\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "„nowe stworzenie\" (2 Kor 5,17)",
+          "content": "Paweł używa wyrażenia *kaine ktisis* - „nowe stworzenie\". To samo słowo (*ktisis*), którym Biblia opisuje akt stworzenia świata. Przesłanie jest mocne: gdy ktoś jest w Chrystusie, dzieje się coś tej samej rangi, co „na początku\" - Bóg stwarza na nowo. Tożsamość wierzącego nie jest więc „poprawioną wersją starego\", lecz nowym dziełem Stwórcy.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "καινὴ κτίσις",
+              "translit": "kaine ktisis"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Eph.4.22-24",
+              "ref": "Ef 4,22-24"
+            }
+          ],
+          "comment": "Obraz przebierania się: „odłożyć starego człowieka... przyoblec nowego, stworzonego według Boga\". Nowe życie ma realny, zauważalny kształt.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Co w twoim życiu warto byłoby „odłożyć\", a co „przyoblec\", gdyby to obraz nowej garderoby?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Phil.2.13",
+              "ref": "Flp 2,13"
+            }
+          ],
+          "comment": "„Bóg sprawia w was i chcenie, i działanie.\" Nowe życie to współpraca, w której inicjatywa i moc należą do Boga, a odpowiedź - do mnie.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Jak rozumiesz równowagę: Bóg „sprawia, że pragniecie i działacie\", a ja mam mu się poddać, nie zastąpić Go własnym wysiłkiem?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "współpraca, nie zawody (Flp 2,12-13)",
+          "content": "Paweł zestawia dwie rzeczy, które wydają się sprzeczne: „z bojaźnią sprawujcie swoje zbawienie\" i zaraz „to Bóg sprawia w was chcenie i działanie\". Nie są w opozycji: mój wysiłek nie zastępuje Boga ani Go nie zmusza - jest odpowiedzią na Jego wcześniejsze działanie we mnie. Nowe życie to nie wyścig „ja kontra Bóg\", lecz współpraca, w której pierwsza i ostatnia jest Jego moc, a ja jej nie blokuję, lecz się jej poddaję."
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Codzienna relacja, nie jednorazowy akt",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "2Cor.4.16",
+              "ref": "2 Kor 4,16"
+            }
+          ],
+          "comment": "„Nasz wewnętrzny człowiek odnawia się z dnia na dzień.\" Nowe życie nie jest pojedynczym wydarzeniem z przeszłości, lecz codziennym odnawianiem.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Co praktycznie mogłoby znaczyć w twoim dniu „odnawianie się\" z Bogiem - rano, w ciągu dnia, wieczorem?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "1John.1.9",
+              "ref": "1 J 1,9"
+            }
+          ],
+          "comment": "Gdy upadnę, droga powrotu jest otwarta: „jeśli wyznajemy grzechy, On... przebaczy\". Nawrócenie to także codzienne wracanie, nie jednorazowy start bez prawa do potknięć.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Co daje pewność, że potknięcie nie przekreśla relacji, lecz można po nim natychmiast wrócić do Boga?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u20",
+          "passage": [
+            {
+              "osis": "Phil.3.13-14",
+              "ref": "Flp 3,13-14"
+            }
+          ],
+          "comment": "Paweł „zapomina o tym, co za nim\", i „wytęża się ku temu, co przed nim\". Nowe życie ma kierunek i cel - to droga, nie meta zaliczona raz na zawsze.",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Co w przeszłości najtrudniej ci „zostawić za sobą\", by móc iść dalej za Jezusem?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Nawrócenie to nie heroiczna samopoprawa, lecz zwrot: odwracam się od własnej drogi i wracam do Boga, oddając Mu życie. A wtedy On robi coś, czego ja nie potrafię - rodzi mnie na nowo, daje nowe serce, czyni nowym stworzeniem. To nie jednorazowy akt do odhaczenia w kalendarzu, lecz początek relacji odnawianej każdego dnia, w której nawet po upadku droga powrotu jest zawsze otwarta.",
+    "challenge": "Wyznacz w tym tygodniu jeden konkretny moment dnia (np. rano) na „odnowienie\" relacji: oddaj Bogu nadchodzący dzień i jedną sprawę, w której chcesz, by to On „sprawiał chcenie i działanie\" (Flp 2,13). Jeśli się potkniesz, nie odkładaj powrotu - od razu skorzystaj z 1 J 1,9. Pod koniec tygodnia zapisz jeden zauważony „owoc\" (jak szum wiatru z J 3,8), po którym poznajesz, że to nie tylko twój wysiłek, lecz działanie Ducha."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "status: draft needsReview: true generatedBy: claude notes: Ciekawostki PRO (8) rozłożone w sekcjach, przy tekstach, których dotyczą (nie na końcu). Źródła tła doktrynalnego: `books/_txt/00107 Salvation`, `00103 Doctrine of God` (handbook ADS). Formy oryginalne (PRO) do weryfikacji u recenzenta: `μετάνοια`, `ἄνωθεν`, `παλιγγενεσία`, `καινὴ κτίσις` (grc); `שׁוּב` (hbo) potwierdzić zapis i transliterację. Akcenty ADS: nowe serce/Duch jako dar Nowego Przymierza, posłuszeństwo = owoc działania Boga (nie warunek), relacja zamiast jednorazowego aktu, łaska pierwsza, pełne przywrócenie do synostwa zgodnie z briefem. Tekst wersetów celowo NIE jest wstawiony tylko odnośniki (osis + ref); treść dociągana z przekładu."
+  }
+}

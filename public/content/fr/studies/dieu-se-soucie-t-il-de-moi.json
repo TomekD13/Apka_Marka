@@ -1,0 +1,488 @@
+{
+  "id": "dieu-se-soucie-t-il-de-moi",
+  "lang": "fr",
+  "title": "Dieu se soucie-t-il de moi ?",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 1,
+  "summary": "Une première rencontre avec le Dieu qui me connaît personnellement, qui m'a créé par amour et qui prend soin de mon quotidien - un point de départ pour une relation, non pour une religion.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "Dieu",
+    "amour",
+    "création",
+    "sollicitude",
+    "identité"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Y a-t-il Quelqu'un à qui je tiens à coeur ?",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Ps.139.1-4",
+              "ref": "Ps 139:1-4"
+            }
+          ],
+          "comment": "Avant de demander « Dieu existe-t-il ? », le Psaume pose une autre question : quelqu'un me connaît-il vraiment. Dieu connaît chaque pensée et chaque parole avant même que je la prononce.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Que ressens-tu en lisant que Quelqu'un te connaît à ce point - de l'inquiétude ou du soulagement ? Pourquoi ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Ps.139.13-16",
+              "ref": "Ps 139:13-16"
+            }
+          ],
+          "comment": "Je ne suis ni un hasard ni une erreur - j'ai été « tissé » et inscrit dans le livre de Dieu avant d'avoir fait quoi que ce soit.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Qu'est-ce que change, dans le regard que tu portes sur toi-même, l'idée que tu existes par un dessein et non par hasard ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "background",
+          "label": "Le Psaume 139 comme consolation, non comme menace",
+          "content": "L'omniscience et l'omniprésence de Dieu dans le Ps 139 ne sont pas présentées comme une surveillance, mais comme la sollicitude de Celui qui connaît et n'abandonne pas. C'est la clé d'interprétation de tout le psaume : « tu me connais » signifie ici « tu tiens à moi ».",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Le fait que Dieu te connaisse te paraît-il menaçant ou apaisant ? Qu'est-ce qui fait pencher la balance ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "« dans ton livre étaient inscrits mes jours » (Ps 139,16)",
+          "content": "L'image vient du monde des rouleaux anciens et des registres de cour, où l'on consignait les destinées et les noms. Le psalmiste dit que Dieu « voyait » ses jours avant qu'aucun n'existe - une manière poétique d'exprimer que ma vie n'est pas une série de hasards sans auteur ni sens."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Ps.8.4-6",
+              "ref": "Ps 8:4-6"
+            }
+          ],
+          "comment": "Face à l'immensité de l'univers, l'homme paraît minuscule - et pourtant Dieu se souvient de lui et le couvre de dignité.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Quand t'es-tu senti « petit » ou insignifiant pour la dernière fois ? Quelle réponse le Psaume y apporte-t-il ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Le Dieu qui EST amour",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "1John.4.8-10",
+              "ref": "1 Jn 4:8-10"
+            }
+          ],
+          "comment": "La Bible ne dit pas seulement que Dieu aime - elle dit que Dieu *est* amour, et la preuve en est qu'il est le premier à venir vers nous.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Quelle différence y a-t-il entre l'affirmation « Dieu aime » et « Dieu est amour » ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "« Dieu est amour » (1 Jn 4:8)",
+          "content": "En grec, « amour » se dit *agapē* - un amour qui se sacrifie, qui choisit le bien de l'autre, indépendamment de ses mérites. La phrase « Dieu est amour » décrit non seulement ce que Dieu fait, mais ce qu'il est : l'amour est sa nature, non une humeur.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ὁ θεὸς ἀγάπη ἐστίν",
+              "translit": "ho theos agapē estin"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Comment le fait de comprendre l'*agapē* comme un amour qui choisit (et non qui répond à un amour reçu) change-t-il l'image de Dieu ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "John.3.16",
+              "ref": "Jn 3:16"
+            }
+          ],
+          "comment": "L'amour de Dieu a une adresse précise - le monde, donc moi aussi - et un prix précis : son Fils.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Si tu mettais ton prénom à la place du « monde », comment ce verset résonnerait-il pour toi ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Rom.5.8",
+              "ref": "Rm 5:8"
+            }
+          ],
+          "comment": "Dieu n'a pas attendu que je m'améliore. Il a montré son amour *alors que* j'étais encore détourné de lui.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Qu'est-ce que cela signifie pour quelqu'un qui pense devoir d'abord « mériter » d'être aimé de Dieu ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Jer.31.3",
+              "ref": "Jr 31:3"
+            }
+          ],
+          "comment": "L'amour de Dieu n'est pas un sentiment passager - il est « éternel », tenace, en quête de nous.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Qu'est-ce que cela signifie que quelqu'un t'aime d'un « amour éternel », et non d'un amour qui dépend de ta forme du moment ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "« amour éternel » et « bonté » (Jr 31:3)",
+          "content": "« Je t'ai aimé d'un amour éternel » se dit en hébreu *ahavat olam* - un amour durable, sans date de péremption. Le mot suivant, rendu par « bonté » ou « je t'ai attiré », est *chesed* - la bonté fidèle de Dieu, celle de l'alliance, qui ne lâche pas prise. Ce n'est pas un sentiment, mais un engagement.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "אַהֲבַת עוֹלָם",
+              "translit": "ahavat olam"
+            },
+            {
+              "lang": "hbo",
+              "text": "חֶסֶד",
+              "translit": "chesed"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Luke.15.20",
+              "ref": "Lc 15:20"
+            }
+          ],
+          "comment": "Dans la parabole, c'est le père qui court le premier - une image de Dieu qui n'attend pas les bras croisés.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Quel mouvement est ici le plus surprenant : le retour du fils ou la course du père ? Pourquoi ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "pourquoi la course du père était un scandale (Lc 15:20)",
+          "content": "Dans la culture du Proche-Orient, un homme âgé et respectable ne courait pas en public - il aurait dû relever sa tunique et découvrir ses jambes, ce qui passait pour humiliant. Le père de la parabole prend cette honte sur lui, pourvu qu'il soit le premier à rejoindre son fils. C'est une image volontaire de Dieu, qui renonce à une « dignité distante » pour nous reconquérir."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Il prend soin de mon quotidien",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Matt.6.26",
+              "ref": "Mt 6:26"
+            }
+          ],
+          "comment": "Si Dieu nourrit les oiseaux, à plus forte raison tient-il à toi - tu as plus de valeur qu'eux.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "De quoi te soucies-tu le plus souvent ? Comment la conscience de la sollicitude de Dieu change-t-elle ce regard ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Matt.6.31-33",
+              "ref": "Mt 6:31-33"
+            }
+          ],
+          "comment": "Dieu ne promet pas une vie sans besoins, mais un Père qui « sait », et il invite à le chercher d'abord, lui.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Concrètement, qu'est-ce que « chercher d'abord le Royaume » signifierait dans ta semaine ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "« ne vous inquiétez pas » n'est pas un appel à la passivité (Mt 6)",
+          "content": "Dans le Sermon sur la montagne, « ne vous inquiétez pas » ne veut pas dire « ne faites pas de projets », mais « ne vous laissez pas déchirer par l'angoisse ». « Cherchez d'abord le Royaume » parle de priorité, non d'ordre chronologique : il s'agit de ce qui vient en premier, non d'abandonner travail et obligations."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "1Pet.5.7",
+              "ref": "1 P 5:7"
+            }
+          ],
+          "comment": "On peut « déposer » son souci sur Dieu - parce qu'il tient vraiment à toi.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Quel souci aimerais-tu « déposer » aujourd'hui sur Dieu ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "« déchargez-vous sur lui de tout votre souci » (1 P 5:7)",
+          "content": "« Souci » se dit en grec *merimna* - une pensée qui déchire, une inquiétude qui disperse. Le verbe rendu par « décharger » est *epiriptō*, littéralement « rejeter » (comme un fardeau qu'on fait passer de ses propres épaules à quelqu'un de plus fort). L'image est physique : non pas « gère ton angoisse », mais « rejette-la sur Celui qui tient à toi ».",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μέριμνα",
+              "translit": "merimna"
+            },
+            {
+              "lang": "grc",
+              "text": "ἐπιρίπτω",
+              "translit": "epiriptō"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Luke.12.6-7",
+              "ref": "Lc 12:6-7"
+            }
+          ],
+          "comment": "Les cheveux comptés sont une image de l'attention portée au plus petit détail de ta vie.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Te paraît-il plus facile de croire en un Dieu « des grandes choses » ou en un Dieu attentif aux détails ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Créés pour la relation",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Gen.1.27",
+              "ref": "Gn 1:27"
+            }
+          ],
+          "comment": "L'être humain est créé « à l'image de Dieu » - d'où sa valeur unique et sa capacité à entrer en relation.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Si je porte « l'image de Dieu », qu'est-ce que cela dit de la valeur de tout être humain, y compris la mienne ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "« image de Dieu » (Gn 1:27)",
+          "content": "L'hébreu *celem* (« image ») est aussi le mot employé pour la statue représentant un souverain dans une province lointaine. L'être humain est la « statue » de Dieu dans la création : il le représente et il est appelé à la relation avec lui. C'est le fondement de la dignité humaine - indépendante des réussites, des capacités ou de l'opinion d'autrui.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "צֶלֶם",
+              "translit": "celem"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Isa.43.1",
+              "ref": "És 43:1"
+            }
+          ],
+          "comment": "Dieu appelle par le nom et dit « tu es à moi » - c'est le langage de la relation, non d'une religion anonyme.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Que signifierait pour toi entendre Dieu prononcer ton propre prénom et te dire « tu es à moi » ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "term",
+          "label": "quatre verbes de proximité (Is 43:1)",
+          "content": "En un seul verset, Dieu dit : « j'ai créé » (*bara*), « j'ai façonné » (*jacar*), « j'ai racheté » (*ga'al*) et « je t'ai appelé par ton nom ». *Ga'al* est un terme du droit familial : le « rédempteur » (go'el) est un proche parent qui payait la dette et venait au secours des siens. Dieu n'est pas ici un Créateur lointain, mais un Parent qui prend la responsabilité des siens.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "גָּאַל",
+              "translit": "ga'al"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Acts.17.24-28",
+              "ref": "Ac 17:24-28"
+            }
+          ],
+          "comment": "Le Dieu Créateur n'est pas lointain - « en lui nous avons la vie, le mouvement et l'être », et il veut être trouvé.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Qu'est-ce qui, dans ce texte, montre que Dieu est proche même si nous ne le voyons pas ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "Paul cite un poète païen (Ac 17:28)",
+          "content": "À l'Aréopage d'Athènes, s'adressant à des non-chrétiens, Paul puise dans leur propre culture : « nous sommes de sa race » est une citation du poète grec Aratos. Au lieu de commencer par la condamnation, il bâtit un pont : le Créateur est si proche que même des poètes païens en ont eu l'intuition. C'est un modèle pour parler de Dieu dans un langage compréhensible par l'auditeur.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "τοῦ γὰρ καὶ γένος ἐσμέν",
+              "translit": "tou gar kai genos esmen"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "1John.3.1",
+              "ref": "1 Jn 3:1"
+            }
+          ],
+          "comment": "Le but de cet amour n'est pas une admiration à distance, mais de nous appeler enfants de Dieu.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Qu'est-ce que change, dans la relation avec Dieu, le passage de « Créateur » à « Père » ?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Dieu n'est ni un juge lointain ni une force impersonnelle. Il te connaît par ton nom, il t'a créé par dessein et par amour, et il prend soin de ton quotidien. La foi ne commence pas par l'effort de mériter - elle commence par l'acceptation du fait que tu es voulu et aimé.",
+    "challenge": "Pendant la semaine à venir, note chaque jour une chose dans laquelle tu perçois la sollicitude de Dieu envers toi. Une fois dans la semaine, « dépose » sur Dieu un souci concret (1 P 5:7) - dis-le-lui directement."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "FR translation of PL study czy-ktos-sie-o-mnie-troszczy"
+  }
+}

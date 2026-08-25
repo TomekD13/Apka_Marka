@@ -1,0 +1,514 @@
+{
+  "id": "hope-in-sorrow-and-loneliness",
+  "lang": "en",
+  "title": "Hope in sorrow and loneliness",
+  "category": "topic",
+  "seriesId": "zycie-i-emocje",
+  "order": 32,
+  "summary": "For the days when it is hard, empty or dark. Scripture is not ashamed of sorrow or loneliness - it shows a God who is near to the broken in spirit, and people of faith who went through the depths. About hope, community, and the truth that seeking help is not a lack of faith.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "loneliness",
+    "sorrow",
+    "depression",
+    "hope",
+    "support",
+    "community"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "It is okay not to feel okay",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Ps.42.4-6",
+              "ref": "Ps 42:4-6"
+            }
+          ],
+          "comment": "\"Why are you in despair, O my soul...?\" The psalmist speaks to his own sorrow honestly, without pretending. Faith does not forbid admitting: \"things are bad for me.\"",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Is it easier for you to admit to God that things are good, or that things are hard? What holds you back from being honest?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Ps.42.11",
+              "ref": "Ps 42:11"
+            }
+          ],
+          "comment": "The same psalm returns like a refrain: \"trust in God.\" Sorrow and hope are not mutually exclusive - you can weep and at the same time \"remind your soul\" to whom the last word belongs.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "What would it mean for you to \"speak to your own soul\" - to remind yourself of the truth about God when your feelings say otherwise?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Ps.88.2-4",
+              "ref": "Ps 88:2-4"
+            }
+          ],
+          "comment": "Psalm 88 is the darkest psalm in the Bible - it ends with the word \"darkness.\" And yet it is a prayer. God placed in Scripture the voice of someone who did not get better, so that no one would feel alone.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "What does it say to you about God that he gave a place in the Bible to a prayer that does not end with a \"happy ending\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Eccl.3.4",
+              "ref": "Eccl 3:4"
+            }
+          ],
+          "comment": "\"A time to weep and a time to laugh, a time to mourn and a time to dance.\" Sorrow has its time and its place - it is not a malfunction that has to be \"fixed\" immediately.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Do you give yourself the right to a \"time to weep,\" or do you rather push yourself to \"pull it together already\"? Where does that pressure come from?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "worship",
+          "label": "lament as a valid form of prayer (Ps 42; 88)",
+          "content": "A large part of the Psalter consists of laments - prayers of complaint. Most move from grief to trust, but Ps 88 deliberately ends in darkness, with no resolution. The presence of such texts in inspired Scripture shows that God allows, and even invites, honest prayer \"from the depths,\" without any need to fake a peace one does not feel. Lament is not a lack of faith - it is faith that keeps talking to God even when it does not understand and feels no relief.",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "What would change in your prayer if you allowed yourself to pray a \"lament\" - to tell God plainly that things are bad, without forcing an upbeat ending?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "\"a time to weep\" and the rhythm of life (Koh 3,4)",
+          "content": "The Hebrew word for \"weeping/wailing\" (*bekha*) describes a loud, unrestrained lament, not merely quiet emotion. Eccl 3 frames weeping and laughter, mourning and dancing as equally valid \"times\" written into the rhythm of human life under God's heaven. Here sorrow is not a disruption of the order but a part of it - which takes off the pressure to \"jump\" straight to joy.",
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Can you accept the present \"time\" of your life without judging it - accepting that mourning too has its place in it?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "God is near to the broken in spirit",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Ps.34.19",
+              "ref": "Ps 34:19"
+            }
+          ],
+          "comment": "\"The Lord is near to the brokenhearted, and saves the crushed in spirit.\" God does not wait for us to pull ourselves together - he is nearest precisely when we are in pieces.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Fear says that in sorrow God is far away. What does the promise that he is then nearest change?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"the broken in spirit\" / נִשְׁבְּרֵי־לֵב (niszbere-lew) (Ps 34,19)",
+          "content": "The Hebrew expression in Ps 34:19 joins \"breaking/crushing\" (the root *shabar* - to break, shatter) with \"heart\" (*lev*) and \"spirit\" (*ruach*). It describes not weak faith or guilt but a real, deep inner wound. The psalm does not require us to \"pull ourselves together\" before coming to God - on the contrary, it is precisely the broken to whom God \"draws near.\" This is an important correction to the feeling that sorrow distances us from God.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "נִשְׁבְּרֵי־לֵב",
+              "translit": "niszbere-lew"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q19",
+              "text": "How does the truth that God draws near to the broken, rather than waiting for them to \"repair themselves,\" change your approach to hard days?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Ps.147.3",
+              "ref": "Ps 147:3"
+            }
+          ],
+          "comment": "\"He heals the brokenhearted and binds up their wounds.\" The image of a physician and a bandage: God neither ignores the pain nor is repelled by it - he bends down over it.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "If God were to \"bind up\" one of your wounds, which one would you show him today?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Matt.5.4",
+              "ref": "Matt 5:4"
+            }
+          ],
+          "comment": "\"Blessed are those who mourn, for they will be comforted.\" Jesus does not say \"blessed are the cheerful\" - among the blessed he places those in mourning, with a promise of comfort.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "What does it mean that Jesus calls the sorrowful \"blessed\"? How does this change the way you see your own sorrow?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Isa.53.3-4",
+              "ref": "Isa 53:3-4"
+            }
+          ],
+          "comment": "The Messiah is \"a man of sorrows, acquainted with suffering,\" who \"took up our infirmities.\" Jesus does not look at suffering from a distance - he knows it from the inside.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "What does it give you to know that the One you pray to has himself tasted rejection and pain - not merely heard about them?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "\"a man of sorrows\" - a Messiah who knows pain from the inside (Iz 53,3)",
+          "content": "Isa 53:3 calls the Servant \"a man of sorrows\" and \"acquainted with suffering\"; the words used here (*makobot* - pains, *choli* - sickness, weakness) cover both physical suffering and the pain of the soul. The Gospels show a Jesus who weeps at the tomb of a friend (John 11:35) and goes through anguish in Gethsemane. The holistic view of the human person stresses that God in Christ entered the fullness of the human condition - including its dark emotions - so you are not praying to someone who does not understand pain.",
+          "questions": [
+            {
+              "id": "q23",
+              "text": "What does it change in your picture of God that Jesus himself experienced sorrow and anguish, and did not merely teach about them?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Ps.56.9",
+              "ref": "Ps 56:9"
+            }
+          ],
+          "comment": "\"Count my wanderings, put my tears in your bottle - are they not recorded in your book?\" Not one of your tears goes unnoticed or wasted.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "What do you feel when you hear that God \"collects your tears\" and counts them - that they do not escape his attention?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Elijah in the pit: how God treats the exhausted",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "1Kgs.19.3-5",
+              "ref": "1 Kgs 19:3-5"
+            }
+          ],
+          "comment": "A great prophet, after a great victory, breaks down, runs away and asks to die: \"It is enough; take my life.\" Even people of deep faith hit the bottom of exhaustion and despair.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "What does it say to you that the Bible shows such a \"hero of faith\" as Elijah in a state where he only wants to die?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "1Kgs.19.5-8",
+              "ref": "1 Kgs 19:5-8"
+            }
+          ],
+          "comment": "God's first response is neither a sermon nor a reproach - it is sleep, food and the touch of an angel: \"get up and eat.\" God first took care of the body and rest.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "What does it say about God that he answered Elijah's despair first with sleep and a meal? Which of the \"basics\" might you too be missing?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "1Kgs.19.9-13",
+              "ref": "1 Kgs 19:9-13"
+            }
+          ],
+          "comment": "Only afterward does God speak - and he comes not in the wind or the fire but in a \"still, gentle voice.\" Meeting God in a crisis can be quiet, not spectacular.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Where do you look for God on hard days - in \"spectacular\" signs or in a quiet, ordinary voice? What might you be missing?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "1Kgs.19.15-18",
+              "ref": "1 Kgs 19:15-18"
+            }
+          ],
+          "comment": "God gives Elijah three things: a new task, a companion (Elisha) and the truth that he \"is not alone\" - seven thousand faithful still remain. The remedy for a sense of isolation includes truth and community.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Elijah was sure he was \"the only one left.\" Where might a feeling of loneliness be lying to you about how many people are really with you?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "Elijah (1 Krl 19) and God's \"protocol\" for exhaustion",
+          "content": "Elijah's breakdown comes right after the peak victory at Carmel (1 Kgs 18) - a typical moment of crisis after enormous effort and tension. The order of God's response is striking: first rest and food (the needs of the body), then a gentle meeting and conversation (the needs of the spirit), and finally a new task, a companion and the truth about community (meaning, relationship, belonging). This is a biblical picture of holistic care for a person - body, psyche, spirit and relationships - consistent with the holistic view of human nature.",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Looking at the order in Elijah's story (body, then the quiet voice, then meaning and community), which of these dimensions is most neglected in your life?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "\"a still, gentle voice\" - God does not shout at the exhausted (1 Krl 19,12)",
+          "content": "The Hebrew expression in 1 Kgs 19:12 (*kol demama daka*) is sometimes translated \"a voice of quiet stillness\" or \"a still, gentle whisper.\" God passes over the wind, the earthquake and the fire - signs of power - and reveals himself to Elijah in the stillness. For someone exhausted this is an important image: in a crisis God more often lowers his voice than raises it, and he tends to be present in what is unremarkable rather than in a spectacular breakthrough.",
+          "questions": [
+            {
+              "id": "q24",
+              "text": "Do you look for God mainly in \"powerful\" experiences? How could you learn to recognize his presence in the stillness of an ordinary day?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Invitation, community and concrete support",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Matt.11.28-30",
+              "ref": "Matt 11:28-30"
+            }
+          ],
+          "comment": "\"Come to me, all who are weary and burdened, and I will give you rest.\" Jesus' simplest invitation is addressed precisely to the exhausted.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "What would it mean to come to Jesus exactly as you are today - without \"pulling yourself together\" first?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Gal.6.2",
+              "ref": "Gal 6:2"
+            }
+          ],
+          "comment": "\"Bear one another's burdens.\" God planned that some burdens we are not meant to carry alone - community is one of God's ways of bringing help.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Whose burden could you help carry today - and whom could you allow to help carry yours? What holds you back from asking for help?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"burdens\" - loads too heavy to lift alone (Ga 6,2)",
+          "content": "In Gal 6:2 \"burden\" (Greek *baros*) means a crushing load, too great for one person - a different word from the \"own load\" (Greek *phortion*) in Gal 6:5, which each person carries alone. Paul does not deny personal responsibility, but he points out that there are burdens we are by design not meant to carry alone. Asking for help is therefore not weakness but the fulfilling of \"the law of Christ.\" Among God's channels of help is also the care of competent people, including doctors and specialists.",
+          "questions": [
+            {
+              "id": "q25",
+              "text": "Which of your burdens are you trying to carry like a *phortion* (alone), even though it is more of a *baros* - something meant to be carried together?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Eccl.4.9-10",
+              "ref": "Eccl 4:9-10"
+            }
+          ],
+          "comment": "\"Two are better than one... for if one falls down, the other will lift him up. But woe to the one who is alone when he falls.\" Isolation deepens the fall; the closeness of another person rescues.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Who is your \"other\" - someone who would lift you up if you fell? If there is no such person, how could you begin to look for one?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Rom.12.15",
+              "ref": "Rom 12:15"
+            }
+          ],
+          "comment": "\"Weep with those who weep.\" Help does not always mean advice or solutions - sometimes it means presence and weeping together. This is also how we can be support for others.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "What do you most need from people in hard moments: advice or presence? And which do you more often give to others?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Ps.40.2-4",
+              "ref": "Ps 40:2-4"
+            }
+          ],
+          "comment": "\"He drew me up from the pit of destruction, out of the miry clay, and set my feet on a rock.\" The testimony of someone who was at the bottom and was led out - hope that the pit is not the final place.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Coming out of the \"clay\" in this psalm is a process, not a leap. What might be your first small step \"toward the rock\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "\"the God of all comfort\" - paraklesis (2 Kor 1,3-4)",
+          "content": "Paul calls God \"the Father of mercies and the God of all comfort.\" The Greek *paraklesis* (comfort, encouragement) and the verb *parakaleo* literally mean \"to call someone to one's side\" so that they stand beside you and support you. The same root describes the Holy Spirit - the *Parakletos*, the \"Comforter\" (John 14:16). Importantly, God comforts us \"in all our affliction\" so that we can then comfort others - pain that has been lived through can become a tool for helping, and not only a wound.",
+          "questions": [
+            {
+              "id": "q26",
+              "text": "Can you point to someone who comforted you \"because they had been through it themselves\"? To whom could you be that kind of support?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "term",
+          "label": "hope as an \"anchor of the soul\" (Hbr 6,19)",
+          "content": "Heb 6:19 calls hope \"an anchor of the soul, sure and steadfast\" (Greek *ankyra*). Biblical hope is not wishful optimism but an anchoring in God's faithfulness and his promise - something that holds the boat when the waves of feeling toss it about. Such hope does not promise that the storm will pass at once, but that it will not tear us from our mooring. That is why you can feel terrible and yet not drift without support.",
+          "questions": [
+            {
+              "id": "q27",
+              "text": "What is your \"anchor\" today, when your feelings surge? What does your hope rest on when you feel no improvement?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Being a Christian does not mean it will always be easy. Scripture gives a place to sorrow, loneliness and exhaustion - and it shows a God who is nearest to the broken, counts your tears and knows pain himself. It also shows Elijah, whom God answered with sleep, food, a quiet voice and community. You do not have to \"pull yourself together\" to come to Jesus. And you do not have to go alone: community and - when needed - the help of a specialist are not a failure of faith but God's ways of lifting you up.",
+    "challenge": "Do two things this week. (1) Pray once with an honest \"lament\" - tell God plainly what is hard, without dressing it up (model: Ps 42 or 88). (2) Take one concrete step toward another person: write or call someone you trust and tell them how you really are. And if the burden is overwhelming or has lasted a long time - treat making an appointment with a doctor or specialist as an act of courage and wisdom, not weakness."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "EN translation of PL study samotnosc-smutek-depresja"
+  }
+}

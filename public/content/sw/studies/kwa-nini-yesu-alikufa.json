@@ -1,0 +1,567 @@
+{
+  "id": "kwa-nini-yesu-alikufa",
+  "lang": "sw",
+  "title": "Kwa nini Yesu alikufa?",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 4,
+  "summary": "Dhambi si orodha tu ya matendo mabaya, bali ni uhusiano uliovunjika na Mungu - imani iliyopotea, ambayo kutoka kwayo zinachipuka dhambi maalum. Matokeo yake ni kutengwa na mauti, na jibu la Mungu ni msalaba: Yesu alichukua nafasi yangu, ili kurejesha uhusiano. Utii ni tunda la upatanisho, si sharti lake.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "dhambi",
+    "uhusiano",
+    "msalaba",
+    "upatanisho",
+    "kifo cha Yesu",
+    "imani",
+    "ukombozi"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Dhambi kwanza kabisa ni uhusiano uliovunjika",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Isa.59.2",
+              "ref": "Isa 59:2"
+            }
+          ],
+          "comment": "Kiini cha dhambi ni kutengana: \"maovu yenu ndiyo yanayowatenga na Mungu\". Tatizo kwanza si sheria iliyovunjwa, bali ukaribu uliopotea.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Je, hadi sasa ulifikiri dhambi zaidi kama \"kuvunja kanuni\", au kama \"kuvunja uhusiano\"? Mtazamo huu wa pili unabadilisha nini?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Gen.3.8-10",
+              "ref": "Mwa 3:8-10"
+            }
+          ],
+          "comment": "Tokeo la kwanza la dhambi si adhabu, bali kujificha na kumwogopa Mungu. Mtu anakimbia kutoka kwa Yule ambaye hapo awali alitembea naye kwa ukaribu.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Kwa nini baada ya dhambi mtu alianza kumwogopa Mungu na kujificha mbele yake, badala ya kumkimbilia?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Isa.53.6",
+              "ref": "Isa 53:6"
+            }
+          ],
+          "comment": "Dhambi (umoja) imeelezwa kama mwelekeo: \"kila mmoja wetu amegeukia njia yake mwenyewe\". Ni kujipenda mwenyewe, kumgeuzia Mungu mgongo na kuelekea nafsini.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Unaitambuaje ndani yako tabia ya \"kwenda njia yako mwenyewe\" badala ya ya Mungu - hata pasipo na anayeangalia?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "John.16.9",
+              "ref": "Yoh 16:9"
+            }
+          ],
+          "comment": "Yesu anaifafanua dhambi kwa kina zaidi: \"dhambi... kwa sababu hawaniamini\". Mzizi ni ukosefu wa imani kwa Mungu, si tendo moja baya.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Kwa nini ukosefu wa imani kwa Mungu unaweza kuwa tatizo kubwa zaidi kuliko matendo maalum mabaya?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"dhambi\" kama kukosa shabaha",
+          "content": "Neno la kawaida zaidi la kibiblia kwa dhambi (Kiebrania *chatta't*, Kigiriki *hamartia*) lina picha ya \"kukosa shabaha, kuipita lengo\". Lengo la mwanadamu ni kuishi katika imani na uhusiano na Mungu (taz. Yoh 16:9); dhambi (umoja) ni kuipita shabaha hiyo - uhusiano uliovunjika, ambao kutoka kwao ndipo zinatokea dhambi mbalimbali (wingi). Ndiyo maana Injili inaponya kwanza uhusiano, si kurekebisha tabia tu.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἁμαρτία",
+              "translit": "hamartia"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Jinsi gani picha ya \"kukosa shabaha, ambayo ni uhusiano na Mungu\" inapanga uelewa wa dhambi kama hali, si tu mfululizo wa matendo?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Dhambi (umoja) na dhambi (wingi): mzizi na matunda",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Mark.7.21-23",
+              "ref": "Mk 7:21-23"
+            }
+          ],
+          "comment": "Matendo mabaya (\"dhambi\", wingi) yanatoka \"ndani, moyoni\". Ni dalili za ugonjwa, si ugonjwa wenyewe - matunda ya mzizi ulioharibika.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Ni nini kingebadilika kama tungeponya \"mzizi\" (moyo), badala ya kupambana tu na \"matunda\" mmoja mmoja?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "maneno matatu ya Kiebrania kwa dhambi",
+          "content": "Agano la Kale linaeleza dhambi kwa maneno makuu matatu, ambayo kwa pamoja yanawasilisha ujumla wake: *chatta't* (kukosa shabaha), *pesza* (uasi, kuvunja kwa kujua, kuvunja uhusiano na mamlaka) na *awon* (kupotoka, hatia, \"kupinda\" kile kilichopaswa kunyooka). Hivyo dhambi ni kosa, uasi na upotoshaji kwa pamoja - si \"kosa\" tu, bali ni jeraha la uhusiano katika viwango kadhaa.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "פֶּשַׁע",
+              "translit": "pesza"
+            },
+            {
+              "lang": "hbo",
+              "text": "עָוֺן",
+              "translit": "awon"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Jer.17.9",
+              "ref": "Yer 17:9"
+            }
+          ],
+          "comment": "Moyo wa mwanadamu ni \"mdanganyifu\" na hauwezi kujiponya wenyewe. Ndiyo maana tatizo la dhambi haliwezi kutatuliwa kwa kuboresha tabia tu.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Kwa nini \"kujitahidi zaidi\" hakutoshi, ikiwa tatizo liko moyoni, si katika matendo tu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "dhambi \"inanyemelea mlangoni\" (Mwa 4:7)",
+          "content": "Muda mfupi kabla ya mauaji ya kwanza Mungu anamwonya Kaini kwamba dhambi \"inaotama mlangoni\" na \"inamvizia\" - picha ya mnyama mkali aliye tayari kurukia, ambaye lazima \"aushinde\". Ni mojawapo ya maelezo ya kwanza katika Biblia ya dhambi kama nguvu adui, si tendo moja tu: kitu kinachotaka \"kutukamata\" na kututawala, si \"kosa\" lisilo na upande.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Ni nini kinachobadilika katika kupambana na kishawishi kwa picha ya dhambi kama \"mwindaji anayevizia\", anayepaswa kushindwa kabla yeye hajatushinda sisi?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Rom.7.18-19",
+              "ref": "Rum 7:18-19"
+            }
+          ],
+          "comment": "Hata Paulo anakiri mgawanyiko: \"sitendi jema nilitakalo\". Ni maelezo ya kutoweza kwa mwanadamu mbele ya dhambi kama nguvu, si mfululizo wa makosa tu.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Je, unalifahamu hili tukio la \"nataka vyema, lakini linatoka tofauti\"? Linasema nini kuhusu hitaji letu la msaada kutoka nje?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Rom.3.23",
+              "ref": "Rum 3:23"
+            }
+          ],
+          "comment": "\"Wote wamefanya dhambi na kupungukiwa na utukufu wa Mungu.\" Tatizo ni la wote - hakuna aliye nje yake na hakuna anayeweza kujiokoa mwenyewe.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Ni nini kinachotolewa na kutambua kwamba katika tatizo la dhambi sisi sote tuko \"sawasawa\" na sote tunahitaji neema ile ile?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "\"ukombozi\" kama kununua kutoka utumwani (Rum 3:24)",
+          "content": "Mara baada ya \"wote wamefanya dhambi\" linakuja suluhisho: kuhesabiwa haki \"kwa ukombozi ulio katika Kristo\". Neno la Kigiriki *apolytrōsis* ni picha kutoka soko la watumwa na mateka: kumnunua mtu apate uhuru kwa bei iliyolipwa. Hivyo dhambi si tu \"deni katika akaunti\", bali ni utumwa ambao hatuwezi kujitoa wenyewe - anahitajika Mtu wa kulipa fidia na kututoa kwenda uhuruni.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἀπολύτρωσις",
+              "translit": "apolytrōsis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Tokeo: kutengwa na mauti",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Rom.6.23",
+              "ref": "Rum 6:23"
+            }
+          ],
+          "comment": "\"Mshahara wa dhambi ni mauti\" - tokeo la asili la kutengwa na Mtoaji wa uzima. Lakini sentensi ile ile inazungumzia pia \"zawadi\": uzima wa milele katika Kristo.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Kwa nini mauti ni \"tokeo\" la kutengwa na Mungu, si adhabu ya kiholela tu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "\"mshahara\" ni ujira wa askari (Rum 6:23)",
+          "content": "Neno lililotafsiriwa kama \"mshahara\" (Kigiriki *opsōnion*) lilimaanisha ujira unaolipwa askari - kile anachostahili mtu kwa utumishi. Dhambi \"inastahili\" mauti kama tokeo lililofanyiwa kazi. Paulo kwa makusudi analinganisha hili na nusu ya pili ya mstari: uzima wa milele si \"mshahara\", bali ni *charisma* - zawadi ya neema. Kimoja kinachumwa, kingine kinaweza tu kupokelewa.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ὀψώνιον",
+              "translit": "opsōnion"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Ezek.18.4",
+              "ref": "Eze 18:4"
+            }
+          ],
+          "comment": "Mungu anaichukulia dhambi kwa uzito - haipuuzi. Kujitenga na Uzima kunaongoza kwenye mauti; hili si \"jambo dogo la kupuuza\".",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Jinsi gani kupatanisha hili kwamba Mungu ni upendo, na hili kwamba anaichukulia dhambi kwa uzito wa kifo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Isa.64.6",
+              "ref": "Isa 64:6"
+            }
+          ],
+          "comment": "Hata \"matendo yetu ya haki\" hayatazibua shimo - yenyewe ni \"kama nguo iliyotiwa unajisi\". Anahitajika mtu wa kujenga daraja kutoka upande mwingine.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Ina maana gani kwamba haiwezekani kwa \"matendo mema\" kuukomboa uhusiano uliovunjika na Mungu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Msalaba: Yesu alichukua nafasi yangu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Rom.5.8",
+              "ref": "Rum 5:8"
+            }
+          ],
+          "comment": "Mungu hakungoja hadi tujirekebishe. \"Tulipokuwa tungali wenye dhambi, Kristo alikufa kwa ajili yetu\" - hatua ya kwanza iko upande wa Mungu.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Ni nini hili linalosema kuhusu Mungu kwamba alikuja na suluhisho kabla hata hatujaliomba?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Isa.53.4-5",
+              "ref": "Isa 53:4-5"
+            }
+          ],
+          "comment": "\"Alijeruhiwa kwa makosa yetu... na kwa kupigwa kwake sisi tumepona.\" Yesu kwa hiari alijitwika tokeo lililotustahili sisi.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Unahisije unaposoma kwamba mateso yaliyokustahili wewe, Mtu mwingine aliyatwaa juu yake - kwa hiari?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "wimbo wa Mtumishi anayeteseka (Isa 52:13-53:12)",
+          "content": "Isa 53 ni mojawapo ya \"nyimbo za Mtumishi wa Bwana\". Inaeleza kuhusu Mtu anayeteseka si kwa makosa yake mwenyewe, bali \"kwa makosa yetu\", na kwa njia hiyo anawahesabia haki wengi. Agano Jipya linasoma kifungu hiki moja kwa moja kuhusu Yesu (mfano Mdo 8:32-35; 1Pet 2:22-25). Ni mojawapo ya madaraja yenye nguvu zaidi kati ya AK na msalaba: mateso ya niaba yaliyotangazwa karne nyingi kabla ya Golgotha.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Ina maana gani kwamba jibu la Mungu kwa dhambi - Mtumishi anayeteseka mahali petu - lilitangazwa muda mrefu kabla ya msalaba?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "1Pet.2.24",
+              "ref": "1Pet 2:24"
+            }
+          ],
+          "comment": "Yesu \"alizichukua dhambi zetu katika mwili wake juu ya mti\" - ili tuweze \"kufa kwa dhambi na kuishi kwa haki\". Msalaba hausamehe tu, bali pia unaweka huru.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Kuna tofauti gani kati ya msamaha unaofuta hatia tu, na ule unaoweka huru kwa maisha mapya?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "\"aliyelaaniwa juu ya mti\" (1Pet 2:24)",
+          "content": "Usemi \"alizichukua dhambi juu ya mti\" unarejea Kum 21:23: \"amelaaniwa kila mtu aangikwaye juu ya mti\". Paulo analihusisha hili moja kwa moja na msalaba: \"Kristo alitukomboa... kwa kufanyika laana kwa ajili yetu\" (Gal 3:13). Yesu alichukua si nafasi yetu tu katika mauti, bali pia chini ya \"laana\" iliyostahili dhambi - ili baraka iweze kutumiminikia sisi."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "2Cor.5.21",
+              "ref": "2Kor 5:21"
+            }
+          ],
+          "comment": "Ubadilishanaji mkuu: Asiye na dhambi \"alifanywa kuwa dhambi kwa ajili yetu, ili sisi tupate kuwa haki ya Mungu katika yeye\". Yeye anachukua yangu, mimi napokea yake.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Ina maana gani kwako kwamba msalabani kulitokea \"ubadilishanaji\": hatia yangu kwa haki yake?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "msalaba na Siku ya Upatanisho (kafara)",
+          "content": "Mandhari ya \"ubadilishanaji\" wa 2Kor 5:21 ni Siku ya Upatanisho ya Agano la Kale (Law 16): dhambi ya watu ilihamishwa kiishara juu ya sadaka, na damu iliingizwa katika mahali patakatifu zaidi. Agano Jipya linamwita Yesu \"kafara\" (Kigiriki *hilastērion* - neno lile lile ambalo Septuaginta inatafsiri \"kiti cha rehema\", kifuniko cha Sanduku, ambapo upatanisho ulifanyika, Rum 3:25). Msalaba ni utimilifu wa kile ambacho hekalu kilikuwa kinatangaza tu.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἱλαστήριον",
+              "translit": "hilastērion"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "John.15.13",
+              "ref": "Yoh 15:13"
+            }
+          ],
+          "comment": "\"Hakuna aliye na upendo mwingi kuliko huu, mtu kuutoa uhai wake kwa ajili ya rafiki zake.\" Msalaba ni uthibitisho mkuu wa upendo, si hasira.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Jinsi gani hili kwamba msalaba ni uthibitisho wa upendo (si hasira ya Mungu) linabadilisha taswira ya Ukristo wote?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Upatanisho na uhusiano uliorejeshwa",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "2Cor.5.18-19",
+              "ref": "2Kor 5:18-19"
+            }
+          ],
+          "comment": "Kiini cha msalaba ni \"upatanisho\" - Mungu \"hawahesabii watu makosa yao\" na anarejesha uhusiano uliovunjika. Lengo ni uhusiano, si akaunti safi tu.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Mtu anahitaji nini zaidi: \"akaunti safi\" au uhusiano uliorejeshwa? Je, kimoja kinawezekana bila kingine?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "term",
+          "label": "\"upatanisho\": kubadilisha uadui kuwa urafiki",
+          "content": "Neno la Kigiriki *katallagē* (\"upatanisho\") linatoka katika lugha ya uhusiano na linamaanisha kubadilisha uadui kuwa urafiki, kurejesha uhusiano uliovunjika. Katika 2Kor 5:18-19 mtendaji ni Mungu: ni yeye anayetupatanisha naye mwenyewe. Msalaba haumshawishi Mungu asiyetaka atupende - kinyume chake, ni dhihirisho la upendo wa Mungu ambaye tayari anatupenda na kwa gharama yake mwenyewe anaondoa kinachotutenganisha.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "καταλλαγή",
+              "translit": "katallagē"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Kwa nini ni muhimu kwamba ni Mungu anayetupatanisha naye mwenyewe, si sisi tunaopaswa \"kumtuliza\" Mungu asiyetaka?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Rom.5.1",
+              "ref": "Rum 5:1"
+            }
+          ],
+          "comment": "Tunda la kuhesabiwa haki kwa imani ni \"amani na Mungu\". Uadui umekwisha; tunaweza tena kutembea naye bila hofu.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Ni nini kivitendo kinachobadilika katika maisha ya kila siku kuishi \"katika amani na Mungu\", si katika hofu mbele yake?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "Titus.2.11-12",
+              "ref": "Tit 2:11-12"
+            }
+          ],
+          "comment": "Ni \"neema... inayotufundisha\" kukataa uovu na kuishi vyema. Utii ni tunda la neema iliyopokelewa, si bei inayopaswa kulipwa ili kuipata.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Kwa nini utii unaochipuka kutokana na shukrani unatofautiana na utii wa hofu au wa hamu ya \"kustahili\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u20",
+          "passage": [
+            {
+              "osis": "1John.4.19",
+              "ref": "1Yoh 4:19"
+            }
+          ],
+          "comment": "\"Sisi twapenda kwa kuwa yeye alitupenda sisi kwanza.\" Mpangilio wote ni huu: kwanza upendo uliopokelewa, kisha majibu kwa maisha.",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Jinsi gani msukumo wa kuishi vyema unabadilika unapoanza na \"yeye alinipenda mimi kwanza\"?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Dhambi si kwanza orodha ya makosa, bali ni uhusiano uliovunjika - imani iliyopotea kwa Mungu, ambayo kutoka kwayo zinachipuka dhambi maalum. Tokeo lake ni kutengwa na mauti, kwa sababu nje ya Mtoaji wa uzima hakuna uzima. Lakini Mungu hakutuacha upande mwingine wa shimo: msalabani Yesu alichukua nafasi yangu, akajitwika tokeo la dhambi na akafungua njia ya upatanisho. Sina haja ya kujirekebisha kwanza ili Mungu anipokee - kupokelewa huko ndiko mahali pa kuanzia, na utii ni tunda lake.",
+    "challenge": "Simama juma hili mbele ya msalaba na \"dhambi\" moja maalum (tendo) na swali kuhusu mzizi wake: ni wapi nilipungukiwa na imani kwa Mungu? Mwambie Yesu waziwazi kwamba unakubali kile alichofanya mahali pako, na umwombe si kuwa \"bora zaidi\" kiasi, bali ukaribu uliorejeshwa. Andika jambo moja unalotaka kumpa Mungu kama tunda la kwanza la uhusiano huu."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study czym-jest-grzech"
+  }
+}

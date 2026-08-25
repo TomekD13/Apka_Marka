@@ -1,0 +1,541 @@
+{
+  "id": "der-gott-der-sein-wort-halt",
+  "lang": "de",
+  "title": "Der Gott, der sein Wort hält",
+  "category": "basic_systematic",
+  "seriesId": "zycie-w-przymierzu",
+  "order": 15,
+  "summary": "Seit der Schöpfung verbindet sich Gott mit dem Menschen durch einen Bund; wenn wir fallen, sucht er uns und erneuert seine Verheißung - denn er hält immer Wort. Hier zeigt sich das Herz des großen Kampfes: ob man Gott vertrauen kann. Das Blut Jesu ist der neue Bund, und der Dekalog ist die Offenbarung des Charakters Gottes, kein Gesetzlichkeitsdenken.",
+  "minutes": {
+    "base": 45,
+    "extended": 65
+  },
+  "tags": [
+    "der Bund",
+    "Charakter Gottes",
+    "der große Kampf",
+    "Vertrauen",
+    "der Dekalog",
+    "das Blut Jesu"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Gott, der sich mit dem Menschen verbindet",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Gen.1.26-27",
+              "ref": "1Mo 1,26-27"
+            }
+          ],
+          "comment": "Bevor das erste Gebot ausgesprochen wurde, gab es den Schöpfungsakt aus Liebe. Gott schafft den Menschen nach seinem Bild - fähig zur Beziehung, zur freien Antwort.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Was verändert sich im Blick auf Gottes Anforderungen durch das Bewusstsein, dass zuerst die Gabe der Schöpfung kam und nicht eine Forderung?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Gen.9.9-13",
+              "ref": "1Mo 9,9-13"
+            }
+          ],
+          "comment": "Nach der Sintflut schließt Gott einen Bund mit Noah und mit der ganzen Schöpfung. Der Regenbogen ist das Zeichen, dass Gott sich verpflichtet - nicht dass der Mensch etwas erzwingt.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Wer gibt hier die Verheißung, und was verlangt er von dir, damit sie gültig ist?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "„der Bund\" (berît)",
+          "content": "Das hebräische *berît* bezeichnet eine bindende Verpflichtung, die oft mit dem Blut eines Opfers besiegelt wurde. In der Bibel ist es gewöhnlich Gott, der den Bund stiftet und die Last seiner Aufrechterhaltung auf sich nimmt - daher die Sprache der Gnade, nicht der Verhandlung gleichwertiger Parteien.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "בְּרִית",
+              "translit": "berît"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Wie verändert es das Bild von Gott, dass er sich im *berît* vor allem selbst verpflichtet und keine Garantien vom Menschen fordert?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Gen.12.1-3",
+              "ref": "1Mo 12,1-3"
+            }
+          ],
+          "comment": "Der Bund mit Abraham ist kein Vertrag gleichwertiger Parteien - Gott selbst verpflichtet sich zu segnen und durch einen einzigen Menschen alle Völker zu erreichen.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Was bedeutet es, dass der Segen für die Welt mit Gottes Initiative beginnt und nicht mit menschlichem Verdienst?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Gen.15.17-18",
+              "ref": "1Mo 15,17-18"
+            }
+          ],
+          "comment": "Beim altertümlichen Ritus gingen beide Parteien zwischen den Hälften der Tiere hindurch. Hier geht Gott selbst hindurch (im Symbol des Feuers) - er nimmt die Folgen eines Bundesbruchs auf sich.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Warum ist es wichtig, dass sich bei diesem Ritus Gott verpflichtet und nicht Abraham?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "textual",
+          "label": "Gottes Durchschreiten zwischen den Hälften (1Mo 15)",
+          "content": "In 1Mo 15,17 schreiten ein rauchender Ofen und eine feurige Fackel (Symbole der Gegenwart Gottes) zwischen den zerteilten Tieren hindurch, obwohl bei diesem Ritus normalerweise beide Parteien hindurchgingen. Der Text legt nahe, dass Gott einseitig die Verantwortung für den Bund auf sich nimmt."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Wenn wir fallen, sucht Gott uns und erneuert den Bund",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Gen.3.8-9",
+              "ref": "1Mo 3,8-9"
+            }
+          ],
+          "comment": "Nach dem Sündenfall versteckt sich der Mensch, und Gott ruft: „Wo bist du?\" Der erste Schritt nach der Sünde gehört Gott, der sucht.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Wessen Schritt ist das Suchen hier - Gottes oder des Menschen? Was sagt das über seinen Charakter aus?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Gen.3.15",
+              "ref": "1Mo 3,15"
+            }
+          ],
+          "comment": "Schon im Urteilsspruch gibt Gott die erste Verheißung eines Retters. Der Rettungsplan ist keine verspätete Reaktion - er ist bereit, noch bevor der Mensch die Folgen begreifen kann.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Was sagt es über Gott aus, dass er die Verheißung der Rettung schon im Augenblick des Falls gibt und nicht erst nach Jahren der Bewährung?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Exod.34.6-7",
+              "ref": "2Mo 34,6-7"
+            }
+          ],
+          "comment": "Gott selbst ruft seinen Namen aus: barmherzig, gnädig, treu. Das ist Gottes Selbstporträt - so ist er wirklich.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Welche der Beschreibungen Gottes aus diesem Text überrascht oder tröstet dich am meisten?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "„Gnade und Treue\" (chesed we-emet)",
+          "content": "In dieser Selbstvorstellung Gottes aus 2Mo 34,6 kehrt das Begriffspaar wieder, das oft als „Gnade und Wahrheit\" oder „Barmherzigkeit und Treue\" übersetzt wird. *Chesed* ist loyale, bundestreue Liebe, und *emet* ist Verlässlichkeit, auf die man sich stützen kann. Gott wird nicht durch Macht oder Allwissenheit beschrieben, sondern zuerst durch seine Bundestreue - sie steht am Grund des Vertrauens, um das der große Kampf geht.",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Warum stellt Gott, wenn er seinen Namen ausruft, Gnade und Treue an die erste Stelle und nicht die Macht?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Hos.11.8-9",
+              "ref": "Hos 11,8-9"
+            }
+          ],
+          "comment": "Trotz der Untreue des Volkes „wendet sich das Herz Gottes in ihm um\". Gott liebt nicht wie ein Mensch - seine Treue hängt nicht von unserer Verfassung ab.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Worin unterscheidet sich Gottes Treue von menschlicher Loyalität, die erlischt, wenn die andere Seite versagt?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Das Herz des großen Kampfes: ob man Gott vertrauen kann",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Gen.3.1-5",
+              "ref": "1Mo 3,1-5"
+            }
+          ],
+          "comment": "Die erste Versuchung ist die Untergrabung des Vertrauens: „Will Gott wirklich dein Bestes?\" Hier beginnt der große Kampf - nicht um einen Apfel, sondern um das Vertrauen in Gottes Charakter.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Welche Lüge über Gott verbirgt sich in der Frage der Schlange, und wie wirkt sie bis heute?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Num.23.19",
+              "ref": "4Mo 23,19"
+            }
+          ],
+          "comment": "Gott ist nicht wie ein Mensch, dass er lügen würde. Wenn er etwas gesagt hat, wird er es erfüllen. Darauf gründet sich die Wiedergewinnung unseres Vertrauens.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Was in deiner Geschichte erschwert es und was erleichtert es zu glauben, dass Gott Wort hält?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "other",
+          "label": "Die Unveränderlichkeit Gottes als Fundament des Vertrauens",
+          "content": "Die Gewissheit des Bundes ergibt sich nicht aus unserer Beharrlichkeit, sondern aus dem unveränderlichen Charakter Gottes: Da er sich nicht ändert, ändert sich auch sein Wort nicht. Es ist hervorzuheben, dass Gottes Gesetz, das ein Abbild dieses Charakters ist, ebenso beständig ist wie sein Urheber. Darum trifft die Infragestellung der Glaubwürdigkeit Gottes - der Kern des großen Kampfes - nicht irgendeine Vorschrift, sondern das, was Gott ist.",
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Wie beeinflusst das Bewusstsein, dass Gott sich nicht ändert, das Vertrauen in seine Verheißungen in schweren Stunden?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Titus.1.2",
+              "ref": "Tit 1,2"
+            }
+          ],
+          "comment": "„Gott, der nicht lügt\", hat das ewige Leben vor aller Zeit verheißen. Die ganze Hoffnung steht darauf, dass sein Wort gewiss ist.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Worauf gründest du praktisch die Gewissheit, dass Gottes Verheißung sich erfüllen wird?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Der neue Bund im Blut Jesu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Matt.26.27-28",
+              "ref": "Mt 26,27-28"
+            }
+          ],
+          "comment": "Beim letzten Abendmahl nennt Jesus sein Blut „das Blut des Bundes\" zur Vergebung der Sünden. Was der Ritus mit Abraham ankündigte, erfüllt sich in ihm.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Was bedeutet es, dass der neue Bund „im Blut\" ist - wer zahlt den Preis für seine Beständigkeit?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "„der neue Bund\" (kainē diathēkē)",
+          "content": "Das griechische *diathēkē* in Mt 26,28 und Hebr 9,15 bedeutet zugleich „Bund\" und „Testament\". Es weist darauf hin, dass der Bund seine volle Kraft durch den Tod dessen erlangt, der ihn stiftet - daher der Zusammenhang zwischen dem Blut Jesu und seiner Gültigkeit.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "καινὴ διαθήκη",
+              "translit": "kainē diathēkē"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Jer.31.31-33",
+              "ref": "Jer 31,31-33"
+            }
+          ],
+          "comment": "Der neue Bund sind nicht neue Vorschriften, sondern dasselbe Gesetz, ins Herz geschrieben. Gehorsam ist nicht länger ein Zwang von außen, er wird zum Verlangen.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Worin unterscheidet sich das Gesetz „auf Stein\" vom Gesetz „im Herzen\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "Das durch den Geist ins Herz geschriebene Gesetz",
+          "content": "Der Unterschied zwischen dem alten und dem neuen Bund liegt nicht im Inhalt des Gesetzes (er ist derselbe), sondern im Ort seiner Niederschrift und in der Art des Gehorsams. Das alte war „auf Stein\", außerhalb des Menschen; das neue schreibt der Geist ins Herz und in den Sinn (Jer 31,33; Hes 36,26-27). Darum wird der Gehorsam zu einem Akt des freien Willens und zur Frucht der Beziehung, nicht zu Gesetzlichkeit.",
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Was ändert sich, wenn das Gesetz nicht nur bekannt, sondern durch die Kraft des Geistes ins Herz „geschrieben\" ist?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Heb.9.11-15",
+              "ref": "Hebr 9,11-15"
+            }
+          ],
+          "comment": "Jesus ist als Hoherpriester mit seinem eigenen Blut eingetreten und hat eine ewige Erlösung erwirkt. Das alte Opfersystem wies auf dieses eine, endgültige Opfer hin.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Warum muss das Opfer Jesu nicht wiederholt werden, anders als die früheren Opfer?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Der Dekalog: Offenbarung des Charakters, kein Gesetzlichkeitsdenken",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Exod.20.1-3",
+              "ref": "2Mo 20,1-3"
+            }
+          ],
+          "comment": "Der Dekalog beginnt mit einer Erinnerung: „Ich bin der HERR, der dich herausgeführt hat\". Zuerst die Rettung, dann die Gebote - das Gesetz ist die Antwort auf die Befreiung, nicht die Bedingung, sie zu empfangen.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Was verändert die Reihenfolge: zuerst die Befreiung und erst danach die Gebote?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "Der Dekalog als „die zehn Worte\" (aseret ha-devarim)",
+          "content": "Der hebräische Name des Dekalogs lautet nicht „die zehn Gebote\", sondern „die zehn Worte\" (2Mo 34,28; 5Mo 4,13). Es ist keine zufällige Sammlung von Geboten, sondern eine einzige, in sich stimmige Botschaft, die Gott gesprochen und mit eigener Hand auf die steinernen Tafeln gegraben hat - ein Zeichen, dass sie unmittelbar von ihm kommt.",
+          "questions": [
+            {
+              "id": "q24",
+              "text": "Wie verändert es die Art, wie du den Dekalog liest, wenn man ihn „die zehn Worte\" Gottes nennt und nicht „Vorschriften\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Deut.5.6-7",
+              "ref": "5Mo 5,6-7"
+            }
+          ],
+          "comment": "Der wiederholte Dekalog beginnt erneut mit der Befreiung. Das Gesetz ist Teil des Bundes - es beschreibt, wie das Leben von Menschen aussieht, die dem treuen Gott gehören.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Wenn die Gebote den Charakter Gottes beschreiben, was erfährst du aus ihnen über ihn?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "Der Dekalog als Bundestext",
+          "content": "Die Struktur von 2Mo 20 und 5Mo 5 (Selbstvorstellung des Herrschers, Erinnerung an die Wohltaten, Bedingungen) erinnert an altertümliche Bundesverträge. Der Dekalog wirkt also nicht als losgelöster Kodex, sondern als Herz der Bundesbeziehung zwischen Gott und seinem Volk."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Gen.26.5",
+              "ref": "1Mo 26,5"
+            }
+          ],
+          "comment": "Abraham „hielt die Gebote und Gesetze\" Gottes lange vor dem Sinai. Gottes Gesetz ist keine Erfindung des Mose - es bestand schon früher, denn es bringt den unveränderlichen Charakter Gottes zum Ausdruck.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Was folgt daraus, dass Abraham Gottes Gesetze kannte, obwohl der Dekalog erst viel später aufgeschrieben wurde?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "Gottes Gesetz vor dem Sinai",
+          "content": "Die Grundsätze des Dekalogs erwachsen aus dem Gesetz der Liebe, das schon vor dem Auftreten der Sünde im Universum herrschte, und sie lassen sich in der Zeit der Patriarchen wiederfinden. Der Sinai führte keine neue Moral ein - er schrieb nur das nieder und bestätigte es, was seit langem aus dem Charakter Gottes folgte. Das Zeugnis über Abraham (1Mo 26,5) zeigt, dass Gottes Gesetz dem Mose vorausging.",
+          "questions": [
+            {
+              "id": "q25",
+              "text": "Wenn Gottes Gesetz lange vor dem Sinai bestand, was sagt das über seinen Ursprung und seine Beständigkeit aus?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Rom.13.8-10",
+              "ref": "Röm 13,8-10"
+            }
+          ],
+          "comment": "Die Liebe ist „die Erfüllung des Gesetzes\". Die Gebote sind keine Liste von Verboten um der Verbote willen - sie beschreiben, wie Liebe in der Praxis aussieht.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Wie hilft die Aussage, dass „die Liebe dem Nächsten nichts Böses tut\", den Sinn der Gebote zu verstehen?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "other",
+          "label": "Das Gesetz als Abschrift des Charakters Gottes (Liebe)",
+          "content": "Der Dekalog ist ein Abbild des Charakters Gottes, und das grundlegende Prinzip dieses Gesetzes ist die Liebe. Darum fasst Jesus das ganze Gesetz und die Propheten in zwei Geboten der Liebe zusammen (Mt 22,37-40), und Paulus nennt die Liebe „die Erfüllung des Gesetzes\" (Röm 13,10). Da „Gott Liebe ist\" (1Joh 4,8), beschreiben die Gebote, wie sein Charakter ins Leben übersetzt aussieht - sie sind kein Hindernis für die Liebe, sondern ihre Gestalt.",
+          "questions": [
+            {
+              "id": "q26",
+              "text": "Wenn jedes Gebot eine Beschreibung der Liebe ist, welches davon fällt dir heute am schwersten, gerade auf diese Weise zu lesen?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "1John.5.3",
+              "ref": "1Joh 5,3"
+            }
+          ],
+          "comment": "„Die Liebe zu Gott besteht darin, dass wir seine Gebote halten, und sie sind keine Last\". Gehorsam aus Liebe ist leicht - Zwang aus Furcht ist eine Last.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Wann wird das Halten der Gebote zur Last und wann zur Freude? Wovon hängt das ab?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Die ganze Bibel ist die Geschichte von Gott, der sich mit dem Menschen durch einen Bund verbindet und ihn, wenn der Mensch den Bund bricht, sucht und seine Verheißung erneuert. Das Herz des großen Kampfes ist die Frage: Kann man Gott vertrauen? Die Antwort ist das Kreuz: Gott selbst hat den Preis des Bundes mit seinem eigenen Blut bezahlt. Der Dekalog ist keine Liste von Bedingungen, um sich Liebe zu verdienen - er ist ein Porträt des Charakters Gottes und eine Beschreibung des Lebens derer, die bereits geliebt sind.",
+    "challenge": "Lies in dieser Woche den Dekalog (2Mo 20,1-17) nicht als eine Liste von Verboten, sondern als eine Beschreibung des Charakters Gottes, den du kennenlernen möchtest. Schreibe bei jedem Gebot einen Satz auf: „Das zeigt, dass mein Gott ... ist\"."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "DE translation of PL study przymierze-i-charakter-boga"
+  }
+}

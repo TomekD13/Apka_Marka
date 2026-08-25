@@ -1,0 +1,420 @@
+{
+  "lang": "pl",
+  "note": "„sources” pobiera przeglądarka wprost z cudzego serwera (wymaga otwartego CORS). „catalogs” to strony, z których moduł pobiera się ręcznie, a potem wskazuje w „Wczytaj plik modułu” — tamte serwery CORS-a nie oddają, więc automatu być nie może.",
+  "sources": [
+    {
+      "code": "BG",
+      "name": "Biblia Gdańska (1881)",
+      "license": "Domena publiczna.",
+      "provider": "getbible.net",
+      "kind": "getbible",
+      "url": "https://api.getbible.net/v2/polgdanska",
+      "sizeKB": 9400
+    }
+  ],
+  "catalogs": [
+    {
+      "name": "ph4.org — moduły MyBible po polsku",
+      "url": "https://www.ph4.org/b4_1.php?l=pl",
+      "formats": "MyBible (.SQLite3 w .zip)",
+      "note": "Największy zbiór polskich przekładów: Uwspółcześniona Biblia Gdańska 2018 i 2013, Gdańska 1632 i 1881, Nowa Gdańska, Tysiąclecia (kilka wydań), EIB, Paulistów, przekład toruński, interlinia hebrajsko-polska.",
+      "items": [
+        {
+          "code": "BT",
+          "abbr": "BT",
+          "name": "Biblia Tysiąclecia 1965",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=BT&b=mybible&c",
+          "complete": true,
+          "sizeKB": 2256
+        },
+        {
+          "code": "BT'71",
+          "abbr": "BT",
+          "name": "Biblia Tysiąclecia II 1971",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=BT'71&b=mybible&c",
+          "complete": true,
+          "sizeKB": 1967
+        },
+        {
+          "code": "BT'76",
+          "abbr": "BT",
+          "name": "Biblia Tysiąclecia III 1976",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=BT'76&b=mybible&c",
+          "complete": true,
+          "sizeKB": 1956
+        },
+        {
+          "code": "BT'99",
+          "abbr": "BT",
+          "name": "Biblia Tysiąclecia V 1999",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=BT'99&b=mybible&c",
+          "complete": true,
+          "sizeKB": 1966
+        },
+        {
+          "code": "BT'03",
+          "abbr": "BT",
+          "name": "Biblia Tysiąclecia IV 2003",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=BT'03&b=mybible&c",
+          "complete": true,
+          "sizeKB": 3097
+        },
+        {
+          "code": "BG",
+          "abbr": "BG",
+          "name": "Biblia Gdańska 1881",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=BG&b=mybible&c",
+          "complete": true,
+          "sizeKB": 1916
+        },
+        {
+          "code": "BG'1632",
+          "abbr": "BG",
+          "name": "Biblia Gdańska 1632",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=BG'1632&b=mybible&c",
+          "complete": true,
+          "sizeKB": 1918
+        },
+        {
+          "code": "NBG'12",
+          "abbr": "NBG",
+          "name": "Nowa Biblia Gdańska 2012",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=NBG'12&b=mybible&c",
+          "complete": true,
+          "sizeKB": 1921
+        },
+        {
+          "code": "UBG'18",
+          "abbr": "UBG",
+          "name": "Uwspółcześniona Biblia Gdańska 2018",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=UBG'18&b=mybible&c",
+          "complete": true,
+          "sizeKB": 1919
+        },
+        {
+          "code": "UBG",
+          "abbr": "UBG",
+          "name": "Uwspółcześniona Biblia Gdańska 2013",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=UBG&b=mybible&c",
+          "complete": true,
+          "sizeKB": 1922
+        },
+        {
+          "code": "SNP'18",
+          "abbr": "SNP",
+          "name": "Biblia, to jest Pismo Święte Starego i Nowego Przymierza Wydanie pierwsze 2018",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=SNP'18&b=mybible&c",
+          "complete": true,
+          "sizeKB": 2520
+        },
+        {
+          "code": "PAU",
+          "abbr": "PAU",
+          "name": "Biblia Paulistów 2016",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=PAU&b=mybible&c",
+          "complete": true,
+          "sizeKB": 2285
+        },
+        {
+          "code": "BJW",
+          "abbr": "BJW",
+          "name": "Biblia Jakuba Wujka 1593",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=BJW&b=mybible&c",
+          "complete": true,
+          "sizeKB": 1820
+        },
+        {
+          "code": "BW",
+          "abbr": "BW",
+          "name": "Biblia warszawska 1975",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=BW&b=mybible&c",
+          "complete": true,
+          "sizeKB": 2043
+        },
+        {
+          "code": "BWP",
+          "abbr": "BWP",
+          "name": "Biblia warszawsko-praska 1997",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=BWP&b=mybible&c",
+          "complete": true,
+          "sizeKB": 2134
+        },
+        {
+          "code": "BL",
+          "abbr": "BL",
+          "name": "Biblia lubelska 1991",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=BL&b=mybible&c",
+          "complete": true,
+          "sizeKB": 1773
+        },
+        {
+          "code": "BN",
+          "abbr": "BN",
+          "name": "Biblia nieświeska 1572",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=BN&b=mybible&c",
+          "complete": true,
+          "sizeKB": 77
+        },
+        {
+          "code": "BTZ",
+          "abbr": "BTZ",
+          "name": "Brulion Tomasza ze Zbrudzewa 1549",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=BTZ&b=mybible&c",
+          "complete": true,
+          "sizeKB": 14
+        },
+        {
+          "code": "EIB",
+          "abbr": "EIB",
+          "name": "Przekład Literacki 2016",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=EIB&b=mybible&c",
+          "complete": true,
+          "sizeKB": 2013
+        },
+        {
+          "code": "EKU'18",
+          "abbr": "EKU",
+          "name": "Biblia Ekumeniczna 2018",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=EKU'18&b=mybible&c",
+          "complete": true,
+          "sizeKB": 2374
+        },
+        {
+          "code": "IBHP_plus_",
+          "abbr": "IBHP",
+          "name": "Interlinearna Biblia Hebrajsko-Polska 2018",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=IBHP_plus_&b=mybible&c",
+          "complete": true,
+          "sizeKB": 2117
+        },
+        {
+          "code": "MILOSZ",
+          "abbr": "MILOSZ",
+          "name": "Przekłady biblijne Czesława Miłosza 2004",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=MILOSZ&b=mybible&c",
+          "complete": true,
+          "sizeKB": 257
+        },
+        {
+          "code": "TRO_plus_",
+          "abbr": "TRO",
+          "name": "Textus Receptus Oblubienicy 2004",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=TRO_plus_&b=mybible&c",
+          "complete": true,
+          "sizeKB": 1869
+        },
+        {
+          "code": "POZ'75",
+          "abbr": "POZ",
+          "name": "Biblia Poznańska I 1975",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=POZ'75&b=mybible&c",
+          "complete": true,
+          "sizeKB": 2006
+        },
+        {
+          "code": "BLT",
+          "abbr": "BLT",
+          "name": "Biblia Leopolity Tora 1561",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=BLT&b=mybible&c",
+          "complete": false,
+          "sizeKB": 451
+        },
+        {
+          "code": "KPHA",
+          "abbr": "EDB",
+          "name": "Ewangelie dla badaczy 2010",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=KPHA&b=mybible&c",
+          "complete": false,
+          "sizeKB": 123
+        },
+        {
+          "code": "GOR",
+          "abbr": "GOR",
+          "name": "Nowy Testament Góralski 2005",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=GOR&b=mybible&c",
+          "complete": false,
+          "sizeKB": 486
+        },
+        {
+          "code": "TNP",
+          "abbr": "TNP",
+          "name": "Przekład toruński Nowego Przymierza 2005",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=TNP&b=mybible&c",
+          "complete": false,
+          "sizeKB": 1441
+        },
+        {
+          "code": "TRO",
+          "abbr": "TRO",
+          "name": "Textus Receptus Oblubienicy 2005",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=TRO&b=mybible&c",
+          "complete": false
+        },
+        {
+          "code": "BB'1563",
+          "abbr": "BB",
+          "name": "Biblia Brzeska 1563",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=BB'1563&b=mybible&c",
+          "complete": false,
+          "sizeKB": 2179
+        },
+        {
+          "code": "Dąb",
+          "abbr": "Dąb",
+          "name": "Biblia Dąbrowskiego 1961",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=Dąb&b=mybible&c",
+          "complete": false
+        },
+        {
+          "code": "DąbV",
+          "abbr": "DąbV",
+          "name": "Biblia Przekład Dąbrowskiego z Wulgaty 1961",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=DąbV&b=mybible&c",
+          "complete": false
+        },
+        {
+          "code": "NP",
+          "abbr": "NP",
+          "name": "Nowe Przymierze: Pismo Święte Nowego Testamentu 1961",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=NP&b=mybible&c",
+          "complete": false,
+          "sizeKB": 526
+        },
+        {
+          "code": "NTK",
+          "abbr": "NTK",
+          "name": "Nowy Testament Kowalskiego 1956",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=NTK&b=mybible&c",
+          "complete": false,
+          "sizeKB": 503
+        },
+        {
+          "code": "PBP",
+          "abbr": "PBP",
+          "name": "Nowy Testament Popowskiego 2010",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=PBP&b=mybible&c",
+          "complete": false,
+          "sizeKB": 519
+        },
+        {
+          "code": "PBR",
+          "abbr": "PBR",
+          "name": "NT Rakowski 1606",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=PBR&b=mybible&c",
+          "complete": false,
+          "sizeKB": 498
+        },
+        {
+          "code": "PBW",
+          "abbr": "PBW",
+          "name": "NT — Współczesny przekład 1991",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=PBW&b=mybible&c",
+          "complete": false,
+          "sizeKB": 522
+        },
+        {
+          "code": "PSZ",
+          "abbr": "PSZ",
+          "name": "Słowo Życia 2016",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=PSZ&b=mybible&c",
+          "complete": false,
+          "sizeKB": 556
+        },
+        {
+          "code": "EKU'01",
+          "abbr": "EKU",
+          "name": "Przekład Ekumeniczny NT 2001",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=EKU'01&b=mybible&c",
+          "complete": false,
+          "sizeKB": 494
+        },
+        {
+          "code": "Goetze",
+          "abbr": "Goetze",
+          "name": "Nowy Testament i Psalmy Goetze 1937",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=Goetze&b=mybible&c",
+          "complete": false,
+          "sizeKB": 658
+        },
+        {
+          "code": "SZW",
+          "abbr": "SZW",
+          "name": "Nowy Testament Szwedzki 1948",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=SZW&b=mybible&c",
+          "complete": false,
+          "sizeKB": 486
+        },
+        {
+          "code": "ASZK",
+          "abbr": "ASZK",
+          "name": "Chwała Boża (Psałterz Dawidowy) 1927",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=ASZK&b=mybible&c",
+          "complete": false,
+          "sizeKB": 158
+        },
+        {
+          "code": "STAFF",
+          "abbr": "STAFF",
+          "name": "Księga Psalmów 1937",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=STAFF&b=mybible&c",
+          "complete": false,
+          "sizeKB": 151
+        },
+        {
+          "code": "TRONM",
+          "abbr": "TRONM",
+          "name": "Psalmy z Biblii Greckiej w przekładzie ks. Tronma, DATE 1937",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=TRONM&b=mybible&c",
+          "complete": false,
+          "sizeKB": 159
+        },
+        {
+          "code": "KRUS",
+          "abbr": "KRUS",
+          "name": "Przekłady biblijne Józefa Kruszyńskiego 1926",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=KRUS&b=mybible&c",
+          "complete": false,
+          "sizeKB": 1190
+        },
+        {
+          "code": "PBPW",
+          "abbr": "PBPW",
+          "name": "Grecko-polski Nowy Testament 2014",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=PBPW&b=mybible&c",
+          "complete": false,
+          "sizeKB": 582
+        },
+        {
+          "code": "PBD",
+          "abbr": "PBD",
+          "name": "NT Przekład Dosłowny EIB 1993",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=PBD&b=mybible&c",
+          "complete": false,
+          "sizeKB": 508
+        },
+        {
+          "code": "BWM'75",
+          "abbr": "BWM",
+          "name": "Biblia Mesjańska 1975",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=BWM'75&b=mybible&c",
+          "complete": true,
+          "sizeKB": 1941
+        },
+        {
+          "code": "Cylk",
+          "abbr": "NTPŻ",
+          "name": "Nowy Testament z Perspektywy Żydowskiej 1895",
+          "url": "https://www.ph4.org/_dl.php?back=bbl&a=Cylk&b=mybible&c",
+          "complete": false,
+          "sizeKB": 1287
+        }
+      ]
+    },
+    {
+      "name": "Alkitab — moduły .yes",
+      "url": "https://alkitab.mobi/download/yes/",
+      "formats": "Alkitab (.yes)",
+      "note": "Przekłady indonezyjskie i w językach regionalnych Indonezji, a na dole strony kilkanaście angielskich (m.in. King James Version, ESV, NET). Polskich tu nie ma."
+    }
+  ]
+}

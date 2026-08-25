@@ -1,0 +1,530 @@
+{
+  "id": "karama-za-rohoni-katika-huduma",
+  "lang": "sw",
+  "title": "Karama za rohoni katika huduma",
+  "category": "basic_systematic",
+  "seriesId": "zycie-w-przymierzu",
+  "order": 20,
+  "summary": "Mungu humpa kila mwamini vifaa vya huduma. Roho hugawa karama mbalimbali, na mwili mmoja - Kanisa - huziunganisha kuwa kitu kimoja. Kila mtu anapaswa kugundua na kutumia karama yake. Biblia pia inatoa vigezo vya kutambua karama ya kweli na nabii wa kweli. Karama ya kuponya inakumbusha kwamba Mungu anatenda kazi leo - ndani ya mapenzi yake na fumbo la mateso. Lengo la karama zote: kulijenga Kanisa.",
+  "minutes": {
+    "base": 45,
+    "extended": 65
+  },
+  "tags": [
+    "karama za rohoni",
+    "Roho Mtakatifu",
+    "huduma",
+    "mwili mmoja",
+    "utambuzi",
+    "uponyaji"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Mungu hutoa vifaa vya huduma",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "1Cor.12.4-7",
+              "ref": "1Kor 12:4-7"
+            }
+          ],
+          "comment": "Karama mbalimbali, huduma mbalimbali - lakini \"Roho yeye yule\" na \"Mungu yeye yule\". Kila mmoja amepewa \"ufunuo wa Roho kwa faida ya wote\". Hakuna anayeachwa.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Inamaanisha nini kwamba karama unaipokea si kwa ajili yako, bali \"kwa faida ya wote\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "1Cor.12.11",
+              "ref": "1Kor 12:11"
+            }
+          ],
+          "comment": "Ni Roho \"agawanyaye kila mtu kama apendavyo\". Karama si tuzo kwa sifa wala sababu ya kiburi - ni zawadi, yaani kitu kilichopokelewa.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Kwa kuwa ni Roho achaguaye na kugawa karama, jambo hili linasema nini kuhusu kujilinganisha na wengine?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "1Pet.4.10",
+              "ref": "1Pet 4:10"
+            }
+          ],
+          "comment": "\"Kama mawakili wema… tumikianeni\" kwa karama ambayo kila mmoja amepokea. Karama ni hazina iliyokabidhiwa ili itumike, si kufichwa.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Je, \"wakili wa karama\" anatofautianaje na \"mmiliki wa kipawa\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"karama za neema\" (charismata)",
+          "content": "Neno la Kiyunani *charisma* (wingi *charismata*, 1Kor 12; Rum 12) linatoka katika *charis* - \"neema\". Karama za rohoni kwa maana yake ni \"madhihirisho ya neema\": kitu kilichopokelewa bure, si kilichostahiliwa. Neno lenyewe linakataa kiburi na kujilinganisha - karama si nishani, bali ni vifaa vya huduma.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χαρίσματα",
+              "translit": "charismata"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Je, uhusiano wa *charisma-charis* (karama-neema) unalindaje dhidi ya hali mbili za kupita kiasi: kiburi na hisia ya kutokuwa na thamani?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "maneno mawili: \"za rohoni\" na \"karama\"",
+          "content": "Paulo anaanza mafundisho kwa neno *pneumatika* - \"mambo ya rohoni\" (1Kor 12:1), lakini karibu mara moja anabadilika kwenda *charismata* - \"karama za neema\" (1Kor 12:4). Wafafanuzi wanapendekeza kwamba *pneumatika* lilikuwa neno la Wakorintho wenyewe, ambalo kwalo walisisitiza \"uroho\" wao; Paulo kwa makusudi anabadilisha neno ili kuhamisha msisitizo kutoka kwa uzoefu kuelekea neema ya Mtoaji na huduma.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "πνευματικά",
+              "translit": "pneumatika"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Ni nini kinachobadilika katika mtazamo tunapoiita \"karama ya rohoni\" kwanza \"karama ya neema\", si \"uzoefu wangu wa kiroho\"?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Mwili mmoja, karama nyingi",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Rom.12.4-8",
+              "ref": "Rum 12:4-8"
+            }
+          ],
+          "comment": "Kama vile mwili una viungo vingi vyenye kazi tofauti, ndivyo Kanisa. Karama zilizotajwa (kutumika, kufundisha, kutia moyo, kushiriki, rehema) ni za kawaida na za vitendo - wengi wetu tayari tunazibeba ndani yetu.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Ni ipi kati ya karama zilizotajwa inayosikika karibu zaidi na kile kinachokujia kwa urahisi?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "1Cor.12.14-20",
+              "ref": "1Kor 12:14-20"
+            }
+          ],
+          "comment": "Mguu si duni kuliko mkono, wala sikio kuliko jicho. Kama mwili wote ungekuwa jicho - hapangekuwa na mwili. Tofauti si tatizo la kusawazisha, bali ni kusudi la Mungu.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Ni lini ulijihisi \"wa maana kidogo\" ndani ya jumuiya? Je, mfano huu wa mwili unajibuje jambo hilo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"hakuna karama yenye thamani ndogo\"",
+          "content": "Mfano wa mwili (1Kor 12; Rum 12) unamsaidia Paulo kuonyesha kwamba karama zinakamilishana na hakuna isiyo na maana. Zinapokosekana zile zinazohesabiwa kuwa \"ndogo zaidi\", mwili wote unateseka. Kama ilivyoelezwa katika ufafanuzi: \"hakuna karama ya neema isiyo na thamani na hakuna inayostahili thamani ndogo kuliko nyingine\" - ngazi ya umuhimu ni geni kwa fikira ya Paulo."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "1Cor.12.21-26",
+              "ref": "1Kor 12:21-26"
+            }
+          ],
+          "comment": "\"Siwezi kufanya bila wewe\" - hakuna kiungo kisicho na maana, na vile dhaifu vinatunzwa zaidi. Kinapoteseka kimoja, vyote vinateseka; kinapoheshimiwa kimoja, vyote vinafurahi.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Je, kungemaanisha nini katika jumuiya yako kuwatendea \"walio dhaifu\" kwa uangalifu zaidi, si mdogo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Eph.4.11-13",
+              "ref": "Efe 4:11-13"
+            }
+          ],
+          "comment": "Kristo aliipa Kanisa huduma mbalimbali, \"ili kuwakamilisha watakatifu kwa kazi ya huduma\". Lengo: ukomavu na umoja wa mwili wote - ili kila mmoja aweze kutumika, si viongozi tu.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Kulingana na maandiko haya, lengo halisi la kuwepo kwa viongozi na walimu katika Kanisa ni lipi?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "orodha tofauti za karama katika Agano Jipya",
+          "content": "Orodha za karama (1Kor 12:8-10.28; Rum 12:6-8; Efe 4:11; 1Pet 4:11) zinatofautiana baina yao na kwa sehemu zinapishana. Hii inaonyesha kwamba hakuna mojawapo iliyo orodha funge - Roho huipa Kanisa vifaa kulingana na mahitaji, na lengo daima ni kuujenga mwili, si fahari ya karama."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "\"karama\" maana yake \"aliyepewa uwezo wa huduma\"",
+          "content": "Katika Agano Jipya Kanisa zima limepewa karama, kwa sababu lote limepewa vifaa kwa ajili ya utume. Neno hili katika lugha ya leo linahusianishwa na uzoefu wa kihisia wakati wa ibada, lakini kwa maana ya kibiblia \"mwenye karama\" linamaanisha tu \"aliyepewa uwezo wa huduma\" - kibinafsi na kijumuiya (Mdo 1:8; 4:31).",
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Je, taswira ya Kanisa inabadilikaje tunapoielewa karama kama \"uwezo wa huduma\", si \"udhihirisho wa hisia\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Matt.25.14-18",
+              "ref": "Mt 25:14-18"
+            }
+          ],
+          "comment": "Bwana anagawa talanta \"kila mtu kwa kadiri ya uwezo wake\". Watumishi wawili wanaongeza, wa tatu anazika. Karama isiyotumika hudhoofika - ilitolewa ili itende kazi.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Ni nini mara nyingi husababisha watu \"kuzika\" karama yao, badala ya kuitumia?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "1Tim.4.14",
+              "ref": "1Tim 4:14"
+            }
+          ],
+          "comment": "\"Usiache kuitumia karama iliyomo ndani yako\". Karama mara nyingine hutambuliwa na kuthibitishwa na jumuiya - inafaa kuikuza, si kuizima.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Ni nani katika maisha yako angeweza kukusaidia kutambua karama ambayo wewe mwenyewe huioni ndani yako?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "2Tim.1.6-7",
+              "ref": "2Tim 1:6-7"
+            }
+          ],
+          "comment": "Paulo anaita \"kuichochea tena\" karama ya Mungu, kwa sababu Mungu alitupa \"roho ya nguvu, ya upendo na ya kiasi\", si ya woga. Mara nyingi ni woga unaozima karama.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Ni karama gani ndani yako inahitaji leo \"kuchochewa tena\" - na ni nini kinachoizima ndani yako?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "kwanza Mtoaji, kisha karama",
+          "content": "Matendo ya Mitume yanatumia neno *dorea* (\"zawadi\") kumaanisha Roho Mtakatifu mwenyewe aliyetolewa kwa waamini (Mdo 2:38; 10:45; 11:17). Mfuatano una maana: kwanza anakuja Mtoaji - Roho, na ndipo zinapojitokeza *charismata*, yaani karama mbalimbali (1Kor 12). Hivyo kutafuta karama kunaanza na kujifungua kwa Roho mwenyewe, si kuwinda uwezo fulani maalum.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "δωρεά",
+              "translit": "dorea"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Je, kutafuta \"karama yangu\" kunabadilikaje wakati kwanza unaomba Mtoaji mwenyewe, si uwezo fulani maalum?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Isa.8.20",
+              "ref": "Isa 8:20"
+            }
+          ],
+          "comment": "\"Kwa sheria na kwa ushuhuda!\" - mtu akisema tofauti na Neno, hana nuru ndani yake. Kigezo cha kwanza cha karama ya kweli: kupatana na Maandiko.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Kwa nini kupatana na Biblia lazima kuwe kigezo cha kwanza cha kila ujumbe wa \"uvuvio\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Matt.7.15-20",
+              "ref": "Mt 7:15-20"
+            }
+          ],
+          "comment": "\"Kwa matunda yao mtawatambua\". Karama ya kweli na nabii wa kweli hutambuliwa si kwa mvuto wa kuvutia, bali kwa matunda ya maisha na mafundisho.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Ni \"matunda\" gani yanayotofautisha huduma ya kweli na ile ya kujionyesha?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "1John.4.1",
+              "ref": "1Yoh 4:1"
+            }
+          ],
+          "comment": "\"Jaribuni roho, kwamba zimetokana na Mungu\". Utambuzi si ukosefu wa imani wala mashaka - ni wajibu wa kibiblia, kwa sababu \"manabii wengi wa uongo wametokea ulimwenguni\".",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Je, \"kujaribu roho\" kwa afya kunatofautianaje na uaminifu wa haraka na mashaka ya dharau?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "vigezo vya kutambua nabii wa kweli",
+          "content": "Biblia inatoa seti yenye upatano ya vipimo: kupatana na Maandiko (Isa 8:20), kutimia kwa unabii (Kum 18:21-22), matunda ya maisha na mafundisho (Mt 7:15-20) na kumkiri Kristo aliyekuja katika mwili (1Yoh 4:2-3). Hivi ni vigezo vya wazi - havitegemei hisia wala mvuto wa msemaji. (Karama ya unabii kama alama mahususi ya mabaki ni mada ya somo tofauti la 26; hapa tunaiangalia kwa ujumla, bila kurejelea Ellen White.)"
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "\"ushuhuda wa Yesu ndio roho ya unabii\"",
+          "content": "Katika Ufu 19:10 malaika anasema juu ya wale \"walio na ushuhuda wa Yesu\", na Yohana anaeleza: \"ushuhuda wa Yesu ndio roho ya unabii\". Katika Kiyunani *tēn martyrian Iēsou* ni hali ya genitivu \"ya kiima\" - ushuhuda unaotoka KWA Yesu. Katika Ufu 22:9 malaika yuleyule badala ya \"ushuhuda wa Yesu\" anasema \"manabii\", jambo linaloonyesha kwamba maneno yote mawili yanahusiana na karama ya unabii. (Uhusiano wa karama hii na watu wa mabaki unafafanuliwa katika somo la 26.)"
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Deut.18.21-22",
+              "ref": "Kum 18:21-22"
+            }
+          ],
+          "comment": "Kipimo cha nabii ni kutimia kwa maneno yake. Mungu mwenyewe anatoa kigezo - kweli inajitetea, haiogopi kuthibitishwa.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Je, jambo hili kwamba Mungu anaruhusu, hata anaamuru kuwapima wale wanaonena kwa jina lake, linasema nini kuhusu Mungu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "unabii wa masharti (Ninawi)",
+          "content": "Kipimo cha Kum 18:22 lazima kisomwe pamoja na kanuni ya unabii wa masharti (Yer 18:7-10). Yona alihubiri: \"siku arobaini zaidi, na Ninawi itaangamizwa\" - na mji haukuangamizwa, kwa sababu ulitubu. Hata hivyo Yona alibaki kuwa nabii wa kweli: tangazo la hukumu lina sharti lililofichika, na kutotimia kwake baada ya toba hakumfanyi nabii kuwa wa uongo.",
+          "questions": [
+            {
+              "id": "q24",
+              "text": "Kwa nini toba ya Ninawi haikipingi kipimo cha Mungu cha nabii cha Kum 18:22, bali kinakikamilisha?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "1Thess.5.19-21",
+              "ref": "1The 5:19-21"
+            }
+          ],
+          "comment": "\"Msiuzime Roho… jaribuni mambo yote, lililo jema - lishikeni\". Uwiano: kuwa wazi kwa kazi ya Roho na wakati huohuo utambuzi.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Je, kudumisha uwiano kati ya \"msiuzime Roho\" na \"jaribuni mambo yote\" kunawezekanaje?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Karama ya kuponya na kutenda kazi kwa Mungu leo",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Jas.5.14-16",
+              "ref": "Yak 5:14-16"
+            }
+          ],
+          "comment": "Mgonjwa awaite wazee, ili waombe na kumpaka mafuta; \"kuomba kwa imani kutamponya mgonjwa\". Mungu anatualika tumletee magonjwa - kuomba uponyaji ni sehemu ya kawaida ya maisha ya Kanisa.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Ni nini kinachokuzuia kuiomba jumuiya iombe wakati wa ugonjwa - na maandiko haya yanasema nini kuhusu jambo hilo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "1Cor.12.9-10",
+              "ref": "1Kor 12:9-10"
+            }
+          ],
+          "comment": "Miongoni mwa karama za Roho mna pia \"karama za kuponya\" na \"kutenda miujiza\". Mungu anatenda kazi leo - uponyaji ni karama ya Roho, si tu historia ya zamani.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Unafikiri kwa nini uponyaji hapa unaitwa \"karama\", si \"tuzo\" au \"haki\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "karama ya kuponya: njia ya kawaida na za pekee",
+          "content": "Paulo anasema juu ya \"karama za kuponya\" kwa wingi (1Kor 12:9). Njia ya kawaida iliyoonyeshwa na Mungu ya kutafuta uponyaji ni kuomba na kupaka mafuta (Yak 5:14-15), ingawa uponyaji mara nyingine hutolewa kwa kuomba peke yake. \"Kutenda miujiza\" (1Kor 12:10) kunahusiana na karama ya kuponya, lakini ni pana zaidi - kunahusu kile kinachoonekana kuwa hakiwezekani kwa kibinadamu.",
+          "questions": [
+            {
+              "id": "q25",
+              "text": "Kwa nini ni vyema kwamba Biblia inatoa \"njia ya kawaida\" (kuomba na kupaka mafuta), na wakati huohuo haimfungii Mungu njia nyingine za kutenda?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "2Cor.12.7-9",
+              "ref": "2Kor 12:7-9"
+            }
+          ],
+          "comment": "Paulo aliomba uponyaji mara tatu, lakini akasikia: \"Neema yangu yakutosha\". Mungu hatibu sikuzote mara moja na si sikuzote kama tunavyoomba - nguvu zake hutenda kazi pia katika udhaifu. Hili ni fumbo la mateso, si ukosefu wa upendo wa Mungu.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Je, imani katika uponyaji inawezaje kupatanishwa na ukweli kwamba mara nyingine Mungu anasema \"neema yangu yakutosha\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "John.9.1-3",
+              "ref": "Yoh 9:1-3"
+            }
+          ],
+          "comment": "Yesu anakataa muundo rahisi \"ugonjwa = adhabu ya dhambi\". Mateso yanabaki kuwa fumbo, ambamo hata hivyo \"kazi za Mungu zinapaswa kudhihirika\".",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Je, kukataa fikira \"naumwa kwa sababu nimekosa\" kunabadilisha nini katika mtazamo wa mateso?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Mungu hawagawi waamini kuwa \"wataalamu\" na \"watazamaji\". Roho humpa kila mtu vifaa vya huduma na humpa angalau karama moja - kwa faida ya wote. Karama yako inahitajika katika mwili wa Kristo: bila wewe kuna kitu kinachopungua. Inafaa kuigundua (mara nyingi kwa msaada wa jumuiya) na kuitumia, si kuizika kwa woga. Biblia pia inafundisha utambuzi wa hekima wa karama na manabii wa kweli - daima kulingana na Neno na matunda. Na tunapougua, tunaweza kuomba kwa ujasiri maombi ya uponyaji, tukiamini kwamba Mungu anatenda kazi leo - hata kama jibu lake mara nyingine ni fumbo, na neema yake yatosha pia katika udhaifu.",
+    "challenge": "Waulize wiki hii watu wawili wanaokujua: \"Ni karama au upande gani imara ndani yangu mnaouona?\". Chagua njia moja ya kutumia karama hiyo katika huduma kwa mtu fulani hivi karibuni. Kama unapambana na ugonjwa - iombe jumuiya au wazee waombe (Yak 5:14)."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study dary-duchowe"
+  }
+}

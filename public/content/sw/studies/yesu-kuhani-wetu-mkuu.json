@@ -1,0 +1,525 @@
+{
+  "id": "yesu-kuhani-wetu-mkuu",
+  "lang": "sw",
+  "title": "Yesu - Kuhani wetu Mkuu",
+  "category": "basic_systematic",
+  "seriesId": "zycie-w-przymierzu",
+  "order": 18,
+  "summary": "Patakatifu pa duniani palikuwa mfano wa mpango wa wokovu: dhabihu zake zilimwonyesha Yesu-Mwana-Kondoo, na ukuhani ulionyesha huduma yake. Leo Yesu ni Kuhani Mkuu katika patakatifu pa mbinguni - mpatanishi wetu pekee. Patakatifu panaunganika na agano: sheria ndani ya sanduku, neema juu ya kiti cha rehema; tunao uhakika wa kumfikia Mungu.",
+  "minutes": {
+    "base": 45,
+    "extended": 65
+  },
+  "tags": [
+    "patakatifu",
+    "Kuhani Mkuu",
+    "mpatanishi",
+    "agano",
+    "mpango wa wokovu",
+    "hukumu"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Patakatifu kama mfano wa Mungu wa wokovu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Exod.25.8-9",
+              "ref": "Kut 25:8-9"
+            }
+          ],
+          "comment": "Mungu anaomba patakatifu, \"ili akae kati\" ya watu, na anaagiza kupajenga \"kwa mfano\". Si wazo la mwanadamu juu ya dini - ni mpango wa Mungu unaoonyesha jinsi Mungu anavyotaka kuwa na mwanadamu.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Ni nini hasa Mungu anachotamani anapoomba patakatifu - ibada au kukaa kati ya watu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Heb.8.5",
+              "ref": "Ebr 8:5"
+            }
+          ],
+          "comment": "Patakatifu pa duniani palikuwa \"mfano na kivuli\" cha uhalisia wa mbinguni. Ni mfano unaofundisha - unaonyesha kitu kikubwa kuliko penyewe.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Kama patakatifu ni \"kivuli\", basi panapaswa kuonyesha uhalisia gani?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Ps.77.14",
+              "ref": "Zab 77:14"
+            }
+          ],
+          "comment": "\"Njia yako, Mungu, i katika patakatifu\" - hema linaonyesha njia ambayo kwayo Mungu humwokoa mwanadamu. Kila kipengele chake kina maana fulani.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Ina maana gani kwamba Mungu anafunua \"njia\" yake ya wokovu kupitia vitu na ibada?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "\"patakatifu\": miszkan na mikdasz",
+          "content": "Biblia inatumia maneno makuu mawili kwa hema: *miszkan* (\"makao\", kutoka shina la \"kukaa, kukaa pamoja\") na *mikdasz* (\"mahali patakatifu\", kutoka \"takatifu\"). Pamoja yanatoa kiini: Mungu mtakatifu anatamani kukaa kati ya watu. Agizo la Kut 25:8 linasema hili waziwazi: \"Nifanyieni patakatifu, ili nikae kati yao\". Jambo la maana, ombi la hema linatokea baada tu ya kutoka Misri na kufanya agano - ukombozi unatangulia kuingia patakatifu.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "מִשְׁכָּן",
+              "translit": "miszkan"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Kama Mungu \"alifanya patakatifu, ili akae kati yao\", basi hilo linasema nini kuhusu kile anachotamani zaidi kwako?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "muundo wa hema na mpango wa wokovu",
+          "content": "Ua (madhabahu ya dhabihu, birika), mahali patakatifu (mikate, kinara cha taa, madhabahu ya uvumba) na patakatifu pa patakatifu (sanduku) mara nyingine husomwa kama hatua mfululizo za wokovu: dhabihu/msalaba, uombezi wa kila siku na ushirika, hatimaye hukumu na utimilifu wa uwepo wa Mungu. Kwa hiyo patakatifu ni \"mchoro\" wenye kueleweka wa injili."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "\"kwa mfano\" (tabnit)",
+          "content": "Musa alipaswa kujenga hema \"kwa mfano\" alioonyeshwa mlimani (Kut 25:9.40). Neno la Kiebrania *tabnit* (kutoka \"kujenga\") lina maana ya muundo au nakala ya kitu, ambayo kwa kawaida hudhania kuwepo kwa nakala ya asili. Inafaa kuona kwamba nakala hiyo ya asili ni patakatifu pa mbinguni: pa duniani ni \"mfano na kivuli\" chake (Ebr 8:5), kinachoonyesha nje yake mwenyewe.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "תַּבְנִית",
+              "translit": "tabnit"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Ni nini kinachobadilika katika kuiangalia ibada ya duniani tunapotambua kwamba ni \"kivuli\" cha uhalisia halisi, wa mbinguni?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Dhabihu zinazomwonyesha Mwana-Kondoo",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Lev.4.27-31",
+              "ref": "Law 4:27-31"
+            }
+          ],
+          "comment": "Mwenye dhambi aliweka mkono juu ya mnyama, akaungama kosa, naye akafa mahali pake. Picha iko wazi: dhambi inaongoza kwenye mauti, lakini mtu asiye na hatia anaweza kuchukua nafasi yangu.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Ni nini moyo wa mtu uliopaswa kuelewa, aliyekuwa kwa mkono wake mwenyewe akionyesha dhabihu inayokufa kwa ajili yake?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "John.1.29",
+              "ref": "Yoh 1:29"
+            }
+          ],
+          "comment": "Yohana anamwonyesha Yesu: \"Mwana-Kondoo wa Mungu, aichukuaye dhambi ya ulimwengu\". Wana-kondoo wote waliochinjwa walimwonyesha huyu mmoja - Dhabihu ya kweli.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Kama kila dhabihu ilikuwa unabii, basi ni nini kilichotokea Yesu-Mwana-Kondoo alipokuja?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Isa.53.5-6",
+              "ref": "Isa 53:5-6"
+            }
+          ],
+          "comment": "Mamia ya miaka mapema nabii anamwelezea Mtumishi ambaye juu yake \"Bwana ameweka maovu yetu sote\". Hiki ni kiini cha mfumo wa dhabihu: kuchukua nafasi.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Ni maneno gani kutoka maandiko haya yanayosema kwa nguvu zaidi kwamba mtu alibeba adhabu badala yako?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "1Pet.1.18-19",
+              "ref": "1Pet 1:18-19"
+            }
+          ],
+          "comment": "Tumekombolewa \"kwa damu ya thamani ya Kristo, kama ya mwana-kondoo\". Lugha ya patakatifu imehamishwa moja kwa moja kwa Yesu - ni Yeye uhalisia wa dhabihu.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Inasema nini kuhusu thamani ya mwanadamu gharama ambayo Mungu aliilipa kwa ukombozi wake?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "\"mara moja kwa milele\"",
+          "content": "Waraka kwa Waebrania unasisitiza kwamba dhabihu za wanyama zinazorudiwa-rudiwa \"haziwezi kuondoa dhambi\" (Ebr 10:4); zilikuwa kivuli tu. Kristo nayo alijitoa mwenyewe \"mara moja kwa milele\" (Ebr 7:27; 10:10) na \"kwa damu yake mwenyewe\" aliingia \"mara moja kwa milele katika patakatifu, akiisha kupata ukombozi wa milele\" (Ebr 9:12). Msalaba ni kamilifu na usioweza kurudiwa - hakuna chochote cha kuongezwa kwake.",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Kwa kuwa dhabihu ya Yesu ilitolewa \"mara moja kwa milele\", ni nini usichohitaji tena kuongeza ili ukubaliwe na Mungu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Yesu, Kuhani wetu Mkuu mbinguni",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Heb.4.14-16",
+              "ref": "Ebr 4:14-16"
+            }
+          ],
+          "comment": "Tunaye \"Kuhani Mkuu aliyepita katika mbingu\" naye anaihurumia udhaifu wetu. Ndiyo maana twaweza \"kukikaribia kiti cha enzi cha neema kwa ujasiri\". Kuhani hapa si mlinzi wa umbali, bali ndiye anayefungua njia ya kumfikia.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Ni nini kinachobadilika katika sala kutambua kwamba Kuhani Mkuu anaelewa udhaifu wako naye hahukumu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Heb.7.25",
+              "ref": "Ebr 7:25"
+            }
+          ],
+          "comment": "Yesu \"yu hai sikuzote ili awaombee\" naye kwa hiyo aweza \"kuokoa kabisa\". Upatanishi wake ni wa kudumu na wenye mafanikio hadi mwisho.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Ni nini kinachotoa uhakika kwamba Yesu aweza kuokoa \"kabisa\", si kwa sehemu tu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "kuhani \"kwa mfumo wa Melkizedeki\"",
+          "content": "Ebr 7 inaonyesha ubora wa ukuhani wa Kristo, ikienda kwenye Zab 110:4: \"Wewe ni kuhani hata milele kwa mfumo wa Melkizedeki\". Yesu ni kuhani si kwa sababu ya kutoka katika ukoo wa Haruni (hakuwa Mlawi), bali \"kwa nguvu ya uzima usioharibika\" na kiapo cha Mungu. Ndiyo maana ukuhani wake haupitiki - kwa kuwa \"unadumu hata milele\", unaweza kuokoa kabisa.",
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Ina maana gani kwa usalama wako kwamba Yesu ni Kuhani Mkuu \"hata milele\", ambaye huduma yake haitakwisha kamwe?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "1John.2.1",
+              "ref": "1Yoh 2:1"
+            }
+          ],
+          "comment": "Tunapoanguka, \"tunaye Mwombezi kwa Baba - Yesu Kristo mwenye haki\". Tunaye Mtetezi, si mshtaki.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Ni nani kulingana na maandiko haya yuko upande wako, utakapotenda dhambi - na hilo linaathirije hisia ya hatia?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Heb.8.1-2",
+              "ref": "Ebr 8:1-2"
+            }
+          ],
+          "comment": "Yesu \"ameketi mkono wa kuume\" naye anatekeleza huduma katika \"hema ya kweli, aliyoiweka Bwana\". Patakatifu pa mbinguni si fumbo - ni mahali halisi pa huduma yake kwa ajili yetu.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Ina maana gani kwako kwamba Yesu anatekeleza sasa huduma mahususi kwa ajili yako mbinguni?"
+            },
+            {
+              "id": "q23",
+              "text": "Kwa kuwa Yesu anatuelewa, yu hai sikuzote naye hawakatai kamwe wanaomkaribia, angepungukiwa na nini hata ahitajiwe mpatanishi wa ziada?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Patakatifu palipounganishwa na agano",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Exod.25.16",
+              "ref": "Kut 25:16"
+            }
+          ],
+          "comment": "Katika moyo wa patakatifu, ndani ya sanduku, kuliwekwa \"Ushahidi\" - mbao za Amri Kumi. Sheria ya Mungu iko katikati hasa ya hema: ni msingi wa agano.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Ina maana gani kwamba sheria ya Mungu inapatikana katika moyo hasa wa patakatifu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Exod.25.17-22",
+              "ref": "Kut 25:17-22"
+            }
+          ],
+          "comment": "Juu ya sheria, juu ya sanduku, kunalala \"kiti cha rehema\" (kifuniko cha upatanisho), ambapo Mungu hukutana na watu. Juu ya sheria iko neema - haki na rehema hukutana hasa pale ambapo Mungu anasema na mwanadamu.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Inasema nini kuhusu Mungu picha hii: sheria ndani ya sanduku, na juu yake mahali pa upatanisho na kukutana?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"kiti cha rehema\" (kappōret / hilastērion)",
+          "content": "Neno la Kiebrania *kappōret* (kifuniko cha sanduku) linaunganika na shina la \"kufunika, kufanya upatanisho\"; Septuaginta na Agano Jipya yanatumia *hilastērion* (Rum 3:25 linalihusisha na Kristo). Mahali ambapo damu ilifunika sheria, panakuwa picha ya Kristo, ambaye ndani yake haki na rehema hukutana.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "כַּפֹּרֶת",
+              "translit": "kappōret"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q24",
+              "text": "Je, picha ya \"kufunika sheria kwa damu\" inasaidiaje kuelewa upatanisho katika Kristo ni nini?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Heb.9.11-15",
+              "ref": "Ebr 9:11-15"
+            }
+          ],
+          "comment": "Yesu kama Kuhani Mkuu aliingia na damu yake mwenyewe na akawa \"mpatanishi wa agano jipya\". Patakatifu na agano ni kitu kimoja: Mpatanishi anahakikisha kwamba sheria na neema havipingani.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Je, Yesu anaunganishaje ndani yake sheria (haki) na neema (msamaha)?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Heb.10.19-22",
+              "ref": "Ebr 10:19-22"
+            }
+          ],
+          "comment": "Kwa damu ya Yesu tunao \"ujasiri wa kuingia\" mahali patakatifu pa patakatifu na twaweza \"kukaribia kwa utimilifu wa imani\". Pazia, lililokuwa likizuia zamani, limefunguliwa.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Ni nini kinachobadilika katika uhusiano wako na Mungu ukweli kwamba njia ya kumfikia tayari imefunguliwa na ni hakika?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "pazia lililopasuka",
+          "content": "Wakati wa kifo cha Yesu pazia la patakatifu \"lilipasuka vipande viwili, toka juu hata chini\" (Mt 27:51). Katika hema pazia liligawanya mahali patakatifu na patakatifu pa patakatifu nalo lililinda umbali. Kupasuka kwake - na ndilo hasa wakati wa dhabihu ya Kristo - kunaonyesha kwamba kwa damu yake njia ya kumfikia Mungu imefunguliwa; ni ukweli ule ule unaotangazwa na Ebr 10:19-20 kuhusu \"njia mpya iliyo hai kupitia pazia\".",
+          "questions": [
+            {
+              "id": "q25",
+              "text": "Ina maana gani kwa sala yako kwamba pazia lililotenganisha na Mungu limepasuliwa \"toka juu\" - kwa mpango wa Mungu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Awamu ya hukumu: habari njema (kumbukumbu ya \"Saa ya hukumu\")",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Dan.7.9-10",
+              "ref": "Dan 7:9-10"
+            }
+          ],
+          "comment": "Danieli anaona kiti cha enzi, vitabu vilivyofunguliwa na hukumu iliyoketi. Katika muktadha wa patakatifu si tukio la kutisha - ni wakati ambapo shauri la watu wa Mungu linaamuliwa. (Unahusiana na somo \"Saa ya hukumu\".)",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Je, hukumu lazima iamshe hofu, ikiwa Hakimu wako ni pia Mtetezi wako?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Dan.7.13-14",
+              "ref": "Dan 7:13-14"
+            }
+          ],
+          "comment": "\"Mwana wa Adamu\" anakuja mbele za Mzee wa Siku na anapokea ufalme. Katika tukio la hukumu mhusika mkuu ni Yesu - Yule anayetuwakilisha.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Ni nani anayesimama katikati ya tukio la hukumu na hilo lina maana gani kwa mtu aliyemwamini?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Heb.9.24",
+              "ref": "Ebr 9:24"
+            }
+          ],
+          "comment": "Kristo aliingia \"mbele za uso wa Mungu kwa ajili yetu\". Katika awamu ya hukumu Yesu si mshtaki - anasimama pale kama mwakilishi wetu.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Ina maana gani kwamba Yesu anasimama mbele za Mungu \"kwa ajili yetu\", hasa wakati wa hukumu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "worship",
+          "label": "Siku ya Upatanisho (Law 16)",
+          "content": "Mara moja kwa mwaka kuhani mkuu aliingia mahali patakatifu pa patakatifu, ili kufanya utakaso wa mwisho wa hema \"kutokana na uchafu na makosa\" ya watu (Law 16). Ni siku ya utakaso na pia ya hukumu: Mungu alitathmini ni nani kwa kweli anategemea neema yake. Awamu mbili za huduma ya duniani - ya kila siku na ile ya Siku ya Upatanisho - zinalingana na pande mbili za huduma ya Kristo: uombezi wa kudumu na kazi ya hukumu/utakaso (taz. Ebr 9:23). Kwa wanaomtegemea Yesu hili si tisho, bali uthibitisho wa mwisho kwamba dhambi zao zimeondolewa.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "יוֹם הַכִּפֻּרִים",
+              "translit": "jom hakkippurim"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q26",
+              "text": "Kwa kuwa Siku ya Upatanisho ilimaliza shauri la dhambi kwa faida ya watu wa Mungu, kwa nini awamu ya hukumu inaweza kuwa habari njema kwako?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Patakatifu ni picha ya Mungu ya njia nzima ya wokovu. Dhabihu zilimwonyesha Yesu-Mwana-Kondoo, aliyekufa mahali pangu. Leo Yesu yuyo huyo ni Kuhani wangu Mkuu mbinguni - bila kukoma ananiombea na ananipa njia ya hakika, iliyo wazi ya kumfikia Mungu. Katika moyo wa patakatifu sheria (haki) inakutana na neema (msamaha), nazo zinaunganishwa na Mpatanishi mmoja. Hata hukumu haina haja ya kutisha: Hakimu wangu ni Mtetezi wangu. Sihitaji mtu mwingine kati yangu na Mungu - ninaye Yesu, nayo inatosha.",
+    "challenge": "Wiki hii katika kila sala kwa makusudi mgeukie Mungu \"kupitia Yesu, Kuhani wangu Mkuu\". Mara moja mwambie wazi dhambi mahususi na ukubali kwamba unaye Mwombezi, si mshtaki (1 Yoh 2:1) - kisha andika jinsi hilo linavyobadilisha hisia yako ya kumfikia Mungu."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study swiatynia-i-przymierze"
+  }
+}

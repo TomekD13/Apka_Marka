@@ -1,0 +1,590 @@
+{
+  "id": "wozu-gebote",
+  "lang": "de",
+  "title": "Wozu Gebote?",
+  "category": "basic_systematic",
+  "seriesId": "zycie-w-przymierzu",
+  "order": 16,
+  "summary": "Die Bibel unterscheidet das Sittengesetz (den Dekalog - bleibend, weil er den Charakter Gottes ausdrückt) und das Zeremonialgesetz des Mose (es kündigte Christus an und erfüllte sich in ihm). Das Halten der Gebote ist kein Gesetzlichkeitsdenken, sondern Gehorsam aus Liebe und in der Kraft des Geistes - Beziehung vor Regeln.",
+  "minutes": {
+    "base": 45,
+    "extended": 65
+  },
+  "tags": [
+    "Gesetz",
+    "der Dekalog",
+    "das Zeremonialgesetz",
+    "Gnade",
+    "Gehorsam",
+    "Heiliger Geist"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Hat ein Christ noch Gebote?",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Matt.5.17-18",
+              "ref": "Mt 5,17-18"
+            }
+          ],
+          "comment": "Jesus sagt ausdrücklich, dass er nicht gekommen ist, das Gesetz aufzuheben, sondern zu erfüllen. „Erfüllen\" heißt nicht „abschaffen\" - es heißt „zur vollen Bedeutung bringen\".",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Was schließt Jesus hier aus und was bestätigt er in Bezug auf das Gesetz?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "„erfüllen\" (plēroō)",
+          "content": "In Mt 5,17 verwendet Jesus *plēroō* - „füllen, vollenden, zur Fülle bringen\". Das ist nicht dasselbe wie „aufheben\" (gr. *katalyō*, was Jesus ausdrücklich von sich weist). Das Verb weist darauf hin, dem Gesetz die volle Bedeutung zu geben, nicht es zu beseitigen.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "πληρῶσαι",
+              "translit": "plērōsai"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Wie ordnet die Unterscheidung von *plēroō* (vollenden) und *katalyō* (aufheben) den Streit über die Beständigkeit des Gesetzes?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Rom.3.31",
+              "ref": "Röm 3,31"
+            }
+          ],
+          "comment": "Paulus, der Apostel der Gnade, fragt: Hebt der Glaube das Gesetz auf? Und er antwortet: im Gegenteil - er richtet es auf. Die Gnade hebt das Gesetz nicht auf, sondern gibt ihm seinen rechten Platz zurück.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Wie ist es möglich, dass der Glaube das Gesetz „aufrichtet\", anstatt es aufzuheben?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Rom.7.12",
+              "ref": "Röm 7,12"
+            }
+          ],
+          "comment": "Das Gesetz ist „heilig, gerecht und gut\". Das Problem war nie das Gesetz, sondern unser Herz - darum brauchen wir nicht die Aufhebung des Gesetzes, sondern die Erneuerung des Herzens.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Wenn das Gesetz gut ist, wo liegt dann das eigentliche Problem der Sünde?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "„Gesetz\" ist hebr. tora („Unterweisung\")",
+          "content": "Das häufigste alttestamentliche Wort für „Gesetz\" ist *tora* - „Richtung, Unterweisung, Weisung\", nicht nur eine trockene „Vorschrift\". Im Neuen Testament gibt das gr. *nomos* es wieder. Darum kann „Gesetz\" in der Bibel eine weite Bezeichnung für den ganzen offenbarten Willen Gottes sein und nicht nur eine Liste von Verboten - was erklärt, warum Paulus sagt, dass der Glaube das Gesetz „aufrichtet\" und nicht aufhebt.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "תּוֹרָה",
+              "translit": "tora"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Wie verändert sich der Streit über das „Gesetz\", wenn wir es als „Unterweisung\" verstehen und nicht nur als „Paragrafen\"?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Zwei Arten von Gesetz: das Sittengesetz und das Zeremonialgesetz",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Deut.31.24-26",
+              "ref": "5Mo 31,24-26"
+            }
+          ],
+          "comment": "Das von Mose aufgeschriebene Gesetz wurde NEBEN die Lade gelegt. Den Dekalog dagegen schrieb Gott mit eigenem Finger, und er wurde INNERHALB der Lade aufbewahrt - die Bibel unterscheidet diese beiden Sammlungen bereits in der Art ihrer Aufbewahrung.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Was kann der Unterschied bedeuten: das Gesetz des Mose neben der Lade, der Dekalog aber in ihrem Inneren?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "Zwei Gesetzessammlungen und die Lade",
+          "content": "In der Bibel wird der Dekalog („die zehn Worte\") in das Innere der Lade gelegt (2Mo 25,16; 5Mo 10,5), das von Mose aufgeschriebene „Buch des Gesetzes\" aber daneben (5Mo 31,26). Diese Unterscheidung des Aufbewahrungsortes wird mitunter als Hinweis auf den unterschiedlichen Status des Sittengesetzes und des Zeremonialgesetzes gelesen."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Exod.31.18",
+              "ref": "2Mo 31,18"
+            }
+          ],
+          "comment": "Der Dekalog ist „mit dem Finger Gottes\" auf Stein geschrieben. Das unterstreicht seine Einzigartigkeit und Beständigkeit - er kommt unmittelbar von Gott.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Warum unterstreichen das Material (Stein) und der Urheber (Gott selbst) die Beständigkeit des Dekalogs?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "„die zehn Worte\" (der Dekalog)",
+          "content": "„Dekalog\" heißt auf Hebräisch wörtlich „die zehn Worte\" (vgl. 2Mo 34,28). Diese zehn Worte Gottes waren der einzige Teil der Tora, der unter Donner und Blitzen vom Berg verkündet und dann mit dem Finger Gottes selbst auf zwei steinerne Tafeln geschrieben wurde (2Mo 31,18; 5Mo 4,13; 10,4). Dieser außergewöhnliche Umstand seiner Entstehung hebt das Sittengesetz aus den übrigen Vorschriften Israels heraus."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Heb.10.1",
+              "ref": "Hebr 10,1"
+            }
+          ],
+          "comment": "Das Opfergesetz war „ein Schatten der zukünftigen Güter\" und nicht die Wirklichkeit selbst. Der Schatten verschwindet, wenn das erscheint, was ihn warf - nämlich Christus.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Warum verliert der Schatten seinen Sinn, wenn die Wirklichkeit kommt, die er ankündigte?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Col.2.14-17",
+              "ref": "Kol 2,14-17"
+            }
+          ],
+          "comment": "Paulus spricht von Vorschriften „bezüglich der Feste, der Neumonde und der [zeremoniellen] Sabbate\", die ein Schatten waren - der Leib aber ist Christus. Die Rede ist vom zeremoniellen System der Opfer und Feste, das in Jesus erfüllt ist.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Was bedeutet es, dass die zeremoniellen Vorschriften ein „Schatten\" waren, der „Leib\" aber Christus ist?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "„Schatten\" (skia) gegenüber „Leib\" (sōma)",
+          "content": "Kol 2,17 stellt *skia* (Schatten) und *sōma* (Leib, Wirklichkeit) einander gegenüber. Die zeremoniellen Vorschriften sind ein Schatten, den die kommende Wirklichkeit - Christus - vorauswirft. Wenn der *sōma* kommt, verliert der Schatten seine Funktion, denn er hat seine Aufgabe des Hinweisens erfüllt.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "σκιὰ … τὸ δὲ σῶμα τοῦ Χριστοῦ",
+              "translit": "skia … to de sōma tou Christou"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "textual",
+          "label": "„er löschte den Schuldschein gegen uns aus\" (cheirographon)",
+          "content": "Das Wort, das Paulus als die ausgelöschte und „ans Kreuz geheftete\" Urkunde gegen uns wiedergibt (Kol 2,14), ist gr. *cheirographon* - „ein eigenhändig geschriebenes Schulddokument, eine Schuldverschreibung\". Es kommt im Neuen Testament nur hier vor. Was Jesus bildlich ans Kreuz heftete, ist unsere Verurteilung und die durch die Sünde aufgenommene Schuld samt dem System der zeremoniellen „Satzungen\" (gr. *dogma*), nicht das ewige Sittengesetz.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χειρόγραφον",
+              "translit": "cheirographon"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Was wurde nach dem Zusammenhang von Kol 2 eigentlich „ans Kreuz geheftet\" - und was betrifft das NICHT?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "Die „Sabbate\" in Kol 2,16",
+          "content": "In Kol 2,16 knüpft die Aufzählung (Feste, Neumond, „Sabbate\") an den Kalender der zeremoniellen Feste Israels an (vgl. 3Mo 23), darunter die jährlichen Festtage, die Sabbate genannt wurden und mit dem Opfersystem verbunden waren. Der Text betrifft diesen zeremoniellen Zyklus, dessen Rolle Christus erfüllte, und nicht das wöchentliche Gebot des Dekalogs - was Thema eines eigenen Studiums ist."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Eph.2.14-16",
+              "ref": "Eph 2,14-16"
+            }
+          ],
+          "comment": "Christus hat „das Gesetz der Gebote in Satzungen\" aufgehoben, das Juden und Heiden trennte - das zeremonielle System. Die Trennmauer fällt, weil ihre Rolle erfüllt ist.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Welches Gesetz teilte die Menschen in „die Eigenen\" und „die Fremden\", und warum konnte es verschwinden?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Was sich in Christus erfüllt hat",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "John.1.29",
+              "ref": "Joh 1,29"
+            }
+          ],
+          "comment": "Johannes nennt Jesus „das Lamm Gottes\". Tausende geopferter Lämmer wiesen auf diesen einen Augenblick hin - wenn das wahre Lamm kommt, erfüllt sich die Ankündigung.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Wenn alle Opfer auf Jesus hinwiesen, was geschieht mit ihnen, sobald er gekommen ist?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Heb.9.9-10",
+              "ref": "Hebr 9,9-10"
+            }
+          ],
+          "comment": "Gaben, Opfer und zeremonielle Vorschriften galten „bis zur Zeit der Neuordnung\". Sie hatten ihre Frist - sie wiesen weiter, hin zu Christus.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Was bedeutet es, dass diese Vorschriften „bis zur Zeit der Neuordnung\" galten?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Heb.7.18-19",
+              "ref": "Hebr 7,18-19"
+            }
+          ],
+          "comment": "Die frühere Satzung wird wegen ihrer Schwäche aufgehoben - sie führte nichts zur Vollkommenheit. An ihre Stelle tritt eine bessere Hoffnung: der unmittelbare Zugang zu Gott durch Jesus.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Was konnte das alte System nicht geben, was Jesus gibt?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "„Erzieher auf Christus hin\" (paidagogos)",
+          "content": "In Gal 3,24 wird das Gesetz „Erzieher\" genannt, der zu Christus führt - gr. *paidagogos*. In der Antike war der *paidagogos* kein Lehrer (gr. *didaskalos*), sondern ein Sklave, der den Knaben zur Schule brachte, ihn beschützte und beaufsichtigte. Hier geht es um das ganze zeremonielle System, das zu Christus führen sollte - als er kam, erfüllte sich diese Rolle.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "παιδαγωγός",
+              "translit": "paidagogos"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q24",
+              "text": "Worin unterscheidet sich die Rolle des „Begleiters, der zu Christus führt\", von der Rolle des „Ziels\", das Christus selbst ist?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Was für den Christen gilt",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Matt.19.17-19",
+              "ref": "Mt 19,17-19"
+            }
+          ],
+          "comment": "Auf die Frage nach dem Weg zum Leben verweist Jesus auf konkrete Gebote des Dekalogs. Nach dem Kreuz zitiert niemand die Opfervorschriften als Lebensregel - aber die sittlichen Gebote bleiben der Bezugspunkt.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Warum greift Jesus, wenn er vom Leben spricht, gerade auf die Gebote des Dekalogs zurück?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "term",
+          "label": "„Gebote\" (entolē), nicht Opfer",
+          "content": "Auf die Frage des reichen Jünglings zählt Jesus konkret auf: du sollst nicht töten, nicht ehebrechen, nicht stehlen, kein falsches Zeugnis ablegen - also den Dekalog. Das hier verwendete Wort ist gr. *entolē* („Gebot\"), dasselbe, das Johannes für die Gebote Gottes gebraucht. Es ist anzumerken, dass der Jüngling sie gesetzlich hielt, als bloßen Kodex, ihm aber der Gesetzgeber fehlte: „Folge mir nach\".",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐντολή",
+              "translit": "entolē"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Jas.2.10-12",
+              "ref": "Jak 2,10-12"
+            }
+          ],
+          "comment": "Jakobus behandelt, als er nach dem Kreuz schreibt, den Dekalog (Mord, Ehebruch) weiterhin als „Gesetz der Freiheit\", nach dem wir gerichtet werden. Das Sittengesetz gilt weiterhin.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Warum nennt Jakobus das Gesetz, das weiterhin gilt, „Gesetz der Freiheit\" und nicht der Knechtschaft?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "„königliches Gesetz\", „Gesetz der Freiheit\"",
+          "content": "Jakobus nennt den Dekalog „königliches Gesetz\" und „Gesetz der Freiheit\", nach dem das Gericht ergeht (Jak 2,8-12). Obwohl die Erlösung aus dem Glauben an das Kreuz kommt, bezieht sich das Gericht auf das Gesetz. Beachten wir, dass die Knechtschaft nicht vom Gesetz kommt - sie entsteht aus der Unterwerfung unter die Sünde; die Rechtfertigung aber kommt aus der Barmherzigkeit, denn „Barmherzigkeit triumphiert über das Gericht\" (Jak 2,13)."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "1John.2.3-4",
+              "ref": "1Joh 2,3-4"
+            }
+          ],
+          "comment": "Das Zeichen, dass wir Gott wirklich kennen, ist das Halten seiner Gebote. Das ist kein Verdienst, sondern ein Beweis echter Beziehung.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Worin unterscheidet sich „das Halten der Gebote als Beweis der Beziehung\" vom „Sich-Verdienen durch die Gebote\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Rev.14.12",
+              "ref": "Offb 14,12"
+            }
+          ],
+          "comment": "Am Ende der Geschichte wird Gottes Volk als jene beschrieben, die „die Gebote Gottes und den Glauben an Jesus halten\". Gebote und Glaube sind keine Gegensätze - sie gehören zusammen.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Wie ist die Verbindung von „Geboten Gottes\" und „Glauben an Jesus\" in einer einzigen Beschreibung zu verstehen?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Gehorsam aus Liebe, in der Kraft des Geistes - kein Gesetzlichkeitsdenken",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "John.14.15",
+              "ref": "Joh 14,15"
+            }
+          ],
+          "comment": "„Wenn ihr mich liebt, werdet ihr meine Gebote halten\". Die Reihenfolge ist entscheidend: zuerst die Liebe, aus ihr fließt der Gehorsam - nicht umgekehrt.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Was ändert sich, wenn der Gehorsam aus der Liebe fließt und ihr nicht vorausgeht?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Rom.8.3-4",
+              "ref": "Röm 8,3-4"
+            }
+          ],
+          "comment": "Was das Gesetz wegen unserer Schwäche nicht vermochte, vollbringt Gott durch den Geist - damit „die Gerechtigkeit des Gesetzes in uns erfüllt werde\". Gehorsam ist das Werk des Geistes in uns, nicht unsere einsame Anstrengung.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Durch wessen Kraft erfüllt sich das Gesetz nach diesem Text im Leben des Glaubenden?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Eph.2.8-10",
+              "ref": "Eph 2,8-10"
+            }
+          ],
+          "comment": "Die Erlösung ist aus Gnade, nicht aus Werken - und doch sind wir „zu guten Werken\" geschaffen. Die Werke sind nicht die Wurzel der Erlösung, sondern ihre Frucht.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Wo ist in diesem Text der Platz für Werke, wenn die Erlösung doch umsonst ist?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "Gal.5.6",
+              "ref": "Gal 5,6"
+            }
+          ],
+          "comment": "Was zählt, ist „der Glaube, der durch die Liebe wirkt\". Das ist das biblische Heilmittel gegen Gesetzlichkeit: keine tote Regel, sondern ein Glaube, der sich in Liebe ausdrückt.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Wie unterscheidet man „den durch die Liebe wirkenden Glauben\" vom leeren Erfüllen von Regeln?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u20",
+          "passage": [
+            {
+              "osis": "Ezek.36.26-27",
+              "ref": "Hes 36,26-27"
+            }
+          ],
+          "comment": "Gott verheißt ein neues Herz und seinen Geist, der bewirkt, dass „wir nach seinen Geboten wandeln\". Die Erneuerung beginnt im Inneren - bei Gott, nicht bei zusammengebissenen Zähnen.",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Was verheißt Gott zuerst zu verändern - das Verhalten oder das Herz? Warum ist das wichtig?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n11",
+          "noteType": "verb",
+          "label": "„tun\" (poieō) gegenüber „erfüllen\" (plēroō) des Gesetzes",
+          "content": "Es ist hervorzuheben, dass Paulus absichtlich zwei verschiedene Verben verwendet. Über die zeremoniellen Vorschriften sagt er „tun\" (gr. *poieō*) - der Akzent liegt auf der menschlichen Anstrengung. Über das Sittengesetz und das „Gesetz Christi\" sagt er „erfüllen\" (gr. *plēroō*, z. B. Gal 5,14) - der Akzent liegt auf dem Werk des Geistes. Der Gehorsam gegenüber dem Dekalog wird nicht durch zusammengebissene Zähne vollständig, sondern als Frucht des Geistes.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ποιέω",
+              "translit": "poieō"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q25",
+              "text": "Warum ist die Unterscheidung von „tun\" (meine Anstrengung) und „erfüllen\" (Werk des Geistes) ein Heilmittel gegen Gesetzlichkeit?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Die Bibel kennt keinen Konflikt zwischen Gnade und Gesetz. Das Zeremonialgesetz - Opfer, Feste, Riten - war ein Schatten, der auf Christus hinwies und sich in ihm erfüllte. Das Sittengesetz, der Dekalog, bleibt bestehen, weil es den unveränderlichen Charakter Gottes beschreibt. Aber das Halten der Gebote ist niemals ein Weg, sich Liebe zu verdienen. Es ist die Frucht der Beziehung: wir lieben, also sind wir gehorsam - und das nicht aus eigener Kraft, sondern in der Kraft des Geistes, der ein neues Herz gibt. Die Beziehung geht immer vor den Regeln.",
+    "challenge": "Mach in dieser Woche einen einfachen Herzenstest: Wähle ein Gebot aus und frage dich, ob du es aus Furcht/Pflicht hältst oder aus Liebe zu Gott. Bitte den Heiligen Geist, deine Beweggründe von „ich muss\" zu „ich will\" zu verwandeln."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "DE translation of PL study dekalog-a-prawo-mojzeszowe"
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "id": "migogoro-na-maridhiano",
+  "lang": "sw",
+  "title": "Migogoro na maridhiano",
+  "category": "topic",
+  "seriesId": "zycie-i-emocje",
+  "order": 30,
+  "summary": "Nini cha kufanya na majeraha, uchungu na migogoro kati ya watu. Jinsi ya kuelewa msamaha (ambao si kujifanya kwamba hakuna kilichotokea), jinsi ya kutatua mizozo kwa njia ya Mungu na jinsi ya kutoruhusu hasira kugeuka kuwa uchungu.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "mahusiano",
+    "msamaha",
+    "mgogoro",
+    "upatanisho",
+    "hasira",
+    "uchungu"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Jeraha na uchungu: kinachotokea ndani yangu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Eph.4.31",
+              "ref": "Efe 4:31"
+            }
+          ],
+          "comment": "Paulo anaita mambo kwa majina yake: uchungu, hasira, ghadhabu, kelele. Uovu usioshughulikiwa hautoweki - unachachuka na kutia sumu kutoka ndani.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Ni \"sura\" ipi kati ya hizi za kuumizwa unayoiona ndani yako leo? Kwa nani?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Heb.12.15",
+              "ref": "Ebr 12:15"
+            }
+          ],
+          "comment": "\"Mzizi wa uchungu\" hukua kwa siri na \"hutia sumu wengi\". Uchungu haumdhuru tu yule aliyekosa - kwanza humjeruhi yule anayeubeba.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Ni nani anayedhurika zaidi na uchungu unaoubeba ndani yako? Tangu lini unaumwagilia maji?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Gen.4.5-7",
+              "ref": "Mwa 4:5-7"
+            }
+          ],
+          "comment": "Mungu anamwonya Kaini: \"dhambi inakuvizia mlangoni, lakini wewe yakupasa kuishinda\". Hasira na wivu visivyoonyeshwa, vinapolishwa, huishia katika jeuri.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Ni wapi katika mahusiano \"dhambi inakuvizia mlangoni\" - kunakua chuki ambayo bado hujaivuka?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "Kaini: onyo lililogeuka kuwa mgogoro wa kwanza",
+          "content": "Maneno kwa Kaini ni mfano wa kawaida wa \"kanuni ya utendaji\": Mungu hailaani hisia ya hasira, bali anaita kuishinda kabla haijakua. Huu ni uhusiano wa kwanza wa kibinadamu baada ya anguko - na mgogoro wa kwanza wenye kuua - ukionyeshwa katika mfumo wa mapambano makuu: hasira isiyoshughulikiwa huwa uwanja ambapo dhambi \"inavizia\" na kuchukua udhibiti. Chuki si ya kawaida tu; ama unaishinda, ama nayo inaanza kukushinda.",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Inakumaanisha nini hasa \"kuishinda\" hasira, kabla \"dhambi inayovizia mlangoni\" haijachukua hatamu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Hasira: hisia isiyolazimika kutenda dhambi",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Eph.4.26-27",
+              "ref": "Efe 4:26-27"
+            }
+          ],
+          "comment": "\"Mwe na hasira, ila msitende dhambi\" - hasira yenyewe si dhambi, lakini tunapoihifadhi, tunampa Ibilisi \"nafasi\". Lengo ni kutoiacha hadi usiku.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Kupatwa na hasira kunatofautianaje na \"kuishi\" ndani yake? Kwa kawaida unafanya nini na ghadhabu yako?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "\"jua lisichwe juu ya hasira yenu\"",
+          "content": "Paulo hataki hasira itoweke mara moja, bali anaiwekea muda mfupi wa kuwepo: hadi jua kuchwa. Katika mtazamo huu msamaha ni \"kuiweka chini chuki\" kwa kusudi - ni uamuzi, si kuzimika kwenyewe kwa hisia. Mpaka wa \"hadi usiku\" hulinda dhidi ya hasira ya muda kupata nafasi ya kuotesha mzizi wa uchungu na kutoka katika hisia kuwa mwenendo. Hasira isiyoshughulikiwa kwa wakati ndiyo hasa nafasi ambayo Paulo anaiita \"nafasi ya Ibilisi\".",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Ni \"jua lako kuchwa\" lipi - wakati maalum wa siku au wa juma - ambao ungeweza kuwa saa ya kupatana na hasira, kabla haijaganda?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Jas.1.19-20",
+              "ref": "Yak 1:19-20"
+            }
+          ],
+          "comment": "\"Mwepesi wa kusikia, si mwepesi wa hasira\" - kwa sababu \"hasira ya mwanadamu haitendi haki ya Mungu\". Hasira ya haraka mara chache huongoza katika mema, ingawa huhisi kuwa ya haki.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Ni katika hali zipi unakuwa \"mwepesi wa kunena, si mwepesi wa kusikia\"? Hilo linabadilishaje mwenendo wa mgogoro?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Prov.15.1",
+              "ref": "Mit 15:1"
+            }
+          ],
+          "comment": "\"Jibu la upole hugeuza hasira, bali neno liumizalo huchochea ghadhabu.\" Katika mgogoro si maudhui pekee, bali pia toni huamua kama tunaelekea katika kuzidisha mvutano au katika upatanisho.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Kumbuka ugomvi wako wa mwisho - ungebadilika namna gani kwa \"toni moja ya upole\" badala ya neno kali?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Msamaha chanzoni: kwa sababu nilisamehewa",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Eph.4.32",
+              "ref": "Efe 4:32"
+            }
+          ],
+          "comment": "\"Sameheaneni, kama na Mungu katika Kristo alivyowasamehe ninyi.\" Kipimo na nguvu ya msamaha wangu kwanza ni kiasi ambacho mimi mwenyewe nimejaliwa.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Ni rahisi zaidi kwako kuamini kwamba Mungu amekusamehe wewe, au kwamba wewe unapaswa kuwasamehe wengine? Mambo haya mawili yameunganishwaje?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "\"kusamehe\" / ἀφίημι (aphiēmi) - kuachilia deni",
+          "content": "Kitenzi cha kawaida zaidi cha \"kusamehe\" katika Agano Jipya ni *aphiēmi* - kihalisi \"kuachilia, kuondoa, kupeleka mbali\". Kwa neno hilo hilo huelezwa kufuta deni (Mt 18,27.32) na kusamehe makosa katika Sala ya Bwana (Mt 6,12). Taswira ni dhahiri kabisa: kusamehe ni kuachilia mkononi hati ya deni ambayo ungeweza kumshikilia mtu nayo. Hukatai kwamba deni lilikuwepo - kwa kusudi unaachilia haki ya kulidai.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἀφίημι",
+              "translit": "aphiēmi"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Ni nini unashikilia mkononi kama \"hati ya deni\" dhidi ya mtu fulani? Ingemaanisha nini kuiachilia, bila kujifanya kwamba deni halikuwepo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Col.3.13",
+              "ref": "Kol 3:13"
+            }
+          ],
+          "comment": "\"Mkichukuliana na kusameheana ninyi kwa ninyi\" - msamaha ni uamuzi na mchakato ndani ya jumuiya, si hisia ya mara moja.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Ni nani leo una \"jambo dhidi yake\"? Ingemaanisha nini kivitendo kuanza mchakato wa kumsamehe mtu huyo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"kusamehe\" / χαρίζομαι (charizomai) (Ef 4,32; Kol 3,13)",
+          "content": "Katika Ef 4,32 na Kol 3,13 Paulo hatumii neno la kawaida la \"kufuta madeni\", bali *charizomai* - kitenzi chenye uhusiano na *charis* (\"neema\"). Kwa hiyo kusamehe ni \"kujalia neema\" kwa mfano wa jinsi Mungu alivyotujalia katika Kristo. Hii si kufuta ukweli wa jeraha, bali ni kuachilia haki ya kulipiza kisasi na kumjalia aliyekosa wema asiostahili.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χαρίζομαι",
+              "translit": "charizomai"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Ikiwa msamaha ni \"kujalia neema\", ni nini kinautofautisha na kujifanya kwamba jeraha halikutokea?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Matt.18.21-22",
+              "ref": "Mt 18:21-22"
+            }
+          ],
+          "comment": "Petro anauliza kama inatosha kusamehe mara saba; Yesu anajibu: \"saba mara sabini\" - yaani msamaha si kikomo, bali ni mwenendo wa kudumu.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Ni nini hufanya kuwa rahisi zaidi kuhesabu majeraha kuliko kuyaachilia? Ni wapi \"uvumilivu wako wa kusamehe\" unaishia?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "\"saba mara sabini\" na Lameki (Mt 18,22; Rdz 4,24)",
+          "content": "\"Saba mara sabini\" za Yesu (yawezekana pia tafsiri \"mara sabini mara saba\") ni ugeuzaji wa kusudi wa maneno ya Lameki katika Rdz 4,24, aliyejivuna kwa kisasi cha \"saba mara sabini\". Pale ambapo utamaduni wa dhambi huzidisha kisasi bila mipaka, ufalme wa Mungu huzidisha msamaha bila mipaka. Huu ni mabadiliko ya makusudi ya mantiki ya mahusiano katika mapambano makuu: kutoka kuzidisha kisasi hadi kuzidisha neema.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Ni wapi katika mahusiano yako \"mantiki ya Lameki\" (kisasi) inafanya kazi, na ni wapi ungeweza kuingiza \"mantiki ya Yesu\" (msamaha bila kuhesabu)?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Matt.18.23-35",
+              "ref": "Mt 18:23-35"
+            }
+          ],
+          "comment": "Mfano wa mtumishi asiye na huruma: mtu aliyesamehewa deni kubwa kupita kiasi anambana mtumishi mwenzake kwa jambo dogo. Kutowasamehe wengine ni kusahau kiasi tulichopokea sisi wenyewe.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Ukifikiria jeraha ambalo ni gumu kwako kulisamehe, pembeni mwa deni ambalo Mungu alikusamehe wewe - mlinganisho huo unaonekanaje?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "other",
+          "label": "Msamaha SI nini",
+          "content": "Maandiko huueleza msamaha kwa kukanusha. Kusamehe si sawa na kuhalalisha (\"hakuna kilichotokea\"), si kuelezea jeraha kwa mazingira wala kujifanya kwamba kosa halikuwepo. Msamaha kwa kweli huthibitisha kwamba jeraha lilitokea - na pamoja na hayo, kwa kusudi humwondolea mkosaji deni na kufungua njia ya kurekebisha uhusiano. Ndiyo sababu kusamehe kwa kweli si udhaifu mbele ya uovu, bali ni jibu lenye nguvu zaidi kwake: huuita uovu kuwa uovu na wakati huo huo huvunja mamlaka yake juu yetu.",
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Ni bandia ipi ya msamaha unayoichukulia mara nyingine kuwa msamaha: kuhalalisha, kuelezea au kujifanya?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Mark.11.25",
+              "ref": "Mk 11:25"
+            }
+          ],
+          "comment": "\"Msimamapo na kusali, sameheni.\" Yesu anaunganisha sala na utayari wa kusamehe - chuki tunayoishikilia huzuia uhusiano si tu na mwanadamu, bali pia na Mungu.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Je, kuna mtu ambaye picha yake hurudi kwako wakati wa sala? Ingemaanisha nini \"kumsamehe\" hapo hapo?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Mgogoro: jinsi ya kuzungumza na kutafuta amani",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Matt.18.15",
+              "ref": "Mt 18:15"
+            }
+          ],
+          "comment": "\"Ndugu yako akikukosea, nenda ukamwonye, wewe na yeye peke yenu.\" Hatua ya kwanza si umbea wala ukimya, bali ni mazungumzo ya moja kwa moja, ya faragha, na yule mwenyewe anayehusika.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Kwa kawaida unaitikiaje kuumizwa: unanyamaza, unawaambia wengine, au unamwendea mtu huyo? Hatua ya \"ana kwa ana\" ingebadilisha nini?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Matt.18.16-17",
+              "ref": "Mt 18:16-17"
+            }
+          ],
+          "comment": "Kama mazungumzo hayasaidii, ndipo tu mashahidi wanahusishwa, na mwishoni jumuiya. Lengo si \"kushinda\", bali ni kumrudisha ndugu - kuzidisha si njia ya kwanza, bali ya mwisho.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Inasema nini kuhusu lengo la utaratibu huu ukweli kwamba unaanzia na duara dogo kabisa la watu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "Mt 18,15-17 katika muktadha wa kumjali ndugu, si kesi ya adhabu",
+          "content": "Utaratibu wa Mt 18,15-17 umewekwa mara tu baada ya mfano wa kondoo aliyepotea (Mt 18,12-14), na muda mfupi kabla ya fundisho kuhusu msamaha (mst. 21-35). Huu ni muktadha wa kichungaji: lengo la hatua zinazofuatana si la kuadhibu wala la \"kuthibitisha hatia\", bali ni kumrudisha mtu. Kuhusisha mashahidi na jumuiya hatua kwa hatua ni kulinda heshima ya aliyejeruhiwa na ya anayekosea, si kumwaibisha hadharani.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Utumiaji wa utaratibu huu unabadilikaje wakati lengo lake ni \"kumpata ndugu\", si \"kumthibitishia hatia\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Rom.12.18",
+              "ref": "Rum 12:18"
+            }
+          ],
+          "comment": "\"Ikiwezekana, kwa upande wenu, mkae kwa amani na watu wote.\" Amani ni jukumu langu \"kwa kadiri inavyonitegemea\" - si mara zote mwenzangu atapokea mkono ulionyooshwa.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Ni wapi \"sehemu yako\" katika upatanisho inaishia? Unafanya nini ukishafanya lako, na upande mwingine haujibu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "other",
+          "label": "Masharti mawili ya Paulo: uhalisia wa amani",
+          "content": "Paulo anaweka mipaka kwa amri ya amani kwa masharti mawili: \"ikiwezekana\" na \"kwa kadiri inavyowategemea\". Huu ni uhalisia wa kiasi - upatanisho unahitaji pande mbili, nawe unawajibika kwa upande wako tu. Tofauti kati ya msamaha na upatanisho ni muhimu hapa: kusamehe (kuachilia chuki mbele za Mungu) waweza kufanya peke yako na daima; kupatana (kujenga upya uhusiano) - tu pale ambapo upande mwingine pia unataka, mara nyingine unakiri na kurekebisha. Kufanya \"sehemu yako\" si kushindwa, hata kama upande mwingine unanyamaza.",
+          "questions": [
+            {
+              "id": "q24",
+              "text": "Ni wapi unachanganya \"tumeshindwa kupatana\" na \"sikusamehe\"? Ni nini kinabadilika kwa kuyatenganisha mambo haya mawili?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Matt.5.23-24",
+              "ref": "Mt 5:23-24"
+            }
+          ],
+          "comment": "Yesu anaagiza kusitisha hata sadaka, ili kwanza upatane na ndugu. Kurekebisha uhusiano kunatangulia tendo la kidini - si ibada inayoshika nafasi ya upatanisho.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Je, kuna uhusiano unaouahirisha, lakini Mungu anaonekana kusema: kwanza nenda upatane? Ni nini kinakuzuia?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Rom.12.19-21",
+              "ref": "Rum 12:19-21"
+            }
+          ],
+          "comment": "\"Msilipize ovu kwa ovu... uushinde ubaya kwa wema.\" Kuachilia kisasi si udhaifu - ni kumkabidhi Mungu haki na kukatiza mzunguko wa kulipiza.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Ni kipi kigumu zaidi kwako: kutorudisha pigo au kujibu kikamilifu kwa wema? Kwa nini?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Majeraha katika mahusiano hayaepukiki, lakini uchungu - hapana. Mungu hakuagizi ujifanye kwamba jeraha halikutokea; anakualika - kama wewe mwenyewe ulivyojaliwa msamaha katika Kristo - uache kushikilia deni na utafute upatanisho. Hasira hailazimiki kuwa dhambi, na mgogoro hauhitaji kuishia katika kuvunjika, ikiwa tunafuata njia ya Mungu: moja kwa moja, kwa upole na kwa amani kwa kadiri inavyotutegemea.",
+    "challenge": "Mfikirie mtu mmoja unayembebea chuki. Kwanza katika sala \"msamehe\" mbele za Mungu - mkabidhi Yeye haki ya kulipiza (Rz 12,19). Kisha, ikiwa inawezekana na ni salama, chukua wiki hii hatua moja kuelekea upatanisho \"ana kwa ana\" (Mt 18,15): mazungumzo, ujumbe, ishara. Andika ni nini kilichokuzuia na ni nini kilichobadilika ulipoanza kuchukua hatua."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study relacje-przebaczenie-konflikty"
+  }
+}

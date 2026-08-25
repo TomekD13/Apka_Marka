@@ -1,0 +1,541 @@
+{
+  "id": "le-dieu-qui-tient-parole",
+  "lang": "fr",
+  "title": "Le Dieu qui tient parole",
+  "category": "basic_systematic",
+  "seriesId": "zycie-w-przymierzu",
+  "order": 15,
+  "summary": "Depuis la création, Dieu se lie à l'homme par une alliance ; quand nous tombons, il nous cherche et renouvelle sa promesse - car il tient toujours parole. C'est là que se révèle le coeur du grand conflit : peut-on faire confiance à Dieu ? Le sang de Jésus est la nouvelle alliance, et le Décalogue est la révélation du caractère de Dieu, non du légalisme.",
+  "minutes": {
+    "base": 45,
+    "extended": 65
+  },
+  "tags": [
+    "alliance",
+    "caractère de Dieu",
+    "grand conflit",
+    "confiance",
+    "Décalogue",
+    "sang de Jésus"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Dieu, qui se lie à l'homme",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Gen.1.26-27",
+              "ref": "Gn 1:26-27"
+            }
+          ],
+          "comment": "Avant le premier commandement, il y a eu un acte de création par amour. Dieu fait l'homme à son image - capable de relation, d'une réponse libre.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Qu'est-ce que cela change dans notre regard sur les exigences de Dieu de savoir qu'il y a d'abord eu le don de la création, et non une demande ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Gen.9.9-13",
+              "ref": "Gn 9:9-13"
+            }
+          ],
+          "comment": "Après le déluge, Dieu conclut une alliance avec Noé et toute la création. L'arc-en-ciel est le signe que c'est Dieu qui s'engage - ce n'est pas l'homme qui l'impose.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Qui donne ici la promesse, et qu'exige-t-il de toi pour qu'elle soit valable ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "« alliance » (berît)",
+          "content": "L'hébreu *berît* désigne un engagement contraignant, souvent scellé par le sang d'un sacrifice. Dans la Bible, c'est habituellement Dieu qui établit l'alliance et qui prend sur lui la charge de la maintenir - d'où un langage de grâce, et non de négociation entre parties égales.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "בְּרִית",
+              "translit": "berît"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q20",
+              "text": "En quoi l'image de Dieu change-t-elle lorsque, dans le *berît*, c'est surtout lui qui s'engage, au lieu d'exiger des garanties de l'homme ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Gen.12.1-3",
+              "ref": "Gn 12:1-3"
+            }
+          ],
+          "comment": "L'alliance avec Abraham n'est pas un contrat entre parties égales - Dieu lui-même s'engage à bénir et à atteindre toutes les nations à travers un seul homme.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Que signifie le fait que la bénédiction pour le monde commence par l'initiative de Dieu, et non par un mérite humain ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Gen.15.17-18",
+              "ref": "Gn 15:17-18"
+            }
+          ],
+          "comment": "Dans le rite antique, les deux parties passaient entre les moitiés des animaux. Ici, c'est Dieu seul qui passe (symbolisé par le feu) - il prend sur lui les conséquences d'une rupture.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Pourquoi est-il important que ce soit Dieu, et non Abraham, qui s'engage dans ce rite ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "textual",
+          "label": "le passage de Dieu entre les moitiés (Gn 15)",
+          "content": "En Gn 15:17, c'est une fournaise fumante et une torche de feu (symboles de la présence de Dieu) qui passent entre les animaux partagés, alors que dans ce rite les deux parties passaient habituellement. Le texte suggère que Dieu prend unilatéralement sur lui la responsabilité de l'alliance."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Quand nous tombons, Dieu cherche et renouvelle l'alliance",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Gen.3.8-9",
+              "ref": "Gn 3:8-9"
+            }
+          ],
+          "comment": "Après la chute, c'est l'homme qui se cache, et Dieu qui appelle : « Où es-tu ? ». Le premier mouvement après le péché vient de Dieu, qui cherche.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "De qui vient ici la recherche - de Dieu ou de l'homme ? Que dit cela de son caractère ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Gen.3.15",
+              "ref": "Gn 3:15"
+            }
+          ],
+          "comment": "Au coeur même du jugement, Dieu fait la première promesse d'un Sauveur. Le plan du salut n'est pas une réaction tardive - il est prêt avant même que l'homme ne saisisse les conséquences.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Que dit de Dieu le fait qu'il donne la promesse du salut dès l'instant de la chute, et non après des années d'épreuve ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Exod.34.6-7",
+              "ref": "Ex 34:6-7"
+            }
+          ],
+          "comment": "Dieu proclame lui-même son nom : miséricordieux, compatissant, fidèle. C'est l'autoportrait de Dieu - voilà qui il est vraiment.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Laquelle des descriptions de Dieu dans ce texte te surprend ou te console le plus ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "« grâce et fidélité » (chesed we-emet)",
+          "content": "Dans cette présentation que Dieu fait de lui-même en Ex 34:6 revient un couple de termes souvent traduit par « grâce et vérité » ou « miséricorde et fidélité ». *Chesed* désigne un amour loyal, fidèle à l'alliance, et *emet* la sûreté sur laquelle on peut s'appuyer. Dieu n'est pas décrit d'abord par sa puissance ou son omniscience, mais d'abord par sa fidélité à l'alliance - c'est elle qui fonde la confiance, l'enjeu même du grand conflit.",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Pourquoi Dieu, en proclamant son nom, place-t-il en premier la grâce et la fidélité, plutôt que la puissance ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Hos.11.8-9",
+              "ref": "Os 11:8-9"
+            }
+          ],
+          "comment": "Malgré l'infidélité du peuple, le coeur de Dieu « se retourne en lui ». Dieu n'aime pas comme un homme - sa fidélité ne dépend pas de notre constance.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "En quoi la fidélité de Dieu diffère-t-elle de la loyauté humaine, qui s'éteint quand l'autre déçoit ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Le coeur du grand conflit : peut-on faire confiance à Dieu ?",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Gen.3.1-5",
+              "ref": "Gn 3:1-5"
+            }
+          ],
+          "comment": "La première tentation est une mise en doute de la confiance : « Dieu veut-il vraiment ton bien ? ». C'est là que commence le grand conflit - non au sujet d'un fruit, mais de la confiance dans le caractère de Dieu.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Quel mensonge sur Dieu se cache dans la question du serpent, et comment agit-il encore aujourd'hui ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Num.23.19",
+              "ref": "Nb 23:19"
+            }
+          ],
+          "comment": "Dieu n'est pas comme un homme, pour mentir. S'il a dit quelque chose - il l'accomplira. C'est sur cela que repose la restauration de notre confiance.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Dans ton histoire, qu'est-ce qui rend plus difficile, et qu'est-ce qui rend plus facile, de croire que Dieu tient parole ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "other",
+          "label": "l'immutabilité de Dieu comme fondement de la confiance",
+          "content": "La certitude de l'alliance ne vient pas de notre persévérance, mais du caractère immuable de Dieu : puisqu'il ne change pas, sa parole non plus ne change pas. Il vaut la peine de souligner que la loi de Dieu, reflet de ce caractère, est aussi durable que son Auteur. C'est pourquoi mettre en doute la fiabilité de Dieu - le coeur du grand conflit - ne vise pas un simple précepte, mais ce que Dieu est lui-même.",
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Comment la conscience que Dieu ne change pas influence-t-elle la confiance en ses promesses dans les moments difficiles ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Titus.1.2",
+              "ref": "Tt 1:2"
+            }
+          ],
+          "comment": "« Dieu, qui ne ment point », a promis la vie éternelle avant les siècles. Toute l'espérance repose sur le fait que sa parole est sûre.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Sur quoi, concrètement, fondes-tu la certitude que la promesse de Dieu s'accomplira ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "La nouvelle alliance dans le sang de Jésus",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Matt.26.27-28",
+              "ref": "Mt 26:27-28"
+            }
+          ],
+          "comment": "Lors du dernier repas, Jésus appelle son sang « le sang de l'alliance » pour le pardon des péchés. Ce qu'annonçait le rite avec Abraham s'accomplit en lui.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Que signifie que la nouvelle alliance est « dans le sang » - qui paie le prix de sa pérennité ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "« nouvelle alliance » (kainē diathēkē)",
+          "content": "Le grec *diathēkē* en Mt 26:28 et Hé 9:15 signifie à la fois « alliance » et « testament ». Cela indique que l'alliance entre en pleine vigueur par la mort de celui qui l'établit - d'où le lien entre le sang de Jésus et sa validité.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "καινὴ διαθήκη",
+              "translit": "kainē diathēkē"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Jer.31.31-33",
+              "ref": "Jr 31:31-33"
+            }
+          ],
+          "comment": "La nouvelle alliance n'est pas un nouveau code, mais la même loi inscrite dans le coeur. L'obéissance cesse d'être une contrainte venue de l'extérieur, elle devient un désir.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "En quoi la loi « sur la pierre » diffère-t-elle de la loi « dans le coeur » ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "la loi inscrite dans le coeur par l'Esprit",
+          "content": "La différence entre l'ancienne et la nouvelle alliance ne tient pas au contenu de la loi (il est le même), mais au lieu où elle est inscrite et au type d'obéissance. L'ancienne était « sur la pierre », à l'extérieur de l'homme ; la nouvelle, l'Esprit l'inscrit dans le coeur et l'intelligence (Jr 31:33 ; Ez 36:26-27). C'est pourquoi l'obéissance devient un acte de libre volonté et un fruit de la relation, et non du légalisme.",
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Qu'est-ce qui change quand la loi n'est pas seulement connue, mais « écrite » dans le coeur par la puissance de l'Esprit ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Heb.9.11-15",
+              "ref": "Hé 9:11-15"
+            }
+          ],
+          "comment": "Jésus, comme souverain sacrificateur, est entré avec son propre sang, assurant une rédemption éternelle. L'ancien système des sacrifices indiquait cet unique sacrifice définitif.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Pourquoi le sacrifice de Jésus n'a-t-il pas besoin d'être répété, contrairement aux anciens sacrifices ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Le Décalogue : révélation du caractère, non légalisme",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Exod.20.1-3",
+              "ref": "Ex 20:1-3"
+            }
+          ],
+          "comment": "Le Décalogue s'ouvre par un rappel : « Je suis l'Éternel, qui t'ai fait sortir ». D'abord le salut, puis les commandements - la loi est une réponse à la libération, non une condition pour l'obtenir.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Qu'est-ce que cet ordre change : d'abord la libération, et seulement ensuite les commandements ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "le Décalogue comme « dix paroles » (aseret ha-devarim)",
+          "content": "Le nom hébreu du Décalogue n'est pas « dix commandements », mais « dix paroles » (Ex 34:28 ; Dt 4:13). Ce n'est pas un assemblage fortuit d'ordres, mais un seul message cohérent que Dieu a prononcé et gravé de sa propre main sur des tables de pierre - signe qu'il vient directement de lui.",
+          "questions": [
+            {
+              "id": "q24",
+              "text": "Comment le fait de nommer le Décalogue « les dix paroles » de Dieu, et non « des préceptes », change-t-il ta manière de le lire ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Deut.5.6-7",
+              "ref": "Dt 5:6-7"
+            }
+          ],
+          "comment": "Répété, le Décalogue commence à nouveau par la délivrance. La loi fait partie de l'alliance - elle décrit à quoi ressemble la vie de ceux qui appartiennent au Dieu fidèle.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Si les commandements décrivent le caractère de Dieu, qu'apprends-tu à son sujet à travers eux ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "le Décalogue comme texte d'alliance",
+          "content": "La structure d'Ex 20 et de Dt 5 (présentation du Souverain, rappel des bienfaits, conditions) rappelle les traités d'alliance antiques. Le Décalogue fonctionne donc non comme un code isolé, mais comme le coeur de la relation d'alliance entre Dieu et son peuple."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Gen.26.5",
+              "ref": "Gn 26:5"
+            }
+          ],
+          "comment": "Abraham « gardait les commandements et les lois » de Dieu des siècles avant le Sinaï. La loi de Dieu n'est pas une invention de Moïse - elle existait avant, car elle exprime le caractère immuable de Dieu.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Que peut-on conclure du fait qu'Abraham connaissait les lois de Dieu, alors que le Décalogue a été écrit bien plus tard ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "la loi de Dieu avant le Sinaï",
+          "content": "Les principes du Décalogue découlent de la loi d'amour qui régit l'univers déjà avant l'apparition du péché, et on les retrouve à l'époque des patriarches. Le Sinaï n'a pas introduit une nouvelle morale - il a seulement consigné et confirmé ce qui découlait depuis longtemps du caractère de Dieu. Le témoignage sur Abraham (Gn 26:5) montre que la loi de Dieu précédait Moïse.",
+          "questions": [
+            {
+              "id": "q25",
+              "text": "Si la loi de Dieu existait bien avant le Sinaï, que dit cela de sa source et de sa permanence ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Rom.13.8-10",
+              "ref": "Rm 13:8-10"
+            }
+          ],
+          "comment": "L'amour est « l'accomplissement de la loi ». Les commandements ne sont pas une liste d'interdits pour eux-mêmes - ils décrivent à quoi ressemble l'amour en pratique.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "En quoi le fait que « l'amour ne fait point de mal au prochain » aide-t-il à comprendre le sens des commandements ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "other",
+          "label": "la loi comme transcription du caractère de Dieu (l'amour)",
+          "content": "Le Décalogue est le reflet du caractère de Dieu, et le principe fondamental de cette loi est l'amour. C'est pourquoi Jésus résume toute la Loi et les Prophètes dans les deux commandements de l'amour (Mt 22:37-40), et Paul appelle l'amour « l'accomplissement de la loi » (Rm 13:10). Puisque « Dieu est amour » (1 Jn 4:8), les commandements décrivent à quoi ressemble son caractère traduit en vie - ils ne sont pas un obstacle à l'amour, mais sa forme.",
+          "questions": [
+            {
+              "id": "q26",
+              "text": "Si chaque commandement est une description de l'amour, lequel d'entre eux t'est-il aujourd'hui le plus difficile à lire précisément ainsi ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "1John.5.3",
+              "ref": "1 Jn 5:3"
+            }
+          ],
+          "comment": "« L'amour de Dieu consiste à garder ses commandements, et ils ne sont pas un fardeau ». L'obéissance par amour est légère - la contrainte par peur est un fardeau.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Quand l'observation des commandements devient-elle un fardeau, et quand devient-elle une joie ? De quoi cela dépend-il ?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Toute la Bible est le récit d'un Dieu qui se lie à l'homme par une alliance, et qui, lorsque l'homme la rompt, le cherche et renouvelle sa promesse. Le coeur du grand conflit est cette question : peut-on faire confiance à Dieu ? La réponse, c'est la croix : Dieu a lui-même payé le prix de l'alliance par son propre sang. Le Décalogue n'est pas une liste de conditions pour mériter l'amour - il est le portrait du caractère de Dieu et la description de la vie de ceux qui sont déjà aimés.",
+    "challenge": "Lis cette semaine le Décalogue (Ex 20:1-17) non comme une liste d'interdits, mais comme la description du caractère du Dieu que tu veux connaître. Pour chaque commandement, note une phrase : « Cela montre que mon Dieu est... »."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "FR translation of PL study przymierze-i-charakter-boga"
+  }
+}

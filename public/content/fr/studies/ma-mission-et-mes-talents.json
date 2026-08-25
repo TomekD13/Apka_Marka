@@ -1,0 +1,540 @@
+{
+  "id": "ma-mission-et-mes-talents",
+  "lang": "fr",
+  "title": "Ma mission et mes talents",
+  "category": "basic_systematic",
+  "seriesId": "zycie-w-przymierzu",
+  "order": 21,
+  "summary": "Tout appartient à Dieu - je suis gérant, et non propriétaire. La gestion fidèle englobe le temps, les capacités et l'argent (la dîme et les offrandes) et découle de la gratitude, non de la contrainte. De là naît ma mission, personnelle et locale : comment, concrètement, je sers Dieu et les gens dans ma communauté et autour de moi.",
+  "minutes": {
+    "base": 45,
+    "extended": 65
+  },
+  "tags": [
+    "intendance",
+    "gestion",
+    "dîme",
+    "mission",
+    "service",
+    "témoignage"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Gérant, et non propriétaire",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Ps.24.1",
+              "ref": "Ps 24:1"
+            }
+          ],
+          "comment": "\"Au Seigneur appartient la terre et tout ce qu'elle renferme\". Le point de départ d'une gestion fidèle : rien de ce dont je dispose n'est finalement à moi - tout m'est confié.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Qu'est-ce que change, dans le rapport à l'argent et aux biens, la pensée que tu es gérant, et non propriétaire ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "1Cor.4.2",
+              "ref": "1 Co 4:2"
+            }
+          ],
+          "comment": "\"Ce qu'on demande des gérants, c'est que chacun soit trouvé fidèle\". Dieu ne s'enquiert pas d'abord de la grandeur de ce qui est confié, mais de la fidélité dans la gestion.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "À ton avis, en quoi est-il le plus facile, et en quoi le plus difficile, d'être un \"gérant fidèle\" ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "1Chr.29.14",
+              "ref": "1 Ch 29:14"
+            }
+          ],
+          "comment": "David confesse : \"tout vient de toi, et nous ne t'avons donné que ce qui vient de ta main\". Même nos dons à Dieu sont d'abord son don pour nous.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Que signifie pour ta générosité la conscience que tu rends à Dieu ce que tu as d'abord reçu de lui ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"gérant / intendance\" (oikonomos / oikonomia)",
+          "content": "Le grec *oikonomos* désigne le gérant de la maison et des biens d'autrui (*oikonomia* - la gestion). Le gérant dispose du bien confié dans l'intérêt du propriétaire, et il lui en rend compte. Le mot lui-même tranche déjà la question : je ne suis pas le propriétaire de ma vie ni de mes biens, mais le gérant de confiance de la propriété de Dieu.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "οἰκονόμος",
+              "translit": "oikonomos"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Comment l'image de l'*oikonomos* (le gérant de la maison d'autrui) met-elle de l'ordre dans ta façon de penser l'argent, le temps et les capacités ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "\"établi sur la maison\" dans l'Ancien Testament",
+          "content": "L'image biblique du gérant fidèle naît de la figure de l'intendant de confiance \"établi sur la maison\" de son maître : le serviteur d'Abraham administrait tout son bien (Gn 24:2), et Joseph gérait d'abord la maison de Potiphar, puis la prison, et enfin l'Égypte tout entière (Gn 39:4 ; 41:40). La \"maison\" désigne ici les biens, la famille, et même tout un royaume. Le gérant est un serviteur, mais un serviteur doté d'une autorité réelle - et d'une responsabilité devant son maître."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "La gestion du temps et des capacités",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Eph.5.15-16",
+              "ref": "Ép 5:15-16"
+            }
+          ],
+          "comment": "\"Rachetez le temps\" (littéralement \"rachetez\"), car les jours sont mauvais. Le temps est une ressource confiée, que je ne dépense qu'une seule fois - lui aussi relève d'une gestion fidèle.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "À quoi \"dépenses-tu\" le plus de temps, et à quoi voudrais-tu consciemment le consacrer ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Matt.25.19-23",
+              "ref": "Mt 25:19-23"
+            }
+          ],
+          "comment": "Le maître demande des comptes à ses serviteurs sur les talents confiés ; aux fidèles il dit : \"c'est bien, bon serviteur\". Ce qui compte, ce n'est pas le nombre de talents, mais le fait qu'ils aient été employés au service.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Quels \"talents\" (capacités) Dieu t'a-t-il confiés - et comment les utilises-tu aujourd'hui ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "1Pet.4.10-11",
+              "ref": "1 P 4:10-11"
+            }
+          ],
+          "comment": "Que celui qui sert le fasse \"par la force que Dieu communique\" - afin qu'\"en tout Dieu soit glorifié\". Le but de la gestion n'est pas notre gloire, mais celle de Dieu.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Qu'est-ce qui change lorsque le service doit conduire à la gloire de Dieu, et non à ma propre reconnaissance ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "les dons de la grâce comme *charismata",
+          "content": "Paul appelle les capacités au service *charismata* - \"ce qui est donné comme don de la grâce\" (1 Co 12:4-11 ; Rm 12:6-8). Les aptitudes dites naturelles ne deviennent des *charismata* que lorsqu'elles sont utilisées pour l'édification de la communauté. L'Église est une \"communauté de gens dotés de dons\" qui servent le monde - la gestion des talents signifie donc une mission et un service concrets au nom de Christ.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χαρίσματα",
+              "translit": "charismata"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "le temps comme don confié",
+          "content": "L'Écriture souligne à maintes reprises la brièveté du temps et le besoin de bien le gérer : \"enseigne-nous à compter nos jours\" (Ps 90:12), \"tout ce que ta main trouve à faire, fais-le\" (Ec 9:10), \"la nuit vient, où personne ne peut travailler\" (Jn 9:4). Le temps doit être cité aux côtés des talents, des moyens et du corps comme l'une des ressources confiées dont nous rendrons compte. Le temps est \"l'étoffe dont la vie est tissée\"."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "La gestion de l'argent : la dîme et les offrandes",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Mal.3.8-10",
+              "ref": "Ml 3:8-10"
+            }
+          ],
+          "comment": "Dieu parle des dîmes et des offrandes comme de quelque chose qui lui appartient, et il invite : \"mettez-moi à l'épreuve\". La dîme n'est pas un impôt, mais une profession de confiance : c'est Dieu qui est la source.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Que signifie l'invitation de Dieu \"mettez-moi à l'épreuve\" en matière de confiance dans le domaine des finances ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "2Cor.9.6-8",
+              "ref": "2 Co 9:6-8"
+            }
+          ],
+          "comment": "\"Que chacun donne comme il l'a résolu dans son cœur, non avec regret… Dieu aime celui qui donne avec joie\". Le don doit jaillir de la gratitude et de la liberté, non de la contrainte.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "En quoi le don fait \"avec regret/par obligation\" diffère-t-il du don fait \"avec joie\" ? D'où vient cette différence ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"celui qui donne avec joie\" (hilaros)",
+          "content": "Dans la phrase \"Dieu aime celui qui donne avec joie\" (2 Co 9:7), le grec *hilaros* signifie \"serein, empressé, réjoui\" - c'est de lui que vient le mot \"hilarant\". Dieu ne cherche pas un donateur contraint ni qui compte avec regret, mais celui qui donne par une joie intérieure. La générosité est ici un fruit de la gratitude, et non un moyen d'\"acheter\" la faveur de Dieu.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἱλαρόν",
+              "translit": "hilaron"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Matt.6.19-21",
+              "ref": "Mt 6:19-21"
+            }
+          ],
+          "comment": "\"Où est ton trésor, là sera aussi ton cœur\". Ce dans quoi j'investis montre et façonne ce que j'aime vraiment.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Que disent tes dépenses du mois dernier de l'endroit où se trouve ton \"trésor\" ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Luke.21.1-4",
+              "ref": "Lc 21:1-4"
+            }
+          ],
+          "comment": "Une pauvre veuve jette \"deux petites pièces\", et Jésus estime son offrande plus que les grandes sommes des riches - car elle a donné \"de son nécessaire, tout\". Dieu regarde la proportion du cœur, et non le montant.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Que dit cette histoire à quelqu'un qui pense qu'il \"a trop peu pour donner\" ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Prov.3.9-10",
+              "ref": "Pr 3:9-10"
+            }
+          ],
+          "comment": "\"Honore le Seigneur avec tes biens et avec les prémices\". Donner à Dieu ce qui est premier et meilleur est un acte d'adoration et de confiance, et non une perte.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Que signifie donner à Dieu les \"prémices\", et non ce qui reste à la fin ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "\"la dîme\" (maʿăśēr)",
+          "content": "L'hébreu *maʿăśēr* signifie tout simplement \"la dixième partie\". Dans l'Ancien Testament, le don de la dîme (Gn 14:20 - Abraham ; Gn 28:22 - Jacob) précède la loi de Moïse, ce qui indique qu'il s'agit d'un principe plus ancien que le système cérémoniel et qu'il exprime la reconnaissance de Dieu comme source de tout.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "מַעֲשֵׂר",
+              "translit": "maʿăśēr"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "\"don/offrande\" (mattānāh)",
+          "content": "À côté de la dîme, Dieu demandait des offrandes volontaires ; l'hébreu *mattānāh* (du verbe *nātan*, \"donner\") désigne un don qui jaillit d'une attitude bonne et bienveillante du cœur. Le même mot décrit le don d'un père pour son enfant (Gn 25:5) et le don divin du sacerdoce à Aaron (Nb 18:7). L'offrande n'est donc pas un tribut, mais un geste d'amour - une réponse à la grâce de Celui \"qui donne à tous généreusement\" (Jc 1:5).",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "מַתָּנָה",
+              "translit": "mattānāh"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "la dîme contre la fausse division entre \"spirituel\" et \"matériel\"",
+          "content": "La dîme est concrète - elle rappelle que la création matérielle a été déclarée \"bonne\". La donner préserve le croyant d'une fausse séparation entre la sphère spirituelle et la sphère matérielle : le Dieu d'Israël est le donateur de tout bien et il ne le divise pas en \"sacré\" et \"ordinaire\". Fait notable, à l'époque de Néhémie la générosité jaillissait de la joie - le peuple \"se réjouissait\" du service des prêtres et des lévites (Né 12:44)."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Ma mission : personnelle et locale",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Matt.28.18-20",
+              "ref": "Mt 28:18-20"
+            }
+          ],
+          "comment": "\"Allez et faites des disciples\" - c'est un mandat pour chaque croyant, et pas seulement pour les pasteurs. La mission commence là où je suis.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Où est ton \"allez\" concret - dans quel milieu Dieu t'a-t-il placé ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Acts.1.8",
+              "ref": "Ac 1:8"
+            }
+          ],
+          "comment": "Nous devons être témoins \"à Jérusalem\" (ici, tout près) et \"jusqu'aux extrémités de la terre\". La mission a un ordre : d'abord mon entourage le plus proche.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Qui est ta \"Jérusalem\" - le cercle le plus proche vers lequel Dieu t'envoie ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Matt.5.14-16",
+              "ref": "Mt 5:14-16"
+            }
+          ],
+          "comment": "\"Vous êtes la lumière du monde… que votre lumière brille\". La mission, ce ne sont pas seulement des paroles, mais de bonnes œuvres par lesquelles les gens \"rendent gloire au Père\".",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Par quelle \"bonne œuvre\" ta lumière pourrait-elle briller cette semaine envers une personne précise ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Gal.6.9-10",
+              "ref": "Ga 6:9-10"
+            }
+          ],
+          "comment": "\"Faisons du bien à tous… sans nous lasser\". La mission locale, c'est le bien persévérant et quotidien envers les gens autour de nous, surtout dans la communauté de la foi.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Qu'est-ce qui t'aide à \"ne pas te lasser\" de faire le bien, quand les effets rapides ne se voient pas ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "la mission, fruit naturel d'une gestion fidèle",
+          "content": "Dans le Nouveau Testament, la mission n'est pas la tâche d'un groupe spécialisé, mais une fonction du corps de Christ tout entier (Mt 28:18-20 ; Ac 1:8 ; 1 P 2:9 - \"un peuple acquis… afin que vous annonciez\"). La gestion du temps, des capacités et des moyens, d'une part, et la mission, d'autre part, sont deux faces de la même attitude : tout ce que j'ai sert le dessein de Dieu - rejoindre les gens avec la bonne nouvelle. La forme la plus efficace est le témoignage relationnel et local (\"viens et vois\"), et non la pression."
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Section 5 (extended · III/7-D1) - Comment partager sa foi et conduire quelqu'un à Jésus",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "1Pet.3.15",
+              "ref": "1 P 3:15"
+            }
+          ],
+          "comment": "\"Soyez prêts à vous défendre… avec douceur et respect\". Partager sa foi, ce n'est pas l'imposer, mais être prêt à raconter avec respect l'espérance que j'ai.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Quelle \"espérance qui est en toi\" pourrais-tu décrire aujourd'hui à quelqu'un en quelques phrases ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "John.1.40-46",
+              "ref": "Jn 1:40-46"
+            }
+          ],
+          "comment": "André va chercher son frère, Philippe son ami - la méthode de mission la plus simple est \"viens et vois\". Il n'est pas nécessaire d'avoir toutes les réponses ; il suffit d'inviter à Jésus.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Qui - à l'exemple d'André et de Philippe - pourrais-tu tout simplement inviter à \"venir et voir\" ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "John.4.28-30",
+              "ref": "Jn 4:28-30"
+            }
+          ],
+          "comment": "La Samaritaine, à peine après avoir rencontré Jésus, court à la ville : \"Venez voir\". Le témoignage n'exige pas une formation théologique - il suffit de sa propre expérience, fraîche, d'une rencontre.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Qu'y a-t-il dans ta propre rencontre avec Dieu de suffisamment réel pour que tu aies envie de le partager ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "Mark.5.19",
+              "ref": "Mc 5:19"
+            }
+          ],
+          "comment": "À l'homme guéri, Jésus dit : \"Va dans ta maison, vers les tiens, et raconte ce que le Seigneur a fait pour toi\". Le champ de mission le plus proche et le plus naturel, c'est sa propre maison et ses proches.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Qu'est-ce que le Seigneur a fait pour toi, qui vaille la peine d'être raconté d'abord aux \"tiens\" ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "la première Église comme modèle de partage",
+          "content": "La communauté apostolique fut une démonstration vivante de l'intendance : les croyants \"avaient tout en commun\" et partageaient selon les besoins (Ac 2:44-45), et les chrétiens issus du paganisme soutinrent généreusement l'Église affamée de Judée (Ac 11:29-30). On peut appeler l'Église apostolique \"un modèle de gestion fidèle pour tous les temps\" - partager ses biens et sa foi n'est pas un supplément, mais la nature même d'une communauté qui \"n'existe pas pour elle-même\"."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n11",
+          "noteType": "background",
+          "label": "le témoignage \"viens et vois\" comme méthode de mission",
+          "content": "Le modèle le plus simple de partage de la foi dans les Évangiles est l'invitation personnelle : André va chercher son frère, Philippe dit \"viens et vois\" (Jn 1:40-46), la Samaritaine appelle la ville (Jn 4:28-30), et l'homme guéri retourne \"vers les siens\" (Mc 5:19). Il n'est nécessaire ni d'avoir toutes les réponses ni d'une formation théologique - il suffit d'une expérience fraîche et personnelle de la rencontre avec Jésus et d'une relation avec une personne précise.",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Quel \"viens et vois\" a pesé sur ton chemin de foi - et à qui pourrais-tu dire aujourd'hui la même chose ?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Je ne suis pas le propriétaire de ma vie - je suis le gérant de ce que Dieu m'a confié : le temps, les capacités et l'argent. La gestion fidèle, y compris la dîme et les offrandes, ne découle ni de la contrainte ni de la peur, mais de la gratitude envers Celui de qui tout vient. Et puisque tout appartient à Dieu et sert ses desseins, la mission naît naturellement - très concrète et locale : mon entourage, ma communauté, ma maison. Je n'ai pas besoin d'avoir toutes les réponses. Il suffit que je gère avec gratitude ce que j'ai, et que j'invite avec respect les autres : \"viens et vois\".",
+    "challenge": "Cette semaine, fais un simple \"bilan de gérant\" : note comment tu disposes réellement de ton temps, de tes capacités et de ton argent, et désigne un domaine que tu veux consciemment remettre à Dieu. De plus, choisis une personne de ta \"Jérusalem\" et fais cette semaine envers elle un pas concret de mission - un geste de bonté ou une invitation \"viens et vois\"."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "FR translation of PL study szafarstwo-i-misja"
+  }
+}

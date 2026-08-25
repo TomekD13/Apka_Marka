@@ -1,0 +1,596 @@
+{
+  "id": "roho-mtakatifu-katika-maisha-yangu",
+  "lang": "sw",
+  "title": "Roho Mtakatifu katika maisha yangu",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 7,
+  "summary": "Roho Mtakatifu si „nguvu\" isiyo na nafsi, bali ni Nafsi na ni Mungu - Nafsi ya tatu ya Utatu. Yeye ndiye aongozaye, afarijiye, ashawishiye juu ya dhambi, atoaye nguvu za kuishi na azaaye tunda la tabia. Tunamjua kama Rafiki aliyepo daima, ambaye tunaweza kujazwa naye.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "Roho Mtakatifu",
+    "Utatu",
+    "Mfariji",
+    "tunda la Roho",
+    "nguvu",
+    "kuongoza",
+    "kujazwa"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Roho ni Nafsi, si nguvu isiyo na nafsi",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Acts.5.3-4",
+              "ref": "Mdo 5:3-4"
+            }
+          ],
+          "comment": "Petro asema kwamba Anania „alimdanganya Roho Mtakatifu\", na mara baada yake: „hukuwadanganya wanadamu, bali Mungu\". Roho aweza kudanganywa - na anayeweza kudanganywa ni nafsi, si nguvu. Naye anaitwa Mungu.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Inadhihirisha nini kwamba „kumdanganya Roho\" kunaitwa moja kwa moja „kumdanganya Mungu\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "John.14.16-17",
+              "ref": "Yoh 14:16-17"
+            }
+          ],
+          "comment": "Yesu aahidi „Mfariji mwingine\" - mtu kama yeye mwenyewe, atakayekaa „nanyi milele\". Roho ni Mwombezi wa pili, Rafiki mwenye nafsi, si nguvu isiyoeleweka.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Kwa kuwa Roho ni „Mfariji mwingine\" kwa mfano wa Yesu, picha ipi ya Roho hujengwa kwa hili?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "„Mfariji\" - cheo kile kile cha Yesu",
+          "content": "Neno la Kiyunani *parakletos* (Yoh 14:16,26; 16:7) kwa hakika humaanisha „aliyeitwa kuja kusaidia\" na hutafsiriwa kama Mfariji, Mwombezi, Msaidizi, Mtetezi. Kwa neno hilo hilo Yesu hutajwa katika 1Yoh 2:1 („tunaye Mtetezi kwa Baba\"). Kumwita Roho „Mfariji mwingine\" (Kiyunani *allos* - mwingine wa aina ile ile) huonyesha kwamba ni Nafsi sawa na Yesu na hutenda kama yeye - si ushawishi usio na nafsi.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "παράκλητος",
+              "translit": "parakletos"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Inadhihirisha nini kwamba Roho na Yesu hutajwa kwa neno lile lile „Mwombezi/Mfariji\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "John.16.13-14",
+              "ref": "Yoh 16:13-14"
+            }
+          ],
+          "comment": "Roho „husema\", „husikia\", „huongoza\" na „humtukuza\" Yesu. Hizi ni vitendo vya mtu mwenye ufahamu na utendaji, tena anayeelekeza fikira daima kwa Kristo.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Ni kipi kati ya vitendo hivi vya Roho (husema, huongoza, humwonyesha Yesu) unahitaji zaidi leo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Eph.4.30",
+              "ref": "Efe 4:30"
+            }
+          ],
+          "comment": "„Msimhuzunishe Roho Mtakatifu.\" Unaweza kumhuzunisha tu mtu anayependa na mwenye hisia - huu ni ushahidi madhubuti kwamba Roho ni Nafsi iliyo katika uhusiano nasi.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Inasema nini kuhusu uhusiano na Roho kwamba unaweza „kumhuzunisha\", si tu „kumtumia\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "„kutiwa muhuri\" kwa Roho (Efe 4:30; 1:13)",
+          "content": "Katika mstari uleule yasemwa kwamba tumetiwa muhuri kwa Roho (Kiyunani *sphragis* - muhuri). Muhuri katika nyakati za kale uliashiria umiliki na ulinzi: ulionyesha kitu ni cha nani, na kuhakikisha usalama wa kifurushi. Hivyo Roho ni „alama ya umiliki\" ya Mungu juu ya mwaminio - ushahidi kwamba ni wa Mungu, na dhamana ya usalama. Ndiyo maana „kumhuzunisha\" Roho si tisho la kupoteza wokovu, bali ni kumuumiza Mtu anayenipenda na ambaye mimi ni wake.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "σφραγίς",
+              "translit": "sphragis"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Rom.8.26-27",
+              "ref": "Rum 8:26-27"
+            }
+          ],
+          "comment": "Roho „hutuombea\", aujua udhaifu wetu na „hutuombea\". Huu ni mchoro wa mtu wa karibu, anayeelewa na kuombea, si nguvu isiyo na nafsi.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Ni nini hutoa utambuzi kwamba ushindwapo kuomba, kuna Mtu anayeomba ndani yako na kwa ajili yako?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Roho ni Mungu (na Mungu ni mmoja katika Nafsi tatu)",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Matt.28.19",
+              "ref": "Mt 28:19"
+            }
+          ],
+          "comment": "Ubatizo ni „kwa jina (umoja) la Baba na Mwana na Roho Mtakatifu\". Jina moja, Nafsi tatu - msingi wa imani katika Utatu: Mungu mmoja katika Nafsi tatu.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Kwa nini ni muhimu kwamba andiko husema „kwa jina\" (umoja), si „kwa majina\" ya miungu mitatu tofauti?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "„Utatu\": Mungu mmoja katika Nafsi tatu",
+          "content": "Neno „Utatu\" halipatikani katika Biblia, lakini fundisho hutokana na kuunganisha maandiko: yupo Mungu mmoja (Kum 6:4), na wakati huo huo Baba, Mwana na Roho wanaitwa Mungu na hutenda kinafsi. Mistari kama Mt 28:19 (jina moja - Nafsi tatu) na 2Kor 13:13 (baraka ya pamoja) hubeba kweli zote mbili kwa pamoja. Tunakiri uungu kamili wa Roho kama Nafsi ya tatu ya Uungu - si mtiririko wala kiumbe duni.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Kwa nini kwa uhusiano na Mungu kuna umuhimu kama Roho ni „nguvu ya Mungu\" au „Mungu-Nafsi\", ambaye unaweza kumjua na kumpenda?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "2Cor.13.13",
+              "ref": "2Kor 13:13"
+            }
+          ],
+          "comment": "Baraka huunganisha „neema ya Yesu, upendo wa Mungu na ushirika wa Roho Mtakatifu\". Nafsi tatu hutenda pamoja kwa ajili ya wokovu wetu.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Inamaanisha nini kwako kwamba Mungu - Baba, Mwana na Roho - hujihusisha katika maisha yako kwa pamoja, kwa kila Nafsi?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Gen.1.1-2",
+              "ref": "Mwa 1:1-2"
+            }
+          ],
+          "comment": "Tayari katika sentensi za kwanza za Biblia „Roho wa Mungu alikuwa akitulia juu ya maji\" wakati wa kazi ya uumbaji. Roho yupo na hutenda tangu mwanzo kabisa - huku ni kutenda kwa Mungu.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Inasema nini kuhusu Roho kwamba yupo na hutenda tayari wakati wa kuumbwa kwa ulimwengu, badala ya kutokea tu katika Agano Jipya?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "„Roho\" humaanisha pia „pumzi\" na „upepo\"",
+          "content": "Neno la Kiebrania *ruach* na la Kiyunani *pneuma* humaanisha kwa pamoja „roho\", „pumzi\" na „upepo\". Kutoka hapo hutoka picha za kibiblia za Roho: upepo (Yoh 3:8), pumzi inayohuisha (Mwa 2:7; Eze 37), kupuliziwa kwa Yesu juu ya wanafunzi (Yoh 20:22). Maana hii mbalimbali haimaanishi „kutokuwa na nafsi\" - hueleza kutenda kwa Mungu kunakotoa uhai, kusichoonekana lakini kwa hakika ni halisi. Unafsi wa Roho huthibitishwa na vitendo vinavyohusishwa naye (husema, huongoza, huhuzunika), si na asili ya neno lenyewe.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "πνεῦμα",
+              "translit": "pneuma"
+            },
+            {
+              "lang": "hbo",
+              "text": "רוּחַ",
+              "translit": "ruach"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Ps.139.7",
+              "ref": "Zab 139:7"
+            }
+          ],
+          "comment": "„Niende wapi nijiepushe na Roho yako?\" - Roho yupo kila mahali, jambo ambalo ni sifa ya Mungu peke yake. Huu ni ushuhuda wa kishairi wa uungu wake.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Maisha ya kila siku hubadilikaje kwa kutambua kwamba hakuna mahali wala wakati ambapo Roho wa Mungu hayupo karibu nawe?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Mfariji anayeongoza, afarijiye na kushawishi",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "John.14.26",
+              "ref": "Yoh 14:26"
+            }
+          ],
+          "comment": "Roho „atawafundisha yote\" na „atawakumbusha\" maneno ya Yesu. Yeye ni Mwalimu wa ndani, anayesaidia kuelewa na kukumbuka Neno la Mungu.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Ni nini unachohitaji zaidi kujifunza au „kukumbushwa\" na Mungu katika wakati huu uliopo?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "John.16.7-8",
+              "ref": "Yoh 16:7-8"
+            }
+          ],
+          "comment": "Roho „atauhakikishia ulimwengu kuhusu dhambi, na haki, na hukumu\". Kushawishi juu ya dhambi si kushtaki, bali ni kuamsha kwa upole dhamiri kuelekea wokovu.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Ni tofauti gani kati ya „kushawishi juu ya dhambi\" kwa Mungu (kunakoongoza kwenye tumaini) na sauti ya kulaani inayozamisha tu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "„dhambi dhidi ya Roho\": je, niogope?",
+          "content": "Yesu husema juu ya dhambi „isiyosameheka\" - kukufuru dhidi ya Roho (Mk 3:28-29). Katika muktadha husika ni kukataa kwa ukaidi, kwa kufahamu na kwa mwisho yule yule Roho ashawishiye juu ya dhambi na kuvuta kwa Mungu - hata mtu aizime kabisa sauti yake. Kwa mshangao: wasiwasi wenyewe „je, sikutenda dhambi hiyo?\" ni ishara kwamba Roho bado anatenda ndani yako. Anayehuzunika kwamba amemhuzunisha, ndiye anayeisikia sauti yake - mlango wa kurudi uko wazi.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Kwa nini wasiwasi wenyewe „je, Roho hajaniacha?\" ni dalili ya kutenda kwake badala ya kutokuwepo kwake?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Rom.8.14",
+              "ref": "Rum 8:14"
+            }
+          ],
+          "comment": "„Wote wanaoongozwa na Roho wa Mungu, hao ndio wana wa Mungu.\" Kuongozwa na Roho ni ishara ya kuwa wa familia ya Mungu.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Kwa vitendo unatambua vipi kwamba „unaongozwa\" na Roho, si tu na mipango yako mwenyewe?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Rom.8.15-16",
+              "ref": "Rum 8:15-16"
+            }
+          ],
+          "comment": "Roho „hushuhudia pamoja na roho zetu kwamba sisi tu watoto wa Mungu\" na huwezesha kulia „Aba, Baba\". Ndiye atoaye uhakika wa ndani na hisia ya ukaribu na Mungu.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Ingekuwa na maana gani kwako kuwa na uhakika wa ndani, uliotolewa na Roho, kwamba wewe ni mtoto wa Mungu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "„Aba\": neno la upendo zaidi „Baba\" (Rum 8:15)",
+          "content": "*Abba* ni neno la Kiaramu, la kila siku, la kifamilia, ambalo mtoto alimwita baba yake - karibu na „baba\" yetu. Ni neno lile lile ambalo Yesu mwenyewe aliomba nalo huko Gethsemane (Mk 14:36). Kwamba Roho hutia neno hilo hasa midomoni mwetu (Rum 8:15; Gal 4:6) huonyesha lengo la kutenda kwake: si hofu ya kitumwa, bali ukaribu wa kitoto na Mungu. Roho hatufanyi watumishi wa kidini, bali watoto katika nyumba ya Baba.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἀββά",
+              "translit": "abba"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "John.14.18",
+              "ref": "Yoh 14:18"
+            }
+          ],
+          "comment": "„Sitawaacha yatima, naja kwenu.\" Zawadi ya Roho ndiyo namna ambayo Yesu aliyepo yuko nasi daima - faraja, si kuachwa yatima.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Hisia ya upweke hubadilikaje kwa ahadi kwamba kupitia Roho Yesu mwenyewe yuko „karibu nawe\" kila siku?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Nguvu na tunda la Roho",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Acts.1.8",
+              "ref": "Mdo 1:8"
+            }
+          ],
+          "comment": "„Mtapokea nguvu, akiisha kuwajilia Roho Mtakatifu... nanyi mtakuwa mashahidi wangu.\" Roho hutoa nguvu si za kujionyesha, bali za kuishi na kusema juu ya Yesu.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Ni katika nini hasa ungehitaji „nguvu\" ya Roho - kwa mabadiliko, kwa kuvumilia, kwa kusema juu ya imani?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Gal.5.22-23",
+              "ref": "Gal 5:22-23"
+            }
+          ],
+          "comment": "„Tunda la Roho ni upendo, furaha, amani, uvumilivu...\" Hii si orodha ya kazi za kutimiza, bali ni tunda ambalo Roho huzaa katika maisha yaliyojisalimisha kwake.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Ni „tunda la Roho\" lipi ungependa zaidi kuliona likikomaa katika tabia yako - na kwa nini hasa hilo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "worship",
+          "label": "„tunda\" (umoja) la Roho, si orodha ya mafanikio",
+          "content": "Katika Gal 5:22 „tunda\" liko katika umoja, ingawa sifa ni nyingi - ni tabia moja, iliyoshikamana, ya Kristo inayoumbwa na Roho, si mkusanyiko wa „ujuzi\" tofauti tofauti. Hili hutofautiana na „karama za Roho\" (1Kor 12), ambazo ni mbalimbali na hugawanywa kwa ajili ya huduma. Tunda hushuhudia uhusiano na mabadiliko ya moyo; karama hutumikia jamii. Tunda haliwezi „kutengenezwa\" - huzaliwa na maisha yanayokaa katika Roho (linganisha Yoh 15:4-5).",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Inadhihirisha nini kwamba „tunda la Roho\" ni moja (tabia), si orodha ya mafanikio ya kupatikana kila moja peke yake?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Gal.5.16",
+              "ref": "Gal 5:16"
+            }
+          ],
+          "comment": "„Enendeni kwa Roho, wala hamtazitimiza tamaa za mwili.\" Ushindi juu ya uovu si kukaza meno, bali ni „kutembea\" katika ukaribu na Roho.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Ni tofauti gani kati ya kupambana na uovu „kwa nguvu zako mwenyewe\" na „kuenenda kwa Roho\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Rom.8.11",
+              "ref": "Rum 8:11"
+            }
+          ],
+          "comment": "Roho yule yule aliyemfufua Yesu „huhuisha\" waaminio. Nguvu inayopatikana ndani yetu ni nguvu ya ufufuo - nguvu kubwa kuliko zote ulimwengu uijuayo.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Inamaanisha nini kwa maisha ya kila siku kwamba ndani ya mwaminio hukaa nguvu ile ile iliyoishinda mauti?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Jinsi ya kujazwa Roho",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "Luke.11.13",
+              "ref": "Lk 11:13"
+            }
+          ],
+          "comment": "Yesu ahakikisha: Baba „atawapa Roho Mtakatifu wale wamwombao\". Hatua ya kwanza ni rahisi - kuomba. Zawadi ni ya hakika, kwa kuwa ni ahadi ya Baba mwema.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Ni nini kinachokuzuia kuomba ombi rahisi „Baba, nijaze Roho wako\"? Ni nini kingebadilika ukiliomba?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u20",
+          "passage": [
+            {
+              "osis": "Eph.5.18",
+              "ref": "Efe 5:18"
+            }
+          ],
+          "comment": "„Jazweni Roho\" - wakati uliopo, unaoendelea. Huku si „kuchaji\" kwa mara moja, bali ni kujifungua kwa Mungu kila siku, mara kwa mara.",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Ungewezaje kwa vitendo „kujazwa\" kila siku, si tu kuomba mara moja na kusahau?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u21",
+          "passage": [
+            {
+              "osis": "Acts.2.1-4",
+              "ref": "Mdo 2:1-4"
+            }
+          ],
+          "comment": "Siku ya Pentekoste wanafunzi, wakiwa „kwa nia moja\" na katika maombi, „walijazwa Roho\". Kujazwa kunahusiana na ushirika, kungoja na uwazi.",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Kulingana na maelezo haya, ushirika na kungoja kwa subira juu ya Mungu kuna jukumu gani katika kujazwa Roho?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "Pentekoste: mavuno na kupinduliwa kwa Babeli",
+          "content": "Pentekoste (Kiyunani „siku ya hamsini\") ni Sikukuu ya Majuma ya Kiyahudi (Shavuot) - sikukuu ya mavuno na malimbuko, iliyoadhimishwa siku 50 baada ya Pasaka. Ishara yake ni sahihi: baada ya „malimbuko\" ya ufufuo wa Yesu yaja malimbuko ya mavuno makubwa ya kiroho. Zaidi ya hayo, watu wa mataifa mengi waisikiapo Injili kila mmoja kwa lugha yake, ni kana kwamba ni kupinduliwa kwa fujo la mnara wa Babeli (Mwa 11): Roho hagawanyi, bali huunganisha wanadamu kumzunguka Kristo.",
+          "questions": []
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u22",
+          "passage": [
+            {
+              "osis": "John.7.37-39",
+              "ref": "Yoh 7:37-39"
+            }
+          ],
+          "comment": "Yesu aalika: „Mtu akiona kiu, na aje kwangu anywe\" - naye anasema haya juu ya Roho. Kujazwa huanza kwa kiu na kumjia Yeye.",
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Ni kubwa kiasi gani leo „kiu\" yako ya Mungu? Ni nini huzaa ndani ya mtu njaa ambayo Roho hutaka kuitosheleza?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "mwili wako ni hekalu la Roho (1Kor 6:19)",
+          "content": "Paulo huuita mwili wa mwaminio „hekalu la Roho Mtakatifu\". Katika Agano la Kale utukufu wa Mungu ulikaa katika hekalu la Yerusalemu; sasa Roho hukaa ndani ya mwanadamu. Hili lina matokeo mawili: heshima ya ajabu (Mungu alinichagua niwe makao yake) na uwajibikaji (jinsi ninavyoutendea mwili na maisha yaliyokuwa maskani yake). Hivyo kujazwa Roho si „kuchaji\" kwa muda, bali ni Mungu kukaa daima katika maisha ya kila siku.",
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Ni nini hubadilika katika kuutunza mwili na maisha ya kila siku kwa kutambua kwamba ni „hekalu\", ambamo Roho hukaa?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Roho Mtakatifu si nguvu isiyo na nafsi ya „kutumiwa\", bali ni Nafsi na ni Mungu - Nafsi ya tatu ya Utatu - ambaye unaweza kumjua, kumpenda, hata kumhuzunisha. Yeye ndiye amfanyaye Yesu aliyepo awe karibu kila siku: huongoza, hufariji, hushawishi kwa upole juu ya dhambi kuelekea tumaini, hutoa nguvu za kuishi na huzaa ndani yetu tunda la tabia ya Kristo. Hivyo maisha mapya si jitihada ya peke yako - ni ushirikiano na Mtu anayekaa ndani yangu na anayetaka kunijaza.",
+    "challenge": "Kila siku wiki hii anza siku kwa ombi rahisi kutoka Lk 11:13: „Baba, nijaze leo Roho wako\" - na kwa kufahamu mwalike kwenye hali moja maalum (mazungumzo, uamuzi, jaribu). Jioni andika „tunda\" moja (mfano uvumilivu, amani, ujasiri wa kushuhudia), ambamo unautambua utendaji wa Roho, si jitihada yako tu. Ukitambua kwamba umemhuzunisha (Efe 4:30), rudi mara moja na umkabidhi Mungu jambo hilo."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "SW translation of PL study duch-swiety"
+  }
+}

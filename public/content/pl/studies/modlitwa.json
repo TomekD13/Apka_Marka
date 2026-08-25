@@ -1,0 +1,481 @@
+{
+  "id": "modlitwa",
+  "lang": "pl",
+  "title": "Jak rozmawiać z Bogiem?",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 8,
+  "summary": "Modlitwa to nie magiczna formułka ani religijny obowiązek, lecz szczera rozmowa z Bogiem, który słyszy i odpowiada. Uczymy się rozmawiać z Przyjacielem prosto, regularnie i z zaufaniem - i odkrywamy, że modlitwa zmienia nas i nasze sytuacje.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "modlitwa",
+    "rozmowa",
+    "zaufanie",
+    "Ojcze nasz",
+    "relacja"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Modlitwa to rozmowa, nie formułka",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Matt.6.7-8",
+              "ref": "Mt 6,7-8"
+            }
+          ],
+          "comment": "Jezus odsuwa wyobrażenie modlitwy jako „nakręcania\" Boga wielością słów. Ojciec wie, czego potrzebujesz, zanim Go poprosisz - więc modlitwa jest rozmową z Kimś bliskim, nie zaklęciem.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Co zmienia w twoim podejściu do modlitwy myśl, że Bóg już zna twoje potrzeby, zanim się odezwiesz?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Matt.7.7-8",
+              "ref": "Mt 7,7-8"
+            }
+          ],
+          "comment": "„Proście… szukajcie… pukajcie\" - modlitwa jest aktywna i wytrwała. Jezus zachęca, by nie zamilknąć po pierwszym razie, lecz rozmawiać dalej.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Co w twoim życiu sprawia, że łatwiej zamilknąć niż „kołatać\" dalej?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "verb",
+          "label": "„proście, szukajcie, pukajcie\" (Mt 7,7)",
+          "content": "W grece czasowniki *aiteō*, *zēteō*, *krouō* stoją w trybie rozkazującym czasu teraźniejszego, który wyraża czynność ciągłą, powtarzaną: „proście i nie przestawajcie prosić\". Sama forma gramatyczna zachęca do wytrwałości - to nie jednorazowe „poproś\", lecz „rozmawiaj dalej\".",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "αἰτεῖτε… ζητεῖτε… κρούετε",
+              "translit": "aiteite… zeteite… krouete"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Jak zmienia się sens wezwania, gdy odczytasz je jako „proście wytrwale\" zamiast jednorazowego „poproś\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Matt.7.9-11",
+              "ref": "Mt 7,9-11"
+            }
+          ],
+          "comment": "Bóg nie jest gorszy od ziemskiego rodzica. Jeśli niedoskonali rodzice dają dzieciom dobre rzeczy, to o ileż bardziej dobry Ojciec odpowiada na prośby swoich dzieci.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Jak obraz Boga jako dobrego Ojca różni się od obrazu Boga, który tylko czeka na nasze błędy?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Wzór, który dał Jezus",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Matt.6.9-13",
+              "ref": "Mt 6,9-13"
+            }
+          ],
+          "comment": "„Ojcze nasz\" to nie formułka do mechanicznego odmawiania, lecz wzór: zaczyna się od relacji i Bożej chwały, potem prosi o codzienne potrzeby, przebaczenie i ochronę. To szkielet zdrowej rozmowy z Bogiem.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Które elementy modlitwy Pańskiej najczęściej pomijasz w swoich modlitwach - i dlaczego?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "„Ojcze\" (Abba) jako rdzeń modlitwy Pańskiej",
+          "content": "Zwrot „Ojcze\", którym Jezus otwiera wzorcową modlitwę (Mt 6,9; Łk 11,2), wyraża relację dziecka do rodzica, nie poddanego do władcy. W Rz 8,15 i Ga 4,6 pojawia się aramejskie *Abba* - czułe, rodzinne „tato\". Tym samym słowem modlił się sam Jezus w Getsemane (Mk 14,36). To ono nadaje ton całej modlitwie: rozmowa, nie audiencja.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἀββά",
+              "translit": "abba"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "„chleb powszedni\" (Mt 6,11)",
+          "content": "Greckie *epiousios* jest słowem rzadkim i trudnym do przekładu - tradycyjnie oddawane jako „powszedni / na dzień dzisiejszy\". Prośba dotyczy bieżącej, codziennej potrzeby; uczy ufności „na dziś\", a nie gromadzenia na zapas. To echo manny na pustyni: dość na jeden dzień, z zaufaniem o jutro.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐπιούσιος",
+              "translit": "epiousios"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Luke.11.1",
+              "ref": "Łk 11,1"
+            }
+          ],
+          "comment": "Uczniowie, widząc modlitwę Jezusa, prosili: „naucz nas\". Modlitwy można i warto się uczyć - nie trzeba „umieć\" jej od początku.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Gdybyś dziś mógł poprosić Jezusa: „naucz mnie modlić się\", co konkretnie chciałbyś zrozumieć?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Matt.6.5-6",
+              "ref": "Mt 6,5-6"
+            }
+          ],
+          "comment": "Jezus przestrzega przed modlitwą „na pokaz\". Najcenniejsza jest ta w ukryciu - bo chodzi o spotkanie z Ojcem, a nie o wrażenie na ludziach.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Czym różni się modlitwa „dla Boga\" od modlitwy „dla ludzi\", którzy patrzą?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Ps.62.8",
+              "ref": "Ps 62,9"
+            }
+          ],
+          "comment": "„otwórzcie wszyscy przed Nim swoje serca\" - modlitwa to przelanie przed Bogiem tego, co naprawdę w nas jest. Bóg jest schronieniem, przed którym nie trzeba udawać.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Co znaczyłoby dla ciebie „wylać serce\" przed Bogiem zamiast mówić to, co „wypada\"?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Szczerość i regularność",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Phil.4.6-7",
+              "ref": "Flp 4,6-7"
+            }
+          ],
+          "comment": "Zamiast się zamartwiać, mamy „w każdej sprawie\" przedstawiać Bogu prośby z dziękczynieniem. Obietnicą nie jest natychmiastowe rozwiązanie, lecz pokój Boży, który strzeże serca.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Co najczęściej zabiera ci pokój - i jak wyglądałoby oddanie tego Bogu w modlitwie z dziękczynieniem?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "„pokój, który strzeże\" (Flp 4,7)",
+          "content": "Greckie *eirēnē* tłumaczy hebrajskie *szalom* - nie tylko brak konfliktu, lecz pełnię i całość. „Pokój, który przewyższa wszelki rozum\" nie zależy od rozwiązania problemu, lecz „strzeże\" serca i myśli (gr. *phroureō* - termin wojskowy: pełnić wartę, obsadzić strażą). Obraz jest mocny: Boży pokój staje na warcie wokół twojego wnętrza jak garnizon wokół miasta.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "εἰρήνη",
+              "translit": "eirene"
+            },
+            {
+              "lang": "hbo",
+              "text": "שָׁלוֹם",
+              "translit": "szalom"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "1Thess.5.16-18",
+              "ref": "1 Tes 5,16-18"
+            }
+          ],
+          "comment": "„Nieustannie się módlcie\" to nie wezwanie do ciągłego klęczenia, lecz do stałej, otwartej linii rozmowy z Bogiem przez cały dzień.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Jak mogłaby wyglądać „nieustanna\" rozmowa z Bogiem wpleciona w twój zwykły dzień?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "Daniel i rytm trzech modlitw dziennie (Dn 6,10)",
+          "content": "Gdy wyszedł zakaz modlitwy pod karą śmierci, Daniel „jak to zwykle czynił\" trzy razy dziennie klękał i modlił się przy otwartym oknie. Dwie rzeczy są znaczące: modlitwa była u niego stałym nawykiem (nie dorywczą reakcją na kryzys), i ten nawyk okazał się mocniejszy niż strach. Regularność modlitwy buduje kręgosłup wiary na czas próby."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Mark.1.35",
+              "ref": "Mk 1,35"
+            }
+          ],
+          "comment": "Sam Jezus, choć był Synem Bożym, szukał miejsca i czasu na rozmowę z Ojcem - wcześnie rano, na osobności. Regularność nie jest oznaką słabości wiary, lecz jej siłą.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Kiedy w twoim dniu mógłby być stały, spokojny moment na rozmowę z Bogiem?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Luke.18.1",
+              "ref": "Łk 18,1"
+            }
+          ],
+          "comment": "Jezus uczy, „że zawsze trzeba się modlić i nie ustawać\". Wytrwałość w modlitwie jest przeciwieństwem zniechęcenia.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "W jakiej sprawie kusi cię, by przestać się modlić? Co by znaczyło „nie przestawać\"?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Bóg słyszy i odpowiada",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "1John.5.14-15",
+              "ref": "1 J 5,14-15"
+            }
+          ],
+          "comment": "Mamy ufność, że Bóg słyszy nas, gdy prosimy zgodnie z Jego wolą. Modlitwa nie jest mówieniem w pustkę - jest słyszana.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Co zmienia świadomość, że Bóg naprawdę cię słyszy, a nie tylko „odbiera\" twoje słowa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Isa.65.24",
+              "ref": "Iz 65,24"
+            }
+          ],
+          "comment": "„Zanim zawołają, Ja już odpowiem\" - Bóg nie jest opieszały. Jego odpowiedź często wyprzedza nasze prośby.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Czy zdarzyło ci się dostrzec odpowiedź na potrzebę, której jeszcze nie zdążyłeś wypowiedzieć?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Luke.22.42",
+              "ref": "Łk 22,42"
+            }
+          ],
+          "comment": "W Getsemane Jezus modli się: „nie moja, lecz Twoja wola niech się stanie\". Bóg odpowiada na trzy sposoby - „tak\", „nie\", „poczekaj\" - a Jego odpowiedź zawsze wypływa z miłości, nie z obojętności.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Jak przyjmujesz Boże „nie\" lub „poczekaj\"? Czy łatwiej ci ufać, gdy odpowiedź brzmi „tak\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "„kielich\" w Getsemane (Łk 22,42)",
+          "content": "„Kielich\", o którego oddalenie prosi Jezus, to w Starym Testamencie obraz Bożego sądu nad grzechem (np. Ps 75,9; Iz 51,17). Jezus nie cofa się przed zwykłym cierpieniem - mierzy się z wypiciem „kielicha\" należnego nam. Jego modlitwa „nie moja, lecz Twoja wola\" pokazuje też, że najwyższym wzorem modlitwy nie jest wymuszenie własnego zdania, lecz zaufanie woli Ojca nawet w największym mroku."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "2Cor.12.8-9",
+              "ref": "2 Kor 12,8-9"
+            }
+          ],
+          "comment": "Paweł trzykrotnie prosił o usunięcie cierpienia, a Bóg odpowiedział inaczej, niż prosił: „Wystarczy ci Mojej łaski\". Czasem Bóg nie zmienia sytuacji, lecz daje siłę, by przez nią przejść.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Czy potrafisz wskazać moment, gdy Boża odpowiedź była inna i lepsza niż to, o co prosiłeś?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Jas.4.3",
+              "ref": "Jk 4,3"
+            }
+          ],
+          "comment": "Czasem „prosimy, a nie otrzymujemy\", bo prosimy źle - dla zaspokojenia własnych żądz. Modlitwa nie jest narzędziem do realizacji egoizmu, lecz miejscem dojrzewania serca.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Jak odróżnić prośbę, która naprawdę szuka Bożej woli, od próby „użycia\" Boga do własnych celów?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Modlitwa zmienia mnie i sytuacje",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Jas.5.16",
+              "ref": "Jk 5,16"
+            }
+          ],
+          "comment": "„Wiele może usilna modlitwa sprawiedliwego\" (BW) - modlitwa naprawdę coś zmienia w świecie. Nie jest tylko terapią dla modlącego się; Bóg działa w odpowiedzi na nią.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Czy łatwiej ci wierzyć, że modlitwa zmienia ciebie, czy że zmienia także bieg spraw? Dlaczego?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "worship",
+          "label": "modlitwy jako kadzidło przed Bogiem (Ap 5,8)",
+          "content": "W Ap 5,8 i 8,3-4 modlitwy świętych są przedstawione jako kadzidło wznoszące się przed Boży tron (por. Ps 141,2: „niech moja modlitwa będzie jak kadzidło\"). Obraz mówi dwie rzeczy: modlitwa jest miła Bogu jak wonny dym ofiary, i żadna nie ginie - wszystkie są „gromadzone\" w niebie. Twoja najcichsza modlitwa dociera na sam dwór nieba."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Luke.11.9-13",
+              "ref": "Łk 11,9-13"
+            }
+          ],
+          "comment": "Najlepszym darem, jaki Ojciec daje proszącym, jest Duch Święty. Modlitwa zmienia przede wszystkim nas - otwiera serce na Bożą obecność.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Gdyby największą „odpowiedzią\" na twoją modlitwę był sam Bóg, a nie rzecz, o którą prosisz - czy to by ci wystarczyło?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Modlitwa nie jest egzaminem z odpowiednich słów ani religijnym obowiązkiem. To rozmowa z Przyjacielem, który już cię zna, naprawdę słyszy i odpowiada - czasem „tak\", czasem „nie\", czasem „poczekaj\" - zawsze z miłości. Nie musisz umieć się modlić, by zacząć; wystarczy, że zaczniesz mówić. A im więcej rozmawiasz z Bogiem, tym bardziej modlitwa zmienia nie tylko twoje sytuacje, lecz przede wszystkim ciebie.",
+    "challenge": "Przez najbliższy tydzień codziennie znajdź jeden spokojny moment na szczerą, krótką rozmowę z Bogiem - bez gotowych formułek, własnymi słowami. Możesz oprzeć ją na wzorze z modlitwy Pańskiej (Mt 6,9-13): zacznij od dziękczynienia, potem powiedz Bogu o jednej konkretnej potrzebie i jednej trosce, którą chcesz Mu oddać."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "status: draft needsReview: true generatedBy: claude notes: Ciekawostki PRO (7) rozłożone w sekcjach, przy tekstach, których dotyczą (nie na końcu). Źródła tła doktrynalnego: `books/_txt/00118 Christian Lifestyle and Behavior`, `00103 Doctrine of God` (handbook ADS). Numeracja do weryfikacji: Ps 62,9 (BT/BW) wobec `Ps.62.8` (numeracja hebr./ang. OSIS) różnica z liczenia nadpisu psalmu; potwierdzić mapowanie ref-osis. Formy oryginalne (PRO) do weryfikacji u recenzenta: `αἰτεῖτε/ζητεῖτε/κρούετε` (Mt 7,7), `ἀββά` (Rz 8,15), `ἐπιούσιος` (Mt 6,11), `εἰρήνη`/`שָׁלוֹם` (Flp 4,7) potwierdzić zapis i transliterację. Termin *phroureopodany opisowo. Tekst wersetów celowo NIE jest wstawiony tylko odnośniki (osis + ref); treść dociągana z przekładu."
+  }
+}

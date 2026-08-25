@@ -1,0 +1,1419 @@
+{
+  "lang": "pl",
+  "featured": {
+    "youtube": {
+      "playlistId": "PLv-67p_8jNMwIIjwcgT8yTWT0_AQG2JRp",
+      "videoIds": [
+        "z46S97U9-FU",
+        "D5nYaD2tIog",
+        "oLobbSuezvQ",
+        "O8z5VyhJK6M",
+        "bvrUC-uvGRE"
+      ]
+    }
+  },
+  "series": [
+    {
+      "id": "spotkanie-z-bogiem",
+      "title": "I. Spotkanie z Bogiem",
+      "order": 1
+    },
+    {
+      "id": "zycie-z-bogiem",
+      "title": "II. Życie z Bogiem",
+      "order": 2
+    },
+    {
+      "id": "zycie-w-przymierzu",
+      "title": "III. Życie w przymierzu i służba",
+      "order": 3
+    },
+    {
+      "id": "proroctwo-i-nadzieja",
+      "title": "IV. Proroctwa i nadzieja końca",
+      "order": 4
+    },
+    {
+      "id": "zycie-i-emocje",
+      "title": "V. Życie i emocje - moduł praktyczny",
+      "order": 5
+    }
+  ],
+  "studies": [
+    {
+      "id": "czy-ktos-sie-o-mnie-troszczy",
+      "title": "Czy Bóg się o mnie troszczy?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 1,
+      "summary": "Pierwsze spotkanie z Bogiem, który zna mnie osobiście, stworzył mnie z miłości i troszczy się o moją codzienność - punkt wyjścia do relacji, nie do religii.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Bóg",
+        "miłość",
+        "stworzenie",
+        "troska",
+        "tożsamość"
+      ],
+      "refs": [
+        "Ps 139,1-4",
+        "Ps 139,13-16",
+        "Ps 8,4-6",
+        "1 J 4,8-10",
+        "J 3,16",
+        "Rz 5,8",
+        "Jr 31,3",
+        "Łk 15,20",
+        "Mt 6,26",
+        "Mt 6,31-33",
+        "1 P 5,7",
+        "Łk 12,6-7",
+        "Rdz 1,27",
+        "Iz 43,1",
+        "Dz 17,24-28",
+        "1 J 3,1"
+      ]
+    },
+    {
+      "id": "kim-jest-jezus",
+      "title": "Kim naprawdę jest Jezus?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 2,
+      "summary": "Kim naprawdę jest Jezus z Nazaretu: postacią historyczną i jednocześnie przedwiecznym Bogiem, Stwórcą, który stał się człowiekiem, by mnie zbawić i objawić Ojca - oraz kim chce być dla mnie osobiście.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Jezus",
+        "bóstwo",
+        "wcielenie",
+        "Stwórca",
+        "Ja Jestem",
+        "objawienie Ojca"
+      ],
+      "refs": [
+        "Mt 16,13-16",
+        "Łk 2,4-7",
+        "Mk 6,2-3",
+        "J 8,58",
+        "J 1,1-3",
+        "J 1,14",
+        "Kol 1,16-17",
+        "Hbr 1,3",
+        "J 14,9",
+        "J 20,28-29",
+        "Mt 28,9",
+        "Ap 1,17-18",
+        "Flp 2,6-8",
+        "J 1,12",
+        "J 10,10",
+        "Mt 11,28-29"
+      ]
+    },
+    {
+      "id": "skad-zlo-i-cierpienie",
+      "title": "Skąd zło i cierpienie?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 3,
+      "summary": "Jeśli Bóg jest dobry i wszechmocny, skąd zło? Biblia odpowiada nie filozofią, lecz historią wielkiego boju: świat stworzony dobry, miłość wymagająca wolności, bunt w niebie, upadek człowieka - i Bóg, który nie jest autorem zła, lecz Tym, który je rozwiązuje na krzyżu.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "zło",
+        "cierpienie",
+        "wielki bój",
+        "wolność",
+        "szatan",
+        "upadek",
+        "nadzieja"
+      ],
+      "refs": [
+        "Rdz 1,31",
+        "1 J 1,5",
+        "1 J 4,8",
+        "Pwt 30,19",
+        "Joz 24,15",
+        "Ap 3,20",
+        "Ap 12,7-9",
+        "Iz 14,12-14",
+        "Ez 28,12-17",
+        "J 8,44",
+        "Rdz 3,1-6",
+        "Rdz 3,15",
+        "Rz 5,12",
+        "Hi 1,8-12",
+        "Ap 12,17",
+        "Ap 21,4",
+        "Rz 8,18",
+        "Nah 1,9"
+      ]
+    },
+    {
+      "id": "czym-jest-grzech",
+      "title": "Dlaczego Jezus musiał umrzeć?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 4,
+      "summary": "Grzech to nie tylko lista złych uczynków, lecz zerwana więź z Bogiem - utracone zaufanie, z którego wyrastają konkretne grzechy. Skutkiem jest oddzielenie i śmierć, a Bożą odpowiedzią jest krzyż: Jezus zajął moje miejsce, by przywrócić relację. Posłuszeństwo jest owocem pojednania, nie jego warunkiem.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "grzech",
+        "relacja",
+        "krzyż",
+        "pojednanie",
+        "śmierć Jezusa",
+        "zaufanie",
+        "odkupienie"
+      ],
+      "refs": [
+        "Iz 59,2",
+        "Rdz 3,8-10",
+        "Iz 53,6",
+        "J 16,9",
+        "Mk 7,21-23",
+        "Jr 17,9",
+        "Rz 7,18-19",
+        "Rz 3,23",
+        "Rz 6,23",
+        "Ez 18,4",
+        "Iz 64,6",
+        "Rz 5,8",
+        "Iz 53,4-5",
+        "1 P 2,24",
+        "2 Kor 5,21",
+        "J 15,13",
+        "2 Kor 5,18-19",
+        "Rz 5,1",
+        "Tt 2,11-12",
+        "1 J 4,19"
+      ]
+    },
+    {
+      "id": "zbawienie-za-darmo",
+      "title": "Dar, którego nie kupisz",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 5,
+      "summary": "Zbawienie jest darem łaski przyjmowanym przez wiarę, nie nagrodą za uczynki. Bóg usprawiedliwia grzesznika i daje pewność życia wiecznego już teraz - pewność opartą na Chrystusie, nie na mojej bezgrzeszności. Uczynki są owocem zbawienia, nigdy jego ceną.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "łaska",
+        "wiara",
+        "zbawienie",
+        "usprawiedliwienie",
+        "pewność",
+        "dar",
+        "uczynki"
+      ],
+      "refs": [
+        "Ef 2,8-9",
+        "Tt 3,5",
+        "Rz 4,4-5",
+        "Rz 11,6",
+        "Ga 2,16",
+        "Rz 3,23-24",
+        "Rz 5,1",
+        "Rdz 15,6",
+        "Łk 18,13-14",
+        "1 J 5,11-13",
+        "J 5,24",
+        "J 10,28-29",
+        "Rz 8,38-39",
+        "Flp 1,6",
+        "Ef 2,10",
+        "J 15,4-5",
+        "Tt 2,11-14",
+        "Jk 2,17-18",
+        "Rz 7,24-25"
+      ]
+    },
+    {
+      "id": "nawrocenie-i-nowe-zycie",
+      "title": "Jak zacząć od nowa?",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 6,
+      "summary": "Nawrócenie to nie samo-poprawa, lecz zmiana kierunku: pokuta i oddanie życia Bogu, w którym On rodzi człowieka na nowo, daje nowe serce i czyni nowym stworzeniem. To początek relacji odnawianej każdego dnia, a nie jednorazowy akt do odhaczenia.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "nawrócenie",
+        "pokuta",
+        "nowe narodzenie",
+        "nowe serce",
+        "nowe stworzenie",
+        "oddanie życia"
+      ],
+      "refs": [
+        "Mk 1,15",
+        "Dz 3,19",
+        "Łk 15,17-20",
+        "2 Kor 7,10",
+        "Iz 55,7",
+        "Rz 12,1",
+        "Ga 2,20",
+        "Łk 9,23",
+        "J 3,3",
+        "J 3,5-6",
+        "J 3,7-8",
+        "1 P 1,23",
+        "Ez 36,26",
+        "Ez 36,27",
+        "2 Kor 5,17",
+        "Ef 4,22-24",
+        "Flp 2,13",
+        "2 Kor 4,16",
+        "1 J 1,9",
+        "Flp 3,13-14"
+      ]
+    },
+    {
+      "id": "duch-swiety",
+      "title": "Duch Święty w moim życiu",
+      "category": "basic_practical",
+      "seriesId": "spotkanie-z-bogiem",
+      "order": 7,
+      "summary": "Duch Święty nie jest bezosobową „energią\", lecz Osobą i Bogiem - trzecią Osobą Trójcy. To On prowadzi, pociesza, przekonuje o grzechu, daje moc do życia i rodzi owoc charakteru. Poznajemy Go jako stale obecnego Towarzysza, którym możemy być napełniani.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Duch Święty",
+        "Trójca",
+        "Pocieszyciel",
+        "owoc Ducha",
+        "moc",
+        "prowadzenie",
+        "napełnienie"
+      ],
+      "refs": [
+        "Dz 5,3-4",
+        "J 14,16-17",
+        "J 16,13-14",
+        "Ef 4,30",
+        "Rz 8,26-27",
+        "Mt 28,19",
+        "2 Kor 13,13",
+        "Rdz 1,1-2",
+        "Ps 139,7",
+        "J 14,26",
+        "J 16,7-8",
+        "Rz 8,14",
+        "Rz 8,15-16",
+        "J 14,18",
+        "Dz 1,8",
+        "Ga 5,22-23",
+        "Ga 5,16",
+        "Rz 8,11",
+        "Łk 11,13",
+        "Ef 5,18",
+        "Dz 2,1-4",
+        "J 7,37-39"
+      ]
+    },
+    {
+      "id": "modlitwa",
+      "title": "Jak rozmawiać z Bogiem?",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 8,
+      "summary": "Modlitwa to nie magiczna formułka ani religijny obowiązek, lecz szczera rozmowa z Bogiem, który słyszy i odpowiada. Uczymy się rozmawiać z Przyjacielem prosto, regularnie i z zaufaniem - i odkrywamy, że modlitwa zmienia nas i nasze sytuacje.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "modlitwa",
+        "rozmowa",
+        "zaufanie",
+        "Ojcze nasz",
+        "relacja"
+      ],
+      "refs": [
+        "Mt 6,7-8",
+        "Mt 7,7-8",
+        "Mt 7,9-11",
+        "Mt 6,9-13",
+        "Łk 11,1",
+        "Mt 6,5-6",
+        "Ps 62,9",
+        "Flp 4,6-7",
+        "1 Tes 5,16-18",
+        "Mk 1,35",
+        "Łk 18,1",
+        "1 J 5,14-15",
+        "Iz 65,24",
+        "Łk 22,42",
+        "2 Kor 12,8-9",
+        "Jk 4,3",
+        "Jk 5,16",
+        "Łk 11,9-13"
+      ]
+    },
+    {
+      "id": "biblia",
+      "title": "Biblia - Boży głos do mnie",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 9,
+      "summary": "Biblia to natchnione Słowo Boże - list od Przyjaciela, a nie zbiór ludzkich opinii. Poznajemy, skąd pochodzi jej autorytet (sola scriptura), uczymy się prostych zasad samodzielnego czytania i odkrywamy, od czego najlepiej zacząć. Warstwa PRO odpowiada na pytanie o Pismo i Tradycję oraz kanon.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Biblia",
+        "Słowo Boże",
+        "natchnienie",
+        "sola scriptura",
+        "czytanie Pisma"
+      ],
+      "refs": [
+        "2 Tm 3,16-17",
+        "2 P 1,20-21",
+        "Hbr 4,12",
+        "Iz 8,20",
+        "Dz 17,11",
+        "J 17,17",
+        "Ps 119,105",
+        "Ps 119,18",
+        "Łk 24,27",
+        "2 P 1,20",
+        "Iz 28,10",
+        "Jk 1,22",
+        "Mt 4,4",
+        "J 20,30-31",
+        "Joz 1,8",
+        "Ps 1,1-3"
+      ]
+    },
+    {
+      "id": "gdy-upadam",
+      "title": "Pokusa, upadek, przebaczenie",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 10,
+      "summary": "Walka z pokusą jest normalną częścią życia wiary, a nie dowodem porażki. Uczymy się zwyciężać w mocy Jezusa, a po upadku wracać przez wyznanie i przyjęcie przebaczenia. Bóg nie odrzuca upadającego - rozróżniamy między potknięciem a świadomym trwaniem w grzechu, i uczymy się przebaczać sobie oraz innym.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "grzech",
+        "pokusa",
+        "przebaczenie",
+        "łaska",
+        "walka duchowa"
+      ],
+      "refs": [
+        "1 Kor 10,13",
+        "Hbr 4,15",
+        "Jk 1,14-15",
+        "1 Kor 15,57",
+        "Mt 4,4.7.10",
+        "Ga 5,16-17",
+        "Flp 4,13",
+        "Jk 4,7",
+        "1 J 1,9",
+        "1 J 2,1",
+        "Ps 103,10-12",
+        "Iz 1,18",
+        "Prz 24,16",
+        "J 6,37",
+        "1 J 3,6.9",
+        "Łk 15,17-20",
+        "Mt 6,14-15",
+        "Flp 3,13-14",
+        "Rz 8,1"
+      ]
+    },
+    {
+      "id": "nadzieja-jezus-wroci",
+      "title": "Największa obietnica Jezusa",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 11,
+      "summary": "Powrót Jezusa to obietnica i serce chrześcijańskiej nadziei. Poznajemy pewność tej obietnicy i znaki czasu, a zwłaszcza charakter Jego przyjścia: widzialne, słyszalne, globalne i ostateczne - „ujrzy Go wszelkie oko\". Odpowiadamy na błędne wyobrażenia o „tajemnym porwaniu\" i „niewidzialnej obecności\". To nadzieja, nie powód do lęku.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "powtórne przyjście",
+        "nadzieja",
+        "znaki czasu",
+        "paruzja",
+        "eschatologia"
+      ],
+      "refs": [
+        "J 14,1-3",
+        "Dz 1,9-11",
+        "Hbr 9,28",
+        "Mt 24,3-8",
+        "Mt 24,14",
+        "Mt 24,36",
+        "2 P 3,3-4",
+        "2 P 3,9",
+        "Ap 1,7",
+        "Mt 24,27",
+        "Mt 24,30-31",
+        "Mt 24,23-26",
+        "1 Tes 4,16-17",
+        "Mt 26,64",
+        "Tt 2,13",
+        "J 14,1",
+        "1 Tes 4,18",
+        "Łk 21,28"
+      ]
+    },
+    {
+      "id": "co-po-smierci",
+      "title": "Nadzieja mocniejsza od śmierci",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 12,
+      "summary": "Biblia mówi o śmierci jako o „śnie\", z którego budzi zmartwychwstanie przy powrocie Jezusa - to nadzieja, nie powód do lęku. Poznajemy tę naukę, ostrzeżenie przed spirytyzmem i „kontaktami ze zmarłymi\", oraz biblijną odpowiedź na reinkarnację. Warstwa PRO odnosi się do nauki o czyśćcu i modlitwach za zmarłych.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "śmierć",
+        "zmartwychwstanie",
+        "stan umarłych",
+        "nadzieja",
+        "spirytyzm"
+      ],
+      "refs": [
+        "J 11,11-14",
+        "Koh 9,5-6",
+        "Ps 146,4",
+        "Ps 115,17",
+        "Rdz 2,7",
+        "1 Tes 4,13-14",
+        "1 Tes 4,15-17",
+        "J 5,28-29",
+        "1 Kor 15,51-54",
+        "Dn 12,2",
+        "Iz 8,19-20",
+        "Pwt 18,10-12",
+        "2 Kor 11,14",
+        "Ap 16,14",
+        "Hbr 9,27",
+        "2 Kor 5,10",
+        "J 3,16"
+      ]
+    },
+    {
+      "id": "zycie-w-bozej-rodzinie",
+      "title": "Życie w Bożej rodzinie",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 13,
+      "summary": "Kościół to nie budynek, lecz rodzina i ciało Chrystusa - miejsce wspólnoty, wsparcia i wzrostu. Poznajemy sens przynależności, jedność wyrażoną w posłuszeństwie Chrystusowi-Głowie oraz Wieczerzę Pańską jako pamiątkę ofiary, z obrzędem pokory. Warstwy dodatkowe: rozpoznawanie Bożej woli oraz Wieczerza jako pamiątka wobec mszy i transsubstancjacji.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Kościół",
+        "wspólnota",
+        "ciało Chrystusa",
+        "Wieczerza Pańska",
+        "prowadzenie"
+      ],
+      "refs": [
+        "Ef 2,19",
+        "1 P 2,9-10",
+        "1 Kor 12,12-14",
+        "1 Kor 12,21-26",
+        "Ef 4,15-16",
+        "Kol 1,18",
+        "J 17,20-23",
+        "Ef 4,1-3",
+        "Hbr 10,24-25",
+        "Dz 2,42-47",
+        "Ga 6,2",
+        "Ef 4,11-13",
+        "Łk 22,19-20",
+        "J 13,1-5",
+        "J 13,14-17",
+        "1 Kor 11,27-29",
+        "Łk 17,20-21",
+        "Mt 5,13-16"
+      ]
+    },
+    {
+      "id": "twoj-nastepny-krok",
+      "title": "Decyzja, która zmienia życie",
+      "category": "basic_practical",
+      "seriesId": "zycie-z-bogiem",
+      "order": 14,
+      "summary": "Chrzest to publiczne wyznanie wiary i utożsamienie ze śmiercią i zmartwychwstaniem Jezusa - chrzest wiary przez zanurzenie. Mówimy spokojnie o „ponownym chrzcie” po chrzcie z dzieciństwa, podkreślamy, że to deklaracja gotowości, nie pośpiech, i że siłę do wytrwania daje sam Jezus. To zamknięcie serii i zaproszenie do codziennej decyzji chodzenia z Bogiem.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "chrzest",
+        "decyzja",
+        "naśladowanie",
+        "nowe życie",
+        "wytrwanie"
+      ],
+      "refs": [
+        "Rz 6,3-4",
+        "Mt 28,19-20",
+        "Dz 2,38",
+        "Ga 3,27",
+        "Mt 3,13-17",
+        "Dz 8,36-39",
+        "Mk 1,9-10",
+        "Kol 2,12",
+        "Dz 8,12",
+        "Dz 19,4-5",
+        "Dz 22,16",
+        "Łk 14,27-30",
+        "Joz 24,15",
+        "Ap 3,20",
+        "J 15,5",
+        "Flp 1,6",
+        "Mt 28,20",
+        "Flp 4,13"
+      ]
+    },
+    {
+      "id": "przymierze-i-charakter-boga",
+      "title": "Bóg, który dotrzymuje słowa",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 15,
+      "summary": "Bóg od stworzenia wiąże się z człowiekiem przymierzem; gdy upadamy, szuka nas i ponawia obietnicę - bo zawsze dotrzymuje słowa. Tu odsłania się serce wielkiego boju: czy Bogu można zaufać. Krew Jezusa to nowe przymierze, a Dekalog to objawienie charakteru Boga, nie legalizm.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "przymierze",
+        "charakter Boga",
+        "wielki bój",
+        "zaufanie",
+        "Dekalog",
+        "krew Jezusa"
+      ],
+      "refs": [
+        "Rdz 1,26-27",
+        "Rdz 9,9-13",
+        "Rdz 12,1-3",
+        "Rdz 15,17-18",
+        "Rdz 3,8-9",
+        "Rdz 3,15",
+        "Wj 34,6-7",
+        "Oz 11,8-9",
+        "Rdz 3,1-5",
+        "Lb 23,19",
+        "Tt 1,2",
+        "Mt 26,27-28",
+        "Jr 31,31-33",
+        "Hbr 9,11-15",
+        "Wj 20,1-3",
+        "Pwt 5,6-7",
+        "Rdz 26,5",
+        "Rz 13,8-10",
+        "1 J 5,3"
+      ]
+    },
+    {
+      "id": "dekalog-a-prawo-mojzeszowe",
+      "title": "Po co nam przykazania?",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 16,
+      "summary": "Biblia rozróżnia prawo moralne (Dekalog - trwałe, bo wyraża charakter Boga) i prawo ceremonialne Mojżesza (zapowiadało Chrystusa i w Nim się wypełniło). Przestrzeganie przykazań to nie legalizm, lecz posłuszeństwo z miłości i w mocy Ducha - relacja przed regułami.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "prawo",
+        "Dekalog",
+        "prawo ceremonialne",
+        "łaska",
+        "posłuszeństwo",
+        "Duch Święty"
+      ],
+      "refs": [
+        "Mt 5,17-18",
+        "Rz 3,31",
+        "Rz 7,12",
+        "Pwt 31,24-26",
+        "Wj 31,18",
+        "Hbr 10,1",
+        "Kol 2,14-17",
+        "Ef 2,14-16",
+        "J 1,29",
+        "Hbr 9,9-10",
+        "Hbr 7,18-19",
+        "Mt 19,17-19",
+        "Jk 2,10-12",
+        "1 J 2,3-4",
+        "Ap 14,12",
+        "J 14,15",
+        "Rz 8,3-4",
+        "Ef 2,8-10",
+        "Ga 5,6",
+        "Ez 36,26-27"
+      ]
+    },
+    {
+      "id": "szabat",
+      "title": "Szabat - czas z Bogiem",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 17,
+      "summary": "Szabat ustanowiony już przy stworzeniu, dla wszystkich ludzi, jako pamiątka Stwórcy i cotygodniowy dar relacji oraz wolności. Czwarte przykazanie, które zachowywał sam Jezus, prowadzi do odpoczynku w Chrystusie - to nie ciężar, lecz przestrzeń spotkania z Bogiem.",
+      "minutes": {
+        "base": 45,
+        "extended": 70
+      },
+      "tags": [
+        "szabat",
+        "stworzenie",
+        "odpoczynek",
+        "Stwórca",
+        "czwarte przykazanie",
+        "wolność"
+      ],
+      "refs": [
+        "Rdz 2,1-3",
+        "Mk 2,27-28",
+        "Wj 16,22-26",
+        "Wj 20,8-11",
+        "Ez 20,12",
+        "Iz 58,13-14",
+        "Ap 14,6-7",
+        "Łk 4,16",
+        "Łk 13,15-16",
+        "Mt 24,20",
+        "Mt 11,28-29",
+        "Hbr 4,9-10",
+        "Hbr 4,1-3",
+        "Łk 23,54-56",
+        "Dz 17,2"
+      ]
+    },
+    {
+      "id": "swiatynia-i-przymierze",
+      "title": "Jezus - nasz Arcykapłan",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 18,
+      "summary": "Ziemska świątynia była modelem planu zbawienia: jej ofiary wskazywały na Jezusa-Baranka, a kapłaństwo na Jego służbę. Dziś Jezus jest Arcykapłanem w niebiańskiej świątyni - naszym jedynym Pośrednikiem. Świątynia łączy się z przymierzem: prawo w arce, łaska na przebłagalni; mamy pewny dostęp do Boga.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "świątynia",
+        "arcykapłan",
+        "pośrednik",
+        "przymierze",
+        "plan zbawienia",
+        "sąd"
+      ],
+      "refs": [
+        "Wj 25,8-9",
+        "Hbr 8,5",
+        "Ps 77,14",
+        "Kpł 4,27-31",
+        "J 1,29",
+        "Iz 53,5-6",
+        "1 P 1,18-19",
+        "Hbr 4,14-16",
+        "Hbr 7,25",
+        "1 J 2,1",
+        "Hbr 8,1-2",
+        "Wj 25,16",
+        "Wj 25,17-22",
+        "Hbr 9,11-15",
+        "Hbr 10,19-22",
+        "Dn 7,9-10",
+        "Dn 7,13-14",
+        "Hbr 9,24"
+      ]
+    },
+    {
+      "id": "niebieskie-strefy-zycia",
+      "title": "Boże zasady zdrowia",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 19,
+      "summary": "Ciało jest darem Boga i świątynią Ducha. Zdrowie ujmujemy holistycznie: odżywianie, ruch, odpoczynek, woda, słońce, wstrzemięźliwość i zaufanie Bogu, a także emocje, przebaczenie, wdzięczność, radość i służba. „Niebieskie strefy\" (m.in. Loma Linda) pokazują, że Boże zasady życia naprawdę służą długowieczności.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "zdrowie",
+        "ciało",
+        "styl życia",
+        "wdzięczność",
+        "przebaczenie",
+        "długowieczność"
+      ],
+      "refs": [
+        "1 Kor 6,19-20",
+        "1 Kor 10,31",
+        "3 J 1,2",
+        "Rdz 1,29",
+        "Wj 20,9-10",
+        "1 Kor 9,25",
+        "Prz 17,22",
+        "Prz 3,7-8",
+        "1 Tes 5,16-18",
+        "Ef 4,31-32",
+        "Mt 6,25-27",
+        "Dz 20,35",
+        "Pwt 30,19-20",
+        "Wj 15,26",
+        "1 Tm 4,8"
+      ]
+    },
+    {
+      "id": "dary-duchowe",
+      "title": "Dary duchowe w służbie",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 20,
+      "summary": "Bóg wyposaża każdego wierzącego do służby. Duch rozdziela różne dary, a jedno ciało - Kościół - łączy je w całość. Każdy ma odkryć i używać swój dar. Biblia podaje też kryteria rozpoznawania prawdziwego daru i proroka. Dar uzdrawiania przypomina, że Bóg działa dziś - w ramach swojej woli i tajemnicy cierpienia. Cel wszystkich darów: budowanie Kościoła.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "dary duchowe",
+        "Duch Święty",
+        "służba",
+        "jedno ciało",
+        "rozeznanie",
+        "uzdrowienie"
+      ],
+      "refs": [
+        "1 Kor 12,4-7",
+        "1 Kor 12,11",
+        "1 P 4,10",
+        "Rz 12,4-8",
+        "1 Kor 12,14-20",
+        "1 Kor 12,21-26",
+        "Ef 4,11-13",
+        "Mt 25,14-18",
+        "1 Tm 4,14",
+        "2 Tm 1,6-7",
+        "Iz 8,20",
+        "Mt 7,15-20",
+        "1 J 4,1",
+        "Pwt 18,21-22",
+        "1 Tes 5,19-21",
+        "Jk 5,14-16",
+        "1 Kor 12,9-10",
+        "2 Kor 12,7-9",
+        "J 9,1-3"
+      ]
+    },
+    {
+      "id": "szafarstwo-i-misja",
+      "title": "Moja misja i talenty",
+      "category": "basic_systematic",
+      "seriesId": "zycie-w-przymierzu",
+      "order": 21,
+      "summary": "Wszystko należy do Boga - jestem zarządcą, nie właścicielem. Wierne zarządzanie obejmuje czas, zdolności i pieniądze (dziesięcina i dary) i wypływa z wdzięczności, nie z przymusu. Z tego rodzi się moja osobista i lokalna misja: jak konkretnie służę Bogu i ludziom w mojej wspólnocie i otoczeniu.",
+      "minutes": {
+        "base": 45,
+        "extended": 65
+      },
+      "tags": [
+        "włodarstwo",
+        "zarządzanie",
+        "dziesięcina",
+        "misja",
+        "służba",
+        "świadectwo"
+      ],
+      "refs": [
+        "Ps 24,1",
+        "1 Kor 4,2",
+        "1 Krn 29,14",
+        "Ef 5,15-16",
+        "Mt 25,19-23",
+        "1 P 4,10-11",
+        "Ml 3,8-10",
+        "2 Kor 9,6-8",
+        "Mt 6,19-21",
+        "Łk 21,1-4",
+        "Prz 3,9-10",
+        "Mt 28,18-20",
+        "Dz 1,8",
+        "Mt 5,14-16",
+        "Ga 6,9-10",
+        "1 P 3,15",
+        "J 1,40-46",
+        "J 4,28-30",
+        "Mk 5,19"
+      ]
+    },
+    {
+      "id": "historia-swiata-w-proroctwie",
+      "title": "Historia świata w proroctwie",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 22,
+      "summary": "Sen Nebukadnesara z Daniela 2 pokazuje, że Bóg zna i prowadzi bieg dziejów: kolejne imperia przeminą, a Jego wieczne Królestwo - „kamień\" - pozostanie. Spełnione proroctwo staje się mocnym fundamentem zaufania do Biblii.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "proroctwo",
+        "Daniel",
+        "historia",
+        "królestwa",
+        "Królestwo Boże",
+        "zaufanie do Biblii"
+      ],
+      "refs": [
+        "Dn 2,1-3",
+        "Dn 2,27-28",
+        "Dn 2,20-22",
+        "Dn 2,31-33",
+        "Dn 2,36-38",
+        "Dn 2,39-40",
+        "Dn 2,41-43",
+        "Dn 7,17",
+        "Iz 46,9-10",
+        "Dn 2,34-35",
+        "Dn 2,44-45",
+        "Dn 2,46-47"
+      ]
+    },
+    {
+      "id": "prorocze-wyliczenia",
+      "title": "70 tygodni i 2300 dni",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 23,
+      "summary": "Liczbowe proroctwa Daniela - 70 tygodni i 2300 dni - odczytane zasadą „dzień za rok\". 70 tygodni precyzyjnie wskazuje Mesjasza (dowód, że Jezus jest Chrystusem), a 2300 dni prowadzi do roku 1844 i otwiera temat oczyszczenia świątyni niebiańskiej oraz sądu.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "proroctwo",
+        "Daniel",
+        "70 tygodni",
+        "2300 dni",
+        "Mesjasz",
+        "świątynia",
+        "sąd",
+        "1844"
+      ],
+      "refs": [
+        "Dn 8,14",
+        "Ez 4,6",
+        "Lb 14,34",
+        "Dn 9,24",
+        "Dn 9,25",
+        "Dn 9,26",
+        "Dn 9,27",
+        "Mk 1,15",
+        "Ga 4,4",
+        "Dn 8,26-27",
+        "Dn 9,23",
+        "Hbr 8,1-2",
+        "Hbr 9,23-24"
+      ]
+    },
+    {
+      "id": "bestie-i-baranek",
+      "title": "Apokaliptyczne bestie i Baranek",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 24,
+      "summary": "Daniel 7 powtarza linię imperiów językiem zwierząt, a „mały róg\" zapowiada moc religijno-polityczną działającą przez okres 1260 dni-lat (Dn 7,25; Ap 12; 13). To proroctwo o dominacji i prześladowaniu - ale jego sercem jest Baranek, który zwycięża i przejmuje wieczne królestwo.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "proroctwo",
+        "Daniel 7",
+        "Daniel 8",
+        "bestie",
+        "mały róg",
+        "1260 dni",
+        "Apokalipsa",
+        "Baranek",
+        "wielki bój"
+      ],
+      "refs": [
+        "Dn 7,2-3",
+        "Dn 7,17",
+        "Dn 7,4-6",
+        "Dn 8,3-8",
+        "Dn 8,20-21",
+        "Dn 7,7",
+        "Dn 7,8",
+        "Dn 7,25",
+        "Ap 12,6",
+        "Ap 12,14",
+        "Ap 13,5",
+        "2 Tes 2,3-4",
+        "Dn 7,9-10",
+        "Dn 7,13-14",
+        "Dn 7,27",
+        "Ap 5,5-6",
+        "Ap 17,14"
+      ]
+    },
+    {
+      "id": "godzina-sadu",
+      "title": "Dlaczego sąd to dobra nowina?",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 25,
+      "summary": "Poselstwo trzech aniołów ogłasza, że „nadeszła godzina sądu\" - w kontekście wiecznej ewangelii i wezwania, by oddać cześć Stwórcy. Sąd śledczy z Daniela 7 nie ma straszyć: w niebie Jezus jest naszym Obrońcą, a wierzący w Nim są bezpieczni.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "sąd",
+        "trzej aniołowie",
+        "ewangelia",
+        "Stwórca",
+        "szabat",
+        "Babilon",
+        "Jezus Obrońca",
+        "pewność zbawienia"
+      ],
+      "refs": [
+        "Ap 14,6-7",
+        "Ap 14,7",
+        "Ap 14,8",
+        "Ap 14,12",
+        "Ap 18,4",
+        "Dn 7,9-10",
+        "Dn 7,22",
+        "1 J 2,1",
+        "Hbr 7,25",
+        "Rz 8,1",
+        "Rz 8,33-34",
+        "J 5,24",
+        "Hbr 4,14-16"
+      ]
+    },
+    {
+      "id": "bozy-kosciol-czasow-konca",
+      "title": "Boży Kościół w czasach końca",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 26,
+      "summary": "Proroctwo nie tylko opisuje moce wrogie Bogu - wskazuje też, gdzie w czasach końca jest Jego wierny lud: „ostatek\", który zachowuje przykazania, ma świadectwo Jezusa i dar proroctwa, a jego znakiem rozpoznawczym jest globalna misja głoszenia powrotu Chrystusa.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "Kościół",
+        "ostatek",
+        "przykazania",
+        "świadectwo Jezusa",
+        "dar proroctwa",
+        "misja",
+        "Apokalipsa"
+      ],
+      "refs": [
+        "Ap 12,17",
+        "Ap 14,12",
+        "1 J 2,3-4",
+        "J 14,15",
+        "Ap 19,10",
+        "Jl 2,28",
+        "Ap 22,7",
+        "1 Tes 5,19-21",
+        "Iz 8,20",
+        "Ap 14,6",
+        "Mt 24,14",
+        "Ap 18,4",
+        "1 P 2,9",
+        "Ap 14,7"
+      ]
+    },
+    {
+      "id": "przyjscie-i-millenium",
+      "title": "Przyjście Jezusa i millenium",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 27,
+      "summary": "Pogłębione spojrzenie na powtórne przyjście: będzie widzialne, słyszalne, chwalebne i globalne. Towarzyszy mu zmartwychwstanie sprawiedliwych i przemiana żyjących, a potem tysiąc lat (millenium) - zbawieni w niebie, opustoszała ziemia, szatan związany i sąd nad bezbożnymi.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "powtórne przyjście",
+        "zmartwychwstanie",
+        "pochwycenie",
+        "millenium",
+        "Apokalipsa",
+        "nadzieja"
+      ],
+      "refs": [
+        "Ap 1,7",
+        "Mt 24,27",
+        "Mt 24,30-31",
+        "Dz 1,9-11",
+        "Mt 24,23-26",
+        "1 Tes 4,16-17",
+        "1 Kor 15,51-52",
+        "1 Kor 15,53-54",
+        "J 5,28-29",
+        "Tt 2,13",
+        "Ap 20,4-5",
+        "Ap 20,6",
+        "Ap 20,1-3",
+        "Jr 4,23-26",
+        "1 Kor 6,2-3",
+        "Ap 20,7-9"
+      ]
+    },
+    {
+      "id": "nowa-ziemia",
+      "title": "Nowe niebo i nowa ziemia",
+      "category": "basic_systematic",
+      "seriesId": "proroctwo-i-nadzieja",
+      "order": 28,
+      "summary": "Finał wielkiego boju: grzech, śmierć i zło zostają unicestwione na zawsze, a Bóg stwarza nowe niebo i nową ziemię. Bez łez, bólu i śmierci, z przywróconym Edenem i wieczną, bliską relacją z Bogiem - to cel całej drogi i otwarte zaproszenie.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "nowa ziemia",
+        "nowe niebo",
+        "koniec grzechu",
+        "koniec śmierci",
+        "Eden",
+        "nadzieja",
+        "zaproszenie"
+      ],
+      "refs": [
+        "Ap 20,10",
+        "Ap 20,14",
+        "1 Kor 15,26",
+        "Na 1,9",
+        "Mal 4,1-3",
+        "Ap 21,1",
+        "Ap 21,3-4",
+        "Iz 65,17",
+        "Iz 65,21-25",
+        "2 P 3,13",
+        "Ap 22,1-3",
+        "Ap 21,7",
+        "Ap 22,3-4",
+        "Ap 22,17",
+        "Ap 21,6",
+        "1 Kor 2,9"
+      ]
+    },
+    {
+      "id": "tozsamosc-i-wartosc",
+      "title": "Twoja prawdziwa wartość",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 29,
+      "summary": "Skąd biorę poczucie własnej wartości i kto ma prawo powiedzieć mi, kim jestem. Wbrew ranom z dzieciństwa, porównaniom i poczuciu niższości Bóg nazywa mnie swoim dzieckiem, stworzonym z zamysłu, cenionym i przyjętym w Chrystusie.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "tożsamość",
+        "wartość",
+        "dziecko Boże",
+        "poczucie niższości",
+        "samoocena",
+        "łaska"
+      ],
+      "refs": [
+        "Ps 139,13-16",
+        "Iz 43,1",
+        "Iz 43,4",
+        "1 Sm 16,7",
+        "Ga 6,4",
+        "Ps 27,10",
+        "J 1,12",
+        "1 J 3,1",
+        "Ga 3,26",
+        "Rz 8,15-16",
+        "Łk 15,21-24",
+        "Ef 1,4-5",
+        "Ef 1,6-7",
+        "2 Kor 5,17",
+        "1 P 2,9"
+      ]
+    },
+    {
+      "id": "relacje-przebaczenie-konflikty",
+      "title": "Konflikty i pojednanie",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 30,
+      "summary": "Co robić z ranami, goryczą i konfliktami między ludźmi. Jak rozumieć przebaczenie (które nie jest udawaniem, że nic się nie stało), jak rozwiązywać spory po Bożemu i jak nie pozwolić gniewowi przerodzić się w gorycz.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "relacje",
+        "przebaczenie",
+        "konflikt",
+        "pojednanie",
+        "gniew",
+        "gorycz"
+      ],
+      "refs": [
+        "Ef 4,31",
+        "Hbr 12,15",
+        "Rdz 4,5-7",
+        "Ef 4,26-27",
+        "Jk 1,19-20",
+        "Prz 15,1",
+        "Ef 4,32",
+        "Kol 3,13",
+        "Mt 18,21-22",
+        "Mt 18,23-35",
+        "Mk 11,25",
+        "Mt 18,15",
+        "Mt 18,16-17",
+        "Rz 12,18",
+        "Mt 5,23-24",
+        "Rz 12,19-21"
+      ]
+    },
+    {
+      "id": "lek-stres-pokoj",
+      "title": "Pokój, który przewyższa rozum",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 31,
+      "summary": "Co Pismo mówi o trosce, lęku i przeciążeniu - i jak rodzi się pokój, który „przewyższa wszelki rozum\". Nie chodzi o tłumienie emocji, lecz o przeniesienie ciężaru na Boga, który zna nasze potrzeby i jest blisko.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "lęk",
+        "stres",
+        "troska",
+        "pokój",
+        "zaufanie",
+        "modlitwa"
+      ],
+      "refs": [
+        "Mt 6,25-27",
+        "Mt 6,31-32",
+        "Mt 6,33-34",
+        "Ps 94,19",
+        "1 P 5,7",
+        "Ps 55,23",
+        "Mt 11,28-30",
+        "Ps 46,2-3",
+        "Flp 4,6",
+        "Flp 4,7",
+        "J 14,27",
+        "Flp 4,8-9",
+        "Iz 41,10",
+        "Iz 43,2",
+        "Ps 23,4",
+        "Joz 1,9"
+      ]
+    },
+    {
+      "id": "samotnosc-smutek-depresja",
+      "title": "Nadzieja w smutku i samotności",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 32,
+      "summary": "Dla dni, gdy jest ciężko, pusto albo ciemno. Pismo nie wstydzi się smutku ani samotności - pokazuje Boga, który jest blisko złamanych na duchu, oraz ludzi wiary, którzy przechodzili przez dołek. O nadziei, wspólnocie i o tym, że szukanie pomocy nie jest brakiem wiary.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "samotność",
+        "smutek",
+        "depresja",
+        "nadzieja",
+        "wsparcie",
+        "wspólnota"
+      ],
+      "refs": [
+        "Ps 42,4-6",
+        "Ps 42,11",
+        "Ps 88,2-4",
+        "Koh 3,4",
+        "Ps 34,19",
+        "Ps 147,3",
+        "Mt 5,4",
+        "Iz 53,3-4",
+        "Ps 56,9",
+        "1 Krl 19,3-5",
+        "1 Krl 19,5-8",
+        "1 Krl 19,9-13",
+        "1 Krl 19,15-18",
+        "Mt 11,28-30",
+        "Ga 6,2",
+        "Koh 4,9-10",
+        "Rz 12,15",
+        "Ps 40,2-4"
+      ]
+    },
+    {
+      "id": "wdziecznosc-radosc-sens",
+      "title": "Radość niezależna od okoliczności",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 33,
+      "summary": "O radości, która nie zależy od okoliczności, o dziękczynieniu „w każdym położeniu\" i o tym, gdzie szukać sensu życia. Wdzięczność i radość w Panu nie są naiwnym optymizmem - to postawy, które realnie zmieniają serce i nadają kierunek codzienności.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "wdzięczność",
+        "radość",
+        "sens",
+        "dziękczynienie",
+        "cel życia",
+        "Bóg"
+      ],
+      "refs": [
+        "Flp 4,4",
+        "Ne 8,10",
+        "Ps 16,11",
+        "Ga 5,22",
+        "1 Tes 5,16-18",
+        "Ps 103,1-2",
+        "Ps 103,3-5",
+        "Ps 100,4-5",
+        "Łk 17,15-18",
+        "Flp 4,8",
+        "Kol 3,15-17",
+        "Ps 107,1-2",
+        "Mt 6,33",
+        "Koh 12,13",
+        "J 10,10",
+        "Ef 2,10",
+        "1 Kor 10,31"
+      ]
+    },
+    {
+      "id": "wolnosc",
+      "title": "Wolność w codziennych wyborach",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 34,
+      "summary": "Czym jest prawdziwa wolność - nie „róbta, co chceta\", lecz uwolnienie od tego, co zniewala: nałogów, władzy pieniądza, presji i przymusu grzechu. Jak Chrystus wyzwala, jak panować nad sobą jako owoc Ducha i jak czynić codzienne wybory (pieniądze, praca) jako wolny człowiek.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "wolność",
+        "nałogi",
+        "pieniądze",
+        "praca",
+        "samokontrola",
+        "owoc Ducha"
+      ],
+      "refs": [
+        "J 8,34",
+        "J 8,32",
+        "J 8,36",
+        "Ga 5,1",
+        "Rz 6,11-12",
+        "Rz 6,13-14",
+        "1 Kor 10,13",
+        "1 Kor 6,12",
+        "Jk 1,14-15",
+        "Mt 6,24",
+        "1 Tm 6,9-10",
+        "1 Tm 6,6-8",
+        "Hbr 13,5",
+        "Łk 12,15",
+        "Kol 3,23-24",
+        "Ga 5,22-23",
+        "Ga 5,16",
+        "1 Kor 10,31",
+        "Prz 25,28"
+      ]
+    },
+    {
+      "id": "jak-rozpoznawac-boza-wole",
+      "title": "Jak rozpoznać Bożą wolę?",
+      "category": "topic",
+      "seriesId": "zycie-i-emocje",
+      "order": 35,
+      "summary": "Jak podejmować decyzje i rozpoznawać prowadzenie Boga - bez magii „znaków\" i bez paraliżu lęku. O zaufaniu, odnowionym umyśle, roli Słowa, modlitwy, okoliczności i wspólnoty oraz o tym, że gotowość posłuszeństwa otwiera poznanie woli Bożej.",
+      "minutes": {
+        "base": 40,
+        "extended": 60
+      },
+      "tags": [
+        "wola Boża",
+        "prowadzenie",
+        "decyzje",
+        "zaufanie",
+        "mądrość",
+        "rozeznanie"
+      ],
+      "refs": [
+        "Prz 3,5-6",
+        "Ps 32,8",
+        "Ps 37,5",
+        "Jr 29,11-13",
+        "Rz 12,2",
+        "Rz 12,1",
+        "Hbr 5,14",
+        "Ef 5,17",
+        "J 7,17",
+        "Łk 22,42",
+        "Ps 25,9",
+        "Jk 1,5",
+        "Ps 119,105",
+        "Flp 4,6-7",
+        "Prz 15,22",
+        "Prz 16,9",
+        "Iz 30,21",
+        "Ps 143,8.10"
+      ]
+    }
+  ]
+}

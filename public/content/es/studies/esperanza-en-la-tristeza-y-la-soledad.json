@@ -1,0 +1,514 @@
+{
+  "id": "esperanza-en-la-tristeza-y-la-soledad",
+  "lang": "es",
+  "title": "Esperanza en la tristeza y la soledad",
+  "category": "topic",
+  "seriesId": "zycie-i-emocje",
+  "order": 32,
+  "summary": "Para los días en que todo pesa, se siente vacío u oscuro. La Escritura no se avergüenza de la tristeza ni de la soledad: muestra a un Dios que está cerca de los quebrantados de espíritu, y a personas de fe que pasaron por momentos muy bajos. Habla de la esperanza, de la comunidad y de que buscar ayuda no es falta de fe.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "soledad",
+    "tristeza",
+    "depresión",
+    "esperanza",
+    "apoyo",
+    "comunidad"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Tengo permiso para no sentirme bien",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Ps.42.4-6",
+              "ref": "Sal 42:4-6"
+            }
+          ],
+          "comment": "\"¿Por qué te abates, alma mía...?\" El salmista habla con su propia tristeza con franqueza, sin fingir. La fe no prohíbe reconocer: \"estoy mal\".",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "¿Qué te resulta más fácil reconocer ante Dios: que estás bien o que estás mal? ¿Qué te frena a la hora de ser sincero?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Ps.42.11",
+              "ref": "Sal 42:11"
+            }
+          ],
+          "comment": "El mismo salmo vuelve como un estribillo: \"espera en Dios\". La tristeza y la esperanza no se excluyen: se puede llorar y, al mismo tiempo, \"recordarle al alma\" a quién le pertenece la última palabra.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "¿Qué significaría para ti \"hablarle a tu propia alma\", recordarte la verdad sobre Dios cuando los sentimientos dicen otra cosa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Ps.88.2-4",
+              "ref": "Sal 88:2-4"
+            }
+          ],
+          "comment": "El Salmo 88 es el salmo más oscuro de la Biblia: termina con la palabra \"oscuridad\". Y, sin embargo, es una oración. Dios colocó en la Escritura la voz de alguien a quien no se le pasó el dolor, para que nadie se sienta solo.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "¿Qué te dice sobre Dios el hecho de que diera lugar en la Biblia a una oración que no termina con un \"final feliz\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Eccl.3.4",
+              "ref": "Ec 3:4"
+            }
+          ],
+          "comment": "\"Tiempo de llorar y tiempo de reír, tiempo de lamento y tiempo de danza.\" La tristeza tiene su tiempo y su lugar: no es una avería que haya que \"reparar\" de inmediato.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "¿Te das derecho a un \"tiempo de llorar\", o más bien te presionas para \"ya recomponerte\"? ¿De dónde viene esa presión?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "worship",
+          "label": "el lamento como forma legítima de oración (Sal 42; 88)",
+          "content": "Buena parte del Salterio son lamentos: oraciones de queja. La mayoría pasa del dolor a la confianza, pero el Sal 88 termina de forma deliberada en la oscuridad, sin resolución. La presencia de tales textos en la Escritura inspirada muestra que Dios permite, e incluso invita, a una oración sincera \"desde el fondo\", sin necesidad de fingir una paz que no se siente. El lamento no es falta de fe: es la fe que habla con Dios incluso cuando no entiende y no siente alivio.",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "¿Qué cambiaría en tu oración si te permitieras orar con un \"lamento\", decirle a Dios sin rodeos que estás mal, sin forzar un final optimista?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "el \"tiempo de llorar\" y el ritmo de la vida (Koh 3,4)",
+          "content": "La palabra hebrea para \"llanto/lamento\" (*bekha*) describe un lamento sonoro e incontenible, y no solo una emoción callada. Koh 3 presenta el llanto y la risa, el luto y la danza como \"tiempos\" de igual derecho, inscritos en el ritmo de la vida humana bajo el cielo de Dios. Aquí la tristeza no es una alteración del orden, sino parte de él, lo que quita la presión de \"saltar\" de inmediato a la alegría.",
+          "questions": [
+            {
+              "id": "q22",
+              "text": "¿Eres capaz de reconocer el \"tiempo\" actual de tu vida sin juzgarlo, de aceptar que también el luto tiene en él su lugar?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Dios está cerca de los quebrantados de espíritu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Ps.34.19",
+              "ref": "Sal 34:19"
+            }
+          ],
+          "comment": "\"Cercano está el Señor a los quebrantados de corazón, y salva a los abatidos de espíritu.\" Dios no espera a que nos recompongamos: está más cerca justo cuando estamos hechos pedazos.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "El temor dice que en la tristeza Dios está lejos. ¿Qué cambia la promesa de que entonces está más cerca?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "\"quebrantados de espíritu\" / נִשְׁבְּרֵי־לֵב (niszbere-lew) (Ps 34,19)",
+          "content": "La expresión hebrea de Sal 34,19 une el \"quebranto\" (raíz *szabar*: romper, triturar) con el \"corazón\" (*lew*) y el \"espíritu\" (*ruach*). No describe una fe débil ni una culpa, sino una herida interior real y profunda. El salmo no exige \"recomponerse\" antes de venir a Dios; al contrario, es justamente a los quebrantados a quienes Dios \"se acerca\". Es una corrección importante frente a la sensación de que la tristeza aleja de Dios.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "נִשְׁבְּרֵי־לֵב",
+              "translit": "niszbere-lew"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q19",
+              "text": "¿Cómo cambia tu actitud ante los días difíciles la verdad de que Dios se acerca a los quebrantados, en lugar de esperar a que \"se reparen\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Ps.147.3",
+              "ref": "Sal 147:3"
+            }
+          ],
+          "comment": "\"Sana a los quebrantados de espíritu y venda sus heridas.\" La imagen del médico y del vendaje: Dios no ignora el dolor ni le da asco, sino que se inclina sobre él.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Si Dios fuera a \"vendar\" una herida tuya, ¿cuál le mostrarías hoy?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Matt.5.4",
+              "ref": "Mt 5:4"
+            }
+          ],
+          "comment": "\"Bienaventurados los que lloran, porque ellos serán consolados.\" Jesús no dice \"bienaventurados los alegres\": entre los bienaventurados coloca a los que están de duelo, con la promesa del consuelo.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "¿Qué significa que Jesús llame \"bienaventurados\" justamente a los tristes? ¿Cómo cambia eso tu mirada sobre tu tristeza?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Isa.53.3-4",
+              "ref": "Is 53:3-4"
+            }
+          ],
+          "comment": "El Mesías es \"varón de dolores, experimentado en el sufrimiento\", que \"cargó con nuestras dolencias\". Jesús no mira el sufrimiento desde la distancia: lo conoce por dentro.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "¿Qué te aporta saber que Aquel a quien le oras conoció en carne propia el rechazo y el dolor, y no solo oyó hablar de ellos?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "\"varón de dolores\" - el Mesías que conoce el dolor por dentro (Iz 53,3)",
+          "content": "Iz 53,3 llama al Siervo \"varón de dolores\" y \"experimentado en el sufrimiento\"; las palabras usadas aquí (*makobot* - dolores, *choli* - enfermedad, debilidad) abarcan tanto el sufrimiento físico como el dolor del alma. Los Evangelios muestran a Jesús llorando ante la tumba de un amigo (J 11,35) y viviendo la angustia en Getsemaní. La visión holística del ser humano subraya que Dios, en Cristo, entró en la plenitud de la condición humana, también en sus emociones oscuras, así que no le oras a alguien que no entiende el dolor.",
+          "questions": [
+            {
+              "id": "q23",
+              "text": "¿Qué cambia en tu imagen de Dios el hecho de que el propio Jesús vivió la tristeza y la angustia, y no solo enseñó sobre ellas?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Ps.56.9",
+              "ref": "Sal 56:9"
+            }
+          ],
+          "comment": "\"Cuenta mis andanzas errantes, recoge mis lágrimas en tu odre, ¿no están en tu libro?\" Ninguna de tus lágrimas pasa inadvertida ni se desperdicia.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "¿Qué sientes al oír que Dios \"recoge tus lágrimas\" y las cuenta, que no escapan a su atención?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Elías en lo más bajo: cómo trata Dios al agotado",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "1Kgs.19.3-5",
+              "ref": "1 R 19:3-5"
+            }
+          ],
+          "comment": "Un gran profeta, tras una gran victoria, se derrumba, huye y pide la muerte: \"basta ya, toma mi vida\". Hasta las personas de fe profunda llegan al fondo del agotamiento y la desesperación.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "¿Qué te dice que la Biblia muestre a un \"héroe de la fe\" como Elías en un estado en el que solo quiere morir?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "1Kgs.19.5-8",
+              "ref": "1 R 19:5-8"
+            }
+          ],
+          "comment": "La primera respuesta de Dios no es un sermón ni un reproche: es sueño, comida y el toque de un ángel: \"levántate y come\". Dios atendió primero el cuerpo y el descanso.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "¿Qué dice sobre Dios que a la desesperación de Elías respondiera primero con sueño y comida? ¿Qué \"básico\" quizá también a ti te falta?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "1Kgs.19.9-13",
+              "ref": "1 R 19:9-13"
+            }
+          ],
+          "comment": "Solo después Dios habla, y llega no en el viento ni en el fuego, sino en una \"voz suave y apacible\". El encuentro con Dios en la crisis suele ser silencioso, no espectacular.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "¿Dónde buscas a Dios en los días difíciles: en señales \"espectaculares\" o en una voz callada y corriente? ¿Qué podrías estar pasando por alto?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "1Kgs.19.15-18",
+              "ref": "1 R 19:15-18"
+            }
+          ],
+          "comment": "Dios le da a Elías tres cosas: una nueva tarea, un compañero (Eliseo) y la verdad de que \"no está solo\": quedan aún siete mil fieles. El remedio para el sentimiento de aislamiento es, entre otras cosas, la verdad y la comunidad.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Elías estaba seguro de que \"había quedado solo\". ¿Dónde puede estar mintiéndote el sentimiento de soledad sobre cuántas personas hay de verdad contigo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "Elías (1 R 19) y el \"protocolo\" de Dios ante el agotamiento",
+          "content": "El derrumbe de Elías aparece justo tras la victoria culminante en el Carmelo (1 R 18): un momento típico de crisis después de un esfuerzo y una tensión enormes. Llama la atención el orden de la reacción de Dios: primero el descanso y el alimento (las necesidades del cuerpo), luego un encuentro suave y una conversación (las necesidades del espíritu), y por fin una nueva tarea, un compañero y la verdad sobre la comunidad (sentido, relación, pertenencia). Es la imagen bíblica de un cuidado integral del ser humano -cuerpo, psique, espíritu y relaciones- coherente con la visión holística de la naturaleza humana.",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Mirando el orden en Elías (cuerpo → voz suave → sentido y comunidad), ¿cuál de estas dimensiones tienes más descuidada?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "\"voz suave y apacible\" - Dios no le grita al agotado (1 R 19,12)",
+          "content": "La expresión hebrea de 1 R 19,12 (*kol demama daka*) se traduce a veces como \"voz de silencio sutil\" o \"susurro suave y apacible\". Dios omite el viento, el terremoto y el fuego -señales de poder- y se le revela a Elías en el silencio. Para alguien agotado es una imagen importante: en la crisis, Dios suele bajar la voz antes que alzarla, y a menudo está presente en lo discreto, no en un giro espectacular.",
+          "questions": [
+            {
+              "id": "q24",
+              "text": "¿Buscas a Dios sobre todo en experiencias \"fuertes\"? ¿Cómo podrías aprender a reconocer su presencia en el silencio de un día corriente?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Invitación, comunidad y apoyo concreto",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Matt.11.28-30",
+              "ref": "Mt 11:28-30"
+            }
+          ],
+          "comment": "\"Venid a mí todos los que estáis fatigados y cargados, y yo os daré descanso.\" La invitación más sencilla de Jesús se dirige justamente a los agotados.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "¿Qué significaría venir a Jesús exactamente como estás hoy, sin \"recomponerte\" primero?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Gal.6.2",
+              "ref": "Gá 6:2"
+            }
+          ],
+          "comment": "\"Llevad los unos las cargas de los otros.\" Dios dispuso que parte de las cargas no las llevemos solos: la comunidad es uno de los modos de Dios para prestar ayuda.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "¿La carga de quién podrías ayudar hoy a llevar, y a quién podrías permitirle que te ayude a llevar la tuya? ¿Qué te frena a la hora de pedir ayuda?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"cargas\" - pesos imposibles de levantar a solas (Ga 6,2)",
+          "content": "En Ga 6,2, \"carga\" (gr. *baros*) designa un peso que aplasta, demasiado grande para una sola persona: una palabra distinta de \"la propia carga\" (gr. *fortion*) en Ga 6,5, que cada uno lleva solo. Pablo no niega la responsabilidad personal, pero señala que hay cargas que, por su misma naturaleza, no estamos hechos para llevar en soledad. Pedir ayuda no es, entonces, debilidad, sino cumplir la \"ley de Cristo\". Entre los canales de ayuda de Dios cabe también el cuidado de personas competentes, incluidos médicos y especialistas.",
+          "questions": [
+            {
+              "id": "q25",
+              "text": "¿Cuál de tus cargas intentas llevar como un *fortion* (a solas), aunque es más bien un *baros*, algo que debía llevarse entre varios?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Eccl.4.9-10",
+              "ref": "Ec 4:9-10"
+            }
+          ],
+          "comment": "\"Mejor son dos que uno... porque si uno cae, el otro lo levanta. Pero ¡ay del solo cuando cae!\" El aislamiento agrava la caída; la cercanía de otra persona salva.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "¿Quién es tu \"otro\", alguien que te levantaría si cayeras? Si no tienes a esa persona, ¿cómo podrías empezar a buscarla?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Rom.12.15",
+              "ref": "Ro 12:15"
+            }
+          ],
+          "comment": "\"Llorad con los que lloran.\" La ayuda no siempre consiste en consejos ni soluciones: a veces es presencia y llanto compartido. Así también podemos ser apoyo para otros.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "¿Qué necesitas más de la gente en los momentos difíciles: consejos o presencia? ¿Y qué das tú con más frecuencia a los demás?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Ps.40.2-4",
+              "ref": "Sal 40:2-4"
+            }
+          ],
+          "comment": "\"Me sacó del pozo de la perdición, del lodo cenagoso; puso mis pies sobre la roca.\" El testimonio de alguien que estuvo en el fondo y fue sacado: la esperanza de que el pozo no es el lugar definitivo.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Salir del \"lodo\" en este salmo es un proceso, no un salto. ¿Cuál podría ser tu primer pequeño paso \"hacia la roca\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "\"Dios de toda consolación\" - paraklesis (2 Kor 1,3-4)",
+          "content": "Pablo llama a Dios \"Padre de misericordias y Dios de toda consolación\". El griego *paraklesis* (consuelo, aliento) y el verbo *parakaleo* significan literalmente \"llamar a alguien a tu lado\", para que se ponga junto a ti y te sostenga. Con esa misma raíz se describe al Espíritu Santo: el *Parakletos*, el \"Consolador\" (J 14,16). Y es importante: Dios nos consuela \"en toda tribulación\", para que luego podamos consolar a otros; el dolor vivido puede convertirse en una herramienta de ayuda, y no quedar solo como herida.",
+          "questions": [
+            {
+              "id": "q26",
+              "text": "¿Puedes señalar a alguien que te consoló \"porque él mismo pasó por eso\"? ¿Para quién podrías ser tú ese apoyo?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "term",
+          "label": "la esperanza como \"ancla del alma\" (Hbr 6,19)",
+          "content": "Hbr 6,19 llama a la esperanza \"ancla del alma, segura y firme\" (gr. *ankyra*). La esperanza bíblica no es un optimismo de deseos, sino un anclaje en la fidelidad de Dios y en su promesa: algo que sostiene la barca cuando el oleaje de los sentimientos la zarandea. Esa esperanza no promete que la tormenta pase de inmediato, pero sí que no nos arrancará del amarre. Por eso uno puede sentirse fatal y, aun así, no quedar a la deriva.",
+          "questions": [
+            {
+              "id": "q27",
+              "text": "¿Qué es hoy tu \"ancla\" cuando los sentimientos oscilan? ¿En qué se apoya tu esperanza cuando no notas mejoría?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Ser cristiano no significa que siempre será fácil. La Escritura da lugar a la tristeza, a la soledad y al agotamiento, y muestra a un Dios que está más cerca de los quebrantados, que cuenta tus lágrimas y que conoce el dolor en carne propia. Muestra también a Elías, a quien Dios respondió con sueño, comida, una voz suave y comunidad. No tienes que \"recomponerte\" para venir a Jesús. Y no tienes que ir solo: la comunidad y, cuando hace falta, la ayuda de un especialista no son un fracaso de la fe, sino modos de Dios para levantarte.",
+    "challenge": "Haz esta semana dos cosas. (1) Ora una vez con un \"lamento\" sincero: dile a Dios sin rodeos qué es lo difícil, sin embellecer (modelo: Sal 42 o 88). (2) Da un paso concreto hacia otra persona: escribe o llama a alguien de confianza y dile cómo estás de verdad. Y si la carga es abrumadora o se prolonga, considera pedir cita con un médico o un especialista como un acto de valentía y sabiduría, no de debilidad."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "ES translation of PL study samotnosc-smutek-depresja"
+  }
+}

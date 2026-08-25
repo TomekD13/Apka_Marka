@@ -1,0 +1,488 @@
+{
+  "id": "sera-que-deus-se-importa-comigo",
+  "lang": "pt",
+  "title": "Será que Deus se importa comigo?",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 1,
+  "summary": "O primeiro encontro com um Deus que me conhece pessoalmente, que me criou por amor e cuida do meu dia a dia - um ponto de partida para o relacionamento, e não para a religião.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "Deus",
+    "amor",
+    "criação",
+    "cuidado",
+    "identidade"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Existe Alguém a quem eu importo?",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Ps.139.1-4",
+              "ref": "Sl 139:1-4"
+            }
+          ],
+          "comment": "Antes de perguntarmos \"será que Deus existe?\", o Salmo faz uma pergunta diferente: será que alguém realmente me conhece. Deus conhece cada pensamento e cada palavra antes que eu a pronuncie.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "O que você sente ao ler que Alguém o conhece com tamanha exatidão - inquietação ou alívio? Por quê?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Ps.139.13-16",
+              "ref": "Sl 139:13-16"
+            }
+          ],
+          "comment": "Eu não sou um acaso nem um erro - fui \"tecido\" e registrado no livro de Deus antes de eu ter feito qualquer coisa.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "O que muda no modo como você se vê a ideia de que você existe por um propósito, e não por acaso?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "background",
+          "label": "O Salmo 139 como consolo, não como ameaça",
+          "content": "A onisciência e a onipresença de Deus no Sl 139 não são apresentadas como vigilância, mas como o cuidado Daquele que conhece e não abandona. Essa é a chave de interpretação de todo o salmo: \"Tu me conheces\" significa aqui \"Tu te importas comigo\".",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "O conhecimento que Deus tem de você soa ameaçador ou reconfortante? O que determina isso?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "\"no teu livro os meus dias estavam escritos\" (Sl 139,16)",
+          "content": "A imagem vem do mundo dos rolos antigos e dos livros de corte, onde se registravam destinos e nomes. O salmista diz que Deus \"via\" os seus dias antes que qualquer um deles existisse - é um modo poético de expressar que a minha vida não é uma série de acasos sem autor e sem sentido."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Ps.8.4-6",
+              "ref": "Sl 8:4-6"
+            }
+          ],
+          "comment": "Diante da imensidão do universo, o ser humano parece pequeno - e ainda assim Deus se lembra dele e o coroa de dignidade.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Quando foi a última vez que você se sentiu \"pequeno\" ou insignificante? Como soa a resposta do Salmo a isso?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Um Deus que É amor",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "1John.4.8-10",
+              "ref": "1 Jo 4:8-10"
+            }
+          ],
+          "comment": "A Bíblia não diz apenas que Deus ama - ela diz que Deus *é* amor, e a prova disso é que Ele foi o primeiro a vir até nós.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Qual é a diferença entre a afirmação \"Deus ama\" e \"Deus é amor\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "\"Deus é amor\" (1 Jo 4:8)",
+          "content": "No grego, \"amor\" é *agapē* - um amor sacrificial, que escolhe o bem do outro, independente dos seus méritos. A frase \"Deus é amor\" descreve não só aquilo que Deus faz, mas quem Ele é: o amor é a Sua natureza, não um estado de humor.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ὁ θεὸς ἀγάπη ἐστίν",
+              "translit": "ho theos agapē estin"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Como o entendimento de *agapē* como um amor que escolhe (e não que é retribuído) muda a imagem de Deus?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "John.3.16",
+              "ref": "Jo 3:16"
+            }
+          ],
+          "comment": "O amor de Deus tem um destinatário concreto - o mundo, ou seja, também eu - e um preço concreto: o Filho.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Se você colocasse o seu próprio nome no lugar de \"o mundo\", como soaria este versículo para você?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Rom.5.8",
+              "ref": "Rm 5:8"
+            }
+          ],
+          "comment": "Deus não esperou eu me corrigir. Ele demonstrou o Seu amor *enquanto* eu ainda estava de costas para Ele.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "O que isso significa para alguém que pensa que primeiro precisa \"merecer\" para que Deus o ame?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Jer.31.3",
+              "ref": "Jr 31:3"
+            }
+          ],
+          "comment": "O amor de Deus não é um sentimento passageiro - ele é \"eterno\", persistente, que busca.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "O que significa que alguém o ama com um \"amor eterno\", e não dependente de como você está?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "\"amor eterno\" e \"benignidade\" (Jr 31,3)",
+          "content": "\"Eu te amei com amor eterno\" é, em hebraico, *ahavat olam* - um amor duradouro, sem prazo de validade. A palavra seguinte, traduzida como \"benignidade\" ou \"eu te atraí\", é *chesed* - a bondade fiel e pactual de Deus, que não desiste. Não é sentimentalismo, mas compromisso.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "אַהֲבַת עוֹלָם",
+              "translit": "ahavat olam"
+            },
+            {
+              "lang": "hbo",
+              "text": "חֶסֶד",
+              "translit": "chesed"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Luke.15.20",
+              "ref": "Lc 15:20"
+            }
+          ],
+          "comment": "Na parábola, é o pai quem corre primeiro - a imagem de um Deus que não fica de braços cruzados esperando.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Qual movimento é surpreendente aqui: o retorno do filho ou a corrida do pai? Por quê?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "por que a corrida do pai era um escândalo (Lc 15:20)",
+          "content": "Na cultura do Oriente Médio, um homem idoso e respeitável não corria em público - teria de levantar a túnica e expor as pernas, o que era considerado humilhante. O pai da parábola toma sobre si essa vergonha, apenas para ser o primeiro a alcançar o filho. É uma imagem intencional de um Deus que abre mão da \"dignidade à distância\" para nos resgatar."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Ele cuida do meu dia a dia",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Matt.6.26",
+              "ref": "Mt 6:26"
+            }
+          ],
+          "comment": "Se Deus alimenta os pássaros, com muito mais razão Ele se importa com você - você vale mais do que eles.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Com o que você mais se preocupa? Como a consciência do cuidado de Deus muda esse olhar?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Matt.6.31-33",
+              "ref": "Mt 6:31-33"
+            }
+          ],
+          "comment": "Deus não promete uma vida sem necessidades, mas um Pai que \"sabe\", e nos convida a buscar primeiro a Ele.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Na prática, o que significaria \"buscar primeiro o Reino\" na sua semana?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "\"não andeis ansiosos\" não é um chamado à passividade (Mt 6)",
+          "content": "No Sermão do Monte, \"não vos preocupeis\" não significa \"não façais planos\", mas \"não vos deixeis dilacerar pela ansiedade\". \"Buscai primeiro o Reino\" fala de prioridade, não de ordem no tempo: trata-se do que está em primeiro lugar, e não de abandonar o trabalho e as responsabilidades."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "1Pet.5.7",
+              "ref": "1 Pe 5:7"
+            }
+          ],
+          "comment": "A ansiedade pode ser \"lançada\" sobre Deus - porque Ele realmente se importa com você.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Qual ansiedade você gostaria de \"lançar\" hoje sobre Deus?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "\"lançai sobre Ele toda a vossa ansiedade\" (1 Pe 5:7)",
+          "content": "\"Ansiedade\" é, no grego, *merimna* - um pensamento que dilacera, uma inquietação que dispersa. O verbo traduzido como \"lançar\" é *epiriptō*, literalmente \"arremessar\" (como um fardo que se joga das próprias costas sobre alguém mais forte). A imagem é física: não \"lide com o medo\", mas \"arremesse-o sobre Aquele que se importa com você\".",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μέριμνα",
+              "translit": "merimna"
+            },
+            {
+              "lang": "grc",
+              "text": "ἐπιρίπτω",
+              "translit": "epiriptō"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Luke.12.6-7",
+              "ref": "Lc 12:6-7"
+            }
+          ],
+          "comment": "Os cabelos contados são a imagem de uma atenção até ao menor detalhe da sua vida.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "É mais fácil para você crer num Deus \"das grandes coisas\" ou num Deus atento aos pequenos detalhes?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Criados para o relacionamento",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Gen.1.27",
+              "ref": "Gn 1:27"
+            }
+          ],
+          "comment": "O ser humano foi criado \"à imagem de Deus\" - daí o seu valor singular e a sua capacidade de relacionamento.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Se eu carrego a \"imagem de Deus\", o que isso diz sobre o valor de cada pessoa, inclusive o meu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "\"imagem de Deus\" (Gn 1:27)",
+          "content": "A palavra hebraica *celem* (\"imagem\") também era usada para a estátua que representava um soberano numa província distante. O ser humano é a \"estátua\" de Deus na criação: ele O representa e é chamado a um relacionamento com Ele. Esse é o fundamento da dignidade humana - independente de conquistas, capacidades ou da opinião dos outros.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "צֶלֶם",
+              "translit": "celem"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Isa.43.1",
+              "ref": "Is 43:1"
+            }
+          ],
+          "comment": "Deus chama pelo nome e diz \"tu és meu\" - essa é a linguagem do relacionamento, não de uma religião anônima.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "O que significaria ouvir de Deus o seu próprio nome e as palavras \"tu és meu\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "term",
+          "label": "quatro verbos de proximidade (Is 43:1)",
+          "content": "Num só versículo Deus diz: \"criei\" (*bara*), \"formei\" (*jacar*), \"remi\" (*ga'al*) e \"chamei pelo nome\". *Ga'al* é um termo do direito de família: o \"resgatador\" (go'el) é o parente próximo que pagava a dívida e salvava o seu. Aqui Deus não é um Criador distante, mas um Parente que assume a responsabilidade pelos seus.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "גָּאַל",
+              "translit": "ga'al"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Acts.17.24-28",
+              "ref": "At 17:24-28"
+            }
+          ],
+          "comment": "O Deus Criador não é distante - \"nele vivemos, nos movemos e existimos\", e Ele quer ser encontrado.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "O que neste texto mostra que Deus está perto, mesmo que não O vejamos?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "Paulo cita um poeta pagão (At 17:28)",
+          "content": "No Areópago de Atenas, Paulo, ao falar a não cristãos, recorre à cultura deles próprios: \"somos também sua geração\" é uma citação do poeta grego Arato. Em vez de começar pela condenação, ele constrói uma ponte: o Criador está tão perto que até poetas pagãos pressentiram algo disso. É um modelo de como falar de Deus numa linguagem compreensível para quem ouve.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "τοῦ γὰρ καὶ γένος ἐσμέν",
+              "translit": "tou gar kai genos esmen"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "1John.3.1",
+              "ref": "1 Jo 3:1"
+            }
+          ],
+          "comment": "O objetivo desse amor não é a admiração à distância, mas o fato de Ele nos chamar de filhos de Deus.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "O que muda no relacionamento com Deus a passagem de \"Criador\" para \"Pai\"?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Deus não é um juiz distante nem uma força impessoal. Ele conhece você pelo nome, criou você com propósito e por amor, e cuida do seu dia a dia. A fé não começa com o esforço de merecer - começa com aceitar que você é querido e amado.",
+    "challenge": "Durante a próxima semana, anote a cada dia uma coisa em que você percebe o cuidado de Deus por você. Uma vez nesta semana, \"lance\" sobre Deus uma ansiedade concreta (1 Pe 5:7) - diga-a a Ele diretamente."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "PT translation of PL study czy-ktos-sie-o-mnie-troszczy"
+  }
+}

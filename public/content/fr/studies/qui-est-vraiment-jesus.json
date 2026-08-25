@@ -1,0 +1,497 @@
+{
+  "id": "qui-est-vraiment-jesus",
+  "lang": "fr",
+  "title": "Qui est vraiment Jésus ?",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 2,
+  "summary": "Qui est vraiment Jésus de Nazareth : un personnage historique et en même temps le Dieu éternel, le Créateur, qui s'est fait homme pour me sauver et révéler le Père - et qui veut être pour moi personnellement.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "Jésus",
+    "divinité",
+    "incarnation",
+    "Créateur",
+    "Je Suis",
+    "révélation du Père"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Un homme qu'on ne peut ignorer",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Matt.16.13-16",
+              "ref": "Mt 16:13-16"
+            }
+          ],
+          "comment": "Jésus lui-même pose la question la plus importante : non pas « que dit-on de moi », mais « qui dites-vous que je suis ». Tout le reste dépend de la réponse.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Si Jésus te posait cette question aujourd'hui, que répondrais-tu sincèrement - et pourquoi ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "« Messie » et « Christ » signifient la même chose (Mt 16:16)",
+          "content": "La confession de Pierre « Tu es le Messie » emploie un mot qui se dit *masziach* en hébreu et *christos* en grec - tous deux signifient « l'Oint ». En Israël, on oignait d'huile les rois, les prêtres et les prophètes ; le titre annonçait Celui qui réunirait ces trois fonctions. « Christ » n'est donc pas le nom de famille de Jésus, mais un titre : « l'Oint, le Libérateur promis ».",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χριστός",
+              "translit": "christos"
+            },
+            {
+              "lang": "hbo",
+              "text": "מָשִׁיחַ",
+              "translit": "masziach"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Luke.2.4-7",
+              "ref": "Lc 2:4-7"
+            }
+          ],
+          "comment": "Jésus est un personnage historique - né en un lieu et un temps précis, inscrit dans le recensement d'un empire bien réel. Ce n'est pas un mythe.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Qu'est-ce que change, dans ta perception de Jésus, le fait qu'il ne soit pas une légende, mais une personne de l'histoire ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "Jésus ancré dans l'histoire (Lc 2)",
+          "content": "Luc ancre volontairement la naissance de Jésus dans les réalités de l'Empire romain : recensement, voyage vers Bethléem, lieux précis. Les Évangiles ne commencent pas par « il était une fois », mais par des dates, des souverains et de la géographie. C'est ce qui distingue la foi chrétienne du mythe : elle repose sur des événements situés dans le temps et l'espace, vérifiables quant à leur contexte."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Mark.6.2-3",
+              "ref": "Mc 6:2-3"
+            }
+          ],
+          "comment": "Ses voisins connaissaient sa famille et son métier. Et pourtant ses paroles et ses actes faisaient éclater le cadre du « fils du charpentier » - les gens ne savaient que penser de lui.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Pourquoi ceux qui connaissaient Jésus « sous son aspect ordinaire » ont-ils eu le plus de mal à reconnaître qui il était ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "L'Éternel : « Je Suis »",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "John.8.58",
+              "ref": "Jn 8:58"
+            }
+          ],
+          "comment": "Jésus ne dit pas « j'étais, avant qu'Abraham fût », mais « JE SUIS ». Il reprend délibérément le nom de Dieu d'Ex 3:14 - c'est pourquoi ses auditeurs veulent le lapider pour blasphème.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Pourquoi le mot « Je suis » a-t-il provoqué une réaction aussi violente ? Qu'a dit Jésus de lui-même par ces paroles ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "« Je Suis » (Jn 8:58)",
+          "content": "En Jn 8:58, Jésus emploie l'expression *egō eimi* (« Je suis ») là où la grammaire appellerait un temps passé. C'est une allusion délibérée au nom de Dieu d'Ex 3:14 (« JE SUIS celui qui SUIS »), dans la formulation grecque de la Septante. La réaction des auditeurs (la tentative de lapidation, v. 59) confirme qu'ils l'ont compris comme une prétention à l'égalité avec Dieu - non comme une simple déclaration sur son âge.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐγώ εἰμι",
+              "translit": "egō eimi"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Pourquoi ces deux mots étaient-ils, pour les premiers auditeurs, soit un blasphème, soit une révélation - sans troisième possibilité ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "John.1.1-3",
+              "ref": "Jn 1:1-3"
+            }
+          ],
+          "comment": "« Au commencement était la Parole... et la Parole était Dieu. » Avant que rien n'existe, Jésus était déjà - et c'est lui qui créait.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Qu'est-ce que cela signifie que Celui que nous rencontrons dans les Évangiles existait « au commencement », avant toutes choses ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "« la Parole » (Logos), un pont entre deux mondes (Jn 1:1)",
+          "content": "Le terme « Parole » (grec *logos*) portait du sens pour les deux cultures : pour les Juifs, c'est la Parole par laquelle Dieu crée (Gn 1 ; Ps 33:6) ; pour les Grecs, le principe rationnel qui ordonne le monde. Jean réunit les deux pistes et dit une chose nouvelle : ce Logos est une Personne, il est Dieu et il s'est fait homme. C'est un modèle pour parler du Christ dans un langage compréhensible par divers auditeurs.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "λόγος",
+              "translit": "logos"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "John.1.14",
+              "ref": "Jn 1:14"
+            }
+          ],
+          "comment": "La Parole « s'est faite chair ». Le Dieu éternel n'est pas resté lointain - il a habité parmi nous comme un homme qu'on pouvait toucher.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Qu'est-ce que cela dit de Dieu, qu'il ait voulu devenir l'un de nous, au lieu de demeurer dans une majesté inaccessible ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "« il a habité » signifie « il a planté sa tente » (Jn 1:14)",
+          "content": "Le verbe grec rendu par « il a habité parmi nous » (*eskēnōsen*) signifie littéralement « il a planté sa tente ». C'est un écho clair de la tente de la rencontre de l'Ancien Testament, sur laquelle reposait la gloire de Dieu (la shekina). Jean dit donc : la gloire qui remplissait autrefois le sanctuaire a maintenant « planté sa tente » dans le corps humain de Jésus - Dieu a habité parmi nous non dans un édifice, mais dans une Personne."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "« unique-engendré » (Jn 1:14 ; 3:16)",
+          "content": "Le grec *monogenēs* signifie « unique en son genre, le seul de sa sorte », et non « créé en premier ». Jésus n'est pas « un des enfants de Dieu » au même sens que les croyants : nous, nous devenons enfants de Dieu par adoption (Jn 1:12), lui est Fils par sa nature même. Cette distinction protège de l'idée que Jésus serait simplement un homme remarquable ou un ange supérieur.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μονογενής",
+              "translit": "monogenēs"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Col.1.16-17",
+              "ref": "Col 1:16-17"
+            }
+          ],
+          "comment": "Tout a été créé « par lui et pour lui », et il « est avant toutes choses » et tout subsiste en lui. C'est la description du Créateur, non d'une créature.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Comment la relation avec Jésus change-t-elle quand tu vois en lui Celui « en qui tout a son existence » ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Heb.1.3",
+              "ref": "Hé 1:3"
+            }
+          ],
+          "comment": "Le Fils est « le reflet de la gloire et l'empreinte de l'être » de Dieu, et il soutient l'univers par la parole de sa puissance - il n'est ni un être inférieur ni un ange créé.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Qu'est-ce que cela signifie qu'en regardant Jésus, nous regardons « l'empreinte de l'être » de Dieu lui-même ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "« l'empreinte de l'être » comme un cachet (Hé 1:3)",
+          "content": "« L'empreinte de l'être » se dit en grec *charaktēr tēs hypostaseōs*. Le mot *charaktēr* désignait le sceau et son empreinte exacte - par exemple l'effigie sur une pièce de monnaie. L'image dit que le Fils est l'« empreinte » précise de Dieu lui-même : qui voit Jésus voit l'image fidèle de la nature du Père, non une approximation ni une copie de moindre qualité.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χαρακτήρ",
+              "translit": "charaktēr"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "worship",
+          "label": "tableau comparatif « le YHWH de l'AT = Jésus du NT »",
+          "content": "Le Nouveau Testament applique à plusieurs reprises à Jésus ce que l'Ancien Testament dit de YHWH - c'est l'un des arguments les plus forts en faveur de sa pleine divinité. Paires à comparer par soi-même : - **Berger :** Ps 23:1 (YHWH berger) face à Jn 10:11 (Jésus « le bon berger ») - **Le Premier et le Dernier :** Is 44:6 face à Ap 1:17 - **JE SUIS / le nom de Dieu :** Ex 3:14 face à Jn 8:58 - **Devant lui tout genou fléchira :** Is 45:23 face à Ph 2:10 - **Invoquer le nom du Seigneur pour le salut :** Jl 2:32 face à Rm 10:13 - **Transpercé, vers qui ils regarderont :** Za 12:10 face à Jn 19:37",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Laquelle de ces paires te parle le plus fort - et pourquoi est-il important que le NT « transfère » à Jésus le nom et la gloire de YHWH ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Le Dieu qui reçoit l'adoration et révèle le Père",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "John.14.9",
+              "ref": "Jn 14:9"
+            }
+          ],
+          "comment": "« Celui qui m'a vu a vu le Père. » Si tu veux savoir comment est Dieu, regarde Jésus - il est le visage du Père.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Quelle image de Dieu se dégage quand tu admets que Dieu est exactement tel que Jésus dans les Évangiles ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "John.20.28-29",
+              "ref": "Jn 20:28-29"
+            }
+          ],
+          "comment": "Thomas dit à Jésus : « Mon Seigneur et mon Dieu » - et Jésus ne le corrige pas, il accueille et bénit cette foi.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Si Jésus n'était pas Dieu, comment aurait-il dû réagir à ces paroles ? Que signifie le fait qu'il ne les ait pas rejetées ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "worship",
+          "label": "Jésus reçoit l'adoration due à Dieu seul",
+          "content": "Le verbe « se prosterner, adorer » (grec *proskyneō*) ne revient dans la Bible qu'à Dieu seul. C'est pourquoi les anges (Ap 22:8-9) et les apôtres (Ac 10:25-26) refusent fermement de la recevoir. Jésus, lui, reçoit l'adoration (Mt 14:33 ; 28:9.17 ; Jn 9:38). Dans le monothéisme rigoureux de la Bible, cette unique exception est un témoignage discret mais puissant que Jésus est Dieu.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "προσκυνέω",
+              "translit": "proskyneō"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Que conclure du fait que la seule exception à la règle « l'adoration à Dieu seul » soit, dans les Évangiles, Jésus ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Matt.28.9",
+              "ref": "Mt 28:9"
+            }
+          ],
+          "comment": "Jésus reçoit l'adoration (la prosternation due à Dieu seul) - contrairement aux anges et aux apôtres, qui la refusaient fermement (cf. Ap 22:8-9 ; Ac 10:25-26).",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Pourquoi est-il important que Jésus ait laissé qu'on l'adore, alors que ses disciples et les anges ne le permettaient pas ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Rev.1.17-18",
+              "ref": "Ap 1:17-18"
+            }
+          ],
+          "comment": "Le Ressuscité dit de lui-même « le Premier et le Dernier » - un titre par lequel, dans l'AT, le Dieu YHWH se désignait lui-même (Is 44:6). Et il ajoute : « j'étais mort, et voici, je suis vivant ».",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Que t'apporte la conscience que Celui qui s'appelle « le Premier et le Dernier » est aussi passé par la mort - ton propre chemin ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Phil.2.6-8",
+              "ref": "Ph 2:6-8"
+            }
+          ],
+          "comment": "Étant « en forme de Dieu », Jésus « s'est dépouillé lui-même », prenant la forme d'un serviteur jusqu'à la mort sur la croix. La divinité et l'humilité se rencontrent en une seule Personne.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Qu'est-ce que cela dit du caractère de Dieu, que sa grandeur se révèle dans l'abaissement, et non dans la domination ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "term",
+          "label": "« il s'est dépouillé lui-même » (Ph 2:7)",
+          "content": "L'expression « il s'est dépouillé lui-même » se dit en grec *ekenōsen* (d'où le terme théologique de *kénose*). Cela ne signifie pas que Jésus a cessé d'être Dieu - mais qu'il a renoncé à ses privilèges et à sa gloire, en assumant les limites de la nature humaine et le chemin du serviteur jusqu'à la croix. La grandeur de Dieu se révèle ici non dans la domination, mais dans l'abaissement volontaire pour nous.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐκένωσεν",
+              "translit": "ekenōsen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Qui est-il pour moi personnellement ?",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "John.1.12",
+              "ref": "Jn 1:12"
+            }
+          ],
+          "comment": "À ceux qui le reçoivent, Jésus donne le droit de devenir enfants de Dieu. C'est le passage de la connaissance à son sujet à la relation avec lui.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Quelle différence y a-t-il entre « savoir qui est Jésus » et « le recevoir » dans sa propre vie ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "John.10.10",
+              "ref": "Jn 10:10"
+            }
+          ],
+          "comment": "Jésus est venu donner la vie « en abondance ». Il n'est pas un donneur de règles, mais un donneur de vie.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "De quoi as-tu le plus besoin aujourd'hui de la part de Quelqu'un qui promet « la vie en abondance » ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Matt.11.28-29",
+              "ref": "Mt 11:28-29"
+            }
+          ],
+          "comment": "Le Dieu qui a créé l'univers dit à l'homme fatigué : « Venez à moi... et je vous donnerai du repos ». De la proximité, non de la distance.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Que signifierait venir à Jésus précisément avec ce qui te fatigue ou t'accable aujourd'hui ?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Jésus n'est pas seulement un grand maître ni un personnage d'une histoire lointaine. Il est le Dieu éternel - le Créateur, le « Je Suis » - qui, par amour, s'est fait homme pour me retrouver et me montrer comment est vraiment le Père. En regardant Jésus, je regarde le coeur même de Dieu. La question n'est donc pas seulement « qui est-il », mais « qui est-il pour moi ».",
+    "challenge": "Lis cette semaine un Évangile en entier (par exemple Marc - le plus court), avec une question en toile de fond : « Que découvré-je sur la manière dont Dieu est, en regardant Jésus ? ». Note trois traits de Jésus que tu aimerais voir vrais de Dieu - et dis-le-lui directement."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "FR translation of PL study kim-jest-jezus"
+  }
+}

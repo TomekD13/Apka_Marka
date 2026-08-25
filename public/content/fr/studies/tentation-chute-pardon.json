@@ -1,0 +1,534 @@
+{
+  "id": "tentation-chute-pardon",
+  "lang": "fr",
+  "title": "Tentation, chute, pardon",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 10,
+  "summary": "La lutte contre la tentation est une partie normale de la vie de foi, et non une preuve d'échec. Nous apprenons à vaincre par la puissance de Jésus, et après une chute à revenir par la confession et l'accueil du pardon. Dieu ne rejette pas celui qui tombe - nous distinguons entre un faux pas et le fait de demeurer sciemment dans le péché, et nous apprenons à nous pardonner à nous-mêmes comme aux autres.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "péché",
+    "tentation",
+    "pardon",
+    "grâce",
+    "combat spirituel"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Lutter contre la tentation, c'est normal",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "1Cor.10.13",
+              "ref": "1 Co 10:13"
+            }
+          ],
+          "comment": "Aucune tentation qui te survient n'est « surhumaine » - tous la vivent. Dieu promet qu'avec la tentation il donnera aussi le moyen d'en sortir, afin que tu puisses la supporter. La tentation en elle-même n'est pas un péché ; le péché, c'est d'y céder.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Qu'est-ce que change la conscience que la tentation, en elle-même, n'est pas une faute, mais un terrain sur lequel Dieu donne une « issue » ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "l'« issue » de la tentation (1 Kor 10:13)",
+          "content": "Le grec *ekbasis* signifie « issue, voie de sortie » - l'image d'un col ou d'un passage par lequel on peut sortir d'un encerclement. Dieu ne promet pas l'absence de tentations, mais le fait qu'il laisse toujours une voie de sortie, « afin que vous puissiez les supporter ». Il n'existe donc aucune situation où la chute serait la seule issue - il y a toujours une porte que nous cherchons avec lui.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἔκβασις",
+              "translit": "ekbasis"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Comment le fait de comprendre la tentation comme une situation où une « issue » est toujours présente change-t-il ton sentiment d'impuissance ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Heb.4.15",
+              "ref": "Hé 4:15"
+            }
+          ],
+          "comment": "Jésus « a été tenté en tout... comme nous, mais sans péché ». Il comprend la lutte contre la tentation de l'intérieur - il ne la regarde pas à distance.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Comment le fait que Jésus ait lui-même été tenté change-t-il ta perception de savoir s'il te comprend ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Jas.1.14-15",
+              "ref": "Jc 1:14-15"
+            }
+          ],
+          "comment": "La tentation naît de notre propre convoitise ; « quand la convoitise a conçu, elle enfante le péché ». Il y a donc un moment de décision - entre l'apparition de la tentation et le fait d'y céder. C'est une bonne nouvelle : nous ne sommes pas condamnés à tomber.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "À quel moment de la « chaîne » de la tentation est-il encore le plus facile de dire « non » ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "un même mot : « tentation » et « épreuve » (Jk 1)",
+          "content": "Le grec *peirasmos* signifie aussi bien « tentation » (incitation au mal) qu'« épreuve, test » (mise à l'épreuve qui fortifie). Jc 1 utilise les deux nuances : Dieu ne tente personne au mal (v. 13), mais il permet des épreuves qui, supportées, produisent la maturité (v. 2-4.12). Une même situation peut donc devenir soit une chute, soit une croissance - selon celui vers qui je me tourne alors.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "πειρασμός",
+              "translit": "peirasmos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Vaincre par la puissance de Jésus",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "1Cor.15.57",
+              "ref": "1 Co 15:57"
+            }
+          ],
+          "comment": "La victoire sur le péché n'est pas notre exploit - « Dieu nous donne la victoire par notre Seigneur Jésus-Christ ». Nous combattons par sa puissance, et non par notre propre force de volonté.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "En quoi un combat mené « par sa propre volonté forte » diffère-t-il d'un combat mené « par la puissance de Jésus » ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Matt.4.4",
+              "ref": "Mt 4:4, 7, 10"
+            }
+          ],
+          "comment": "Au désert, Jésus a vaincu les tentations par la Parole de Dieu : « Il est écrit... ». Il a montré que l'Écriture est une arme réelle au moment de la tentation.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Quel passage de l'Écriture pourrait être ta « réponse » dans une tentation qui revient souvent ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "« il est écrit » comme arme (Mt 4)",
+          "content": "Repoussant trois fois les tentations, Jésus emploie la formule *gegraptai* - « il est écrit / il se tient écrit ». Le parfait grec souligne un effet durable, toujours en vigueur : la Parole a été écrite et demeure en force. Jésus ne discute pas avec le tentateur à coups d'arguments personnels, mais applique à chaque tentation un texte précis de l'Écriture. D'où la pratique : il est bon d'avoir « sous la main » des versets pour ses tentations habituelles.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "γέγραπται",
+              "translit": "gegraptai"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Pourquoi un verset précis est-il parfois plus efficace dans la tentation qu'une résolution générale du type « je serai plus fort » ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Gal.5.16-17",
+              "ref": "Ga 5:16-17"
+            }
+          ],
+          "comment": "« Marchez selon l'Esprit, et vous n'accomplirez pas les désirs de la chair. » La victoire vient de la soumission à l'Esprit, et non du simple fait de serrer les dents.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Que signifie concrètement « marcher selon l'Esprit » dans une situation où tu cèdes habituellement ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Phil.4.13",
+              "ref": "Ph 4:13"
+            }
+          ],
+          "comment": "« Je peux tout par celui qui me fortifie. » La source de la persévérance est la puissance de Christ, accessible aussi au moment de la faiblesse.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Où as-tu le plus besoin aujourd'hui d'entendre que tu reçois la force de Jésus, et que tu ne la produis pas toi-même ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Jas.4.7",
+              "ref": "Jc 4:7"
+            }
+          ],
+          "comment": "« Soumettez-vous à Dieu, résistez au diable, et il fuira loin de vous. » L'ordre est important : d'abord la soumission à Dieu, et seulement ensuite la résistance au mal.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Pourquoi la seule « résistance au mal », sans soumission préalable à Dieu, s'épuise-t-elle vite ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Après la chute : confession et pardon",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "1John.1.9",
+              "ref": "1 Jn 1:9"
+            }
+          ],
+          "comment": "« Si nous confessons nos péchés, Dieu est fidèle et juste - il nous les pardonne et nous purifie. » Le chemin du retour est simple : une confession sincère, et Dieu lui-même opère le pardon et la purification.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Qu'est-ce qui te retient parfois de « nommer » sincèrement devant Dieu ce que tu as fait ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "« confesser » signifie « donner raison à Dieu » (1 J 1:9)",
+          "content": "Le verbe *homologeo* signifie littéralement « dire la même chose, être d'accord ». Confesser son péché, ce n'est pas se flageller, mais « donner raison à Dieu » - être d'accord avec son évaluation de mon acte. C'est pourquoi cela conduit à la libération, et non à l'abattement : je cesse de me défendre et de me justifier, et je commence à être d'accord avec la vérité que, de toute façon, il connaît.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ὁμολογῶμεν",
+              "translit": "homologomen"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "1John.2.1",
+              "ref": "1 Jn 2:1"
+            }
+          ],
+          "comment": "Jean écrit « afin que vous ne péchiez pas », mais il ajoute : « et si quelqu'un a péché, nous avons un Avocat auprès du Père - Jésus ». Le but est une vie sans péché, mais en cas de chute il y a un Défenseur, et non un accusateur.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Comment ton rapport à la chute change-t-il lorsque tu sais que tu as auprès du Père un Défenseur, et pas seulement un Juge ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "Jésus comme « Défenseur », et Satan comme accusateur (1 J 2:1)",
+          "content": "Jésus est ici appelé *parakletos* - « Intercesseur, Avocat, Défenseur » (le même mot par lequel l'Évangile de Jean désigne l'Esprit). De l'autre côté se tient Satan - l'« accusateur de nos frères » (Ap 12:10). L'image est judiciaire : quand tu tombes, tu n'es pas laissé sans défense au ciel - c'est Christ lui-même, qui est mort pour toi, qui est ton Avocat. C'est pourquoi la voix de la condamnation, après la confession, ne vient pas de Dieu.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "παράκλητος",
+              "translit": "parakletos"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Ps.103.10-12",
+              "ref": "Ps 103:10-12"
+            }
+          ],
+          "comment": "Dieu « ne nous traite pas selon nos péchés » et les éloigne « autant que l'orient est éloigné de l'occident ». Le pardon est réel et complet - non à moitié.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Que signifierait pour toi de croire que Dieu a éloigné ton péché « aussi loin » ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "« comme l'orient de l'occident » (Ps 103:12)",
+          "content": "Le psaume ne dit pas, à dessein, « comme le nord du sud », mais « comme l'orient de l'occident ». Le nord et le sud ont des points limites (les pôles) - ils sont finis. Mais l'orient et l'occident ne se rencontrent jamais : en allant vers l'est, tu n'atteindras jamais l'ouest. C'est une image poétique d'un pardon sans limites et sans retour - Dieu ne met pas le péché « de côté », mais l'écarte à l'infini.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Qu'est-ce que change dans ton sentiment de culpabilité l'image d'un péché éloigné « à l'infini », et non simplement caché ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Isa.1.18",
+              "ref": "És 1:18"
+            }
+          ],
+          "comment": "« Quand vos péchés seraient comme l'écarlate, ils deviendront blancs comme la neige. » Aucun péché n'est « trop sombre » pour que Dieu ne puisse le purifier.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Y a-t-il en toi la pensée « celui-ci justement est trop grave pour que Dieu puisse le pardonner » ? Que lui répond ce verset ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Dieu ne rejette pas ; la chute et le fait de demeurer dans le péché",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Prov.24.16",
+              "ref": "Pr 24:16"
+            }
+          ],
+          "comment": "« Le juste tombe sept fois, et se relève. » Ce qui témoigne d'un homme de foi, ce n'est pas qu'il ne tombe jamais, mais qu'il se relève à chaque fois. La chute n'est pas la fin du chemin.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Qu'est-ce qui distingue pour toi « tomber et se relever » de « conclure que cela ne vaut plus la peine de se relever » ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "John.6.37",
+              "ref": "Jn 6:37"
+            }
+          ],
+          "comment": "Jésus dit : « celui qui vient à moi, je ne le mettrai pas dehors ». Dieu ne rejette pas celui qui revient - jamais.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Qu'est-ce qui changerait si tu croyais vraiment que Jésus ne te rejettera pas, quel que soit le nombre de fois où tu reviens ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "1John.3.6",
+              "ref": "1 Jn 3:6, 9"
+            }
+          ],
+          "comment": "Jean distingue la chute ponctuelle (1 J 2,1) du fait de « demeurer dans le péché » comme mode de vie, en pleine conscience. La différence ne réside pas dans la perfection, mais dans la direction du cœur : est-ce que je reviens à Dieu, ou est-ce que je me détourne sciemment de lui ?",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Comment reconnaître la différence entre un faux pas que tu regrettes et le fait de « résider » confortablement dans le péché ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "syntax",
+          "label": "« ne pèche pas » signifie « ne demeure pas dans le péché » (1 J 3:6.9)",
+          "content": "La contradiction apparente entre 1 J 1:8-10 (« si nous disons que nous n'avons pas de péché, nous nous séduisons nous-mêmes ») et 1 J 3:6.9 (« quiconque demeure en lui ne pèche pas ») disparaît grâce au présent grec à valeur continue, répétée. Jean ne parle pas d'une chute isolée, mais du péché comme manière de vivre constante et pratiquée. Le croyant peut tomber, mais il ne « réside » plus dans le péché comme dans son élément. Cela protège à la fois du désespoir après un faux pas et de la légèreté face au fait de demeurer sciemment dans le mal.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "οὐχ ἁμαρτάνει",
+              "translit": "ouch hamartanei"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Luke.15.17-20",
+              "ref": "Lc 15:17-20"
+            }
+          ],
+          "comment": "Le fils prodigue « rentra en lui-même », se leva et revint - et le père courut à sa rencontre. Le retour commence par une décision, mais il rencontre un amour qui attend déjà.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Quel est ton premier pas pour « te lever et revenir », lorsque tu tombes ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Pardonner à soi-même et aux autres",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Matt.6.14-15",
+              "ref": "Mt 6:14-15"
+            }
+          ],
+          "comment": "Jésus relie l'accueil du pardon de Dieu à la disposition à pardonner aux autres. Celui qui a fait l'expérience d'une dette remise ne peut lui-même retenir les autres en dette.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "À qui t'est-il difficile de pardonner aujourd'hui - et comment la pensée du pardon de Dieu envers toi influence-t-elle cela ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "le péché (singulier) et les péchés (pluriel) ; la grâce vient d'abord",
+          "content": "Dans la perspective biblique, le « péché » au singulier est avant tout la communion rompue avec Dieu - un état de séparation ; les « péchés » au pluriel en sont les manifestations. C'est pourquoi la solution à la chute n'est pas seulement une « amélioration du comportement », mais le rétablissement de la relation. L'obéissance est le fruit du lien rétabli, et non la condition de l'accueil ; l'absence de péché n'est pas la condition du salut - la grâce vient d'abord (Rm 5:8). C'est la perspective du grand conflit : le mal veut faire croire qu'après la chute Dieu t'a rejeté - l'Évangile dit que c'est précisément alors que le Père court à ta rencontre (Lc 15:20).",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Comment la distinction entre « le péché comme lien rompu » et « les péchés comme manifestations » change-t-elle la façon dont tu reviens à Dieu après une chute ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Phil.3.13-14",
+              "ref": "Ph 3:13-14"
+            }
+          ],
+          "comment": "Paul « oublie ce qui est en arrière » et « court vers le but ». Se pardonner à soi-même, c'est ne pas revenir sans cesse à ce que Dieu a déjà remis, mais aller de l'avant.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Qu'est-ce qui, dans ton passé, t'est le plus difficile à « laisser derrière toi », bien que Dieu l'ait déjà pardonné ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "Rom.8.1",
+              "ref": "Rm 8:1"
+            }
+          ],
+          "comment": "« Il n'y a maintenant aucune condamnation pour ceux qui sont en Jésus-Christ. » Après le pardon, il ne reste pas de sentence - il reste la liberté. Le sentiment de condamnation, après la confession, ne vient pas de Dieu.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "D'où vient, selon toi, ce sentiment de culpabilité tenace même après une confession sincère - et que lui répond ce verset ?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "La lutte contre la tentation n'est pas la preuve que quelque chose ne va pas chez toi - c'est une partie ordinaire du chemin de la foi, et Jésus la connaît de l'intérieur. Tu ne vaincs pas par ta propre force de volonté, mais par sa puissance. Et quand tu tombes, le chemin du retour est simple : une confession sincère - et un Dieu qui ne rejette pas, mais qui pardonne et purifie. La chute n'est pas la même chose que « résider » dans le péché ; ce qui témoigne de la foi, ce n'est pas l'absence de faux pas, mais le fait de te relever à chaque fois. Et le pardon de Dieu t'apprend à pardonner - aussi à toi-même et à ceux qui t'ont fait du tort.",
+    "challenge": "Nomme aujourd'hui sincèrement devant Dieu une chose concrète avec laquelle tu luttes, et accueille son pardon (1 J 1:9) - sans y revenir dans un sentiment de condamnation. Désigne aussi une personne à qui tu retiens quelque chose « en dette », et demande à Dieu la disposition à lui pardonner."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "FR translation of PL study gdy-upadam"
+  }
+}

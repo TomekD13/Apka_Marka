@@ -1,0 +1,590 @@
+{
+  "id": "a-quoi-servent-les-commandements",
+  "lang": "fr",
+  "title": "À quoi servent les commandements ?",
+  "category": "basic_systematic",
+  "seriesId": "zycie-w-przymierzu",
+  "order": 16,
+  "summary": "La Bible distingue la loi morale (le Décalogue - permanent, car il exprime le caractère de Dieu) et la loi cérémonielle de Moïse (qui annonçait le Christ et s'est accomplie en lui). Garder les commandements n'est pas du légalisme, mais une obéissance par amour et dans la puissance de l'Esprit - la relation avant les règles.",
+  "minutes": {
+    "base": 45,
+    "extended": 65
+  },
+  "tags": [
+    "loi",
+    "Décalogue",
+    "loi cérémonielle",
+    "grâce",
+    "obéissance",
+    "Saint-Esprit"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Le chrétien a-t-il encore des commandements ?",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Matt.5.17-18",
+              "ref": "Mt 5:17-18"
+            }
+          ],
+          "comment": "Jésus dit clairement qu'il n'est pas venu abolir la Loi, mais l'accomplir. « Accomplir » ne veut pas dire « supprimer » - cela veut dire « lui donner tout son sens ».",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Qu'est-ce que Jésus exclut ici, et qu'est-ce qu'il confirme au sujet de la Loi ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "« accomplir » (plēroō)",
+          "content": "En Mt 5:17, Jésus emploie *plēroō* - « remplir, parachever, mener à la plénitude ». Ce n'est pas la même chose qu'« abolir » (gr. *katalyō*, que Jésus rejette explicitement). Le verbe indique que la Loi reçoit tout son sens, et non qu'elle est supprimée.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "πληρῶσαι",
+              "translit": "plērōsai"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Comment la distinction entre *plēroō* (parachever) et *katalyō* (abolir) clarifie-t-elle le débat sur la permanence de la loi ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Rom.3.31",
+              "ref": "Rm 3:31"
+            }
+          ],
+          "comment": "Paul, l'apôtre de la grâce, demande : la foi annule-t-elle la Loi ? Et il répond : au contraire - elle l'affermit. La grâce n'abolit pas la loi, mais lui rend sa juste place.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Comment est-il possible que la foi « affermisse » la loi, au lieu de l'abolir ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Rom.7.12",
+              "ref": "Rm 7:12"
+            }
+          ],
+          "comment": "La loi est « sainte, juste et bonne ». Le problème n'a jamais été la loi, mais notre coeur - voilà pourquoi nous avons besoin non de l'abolition de la loi, mais d'une transformation du coeur.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Si la loi est bonne, où se situe vraiment le problème du péché ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "« la Loi », en hébreu tora (« instruction »)",
+          "content": "Le mot le plus fréquent dans l'Ancien Testament pour « loi » est *tora* - « direction, instruction, enseignement », et non seulement un « règlement » aride. Dans le Nouveau Testament, il est rendu par le grec *nomos*. C'est pourquoi « la loi » dans la Bible peut désigner largement toute la volonté révélée de Dieu, et non seulement une liste d'interdits - ce qui explique pourquoi Paul dit que la foi « affermit » la loi, au lieu de l'abolir.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "תּוֹרָה",
+              "translit": "tora"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Comment le débat sur « la loi » change-t-il quand on la comprend comme « instruction », et non seulement comme « article de loi » ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Deux sortes de loi : morale et cérémonielle",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Deut.31.24-26",
+              "ref": "Dt 31:24-26"
+            }
+          ],
+          "comment": "La loi écrite par Moïse fut déposée À CÔTÉ de l'arche. Le Décalogue, en revanche, Dieu l'a écrit de son propre doigt et on l'a placé À L'INTÉRIEUR de l'arche - la Bible distingue ces deux ensembles jusque dans la manière de les conserver.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Que peut signifier cette différence : la loi de Moïse à côté de l'arche, et le Décalogue à l'intérieur ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "deux ensembles de lois et l'arche",
+          "content": "Dans la Bible, le Décalogue (« les dix paroles ») est placé à l'intérieur de l'arche (Ex 25:16 ; Dt 10:5), tandis que le « livre de la Loi » écrit par Moïse l'est à côté d'elle (Dt 31:26). Cette différence de lieu de conservation est parfois lue comme une indication du statut distinct de la loi morale et de la loi cérémonielle."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Exod.31.18",
+              "ref": "Ex 31:18"
+            }
+          ],
+          "comment": "Le Décalogue est écrit « du doigt de Dieu » sur la pierre. Cela souligne son caractère unique et sa permanence - il vient directement de Dieu.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Pourquoi le matériau (la pierre) et l'auteur (Dieu lui-même) soulignent-ils la permanence du Décalogue ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "« dix paroles » (le Décalogue)",
+          "content": "« Décalogue » signifie littéralement en hébreu « dix paroles » (cf. Ex 34:28). Ces dix Paroles de Dieu furent la seule partie de la Tora proclamée au milieu du tonnerre et des éclairs depuis la montagne, puis écrites du doigt de Dieu lui-même sur deux tables de pierre (Ex 31:18 ; Dt 4:13 ; 10:4). Cette circonstance unique distingue la loi morale du reste des préceptes d'Israël."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Heb.10.1",
+              "ref": "Hé 10:1"
+            }
+          ],
+          "comment": "La loi des sacrifices était « l'ombre des biens à venir », et non la réalité elle-même. L'ombre disparaît quand paraît ce qui la projetait - c'est-à-dire le Christ.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Pourquoi l'ombre perd-elle son sens quand survient la réalité qu'elle annonçait ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Col.2.14-17",
+              "ref": "Col 2:14-17"
+            }
+          ],
+          "comment": "Paul parle des préceptes « concernant les fêtes, les nouvelles lunes et les sabbats [cérémoniels] », qui étaient une ombre - le corps, c'est le Christ. Il s'agit du système cérémoniel des sacrifices et des fêtes, accompli en Jésus.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Que signifie que les préceptes cérémoniels étaient une « ombre », et que le « corps » est le Christ ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "« l'ombre » (skia) face au « corps » (sōma)",
+          "content": "Col 2:17 oppose *skia* (ombre) et *sōma* (corps, réalité). Les préceptes rituels sont l'ombre projetée d'en haut par la réalité à venir - le Christ. Quand survient le *sōma*, l'ombre perd sa fonction, car elle a rempli sa tâche : indiquer.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "σκιὰ … τὸ δὲ σῶμα τοῦ Χριστοῦ",
+              "translit": "skia … to de sōma tou Christou"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "textual",
+          "label": "« il a effacé l'acte qui nous condamnait » (cheirographon)",
+          "content": "Le mot que Paul rend par l'acte annulé et « cloué à la croix » qui était contre nous (Col 2:14) est le grec *cheirographon* - « document de dette écrit de sa propre main, reconnaissance d'obligation ». Il n'apparaît qu'ici dans le Nouveau Testament. Ce que Jésus a cloué symboliquement à la croix, c'est notre condamnation et la dette contractée par le péché, avec le système des « ordonnances » rituelles (gr. *dogma*), et non la loi morale éternelle.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χειρόγραφον",
+              "translit": "cheirographon"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Qu'est-ce qui a été au juste « cloué à la croix » selon le contexte de Col 2 - et qu'est-ce que cela NE concerne PAS ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "les « sabbats » en Col 2:16",
+          "content": "En Col 2:16, la liste (fêtes, nouvelle lune, « sabbats ») renvoie au calendrier des fêtes rituelles d'Israël (cf. Lv 23), y compris les jours de fête annuels appelés sabbats, liés au système sacrificiel. Le texte concerne ce cycle cérémoniel, dont le Christ a accompli le rôle, et non le commandement hebdomadaire du Décalogue - sujet d'une étude à part."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Eph.2.14-16",
+              "ref": "Ép 2:14-16"
+            }
+          ],
+          "comment": "Le Christ a aboli « la loi des commandements exprimée en ordonnances », qui séparait Juifs et païens - le système rituel. Le mur de séparation tombe, car son rôle s'est accompli.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Quelle loi séparait les gens en « siens » et « étrangers », et pourquoi pouvait-elle disparaître ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Ce qui s'est accompli dans le Christ",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "John.1.29",
+              "ref": "Jn 1:29"
+            }
+          ],
+          "comment": "Jean appelle Jésus « l'Agneau de Dieu ». Les milliers d'agneaux offerts en sacrifice indiquaient cet unique moment - quand vient le véritable Agneau, l'annonce s'accomplit.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Si tous les sacrifices indiquaient Jésus, qu'advient-il d'eux maintenant qu'il est venu ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Heb.9.9-10",
+              "ref": "Hé 9:9-10"
+            }
+          ],
+          "comment": "Les dons, les sacrifices et les préceptes rituels étaient en vigueur « jusqu'au temps du redressement ». Ils avaient leur terme - ils indiquaient plus loin, vers le Christ.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Que signifie que ces préceptes étaient en vigueur « jusqu'au temps du redressement » ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Heb.7.18-19",
+              "ref": "Hé 7:18-19"
+            }
+          ],
+          "comment": "L'ancienne ordonnance est abrogée à cause de sa faiblesse - elle n'amenait rien à la perfection. À sa place vient une meilleure espérance : l'accès direct à Dieu par Jésus.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Que l'ancien système ne pouvait-il pas donner, et que donne Jésus ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "« le pédagogue jusqu'au Christ » (paidagogos)",
+          "content": "En Ga 3:24, la loi est appelée « pédagogue » conduisant au Christ - gr. *paidagogos*. Dans l'Antiquité, le *paidagogos* n'était pas un maître (gr. *didaskalos*), mais un esclave qui accompagnait l'enfant à l'école, le protégeait et le surveillait. Il s'agit ici de tout le système rituel, destiné à conduire au Christ - quand celui-ci est venu, ce rôle s'est accompli.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "παιδαγωγός",
+              "translit": "paidagogos"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q24",
+              "text": "En quoi le rôle de « guide menant au Christ » diffère-t-il du rôle de « but », qui est le Christ lui-même ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Ce qui oblige le chrétien",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Matt.19.17-19",
+              "ref": "Mt 19:17-19"
+            }
+          ],
+          "comment": "Interrogé sur le chemin de la vie, Jésus renvoie à des commandements précis du Décalogue. Après la croix, personne ne cite les préceptes sur les sacrifices comme règle de vie - mais les commandements moraux restent un point de référence.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Pourquoi Jésus, parlant de la vie, recourt-il précisément aux commandements du Décalogue ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "term",
+          "label": "« les commandements » (entolē), non les sacrifices",
+          "content": "À la question du jeune homme riche, Jésus énumère concrètement : tu ne tueras point, tu ne commettras point d'adultère, tu ne déroberas point, tu ne porteras point de faux témoignage - c'est-à-dire le Décalogue. Le mot employé ici est le grec *entolē* (« commandement »), le même que Jean utilise pour les commandements de Dieu. Remarquons que le jeune homme les gardait de façon légaliste, comme un simple code, mais le Législateur lui manquait : « Suis-moi ».",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐντολή",
+              "translit": "entolē"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Jas.2.10-12",
+              "ref": "Jc 2:10-12"
+            }
+          ],
+          "comment": "Jacques, écrivant après la croix, traite encore le Décalogue (meurtre, adultère) comme la « loi de la liberté », selon laquelle nous serons jugés. La loi morale oblige toujours.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Pourquoi Jacques appelle-t-il la loi qui oblige toujours « loi de la liberté », et non d'esclavage ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "« loi royale », « loi de la liberté »",
+          "content": "Jacques appelle le Décalogue « loi royale » et « loi de la liberté », selon laquelle se fera le jugement (Jc 2:8-12). Bien que le salut vienne de la foi en la croix, le jugement se rapporte à la loi. Il vaut la peine de remarquer que l'esclavage ne vient pas de la loi - il vient de la soumission au péché ; la justification, elle, vient de la miséricorde, car « la miséricorde triomphe du jugement » (Jc 2:13)."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "1John.2.3-4",
+              "ref": "1 Jn 2:3-4"
+            }
+          ],
+          "comment": "Le signe que nous connaissons vraiment Dieu, c'est de garder ses commandements. Ce n'est pas un mérite, mais la preuve d'une relation authentique.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "En quoi « garder les commandements comme preuve de la relation » diffère-t-il de « mériter par les commandements » ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Rev.14.12",
+              "ref": "Ap 14:12"
+            }
+          ],
+          "comment": "À la fin de l'histoire, le peuple de Dieu est décrit comme ceux qui « gardent les commandements de Dieu et la foi de Jésus ». Les commandements et la foi ne sont pas opposés - ils vont ensemble.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Comment comprendre l'union des « commandements de Dieu » et de la « foi de Jésus » dans une même description ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "L'obéissance par amour, dans la puissance de l'Esprit - non le légalisme",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "John.14.15",
+              "ref": "Jn 14:15"
+            }
+          ],
+          "comment": "« Si vous m'aimez, vous garderez mes commandements ». L'ordre est essentiel : d'abord l'amour, et c'est de lui que découle l'obéissance - non l'inverse.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Qu'est-ce qui change quand l'obéissance découle de l'amour, au lieu de le précéder ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Rom.8.3-4",
+              "ref": "Rm 8:3-4"
+            }
+          ],
+          "comment": "Ce que la loi ne pouvait faire à cause de notre faiblesse, Dieu l'accomplit par l'Esprit - pour que « la justice de la loi soit accomplie en nous ». L'obéissance est l'oeuvre de l'Esprit en nous, et non notre effort solitaire.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Par quelle puissance la loi s'accomplit-elle dans la vie du croyant, selon ce texte ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Eph.2.8-10",
+              "ref": "Ép 2:8-10"
+            }
+          ],
+          "comment": "Le salut vient de la grâce, non des oeuvres - et pourtant nous sommes créés « pour les bonnes oeuvres ». Les oeuvres ne sont pas la racine du salut, mais son fruit.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Où, dans ce texte, y a-t-il une place pour les oeuvres, puisque le salut est gratuit ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "Gal.5.6",
+              "ref": "Ga 5:6"
+            }
+          ],
+          "comment": "Ce qui compte, c'est « la foi qui agit par l'amour ». Voilà le remède biblique au légalisme : non une règle morte, mais une foi qui s'exprime dans l'amour.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Comment distinguer « la foi qui agit par l'amour » de l'accomplissement vide de règles ?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u20",
+          "passage": [
+            {
+              "osis": "Ezek.36.26-27",
+              "ref": "Éz 36:26-27"
+            }
+          ],
+          "comment": "Dieu promet un coeur nouveau et son Esprit, qui fera que « nous marcherons selon ses commandements ». La transformation commence à l'intérieur - elle vient de Dieu, non de dents serrées.",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Que Dieu promet-il de changer en premier - le comportement ou le coeur ? Pourquoi est-ce important ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n11",
+          "noteType": "verb",
+          "label": "« faire » (poieō) et « accomplir » (plēroō) la loi",
+          "content": "Il vaut la peine de remarquer que Paul emploie volontairement deux verbes différents. Pour les préceptes rituels, il dit « faire » (gr. *poieō*) - l'accent porte sur l'effort humain. Pour la loi morale et la « loi du Christ », il dit « accomplir » (gr. *plēroō*, p. ex. Ga 5:14) - l'accent porte sur l'oeuvre de l'Esprit. L'obéissance au Décalogue devient pleine non par des dents serrées, mais comme un fruit de l'Esprit.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ποιέω",
+              "translit": "poieō"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q25",
+              "text": "Pourquoi la distinction entre « faire » (mon effort) et « accomplir » (l'oeuvre de l'Esprit) est-elle un remède au légalisme ?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "La Bible ne connaît aucun conflit entre la grâce et la loi. La loi cérémonielle - sacrifices, fêtes, rites - était une ombre qui indiquait le Christ et s'est accomplie en lui. La loi morale, le Décalogue, demeure, car elle décrit le caractère immuable de Dieu. Mais garder les commandements n'est jamais un moyen de mériter l'amour. C'est le fruit de la relation : nous aimons, donc nous obéissons - et cela, non par notre propre force, mais par la puissance de l'Esprit, qui donne un coeur nouveau. La relation passe toujours avant les règles.",
+    "challenge": "Fais cette semaine un simple test du coeur : choisis un commandement et demande-toi si tu le gardes par peur/devoir ou par amour pour Dieu. Demande au Saint-Esprit de changer ta motivation de « je dois » en « je veux »."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "FR translation of PL study dekalog-a-prawo-mojzeszowe"
+  }
+}

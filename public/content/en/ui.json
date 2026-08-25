@@ -1,0 +1,141 @@
+{
+  "appName": "Bible Study",
+  "tagline": "A Bible study reader",
+  "nav": {
+    "home": "Home",
+    "topics": "Topic list",
+    "about": "About",
+    "back": "Back",
+    "search": "Search"
+  },
+  "home": {
+    "projectTitle": "Living Word",
+    "projectTagline": "the way to the Father's house",
+    "todayTitle": "Today",
+    "topicsCount": "topics",
+    "playVideo": "Play video",
+    "categoriesTitle": "Categories",
+    "basicTitle": "Basic Bible teachings",
+    "basic_systematic": "Systematic study",
+    "basic_practical": "Practical study",
+    "series": "Study series",
+    "topic": "Various Bible topics",
+    "searchPlaceholder": "Search: topic, word",
+    "language": "Language",
+    "downloadOffline": "Download for offline",
+    "downloading": "Downloading…",
+    "offlineReady": "Available offline"
+  },
+  "reader": {
+    "levels": "Level",
+    "base": "Simple",
+    "extended": "More",
+    "advanced": "Expert",
+    "application": "Summary",
+    "challenge": "Challenge",
+    "print": "PDF",
+    "backToList": "Topic list",
+    "showVerse": "Show text",
+    "hideVerse": "Hide text",
+    "minutes": "min",
+    "question": "Question",
+    "original": "Original form",
+    "noteTypes": {
+      "syntax": "Syntax",
+      "verb": "Verb",
+      "background": "Background",
+      "textual": "Textual",
+      "term": "Term",
+      "variant": "Variant",
+      "worship": "Worship",
+      "other": "Note"
+    },
+    "share": "Share"
+  },
+  "search": {
+    "title": "Search results",
+    "noResults": "No results.",
+    "for": "for"
+  },
+  "category": {
+    "empty": "No studies in this category."
+  },
+  "about": {
+    "title": "About",
+    "body": "Before you ever began to look for God, He had already come to meet you. Discover this in the living Word - guided step by step, a road to the Father's house that you can walk at your own pace.\n\nNo accounts, no sign-in, no tracking. Works offline after downloading the language module.",
+    "publisher": "Author: Marek Micyk",
+    "privacy": "The app collects no user data."
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "Have a question or want to talk? Write to us.",
+    "name": "Name",
+    "email": "Your e-mail (for a reply)",
+    "message": "Your message",
+    "human": "I am human",
+    "send": "Send message",
+    "subject": "Contact - Living Word",
+    "hint": "The message will open in your e-mail app.",
+    "who": "Who are we?",
+    "whoUrl": "https://adventist.org/"
+  },
+  "common": {
+    "loading": "Loading…",
+    "placeholderBible": "The verse text will appear once a translation is connected.",
+    "copied": "Copied to clipboard"
+  },
+  "flashcards": {
+    "title": "Memorize Scripture",
+    "intro": "Learn the 50 most important Bible texts by heart. Pick topics and practice with flashcards; texts you don't remember come back for review on the following days.",
+    "cta": "Memorize Bible verses",
+    "ctaDesc": "The 50 most important Bible texts - flashcards with spaced review.",
+    "chooseThemes": "Choose topics to learn",
+    "all": "All / none",
+    "selectAtLeastOne": "Select at least one topic.",
+    "start": "Start learning",
+    "direction": "Direction",
+    "dirR2T": "Reference → text",
+    "dirT2R": "Text → reference",
+    "flip": "Show answer",
+    "flipHint": "Tap to show the answer",
+    "g1": "Don't know",
+    "g2": "Weak",
+    "g3": "Good",
+    "g4": "Know it",
+    "today": "today",
+    "dayAbbr": "d",
+    "noRepeat": "no review",
+    "remaining": "Remaining",
+    "toLearn": "To learn",
+    "learned": "Learned",
+    "mastered": "Mastered",
+    "sessionDone": "Done for today!",
+    "sessionDoneDesc": "You've finished all reviews planned for today. Come back tomorrow to reinforce.",
+    "practiceAll": "Practice all",
+    "backToThemes": "Back to topics",
+    "localOnly": "Your progress is saved only on this device (in the browser), with no account. Clearing browser data removes it.",
+    "reset": "Clear progress",
+    "resetConfirm": "Clear all saved learning progress?",
+    "resetDone": "Progress cleared.",
+    "ankiR2T": "AnkiDroid: Reference → Text",
+    "ankiT2R": "AnkiDroid: Text → Reference",
+    "quizlet": "Prefer Quizlet? Open the set",
+    "onlyPl": "Available in Polish for now."
+  },
+  "occasions": {
+    "title": "Bible verses for every occasion",
+    "intro": "Choose an occasion and find fitting passages of Scripture. You can send each one to someone you love.",
+    "cta": "Bible verses for every occasion",
+    "ctaDesc": "Verses for sadness, joy, fear, sickness and much more - ready to send.",
+    "share": "Share",
+    "onlyPl": "Available in Polish for now."
+  },
+  "share": {
+    "title": "Share",
+    "hint": "You can add a personal note or remove part of the text before sending.",
+    "includeLink": "Invite to use the app",
+    "cancel": "Cancel",
+    "copy": "Copy",
+    "send": "Send"
+  }
+}
