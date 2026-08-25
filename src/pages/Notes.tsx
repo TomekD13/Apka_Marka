@@ -84,6 +84,9 @@ export function Notes() {
 
   return (
     <div>
+      <BackLink to={`/${lang}`} className="mb-4">
+        {t('nav.topics', 'Menu główne')}
+      </BackLink>
       <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
         <h1 className="text-2xl font-bold text-slate-100">{t('notes.title', 'Moje notatki biblijne')}</h1>
         <Link

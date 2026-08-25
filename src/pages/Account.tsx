@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import { useI18n } from '../i18n'
+import { BackLink } from '../components/BackLink'
 import { useSetPlace } from '../place'
 
 // Strona konta. Samo logowanie czeka na projekt w Firebase (etap 0
@@ -12,6 +13,9 @@ export function Account() {
 
   return (
     <div>
+      <BackLink to={`/${lang}`} className="mb-4">
+        {t('nav.topics', 'Menu główne')}
+      </BackLink>
       <h1 className="mb-3 text-2xl font-bold text-slate-100">{t('account.title', 'Twoje konto')}</h1>
       <p className="text-slate-300">{t('account.lead', '')}</p>
 

@@ -88,7 +88,12 @@
     "subject": "Kontakt - Żywe Słowo",
     "hint": "Wiadomość otworzy się w Twoim programie pocztowym.",
     "who": "Kim jesteśmy?",
-    "whoUrl": "https://adwent.pl"
+    "whoUrl": "https://adwent.pl",
+    "postUrl": "",
+    "sending": "Wysyłam…",
+    "sent": "Dziękujemy, wiadomość poszła.",
+    "failed": "Nie udało się wysłać. Spróbuj jeszcze raz albo napisz na adres podany niżej.",
+    "hintDirect": "Wiadomość poleci prosto do nas."
   },
   "flashcards": {
     "title": "Wersety na pamięć",

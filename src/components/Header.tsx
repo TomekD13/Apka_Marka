@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState, type FormEvent } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { useI18n } from '../i18n'
 import { downloadModule, loadLangs } from '../content'
@@ -8,10 +8,8 @@ import type { LangMeta } from '../types'
 export function Header() {
   const { lang, t } = useI18n()
   const nav = useNavigate()
-  const [q, setQ] = useState('')
   const [dl, setDl] = useState<'idle' | 'busy' | 'done'>('idle')
   const [langs, setLangs] = useState<LangMeta[]>([])
-  const [searchOpen, setSearchOpen] = useState(false)
   const [langOpen, setLangOpen] = useState(false)
   const langRef = useRef<HTMLDivElement>(null)
 
@@ -33,11 +31,6 @@ export function Header() {
   // przełącznik języków sterowany danymi: dodanie wpisu w langs.json wystarczy
   useEffect(() => { loadLangs().then((l) => setLangs(l.languages)).catch(() => {}) }, [])
 
-  function onSearch(e: FormEvent) {
-    e.preventDefault()
-    if (q.trim()) nav(`/${lang}/search?q=${encodeURIComponent(q.trim())}`)
-  }
-
   async function onDownload() {
     setDl('busy')
     try { await downloadModule(lang); setDl('done') } catch { setDl('idle') }
@@ -57,43 +50,8 @@ export function Header() {
         >
           {t('nav.topics', 'Lista tematów')}
         </Link>
-        {/* Desktop: pole zawsze widoczne. Komórka: lupa rozwijająca pole po kliknięciu. */}
-        <form onSubmit={onSearch} className="hidden sm:block min-w-0">
-          <input
-            value={q}
-            onChange={(e) => setQ(e.target.value)}
-            placeholder={t('home.searchPlaceholder', 'Szukaj…')}
-            aria-label={t('nav.search', 'Szukaj')}
-            className="w-full max-w-[12rem] rounded-md border border-slate-300 dark:border-slate-600 bg-transparent px-3 py-1.5 text-sm"
-          />
-        </form>
-        <div className={`sm:hidden ${searchOpen ? 'flex-1 min-w-0' : ''}`}>
-          {searchOpen ? (
-            <form onSubmit={onSearch}>
-              <input
-                value={q}
-                onChange={(e) => setQ(e.target.value)}
-                onBlur={() => { if (!q.trim()) setSearchOpen(false) }}
-                autoFocus
-                placeholder={t('home.searchPlaceholder', 'Szukaj…')}
-                aria-label={t('nav.search', 'Szukaj')}
-                className="w-full rounded-md border border-slate-300 dark:border-slate-600 bg-transparent px-3 py-1.5 text-sm"
-              />
-            </form>
-          ) : (
-            <button
-              type="button"
-              onClick={() => setSearchOpen(true)}
-              aria-label={t('nav.search', 'Szukaj')}
-              title={t('nav.search', 'Szukaj')}
-              className="inline-flex items-center justify-center rounded-md border border-slate-300 dark:border-slate-600 p-1.5 text-slate-500 hover:text-brand"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-5 w-5" aria-hidden>
-                <path fillRule="evenodd" d="M9 3.5a5.5 5.5 0 100 11 5.5 5.5 0 000-11zM2 9a7 7 0 1112.452 4.391l3.328 3.329a.75.75 0 11-1.06 1.06l-3.329-3.328A7 7 0 012 9z" clipRule="evenodd" />
-              </svg>
-            </button>
-          )}
-        </div>
+        {/* Szukanie wylaczone na zyczenie autora (2026-08-25). Trasa /search
+            i strona SearchPage zostaja - zeby wrocic, przywroc ten blok. */}
         <nav className="ml-auto flex items-center gap-1.5 sm:gap-2 text-sm shrink-0">
           <button
             onClick={onDownload}

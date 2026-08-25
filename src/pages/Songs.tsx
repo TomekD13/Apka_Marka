@@ -448,13 +448,16 @@ export function SongList({
 }
 
 export function SongsPage({ collection = 'hymnal' }: { collection?: SongCollection }) {
-  const { t } = useI18n()
+  const { lang, t } = useI18n()
   const { data } = useSongs(collection)
   const heading =
     collection === 'youth' ? t('youth.title', 'Pieśni młodzieżowe') : t('songs.title', 'Śpiewnik')
 
   return (
     <div>
+      <BackLink to={`/${lang}`} className="mb-4">
+        {t('nav.topics', 'Menu główne')}
+      </BackLink>
       <h1 className="mb-1 text-2xl font-bold text-slate-100">{heading}</h1>
       {data?.source && (
         <p className="mb-5 text-sm text-slate-400">

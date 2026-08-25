@@ -123,6 +123,9 @@ export function BiblePage() {
 
   return (
     <div>
+      <BackLink to={`/${lang}`} className="mb-4">
+        {t('nav.topics', 'Menu główne')}
+      </BackLink>
       <div className="flex flex-wrap items-center justify-between gap-2">
         <h1 className="text-2xl font-semibold">{t('bible.title', 'Biblia')}</h1>
         <TranslationPicker code={code} onChange={choose} />

@@ -345,6 +345,17 @@ Google Forms (oceny lądują w Arkuszach Google, aplikacja nie przeładowuje str
 Microsoft Forms zapisuje odpowiedzi wprost do skoroszytu Excela w OneDrive – wtedy zostaw
 zwykły adres formularza (bez `/formResponse`), a aplikacja otworzy go w nowej karcie.
 
+### Kontakt bez programu pocztowego
+
+Ten sam mechanizm obsługuje formularz kontaktu (`components/ContactForm.tsx`):
+`ui.json` → `contact.postUrl`, wzorzec z miejscami `{wiadomosc}`, `{imie}` i `{email}`.
+- **pusty** (tak jest dziś) – wiadomość otwiera się w programie pocztowym (`mailto:`);
+- **adres z `/formResponse`** (Google Forms) – wysyłka w tle, czytelnik zostaje w aplikacji,
+  a odpowiedzi lądują w arkuszu. W formularzu włącz *Odpowiedzi → Otrzymuj powiadomienia
+  e-mail*, żeby każda wiadomość przychodziła też na skrzynkę;
+- **inny adres** (Formspree, FormSubmit, własny punkt) – zwykły POST z polami
+  `message`, `name`, `email`, `_subject`; wynik sprawdzamy po statusie odpowiedzi.
+
 **Messenger**: bez własnego identyfikatora aplikacji Facebooka działa tylko odnośnik
 `fb-messenger://`, czyli na telefonie. Na komputerze przycisk nic nie zrobi – stąd obok
 systemowe „Udostępnij".

@@ -71,10 +71,13 @@ export function EduList({ limit }: { limit?: number }) {
 }
 
 export function Edu() {
-  const { t } = useI18n()
+  const { lang, t } = useI18n()
   const { data } = useIndex()
   return (
     <div>
+      <BackLink to={`/${lang}`} className="mb-4">
+        {t('nav.topics', 'Menu główne')}
+      </BackLink>
       <h1 className="mb-1 text-2xl font-bold text-slate-100">{t('edu.title', 'Materiały edukacyjne')}</h1>
       <p className="mb-5 text-sm text-slate-400">{data?.series || '#JestNadzieja'}</p>
       <EduList />

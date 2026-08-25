@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useI18n } from '../i18n'
-import { BackButton } from '../components/BackLink'
+import { BackButton, BackLink } from '../components/BackLink'
 import { loadFlashcards, loadBible } from '../content'
 import type { Bible, FlashCard, Flashcards as FCData } from '../types'
 
@@ -221,6 +221,9 @@ export function Flashcards() {
   // ----- WYBÓR TEMATÓW -----
   return (
     <div>
+      <BackLink to={`/${lang}`} className="mb-4">
+        {t('nav.topics', 'Menu główne')}
+      </BackLink>
       <h1 className="text-2xl font-bold text-slate-100">{t('flashcards.title', 'Wersety na pamięć')}</h1>
       <p className="mt-1 text-slate-300">{t('flashcards.intro', '')}</p>
 
