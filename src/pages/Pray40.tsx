@@ -11,6 +11,7 @@ import {
 } from '../components/VersionToggle'
 import { ReadingFooter } from '../components/ReadingFooter'
 import { BackLink } from '../components/BackLink'
+import { FontScale } from '../components/FontScale'
 import { listRead } from '../lib/progress'
 import type { Pray40Day, Pray40Index } from '../types'
 
@@ -132,21 +133,22 @@ export function Pray40DayPage() {
   const total = index?.days.length ?? 40
 
   return (
-    <article>
+    <article className="reading">
       <BackLink to={backTo}>{t('pray40.backToList', 'Wróć do spisu dni')}</BackLink>
 
       <header className="mb-4 mt-2">
         <p className="text-xs font-semibold uppercase tracking-wide text-violet-300">
           {t('pray40.day', 'Dzień')} {entry.day} / {total}
         </p>
-        <h1 className="mt-1 text-2xl font-bold text-slate-100">{entry.title}</h1>
+        <h1 className="mt-1 text-[1.5em] font-bold text-slate-100">{entry.title}</h1>
         {entry.ref && <p className="mt-1 text-slate-300">{entry.ref}</p>}
         {entry.dateLabel && <p className="mt-0.5 text-sm text-slate-400">{entry.dateLabel}</p>}
         {entry.lead && <p className="mt-3 text-slate-300">{entry.lead}</p>}
       </header>
 
-      <div className="mb-5">
+      <div className="mb-5 flex flex-wrap items-center justify-between gap-2">
         <VersionToggle value={version} onChange={pick} available={available} />
+        <FontScale className="ml-auto" />
       </div>
 
       <div className="space-y-4">

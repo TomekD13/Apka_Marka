@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { useI18n } from '../i18n'
 import { BackLink } from '../components/BackLink'
+import { FontScale } from '../components/FontScale'
 import { loadOccasions, loadBible } from '../content'
 import { ShareDialog } from '../components/ShareDialog'
 import type { Bible, Occasions as OccData, OccasionVerse } from '../types'
@@ -47,9 +48,10 @@ export function Occasions() {
 
   return (
     <div>
-      <BackLink to={`/${lang}`} className="mb-4">
-        {t('nav.topics', 'Menu główne')}
-      </BackLink>
+      <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
+        <BackLink to={`/${lang}`}>{t('nav.topics', 'Menu główne')}</BackLink>
+        <FontScale />
+      </div>
       <h1 className="text-2xl font-bold text-slate-100">{oc.title || t('occasions.title', 'Teksty na różną okazję')}</h1>
       <p className="mt-1 text-slate-300">{t('occasions.intro', 'Wybierz okazję, a znajdziesz dopasowane fragmenty Pisma.')}</p>
 
@@ -69,7 +71,7 @@ export function Occasions() {
                 <span className={`text-slate-400 transition-transform ${isOpen ? 'rotate-180' : ''}`} aria-hidden>▾</span>
               </button>
               {isOpen && (
-                <ul className="space-y-2 border-t border-white/10 p-3">
+                <ul className="reading space-y-2 border-t border-white/10 p-3">
                   {cat.verses.map((v) => (
                     <li key={v.osis} className="rounded-lg bg-white p-3 text-slate-800">
                       <div className="flex items-start justify-between gap-2">

@@ -29,7 +29,7 @@
     "offlineReady": "Offline gotowe",
     "bars": {
       "studies": "Poznaj Boga i Biblię",
-      "studiesDesc": "Studia biblijne w pięciu seriach – od pierwszego spotkania z Bogiem po proroctwa czasu końca.",
+      "studiesDesc": "Najważniejsze tematy biblijne",
       "hope": "#JestNadzieja",
       "hopeDesc": "Wspólna modlitwa i materiały do dzielenia się nadzieją.",
       "pray40": "40 dni modlitwy",
@@ -148,7 +148,12 @@
     "soon": "Wkrótce.",
     "close": "Zamknij",
     "short": "Krótko",
-    "long": "Pełna wersja"
+    "long": "Pełna wersja",
+    "fontSize": "Wielkość tekstu",
+    "fontSmaller": "Mniejszy tekst",
+    "fontBigger": "Większy tekst",
+    "fontReset": "Domyślna wielkość tekstu",
+    "fontPinch": "Wielkość tekstu – na telefonie także szczypnięciem dwoma palcami"
   },
   "share": {
     "title": "Udostępnij",
@@ -228,7 +233,7 @@
   },
   "prayers": {
     "title": "Dziennik modlitw",
-    "desc": "Prośby, o które się modlisz – i miejsce na to, jak Bóg odpowiedział.",
+    "desc": "Twoja lista modlitewna",
     "empty": "Dziennik jest pusty. Wpisz pierwszą prośbę poniżej.",
     "add": "Dopisz",
     "addPlaceholder": "Dopisz kolejną prośbę…",
@@ -251,7 +256,7 @@
   },
   "youth": {
     "title": "Pieśni młodzieżowe",
-    "desc": "Ze śpiewników obozowych – poza tym, co jest w „Śpiewajmy Panu”.",
+    "desc": "Z Campów i zjazdów młodzieżowych",
     "all": "Pokaż cały śpiewnik",
     "backToList": "Wróć do pieśni młodzieżowych"
   },
@@ -272,6 +277,7 @@
     "desc": "Cały tekst Pisma – księga, rozdział, werset, wyszukiwanie i zakładki.",
     "translation": "Przekład",
     "translations": "Przekłady i tryb offline",
+    "addTranslations": "Dodaj inne przekłady",
     "book": "Księga",
     "chapter": "Rozdział",
     "ot": "Stary Testament",

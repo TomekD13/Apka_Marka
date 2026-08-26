@@ -4,6 +4,7 @@ import { I18nProvider } from './i18n'
 import { PlaceProvider } from './place'
 import { Header } from './components/Header'
 import { AddNoteFab } from './components/AddNoteFab'
+import { usePinchFontScale } from './components/FontScale'
 import { LangGate } from './pages/LangGate'
 import { Home } from './pages/Home'
 import { CategoryPage } from './pages/CategoryPage'
@@ -26,6 +27,8 @@ registerSW({ immediate: true })
 
 function LangLayout() {
   const { lang = 'pl' } = useParams()
+  // szczypanie dwoma palcami w tresci do czytania zmienia wielkosc tekstu
+  usePinchFontScale()
   return (
     <I18nProvider lang={lang}>
       <PlaceProvider>

@@ -16,12 +16,26 @@ body {
 }
 
 /* czytelna typografia treści */
-.study-prose { @apply text-[1.05rem] leading-relaxed; }
+.study-prose { @apply leading-relaxed; font-size: 1.05em; }
+
+/* Skala tekstu w modulach do czytania - ustawia ja przelacznik FontScale
+   (components/FontScale.tsx, lib/fontScale.ts). Rosnie sama tresc; naglowek
+   i nawigacja zostaja, bo przy 175% nie zmiescilyby sie na telefonie.
+   Wewnatrz .reading wielkosci pisz w `em` (np. text-[1.05em]), nie w `rem` -
+   `rem` liczy sie od korzenia i nie da sie przeskalowac. */
+.reading {
+  font-size: calc(1rem * var(--reading-scale, 1));
+  /* szczypniecie dwoma palcami ma zmieniac wielkosc tekstu, a nie zoomowac strone
+     (przechwytuje je usePinchFontScale w components/FontScale.tsx) */
+  touch-action: pan-y;
+}
 
 /* Druk - chowamy nawigację; pokazujemy tylko treść studium */
 @media print {
   .no-print { display: none !important; }
   body { @apply bg-white text-black; }
   .verse-box { border: 1px solid #ccc !important; }
+  /* wydruk zawsze w normalnej wielkosci - powiekszenie jest dla ekranu */
+  .reading { font-size: 1rem; }
   a[href]::after { content: ""; }
 }

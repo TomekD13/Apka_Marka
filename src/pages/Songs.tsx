@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
 import { useI18n } from '../i18n'
 import { BackLink } from '../components/BackLink'
+import { FontScale } from '../components/FontScale'
 import { loadSongs } from '../content'
 import { useSetPlace } from '../place'
 import { isFavorite, listFavorites, toggleFavorite } from '../lib/favorites'
@@ -104,7 +105,7 @@ function Lyrics({ text }: { text: string }) {
           <span key={i} className="block">
             {cut < 0 ? line : line.slice(0, cut)}
             {cut >= 0 && (
-              <span className="ml-2 font-mono text-xs tracking-wide text-amber-300/70">
+              <span className="ml-2 font-mono text-[0.72em] tracking-wide text-amber-300/70">
                 {line.slice(cut + 4)}
               </span>
             )}
@@ -128,7 +129,7 @@ export function SongBody({ song }: { song: Song }) {
         <div key={s.n}>
           <p className="flex gap-2 leading-relaxed text-slate-200">
             {!song.single && (
-              <span className="w-5 shrink-0 text-right text-sm tabular-nums text-slate-400">{s.n}.</span>
+              <span className="w-[1.6em] shrink-0 text-right text-[0.85em] tabular-nums text-slate-400">{s.n}.</span>
             )}
             <span className="min-w-0 flex-1">
               <Lyrics text={s.text} />
@@ -137,10 +138,10 @@ export function SongBody({ song }: { song: Song }) {
           {song.refrain && i === 0 && (
             <p
               className={`mt-2 flex gap-2 italic leading-relaxed text-slate-300 ${
-                song.single ? '' : 'pl-7'
+                song.single ? '' : 'pl-[2em]'
               }`}
             >
-              <span className="not-italic text-sm font-semibold text-slate-400">
+              <span className="not-italic text-[0.85em] font-semibold text-slate-400">
                 {t('songs.refrain', 'Refren:')}
               </span>
               <span className="min-w-0 flex-1">
@@ -151,8 +152,8 @@ export function SongBody({ song }: { song: Song }) {
         </div>
       ))}
       {song.bridge && (
-        <p className={`flex gap-2 leading-relaxed text-slate-300 ${song.single ? '' : 'pl-7'}`}>
-          <span className="text-sm font-semibold text-slate-400">{t('songs.bridge', 'Bridge:')}</span>
+        <p className={`flex gap-2 leading-relaxed text-slate-300 ${song.single ? '' : 'pl-[2em]'}`}>
+          <span className="text-[0.85em] font-semibold text-slate-400">{t('songs.bridge', 'Bridge:')}</span>
           <span className="min-w-0 flex-1">
             <Lyrics text={song.bridge} />
           </span>
@@ -503,11 +504,14 @@ export function SongPage({ collection = 'hymnal' }: { collection?: SongCollectio
     )
 
   return (
-    <article>
-      <BackLink to={backTo}>{backLabel}</BackLink>
+    <article className="reading">
+      <div className="flex flex-wrap items-center justify-between gap-2">
+        <BackLink to={backTo}>{backLabel}</BackLink>
+        <FontScale />
+      </div>
       <header className="mb-4 mt-2 flex items-start gap-2">
         <div className="min-w-0 flex-1">
-          <h1 className="text-2xl font-bold text-slate-100">
+          <h1 className="text-[1.5em] font-bold text-slate-100">
             <span className="mr-2 text-slate-400">{song.nr}.</span>
             {song.title}
           </h1>

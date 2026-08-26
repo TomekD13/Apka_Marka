@@ -17,7 +17,7 @@ export function NoteView({ item }: { item: NoteItem }) {
       </div>
       {item.content && <p className="mt-1 study-prose text-slate-700">{renderInline(item.content)}</p>}
       {item.original?.map((o, i) => (
-        <p key={i} className="mt-1 text-[0.97rem] text-slate-800">
+        <p key={i} className="mt-1 text-[0.97em] text-slate-800">
           <span className="text-xs uppercase text-slate-500 mr-1">{o.lang}</span>
           <span className="font-serif">{o.text}</span>
           {o.translit && <span className="text-slate-500"> - {o.translit}</span>}

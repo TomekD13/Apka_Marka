@@ -11,6 +11,7 @@ import {
 } from '../components/VersionToggle'
 import { ReadingFooter } from '../components/ReadingFooter'
 import { BackLink } from '../components/BackLink'
+import { FontScale } from '../components/FontScale'
 import { listRead } from '../lib/progress'
 import type { EduIndex, EduItem } from '../types'
 
@@ -129,7 +130,7 @@ export function EduItemPage() {
   const questions = shown?.questions ?? []
 
   return (
-    <article>
+    <article className="reading">
       <BackLink to={backTo}>{t('edu.backToList', 'Wróć do spisu materiałów')}</BackLink>
 
       <header className="mb-4 mt-2">
@@ -137,11 +138,12 @@ export function EduItemPage() {
           {t('edu.item', 'Materiał')} {entry.nr}
           {total ? ` / ${total}` : ''}
         </p>
-        <h1 className="mt-1 text-2xl font-bold text-slate-100">{entry.title}</h1>
+        <h1 className="mt-1 text-[1.5em] font-bold text-slate-100">{entry.title}</h1>
       </header>
 
-      <div className="mb-5">
+      <div className="mb-5 flex flex-wrap items-center justify-between gap-2">
         <VersionToggle value={version} onChange={pick} available={available} />
+        <FontScale className="ml-auto" />
       </div>
 
       <div className="space-y-4">

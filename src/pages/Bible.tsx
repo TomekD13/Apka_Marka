@@ -3,6 +3,7 @@ import { Link, useNavigate, useParams, useSearchParams } from 'react-router-dom'
 import { useI18n } from '../i18n'
 import { useSetPlace } from '../place'
 import { BiblePicker } from '../components/BiblePicker'
+import { FontScale } from '../components/FontScale'
 import { VerseText } from '../components/VerseText'
 import { VerseActionBar } from '../components/VerseActionBar'
 import { BackLink } from '../components/BackLink'
@@ -72,6 +73,10 @@ export function useBibleIndex() {
   return { code, index, failed, choose }
 }
 
+// Wartosc wybierana zamiast przekladu: prowadzi na strone, gdzie dokłada sie
+// kolejne moduly. Nie ma przekladu o takim kodzie, wiec kolizji nie bedzie.
+const ADD_MORE = '__dodaj'
+
 /** Przelacznik przekladu - widoczny wszedzie, gdzie czyta sie tekst. */
 export function TranslationPicker({
   code,
@@ -83,6 +88,7 @@ export function TranslationPicker({
   className?: string
 }) {
   const { lang, t } = useI18n()
+  const nav = useNavigate()
   const [items, setItems] = useState<{ code: string; name: string }[]>([])
 
   useEffect(() => {
@@ -96,7 +102,13 @@ export function TranslationPicker({
       <span className="sr-only">{t('bible.translation', 'Przekład')}</span>
       <select
         value={code}
-        onChange={(e) => onChange(e.target.value)}
+        onChange={(e) => {
+          if (e.target.value === ADD_MORE) {
+            nav(`/${lang}/${BIBLE_PATH}/przeklady`)
+            return
+          }
+          onChange(e.target.value)
+        }}
         className="rounded-md border border-slate-600 bg-slate-800 px-2 py-1 text-xs text-slate-200"
       >
         {items.length === 0 && <option value={code}>{code}</option>}
@@ -105,6 +117,7 @@ export function TranslationPicker({
             {x.code} – {x.name}
           </option>
         ))}
+        <option value={ADD_MORE}>+ {t('bible.addTranslations', 'Dodaj inne przekłady')}</option>
       </select>
     </label>
   )
@@ -292,7 +305,7 @@ export function BibleChapterPage() {
   }
 
   return (
-    <article className={selected.length ? 'pb-40' : ''}>
+    <article className={`reading ${selected.length ? 'pb-40' : ''}`}>
       <div className="no-print flex flex-wrap items-center gap-2">
         <button
           type="button"
@@ -347,6 +360,7 @@ export function BibleChapterPage() {
           )
         )}
         <div className="ml-auto flex items-center gap-1">
+          <FontScale className="mr-1" />
           <button
             type="button"
             onClick={() => step(-1)}
@@ -406,7 +420,7 @@ export function BibleChapterPage() {
         </div>
       )}
 
-      <h1 className="mt-4 text-2xl font-semibold leading-tight">
+      <h1 className="mt-4 text-[1.5em] font-semibold leading-tight">
         {meta.name} {ch}
       </h1>
 
@@ -417,7 +431,7 @@ export function BibleChapterPage() {
       >
       <div
         ref={bodyRef}
-        className="verse-box rounded-xl border border-slate-200 bg-white p-4 text-[1.05rem] leading-relaxed text-slate-800"
+        className="verse-box rounded-xl border border-slate-200 bg-white p-4 text-[1.05em] leading-relaxed text-slate-800"
       >
         {second && (
           <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-slate-500">{code}</p>
@@ -439,7 +453,7 @@ export function BibleChapterPage() {
                     picked ? 'bg-amber-100 ring-1 ring-amber-300' : 'hover:bg-slate-50'
                   }`}
                 >
-                  <span className="mr-1.5 align-super text-xs font-semibold tabular-nums text-brand">
+                  <span className="mr-1.5 align-super text-[0.7em] font-semibold tabular-nums text-brand">
                     {n}
                   </span>
                   {marks.has(n) && (
@@ -456,7 +470,7 @@ export function BibleChapterPage() {
       </div>
 
       {second && (
-        <div className="verse-box rounded-xl border border-slate-200 bg-white p-4 text-[1.05rem] leading-relaxed text-slate-800">
+        <div className="verse-box rounded-xl border border-slate-200 bg-white p-4 text-[1.05em] leading-relaxed text-slate-800">
           <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-slate-500">{second}</p>
           {!secondText ? (
             <p className="text-slate-500">{t('common.loading', '…')}</p>
@@ -464,7 +478,7 @@ export function BibleChapterPage() {
             (secondText[ch - 1] || []).map((text, i) =>
               text ? (
                 <p key={i} className="px-1 py-0.5">
-                  <span className="mr-1.5 align-super text-xs font-semibold tabular-nums text-brand">
+                  <span className="mr-1.5 align-super text-[0.7em] font-semibold tabular-nums text-brand">
                     {i + 1}
                   </span>
                   <VerseText text={text} />

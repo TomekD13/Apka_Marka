@@ -109,7 +109,7 @@ export function Home() {
           icon="📖"
           accent="sky"
           title={t('home.bars.studies', 'Poznaj Boga i Biblię')}
-          desc={t('home.bars.studiesDesc', 'Studia biblijne w pięciu seriach - od pierwszego spotkania z Bogiem po proroctwa.')}
+          desc={t('home.bars.studiesDesc', 'Najważniejsze tematy biblijne')}
           badge={idx ? `${idx.studies.length} ${t('home.topicsCount', 'tematów')}` : undefined}
         >
           {idx ? <StudySeries idx={idx} /> : <p className="text-slate-400">{t('common.loading', '…')}</p>}
@@ -159,7 +159,7 @@ export function Home() {
           icon="🎸"
           accent="violet"
           title={t('youth.title', 'Pieśni młodzieżowe')}
-          desc={t('youth.desc', 'Ze śpiewników obozowych – poza tym, co jest w „Śpiewajmy Panu”.')}
+          desc={t('youth.desc', 'Z Campów i zjazdów młodzieżowych')}
         >
           <SongFinder collection="youth" showAllLink />
         </MenuBar>
@@ -177,7 +177,7 @@ export function Home() {
           icon="🙏"
           accent="emerald"
           title={t('prayers.title', 'Dziennik modlitw')}
-          desc={t('prayers.desc', 'Prośby, o które się modlisz – i miejsce na to, jak Bóg odpowiedział.')}
+          desc={t('prayers.desc', 'Twoja lista modlitewna')}
         >
           <PrayerJournal limit={8} />
           <div className="mt-3">

@@ -45,7 +45,7 @@ export function PassageView({ item, bible }: { item: PassageItem; bible?: Bible 
       </div>
 
       {open && (
-        <div className="verse-box mt-2 rounded-lg bg-white border border-slate-200 p-3 text-[0.97rem] text-slate-800">
+        <div className="verse-box mt-2 rounded-lg bg-white border border-slate-200 p-3 text-[0.97em] text-slate-800">
           {item.passage.map((p) => (
             <p key={p.osis} className="mb-1 last:mb-0">
               <span className="font-medium text-brand">{p.ref}</span>{' '}
