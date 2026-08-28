@@ -7,9 +7,16 @@
 html, body, #root { height: 100%; }
 body {
   @apply bg-slate-50 text-slate-900 antialiased;
+  background-image: linear-gradient(rgba(246, 249, 253, .38), rgba(246, 249, 253, .38)), url('/background-light.png');
+  background-position: center top;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
-html.dark body { @apply bg-slate-950 text-slate-100; }
+html.dark body {
+  @apply bg-slate-950 text-slate-100;
+  background-image: linear-gradient(rgba(7, 16, 36, .32), rgba(7, 16, 36, .42)), url('/background-dark.png');
+}
 
 /* Starsze ekrany byly projektowane tylko w ciemnym motywie. Te reguly
    zachowuja ich kontrast w jasnej wersji, zanim zostana odswiezone osobno. */
