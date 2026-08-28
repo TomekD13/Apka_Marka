@@ -35,7 +35,8 @@ Interfejs jest projektowany przede wszystkim dla telefonu: ma prowadzić do bie�
 
 ## Typografia i czytelność
 
-- Stosujemy prostą, systemową typografię bezszeryfową.
+- Czcionką interfejsu jest **Space Grotesk**: menu, nagłówki, przyciski i krótkie opisy.
+- Czcionką do dłuższego czytania jest **Fraunces**: tekst Biblii, studia i materiały czytelnicze.
 - Nagłówki są wyraźnie większe i pogrubione; tekst pomocniczy jest mniejszy oraz mniej kontrastowy.
 - Treść na kartach ma krótkie opisy i jeden jasny cel działania.
 - Minimalny komfort dotykowy jest ważniejszy od gęstości informacji: przyciski i punkty menu mają duże pola klikalne.

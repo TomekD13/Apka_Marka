@@ -2,11 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
-:root { color-scheme: light; }
+:root {
+  color-scheme: light;
+  --font-ui: 'Space Grotesk', Arial, sans-serif;
+  --font-reading: Fraunces, Georgia, serif;
+}
 
 html, body, #root { height: 100%; }
 body {
   @apply bg-slate-50 text-slate-900 antialiased;
+  font-family: var(--font-ui);
   background-image: linear-gradient(rgba(246, 249, 253, .38), rgba(246, 249, 253, .38)), url('/background-light.png');
   background-position: center top;
   background-size: cover;
@@ -17,6 +22,11 @@ html.dark body {
   @apply bg-slate-950 text-slate-100;
   background-image: linear-gradient(rgba(7, 16, 36, .32), rgba(7, 16, 36, .42)), url('/background-dark.png');
 }
+
+button, input, select, textarea { font-family: inherit; }
+
+/* Fraunces jest zarezerwowany dla spokojnego, dluzszego czytania. */
+.reading, .study-prose, .verse-box { font-family: var(--font-reading); }
 
 /* Osobne kadry tla chronia kompozycje gor i lasu po obroceniu telefonu. */
 @media (orientation: landscape) {
