@@ -106,7 +106,16 @@ export function AppNavigation() {
 
     <nav className="no-print fixed inset-x-0 bottom-0 z-30 border-t border-slate-200 bg-white/95 px-2 pb-[max(0.3rem,env(safe-area-inset-bottom))] pt-1 backdrop-blur dark:border-slate-700 dark:bg-slate-950/95">
       <div className="mx-auto grid max-w-xl grid-cols-4">
-        {bottom.map((item) => <Link key={item.to} to={item.to} className={`flex min-h-[62px] flex-col items-center justify-center gap-0.5 rounded-xl text-[11px] font-medium ${pathname.startsWith(item.to) ? 'text-brand dark:text-sky-300' : 'text-slate-500 dark:text-slate-400'}`}><AppIcon name={item.icon} className="h-8 w-8"/><span>{item.label}</span></Link>)}
+        {bottom.map((item) => {
+          const active = pathname.startsWith(item.to)
+          const hope = item.icon === 'hope'
+          const state = hope
+            ? 'hope-bottom-nav'
+            : active
+              ? 'bg-gradient-to-br from-blue-100 to-indigo-100 text-blue-800 ring-1 ring-blue-200 shadow-sm dark:from-sky-400/20 dark:to-indigo-400/20 dark:text-sky-200 dark:ring-sky-300/30'
+              : 'text-slate-500 dark:text-slate-400'
+          return <Link key={item.to} to={item.to} className={`flex min-h-[62px] flex-col items-center justify-center gap-0.5 rounded-xl text-[11px] font-medium transition ${state}`}><AppIcon name={item.icon} className="h-8 w-8"/><span>{item.label}</span></Link>
+        })}
       </div>
     </nav>
   </>

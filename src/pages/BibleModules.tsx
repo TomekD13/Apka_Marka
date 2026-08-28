@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import { useI18n } from '../i18n'
 import { BackLink } from '../components/BackLink'
+import { PageHeading } from '../components/PageHeading'
 import { useSetPlace } from '../place'
 import {
   downloadTranslation,
@@ -229,7 +230,7 @@ export function BibleModulesPage() {
 
   return (
     <div>
-      <h1 className="text-2xl font-semibold">{t('bible.translations', 'Przekłady i tryb offline')}</h1>
+      <PageHeading icon="book" title={t('bible.translations', 'Przekłady i tryb offline')} />
 
       {msg && (
         <p className="mt-3 rounded-lg border border-amber-500/40 bg-amber-500/10 px-3 py-2 text-sm text-amber-100">
@@ -242,7 +243,7 @@ export function BibleModulesPage() {
       ) : (
         <ul className="mt-4 space-y-2">
           {rows.map((r) => (
-            <li key={r.code} className="rounded-xl border border-white/10 bg-slate-900/30 p-3">
+            <li key={r.code} className="gradient-panel rounded-xl border p-3">
               <div className="flex flex-wrap items-center gap-2">
                 <span className="font-semibold text-slate-100">{r.name}</span>
                 <span className="rounded-full bg-slate-700 px-2 py-0.5 text-xs text-slate-200">{r.code}</span>
@@ -304,7 +305,7 @@ export function BibleModulesPage() {
       )}
 
       {sources.filter((x) => !rows?.some((r) => r.code === x.code)).length > 0 && (
-        <section className="mt-6 rounded-xl border border-white/10 bg-slate-900/30 p-3">
+        <section className="gradient-panel mt-6 rounded-xl border p-3">
           <h2 className="font-semibold text-slate-100">
             {t('bible.onlineTitle', 'Przekłady do pobrania z sieci')}
           </h2>
@@ -350,7 +351,7 @@ export function BibleModulesPage() {
       )}
 
       {catalogs.length > 0 && (
-        <section className="mt-6 rounded-xl border border-white/10 bg-slate-900/30 p-3">
+        <section className="gradient-panel mt-6 rounded-xl border p-3">
           <h2 className="font-semibold text-slate-100">
             {t('bible.catalogsTitle', 'Gotowe przekłady do pobrania')}
           </h2>
@@ -382,7 +383,7 @@ export function BibleModulesPage() {
         </section>
       )}
 
-      <section className="mt-6 rounded-xl border border-white/10 bg-slate-900/30 p-3">
+      <section className="gradient-panel mt-6 rounded-xl border p-3">
         <h2 className="font-semibold text-slate-100">{t('bible.addTitle', 'Dodaj własny przekład')}</h2>
         <p className="mt-1 text-sm text-slate-300">
           {t(

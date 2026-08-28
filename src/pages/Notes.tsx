@@ -98,7 +98,7 @@ export function Notes() {
         </Link>
       </div>
 
-      <p className="mb-5 rounded-xl border border-slate-500/25 bg-slate-500/10 p-3 text-sm text-slate-300">
+      <p className="gradient-panel mb-5 rounded-xl border p-3 text-sm text-slate-300">
         {t(
           'notes.privacy',
           'Notatki są zapisane wyłącznie w tej przeglądarce – nie wysyłamy ich nigdzie i nie mamy do nich wglądu. Czyszczenie danych przeglądarki je usunie, dlatego warto robić kopię.'

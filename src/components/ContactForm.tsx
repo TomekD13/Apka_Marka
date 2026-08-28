@@ -64,7 +64,7 @@ export function ContactForm() {
   }
 
   return (
-    <section className="no-print mt-10 rounded-xl border border-slate-700 bg-slate-800/40">
+    <section className="gradient-panel no-print mt-10 rounded-xl border">
       <button
         type="button"
         onClick={() => setOpen((o) => !o)}

@@ -37,7 +37,7 @@ export function Prayers() {
       </BackLink>
       <PageHeading icon="prayer" title={t('prayers.title', 'Dziennik modlitw')} className="mb-4" />
 
-      <p className="mb-5 rounded-xl border border-slate-500/25 bg-slate-500/10 p-3 text-sm text-slate-300">
+      <p className="gradient-panel mb-5 rounded-xl border p-3 text-sm text-slate-300">
         {t(
           'prayers.privacy',
           'Dziennik jest zapisany wyłącznie w tej przeglądarce – nie wysyłamy go nigdzie i nie mamy do niego wglądu. Wyczyszczenie danych przeglądarki go usunie, dlatego warto co jakiś czas zapisać kopię do pliku.'

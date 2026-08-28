@@ -146,7 +146,7 @@ export function BiblePage() {
       </div>
       <p className="mt-1 text-sm text-slate-400">{index.name}</p>
 
-      <div className="mt-4 space-y-3 rounded-xl border border-white/10 bg-slate-900/30 p-3">
+      <div className="gradient-panel mt-4 space-y-3 rounded-xl border p-3">
         <BiblePicker books={index.books} />
         <div className="flex flex-wrap gap-x-4 gap-y-1 text-sm">
           <Link to={`/${lang}/${BIBLE_PATH}/szukaj`} className="text-brand-light hover:underline">

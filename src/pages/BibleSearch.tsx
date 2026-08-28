@@ -4,6 +4,7 @@ import { useI18n } from '../i18n'
 import { BackLink } from '../components/BackLink'
 import { useSetPlace } from '../place'
 import { VerseText } from '../components/VerseText'
+import { PageHeading } from '../components/PageHeading'
 import { formatRef, parseRef, searchBible, type SearchHit, type SearchScope } from '../lib/bible'
 import { BIBLE_PATH, TranslationPicker, useBibleIndex } from './Bible'
 
@@ -74,11 +75,11 @@ export function BibleSearchPage() {
   return (
     <div>
       <div className="flex flex-wrap items-center justify-between gap-2">
-        <h1 className="text-2xl font-semibold">{t('bible.search', 'Szukaj w Biblii')}</h1>
+        <PageHeading icon="search" title={t('bible.search', 'Szukaj w Biblii')} />
         <TranslationPicker code={code} onChange={choose} />
       </div>
 
-      <form onSubmit={submit} className="mt-4 space-y-2 rounded-xl border border-white/10 bg-slate-900/30 p-3">
+      <form onSubmit={submit} className="gradient-panel mt-4 space-y-2 rounded-xl border p-3">
         <div className="flex items-end gap-2">
           <label className="min-w-0 flex-1">
             <span className="mb-1 block text-xs text-slate-300">{t('bible.searchLabel', 'Szukane słowa')}</span>

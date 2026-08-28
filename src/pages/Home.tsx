@@ -16,14 +16,14 @@ function SabbathSchoolCard() {
   }, [lang])
 
   const external = lesson?.url || fallbackUrl(lang)
-  return <article className="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm dark:border-slate-700 dark:bg-slate-900">
+  return <article className="gradient-panel rounded-2xl border p-4">
     <div className="flex items-start gap-3"><span className="rounded-xl bg-sky-100 p-2.5 text-sky-700 dark:bg-sky-400/15 dark:text-sky-300"><AppIcon name="lesson" className="h-6 w-6" /></span><div className="min-w-0 flex-1"><p className="text-sm font-semibold text-sky-700 dark:text-sky-300">{t('home.sabbathSchool', 'Szkoła Sobotnia')}</p><h2 className="mt-0.5 text-lg font-bold text-slate-900 dark:text-white">{lesson?.lessonTitle || t('home.sabbathTitle', 'Bieżąca lekcja')}</h2><p className="mt-1 text-sm text-slate-600 dark:text-slate-300">{lesson?.quarterTitle || t('home.sabbathDesc', 'Bieżąca lekcja i materiały do studium.')}</p></div></div>
     <a href={external} target="_blank" rel="noreferrer" className="mt-4 inline-flex rounded-lg border border-sky-300 px-3 py-2 text-sm font-semibold text-sky-800 hover:bg-sky-50 dark:border-sky-400/50 dark:text-sky-200 dark:hover:bg-sky-400/10">{t('home.openLesson', 'Otwórz lekcję')} <span className="ml-1" aria-hidden>↗</span></a>
   </article>
 }
 
 function ContinueCard({ to, icon, title, desc }: { to: string; icon: 'book' | 'notes' | 'memory'; title: string; desc: string }) {
-  return <Link to={to} className="flex gap-3 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:border-brand/50 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-sky-300/60"><span className="rounded-xl bg-brand/10 p-2.5 text-brand dark:bg-sky-400/15 dark:text-sky-300"><AppIcon name={icon} className="h-6 w-6"/></span><span><span className="block font-semibold text-slate-900 dark:text-white">{title}</span><span className="mt-0.5 block text-sm text-slate-600 dark:text-slate-300">{desc}</span></span></Link>
+  return <Link to={to} className="gradient-panel flex gap-3 rounded-2xl border p-4 transition hover:-translate-y-0.5 hover:border-brand/50 hover:shadow-md dark:hover:border-sky-300/60"><span className="rounded-xl bg-brand/10 p-2.5 text-brand dark:bg-sky-400/15 dark:text-sky-300"><AppIcon name={icon} className="h-6 w-6"/></span><span><span className="block font-semibold text-slate-900 dark:text-white">{title}</span><span className="mt-0.5 block text-sm text-slate-600 dark:text-slate-300">{desc}</span></span></Link>
 }
 
 export function Home() {
@@ -43,6 +43,6 @@ export function Home() {
 
     <section className="mt-8"><div className="mb-3 flex items-end justify-between"><div><h2 className="text-2xl font-bold text-slate-900 dark:text-white">{t('home.continue', 'Kontynuuj')}</h2><p className="mt-1 text-sm text-slate-600 dark:text-slate-300">{t('home.continueDesc', 'Twoje osobiste narzędzia do codziennego wzrostu.')}</p></div></div><div className="space-y-3"><ContinueCard to={`${base}/biblia`} icon="book" title={t('home.readBible', 'Czytaj Biblię')} desc={t('home.readBibleDesc', 'Księgi, rozdziały, wyszukiwanie i zakładki.')} /><ContinueCard to={`${base}/notatki`} icon="notes" title={t('notes.title', 'Moje notatki biblijne')} desc={t('home.notesDesc', 'Zapisz myśl i wróć do niej później.')} /><ContinueCard to={`${base}/fiszki`} icon="memory" title={t('flashcards.cta', 'Ucz się wersetów na pamięć')} desc={t('home.memoryDesc', 'Fiszki i powtórki ważnych tekstów.')} /></div></section>
 
-    <section id="poznaj-boga" className="mt-8 rounded-2xl border border-slate-200 bg-slate-100 p-5 dark:border-slate-700 dark:bg-slate-800"><h2 className="text-xl font-bold text-slate-900 dark:text-white">{t('home.bars.studies', 'Poznaj Boga i Biblię')}</h2><p className="mt-1 text-sm text-slate-600 dark:text-slate-300">{t('home.studiesDesc', 'Lekcje i materiały do samodzielnego studiowania Biblii.')}</p><Link to={`${base}/edukacja`} className="mt-3 inline-flex text-sm font-semibold text-brand hover:underline dark:text-sky-300">{t('home.openStudies', 'Przejdź do materiałów')} →</Link></section>
+    <section id="poznaj-boga" className="gradient-panel mt-8 rounded-2xl border p-5"><h2 className="text-xl font-bold text-slate-900 dark:text-white">{t('home.bars.studies', 'Poznaj Boga i Biblię')}</h2><p className="mt-1 text-sm text-slate-600 dark:text-slate-300">{t('home.studiesDesc', 'Lekcje i materiały do samodzielnego studiowania Biblii.')}</p><Link to={`${base}/edukacja`} className="mt-3 inline-flex text-sm font-semibold text-brand hover:underline dark:text-sky-300">{t('home.openStudies', 'Przejdź do materiałów')} →</Link></section>
   </div>
 }
