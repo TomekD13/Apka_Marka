@@ -6,7 +6,8 @@ export type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' 
 
 export function AppIcon({ name, className = '' }: { name: IconName; className?: string }) {
   if (name === 'prayer') {
-    return <img src={`${import.meta.env.BASE_URL}pray-icon.png`} alt="" aria-hidden className={`object-contain ${className}`} />
+    const iconUrl = `${import.meta.env.BASE_URL}pray-icon.png`
+    return <span aria-hidden className={`block bg-current ${className}`} style={{ maskImage: `url(${iconUrl})`, WebkitMaskImage: `url(${iconUrl})`, maskPosition: 'center', WebkitMaskPosition: 'center', maskRepeat: 'no-repeat', WebkitMaskRepeat: 'no-repeat', maskSize: 'contain', WebkitMaskSize: 'contain' }} />
   }
   if (name === 'hope') {
     return (

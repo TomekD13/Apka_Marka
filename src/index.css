@@ -21,6 +21,47 @@ html:not(.dark) [class*="bg-slate-900"] { background-color: #ffffff !important; 
 html:not(.dark) [class*="bg-slate-800"] { background-color: #f1f5f9 !important; }
 html:not(.dark) [class*="border-slate-600"] { border-color: #cbd5e1 !important; }
 
+/* Karta biezacego materialu: gradient i cienkie linie buduja akcent kampanii
+   bez uzywania napisu #JestNadzieja jako tla. */
+.hope-reading-card {
+  position: relative;
+  isolation: isolate;
+  border: 1px solid rgba(74, 116, 197, .32);
+  background:
+    linear-gradient(132deg, rgba(255,255,255,.9), rgba(237,246,255,.94) 44%, rgba(244,239,255,.92)),
+    linear-gradient(115deg, #d8f8fc, #d9e7ff 52%, #eedcf7);
+  box-shadow: 0 16px 34px rgba(30, 72, 142, .12);
+}
+.hope-reading-card::before,
+.hope-reading-card::after {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  pointer-events: none;
+}
+.hope-reading-card::before {
+  inset: 11px;
+  border: 1px solid rgba(74, 116, 197, .2);
+  border-radius: 11px;
+}
+.hope-reading-card::after {
+  inset: 0;
+  opacity: .45;
+  background-image:
+    linear-gradient(118deg, transparent 0 46%, rgba(62, 117, 217, .25) 46.2% 46.6%, transparent 46.8% 100%),
+    repeating-linear-gradient(0deg, transparent 0 29px, rgba(87, 129, 204, .13) 30px 31px);
+}
+.hope-reading-card__frame { position: relative; z-index: 1; }
+html.dark .hope-reading-card {
+  border-color: rgba(122, 188, 255, .38);
+  background:
+    linear-gradient(132deg, rgba(7,25,52,.96), rgba(16,45,86,.92) 48%, rgba(53,31,91,.94)),
+    linear-gradient(115deg, #063a58, #1b3c86 52%, #5e317d);
+  box-shadow: 0 18px 42px rgba(0, 0, 0, .34);
+}
+html.dark .hope-reading-card::before { border-color: rgba(154, 218, 255, .28); }
+html.dark .hope-reading-card::after { opacity: .52; background-image: linear-gradient(118deg, transparent 0 46%, rgba(99, 218, 246, .34) 46.2% 46.6%, transparent 46.8% 100%), repeating-linear-gradient(0deg, transparent 0 29px, rgba(176, 205, 255, .14) 30px 31px); }
+
 /* Druk zawsze na biało, niezależnie od motywu */
 @media print {
   html.dark, body { background: #fff !important; color: #000 !important; }
