@@ -36,6 +36,7 @@ import type { BibleIndex } from '../types'
 // tak samo jak studia i piesni - kod nie zna ani jednego wersetu.
 
 export const BIBLE_PATH = 'biblia'
+export const BIBLE_LIST_PATH = `${BIBLE_PATH}/czytaj`
 
 /** Spis ksiag wybranego przekladu; przy braku wybranego wraca do domyslnego z serwera. */
 export function useBibleIndex() {
@@ -268,7 +269,7 @@ export function BibleChapterPage() {
     return (
       <p className="text-slate-400">
         {t('bible.noBook', 'Nie ma takiej księgi w tym przekładzie.')}{' '}
-        <Link to={`/${lang}/${BIBLE_PATH}`} className="text-brand-light hover:underline">
+        <Link to={`/${lang}/${BIBLE_LIST_PATH}`} className="text-brand-light hover:underline">
           {t('bible.title', 'Biblia')}
         </Link>
       </p>
@@ -499,7 +500,7 @@ export function BibleChapterPage() {
         >
           ‹ {t('bible.prev', 'Poprzedni rozdział')}
         </button>
-        <BackLink to={`/${lang}/${BIBLE_PATH}`}>{t('bible.allBooks', 'Spis ksiąg')}</BackLink>
+        <BackLink to={`/${lang}/${BIBLE_LIST_PATH}`}>{t('bible.allBooks', 'Spis ksiąg')}</BackLink>
         <button
           type="button"
           onClick={() => step(1)}
@@ -631,7 +632,7 @@ export function BibleBookmarksPage() {
       )}
 
       <div className="mt-5">
-        <BackLink to={`/${lang}/${BIBLE_PATH}`}>{t('bible.allBooks', 'Spis ksiąg')}</BackLink>
+        <BackLink to={`/${lang}/${BIBLE_LIST_PATH}`}>{t('bible.allBooks', 'Spis ksiąg')}</BackLink>
       </div>
     </div>
   )

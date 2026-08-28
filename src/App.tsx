@@ -1,4 +1,4 @@
-import { createBrowserRouter, Outlet, useParams } from 'react-router-dom'
+import { createBrowserRouter, Link, Outlet, useLocation, useParams } from 'react-router-dom'
 import { registerSW } from 'virtual:pwa-register'
 import { I18nProvider } from './i18n'
 import { PlaceProvider } from './place'
@@ -26,11 +26,14 @@ import { BibleModulesPage } from './pages/BibleModules'
 import { Hope } from './pages/Hope'
 import { Settings } from './pages/Settings'
 import { Contact } from './pages/Contact'
+import { BibleHub, BibleStudies, PrayerHub, SongsHub } from './pages/SectionHubs'
+import { BibleLessons } from './pages/BibleLessons'
 
 registerSW({ immediate: true })
 
 function LangLayout() {
   const { lang = 'pl' } = useParams()
+  const { pathname } = useLocation()
   // szczypanie dwoma palcami w tresci do czytania zmienia wielkosc tekstu
   usePinchFontScale()
   return (
@@ -40,6 +43,7 @@ function LangLayout() {
           <div className="min-h-full flex flex-col">
             <AppNavigation />
             <main className="flex-1 w-full max-w-3xl mx-auto px-4 py-6 pb-24">
+              {pathname !== `/${lang}` && <Link to={`/${lang}`} className="no-print mb-4 inline-flex items-center gap-1.5 rounded-lg border border-brand/30 bg-white/75 px-3 py-1.5 text-sm font-semibold text-brand shadow-sm backdrop-blur transition hover:border-brand hover:bg-brand/10 dark:bg-slate-900/75 dark:text-sky-200 dark:hover:bg-sky-400/10"><span aria-hidden>⌂</span> Menu główne</Link>}
               <Outlet />
             </main>
             <AddNoteFab />
@@ -62,7 +66,8 @@ export const router = createBrowserRouter(
         { path: 'search', element: <SearchPage /> },
         { path: 's/:id', element: <Reader /> },
         { path: 'about', element: <About /> },
-        { path: 'biblia', element: <BiblePage /> },
+        { path: 'biblia', element: <BibleHub /> },
+        { path: 'biblia/czytaj', element: <BiblePage /> },
         { path: 'biblia/szukaj', element: <BibleSearchPage /> },
         { path: 'biblia/zakladki', element: <BibleBookmarksPage /> },
         { path: 'biblia/przeklady', element: <BibleModulesPage /> },
@@ -73,11 +78,15 @@ export const router = createBrowserRouter(
         { path: 'spiewnik/:nr', element: <SongPage collection="hymnal" /> },
         { path: 'piesni-mlodziezowe', element: <SongsPage collection="youth" /> },
         { path: 'piesni-mlodziezowe/:nr', element: <SongPage collection="youth" /> },
+        { path: 'piesni', element: <SongsHub /> },
+        { path: 'modlitwa', element: <PrayerHub /> },
         { path: 'modlitwy', element: <Prayers /> },
         { path: '40-dni', element: <Pray40 /> },
         { path: '40-dni/:day', element: <Pray40DayPage /> },
         { path: 'edukacja', element: <Edu /> },
         { path: 'edukacja/:nr', element: <EduItemPage /> },
+        { path: 'poznaj-boga-i-biblie', element: <BibleStudies /> },
+        { path: 'lekcje-biblijne', element: <BibleLessons /> },
         { path: 'jest-nadzieja', element: <Hope /> },
         { path: 'ustawienia', element: <Settings /> },
         { path: 'kontakt', element: <Contact /> },

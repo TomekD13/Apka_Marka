@@ -6,7 +6,7 @@ import { useSetPlace } from '../place'
 import { VerseText } from '../components/VerseText'
 import { PageHeading } from '../components/PageHeading'
 import { formatRef, parseRef, searchBible, type SearchHit, type SearchScope } from '../lib/bible'
-import { BIBLE_PATH, TranslationPicker, useBibleIndex } from './Bible'
+import { BIBLE_LIST_PATH, BIBLE_PATH, TranslationPicker, useBibleIndex } from './Bible'
 
 // Wyszukiwarka po calym przekladzie. Tekst pobiera sie ksiega po ksiedze, wiec
 // pierwsze trafienia widac, zanim sciagnie sie cala Biblia (3,9 MB). Po „Pobierz
@@ -118,7 +118,7 @@ export function BibleSearchPage() {
               {label}
             </label>
           ))}
-          <BackLink to={`/${lang}/${BIBLE_PATH}`} className="ml-auto">
+          <BackLink to={`/${lang}/${BIBLE_LIST_PATH}`} className="ml-auto">
             {t('bible.allBooks', 'Spis ksiąg')}
           </BackLink>
         </div>

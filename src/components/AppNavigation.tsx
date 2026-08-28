@@ -60,8 +60,8 @@ export function AppNavigation() {
 
   const bottom = [
     { to: `${home}/biblia`, label: t('nav.bible', 'Biblia'), icon: 'book' as IconName },
-    { to: `${home}/spiewnik`, label: t('nav.songs', 'Pieśni'), icon: 'music' as IconName },
-    { to: `${home}/modlitwy`, label: t('nav.prayer', 'Modlitwa'), icon: 'prayer' as IconName },
+    { to: `${home}/piesni`, label: t('nav.songs', 'Pieśni'), icon: 'music' as IconName },
+    { to: `${home}/modlitwa`, label: t('nav.prayer', 'Modlitwa'), icon: 'prayer' as IconName },
     { to: `${home}/jest-nadzieja`, label: '#JestNadzieja', icon: 'hope' as IconName },
   ]
 
@@ -78,9 +78,9 @@ export function AppNavigation() {
       <aside className="h-full w-[min(86vw,340px)] overflow-y-auto bg-white p-4 shadow-2xl dark:bg-slate-900" onMouseDown={(event) => event.stopPropagation()}>
         <div className="mb-5 flex items-center justify-between"><Link to={home} onClick={() => setOpen(false)} className="text-lg font-bold text-slate-900 dark:text-white">Żywe Słowo</Link><button type="button" onClick={() => setOpen(false)} aria-label={t('common.close', 'Zamknij')} className="rounded-lg p-2 text-slate-600 hover:bg-slate-100 dark:text-slate-200 dark:hover:bg-white/10"><AppIcon name="close" className="h-5 w-5"/></button></div>
         <DrawerGroup icon="book" title={t('nav.bible', 'Biblia')} open={bibleOpen} onToggle={() => setBibleOpen(!bibleOpen)}>
-          <DrawerLink to={`${home}/biblia`} icon="book" onClick={() => setOpen(false)}>{t('nav.bibleText', 'Biblia')}</DrawerLink>
-          <DrawerLink to={`${home}/#poznaj-boga`} icon="lesson" onClick={() => setOpen(false)}>{t('home.bars.studies', 'Poznaj Boga i Biblię')}</DrawerLink>
-          <DrawerLink to={`${home}/edukacja`} icon="lesson" onClick={() => setOpen(false)}>{t('nav.lessons', 'Lekcje biblijne')}</DrawerLink>
+          <DrawerLink to={`${home}/biblia/czytaj`} icon="book" onClick={() => setOpen(false)}>{t('nav.bibleText', 'Biblia')}</DrawerLink>
+          <DrawerLink to={`${home}/poznaj-boga-i-biblie`} icon="lesson" onClick={() => setOpen(false)}>{t('home.bars.studies', 'Poznaj Boga i Biblię')}</DrawerLink>
+          <DrawerLink to={`${home}/lekcje-biblijne`} icon="lesson" onClick={() => setOpen(false)}>{t('nav.lessons', 'Lekcje biblijne')}</DrawerLink>
           <DrawerLink to={`${home}/notatki`} icon="notes" onClick={() => setOpen(false)}>{t('notes.title', 'Moje notatki biblijne')}</DrawerLink>
           <DrawerLink to={`${home}/fiszki`} icon="memory" onClick={() => setOpen(false)}>{t('flashcards.cta', 'Ucz się wersetów na pamięć')}</DrawerLink>
           <DrawerLink to={`${home}/okazje`} icon="occasion" onClick={() => setOpen(false)}>{t('occasions.cta', 'Teksty na różne okazje')}</DrawerLink>

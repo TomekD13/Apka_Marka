@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { useI18n } from '../i18n'
-import { BIBLE_PATH, TranslationPicker, useBibleIndex } from '../pages/Bible'
+import { BIBLE_LIST_PATH, BIBLE_PATH, TranslationPicker, useBibleIndex } from '../pages/Bible'
 import { BiblePicker } from './BiblePicker'
 import { getLastRead, listBookmarks } from '../lib/bookmarks'
 
@@ -58,7 +58,7 @@ export function BibleFinder() {
               {t('bible.continue', 'Czytaj dalej')}: {last.ref}
             </Link>
           )}
-          <Link to={`/${lang}/${BIBLE_PATH}`} className="text-brand-light hover:underline">
+          <Link to={`/${lang}/${BIBLE_LIST_PATH}`} className="text-brand-light hover:underline">
             {t('bible.allBooks', 'Spis ksiąg')}
           </Link>
           <Link to={`/${lang}/${BIBLE_PATH}/przeklady`} className="text-brand-light hover:underline">

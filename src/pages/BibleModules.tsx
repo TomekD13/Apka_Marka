@@ -14,7 +14,7 @@ import { installFromFile, installFromUrl, removeModule, type InstalledMeta } fro
 import { installFromSource, loadCatalogs, loadSources } from '../lib/bibleOnline'
 import { versificationGap } from '../lib/yesModule'
 import type { BibleCatalog, BibleCatalogItem, BibleSource } from '../types'
-import { BIBLE_PATH } from './Bible'
+import { BIBLE_LIST_PATH } from './Bible'
 
 // Przeklady i tryb offline.
 //
@@ -443,7 +443,7 @@ export function BibleModulesPage() {
       </section>
 
       <div className="mt-5">
-        <BackLink to={`/${lang}/${BIBLE_PATH}`}>{t('bible.allBooks', 'Spis ksiąg')}</BackLink>
+        <BackLink to={`/${lang}/${BIBLE_LIST_PATH}`}>{t('bible.allBooks', 'Spis ksiąg')}</BackLink>
       </div>
     </div>
   )
