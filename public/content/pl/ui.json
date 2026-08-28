@@ -8,7 +8,14 @@
     "back": "Wstecz",
     "search": "Szukaj",
     "account": "Konto",
-    "signIn": "Zaloguj"
+    "signIn": "Zaloguj",
+    "menu": "Menu",
+    "bible": "Biblia",
+    "bibleText": "Biblia",
+    "songs": "Pieśni",
+    "prayer": "Modlitwa",
+    "lessons": "Lekcje biblijne",
+    "settings": "Ustawienia"
   },
   "home": {
     "projectTitle": "Żywe Słowo",
@@ -34,7 +41,25 @@
       "hopeDesc": "Wspólna modlitwa i materiały do dzielenia się nadzieją.",
       "pray40": "40 dni modlitwy",
       "edu": "Materiały edukacyjne"
-    }
+    },
+    "readings": "Czytania",
+    "readingsIntro": "Znajdź materiał na dziś i wróć do tego, co już rozpoczęte.",
+    "currentReading": "Bieżący materiał",
+    "pray40": "40 dni modlitwy",
+    "pray40Desc": "Codzienny materiał w ramach #JestNadzieja. W tym miejscu pojawią się też kolejne materiały edukacyjne.",
+    "openToday": "Otwórz dzisiejszy materiał",
+    "sabbathSchool": "Szkoła Sobotnia",
+    "sabbathTitle": "Bieżąca lekcja",
+    "sabbathDesc": "Bieżąca lekcja i materiały do studium.",
+    "openLesson": "Otwórz lekcję",
+    "continue": "Kontynuuj",
+    "continueDesc": "Twoje osobiste narzędzia do codziennego wzrostu.",
+    "readBible": "Czytaj Biblię",
+    "readBibleDesc": "Księgi, rozdziały, wyszukiwanie i zakładki.",
+    "notesDesc": "Zapisz myśl i wróć do niej później.",
+    "memoryDesc": "Fiszki i powtórki ważnych tekstów.",
+    "studiesDesc": "Lekcje i materiały do samodzielnego studiowania Biblii.",
+    "openStudies": "Przejdź do materiałów"
   },
   "reader": {
     "levels": "Poziom",
@@ -372,6 +397,15 @@
     "next": "Następny materiał",
     "missing": "Nie ma takiego materiału.",
     "unavailable": "Materiały są niedostępne."
+  },
+  "settings": {
+    "intro": "Wybierz wygląd, który jest najwygodniejszy dla Ciebie.",
+    "appearance": "Wygląd aplikacji",
+    "light": "Light mode",
+    "lightDesc": "Jasny, czytelny wygląd na dzień.",
+    "dark": "Dark mode",
+    "darkDesc": "Ciemny wygląd wygodny wieczorem.",
+    "hopeColor": "Kolory #JestNadzieja są oparte na oryginalnym gradiencie z materiału kampanii."
   },
   "account": {
     "title": "Twoje konto",

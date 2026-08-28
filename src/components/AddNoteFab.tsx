@@ -27,7 +27,7 @@ export function AddNoteFab() {
         onClick={() => setOpen(true)}
         title={t('notes.new', 'Nowa notatka')}
         aria-label={t('notes.new', 'Nowa notatka')}
-        className="no-print fixed bottom-4 right-4 z-40 flex items-center gap-2 rounded-full bg-brand/95 px-4 py-2.5 text-sm font-semibold text-white shadow-lg ring-1 ring-white/20 backdrop-blur transition hover:bg-brand-light"
+        className="no-print fixed bottom-20 right-4 z-40 flex items-center gap-2 rounded-full bg-brand/95 px-4 py-2.5 text-sm font-semibold text-white shadow-lg ring-1 ring-white/20 backdrop-blur transition hover:bg-brand-light"
       >
         <span className="text-base leading-none" aria-hidden>✎</span>
         <span className="hidden sm:inline">{t('notes.fabShort', 'Notatka')}</span>
@@ -45,7 +45,7 @@ export function AddNoteFab() {
       )}
 
       {saved && (
-        <div className="no-print fixed bottom-20 right-4 z-40 rounded-lg bg-slate-800 px-3 py-1.5 text-sm text-slate-100 shadow-lg ring-1 ring-white/10">
+        <div className="no-print fixed bottom-36 right-4 z-40 rounded-lg bg-slate-800 px-3 py-1.5 text-sm text-slate-100 shadow-lg ring-1 ring-white/10">
           {t('notes.saved', 'Zapisano notatkę')}
         </div>
       )}

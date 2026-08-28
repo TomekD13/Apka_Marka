@@ -1,247 +1,49 @@
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useI18n } from '../i18n'
-import { loadIndex } from '../content'
-import { FeaturedVideo } from '../components/FeaturedVideo'
-import { StudyCard } from '../components/StudyCard'
-import { ContactForm } from '../components/ContactForm'
-import { MenuBar, type Accent } from '../components/MenuBar'
-import { SabbathSchoolBar } from '../components/SabbathSchoolBar'
-import { SongFinder } from './Songs'
-import { PrayerJournal } from '../components/PrayerJournal'
-import { Pray40List } from './Pray40'
-import { EduList } from './Edu'
-import { NotesList } from './Notes'
-import { BibleFinder } from '../components/BibleFinder'
-import type { IndexFile } from '../types'
+import { fallbackUrl, findCurrentLesson, type CurrentLesson } from '../lib/sabbathSchool'
+import { AppIcon } from '../components/AppNavigation'
 
-// Kolor przypisany serii - ten sam porzadek co wczesniej, zeby serie zostaly rozpoznawalne.
-const SERIES_ACCENTS: Accent[] = ['sky', 'emerald', 'amber', 'violet', 'rose']
+function SabbathSchoolCard() {
+  const { lang, t } = useI18n()
+  const [lesson, setLesson] = useState<CurrentLesson | null>(null)
 
-/** Serie tematow - kazda zwija sie osobno, zeby menu zostalo krotkie. */
-function StudySeries({ idx }: { idx: IndexFile }) {
-  const { t } = useI18n()
-  const series = [...idx.series].sort((a, b) => a.order - b.order)
-  const known = new Set(series.map((s) => s.id))
-  const orphans = idx.studies.filter((s) => !s.seriesId || !known.has(s.seriesId))
+  useEffect(() => {
+    let alive = true
+    findCurrentLesson(lang).then((value) => alive && setLesson(value)).catch(() => alive && setLesson(null))
+    return () => { alive = false }
+  }, [lang])
 
-  return (
-    <div className="space-y-2">
-      {series.map((s, i) => {
-        const list = idx.studies
-          .filter((st) => st.seriesId === s.id)
-          .sort((a, b) => a.order - b.order)
-        if (list.length === 0) return null
-        return (
-          <MenuBar
-            key={s.id}
-            id={`serie-${s.id}`}
-            title={s.title}
-            badge={`${list.length} ${t('home.topicsCount', 'tematów')}`}
-            accent={SERIES_ACCENTS[i % SERIES_ACCENTS.length]}
-          >
-            <div className="space-y-1.5">
-              {list.map((st) => (
-                <StudyCard key={st.id} study={st} />
-              ))}
-            </div>
-          </MenuBar>
-        )
-      })}
+  const external = lesson?.url || fallbackUrl(lang)
+  return <article className="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm dark:border-slate-700 dark:bg-slate-900">
+    <div className="flex items-start gap-3"><span className="rounded-xl bg-sky-100 p-2.5 text-sky-700 dark:bg-sky-400/15 dark:text-sky-300"><AppIcon name="lesson" className="h-6 w-6" /></span><div className="min-w-0 flex-1"><p className="text-sm font-semibold text-sky-700 dark:text-sky-300">{t('home.sabbathSchool', 'Szkoła Sobotnia')}</p><h2 className="mt-0.5 text-lg font-bold text-slate-900 dark:text-white">{lesson?.lessonTitle || t('home.sabbathTitle', 'Bieżąca lekcja')}</h2><p className="mt-1 text-sm text-slate-600 dark:text-slate-300">{lesson?.quarterTitle || t('home.sabbathDesc', 'Bieżąca lekcja i materiały do studium.')}</p></div></div>
+    <a href={external} target="_blank" rel="noreferrer" className="mt-4 inline-flex rounded-lg border border-sky-300 px-3 py-2 text-sm font-semibold text-sky-800 hover:bg-sky-50 dark:border-sky-400/50 dark:text-sky-200 dark:hover:bg-sky-400/10">{t('home.openLesson', 'Otwórz lekcję')} <span className="ml-1" aria-hidden>↗</span></a>
+  </article>
+}
 
-      {orphans.length > 0 && (
-        <MenuBar
-          id="serie-inne"
-          title={t('home.topic', 'Różne tematy biblijne')}
-          badge={`${orphans.length} ${t('home.topicsCount', 'tematów')}`}
-          accent="slate"
-        >
-          <div className="space-y-1.5">
-            {orphans.map((st) => (
-              <StudyCard key={st.id} study={st} />
-            ))}
-          </div>
-        </MenuBar>
-      )}
-    </div>
-  )
+function ContinueCard({ to, icon, title, desc }: { to: string; icon: 'book' | 'notes' | 'memory'; title: string; desc: string }) {
+  return <Link to={to} className="flex gap-3 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:border-brand/50 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-sky-300/60"><span className="rounded-xl bg-brand/10 p-2.5 text-brand dark:bg-sky-400/15 dark:text-sky-300"><AppIcon name={icon} className="h-6 w-6"/></span><span><span className="block font-semibold text-slate-900 dark:text-white">{title}</span><span className="mt-0.5 block text-sm text-slate-600 dark:text-slate-300">{desc}</span></span></Link>
 }
 
 export function Home() {
   const { lang, t } = useI18n()
-  const [idx, setIdx] = useState<IndexFile | null>(null)
+  const base = `/${lang}`
+  return <div className="mx-auto max-w-xl">
+    <section>
+      <p className="text-sm font-semibold text-brand dark:text-sky-300">Żywe Słowo</p>
+      <h1 className="mt-1 text-3xl font-bold tracking-tight text-slate-900 dark:text-white">{t('home.readings', 'Czytania')}</h1>
+      <p className="mt-2 text-slate-600 dark:text-slate-300">{t('home.readingsIntro', 'Znajdź materiał na dziś i wróć do tego, co już rozpoczęte.')}</p>
+    </section>
 
-  useEffect(() => {
-    setIdx(null)
-    loadIndex(lang).then(setIdx).catch(() => setIdx(null))
-  }, [lang])
+    <section className="mt-6 overflow-hidden rounded-2xl border border-slate-700 bg-slate-950 shadow-lg">
+      <img src={`${import.meta.env.BASE_URL}jestnadzieja-brand.png`} alt="#JestNadzieja" className="block w-full" />
+      <div className="p-5 text-white"><p className="text-sm font-semibold text-cyan-200">{t('home.currentReading', 'Bieżący materiał')}</p><h2 className="mt-1 text-2xl font-bold">{t('home.pray40', '40 dni modlitwy')}</h2><p className="mt-2 text-sm text-slate-200">{t('home.pray40Desc', 'Codzienny materiał w ramach #JestNadzieja. W tym miejscu pojawią się też kolejne materiały edukacyjne.')}</p><Link to={`${base}/40-dni/1`} className="mt-4 inline-flex rounded-lg bg-white px-3 py-2 text-sm font-semibold text-slate-900 hover:bg-slate-100">{t('home.openToday', 'Otwórz dzisiejszy materiał')} <span className="ml-1" aria-hidden>→</span></Link></div>
+    </section>
 
-  const yt = idx?.featured?.youtube
+    <section className="mt-4"><SabbathSchoolCard /></section>
 
-  return (
-    <div>
-      <div className="mb-8 overflow-hidden rounded-2xl shadow-lg">
-        <img
-          src={`${import.meta.env.BASE_URL}jestnadzieja-1280.png`}
-          srcSet={`${import.meta.env.BASE_URL}jestnadzieja-1280.png 1280w, ${import.meta.env.BASE_URL}jestnadzieja-2560.png 2560w`}
-          sizes="(max-width: 768px) 100vw, 768px"
-          alt="#JestNadzieja"
-          className="block w-full"
-        />
-      </div>
+    <section className="mt-8"><div className="mb-3 flex items-end justify-between"><div><h2 className="text-2xl font-bold text-slate-900 dark:text-white">{t('home.continue', 'Kontynuuj')}</h2><p className="mt-1 text-sm text-slate-600 dark:text-slate-300">{t('home.continueDesc', 'Twoje osobiste narzędzia do codziennego wzrostu.')}</p></div></div><div className="space-y-3"><ContinueCard to={`${base}/biblia`} icon="book" title={t('home.readBible', 'Czytaj Biblię')} desc={t('home.readBibleDesc', 'Księgi, rozdziały, wyszukiwanie i zakładki.')} /><ContinueCard to={`${base}/notatki`} icon="notes" title={t('notes.title', 'Moje notatki biblijne')} desc={t('home.notesDesc', 'Zapisz myśl i wróć do niej później.')} /><ContinueCard to={`${base}/fiszki`} icon="memory" title={t('flashcards.cta', 'Ucz się wersetów na pamięć')} desc={t('home.memoryDesc', 'Fiszki i powtórki ważnych tekstów.')} /></div></section>
 
-      <FeaturedVideo playlistId={yt?.playlistId} videoIds={yt?.videoIds} />
-
-      <nav className="space-y-3">
-        {/* Biblia stoi pierwsza - to po nia czytelnik siega najczesciej. */}
-        <MenuBar
-          id="biblia"
-          icon="📕"
-          accent="emerald"
-          title={t('bible.title', 'Biblia')}
-          desc={t('bible.desc', 'Cały tekst Pisma – księga, rozdział, werset, wyszukiwanie i zakładki.')}
-        >
-          <BibleFinder />
-        </MenuBar>
-
-        <MenuBar
-          id="poznaj-boga"
-          icon="📖"
-          accent="sky"
-          title={t('home.bars.studies', 'Poznaj Boga i Biblię')}
-          desc={t('home.bars.studiesDesc', 'Najważniejsze tematy biblijne')}
-          badge={idx ? `${idx.studies.length} ${t('home.topicsCount', 'tematów')}` : undefined}
-        >
-          {idx ? <StudySeries idx={idx} /> : <p className="text-slate-400">{t('common.loading', '…')}</p>}
-        </MenuBar>
-
-        <MenuBar
-          id="jest-nadzieja"
-          accent="hope"
-          logo={`${import.meta.env.BASE_URL}jestnadzieja-logo.png`}
-          title={t('home.bars.hope', '#JestNadzieja')}
-          desc={t('home.bars.hopeDesc', 'Wspólna modlitwa i materiały do dzielenia się nadzieją.')}
-        >
-          <div className="space-y-2">
-            <MenuBar
-              id="hope-40"
-              title={t('home.bars.pray40', '40 dni modlitwy')}
-              desc={t('pray40.desc', '40 biblijnych historii nadziei – w wersji krótkiej i pełnej.')}
-              accent="hope"
-            >
-              <Pray40List limit={8} />
-            </MenuBar>
-            <MenuBar
-              id="hope-edu"
-              title={t('home.bars.edu', 'Materiały edukacyjne')}
-              desc={t('edu.desc', 'Krótkie szkolenia o człowieku i wierze – w wersji krótkiej i pełnej.')}
-              accent="hope"
-            >
-              <EduList limit={8} />
-            </MenuBar>
-          </div>
-        </MenuBar>
-
-        <SabbathSchoolBar />
-
-        <MenuBar
-          id="spiewnik"
-          icon="🎵"
-          accent="amber"
-          title={t('songs.title', 'Śpiewnik')}
-          desc={t('songs.desc', 'Pieśni ze śpiewnika „Śpiewajmy Panu”.')}
-        >
-          <SongFinder collection="hymnal" showAllLink />
-        </MenuBar>
-
-        <MenuBar
-          id="piesni-mlodziezowe"
-          icon="🎸"
-          accent="violet"
-          title={t('youth.title', 'Pieśni młodzieżowe')}
-          desc={t('youth.desc', 'Z Campów i zjazdów młodzieżowych')}
-        >
-          <SongFinder collection="youth" showAllLink />
-        </MenuBar>
-
-        <MenuBar
-          icon="▶"
-          accent="rose"
-          title={t('worship.title', 'Pieśni z muzyką i tekstem')}
-          desc={t('worship.desc', 'Kanał „Uwielbienie z Tekstem” w YouTube.')}
-          href="https://www.youtube.com/@UwielbieniezTekstem"
-        />
-
-        <MenuBar
-          id="modlitwy"
-          icon="🙏"
-          accent="emerald"
-          title={t('prayers.title', 'Dziennik modlitw')}
-          desc={t('prayers.desc', 'Twoja lista modlitewna')}
-        >
-          <PrayerJournal limit={8} />
-          <div className="mt-3">
-            <Link
-              to={`/${lang}/modlitwy`}
-              className="rounded-lg border border-slate-500/40 px-3 py-1.5 text-sm text-slate-200 hover:border-slate-300"
-            >
-              {t('prayers.manage', 'Pełny dziennik i kopia zapasowa')}
-            </Link>
-          </div>
-        </MenuBar>
-
-        <MenuBar
-          id="notatki"
-          icon="✎"
-          accent="rose"
-          title={t('notes.title', 'Moje notatki biblijne')}
-          desc={t('notes.desc', 'Twoje zapiski - zostają w tej przeglądarce.')}
-        >
-          <NotesList limit={5} />
-          <div className="mt-3 flex flex-wrap gap-3">
-            <Link
-              to={`/${lang}/notatki/nowa`}
-              className="rounded-lg bg-brand px-3 py-1.5 text-sm font-semibold text-white hover:bg-brand-light"
-            >
-              + {t('notes.new', 'Nowa notatka')}
-            </Link>
-            <Link
-              to={`/${lang}/notatki`}
-              className="rounded-lg border border-slate-500/40 px-3 py-1.5 text-sm text-slate-200 hover:border-slate-300"
-            >
-              {t('notes.manage', 'Wszystkie notatki i kopia zapasowa')}
-            </Link>
-          </div>
-        </MenuBar>
-
-        <MenuBar
-          icon="🧠"
-          accent="amber"
-          title={t('flashcards.cta', 'Ucz się wersetów na pamięć')}
-          desc={t('flashcards.ctaDesc', '50 najważniejszych tekstów Biblii - fiszki z powtórkami.')}
-          to={`/${lang}/fiszki`}
-        />
-
-        <MenuBar
-          icon="📖"
-          accent="sky"
-          title={t('occasions.cta', 'Teksty na różną okazję')}
-          desc={t('occasions.ctaDesc', 'Wersety na smutek, radość, lęk, chorobę i wiele innych - gotowe do wysłania.')}
-          to={`/${lang}/okazje`}
-        />
-      </nav>
-
-      <ContactForm />
-
-      <p className="no-print mt-8 text-center text-xs text-slate-400">
-        <a href={t('contact.whoUrl', 'https://adwent.pl')} target="_blank" rel="noopener noreferrer" className="hover:text-brand-light">
-          {t('contact.who', 'Kim jesteśmy?')}
-        </a>
-        <span className="mx-2" aria-hidden>·</span>
-        <a href={t('about.publisherUrl', 'https://www.facebook.com/pastormarek')} target="_blank" rel="noopener noreferrer" className="hover:text-brand-light">
-          {t('about.publisher')}
-        </a>
-      </p>
-    </div>
-  )
+    <section id="poznaj-boga" className="mt-8 rounded-2xl border border-slate-200 bg-slate-100 p-5 dark:border-slate-700 dark:bg-slate-800"><h2 className="text-xl font-bold text-slate-900 dark:text-white">{t('home.bars.studies', 'Poznaj Boga i Biblię')}</h2><p className="mt-1 text-sm text-slate-600 dark:text-slate-300">{t('home.studiesDesc', 'Lekcje i materiały do samodzielnego studiowania Biblii.')}</p><Link to={`${base}/edukacja`} className="mt-3 inline-flex text-sm font-semibold text-brand hover:underline dark:text-sky-300">{t('home.openStudies', 'Przejdź do materiałów')} →</Link></section>
+  </div>
 }

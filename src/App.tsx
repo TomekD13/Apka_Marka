@@ -2,7 +2,8 @@ import { createBrowserRouter, Outlet, useParams } from 'react-router-dom'
 import { registerSW } from 'virtual:pwa-register'
 import { I18nProvider } from './i18n'
 import { PlaceProvider } from './place'
-import { Header } from './components/Header'
+import { ThemeProvider } from './theme'
+import { AppNavigation } from './components/AppNavigation'
 import { AddNoteFab } from './components/AddNoteFab'
 import { usePinchFontScale } from './components/FontScale'
 import { LangGate } from './pages/LangGate'
@@ -22,6 +23,9 @@ import { Account } from './pages/Account'
 import { BibleBookmarksPage, BibleChapterPage, BiblePage } from './pages/Bible'
 import { BibleSearchPage } from './pages/BibleSearch'
 import { BibleModulesPage } from './pages/BibleModules'
+import { Hope } from './pages/Hope'
+import { Settings } from './pages/Settings'
+import { Contact } from './pages/Contact'
 
 registerSW({ immediate: true })
 
@@ -30,17 +34,19 @@ function LangLayout() {
   // szczypanie dwoma palcami w tresci do czytania zmienia wielkosc tekstu
   usePinchFontScale()
   return (
-    <I18nProvider lang={lang}>
-      <PlaceProvider>
-        <div className="min-h-full flex flex-col">
-          <Header />
-          <main className="flex-1 w-full max-w-3xl mx-auto px-4 py-6">
-            <Outlet />
-          </main>
-          <AddNoteFab />
-        </div>
-      </PlaceProvider>
-    </I18nProvider>
+    <ThemeProvider>
+      <I18nProvider lang={lang}>
+        <PlaceProvider>
+          <div className="min-h-full flex flex-col">
+            <AppNavigation />
+            <main className="flex-1 w-full max-w-3xl mx-auto px-4 py-6 pb-24">
+              <Outlet />
+            </main>
+            <AddNoteFab />
+          </div>
+        </PlaceProvider>
+      </I18nProvider>
+    </ThemeProvider>
   )
 }
 
@@ -72,6 +78,9 @@ export const router = createBrowserRouter(
         { path: '40-dni/:day', element: <Pray40DayPage /> },
         { path: 'edukacja', element: <Edu /> },
         { path: 'edukacja/:nr', element: <EduItemPage /> },
+        { path: 'jest-nadzieja', element: <Hope /> },
+        { path: 'ustawienia', element: <Settings /> },
+        { path: 'kontakt', element: <Contact /> },
         { path: 'konto', element: <Account /> },
         { path: 'notatki', element: <Notes /> },
         { path: 'notatki/:id', element: <NoteEdit /> }
