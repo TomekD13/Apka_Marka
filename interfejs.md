@@ -30,6 +30,8 @@ Interfejs jest projektowany przede wszystkim dla telefonu: ma prowadzić do bie�
 - Kolory #JestNadzieja pochodzą z oryginalnej grafiki kampanii: gradient od cyjanu przez niebieski i fiolet do różu.
 - Gradient #JestNadzieja jest akcentem marki, a nie uniwersalnym kolorem wszystkich elementów. Nie stosujemy samodzielnego różu jako głównego koloru light mode.
 - Oryginalna grafika `Grafiki/JestNadzieja_clean_1280.png` jest używana jako źródło banerów i charakteru kampanii.
+- Nagłówki podstron mogą używać gradientowego tła w granacie, błękicie i fiolecie, z jasnym tekstem i ikoną. Ten motyw ma wejść do aplikacji jako ważny element rozpoznawalny.
+- Boksy podsumowujące, cytaty i najważniejsze wezwania do działania mogą korzystać z łagodnych gradientów zamiast jednolitego tła. Gradient musi zachować wysoki kontrast tekstu i pozostać spokojny wizualnie.
 
 ## Typografia i czytelność
 
