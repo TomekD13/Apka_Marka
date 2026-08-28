@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useNavigate, useParams, useSearchParams } from 'react-router-dom'
 import { useI18n } from '../i18n'
 import { BackLink } from '../components/BackLink'
+import { PageHeading } from '../components/PageHeading'
 import { deleteNote, exportNotes, getNote, importNotes, listNotes, saveNote } from '../lib/notes'
 import type { BibleNote } from '../types'
 
@@ -88,7 +89,7 @@ export function Notes() {
         {t('nav.topics', 'Menu główne')}
       </BackLink>
       <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
-        <h1 className="text-2xl font-bold text-slate-100">{t('notes.title', 'Moje notatki biblijne')}</h1>
+        <PageHeading icon="notes" title={t('notes.title', 'Moje notatki biblijne')} />
         <Link
           to={`/${lang}/notatki/nowa`}
           className="rounded-lg bg-brand px-3 py-1.5 text-sm font-semibold text-white hover:bg-brand-light"

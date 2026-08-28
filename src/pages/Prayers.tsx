@@ -2,6 +2,7 @@ import { useRef, useState } from 'react'
 import { useI18n } from '../i18n'
 import { BackLink } from '../components/BackLink'
 import { PrayerJournal } from '../components/PrayerJournal'
+import { PageHeading } from '../components/PageHeading'
 import { exportPrayers, importPrayers, listPrayers } from '../lib/prayers'
 
 export function Prayers() {
@@ -34,7 +35,7 @@ export function Prayers() {
       <BackLink to={`/${lang}`} className="mb-4">
         {t('nav.topics', 'Menu główne')}
       </BackLink>
-      <h1 className="mb-4 text-2xl font-bold text-slate-100">{t('prayers.title', 'Dziennik modlitw')}</h1>
+      <PageHeading icon="prayer" title={t('prayers.title', 'Dziennik modlitw')} className="mb-4" />
 
       <p className="mb-5 rounded-xl border border-slate-500/25 bg-slate-500/10 p-3 text-sm text-slate-300">
         {t(

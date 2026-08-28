@@ -7,6 +7,7 @@ import { FontScale } from '../components/FontScale'
 import { VerseText } from '../components/VerseText'
 import { VerseActionBar } from '../components/VerseActionBar'
 import { BackLink } from '../components/BackLink'
+import { PageHeading } from '../components/PageHeading'
 import {
   formatRef,
   getBibleSplit,
@@ -140,7 +141,7 @@ export function BiblePage() {
         {t('nav.topics', 'Menu główne')}
       </BackLink>
       <div className="flex flex-wrap items-center justify-between gap-2">
-        <h1 className="text-2xl font-semibold">{t('bible.title', 'Biblia')}</h1>
+        <PageHeading icon="book" title={t('bible.title', 'Biblia')} />
         <TranslationPicker code={code} onChange={choose} />
       </div>
       <p className="mt-1 text-sm text-slate-400">{index.name}</p>

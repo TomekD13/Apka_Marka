@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import { useI18n } from '../i18n'
 import { BackLink } from '../components/BackLink'
 import { FontScale } from '../components/FontScale'
+import { PageHeading } from '../components/PageHeading'
 import { loadOccasions, loadBible } from '../content'
 import { ShareDialog } from '../components/ShareDialog'
 import type { Bible, Occasions as OccData, OccasionVerse } from '../types'
@@ -52,7 +53,7 @@ export function Occasions() {
         <BackLink to={`/${lang}`}>{t('nav.topics', 'Menu główne')}</BackLink>
         <FontScale />
       </div>
-      <h1 className="text-2xl font-bold text-slate-100">{oc.title || t('occasions.title', 'Teksty na różną okazję')}</h1>
+      <PageHeading icon="occasion" title={oc.title || t('occasions.title', 'Teksty na różną okazję')} />
       <p className="mt-1 text-slate-300">{t('occasions.intro', 'Wybierz okazję, a znajdziesz dopasowane fragmenty Pisma.')}</p>
 
       <div className="mt-4 space-y-2">

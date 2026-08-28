@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useI18n } from '../i18n'
 import { BackButton, BackLink } from '../components/BackLink'
+import { PageHeading } from '../components/PageHeading'
 import { loadFlashcards, loadBible } from '../content'
 import type { Bible, FlashCard, Flashcards as FCData } from '../types'
 
@@ -224,7 +225,7 @@ export function Flashcards() {
       <BackLink to={`/${lang}`} className="mb-4">
         {t('nav.topics', 'Menu główne')}
       </BackLink>
-      <h1 className="text-2xl font-bold text-slate-100">{t('flashcards.title', 'Wersety na pamięć')}</h1>
+      <PageHeading icon="memory" title={t('flashcards.title', 'Wersety na pamięć')} />
       <p className="mt-1 text-slate-300">{t('flashcards.intro', '')}</p>
 
       <div className="mt-4 flex flex-wrap items-center gap-2 text-sm">

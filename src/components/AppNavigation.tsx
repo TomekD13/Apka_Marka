@@ -2,7 +2,7 @@ import { useEffect, useState, type ReactNode } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { useI18n } from '../i18n'
 
-type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' | 'settings' | 'close' | 'notes' | 'memory' | 'occasion' | 'lesson' | 'chevron'
+export type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' | 'settings' | 'close' | 'notes' | 'memory' | 'occasion' | 'lesson' | 'contact' | 'chevron'
 
 export function AppIcon({ name, className = '' }: { name: IconName; className?: string }) {
   if (name === 'hope') {
@@ -16,7 +16,7 @@ export function AppIcon({ name, className = '' }: { name: IconName; className?: 
   const paths: Record<Exclude<IconName, 'hope'>, ReactNode> = {
     book: <><path d="M5 6.5c4.2-1.8 7.5-.6 11 2.1v17C12.5 23.1 9.2 22 5 23.8V6.5Z"/><path d="M27 6.5c-4.2-1.8-7.5-.6-11 2.1v17c3.5-2.5 6.8-3.6 11-1.8V6.5Z"/></>,
     music: <><path d="M11 25V8l14-3v15"/><path d="M11 12l14-3"/><circle cx="7.5" cy="25" r="3.5"/><circle cx="21.5" cy="20" r="3.5"/></>,
-    prayer: <><path d="M11 25c-2.5-4.5-2.2-11.5 1-15.5l4 4V5.5c0-1.5 2-1.5 2 0v8l3-3c3.2 4 3.5 11 1 15.5"/><path d="M9 25h14"/></>,
+    prayer: <><path d="M16 5.5c-2.5 3.8-4.5 7.4-5.5 11.4-.7 3 .2 5.7 2.5 8.6"/><path d="M16 5.5c2.5 3.8 4.5 7.4 5.5 11.4.7 3-.2 5.7-2.5 8.6"/><path d="M13 11.5 9.6 16c-1.2 1.6-1.5 3.6-.9 5.5l1 3.5M19 11.5l3.4 4.5c1.2 1.6 1.5 3.6.9 5.5l-1 3.5"/><path d="M12.2 25.5h7.6"/></>,
     menu: <><path d="M4 8h24M4 16h24M4 24h24"/></>,
     search: <><circle cx="14" cy="14" r="8"/><path d="m20 20 7 7"/></>,
     settings: <><circle cx="16" cy="16" r="4"/><path d="M16 3v4M16 25v4M3 16h4M25 16h4M6.8 6.8l2.8 2.8M22.4 22.4l2.8 2.8M25.2 6.8l-2.8 2.8M9.6 22.4l-2.8 2.8"/></>,
@@ -25,6 +25,7 @@ export function AppIcon({ name, className = '' }: { name: IconName; className?: 
     memory: <><rect x="5" y="6" width="22" height="20" rx="3"/><path d="M10 11h12M10 16h8M10 21h5"/></>,
     occasion: <><path d="M16 27S6 21.3 6 13c0-5.5 6.6-7.7 10-2.8C19.4 5.3 26 7.5 26 13c0 8.3-10 14-10 14Z"/></>,
     lesson: <><path d="M5 7h22v18H5zM9 4v6M23 4v6M9 15h14M9 20h8"/></>,
+    contact: <><rect x="4.5" y="6" width="23" height="18" rx="3"/><path d="m6 9 10 7 10-7"/></>,
     chevron: <path d="m11 7 10 9-10 9"/>,
   }
   return <svg viewBox="0 0 32 32" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" className={className} aria-hidden>{paths[name]}</svg>
@@ -34,11 +35,21 @@ function DrawerLink({ to, icon, children, onClick }: { to: string; icon: IconNam
   return <Link to={to} onClick={onClick} className="flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm font-medium text-slate-700 hover:bg-slate-100 dark:text-slate-100 dark:hover:bg-white/10"><AppIcon name={icon} className="h-5 w-5 text-brand dark:text-sky-300"/>{children}</Link>
 }
 
+function DrawerGroup({ icon, title, open, onToggle, children }: { icon: IconName; title: string; open: boolean; onToggle: () => void; children: ReactNode }) {
+  return <div>
+    <button type="button" onClick={onToggle} aria-expanded={open} className="flex w-full items-center justify-between rounded-xl px-3 py-2.5 text-left text-sm font-semibold text-slate-900 hover:bg-slate-100 dark:text-white dark:hover:bg-white/10"><span className="flex items-center gap-3"><AppIcon name={icon} className="h-5 w-5 text-brand dark:text-sky-300"/>{title}</span><AppIcon name="chevron" className={`h-4 w-4 transition ${open ? 'rotate-90' : ''}`}/></button>
+    {open && <div className="mb-2 ml-4 border-l border-slate-200 pl-2 dark:border-slate-700">{children}</div>}
+  </div>
+}
+
 export function AppNavigation() {
   const { lang, t } = useI18n()
   const { pathname } = useLocation()
   const [open, setOpen] = useState(false)
   const [bibleOpen, setBibleOpen] = useState(true)
+  const [hopeOpen, setHopeOpen] = useState(false)
+  const [songsOpen, setSongsOpen] = useState(false)
+  const [prayerOpen, setPrayerOpen] = useState(false)
   const home = `/${lang}`
 
   useEffect(() => setOpen(false), [pathname])
@@ -62,19 +73,28 @@ export function AppNavigation() {
     {open && <div className="no-print fixed inset-0 z-50 bg-slate-950/45" onMouseDown={() => setOpen(false)}>
       <aside className="h-full w-[min(86vw,340px)] overflow-y-auto bg-white p-4 shadow-2xl dark:bg-slate-900" onMouseDown={(event) => event.stopPropagation()}>
         <div className="mb-5 flex items-center justify-between"><Link to={home} onClick={() => setOpen(false)} className="text-lg font-bold text-slate-900 dark:text-white">Żywe Słowo</Link><button type="button" onClick={() => setOpen(false)} aria-label={t('common.close', 'Zamknij')} className="rounded-lg p-2 text-slate-600 hover:bg-slate-100 dark:text-slate-200 dark:hover:bg-white/10"><AppIcon name="close" className="h-5 w-5"/></button></div>
-        <button type="button" onClick={() => setBibleOpen(!bibleOpen)} aria-expanded={bibleOpen} className="flex w-full items-center justify-between rounded-xl px-3 py-2.5 text-left text-sm font-semibold text-slate-900 hover:bg-slate-100 dark:text-white dark:hover:bg-white/10"><span className="flex items-center gap-3"><AppIcon name="book" className="h-5 w-5 text-brand dark:text-sky-300"/>{t('nav.bible', 'Biblia')}</span><AppIcon name="chevron" className={`h-4 w-4 transition ${bibleOpen ? 'rotate-90' : ''}`}/></button>
-        {bibleOpen && <div className="mb-2 ml-4 border-l border-slate-200 pl-2 dark:border-slate-700">
+        <DrawerGroup icon="book" title={t('nav.bible', 'Biblia')} open={bibleOpen} onToggle={() => setBibleOpen(!bibleOpen)}>
           <DrawerLink to={`${home}/biblia`} icon="book" onClick={() => setOpen(false)}>{t('nav.bibleText', 'Biblia')}</DrawerLink>
           <DrawerLink to={`${home}/#poznaj-boga`} icon="lesson" onClick={() => setOpen(false)}>{t('home.bars.studies', 'Poznaj Boga i Biblię')}</DrawerLink>
           <DrawerLink to={`${home}/edukacja`} icon="lesson" onClick={() => setOpen(false)}>{t('nav.lessons', 'Lekcje biblijne')}</DrawerLink>
           <DrawerLink to={`${home}/notatki`} icon="notes" onClick={() => setOpen(false)}>{t('notes.title', 'Moje notatki biblijne')}</DrawerLink>
           <DrawerLink to={`${home}/fiszki`} icon="memory" onClick={() => setOpen(false)}>{t('flashcards.cta', 'Ucz się wersetów na pamięć')}</DrawerLink>
           <DrawerLink to={`${home}/okazje`} icon="occasion" onClick={() => setOpen(false)}>{t('occasions.cta', 'Teksty na różne okazje')}</DrawerLink>
-        </div>}
-        <DrawerLink to={`${home}/jest-nadzieja`} icon="hope" onClick={() => setOpen(false)}>#JestNadzieja</DrawerLink>
-        <DrawerLink to={`${home}/spiewnik`} icon="music" onClick={() => setOpen(false)}>{t('nav.songs', 'Pieśni')}</DrawerLink>
-        <DrawerLink to={`${home}/modlitwy`} icon="prayer" onClick={() => setOpen(false)}>{t('nav.prayer', 'Modlitwa')}</DrawerLink>
-        <DrawerLink to={`${home}/kontakt`} icon="occasion" onClick={() => setOpen(false)}>{t('contact.title', 'Kontakt')}</DrawerLink>
+        </DrawerGroup>
+        <DrawerGroup icon="hope" title="#JestNadzieja" open={hopeOpen} onToggle={() => setHopeOpen(!hopeOpen)}>
+          <DrawerLink to={`${home}/jest-nadzieja`} icon="hope" onClick={() => setOpen(false)}>#JestNadzieja</DrawerLink>
+          <DrawerLink to={`${home}/40-dni`} icon="prayer" onClick={() => setOpen(false)}>{t('home.pray40', '40 dni modlitwy')}</DrawerLink>
+          <DrawerLink to={`${home}/edukacja`} icon="lesson" onClick={() => setOpen(false)}>{t('edu.title', 'Materiały edukacyjne')}</DrawerLink>
+        </DrawerGroup>
+        <DrawerGroup icon="music" title={t('nav.songs', 'Pieśni')} open={songsOpen} onToggle={() => setSongsOpen(!songsOpen)}>
+          <DrawerLink to={`${home}/spiewnik`} icon="music" onClick={() => setOpen(false)}>{t('songs.title', 'Śpiewnik')}</DrawerLink>
+          <DrawerLink to={`${home}/piesni-mlodziezowe`} icon="music" onClick={() => setOpen(false)}>{t('youth.title', 'Pieśni młodzieżowe')}</DrawerLink>
+          <a href="https://www.youtube.com/@UwielbieniezTekstem" target="_blank" rel="noreferrer" onClick={() => setOpen(false)} className="flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm font-medium text-slate-700 hover:bg-slate-100 dark:text-slate-100 dark:hover:bg-white/10"><AppIcon name="music" className="h-5 w-5 text-brand dark:text-sky-300"/>{t('worship.title', 'Pieśni z muzyką i tekstem')}</a>
+        </DrawerGroup>
+        <DrawerGroup icon="prayer" title={t('nav.prayer', 'Modlitwa')} open={prayerOpen} onToggle={() => setPrayerOpen(!prayerOpen)}>
+          <DrawerLink to={`${home}/modlitwy`} icon="prayer" onClick={() => setOpen(false)}>{t('prayers.title', 'Dziennik modlitw')}</DrawerLink>
+        </DrawerGroup>
+        <DrawerLink to={`${home}/kontakt`} icon="contact" onClick={() => setOpen(false)}>{t('contact.title', 'Kontakt')}</DrawerLink>
         <div className="my-3 border-t border-slate-200 dark:border-slate-700"/>
         <DrawerLink to={`${home}/ustawienia`} icon="settings" onClick={() => setOpen(false)}>{t('nav.settings', 'Ustawienia')}</DrawerLink>
       </aside>

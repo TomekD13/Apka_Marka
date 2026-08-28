@@ -1,0 +1,59 @@
+# Zasady graficzne interfejsu
+
+## Kierunek
+
+Interfejs jest projektowany przede wszystkim dla telefonu: ma prowadzić do bieżącego materiału szybko, bez przeładowanego ekranu startowego. Styl łączy spokojną, czytelną aplikację do studiowania z charakterem kampanii **#JestNadzieja**.
+
+## Układ i nawigacja
+
+- Górny pasek zawiera: przycisk otwierający menu boczne, nazwę „Żywe Słowo” oraz wyszukiwanie w Biblii.
+- Najważniejsze obszary aplikacji są dostępne w dolnym menu: **Biblia**, **Pieśni**, **Modlitwa**, **#JestNadzieja**.
+- Ikony dolnego menu są duże, proste i zawsze takie same dla tego samego punktu nawigacji.
+- **Ustawienia** są dostępne wyłącznie z menu bocznego, nie z dolnego paska.
+- Panel boczny grupuje pełną strukturę treści. Sekcja **Biblia** rozwija się, a **#JestNadzieja** znajduje się zaraz pod nią.
+- Dolne menu jest stale widoczne; treść strony ma dodatkowy odstęp u dołu, aby nie była zasłonięta przez nawigację.
+
+## Ekran główny
+
+- Pierwszą sekcją są **Czytania**.
+- Główna karta prowadzi bezpośrednio do aktualnego materiału — obecnie „40 dni modlitwy”.
+- Karta #JestNadzieja informuje też, że w tym samym miejscu będą pojawiały się materiały edukacyjne.
+- **Szkoła Sobotnia** jest osobną, spokojną kartą z linkiem do bieżącej lekcji.
+- Sekcja **Kontynuuj** zawiera osobiste narzędzia: czytanie Biblii, notatki i wersety do nauki.
+- Nie używamy osobnego bloku „Słowo na dziś”, ponieważ jego rolę spełniają Czytania.
+
+## Kolory
+
+- Domyślny motyw jest jasny: tło `slate-50`, białe karty, ciemny granatowy tekst.
+- Kolor podstawowy interakcji to granat marki `#1f4e79`; służy do przycisków, aktywnej nawigacji i ważnych linków.
+- W dark mode tło przechodzi na bardzo ciemny granat (`slate-950`), karty są ciemniejsze, a tekst jasny.
+- Kolory #JestNadzieja pochodzą z oryginalnej grafiki kampanii: gradient od cyjanu przez niebieski i fiolet do różu.
+- Gradient #JestNadzieja jest akcentem marki, a nie uniwersalnym kolorem wszystkich elementów. Nie stosujemy samodzielnego różu jako głównego koloru light mode.
+- Oryginalna grafika `Grafiki/JestNadzieja_clean_1280.png` jest używana jako źródło banerów i charakteru kampanii.
+
+## Typografia i czytelność
+
+- Stosujemy prostą, systemową typografię bezszeryfową.
+- Nagłówki są wyraźnie większe i pogrubione; tekst pomocniczy jest mniejszy oraz mniej kontrastowy.
+- Treść na kartach ma krótkie opisy i jeden jasny cel działania.
+- Minimalny komfort dotykowy jest ważniejszy od gęstości informacji: przyciski i punkty menu mają duże pola klikalne.
+- Kontrast tekstu i tła musi działać w obu motywach. Starsze ekrany zachowują czytelność dzięki regułom kompatybilności dla light mode.
+
+## Karty, obramowania i ruch
+
+- Zawartość grupujemy w karty o promieniu około `16 px`.
+- Karty w jasnym motywie mają subtelne obramowanie i lekki cień; w ciemnym — ciemne tło oraz stonowane obramowanie.
+- Efekty ruchu są dyskretne: element klikalny może delikatnie podnieść się lub zmienić obramowanie po najechaniu.
+- Nie używamy ciężkich ozdobników, silnych cieni ani wielu konkurujących gradientów.
+
+## Ikony
+
+- Ikony są liniowe, proste i spójne optycznie.
+- Te same znaczenia zawsze używają tej samej ikony: książka dla Biblii, nuta dla Pieśni, dłonie dla Modlitwy, znak `#` z gradientem dla #JestNadzieja.
+- Ikony dolnej nawigacji mają większy rozmiar niż ikony pomocnicze w panelu bocznym.
+
+## Ustawienia motywu
+
+- Użytkownik wybiera **Light mode** albo **Dark mode** w panelu bocznym, w ekranie Ustawienia.
+- Wybrany motyw jest zapamiętywany lokalnie na urządzeniu.
+- Przełączenie motywu zmienia kolor całej aplikacji, nie tylko ekranu ustawień.

@@ -12,6 +12,7 @@ import {
 import { ReadingFooter } from '../components/ReadingFooter'
 import { BackLink } from '../components/BackLink'
 import { FontScale } from '../components/FontScale'
+import { PageHeading } from '../components/PageHeading'
 import { listRead } from '../lib/progress'
 import type { Pray40Day, Pray40Index } from '../types'
 
@@ -83,7 +84,7 @@ export function Pray40() {
       <BackLink to={`/${lang}`} className="mb-4">
         {t('nav.topics', 'Menu główne')}
       </BackLink>
-      <h1 className="mb-1 text-2xl font-bold text-slate-100">{t('pray40.title', '40 dni modlitwy')}</h1>
+      <PageHeading icon="prayer" title={t('pray40.title', '40 dni modlitwy')} className="mb-1" />
       <p className="mb-5 text-sm text-slate-400">{data?.series || '#JestNadzieja'}</p>
       <Pray40List />
     </div>

@@ -1,5 +1,6 @@
 import { useI18n } from '../i18n'
 import { useTheme, type Theme } from '../theme'
+import { PageHeading } from '../components/PageHeading'
 
 export function Settings() {
   const { t } = useI18n()
@@ -15,8 +16,7 @@ export function Settings() {
   }
 
   return <section className="mx-auto max-w-xl">
-    <p className="text-sm font-medium text-brand dark:text-sky-300">{t('nav.menu', 'Menu boczne')}</p>
-    <h1 className="mt-1 text-3xl font-bold text-slate-900 dark:text-white">{t('nav.settings', 'Ustawienia')}</h1>
+    <PageHeading icon="settings" eyebrow={t('nav.menu', 'Menu boczne')} title={t('nav.settings', 'Ustawienia')} />
     <p className="mt-2 text-slate-600 dark:text-slate-300">{t('settings.intro', 'Wybierz wygląd, który jest najwygodniejszy dla Ciebie.')}</p>
     <div className="mt-7 space-y-3">
       <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500 dark:text-slate-400">{t('settings.appearance', 'Wygląd aplikacji')}</h2>

@@ -3,6 +3,7 @@ import { Link, useNavigate, useParams } from 'react-router-dom'
 import { useI18n } from '../i18n'
 import { BackLink } from '../components/BackLink'
 import { FontScale } from '../components/FontScale'
+import { PageHeading } from '../components/PageHeading'
 import { loadSongs } from '../content'
 import { useSetPlace } from '../place'
 import { isFavorite, listFavorites, toggleFavorite } from '../lib/favorites'
@@ -459,7 +460,7 @@ export function SongsPage({ collection = 'hymnal' }: { collection?: SongCollecti
       <BackLink to={`/${lang}`} className="mb-4">
         {t('nav.topics', 'Menu główne')}
       </BackLink>
-      <h1 className="mb-1 text-2xl font-bold text-slate-100">{heading}</h1>
+      <PageHeading icon="music" title={heading} className="mb-1" />
       {data?.source && (
         <p className="mb-5 text-sm text-slate-400">
           {data.source.name}
