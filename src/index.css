@@ -7,6 +7,14 @@
   --font-ui: 'Space Grotesk', Arial, sans-serif;
   --font-reading: Fraunces, Georgia, serif;
 }
+html[data-font-set='nunito'] { --font-ui: 'Nunito Sans', Arial, sans-serif; --font-reading: 'Libre Baskerville', Georgia, serif; }
+html[data-font-set='outfit'] { --font-ui: Outfit, Arial, sans-serif; --font-reading: Newsreader, Georgia, serif; }
+html[data-font-set='sora'] { --font-ui: Sora, Arial, sans-serif; --font-reading: 'Cormorant Garamond', Georgia, serif; }
+
+.font-preview-space { font-family: 'Space Grotesk', Arial, sans-serif; }
+.font-preview-nunito { font-family: 'Nunito Sans', Arial, sans-serif; }
+.font-preview-outfit { font-family: Outfit, Arial, sans-serif; }
+.font-preview-sora { font-family: Sora, Arial, sans-serif; }
 
 html, body, #root { height: 100%; }
 body {
