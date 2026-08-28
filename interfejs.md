@@ -14,7 +14,7 @@ Interfejs jest projektowany przede wszystkim dla telefonu: ma prowadzić do bie�
 - **Ustawienia** są dostępne wyłącznie z menu bocznego, nie z dolnego paska.
 - Panel boczny grupuje pełną strukturę treści. Sekcja **Biblia** rozwija się, a **#JestNadzieja** znajduje się zaraz pod nią.
 - Dolne menu jest stale widoczne; treść strony ma dodatkowy odstęp u dołu, aby nie była zasłonięta przez nawigację.
-- Poza ekranem startowym zawsze widoczny jest przycisk **Menu główne**, który wraca na stronę startową; dodatkowo menu boczne i nazwa aplikacji w nagłówku pozostają dostępne na każdej stronie.
+- Strony list mogą mieć jeden kontekstowy przycisk **Menu główne**. Na ekranach szczegółu przycisk powrotu prowadzi do właściwej listy nadrzędnej (np. z pieśni do danego śpiewnika), a menu boczne i nazwa aplikacji w nagłówku pozostają dostępne na każdej stronie.
 
 ## Ekran główny
 

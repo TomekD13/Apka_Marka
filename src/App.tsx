@@ -1,4 +1,4 @@
-import { createBrowserRouter, Link, Outlet, useLocation, useParams } from 'react-router-dom'
+import { createBrowserRouter, Outlet, useParams } from 'react-router-dom'
 import { registerSW } from 'virtual:pwa-register'
 import { I18nProvider } from './i18n'
 import { PlaceProvider } from './place'
@@ -33,7 +33,6 @@ registerSW({ immediate: true })
 
 function LangLayout() {
   const { lang = 'pl' } = useParams()
-  const { pathname } = useLocation()
   // szczypanie dwoma palcami w tresci do czytania zmienia wielkosc tekstu
   usePinchFontScale()
   return (
@@ -43,7 +42,6 @@ function LangLayout() {
           <div className="min-h-full flex flex-col">
             <AppNavigation />
             <main className="flex-1 w-full max-w-3xl mx-auto px-4 py-6 pb-24">
-              {pathname !== `/${lang}` && <Link to={`/${lang}`} className="no-print mb-4 inline-flex items-center gap-1.5 rounded-lg border border-brand/30 bg-white/75 px-3 py-1.5 text-sm font-semibold text-brand shadow-sm backdrop-blur transition hover:border-brand hover:bg-brand/10 dark:bg-slate-900/75 dark:text-sky-200 dark:hover:bg-sky-400/10"><span aria-hidden>⌂</span> Menu główne</Link>}
               <Outlet />
             </main>
             <AddNoteFab />
