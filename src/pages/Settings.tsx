@@ -38,8 +38,8 @@ export function Settings() {
       {fontOption('outfit', 'Outfit', 'Newsreader', t('settings.fontOutfit', 'Lekka i redakcyjna.'))}
       {fontOption('sora', 'Sora', 'Cormorant Garamond', t('settings.fontSora', 'Szlachetna i kontemplacyjna.'))}
     </div>
-    <div className="mt-8 overflow-hidden rounded-2xl border border-slate-200 bg-slate-950 dark:border-slate-700">
-      <img src={`${import.meta.env.BASE_URL}jestnadzieja-brand.png`} alt="#JestNadzieja" className="block w-full" />
+    <div className="mt-8 overflow-hidden rounded-2xl border border-slate-300 bg-gradient-to-br from-sky-50 via-indigo-50 to-violet-100 dark:border-slate-700 dark:from-slate-950 dark:via-slate-900 dark:to-indigo-950">
+      <img src={`${import.meta.env.BASE_URL}jestnadzieja-transparent-small.png`} alt="#JestNadzieja" className="block w-full" />
     </div>
     <p className="mt-3 text-sm text-slate-600 dark:text-slate-300">{t('settings.hopeColor', 'Kolory #JestNadzieja są oparte na oryginalnym gradiencie z materiału kampanii.')}</p>
   </section>

@@ -5,10 +5,9 @@ Poprzednia (`public/og.jpg`) byla z wersji wielojezycznej – pokazywala „Stud
 Bible" w osmiu jezykach, czego w wydaniu polskim juz nie ma. Ta sklada sie z tego,
 co widzi czytelnik na stronie glownej: znaku #JestNadzieja i tla z bannera.
 
-Tlo nie jest przerysowane z pamieci – kolor kazdej kolumny bierzemy z bannera
-`Grafiki/JestNadzieja_clean_2560.png` (mediana z pasow nad i pod napisem), wiec
-przejscie granat -> fiolet zostaje dokladnie takie samo. Doklejamy gwiazdy i falę,
-a napis wycinamy z bannera maską jasnosci, zeby nie wszedl razem z prostokatem tla.
+Tlo budujemy z gradientu akcji, a przezroczysty znak #JestNadzieja bierzemy z
+`Grafiki/Przezroczyste_wieksze.png`. Doklejamy gwiazdy i falę, zachowujac znak
+bez dodatkowego prostokata tla.
 
 Uruchomienie:  python tools/make_og.py
 Wynik:         public/og-2026-08.jpg  (+ kopia jako public/og.jpg)
@@ -21,7 +20,7 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 import numpy as np
 
 ROOT = Path(__file__).resolve().parent.parent
-BANNER = ROOT / 'Grafiki' / 'JestNadzieja_clean_2560.png'
+BANNER = ROOT / 'Grafiki' / 'Przezroczyste_wieksze.png'
 OUT_NEW = ROOT / 'public' / 'og-2026-08.jpg'
 OUT_OLD = ROOT / 'public' / 'og.jpg'
 
@@ -40,20 +39,14 @@ def font(path, size):
         return ImageFont.truetype(FONT_RG, size)
 
 
-def column_colors(banner):
-    """Kolor tla dla kazdej z 1200 kolumn – mediana pasow bez napisu."""
-    a = np.asarray(banner).astype(np.float32)
-    strips = np.concatenate([a[0:120], a[380:512]], axis=0)   # nad napisem i pod nim
-    med = np.median(strips, axis=0)                            # (2560, 3)
-    # rozmycie w poziomie: bez tego pojedyncze gwiazdy i linie fali zostawiaja
-    # w medianie pionowe smugi na calej wysokosci obrazka
-    k = 121
-    pad = np.pad(med, ((k // 2, k // 2), (0, 0)), mode='edge')
-    ker = np.hanning(k)[:, None]
-    ker /= ker.sum()
-    smooth = np.stack([np.convolve(pad[:, c], ker[:, 0], mode='valid') for c in range(3)], axis=1)
-    src = Image.fromarray(np.clip(smooth, 0, 255).astype(np.uint8)[None, :, :], 'RGB')
-    return np.asarray(src.resize((W, 1), Image.LANCZOS)).astype(np.float32)[0]
+def column_colors():
+    """Spokojny gradient granat -> fiolet pod przezroczystym znakiem."""
+    stops = np.array([(8, 28, 70), (24, 77, 135), (83, 66, 168), (170, 78, 174)], dtype=np.float32)
+    x = np.linspace(0, len(stops) - 1, W)
+    lo = np.floor(x).astype(int)
+    hi = np.minimum(lo + 1, len(stops) - 1)
+    mix = (x - lo)[:, None]
+    return stops[lo] * (1 - mix) + stops[hi] * mix
 
 
 def background(cols):
@@ -108,32 +101,16 @@ def add_wave(img):
 
 
 def wordmark(banner):
-    """Sam napis #JestNadzieja, bez prostokata tla – maska z jasnosci."""
-    a = np.asarray(banner).astype(np.int16)
-    lum = a.max(axis=2)
-    band = lum[130:380]
-    # prog liczony na kolumne/wiersz, nie na piksel: inaczej w kadr wchodzi
-    # rozowa smuga z tla, ktora biegnie przez cala szerokosc bannera
-    cols = (band > 150).sum(axis=0)
-    xs = np.nonzero(cols > 10)[0]
-    rows = (band > 150).sum(axis=1)
-    ys = np.nonzero(rows > 10)[0]
-    x0, x1 = int(xs.min()) - 8, int(xs.max()) + 9
-    y0, y1 = 130 + int(ys.min()) - 8, 130 + int(ys.max()) + 9
-
-    crop = banner.crop((x0, y0, x1, y1))
-    c = np.asarray(crop).astype(np.float32)
-    l = c.max(axis=2)
-    alpha = np.clip((l - 70.0) / 80.0, 0, 1)          # tlo (<70) znika, napis zostaje
-    out = Image.fromarray(c.astype(np.uint8), 'RGB').convert('RGBA')
-    out.putalpha(Image.fromarray((alpha * 255).astype(np.uint8), 'L'))
-    return out
+    """Przytnij przezroczysty znak do niepustych pikseli."""
+    alpha = banner.getchannel('A')
+    box = alpha.getbbox()
+    return banner.crop(box) if box else banner
 
 
 def main():
-    banner = Image.open(BANNER).convert('RGB')
+    banner = Image.open(BANNER).convert('RGBA')
 
-    img = background(column_colors(banner))
+    img = background(column_colors())
     img = add_glow(img)
     img = add_stars(img)
     img = add_wave(img)

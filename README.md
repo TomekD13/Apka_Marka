@@ -49,11 +49,10 @@ Bez sieci belka prowadzi do `sabbath-school.adventech.io/pl/`.
 
 ### Grafika akcji #JestNadzieja
 
-Źródło: `Grafiki/JestNadzieja_clean_{1280,2560}.png`. Do `public/` trafiają trzy pliki –
-baner w dwóch wielkościach (`jestnadzieja-1280.png`, `jestnadzieja-2560.png`, podawane przez
-`srcSet`) i wycięty z niego napis jako logo belki (`jestnadzieja-logo.png`). Belka
-#JestNadzieja ma własny wariant kolorystyczny `hope` w `components/MenuBar.tsx` – nocne niebo
-z gradientem turkus → fiolet → róż, zgodnie z grafiką akcji.
+Źródłem są przezroczyste grafiki `Grafiki/Przezroczyste_mniejsze.png` i
+`Grafiki/Przezroczyste_wieksze.png`. Do `public/` trafiają ich odpowiedniki używane w banerach
+i dużych formatach. Belka #JestNadzieja ma własny wariant kolorystyczny `hope` w
+`components/MenuBar.tsx` – nocne niebo z gradientem turkus → fiolet → róż, zgodnie z grafiką akcji.
 
 ### Dziennik modlitw
 

@@ -7,7 +7,7 @@ import { PageHeading } from '../components/PageHeading'
 export function Hope() {
   const { lang, t } = useI18n()
   return <section className="mx-auto max-w-xl">
-    <div className="overflow-hidden rounded-2xl border border-slate-700 bg-slate-950 shadow-lg"><img src={`${import.meta.env.BASE_URL}jestnadzieja-brand.png`} alt="#JestNadzieja" className="block w-full" /></div>
+    <div className="overflow-hidden rounded-2xl border border-slate-300 bg-gradient-to-br from-sky-50 via-indigo-50 to-violet-100 shadow-lg dark:border-slate-700 dark:from-slate-950 dark:via-slate-900 dark:to-indigo-950"><img src={`${import.meta.env.BASE_URL}jestnadzieja-transparent-small.png`} alt="#JestNadzieja" className="block w-full" /></div>
     <PageHeading icon="hope" title="#JestNadzieja" className="mt-6" />
     <p className="mt-2 text-slate-600 dark:text-slate-300">{t('hope.intro', 'Czytania, modlitwa i materiały, które pomagają dzielić się nadzieją.')}</p>
     <div className="gradient-panel mt-6 rounded-2xl border p-4">
