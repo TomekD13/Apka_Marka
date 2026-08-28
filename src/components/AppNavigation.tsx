@@ -5,6 +5,9 @@ import { useI18n } from '../i18n'
 export type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' | 'settings' | 'close' | 'notes' | 'memory' | 'occasion' | 'lesson' | 'contact' | 'chevron'
 
 export function AppIcon({ name, className = '' }: { name: IconName; className?: string }) {
+  if (name === 'prayer') {
+    return <img src={`${import.meta.env.BASE_URL}pray-icon.png`} alt="" aria-hidden className={`object-contain ${className}`} />
+  }
   if (name === 'hope') {
     return (
       <svg viewBox="0 0 32 32" fill="none" className={className} aria-hidden>
@@ -16,7 +19,7 @@ export function AppIcon({ name, className = '' }: { name: IconName; className?: 
   const paths: Record<Exclude<IconName, 'hope'>, ReactNode> = {
     book: <><path d="M5 6.5c4.2-1.8 7.5-.6 11 2.1v17C12.5 23.1 9.2 22 5 23.8V6.5Z"/><path d="M27 6.5c-4.2-1.8-7.5-.6-11 2.1v17c3.5-2.5 6.8-3.6 11-1.8V6.5Z"/></>,
     music: <><path d="M11 25V8l14-3v15"/><path d="M11 12l14-3"/><circle cx="7.5" cy="25" r="3.5"/><circle cx="21.5" cy="20" r="3.5"/></>,
-    prayer: <><path d="M16 5.5c-2.5 3.8-4.5 7.4-5.5 11.4-.7 3 .2 5.7 2.5 8.6"/><path d="M16 5.5c2.5 3.8 4.5 7.4 5.5 11.4.7 3-.2 5.7-2.5 8.6"/><path d="M13 11.5 9.6 16c-1.2 1.6-1.5 3.6-.9 5.5l1 3.5M19 11.5l3.4 4.5c1.2 1.6 1.5 3.6.9 5.5l-1 3.5"/><path d="M12.2 25.5h7.6"/></>,
+    prayer: <><path d="M16 5v16"/><path d="M16 21 12.3 15V7.7c0-1.4-1.8-1.9-2.5-.7L8.4 9.6c-.8 1.4-.8 3.1-.2 4.6l3.5 7.5c.6 1.3 1 2.8 1 4.3V27h3.3"/><path d="M16 21 19.7 15V7.7c0-1.4 1.8-1.9 2.5-.7l1.4 2.6c.8 1.4.8 3.1.2 4.6l-3.5 7.5c-.6 1.3-1 2.8-1 4.3V27H16"/><path d="M12.3 15 10.8 10M19.7 15l1.5-5"/></>,
     menu: <><path d="M4 8h24M4 16h24M4 24h24"/></>,
     search: <><circle cx="14" cy="14" r="8"/><path d="m20 20 7 7"/></>,
     settings: <><circle cx="16" cy="16" r="4"/><path d="M16 3v4M16 25v4M3 16h4M25 16h4M6.8 6.8l2.8 2.8M22.4 22.4l2.8 2.8M25.2 6.8l-2.8 2.8M9.6 22.4l-2.8 2.8"/></>,
