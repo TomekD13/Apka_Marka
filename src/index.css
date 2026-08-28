@@ -18,6 +18,12 @@ html.dark body {
   background-image: linear-gradient(rgba(7, 16, 36, .32), rgba(7, 16, 36, .42)), url('/background-dark.png');
 }
 
+/* Osobne kadry tla chronia kompozycje gor i lasu po obroceniu telefonu. */
+@media (orientation: landscape) {
+  body { background-image: linear-gradient(rgba(246, 249, 253, .38), rgba(246, 249, 253, .38)), url('/background-light-landscape.png'); }
+  html.dark body { background-image: linear-gradient(rgba(7, 16, 36, .32), rgba(7, 16, 36, .42)), url('/background-dark-landscape.png'); }
+}
+
 /* Starsze ekrany byly projektowane tylko w ciemnym motywie. Te reguly
    zachowuja ich kontrast w jasnej wersji, zanim zostana odswiezone osobno. */
 html:not(.dark) [class*="text-slate-100"] { color: #0f172a !important; }
