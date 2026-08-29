@@ -29,7 +29,7 @@ export function BibleHub() {
   const { lang } = useI18n()
   return <Hub icon="book" title="Biblia" intro="Wybierz, w jaki sposób chcesz dziś spotkać się ze Słowem.">
     <SectionTile to={`/${lang}/biblia/czytaj`} icon="book" title="Biblia" description="Księgi, rozdziały, wyszukiwanie, zakładki i przekłady." />
-    <SectionTile to={`/${lang}/poznaj-boga-i-biblie`} icon="lesson" title="Poznaj Boga i Biblię" description="35 lekcji biblijnych do samodzielnego studiowania." />
+    <SectionTile to={`/${lang}/poznaj-boga-i-biblie`} icon="lesson" title="Poznaj Boga i Biblię" description="5 serii po 7 lekcji biblijnych do samodzielnego studiowania." />
     <SectionTile to={`/${lang}/lekcje-biblijne`} icon="lesson" title="Lekcje biblijne" description="Bieżąca lekcja Szkoły Sobotniej." />
     <SectionTile to={`/${lang}/notatki`} icon="notes" title="Moje notatki biblijne" description="Zapisuj myśli i wracaj do nich później." />
     <SectionTile to={`/${lang}/fiszki`} icon="memory" title="Ucz się wersetów na pamięć" description="Fiszki i powtórki ważnych tekstów." />
@@ -57,6 +57,7 @@ export function BibleStudies() {
   const { lang } = useI18n()
   const [index, setIndex] = useState<IndexFile | null>(null)
   const [failed, setFailed] = useState(false)
+  const [openSeries, setOpenSeries] = useState<string | null>(null)
 
   useEffect(() => {
     setIndex(null)
@@ -64,11 +65,22 @@ export function BibleStudies() {
     loadIndex(lang).then(setIndex).catch(() => setFailed(true))
   }, [lang])
 
-  const studies = index ? [...index.studies].sort((a, b) => a.order - b.order) : []
+  const series = index ? [...index.series].sort((a, b) => a.order - b.order) : []
   return <section className="mx-auto max-w-xl">
     <BackLink to={`/${lang}/biblia`} className="mb-4">Biblia</BackLink>
     <PageHeading icon="lesson" title="Poznaj Boga i Biblię" />
-    <p className="mt-3 text-slate-600 dark:text-slate-300">35 lekcji, które prowadzą przez najważniejsze tematy wiary i Biblii.</p>
-    {failed ? <p className="mt-6 text-slate-500 dark:text-slate-400">Materiały są chwilowo niedostępne.</p> : !index ? <p className="mt-6 text-slate-500 dark:text-slate-400">Wczytywanie…</p> : <div className="mt-6 space-y-2">{studies.map((study) => <StudyCard key={study.id} study={study} tile="gradient-panel border-slate-200 hover:border-brand dark:border-slate-700 dark:text-white" />)}</div>}
+    <p className="mt-3 text-slate-600 dark:text-slate-300">Pięć serii po siedem lekcji prowadzi przez najważniejsze tematy wiary i Biblii.</p>
+    {failed ? <p className="mt-6 text-slate-500 dark:text-slate-400">Materiały są chwilowo niedostępne.</p> : !index ? <p className="mt-6 text-slate-500 dark:text-slate-400">Wczytywanie…</p> : <div className="mt-6 space-y-3">{series.map((entry) => {
+      const studies = index.studies.filter((study) => study.seriesId === entry.id).sort((a, b) => a.order - b.order)
+      const open = openSeries === entry.id
+      return <section key={entry.id} className="overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm dark:border-slate-700 dark:bg-slate-900">
+        <button type="button" onClick={() => setOpenSeries(open ? null : entry.id)} aria-expanded={open} className="gradient-panel flex w-full items-center gap-3 p-4 text-left transition hover:border-brand/60 dark:hover:border-sky-300/60">
+          <span className="rounded-xl bg-brand/10 p-2.5 text-brand dark:bg-sky-400/15 dark:text-sky-300"><AppIcon name="lesson" className="h-6 w-6" /></span>
+          <span className="min-w-0 flex-1"><span className="block text-base font-bold text-slate-900 dark:text-white">{entry.title}</span><span className="mt-0.5 block text-sm text-slate-600 dark:text-slate-300">{studies.length} tematów</span></span>
+          <span className={`text-xl text-brand transition-transform dark:text-sky-300 ${open ? 'rotate-90' : ''}`} aria-hidden>›</span>
+        </button>
+        {open && <div className="space-y-2 border-t border-slate-200 p-3 dark:border-slate-700">{studies.map((study) => <StudyCard key={study.id} study={study} tile="gradient-panel border-slate-200 hover:border-brand dark:border-slate-700 dark:text-white" />)}</div>}
+      </section>
+    })}</div>}
   </section>
 }

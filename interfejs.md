@@ -24,6 +24,7 @@ Interfejs jest projektowany przede wszystkim dla telefonu: ma prowadzić do bie�
 - **Szkoła Sobotnia** jest osobną, spokojną kartą z linkiem do bieżącej lekcji.
 - Sekcja **Kontynuuj** zawiera osobiste narzędzia: czytanie Biblii, notatki i wersety do nauki.
 - Nie używamy osobnego bloku „Słowo na dziś”, ponieważ jego rolę spełniają Czytania.
+- „Poznaj Boga i Biblię” grupuje 35 lekcji w pięć rozwijanych serii, po siedem tematów w każdej. Najpierw widoczna jest lista serii, a pełna lista lekcji dopiero po rozwinięciu wybranej serii.
 
 ## Kolory
 
