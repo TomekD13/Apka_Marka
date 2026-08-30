@@ -18,12 +18,12 @@ Interfejs jest projektowany przede wszystkim dla telefonu: ma prowadzić do bie�
 
 ## Ekran główny
 
-- Pierwszą sekcją są **Czytania**.
+- Pierwszą sekcją jest **Coś na dzisiaj**.
 - Główna karta prowadzi bezpośrednio do aktualnego materiału — obecnie „40 dni modlitwy”.
 - Karta #JestNadzieja informuje też, że w tym samym miejscu będą pojawiały się materiały edukacyjne.
 - **Szkoła Sobotnia** jest osobną, spokojną kartą z linkiem do bieżącej lekcji.
 - Sekcja **Kontynuuj** zawiera osobiste narzędzia: czytanie Biblii, notatki i wersety do nauki.
-- Nie używamy osobnego bloku „Słowo na dziś”, ponieważ jego rolę spełniają Czytania.
+- Nie używamy osobnego bloku „Słowo na dziś”: codzienny tekst z sekcji „Teksty na różne okazje” jest wyświetlany nad bieżącym materiałem. Teksty są losowane raz dziennie i nie powtarzają się przed wyczerpaniem puli.
 - „Poznaj Boga i Biblię” grupuje 35 lekcji w pięć rozwijanych serii, po siedem tematów w każdej. Najpierw widoczna jest lista serii, a pełna lista lekcji dopiero po rozwinięciu wybranej serii.
 
 ## Kolory
@@ -39,8 +39,8 @@ Interfejs jest projektowany przede wszystkim dla telefonu: ma prowadzić do bie�
 
 ## Typografia i czytelność
 
-- Domyślny zestaw to **Space Grotesk + Fraunces**: pierwszy krój służy do interfejsu, drugi do tekstów Biblii, studiów i materiałów czytelniczych.
-- W Ustawieniach użytkownik może zmienić cały zestaw typograficzny. Dostępne pary to: **Space Grotesk + Fraunces**, **Nunito Sans + Libre Baskerville**, **Outfit + Newsreader** oraz **Sora + Cormorant Garamond**.
+- Domyślny zestaw to **Nunito Sans + Libre Baskerville**: pierwszy krój służy do interfejsu, drugi do tekstów Biblii, studiów i materiałów czytelniczych.
+- W Ustawieniach użytkownik może zmienić cały zestaw typograficzny. Dostępne pary to: **Nunito Sans + Libre Baskerville** oraz **Outfit + Newsreader**.
 - Wybór czcionek jest zapamiętywany lokalnie na urządzeniu i od razu obejmuje zarówno interfejs, jak i treść do czytania.
 - Nagłówki są wyraźnie większe i pogrubione; tekst pomocniczy jest mniejszy oraz mniej kontrastowy.
 - Treść na kartach ma krótkie opisy i jeden jasny cel działania.
@@ -65,3 +65,4 @@ Interfejs jest projektowany przede wszystkim dla telefonu: ma prowadzić do bie�
 - Użytkownik wybiera **Light mode** albo **Dark mode** w panelu bocznym, w ekranie Ustawienia.
 - Wybrany motyw jest zapamiętywany lokalnie na urządzeniu.
 - Przełączenie motywu zmienia kolor całej aplikacji, nie tylko ekranu ustawień.
+- Ustawienia zawierają rozwijane sekcje **O aplikacji** (opis, prywatność i autor) oraz **Dodaj aplikację do Twojego telefonu**. Android korzysta z systemowego okna instalacji PWA, a iPhone pokazuje krótką instrukcję Safari.

@@ -28,8 +28,10 @@ import { Settings } from './pages/Settings'
 import { Contact } from './pages/Contact'
 import { BibleHub, BibleStudies, PrayerHub, SongsHub } from './pages/SectionHubs'
 import { BibleLessons } from './pages/BibleLessons'
+import { initAppInstall } from './lib/installApp'
 
 registerSW({ immediate: true })
+initAppInstall()
 
 function LangLayout() {
   const { lang = 'pl' } = useParams()

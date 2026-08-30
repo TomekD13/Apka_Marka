@@ -42,7 +42,7 @@
       "pray40": "40 dni modlitwy",
       "edu": "Materiały edukacyjne"
     },
-    "readings": "Czytania",
+    "readings": "Coś na dzisiaj",
     "readingsIntro": "Znajdź materiał na dziś i wróć do tego, co już rozpoczęte.",
     "currentReading": "Bieżący materiał",
     "pray40": "40 dni modlitwy",
@@ -405,13 +405,10 @@
     "lightDesc": "Jasny, czytelny wygląd na dzień.",
     "dark": "Dark mode",
     "darkDesc": "Ciemny wygląd wygodny wieczorem.",
-    "hopeColor": "Kolory #JestNadzieja są oparte na oryginalnym gradiencie z materiału kampanii.",
     "fonts": "Czcionki",
     "fontsIntro": "Pierwsza czcionka dotyczy interfejsu, druga dłuższego czytania.",
-    "fontSpace": "Nowoczesna i wyrazista.",
     "fontNunito": "Ciepła i przyjazna.",
-    "fontOutfit": "Lekka i redakcyjna.",
-    "fontSora": "Szlachetna i kontemplacyjna."
+    "fontOutfit": "Lekka i redakcyjna."
   },
   "account": {
     "title": "Twoje konto",
