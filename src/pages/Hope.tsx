@@ -1,17 +1,88 @@
+import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
+import { loadPray40 } from '../content'
 import { useI18n } from '../i18n'
-import { Pray40List } from './Pray40'
-import { EduList } from './Edu'
+import { AppIcon } from '../components/AppNavigation'
+import { BackLink } from '../components/BackLink'
+import type { Pray40DayEntry, Pray40Index } from '../types'
+
+type CampaignState = 'before' | 'during' | 'after'
+
+function localIsoDate(date = new Date()) {
+  const month = String(date.getMonth() + 1).padStart(2, '0')
+  const day = String(date.getDate()).padStart(2, '0')
+  return `${date.getFullYear()}-${month}-${day}`
+}
+
+/** Wskazuje czytankę na dziś; poza akcją pokazuje jej pierwszy lub ostatni dzień. */
+function currentCampaignDay(days: Pray40DayEntry[]) {
+  const dated = days.filter((entry) => entry.date).sort((a, b) => a.date!.localeCompare(b.date!))
+  if (!dated.length) return null
+
+  const today = localIsoDate()
+  if (today < dated[0].date!) return { entry: dated[0], state: 'before' as CampaignState }
+  if (today > dated[dated.length - 1].date!) return { entry: dated[dated.length - 1], state: 'after' as CampaignState }
+  return { entry: dated.find((entry) => entry.date === today) ?? dated[0], state: 'during' as CampaignState }
+}
+
+function TodayAction({ index, lang }: { index: Pray40Index | null; lang: string }) {
+  const campaign = index && currentCampaignDay(index.days)
+  const entry = campaign?.entry ?? index?.days[0]
+
+  if (!entry) return <p className="text-sm text-slate-500 dark:text-slate-400">Wczytywanie kalendarza…</p>
+
+  const description = campaign?.state === 'before'
+    ? `Start akcji: ${entry.dateLabel ?? entry.date}. Możesz już otworzyć pierwszy materiał.`
+    : campaign?.state === 'after'
+      ? 'Akcja została zakończona. Wróć do ostatniego materiału albo przejrzyj pełną listę.'
+      : `Dzisiaj: dzień ${entry.day} — ${entry.title}`
+  const label = campaign?.state === 'before'
+    ? 'Otwórz pierwszy materiał'
+    : campaign?.state === 'after'
+      ? 'Otwórz ostatni materiał'
+      : 'Otwórz dzisiejszy materiał'
+
+  return <>
+    <p className="mt-2 text-sm leading-relaxed text-slate-600 dark:text-slate-300">{description}</p>
+    <div className="mt-4 grid gap-2 sm:grid-cols-2">
+      <Link to={`/${lang}/40-dni/${entry.day}`} className="rounded-xl bg-brand px-3 py-2.5 text-center text-sm font-semibold text-white shadow-sm transition hover:bg-brand-light dark:bg-sky-300 dark:text-slate-950">
+        {label}
+      </Link>
+      <Link to={`/${lang}/40-dni`} className="rounded-xl border border-brand/40 bg-white/70 px-3 py-2.5 text-center text-sm font-semibold text-brand transition hover:border-brand hover:bg-white dark:border-sky-300/40 dark:bg-slate-950/30 dark:text-sky-200 dark:hover:border-sky-300 dark:hover:bg-slate-950/60">
+        Pełna lista 40 dni
+      </Link>
+    </div>
+  </>
+}
 
 export function Hope() {
   const { lang, t } = useI18n()
+  const [index, setIndex] = useState<Pray40Index | null>(null)
+
+  useEffect(() => {
+    setIndex(null)
+    loadPray40(lang).then(setIndex).catch(() => undefined)
+  }, [lang])
+
   return <section className="mx-auto max-w-xl">
+    <BackLink to={`/${lang}`} className="mb-4">{t('nav.topics', 'Menu główne')}</BackLink>
     <div className="overflow-hidden rounded-2xl border border-slate-300 bg-gradient-to-br from-sky-50 via-indigo-50 to-violet-100 shadow-lg dark:border-slate-700 dark:from-slate-950 dark:via-slate-900 dark:to-indigo-950"><img src={`${import.meta.env.BASE_URL}jestnadzieja-transparent-small.png`} alt="#JestNadzieja" className="block w-full" /></div>
     <p className="mt-5 text-slate-600 dark:text-slate-300">{t('hope.intro', 'Czytania, modlitwa i materiały, które pomagają dzielić się nadzieją.')}</p>
-    <div className="gradient-panel mt-6 rounded-2xl border p-4">
-      <div className="flex items-start justify-between gap-4"><div><p className="text-sm font-semibold text-brand dark:text-sky-300">{t('home.currentReading', 'Bieżący materiał')}</p><h2 className="mt-1 text-xl font-bold text-slate-900 dark:text-white">{t('home.pray40', '40 dni modlitwy')}</h2></div><Link to={`/${lang}/40-dni/1`} className="shrink-0 rounded-lg bg-brand px-3 py-2 text-sm font-semibold text-white hover:bg-brand-light">{t('home.openToday', 'Otwórz dziś')}</Link></div>
-      <div className="mt-4"><Pray40List limit={5} /></div>
+
+    <div className="mt-6 space-y-3">
+      <section className="gradient-panel rounded-2xl border p-4">
+        <div className="flex items-start gap-3">
+          <span className="rounded-xl bg-brand/10 p-3 text-brand dark:bg-sky-400/15 dark:text-sky-300"><AppIcon name="prayer" className="h-7 w-7" /></span>
+          <div className="min-w-0 flex-1"><h2 className="text-lg font-bold text-slate-900 dark:text-white">40 dni modlitwy</h2><p className="mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300">Codzienna droga przez historie nadziei — wybierz materiał zgodny z kalendarzem albo przejdź do całego spisu.</p></div>
+        </div>
+        <TodayAction index={index} lang={lang} />
+      </section>
+
+      <Link to={`/${lang}/edukacja`} className="gradient-panel flex items-center gap-3 rounded-2xl border p-4 transition hover:-translate-y-0.5 hover:border-brand/60 hover:shadow-md dark:hover:border-sky-300/60">
+        <span className="rounded-xl bg-brand/10 p-3 text-brand dark:bg-sky-400/15 dark:text-sky-300"><AppIcon name="lesson" className="h-7 w-7" /></span>
+        <span className="min-w-0 flex-1"><span className="block text-lg font-bold text-slate-900 dark:text-white">Materiały edukacyjne</span><span className="mt-1 block text-sm leading-relaxed text-slate-600 dark:text-slate-300">Przejdź do listy materiałów i wybierz temat, który chcesz otworzyć.</span></span>
+        <span className="text-xl text-brand dark:text-sky-300" aria-hidden>›</span>
+      </Link>
     </div>
-    <div className="gradient-panel mt-4 rounded-2xl border p-4"><h2 className="text-xl font-bold text-slate-900 dark:text-white">{t('home.futureEdu', 'Materiały edukacyjne')}</h2><p className="mt-1 text-sm text-slate-600 dark:text-slate-300">{t('hope.eduDesc', 'Kolejne materiały będą dostępne w tej sekcji.')}</p><div className="mt-4"><EduList limit={5} /></div></div>
   </section>
 }

@@ -9,7 +9,7 @@ Interfejs jest projektowany przede wszystkim dla telefonu: ma prowadzić do bie�
 - Górny pasek zawiera: przycisk otwierający menu boczne, nazwę „Żywe Słowo” oraz wyszukiwanie w Biblii.
 - Najważniejsze obszary aplikacji są dostępne w dolnym menu: **Biblia**, **Pieśni**, **Modlitwa**, **#JestNadzieja**.
 - Każda pozycja dolnego menu otwiera najpierw stronę nadrzędną z kafelkami, a dopiero kafelek prowadzi do konkretnej treści. Dzięki temu użytkownik nie trafia przypadkiem od razu do jednego śpiewnika lub dziennika.
-- Sekcja **Pieśni** zawiera kafelki: Śpiewnik, Pieśni młodzieżowe oraz Pieśni z muzyką i tekstem. Sekcja **Biblia** grupuje czytnik, 35 lekcji „Poznaj Boga i Biblię”, bieżące lekcje biblijne oraz osobiste narzędzia.
+- Sekcja **Pieśni** zawiera kafelki: Śpiewnik, Pieśni młodzieżowe oraz Pieśni z muzyką i tekstem. Sekcja **Biblia** grupuje czytnik, 35 lekcji „Poznaj Boga i Biblię”, bieżące lekcje biblijne oraz osobiste narzędzia. **#JestNadzieja** także zaczyna się od kafelków: „40 dni modlitwy” daje wybór między materiałem wynikającym z kalendarza a pełną listą, a „Materiały edukacyjne” prowadzą najpierw do ich listy.
 - Ikony dolnego menu są duże, proste i zawsze takie same dla tego samego punktu nawigacji.
 - **Ustawienia** są dostępne wyłącznie z menu bocznego, nie z dolnego paska.
 - Panel boczny grupuje pełną strukturę treści. Sekcja **Biblia** rozwija się, a **#JestNadzieja** znajduje się zaraz pod nią.
