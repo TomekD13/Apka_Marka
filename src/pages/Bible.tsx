@@ -163,7 +163,7 @@ export function BiblePage() {
         {last && (
           <Link
             to={`/${lang}/${BIBLE_PATH}/${last.osis}/${last.chapter}`}
-            className="inline-flex items-center gap-2 rounded-lg border border-emerald-500/30 bg-emerald-500/10 px-3 py-1.5 text-sm text-emerald-100"
+            className="inline-flex items-center gap-2 rounded-lg border border-emerald-500/30 bg-emerald-500/10 px-3 py-1.5 text-sm font-medium text-emerald-800 dark:text-emerald-100"
           >
             <span aria-hidden>↩</span>
             {t('bible.continue', 'Czytaj dalej')}: {last.ref}

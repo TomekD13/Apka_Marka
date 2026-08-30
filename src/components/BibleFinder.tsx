@@ -52,7 +52,7 @@ export function BibleFinder() {
           {last && (
             <Link
               to={`/${lang}/${BIBLE_PATH}/${last.osis}/${last.chapter}`}
-              className="inline-flex items-center gap-1.5 rounded-lg border border-emerald-500/30 bg-emerald-500/10 px-2.5 py-1 text-emerald-100"
+              className="inline-flex items-center gap-1.5 rounded-lg border border-emerald-500/30 bg-emerald-500/10 px-2.5 py-1 font-medium text-emerald-800 dark:text-emerald-100"
             >
               <span aria-hidden>↩</span>
               {t('bible.continue', 'Czytaj dalej')}: {last.ref}
