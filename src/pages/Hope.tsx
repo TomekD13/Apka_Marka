@@ -4,26 +4,8 @@ import { loadPray40 } from '../content'
 import { useI18n } from '../i18n'
 import { AppIcon } from '../components/AppNavigation'
 import { BackLink } from '../components/BackLink'
-import type { Pray40DayEntry, Pray40Index } from '../types'
-
-type CampaignState = 'before' | 'during' | 'after'
-
-function localIsoDate(date = new Date()) {
-  const month = String(date.getMonth() + 1).padStart(2, '0')
-  const day = String(date.getDate()).padStart(2, '0')
-  return `${date.getFullYear()}-${month}-${day}`
-}
-
-/** Wskazuje czytankę na dziś; poza akcją pokazuje jej pierwszy lub ostatni dzień. */
-function currentCampaignDay(days: Pray40DayEntry[]) {
-  const dated = days.filter((entry) => entry.date).sort((a, b) => a.date!.localeCompare(b.date!))
-  if (!dated.length) return null
-
-  const today = localIsoDate()
-  if (today < dated[0].date!) return { entry: dated[0], state: 'before' as CampaignState }
-  if (today > dated[dated.length - 1].date!) return { entry: dated[dated.length - 1], state: 'after' as CampaignState }
-  return { entry: dated.find((entry) => entry.date === today) ?? dated[0], state: 'during' as CampaignState }
-}
+import { currentCampaignDay } from '../lib/pray40Calendar'
+import type { Pray40Index } from '../types'
 
 function TodayAction({ index, lang }: { index: Pray40Index | null; lang: string }) {
   const campaign = index && currentCampaignDay(index.days)
