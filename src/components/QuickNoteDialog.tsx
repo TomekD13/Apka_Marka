@@ -87,6 +87,9 @@ export function QuickNoteDialog({
           placeholder={t('notes.quickPlaceholder', 'Zapisz myśl…')}
           className="w-full rounded-lg border border-slate-300 bg-white px-3 py-2 leading-relaxed text-slate-900 outline-none focus:border-brand"
         />
+        <p className="mt-2 text-xs leading-relaxed text-slate-300">
+          {t('notes.quickHint', 'Lista Twoich notatek znajduje się w sekcji: Biblia → Moje notatki biblijne.')}
+        </p>
 
         {error && <p className="mt-2 text-sm text-rose-300">{error}</p>}
 

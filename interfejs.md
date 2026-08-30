@@ -46,6 +46,7 @@ Interfejs jest projektowany przede wszystkim dla telefonu: ma prowadzić do bie�
 - Treść na kartach ma krótkie opisy i jeden jasny cel działania.
 - Minimalny komfort dotykowy jest ważniejszy od gęstości informacji: przyciski i punkty menu mają duże pola klikalne.
 - Kontrast tekstu i tła musi działać w obu motywach. Starsze ekrany zachowują czytelność dzięki regułom kompatybilności dla light mode.
+- W oknie **Nowa notatka** pod polem edycji, nad przyciskami, widnieje krótka wskazówka, że lista notatek jest dostępna przez: **Biblia → Moje notatki biblijne**.
 
 ## Karty, obramowania i ruch
 
