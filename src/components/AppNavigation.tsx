@@ -36,7 +36,7 @@ export function AppIcon({ name, className = '' }: { name: IconName; className?: 
 }
 
 function DrawerLink({ to, icon, children, onClick }: { to: string; icon: IconName; children: ReactNode; onClick: () => void }) {
-  return <Link to={to} onClick={onClick} className="flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm font-medium text-slate-700 hover:bg-slate-100 dark:text-slate-100 dark:hover:bg-white/10"><AppIcon name={icon} className="h-5 w-5 text-brand dark:text-sky-300"/>{children}</Link>
+  return <Link to={to} viewTransition onClick={onClick} className="flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm font-medium text-slate-700 hover:bg-slate-100 dark:text-slate-100 dark:hover:bg-white/10"><AppIcon name={icon} className="h-5 w-5 text-brand dark:text-sky-300"/>{children}</Link>
 }
 
 function DrawerGroup({ icon, title, open, onToggle, children }: { icon: IconName; title: string; open: boolean; onToggle: () => void; children: ReactNode }) {
@@ -69,14 +69,14 @@ export function AppNavigation() {
     <header className="no-print sticky top-0 z-30 border-b border-slate-200/90 bg-white/90 backdrop-blur dark:border-slate-700 dark:bg-slate-950/90">
       <div className="mx-auto flex h-14 max-w-3xl items-center justify-between px-4">
         <button type="button" onClick={() => setOpen(true)} aria-label={t('nav.menu', 'Menu')} className="rounded-lg p-2 text-slate-700 hover:bg-slate-100 dark:text-slate-100 dark:hover:bg-white/10"><AppIcon name="menu" className="h-6 w-6" /></button>
-        <Link to={home} className="text-sm font-bold tracking-tight text-slate-900 dark:text-white">Żywe Słowo</Link>
-        <Link to={`${home}/biblia/szukaj`} aria-label={t('bible.search', 'Szukaj w Biblii')} className="rounded-lg p-2 text-slate-700 hover:bg-slate-100 dark:text-slate-100 dark:hover:bg-white/10"><AppIcon name="search" className="h-5 w-5" /></Link>
+        <Link to={home} viewTransition className="text-sm font-bold tracking-tight text-slate-900 dark:text-white">Żywe Słowo</Link>
+        <Link to={`${home}/biblia/szukaj`} viewTransition aria-label={t('bible.search', 'Szukaj w Biblii')} className="rounded-lg p-2 text-slate-700 hover:bg-slate-100 dark:text-slate-100 dark:hover:bg-white/10"><AppIcon name="search" className="h-5 w-5" /></Link>
       </div>
     </header>
 
     {open && <div className="no-print fixed inset-0 z-50 bg-slate-950/45" onMouseDown={() => setOpen(false)}>
       <aside className="h-full w-[min(86vw,340px)] overflow-y-auto bg-white p-4 shadow-2xl dark:bg-slate-900" onMouseDown={(event) => event.stopPropagation()}>
-        <div className="mb-5 flex items-center justify-between"><Link to={home} onClick={() => setOpen(false)} className="text-lg font-bold text-slate-900 dark:text-white">Żywe Słowo</Link><button type="button" onClick={() => setOpen(false)} aria-label={t('common.close', 'Zamknij')} className="rounded-lg p-2 text-slate-600 hover:bg-slate-100 dark:text-slate-200 dark:hover:bg-white/10"><AppIcon name="close" className="h-5 w-5"/></button></div>
+        <div className="mb-5 flex items-center justify-between"><Link to={home} viewTransition onClick={() => setOpen(false)} className="text-lg font-bold text-slate-900 dark:text-white">Żywe Słowo</Link><button type="button" onClick={() => setOpen(false)} aria-label={t('common.close', 'Zamknij')} className="rounded-lg p-2 text-slate-600 hover:bg-slate-100 dark:text-slate-200 dark:hover:bg-white/10"><AppIcon name="close" className="h-5 w-5"/></button></div>
         <DrawerGroup icon="book" title={t('nav.bible', 'Biblia')} open={bibleOpen} onToggle={() => setBibleOpen(!bibleOpen)}>
           <DrawerLink to={`${home}/biblia/czytaj`} icon="book" onClick={() => setOpen(false)}>{t('nav.bibleText', 'Biblia')}</DrawerLink>
           <DrawerLink to={`${home}/poznaj-boga-i-biblie`} icon="lesson" onClick={() => setOpen(false)}>{t('home.bars.studies', 'Poznaj Boga i Biblię')}</DrawerLink>
@@ -114,7 +114,7 @@ export function AppNavigation() {
             : active
               ? 'bg-gradient-to-br from-blue-100 to-indigo-100 text-blue-800 ring-1 ring-blue-200 shadow-sm dark:from-sky-400/20 dark:to-indigo-400/20 dark:text-sky-200 dark:ring-sky-300/30'
               : 'text-slate-500 dark:text-slate-400'
-          return <Link key={item.to} to={item.to} className={`flex min-h-[62px] flex-col items-center justify-center gap-0.5 rounded-xl text-[11px] font-medium transition ${state}`}><AppIcon name={item.icon} className="h-8 w-8"/><span>{item.label}</span></Link>
+          return <Link key={item.to} to={item.to} viewTransition className={`flex min-h-[62px] flex-col items-center justify-center gap-0.5 rounded-xl text-[11px] font-medium transition ${state}`}><AppIcon name={item.icon} className="h-8 w-8"/><span>{item.label}</span></Link>
         })}
       </div>
     </nav>

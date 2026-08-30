@@ -10,7 +10,7 @@ const SHELL =
 
 export function BackLink({ to, children, className = '' }: { to: string; children: ReactNode; className?: string }) {
   return (
-    <Link to={to} className={`${SHELL} ${className}`}>
+    <Link to={to} viewTransition className={`${SHELL} ${className}`}>
       <span aria-hidden>‹</span>
       {children}
     </Link>

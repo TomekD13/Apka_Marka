@@ -128,6 +128,16 @@ html.dark .gradient-panel {
   font-weight: 700;
 }
 
+/* Delikatne przenikanie ekranów podczas wewnętrznej nawigacji. React Router v7
+   używa go tylko tam, gdzie link ma `viewTransition`; przeglądarki bez API
+   po prostu przechodzą między ekranami jak wcześniej. */
+@media (prefers-reduced-motion: no-preference) {
+  ::view-transition-old(root) { animation: route-leave 130ms ease-out both; }
+  ::view-transition-new(root) { animation: route-enter 190ms ease-out both; }
+  @keyframes route-leave { to { opacity: 0; transform: translateY(-3px); } }
+  @keyframes route-enter { from { opacity: 0; transform: translateY(4px); } }
+}
+
 /* Druk zawsze na biało, niezależnie od motywu */
 @media print {
   html.dark, body { background: #fff !important; color: #000 !important; }

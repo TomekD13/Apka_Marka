@@ -27,10 +27,10 @@ function TodayAction({ index, lang }: { index: Pray40Index | null; lang: string 
   return <>
     <p className="mt-2 text-sm leading-relaxed text-slate-600 dark:text-slate-300">{description}</p>
     <div className="mt-4 grid gap-2 sm:grid-cols-2">
-      <Link to={`/${lang}/40-dni/${entry.day}`} className="rounded-xl bg-brand px-3 py-2.5 text-center text-sm font-semibold text-white shadow-sm transition hover:bg-brand-light dark:bg-sky-300 dark:text-slate-950">
+      <Link to={`/${lang}/40-dni/${entry.day}`} viewTransition className="rounded-xl bg-brand px-3 py-2.5 text-center text-sm font-semibold text-white shadow-sm transition hover:bg-brand-light dark:bg-sky-300 dark:text-slate-950">
         {label}
       </Link>
-      <Link to={`/${lang}/40-dni`} className="rounded-xl border border-brand/40 bg-white/70 px-3 py-2.5 text-center text-sm font-semibold text-brand transition hover:border-brand hover:bg-white dark:border-sky-300/40 dark:bg-slate-950/30 dark:text-sky-200 dark:hover:border-sky-300 dark:hover:bg-slate-950/60">
+      <Link to={`/${lang}/40-dni`} viewTransition className="rounded-xl border border-brand/40 bg-white/70 px-3 py-2.5 text-center text-sm font-semibold text-brand transition hover:border-brand hover:bg-white dark:border-sky-300/40 dark:bg-slate-950/30 dark:text-sky-200 dark:hover:border-sky-300 dark:hover:bg-slate-950/60">
         Pełna lista 40 dni
       </Link>
     </div>
@@ -60,7 +60,7 @@ export function Hope() {
         <TodayAction index={index} lang={lang} />
       </section>
 
-      <Link to={`/${lang}/edukacja`} className="gradient-panel flex items-center gap-3 rounded-2xl border p-4 transition hover:-translate-y-0.5 hover:border-brand/60 hover:shadow-md dark:hover:border-sky-300/60">
+      <Link to={`/${lang}/edukacja`} viewTransition className="gradient-panel flex items-center gap-3 rounded-2xl border p-4 transition hover:-translate-y-0.5 hover:border-brand/60 hover:shadow-md dark:hover:border-sky-300/60">
         <span className="rounded-xl bg-brand/10 p-3 text-brand dark:bg-sky-400/15 dark:text-sky-300"><AppIcon name="lesson" className="h-7 w-7" /></span>
         <span className="min-w-0 flex-1"><span className="block text-lg font-bold text-slate-900 dark:text-white">Materiały edukacyjne</span><span className="mt-1 block text-sm leading-relaxed text-slate-600 dark:text-slate-300">Przejdź do listy materiałów i wybierz temat, który chcesz otworzyć.</span></span>
         <span className="text-xl text-brand dark:text-sky-300" aria-hidden>›</span>

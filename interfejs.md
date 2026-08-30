@@ -53,6 +53,7 @@ Interfejs jest projektowany przede wszystkim dla telefonu: ma prowadzić do bie�
 - Zawartość grupujemy w karty o promieniu około `16 px`.
 - Karty w jasnym motywie mają subtelne obramowanie i lekki cień; w ciemnym — ciemne tło oraz stonowane obramowanie.
 - Efekty ruchu są dyskretne: element klikalny może delikatnie podnieść się lub zmienić obramowanie po najechaniu.
+- Przejścia z menu, kafelka albo listy do kolejnego ekranu korzystają z krótkiego przenikania (View Transitions React Routera). Stosujemy je przede wszystkim między listą a szczegółem pieśni, czytanki, materiału edukacyjnego lub lekcji; preferencja systemowa „ogranicz ruch” je wyłącza.
 - Nie używamy ciężkich ozdobników, silnych cieni ani wielu konkurujących gradientów.
 
 ## Ikony

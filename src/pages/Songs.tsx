@@ -180,6 +180,7 @@ function SongRow({
     <div className="flex items-center gap-1">
       <Link
         to={`/${lang}/${SONG_PATH[collection]}/${song.nr}`}
+        viewTransition
         className="flex min-w-0 flex-1 items-center gap-3 rounded-lg border border-slate-200 bg-slate-50 px-3 py-2 text-slate-900 transition hover:border-brand hover:shadow-sm"
       >
         <span className="w-9 shrink-0 text-right text-xs tabular-nums text-slate-500">{song.nr}.</span>

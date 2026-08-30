@@ -12,7 +12,7 @@ function SectionTile({ to, href, icon, title, description }: { to?: string; href
   const content = <><span className="rounded-xl bg-brand/10 p-3 text-brand dark:bg-sky-400/15 dark:text-sky-300"><AppIcon name={icon} className="h-7 w-7" /></span><span className="min-w-0 flex-1"><span className="block text-lg font-bold text-slate-900 dark:text-white">{title}</span><span className="mt-1 block text-sm leading-relaxed text-slate-600 dark:text-slate-300">{description}</span></span><span className="text-xl text-brand dark:text-sky-300" aria-hidden>›</span></>
   const className = 'gradient-panel flex items-center gap-3 rounded-2xl border p-4 transition hover:-translate-y-0.5 hover:border-brand/60 hover:shadow-md dark:hover:border-sky-300/60'
   if (href) return <a href={href} target="_blank" rel="noreferrer" className={className}>{content}</a>
-  return <Link to={to || '#'} className={className}>{content}</Link>
+  return <Link to={to || '#'} viewTransition className={className}>{content}</Link>
 }
 
 function Hub({ icon, title, intro, children }: { icon: IconName; title: string; intro: string; children: ReactNode }) {

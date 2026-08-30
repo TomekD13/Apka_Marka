@@ -49,6 +49,7 @@ export function EduList({ limit }: { limit?: number }) {
         <Link
           key={it.nr}
           to={`/${lang}/edukacja/${it.nr}`}
+          viewTransition
           className="flex items-start gap-3 rounded-lg border border-slate-200 bg-slate-50 px-3 py-2 text-slate-900 transition hover:border-brand hover:shadow-sm"
         >
           <span className="w-6 shrink-0 pt-0.5 text-right text-xs tabular-nums text-slate-500">{it.nr}</span>
@@ -64,7 +65,7 @@ export function EduList({ limit }: { limit?: number }) {
         </Link>
       ))}
       {limit && data.items.length > limit && (
-        <Link to={`/${lang}/edukacja`} className="mt-1 block text-sm text-brand-light hover:underline">
+        <Link to={`/${lang}/edukacja`} viewTransition className="mt-1 block text-sm text-brand-light hover:underline">
           {t('edu.all', 'Wszystkie materiały')}
         </Link>
       )}
