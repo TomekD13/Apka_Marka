@@ -4,13 +4,13 @@
 
 :root {
   color-scheme: light;
-  --font-ui: 'Nunito Sans', Arial, sans-serif;
+  --font-ui: 'Montserrat', Arial, sans-serif;
   --font-reading: 'Libre Baskerville', Georgia, serif;
 }
-html[data-font-set='nunito'] { --font-ui: 'Nunito Sans', Arial, sans-serif; --font-reading: 'Libre Baskerville', Georgia, serif; }
+html[data-font-set='nunito'] { --font-ui: 'Montserrat', Arial, sans-serif; --font-reading: 'Libre Baskerville', Georgia, serif; }
 html[data-font-set='outfit'] { --font-ui: Outfit, Arial, sans-serif; --font-reading: Newsreader, Georgia, serif; }
 
-.font-preview-nunito { font-family: 'Nunito Sans', Arial, sans-serif; }
+.font-preview-nunito { font-family: 'Montserrat', Arial, sans-serif; }
 .font-preview-outfit { font-family: Outfit, Arial, sans-serif; }
 
 html, body, #root { height: 100%; }

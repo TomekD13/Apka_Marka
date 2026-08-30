@@ -66,7 +66,7 @@ export function Settings() {
     <div className="mt-7 space-y-2.5">
       <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500 dark:text-slate-400">{t('settings.fonts', 'Czcionki')}</h2>
       <p className="text-sm text-slate-600 dark:text-slate-300">{t('settings.fontsIntro', 'Pierwsza czcionka dotyczy interfejsu, druga dłuższego czytania.')}</p>
-      {fontOption('nunito', 'Nunito Sans', 'Libre Baskerville', t('settings.fontNunito', 'Ciepła i przyjazna.'))}
+      {fontOption('nunito', 'Montserrat', 'Libre Baskerville', t('settings.fontMontserrat', 'Czytelna i uporządkowana.'))}
       {fontOption('outfit', 'Outfit', 'Newsreader', t('settings.fontOutfit', 'Lekka i redakcyjna.'))}
     </div>
     <div className="mt-7 space-y-2.5">

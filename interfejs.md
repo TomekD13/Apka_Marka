@@ -39,8 +39,8 @@ Interfejs jest projektowany przede wszystkim dla telefonu: ma prowadzić do bie�
 
 ## Typografia i czytelność
 
-- Domyślny zestaw to **Nunito Sans + Libre Baskerville**: pierwszy krój służy do interfejsu, drugi do tekstów Biblii, studiów i materiałów czytelniczych.
-- W Ustawieniach użytkownik może zmienić cały zestaw typograficzny. Dostępne pary to: **Nunito Sans + Libre Baskerville** oraz **Outfit + Newsreader**.
+- Domyślny zestaw to **Montserrat + Libre Baskerville**: pierwszy krój służy do interfejsu, drugi do tekstów Biblii, studiów i materiałów czytelniczych.
+- W Ustawieniach użytkownik może zmienić cały zestaw typograficzny. Dostępne pary to: **Montserrat + Libre Baskerville** oraz **Outfit + Newsreader**.
 - Wybór czcionek jest zapamiętywany lokalnie na urządzeniu i od razu obejmuje zarówno interfejs, jak i treść do czytania.
 - Nagłówki są wyraźnie większe i pogrubione; tekst pomocniczy jest mniejszy oraz mniej kontrastowy.
 - Treść na kartach ma krótkie opisy i jeden jasny cel działania.
