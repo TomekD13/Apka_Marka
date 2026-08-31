@@ -1,5 +1,7 @@
 import type { BibleBookMeta, BibleBookText, BibleIndex, BibleTranslations } from '../types'
 import { getInstalledBook, getInstalledIndex, listInstalled } from './bibleStore'
+import { parseSqliteModule } from './sqliteModule'
+import { pickFromZip } from './unzip'
 
 // Dostep do tekstu Pisma dla czytnika `/pl/biblia`.
 // Dwa zrodla, ten sam ksztalt danych:
@@ -9,6 +11,30 @@ import { getInstalledBook, getInstalledIndex, listInstalled } from './bibleStore
 
 const BASE = import.meta.env.BASE_URL
 const memory = new Map<string, unknown>()
+
+/**
+ * Biblia Gdańska jest częścią wydania aplikacji, podobnie jak UBG. Trzymamy ją jako
+ * jeden moduł MyBible, aby nie powielać 66 plików, a przy pierwszym użyciu czytamy go
+ * lokalnie w przeglądarce. Plik trafia również do cache'u PWA podczas instalacji.
+ */
+async function loadBundledBG(lang: string) {
+  const key = `bundled:${lang}:BG`
+  const hit = memory.get(key)
+  if (hit) return hit as { index: BibleIndex; books: Record<string, string[][]> }
+
+  const res = await fetch(`${BASE}content/${lang}/bible/BG.bbl.mybible.zip`.replace(/\/{2,}/g, '/'))
+  if (!res.ok) throw new Error(`Nie udało się wczytać: Biblia Gdańska (${res.status})`)
+  const archive = await res.arrayBuffer()
+  const picked = await pickFromZip(archive, ['.sqlite3', '.sqlite', '.mybible'])
+  if (!picked) throw new Error('zip-empty')
+  const template = await loadBibleIndex(lang, 'UBG')
+  const module = parseSqliteModule(picked.data, template, {
+    code: 'BG',
+    name: 'Biblia Gdańska (1881)',
+  })
+  memory.set(key, module)
+  return module
+}
 
 async function getJSON<T>(path: string): Promise<T> {
   const url = `${BASE}content/${path}`.replace(/\/{2,}/g, '/')
@@ -29,8 +55,9 @@ export async function loadBibleIndex(lang: string, code: string): Promise<BibleI
   const key = `idx:${lang}:${code}`
   const hit = memory.get(key)
   if (hit) return hit as BibleIndex
-  const installed = await getInstalledIndex(code)
-  const index = installed || (await getJSON<BibleIndex>(`${lang}/bible/${code}/index.json`))
+  const bundled = code === 'BG' ? await loadBundledBG(lang) : null
+  const installed = bundled ? null : await getInstalledIndex(code)
+  const index = bundled?.index || installed || (await getJSON<BibleIndex>(`${lang}/bible/${code}/index.json`))
   memory.set(key, index)
   return index
 }
@@ -39,8 +66,9 @@ export async function loadBibleBook(lang: string, code: string, osis: string): P
   const key = `book:${lang}:${code}:${osis}`
   const hit = memory.get(key)
   if (hit) return hit as string[][]
-  const installed = await getInstalledBook(code, osis)
-  const chapters = installed || (await getJSON<BibleBookText>(`${lang}/bible/${code}/${osis}.json`)).chapters
+  const bundled = code === 'BG' ? await loadBundledBG(lang) : null
+  const installed = bundled ? null : await getInstalledBook(code, osis)
+  const chapters = bundled?.books[osis] || installed || (await getJSON<BibleBookText>(`${lang}/bible/${code}/${osis}.json`)).chapters
   memory.set(key, chapters)
   return chapters
 }

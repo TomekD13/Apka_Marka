@@ -15,7 +15,7 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['favicon.svg'],
+      includeAssets: ['favicon.svg', 'content/pl/bible/BG.bbl.mybible.zip'],
       manifest: {
         name: '#JestNadzieja',
         short_name: '#JestNadzieja',
