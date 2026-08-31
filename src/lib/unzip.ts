@@ -58,7 +58,12 @@ export function listZip(buffer: ArrayBuffer): ZipEntry[] {
         if (method === 0) return body.slice().buffer
         if (method !== 8) throw new Error('bad-zip')
         if (typeof DecompressionStream === 'undefined') throw new Error('bad-zip')
-        const stream = new Blob([body]).stream().pipeThrough(new DecompressionStream('deflate-raw'))
+        // `Blob.stream()` nie jest dostępne w części przeglądarek mobilnych,
+        // choć obsługują już DecompressionStream. Response daje ten sam strumień
+        // danych i działa szerzej, więc moduł da się rozpakować także na telefonie.
+        const source = new Response(body).body
+        if (!source) throw new Error('bad-zip')
+        const stream = source.pipeThrough(new DecompressionStream('deflate-raw'))
         return new Response(stream).arrayBuffer()
       },
     })
