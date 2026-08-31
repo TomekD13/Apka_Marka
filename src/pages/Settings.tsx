@@ -90,12 +90,7 @@ export function Settings() {
         </div>
       </ExpandablePanel>
     </div>
-    <div className="mt-7 space-y-2.5">
-      <ExpandablePanel icon="contact" title={t('about.title', 'O aplikacji')}>
-        <p className="whitespace-pre-line text-sm leading-relaxed text-slate-700 dark:text-slate-200">{t('about.body')}</p>
-        <p className="mt-3 text-sm leading-relaxed text-slate-500 dark:text-slate-400">{t('about.privacy')}</p>
-        <a href={t('about.publisherUrl', 'https://www.facebook.com/pastormarek')} target="_blank" rel="noreferrer" className="mt-3 inline-block text-sm font-medium text-brand hover:underline dark:text-sky-300">{t('about.publisher', 'Autor: Marek Micyk')}</a>
-      </ExpandablePanel>
+    <div className="mt-2.5 space-y-2.5">
       <ExpandablePanel icon="settings" title="Dodaj aplikację do Twojego telefonu">
         <p className="text-sm leading-relaxed text-slate-600 dark:text-slate-300">Otwiera się jak zwykła aplikacja i pozostaje dostępna także bez internetu.</p>
         {installedNow || installState === 'installed' ? <p className="mt-3 text-sm font-semibold text-emerald-700 dark:text-emerald-300">Aplikacja jest już dodana do ekranu telefonu.</p> : installState === 'unavailable' ? <p className="mt-3 text-sm text-slate-500 dark:text-slate-400">Otwórz tę stronę w Chrome na Androidzie albo Safari na iPhonie, aby dodać aplikację do ekranu.</p> : <><button type="button" onClick={install} aria-expanded={installState === 'ios' ? showIosSteps : undefined} className="mt-3 rounded-lg bg-brand px-3 py-1.5 text-sm font-semibold text-white shadow-sm transition hover:bg-brand-light dark:bg-sky-300 dark:text-slate-950">{installState === 'ios' ? 'Jak to zrobić' : 'Dodaj aplikację'}</button>{installState === 'ios' && showIosSteps && <ol className="mt-3 list-decimal space-y-1 pl-5 text-sm leading-relaxed text-slate-600 dark:text-slate-300"><li>Dotknij ikony „Udostępnij” na dolnym pasku Safari.</li><li>Przewiń listę i wybierz „Dodaj do ekranu początkowego”.</li><li>Potwierdź „Dodaj” w prawym górnym rogu.</li><li className="text-slate-500 dark:text-slate-400">Na iPhonie użyj Safari — w innych przeglądarkach ta opcja może nie być dostępna.</li></ol>}</>}
@@ -106,6 +101,11 @@ export function Settings() {
           {offlineState === 'busy' ? `Pobieranie…${offlineProgress ? ` ${offlineProgress.done}/${offlineProgress.total}` : ''}` : offlineState === 'done' ? 'Treści są dostępne offline' : 'Pobierz treści'}
         </button>
         {offlineState === 'failed' && <p className="mt-2 text-sm text-rose-700 dark:text-rose-300">Nie udało się pobrać wszystkich treści. Sprawdź połączenie z internetem i spróbuj ponownie.</p>}
+      </ExpandablePanel>
+      <ExpandablePanel icon="contact" title={t('about.title', 'O aplikacji')}>
+        <p className="whitespace-pre-line text-sm leading-relaxed text-slate-700 dark:text-slate-200">{t('about.body')}</p>
+        <p className="mt-3 text-sm leading-relaxed text-slate-500 dark:text-slate-400">{t('about.privacy')}</p>
+        <a href={t('about.publisherUrl', 'https://www.facebook.com/pastormarek')} target="_blank" rel="noreferrer" className="mt-3 inline-block text-sm font-medium text-brand hover:underline dark:text-sky-300">{t('about.publisher', 'Autor: Marek Micyk')}</a>
       </ExpandablePanel>
     </div>
   </section>

@@ -29,8 +29,8 @@ import urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONTENT = os.path.join(ROOT, 'public', 'content')
-PAGE = 'https://www.ph4.org/b4_1.php?l={0}'
-BASE = 'https://www.ph4.org/'
+PAGE = 'https://www.ph4.ru/b4_1.php?l={0}'
+BASE = 'https://www.ph4.ru/'
 
 # Strona dzieli moduly na sekcje: BIBLES, NEW TESTAMENT, DICTIONARIES, COMMENTARIES…
 # Slowniki i komentarze pomijamy - aplikacja czyta tylko tekst Pisma.
@@ -140,7 +140,7 @@ def main(argv):
     with io.open(path, encoding='utf-8') as f:
         data = json.load(f)
     catalogs = data.get('catalogs') or []
-    target = next((c for c in catalogs if 'ph4.org' in c.get('url', '')), None)
+    target = next((c for c in catalogs if 'ph4.' in c.get('url', '')), None)
     if target is None:
         print('  brak wpisu ph4.org w catalogs - dopisz go najpierw recznie')
         return 1
