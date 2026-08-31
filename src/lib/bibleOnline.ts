@@ -12,22 +12,21 @@ const BASE = import.meta.env.BASE_URL
 
 /**
  * Polski katalog MySword udostępnia moduły w formacie obsługiwanym przez aplikację.
- * Nie kierujemy użytkownika do niezweryfikowanych mirrorów; poniżej podajemy tylko
- * sprawdzony bezpośredni plik, a pełny katalog pozostaje dostępny pod jego stroną.
+ * Pokazujemy tu wyłącznie przekład z domeny publicznej; pozostałe moduły użytkownik
+ * może samodzielnie znaleźć i dodać z pliku, po sprawdzeniu jego warunków licencji.
  */
 const MYSWORD_POLAND_CATALOG: BibleCatalog = {
-  name: 'MySword Polska — moduły biblijne po polsku',
+  name: 'MySword Polska — przekłady z domeny publicznej',
   url: 'https://mysword.com.pl/biblie-polskie/',
   formats: 'MySword (.bbl.mybible w archiwum .zip)',
-  note: 'Możesz pobrać Biblię Tysiąclecia V bezpośrednio poniżej. Pełna lista polskich modułów jest na stronie katalogu.',
+  note: 'Udostępniamy wyłącznie przekład oznaczony jako domena publiczna. Inne moduły można dodać samodzielnie z własnego pliku.',
   items: [
     {
-      code: 'BT5-SJ',
-      abbr: 'BT5',
-      name: 'Biblia Tysiąclecia V',
-      url: 'https://mysword.com.pl/wp-content/uploads/2025/03/BT_SJ-BibliaTysiacleciaV1_1.bbl.mybible_.zip',
+      code: 'PBGd-SJ',
+      abbr: 'PBGd',
+      name: 'Biblia Gdańska 1881',
+      url: 'https://mysword.com.pl/wp-content/uploads/2025/03/PBG_SJ-BibliaGdanska.bbl.mybible_.zip',
       complete: true,
-      sizeKB: 2020,
     },
   ],
 }
