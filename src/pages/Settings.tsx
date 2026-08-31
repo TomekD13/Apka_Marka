@@ -2,6 +2,7 @@ import { useEffect, useState, type ReactNode } from 'react'
 import { useI18n } from '../i18n'
 import { useTheme, type FontSet, type Theme } from '../theme'
 import { getInstallState, initAppInstall, requestInstall, subscribeInstall, type InstallState } from '../lib/installApp'
+import { downloadModule } from '../content'
 import { AppIcon, type IconName } from '../components/AppNavigation'
 import { PageHeading } from '../components/PageHeading'
 
@@ -18,11 +19,13 @@ function ExpandablePanel({ icon, title, children }: { icon: IconName; title: str
 }
 
 export function Settings() {
-  const { t } = useI18n()
+  const { lang, t } = useI18n()
   const { theme, setTheme, fontSet, setFontSet } = useTheme()
   const [installState, setInstallState] = useState<InstallState>(getInstallState)
   const [showIosSteps, setShowIosSteps] = useState(false)
   const [installedNow, setInstalledNow] = useState(false)
+  const [offlineState, setOfflineState] = useState<'idle' | 'busy' | 'done' | 'failed'>('idle')
+  const [offlineProgress, setOfflineProgress] = useState<{ done: number; total: number } | null>(null)
 
   useEffect(() => {
     initAppInstall()
@@ -55,19 +58,37 @@ export function Settings() {
     if (await requestInstall() === 'accepted') setInstalledNow(true)
   }
 
+  async function downloadOffline() {
+    if (offlineState === 'busy') return
+    setOfflineState('busy')
+    setOfflineProgress(null)
+    try {
+      await downloadModule(lang, (done, total) => setOfflineProgress({ done, total }))
+      setOfflineState('done')
+    } catch {
+      setOfflineState('failed')
+    } finally {
+      setOfflineProgress(null)
+    }
+  }
+
   return <section className="mx-auto max-w-xl">
     <PageHeading icon="settings" eyebrow={t('nav.menu', 'Menu boczne')} title={t('nav.settings', 'Ustawienia')} />
     <p className="mt-2 text-slate-600 dark:text-slate-300">{t('settings.intro', 'Wybierz wygląd, który jest najwygodniejszy dla Ciebie.')}</p>
     <div className="mt-6 space-y-2.5">
-      <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500 dark:text-slate-400">{t('settings.appearance', 'Wygląd aplikacji')}</h2>
-      {option('light', t('settings.light', 'Light mode'), t('settings.lightDesc', 'Jasny, czytelny wygląd na dzień.'))}
-      {option('dark', t('settings.dark', 'Dark mode'), t('settings.darkDesc', 'Ciemny wygląd wygodny wieczorem.'))}
-    </div>
-    <div className="mt-7 space-y-2.5">
-      <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500 dark:text-slate-400">{t('settings.fonts', 'Czcionki')}</h2>
-      <p className="text-sm text-slate-600 dark:text-slate-300">{t('settings.fontsIntro', 'Pierwsza czcionka dotyczy interfejsu, druga dłuższego czytania.')}</p>
-      {fontOption('nunito', 'Montserrat', 'Libre Baskerville', t('settings.fontMontserrat', 'Czytelna i uporządkowana.'))}
-      {fontOption('outfit', 'Outfit', 'Newsreader', t('settings.fontOutfit', 'Lekka i redakcyjna.'))}
+      <ExpandablePanel icon="settings" title={t('settings.appearance', 'Wygląd aplikacji')}>
+        <div className="space-y-2.5">
+          {option('light', t('settings.light', 'Light mode'), t('settings.lightDesc', 'Jasny, czytelny wygląd na dzień.'))}
+          {option('dark', t('settings.dark', 'Dark mode'), t('settings.darkDesc', 'Ciemny wygląd wygodny wieczorem.'))}
+        </div>
+      </ExpandablePanel>
+      <ExpandablePanel icon="notes" title={t('settings.fonts', 'Czcionki')}>
+        <div className="space-y-2.5">
+          <p className="text-sm text-slate-600 dark:text-slate-300">{t('settings.fontsIntro', 'Pierwsza czcionka dotyczy interfejsu, druga dłuższego czytania.')}</p>
+          {fontOption('nunito', 'Montserrat', 'Libre Baskerville', t('settings.fontMontserrat', 'Czytelna i uporządkowana.'))}
+          {fontOption('outfit', 'Outfit', 'Newsreader', t('settings.fontOutfit', 'Lekka i redakcyjna.'))}
+        </div>
+      </ExpandablePanel>
     </div>
     <div className="mt-7 space-y-2.5">
       <ExpandablePanel icon="contact" title={t('about.title', 'O aplikacji')}>
@@ -78,6 +99,13 @@ export function Settings() {
       <ExpandablePanel icon="settings" title="Dodaj aplikację do Twojego telefonu">
         <p className="text-sm leading-relaxed text-slate-600 dark:text-slate-300">Otwiera się jak zwykła aplikacja i pozostaje dostępna także bez internetu.</p>
         {installedNow || installState === 'installed' ? <p className="mt-3 text-sm font-semibold text-emerald-700 dark:text-emerald-300">Aplikacja jest już dodana do ekranu telefonu.</p> : installState === 'unavailable' ? <p className="mt-3 text-sm text-slate-500 dark:text-slate-400">Otwórz tę stronę w Chrome na Androidzie albo Safari na iPhonie, aby dodać aplikację do ekranu.</p> : <><button type="button" onClick={install} aria-expanded={installState === 'ios' ? showIosSteps : undefined} className="mt-3 rounded-lg bg-brand px-3 py-1.5 text-sm font-semibold text-white shadow-sm transition hover:bg-brand-light dark:bg-sky-300 dark:text-slate-950">{installState === 'ios' ? 'Jak to zrobić' : 'Dodaj aplikację'}</button>{installState === 'ios' && showIosSteps && <ol className="mt-3 list-decimal space-y-1 pl-5 text-sm leading-relaxed text-slate-600 dark:text-slate-300"><li>Dotknij ikony „Udostępnij” na dolnym pasku Safari.</li><li>Przewiń listę i wybierz „Dodaj do ekranu początkowego”.</li><li>Potwierdź „Dodaj” w prawym górnym rogu.</li><li className="text-slate-500 dark:text-slate-400">Na iPhonie użyj Safari — w innych przeglądarkach ta opcja może nie być dostępna.</li></ol>}</>}
+      </ExpandablePanel>
+      <ExpandablePanel icon="download" title="Pobierz treści do trybu offline">
+        <p className="text-sm leading-relaxed text-slate-600 dark:text-slate-300">Pobierze na to urządzenie Biblię, studia, czytanki „40 dni modlitwy”, materiały edukacyjne, śpiewniki, fiszki i teksty na różne okazje. Po zakończeniu będą dostępne także bez internetu.</p>
+        <button type="button" onClick={downloadOffline} disabled={offlineState === 'busy' || offlineState === 'done'} className="mt-3 rounded-lg bg-brand px-3 py-1.5 text-sm font-semibold text-white shadow-sm transition hover:bg-brand-light disabled:cursor-default disabled:opacity-70 dark:bg-sky-300 dark:text-slate-950">
+          {offlineState === 'busy' ? `Pobieranie…${offlineProgress ? ` ${offlineProgress.done}/${offlineProgress.total}` : ''}` : offlineState === 'done' ? 'Treści są dostępne offline' : 'Pobierz treści'}
+        </button>
+        {offlineState === 'failed' && <p className="mt-2 text-sm text-rose-700 dark:text-rose-300">Nie udało się pobrać wszystkich treści. Sprawdź połączenie z internetem i spróbuj ponownie.</p>}
       </ExpandablePanel>
     </div>
   </section>

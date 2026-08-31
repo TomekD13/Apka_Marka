@@ -1,7 +1,6 @@
 import { useEffect, useState, type ReactNode } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { useI18n } from '../i18n'
-import { downloadModule } from '../content'
 
 export type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' | 'download' | 'settings' | 'close' | 'notes' | 'memory' | 'occasion' | 'lesson' | 'contact' | 'chevron'
 
@@ -52,7 +51,6 @@ export function AppNavigation() {
   const { lang, t } = useI18n()
   const { pathname } = useLocation()
   const [open, setOpen] = useState(false)
-  const [download, setDownload] = useState<'idle' | 'busy' | 'done'>('idle')
   const [bibleOpen, setBibleOpen] = useState(true)
   const [hopeOpen, setHopeOpen] = useState(false)
   const [songsOpen, setSongsOpen] = useState(false)
@@ -68,29 +66,12 @@ export function AppNavigation() {
     { to: `${home}/jest-nadzieja`, label: '#JestNadzieja – materiały', icon: 'hope' as IconName },
   ]
 
-  const downloadLabel = download === 'busy'
-    ? 'Pobieranie materiałów…'
-    : download === 'done'
-      ? 'Materiały są dostępne offline'
-      : 'Pobierz do trybu offline'
-
-  async function downloadOffline() {
-    if (download !== 'idle') return
-    setDownload('busy')
-    try {
-      await downloadModule(lang)
-      setDownload('done')
-    } catch {
-      setDownload('idle')
-    }
-  }
-
   return <>
     <header className="no-print sticky top-0 z-30 border-b border-slate-200/90 bg-white/90 backdrop-blur dark:border-slate-700 dark:bg-slate-950/90">
       <div className="mx-auto flex h-14 max-w-3xl items-center justify-between px-4">
         <button type="button" onClick={() => setOpen(true)} aria-label={t('nav.menu', 'Menu')} className="rounded-lg p-2 text-slate-700 hover:bg-slate-100 dark:text-slate-100 dark:hover:bg-white/10"><AppIcon name="menu" className="h-6 w-6" /></button>
         <Link to={home} viewTransition className="text-sm font-bold tracking-tight text-slate-900 dark:text-white">#JestNadzieja</Link>
-        <div className="flex items-center gap-0.5"><button type="button" onClick={downloadOffline} disabled={download !== 'idle'} title={downloadLabel} aria-label={downloadLabel} className="rounded-lg p-2 text-slate-700 hover:bg-slate-100 disabled:cursor-default disabled:opacity-70 dark:text-slate-100 dark:hover:bg-white/10">{download === 'done' ? <span className="block h-5 w-5 text-center text-base leading-5" aria-hidden>✓</span> : <AppIcon name="download" className="h-5 w-5" />}</button><Link to={`${home}/biblia/szukaj`} viewTransition aria-label={t('bible.search', 'Szukaj w Biblii')} className="rounded-lg p-2 text-slate-700 hover:bg-slate-100 dark:text-slate-100 dark:hover:bg-white/10"><AppIcon name="search" className="h-5 w-5" /></Link></div>
+        <Link to={`${home}/biblia/szukaj`} viewTransition aria-label={t('bible.search', 'Szukaj w Biblii')} className="rounded-lg p-2 text-slate-700 hover:bg-slate-100 dark:text-slate-100 dark:hover:bg-white/10"><AppIcon name="search" className="h-5 w-5" /></Link>
       </div>
     </header>
 

@@ -100,7 +100,8 @@ function CatalogItems({ items, onPicked }: { items: BibleCatalogItem[]; onPicked
                 ) : null}
                 <a
                   href={it.url}
-                  download
+                  target="_blank"
+                  rel="noopener noreferrer"
                   onClick={() => setClicked(it.name)}
                   className="shrink-0 rounded-md border border-brand/50 px-2.5 py-1 text-xs font-semibold text-brand-light hover:bg-brand/10"
                 >
