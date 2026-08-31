@@ -26,9 +26,10 @@ export default defineConfig({
         start_url: base,
         scope: base,
         icons: [
-          { src: 'pwa-192.png', sizes: '192x192', type: 'image/png' },
-          { src: 'pwa-512.png', sizes: '512x512', type: 'image/png' },
-          { src: 'pwa-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' }
+          // Rewizja adresu wymusza odświeżenie ikony przez system po aktualizacji PWA.
+          { src: 'pwa-192.png?v=20260831', sizes: '192x192', type: 'image/png' },
+          { src: 'pwa-512.png?v=20260831', sizes: '512x512', type: 'image/png' },
+          { src: 'pwa-512.png?v=20260831', sizes: '512x512', type: 'image/png', purpose: 'maskable' }
         ]
       },
       workbox: {
