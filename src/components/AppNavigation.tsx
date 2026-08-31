@@ -1,8 +1,9 @@
 import { useEffect, useState, type ReactNode } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { useI18n } from '../i18n'
+import { downloadModule } from '../content'
 
-export type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' | 'settings' | 'close' | 'notes' | 'memory' | 'occasion' | 'lesson' | 'contact' | 'chevron'
+export type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' | 'download' | 'settings' | 'close' | 'notes' | 'memory' | 'occasion' | 'lesson' | 'contact' | 'chevron'
 
 export function AppIcon({ name, className = '' }: { name: IconName; className?: string }) {
   if (name === 'prayer') {
@@ -20,6 +21,7 @@ export function AppIcon({ name, className = '' }: { name: IconName; className?: 
   const paths: Record<Exclude<IconName, 'hope'>, ReactNode> = {
     book: <><path d="M5 6.5c4.2-1.8 7.5-.6 11 2.1v17C12.5 23.1 9.2 22 5 23.8V6.5Z"/><path d="M27 6.5c-4.2-1.8-7.5-.6-11 2.1v17c3.5-2.5 6.8-3.6 11-1.8V6.5Z"/></>,
     music: <><path d="M11 25V8l14-3v15"/><path d="M11 12l14-3"/><circle cx="7.5" cy="25" r="3.5"/><circle cx="21.5" cy="20" r="3.5"/></>,
+    download: <><path d="M16 4v16"/><path d="m10 15 6 6 6-6"/><path d="M6 27h20"/></>,
     prayer: <><path d="M16 5v16"/><path d="M16 21 12.3 15V7.7c0-1.4-1.8-1.9-2.5-.7L8.4 9.6c-.8 1.4-.8 3.1-.2 4.6l3.5 7.5c.6 1.3 1 2.8 1 4.3V27h3.3"/><path d="M16 21 19.7 15V7.7c0-1.4 1.8-1.9 2.5-.7l1.4 2.6c.8 1.4.8 3.1.2 4.6l-3.5 7.5c-.6 1.3-1 2.8-1 4.3V27H16"/><path d="M12.3 15 10.8 10M19.7 15l1.5-5"/></>,
     menu: <><path d="M4 8h24M4 16h24M4 24h24"/></>,
     search: <><circle cx="14" cy="14" r="8"/><path d="m20 20 7 7"/></>,
@@ -50,6 +52,7 @@ export function AppNavigation() {
   const { lang, t } = useI18n()
   const { pathname } = useLocation()
   const [open, setOpen] = useState(false)
+  const [download, setDownload] = useState<'idle' | 'busy' | 'done'>('idle')
   const [bibleOpen, setBibleOpen] = useState(true)
   const [hopeOpen, setHopeOpen] = useState(false)
   const [songsOpen, setSongsOpen] = useState(false)
@@ -62,21 +65,38 @@ export function AppNavigation() {
     { to: `${home}/biblia`, label: t('nav.bible', 'Biblia'), icon: 'book' as IconName },
     { to: `${home}/piesni`, label: t('nav.songs', 'Pieśni'), icon: 'music' as IconName },
     { to: `${home}/modlitwa`, label: t('nav.prayer', 'Modlitwa'), icon: 'prayer' as IconName },
-    { to: `${home}/jest-nadzieja`, label: '#JestNadzieja', icon: 'hope' as IconName },
+    { to: `${home}/jest-nadzieja`, label: '#JestNadzieja – materiały', icon: 'hope' as IconName },
   ]
+
+  const downloadLabel = download === 'busy'
+    ? 'Pobieranie materiałów…'
+    : download === 'done'
+      ? 'Materiały są dostępne offline'
+      : 'Pobierz do trybu offline'
+
+  async function downloadOffline() {
+    if (download !== 'idle') return
+    setDownload('busy')
+    try {
+      await downloadModule(lang)
+      setDownload('done')
+    } catch {
+      setDownload('idle')
+    }
+  }
 
   return <>
     <header className="no-print sticky top-0 z-30 border-b border-slate-200/90 bg-white/90 backdrop-blur dark:border-slate-700 dark:bg-slate-950/90">
       <div className="mx-auto flex h-14 max-w-3xl items-center justify-between px-4">
         <button type="button" onClick={() => setOpen(true)} aria-label={t('nav.menu', 'Menu')} className="rounded-lg p-2 text-slate-700 hover:bg-slate-100 dark:text-slate-100 dark:hover:bg-white/10"><AppIcon name="menu" className="h-6 w-6" /></button>
-        <Link to={home} viewTransition className="text-sm font-bold tracking-tight text-slate-900 dark:text-white">Żywe Słowo</Link>
-        <Link to={`${home}/biblia/szukaj`} viewTransition aria-label={t('bible.search', 'Szukaj w Biblii')} className="rounded-lg p-2 text-slate-700 hover:bg-slate-100 dark:text-slate-100 dark:hover:bg-white/10"><AppIcon name="search" className="h-5 w-5" /></Link>
+        <Link to={home} viewTransition className="text-sm font-bold tracking-tight text-slate-900 dark:text-white">#JestNadzieja</Link>
+        <div className="flex items-center gap-0.5"><button type="button" onClick={downloadOffline} disabled={download !== 'idle'} title={downloadLabel} aria-label={downloadLabel} className="rounded-lg p-2 text-slate-700 hover:bg-slate-100 disabled:cursor-default disabled:opacity-70 dark:text-slate-100 dark:hover:bg-white/10">{download === 'done' ? <span className="block h-5 w-5 text-center text-base leading-5" aria-hidden>✓</span> : <AppIcon name="download" className="h-5 w-5" />}</button><Link to={`${home}/biblia/szukaj`} viewTransition aria-label={t('bible.search', 'Szukaj w Biblii')} className="rounded-lg p-2 text-slate-700 hover:bg-slate-100 dark:text-slate-100 dark:hover:bg-white/10"><AppIcon name="search" className="h-5 w-5" /></Link></div>
       </div>
     </header>
 
     {open && <div className="no-print fixed inset-0 z-50 bg-slate-950/45" onMouseDown={() => setOpen(false)}>
       <aside className="h-full w-[min(86vw,340px)] overflow-y-auto bg-white p-4 shadow-2xl dark:bg-slate-900" onMouseDown={(event) => event.stopPropagation()}>
-        <div className="mb-5 flex items-center justify-between"><Link to={home} viewTransition onClick={() => setOpen(false)} className="text-lg font-bold text-slate-900 dark:text-white">Żywe Słowo</Link><button type="button" onClick={() => setOpen(false)} aria-label={t('common.close', 'Zamknij')} className="rounded-lg p-2 text-slate-600 hover:bg-slate-100 dark:text-slate-200 dark:hover:bg-white/10"><AppIcon name="close" className="h-5 w-5"/></button></div>
+        <div className="mb-5 flex items-center justify-between"><Link to={home} viewTransition onClick={() => setOpen(false)} className="text-lg font-bold text-slate-900 dark:text-white">#JestNadzieja</Link><button type="button" onClick={() => setOpen(false)} aria-label={t('common.close', 'Zamknij')} className="rounded-lg p-2 text-slate-600 hover:bg-slate-100 dark:text-slate-200 dark:hover:bg-white/10"><AppIcon name="close" className="h-5 w-5"/></button></div>
         <DrawerGroup icon="book" title={t('nav.bible', 'Biblia')} open={bibleOpen} onToggle={() => setBibleOpen(!bibleOpen)}>
           <DrawerLink to={`${home}/biblia/czytaj`} icon="book" onClick={() => setOpen(false)}>{t('nav.bibleText', 'Biblia')}</DrawerLink>
           <DrawerLink to={`${home}/poznaj-boga-i-biblie`} icon="lesson" onClick={() => setOpen(false)}>{t('home.bars.studies', 'Poznaj Boga i Biblię')}</DrawerLink>
@@ -85,8 +105,8 @@ export function AppNavigation() {
           <DrawerLink to={`${home}/fiszki`} icon="memory" onClick={() => setOpen(false)}>{t('flashcards.cta', 'Ucz się wersetów na pamięć')}</DrawerLink>
           <DrawerLink to={`${home}/okazje`} icon="occasion" onClick={() => setOpen(false)}>{t('occasions.cta', 'Teksty na różne okazje')}</DrawerLink>
         </DrawerGroup>
-        <DrawerGroup icon="hope" title="#JestNadzieja" open={hopeOpen} onToggle={() => setHopeOpen(!hopeOpen)}>
-          <DrawerLink to={`${home}/jest-nadzieja`} icon="hope" onClick={() => setOpen(false)}>#JestNadzieja</DrawerLink>
+        <DrawerGroup icon="hope" title="#JestNadzieja – materiały" open={hopeOpen} onToggle={() => setHopeOpen(!hopeOpen)}>
+          <DrawerLink to={`${home}/jest-nadzieja`} icon="hope" onClick={() => setOpen(false)}>#JestNadzieja – materiały</DrawerLink>
           <DrawerLink to={`${home}/40-dni`} icon="prayer" onClick={() => setOpen(false)}>{t('home.pray40', '40 dni modlitwy')}</DrawerLink>
           <DrawerLink to={`${home}/edukacja`} icon="lesson" onClick={() => setOpen(false)}>{t('edu.title', 'Materiały edukacyjne')}</DrawerLink>
         </DrawerGroup>
@@ -114,7 +134,7 @@ export function AppNavigation() {
             : active
               ? 'bg-gradient-to-br from-blue-100 to-indigo-100 text-blue-800 ring-1 ring-blue-200 shadow-sm dark:from-sky-400/20 dark:to-indigo-400/20 dark:text-sky-200 dark:ring-sky-300/30'
               : 'text-slate-500 dark:text-slate-400'
-          return <Link key={item.to} to={item.to} viewTransition className={`flex min-h-[62px] flex-col items-center justify-center gap-0.5 rounded-xl text-[11px] font-medium transition ${state}`}><AppIcon name={item.icon} className="h-8 w-8"/><span>{item.label}</span></Link>
+          return <Link key={item.to} to={item.to} viewTransition aria-label={item.label} className={`flex min-h-[62px] flex-col items-center justify-center gap-0.5 rounded-xl text-[11px] font-medium transition ${state}`}><AppIcon name={item.icon} className="h-8 w-8"/><span className="flex flex-col items-center leading-tight">{hope ? <><span>#JestNadzieja</span><span>materiały</span></> : item.label}</span></Link>
         })}
       </div>
     </nav>

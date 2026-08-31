@@ -1,10 +1,13 @@
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useI18n } from '../i18n'
+import { loadPray40 } from '../content'
 import { fallbackUrl, findCurrentLesson, type CurrentLesson } from '../lib/sabbathSchool'
 import { AppIcon } from '../components/AppNavigation'
 import { DailyOccasionVerse } from '../components/DailyOccasionVerse'
 import { PageHeading } from '../components/PageHeading'
+import { Pray40Actions } from '../components/Pray40Actions'
+import type { Pray40Index } from '../types'
 
 function SabbathSchoolCard() {
   const { lang, t } = useI18n()
@@ -30,14 +33,21 @@ function ContinueCard({ to, icon, title, desc }: { to: string; icon: 'book' | 'n
 export function Home() {
   const { lang, t } = useI18n()
   const base = `/${lang}`
+  const [pray40, setPray40] = useState<Pray40Index | null>(null)
+
+  useEffect(() => {
+    setPray40(null)
+    loadPray40(lang).then(setPray40).catch(() => undefined)
+  }, [lang])
+
   return <div className="mx-auto max-w-xl">
     <section>
-      <PageHeading icon="lesson" eyebrow="Żywe Słowo" title={t('home.readings', 'Coś na dzisiaj')} />
+      <PageHeading icon="lesson" eyebrow={t('home.projectTitle', '#JestNadzieja')} title={t('home.readings', 'Coś na dzisiaj')} />
       <p className="mt-2 text-slate-600 dark:text-slate-300">{t('home.readingsIntro', 'Znajdź materiał na dziś i wróć do tego, co już rozpoczęte.')}</p>
     </section>
 
     <section className="hope-reading-card mt-6 overflow-hidden rounded-2xl">
-      <div className="hope-reading-card__frame p-5 text-slate-900 dark:text-white"><DailyOccasionVerse /><div className="pt-4"><p className="text-sm font-semibold text-brand dark:text-cyan-200">{t('home.currentReading', 'Bieżący materiał')}</p><h2 className="mt-1 text-2xl font-bold">{t('home.pray40', '40 dni modlitwy')}</h2><p className="mt-2 text-sm text-slate-600 dark:text-slate-200">{t('home.pray40Desc', 'Codzienny materiał w ramach #JestNadzieja. W tym miejscu pojawią się też kolejne materiały edukacyjne.')}</p><Link to={`${base}/40-dni/1`} className="mt-4 inline-flex rounded-lg bg-brand px-3 py-2 text-sm font-semibold text-white hover:bg-brand-light dark:bg-white dark:text-slate-900 dark:hover:bg-slate-100">{t('home.openToday', 'Otwórz dzisiejszy materiał')} <span className="ml-1" aria-hidden>→</span></Link></div></div>
+      <div className="hope-reading-card__frame p-5 text-slate-900 dark:text-white"><DailyOccasionVerse /><div className="pt-4"><p className="text-sm font-semibold text-brand dark:text-cyan-200">{t('home.currentReading', 'Bieżący materiał')}</p><h2 className="mt-1 text-2xl font-bold">{t('home.pray40', '40 dni modlitwy')}</h2><p className="mt-2 text-sm text-slate-600 dark:text-slate-200">{t('home.pray40Desc', 'Codzienny materiał w ramach #JestNadzieja. W tym miejscu pojawią się też kolejne materiały edukacyjne.')}</p><Pray40Actions index={pray40} lang={lang} /></div></div>
     </section>
 
     <section className="mt-4"><SabbathSchoolCard /></section>

@@ -26,6 +26,7 @@ describe('nawigacja aplikacji — regresja', () => {
     expect(screen.getByRole('link', { name: 'Biblia' })).toHaveAttribute('href', '/pl/biblia')
     expect(screen.getByRole('link', { name: 'Pieśni' })).toHaveAttribute('href', '/pl/piesni')
     expect(screen.getByRole('link', { name: 'Modlitwa' })).toHaveAttribute('href', '/pl/modlitwa')
-    expect(screen.getByRole('link', { name: '#JestNadzieja' })).toHaveAttribute('href', '/pl/jest-nadzieja')
+    expect(screen.getByRole('link', { name: '#JestNadzieja – materiały' })).toHaveAttribute('href', '/pl/jest-nadzieja')
+    expect(screen.getByRole('button', { name: 'Pobierz do trybu offline' })).toBeVisible()
   })
 })

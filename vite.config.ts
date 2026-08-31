@@ -17,8 +17,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg'],
       manifest: {
-        name: 'Żywe Słowo - droga do domu Ojca',
-        short_name: 'Żywe Słowo',
+        name: '#JestNadzieja',
+        short_name: '#JestNadzieja',
         description: 'Czytnik studiów biblijnych (offline). Bible study reader.',
         theme_color: '#1f4e79',
         background_color: '#ffffff',
