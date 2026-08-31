@@ -1,7 +1,7 @@
 import { createContext, useContext, useEffect, useState, type ReactNode } from 'react'
 
 export type Theme = 'light' | 'dark'
-export type FontSet = 'nunito' | 'outfit'
+export type FontSet = 'space' | 'nunito' | 'outfit' | 'sora'
 
 type ThemeContext = {
   theme: Theme
@@ -25,9 +25,11 @@ function initialTheme(): Theme {
 function initialFontSet(): FontSet {
   try {
     const saved = localStorage.getItem(FONT_KEY)
-    return saved === 'outfit' ? saved : 'nunito'
+    return saved === 'space' || saved === 'nunito' || saved === 'outfit' || saved === 'sora'
+      ? saved
+      : 'space'
   } catch {
-    return 'nunito'
+    return 'space'
   }
 }
 

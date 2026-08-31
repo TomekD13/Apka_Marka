@@ -29,8 +29,8 @@ import urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONTENT = os.path.join(ROOT, 'public', 'content')
-PAGE = 'https://www.ph4.ru/b4_1.php?l={0}'
-BASE = 'https://www.ph4.ru/'
+PAGE = 'https://www.ph4.org/b4_1.php?l={0}'
+BASE = 'https://www.ph4.org/'
 
 # Strona dzieli moduly na sekcje: BIBLES, NEW TESTAMENT, DICTIONARIES, COMMENTARIES…
 # Slowniki i komentarze pomijamy - aplikacja czyta tylko tekst Pisma.

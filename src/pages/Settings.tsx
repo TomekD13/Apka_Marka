@@ -85,8 +85,10 @@ export function Settings() {
       <ExpandablePanel icon="notes" title={t('settings.fonts', 'Czcionki')}>
         <div className="space-y-2.5">
           <p className="text-sm text-slate-600 dark:text-slate-300">{t('settings.fontsIntro', 'Pierwsza czcionka dotyczy interfejsu, druga dłuższego czytania.')}</p>
+          {fontOption('space', 'Space Grotesk', 'Fraunces', t('settings.fontSpace', 'Nowoczesna i wyrazista.'))}
           {fontOption('nunito', 'Montserrat', 'Libre Baskerville', t('settings.fontMontserrat', 'Czytelna i uporządkowana.'))}
           {fontOption('outfit', 'Outfit', 'Newsreader', t('settings.fontOutfit', 'Lekka i redakcyjna.'))}
+          {fontOption('sora', 'Sora', 'Cormorant Garamond', t('settings.fontSora', 'Szlachetna i kontemplacyjna.'))}
         </div>
       </ExpandablePanel>
     </div>

@@ -32,11 +32,6 @@ interface Row {
   installed: boolean
 }
 
-/** ph4.org jest chwilowo niedostępne; ph4.ru jest działającym mirror'em tych samych modułów. */
-function catalogUrl(url: string) {
-  return url.replace('://www.ph4.org/', '://www.ph4.ru/')
-}
-
 /**
  * Spis przekladow z jednego repozytorium. Klikniecie „Pobierz" sciaga plik przegladarka
  * (zwykle pobranie - CORS-a nie dotyczy), a zaraz pod spodem stoi przycisk, ktory ten plik
@@ -103,7 +98,7 @@ function CatalogItems({ items, onPicked }: { items: BibleCatalogItem[]; onPicked
                   </span>
                 ) : null}
                 <a
-                  href={catalogUrl(it.url)}
+                  href={it.url}
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={() => setClicked(it.name)}
@@ -370,7 +365,7 @@ export function BibleModulesPage() {
             {catalogs.map((c) => (
               <li key={c.url} className="rounded-lg border border-white/10 bg-slate-900/40 p-2.5">
                 <a
-                  href={catalogUrl(c.url)}
+                  href={c.url}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="font-semibold text-brand-light hover:underline"

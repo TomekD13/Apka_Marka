@@ -10,6 +10,28 @@ import { installModule } from './bibleStore'
 
 const BASE = import.meta.env.BASE_URL
 
+/**
+ * Polski katalog MySword udostępnia moduły w formacie obsługiwanym przez aplikację.
+ * Nie kierujemy użytkownika do niezweryfikowanych mirrorów; poniżej podajemy tylko
+ * sprawdzony bezpośredni plik, a pełny katalog pozostaje dostępny pod jego stroną.
+ */
+const MYSWORD_POLAND_CATALOG: BibleCatalog = {
+  name: 'MySword Polska — moduły biblijne po polsku',
+  url: 'https://mysword.com.pl/biblie-polskie/',
+  formats: 'MySword (.bbl.mybible w archiwum .zip)',
+  note: 'Możesz pobrać Biblię Tysiąclecia V bezpośrednio poniżej. Pełna lista polskich modułów jest na stronie katalogu.',
+  items: [
+    {
+      code: 'BT5-SJ',
+      abbr: 'BT5',
+      name: 'Biblia Tysiąclecia V',
+      url: 'https://mysword.com.pl/wp-content/uploads/2025/03/BT_SJ-BibliaTysiacleciaV1_1.bbl.mybible_.zip',
+      complete: true,
+      sizeKB: 2020,
+    },
+  ],
+}
+
 /** Plik z katalogiem zrodel; brak pliku = brak katalogu, nie blad. */
 async function loadSourcesFile(lang: string): Promise<BibleSources | null> {
   const url = `${BASE}content/${lang}/bible/sources.json`.replace(/\/{2,}/g, '/')
@@ -29,7 +51,10 @@ export async function loadSources(lang: string): Promise<BibleSource[]> {
 
 /** Strony z modulami do pobrania recznie - plik wskazuje sie potem w „Wczytaj plik modulu". */
 export async function loadCatalogs(lang: string): Promise<BibleCatalog[]> {
-  return (await loadSourcesFile(lang))?.catalogs || []
+  const catalogs = (await loadSourcesFile(lang))?.catalogs || []
+  // Stary katalog ph4 pozostaje w pliku danych wyłącznie dla narzędzia odświeżającego,
+  // ale nie jest już publikowany w interfejsie ani używany do pobierania.
+  return [MYSWORD_POLAND_CATALOG, ...catalogs.filter((catalog) => !catalog.url.includes('ph4.'))]
 }
 
 /**
