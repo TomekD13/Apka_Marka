@@ -47,8 +47,12 @@ async function getJSON<T>(path: string): Promise<T> {
   return data
 }
 
+// Zmieniamy rewizję, gdy aktualizujemy listę wbudowanych przekładów. Dzięki temu
+// aplikacja PWA nie odczyta poprzedniej listy z cache'u po wdrożeniu.
+const TRANSLATIONS_REVISION = '2026-08-31-2'
+
 export const loadTranslations = (lang: string) =>
-  getJSON<BibleTranslations>(`${lang}/bible/translations.json`)
+  getJSON<BibleTranslations>(`${lang}/bible/translations.json?v=${TRANSLATIONS_REVISION}`)
 
 /** Spis ksiag przekladu - najpierw szukamy w modulach czytelnika, potem na serwerze. */
 export async function loadBibleIndex(lang: string, code: string): Promise<BibleIndex> {
