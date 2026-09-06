@@ -26,3 +26,10 @@ Moduly/*.json
 Spiewnik/*
 !Spiewnik/_701-750.json
 SpiewnikiYouth/*
+
+# Dostarczane dokumenty Worda do jednorazowych aktualizacji czytanek.
+# Sluza lokalnemu ekstraktorowi i nie sa czescia aplikacji ani wdrozenia.
+Update_40dni/
+
+# Lokalne makiety i materiały robocze — nie są częścią kompilacji strony.
+docs/
