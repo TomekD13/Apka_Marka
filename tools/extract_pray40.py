@@ -5,6 +5,8 @@
     python tools/extract_pray40.py                  # -> public/content/pl/pray40/
     python tools/extract_pray40.py --check          # sam raport, bez zapisu
     python tools/extract_pray40.py --src <katalog>  # inne zrodlo niz domyslne
+    python tools/extract_pray40.py --src <katalog> --merge
+                                                   # podmien tylko dni ze zrodla
 
 Kazdy dzien ma dwie wersje tego samego rozwazania - krotka (TekstyShort) i pelna
 (TekstyLong). Uklad obu jest ten sam, a strukture niesie stopien pisma:
@@ -151,6 +153,7 @@ def collect(folder: Path) -> dict[int, dict]:
 def main() -> int:
     args = sys.argv[1:]
     check = "--check" in args
+    merge = "--merge" in args
     src = DEFAULT_SRC
     if "--src" in args:
         src = Path(args[args.index("--src") + 1])
@@ -242,6 +245,20 @@ def main() -> int:
         "series": "#JestNadzieja",
         "days": index_days,
     }
+    if merge:
+        index_path = OUT / "index.json"
+        if not index_path.exists():
+            sys.exit(f"Brak istniejacego spisu do scalenia: {index_path}")
+        with io.open(index_path, encoding="utf-8") as f:
+            previous = json.load(f)
+        merged_days = {item["day"]: item for item in previous.get("days", [])}
+        merged_days.update({item["day"]: item for item in index_days})
+        index = {
+            "lang": previous.get("lang", "pl"),
+            "title": previous.get("title", "40 dni modlitwy"),
+            "series": previous.get("series", "#JestNadzieja"),
+            "days": [merged_days[n] for n in sorted(merged_days)],
+        }
     with io.open(OUT / "index.json", "w", encoding="utf-8", newline="\n") as f:
         json.dump(index, f, ensure_ascii=False, indent=2)
         f.write("\n")
