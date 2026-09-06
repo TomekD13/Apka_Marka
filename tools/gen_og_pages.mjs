@@ -1,13 +1,13 @@
 // Po buildzie: tworzy dist/<lang>/index.html z lokalnymi meta (Open Graph) per jezyk,
 // zeby podglad linku (WhatsApp/FB/Telegram) byl inny dla kazdego jezyka.
 // Roboty NIE uruchamiaja JS, wiec meta musza byc w statycznym HTML -> udostepniaj
-// link z kodem jezyka, np. https://pastormarek.github.io/aplikacja/pl/
+// link z kodem jezyka, np. https://jestnadzieja.adwent.pl/pl/
 // Link glowny (.../aplikacja/) pokazuje wersje domyslna z index.html.
 // Strony powstaja tylko dla jezykow wlaczonych w public/content/langs.json.
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs'
 import { resolve, join } from 'node:path'
 
-const SITE = 'https://pastormarek.github.io/aplikacja/'
+const SITE = 'https://jestnadzieja.adwent.pl/'
 const DIST = resolve('dist')
 
 // Teksty podgladu per jezyk (title = pogrubiona linia, desc = szara linia).

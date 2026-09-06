@@ -1,4 +1,5 @@
-import { createBrowserRouter, Outlet, useParams } from 'react-router-dom'
+import { useEffect } from 'react'
+import { createBrowserRouter, Outlet, useLocation, useParams } from 'react-router-dom'
 import { registerSW } from 'virtual:pwa-register'
 import { I18nProvider } from './i18n'
 import { PlaceProvider } from './place'
@@ -29,14 +30,19 @@ import { Contact } from './pages/Contact'
 import { BibleHub, BibleStudies, PrayerHub, SongsHub } from './pages/SectionHubs'
 import { BibleLessons } from './pages/BibleLessons'
 import { initAppInstall } from './lib/installApp'
+import { trackPageView } from './lib/analytics'
 
 registerSW({ immediate: true })
 initAppInstall()
 
 function LangLayout() {
   const { lang = 'pl' } = useParams()
+  const location = useLocation()
   // szczypanie dwoma palcami w tresci do czytania zmienia wielkosc tekstu
   usePinchFontScale()
+  useEffect(() => {
+    trackPageView(location.pathname)
+  }, [location.pathname])
   return (
     <ThemeProvider>
       <I18nProvider lang={lang}>

@@ -1,0 +1,41 @@
+# Konfiguracja hostingu jestnadzieja.adwent.pl (LiteSpeed czyta .htaccess jak Apache).
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # W razie omylkowego wgrania katalogu Git nie udostepniamy jego historii.
+  RewriteRule (^|/)\.git(?:/|$) - [F,L,NC]
+
+  # PWA i service worker wymagaja bezpiecznego polaczenia.
+  RewriteCond %{HTTPS} !=on
+  RewriteCond %{HTTP:X-Forwarded-Proto} !=https
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+  # Brakujacy plik tresci pozostaje bledem 404, a nie strona HTML.
+  RewriteRule ^content/ - [L]
+
+  # Trasy aplikacji React, np. /pl/biblia/Gen/1.
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /index.html [L]
+</IfModule>
+
+AddType application/manifest+json .webmanifest
+AddType application/json .json
+AddType image/webp .webp
+AddType image/svg+xml .svg
+
+<IfModule mod_headers.c>
+  # Pliki wskazujace aktualna wersje aplikacji zawsze sprawdzamy ponownie.
+  <FilesMatch "(sw\.js|index\.html|manifest\.webmanifest|registerSW\.js)$">
+    Header set Cache-Control "no-cache, must-revalidate"
+  </FilesMatch>
+  # Bundle z hashem moze pozostac w cache, bo nowy build dostaje nowa nazwe.
+  <FilesMatch "^(?!sw\.js$|registerSW\.js$).*\.(js|css|woff2)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json image/svg+xml
+</IfModule>
