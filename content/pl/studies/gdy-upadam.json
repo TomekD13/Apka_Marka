@@ -1,0 +1,534 @@
+{
+  "id": "gdy-upadam",
+  "lang": "pl",
+  "title": "Pokusa, upadek, przebaczenie",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 10,
+  "summary": "Walka z pokusą jest normalną częścią życia wiary, a nie dowodem porażki. Uczymy się zwyciężać w mocy Jezusa, a po upadku wracać przez wyznanie i przyjęcie przebaczenia. Bóg nie odrzuca upadającego - rozróżniamy między potknięciem a świadomym trwaniem w grzechu, i uczymy się przebaczać sobie oraz innym.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "grzech",
+    "pokusa",
+    "przebaczenie",
+    "łaska",
+    "walka duchowa"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Walka z pokusą to normalność",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "1Cor.10.13",
+              "ref": "1 Kor 10,13"
+            }
+          ],
+          "comment": "Żadna pokusa, która cię spotyka, nie jest „nadludzka\" - przeżywają ją wszyscy. Bóg obiecuje, że wraz z pokusą da wyjście, byś mógł ją znieść. Sama pokusa nie jest grzechem; grzechem jest dopiero uleganie.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Co zmienia świadomość, że pokusa sama w sobie nie jest winą, lecz polem, na którym Bóg daje „wyjście\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "„wyjście\" z pokusy (1 Kor 10,13)",
+          "content": "Greckie *ekbasis* znaczy „wyjście, droga ujścia\" - obraz przełęczy lub przejścia, którym można wyjść z okrążenia. Bóg nie obiecuje braku pokus, lecz że zawsze pozostawia drogę ujścia, „abyście mogli znieść\". Nie ma więc sytuacji, w której upadek jest jedynym wyjściem - zawsze istnieje furtka, której szukamy razem z Nim.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἔκβασις",
+              "translit": "ekbasis"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Jak rozumienie pokusy jako sytuacji z zawsze obecnym „wyjściem\" zmienia twoje poczucie bezsilności?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Heb.4.15",
+              "ref": "Hbr 4,15"
+            }
+          ],
+          "comment": "Jezus „doświadczony był we wszystkim… podobnie jak my, z wyjątkiem grzechu\". Rozumie walkę z pokusą od wewnątrz - nie patrzy na nią z dystansu.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Jak to, że Jezus sam był kuszony, zmienia twoje wyobrażenie o tym, czy On cię rozumie?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Jas.1.14-15",
+              "ref": "Jk 1,14-15"
+            }
+          ],
+          "comment": "Pokusa rodzi się z własnego pożądania; „pożądliwość, gdy zaowocuje, rodzi grzech\". Jest więc moment decyzji - między pojawieniem się pokusy a uleganiem. To dobra wiadomość: nie jesteśmy skazani na upadek.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "W którym momencie „łańcucha\" pokusy najłatwiej jeszcze powiedzieć „nie\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "to samo słowo: „pokusa\" i „próba\" (Jk 1)",
+          "content": "Greckie *peirasmos* znaczy zarówno „pokusa\" (skłanianie do zła), jak i „próba, doświadczenie\" (sprawdzian, który hartuje). Jk 1 używa obu odcieni: Bóg nikogo nie kusi do zła (w. 13), ale dopuszcza próby, które wytrzymane przynoszą dojrzałość (w. 2-4.12). Ta sama sytuacja może więc stać się albo upadkiem, albo wzrostem - zależnie od tego, do kogo się w niej zwrócę.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "πειρασμός",
+              "translit": "peirasmos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Zwyciężać w mocy Jezusa",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "1Cor.15.57",
+              "ref": "1 Kor 15,57"
+            }
+          ],
+          "comment": "Zwycięstwo nad grzechem nie jest naszym osiągnięciem - „Bóg daje nam zwycięstwo przez Pana naszego Jezusa Chrystusa\". Walczymy z Jego mocy, nie własnej siły woli.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Czym różni się walka „z własnej silnej woli\" od walki „w mocy Jezusa\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Matt.4.4",
+              "ref": "Mt 4,4.7.10"
+            }
+          ],
+          "comment": "Jezus na pustyni zwyciężał pokusy Słowem Bożym: „Napisane jest…\". Pokazał, że Pismo jest realną bronią w chwili kuszenia.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Który fragment Pisma mógłby być twoją „odpowiedzią\" w często powracającej pokusie?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "„napisane jest\" jako broń (Mt 4)",
+          "content": "Trzykrotnie odpierając pokusy, Jezus używa formuły *gegraptai* - „napisane jest / stoi napisane\". Grecki czas perfectum podkreśla trwały, obowiązujący skutek: Słowo zostało napisane i pozostaje w mocy. Jezus nie dyskutuje z kusicielem własnymi argumentami, lecz przykłada do każdej pokusy konkretny tekst Pisma. Stąd praktyka: warto mieć „pod ręką\" wersety na swoje typowe pokusy.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "γέγραπται",
+              "translit": "gegraptai"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Dlaczego konkretny werset bywa skuteczniejszy w pokusie niż ogólne postanowienie „będę silniejszy\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Gal.5.16-17",
+              "ref": "Ga 5,16-17"
+            }
+          ],
+          "comment": "„Postępujcie według ducha, a nie spełnicie pożądania ciała\". Zwycięstwo płynie z poddania się Duchowi, nie z samego zaciskania zębów.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Co praktycznie znaczy „postępować według Ducha\" w sytuacji, w której zwykle ulegasz?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Phil.4.13",
+              "ref": "Flp 4,13"
+            }
+          ],
+          "comment": "„Wszystko mogę w Tym, który mnie umacnia\". Źródłem wytrwałości jest moc Chrystusa, dostępna także w chwili słabości.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Gdzie najbardziej potrzebujesz dziś usłyszeć, że siłę dostajesz od Jezusa, a nie wytwarzasz sam?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Jas.4.7",
+              "ref": "Jk 4,7"
+            }
+          ],
+          "comment": "„Bądźcie więc posłuszni Bogu, przeciwstawiajcie się zaś diabłu, a on ucieknie od was\". Kolejność jest istotna: najpierw poddanie się Bogu, dopiero potem opór wobec zła.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Dlaczego sam „opór wobec zła\" bez wcześniejszego poddania się Bogu szybko się wyczerpuje?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Po upadku: wyznanie i przebaczenie",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "1John.1.9",
+              "ref": "1 J 1,9"
+            }
+          ],
+          "comment": "„Jeśli wyznajemy grzechy nasze, wierny jest Bóg i sprawiedliwy - odpuści je nam i oczyści\". Droga powrotu jest prosta: szczere wyznanie, a Bóg sam dokonuje przebaczenia i oczyszczenia.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Co cię czasem powstrzymuje przed szczerym „nazwaniem\" przed Bogiem tego, co zrobiłeś?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "„wyznawać\" znaczy „przyznać Bogu rację\" (1 J 1,9)",
+          "content": "Czasownik *homologeo* znaczy dosłownie „mówić to samo, zgadzać się\". Wyznanie grzechu to nie samobiczowanie, lecz „przyznanie Bogu racji\" - zgoda z Jego oceną mojego czynu. Dlatego prowadzi do uwolnienia, a nie do pogrążenia: przestaję się bronić i tłumaczyć, a zaczynam zgadzać się z prawdą, którą On i tak zna.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ὁμολογῶμεν",
+              "translit": "homologomen"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "1John.2.1",
+              "ref": "1 J 2,1"
+            }
+          ],
+          "comment": "Jan pisze, „abyście nie grzeszyli\", ale dodaje: „Gdyby jednak ktoś zgrzeszył, mamy Orędownika przed Ojcem - sprawiedliwego Jezusa Chrystusa\". Celem jest życie bez grzechu, lecz na wypadek upadku jest Obrońca, nie oskarżyciel.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Jak zmienia się twoje podejście do upadku, gdy wiesz, że masz u Ojca Obrońcę, a nie tylko Sędziego?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "Jezus jako „Obrońca\", a szatan jako oskarżyciel (1 J 2,1)",
+          "content": "Jezus jest tu nazwany *parakletos* - „Orędownik, Adwokat, Obrońca\" (to samo słowo, którym Ewangelia Jana określa Ducha). Po drugiej stronie stoi szatan - „oskarżyciel braci\" (Ap 12,10). Obraz jest sądowy: gdy upadasz, w niebie nie zostajesz bez obrony - sam Chrystus, który za ciebie umarł, jest twoim Adwokatem. Dlatego głos potępienia po wyznaniu nie pochodzi od Boga.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "παράκλητος",
+              "translit": "parakletos"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Ps.103.10-12",
+              "ref": "Ps 103,10-12"
+            }
+          ],
+          "comment": "Bóg „nie postępuje z nami według grzechów naszych\" i oddala je „jak daleko jest wschód od zachodu\". Przebaczenie jest realne i pełne - nie połowiczne.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Co znaczyłoby dla ciebie uwierzyć, że Bóg „tak oddalił od nas nasze winy\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "„jak wschód od zachodu\" (Ps 103,12)",
+          "content": "Psalm celowo nie mówi „jak północ od południa\", lecz „jak wschód od zachodu\". Północ i południe mają punkty graniczne (bieguny) - są skończone. Ale wschód i zachód nigdy się nie spotykają: idąc na wschód, nigdy nie dotrzesz do zachodu. To poetycki obraz przebaczenia bez granic i bez powrotu - Bóg nie odkłada grzechu „na bok\", lecz usuwa go w nieskończoność.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Co zmienia w twoim poczuciu winy obraz grzechu oddalonego „w nieskończoność\", a nie tylko schowanego?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Isa.1.18",
+              "ref": "Iz 1,18"
+            }
+          ],
+          "comment": "„Choćby grzechy wasze były jak szkarłat, jak śnieg wybieleją\". Żaden grzech nie jest dla Boga „za ciemny\", by go nie oczyścić.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Czy jest w tobie myśl „to akurat za poważne, by Bóg mógł przebaczyć\"? Co odpowiada na nią ten werset?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Bóg nie odrzuca; upadek a trwanie w grzechu",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Prov.24.16",
+              "ref": "Prz 24,16"
+            }
+          ],
+          "comment": "„Sprawiedliwy siedem razy upadnie i wstanie\". O człowieku wiary nie świadczy to, że nigdy nie upada, lecz że za każdym razem wstaje. Upadek to nie koniec drogi.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Czym dla ciebie różni się „upaść i wstać\" od „uznać, że już nie warto wstawać\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "John.6.37",
+              "ref": "J 6,37"
+            }
+          ],
+          "comment": "Jezus mówi: „tego, który do Mnie przychodzi, nie odrzucę\". Bóg nie odrzuca wracającego - nigdy.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Co by się zmieniło, gdybyś naprawdę uwierzył, że Jezus cię nie odrzuci, ilekolwiek razy wrócisz?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "1John.3.6",
+              "ref": "1 J 3,6.9"
+            }
+          ],
+          "comment": "Jan rozróżnia jednorazowy upadek (1 J 2,1) od świadomego „trwania w grzechu\" jako stylu życia. Różnica nie tkwi w doskonałości, lecz w kierunku serca: czy wracam do Boga, czy świadomie się od Niego odwracam.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Jak rozpoznać różnicę między potknięciem, którego żałujesz, a wygodnym „mieszkaniem\" w grzechu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "syntax",
+          "label": "„nie grzeszy\" znaczy „nie trwa w grzechu\" (1 J 3,6.9)",
+          "content": "Pozorna sprzeczność między 1 J 1,8-10 („jeśli mówimy, że nie mamy grzechu, zwodzimy samych siebie\") a 1 J 3,6.9 („kto w Nim pozostaje, nie grzeszy\") znika dzięki greckiemu czasowi teraźniejszemu o znaczeniu ciągłym, powtarzalnym. Jan nie mówi o pojedynczym upadku, lecz o grzechu jako stałym, praktykowanym sposobie życia. Wierzący może upaść, lecz nie „mieszka\" już w grzechu jak w swoim żywiole. To chroni i przed rozpaczą po potknięciu, i przed lekceważeniem świadomego trwania w złu.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "οὐχ ἁμαρτάνει",
+              "translit": "ouch hamartanei"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Luke.15.17-20",
+              "ref": "Łk 15,17-20"
+            }
+          ],
+          "comment": "Syn marnotrawny „wejrzał w siebie\", wstał i wrócił - a ojciec wybiegł mu naprzeciw. Powrót zaczyna się od decyzji, ale spotyka się z miłością, która już czeka.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Co jest twoim pierwszym krokiem „wstania i powrotu\", gdy upadniesz?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Przebaczyć sobie i innym",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Matt.6.14-15",
+              "ref": "Mt 6,14-15"
+            }
+          ],
+          "comment": "Jezus łączy przyjęcie Bożego przebaczenia z gotowością przebaczania innym. Kto doświadczył darowanego długu, sam nie może trzymać innych w długu.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Komu trudno ci dziś przebaczyć - i jak myśl o Bożym przebaczeniu wobec ciebie na to wpływa?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "grzech (liczba pojedyncza) a grzechy (liczba mnoga); łaska jest pierwsza",
+          "content": "W ujęciu biblijnym „grzech\" w liczbie pojedynczej to przede wszystkim zerwana łączność z Bogiem - stan oddzielenia; „grzechy\" w liczbie mnogiej to jego objawy. Dlatego rozwiązaniem upadku nie jest tylko „poprawa zachowania\", lecz przywrócenie relacji. Posłuszeństwo jest owocem przywróconej więzi, nie warunkiem przyjęcia; bezgrzeszność nie jest warunkiem zbawienia - łaska jest pierwsza (Rz 5,8). To perspektywa wielkiego boju: zło chce wmówić, że po upadku Bóg cię odrzucił - Ewangelia mówi, że właśnie wtedy Ojciec wybiega naprzeciw (Łk 15,20).",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Jak rozróżnienie „grzech jako zerwana więź\" a „grzechy jako objawy\" zmienia sposób, w jaki wracasz do Boga po upadku?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Phil.3.13-14",
+              "ref": "Flp 3,13-14"
+            }
+          ],
+          "comment": "Paweł „zapomina o tym, co za nim\", i „dąży do celu\". Przebaczyć sobie znaczy nie wracać bez końca do tego, co Bóg już darował, lecz iść dalej.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Co w twojej przeszłości najtrudniej ci „zostawić za sobą\", choć Bóg już to przebaczył?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "Rom.8.1",
+              "ref": "Rz 8,1"
+            }
+          ],
+          "comment": "„Żadne więc teraz potępienie nie zagraża tym, którzy są w Jezusie Chrystusie\". Po przebaczeniu nie pozostaje wyrok - pozostaje wolność. Poczucie potępienia po wyznaniu nie pochodzi od Boga.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Skąd, twoim zdaniem, bierze się dręczące poczucie winy nawet po szczerym wyznaniu - i co mówi na nie ten werset?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Walka z pokusą nie jest dowodem, że coś jest z tobą nie tak - jest zwyczajną częścią drogi wiary, a Jezus zna ją od wewnątrz. Zwyciężasz nie własną siłą woli, lecz Jego mocą. A gdy upadniesz, droga powrotu jest prosta: szczere wyznanie - i Bóg, który nie odrzuca, lecz przebacza i oczyszcza. Upadek to nie to samo co „mieszkanie\" w grzechu; o wierze świadczy nie brak potknięć, lecz to, że za każdym razem wstajesz. A Boże przebaczenie uczy cię przebaczać - także sobie i tym, którzy zawinili wobec ciebie.",
+    "challenge": "Nazwij dziś przed Bogiem szczerze jedną konkretną rzecz, z którą się zmagasz, i przyjmij Jego przebaczenie (1 J 1,9) - bez wracania do niej w poczuciu potępienia. Wskaż też jedną osobę, której trzymasz coś „w długu\", i poproś Boga o gotowość, by jej przebaczyć."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "status: draft needsReview: true generatedBy: claude notes: Ciekawostki PRO (8) rozłożone w sekcjach, przy tekstach, których dotyczą (nie na końcu). Źródła tła doktrynalnego: `books/_txt/00106 Sin`, `00107 Salvation` (handbook ADS). Odniesienia wielowersetowe do weryfikacji mapowania osis-ref: Mt 4,4.7.10 (osis `Matt.4.4`), 1 J 3,6.9 (osis `1John.3.6`). Formy oryginalne (PRO) do weryfikacji u recenzenta: `ἔκβασις` (1 Kor 10,13), `πειρασμός` (Jk 1), `γέγραπται` (Mt 4), `ὁμολογῶμεν` (1 J 1,9), `παράκλητος` (1 J 2,1), `ἁμαρτάνει` aspekt ciągły (1 J 3,6.9) potwierdzić zapis i transliterację. Ujęcie ADS (grzech lp vs grzechy lm, łaska pierwsza, bezgrzeszność nie jest warunkiem zbawienia, Jezus-Obrońca) zastosowane w n5, n8, u10. Tekst wersetów celowo NIE jest wstawiony tylko odnośniki (osis + ref); treść dociągana z przekładu."
+  }
+}

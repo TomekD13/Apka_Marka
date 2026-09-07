@@ -1,0 +1,520 @@
+{
+  "id": "lek-stres-pokoj",
+  "lang": "pl",
+  "title": "Pokój, który przewyższa rozum",
+  "category": "topic",
+  "seriesId": "zycie-i-emocje",
+  "order": 31,
+  "summary": "Co Pismo mówi o trosce, lęku i przeciążeniu - i jak rodzi się pokój, który „przewyższa wszelki rozum\". Nie chodzi o tłumienie emocji, lecz o przeniesienie ciężaru na Boga, który zna nasze potrzeby i jest blisko.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "lęk",
+    "stres",
+    "troska",
+    "pokój",
+    "zaufanie",
+    "modlitwa"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Troska, która przytłacza",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Matt.6.25-27",
+              "ref": "Mt 6,25-27"
+            }
+          ],
+          "comment": "Jezus widzi naszą skłonność do martwienia się o jedzenie, ubranie, jutro - i pyta: „Kto z was, martwiąc się, może przedłużyć własne życie choćby o jeden dzień?\" Troska nie zmienia jutra, tylko kradnie dziś.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "O co najczęściej się martwisz? Co realnie zmienia w twojej sytuacji godzina spędzona na zamartwianiu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "„nie martwcie się\" / μεριμνάω (merimnaō) (Mt 6,25; Flp 4,6)",
+          "content": "Czasownik *merimnaō* znaczy dosłownie „być rozdartym, rozdzielonym\" - obraz umysłu rozrywanego na części przez troskę. Jezus i Paweł nie zakazują więc odpowiedzialnego planowania, lecz tego wewnętrznego „rozszarpania\", w którym troska przejmuje kontrolę. Lekarstwem (Flp 4,6) jest „scalenie\" rozproszonego serca przez modlitwę z dziękczynieniem.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μεριμνάω",
+              "translit": "merimnaō"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "W których obszarach życia czujesz się najbardziej „rozdarty\" troską? Co znaczyłoby oddać ten konkretny obszar Bogu w modlitwie?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Matt.6.31-32",
+              "ref": "Mt 6,31-32"
+            }
+          ],
+          "comment": "„Nie martwcie się, mówiąc: Co będziemy jeść? Co będziemy pić? W co mamy się ubrać? [...] Wasz Ojciec w niebie zna bowiem wszystkie wasze potrzeby.\" Lęk często mówi „jesteś sam\"; Jezus odpowiada: „Ojciec wie\".",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Co zmienia w niepokoju świadomość, że Ktoś już „wie\", czego potrzebujesz, zanim poprosisz?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Matt.6.33-34",
+              "ref": "Mt 6,33-34"
+            }
+          ],
+          "comment": "„Szukajcie więc najpierw Królestwa Boga [...] Nie martwcie się o dzień jutrzejszy\". Jezus nie zakazuje planowania - zakazuje przeżywania jutra dzisiaj, do czego nie mamy dziś łaski.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Które „jutro\" najczęściej przeżywasz na zapas? Jak wyglądałby dzień przeżyty „na dziś\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Ps.94.19",
+              "ref": "Ps 94,19"
+            }
+          ],
+          "comment": "„Wśród niezliczonych utrapień Twe pocieszenie rozwesela moją duszę.\" Psalmista nie udaje, że niepokoju nie ma - opisuje, jak Bóg go koi pośrodku niego.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Co cię „orzeźwia\" w chwilach nawału myśli? Gdzie szukasz pocieszenia, gdy lęk się mnoży?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Złóż ciężar na Tego, który się troszczy",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "1Pet.5.7",
+              "ref": "1 P 5,7"
+            }
+          ],
+          "comment": "„Każdą swoją troskę zrzućcie na Niego, ponieważ On troszczy się o was.\" Pokój zaczyna się od konkretnego aktu: przeniesienia ciężaru z siebie na Boga.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Jaką jedną, konkretną troskę chciałbyś dziś „przerzucić\" na Boga? Co cię powstrzymuje, by ją puścić?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "„przerzućcie\" / ἐπιρίπτω (epiriptō) (1 P 5,7)",
+          "content": "Czasownik *epiriptō* znaczy „rzucić, zarzucić na coś\" - tym samym słowem opisano w Ewangelii zarzucenie szat na oślę (Łk 19,35). Piotr nie mówi więc „opowiedz Bogu o troskach\", lecz energicznie „zrzuć je na Niego\", jak ciężar zdejmowany z ramion. Czynność jest jednorazowa i całkowita: troska zmienia właściciela.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐπιρίπτω",
+              "translit": "epiriptō"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Czym różni się „opowiedzenie\" Bogu o trosce od jej realnego „zrzucenia\" na Niego? Po czym poznasz, że już jej nie niesiesz?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Ps.55.22",
+              "ref": "Ps 55,23"
+            }
+          ],
+          "comment": "„Zrzuć swój ciężar na Pana, a On cię podtrzyma.\" Obraz jest fizyczny: nie da się jednocześnie nieść plecaka i go oddać. Trzymanie i ufanie nawzajem się wykluczają.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Co praktycznie znaczyłoby „zrzucić ciężar\", a nie tylko o nim Bogu opowiedzieć?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Matt.11.28-30",
+              "ref": "Mt 11,28-30"
+            }
+          ],
+          "comment": "„Przyjdźcie do Mnie wszyscy utrudzeni i obciążeni, a Ja wam dam ukojenie.\" Jezus oferuje nie usunięcie wszystkich ciężarów, lecz „jarzmo\" niesione razem z Nim.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Czym różni się dźwiganie ciężaru w pojedynkę od niesienia go „w jarzmie\" razem z Jezusem?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "„ukojenie\" jako odpoczynek całego człowieka (Mt 11,28-30)",
+          "content": "„Ukojenie\", które obiecuje Jezus (gr. *anapausis*), nie jest tylko chwilą wytchnienia, lecz odpoczynkiem dla „duszy\" - całego człowieka. W biblijnym, holistycznym ujęciu pokój dotyka ciała, umysłu i ducha naraz; najczęstszy hebrajski czasownik na „uzdrowić\", *rafa*, oznacza też „naprawić\" i przynieść ulgę w wewnętrznym napięciu. Stąd odpoczynek w Bogu nie jest ucieczką od życia, lecz przywróceniem wewnętrznej całości.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἀνάπαυσις",
+              "translit": "anapausis"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Gdzie najbardziej brakuje ci „odpoczynku duszy\" - w ciele, w myślach czy w relacjach? Jak odpoczynek w Bogu mógłby objąć ten obszar?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Ps.46.1-2",
+              "ref": "Ps 46,2-3"
+            }
+          ],
+          "comment": "„Bóg jest dla nas ucieczką i siłą... dlatego się nie boimy, choćby zachwiała się ziemia.\" Pokój nie zależy od tego, czy świat jest stabilny, lecz od tego, kto jest naszą skałą.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Co w twoim życiu „się chwieje\"? Na czym opierasz spokój - na okolicznościach czy na Bogu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Pokój, który przewyższa rozum",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Phil.4.6",
+              "ref": "Flp 4,6"
+            }
+          ],
+          "comment": "„O nic się nie troszczcie, ale w każdej modlitwie i błaganiu powierzajcie [...] wasze pragnienia Bogu\" - i to z dziękczynieniem. Lekarstwem na zamartwianie jest modlitwa zamieniająca troskę w prośbę.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Co by się zmieniło, gdybyś każdą myśl „a co, jeśli...\" zamieniał od razu w konkretną prośbę do Boga?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "dziękczynienie jako antidotum na niepokój (Flp 4,6)",
+          "content": "Paweł nie każe modlić się „byle jak\", lecz „z dziękczynieniem\" (gr. *eucharistia*). Wdzięczność przestawia uwagę z tego, czego się boimy, na to, co Bóg już uczynił - i w ten sposób rozbraja niepokój u korzenia. To nie wyparcie problemu, lecz świadome przypomnienie sobie, że ten sam Bóg, który pomógł wcześniej, jest blisko i teraz.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "εὐχαριστία",
+              "translit": "eucharistia"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Za jakie trzy konkretne rzeczy mógłbyś podziękować Bogu właśnie w sprawie, która cię dziś niepokoi?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Phil.4.7",
+              "ref": "Flp 4,7"
+            }
+          ],
+          "comment": "„A pokój Boży, który przewyższa wszelkie zrozumienie, będzie strzegł serc i myśli waszych w Chrystusie Jezusie.\" Ten pokój nie jest logicznym wnioskiem ani brakiem problemów - jest darem, który „strzeże\" jak straż przy bramie.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Czy znasz pokój, którego „nie da się wytłumaczyć okolicznościami\"? Co go zrodziło?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "„pokój, który przewyższa rozum\" / εἰρήνη (eirēnē) i φρουρέω (phroureō) (Flp 4,7)",
+          "content": "Greckie *eirēnē* niesie pełnię starotestamentowego *szalom* - nie tylko brak konfliktu, ale całość i pomyślność relacji z Bogiem. Czasownik *phroureō* („ustrzeże\") to termin wojskowy: „postawić straż, garnizon\". Pokój Boży jest więc przedstawiony jako wartownik pełniący straż przy bramie serca i myśli - chroni nas, choć nie usuwa otaczających okoliczności.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "εἰρήνη",
+              "translit": "eirēnē"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Co zmienia obraz pokoju jako „straży przy bramie\" wobec twojego sposobu radzenia sobie z natłokiem myśli?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "John.14.27",
+              "ref": "J 14,27"
+            }
+          ],
+          "comment": "„Pokój zostawiam wam, mój pokój wam daję. Nie tak jak daje świat.\" Pokój świata zależy od warunków; pokój Jezusa zostaje nawet wtedy, gdy warunki zawodzą.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Czym różni się pokój „taki, jak daje świat\", od pokoju, który daje Jezus?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "szalom: pokój to pełnia, nie tylko brak konfliktu (J 14,27)",
+          "content": "Hebrajskie *szalom* pojawia się w Biblii blisko 240 razy, a tylko ok. 38 razy oznacza „pokój\" w sensie braku wojny. Jego rdzeń to całość, zdrowie, pomyślność i harmonia - z Bogiem, z ludźmi i w samym sobie. Gdy Jezus mówi „Pokój wam zostawiam\", obiecuje nie pustkę po ustaniu kłopotów, lecz pełnię życia płynącą z pojednania z Bogiem (por. Rz 5,1; Ef 2,14). To dlatego ten pokój może trwać nawet wtedy, gdy okoliczności się nie zmieniają.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "שָׁלוֹם",
+              "translit": "szalom"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Czy szukasz raczej „świętego spokoju\" (braku problemów), czy *szalom* - pełni życia z Bogiem pośród problemów? Po czym poznajesz różnicę?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Phil.4.8-9",
+              "ref": "Flp 4,8-9"
+            }
+          ],
+          "comment": "Paweł kieruje myśli ku temu, co prawdziwe, czyste, godne pochwały. Pokój ma też wymiar tego, czym karmimy umysł - lęk rośnie od tego, co stale „przeżuwamy\".",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Czym najczęściej karmisz swój umysł przed snem? Jak to wpływa na poziom twojego niepokoju?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "„Nie bój się, bo Ja jestem z tobą\"",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Isa.41.10",
+              "ref": "Iz 41,10"
+            }
+          ],
+          "comment": "„Nie bój się, bo Ja jestem z tobą! [...] Wzmocniłem cię i pomogłem\". Najczęstszym lekiem Boga na lęk nie jest usunięcie zagrożenia, lecz Jego obecność: „Ja jestem z tobą\".",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Co bardziej cię uspokaja: gdy ktoś usuwa problem, czy gdy ktoś zostaje przy tobie w problemie? Jak to mówi o Bożej pomocy?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "„Nie bój się\" jako najczęstszy nakaz Pisma (Iz 41,10)",
+          "content": "Wezwanie „nie bój się / nie lękaj się\" powraca w Biblii wielokrotnie, niemal zawsze połączone z uzasadnieniem: „bo Ja jestem z tobą\" lub „bo Ja, Pan\". Boża odpowiedź na lęk rzadko polega na wyjaśnieniu sytuacji czy usunięciu zagrożenia - polega na zapewnieniu o obecności. W kontekście wielkiego boju to przesunięcie z „kontroli nad okolicznościami\" na „zaufanie do charakteru Boga\".",
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Czego naprawdę szukasz, gdy się boisz - gwarancji, że wszystko się ułoży, czy pewności, że Bóg jest z tobą? Jak te dwie rzeczy się różnią?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Isa.43.2",
+              "ref": "Iz 43,2"
+            }
+          ],
+          "comment": "„Gdy będziesz przemierzał wody – Ja będę z tobą [...] Gdy będziesz przechodził przez ogień, nie poparzysz się\". Bóg nie obiecuje życia bez „wód i ognia\", lecz że nie przejdziemy przez nie sami.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Przez jakie „wody\" lub „ogień\" przechodzisz teraz? Co zmienia obietnica „będę z tobą\", a nie „ominę cię to\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "„doskonała miłość usuwa lęk\" / φόβος (phobos) (1 J 4,18)",
+          "content": "Jan zestawia dwie siły: miłość i lęk (gr. *phobos*). Lęk, o którym pisze, „kojarzy się z karą\" - to strach przed odrzuceniem i potępieniem. Pewność, że jestem kochany przez Boga, nie tyle „zwalcza\" ten lęk argumentami, ile go wypiera, robiąc mu coraz mniej miejsca w sercu. Dlatego droga do pokoju prowadzi nie przez „mniej się bać\", lecz przez głębsze zaufanie miłości Boga.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "φόβος",
+              "translit": "phobos"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q24",
+              "text": "Ile twojego lęku to w gruncie rzeczy strach przed odrzuceniem - przez Boga lub ludzi? Co zmieniłaby pewność, że jesteś bezwarunkowo kochany?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Ps.23.4",
+              "ref": "Ps 23,4"
+            }
+          ],
+          "comment": "„Lecz choćbym nawet szedł doliną cienia śmierci, zła się nie ulęknę, bo Ty jesteś ze mną.\" Nie „obok\" doliny, lecz „przez\" nią - z Pasterzem, który nie znika w ciemności.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Co znaczyłoby przejść swoją „ciemną dolinę\" ze świadomością, że Pasterz idzie obok, a nie czeka na drugim końcu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Josh.1.9",
+              "ref": "Joz 1,9"
+            }
+          ],
+          "comment": "„Bądź mocny i dzielny! [...] ponieważ z tobą jest PAN, twój Bóg, dokądkolwiek się udasz.\" Odwaga w Biblii nie jest brakiem strachu, lecz działaniem w obecności Boga mimo strachu.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Gdzie dziś potrzebujesz być „mocny i dzielny\" mimo lęku? Jak zmienia to obietnica Bożej obecności „dokądkolwiek się udasz\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "bliskość zdrowia i Bożej obecności (Joz 1,9)",
+          "content": "W Piśmie pokój i pełnia życia są tak ściśle związane z obecnością Boga, że bywają opisywane niemal tym samym językiem - jak gdyby „być zdrowym, całym\" znaczyło „być przyjętym przez Boga\". To dlatego obietnica „Ja jestem z tobą\" nie jest pobożnym dodatkiem, lecz samym sednem ukojenia. Holistycznie pokój rodzi się tam, gdzie człowiek - ciało, umysł i duch - trwa w relacji z obecnym Bogiem, nie tam, gdzie zniknęły wszystkie zagrożenia.",
+          "questions": [
+            {
+              "id": "q25",
+              "text": "Co praktycznie pomaga ci „ćwiczyć\" świadomość Bożej obecności w zwykłym dniu - tak, by była realna także w chwili lęku?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Lęk i stres nie są oznaką słabej wiary - są częścią ludzkiego doświadczenia, które Pismo bierze na poważnie. Bóg nie mówi „przestań czuć\", lecz „przerzuć na Mnie\", „przyjdź do Mnie\", „Ja jestem z tobą\". Pokój Boży nie jest brakiem problemów ani wynikiem logiki; jest darem, który staje na straży serca, gdy zamieniamy zamartwianie w modlitwę i opieramy się nie na stabilności świata, lecz na obecności Pasterza.",
+    "challenge": "Zrób w tym tygodniu „listę trosk\": wypisz wszystko, co cię obciąża. Przy każdej pozycji wykonaj dwa ruchy z Flp 4,6 - zamień ją w konkretną prośbę do Boga i dopisz jedną rzecz, za którą w tej sprawie możesz podziękować. Wieczorem, zamiast „przeżuwać\" jutro (Mt 6,34), przeczytaj na głos Iz 41,10 i wypowiedz Bogu: „przerzucam to na Ciebie\"."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "status: draft needsReview: true generatedBy: claude notes: Założenia przyjęte przy braku danych: `category = topic`, `seriesId = zycie-i-emocje`, `order = 31` (moduł dodatkowy „Życie i emocje\", temat 3). Do sprawdzenia przez recenzenta: poprawność kodów OSIS (zwł. `Matt`, `1Pet`, `Phil`, `John`, `Isa`, `Josh`, `Ps`); brzmienie odniesień w przyjętym przekładzie PL. Formy oryginalne (advanced) do weryfikacji: `μεριμνάω / merimnaō` (Mt 6,25; Flp 4,6), `εἰρήνη / eirēnē` oraz `φρουρέω / phroureō` (Flp 4,7) wraz z transliteracją potwierdzić u recenzenta. Wrażliwość pastoralna: rozróżniono troskę/stres od stanów wymagających pomocy specjalisty; przy przewlekłym, paraliżującym lęku zasadne dopisanie zachęty do konsultacji (lekarz/terapeuta) temat rozwinięty szerzej w pliku 32 (samotność/smutek/depresja). Akcent ADS: pokój jako owoc relacji i zaufania charakterowi Boga (wielki bój: zaufanie vs kontrola), obecność Boga ważniejsza niż usunięcie zagrożenia. Tekst wersetów celowo NIE jest wstawiony tylko odnośniki (osis + ref); treść dociągana z przekładu."
+  }
+}

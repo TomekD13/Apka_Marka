@@ -1,0 +1,1646 @@
+{
+  "lang": "pl",
+  "translation": "BE",
+  "title": "Teksty na różną okazję",
+  "categories": [
+    {
+      "id": "pocieszenie",
+      "name": "Pocieszenie i trudne chwile",
+      "icon": "🕊️",
+      "verses": [
+        {
+          "osis": "Ps.34.18",
+          "ref": "Psalm 34,19"
+        },
+        {
+          "osis": "Matt.11.28-30",
+          "ref": "Ewangelia Mateusza 11,28-30"
+        },
+        {
+          "osis": "2Cor.1.3-4",
+          "ref": "2 List do Koryntian 1,3-4"
+        },
+        {
+          "osis": "Ps.147.3",
+          "ref": "Psalm 147,3"
+        },
+        {
+          "osis": "Isa.41.10",
+          "ref": "Księga Izajasza 41,10"
+        },
+        {
+          "osis": "Ps.23.4",
+          "ref": "Psalm 23,4"
+        },
+        {
+          "osis": "John.14.27",
+          "ref": "Ewangelia Jana 14,27"
+        },
+        {
+          "osis": "Ps.46.1",
+          "ref": "Psalm 46,2"
+        },
+        {
+          "osis": "Deut.31.8",
+          "ref": "Księga Powtórzonego Prawa 31,8"
+        },
+        {
+          "osis": "Rom.8.28",
+          "ref": "List do Rzymian 8,28"
+        },
+        {
+          "osis": "Ps.34.17",
+          "ref": "Psalm 34,18"
+        },
+        {
+          "osis": "Isa.43.2",
+          "ref": "Księga Izajasza 43,2"
+        },
+        {
+          "osis": "John.16.33",
+          "ref": "Ewangelia Jana 16,33"
+        },
+        {
+          "osis": "Matt.5.4",
+          "ref": "Ewangelia Mateusza 5,4"
+        },
+        {
+          "osis": "Ps.119.50",
+          "ref": "Psalm 119,50"
+        },
+        {
+          "osis": "Isa.66.13",
+          "ref": "Księga Izajasza 66,13"
+        },
+        {
+          "osis": "Ps.27.5",
+          "ref": "Psalm 27,5"
+        },
+        {
+          "osis": "2Thess.2.16-17",
+          "ref": "2 List do Tesaloniczan 2,16-17"
+        }
+      ]
+    },
+    {
+      "id": "smutek",
+      "name": "Smutek i żałoba",
+      "icon": "😢",
+      "verses": [
+        {
+          "osis": "Rev.21.4",
+          "ref": "Objawienie Jana 21,4"
+        },
+        {
+          "osis": "Matt.5.4",
+          "ref": "Ewangelia Mateusza 5,4"
+        },
+        {
+          "osis": "John.16.22",
+          "ref": "Ewangelia Jana 16,22"
+        },
+        {
+          "osis": "Ps.30.5",
+          "ref": "Psalm 30,6"
+        },
+        {
+          "osis": "1Thess.4.13-14",
+          "ref": "1 List do Tesaloniczan 4,13-14"
+        },
+        {
+          "osis": "John.11.25-26",
+          "ref": "Ewangelia Jana 11,25-26"
+        },
+        {
+          "osis": "Isa.25.8",
+          "ref": "Księga Izajasza 25,8"
+        },
+        {
+          "osis": "2Cor.4.17-18",
+          "ref": "2 List do Koryntian 4,17-18"
+        },
+        {
+          "osis": "Ps.73.26",
+          "ref": "Psalm 73,26"
+        },
+        {
+          "osis": "Ps.34.18",
+          "ref": "Psalm 34,19"
+        },
+        {
+          "osis": "John.14.1-3",
+          "ref": "Ewangelia Jana 14,1-3"
+        },
+        {
+          "osis": "Ps.42.5",
+          "ref": "Psalm 42,6"
+        },
+        {
+          "osis": "Isa.53.3-4",
+          "ref": "Księga Izajasza 53,3-4"
+        },
+        {
+          "osis": "Ps.31.9",
+          "ref": "Psalm 31,10"
+        },
+        {
+          "osis": "Ps.147.3",
+          "ref": "Psalm 147,3"
+        }
+      ]
+    },
+    {
+      "id": "lek",
+      "name": "Lęk i niepokój",
+      "icon": "🌊",
+      "verses": [
+        {
+          "osis": "Isa.41.10",
+          "ref": "Księga Izajasza 41,10"
+        },
+        {
+          "osis": "Phil.4.6-7",
+          "ref": "List do Filipian 4,6-7"
+        },
+        {
+          "osis": "John.14.27",
+          "ref": "Ewangelia Jana 14,27"
+        },
+        {
+          "osis": "Ps.94.19",
+          "ref": "Psalm 94,19"
+        },
+        {
+          "osis": "2Tim.1.7",
+          "ref": "2 List do Tymoteusza 1,7"
+        },
+        {
+          "osis": "Ps.56.3",
+          "ref": "Psalm 56,4"
+        },
+        {
+          "osis": "Matt.6.34",
+          "ref": "Ewangelia Mateusza 6,34"
+        },
+        {
+          "osis": "1Pet.5.7",
+          "ref": "1 List Piotra 5,7"
+        },
+        {
+          "osis": "Josh.1.9",
+          "ref": "Księga Jozuego 1,9"
+        },
+        {
+          "osis": "Ps.27.1",
+          "ref": "Psalm 27,1"
+        },
+        {
+          "osis": "Isa.43.1",
+          "ref": "Księga Izajasza 43,1"
+        },
+        {
+          "osis": "Ps.34.4",
+          "ref": "Psalm 34,5"
+        },
+        {
+          "osis": "Ps.118.6",
+          "ref": "Psalm 118,6"
+        },
+        {
+          "osis": "John.14.1",
+          "ref": "Ewangelia Jana 14,1"
+        },
+        {
+          "osis": "Isa.35.4",
+          "ref": "Księga Izajasza 35,4"
+        },
+        {
+          "osis": "Prov.3.25-26",
+          "ref": "Księga Przysłów 3,25-26"
+        },
+        {
+          "osis": "1John.4.18",
+          "ref": "1 List Jana 4,18"
+        },
+        {
+          "osis": "Ps.91.4-5",
+          "ref": "Psalm 91,4-5"
+        }
+      ]
+    },
+    {
+      "id": "pokoj",
+      "name": "Pokój serca",
+      "icon": "🌿",
+      "verses": [
+        {
+          "osis": "John.14.27",
+          "ref": "Ewangelia Jana 14,27"
+        },
+        {
+          "osis": "Isa.26.3",
+          "ref": "Księga Izajasza 26,3"
+        },
+        {
+          "osis": "Phil.4.6-7",
+          "ref": "List do Filipian 4,6-7"
+        },
+        {
+          "osis": "Ps.4.8",
+          "ref": "Psalm 4,9"
+        },
+        {
+          "osis": "Col.3.15",
+          "ref": "List do Kolosan 3,15"
+        },
+        {
+          "osis": "Rom.5.1",
+          "ref": "List do Rzymian 5,1"
+        },
+        {
+          "osis": "John.16.33",
+          "ref": "Ewangelia Jana 16,33"
+        },
+        {
+          "osis": "Num.6.24-26",
+          "ref": "Księga Liczb 6,24-26"
+        },
+        {
+          "osis": "Ps.29.11",
+          "ref": "Psalm 29,11"
+        },
+        {
+          "osis": "2Thess.3.16",
+          "ref": "2 List do Tesaloniczan 3,16"
+        },
+        {
+          "osis": "Ps.34.14",
+          "ref": "Psalm 34,15"
+        },
+        {
+          "osis": "Rom.8.6",
+          "ref": "List do Rzymian 8,6"
+        },
+        {
+          "osis": "Gal.5.22-23",
+          "ref": "List do Galatów 5,22-23"
+        },
+        {
+          "osis": "Ps.85.8",
+          "ref": "Psalm 85,9"
+        },
+        {
+          "osis": "Isa.32.17",
+          "ref": "Księga Izajasza 32,17"
+        }
+      ]
+    },
+    {
+      "id": "nadzieja",
+      "name": "Nadzieja",
+      "icon": "⚓",
+      "verses": [
+        {
+          "osis": "Jer.29.11",
+          "ref": "Księga Jeremiasza 29,11"
+        },
+        {
+          "osis": "Rom.15.13",
+          "ref": "List do Rzymian 15,13"
+        },
+        {
+          "osis": "Lam.3.22-23",
+          "ref": "Treny 3,22-23"
+        },
+        {
+          "osis": "Isa.40.31",
+          "ref": "Księga Izajasza 40,31"
+        },
+        {
+          "osis": "Rom.8.28",
+          "ref": "List do Rzymian 8,28"
+        },
+        {
+          "osis": "Ps.42.11",
+          "ref": "Psalm 42,12"
+        },
+        {
+          "osis": "Rom.5.3-5",
+          "ref": "List do Rzymian 5,3-5"
+        },
+        {
+          "osis": "Heb.11.1",
+          "ref": "List do Hebrajczyków 11,1"
+        },
+        {
+          "osis": "Ps.71.14",
+          "ref": "Psalm 71,14"
+        },
+        {
+          "osis": "Prov.23.18",
+          "ref": "Księga Przysłów 23,18"
+        },
+        {
+          "osis": "Ps.31.24",
+          "ref": "Psalm 31,25"
+        },
+        {
+          "osis": "Ps.33.18",
+          "ref": "Psalm 33,18"
+        },
+        {
+          "osis": "Ps.130.5",
+          "ref": "Psalm 130,5"
+        },
+        {
+          "osis": "Heb.6.19",
+          "ref": "List do Hebrajczyków 6,19"
+        },
+        {
+          "osis": "Titus.2.13",
+          "ref": "List do Tytusa 2,13"
+        },
+        {
+          "osis": "1Pet.1.3",
+          "ref": "1 List Piotra 1,3"
+        },
+        {
+          "osis": "Ps.62.5",
+          "ref": "Psalm 62,6"
+        }
+      ]
+    },
+    {
+      "id": "radosc",
+      "name": "Radość i wdzięczność",
+      "icon": "😊",
+      "verses": [
+        {
+          "osis": "Neh.8.10",
+          "ref": "Księga Nehemiasza 8,10"
+        },
+        {
+          "osis": "Ps.16.11",
+          "ref": "Psalm 16,11"
+        },
+        {
+          "osis": "Phil.4.4",
+          "ref": "List do Filipian 4,4"
+        },
+        {
+          "osis": "1Thess.5.16-18",
+          "ref": "1 List do Tesaloniczan 5,16-18"
+        },
+        {
+          "osis": "Ps.118.24",
+          "ref": "Psalm 118,24"
+        },
+        {
+          "osis": "Ps.100.4-5",
+          "ref": "Psalm 100,4-5"
+        },
+        {
+          "osis": "Jas.1.2-3",
+          "ref": "List Jakuba 1,2-3"
+        },
+        {
+          "osis": "Hab.3.17-18",
+          "ref": "Księga Habakuka 3,17-18"
+        },
+        {
+          "osis": "Ps.126.3",
+          "ref": "Psalm 126,3"
+        },
+        {
+          "osis": "Ps.28.7",
+          "ref": "Psalm 28,7"
+        },
+        {
+          "osis": "John.15.11",
+          "ref": "Ewangelia Jana 15,11"
+        },
+        {
+          "osis": "Ps.30.11",
+          "ref": "Psalm 30,12"
+        },
+        {
+          "osis": "Ps.19.8",
+          "ref": "Psalm 19,9"
+        },
+        {
+          "osis": "Rom.15.13",
+          "ref": "List do Rzymian 15,13"
+        },
+        {
+          "osis": "Ps.34.5",
+          "ref": "Psalm 34,6"
+        }
+      ]
+    },
+    {
+      "id": "zaufanie",
+      "name": "Zaufanie Bogu",
+      "icon": "🤝",
+      "verses": [
+        {
+          "osis": "Prov.3.5-6",
+          "ref": "Księga Przysłów 3,5-6"
+        },
+        {
+          "osis": "Ps.37.5",
+          "ref": "Psalm 37,5"
+        },
+        {
+          "osis": "Isa.26.3-4",
+          "ref": "Księga Izajasza 26,3-4"
+        },
+        {
+          "osis": "Jer.17.7-8",
+          "ref": "Księga Jeremiasza 17,7-8"
+        },
+        {
+          "osis": "Ps.20.7",
+          "ref": "Psalm 20,8"
+        },
+        {
+          "osis": "Nah.1.7",
+          "ref": "Księga Nahuma 1,7"
+        },
+        {
+          "osis": "Ps.62.8",
+          "ref": "Psalm 62,9"
+        },
+        {
+          "osis": "Ps.9.10",
+          "ref": "Psalm 9,11"
+        },
+        {
+          "osis": "Ps.143.8",
+          "ref": "Psalm 143,8"
+        },
+        {
+          "osis": "Ps.56.3",
+          "ref": "Psalm 56,4"
+        },
+        {
+          "osis": "Ps.46.10",
+          "ref": "Psalm 46,11"
+        },
+        {
+          "osis": "Ps.32.10",
+          "ref": "Psalm 32,10"
+        },
+        {
+          "osis": "Isa.41.13",
+          "ref": "Księga Izajasza 41,13"
+        },
+        {
+          "osis": "Ps.112.7",
+          "ref": "Psalm 112,7"
+        },
+        {
+          "osis": "Ps.118.8",
+          "ref": "Psalm 118,8"
+        }
+      ]
+    },
+    {
+      "id": "samotnosc",
+      "name": "Samotność",
+      "icon": "🌙",
+      "verses": [
+        {
+          "osis": "Deut.31.6",
+          "ref": "Księga Powtórzonego Prawa 31,6"
+        },
+        {
+          "osis": "Heb.13.5",
+          "ref": "List do Hebrajczyków 13,5"
+        },
+        {
+          "osis": "Ps.68.6",
+          "ref": "Psalm 68,7"
+        },
+        {
+          "osis": "Matt.28.20",
+          "ref": "Ewangelia Mateusza 28,20"
+        },
+        {
+          "osis": "Ps.25.16",
+          "ref": "Psalm 25,16"
+        },
+        {
+          "osis": "Ps.27.10",
+          "ref": "Psalm 27,10"
+        },
+        {
+          "osis": "John.14.18",
+          "ref": "Ewangelia Jana 14,18"
+        },
+        {
+          "osis": "Ps.139.7-10",
+          "ref": "Psalm 139,7-10"
+        },
+        {
+          "osis": "Isa.41.10",
+          "ref": "Księga Izajasza 41,10"
+        },
+        {
+          "osis": "Ps.23.4",
+          "ref": "Psalm 23,4"
+        },
+        {
+          "osis": "Ps.73.23",
+          "ref": "Psalm 73,23"
+        },
+        {
+          "osis": "Zeph.3.17",
+          "ref": "Księga Sofoniasza 3,17"
+        },
+        {
+          "osis": "Isa.43.5",
+          "ref": "Księga Izajasza 43,5"
+        }
+      ]
+    },
+    {
+      "id": "choroba",
+      "name": "Choroba i zdrowienie",
+      "icon": "🩹",
+      "verses": [
+        {
+          "osis": "Ps.41.3",
+          "ref": "Psalm 41,4"
+        },
+        {
+          "osis": "Jas.5.14-15",
+          "ref": "List Jakuba 5,14-15"
+        },
+        {
+          "osis": "Jer.30.17",
+          "ref": "Księga Jeremiasza 30,17"
+        },
+        {
+          "osis": "Isa.53.5",
+          "ref": "Księga Izajasza 53,5"
+        },
+        {
+          "osis": "Ps.103.2-3",
+          "ref": "Psalm 103,2-3"
+        },
+        {
+          "osis": "Exod.15.26",
+          "ref": "Księga Wyjścia 15,26"
+        },
+        {
+          "osis": "Ps.107.19-20",
+          "ref": "Psalm 107,19-20"
+        },
+        {
+          "osis": "3John.1.2",
+          "ref": "3 List Jana 1,2"
+        },
+        {
+          "osis": "Ps.73.26",
+          "ref": "Psalm 73,26"
+        },
+        {
+          "osis": "Prov.17.22",
+          "ref": "Księga Przysłów 17,22"
+        },
+        {
+          "osis": "Ps.30.2",
+          "ref": "Psalm 30,3"
+        },
+        {
+          "osis": "Ps.147.3",
+          "ref": "Psalm 147,3"
+        },
+        {
+          "osis": "Ps.6.2",
+          "ref": "Psalm 6,3"
+        },
+        {
+          "osis": "Matt.8.16-17",
+          "ref": "Ewangelia Mateusza 8,16-17"
+        }
+      ]
+    },
+    {
+      "id": "przebaczenie",
+      "name": "Przebaczenie",
+      "icon": "🤍",
+      "verses": [
+        {
+          "osis": "1John.1.9",
+          "ref": "1 List Jana 1,9"
+        },
+        {
+          "osis": "Eph.4.32",
+          "ref": "List do Efezjan 4,32"
+        },
+        {
+          "osis": "Col.3.13",
+          "ref": "List do Kolosan 3,13"
+        },
+        {
+          "osis": "Matt.6.14-15",
+          "ref": "Ewangelia Mateusza 6,14-15"
+        },
+        {
+          "osis": "Ps.103.12",
+          "ref": "Psalm 103,12"
+        },
+        {
+          "osis": "Mic.7.18-19",
+          "ref": "Księga Micheasza 7,18-19"
+        },
+        {
+          "osis": "Matt.18.21-22",
+          "ref": "Ewangelia Mateusza 18,21-22"
+        },
+        {
+          "osis": "Isa.1.18",
+          "ref": "Księga Izajasza 1,18"
+        },
+        {
+          "osis": "Ps.32.5",
+          "ref": "Psalm 32,5"
+        },
+        {
+          "osis": "Luke.6.37",
+          "ref": "Ewangelia Łukasza 6,37"
+        },
+        {
+          "osis": "Eph.1.7",
+          "ref": "List do Efezjan 1,7"
+        },
+        {
+          "osis": "Ps.130.3-4",
+          "ref": "Psalm 130,3-4"
+        },
+        {
+          "osis": "2Cor.5.19",
+          "ref": "2 List do Koryntian 5,19"
+        },
+        {
+          "osis": "Ps.86.5",
+          "ref": "Psalm 86,5"
+        }
+      ]
+    },
+    {
+      "id": "madrosc",
+      "name": "Mądrość i decyzje",
+      "icon": "🧭",
+      "verses": [
+        {
+          "osis": "Jas.1.5",
+          "ref": "List Jakuba 1,5"
+        },
+        {
+          "osis": "Prov.3.5-6",
+          "ref": "Księga Przysłów 3,5-6"
+        },
+        {
+          "osis": "Ps.32.8",
+          "ref": "Psalm 32,8"
+        },
+        {
+          "osis": "Prov.16.9",
+          "ref": "Księga Przysłów 16,9"
+        },
+        {
+          "osis": "Ps.119.105",
+          "ref": "Psalm 119,105"
+        },
+        {
+          "osis": "Prov.2.6",
+          "ref": "Księga Przysłów 2,6"
+        },
+        {
+          "osis": "Isa.30.21",
+          "ref": "Księga Izajasza 30,21"
+        },
+        {
+          "osis": "Rom.12.2",
+          "ref": "List do Rzymian 12,2"
+        },
+        {
+          "osis": "Ps.37.23",
+          "ref": "Psalm 37,23"
+        },
+        {
+          "osis": "Prov.16.3",
+          "ref": "Księga Przysłów 16,3"
+        },
+        {
+          "osis": "Prov.4.7",
+          "ref": "Księga Przysłów 4,7"
+        },
+        {
+          "osis": "Jas.3.17",
+          "ref": "List Jakuba 3,17"
+        },
+        {
+          "osis": "Ps.25.4-5",
+          "ref": "Psalm 25,4-5"
+        },
+        {
+          "osis": "Prov.19.21",
+          "ref": "Księga Przysłów 19,21"
+        },
+        {
+          "osis": "Eph.5.15-16",
+          "ref": "List do Efezjan 5,15-16"
+        }
+      ]
+    },
+    {
+      "id": "milosc-boza",
+      "name": "Miłość Boża",
+      "icon": "❤️",
+      "verses": [
+        {
+          "osis": "John.3.16",
+          "ref": "Ewangelia Jana 3,16"
+        },
+        {
+          "osis": "Rom.5.8",
+          "ref": "List do Rzymian 5,8"
+        },
+        {
+          "osis": "1John.4.9-10",
+          "ref": "1 List Jana 4,9-10"
+        },
+        {
+          "osis": "Jer.31.3",
+          "ref": "Księga Jeremiasza 31,3"
+        },
+        {
+          "osis": "Rom.8.38-39",
+          "ref": "List do Rzymian 8,38-39"
+        },
+        {
+          "osis": "Zeph.3.17",
+          "ref": "Księga Sofoniasza 3,17"
+        },
+        {
+          "osis": "Ps.86.15",
+          "ref": "Psalm 86,15"
+        },
+        {
+          "osis": "1John.3.1",
+          "ref": "1 List Jana 3,1"
+        },
+        {
+          "osis": "Lam.3.22-23",
+          "ref": "Treny 3,22-23"
+        },
+        {
+          "osis": "Eph.3.17-19",
+          "ref": "List do Efezjan 3,17-19"
+        },
+        {
+          "osis": "Ps.103.11",
+          "ref": "Psalm 103,11"
+        },
+        {
+          "osis": "Rom.8.35",
+          "ref": "List do Rzymian 8,35"
+        },
+        {
+          "osis": "John.15.13",
+          "ref": "Ewangelia Jana 15,13"
+        },
+        {
+          "osis": "1John.4.16",
+          "ref": "1 List Jana 4,16"
+        },
+        {
+          "osis": "Isa.54.10",
+          "ref": "Księga Izajasza 54,10"
+        },
+        {
+          "osis": "Ps.36.7",
+          "ref": "Psalm 36,8"
+        },
+        {
+          "osis": "Eph.2.4-5",
+          "ref": "List do Efezjan 2,4-5"
+        }
+      ]
+    },
+    {
+      "id": "stres",
+      "name": "Stres i przytłoczenie",
+      "icon": "🌬️",
+      "verses": [
+        {
+          "osis": "Matt.11.28-30",
+          "ref": "Ewangelia Mateusza 11,28-30"
+        },
+        {
+          "osis": "1Pet.5.7",
+          "ref": "1 List Piotra 5,7"
+        },
+        {
+          "osis": "Ps.55.22",
+          "ref": "Psalm 55,23"
+        },
+        {
+          "osis": "Phil.4.6-7",
+          "ref": "List do Filipian 4,6-7"
+        },
+        {
+          "osis": "Ps.46.1-2",
+          "ref": "Psalm 46,2-3"
+        },
+        {
+          "osis": "Matt.6.34",
+          "ref": "Ewangelia Mateusza 6,34"
+        },
+        {
+          "osis": "Isa.40.31",
+          "ref": "Księga Izajasza 40,31"
+        },
+        {
+          "osis": "Ps.61.2",
+          "ref": "Psalm 61,3"
+        },
+        {
+          "osis": "Exod.33.14",
+          "ref": "Księga Wyjścia 33,14"
+        },
+        {
+          "osis": "Ps.94.19",
+          "ref": "Psalm 94,19"
+        },
+        {
+          "osis": "Ps.62.1-2",
+          "ref": "Psalm 62,2-3"
+        },
+        {
+          "osis": "Matt.6.25",
+          "ref": "Ewangelia Mateusza 6,25"
+        },
+        {
+          "osis": "Ps.23.1-3",
+          "ref": "Psalm 23,1-3"
+        },
+        {
+          "osis": "Ps.116.7",
+          "ref": "Psalm 116,7"
+        }
+      ]
+    },
+    {
+      "id": "depresja",
+      "name": "Przygnębienie i depresja",
+      "icon": "🌧️",
+      "verses": [
+        {
+          "osis": "Ps.42.11",
+          "ref": "Psalm 42,12"
+        },
+        {
+          "osis": "Ps.34.17-18",
+          "ref": "Psalm 34,18-19"
+        },
+        {
+          "osis": "Isa.41.10",
+          "ref": "Księga Izajasza 41,10"
+        },
+        {
+          "osis": "Ps.40.1-3",
+          "ref": "Psalm 40,2-4"
+        },
+        {
+          "osis": "Ps.143.7-8",
+          "ref": "Psalm 143,7-8"
+        },
+        {
+          "osis": "2Cor.4.8-9",
+          "ref": "2 List do Koryntian 4,8-9"
+        },
+        {
+          "osis": "Ps.30.5",
+          "ref": "Psalm 30,6"
+        },
+        {
+          "osis": "Ps.3.3",
+          "ref": "Psalm 3,4"
+        },
+        {
+          "osis": "Ps.147.3",
+          "ref": "Psalm 147,3"
+        },
+        {
+          "osis": "Matt.11.28",
+          "ref": "Ewangelia Mateusza 11,28"
+        },
+        {
+          "osis": "Ps.42.5",
+          "ref": "Psalm 42,6"
+        },
+        {
+          "osis": "Isa.61.1-3",
+          "ref": "Księga Izajasza 61,1-3"
+        },
+        {
+          "osis": "Ps.27.13-14",
+          "ref": "Psalm 27,13-14"
+        },
+        {
+          "osis": "Ps.13.5-6",
+          "ref": "Psalm 13,6"
+        }
+      ]
+    },
+    {
+      "id": "ochrona",
+      "name": "Ochrona i podróż",
+      "icon": "🛡️",
+      "verses": [
+        {
+          "osis": "Ps.91.1-2",
+          "ref": "Psalm 91,1-2"
+        },
+        {
+          "osis": "Ps.91.11",
+          "ref": "Psalm 91,11"
+        },
+        {
+          "osis": "Ps.121.7-8",
+          "ref": "Psalm 121,7-8"
+        },
+        {
+          "osis": "Prov.18.10",
+          "ref": "Księga Przysłów 18,10"
+        },
+        {
+          "osis": "Ps.4.8",
+          "ref": "Psalm 4,9"
+        },
+        {
+          "osis": "Isa.43.2",
+          "ref": "Księga Izajasza 43,2"
+        },
+        {
+          "osis": "Ps.34.7",
+          "ref": "Psalm 34,8"
+        },
+        {
+          "osis": "2Thess.3.3",
+          "ref": "2 List do Tesaloniczan 3,3"
+        },
+        {
+          "osis": "Ps.121.1-2",
+          "ref": "Psalm 121,1-2"
+        },
+        {
+          "osis": "Deut.31.8",
+          "ref": "Księga Powtórzonego Prawa 31,8"
+        },
+        {
+          "osis": "Ps.91.3-4",
+          "ref": "Psalm 91,3-4"
+        },
+        {
+          "osis": "Ps.32.7",
+          "ref": "Psalm 32,7"
+        },
+        {
+          "osis": "Ps.18.2",
+          "ref": "Psalm 18,3"
+        },
+        {
+          "osis": "Ps.27.5",
+          "ref": "Psalm 27,5"
+        }
+      ]
+    },
+    {
+      "id": "burze",
+      "name": "Burze życiowe i trudności",
+      "icon": "⛈️",
+      "verses": [
+        {
+          "osis": "Isa.43.2",
+          "ref": "Księga Izajasza 43,2"
+        },
+        {
+          "osis": "Mark.4.39",
+          "ref": "Ewangelia Marka 4,39"
+        },
+        {
+          "osis": "Ps.107.28-29",
+          "ref": "Psalm 107,28-29"
+        },
+        {
+          "osis": "Matt.7.24-25",
+          "ref": "Ewangelia Mateusza 7,24-25"
+        },
+        {
+          "osis": "Ps.46.1-3",
+          "ref": "Psalm 46,2-4"
+        },
+        {
+          "osis": "Nah.1.7",
+          "ref": "Księga Nahuma 1,7"
+        },
+        {
+          "osis": "Ps.61.2",
+          "ref": "Psalm 61,3"
+        },
+        {
+          "osis": "Isa.25.4",
+          "ref": "Księga Izajasza 25,4"
+        },
+        {
+          "osis": "John.16.33",
+          "ref": "Ewangelia Jana 16,33"
+        },
+        {
+          "osis": "2Cor.4.17-18",
+          "ref": "2 List do Koryntian 4,17-18"
+        },
+        {
+          "osis": "Ps.93.4",
+          "ref": "Psalm 93,4"
+        },
+        {
+          "osis": "Isa.54.11",
+          "ref": "Księga Izajasza 54,11"
+        },
+        {
+          "osis": "Matt.8.26",
+          "ref": "Ewangelia Mateusza 8,26"
+        },
+        {
+          "osis": "Ps.32.7",
+          "ref": "Psalm 32,7"
+        }
+      ]
+    },
+    {
+      "id": "pokusa",
+      "name": "Pokusa",
+      "icon": "🛑",
+      "verses": [
+        {
+          "osis": "1Cor.10.13",
+          "ref": "1 List do Koryntian 10,13"
+        },
+        {
+          "osis": "Jas.1.12-14",
+          "ref": "List Jakuba 1,12-14"
+        },
+        {
+          "osis": "Heb.4.15-16",
+          "ref": "List do Hebrajczyków 4,15-16"
+        },
+        {
+          "osis": "Matt.26.41",
+          "ref": "Ewangelia Mateusza 26,41"
+        },
+        {
+          "osis": "Jas.4.7",
+          "ref": "List Jakuba 4,7"
+        },
+        {
+          "osis": "Ps.119.11",
+          "ref": "Psalm 119,11"
+        },
+        {
+          "osis": "1John.2.16-17",
+          "ref": "1 List Jana 2,16-17"
+        },
+        {
+          "osis": "2Pet.2.9",
+          "ref": "2 List Piotra 2,9"
+        },
+        {
+          "osis": "Gal.5.16",
+          "ref": "List do Galatów 5,16"
+        },
+        {
+          "osis": "Prov.4.23",
+          "ref": "Księga Przysłów 4,23"
+        },
+        {
+          "osis": "Heb.2.18",
+          "ref": "List do Hebrajczyków 2,18"
+        },
+        {
+          "osis": "Rom.6.14",
+          "ref": "List do Rzymian 6,14"
+        },
+        {
+          "osis": "Eph.6.11",
+          "ref": "List do Efezjan 6,11"
+        },
+        {
+          "osis": "1Pet.5.8-9",
+          "ref": "1 List Piotra 5,8-9"
+        }
+      ]
+    },
+    {
+      "id": "nowy-poczatek",
+      "name": "Nowy początek",
+      "icon": "🌅",
+      "verses": [
+        {
+          "osis": "2Cor.5.17",
+          "ref": "2 List do Koryntian 5,17"
+        },
+        {
+          "osis": "Lam.3.22-23",
+          "ref": "Treny 3,22-23"
+        },
+        {
+          "osis": "Isa.43.18-19",
+          "ref": "Księga Izajasza 43,18-19"
+        },
+        {
+          "osis": "Phil.3.13-14",
+          "ref": "List do Filipian 3,13-14"
+        },
+        {
+          "osis": "Rev.21.5",
+          "ref": "Objawienie Jana 21,5"
+        },
+        {
+          "osis": "Ezek.36.26",
+          "ref": "Księga Ezechiela 36,26"
+        },
+        {
+          "osis": "Ps.40.1-3",
+          "ref": "Psalm 40,2-4"
+        },
+        {
+          "osis": "Isa.40.31",
+          "ref": "Księga Izajasza 40,31"
+        },
+        {
+          "osis": "Jer.29.11",
+          "ref": "Księga Jeremiasza 29,11"
+        },
+        {
+          "osis": "Prov.16.3",
+          "ref": "Księga Przysłów 16,3"
+        },
+        {
+          "osis": "Isa.42.9",
+          "ref": "Księga Izajasza 42,9"
+        },
+        {
+          "osis": "Ps.51.10",
+          "ref": "Psalm 51,12"
+        },
+        {
+          "osis": "Phil.1.6",
+          "ref": "List do Filipian 1,6"
+        },
+        {
+          "osis": "Rom.6.4",
+          "ref": "List do Rzymian 6,4"
+        }
+      ]
+    },
+    {
+      "id": "cierpliwosc",
+      "name": "Cierpliwość i wytrwałość",
+      "icon": "⏳",
+      "verses": [
+        {
+          "osis": "Jas.1.2-4",
+          "ref": "List Jakuba 1,2-4"
+        },
+        {
+          "osis": "Rom.5.3-5",
+          "ref": "List do Rzymian 5,3-5"
+        },
+        {
+          "osis": "Gal.6.9",
+          "ref": "List do Galatów 6,9"
+        },
+        {
+          "osis": "Heb.12.1-2",
+          "ref": "List do Hebrajczyków 12,1-2"
+        },
+        {
+          "osis": "Ps.27.14",
+          "ref": "Psalm 27,14"
+        },
+        {
+          "osis": "Rom.12.12",
+          "ref": "List do Rzymian 12,12"
+        },
+        {
+          "osis": "Jas.5.7-8",
+          "ref": "List Jakuba 5,7-8"
+        },
+        {
+          "osis": "Isa.40.31",
+          "ref": "Księga Izajasza 40,31"
+        },
+        {
+          "osis": "Hab.2.3",
+          "ref": "Księga Habakuka 2,3"
+        },
+        {
+          "osis": "2Cor.4.16-18",
+          "ref": "2 List do Koryntian 4,16-18"
+        },
+        {
+          "osis": "Ps.40.1",
+          "ref": "Psalm 40,2"
+        },
+        {
+          "osis": "Rom.8.25",
+          "ref": "List do Rzymian 8,25"
+        },
+        {
+          "osis": "Col.1.11",
+          "ref": "List do Kolosan 1,11"
+        },
+        {
+          "osis": "Lam.3.25-26",
+          "ref": "Treny 3,25-26"
+        }
+      ]
+    },
+    {
+      "id": "modlitwa",
+      "name": "Modlitwa",
+      "icon": "🙏",
+      "verses": [
+        {
+          "osis": "Phil.4.6-7",
+          "ref": "List do Filipian 4,6-7"
+        },
+        {
+          "osis": "Matt.7.7-8",
+          "ref": "Ewangelia Mateusza 7,7-8"
+        },
+        {
+          "osis": "1Thess.5.16-18",
+          "ref": "1 List do Tesaloniczan 5,16-18"
+        },
+        {
+          "osis": "Jas.5.16",
+          "ref": "List Jakuba 5,16"
+        },
+        {
+          "osis": "Jer.33.3",
+          "ref": "Księga Jeremiasza 33,3"
+        },
+        {
+          "osis": "1John.5.14-15",
+          "ref": "1 List Jana 5,14-15"
+        },
+        {
+          "osis": "Matt.6.6",
+          "ref": "Ewangelia Mateusza 6,6"
+        },
+        {
+          "osis": "Mark.11.24",
+          "ref": "Ewangelia Marka 11,24"
+        },
+        {
+          "osis": "Ps.145.18",
+          "ref": "Psalm 145,18"
+        },
+        {
+          "osis": "Luke.11.9-10",
+          "ref": "Ewangelia Łukasza 11,9-10"
+        },
+        {
+          "osis": "John.15.7",
+          "ref": "Ewangelia Jana 15,7"
+        },
+        {
+          "osis": "Eph.6.18",
+          "ref": "List do Efezjan 6,18"
+        },
+        {
+          "osis": "Col.4.2",
+          "ref": "List do Kolosan 4,2"
+        },
+        {
+          "osis": "Heb.4.16",
+          "ref": "List do Hebrajczyków 4,16"
+        },
+        {
+          "osis": "Rom.8.26",
+          "ref": "List do Rzymian 8,26"
+        }
+      ]
+    },
+    {
+      "id": "odwaga",
+      "name": "Odwaga i siła",
+      "icon": "🦁",
+      "verses": [
+        {
+          "osis": "Josh.1.9",
+          "ref": "Księga Jozuego 1,9"
+        },
+        {
+          "osis": "Deut.31.6",
+          "ref": "Księga Powtórzonego Prawa 31,6"
+        },
+        {
+          "osis": "Isa.41.10",
+          "ref": "Księga Izajasza 41,10"
+        },
+        {
+          "osis": "Ps.27.1",
+          "ref": "Psalm 27,1"
+        },
+        {
+          "osis": "2Tim.1.7",
+          "ref": "2 List do Tymoteusza 1,7"
+        },
+        {
+          "osis": "Phil.4.13",
+          "ref": "List do Filipian 4,13"
+        },
+        {
+          "osis": "Ps.31.24",
+          "ref": "Psalm 31,25"
+        },
+        {
+          "osis": "1Cor.16.13",
+          "ref": "1 List do Koryntian 16,13"
+        },
+        {
+          "osis": "Isa.40.31",
+          "ref": "Księga Izajasza 40,31"
+        },
+        {
+          "osis": "Eph.6.10",
+          "ref": "List do Efezjan 6,10"
+        },
+        {
+          "osis": "Ps.118.6",
+          "ref": "Psalm 118,6"
+        },
+        {
+          "osis": "2Cor.12.9-10",
+          "ref": "2 List do Koryntian 12,9-10"
+        },
+        {
+          "osis": "Ps.138.3",
+          "ref": "Psalm 138,3"
+        },
+        {
+          "osis": "Isa.40.29",
+          "ref": "Księga Izajasza 40,29"
+        }
+      ]
+    },
+    {
+      "id": "slub",
+      "name": "Ślub",
+      "icon": "💍",
+      "verses": [
+        {
+          "osis": "1Cor.13.4-7",
+          "ref": "1 List do Koryntian 13,4-7"
+        },
+        {
+          "osis": "Eccl.4.9-12",
+          "ref": "Księga Kaznodziei 4,9-12"
+        },
+        {
+          "osis": "Gen.2.24",
+          "ref": "Księga Rodzaju 2,24"
+        },
+        {
+          "osis": "Col.3.14",
+          "ref": "List do Kolosan 3,14"
+        },
+        {
+          "osis": "Eph.5.25",
+          "ref": "List do Efezjan 5,25"
+        },
+        {
+          "osis": "Mark.10.9",
+          "ref": "Ewangelia Marka 10,9"
+        },
+        {
+          "osis": "Song.8.6-7",
+          "ref": "Pieśń nad Pieśniami 8,6-7"
+        },
+        {
+          "osis": "1Pet.4.8",
+          "ref": "1 List Piotra 4,8"
+        },
+        {
+          "osis": "Prov.31.10",
+          "ref": "Księga Przysłów 31,10"
+        },
+        {
+          "osis": "Eph.4.2-3",
+          "ref": "List do Efezjan 4,2-3"
+        },
+        {
+          "osis": "Ruth.1.16-17",
+          "ref": "Księga Rut 1,16-17"
+        },
+        {
+          "osis": "Prov.18.22",
+          "ref": "Księga Przysłów 18,22"
+        },
+        {
+          "osis": "Ps.127.1",
+          "ref": "Psalm 127,1"
+        }
+      ]
+    },
+    {
+      "id": "pogrzeb",
+      "name": "Pogrzeb i kondolencje",
+      "icon": "🕯️",
+      "verses": [
+        {
+          "osis": "John.11.25-26",
+          "ref": "Ewangelia Jana 11,25-26"
+        },
+        {
+          "osis": "Rev.21.4",
+          "ref": "Objawienie Jana 21,4"
+        },
+        {
+          "osis": "1Thess.4.13-14",
+          "ref": "1 List do Tesaloniczan 4,13-14"
+        },
+        {
+          "osis": "Ps.23.4",
+          "ref": "Psalm 23,4"
+        },
+        {
+          "osis": "John.14.1-3",
+          "ref": "Ewangelia Jana 14,1-3"
+        },
+        {
+          "osis": "2Cor.5.1",
+          "ref": "2 List do Koryntian 5,1"
+        },
+        {
+          "osis": "1Cor.15.54-55",
+          "ref": "1 List do Koryntian 15,54-55"
+        },
+        {
+          "osis": "Ps.116.15",
+          "ref": "Psalm 116,15"
+        },
+        {
+          "osis": "Rom.8.38-39",
+          "ref": "List do Rzymian 8,38-39"
+        },
+        {
+          "osis": "Ps.34.18",
+          "ref": "Psalm 34,19"
+        },
+        {
+          "osis": "John.5.28-29",
+          "ref": "Ewangelia Jana 5,28-29"
+        },
+        {
+          "osis": "1Pet.1.3-4",
+          "ref": "1 List Piotra 1,3-4"
+        },
+        {
+          "osis": "Rev.14.13",
+          "ref": "Objawienie Jana 14,13"
+        },
+        {
+          "osis": "Isa.25.8",
+          "ref": "Księga Izajasza 25,8"
+        }
+      ]
+    },
+    {
+      "id": "narodziny-dziecka",
+      "name": "Narodziny dziecka",
+      "icon": "👶",
+      "verses": [
+        {
+          "osis": "Ps.127.3",
+          "ref": "Psalm 127,3"
+        },
+        {
+          "osis": "Ps.139.13-14",
+          "ref": "Psalm 139,13-14"
+        },
+        {
+          "osis": "Jer.1.5",
+          "ref": "Księga Jeremiasza 1,5"
+        },
+        {
+          "osis": "1Sam.1.27",
+          "ref": "1 Księga Samuela 1,27"
+        },
+        {
+          "osis": "Prov.22.6",
+          "ref": "Księga Przysłów 22,6"
+        },
+        {
+          "osis": "Isa.40.11",
+          "ref": "Księga Izajasza 40,11"
+        },
+        {
+          "osis": "Mark.10.14",
+          "ref": "Ewangelia Marka 10,14"
+        },
+        {
+          "osis": "Ps.113.9",
+          "ref": "Psalm 113,9"
+        },
+        {
+          "osis": "Luke.18.16",
+          "ref": "Ewangelia Łukasza 18,16"
+        },
+        {
+          "osis": "Deut.6.6-7",
+          "ref": "Księga Powtórzonego Prawa 6,6-7"
+        },
+        {
+          "osis": "Ps.128.3",
+          "ref": "Psalm 128,3"
+        },
+        {
+          "osis": "Isa.44.3",
+          "ref": "Księga Izajasza 44,3"
+        },
+        {
+          "osis": "3John.1.4",
+          "ref": "3 List Jana 1,4"
+        }
+      ]
+    },
+    {
+      "id": "urodziny",
+      "name": "Urodziny",
+      "icon": "🎂",
+      "verses": [
+        {
+          "osis": "Ps.139.13-14",
+          "ref": "Psalm 139,13-14"
+        },
+        {
+          "osis": "Jer.29.11",
+          "ref": "Księga Jeremiasza 29,11"
+        },
+        {
+          "osis": "Ps.90.12",
+          "ref": "Psalm 90,12"
+        },
+        {
+          "osis": "Lam.3.22-23",
+          "ref": "Treny 3,22-23"
+        },
+        {
+          "osis": "Ps.91.16",
+          "ref": "Psalm 91,16"
+        },
+        {
+          "osis": "Num.6.24-26",
+          "ref": "Księga Liczb 6,24-26"
+        },
+        {
+          "osis": "Ps.118.24",
+          "ref": "Psalm 118,24"
+        },
+        {
+          "osis": "Prov.3.1-2",
+          "ref": "Księga Przysłów 3,1-2"
+        },
+        {
+          "osis": "Ps.103.1-5",
+          "ref": "Psalm 103,1-5"
+        },
+        {
+          "osis": "Phil.1.6",
+          "ref": "List do Filipian 1,6"
+        },
+        {
+          "osis": "Ps.20.4",
+          "ref": "Psalm 20,5"
+        },
+        {
+          "osis": "Ps.37.4",
+          "ref": "Psalm 37,4"
+        },
+        {
+          "osis": "Ps.92.14",
+          "ref": "Psalm 92,15"
+        }
+      ]
+    }
+  ]
+}

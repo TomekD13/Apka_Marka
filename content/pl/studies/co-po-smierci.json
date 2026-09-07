@@ -1,0 +1,470 @@
+{
+  "id": "co-po-smierci",
+  "lang": "pl",
+  "title": "Nadzieja mocniejsza od śmierci",
+  "category": "basic_practical",
+  "seriesId": "zycie-z-bogiem",
+  "order": 12,
+  "summary": "Biblia mówi o śmierci jako o „śnie\", z którego budzi zmartwychwstanie przy powrocie Jezusa - to nadzieja, nie powód do lęku. Poznajemy tę naukę, ostrzeżenie przed spirytyzmem i „kontaktami ze zmarłymi\", oraz biblijną odpowiedź na reinkarnację. Warstwa PRO odnosi się do nauki o czyśćcu i modlitwach za zmarłych.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "śmierć",
+    "zmartwychwstanie",
+    "stan umarłych",
+    "nadzieja",
+    "spirytyzm"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Śmierć jako sen",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "John.11.11-14",
+              "ref": "J 11,11-14"
+            }
+          ],
+          "comment": "Jezus mówi o zmarłym Łazarzu: „zasnął, ale idę, aby wyrwać go ze snu\" - a potem wyjaśnia wprost: „Łazarz umarł\". To sam Jezus nazywa śmierć snem, z którego można zostać obudzonym.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Co zmienia w twoim myśleniu o śmierci obraz „snu\", którym posłużył się sam Jezus?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "„sen\" jako obraz śmierci (J 11,11)",
+          "content": "Greckie *koimaomai* („zasnąć\") wielokrotnie opisuje w NT śmierć wierzących (J 11,11; 1 Tes 4,13-15; 1 Kor 15,6.18; Dz 7,60). Stąd „cmentarz\" po grecku to *koimeterion* - dosłownie „sypialnia, miejsce snu\". Obraz snu zakłada przebudzenie: ktoś śpiący zostanie obudzony. To rdzeń nadziei zmartwychwstania - śmierć nie jest kresem, lecz „snem\" przed Bożym wezwaniem.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "κοιμάομαι",
+              "translit": "koimaomai"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Jak słowo „sen\" (z założeniem przebudzenia) zmienia emocjonalny stosunek do śmierci?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Eccl.9.5-6",
+              "ref": "Koh 9,5-6"
+            }
+          ],
+          "comment": "„umarli zaś niczego już nie wiedzą (...) Nigdy nie będzie już dla nich miejsca pośród spraw, które dzieją się pod słońcem\". Stan śmierci to nieświadomość - nie dalsza, równoległa egzystencja gdzie indziej.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Jak ta myśl - że umarli „nic nie wiedzą\" - wpływa na popularne wyobrażenia o życiu „zaraz po śmierci\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Ps.146.4",
+              "ref": "Ps 146,4"
+            }
+          ],
+          "comment": "„Gdy bowiem duch go opuści, i powróci do ziemi, w tym dniu przepadną jego plany\". Wraz ze śmiercią ustaje świadoma aktywność człowieka - myśli, plany, uczucia.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Co dla pełności tej nauki znaczy stwierdzenie, że wraz ze śmiercią „giną zamysły\" człowieka?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "co „wraca do Boga\" w chwili śmierci (Koh 12,7)",
+          "content": "Koh 12,7 mówi: „proch wraca do ziemi… a duch wraca do Boga, który go dał\". „Duch\" (hebr. *ruach*) to tu tchnienie życia, Boża iskra ożywiająca, a nie świadoma, samodzielna „dusza\" odlatująca do nieba. To odwrócenie aktu stworzenia z Rdz 2,7: w śmierci rozłącza się proch i tchnienie, a człowiek (świadoma osoba) przestaje istnieć aż do zmartwychwstania. „Duch wraca do Boga\" znaczy więc: życie wraca do swego Dawcy, nie że zmarły dalej świadomie żyje.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "רוּחַ",
+              "translit": "ruach"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Ps.115.17",
+              "ref": "Ps 115,17"
+            }
+          ],
+          "comment": "„To nie umarli chwalą Pana… lecz my będziemy błogosławić Pana\". Zmarli nie są świadomi ani aktywni - także religijnie. To spójny obraz całego Pisma.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Jak ten werset współgra z obrazem śmierci jako snu, a nie jako natychmiastowego przejścia do nieba lub piekła?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Gen.2.7",
+              "ref": "Rdz 2,7"
+            }
+          ],
+          "comment": "Człowiek nie „ma\" duszy jako osobnej, nieśmiertelnej cząstki - człowiek „stał się duszą żyjącą\", gdy proch połączył się z Bożym tchnieniem. Śmierć to rozłączenie tych elementów (por. Koh 12,7), a nie uwolnienie nieśmiertelnej duszy.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Jak rozumienie człowieka jako całości (proch + tchnienie życia) zmienia obraz tego, co dzieje się w chwili śmierci?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "„dusza żyjąca\", nie „dusza nieśmiertelna\" (Rdz 2,7)",
+          "content": "Hebrajskie *nefesz chajja* znaczy „istota / dusza żyjąca\". Człowiek nie *otrzymuje* duszy jako osobnej, nieśmiertelnej cząstki - on *staje się* żywą istotą (*nefesz*), gdy proch łączy się z „tchnieniem życia\". Tego samego słowa *nefesz* używa się o zwierzętach (Rdz 1,20-21). Co więcej, Biblia mówi, że nieśmiertelność ma tylko Bóg (1 Tm 6,16), a wierzący otrzymują ją jako dar dopiero przy zmartwychwstaniu (1 Kor 15,53-54) - nie jako wrodzoną cechę.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "נֶפֶשׁ חַיָּה",
+              "translit": "nefesz chajja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Zmartwychwstanie przy powrocie Jezusa",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "1Thess.4.13-14",
+              "ref": "1 Tes 4,13-14"
+            }
+          ],
+          "comment": "Paweł nie chce, byśmy „smucili się jak ci, którzy nie mają nadziei\". Chrześcijańska odpowiedź na śmierć to nie zaprzeczanie żałobie, lecz nadzieja oparta na zmartwychwstaniu Jezusa.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Czym różni się smutek „bez nadziei\" od smutku, który ma nadzieję zmartwychwstania?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "1Thess.4.15-17",
+              "ref": "1 Tes 4,15-17"
+            }
+          ],
+          "comment": "„Umarli w Chrystusie powstaną najpierw\", a potem żywi zostaną pochwyceni - wszystko to dokona się przy powrocie Jezusa. Nadzieja zmarłych nie jest „zaraz po śmierci\", lecz w dniu powrotu Pana.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Dlaczego ważne jest, że zmartwychwstanie wiąże się z konkretnym wydarzeniem - powrotem Jezusa - a nie następuje od razu po śmierci?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "John.5.28-29",
+              "ref": "J 5,28-29"
+            }
+          ],
+          "comment": "Nadejdzie godzina, gdy „wszyscy, którzy są w grobach, usłyszą Jego głos i wyjdą\". Zmartwychwstanie jest powszechne i konkretne - z grobu, na głos Jezusa.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Co mówi o nadziei to, że zmartwychwstanie jest odpowiedzią na osobisty „głos\" Jezusa wołającego z grobu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "background",
+          "label": "dwa zmartwychwstania (J 5,28-29)",
+          "content": "Jezus mówi o dwóch grupach: o „zmartwychwstaniu życia\" i „zmartwychwstaniu sądu\". Apokalipsa rozwija to obrazem „pierwszego zmartwychwstania\" - sprawiedliwych przy powrocie Jezusa (Ap 20,4-6; 1 Tes 4,16) - oraz powszechnego zmartwychwstania pozostałych po tysiącleciu. To porządkuje nadzieję: nie wszyscy wstają w tej samej chwili, lecz każdy „w swojej kolejności\" (1 Kor 15,23). Dla wierzącego liczy się to, że ma udział w „pierwszym zmartwychwstaniu\", nad którym „druga śmierć nie ma mocy\" (Ap 20,6).",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Co daje nadzieję w tym, że wierzący mają udział w „pierwszym zmartwychwstaniu\", nad którym „druga śmierć nie ma mocy\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "1Cor.15.51-54",
+              "ref": "1 Kor 15,51-54"
+            }
+          ],
+          "comment": "„w mgnieniu oka, na dźwięk ostatniej trąby\" umarli wstaną niezniszczalni, a śmiertelne przyoblecze się w nieśmiertelność. Nieśmiertelność jest darem otrzymanym przy zmartwychwstaniu, nie cechą, którą człowiek już posiada.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Co znaczy, że nieśmiertelność jest darem „przy zmartwychwstaniu\", a nie czymś, co mamy z natury?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Dan.12.2",
+              "ref": "Dn 12,2"
+            }
+          ],
+          "comment": "„wielu z tych, którzy śpią w prochu ziemi, się zbudzi\" - już Stary Testament mówi o śmierci jako śnie i o przebudzeniu. To spójna, biblijna nadzieja od początku.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Jak fakt, że ta sama nadzieja pojawia się już u Daniela, wzmacnia zaufanie do niej?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Ostrzeżenie: spirytyzm i „kontakty ze zmarłymi\"",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Isa.8.19-20",
+              "ref": "Iz 8,19-20"
+            }
+          ],
+          "comment": "„Czy jednak lud nie powinien radzić się swego Boga? Czy o żyjących pytać się trzeba zmarłych?\" - Pismo wprost odrzuca szukanie kontaktu z umarłymi i odsyła „ku Prawu i ku świadectwu\". Skoro umarli śpią, każdy rzekomy „kontakt\" nie pochodzi od nich.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Jeśli umarli „nic nie wiedzą\" i śpią, kto - według Biblii - może stać za rzekomymi „kontaktami ze zmarłymi\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Deut.18.10-12",
+              "ref": "Pwt 18,10-12"
+            }
+          ],
+          "comment": "Bóg jednoznacznie zakazuje wróżbiarstwa, wywoływania duchów i „pytania umarłych\", nazywając to „obrzydliwością\". Nie jest to ciekawostka, lecz realne duchowe zagrożenie.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Dlaczego Bóg tak stanowczo ostrzega przed tymi praktykami - co chce w ten sposób chronić?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "„kraina umarłych\": szeol i hades",
+          "content": "Hebrajskie *szeol* i greckie *hades* oznaczają po prostu „kraina umarłych, grób\" - wspólny los wszystkich zmarłych, sprawiedliwych i niesprawiedliwych (np. Jakub spodziewa się zejść do szeolu, Rdz 37,35). W Biblii nie jest to miejsce świadomego cierpienia ani nagrody, lecz stan śmierci-snu. Późniejsze, popularne wyobrażenia „zaświatów\" jako miejsca aktywnej egzystencji nakładają na te słowa treści, których pierwotnie nie miały.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "שְׁאוֹל",
+              "translit": "szeol"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "2Cor.11.14",
+              "ref": "2 Kor 11,14"
+            }
+          ],
+          "comment": "„Sam szatan przybiera postać anioła światłości\". Zjawiska podszywające się pod zmarłych bliskich mogą być przekonujące, a mimo to zwodnicze - dlatego miarą pozostaje Słowo.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Jak biblijna nauka o śmierci chroni przed daniem się oszukać „znajomemu\" głosowi czy postaci zmarłego?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Rev.16.14",
+              "ref": "Ap 16,14"
+            }
+          ],
+          "comment": "U końca czasu działają „duchy demonów czyniące cuda\". Zwiedzenie udające kontakt ze zmarłymi wpisuje się w szerszą strategię zła w wielkim boju - stąd potrzeba trzymania się Pisma.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Czemu zdolność czynienia „cudów\" sama w sobie nie jest dowodem, że coś pochodzi od Boga?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "A co z reinkarnacją? Jedno życie i sąd",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Heb.9.27",
+              "ref": "Hbr 9,27"
+            }
+          ],
+          "comment": "„Postanowione jest ludziom raz umrzeć, a potem sąd\". Biblia mówi o jednym życiu i jednym sądzie - nie o cyklu wcieleń. To wyklucza reinkarnację.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Jak myśl o „jednym życiu\", a nie wielu wcieleniach, wpływa na to, jak traktujesz czas, który masz?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "przypowieść o bogaczu i Łazarzu (Łk 16,19-31)",
+          "content": "Ten fragment bywa przytaczany jako „dowód\" świadomego życia zaraz po śmierci. Ma jednak cechy przypowieści: posługuje się popularnym, ludowym obrazem zaświatów, by przekazać naukę - nie po to, by opisać geografię śmierci. Jej puenta jest wprost wypowiedziana: kto nie słucha „Mojżesza i Proroków\" (Pisma), nie uwierzy, „choćby kto z umarłych powstał\" (w. 31). Czytana w świetle jasnych tekstów (Koh 9,5; Ps 146,4) nie obala nauki o śnie śmierci, lecz wzywa, by słuchać Słowa już teraz.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Dlaczego przy interpretacji obrazowej przypowieści bezpieczniej jest oprzeć naukę na jej wyraźnej puencie niż na szczegółach scenerii?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "2Cor.5.10",
+              "ref": "2 Kor 5,10"
+            }
+          ],
+          "comment": "„Wszyscy musimy stanąć przed sądem Chrystusa\". Nadzieją wierzącego nie jest „kolejna szansa w następnym życiu\", lecz Chrystus, który na sądzie jest Obrońcą. Sąd to dobra nowina dla tych, którzy są w Nim.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Czym różni się nadzieja oparta na „następnym wcieleniu\" od nadziei opartej na Chrystusie-Obrońcy?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "John.3.16",
+              "ref": "J 3,16"
+            }
+          ],
+          "comment": "Alternatywą śmierci nie jest „powrót w innej formie\", lecz „życie wieczne\" jako dar dla wierzącego. To pozytywna odpowiedź na lęk przed przemijaniem.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Co daje większą nadzieję: pomysł nieskończonych wcieleń czy obietnica życia wiecznego jako daru? Dlaczego?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "czyściec i modlitwy za zmarłych",
+          "content": "Pytanie wrażliwe: czy po śmierci istnieje „czyściec\", a modlitwy żywych mogą pomóc zmarłym? Biblia tego nie naucza. Po pierwsze, stan umarłych to nieświadomy sen (Koh 9,5-6.10; Ps 146,4), a nie miejsce oczyszczającego cierpienia. Po drugie, zbawienie jest darem łaski przyjmowanym wiarą w tym życiu (Ef 2,8-9; J 3,16), a nie czymś, co można „doczyścić\" cierpieniem lub uzyskać przez modlitwy po śmierci. Po trzecie, decyzja o relacji z Bogiem zapada za życia (Hbr 9,27 - „raz umrą, a potem będzie sąd\"). To nie umniejsza miłości do zmarłych bliskich - ich nadzieja jest pewna i piękna: zmartwychwstanie przy powrocie Jezusa (1 Tes 4,16). Krytyka dotyczy nauczania, nie ludzi, którzy w dobrej wierze modlą się za zmarłych; miarą jest Pismo (Iz 8,20).",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Jeśli zbawienie jest darem przyjmowanym za życia, a umarli śpią aż do zmartwychwstania, co staje się prawdziwym źródłem pociechy po stracie bliskiej osoby?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Biblia odejmuje śmierci grozę, nazywając ją „snem\". Zmarli nie cierpią, nie wędrują, nie obserwują nas - śpią, by zostać obudzonymi przez Jezusa przy Jego powrocie. Dlatego nie szukaj kontaktu ze zmarłymi: skoro śpią, każdy taki „kontakt\" jest zwiedzeniem, przed którym Pismo wprost ostrzega. Nie czeka cię też łańcuch wcieleń - masz jedno życie i Zbawiciela, który na sądzie jest twoim Obrońcą. To wszystko składa się na jedno: śmierć nie jest końcem nadziei, lecz snem przed przebudzeniem.",
+    "challenge": "Jeśli przeżywasz stratę bliskiej osoby, przeczytaj w spokoju 1 Tes 4,13-18 i zapisz, czym nadzieja zmartwychwstania różni się od „smutku bez nadziei\". Jeśli zdarzyło ci się zetknąć z praktykami kontaktu ze zmarłymi (seanse, wróżby, „znaki\" od zmarłych), świadomie odrzuć je w modlitwie i oprzyj swoją nadzieję na obietnicy powrotu Jezusa."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "status: draft needsReview: true generatedBy: claude notes: Ciekawostki PRO (6) rozłożone w sekcjach, przy tekstach, których dotyczą (nie na końcu). Źródła tła doktrynalnego: `books/_txt/00108 Death Origin Nature and Final Eradication`, `00109 Resurrection and Glorification` (handbook ADS). Numeracja do weryfikacji: Koh 9,5-6 oraz Ps 146,4 (numeracja wersetów bywa różna między przekładami) potwierdzić mapowanie ref-osis. Add-on PRO (II/5-D1) zrealizowany jako nota n6 (czyściec i modlitwy za zmarłych). Formy oryginalne (PRO) do weryfikacji u recenzenta: `κοιμάομαι` (J 11,11), `רוּחַ` (Koh 12,7), `נֶפֶשׁ חַיָּה` (Rdz 2,7), `שְׁאוֹל` (szeol) potwierdzić zapis i transliterację. Tekst wersetów celowo NIE jest wstawiony tylko odnośniki (osis + ref); treść dociągana z przekładu."
+  }
+}

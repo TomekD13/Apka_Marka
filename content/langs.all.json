@@ -1,0 +1,69 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "dir": "ltr",
+      "defaultTranslation": "WEB",
+      "moduleSizeKB": 120,
+      "greeting": "Hello"
+    },
+    {
+      "code": "pl",
+      "name": "Polski",
+      "dir": "ltr",
+      "defaultTranslation": "BE",
+      "moduleSizeKB": 120,
+      "greeting": "Cześć"
+    },
+    {
+      "code": "es",
+      "name": "Español",
+      "dir": "ltr",
+      "defaultTranslation": "RV1909",
+      "moduleSizeKB": 120,
+      "greeting": "Hola"
+    },
+    {
+      "code": "pt",
+      "name": "Português",
+      "dir": "ltr",
+      "defaultTranslation": "ALMEIDA",
+      "moduleSizeKB": 120,
+      "greeting": "Olá"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch",
+      "dir": "ltr",
+      "defaultTranslation": "SCHL1951",
+      "moduleSizeKB": 120,
+      "greeting": "Hallo"
+    },
+    {
+      "code": "fr",
+      "name": "Français",
+      "dir": "ltr",
+      "defaultTranslation": "LS1910",
+      "moduleSizeKB": 120,
+      "greeting": "Bonjour"
+    },
+    {
+      "code": "sw",
+      "name": "Kiswahili",
+      "dir": "ltr",
+      "defaultTranslation": "NENO",
+      "moduleSizeKB": 120,
+      "greeting": "Habari"
+    },
+    {
+      "code": "uk",
+      "name": "Українська",
+      "dir": "ltr",
+      "defaultTranslation": "UBIO",
+      "moduleSizeKB": 120,
+      "greeting": "Привіт"
+    }
+  ],
+  "default": "pl"
+}

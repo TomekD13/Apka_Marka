@@ -1,0 +1,13 @@
+{
+  "languages": [
+    {
+      "code": "pl",
+      "name": "Polski",
+      "dir": "ltr",
+      "defaultTranslation": "BE",
+      "moduleSizeKB": 120,
+      "greeting": "Cześć"
+    }
+  ],
+  "default": "pl"
+}

@@ -1,0 +1,540 @@
+{
+  "id": "szafarstwo-i-misja",
+  "lang": "pl",
+  "title": "Moja misja i talenty",
+  "category": "basic_systematic",
+  "seriesId": "zycie-w-przymierzu",
+  "order": 21,
+  "summary": "Wszystko należy do Boga - jestem zarządcą, nie właścicielem. Wierne zarządzanie obejmuje czas, zdolności i pieniądze (dziesięcina i dary) i wypływa z wdzięczności, nie z przymusu. Z tego rodzi się moja osobista i lokalna misja: jak konkretnie służę Bogu i ludziom w mojej wspólnocie i otoczeniu.",
+  "minutes": {
+    "base": 45,
+    "extended": 65
+  },
+  "tags": [
+    "włodarstwo",
+    "zarządzanie",
+    "dziesięcina",
+    "misja",
+    "służba",
+    "świadectwo"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Zarządca, nie właściciel",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Ps.24.1",
+              "ref": "Ps 24,1"
+            }
+          ],
+          "comment": "„Do PANA należy ziemia i to, co ją zapełnia\". Punkt wyjścia wiernego zarządzania: nic z tego, czym dysponuję, nie jest ostatecznie moje - wszystko jest powierzone.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Co zmienia w podejściu do pieniędzy i rzeczy myśl, że jesteś zarządcą, a nie właścicielem?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "1Cor.4.2",
+              "ref": "1 Kor 4,2"
+            }
+          ],
+          "comment": "„Od szafarzy żąda się, aby każdy okazał się wierny\". Bóg nie pyta najpierw o wielkość powierzonego, lecz o wierność w zarządzaniu nim.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Jak myślisz, w czym najłatwiej, a w czym najtrudniej być „wiernym zarządcą\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "1Chr.29.14",
+              "ref": "1 Krn 29,14"
+            }
+          ],
+          "comment": "Dawid wyznaje: „Od Ciebie bowiem otrzymaliśmy to wszystko i co otrzymaliśmy z Twojej ręki, Tobie oddajemy\". Nawet nasze dary dla Boga są najpierw Jego darem dla nas.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Co znaczy dla twojej hojności świadomość, że oddajesz Bogu to, co wcześniej od Niego dostałeś?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "„zarządca / włodarstwo\" (oikonomos / oikonomia)",
+          "content": "Greckie *oikonomos* to zarządca cudzego domu i majątku (*oikonomia* - zarząd). Zarządca dysponuje powierzonym mieniem w interesie właściciela i przed nim się rozlicza. Już samo słowo przesądza, że nie jestem właścicielem życia i dóbr, lecz zaufanym zarządcą Bożej własności.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "οἰκονόμος",
+              "translit": "oikonomos"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Jak obraz *oikonomos* (zarządcy cudzego domu) porządkuje twoje myślenie o pieniądzach, czasie i zdolnościach?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "„postawiony nad domem\" w Starym Testamencie",
+          "content": "Biblijny obraz wiernego zarządcy wyrasta z postaci zaufanego włodarza „postawionego nad domem\" pana: sługa Abrahama zawiadywał całym jego mieniem (Rdz 24,2), a Józef zarządzał najpierw domem Potifara, potem więzieniem, w końcu całym Egiptem (Rdz 39,4; 41,40). „Dom\" oznacza tu majątek, rodzinę, a nawet całe królestwo. Zarządca to sługa, ale sługa z realną władzą - i z odpowiedzialnością przed panem."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Zarządzanie czasem i zdolnościami",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Eph.5.15-16",
+              "ref": "Ef 5,15-16"
+            }
+          ],
+          "comment": "„Wykorzystujcie czas\" (dosłownie „wykupujcie\"), bo dni są złe. Czas to powierzony zasób, który wydaję tylko raz - także on podlega wiernemu zarządzaniu.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Na co „wydajesz\" najwięcej czasu, a na co chciałbyś go świadomie przeznaczać?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Matt.25.19-23",
+              "ref": "Mt 25,19-23"
+            }
+          ],
+          "comment": "Pan rozlicza sługów z powierzonych talentów; wiernym mówi: „Znakomicie, sługo dobry i wierny\". Liczy się nie ilość talentów, lecz to, czy zostały użyte w służbie.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Jakie „talenty\" (zdolności) powierzył ci Bóg - i jak je dziś używasz?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "1Pet.4.10-11",
+              "ref": "1 P 4,10-11"
+            }
+          ],
+          "comment": "Kto usługuje, niech to czyni „mocą, której udziela Bóg\" - aby „we wszystkim był uwielbiony Bóg\". Cel zarządzania to nie nasza chwała, lecz Boża.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Co się zmienia, gdy służba ma prowadzić do chwały Boga, a nie do mojego uznania?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "term",
+          "label": "dary łaski jako *charismata*",
+          "content": "Paweł nazywa zdolności do służby *charismata* - „to, co dane jako dar łaski\" (1 Kor 12,4-11; Rz 12,6-8). Tak zwane naturalne uzdolnienia stają się *charismata* dopiero wtedy, gdy są używane dla zbudowania wspólnoty. Kościół to „społeczność obdarowanych\", którzy służą światu - zarządzanie talentami oznacza więc konkretną misję i służbę w imieniu Chrystusa.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χαρίσματα",
+              "translit": "charismata"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "czas jako powierzony dar",
+          "content": "Pismo wielokrotnie podkreśla krótkość czasu i potrzebę mądrego nim gospodarowania: „naucz nas liczyć dni nasze\" (Ps 90,12), „cokolwiek twoja ręka napotka do zrobienia, czyń\" (Koh 9,10), „noc nadchodzi, gdy nikt nie może działać\" (J 9,4). Czas należy wymienić obok talentów, środków i ciała jako jeden z powierzonych zasobów, z których zdamy sprawę. Czas to „tworzywo, z którego utkane jest życie\"."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Zarządzanie pieniędzmi: dziesięcina i dary",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Mal.3.8-10",
+              "ref": "Ml 3,8-10"
+            }
+          ],
+          "comment": "Bóg mówi o dziesięcinach i darach jako o czymś, co do Niego należy, i zaprasza: „Wystawcie Mnie w ten sposób na próbę!\" Dziesięcina to nie podatek, lecz wyznanie zaufania, że to Bóg jest źródłem.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Co znaczy Boże zaproszenie „Wystawcie Mnie (...) na próbę\" w sprawie zaufania w dziedzinie finansów?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "2Cor.9.6-8",
+              "ref": "2 Kor 9,6-8"
+            }
+          ],
+          "comment": "„Każdy niech da tak, jak postanowił w sercu, nie z żalem… radosnego dawcę Bóg miłuje\". Dawanie ma płynąć z wdzięczności i wolności, nie z przymusu.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Czym różni się dawanie „z żalem/obowiązku\" od dawania „radosnego\"? Co rodzi tę różnicę?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "„radosny dawca\" (hilaros)",
+          "content": "W zdaniu „radosnego dawcę bowiem miłuje Bóg\" (2 Kor 9,7) greckie *hilaros* znaczy „pogodny, ochoczy, rozradowany\" - to od niego pochodzi polskie „hilarny\". Bóg nie szuka dawcy przymuszonego ani liczącego z żalem, lecz takiego, który daje z wewnętrznej radości. Hojność jest tu owocem wdzięczności, a nie sposobem na „kupienie\" Bożej przychylności.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἱλαρόν",
+              "translit": "hilaron"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Matt.6.19-21",
+              "ref": "Mt 6,19-21"
+            }
+          ],
+          "comment": "„Gdzie jest twój skarb, tam będzie i twoje serce\". To, w co inwestuję, pokazuje i kształtuje, co naprawdę kocham.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Co twoje wydatki z ostatniego miesiąca mówią o tym, gdzie jest twój „skarb\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "Luke.21.1-4",
+              "ref": "Łk 21,1-4"
+            }
+          ],
+          "comment": "Uboga wdowa wrzuca „dwie drobne monety\", a Jezus ceni jej dar wyżej niż wielkie sumy bogaczy - bo dała „ze swego niedostatku wszystko\". Bóg patrzy na proporcję serca, nie na kwotę.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Co ta historia mówi komuś, kto myśli, że „za mało ma, by dawać\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Prov.3.9-10",
+              "ref": "Prz 3,9-10"
+            }
+          ],
+          "comment": "„Czcij Pana z twego mienia i z pierwocin\". Oddanie Bogu tego, co pierwsze i najlepsze, jest aktem czci i zaufania, nie utratą.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Co znaczy dać Bogu „pierwociny\", a nie to, co zostaje na końcu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "term",
+          "label": "„dziesięcina\" (maʿăśēr)",
+          "content": "Hebrajskie *maʿăśēr* znaczy po prostu „dziesiąta część\". W Starym Testamencie oddanie dziesięciny (Rdz 14,20 - Abraham; Rdz 28,22 - Jakub) poprzedza Prawo Mojżeszowe, co wskazuje, że jest to zasada starsza niż system ceremonialny i wyraża uznanie Boga za źródło wszystkiego.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "מַעֲשֵׂר",
+              "translit": "maʿăśēr"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "„dar/ofiara\" (mattānāh)",
+          "content": "Obok dziesięciny Bóg prosił o dobrowolne dary; hebr. *mattānāh* (od czasownika *nātan*, „dawać\") to dar płynący z dobrej i życzliwej postawy serca. Tym samym słowem opisano dar ojca dla dziecka (Rdz 25,5) i Boży dar kapłaństwa dla Aarona (Lb 18,7). Ofiara nie jest więc daniną, lecz gestem miłości - odpowiedzią na łaskę Tego, „który daje wszystkim hojnie\" (Jk 1,5).",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "מַתָּנָה",
+              "translit": "mattānāh"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "dziesięcina przeciw fałszywemu podziałowi na „duchowe\" i „materialne\"",
+          "content": "Dziesięcina jest namacalna - przypomina, że materialne stworzenie zostało nazwane „dobrym\". Oddawanie jej ratuje wierzącego przed fałszywym rozdziałem sfery duchowej i materialnej: Bóg Izraela jest dawcą każdego dobra i nie dzieli go na „święte\" i „zwykłe\". Co ważne, w czasach Nehemiasza ofiarność płynęła z radości - lud „cieszył się\" ze służby kapłanów i lewitów (Ne 12,44)."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Moja misja: osobista i lokalna",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Matt.28.18-20",
+              "ref": "Mt 28,18-20"
+            }
+          ],
+          "comment": "„Idąc więc, czyńcie uczniami wszystkie narody\" - to zlecenie dla każdego wierzącego, nie tylko dla pastorów. Misja zaczyna się tam, gdzie jestem.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Gdzie jest twoje konkretne „idźcie\" - w jakim otoczeniu Bóg cię postawił?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Acts.1.8",
+              "ref": "Dz 1,8"
+            }
+          ],
+          "comment": "Świadkami mamy być „w Jeruzalem\" (tu, blisko) i „aż po krańce ziemi\". Misja ma porządek: najpierw moje najbliższe otoczenie.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Kto jest twoją „Jerozolimą\" - najbliższym kręgiem, do którego Bóg cię posyła?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Matt.5.14-16",
+              "ref": "Mt 5,14-16"
+            }
+          ],
+          "comment": "„Wy jesteście światłością świata… Tak niech jaśnieje wasza światłość\". Misja to nie tylko słowa, lecz dobre czyny, przez które ludzie „chwalą Ojca\".",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Jakim „dobrym czynem\" w tym tygodniu mogłoby zaświecić twoje światło wobec konkretnej osoby?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Gal.6.9-10",
+              "ref": "Ga 6,9-10"
+            }
+          ],
+          "comment": "„Dobrze czyńmy wszystkim… nie ustawając\". Misja lokalna to wytrwałe, codzienne dobro wobec ludzi wokół, zwłaszcza we wspólnocie wiary.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Co pomaga ci „nie ustawać\" w czynieniu dobra, gdy nie widać szybkich efektów?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "misja jako naturalny owoc wiernego zarządzania",
+          "content": "W Nowym Testamencie misja nie jest zadaniem wyspecjalizowanej grupy, lecz funkcją całego ciała Chrystusa (Mt 28,18-20; Dz 1,8; 1 P 2,9 - „lud na własność… abyście rozgłaszali\"). Zarządzanie czasem, zdolnościami i środkami oraz misja to dwie strony tej samej postawy: wszystko, co mam, służy Bożemu celowi - dotarciu do ludzi z dobrą nowiną. Najskuteczniejsza forma to relacyjne, lokalne świadectwo („przyjdź i zobacz\"), nie nacisk."
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Jak dzielić się wiarą i poprowadzić kogoś do Jezusa",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "1Pet.3.15",
+              "ref": "1 P 3,15"
+            }
+          ],
+          "comment": "„gotowi zawsze do obrony wobec każdego, kto od was żąda słowa o tej nadziei\". Dzielenie się wiarą to nie narzucanie, lecz gotowość, by z szacunkiem opowiedzieć o nadziei, którą mam.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Jaką „nadzieję, która jest w tobie\" mógłbyś dziś opisać komuś w kilku zdaniach?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "John.1.40-46",
+              "ref": "J 1,40-46"
+            }
+          ],
+          "comment": "Andrzej idzie po brata, Filip po przyjaciela - najprostsza metoda misji to „Chodź i zobacz\". Nie trzeba mieć wszystkich odpowiedzi; wystarczy zaprosić do Jezusa.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Kogo - wzorem Andrzeja i Filipa - mógłbyś po prostu zaprosić, by „przyszedł i zobaczył\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "John.4.28-30",
+              "ref": "J 4,28-30"
+            }
+          ],
+          "comment": "Samarytanka, ledwie spotkawszy Jezusa, biegnie do miasta: „Idźcie, zobaczcie\". Świadectwo nie wymaga teologicznego wykształcenia - wystarczy własne, świeże doświadczenie spotkania.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Co w twoim własnym spotkaniu z Bogiem jest na tyle realne, że chciałbyś się tym podzielić?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "Mark.5.19",
+              "ref": "Mk 5,19"
+            }
+          ],
+          "comment": "Uzdrowionemu Jezus mówi: „Wracaj do domu, do swoich, i opowiedz im, co Pan uczynił dla ciebie\". Najbliższe, naturalne pole misji to własny dom i znajomi.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Co Pan dla ciebie uczynił, co warto opowiedzieć najpierw „swoim\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "pierwszy Kościół jako wzór dzielenia się",
+          "content": "Wspólnota apostolska była żywym pokazem włodarstwa: wierzący „mieli wszystko wspólne\" i dzielili się według potrzeby (Dz 2,44-45), a chrześcijanie z pogan hojnie wsparli głodujący Kościół w Judei (Dz 11,29-30). Kościół apostolski można nazwać „wzorcem wiernego zarządzania na wszystkie czasy\" - dzielenie się dobrami i wiarą to nie dodatek, lecz sama natura wspólnoty, która „nie istnieje dla siebie\"."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n11",
+          "noteType": "background",
+          "label": "świadectwo „przyjdź i zobacz\" jako metoda misji",
+          "content": "Najprostszy model dzielenia się wiarą w Ewangeliach to osobiste zaproszenie: Andrzej idzie po brata, Filip mówi „przyjdź i zobacz\" (J 1,40-46), Samarytanka woła miasto (J 4,28-30), a uzdrowiony wraca „do swoich\" (Mk 5,19). Nie trzeba mieć wszystkich odpowiedzi ani teologicznego wykształcenia - wystarczy świeże, własne doświadczenie spotkania z Jezusem i relacja z konkretnym człowiekiem.",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Czyje „przyjdź i zobacz\" zaważyło na twojej drodze wiary - i komu mógłbyś dziś powiedzieć to samo?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Nie jestem właścicielem swojego życia - jestem zarządcą tego, co Bóg mi powierzył: czasu, zdolności i pieniędzy. Wierne zarządzanie, łącznie z dziesięciną i darami, nie wypływa z przymusu ani lęku, lecz z wdzięczności wobec Tego, od którego wszystko pochodzi. A skoro wszystko należy do Boga i służy Jego celom, naturalnie rodzi się misja - bardzo konkretna i lokalna: moje otoczenie, moja wspólnota, mój dom. Nie muszę mieć wszystkich odpowiedzi. Wystarczy, że z wdzięcznością zarządzam tym, co mam, i z szacunkiem zapraszam innych: „przyjdź i zobacz\".",
+    "challenge": "Zrób w tym tygodniu prosty „przegląd zarządcy\": zapisz, jak realnie dysponujesz czasem, zdolnościami i pieniędzmi, i wskaż jeden obszar, który chcesz świadomie oddać Bogu. Dodatkowo wybierz jedną osobę ze swojej „Jerozolimy\" i w tym tygodniu zrób wobec niej jeden konkretny krok misji - gest dobra albo zaproszenie „przyjdź i zobacz\"."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "status: draft needsReview: true generatedBy: claude notes: Założenia przyjęte przy braku danych: `category = basic_systematic`, `seriesId = zycie-w-przymierzu`, `order = 21` (Blok III wg briefu). Do sprawdzenia przez recenzenta: poprawność kodów OSIS (zwł. `1Cor`, `1Chr`, `1Pet`, `Mal`, `2Cor`, `Prov`, `Acts`, `Gal`, `Mark`); brzmienie odniesień w przyjętym przekładzie PL. Formy oryginalne (advanced) do weryfikacji: `οἰκονόμος / οἰκονομία` / *oikonomos / oikonomiaoraz `מַעֲשֵׂר` / *maʿăśēr*; potwierdzić zapis (zwł. wokalizację hebr.) i transliterację u recenzenta. Add-on III/7-D1 („Jak dzielić się wiarą / poprowadzić kogoś do Jezusa\") umieszczony jako Sekcja 5 (extended), z naciskiem na świadectwo relacyjne i prosty model „przyjdź i zobacz\", zgodnie ze zleceniem. Akcent teologiczny: dziesięcina i dary z wdzięczności, nie z przymusu (2 Kor 9); misja jako powołanie każdego wierzącego, osobista i lokalna zgodnie z briefem. Tekst wersetów celowo NIE jest wstawiony tylko odnośniki (osis + ref); treść dociągana z przekładu."
+  }
+}

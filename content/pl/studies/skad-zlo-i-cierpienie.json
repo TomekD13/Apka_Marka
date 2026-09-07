@@ -1,0 +1,508 @@
+{
+  "id": "skad-zlo-i-cierpienie",
+  "lang": "pl",
+  "title": "Skąd zło i cierpienie?",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 3,
+  "summary": "Jeśli Bóg jest dobry i wszechmocny, skąd zło? Biblia odpowiada nie filozofią, lecz historią wielkiego boju: świat stworzony dobry, miłość wymagająca wolności, bunt w niebie, upadek człowieka - i Bóg, który nie jest autorem zła, lecz Tym, który je rozwiązuje na krzyżu.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "zło",
+    "cierpienie",
+    "wielki bój",
+    "wolność",
+    "szatan",
+    "upadek",
+    "nadzieja"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Świat, który wyszedł dobry z rąk Boga",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Gen.1.31",
+              "ref": "Rdz 1,31"
+            }
+          ],
+          "comment": "Pierwotny świat nie był „mieszanką dobra i zła\". Bóg ocenił całe stworzenie jako „bardzo dobre\" - zło nie należało do oryginalnego projektu.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Skoro świat zaczął się jako „bardzo dobry\", to o czym świadczy fakt, że dziś tak nie wygląda?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "„bardzo dobre\" (Rdz 1,31)",
+          "content": "W Rdz 1 słowo „dobre\" (hebr. *tow*) powraca jak refren - sześć razy w trakcie tworzenia, a na końcu kulminacja: „bardzo dobre\" (*tow me'od*). To nie tylko ocena estetyczna, lecz świadectwo, że całość była zgodna z zamysłem i wolna od zła. Zło nie jest „brakiem dopracowania\" świata, lecz późniejszym intruzem.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "טוֹב מְאֹד",
+              "translit": "tow me'od"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "1John.1.5",
+              "ref": "1 J 1,5"
+            }
+          ],
+          "comment": "„Bóg jest światłością i nie ma w Nim żadnej ciemności.\" Zła nie da się złożyć na Boga - w Nim nie ma jego źródła.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Co zmienia w obrazie Boga przekonanie, że nie ma w Nim „ciemnej strony\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "to nie jest wieczny dualizm dobra i zła",
+          "content": "Biblijny obraz różni się od dualizmu (np. perskiego czy gnostyckiego), w którym dobro i zło to dwie wieczne, równorzędne siły. Tu zło nie jest odwiecznym przeciw-bogiem: pojawiło się w czasie, w stworzonym dobru, które się zepsuło - i dlatego może mieć koniec. Światłość jest pierwotna; ciemność jest jej brakiem, nie odwiecznym rywalem."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "1John.4.8",
+              "ref": "1 J 4,8"
+            }
+          ],
+          "comment": "Bóg „jest miłością\". A miłość z definicji nie może być wymuszona - to klucz do zrozumienia, dlaczego w ogóle istniała możliwość zła.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Dlaczego miłość, która byłaby zaprogramowana lub przymusowa, w ogóle nie byłaby miłością?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Miłość wymaga wolności",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "Deut.30.19",
+              "ref": "Pwt 30,19"
+            }
+          ],
+          "comment": "Bóg kładzie przed człowiekiem realny wybór: życie albo śmierć - i mówi „wybierz\". Wolność wyboru jest darem, ale niesie ryzyko.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Dlaczego prawdziwa relacja musi zakładać możliwość powiedzenia „nie\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "Josh.24.15",
+              "ref": "Joz 24,15"
+            }
+          ],
+          "comment": "„Wybierzcie sobie dziś, komu chcecie służyć.\" Bóg nigdy nie zmusza do siebie - zaprasza. To samo ryzyko, które rodzi miłość, dopuszcza też bunt.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Co mówi o Bogu fakt, że woli ryzyko wolnej miłości od pewności wymuszonego posłuszeństwa?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "background",
+          "label": "o co toczy się wielki bój",
+          "content": "Spór nie dotyczy „kto jest silniejszy\", lecz charakteru Boga, Jego prawa i Jego panowania nad wszechświatem. Szatan zarzuca, że Boże rządy są niesprawiedliwe i że posłuszeństwo z miłości jest niemożliwe. Dlatego Bóg nie kończy sporu siłą od razu: pozwala, by zło samo się obnażyło przed całym wszechświatem, zamiast „zadekretować\" swoją rację.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Dlaczego spór „o charakter Boga\" wymaga czasu i dowodu, a nie po prostu wyroku siłą?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "Rev.3.20",
+              "ref": "Ap 3,20"
+            }
+          ],
+          "comment": "Bóg „stoi u drzwi i kołacze\" - czeka, aż otworzymy od środka. Nigdy nie wyważa drzwi ludzkiego serca.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Jak to zmienia obraz Boga, że puka, zamiast wchodzić siłą?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Bunt, który zaczął się w niebie",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Rev.12.7-9",
+              "ref": "Ap 12,7-9"
+            }
+          ],
+          "comment": "Zło ma swój początek w realnym buncie: „walka w niebie\", a szatan (dawny anioł) zostaje strącony. Za złem stoi osoba, nie abstrakcja.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Co zmienia świadomość, że w tle ludzkich zmagań toczy się większy konflikt, którego jesteśmy częścią?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Isa.14.12-14",
+              "ref": "Iz 14,12-14"
+            }
+          ],
+          "comment": "Pod obrazem upadłego króla Babilonu prześwituje głębszy upadek: pięciokrotne „wstąpię... stanę się podobny do Najwyższego\". Korzeniem buntu jest pycha i chęć zajęcia miejsca Boga.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Jak „chcę być jak Bóg / zamiast Boga\" do dziś bywa korzeniem zła także w ludzkim sercu?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "skąd wzięło się imię „Lucyfer\" (Iz 14,12)",
+          "content": "Hebrajskie *helel ben-szachar* znaczy „jaśniejący, syn jutrzenki\" (gwiazda poranna). Łacińska Wulgata oddała to słowem *Lucifer* - „niosący światło\". Stąd w tradycji imię „Lucyfer\" na określenie istoty stojącej za buntem. Sam tekst pokazuje tragiczną ironię: ktoś stworzony do odbijania światła zapragnął zająć miejsce Źródła światła.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "הֵילֵל בֶּן־שָׁחַר",
+              "translit": "helel ben-szachar"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "Ezek.28.12-17",
+              "ref": "Ez 28,12-17"
+            }
+          ],
+          "comment": "Za „królem Tyru\" widać istotę stworzoną jako „pieczęć doskonałości\", „bez skazy w swym postępowaniu\", w której dopiero potem „znalazła się (...) nieprawość\". Zło nie jest wieczne - pojawiło się w kimś dobrym, kto je wybrał.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Co znaczy, że zło nie istniało „od zawsze\", lecz powstało w sercu istoty pierwotnie dobrej?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "podwójna perspektywa Iz 14 i Ez 28",
+          "content": "Iz 14 (król Babilonu) i Ez 28 (król Tyru) to bezpośrednio mowy przeciw ziemskim władcom. Jednocześnie język tych tekstów (istota „doskonała od dnia stworzenia\", obecność „na świętej górze Bożej\", pragnienie równości z Najwyższym) przekracza możliwości człowieka i tradycyjnie odczytywany jest jako odsłonięcie mocy stojącej za pychą tych królów. Warto zachować oba poziomy - historyczny i ponadhistoryczny - bez gubienia żadnego."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "background",
+          "label": "cherub stworzony bezgrzeszny (Ez 28,15)",
+          "content": "Tekst mówi wprost: „Ty byłeś bez skazy w swym postępowaniu od dnia twojego stworzenia, aż znalazła się w tobie nieprawość\". To kluczowe dla zrozumienia pochodzenia zła: nie zostało stworzone przez Boga ani nie istniało odwiecznie - powstało w istocie pierwotnie dobrej, jako nadużycie wolności. Zło jest „pasożytem\" na dobru, nie osobnym tworzywem."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "John.8.44",
+              "ref": "J 8,44"
+            }
+          ],
+          "comment": "Jezus nazywa diabła „ojcem kłamstwa\" i mówi, że „od początku był on mordercą\". Pierwszą bronią buntu jest zniekształcony obraz Boga - kłamstwo o Jego charakterze.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Jakie „kłamstwa o Bogu\" (że jest surowy, daleki, nieżyczliwy) najłatwiej dziś w nas zasiać?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "„szatan\" i „diabeł\": oskarżyciel i oszczerca",
+          "content": "Hebrajskie *satan* znaczy „przeciwnik, oskarżyciel\" (rola oskarżyciela w sądzie, np. Hi 1-2; Za 3,1). Greckie *diabolos* to „oszczerca, rzucający fałszywe oskarżenia\". Oba imiona zdradzają strategię: nie tyle siła, ile kłamstwo i oskarżanie - Boga przed człowiekiem i człowieka przed Bogiem. Dlatego dobrą nowiną jest, że mamy Obrońcę.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "שָׂטָן",
+              "translit": "satan"
+            },
+            {
+              "lang": "grc",
+              "text": "διάβολος",
+              "translit": "diabolos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Upadek człowieka i wielki bój jako rama historii",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Gen.3.1-6",
+              "ref": "Rdz 3,1-6"
+            }
+          ],
+          "comment": "Wąż nie zaczyna od rozkazu, lecz od pytania podważającego Boże słowo i dobroć: „Czy naprawdę Bóg powiedział...\". Upadek to przede wszystkim utrata zaufania.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Co tak naprawdę „pękło\" w człowieku najpierw: posłuszeństwo czy zaufanie do Bożej dobroci?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Gen.3.15",
+              "ref": "Rdz 3,15"
+            }
+          ],
+          "comment": "Już w chwili upadku pada pierwsza obietnica: „potomstwo niewiasty\" zmiażdży głowę węża. Wielki bój ma z góry zapowiedziane rozwiązanie.",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Co znaczy dla ciebie, że nadzieja pojawia się dokładnie tam, gdzie pojawiło się zło?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "term",
+          "label": "Rdz 3,15 jako „protoewangelia\"",
+          "content": "Werset bywa nazywany *protoewangelium* - „pierwszą Ewangelią\". To najwcześniejsza w Biblii zapowiedź, że potomek niewiasty pokona węża, choć sam zostanie zraniony („zmiażdży ci głowę, a ty zranisz mu piętę\"). Cała dalsza historia zbawienia jest rozwinięciem tej jednej obietnicy danej tuż po upadku."
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Rom.5.12",
+              "ref": "Rz 5,12"
+            }
+          ],
+          "comment": "Przez jednego człowieka grzech i śmierć weszły na świat. Cierpienie i śmierć to skutek oderwania od Dawcy życia, nie pierwotny zamysł Boga.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Jak zmienia spojrzenie na cierpienie świadomość, że jest „intruzem\", a nie czymś, co Bóg zaplanował?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "wielki bój jako rama całej Biblii",
+          "content": "Biblijna odpowiedź na zło nie jest filozoficzna, lecz narracyjna: cała historia rozgrywa się jako konflikt między Chrystusem a szatanem - spór o to, czy Bóg jest sprawiedliwy i pełen miłości. Klamra obejmuje Rdz 3 (zasiane kłamstwo) i Ap 20-22 (ostateczne oczyszczenie). Ta perspektywa spina pojedyncze teksty w jedną opowieść i tłumaczy, dlaczego Bóg toleruje zło czasowo."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "Job.1.8-12",
+              "ref": "Hi 1,8-12"
+            }
+          ],
+          "comment": "Księga Hioba uchyla zasłonę: cierpienie sprawiedliwego nie pochodzi od Boga, lecz od oskarżyciela. To Bóg jest oskarżany - a nie autorem nieszczęścia.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Jak to, że za cierpieniem Hioba stoi szatan, a nie Bóg, zmienia pytanie „dlaczego Bóg mi to zrobił\"?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "niebiański „dwór\" w Księdze Hioba",
+          "content": "Hi 1-2 pokazuje scenę, w której „synowie Boży\" (istoty niebiańskie) stają przed Bogiem, a wśród nich pojawia się oskarżyciel. To rzadkie spojrzenie „za kulisy\": ludzkie cierpienie zostaje wpisane w trwający spór, w którym stawką jest, czy człowiek służy Bogu z miłości, czy tylko dla korzyści. Czytelnik wie to, czego nie wie Hiob - dlatego nie wolno odczytywać jego cierpienia jako kary od Boga."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Rev.12.17",
+              "ref": "Ap 12,17"
+            }
+          ],
+          "comment": "Bój trwa do dziś: smok „rozgniewał się\" i prowadzi wojnę z tymi, którzy trzymają się Boga. Nasze zmagania mają sens w tej większej historii.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Co daje świadomość, że twoje osobiste walki nie są przypadkiem, lecz częścią toczącego się boju?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Cierpienie chwilowe, zło ma koniec",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Rev.21.4",
+              "ref": "Ap 21,4"
+            }
+          ],
+          "comment": "Finał historii to nie wieczny konflikt, lecz świat bez łez, śmierci i bólu: „pierwsze rzeczy przeminęły\". Zło jest epizodem, nie ostatnim słowem.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Co dla ciebie znaczyłoby życie, w którym „nie ma już\" bólu, którego dziś doświadczasz?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Rom.8.18",
+              "ref": "Rz 8,18"
+            }
+          ],
+          "comment": "Paweł nie bagatelizuje cierpień, lecz waży je: są „nieporównywalne\" z chwałą, która ma się objawić. Obecne zło jest realne, ale chwilowe.",
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Jak nadzieja na przyszłość, która „przeważa\", pomaga przejść przez to, co trudne teraz?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Nah.1.9",
+              "ref": "Nah 1,9"
+            }
+          ],
+          "comment": "Obietnica jest mocna: „Po raz drugi niedola nie nastanie!\". Bóg rozwiąże problem zła tak gruntownie, że już nigdy się ono nie powtórzy.",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Dlaczego ważne jest, że Bóg nie tylko „zatrzyma\" zło, ale usunie jego źródło na zawsze?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n11",
+          "noteType": "background",
+          "label": "dlaczego zło nie powróci „po raz drugi\" (Nah 1,9)",
+          "content": "Skoro zło raz powstało w doskonałym świecie, rodzi się pytanie: czy może wybuchnąć ponownie? Odpowiedź wielkiego boju brzmi: nie. Bóg nie niszczy zła natychmiast właśnie po to, by ujawnić jego naturę przed całym wszechświatem - tak gruntownie, że gdy spór się zakończy, nikt nigdy nie zechce go powtórzyć. Wszechświat ma być na zawsze bezpieczny nie przez przymus, lecz przez dowód."
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Zło nie pochodzi od Boga i nie należało do Jego świata. Powstało tam, gdzie wolność - konieczna, by miłość była prawdziwa - została użyta przeciw Bogu, najpierw w niebie, potem na ziemi. Żyjemy w środku wielkiego boju, ale nie bez nadziei: Bóg nie jest autorem cierpienia, lecz Tym, który sam w nie wszedł na krzyżu i obiecał definitywny koniec zła. Twoje cierpienie jest realne - ale nie jest ostatnim słowem.",
+    "challenge": "Pomyśl o jednym konkretnym cierpieniu (swoim lub bliskiej osoby), które każe ci pytać „gdzie jest Bóg?\". Zamiast składać je na Boga jako winnego, zanieś je Bogu jako Sprzymierzeńcowi w walce - wypowiedz to wprost w modlitwie. Zapisz jedno zdanie, które chciałbyś usłyszeć od Boga w tej sprawie, i zestaw je z obietnicą z Ap 21,4."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "status: draft needsReview: true generatedBy: claude notes: Ciekawostki PRO (11) rozłożone w sekcjach, przy tekstach, których dotyczą (nie na końcu). Źródła tła doktrynalnego: `books/_txt/00127 The Great Controversy` (m.in. „controversy ... regarding the character of God, His law, and His sovereignty\"; Lucyfer = „Day Star\"; cherub bezgrzeszny aż „unrighteousness was found in you\"; „Why Lucifer Not Destroyed at Onset\"). Formy oryginalne (PRO) do weryfikacji u recenzenta: `טוֹב מְאֹד` (Rdz 1,31); `הֵילֵל בֶּן־שָׁחַר` (Iz 14,12); `שָׂטָן` (Hi 1; Za 3,1); `διάβολος` (J 8,44) potwierdzić zapis i transliterację. Iz 14 / Ez 28 ujęte dwupoziomowo (król + istota za buntem), zgodnie z teologią ADS i wytyczną „proste odpowiedzi w treści, pogłębienie w PRO\". Tekst wersetów celowo NIE jest wstawiony tylko odnośniki (osis + ref); treść dociągana z przekładu."
+  }
+}

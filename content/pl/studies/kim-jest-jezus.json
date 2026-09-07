@@ -1,0 +1,497 @@
+{
+  "id": "kim-jest-jezus",
+  "lang": "pl",
+  "title": "Kim naprawdę jest Jezus?",
+  "category": "basic_practical",
+  "seriesId": "spotkanie-z-bogiem",
+  "order": 2,
+  "summary": "Kim naprawdę jest Jezus z Nazaretu: postacią historyczną i jednocześnie przedwiecznym Bogiem, Stwórcą, który stał się człowiekiem, by mnie zbawić i objawić Ojca - oraz kim chce być dla mnie osobiście.",
+  "minutes": {
+    "base": 40,
+    "extended": 60
+  },
+  "tags": [
+    "Jezus",
+    "bóstwo",
+    "wcielenie",
+    "Stwórca",
+    "Ja Jestem",
+    "objawienie Ojca"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Człowiek, którego nie da się zignorować",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u1",
+          "passage": [
+            {
+              "osis": "Matt.16.13-16",
+              "ref": "Mt 16,13-16"
+            }
+          ],
+          "comment": "Jezus sam stawia najważniejsze pytanie: nie „co o Mnie mówią\", lecz „za kogo wy Mnie uważacie\". Od odpowiedzi na nie zależy wszystko inne.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Gdyby Jezus zadał to pytanie dziś tobie, co szczerze byś odpowiedział - i dlaczego?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n1",
+          "noteType": "term",
+          "label": "„Mesjasz\" i „Chrystus\" znaczą to samo (Mt 16,16)",
+          "content": "Wyznanie Piotra „Ty jesteś Mesjasz\" używa słowa, które po hebrajsku brzmi *masziach*, a po grecku *christos* - oba znaczą „Namaszczony\". W Izraelu namaszczano olejem królów, kapłanów i proroków; tytuł zapowiadał Tego, który połączy wszystkie trzy role. „Chrystus\" nie jest więc nazwiskiem Jezusa, lecz tytułem: „Namaszczony, obiecany Wybawiciel\".",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χριστός",
+              "translit": "christos"
+            },
+            {
+              "lang": "hbo",
+              "text": "מָשִׁיחַ",
+              "translit": "masziach"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u2",
+          "passage": [
+            {
+              "osis": "Luke.2.4-7",
+              "ref": "Łk 2,4-7"
+            }
+          ],
+          "comment": "Jezus jest postacią historyczną - urodził się w konkretnym miejscu i czasie, wpisany w spis ludności realnego cesarstwa. To nie mit.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Co zmienia w odbiorze Jezusa fakt, że nie jest legendą, lecz osobą z historii?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n2",
+          "noteType": "background",
+          "label": "Jezus zakotwiczony w historii (Łk 2)",
+          "content": "Łukasz celowo osadza narodziny Jezusa w realiach Cesarstwa Rzymskiego: spis ludności, podróż do Betlejem, konkretne miejsca. Ewangelie nie zaczynają się od „dawno, dawno temu\", lecz od dat, władców i geografii. To odróżnia wiarę chrześcijańską od mitu: opiera się na wydarzeniach w czasie i przestrzeni, sprawdzalnych co do tła."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u3",
+          "passage": [
+            {
+              "osis": "Mark.6.2-3",
+              "ref": "Mk 6,2-3"
+            }
+          ],
+          "comment": "Sąsiedzi znali Jego rodzinę i zawód. A jednak Jego słowa i czyny rozsadzały ramy „cieśli\" - ludzie nie wiedzieli, co o Nim myśleć.",
+          "questions": [
+            {
+              "id": "q3",
+              "text": "Dlaczego ludziom, którzy znali Jezusa „od zwykłej strony\", najtrudniej było uznać, kim jest?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Przedwieczny: „Ja Jestem\"",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u4",
+          "passage": [
+            {
+              "osis": "John.8.58",
+              "ref": "J 8,58"
+            }
+          ],
+          "comment": "Jezus nie mówi „byłem, zanim był Abraham\", lecz „JESTEM\". Świadomie sięga po imię Boga z Wj 3,14 - dlatego słuchacze chcą Go ukamienować za bluźnierstwo.",
+          "questions": [
+            {
+              "id": "q4",
+              "text": "Dlaczego słowo „Jestem\" wywołało aż tak gwałtowną reakcję? Co Jezus tu o sobie powiedział?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n3",
+          "noteType": "term",
+          "label": "„Ja Jestem\" (J 8,58)",
+          "content": "W J 8,58 Jezus używa zwrotu *egō eimi* („Ja jestem\") tam, gdzie gramatycznie pasowałby czas przeszły. To celowe nawiązanie do imienia Bożego z Wj 3,14 („JESTEM, który JESTEM\"), w greckim brzmieniu Septuaginty. Reakcja słuchaczy (próba ukamienowania, w. 59) potwierdza, że odebrali to jako roszczenie do równości z Bogiem - nie zwykłą deklarację o wieku.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐγώ εἰμι",
+              "translit": "egō eimi"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Dlaczego dla pierwszych słuchaczy te dwa słowa były albo bluźnierstwem, albo objawieniem - bez trzeciej możliwości?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u5",
+          "passage": [
+            {
+              "osis": "John.1.1-3",
+              "ref": "J 1,1-3"
+            }
+          ],
+          "comment": "„Na początku było Słowo... a Bogiem było Słowo.\" Zanim cokolwiek powstało, Jezus już był - i to On stwarzał.",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Co znaczy, że Ten, którego spotykamy w Ewangeliach, istniał „na początku\", przed wszystkim?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "background",
+          "label": "„Słowo\" (Logos) jako pomost między światami (J 1,1)",
+          "content": "Termin „Słowo\" (gr. *logos*) był nośny dla obu kultur: dla Żydów to Słowo, którym Bóg stwarza (Rdz 1; Ps 33,6), dla Greków - rozumna zasada porządkująca świat. Jan łączy oba tory i mówi rzecz nową: ten Logos jest Osobą, jest Bogiem i stał się człowiekiem. To wzór mówienia o Chrystusie w języku zrozumiałym dla różnych słuchaczy.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "λόγος",
+              "translit": "logos"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u6",
+          "passage": [
+            {
+              "osis": "John.1.14",
+              "ref": "J 1,14"
+            }
+          ],
+          "comment": "Słowo „stało się ciałem\". Przedwieczny Bóg nie został daleko - zamieszkał wśród nas jako człowiek, którego można było dotknąć.",
+          "questions": [
+            {
+              "id": "q6",
+              "text": "Co mówi o Bogu to, że zechciał stać się jednym z nas, zamiast pozostać w niedostępnym majestacie?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n5",
+          "noteType": "background",
+          "label": "„zamieszkał\" znaczy „rozbił namiot\" (J 1,14)",
+          "content": "Grecki czasownik oddany jako „zamieszkał wśród nas\" (*eskēnōsen*) dosłownie znaczy „rozbił namiot\". To czytelne echo namiotu spotkania ze ST, nad którym spoczywała chwała Boża (szekina). Jan mówi więc: chwała, która kiedyś napełniała przybytek, teraz „rozbiła namiot\" w ludzkim ciele Jezusa - Bóg zamieszkał między nami nie w budowli, lecz w Osobie."
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n6",
+          "noteType": "term",
+          "label": "„jednorodzony\" (J 1,14; 3,16)",
+          "content": "Greckie *monogenēs* znaczy „jedyny w swoim rodzaju, jedyny taki\", a nie „stworzony jako pierwszy\". Jezus nie jest „jednym z dzieci Bożych\" w tym samym sensie co wierzący: my stajemy się dziećmi Boga przez przyjęcie (J 1,12), On jest Synem z samej swej natury. To rozróżnienie chroni przed myśleniem, że Jezus to po prostu wybitny człowiek lub wysoki anioł.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μονογενής",
+              "translit": "monogenēs"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u7",
+          "passage": [
+            {
+              "osis": "Col.1.16-17",
+              "ref": "Kol 1,16-17"
+            }
+          ],
+          "comment": "Wszystko zostało stworzone „przez Niego i dla Niego\", a On „jest przed wszystkim\" i wszystko w Nim trwa. To opis Stwórcy, nie stworzenia.",
+          "questions": [
+            {
+              "id": "q7",
+              "text": "Jak zmienia się relacja z Jezusem, gdy widzisz w Nim Tego, „w którym wszystko ma istnienie\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u8",
+          "passage": [
+            {
+              "osis": "Heb.1.3",
+              "ref": "Hbr 1,3"
+            }
+          ],
+          "comment": "Syn jest „odblaskiem chwały i odbiciem istoty\" Boga oraz podtrzymuje wszechświat słowem swej mocy - nie jest niższym bytem ani stworzonym aniołem.",
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Co znaczy, że patrząc na Jezusa, patrzymy na „odbicie istoty\" samego Boga?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "„odbicie istoty\" jak odcisk pieczęci (Hbr 1,3)",
+          "content": "„Odbicie istoty\" to gr. *charaktēr tēs hypostaseōs*. Słowo *charaktēr* oznaczało stempel i jego dokładny odcisk - np. wizerunek na monecie. Obraz mówi, że Syn jest precyzyjnym „odciskiem\" samego Boga: kto widzi Jezusa, widzi wierny obraz natury Ojca, nie przybliżenie ani kopię gorszej jakości.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "χαρακτήρ",
+              "translit": "charaktēr"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "worship",
+          "label": "blok porównawczy „Jahwe ST = Jezus NT\"",
+          "content": "Nowy Testament wielokrotnie odnosi do Jezusa to, co Stary Testament mówi o Jahwe - to jeden z najmocniejszych argumentów za Jego pełnym bóstwem. Pary do samodzielnego porównania: - **Pasterz:** Ps 23,1 (Jahwe pasterzem) wobec J 10,11 (Jezus „dobrym pasterzem\") - **Pierwszy i Ostatni:** Iz 44,6 wobec Ap 1,17 - **JESTEM / imię Boże:** Wj 3,14 wobec J 8,58 - **Przed Nim zegnie się każde kolano:** Iz 45,23 wobec Flp 2,10 - **Wzywanie imienia Pana ku zbawieniu:** Jl 2,32 wobec Rz 10,13 - **Przebity, na którego spojrzą:** Za 12,10 wobec J 19,37",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Która z tych par przemawia do ciebie najmocniej - i dlaczego ważne, że NT „przenosi\" na Jezusa imię i chwałę Jahwe?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Bóg, który przyjmuje cześć i objawia Ojca",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u9",
+          "passage": [
+            {
+              "osis": "John.14.9",
+              "ref": "J 14,9"
+            }
+          ],
+          "comment": "„Kto Mnie zobaczył, zobaczył Ojca.\" Jeśli chcesz wiedzieć, jaki jest Bóg, patrz na Jezusa - On jest twarzą Ojca.",
+          "questions": [
+            {
+              "id": "q9",
+              "text": "Jaki obraz Boga wyłania się, gdy uznasz, że Bóg jest dokładnie taki jak Jezus z Ewangelii?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u10",
+          "passage": [
+            {
+              "osis": "John.20.28-29",
+              "ref": "J 20,28-29"
+            }
+          ],
+          "comment": "Tomasz mówi do Jezusa: „Pan mój i Bóg mój\" - a Jezus tego nie prostuje, lecz przyjmuje i błogosławi wiarę.",
+          "questions": [
+            {
+              "id": "q10",
+              "text": "Gdyby Jezus nie był Bogiem, jak powinien zareagować na te słowa? Co znaczy, że ich nie odrzucił?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "worship",
+          "label": "Jezus przyjmuje cześć należną tylko Bogu",
+          "content": "Czasownik „oddawać pokłon, cześć\" (gr. *proskyneō*) w Biblii należy się wyłącznie Bogu. Dlatego aniołowie (Ap 22,8-9) i apostołowie (Dz 10,25-26) stanowczo odmawiają jej przyjęcia. Jezus natomiast cześć przyjmuje (Mt 14,33; 28,9.17; J 9,38). Przy konsekwentnym monoteizmie Biblii ten jedyny wyjątek jest cichym, lecz mocnym świadectwem, że Jezus jest Bogiem.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "προσκυνέω",
+              "translit": "proskyneō"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Co wynika z tego, że jedyny wyjątek od zasady „cześć tylko Bogu\" stanowi w Ewangeliach Jezus?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u11",
+          "passage": [
+            {
+              "osis": "Matt.28.9",
+              "ref": "Mt 28,9"
+            }
+          ],
+          "comment": "Jezus przyjmuje cześć (pokłon należny tylko Bogu) - inaczej niż aniołowie czy apostołowie, którzy jej stanowczo odmawiali (por. Ap 22,8-9; Dz 10,25-26).",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Dlaczego to ważne, że Jezus pozwalał oddawać sobie cześć, a Jego uczniowie i aniołowie nie?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Rev.1.17-18",
+              "ref": "Ap 1,17-18"
+            }
+          ],
+          "comment": "Zmartwychwstały mówi o sobie „Pierwszy i Ostatni\" - tytułem, którym w ST Bóg-Jahwe określał samego siebie (Iz 44,6). I dodaje: „byłem umarły, a żyję\".",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Co daje ci świadomość, że Ten, który nazywa siebie „Pierwszym i Ostatnim\", przeszedł też przez śmierć - twoją drogę?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u13",
+          "passage": [
+            {
+              "osis": "Phil.2.6-8",
+              "ref": "Flp 2,6-8"
+            }
+          ],
+          "comment": "Będąc „w postaci Bożej\", Jezus „umniejszył samego siebie\", przyjmując postać sługi aż po śmierć na krzyżu. Bóstwo i pokora spotykają się w jednej Osobie.",
+          "questions": [
+            {
+              "id": "q13",
+              "text": "Co mówi o charakterze Boga to, że Jego wielkość objawia się w uniżeniu, a nie w dominacji?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "term",
+          "label": "„ogołocił siebie\" (Flp 2,7)",
+          "content": "Określenie „ogołocił siebie\" to gr. *ekenōsen* (stąd teologiczny termin *kenoza*). Nie znaczy, że Jezus przestał być Bogiem - lecz że zrezygnował z przywilejów i chwały, przyjmując ograniczenia ludzkiej natury i drogę sługi aż po krzyż. Wielkość Boga objawia się tu nie w dominacji, lecz w dobrowolnym uniżeniu dla nas.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "ἐκένωσεν",
+              "translit": "ekenōsen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "Kim jest dla mnie osobiście?",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "John.1.12",
+              "ref": "J 1,12"
+            }
+          ],
+          "comment": "Tym, którzy Go przyjmują, Jezus daje prawo stać się dziećmi Bożymi. To przejście od wiedzy o Nim do relacji z Nim.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Czym różni się „wiedzieć, kim jest Jezus\" od „przyjąć Go\" we własnym życiu?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "John.10.10",
+              "ref": "J 10,10"
+            }
+          ],
+          "comment": "Jezus przyszedł, by dać życie „w obfitości\". Nie jest dawcą reguł, lecz dawcą życia.",
+          "questions": [
+            {
+              "id": "q15",
+              "text": "Czego najbardziej potrzebujesz dziś od Kogoś, kto obiecuje „życie w obfitości\"?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Matt.11.28-29",
+              "ref": "Mt 11,28-29"
+            }
+          ],
+          "comment": "Bóg, który stworzył wszechświat, mówi do zmęczonego człowieka: „Przyjdźcie do Mnie... a Ja wam dam ukojenie\". Bliskość, nie dystans.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Co znaczyłoby przyjść do Jezusa właśnie z tym, co cię dziś męczy lub przytłacza?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "application": {
+    "text": "Jezus nie jest tylko wielkim nauczycielem ani postacią z odległej historii. Jest przedwiecznym Bogiem - Stwórcą, „Ja Jestem\" - który z miłości stał się człowiekiem, by mnie odnaleźć i pokazać, jaki naprawdę jest Ojciec. Patrząc na Jezusa, patrzę na samo serce Boga. Pytanie nie brzmi więc tylko „kim On jest\", lecz „kim jest dla mnie\".",
+    "challenge": "Przeczytaj w tym tygodniu jedną Ewangelię w całości (np. Marka - najkrótszą), z jednym pytaniem w tle: „Co odkrywam o tym, jaki jest Bóg, patrząc na Jezusa?\". Zapisz trzy cechy Jezusa, które chciałbyś, żeby były prawdą o Bogu - i powiedz Mu o tym wprost."
+  },
+  "meta": {
+    "status": "draft",
+    "needsReview": true,
+    "generatedBy": "claude",
+    "notes": "status: draft needsReview: true generatedBy: claude notes: Ciekawostki PRO (10) rozłożone w sekcjach, przy tekstach, których dotyczą (nie na końcu). Źródła tła doktrynalnego: `books/_txt/00104 Christ His Person and Work`, `00103 Doctrine of God` (handbook ADS). Formy oryginalne (PRO) do weryfikacji u recenzenta: `χριστός`, `מָשִׁיחַ` (Mt 16,16); `ἐγώ εἰμι` (J 8,58); `λόγος`, `μονογενής` (J 1); `χαρακτήρ` (Hbr 1,3); `προσκυνέω`; `ἐκένωσεν` (Flp 2,7) potwierdzić zapis i transliterację. Blok porównawczy „Jahwe = Jezus\" (n8): pary klasyczne w teologii ADS; recenzent niech zweryfikuje granice wersetów (zwł. Ps 23,1; Iz 44,6; Iz 45,23). Tekst wersetów celowo NIE jest wstawiony tylko odnośniki (osis + ref); treść dociągana z przekładu."
+  }
+}
