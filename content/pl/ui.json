@@ -409,7 +409,18 @@
     "fonts": "Czcionki",
     "fontsIntro": "Pierwsza czcionka dotyczy interfejsu, druga dłuższego czytania.",
     "fontMontserrat": "Czytelna i uporządkowana.",
-    "fontOutfit": "Lekka i redakcyjna."
+    "fontOutfit": "Lekka i redakcyjna.",
+    "installDiagnostics": "Diagnostyka instalacji",
+    "installDiagnosticsLimit": "Raport pokazuje tylko informacje dostępne stronie. Android i Samsung Internet nie udostępniają jej prywatnych błędów instalatora ani Android Package Managera.",
+    "installDiagnosticsHint": "Spróbuj zainstalować aplikację, wróć do tego panelu i skopiuj raport.",
+    "installDiagnosticsReport": "Raport diagnostyczny instalacji",
+    "installDiagnosticsReportTitle": "Diagnostyka instalacji PWA",
+    "installDiagnosticsGenerated": "Wygenerowano",
+    "installDiagnosticsState": "Stan instalacji",
+    "installDiagnosticsEmpty": "Brak zdarzeń diagnostycznych.",
+    "copyInstallDiagnostics": "Kopiuj raport",
+    "installDiagnosticsCopied": "Raport skopiowany.",
+    "installDiagnosticsCopyFailed": "Nie udało się skopiować raportu."
   },
   "account": {
     "title": "Twoje konto",
