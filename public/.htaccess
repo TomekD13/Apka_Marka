@@ -31,6 +31,12 @@ AddType image/svg+xml .svg
   ForceType application/manifest+json
 </Files>
 
+# Samsung Internet jest bardziej rygorystyczny od Chrome przy instalowaniu PWA:
+# plik z manifestem powinien mieÄ‡ oficjalny typ MIME manifestu, a nie ogÃ³lne JSON.
+<Files "manifest.json">
+  ForceType application/manifest+json
+</Files>
+
 <IfModule mod_headers.c>
   # Pliki wskazujace aktualna wersje aplikacji zawsze sprawdzamy ponownie.
   <FilesMatch "(sw\.js|index\.html|manifest\.(webmanifest|json)|registerSW\.js)$">
