@@ -1,7 +1,16 @@
 import { useEffect, useState, type ReactNode } from 'react'
 import { useI18n } from '../i18n'
 import { useTheme, type FontSet, type Theme } from '../theme'
-import { getInstallState, initAppInstall, requestInstall, subscribeInstall, type InstallState } from '../lib/installApp'
+import {
+  getInstallDiagnostics,
+  getInstallState,
+  initAppInstall,
+  requestInstall,
+  subscribeInstall,
+  subscribeInstallDiagnostics,
+  type InstallDiagnostic,
+  type InstallState,
+} from '../lib/installApp'
 import { downloadModule } from '../content'
 import { AppIcon, type IconName } from '../components/AppNavigation'
 import { PageHeading } from '../components/PageHeading'
@@ -18,10 +27,26 @@ function ExpandablePanel({ icon, title, children }: { icon: IconName; title: str
   </section>
 }
 
+function installReport(entries: InstallDiagnostic[], state: InstallState, labels: { title: string; generated: string; state: string; empty: string }) {
+  const events = entries.map((entry) => {
+    const details = entry.details ? ` ${JSON.stringify(entry.details)}` : ''
+    return `[${entry.timestamp}] ${entry.event}${details}`
+  })
+  return [
+    labels.title,
+    `${labels.generated}: ${new Date().toISOString()}`,
+    `${labels.state}: ${state}`,
+    '',
+    ...(events.length > 0 ? events : [labels.empty]),
+  ].join('\n')
+}
+
 export function Settings() {
   const { lang, t } = useI18n()
   const { theme, setTheme, fontSet, setFontSet } = useTheme()
   const [installState, setInstallState] = useState<InstallState>(getInstallState)
+  const [installDiagnostics, setInstallDiagnostics] = useState<InstallDiagnostic[]>(getInstallDiagnostics)
+  const [copyState, setCopyState] = useState<'idle' | 'done' | 'failed'>('idle')
   const [showIosSteps, setShowIosSteps] = useState(false)
   const [installedNow, setInstalledNow] = useState(false)
   const [offlineState, setOfflineState] = useState<'idle' | 'busy' | 'done' | 'failed'>('idle')
@@ -30,8 +55,15 @@ export function Settings() {
   useEffect(() => {
     initAppInstall()
     const refresh = () => setInstallState(getInstallState())
+    const refreshDiagnostics = () => setInstallDiagnostics(getInstallDiagnostics())
     refresh()
-    return subscribeInstall(refresh)
+    refreshDiagnostics()
+    const unsubscribeInstall = subscribeInstall(refresh)
+    const unsubscribeDiagnostics = subscribeInstallDiagnostics(refreshDiagnostics)
+    return () => {
+      unsubscribeInstall()
+      unsubscribeDiagnostics()
+    }
   }, [])
 
   function option(value: Theme, title: string, desc: string) {
@@ -58,6 +90,15 @@ export function Settings() {
     if (await requestInstall() === 'accepted') setInstalledNow(true)
   }
 
+  async function copyInstallReport() {
+    try {
+      await navigator.clipboard.writeText(diagnosticsReport)
+      setCopyState('done')
+    } catch {
+      setCopyState('failed')
+    }
+  }
+
   async function downloadOffline() {
     if (offlineState === 'busy') return
     setOfflineState('busy')
@@ -71,6 +112,13 @@ export function Settings() {
       setOfflineProgress(null)
     }
   }
+
+  const diagnosticsReport = installReport(installDiagnostics, installState, {
+    title: t('settings.installDiagnosticsReportTitle', 'Diagnostyka instalacji PWA'),
+    generated: t('settings.installDiagnosticsGenerated', 'Wygenerowano'),
+    state: t('settings.installDiagnosticsState', 'Stan instalacji'),
+    empty: t('settings.installDiagnosticsEmpty', 'Brak zdarzeń diagnostycznych.'),
+  })
 
   return <section className="mx-auto max-w-xl">
     <PageHeading icon="settings" eyebrow={t('nav.menu', 'Menu boczne')} title={t('nav.settings', 'Ustawienia')} />
@@ -95,6 +143,27 @@ export function Settings() {
         <p className="text-sm leading-relaxed text-slate-600 dark:text-slate-300">Otwiera się jak zwykła aplikacja i pozostaje dostępna także bez internetu.</p>
         {installedNow || installState === 'installed' ? <p className="mt-3 text-sm font-semibold text-emerald-700 dark:text-emerald-300">Aplikacja jest już dodana do ekranu telefonu.</p> : installState === 'unavailable' ? <p className="mt-3 text-sm text-slate-500 dark:text-slate-400">Otwórz tę stronę w Chrome na Androidzie albo Safari na iPhonie, aby dodać aplikację do ekranu.</p> : <><button type="button" onClick={install} aria-expanded={installState === 'ios' ? showIosSteps : undefined} className="mt-3 rounded-lg bg-brand px-3 py-1.5 text-sm font-semibold text-white shadow-sm transition hover:bg-brand-light dark:bg-sky-300 dark:text-slate-950">{installState === 'ios' ? 'Jak to zrobić' : 'Dodaj aplikację'}</button>{installState === 'ios' && showIosSteps && <ol className="mt-3 list-decimal space-y-1 pl-5 text-sm leading-relaxed text-slate-600 dark:text-slate-300"><li>Dotknij ikony „Udostępnij” na dolnym pasku Safari.</li><li>Przewiń listę i wybierz „Dodaj do ekranu początkowego”.</li><li>Potwierdź „Dodaj” w prawym górnym rogu.</li><li className="text-slate-500 dark:text-slate-400">Na iPhonie użyj Safari — w innych przeglądarkach ta opcja może nie być dostępna.</li></ol>}</>}
       </ExpandablePanel>
+      {installState !== 'installed' && <ExpandablePanel icon="settings" title={t('settings.installDiagnostics', 'Diagnostyka instalacji')}>
+        <p className="text-sm leading-relaxed text-slate-600 dark:text-slate-300">
+          {t('settings.installDiagnosticsLimit', 'Raport pokazuje tylko informacje dostępne stronie. Android i Samsung Internet nie udostępniają jej prywatnych błędów instalatora ani Android Package Managera.')}
+        </p>
+        <p className="mt-2 text-sm leading-relaxed text-slate-500 dark:text-slate-400">
+          {t('settings.installDiagnosticsHint', 'Spróbuj zainstalować aplikację, wróć do tego panelu i skopiuj raport.')}
+        </p>
+        <pre
+          tabIndex={0}
+          aria-label={t('settings.installDiagnosticsReport', 'Raport diagnostyczny instalacji')}
+          className="mt-3 max-h-64 overflow-auto whitespace-pre-wrap break-words rounded-lg border border-slate-200 bg-slate-50 p-3 text-xs leading-relaxed text-slate-700 dark:border-slate-700 dark:bg-slate-950 dark:text-slate-200"
+        >{diagnosticsReport}</pre>
+        <div className="mt-3 flex flex-wrap items-center gap-3">
+          <button type="button" onClick={copyInstallReport} className="rounded-lg bg-brand px-3 py-1.5 text-sm font-semibold text-white shadow-sm transition hover:bg-brand-light dark:bg-sky-300 dark:text-slate-950">
+            {t('settings.copyInstallDiagnostics', 'Kopiuj raport')}
+          </button>
+          <span role="status" aria-live="polite" className="text-sm text-slate-500 dark:text-slate-400">
+            {copyState === 'done' ? t('settings.installDiagnosticsCopied', 'Raport skopiowany.') : copyState === 'failed' ? t('settings.installDiagnosticsCopyFailed', 'Nie udało się skopiować raportu.') : ''}
+          </span>
+        </div>
+      </ExpandablePanel>}
       <ExpandablePanel icon="download" title="Pobierz treści do trybu offline">
         <p className="text-sm leading-relaxed text-slate-600 dark:text-slate-300">Pobierze na to urządzenie Biblię, studia, czytanki „40 dni modlitwy”, materiały edukacyjne, śpiewniki, fiszki i teksty na różne okazje. Po zakończeniu będą dostępne także bez internetu.</p>
         <button type="button" onClick={downloadOffline} disabled={offlineState === 'busy' || offlineState === 'done'} className="mt-3 rounded-lg bg-brand px-3 py-1.5 text-sm font-semibold text-white shadow-sm transition hover:bg-brand-light disabled:cursor-default disabled:opacity-70 dark:bg-sky-300 dark:text-slate-950">

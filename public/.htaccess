@@ -25,9 +25,15 @@ AddType application/json .json
 AddType image/webp .webp
 AddType image/svg+xml .svg
 
+# LiteSpeed na tym hostingu ignoruje AddType dla rozszerzenia .webmanifest.
+# Wydanie korzysta z manifest.json, ale ta reguła chroni również stary adres.
+<Files "manifest.webmanifest">
+  ForceType application/manifest+json
+</Files>
+
 <IfModule mod_headers.c>
   # Pliki wskazujace aktualna wersje aplikacji zawsze sprawdzamy ponownie.
-  <FilesMatch "(sw\.js|index\.html|manifest\.webmanifest|registerSW\.js)$">
+  <FilesMatch "(sw\.js|index\.html|manifest\.(webmanifest|json)|registerSW\.js)$">
     Header set Cache-Control "no-cache, must-revalidate"
   </FilesMatch>
   # Bundle z hashem moze pozostac w cache, bo nowy build dostaje nowa nazwe.

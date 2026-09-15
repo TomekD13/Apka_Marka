@@ -15,11 +15,16 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
+      // Ten hosting zwraca `.webmanifest` jako application/octet-stream, mimo
+      // reguły AddType. Dla `.json` poprawnie zwraca application/json, który
+      // przeglądarki akceptują dla manifestu PWA.
+      manifestFilename: 'manifest.json',
       includeAssets: ['favicon.svg', 'content/pl/bible/BG.bbl.mybible.zip'],
       manifest: {
         name: '#JestNadzieja',
         short_name: '#JestNadzieja',
         description: 'Czytnik studiów biblijnych (offline). Bible study reader.',
+        lang: 'pl',
         theme_color: '#1f4e79',
         background_color: '#ffffff',
         display: 'standalone',

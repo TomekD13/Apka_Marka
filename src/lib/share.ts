@@ -5,7 +5,15 @@ export type ShareResult = 'shared' | 'copied' | 'failed'
 export async function shareContent(data: { title?: string; text: string; url?: string }): Promise<ShareResult> {
   if (typeof navigator !== 'undefined' && navigator.share) {
     try {
-      await navigator.share(data)
+      // Puste pola pomijamy. Jest to istotne dla przycisków, które mają
+      // udostępniać wyłącznie adres: telefon nie może wtedy skopiować obok
+      // linku dopisanego opisu.
+      const nativeData = {
+        ...(data.title ? { title: data.title } : {}),
+        ...(data.text ? { text: data.text } : {}),
+        ...(data.url ? { url: data.url } : {}),
+      }
+      await navigator.share(nativeData)
       return 'shared'
     } catch (e: any) {
       if (e && e.name === 'AbortError') return 'failed' // uzytkownik anulowal okno

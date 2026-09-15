@@ -85,6 +85,15 @@ export function ReadingFooter({
     )
   }
 
+  async function shareLink(link: string) {
+    // Zwykłe „Udostępnij” ma przekazywać sam adres materiału. Pełny opis
+    // z linkiem jest przeznaczony dla osobnego przycisku WhatsApp.
+    const r = await shareContent({ text: '', url: link })
+    setToast(
+      r === 'shared' ? '' : r === 'copied' ? t('share.copied', 'Skopiowano') : t('share.failed', 'Nie udało się')
+    )
+  }
+
   async function share(text: string, link: string) {
     const r = await shareContent({ title: shareTitle, text, url: link })
     setToast(
@@ -175,7 +184,7 @@ export function ReadingFooter({
             {t('reading.full', 'Czytaj pełną wersję')}
           </button>
         )}
-        <button type="button" onClick={() => share(shareText, url)} className={btn}>
+        <button type="button" onClick={() => shareLink(url)} className={btn}>
           {t('reading.share', 'Udostępnij')}
         </button>
         <button type="button" onClick={() => whatsapp(`${shareTitle}\n${shareText}`, url)} className={btn}>
