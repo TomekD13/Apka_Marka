@@ -38,6 +38,9 @@ export default defineConfig({
       },
       workbox: {
         navigateFallback: base + 'index.html',
+        // Panel statystyk to osobna aplikacja PHP. Service worker nie może
+        // zastępować jej stroną Reacta po zainstalowaniu PWA.
+        navigateFallbackDenylist: [new RegExp('^' + base + 'stat/')],
         // nie precache'ujemy treści (bywa duża) – cache'ujemy ją w runtime; „Pobierz offline” ją rozgrzewa
         globPatterns: ['**/*.{js,css,html,svg,png,webp,woff2}'],
         // tresc dociagamy w runtime; baner w wersji 2560 tylko wtedy, gdy ekran go potrzebuje

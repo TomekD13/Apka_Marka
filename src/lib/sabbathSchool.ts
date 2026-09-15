@@ -29,14 +29,20 @@ function parseDate(s?: string): number | null {
   return Date.UTC(+m[3], +m[2] - 1, +m[1])
 }
 
-function todayUTC(): number {
-  const d = new Date()
+/**
+ * Adventech publikuje nową lekcję już w sobotę. Do godziny 16:00 pokazujemy
+ * jednak materiał omawiany tego dnia w zborze, czyli lekcję z kończącego się
+ * tygodnia. Godzina jest odczytywana w lokalnym czasie urządzenia.
+ */
+export function lessonDayUTC(now = new Date()): number {
+  const d = new Date(now)
+  if (d.getDay() === 6 && d.getHours() < 16) d.setDate(d.getDate() - 1)
   return Date.UTC(d.getFullYear(), d.getMonth(), d.getDate())
 }
 
 /** Okres obejmujacy dzisiejszy dzien; gdy zaden - pierwszy z listy (API zwraca najnowsze najpierw). */
 function pickCurrent<T extends Period>(items: T[]): T | undefined {
-  const today = todayUTC()
+  const today = lessonDayUTC()
   const hit = items.find((it) => {
     const from = parseDate(it.start_date)
     const to = parseDate(it.end_date)
