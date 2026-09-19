@@ -61,6 +61,7 @@ SIZE_LEAD = 10.5
 SIZE_HEADING = 14.0
 
 RE_DAY_FILE = re.compile(r"Dzie[nń]\s+(\d{1,2})", re.I)
+RE_VERSION = re.compile(r"v(\d+)", re.I)
 RE_DAY_PARA = re.compile(r"^DZIE[NŃ]\s+(\d{1,2})$", re.I)
 RE_REF = re.compile(r"^Tekst:\s*(.+)$", re.I)
 RE_QUESTIONS = re.compile(r"^Pytania na dzi[sś]", re.I)
@@ -136,9 +137,20 @@ def read_day(path: Path) -> dict:
     return out
 
 
+def wersja(name: str) -> int:
+    """Numer wersji z nazwy pliku („… mini v5.docx" -> 5); brak numeru = 0."""
+    hits = RE_VERSION.findall(name)
+    return int(hits[-1]) if hits else 0
+
+
 def collect(folder: Path) -> dict[int, dict]:
-    """Mapa numer dnia -> tresc. Pomija tymczasowe pliki Worda (~$...)."""
-    days: dict[int, dict] = {}
+    """Mapa numer dnia -> tresc. Pomija tymczasowe pliki Worda (~$...).
+
+    Gdy dla jednego dnia lezy kilka plikow (autor zostawia stara wersje obok
+    nowej), bierzemy najwyzszy numer `vN`. Po samym sortowaniu nazw „v11"
+    stanelo by przed „v9" i weszlaby starsza tresc, po cichu.
+    """
+    wybrane: dict[int, Path] = {}
     for path in sorted(folder.glob("*.docx")):
         if path.name.startswith("~$"):
             continue
@@ -146,8 +158,15 @@ def collect(folder: Path) -> dict[int, dict]:
         if not m:
             print(f"   pomijam (brak numeru dnia): {path.name}")
             continue
-        days[int(m.group(1))] = read_day(path)
-    return days
+        n = int(m.group(1))
+        stary = wybrane.get(n)
+        if stary is None or wersja(path.name) >= wersja(stary.name):
+            if stary is not None:
+                print(f"   dzien {n}: biore {path.name} (obok lezy {stary.name})")
+            wybrane[n] = path
+        else:
+            print(f"   dzien {n}: pomijam starsza {path.name}")
+    return {n: read_day(p) for n, p in sorted(wybrane.items())}
 
 
 def main() -> int:
