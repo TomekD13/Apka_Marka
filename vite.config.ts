@@ -48,9 +48,17 @@ export default defineConfig({
         runtimeCaching: [
           {
             urlPattern: ({ url }) => url.pathname.includes('/content/'),
-            handler: 'StaleWhileRevalidate',
+            // NetworkFirst, nie StaleWhileRevalidate: przy tym drugim pierwsze wejscie
+            // zawsze pokazuje tresc z pamieci, a poprawiona wersja wchodzi dopiero przy
+            // nastepnym otwarciu ekranu. Czytanki "40 dni" sa poprawiane redakcyjnie
+            // w dniu publikacji, wiec czytelnik widzial stare zdania i nie mial jak
+            // tego wymusic. Teraz online liczy sie plik z serwera, a pamiec wchodzi
+            // gdy siec milczy dluzej niz 4 sekundy albo nie ma jej wcale (tryb offline
+            // i "Pobierz offline" dzialaja jak dotad, na tym samym cacheName).
+            handler: 'NetworkFirst',
             options: {
               cacheName: 'content',
+              networkTimeoutSeconds: 4,
               expiration: { maxEntries: 2000, maxAgeSeconds: 60 * 60 * 24 * 365 }
             }
           }

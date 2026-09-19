@@ -33,3 +33,8 @@ Update_40dni/
 
 # Lokalne makiety i materiały robocze — nie są częścią kompilacji strony.
 docs/
+
+# panel statystyk: haslo i baza zyja tylko na serwerze
+public/stat/config.php
+public/stat/*.sqlite
+public/stat/*.sqlite-*
