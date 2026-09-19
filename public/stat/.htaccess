@@ -1,0 +1,27 @@
+# Katalog licznika odwiedzin.
+# Baza, konfiguracja i czesc wspolna NIE moga byc do pobrania z przegladarki.
+<FilesMatch "\.(sqlite|sqlite-wal|sqlite-shm|db)$">
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+  <IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+  </IfModule>
+</FilesMatch>
+
+<FilesMatch "^(config|wspolne)\.php$">
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+  <IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+  </IfModule>
+</FilesMatch>
+
+# Panel statystyk nie ma trafiac do wyszukiwarek ani do cache.
+<IfModule mod_headers.c>
+  Header set X-Robots-Tag "noindex, nofollow"
+  Header set Cache-Control "no-store"
+</IfModule>
