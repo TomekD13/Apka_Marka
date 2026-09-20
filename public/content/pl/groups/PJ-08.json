@@ -1,0 +1,851 @@
+{
+ "tytul": "Bogaty głupiec",
+ "id": "PJ-08",
+ "seria": "Przypowieści Jezusa",
+ "opis": "Człowiek, który rozmawiał tylko ze sobą, i pytanie, dla kogo właściwie gromadzę to, co mam.",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Łk 12,13-15; Łk 12,16-17; Łk 12,18-19; Łk 12,20-21; Łk 12,22-24.32-34",
+  "p2": "Łk 12,1; Wj 2,14; Ps 133,1; Jk 4,13-15; Ps 49,17-18; 1Tm 6,17-19; 2Kor 8,9",
+  "p3": "Ps 14,1; Rdz 41,33-36.47-49; Prz 6,6-8; Prz 11,24-26"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 28,
+  "p3": 33
+ },
+ "tagi": [
+  "przypowieści",
+  "pieniądze",
+  "chciwość",
+  "samotność",
+  "śmierć",
+  "zaufanie"
+ ],
+ "wersja": 1,
+ "zdanie": "Urodzaj jest przesyłką z adresem. Głupotą nie jest mieć, tylko planować tak, jakby poza mną nie było nikogo.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Bohater tej przypowieści nie jest przestępcą. Nikogo nie okradł, nikogo nie wyzyskał, a jego plan jest rozsądny: powiększyć magazyn, zabezpieczyć przyszłość, wreszcie odpocząć. Bóg nazywa go głupcem z innego powodu. W całym jego planie występuje tylko jedna osoba. Mówi do siebie, o sobie i dla siebie. Nie ma w tym monologu ani brata, ani sąsiada, ani Boga, od którego przyszedł urodzaj. Spotkanie ma doprowadzić grupę do pytania z ostatniego wersetu: dla kogo gromadzę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Każda przypowieść Jezusa poprawia jakiś fałszywy obraz Boga. Ta poprawia dwa. Człowiek z tłumu traktuje Jezusa jak narzędzie do załatwienia własnej sprawy: Bóg ma stanąć po mojej stronie w moim sporze. Bogacz z przypowieści ma Boga, którego można pominąć w rachunkach: urodzaj bierze, Dawcy nie zauważa. Naprzeciw obu Jezus stawia Ojca, który karmi kruki i któremu upodobało się dać królestwo. Przypowieść jest zwierciadłem jednej prawdy, więc nie buduje się nauki na jej szczegółach. Rozmowa Boga z bogaczem jest środkiem opowiadania, a nie wykładem o tym, co dzieje się z człowiekiem po śmierci.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole może być w trakcie sporu o spadek albo po takim sporze, z rodziną rozbitą na lata.",
+      "Ktoś niedawno stracił bliskiego nagle, w nocy. Zdanie „tej nocy zażądają duszy twojej\" usłyszy bardzo osobiście. Zobacz pierwszą czerwoną flagę.",
+      "Przy jednym stole siedzą ludzie zamożni i ludzie, którym nie starcza do pierwszego. Jedni i drudzy łatwo poczują się oceniani.",
+      "Emeryci i ludzie oszczędzający mogą usłyszeć, że zabezpieczanie przyszłości to grzech. Tekst tego nie mówi."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pytaj nikogo o zarobki, oszczędności ani ofiary. Nie kończ apelem o dary dla zboru. Nie rób z bogacza potwora, bo wtedy nikt się w nim nie rozpozna. Nie mów, że Bóg zabił go za karę, bo tekst tego nie mówi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie ważną decyzję, którą podjąłeś zupełnie sam, z nikim jej nie omawiając. Powiedz jednym zdaniem, dlaczego wtedy nikogo nie zapytałeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, jednym zdaniem. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Głos z tłumu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 12,13-15",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł ktoś z tłumu do niego: Nauczycielu, powiedz bratu memu, aby się ze mną podzielił dziedzictwem. A On mu rzekł: Człowieku, któż mnie ustanowił sędzią lub rozjemcą nad wami? Powiedział też do nich: Baczcie, a wystrzegajcie się wszelkiej chciwości, dlatego że nie od obfitości dóbr zależy czyjeś życie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ten człowiek nie prosi Jezusa o radę ani o ocenę sprawy. Mówi Mu, co ma powiedzieć bratu. **Do czego jest mu potrzebny Jezus?** Jak wygląda dziś taka prośba w modlitwie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nie rozstrzyga, kto ma rację, choć petent mógł ją mieć. Ostrzega przed chciwością „ich\", czyli wszystkich słuchających. **Co widzi pod sporem o spadek?** Czy można mieć rację w papierach i mimo to przegrywać?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Co ten człowiek mógł dostać od Jezusa, gdyby poprosił o coś innego niż połowę gospodarstwa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Spory o ojcowiznę należały na Wschodzie do najbardziej zapalnych. Bracia często gospodarowali na niepodzielonym majątku i uchodziło to za błogosławieństwo, a rozpad takiej wspólnoty za małą wojnę domową. Prawo Mojżesza dawało pierworodnemu podwójną część, więc proszący jest najpewniej młodszym bratem. Zwrot „człowieku\" otwierał w tamtym języku naganę. Jezus nie podważa roszczenia. Odmawia roli, w której miałby dzielić majątek między ludzi, zamiast ich ze sobą godzić.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** Jezus jest w drodze do Jerozolimy. Wokół Niego zebrały się tysiące ludzi, a On mówi najpierw do uczniów o rzeczach ostatecznych: o obłudzie, o tym, kogo się bać, o wyznawaniu Go przed ludźmi, o Duchu Świętym. W środku tej mowy przerywa Mu głos z tłumu w sprawie spadku. Po przypowieści Jezus wraca do uczniów i mówi o krukach, liliach i skarbie w niebie. Przypowieść stoi więc między ostrzeżeniem a zaproszeniem do zaufania.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Do szanowanego nauczyciela przychodzono po rozstrzygnięcia także w sprawach majątkowych, więc prośba nie była niczym dziwnym. W kulturze, w której ważne sprawy omawiało się w bramie, przy starszych i sąsiadach, człowiek podejmujący decyzje w pojedynkę był kimś niezwykłym.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 12,1",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy się zgromadziły niezliczone rzesze ludu, tak iż nawzajem się deptali, zaczął mówić najpierw do uczniów swoich: Strzeżcie się kwasu faryzeuszów, to jest obłudy."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ten człowiek stał w tłumie i słuchał słów o życiu i śmierci. **Co słyszał przez cały ten czas, sądząc po tym, z czym się odezwał?** Kiedy własna sprawa potrafi tak zagłuszyć wszystko inne?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Kto cię ustanowił",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 2,14",
+       "przeklad": "BW",
+       "akapity": [
+        "A ten odpowiedział: Któż cię ustanowił przełożonym i sędzią nad nami? Czy zamierzasz mię zabić, tak jak zabiłeś Egipcjanina? Mojżesz zląkł się i pomyślał: Zapewne sprawa ta wyszła na jaw."
+       ]
+      },
+      {
+       "odnosnik": "Ps 133,1",
+       "przeklad": "BW",
+       "akapity": [
+        "Pieśń pielgrzymek. Dawidowa. O, jak dobrze i miło, Gdy bracia w zgodzie mieszkają!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pytanie Jezusa brzmi prawie tak samo jak pytanie rzucone kiedyś Mojżeszowi, gdy próbował rozsądzać dwóch kłócących się rodaków. **Dlaczego Jezus nie chce być takim sędzią?** Po co w takim razie przyszedł?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm o braciach mieszkających razem śpiewano w drodze na święta. **Czego potrzebowali ci dwaj bracia bardziej niż sprawiedliwego podziału?** Czy podział mógłby im to dać?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Pole obrodziło",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 12,16-17",
+       "przeklad": "BW",
+       "akapity": [
+        "I powiedział im podobieństwo: Pewnemu bogaczowi pole obfity plon przyniosło. I rozważał w sobie: Co mam uczynić, skoro nie mam już gdzie gromadzić plonów moich?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W pierwszym zdaniu przypowieści podmiotem jest pole, nie człowiek. **Skąd wziął się ten urodzaj? Co bogacz zrobił, żeby na niego zasłużyć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Błogosławieństwo staje się dla niego kłopotem, a pytanie „co mam uczynić\" zadaje sam sobie. **Kogo mógł zapytać?** Wypiszcie, kto w jego okolicy miałby coś do powiedzenia o nadwyżce zboża.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Co mówi o człowieku to, że w dniu największego powodzenia nie ma z kim porozmawiać?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Monolog",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 12,18-19",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł: Uczynię tak: Zburzę moje stodoły, a większe zbuduję i zgromadzę tam wszystko zboże swoje i dobra swoje. I powiem do duszy swojej: Duszo, masz wiele dóbr złożonych na wiele lat; odpocznij, jedz, pij, wesel się."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie te dwa wersety jeszcze raz i policzcie słowa „moje\", „swoje\", „swojej\". **Kogo w tym planie nie ma?** Wymieńcie wszystkich nieobecnych.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Plan jest logiczny i nikomu nie szkodzi. **Co w nim jest rozsądne? W którym miejscu rozsądek przechodzi w coś innego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Bogacz mówi do własnej duszy i obiecuje jej zboże. **Czym próbuje ją nakarmić?** Czego dusza potrzebuje, a czego nie da się złożyć w stodole?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W greckim tekście tych trzech wersetów „ja\" i „moje\" pada jedenaście razy. Do chwili, gdy odezwie się Bóg, w przypowieści nie ma ani jednej drugiej osoby. Bogacz nie jest karykaturą ani krzywdzicielem. Jest zwyczajny, a jego monolog brzmi jak rozmowa o zabezpieczeniu na starość. Dlatego ta przypowieść nie jest tylko o bogatych. Tę samą gramatykę można uprawiać w małym mieszkaniu, a obfitość, którą się gromadzi dla siebie, bywa także obfitością czasu albo umiejętności.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jeżeli Pan zechce",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jk 4,13-15",
+       "przeklad": "BW",
+       "akapity": [
+        "A teraz wy, którzy mówicie: Dziś albo jutro pójdziemy do tego lub owego miasta, zatrzymamy się tam przez jeden rok i będziemy handlowali i ciągnęli zyski, wy, którzy nie wiecie, co jutro będzie. Bo czymże jest życie wasze? Parą jesteście, która ukazuje się na krótko, a potem znika. Zamiast tego, winniście mówić: Jeżeli Pan zechce, będziemy żyli i zrobimy to lub owo."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakub nie zakazuje planowania ani handlu. **Co dokładnie poprawia w planie kupców?** Jak brzmiałby monolog bogacza po takiej poprawce?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Łukasz bawi się w tej przypowieści brzmieniem słów. Pole „obrodziło\", po grecku `euphoreō`. Bogacz chce się „weselić\", `euphrainō`. A Bóg nazywa go `aphrōn`, czyli bezrozumny. Trzy słowa brzmią podobnie, a ostatnie przekreśla dwa pierwsze. Tym samym słowem grecki przekład Starego Testamentu oddaje głupca z psalmu:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 14,1",
+       "przeklad": "BW",
+       "akapity": [
+        "Przewodnikowi chóru. Dawidowy. Głupi rzekł w sercu swoim: Nie ma Boga! Są znieprawieni, popełniają ohydne czyny. Nie ma nikogo, kto by dobrze czynił."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bogacz z przypowieści nigdzie nie mówi, że Boga nie ma. Po prostu nie uwzględnia Go w planach. **Czym różni się ateizm w poglądach od ateizmu w kalendarzu i w budżecie?** Który z nich łatwiej przeoczyć u siebie?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Tej nocy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 12,20-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Ale rzekł mu Bóg: Głupcze, tej nocy zażądają duszy twojej; a to, co przygotowałeś, czyje będzie? Tak będzie z każdym, który skarby gromadzi dla siebie, a nie jest w Bogu bogaty."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bogacz planował „wiele lat\". Bóg mówi: „tej nocy\". **Czego nie przewidział w swoim rachunku?** Dlaczego o tych dwóch rzeczach tak łatwo zapomnieć, kiedy wszystko się układa?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nie potępia stodół. Wskazuje kierunek: „dla siebie\" albo „w Bogu bogaty\". **Co według was znaczy być bogatym w Bogu?** Po czym to poznać na co dzień?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„A to, co przygotowałeś, czyje będzie?\" Wróćcie do wersetu 13. **Co najpewniej stanie się nad jego pełnymi stodołami?** Co Jezus mówi w ten sposób człowiekowi z tłumu?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To jedyna przypowieść Jezusa, w której odzywa się sam Bóg. Mówi językiem, który bogacz rozumiał najlepiej. Słowo oddane jako „zażądają\" było terminem z rachunków: tak mówiło się o zwrocie pożyczki, której termin minął. Dusza, do której bogacz przemawiał jak do swojej własności, była mu powierzona na czas. Tekst nie mówi, że Bóg go zabił ani że śmierć była karą za urodzaj. Mówi, że umarł człowiek, który w swoich planach nie zostawił miejsca ani dla Boga, ani dla śmierci.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nic z sobą nie weźmie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 49,17-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie bój się, gdy się ktoś bogaci, Gdy rośnie chwała domu jego, Bo gdy umrze, nic z sobą nie weźmie I nie pójdzie za nim chwała jego."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm zaczyna od słów „nie bój się\". **Czego boi się człowiek, który patrzy, jak inni się bogacą?** Co psalmista chce mu odebrać: zazdrość czy lęk?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co człowiek może zabrać ze sobą, skoro nie majątek?** Co z tego, co dziś budujecie, przetrwa „tę noc\"?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Spójrzcie na kruki",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jezus odwraca się od tłumu do uczniów. Pierwsze słowo, które do nich mówi, to „dlatego\".",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 12,22-24.32-34",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł do uczniów swoich: Dlatego powiadam wam: Nie troszczcie się o życie swoje, co będziecie jedli, ani o ciało swoje, czym się przyodziewać będziecie. Życie bowiem jest czymś więcej niż pokarm, a ciało niż odzienie. Spójrzcie na kruki, że nie sieją, ani żną, nie mają spichlerza ani składnicy, a jednak Bóg żywi je; o ileż więcej wy jesteście warci niż ptaki! [...]",
+        "Nie bój się, maleńka trzódko! Gdyż upodobało się Ojcu waszemu dać wam Królestwo. Sprzedajcie majętności swoje, a dawajcie jałmużnę. Uczyńcie sobie sakwy, które nie niszczeją, skarb niewyczerpany w niebie, gdzie złodziej nie ma przystępu, ani mól nie niszczy. Albowiem gdzie jest skarb wasz, tam będzie i serce wasze."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Kruki nie mają „spichlerza ani składnicy\". Jezus wybiera obraz dokładnie odwrotny do bogacza. **Co mają kruki, czego on nie miał?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bogacz gromadził, bo chciał mieć pewność na wiele lat. Jezus mówi: „Nie bój się\", bo Ojcu „upodobało się dać\". **Co leży pod gromadzeniem dla siebie i co według Jezusa jest na to lekarstwem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Gdzie jest skarb wasz, tam będzie i serce wasze\". **Gdzie było serce bogacza? Gdzie było serce człowieka z tłumu?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Bogaci w dobre uczynki",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Tm 6,17-19",
+       "przeklad": "BW",
+       "akapity": [
+        "Bogaczom tego świata nakazuj, ażeby się nie wynosili i nie pokładali nadziei w niepewnym bogactwie, lecz w Bogu, który nam ku używaniu wszystkiego obficie udziela, ażeby dobrze czynili, bogacili się w dobre uczynki, byli hojni i chętnie dzielili się z innymi, gromadząc sobie skarb jako dobry fundament na przyszłość, aby dostąpić żywota prawdziwego."
+       ]
+      },
+      {
+       "odnosnik": "2Kor 8,9",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem znacie łaskę Pana naszego Jezusa Chrystusa, że będąc bogatym, stał się dla was ubogim, abyście ubóstwem jego ubogaceni zostali."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nie każe bogatym przestać być bogatymi. Mówi, że Bóg udziela wszystkiego „ku używaniu\". **Co w takim razie im nakazuje?** Jak wyglądałby bogacz z przypowieści, gdyby posłuchał tego listu?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak wygląda gospodarowanie Jezusa własnym bogactwem w porównaniu z planem bogacza?** W którą stronę idzie ruch ręki u jednego i u drugiego?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Kruki były ptakami nieczystymi, których nie wolno było ani jeść, ani składać w ofierze. **Dlaczego Jezus wybrał właśnie je, a nie jakiegoś ładniejszego ptaka?** Co to mówi o tym, kogo Bóg karmi?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pomyślcie o okolicy bogacza, w której ktoś tamtego roku modlił się o chleb. **Czy to możliwe, że odpowiedź na tę modlitwę leżała w jego stodołach?** Co ten domysł zmienia w patrzeniu na własną nadwyżkę?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czy wolno odkładać na przyszłość",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jezus mówi „sprzedajcie majętności\" i opowiada o człowieku, którego zgubiły stodoły. Ta sama Biblia chwali przezorność.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 41,33-36",
+       "przeklad": "BW",
+       "akapity": [
+        "Niech więc faraon upatrzy teraz męża rozsądnego i mądrego i niech ustanowi go zarządcą całej ziemi egipskiej. Niech faraon działa i niech ustanowi namiestników nad krajem i zbiera piątą część urodzajów w ziemi egipskiej przez siedem lat obfitości. Niech nagromadzą wszelkiej żywności podczas tych dobrych lat, które nadejdą. Niech gromadzą zboże z polecenia faraona, niech składają po miastach żywność i przechowują ją. Żywność ta będzie zapasem dla kraju na siedem lat głodu, które nastaną w ziemi egipskiej, i kraj nie będzie wyniszczony przez głód."
+       ]
+      },
+      {
+       "odnosnik": "Rdz 41,47-49",
+       "przeklad": "BW",
+       "akapity": [
+        "A ziemia rodziła obficie przez siedem lat urodzaju. W tych siedmiu latach, które nastały w ziemi egipskiej, gromadził wszelką żywność i składał zapasy w miastach, składał w nich zbiory z okolicznych pól. Tak nagromadził Józef tyle zboża, jak piasku morskiego, tak wiele, że zaprzestano je mierzyć, bo nie można było go zmierzyć."
+       ]
+      },
+      {
+       "odnosnik": "Prz 6,6-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Idź do mrówki, leniwcze, przypatrz się jej postępowaniu, abyś zmądrzał. Nie ma ona wodza ani nadzorcy, ani władcy, a jednak w lecie przygotowuje swój pokarm, w żniwa zgromadza swoją żywność."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Chrześcijanie rozkładają tu akcenty różnie. Jedni czytają słowa Jezusa możliwie dosłownie i widzą w każdym gromadzeniu ponad potrzebę brak zaufania. Drudzy podkreślają, że Biblia chwali przezorność, że własność nie jest grzechem, a Abraham i Job byli zamożni. Oba stanowiska łączy to, co Jezus mówi w wersecie 21: rozstrzyga kierunek. Józef i bogacz budowali podobne spichlerze. Józef gromadził na cudzy głód. Bogacz gromadził na własną ucztę.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Po czym poznać, że moje oszczędzanie jest przezornością Józefa, a nie monologiem bogacza?** Spróbujcie podać dwa albo trzy praktyczne sprawdziany.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które z dwóch stanowisk jest wam bliższe i przed czym każde z nich chroni?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 11,24-26",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeden daje hojnie, lecz jeszcze więcej zyskuje; inny nadmiernie skąpi i staje się tylko uboższy. Kto jest dobroczynny, będzie wzbogacony, a kto innych pokrzepia, sam będzie pokrzepiony. Kto chowa zboże, tego ludzie przeklinają, lecz błogosławieństwo spoczywa na głowie tego, kto je sprzedaje."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przypowieści Salomona mówią o człowieku, który chowa zboże, i o tym, co myślą o nim sąsiedzi. **Co ten tekst dopowiada do historii bogacza?** Uważajcie na jedno: czy pierwsze zdanie jest obietnicą zysku, czy obserwacją życia?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak brzmi mój wewnętrzny monolog, kiedy planuję pieniądze, czas albo przyszłość?** Kto poza mną w nim występuje?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Obfitość to nie tylko pieniądze. **Czego mam dziś więcej, niż potrzebuję: czasu, umiejętności, miejsca w domu, doświadczenia?** Do kogo to mogło być zaadresowane?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest w twoim życiu spór o rzeczy, w którym wygrywasz majątek, a przegrywasz człowieka?** Nie musisz mówić, o kogo chodzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus nie podaje kwoty. Nie mówi, ile wolno mieć, ile odłożyć i od którego miejsca zaczyna się gromadzenie dla siebie. **Dlaczego tego nie robi?** Czy chrześcijanin w kraju zamożnym, gdzie nawet skromna emerytura jest bogactwem w oczach połowy świata, może uczciwie powiedzieć, że ta przypowieść nie jest o nim?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie podawaj własnej normy i nie pozwól, żeby ktoś podał ją innym. Warto, żeby padło spostrzeżenie, że Jezus zamiast kwoty daje pytanie o kierunek i o obecność innych w moich planach, a sumienia przy stole mogą na nie odpowiadać różnie.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Urodzaj jest przesyłką z adresem. Głupotą nie jest mieć, tylko planować tak, jakby poza mną nie było nikogo.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Łk 12,15 albo Łk 12,21.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Posłuchaj w tym tygodniu własnego monologu: tego, co mówisz sobie, gdy planujesz wydatki, urlop, pracę, starość. **Nie poprawiaj go. Zauważ tylko, kto w nim występuje, a kogo nie ma.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o jednej rzeczy, której masz więcej, niż potrzebujesz. Zapytaj Boga: **do kogo to było zaadresowane?** Zostań przy tym pytaniu, zanim cokolwiek postanowisz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli jesteś w sporze o majątek, o spadek, o to, co komu się należy, zapytaj siebie uczciwie: **czego chcę bardziej, swojej części czy brata?** Nie odpowiadaj od razu. Opowiedz Bogu o obu pragnieniach tak, jak jest.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś niedawno stracił bliskiego nagle i słyszy „tej nocy zażądają duszy twojej\".** Powiedz spokojnie, że przypowieść nie tłumaczy niczyjej śmierci i nie mówi, że nagła śmierć jest karą. Jezus opowiada o jednym wymyślonym człowieku, żeby zadać żyjącym pytanie o kierunek. Nie pozwól grupie szukać sensu w czyjejś stracie. Jeśli żałoba jest świeża, zostań z tą osobą po spotkaniu. Grupa towarzyszy i słucha, nie leczy. Przy myślach samobójczych nie zostawaj z tym sam: telefon zaufania dla dorosłych w kryzysie to 116 123, numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada o własnym sporze spadkowym i szuka sojuszników.** Wysłuchaj krótko, podziękuj i nie rozstrzygaj. Grupa nie zna drugiej strony i nie jest sądem, a Jezus w tej scenie sam odmówił takiej roli. Nie mów też, że ma zrezygnować ze swojej części, bo tego Jezus nie powiedział. W sprawach prawnych odeślij do prawnika. Wróć do pytania z bloku 1: czego ten człowiek potrzebuje najbardziej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli nie wolno oszczędzać ani mieć emerytury.\"** Tekst tego nie mówi. Jezus wskazuje kierunek, nie kwotę. Na poziomie 3 jest o tym blok Napięcie z historią Józefa. Możesz zapytać: „Co by się zmieniło w planie bogacza, gdyby pojawił się w nim ktokolwiek poza nim?\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Bogaci to złodzieje\" albo odwrotnie: „biedni są sami sobie winni\".** Przerwij spokojnie jedno i drugie. Bogacz z przypowieści nikogo nie okradł, a urodzaj nie był jego zasługą. Tekst nie daje podstaw ani do pogardy dla zamożnych, ani do oceniania ubogich. Jeśli rozmowa schodzi na podatki i politykę, wróć do wersetu 21.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Bóg błogosławi tym, którzy dają, więc dawajmy, a wróci z nawiązką.\"** To ta sama gramatyka co u bogacza, tylko pobożniejsza: daję, żeby mieć. Jezus mówi o byciu bogatym w Bogu, nie o inwestycji z gwarantowanym zwrotem. Nie kończ spotkania żadnym apelem o ofiary.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś, komu naprawdę nie starcza, słyszy „nie troszczcie się\".** Nie pouczaj o zaufaniu kogoś, kto liczy do pierwszego. Troska o chleb to nie chciwość. Jezus mówi te słowa do uczniów jako zaproszenie, a nie jako zarzut. Jeśli grupa może realnie pomóc, porozmawiajcie o tym po spotkaniu i dyskretnie. O utracie pracy jest osobny materiał w serii Kryzysy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o sobie: „to ja jestem tym głupcem, zmarnowałem życie na dorabianie się\".** Podziękuj za szczerość i nie potwierdzaj wyroku. Bogacz z przypowieści nie usłyszał pytania za życia. Człowiek, który je słyszy, jest w innym miejscu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Połącz bloki 2 i 3 w jedno czytanie. Bloki 3, 4 i 5 niosą całość: monolog, noc i kruki.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś niedawno stracił bliskiego nagle i słyszy „tej nocy zażądają duszy twojej\".",
+     "odpowiedz": "Powiedz spokojnie, że przypowieść nie tłumaczy niczyjej śmierci i nie mówi, że nagła śmierć jest karą. Jezus opowiada o jednym wymyślonym człowieku, żeby zadać żyjącym pytanie o kierunek. Nie pozwól grupie szukać sensu w czyjejś stracie. Jeśli żałoba jest świeża, zostań z tą osobą po spotkaniu. Grupa towarzyszy i słucha, nie leczy. Przy myślach samobójczych nie zostawaj z tym sam: telefon zaufania dla dorosłych w kryzysie to 116 123, numer alarmowy 112."
+    },
+    {
+     "sytuacja": "Ktoś opowiada o własnym sporze spadkowym i szuka sojuszników.",
+     "odpowiedz": "Wysłuchaj krótko, podziękuj i nie rozstrzygaj. Grupa nie zna drugiej strony i nie jest sądem, a Jezus w tej scenie sam odmówił takiej roli. Nie mów też, że ma zrezygnować ze swojej części, bo tego Jezus nie powiedział. W sprawach prawnych odeślij do prawnika. Wróć do pytania z bloku 1: czego ten człowiek potrzebuje najbardziej."
+    },
+    {
+     "sytuacja": "„Czyli nie wolno oszczędzać ani mieć emerytury.\"",
+     "odpowiedz": "Tekst tego nie mówi. Jezus wskazuje kierunek, nie kwotę. Na poziomie 3 jest o tym blok Napięcie z historią Józefa. Możesz zapytać: „Co by się zmieniło w planie bogacza, gdyby pojawił się w nim ktokolwiek poza nim?\""
+    },
+    {
+     "sytuacja": "„Bogaci to złodzieje\" albo odwrotnie: „biedni są sami sobie winni\".",
+     "odpowiedz": "Przerwij spokojnie jedno i drugie. Bogacz z przypowieści nikogo nie okradł, a urodzaj nie był jego zasługą. Tekst nie daje podstaw ani do pogardy dla zamożnych, ani do oceniania ubogich. Jeśli rozmowa schodzi na podatki i politykę, wróć do wersetu 21."
+    },
+    {
+     "sytuacja": "„Bóg błogosławi tym, którzy dają, więc dawajmy, a wróci z nawiązką.\"",
+     "odpowiedz": "To ta sama gramatyka co u bogacza, tylko pobożniejsza: daję, żeby mieć. Jezus mówi o byciu bogatym w Bogu, nie o inwestycji z gwarantowanym zwrotem. Nie kończ spotkania żadnym apelem o ofiary."
+    },
+    {
+     "sytuacja": "Ktoś, komu naprawdę nie starcza, słyszy „nie troszczcie się\".",
+     "odpowiedz": "Nie pouczaj o zaufaniu kogoś, kto liczy do pierwszego. Troska o chleb to nie chciwość. Jezus mówi te słowa do uczniów jako zaproszenie, a nie jako zarzut. Jeśli grupa może realnie pomóc, porozmawiajcie o tym po spotkaniu i dyskretnie. O utracie pracy jest osobny materiał w serii Kryzysy."
+    },
+    {
+     "sytuacja": "Ktoś mówi o sobie: „to ja jestem tym głupcem, zmarnowałem życie na dorabianie się\".",
+     "odpowiedz": "Podziękuj za szczerość i nie potwierdzaj wyroku. Bogacz z przypowieści nie usłyszał pytania za życia. Człowiek, który je słyszy, jest w innym miejscu."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Połącz bloki 2 i 3 w jedno czytanie. Bloki 3, 4 i 5 niosą całość: monolog, noc i kruki."
+    }
+   ]
+  }
+ ]
+}

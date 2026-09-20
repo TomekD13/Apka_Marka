@@ -1,0 +1,772 @@
+{
+ "tytul": "Dorosłe dzieci, starzejący się rodzice",
+ "id": "R-07",
+ "seria": "Relacje",
+ "opis": "Czcij i opuść: dwa słowa dla dorosłych, którzy mają własne życie i rodziców, którym ubywa sił.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Wj 20,12; Kpł 19,32; Prz 23,22; Rdz 2,24; Rdz 12,1; Mk 7,9-13; Rt 1,8-11.14-18; J 19,25-27",
+  "p2": "Ps 71,9.17-18; Mt 10,34-37; 1Tm 5,3-4.8; Rdz 47,7-12",
+  "p3": "Łk 14,26; Ps 27,10"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 30
+ },
+ "tagi": [
+  "relacje",
+  "rodzice",
+  "starość",
+  "opieka",
+  "przykazanie",
+  "małżeństwo"
+ ],
+ "wersja": 1,
+ "zdanie": "Można opuścić dom rodziców i nigdy nie opuścić ich samych.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przykazanie o rodzicach zwykle tłumaczy się dzieciom. Tymczasem pod Synajem stali dorośli, a ich rodzice byli już starzy. To spotkanie jest o ludziach dorosłych, którzy mają własne życie i rodziców, którym ubywa sił. Biblia mówi im dwie rzeczy naraz: czcij i opuść. Całe spotkanie rozgrywa się między tymi dwoma słowami. Czcić nie znaczy słuchać we wszystkim. Opuścić nie znaczy porzucić.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole mógł być przez rodzica krzywdzony: bity, poniżany, porzucony, wychowany przy alkoholu. Dla niego słowo „czcij\" brzmi jak żądanie, żeby udawał, że nic się nie stało. Przykazanie tego nie żąda. Przeczytaj pierwszą czerwoną flagę, zanim zaczniesz.",
+      "Ktoś właśnie opiekuje się chorym rodzicem i jest u kresu sił. Ktoś inny oddał ojca do domu opieki i nosi w sobie winę. Ktoś pochował matkę miesiąc temu i nie zdążył się pożegnać.",
+      "Rodzeństwo potrafi latami spierać się o to, kto robi więcej. Jeśli przy stole siedzą krewni, temat jest gorący.",
+      "Są też ludzie, których rodzice nie akceptują ich wiary albo ich kościoła."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie stawiaj nikogo za wzór dobrego syna ani dobrej córki. Nie oceniaj niczyich decyzji o opiece. Nie mów nikomu, że powinien się z rodzicem pogodzić. Pokrewne materiały, po które można sięgnąć osobno, to Przebaczenie, Pojednanie i Granice.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Kiedy byłeś dzieckiem, kto w twojej rodzinie zajmował się najstarszym pokoleniem? Powiedz jednym zdaniem, jak to wyglądało.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi, nie dopytuj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Przykazanie dla dorosłych",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 20,12",
+       "przeklad": "BW",
+       "akapity": [
+        "Czcij ojca swego i matkę swoją, aby długo trwały twoje dni w ziemi, którą Pan, Bóg twój, da tobie."
+       ]
+      },
+      {
+       "odnosnik": "Kpł 19,32",
+       "przeklad": "BW",
+       "akapity": [
+        "Przed siwą głową wstaniesz i będziesz szanował osobę starca; tak okażesz swoją bojaźń Bożą; Jam jest Pan."
+       ]
+      },
+      {
+       "odnosnik": "Prz 23,22",
+       "przeklad": "BW",
+       "akapity": [
+        "Słuchaj swojego ojca, bo on cię zrodził, i nie gardź swoją matką, dlatego że jest staruszką."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dziesięć przykazań usłyszeli dorośli ludzie stojący pod górą, nie dzieci. **Co zmienia się w tym przykazaniu, kiedy czytacie je jako słowo do czterdziestolatka, który ma siedemdziesięcioletnią matkę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Tekst mówi „czcij\". Nie mówi „słuchaj we wszystkim\", „zgadzaj się\" ani nawet „kochaj\". **Czym cześć różni się od każdej z tych trzech rzeczy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Przypowieści dodają powód pogardy: „dlatego że jest staruszką\". **Co takiego dzieje się między dzieckiem a rodzicem, gdy rodzic słabnie, że trzeba było to zapisać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W Dekalogu tylko dwa przykazania mówią, co robić, a nie czego nie robić: o dniu odpoczynku i o rodzicach. Zakaz wyznacza granicę i resztę pola zostawia wolną. Nakaz pozytywny nie ma górnej granicy, więc nie da się go odhaczyć. Warto też zauważyć, komu obiecano długie dni w ziemi: całemu ludowi. Każde pokolenie pokazuje następnemu, jak samo będzie kiedyś traktowane.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Głos z drugiej strony",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 71,9.17-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie odrzucaj mnie w czasie starości, Gdy ustanie siła moja, nie opuszczaj mnie! [...] Boże, uczyłeś mnie od młodości mojej, A ja aż dotąd oznajmiam cudowne sprawy twoje. Toteż i do starości, gdy już siwy będę, Nie opuszczaj mnie, Boże, Aż opowiem o ramieniu twoim temu pokoleniu, A wszystkim następnym o potędze twojej!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To modlitwa starego człowieka. **Czego on się boi? Wypiszcie to z tekstu.**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ten człowiek ma jeszcze coś do zrobienia: chce opowiedzieć. **Co z tego wynika dla sposobu, w jaki słuchamy starych rodziców, także wtedy, gdy mówią to samo po raz dziesiąty?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajski czasownik z przykazania, `kabbed`, pochodzi od rdzenia, który znaczy „być ciężkim, ważyć\". Czcić kogoś to dosłownie nadać mu wagę, traktować jak kogoś, kto się liczy. Tego samego rdzenia Biblia używa, gdy mówi o oddawaniu chwały Bogu. Forma czasownika opisuje postawę trwałą, nie pojedynczy gest.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co znaczyłoby „nadać wagę\" rodzicowi, z którym się nie zgadzasz?** Czy można komuś nadać wagę i jednocześnie powiedzieć mu „nie\"?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Opuści",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 2,24",
+       "przeklad": "BW",
+       "akapity": [
+        "Dlatego opuści mąż ojca swego i matkę swoją i złączy się z żoną swoją, i staną się jednym ciałem."
+       ]
+      },
+      {
+       "odnosnik": "Rdz 12,1",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Pan do Abrama: Wyjdź z ziemi swojej i od rodziny swojej, i z domu ojca swego do ziemi, którą ci wskażę."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "To samo Pismo, które każe czcić ojca i matkę, każe ich opuścić. **Jak te dwa zdania mieszczą się obok siebie? Co trzeba opuścić, a czego opuścić nie wolno?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Co dzieje się w domu, w którym jedno z małżonków nigdy nie opuściło rodziców?** A co dzieje się z rodzicami, gdy dziecko zrozumie „opuścić\" jako „porzucić\"?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Abram słyszy „wyjdź z domu ojca swego\" jako człowiek dorosły i żonaty. **Czy można mieszkać osobno i wciąż z domu ojca nie wyjść?** Po czym to poznać?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W tamtym świecie to kobieta odchodziła do domu męża, a mężczyzna zostawał przy swoim rodzie. Zdanie z Księgi Rodzaju mówi o mężczyźnie i idzie wbrew obyczajowi. Nie chodzi więc o przeprowadzkę. Chodzi o to, kto jest odtąd najbliższy i czyj głos waży najwięcej. Pierwsza lojalność dorosłego człowieka należy do współmałżonka, nie do przodków. Dla osób samotnych zostaje ta sama prawda w innej postaci: dorosłość zaczyna się od wyjścia spod władzy rodziców, nie spod ich godności.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Kolejność miłości",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 10,34-37",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie mniemajcie, że przyszedłem, przynieść pokój na ziemię; nie przyszedłem przynieść pokój, ale miecz. Bo przyszedłem poróżnić człowieka z jego ojcem i córkę z jej matką, i synową z jej teściową. Tak to staną się wrogami człowieka domownicy jego. Kto miłuje ojca albo matkę bardziej niż mnie, nie jest mnie godzien; i kto miłuje syna albo córkę bardziej niż mnie, nie jest mnie godzien."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus nie każe przestać miłować rodziców. Ustawia kolejność. **Co w tym tekście stoi na pierwszym miejscu, a co na drugim? Czy drugie miejsce to mało?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Są ludzie, których rodzice nie przyjęli ich decyzji o wierze. **Jak można nie ustąpić rodzicom w sprawie sumienia i jednocześnie nie przestać ich czcić?** Jak to wygląda w praktyce, przy świątecznym stole?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: „nie ma w nienawiści ojca\"",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Łukasz zapisał to samo zdanie Jezusa w ostrzejszej postaci.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 14,26",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeśli kto przychodzi do mnie, a nie ma w nienawiści ojca swego i matki, i żony, i dzieci, i braci, i sióstr, a nawet i życia swego, nie może być uczniem moim."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W mowie semickiej „miłować\" i „nienawidzić\" bywały parą słów do wyrażania pierwszeństwa: jedno stawiam wyżej, drugie niżej. Mateusz oddaje ten sam sens wprost: „bardziej niż mnie\". Jezus, który w Mk 7 broni przykazania o rodzicach przeciw pobożnym wykrętom, nie może w Łk 14 tego przykazania znosić.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Dlaczego Jezus użył tak ostrego słowa, skoro mógł powiedzieć łagodniej?** Co by się zgubiło, gdybyśmy mieli tylko wersję Mateusza?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Korban",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 7,9-13",
+       "przeklad": "BW",
+       "akapity": [
+        "I mówił im: Chytrze uchylacie przykazanie Boże, aby naukę swoją zachować. Albowiem Mojżesz rzekł: Czcij ojca swego i matkę swoją; oraz: Kto złorzeczy ojcu lub matce, niech śmierć poniesie. Wy zaś mówicie: Jeśliby człowiek rzekł ojcu albo matce: Korban, to znaczy: To, co się tobie ode mnie jako pomoc należy, jest darem na ofiarę, już nie pozwalacie mu nic więcej uczynić dla ojca czy matki; tak unieważniacie słowo Boże przez swoją naukę, którą przekazujecie dalej; i wiele tym podobnych rzeczy czynicie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Opiszcie własnymi słowami mechanizm, który Jezus tu odsłania.** Co człowiek zyskiwał, mówiąc rodzicom „Korban\"?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ten człowiek nie wygląda na złego syna. Wygląda na hojnego ofiarodawcę. **Jakie dzisiejsze „Korban\" pozwala dorosłemu dziecku czuć się w porządku?** Pomyślcie o pracy, o odległości, o własnej rodzinie, także o służbie w kościele.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus mówi o tym, co się rodzicom „jako pomoc należy\". **Jaka to była pomoc w świecie bez emerytur i szpitali? A jaka jest dziś, kiedy emerytura przychodzi na konto?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Korban znaczy „dar ofiarny\". Majątek objęty takim ślubem uchodził za przeznaczony dla świątyni i nie mógł już posłużyć rodzicom. Formułę tę znamy także z napisów z tamtej epoki, a późniejsza tradycja żydowska sama tę furtkę zamknęła. Jezus nie występuje przeciw darom na świątynię, skoro chwali grosz ubogiej wdowy. Występuje przeciw egoizmowi w szacie pobożności. W Jego ustach cześć ma bardzo konkretną treść: chleb na stole starych rodziców.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Najpierw własny dom",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Tm 5,3-4.8",
+       "przeklad": "BW",
+       "akapity": [
+        "Otaczaj szacunkiem wdowy, które rzeczywiście są wdowami. Jeżeli zaś która wdowa ma dzieci lub wnuki, to niech się one najpierw nauczą żyć zbożnie z własnym domem i oddawać rodzicom, co im się należy; to bowiem podoba się Bogu. [...] A jeśli kto o swoich, zwłaszcza o domowników nie ma starania, ten zaparł się wiary i jest gorszy od niewierzącego."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zbór w Efezie utrzymywał wdowy ze wspólnej kasy. **Kto według Pawła ma pierwszy obowiązek i dlaczego nie jest to zbór?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł mówi o „oddawaniu\" rodzicom. **Co dostaliśmy od rodziców takiego, czego nie da się oddać nikomu innemu?** A co, jeśli ktoś dostał bardzo mało?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Dokąd ty pójdziesz",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Noemi jest wdową i pochowała na obczyźnie obu synów. Wraca do Betlejem. Idą z nią dwie synowe, Moabitki, które po śmierci mężów nic już jej nie są winne.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rt 1,8-11.14-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy rzekła Noemi do obu swoich synowych: Idźcie, powróćcie każda do domu swej matki. Niech Pan okaże wam dobroć, jak wy okazałyście zmarłym i mnie. Niech Pan sprawi, aby każda z was znalazła dom u boku swojego męża; i pocałowała je. A wtedy one głośno zapłakały i rzekły do niej: My z tobą wrócimy do twojego ludu. Lecz Noemi odpowiedziała: Zawróćcie, córki moje! Po cóż macie iść ze mną? Czy mogę jeszcze urodzić synów, którzy by zostali waszymi mężami? [...]",
+        "Lecz one jeszcze głośniej zapłakały. Potem Orpa ucałowała swoją teściową, lecz Rut pozostała przy niej. Następnie rzekła Noemi: Oto twoja szwagierka wraca do swojego ludu i do swojego boga; zawróć i ty za swoją szwagierką. Lecz Rut odpowiedziała: Nie nalegaj na mnie, abym cię opuściła i odeszła od ciebie; albowiem dokąd ty pójdziesz i ja pójdę; gdzie ty zamieszkasz i ja zamieszkam; lud twój – lud mój, a Bóg twój – Bóg mój. Gdzie ty umrzesz, tam i ja umrę i tam pochowana będę. Niech mi uczyni Pan, cokolwiek zechce, a jednak tylko śmierć odłączy mnie od ciebie. Noemi, widząc, że tamta obstaje przy tym, aby iść z nią, zaniechała z nią dalszej rozmowy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Noemi trzy razy mówi „zawróćcie\". **Co to mówi o starszej kobiecie, która sama zwalnia młodsze z obowiązku wobec siebie?** Czego nie robi, choć mogłaby?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rut nie jest córką Noemi i żadne prawo jej przy niej nie trzyma. **Co w jej słowach pokazuje, że to wybór, a nie przymus?** Czym różni się opieka z wyboru od opieki z przymusu, dla opiekuna i dla tego, kim się opiekują?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Orpa płacze, całuje teściową i wraca do domu. Tekst jej nie potępia. **Dlaczego to ważne dla kogoś, kto nie może zrobić dla rodziców tyle, ile robi jego brat albo siostra?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To pierwsze słowa Rut w całej księdze. Jej zobowiązanie sięga dalej niż życie teściowej: „gdzie ty umrzesz, tam pochowana będę\" oznacza rezygnację z grobu we własnej ojczyźnie. Rut wzywa Pana na świadka, czyli składa przysięgę. Nie idzie do Betlejem po męża, bo Noemi właśnie jej wytłumaczyła, że tam go nie znajdzie. Idzie za starą kobietą, która nie ma jej nic do zaoferowania.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Oto matka twoja",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 19,25-27",
+       "przeklad": "BW",
+       "akapity": [
+        "A stały pod krzyżem Jezusa matka jego i siostra matki jego, Maria, żona Kleofasa, i Maria Magdalena. A gdy Jezus ujrzał matkę i ucznia, którego miłował, stojącego przy niej, rzekł do matki: Niewiasto, oto syn twój! Potem rzekł do ucznia: Oto matka twoja! I od owej godziny wziął ją ów uczeń do siebie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus umiera i jedną z ostatnich spraw, które załatwia, jest opieka nad matką. **Co to mówi o wadze, jaką przykazanie o rodzicach miało w Jego oczach?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nie może zająć się matką sam, więc powierza ją komuś zaufanemu. **Co ta scena mówi ludziom, którzy nie są w stanie opiekować się rodzicem osobiście?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Opieka nad Marią spada na kogoś spoza rodziny. **Jaką rolę może mieć zbór wobec starych ludzi, którzy nie mają nikogo bliskiego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jezus miał braci, ale Jan pisze wcześniej, że wtedy jeszcze w Niego nie wierzyli. W godzinie krzyża matka trafia do ucznia, który stoi tuż obok niej. Jezus nie uchyla obowiązku syna z powodu ważniejszej misji, choć trudno o ważniejszą niż ta. Wypełnia go do końca, tak jak może: znajduje człowieka i mówi to na głos przy świadkach.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Stary ojciec przed faraonem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 47,7-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem wprowadził Józef Jakuba, ojca swego i przedstawił go faraonowi, Jakub zaś pobłogosławił faraona. I rzekł faraon do Jakuba: Ile jest lat życia twego? Jakub powiedział faraonowi: Czas mojego pielgrzymowania wynosi sto trzydzieści lat. Krótki i zły był czas życia mojego i nie dosięgnął lat życia ojców moich w czasie ich pielgrzymowania. Potem pobłogosławił Jakub faraona i wyszedł od faraona. A Józef osiedlił ojca swego i braci swoich i dał im posiadłość w ziemi egipskiej, w najlepszej części kraju, w ziemi Ramses, jak rozkazał faraon. Józef zaopatrywał w chleb ojca swego i braci swoich, i cały dom ojca swego według liczby dzieci."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Józef jest drugim człowiekiem w Egipcie i przyprowadza na dwór starego pasterza z prowincji. **Co w tej scenie jest oddaniem czci? Wypiszcie konkretne gesty.**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakub podsumowuje swoje życie słowami „krótki i zły\". **Jak słuchać rodzica, który tak mówi o swoim życiu?** Co chce się wtedy odpowiedzieć, a co lepiej przemilczeć?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakub jawnie wyróżniał Józefa spośród synów i ta stronniczość rozbiła kiedyś rodzinę, a Józef zapłacił za nią latami niewoli. Teraz karmi ojca. **Czego Józef w tej scenie ojcu nie wypomina i co mimo wszystko dla niego robi?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Padły dziś trzy słowa: „czcij\", „opuści\" i „Korban\". **Które z nich dotyczy cię teraz najbardziej i dlaczego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co w twojej sytuacji znaczyłoby nadać rodzicom wagę, nie oddając im steru własnego życia?** Spróbuj nazwać jedną konkretną rzecz.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest coś, co chciałbyś jeszcze ojcu albo matce powiedzieć albo dla nich zrobić, póki jest czas?** A jeśli już nie żyją, co zostało niezałatwione?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 27,10",
+       "przeklad": "BW",
+       "akapity": [
+        "Choćby ojciec i matka mnie opuścili, Pan jednak mnie przygarnie."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przykazanie nie ma w tekście wyjątku dla złych rodziców. Ta sama Biblia wie jednak, że ojciec i matka potrafią opuścić, i nie każe dziecku udawać, że było inaczej. **Jak czcić rodzica, który krzywdził? Co jest najmniejszą rzeczą, która jeszcze jest czcią, i czego cześć na pewno nie wymaga?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie produkuj odpowiedzi. Warto, żeby padło, że cześć nie wymaga bliskości, nie wymaga milczenia o krzywdzie i nie wymaga narażania siebie ani własnych dzieci. Czasem jej całą treścią jest to, że nie odpłacam, nie poniżam i dbam o to, żeby stary człowiek miał opiekę, choćby cudzymi rękami.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Można opuścić dom rodziców i nigdy nie opuścić ich samych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Wj 20,12 albo Prz 23,22.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o ojcu i o matce, o każdym z osobna. Zapytaj siebie: **jaką wagę ma dziś w moim życiu jego głos, a jaką jej?** Za dużą czy za małą? Nie poprawiaj odpowiedzi, zanim ją usłyszysz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Znajdź swoje „Korban\", czyli zdanie, którym tłumaczysz sobie, dlaczego nie dzwonisz, nie jedziesz, nie pytasz. **Powiedz je Bogu takim, jakie jest.** Może się okazać uczciwym powodem, a może wykrętem. Przed Nim nie trzeba tego rozstrzygać na własną korzyść.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli rodzic żyje i rozmowa jest bezpieczna, zapytaj go o coś z jego życia, o co nigdy nie pytałeś, i wysłuchaj do końca. Jeśli nie żyje albo kontakt nie jest możliwy, powiedz Bogu to, czego nie zdążyłeś albo nie mogłeś powiedzieć jemu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi albo daje do zrozumienia, że rodzic go krzywdził.** To najważniejsza flaga tego spotkania. Powiedz jasno i przy wszystkich: czcić nie znaczy udawać, że krzywdy nie było, i nie znaczy wystawiać się na nią dalej. Przykazanie nie odbiera nikomu prawa do bezpiecznej odległości ani do ochrony własnych dzieci. Nie dopytuj o szczegóły i nie pozwól grupie radzić. Nie mów „ale to jednak matka\". Jeśli krzywda trwa albo ktoś jest w złym stanie, zostań z nim po spotkaniu i pomóż znaleźć pomoc specjalisty. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Moja matka wymaga wszystkiego i nic jej nie wystarcza.\"** Nie oceniaj ani matki, ani mówiącego. Wróć do bloku 2: Pismo, które każe czcić, każe też opuścić. Możesz zapytać: „Co w tym, czego ona oczekuje, jest czcią, a co byłoby już oddaniem jej steru?\" Więcej na ten temat jest w materiale Granice.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opiekuje się chorym rodzicem i jest wyczerpany albo czuje winę z powodu domu opieki.** Nie pocieszaj na siłę i nie chwal za bohaterstwo. Wskaż na blok 5: Jezus powierzył matkę komuś, bo sam nie mógł, i to było wypełnieniem przykazania, nie ucieczką od niego. Po spotkaniu zapytaj, czy grupa może pomóc w czymś konkretnym. Grupa nie doradza w sprawach medycznych ani prawnych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Spór o to, kto z rodzeństwa robi więcej.** Nie rozstrzygaj i nie dopuść, żeby rozstrzygała grupa. Orpa i Rut wybrały inaczej, a tekst nie potępia żadnej. Przesuń pytanie na pierwszą osobę: „Co ja mogę zrobić, niezależnie od tego, co robi brat?\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś niedawno pochował ojca albo matkę i mówi o wyrzutach sumienia.** Wysłuchaj, podziękuj, nie mów „zrobiłeś, co mogłeś\", jeśli tego nie wiesz. Ostatnia pozycja z bloku Do zrobienia jest napisana także dla niego. Jeśli żałoba jest świeża, pokrewnym materiałem jest Żałoba.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Rodzice nie mogą mi darować, że zmieniłem kościół.\"** To realny ból i częsta sytuacja. Poziom 2 ma na to tekst z Mt 10. Najkrócej: w sprawie sumienia można nie ustąpić i nadal wstawać przed siwą głową. Cześć okazuje się wtedy tonem, cierpliwością i obecnością, nie zgodą.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na rolę Marii w Kościele.** Przy stole mogą siedzieć katolicy i osoby, dla których to ważne. Nie polemizuj. Zostańcie przy scenie: umierający syn zabezpiecza matkę. Pytanie o Marię można podjąć przy innej okazji.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 4. Bloki 1, 2 i 3 niosą napięcie między „czcij\", „opuści\" i „Korban\", a blok 5 je zamyka.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś mówi albo daje do zrozumienia, że rodzic go krzywdził.",
+     "odpowiedz": "To najważniejsza flaga tego spotkania. Powiedz jasno i przy wszystkich: czcić nie znaczy udawać, że krzywdy nie było, i nie znaczy wystawiać się na nią dalej. Przykazanie nie odbiera nikomu prawa do bezpiecznej odległości ani do ochrony własnych dzieci. Nie dopytuj o szczegóły i nie pozwól grupie radzić. Nie mów „ale to jednak matka\". Jeśli krzywda trwa albo ktoś jest w złym stanie, zostań z nim po spotkaniu i pomóż znaleźć pomoc specjalisty. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, numer alarmowy 112."
+    },
+    {
+     "sytuacja": "„Moja matka wymaga wszystkiego i nic jej nie wystarcza.\"",
+     "odpowiedz": "Nie oceniaj ani matki, ani mówiącego. Wróć do bloku 2: Pismo, które każe czcić, każe też opuścić. Możesz zapytać: „Co w tym, czego ona oczekuje, jest czcią, a co byłoby już oddaniem jej steru?\" Więcej na ten temat jest w materiale Granice."
+    },
+    {
+     "sytuacja": "Ktoś opiekuje się chorym rodzicem i jest wyczerpany albo czuje winę z powodu domu opieki.",
+     "odpowiedz": "Nie pocieszaj na siłę i nie chwal za bohaterstwo. Wskaż na blok 5: Jezus powierzył matkę komuś, bo sam nie mógł, i to było wypełnieniem przykazania, nie ucieczką od niego. Po spotkaniu zapytaj, czy grupa może pomóc w czymś konkretnym. Grupa nie doradza w sprawach medycznych ani prawnych."
+    },
+    {
+     "sytuacja": "Spór o to, kto z rodzeństwa robi więcej.",
+     "odpowiedz": "Nie rozstrzygaj i nie dopuść, żeby rozstrzygała grupa. Orpa i Rut wybrały inaczej, a tekst nie potępia żadnej. Przesuń pytanie na pierwszą osobę: „Co ja mogę zrobić, niezależnie od tego, co robi brat?\""
+    },
+    {
+     "sytuacja": "Ktoś niedawno pochował ojca albo matkę i mówi o wyrzutach sumienia.",
+     "odpowiedz": "Wysłuchaj, podziękuj, nie mów „zrobiłeś, co mogłeś\", jeśli tego nie wiesz. Ostatnia pozycja z bloku Do zrobienia jest napisana także dla niego. Jeśli żałoba jest świeża, pokrewnym materiałem jest Żałoba."
+    },
+    {
+     "sytuacja": "„Rodzice nie mogą mi darować, że zmieniłem kościół.\"",
+     "odpowiedz": "To realny ból i częsta sytuacja. Poziom 2 ma na to tekst z Mt 10. Najkrócej: w sprawie sumienia można nie ustąpić i nadal wstawać przed siwą głową. Cześć okazuje się wtedy tonem, cierpliwością i obecnością, nie zgodą."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na rolę Marii w Kościele.",
+     "odpowiedz": "Przy stole mogą siedzieć katolicy i osoby, dla których to ważne. Nie polemizuj. Zostańcie przy scenie: umierający syn zabezpiecza matkę. Pytanie o Marię można podjąć przy innej okazji."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 4. Bloki 1, 2 i 3 niosą napięcie między „czcij\", „opuści\" i „Korban\", a blok 5 je zamyka."
+    }
+   ]
+  }
+ ]
+}

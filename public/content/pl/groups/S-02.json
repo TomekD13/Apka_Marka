@@ -1,0 +1,692 @@
+{
+ "tytul": "Dzień, który był na początku",
+ "id": "S-02",
+ "seria": "Szabat jako dar",
+ "opis": "Pierwszy pełny dzień człowieka był dniem odpoczynku po pracy, którą wykonał Ktoś inny.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Rdz 1,31; 2,1-3; Wj 16,22-30; Wj 20,8-11; Mk 2,27; Iz 56,3-7",
+  "p2": "Wj 16,4-5; Ps 92,1.5-6; Iz 66,22-23",
+  "p3": "Rdz 2,2-3; Wj 16,29; Ne 9,13-14; Wj 31,12-13; Rdz 26,5"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 80,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 16,
+  "p2": 22,
+  "p3": 26
+ },
+ "tagi": [
+  "szabat",
+  "stworzenie",
+  "łaska",
+  "odpoczynek",
+  "manna"
+ ],
+ "wersja": 1,
+ "zdanie": "Pierwszy pełny dzień człowieka był dniem odpoczynku. Bóg zaczyna od daru, nie od normy.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Większość z nas żyje według zasady: najpierw zapracuj, potem odpocznij. Biblia zaczyna odwrotnie. Pierwszy pełny dzień, jaki człowiek przeżył, był dniem odpoczynku po pracy, którą wykonał ktoś inny. To spotkanie idzie za szabatem od ogrodu, przez pustynię, do Synaju i pyta, co ten dzień mówi o Bogu, zanim cokolwiek powie o obowiązku.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Opis stworzenia potrafi w minutę zamienić się w spór o wiek ziemi i długość dni. To nie jest temat tego spotkania. Tekst pyta dziś, po co był siódmy dzień, a nie ile trwały pozostałe.",
+      "Przy stole mogą siedzieć chrześcijanie świętujący niedzielę. Nie są tu stroną w procesie. Czytamy, co mówią teksty, i zostawiamy ludziom czas.",
+      "Ktoś wychowany w domu, gdzie szabat był listą zakazów, może reagować na sam temat niechęcią. Ma do tego prawo. O praktyce świętowania jest osobne spotkanie: „Rozkosz, nie ciężar\".",
+      "Pytanie „dla kogo jest szabat\" łatwo zsuwa się w mówienie o Żydach w tonie wyższości. Pilnuj tego."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie wygrywaj dyskusji. Nie podsumowuj spotkania wnioskiem, którego grupa sama nie wypowiedziała. Nie oceniaj niczyjej praktyki religijnej.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Dokończ zdanie jednym zwrotem: „Odpocznę, kiedy...\"",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi. Zapamiętaj je, bo przydadzą się przy pierwszym bloku.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Pierwszy pełny dzień",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 1,31",
+       "przeklad": "BW",
+       "akapity": [
+        "I spojrzał Bóg na wszystko, co uczynił, a było to bardzo dobre. I nastał wieczór, i nastał poranek – dzień szósty."
+       ]
+      },
+      {
+       "odnosnik": "Rdz 2,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "Tak zostały ukończone niebo i ziemia oraz cały ich zastęp. I ukończył Bóg w siódmym dniu dzieło swoje, które uczynił, i odpoczął dnia siódmego od wszelkiego dzieła, które uczynił. I pobłogosławił Bóg dzień siódmy, i poświęcił go, bo w nim odpoczął od wszelkiego dzieła swego, którego Bóg dokonał w stworzeniu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wypiszcie wszystko, co Bóg robi z siódmym dniem i w siódmym dniu. **Czego w tych trzech wersetach nie ma, a czego byście się spodziewali?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Człowiek został stworzony szóstego dnia, pod sam koniec. **Jaki był w takim razie jego pierwszy pełny dzień życia? Co zdążył zrobić, zanim dostał odpoczynek?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Bóg błogosławi i poświęca nie miejsce ani przedmiot, tylko dzień. **Co to znaczy, że święty jest czas? Co można zrobić z czasem, czego nie da się zrobić z budynkiem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Odpoczynek siódmego dnia jest podwójnie nie na miejscu. Odpoczywa Bóg, który się nie męczy. Odpoczywają z Nim ludzie, którzy nie przepracowali ani godziny, bo cały tydzień ktoś pracował za nich, zanim się pojawili. Trudno o prostszy obraz łaski: człowiek zaczyna od przyjęcia gotowego, a dopiero potem idzie uprawiać ogród. W świecie Biblii kolejność brzmi „odpocznij, potem pracuj\", a nie odwrotnie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W Rdz 2,2-3 nie ma rzeczownika „szabat\". Jest tylko czasownik `szabat`, czyli „przestał, odpoczął\", od którego nazwa dnia pochodzi. Rzeczownik pojawi się w Biblii po raz pierwszy dopiero w opowiadaniu o mannie.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Druga obserwacja dotyczy tego, czego brakuje. Każdy z sześciu dni kończy się zdaniem „i nastał wieczór, i nastał poranek\". Siódmy dzień takiego zamknięcia nie ma. Czytelnicy żydowscy i chrześcijańscy od starożytności widzieli w tym znak, że odpoczynek Boga pozostaje otwarty i że można do niego wejść.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co się zmienia w rozumieniu szabatu, jeśli najpierw jest on czymś, co Bóg robi, a dopiero potem nazwą dnia w kalendarzu?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Chleb na dwa dni",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Lud wyszedł z Egiptu kilka tygodni wcześniej. Nie dotarł jeszcze pod Synaj i nie słyszał Dziesięciu Przykazań. Na pustyni brakuje jedzenia i Bóg zaczyna dawać mannę.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 16,22-30",
+       "przeklad": "BW",
+       "akapity": [
+        "Szóstego dnia zbierali pokarm w dwójnasób, po dwa omery na każdego. Wtedy przyszli wszyscy przełożeni zboru i donieśli o tym Mojżeszowi. A on rzekł do nich: Tak powiedział Pan: Jutro będzie wypoczynek, poświęcony Panu, dzień sabatu. Upieczcie, co macie upiec, ugotujcie, co macie ugotować. Lecz wszystko, co zbędzie, przechowajcie do następnego rana. I przechowali to do następnego rana, jak rozkazał Mojżesz, i nie zacuchnęło to ani też nie było w tym robactwa. I rzekł Mojżesz: Zjedzcie to dzisiaj, gdyż dzisiaj jest sabat Pana; dzisiaj nie znajdziecie tego na polu. Przez sześć dni będziecie to zbierać, ale dnia siódmego jest sabat. W tym dniu tego nie będzie. A dnia siódmego wyszli niektórzy z ludu, aby zbierać, lecz nic nie znaleźli. I rzekł Pan do Mojżesza: Jak długo będziecie się wzbraniali przestrzegać moich przykazań i moich praw? Patrzcie! Pan dał wam sabat. Dlatego daje wam też dnia szóstego chleb na dwa dni. Zostańcie każdy na swoim miejscu, niechaj nikt w siódmy dzień nie opuszcza swego miejsca. Odpoczywał więc lud dnia siódmego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "To dzieje się przed Synajem. **Jak tekst mówi o szabacie: jak o nowości, którą trzeba dopiero ogłosić, czy jak o czymś, co już jest? Po czym to poznajecie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie jeszcze raz werset 29: Pan dał dzień odpoczynku i dlatego daje szóstego dnia chleb na dwa dni. **Co Bóg musi zrobić, żeby człowiek mógł odpocząć bez strachu? Czego uczy się ktoś, kto siódmego dnia nie idzie zbierać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Niektórzy mimo wszystko wyszli z koszami. **Co nimi kierowało? Byli dopiero co niewolnikami. Co niewola robi z umiejętnością odpoczywania?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Bóg uczy szabatu nie wykładem, tylko sposobem podawania jedzenia. W zwykłe dni manna zostawiona na noc psuła się i cuchnęła. W noc szabatową zostawała świeża, i tak co tydzień przez czterdzieści lat. W części o szabacie jest kilka poleceń o przygotowaniu, ale sam dzień dostaje tylko jedno: „zjedzcie\". Warto też zauważyć, że szóstego dnia przełożeni są zaskoczeni podwójną porcją, ale nikt nie pyta, czym jest szabat.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Próba przed darem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 16,4-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Na to rzekł Pan do Mojżesza: Oto Ja spuszczę wam jako deszcz chleb z nieba! I wyjdzie lud, i będzie codziennie zbierał, ile mu potrzeba, abym go doświadczył, czy chce postępować według prawa mojego, czy też nie. Lecz gdy szóstego dnia przygotują to, wtedy to, co przyniosą, będzie podwójną ilością tego, co zbierają codziennie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg mówi o „prawie moim\", zanim dał przykazania na Synaju. **Co to mówi o tym, skąd lud znał rytm sześciu dni i siódmego?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zbierać codziennie tyle, ile potrzeba, i nie więcej. **Na czym polega ta próba? Co jest w niej trudniejsze: praca przez sześć dni czy zaufanie siódmego?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W wersecie 29 Mojżesz używa tego samego czasownika „dać\" w dwóch formach. Pan szabat „dał\": to forma dokonana, czynność zamknięta w przeszłości. Pan „daje\" chleb na dwa dni: to forma opisująca czynność, która trwa i się powtarza. Dar dnia jest wcześniejszy niż pustynia, a podtrzymywanie tego daru odbywa się co tydzień.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W tym samym rozdziale po raz pierwszy w Biblii pada rzeczownik „szabat\". Nazwa dnia rodzi się w opowiadaniu o jedzeniu, a nie w kodeksie prawa.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Pamiętaj",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 20,8-11",
+       "przeklad": "BW",
+       "akapity": [
+        "Pamiętaj o dniu sabatu, aby go święcić. Sześć dni będziesz pracował i wykonywał wszelką swoją pracę, ale siódmego dnia jest sabat Pana, Boga twego: Nie będziesz wykonywał żadnej pracy ani ty, ani twój syn, ani twoja córka, ani twój sługa, ani twoja służebnica, ani twoje bydło, ani obcy przybysz, który mieszka w twoich bramach. Gdyż w sześciu dniach uczynił Pan niebo i ziemię, morze i wszystko, co w nich jest, a siódmego dnia odpoczął. Dlatego Pan pobłogosławił dzień sabatu i poświęcił go."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przykazanie nie zaczyna się od „poznaj\" ani od „odtąd\", tylko od „pamiętaj\". **O czym zapomina człowiek, który nigdy się nie zatrzymuje? O sobie, o innych, o Bogu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przykazanie samo podaje swój powód. **Dokąd odsyła? Porównajcie werset 11 z tym, co czytaliście w pierwszym bloku.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Prawie wszystkie przykazania Dekalogu zaczynają się od „nie będziesz\". To jedno z dwóch, które mówią, co robić. **Jaką różnicę robi to, że przykazanie zaczyna się od zaproszenia, a nie od zakazu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Dzień wynika z obrotu ziemi, miesiąc z faz księżyca, rok z obiegu wokół słońca. Tygodnia nie wyznacza nic na niebie. Siedmiodniowy rytm nie ma źródła w przyrodzie i przykazanie wskazuje jedyne, jakie zna: tak pracował i tak odpoczął Bóg. Kto co siedem dni się zatrzymuje, ten odtwarza w swoim kalendarzu pierwszą stronę Biblii i przyznaje, że świat ma Autora, a on sam nim nie jest.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pieśń na ten dzień",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 92,1.5-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Psalm. Pieśń na dzień sabatu. [...] Bo rozweseliłeś mnie, Panie, czynami twymi, Raduję się z dzieł rąk twoich. Jakże wielkie są dzieła twoje, Panie, Bardzo głębokie są myśli twoje!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To jedyny psalm z takim nagłówkiem. **O czyich dziełach śpiewa człowiek w dzień, w którym sam nie pracuje?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jaki nastrój ma ta pieśń? Porównajcie go z obrazem szabatu, z jakim przyszliście na to spotkanie.**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Dla kogo",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 2,27",
+       "przeklad": "BW",
+       "akapity": [
+        "Ponadto rzekł im: Sabat jest ustanowiony dla człowieka, a nie człowiek dla sabatu."
+       ]
+      },
+      {
+       "odnosnik": "Iz 56,3-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Niech więc nie mówi cudzoziemiec, który przystał do Pana: Pan na pewno wykluczy mnie ze swojego ludu, i niech nie mówi trzebieniec: Patrzcie, jestem tylko uschłym drzewem. Bo tak mówi Pan: Trzebieńcom, którzy przestrzegają sabatu i wybierają to, w czym mam upodobanie, i trzymają się mojego przymierza, przyznam w moim domu i w obrębie moich murów miejsce i dam im imię lepsze niż mają synowie i córki, imię wieczne, które nie będzie starte. Cudzoziemców zaś, którzy przystali do Pana, aby mu służyć i aby miłować imię Pana, być jego sługami, wszystkich, którzy przestrzegają sabatu, nie bezczeszcząc go, i trzymają się mojego przymierza, wprowadzę na moją świętą górę i sprawię im radość w moim domu modlitwy. Ich całopalenia i ich rzeźne ofiary będą mi miłe na moim ołtarzu, gdyż mój dom będzie zwany domem modlitwy dla wszystkich ludów."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi, że szabat został ustanowiony „dla człowieka\". **Do której chwili w historii odsyła słowo „ustanowiony\"? Kim był wtedy „człowiek\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Izajasz wymienia dwie grupy ludzi przekonanych, że są poza nawiasem: cudzoziemca i trzebieńca, czyli mężczyznę okaleczonego, który nie mógł mieć dzieci ani wejść do świątyni. **Co każdy z nich mówi o sobie? Co Bóg odpowiada każdemu z nich?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus ustawia kolejność: dzień jest dla człowieka, a nie człowiek dla dnia. **Jak wygląda dzień odpoczynku, kiedy człowiek jest dla niego? Jak wygląda, kiedy on jest dla człowieka?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Kto dziś mówi o sobie „Pan na pewno wykluczy mnie ze swojego ludu\"? Co słowa Izajasza znaczyłyby dla takiej osoby?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Greckie słowo użyte przez Marka oznacza człowieka w ogóle, a nie członka jednego narodu. Jezus nie mówi, że szabat ustanowiono dla Izraela, tylko dla ludzi. Zgadza się to z pierwszym blokiem: w ogrodzie nie było jeszcze ani Izraela, ani innych narodów. Izajasz idzie w tę samą stronę i jako przykłady podaje akurat tych, którym ówczesne przepisy zamykały drogę do świątyni.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Na końcu tak jak na początku",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 66,22-23",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo jak nowe niebo i nowa ziemia, które Ja stworzę, ostaną się przede mną – mówi Pan – tak ostoi się wasze potomstwo i wasze imię. I będzie tak, że w każdy nów i w każdy sabat przychodzić będzie każdy człowiek, aby mi oddać pokłon – mówi Pan."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Szabat stoi na pierwszej stronie Biblii, przed grzechem, i w obrazie nowej ziemi, po nim. **Co to mówi o tym, czy ten dzień jest lekarstwem na jakiś problem, czy częścią dobrego świata?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Każdy człowiek\". **Jak to zdanie ma się do słów Jezusa z Ewangelii Marka?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wróćcie do zdań z otwarcia: „Odpocznę, kiedy...\". **Jak brzmiałoby to zdanie, gdyby naprawdę zaczynać od odpoczynku, tak jak pierwszy człowiek?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ludzie z koszami wyszli siódmego dnia szukać manny. **Co jest twoim koszem? Po co wychodzisz, chociaż dostałeś już na dwa dni?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy umiesz przyjąć coś, na co nie zapracowałeś? Jak to wygląda w twojej relacji z Bogiem?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: od stworzenia czy od Synaju",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Wśród chrześcijan funkcjonują dwa odczytania. Według pierwszego szabat jest darem dla ludzkości od stworzenia. Według drugiego jest znakiem danym Izraelowi na Synaju, bo w Rdz 2 nie pada żaden nakaz dla człowieka, a inne teksty mówią o szabacie jako o czymś ogłoszonym Izraelowi:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ne 9,13-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem zstąpiłeś na górę Synaj i rozmawiałeś z nimi z niebios, i dałeś im prawe ustawy, nauki prawdziwe, dobre przepisy i przykazania. Ogłosiłeś im swój święty sabat, nadałeś im przykazania, przepisy i naukę przez Mojżesza, swego sługę."
+       ]
+      },
+      {
+       "odnosnik": "Wj 31,12-13",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Pan do Mojżesza: Powiedz synom izraelskim: Zaiste, przestrzegać będziecie sabatów moich, gdyż to jest znakiem między mną a wami po wszystkie pokolenia wasze, abyście wiedzieli, żem Ja Pan, który was poświęcam."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Obie strony zgadzają się co do dwóch rzeczy: że Bóg siódmego dnia odpoczął, pobłogosławił ten dzień i poświęcił go, oraz że odpoczynek jest Jego darem, a nie sposobem na zasłużenie czegokolwiek.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy brak nakazu w Rdz 2 znaczy, że dzień nie był dla człowieka?** Weźcie pod uwagę, że w Rdz 2 Bóg niczego człowiekowi nie nakazuje także w sprawie małżeństwa, a pobłogosławić i poświęcić dzień można tylko dla kogoś.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nehemiasz mówi, że Bóg szabat „ogłosił\" pod Synajem, a manna spadała w rytmie szabatu, zanim lud pod Synaj dotarł. **Jak pogodzić te dwa teksty? Czy można ogłosić coś, co już istnieje?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Księga Rodzaju opowiada długo o Noem, Abrahamie, Izaaku i Jakubie i ani razu nie wspomina, że obchodzili szabat. O Abrahamie mówi tylko ogólnie, że strzegł „przykazań moich, przepisów moich i praw moich\" (Rdz 26,5). **Co zrobić z tym milczeniem? Czego milczenie tekstu dowodzi, a czego nie?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "materiał celowo nie daje tu odpowiedzi. Uczciwie będzie powiedzieć, że z milczenia nie da się wyczytać ani tego, że patriarchowie szabat obchodzili, ani tego, że go nie znali.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pierwszy pełny dzień człowieka był dniem odpoczynku. Bóg zaczyna od daru, nie od normy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Rdz 2,3 albo Mk 2,27.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Zwróć w tym tygodniu uwagę na chwilę, w której mówisz sobie „najpierw muszę\". Zapytaj siebie: **skąd wiem, że najpierw muszę? Kto mnie tego nauczył?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Znajdź kwadrans, w którym niczego nie wytwarzasz i niczego nie nadrabiasz. Zobacz, co się wtedy w tobie odzywa: spokój, niepokój, poczucie winy. Powiedz o tym Bogu takimi słowami, jakie masz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** zapytaj siebie uczciwie, ile byłbyś wart we własnych oczach, gdybyś przez dłuższy czas nie mógł nic robić. Potem zapytaj o to samo Boga.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„To Bóg się zmęczył?\"** Dobre pytanie i warto je oddać grupie: „Skoro się nie męczy, to po co odpoczął i dla kogo pobłogosławił dzień?\" Tekst nie mówi o zmęczeniu, tylko o ukończeniu dzieła i o dniu, który Bóg dzieli z człowiekiem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa skręca w wiek ziemi, ewolucję albo długość dni stworzenia.** Przerwij życzliwie: „To ważne pytania, ale nie rozstrzygniemy ich dziś i nie od nich zależy to, o co pyta ten tekst. Wróćmy do siódmego dnia\". Jeśli temat wraca, zaproponuj osobne spotkanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Szabat jest dla Żydów, my mamy niedzielę.\"** Nie polemizuj z osobą. Wróć do tekstów: „Zobaczmy jeszcze raz, komu według Rdz 2 i Mk 2,27 ten dzień został dany\". Jeśli ktoś chce rozmawiać o tym, jak doszło do świętowania niedzieli, powiedz, że to temat historyczny na inną rozmowę, i zaproponuj ją po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś z długim stażem mówi z satysfakcją: „No właśnie, a inni tego nie rozumieją.\"** Zmień kierunek: „Ludzie z koszami też byli w obozie i znali zasady. Gdzie my wychodzimy z koszem?\" Szabat nie służy tu do oceniania nikogo, także nieobecnych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada, że w jego domu sobota była dniem zakazów i nudy.** Nie broń jego rodziców ani ich nie oskarżaj. Powiedz, że to częste doświadczenie i że Jezus spierał się właśnie z takim przeżywaniem tego dnia. Możesz dodać, że jest o tym osobne spotkanie: „Rozkosz, nie ciężar\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu, zanim cokolwiek dodasz. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa rozkręca się tak, że nie zdążycie z materiałem.** Zostaw blok 3 i idź do bloku 4 oraz zastosowania. Bloki 1 i 2 niosą główną myśl spotkania, a blok 4 odpowiada na pytanie, które i tak padnie.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„To Bóg się zmęczył?\"",
+     "odpowiedz": "Dobre pytanie i warto je oddać grupie: „Skoro się nie męczy, to po co odpoczął i dla kogo pobłogosławił dzień?\" Tekst nie mówi o zmęczeniu, tylko o ukończeniu dzieła i o dniu, który Bóg dzieli z człowiekiem."
+    },
+    {
+     "sytuacja": "Rozmowa skręca w wiek ziemi, ewolucję albo długość dni stworzenia.",
+     "odpowiedz": "Przerwij życzliwie: „To ważne pytania, ale nie rozstrzygniemy ich dziś i nie od nich zależy to, o co pyta ten tekst. Wróćmy do siódmego dnia\". Jeśli temat wraca, zaproponuj osobne spotkanie."
+    },
+    {
+     "sytuacja": "„Szabat jest dla Żydów, my mamy niedzielę.\"",
+     "odpowiedz": "Nie polemizuj z osobą. Wróć do tekstów: „Zobaczmy jeszcze raz, komu według Rdz 2 i Mk 2,27 ten dzień został dany\". Jeśli ktoś chce rozmawiać o tym, jak doszło do świętowania niedzieli, powiedz, że to temat historyczny na inną rozmowę, i zaproponuj ją po spotkaniu."
+    },
+    {
+     "sytuacja": "Ktoś z długim stażem mówi z satysfakcją: „No właśnie, a inni tego nie rozumieją.\"",
+     "odpowiedz": "Zmień kierunek: „Ludzie z koszami też byli w obozie i znali zasady. Gdzie my wychodzimy z koszem?\" Szabat nie służy tu do oceniania nikogo, także nieobecnych."
+    },
+    {
+     "sytuacja": "Ktoś opowiada, że w jego domu sobota była dniem zakazów i nudy.",
+     "odpowiedz": "Nie broń jego rodziców ani ich nie oskarżaj. Powiedz, że to częste doświadczenie i że Jezus spierał się właśnie z takim przeżywaniem tego dnia. Możesz dodać, że jest o tym osobne spotkanie: „Rozkosz, nie ciężar\"."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu, zanim cokolwiek dodasz. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Rozmowa rozkręca się tak, że nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3 i idź do bloku 4 oraz zastosowania. Bloki 1 i 2 niosą główną myśl spotkania, a blok 4 odpowiada na pytanie, które i tak padnie."
+    }
+   ]
+  }
+ ]
+}

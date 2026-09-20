@@ -1,0 +1,632 @@
+{
+ "tytul": "Lęk",
+ "id": "E-02",
+ "seria": "Emocje",
+ "opis": "Biblia mówi „nie bój się” setki razy, bo wie, że się boimy. Kto w lęku ma ostatnie słowo?",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Lb 13,30-33; Mk 4,37-41; Mt 14,28-31; Mt 10,28-31; 1J 4,18; Flp 4,6-7",
+  "p2": "Lb 14,1-4; 2Krl 6,15-17; Ps 56,4-5; Iz 41,10",
+  "p3": "Pwt 31,6; Ps 111,10"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 17,
+  "p2": 22,
+  "p3": 25
+ },
+ "tagi": [
+  "emocje",
+  "zaufanie",
+  "odwaga",
+  "troska"
+ ],
+ "wersja": 1,
+ "zdanie": "Wiara nie usuwa lęku. Odbiera mu ostatnie słowo.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Spotkanie nie jest o tym, żeby przestać się bać. Biblia mówi „nie bój się\" setki razy właśnie dlatego, że ludzie się boją i będą się bać. Chodzi o to, kto w tym lęku ma ostatnie słowo.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole może mieć zaburzenia lękowe albo ataki paniki. To nie jest słaba wiara i nie jest to problem do rozwiązania w salonie. Nie obiecuj, że modlitwa zastąpi leczenie.",
+      "Temat łatwo zsuwa się na katastrofy, politykę i koniec świata. Wracaj do tekstu.",
+      "Ktoś może właśnie teraz czekać na wynik badania albo bać się o dziecko. Nie rób z tego przykładu."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie mów nikomu, że powinien się modlić więcej. Nie stawiaj tezy, że lęk to grzech. Nie pocieszaj zdaniem „wszystko będzie dobrze\", bo nie wiesz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Powiedz jedno zdanie o czymś, czego bałeś się jako dziecko i czego już się nie boisz. Bez wyjaśnień.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Dwunastu widziało to samo",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Lb 13,30-33",
+       "przeklad": "BW",
+       "akapity": [
+        "Kaleb uspakajał lud wzburzony na Mojżesza, mówiąc: Gdy wyruszymy na nią, to ją zdobędziemy, gdyż ją przemożemy. Lecz mężowie, którzy poszli z nim, mówili: Nie możemy wyruszyć na ten lud, gdyż jest on od nas silniejszy. I rozpuszczali między synami izraelskimi złą wieść o ziemi, którą zbadali, mówiąc: Ziemia, przez którą przeszliśmy, aby ją zbadać, to ziemia, która pożera swoich mieszkańców, a wszystek lud, który w niej widzieliśmy, to mężowie rośli. Widzieliśmy też tam olbrzymów, synów Anaka, z rodu olbrzymów, i wydawaliśmy się sobie w porównaniu z nimi jak szarańcza, i takimi też byliśmy w ich oczach."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wszyscy dwunastu chodzili po tej samej ziemi przez czterdzieści dni. **Czym różni się raport Kaleba od raportu pozostałych? Wypiszcie różnice.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 33 mówi: wydawaliśmy się sobie jak szarańcza, i takimi też byliśmy w ich oczach. **Skąd oni wiedzieli, jak wyglądają w cudzych oczach?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Fakty w obu raportach są w gruncie rzeczy te same. **Co zatem zostało dodane?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Lęk rzadko zmyśla fakty. Olbrzymi byli prawdziwi, mury były wysokie, zwiadowcy nie kłamali. Dodali jednak jedno zdanie, którego nie mogli sprawdzić: jak wyglądamy w oczach tamtych ludzi. To już nie obserwacja, tylko domysł podany jak obserwacja. Tak działa lęk. Nie podrabia świata, dokłada do niego wniosek i podaje go dalej jako część raportu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Co lud zrobił z raportem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Lb 14,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy wzburzył się cały zbór i podniósł swój głos, i płakał lud tej nocy. I szemrali wszyscy synowie izraelscy przeciwko Mojżeszowi i Aaronowi. I mówił cały zbór do nich: Obyśmy byli pomarli w Egipcie albo na tej pustyni obyśmy pomarli! Po cóż Pan prowadzi nas do tej ziemi? Abyśmy padli od miecza? Aby nasze żony i dzieci stały się łupem? Czy nie lepiej nam wrócić do Egiptu? I mówili jeden do drugiego: Obierzmy sobie wodza i wróćmy do Egiptu!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Minęła jedna noc między raportem a tym postanowieniem. **Co się w tej nocy stało z historią tego ludu?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Chcą wrócić do Egiptu, czyli do niewoli, z której Bóg ich wyprowadził. **Co lęk obiecuje im w Egipcie, czego nie widzą w Kanaanie?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajskie `jare` znaczy zarówno „bać się\", jak i „czcić, mieć respekt\". Tym samym czasownikiem opisana jest panika przed wrogiem i bojaźń Boża, którą Prz 1,7 nazywa początkiem poznania. Biblia nie ma dwóch osobnych słów na te dwie rzeczy, bo widzi je jako jedną zdolność skierowaną w różne strony. Kto boi się Boga, ma mniej miejsca na banie się reszty.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Formuła „nie bój się\" pojawia się w Starym Testamencie prawie zawsze w jednym układzie: ktoś staje przed czymś większym od siebie, a Bóg mówi te słowa razem z podaniem powodu. Powodem nigdy nie jest to, że zagrożenie jest małe.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Burza",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 4,37-41",
+       "przeklad": "BW",
+       "akapity": [
+        "I zerwała się gwałtowna burza, a fale wdzierały się do łodzi, tak iż łódź już się wypełniała. A on był w tylnej części łodzi i spał na wezgłowiu. Budzą go więc i mówią do niego: Nauczycielu, nic cię to nie obchodzi, że giniemy? I obudziwszy się, zgromił wicher i rzekł do morza: Umilknij! Ucisz się! I ustał wicher i nastała wielka cisza. I rzekł do nich: Czemu jesteście tacy bojaźliwi? Jakże to, jeszcze wiary nie macie? I zdjął ich strach wielki i mówili jeden do drugiego: Kim więc jest Ten, że i wiatr, i morze są mu posłuszne?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Uczniowie nie proszą „ratuj nas\". Mówią: nic cię to nie obchodzi, że giniemy. **Co lęk zrobił z ich zaufaniem do Jezusa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus pyta o ich strach dopiero po uciszeniu burzy. **Dlaczego nie wcześniej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Werset 41 mówi, że po uciszeniu burzy zdjął ich strach wielki. Bali się bardziej niż w czasie sztormu. **Czego właściwie się bali?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W tej scenie są dwa różne strachy. Pierwszy jest przed żywiołem i mija, gdy ustaje wiatr. Drugi przychodzi dopiero wtedy, gdy jest już bezpiecznie, i dotyczy Tego, kto siedzi z nimi w łodzi. Marek zestawia je celowo. Strach przed burzą pytał, czy przeżyjemy. Strach po burzy pyta, kim On jest. Drugie pytanie jest ważniejsze i nie da się do niego dojść na suchym brzegu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Po wodzie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 14,28-31",
+       "przeklad": "BW",
+       "akapity": [
+        "A Piotr, odpowiadając mu, rzekł: Panie, jeśli to Ty jesteś, każ mi przyjść do siebie po wodzie. A On rzekł: Przyjdź. I Piotr, wyszedłszy z łodzi, szedł po wodzie i przyszedł do Jezusa. A widząc wichurę, zląkł się i, gdy zaczął tonąć, zawołał, mówiąc: Panie, ratuj mnie. A Jezus zaraz wyciągnął rękę, uchwycił go i rzekł mu: O małowierny, czemu zwątpiłeś?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Piotr szedł po wodzie, a potem zaczął tonąć. **Co się zmieniło między wersetem 29 a 30?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi „czemu zwątpiłeś\", ale robi to dopiero po wyciągnięciu ręki. **Co mówi ta kolejność?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Piotr jako jedyny wyszedł z łodzi i jako jedyny tonął. **Czy jego lęk jest tu porażką, czy ceną?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Czego się bać",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 10,28-31",
+       "przeklad": "BW",
+       "akapity": [
+        "I nie bójcie się tych, którzy zabijają ciało, ale duszy zabić nie mogą; bójcie się raczej tego, który może i duszę i ciało zniszczyć w piekle. Czyż nie sprzedają za grosz dwu wróbli? A jednak ani jeden z nich nie spadnie na ziemię bez woli Ojca waszego. Nawet wasze włosy na głowie wszystkie są policzone. Nie bójcie się; jesteście więcej warci niż wiele wróbli."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nie mówi „nie ma się czego bać\". **Co mówi zamiast tego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wróble za grosz i policzone włosy. **Co te dwa obrazy mają wspólnego i po co są akurat tutaj, zaraz po zdaniu o zabijaniu ciała?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jezus nie usuwa lęku, tylko go przenosi. Zamiast obiecywać, że nic złego się nie stanie, mówi, czego naprawdę warto się bać, a potem dokłada rzecz zaskakującą: drobiazgi są policzone. Wróbel był najtańszym towarem na targu. Sens jest taki, że Bóg zajmuje się tym, czego nikt nie liczy. Lęk zwykle mówi: jestem sam wobec tego, co nadchodzi. Tu pada odpowiedź nie na rozmiar zagrożenia, tylko na tamto poczucie samotności.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Lęk i miłość",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1J 4,18",
+       "przeklad": "BW",
+       "akapity": [
+        "W miłości nie ma bojaźni, wszak doskonała miłość usuwa bojaźń, gdyż bojaźń drży przed karą; kto się więc boi, nie jest doskonały w miłości."
+       ]
+      },
+      {
+       "odnosnik": "Flp 4,6-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie troszczcie się o nic, ale we wszystkim w modlitwie i błaganiach z dziękczynieniem powierzcie prośby wasze Bogu. A pokój Boży, który przewyższa wszelki rozum, strzec będzie serc waszych i myśli waszych w Chrystusie Jezusie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jan wiąże lęk z karą. **Jak to się ma do lęku o pracę, o dziecko, o wynik badania? Czy on mówi o innym lęku, czy o tym samym?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nie poprzestaje na „nie troszczcie się\". **Co dokładnie każe zrobić z troską i czego w tym przepisie nie ma?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Pokój, który przewyższa wszelki rozum. **Co to znaczy, że przewyższa rozum, a nie że go potwierdza?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dwa spojrzenia",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Krl 6,15-17",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy wczesnym rankiem sługa męża Bożego wstał i chciał wyjść, oto miasto otaczało wojsko, konnica i wozy wojenne. Rzekł więc jego sługa do niego: Biada, panie mój! Jak postąpimy? A on odpowiedział: Nie bój się, bo więcej jest tych, którzy są z nami, niż tych, którzy są z nimi. Elizeusz modlił się tymi słowy: Panie, otwórz jego oczy, aby przejrzał. I otworzył Pan oczy sługi, i przejrzał, a oto góra pełna była koni i wozów ognistych wokół Elizeusza."
+       ]
+      },
+      {
+       "odnosnik": "Ps 56,4-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Ilekroć lęk mnie ogarnia, W tobie mam nadzieję. Bogu, którego słowo wysławiać będę, Bogu ufam, nie lękam się; Cóż mi może uczynić człowiek?"
+       ]
+      },
+      {
+       "odnosnik": "Iz 41,10",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie bój się, bom Ja z tobą, nie lękaj się, bom Ja Bogiem twoim! Wzmocnię cię, a dam ci pomoc, podeprę cię prawicą sprawiedliwości swojej."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Elizeusz nie usuwa wojska ani nie mówi słudze, że przesadza. **O co się modli?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalmista pisze „ilekroć lęk mnie ogarnia\", a nie „gdyby mnie kiedyś ogarnął\". **Co to zakłada o jego życiu?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W Iz 41,10 powód, dla którego nie trzeba się bać, pada cztery razy w jednym wersecie. **Jaki to powód i czego wśród tych powodów nie ma?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: bojaźń Boża",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jeśli lęk jest czymś, z czego mamy być wyprowadzani, co zrobić ze zdaniem, że bojaźń Pana jest początkiem mądrości (Ps 111,10), i z Jezusowym „bójcie się raczej tego, który może duszę i ciało zniszczyć\"?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Spróbujcie nazwać różnicę. **Czym bojaźń Boża różni się od strachu przed Bogiem?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "1J 4,18 mówi, że doskonała miłość usuwa bojaźń. **Czy to znaczy, że bojaźń Boża jest etapem, z którego się wyrasta, czy czymś innym?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie domykaj tego na siłę. Warto, żeby w rozmowie padło, że boimy się utraty tego, co kochamy, a bojaźń Boża jest właśnie tym, a nie strachem przed karą.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Nazwij swój lęk jednym konkretnym zdaniem.** Nie „boję się o przyszłość\", tylko co dokładnie ma się według ciebie wydarzyć.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zwiadowcy dodali do faktów jedno zdanie, którego nie mogli sprawdzić. **Jakie zdanie twój lęk dokłada do twoich faktów?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czego się bałeś rok temu i jak to się skończyło?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co z lękiem, który nie mija mimo modlitwy, mimo znajomości tych wszystkich tekstów, mimo lat wiary? Czy to znaczy, że coś jest nie tak z wiarą tej osoby?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedź brzmi nie, ale nie podawaj jej od razu. Niech to powiedzą sami. Jeśli nikt nie powie, powiedz na końcu.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Wiara nie usuwa lęku. Odbiera mu ostatnie słowo.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Iz 41,10 albo Mt 10,31.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kiedy najbliższym razem poczujesz, że lęk narasta, zatrzymaj się przy jednym pytaniu: **co ten lęk obiecuje mi w zamian?** Zwykle obiecuje kontrolę, przygotowanie na najgorsze, poczucie, że przynajmniej nie dam się zaskoczyć. Zobacz, czy dotrzymuje słowa.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Wróć do rzeczy, której bałeś się najbardziej pięć lat temu. **Zapytaj Boga, czego nauczyłeś się o Nim przez to, jak się to skończyło.** Także wtedy, gdy skończyło się źle.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** powiedz jednej osobie jedno zdanie o tym, czego się teraz boisz. Bez tłumaczenia, dlaczego to głupie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Prawdziwy chrześcijanin nie powinien się bać.\"** To zdanie rani i jest nieprawdziwe. Możesz odpowiedzieć tekstem: Bóg mówi „nie bój się\" setki razy właśnie dlatego, że ludzie się boją. Nie mówi się tego komuś, kto nie ma problemu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o atakach paniki albo o leczeniu.** Nie diagnozuj i nie sugeruj, że to kwestia wiary. Podziękuj za zaufanie i idź dalej. Po spotkaniu możesz zapytać, czy ma z kim o tym rozmawiać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A ja się niczego nie boję.\"** Nie konfrontuj. Przesuń pytanie: „Czego nie chciałbyś stracić najbardziej?\" To zwykle otwiera ten sam temat od drugiej strony.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na koniec świata, wojnę albo politykę.** Zatrzymaj to jednym zdaniem i wróć do tekstu. Lęk zbiorowy jest wygodny, bo pozwala nie mówić o własnym.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna doradzać innym, co mają robić ze swoim lękiem.** Przerwij łagodnie. „Zostawmy rady na potem, wróćmy do tekstu.\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Cisza po pytaniu o własny lęk.** Naturalna. Nazwanie lęku na głos jest kosztowne. Poczekaj, a jeśli nikt nie zacznie, odpowiedz sam pierwszy i krótko.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Prawdziwy chrześcijanin nie powinien się bać.\"",
+     "odpowiedz": "To zdanie rani i jest nieprawdziwe. Możesz odpowiedzieć tekstem: Bóg mówi „nie bój się\" setki razy właśnie dlatego, że ludzie się boją. Nie mówi się tego komuś, kto nie ma problemu."
+    },
+    {
+     "sytuacja": "Ktoś mówi o atakach paniki albo o leczeniu.",
+     "odpowiedz": "Nie diagnozuj i nie sugeruj, że to kwestia wiary. Podziękuj za zaufanie i idź dalej. Po spotkaniu możesz zapytać, czy ma z kim o tym rozmawiać."
+    },
+    {
+     "sytuacja": "„A ja się niczego nie boję.\"",
+     "odpowiedz": "Nie konfrontuj. Przesuń pytanie: „Czego nie chciałbyś stracić najbardziej?\" To zwykle otwiera ten sam temat od drugiej strony."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na koniec świata, wojnę albo politykę.",
+     "odpowiedz": "Zatrzymaj to jednym zdaniem i wróć do tekstu. Lęk zbiorowy jest wygodny, bo pozwala nie mówić o własnym."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna doradzać innym, co mają robić ze swoim lękiem.",
+     "odpowiedz": "Przerwij łagodnie. „Zostawmy rady na potem, wróćmy do tekstu.\""
+    },
+    {
+     "sytuacja": "Cisza po pytaniu o własny lęk.",
+     "odpowiedz": "Naturalna. Nazwanie lęku na głos jest kosztowne. Poczekaj, a jeśli nikt nie zacznie, odpowiedz sam pierwszy i krótko."
+    }
+   ]
+  }
+ ]
+}

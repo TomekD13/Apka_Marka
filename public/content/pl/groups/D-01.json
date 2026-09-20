@@ -1,0 +1,742 @@
+{
+ "tytul": "Daniel 1. Nowe imię, ten sam Bóg",
+ "id": "D-01",
+ "seria": "Księga Daniela",
+ "opis": "Nowe imię, nowy język, ten sam Bóg. Gdzie Daniel stawia granicę, a gdzie jej nie stawia.",
+ "tryb": "ksiegi",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Dn 1,1-2; 1,3-7; 1,8-10; 1,11-16; 1,17-21",
+  "p2": "Iz 39,5-7; Jr 29,4-7; Jr 25,11-12",
+  "p3": "Rdz 11,1-4; Rdz 1,29"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 25,
+  "p3": 29
+ },
+ "tagi": [
+  "Daniel",
+  "wierność",
+  "granice",
+  "praca",
+  "wygnanie",
+  "tożsamość"
+ ],
+ "wersja": 1,
+ "zdanie": "Babilon może zmienić ci imię. Nie zmieni tego, czyj jesteś, jeśli położyłeś to sobie na sercu wcześniej.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie nie jest o tym, co jeść. Jest o tym, jak żyć w świecie, który daje ci dużo i po cichu mówi ci, kim masz być. Daniel przyjmuje babilońskie imię, język, szkołę i posadę. Odmawia jednej rzeczy. Całe spotkanie krąży wokół pytania, gdzie stawia granicę, gdzie jej nie stawia i w jaki sposób to robi. Drugi wątek biegnie przez cały rozdział prawie niezauważony: trzy razy pada zdanie, że to Bóg coś daje.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Grupa czyta dziś cały rozdział po kolei, w pięciu odcinkach.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Rozmowa łatwo zjeżdża w dietę: wegetarianizm, alkohol, co wolno, czego nie wolno. Przy stole mogą siedzieć ludzie, którzy jedzą i piją inaczej niż większość grupy. Tekst nie podaje powodu odmowy Daniela i nie robi z jarzyn przepisu.",
+      "Ktoś może pracować w miejscu, gdzie co tydzień płaci za swoje przekonania, a ktoś inny od lat idzie tam na ustępstwa i wstydzi się tego. Obaj usłyszą ten tekst osobiście.",
+      "Łatwo zrobić z Daniela bohatera bez skazy i zmierzyć nim obecnych. On sam w tym rozdziale głównie prosi i czeka."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pytaj nikogo, gdzie on sam idzie na kompromis. Nie podsumowuj spotkania listą rzeczy, których chrześcijanin nie powinien. Nie rozstrzygaj za grupę, dlaczego Daniel odmówił.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o miejscu, w którym byłeś nowy i obcy: nowa szkoła, nowa praca, inny kraj, rodzina męża albo żony. Powiedz jedną rzecz, do której dostosowałeś się najszybciej.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, jednym zdaniem. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Pan wydał",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 1,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "Trzeciego roku panowania Jojakima, króla judzkiego, nadciągnął Nebukadnesar, król babiloński, do Jeruzalemu i obległ je. A Pan wydał w jego ręce Jojakima, króla judzkiego, i część naczyń domu Bożego; on zaś sprowadził je do ziemi Szinear, do domu swojego boga, a naczynia wniósł do skarbca swojego boga."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Autor mógł napisać, że Nebukadnesar zdobył Jerozolimę. Pisze: „Pan wydał w jego ręce\". **Co to jedno zdanie zmienia w sposobie patrzenia na klęskę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Naczynia z domu Bożego stoją teraz w skarbcu babilońskiego boga. **Co mówił ten widok każdemu, kto na niego patrzył, Babilończykowi i Judejczykowi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W tym transporcie idą nastolatkowie. **Jakie pytania o Boga mógł nieść w głowie chłopak z Jerozolimy, który widział, dokąd trafiły naczynia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W tamtym świecie zwycięzca zabierał posągi i sprzęty z cudzej świątyni i składał je u swojego boga. Nie chodziło o złoto. To było publiczne ogłoszenie, że bóg pokonanych przegrał. Księga Daniela zaczyna się więc od sceny, w której Bóg Izraela wygląda na pokonanego. Autor od razu w drugim zdaniu mówi, kto naprawdę trzymał rękę na wydarzeniach. Reszta księgi jest rozwinięciem tego zdania.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy w księdze",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** Na samym początku. Księga Daniela ma dwanaście rozdziałów i dzieli się na pół. Rozdziały od pierwszego do szóstego to opowieści z dworu: czterech młodych ludzi, potem sam Daniel, pod kolejnymi królami. Rozdziały od siódmego do dwunastego to widzenia. Pierwszy rozdział opowiada o upadku królestwa Judy, ostatni obiecuje królestwo, które nie upadnie.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Jest około 605 roku przed Chrystusem. Babilon właśnie został największą potęgą regionu. Juda jest małym państwem, które przez ostatnie lata ignorowało ostrzeżenia proroków. To pierwsza z trzech deportacji. Jerozolima i świątynia jeszcze stoją, runą niecałe dwadzieścia lat później.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Zapowiedziane sto lat wcześniej",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 39,5-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy rzekł Izajasz do Hiskiasza: Słuchaj słowa Pana Zastępów: Oto idą dni, w których wszystko, co jest w twoim domu i co nagromadzili twoi ojcowie aż po dziś dzień, zostanie zabrane do Babilonii i nie pozostanie nic, mówi Pan. A z twoich synów, którzy wywodzić się będą od ciebie, których ty spłodzisz, wezmą, aby byli podkomorzymi w pałacu króla babilońskiego."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Izajasz powiedział to królowi Hiskiaszowi mniej więcej sto lat przed Danielem. **Co zmienia dla wygnańca świadomość, że to, co go spotkało, było zapowiedziane?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czym różni się zdanie „Bóg to przewidział\" od zdania „Bóg tego chciał\"?** Które z nich jest bliższe temu, co mówi Dn 1,2?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ziemia Szinear to stara nazwa Babilonii. W całej Biblii pojawia się rzadko, a pierwszy raz w opowiadaniu o wieży Babel. W BW zapisano ją tam jako Synear, ale w hebrajskim to ten sam wyraz.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 11,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Cała ziemia miała jeden język i jednakowe słowa. Podczas swojej wędrówki ze wschodu znaleźli równinę w kraju Synear i tam się osiedlili. I mówili jeden do drugiego: Nuże, wyrabiajmy cegłę i wypalajmy ją w ogniu! I używali cegły zamiast kamienia, a smoły zamiast zaprawy. Potem rzekli: Nuże, zbudujmy sobie miasto i wieżę, której szczyt sięgałby aż do nieba, i uczyńmy sobie imię, abyśmy nie rozproszyli się po całej ziemi!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Autor mógł napisać po prostu „do Babilonu\". Wybrał nazwę, która odsyła do wieży Babel. **Co chce powiedzieć o miejscu, do którego trafia Daniel?** Zwróćcie uwagę na słowa „uczyńmy sobie imię\" i na to, co za chwilę stanie się z imionami czterech chłopców.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Program",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 1,3-7",
+       "przeklad": "BW",
+       "akapity": [
+        "I rozkazał król Aszpenazowi, przełożonemu nad sługami dworskimi, sprowadzić niektórych spośród synów izraelskich z królewskiego i szlachetnego rodu, młodzieńców bez jakiejkolwiek wady, pięknych z wyglądu, uzdolnionych do wszelkiej wiedzy, obdarzonych bystrym rozumem, pojętnych do nauki i dlatego sposobnych do pełnienia służby w pałacu królewskim. Miał ich też nauczyć pisma i języka chaldejskiego. Król wyznaczył im dzienne utrzymanie ze stołu królewskiego oraz wino, które sam pijał; miano ich wychowywać trzy lata, po czym mieli iść na służbę do króla. Wśród nich byli także z synów judzkich: Daniel, Ananiasz, Miszael i Azariasz, którym przełożony nad sługami dworskimi dał inne imiona: Daniela nazwał Baltazarem, Ananiasza-Szadrachem, Miszaela-Meszachem, a Azariasza-Abed-Negem."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Wypiszcie wszystko, co Babilon tym chłopcom daje, i wszystko, co im zabiera.** Która lista jest dłuższa?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "To nie wygląda jak prześladowanie. Wygląda jak najlepsze stypendium w imperium. **Dlaczego taka oferta może być trudniejsza do odparcia niż przemoc?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Po co zmieniać komuś imię?** Co się dzieje z człowiekiem, którego codziennie nazywa się inaczej, niż nazwali go rodzice?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Wszystkie cztery hebrajskie imiona mają w sobie imię Boga. Daniel znaczy „Bóg jest moim sędzią\", Ananiasz „Pan jest łaskawy\", Miszael „któż jest jak Bóg\", Azariasz „Pan pomógł\". Nowe imiona odsyłają do bóstw Babilonu, między innymi do Bela i Nebo. Cztery krótkie wyznania wiary zamieniono na cztery wyznania odwrotne i odtąd wołano tak na nich każdego dnia. Program miał trzy lata i jeden cel: żeby z Judejczyków zrobić Babilończyków.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Granica",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 1,8-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz Daniel postanowił nie kalać się potrawami ze stołu królewskiego ani winem, które król pijał. Prosił więc przełożonego nad sługami dworskimi, by mógł się ustrzec splamienia. A Bóg zjednał Danielowi łaskę i miłosierdzie przełożonego nad sługami dworskimi. Przełożony nad sługami dworskimi rzekł do Daniela: Boję się, że król, mój pan, który wam wyznaczył pokarm i napój, zauważy, że wasze twarze są chudsze niż młodzieńców w waszym wieku i narazicie moją głowę na niebezpieczeństwo u króla."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel przyjął imię, język, szkołę i przyszłą posadę. Odmówił stołu. Tekst nie mówi dlaczego. **Jakie powody przychodzą wam do głowy, kiedy patrzycie na sam tekst?** Co stół królewski ma w sobie takiego, czego nie ma szkoła?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przyjrzyjcie się, jak Daniel tę granicę stawia. Tekst mówi: „prosił\". **Czego Daniel w tej scenie nie robi, choć mógłby?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Daniel postanowił\", a zaraz potem „Bóg zjednał\". **Co w tej scenie należy do Daniela, a co do Boga?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Kiedy ta decyzja zapadła: przy stole czy wcześniej?** Po czym to poznać?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Możliwych powodów jest kilka i tekst żadnego nie wybiera. Na królewskim stole było mięso, którego Prawo Mojżesza nie pozwalało jeść. Jedzenie i wino bywały najpierw ofiarowane bóstwom. W tamtym świecie jeść ze stołu króla znaczyło także należeć do króla. Ważniejsze jest co innego: Daniel nie odrzuca Babilonu hurtem. Wybiera jedno miejsce, codzienne i powtarzalne, w którym trzy razy dziennie będzie pamiętał, czyj jest.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "List do wygnańców",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kilka lat później prorok Jeremiasz wysłał z Jerozolimy list do deportowanych w Babilonie.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jr 29,4-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Tak mówi Pan Zastępów, Bóg Izraela, do wszystkich wygnańców, których skazałem na wygnanie z Jeruzalemu do Babilonu: Budujcie domy i zamieszkujcie je; zakładajcie ogrody i spożywajcie ich owoc! Pojmujcie żony i płodźcie synów i córki; Wybierajcie też żony dla waszych synów, a wasze córki wydawajcie za mąż, aby rodziły synów i córki, by was tam przybywało, a nie ubywało. A starajcie się o pomyślność miasta, do którego skazałem was na wygnanie, i módlcie się za nie do Pana, bo od jego pomyślności zależy wasza pomyślność!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg nie każe wygnańcom ani uciekać, ani się buntować, ani odgrodzić się murem. **Jak postawa Daniela z pierwszego rozdziału ma się do tego listu?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdzie przebiega różnica między staraniem się o pomyślność miasta a staniem się jego częścią?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Polskie „postanowił\" oddaje hebrajski zwrot, który dosłownie znaczy „położył na swoim sercu\". Ten sam czasownik pada werset wcześniej: przełożony dworzan „położył\" chłopcom nowe imiona. Hebrajski czytelnik słyszy to jedno po drugim. Babilon kładzie na Danielu imię z zewnątrz. Daniel kładzie coś na własnym sercu od środka. Pierwszego nie mógł powstrzymać. Drugie należało wyłącznie do niego.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co w twoim życiu zostało na ciebie „położone\" z zewnątrz i nie miałeś na to wpływu?** A co w tej samej sytuacji wciąż zależy tylko od ciebie?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Dziesięć dni",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 1,11-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Daniel rzekł do nadzorcy, którego przełożony nad sługami dworskimi ustanowił nad Danielem, Ananiaszem, Miszaelem i Azariaszem: Zrób próbę ze swoimi sługami przez dziesięć dni. Niech nam dadzą jarzyn do jedzenia i wody do picia. Potem przypatrzysz się nam, jak wyglądamy i jak wyglądają młodzieńcy, którzy jadają pokarm ze stołu królewskiego i według tego, co zobaczysz, postąpisz ze swoimi sługami. I wysłuchał ich prośby, i zrobił z nimi próbę przez dziesięć dni. A po upływie dziesięciu dni okazało się, że lepiej wyglądali i byli tężsi na ciele niż wszyscy młodzieńcy, którzy jadali pokarm ze stołu królewskiego. Dlatego nadzorca odstawiał ich pokarm i wino, które mieli pić, i podawał im jarzyny."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przełożony się przestraszył i nie powiedział „tak\". **Co Daniel robi z tą odmową?** Czym jego propozycja różni się od ultimatum?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Według tego, co zobaczysz, postąpisz ze swoimi sługami\". Daniel oddaje ocenę w ręce człowieka, który ma nad nim władzę. **Co to mówi o jego zaufaniu do Boga, a co o jego szacunku dla nadzorcy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W wersecie 8 postanawia Daniel. W wersecie 12 mówi już „nam\". **Ile znaczy to, że przy tej granicy nie stał sam?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Słowo przetłumaczone jako „jarzyny\" znaczy dosłownie „to, co z nasienia\". Jest spokrewnione z wyrazem, którym pierwsza strona Biblii opisuje pokarm dany człowiekowi na początku.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 1,29",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem rzekł Bóg: Oto daję wam wszelką roślinę wydającą nasienie na całej ziemi i wszelkie drzewa, których owoc ma w sobie nasienie: niech będzie dla was pokarmem!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Chłopcy siedzą w kraju Szinear, w cieniu wieży Babel, i proszą o jedzenie z ogrodu Eden. **Co autor mógł chcieć powiedzieć tym zestawieniem?** Czy to zdanie o diecie, czy o tym, do czyjego stołu się należy?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "to obserwacja o słowie, nie przepis. Nie pozwól, żeby rozmowa zamieniła się w spór o jadłospis.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Bóg dał",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 1,17-21",
+       "przeklad": "BW",
+       "akapity": [
+        "A Bóg dał tym czterem młodzieńcom znajomość i rozumienie wszelkiego pisma i mądrości; Daniel zaś znał się na wszelkiego rodzaju widzeniach i snach. A po upływie czasu, który król wyznaczył, aby ich przedstawiono, przełożony nad sługami dworskimi wprowadził ich przed Nebukadnesara. I król rozmawiał z nimi, a nie znalazł się wśród nich wszystkich taki jak Daniel, Ananiasz, Miszael i Azariasz; i tak poszli na służbę do króla. W każdej zaś sprawie, która wymagała mądrości i rozumienia, o którą pytał ich król, stwierdzał, że przewyższają dziesięciokrotnie wszystkich wróżbitów i magów, którzy byli w całym jego królestwie. A Daniel pozostał tam do pierwszego roku Cyrusa."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wróćcie do wersetów 2, 9 i 17. W każdym z nich Bóg coś daje albo wydaje. **Zestawcie te trzy rzeczy obok siebie. Co ta trójka mówi o Bogu w Babilonie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Czterej chłopcy, którzy odmówili królewskiego stołu, zostają najlepszymi absolwentami królewskiej szkoły. **Jak można być jednocześnie wiernym Bogu i znakomitym w świecie, który tej wiary nie podziela?** Co w tym tekście pokazuje, że jedno nie wyklucza drugiego?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Autor do końca używa imion hebrajskich, choć na dworze nikt już tak na nich nie wołał. **Co to mówi o tym, kim oni pozostali?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ostatnie zdanie rozdziału wygląda na notkę kronikarza, a jest puentą. Cyrus to król perski, który zdobył Babilon. Jego pierwszy rok przypada prawie siedemdziesiąt lat po scenie z pierwszego wersetu. Chłopak z transportu przeżył imperium, które go uprowadziło. Rozdział zaczyna się od Nebukadnesara, który nadciąga, a kończy się Danielem, który zostaje.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Siedemdziesiąt lat",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jr 25,11-12",
+       "przeklad": "BW",
+       "akapity": [
+        "I cała ta ziemia stanie się rumowiskiem i pustkowiem, i narody te będą poddane królowi babilońskiemu, siedemdziesiąt lat. A po upływie siedemdziesięciu lat ukarzę króla babilońskiego i ów naród za ich winę – mówi Pan – i kraj Chaldejczyków i obrócę go w wieczną pustynię."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeremiasz zapowiedział siedemdziesiąt lat. Daniel przeżył je wszystkie, od pierwszego do ostatniego, w pracy na obcym dworze. **Jak to zmienia wasze wyobrażenie o tym, czym jest czekanie na Boga?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dla Daniela Babilon nie był epizodem przed właściwym życiem. Był całym życiem. **Co to mówi komuś, kto wciąż czeka, aż zmienią się okoliczności, żeby zacząć żyć z Bogiem na serio?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdzie jest twój Babilon**, czyli miejsce, które dużo ci daje i po cichu podpowiada ci, kim masz być?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel przyjął wiele i odmówił jednego. **Po czym ty poznajesz różnicę między tym, co można przyjąć, a tym, przy czym trzeba powiedzieć nie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest jakaś granica, o której wiesz od dawna, a wciąż jej nie „położyłeś na sercu\"?** Nie musisz mówić jaka.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel nosił imię babilońskiego boga, uczył się literatury pełnej wróżb i całe życie pracował dla władzy, która zburzyła świątynię w Jerozolimie. Inny wierzący mógłby każdą z tych rzeczy uznać za zdradę. **Skąd wiadomo, gdzie przebiega granica, skoro tekst nie daje listy? Czy dwóch ludzi może postawić ją w różnych miejscach i obaj pozostać wierni?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie rozstrzygaj. Warto natomiast, żeby padło spostrzeżenie, że Daniel nie ogłasza swojej granicy jako normy dla pozostałych młodzieńców na dworze i nikogo nią nie mierzy.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Babilon może zmienić ci imię. Nie zmieni tego, czyj jesteś, jeśli położyłeś to sobie na sercu wcześniej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Dn 1,8 albo Dn 1,17.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Daniel wybrał jedno codzienne miejsce, w którym pamiętał, do kogo należy. Zapytaj siebie: **co jest takim miejscem u mnie?** Jeśli nic nie przychodzi ci do głowy, zostań przy tym pytaniu dłużej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Trzy razy w tym rozdziale Bóg coś daje, także wtedy, gdy wszystko wygląda na Jego przegraną. Pomyśl o sytuacji, w której Bóg wydaje ci się dziś nieobecny albo pokonany. Zapytaj Go wprost: **co w tym miejscu jest w Twoich rękach, a ja tego nie widzę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** przyznaj przed Bogiem jedno ustępstwo, które dawno przestało cię uwierać. Nie obiecuj od razu zmiany. Najpierw nazwij je po imieniu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli Biblia mówi, że trzeba być wegetarianinem i nie pić.\"** Ten tekst tego nie mówi. Opowiada o czterech chłopcach w konkretnej sytuacji i nie podaje nawet powodu ich decyzji. Wróć do pytania o stół: czym była ta jedna rzecz dla Daniela i co jest nią dla nas. Jeśli ktoś chce rozmawiać o zdrowiu, zaproponuj osobne spotkanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja w pracy nie mam wyboru. Daniel miał łatwiej, bo Bóg mu pomógł.\"** Nie spieraj się. Zwróć uwagę, że Daniel też nie wiedział, jak to się skończy, a przełożony najpierw mu odmówił. Zapytaj: „Co w tej historii Daniel zrobił, zanim cokolwiek się ułożyło?\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada o realnym konflikcie sumienia w pracy i prosi o radę.** Grupa nie jest od wydawania werdyktów. Podziękuj, zapytaj, czy chce, żeby grupa się za niego modliła, i zaproponuj rozmowę po spotkaniu. Nie pozwól, żeby inni zaczęli mu mówić, co powinien zrobić.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna oceniać innych wierzących: „a niektórzy u nas to chodzą na kompromisy\".** Przerwij spokojnie. Daniel w tym rozdziale nikogo nie ocenia, nawet pozostałych młodzieńców przy królewskim stole. Wróć do pytania w pierwszej osobie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To po co w ogóle się angażować w ten świat, lepiej trzymać się z daleka.\"** Tekst pokazuje coś przeciwnego: Daniel uczy się, pracuje i jest w tym najlepszy. Na poziomie 2 jest list Jeremiasza, który mówi to wprost. Możesz go przeczytać nawet wtedy, gdy prowadzisz poziom 1.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu o własny Babilon.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 4 i przeczytajcie go tylko na głos, bez pytań. Bloki 3 i 5 niosą całe spotkanie: granica i zdanie „Bóg dał\".",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Czyli Biblia mówi, że trzeba być wegetarianinem i nie pić.\"",
+     "odpowiedz": "Ten tekst tego nie mówi. Opowiada o czterech chłopcach w konkretnej sytuacji i nie podaje nawet powodu ich decyzji. Wróć do pytania o stół: czym była ta jedna rzecz dla Daniela i co jest nią dla nas. Jeśli ktoś chce rozmawiać o zdrowiu, zaproponuj osobne spotkanie."
+    },
+    {
+     "sytuacja": "„Ja w pracy nie mam wyboru. Daniel miał łatwiej, bo Bóg mu pomógł.\"",
+     "odpowiedz": "Nie spieraj się. Zwróć uwagę, że Daniel też nie wiedział, jak to się skończy, a przełożony najpierw mu odmówił. Zapytaj: „Co w tej historii Daniel zrobił, zanim cokolwiek się ułożyło?\""
+    },
+    {
+     "sytuacja": "Ktoś opowiada o realnym konflikcie sumienia w pracy i prosi o radę.",
+     "odpowiedz": "Grupa nie jest od wydawania werdyktów. Podziękuj, zapytaj, czy chce, żeby grupa się za niego modliła, i zaproponuj rozmowę po spotkaniu. Nie pozwól, żeby inni zaczęli mu mówić, co powinien zrobić."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna oceniać innych wierzących: „a niektórzy u nas to chodzą na kompromisy\".",
+     "odpowiedz": "Przerwij spokojnie. Daniel w tym rozdziale nikogo nie ocenia, nawet pozostałych młodzieńców przy królewskim stole. Wróć do pytania w pierwszej osobie."
+    },
+    {
+     "sytuacja": "„To po co w ogóle się angażować w ten świat, lepiej trzymać się z daleka.\"",
+     "odpowiedz": "Tekst pokazuje coś przeciwnego: Daniel uczy się, pracuje i jest w tym najlepszy. Na poziomie 2 jest list Jeremiasza, który mówi to wprost. Możesz go przeczytać nawet wtedy, gdy prowadzisz poziom 1."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu o własny Babilon.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 4 i przeczytajcie go tylko na głos, bez pytań. Bloki 3 i 5 niosą całe spotkanie: granica i zdanie „Bóg dał\"."
+    }
+   ]
+  }
+ ]
+}

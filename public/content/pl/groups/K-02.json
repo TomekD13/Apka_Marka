@@ -1,0 +1,693 @@
+{
+ "tytul": "Choroba",
+ "id": "K-02",
+ "seria": "Kryzysy i przełomy życia",
+ "opis": "Uzdrowieni i nieuzdrowieni w jednym Nowym Testamencie. Bóg blisko chorego w obu przypadkach.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Mk 5,24-34; J 5,1-9; 2Kor 12,7-10; 2Tm 4,20; 1Tm 5,23; J 9,1-3; Jk 5,13-16",
+  "p2": "Ps 38,10-12; Flp 2,25-27; 2Krl 20,1-7",
+  "p3": "J 5,4; Mt 8,16-17"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 25,
+  "p3": 28
+ },
+ "tagi": [
+  "kryzys",
+  "choroba",
+  "uzdrowienie",
+  "modlitwa",
+  "słabość",
+  "towarzyszenie"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg nie każdemu odejmuje chorobę, ale nikogo nie zostawia w niej samego. My też nie powinniśmy.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W jednym Nowym Testamencie stoją obok siebie ludzie uzdrowieni i nieuzdrowieni. Kobieta po dwunastu latach wraca do zdrowia, a Paweł po trzech modlitwach zostaje ze swoim cierniem. To spotkanie nie obiecuje nikomu uzdrowienia i nikomu go nie odbiera. Pokazuje, że w obu przypadkach Bóg jest blisko chorego, a choroba nie jest ani wyrokiem, ani miarą wiary. Drugi wątek jest równie ważny: choroba zabiera ludziom ludzi, a Jezus za każdym razem przywraca chorego wspólnocie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole prawie na pewno siedzi ktoś chory, ktoś po diagnozie albo opiekun chorego. Nie każdy o tym mówi.",
+      "Najgroźniejsze zdanie tego wieczoru brzmi: „gdybyś naprawdę wierzył, byłbyś zdrowy\". Drugie w kolejności: „sam sobie na to zapracowałeś\".",
+      "Rozmowa o chorobie natychmiast zsuwa się w porady: diety, zioła, lekarze, terapie. To nie jest spotkanie o tym.",
+      "Ktoś może opowiedzieć o cudownym uzdrowieniu. To dobre świadectwo, dopóki nie staje się normą, do której inni nie dorastają."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie obiecuj nikomu uzdrowienia w imieniu Boga. Nie tłumacz nikomu, skąd wzięła się jego choroba. Nie doradzaj w sprawach leczenia i nie pozwól na to grupie. Nie pytaj nikogo o diagnozę.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie czas, kiedy leżałeś chory, choćby zwykłą grypę. Czego wtedy najbardziej ci brakowało, poza zdrowiem? Jedno zdanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie dopytuj i nie komentuj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Dwanaście lat",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 5,24-34",
+       "przeklad": "BW",
+       "akapity": [
+        "I poszedł z nim; i szedł za nim wielki tłum, i napierali na niego. A niewiasta, która od dwunastu lat miała krwotok i dużo ucierpiała od wielu lekarzy, i wydała wszystko, co miała, a nic jej nie pomogło, przeciwnie, raczej jej się pogorszyło, gdy usłyszała wieści o Jezusie, podeszła w tłumie z tyłu i dotknęła szaty jego, bo mówiła: Jeśli się dotknę choćby szaty jego, będę uzdrowiona. I zaraz ustał jej krwotok, i poczuła na ciele, że jest uleczona z tej dolegliwości.",
+        "A Jezus poznawszy zaraz, że z niego moc uszła, zwrócił się do ludu i rzekł: Kto się dotknął szat moich? Na to rzekli mu uczniowie jego: Widzisz, że lud napiera na ciebie, a pytasz: Kto się mnie dotknął? I spojrzał wokoło, aby ujrzeć tę, która to uczyniła. Wtedy owa niewiasta z bojaźnią i drżeniem, wiedząc, co się jej stało, przystąpiła, upadła przed nim i wyznała mu całą prawdę. A On jej rzekł: Córko, wiara twoja uzdrowiła cię, idź w pokoju i bądź uleczona z dolegliwości swojej."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Marek w dwóch wersetach streszcza dwanaście lat. **Wypiszcie wszystko, co choroba tej kobiecie zabrała. Co z tej listy znacie z własnego życia albo z życia bliskich?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Kobieta jest już zdrowa i mogłaby odejść niezauważona. **Dlaczego Jezus zatrzymuje cały tłum i nie rusza dalej, dopóki jej nie znajdzie? Co ona dostaje w wersecie 34, czego nie dostała w wersecie 29?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Podeszła z tyłu, a potem przyznaje się „z bojaźnią i drżeniem\". **Czego mogła się bać osoba, która właśnie wyzdrowiała?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Według Księgi Kapłańskiej krwotok czynił kobietę rytualnie nieczystą, a nieczystość przechodziła na każdego, kogo dotknęła. Dwanaście lat choroby oznaczało więc dwanaście lat bez świątyni i prawie bez dotyku. Przeciskając się przez tłum, złamała przepisy i miała powód, żeby się bać. Cała ostrożność tamtego świata opierała się na założeniu, że nieczyste kala czyste. Przy Jezusie ten kierunek się odwraca. Słowo „córko\" mówi do niej przy wszystkich, że znowu do kogoś należy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Z dala od mego nieszczęścia",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 38,10-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Panie, przed tobą są wszystkie pragnienia moje, A westchnienie moje nie jest zakryte przed tobą. Serce moje bije gwałtownie, Opuszcza mnie siła moja, A nawet światło oczu moich zanika. Przyjaciele i towarzysze moi stoją z dala od mego nieszczęścia, A krewni moi stronią ode mnie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Chory z psalmu opisuje dwie rzeczy: co dzieje się z jego ciałem i co dzieje się z jego ludźmi. **Dlaczego bliscy „stoją z dala\"? Jakie są uczciwe powody, dla których omijamy chorych?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pierwsze zdanie tego fragmentu jest zwrócone do Boga. **Co ono znaczy dla kogoś, kto nie ma już siły modlić się słowami?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "„Nie mam człowieka\"",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 5,1-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem było święto żydowskie i udał się Jezus do Jerozolimy. A jest w Jerozolimie przy Owczej Bramie sadzawka, zwana po hebrajsku Betezda, mająca pięć krużganków. W nich leżało mnóstwo chorych, ślepych, chromych i wycieńczonych, którzy czekali na poruszenie wody. Od czasu do czasu zstępował bowiem anioł Pana do sadzawki i poruszał wodę. Kto więc po poruszeniu wody pierwszy do niej wstąpił, odzyskiwał zdrowie, jakąkolwiek chorobą był dotknięty.",
+        "A był tam pewien człowiek, który chorował od trzydziestu ośmiu lat. I gdy Jezus ujrzał go leżącego, i poznał, że już od dłuższego czasu choruje, zapytał go: Chcesz być zdrowy? Odpowiedział mu chory: Panie, nie mam człowieka, który by mnie wrzucił do sadzawki, gdy woda się poruszy; zanim zaś ja sam dojdę, inny przede mną wchodzi. Rzecze mu Jezus: Wstań, weź łoże swoje i chodź. I zaraz ten człowiek odzyskał zdrowie, wziął łoże swoje i chodził. A właśnie tego dnia był sabat."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus pyta: „Chcesz być zdrowy?\". **Na jakie pytanie chory faktycznie odpowiada? Co jego odpowiedź mówi o tym, co trzydzieści osiem lat robi z człowiekiem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Nie mam człowieka\". **Kto w waszym otoczeniu mógłby dziś powiedzieć to zdanie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Chory niczego nie wyznaje, o nic nie prosi i nawet nie wie, z kim rozmawia. **Co ta scena mówi o tym, od czego zależy Boża pomoc?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Przy tej sadzawce, tak jak rozumieli ją leżący tam ludzie, wygrywał najszybszy i najsilniejszy. Kto najbardziej potrzebował pomocy, ten z definicji przegrywał, i tak przez trzydzieści osiem lat. Jezus nie pomaga choremu wygrać tego wyścigu i nie wnosi go do wody. Pokazuje Boga, który działa inaczej: podchodzi pierwszy do tego, kto nie ma nikogo i nie ma już nawet o co prosić.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo: werset, którego nie ma w każdej Biblii",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jeśli ktoś ma przed sobą Biblię Ekumeniczną albo inny nowszy przekład, nie znajdzie w nim zdania o aniele poruszającym wodę. Końcówki wersetu 3 i całego wersetu 4 brakuje w najstarszych zachowanych rękopisach Ewangelii Jana. Wygląda to na dawne objaśnienie dopisane na marginesie, żeby czytelnik zrozumiał, o jakim poruszeniu wody mówi chory w wersecie 7. Warszawska je zachowała. Dla rozmowy ma to znaczenie: o aniele mówi przekonanie ludzi leżących w krużgankach, a Jan nie każe nam go przypisywać Bogu.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Nieuzdrowieni",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Kor 12,7-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Bym się więc z nadzwyczajności objawień zbytnio nie wynosił, wbity został cierń w ciało moje, jakby posłaniec szatana, by mnie policzkował, abym się zbytnio nie wynosił. W tej sprawie trzy razy prosiłem Pana, by on odstąpił ode mnie. Lecz powiedział do mnie: Dosyć masz, gdy masz łaskę moją, albowiem pełnia mej mocy okazuje się w słabości. Najchętniej więc chlubić się będę słabościami, aby zamieszkała we mnie moc Chrystusowa. Dlatego mam upodobanie w słabościach, w zniewagach, w potrzebach, w prześladowaniach, w uciskach dla Chrystusa; albowiem kiedy jestem słaby, wtedy jestem mocny."
+       ]
+      },
+      {
+       "odnosnik": "2Tm 4,20",
+       "przeklad": "BW",
+       "akapity": [
+        "Erast pozostał w Koryncie, a chorego Trofima zostawiłem w Milecie."
+       ]
+      },
+      {
+       "odnosnik": "1Tm 5,23",
+       "przeklad": "BW",
+       "akapity": [
+        "Samej wody już nie pij, ale używaj po trosze wina ze względu na twój żołądek i częste twoje niedomagania."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł prosił trzy razy i dostał odpowiedź, ale nie tę, o którą prosił. **Co dokładnie usłyszał? Czego w tej odpowiedzi nie ma?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przez ręce Pawła Bóg uzdrawiał ludzi. Ten sam Paweł zostawia chorego Trofima w Milecie, a Tymoteuszowi na żołądek doradza domowy środek. **Co te dwa krótkie zdania robią z twierdzeniem, że człowiek prawdziwie wierzący nie choruje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Kiedy jestem słaby, wtedy jestem mocny\". **Kiedy to zdanie jest prawdziwą pociechą, a kiedy brzmi jak wykręt? Od czego zależy różnica?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Nie wiemy, czym był cierń Pawła. Najpewniej była to dolegliwość ciała, znana jego współczesnym, a dla nas bezimienna. Ważne jest, jak Paweł ją nazywa: „posłaniec szatana\". Nie przypisuje jej Bogu, choć widzi, że Bóg potrafił jej użyć dla jego dobra. I druga rzecz: prośba została odrzucona nie dlatego, że Pawłowi zabrakło wiary. Trudno wskazać w Nowym Testamencie kogoś, kto miałby jej więcej.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Bliski śmierci",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Flp 2,25-27",
+       "przeklad": "BW",
+       "akapity": [
+        "Uznałem jednak za rzecz konieczną posłać do was Epafrodyta, brata, współpracownika i współbojownika mego, a waszego wysłannika i sługę w potrzebie mojej, bo zaiste tęsknił do was wszystkich i bardzo się smucił, dlatego że słyszeliście, iż zachorował. Bo rzeczywiście chorował tak, że był bliski śmierci; ale Bóg zmiłował się nad nim, a nie tylko nad nim, lecz i nade mną, abym nie miał smutku za smutkiem."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Epafrodyt wyzdrowiał. **Jakim słowem Paweł to opisuje? Czym różni się „Bóg zmiłował się\" od „należało mu się\" albo „wymodliliśmy to\"?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Apostoł pisze otwarcie, że śmierć przyjaciela byłaby dla niego „smutkiem za smutkiem\". **Co to mówi o tym, czy człowiekowi wierzącemu wolno bać się o chorego?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Kto zgrzeszył?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 9,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "A przechodząc, ujrzał człowieka ślepego od urodzenia. I zapytali go uczniowie jego, mówiąc: Mistrzu, kto zgrzeszył, on czy rodzice jego, że się ślepym urodził? Odpowiedział Jezus: Ani on nie zgrzeszył, ani rodzice jego, lecz aby się na nim objawiły dzieła Boże."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Uczniowie widzą cierpiącego człowieka i pierwsze, o co pytają, to czyja to wina. **Dlaczego to pytanie jest tak kuszące? Co daje temu, kto je zadaje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Co Jezus w swojej odpowiedzi odrzuca, a dokąd przenosi uwagę uczniów?** Zwróćcie uwagę, że z pytania o przeszłość robi zdanie o tym, co zaraz się stanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**W jakich wersjach pytanie „kto zgrzeszył\" wraca dzisiaj, także wśród ludzi wierzących i dbających o zdrowie?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Niech przywoła starszych",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jk 5,13-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Cierpi kto między wami? Niech się modli. Weseli się kto? Niech śpiewa pieśni. Choruje kto między wami? Niech przywoła starszych zboru i niech się modlą nad nim, namaściwszy go oliwą w imieniu Pańskim. A modlitwa płynąca z wiary uzdrowi chorego i Pan go podźwignie; jeżeli zaś dopuścił się grzechów, będą mu odpuszczone. Wyznawajcie tedy grzechy jedni drugim i módlcie się jedni za drugich, abyście byli uzdrowieni. Wiele może usilna modlitwa sprawiedliwego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Co według Jakuba ma zrobić chory, a co zbór? Po czyjej stronie leży pierwszy krok i dlaczego to może być trudne?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jakub pisze, że modlitwa wiary uzdrowi chorego. Paweł modlił się trzy razy i chory pozostał. **Jak te dwa teksty mogą stać w jednej Biblii? Czego każdy z nich broni?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jakub pisze: „jeżeli zaś dopuścił się grzechów\". **Co zmienia w tym zdaniu słowo „jeżeli\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Chorego nie odsyła się, żeby modlił się sam. **Co daje człowiekowi to, że ktoś przychodzi do jego łóżka i modli się nad nim na głos?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Według Jakuba moc leży w modlitwie, nie w starszych. To zwykli ludzie z miejscowego zboru, którym ufano. Oliwa była wtedy codziennym środkiem leczniczym, tym samym, którym Samarytanin opatrzył rany pobitego. Modlitwa i lekarstwo idą tu razem i nikt nie widzi w tym sprzeczności. Jakub mówi o każdej chorobie i o powrocie do sił. Słowo „jeżeli\" rozdziela chorobę i winę: bywają powiązane, ale z samej choroby nic o winie nie wynika.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Modlitwa i okład z fig",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Krl 20,1-7",
+       "przeklad": "BW",
+       "akapity": [
+        "W owych dniach Hiskiasz śmiertelnie zachorował. Wtedy przybył do niego prorok Izajasz, syn Amosa, i rzekł do niego: Tak mówi Pan: Uporządkuj swój dom, gdyż umrzesz, a nie będziesz żył. Wtedy Hiskiasz obrócił się swoją twarzą do ściany i modlił się do Pana tymi słowy: Ach, Panie! Wspomnij, proszę, że postępowałem wobec ciebie wiernie i szczerze i czyniłem to, co dobre w twoich oczach. Następnie Hiskiasz wybuchnął wielkim płaczem.",
+        "A zanim jeszcze Izajasz wyszedł ze środkowego podwórca, doszło go słowo Pana następującej treści: Wróć się i powiedz Hiskiaszowi, księciu mojego ludu, tak: Tak mówi Pan, Bóg Dawida, twojego praojca: Słyszałem twoją modlitwę, widziałem twoje łzy. Otóż, uleczę cię, trzeciego dnia wstąpisz do świątyni Pana. Dodam też do twojego życia piętnaście lat i wyrwę ciebie i to miasto z mocy ręki króla asyryjskiego, i osłonię to miasto przez wzgląd na ciebie i przez wzgląd na Dawida, mego sługę. Następnie Izajasz polecił: Przynieście placek z fig. A gdy przyniesiecie i położycie go na wrzód, zagoi się."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg obiecuje uzdrowienie, a prorok i tak każe przyłożyć okład. **Co ta scena mówi o relacji między modlitwą a leczeniem?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hiskiasz odwraca się do ściany i płacze. **Co Bóg mówi o jego łzach? Porównajcie tę odpowiedź z odpowiedzią, którą dostał Paweł. Co jest w nich wspólne, mimo że jedna brzmi „tak\", a druga „nie\"?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czy uzdrowienie jest nam obiecane?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 8,16-17",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy nastał wieczór, przywiedli do niego wielu opętanych, a On wypędzał duchy słowem i uzdrawiał wszystkich, którzy się źle mieli, aby się spełniło, co przepowiedziano przez Izajasza proroka, mówiącego: On niemoce nasze wziął na siebie i choroby nasze poniósł."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Część chrześcijan czyta ten tekst tak: skoro Jezus poniósł nasze choroby tak samo jak nasze grzechy, to uzdrowienie należy się wierzącemu już teraz i trzeba je tylko przyjąć wiarą. Inni zwracają uwagę, że Mateusz widzi spełnienie tych słów w konkretnych uzdrowieniach tamtego wieczoru, a Paweł, Trofim i Tymoteusz chorowali dalej. Według nich pełne uzdrowienie ciała jest pewne, ale przychodzi razem ze zmartwychwstaniem.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co łączy oba stanowiska?** Co każde z nich mówi o tym, czy ciało człowieka obchodzi Boga?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co dzieje się z chorym, który słyszy pierwsze stanowisko i nie zdrowieje?** A co można stracić, trzymając się wyłącznie drugiego?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Choroba własna albo kogoś bliskiego uczy, co choremu pomaga, a co mu szkodzi. **Czego ciebie nauczyła? Które z dzisiejszych tekstów to potwierdzają?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Który obraz jest ci dziś najbliższy:** kobieta przeciskająca się przez tłum, człowiek, który nie ma człowieka, Paweł ze swoim cierniem czy chory, który ma zawołać innych do swojego łóżka?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest sprawa zdrowia, o którą przestałeś się modlić? Co sprawiło, że przestałeś?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W krużgankach leżało „mnóstwo chorych\", a Jezus podszedł do jednego. Dwie osoby w tym samym zborze modlą się o to samo i jedna zdrowieje, a druga nie. **Co wolno o tym powiedzieć, a czego powiedzieć nie wolno?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "materiał celowo nie daje odpowiedzi. Pilnuj tylko dwóch granic, które dziś wyszły z tekstu: różnicy nie tłumaczy ilość wiary i nie tłumaczy jej wina.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg nie każdemu odejmuje chorobę, ale nikogo nie zostawia w niej samego. My też nie powinniśmy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** 2Kor 12,9 albo Mk 5,34.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kobieta z tłumu „wyznała mu całą prawdę\". Jeśli chorujesz albo boisz się o swoje zdrowie, powiedz Bogu całą prawdę o tym, co choroba ci zabiera poza samym zdrowiem: spokój, plany, poczucie, że jesteś potrzebny. Bez upiększeń i bez dopowiadania, że inni mają gorzej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o kimś, kto choruje długo i kto mógłby powiedzieć „nie mam człowieka\". Zapytaj siebie uczciwie: **co mnie powstrzymuje, żeby być tym człowiekiem?** Brak czasu, bezradność, a może lęk przed tym, co jego choroba mówi o mojej kruchości.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli nosisz chorobę albo strach przed badaniem w tajemnicy, powiedz o tym jednej zaufanej osobie i poproś ją o modlitwę. U Jakuba to chory robi pierwszy krok.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Przy stole siedzi ktoś ciężko chory albo świeżo po diagnozie.** Porozmawiaj z tą osobą przed spotkaniem, powiedz, jaki jest temat, i zostaw jej pełną wolność: może milczeć, może wyjść, może nie przyjść. W trakcie nie rób z niej przykładu i nie kieruj do niej pytań po imieniu. Jeśli sama zacznie mówić, wysłuchajcie do końca. Nie pocieszajcie na siłę i nie opowiadajcie od razu o znajomym, który miał to samo.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Gdybyś naprawdę wierzył, byłbyś zdrowy\" albo świadectwo uzdrowienia podane jako wzór dla wszystkich.** Za uzdrowienie podziękuj szczerze, bo jest powodem do radości. Potem wróć do bloku 3: „Paweł modlił się trzy razy i został z cierniem, a Trofima zostawił chorego. Czy im brakowało wiary?\". Nie pozwól, żeby ktoś wyszedł ze spotkania z dodatkowym ciężarem winy za własną chorobę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Sam sobie winien, tak się odżywiał\" albo zasady zdrowego życia użyte do oceniania ludzi.** Troska o zdrowie jest dobra i ma w naszym Kościele długą tradycję. Przestaje być dobra w chwili, gdy służy do orzekania, kto na swoją chorobę zasłużył. Wróć do J 9: Jezus nie pozwolił uczniom szukać winnego. Ludzie żyjący bardzo zdrowo też chorują.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś chce „w wierze\" odstawić leki albo zrezygnować z leczenia, albo grupa zaczyna doradzać diety i terapie.** Zatrzymaj to spokojnie i stanowczo. Grupa nie doradza w sprawach medycznych, nawet jeśli siedzi w niej pielęgniarka albo lekarz. Hiskiasz dostał obietnicę od samego Boga i mimo to położono mu okład. O zmianie leczenia rozmawia się z lekarzem prowadzącym. Jeśli ktoś mówi o odstawieniu leków, porozmawiaj z nim po spotkaniu i zachęć, żeby najpierw poszedł do lekarza.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Depresja i inne choroby psychiki.** To są choroby, a nie brak wiary ani słaby charakter, i leczy się je u lekarza psychiatry oraz psychoterapeuty. Jeśli ktoś mówi, że nie ma już siły żyć, potraktuj to poważnie, zostań z nim po spotkaniu i nie zostawaj z tym sam. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, w bezpośrednim zagrożeniu życia numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Opiekun chorego.** Ludzie, którzy od miesięcy albo lat opiekują się chorym rodzicem, dzieckiem albo małżonkiem, bywają bardziej wyczerpani niż sam chory i rzadko o tym mówią, bo czują, że nie wypada. Jeśli ktoś taki się odezwie, nie przekierowuj rozmowy na chorego. Zapytaj, jak on sam się trzyma, i pomyślcie jako grupa, czy możecie realnie go w czymś odciążyć.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś prosi o modlitwę z namaszczeniem.** To dobra prośba i dokładnie to, o czym pisze Jakub. Nie organizuj tego na poczekaniu w trakcie spotkania. Pomóż tej osobie skontaktować się z pastorem albo starszym zboru i zaproponuj, że możesz przy tym być.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Przy stole siedzi ktoś ciężko chory albo świeżo po diagnozie.",
+     "odpowiedz": "Porozmawiaj z tą osobą przed spotkaniem, powiedz, jaki jest temat, i zostaw jej pełną wolność: może milczeć, może wyjść, może nie przyjść. W trakcie nie rób z niej przykładu i nie kieruj do niej pytań po imieniu. Jeśli sama zacznie mówić, wysłuchajcie do końca. Nie pocieszajcie na siłę i nie opowiadajcie od razu o znajomym, który miał to samo."
+    },
+    {
+     "sytuacja": "„Gdybyś naprawdę wierzył, byłbyś zdrowy\" albo świadectwo uzdrowienia podane jako wzór dla wszystkich.",
+     "odpowiedz": "Za uzdrowienie podziękuj szczerze, bo jest powodem do radości. Potem wróć do bloku 3: „Paweł modlił się trzy razy i został z cierniem, a Trofima zostawił chorego. Czy im brakowało wiary?\". Nie pozwól, żeby ktoś wyszedł ze spotkania z dodatkowym ciężarem winy za własną chorobę."
+    },
+    {
+     "sytuacja": "„Sam sobie winien, tak się odżywiał\" albo zasady zdrowego życia użyte do oceniania ludzi.",
+     "odpowiedz": "Troska o zdrowie jest dobra i ma w naszym Kościele długą tradycję. Przestaje być dobra w chwili, gdy służy do orzekania, kto na swoją chorobę zasłużył. Wróć do J 9: Jezus nie pozwolił uczniom szukać winnego. Ludzie żyjący bardzo zdrowo też chorują."
+    },
+    {
+     "sytuacja": "Ktoś chce „w wierze\" odstawić leki albo zrezygnować z leczenia, albo grupa zaczyna doradzać diety i terapie.",
+     "odpowiedz": "Zatrzymaj to spokojnie i stanowczo. Grupa nie doradza w sprawach medycznych, nawet jeśli siedzi w niej pielęgniarka albo lekarz. Hiskiasz dostał obietnicę od samego Boga i mimo to położono mu okład. O zmianie leczenia rozmawia się z lekarzem prowadzącym. Jeśli ktoś mówi o odstawieniu leków, porozmawiaj z nim po spotkaniu i zachęć, żeby najpierw poszedł do lekarza."
+    },
+    {
+     "sytuacja": "Depresja i inne choroby psychiki.",
+     "odpowiedz": "To są choroby, a nie brak wiary ani słaby charakter, i leczy się je u lekarza psychiatry oraz psychoterapeuty. Jeśli ktoś mówi, że nie ma już siły żyć, potraktuj to poważnie, zostań z nim po spotkaniu i nie zostawaj z tym sam. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, w bezpośrednim zagrożeniu życia numer alarmowy 112."
+    },
+    {
+     "sytuacja": "Opiekun chorego.",
+     "odpowiedz": "Ludzie, którzy od miesięcy albo lat opiekują się chorym rodzicem, dzieckiem albo małżonkiem, bywają bardziej wyczerpani niż sam chory i rzadko o tym mówią, bo czują, że nie wypada. Jeśli ktoś taki się odezwie, nie przekierowuj rozmowy na chorego. Zapytaj, jak on sam się trzyma, i pomyślcie jako grupa, czy możecie realnie go w czymś odciążyć."
+    },
+    {
+     "sytuacja": "Ktoś prosi o modlitwę z namaszczeniem.",
+     "odpowiedz": "To dobra prośba i dokładnie to, o czym pisze Jakub. Nie organizuj tego na poczekaniu w trakcie spotkania. Pomóż tej osobie skontaktować się z pastorem albo starszym zboru i zaproponuj, że możesz przy tym być."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,534 @@
+{
+ "tytul": "Tęsknota",
+ "id": "E-11",
+ "seria": "Emocje",
+ "opis": "Niedosyt nie jest wadą wiary. Tęsknota jako coś, co Bóg wpisał w człowieka celowo.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Ps 42,2-3; Ps 84,2-3.11; Rz 8,22-25; Hbr 11,13-16; Flp 1,21-24",
+  "p2": "Ps 63,2-4; Koh 3,11",
+  "p3": "Ap 22,17.20"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 80,
+  "p3": 95
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 20,
+  "p3": 22
+ },
+ "tagi": [
+  "emocje",
+  "pragnienie",
+  "nadzieja",
+  "niebo",
+  "niedosyt"
+ ],
+ "wersja": 1,
+ "zdanie": "Niedosyt nie jest defektem wiary. Jest dowodem na to, że zostaliśmy zrobieni na coś większego, niż mamy.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Tęsknota nie jest smutkiem. Smutek dotyczy tego, co utracone, tęsknota tego, czego jeszcze nie ma. Biblia traktuje ją nie jako brak wiary ani niewdzięczność, lecz jako coś wpisanego w człowieka celowo. To spotkanie ma zdjąć z uczestników poczucie, że niedosyt jest defektem duchowym.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś może tęsknić za człowiekiem, który odszedł albo nie wrócił. Tekst o tęsknocie za Bogiem może wtedy zabrzmieć jak wyrzut.",
+      "Flp 1 mówi o pragnieniu odejścia. Przy osobie po próbie samobójczej albo w depresji trzeba to prowadzić ostrożnie.",
+      "Nie zamieniaj tego spotkania w rozmowę o niebie jako nagrodzie. Chodzi o mechanizm tęsknoty, nie o opis wieczności."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie mów nikomu, że powinien tęsknić bardziej za Bogiem, a mniej za rzeczami doczesnymi. Nie licytujcie się na duchowość pragnień.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Za czym tęskniłeś jako dziecko tak mocno, że pamiętasz to do dziś? Jedno zdanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i wybierz coś zwyczajnego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Jak jeleń",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 42,2-3",
+       "przeklad": "BW",
+       "akapity": [
+        "Jak jeleń pragnie wód płynących, Tak dusza moja pragnie ciebie, Boże! Dusza moja pragnie Boga, Boga żywego. Kiedyż przyjdę i ukażę się przed obliczem Boga?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Psalmista porównuje siebie do zwierzęcia, które szuka wody. **Co to porównanie mówi o naturze jego tęsknoty: czy to pragnienie przyjemności, czy czegoś innego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Pyta „kiedyż przyjdę i ukażę się przed obliczem Boga\". **Czy on nie wierzy, że Bóg jest wszędzie? O co mu chodzi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ten sam psalm mówi kilka wersetów dalej „czemu rozpaczasz, duszo moja\". **Jak tęsknota sąsiaduje tu ze smutkiem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jeleń nie pragnie wody dlatego, że jest niewdzięczny za to, co ma. Pragnie, bo bez niej nie żyje. Psalmista wybiera obraz z porządku potrzeb, a nie zachcianek. Jego pytanie o przyjście przed oblicze Boga nie jest wątpliwością w Bożą obecność, tylko tęsknotą za obecnością odczuwalną, taką jak w świątyni, z ludźmi i pieśnią. Tęsknota za Bogiem bywa w Biblii bardzo konkretna i związana z miejscem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Lepszy jest jeden dzień",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 84,2-3.11",
+       "przeklad": "BW",
+       "akapity": [
+        "O, jak miłe są przybytki twoje, Panie Zastępów! Dusza moja wzdycha i omdlewa z tęsknoty do przedsionków Pańskich. Serce moje i ciało woła radośnie do Boga żywego. [...] Albowiem lepszy jest dzień w przedsionkach twoich, Niż gdzie indziej tysiąc; Wolę stać raczej na progu domu Boga mego, Niż mieszkać w namiotach bezbożnych."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 3 mówi, że dusza wzdycha i omdlewa, a serce i ciało woła radośnie. **Jak tęsknota może boleć i cieszyć jednocześnie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 11 wykonuje rachunek: jeden dzień wart więcej niż tysiąc. **Co trzeba przeżyć, żeby zrobić taki rachunek?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Woli stać na progu domu Bożego niż mieszkać gdzie indziej. **Próg to nie środek. Co on wybiera?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ziemia zeschła",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 63,2-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Boże! Tyś Bogiem moim, ciebie gorliwie szukam, Ciebie pragnie dusza moja; Tęskni do ciebie ciało moje, Jak ziemia zeschła, spragniona i bezwodna. Tak wyglądałem ciebie w świątyni, By ujrzeć moc twoją i chwałę twoją, Gdyż lepsza jest łaska twoja niż życie. Wargi moje wysławiać cię będą."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Tu tęskni nie tylko dusza, ale i ciało. **Co dokłada ten obraz?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Lepsza jest łaska twoja niż życie\". **To zdanie stawia coś ponad samym życiem. Czy da się je powiedzieć szczerze?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Całe stworzenie wzdycha",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 8,22-25",
+       "przeklad": "BW",
+       "akapity": [
+        "Wiemy bowiem, że całe stworzenie wespół wzdycha i wespół boleje aż dotąd. A nie tylko ono, lecz i my sami, którzy posiadamy zaczątek Ducha, wzdychamy w sobie, oczekując synostwa, odkupienia ciała naszego. W tej bowiem nadziei zbawieni jesteśmy; a nadzieja, którą się ogląda, nie jest nadzieją, bo jakże może ktoś spodziewać się tego, co widzi? A jeśli spodziewamy się tego, czego nie widzimy, oczekujemy żarliwie, z cierpliwością."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł mówi, że wzdycha nie tylko świat, ale i ci, którzy już mają Ducha. **Czy wiara zmniejsza tęsknotę, czy ją wyostrza?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 24: nadzieja, którą się ogląda, nie jest nadzieją. **Co z tego wynika o życiu w stanie niedosytu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paweł łączy oczekiwanie z cierpliwością. **Czego brakuje tęsknocie, która nie ma cierpliwości?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To jedno z niewielu miejsc, gdzie Paweł opisuje chrześcijanina jako kogoś, kto wzdycha. Nie jest to porażka wiary ani etap do przezwyciężenia, tylko normalny stan między obietnicą a jej spełnieniem. Ciekawe jest to, że według Pawła posiadanie Ducha nie gasi tęsknoty, lecz ją wzmacnia. Człowiek, który skosztował, tęskni mocniej niż ten, który nie wie, o co chodzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Powitali je z dala",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 11,13-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Wszyscy oni poumierali w wierze, nie otrzymawszy tego, co głosiły obietnice, lecz ujrzeli i powitali je z dala; wyznali też, że są gośćmi i pielgrzymami na ziemi. Bo ci, którzy tak mówią, okazują, że ojczyzny szukają. I gdyby mieli na myśli tę, z której wyszli, byliby mieli sposobność, aby do niej powrócić; lecz oni zdążają do lepszej, to jest do niebieskiej. Dlatego Bóg nie wstydzi się być nazywany ich Bogiem, gdyż przygotował dla nich miasto."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ci ludzie umarli, nie otrzymawszy obiecanego. **Autor listu i tak stawia ich za wzór. Dlaczego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Nazwali siebie gośćmi i pielgrzymami. **Co to nazwanie robi z poczuciem, że się jest nie na miejscu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Werset 15 mówi, że mogli wrócić, gdyby chcieli. **Czym tęsknota za tym, co przed nami, różni się od tęsknoty za tym, co za nami?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Bóg nie wstydzi się być nazywany ich Bogiem\". **Co to zdanie robi tutaj, w środku mowy o niespełnieniu?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Jedno i drugie mnie pociąga",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Flp 1,21-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem dla mnie życiem jest Chrystus, a śmierć zyskiem. A jeśli życie w ciele umożliwi mi owocną pracę, to nie wiem, co wybrać. Albowiem jedno i drugie mnie pociąga: pragnę rozstać się z życiem i być z Chrystusem, bo to daleko lepiej; lecz z drugiej strony pozostać w ciele, to ze względu na was rzecz potrzebniejsza."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł mówi wprost, że nie wie, co wybrać. **Czy to jest rozdarcie, czy dojrzałość?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rozstrzyga sprawę nie tym, co lepsze dla niego, tylko czym innym. **Czym?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 3,
+   "tytul": "Ostatnie słowa Biblii",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 22,17.20",
+       "przeklad": "BW",
+       "akapity": [
+        "A Duch i oblubienica mówią: Przyjdź! A ten, kto słyszy, niech powie: Przyjdź! A ten, kto pragnie, niech przychodzi, a kto chce, niech darmo weźmie wodę żywota. [...] Mówi ten, który świadczy o tym: Tak, przyjdę wkrótce. Amen, przyjdź, Panie Jezu!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Biblia kończy się prośbą „przyjdź\", a nie opisem spełnienia. **Co to mówi o miejscu, w którym zostawia czytelnika?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zaproszenie skierowane jest do tego, kto pragnie. **Czy pragnienie jest tu warunkiem, czy tylko rozpoznaniem?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Tęsknota pokazuje, co dla ciebie naprawdę ważne. **Czego brak dokucza ci najbardziej w tym roku?** Odpowiedz sobie uczciwie, nawet jeśli odpowiedź nie jest pobożna.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hbr 11 mówi o ludziach, którzy umarli, nie doczekawszy. **Czy jest coś, czego prawdopodobnie nie doczekasz? Jak z tym żyjesz?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **kiedy ostatnio poczułeś, choćby przez chwilę, że czegoś ci nie brakuje?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Niedosyt nie jest defektem wiary. Jest dowodem na to, że zostaliśmy zrobieni na coś większego, niż mamy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Ps 42,2 albo Hbr 11,16.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Nazwij swoją tęsknotę konkretnie. **Nie „czegoś mi brakuje\", tylko czego dokładnie.** Tęsknota nienazwana rozlewa się na wszystko i zwykle wraca jako rozdrażnienie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Sprawdź, czym najczęściej zagłuszasz niedosyt: pracą, ekranem, jedzeniem, planowaniem. **Zapytaj Boga, czego naprawdę szukasz, gdy sięgasz po tę rzecz.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** zostań z tęsknotą przez jeden wieczór, nic z nią nie robiąc. Bez zagłuszania i bez natychmiastowego przerabiania jej na modlitwę o rozwiązanie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Powinniśmy tęsknić za Bogiem, a nie za rzeczami ziemskimi.\"** Brzmi pobożnie i zamyka rozmowę. Paweł tęsknił za ludźmi, Dawid za świątynią i za konkretnym miejscem. Nie rozdzielaj tego zbyt czysto.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o tęsknocie za zmarłym.** To jest właściwa treść, nie odbieg od tematu. Nie przekierowuj go szybko na tęsknotę za Bogiem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi, że chciałby już umrzeć.** Nie cytuj mu od razu Flp 1. Zapytaj spokojnie, co ma na myśli, i koniecznie wróć do tej osoby po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na szczegóły życia w niebie.** Łagodnie wróć do tekstu. To nie jest temat o eschatologii, tylko o tym, co robi z człowiekiem niedosyt.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja niczego mi nie brakuje.\"** Nie konfrontuj. Przesuń: „A czy jest coś, na co czekasz?\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Cisza.** Tęsknota jest trudniejsza do nazwania niż gniew, bo nie ma winnego. Poczekaj dłużej niż zwykle.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Powinniśmy tęsknić za Bogiem, a nie za rzeczami ziemskimi.\"",
+     "odpowiedz": "Brzmi pobożnie i zamyka rozmowę. Paweł tęsknił za ludźmi, Dawid za świątynią i za konkretnym miejscem. Nie rozdzielaj tego zbyt czysto."
+    },
+    {
+     "sytuacja": "Ktoś mówi o tęsknocie za zmarłym.",
+     "odpowiedz": "To jest właściwa treść, nie odbieg od tematu. Nie przekierowuj go szybko na tęsknotę za Bogiem."
+    },
+    {
+     "sytuacja": "Ktoś mówi, że chciałby już umrzeć.",
+     "odpowiedz": "Nie cytuj mu od razu Flp 1. Zapytaj spokojnie, co ma na myśli, i koniecznie wróć do tej osoby po spotkaniu."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na szczegóły życia w niebie.",
+     "odpowiedz": "Łagodnie wróć do tekstu. To nie jest temat o eschatologii, tylko o tym, co robi z człowiekiem niedosyt."
+    },
+    {
+     "sytuacja": "„Ja niczego mi nie brakuje.\"",
+     "odpowiedz": "Nie konfrontuj. Przesuń: „A czy jest coś, na co czekasz?\""
+    },
+    {
+     "sytuacja": "Cisza.",
+     "odpowiedz": "Tęsknota jest trudniejsza do nazwania niż gniew, bo nie ma winnego. Poczekaj dłużej niż zwykle."
+    }
+   ]
+  }
+ ]
+}

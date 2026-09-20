@@ -1,0 +1,777 @@
+{
+ "tytul": "Granice",
+ "id": "R-09",
+ "seria": "Relacje",
+ "opis": "Jezus odchodził od tłumów, które Go potrzebowały. Miłość to nie to samo co dostępność.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Mk 1,32-38; Ne 6,1-4; Ga 6,1-5; Mt 5,33-37; Łk 10,38-42",
+  "p2": "Łk 5,15-16; J 6,14-15; Ne 6,5-9; Wj 18,13-18.21-24; J 11,20-22.27; J 12,1-2",
+  "p3": "Mt 11,30; Mt 5,38-42; Łk 4,28-30; J 10,17-18"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 31
+ },
+ "tagi": [
+  "relacje",
+  "granice",
+  "odmowa",
+  "służba",
+  "wypalenie",
+  "powołanie"
+ ],
+ "wersja": 1,
+ "zdanie": "Jezus umiał powiedzieć ludziom „nie\", bo wcześniej powiedział Ojcu „tak\".",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Słowo „granice\" przyszło z poradników i wielu wierzących słyszy w nim egoizm. To spotkanie nie zaczyna od poradnika, tylko od sceny: całe miasto stoi pod drzwiami, a Jezus przed świtem wychodzi, modli się i mówi „pójdźmy gdzie indziej\". Jego „nie\" nie bierze się ze zmęczenia ludźmi. Bierze się z tego, że wcześniej powiedział „tak\" Ojcu i wie, po co przyszedł. O tym jest całe spotkanie: miłość nie jest tym samym co dostępność, a odmowa bywa formą wierności.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole może żyć w związku albo w rodzinie, w której odmowa jest karana. Dla niego to nie jest rozmowa o umiejętności mówienia „nie\", tylko o bezpieczeństwie.",
+      "Ktoś jest przepracowany służbą w zborze i boi się to przyznać. Możliwe, że grupa albo ty sam jesteście częścią tej presji.",
+      "Temat można wykorzystać w obie strony: jedni usłyszą potwierdzenie, że nikomu nic nie muszą, inni utwierdzą się, że każda odmowa to grzech. Tekst nie pozwala na żadne z tych dwóch uproszczeń.",
+      "Łatwo zacząć mówić o nieobecnych: o teściowej, o szefie, o kimś ze zboru."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie używaj etykiet w rodzaju „toksyczny człowiek\". Nie pozwól omawiać osób, których nie ma przy stole. Nie stawiaj Marty w złym świetle. Nie doradzaj nikomu, komu i jak ma odmówić.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o ostatniej sytuacji, w której powiedziałeś „tak\", choć chciałeś powiedzieć „nie\". Nie mów komu ani o co chodziło. Powiedz jednym słowem, co potem czułeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, jednym słowem. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Wszyscy cię szukają",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 1,32-38",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy nadszedł wieczór i zaszło słońce, przynosili do niego wszystkich, którzy się źle mieli, i opętanych przez demony. I całe miasto zgromadziło się u drzwi. I uzdrowił wielu, których trapiły przeróżne choroby, i wypędził wiele demonów, ale nie pozwolił demonom mówić, bo go znali. A wczesnym rankiem, przed świtem, wstał, wyszedł i udał się na puste miejsce, i tam się modlił. Szymon zaś i ci, co z nim byli, pośpieszyli za nim. A gdy go znaleźli, rzekli do niego: Wszyscy szukają cię. I rzekł im: Pójdźmy gdzie indziej, do pobliskich osiedli, abym i tam kazał, bo po to przyszedłem."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Wszyscy szukają cię\". W ustach Szymona to zdanie jest argumentem. **Za czym? Co Szymon chce, żeby Jezus zrobił, i dlaczego wydaje mu się to oczywiste?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus odpowiada: „pójdźmy gdzie indziej, bo po to przyszedłem\". **Na czym opiera swoją odmowę?** Spójrzcie, co robił tuż przedtem i gdzie.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W Kafarnaum zostali tego ranka ludzie z prawdziwymi potrzebami. **Czy Jezus ich zawiódł?** Co ta scena mówi o różnicy między cudzą potrzebą a własnym powołaniem?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Marek układa te wydarzenia w jedną dobę: dzień w synagodze, wieczór uzdrowień, modlitwa przed świtem, decyzja. Odmowa Jezusa nie wynika z braku współczucia, bo poprzedniego wieczoru nie odprawił nikogo. Wynika z wiedzy, po co został posłany, a tę wiedzę odnawia na modlitwie, zanim ktokolwiek zdąży Mu powiedzieć, co powinien. Granica nie jest tu murem obronnym. Jest skutkiem tego, że „tak\" zostało już komuś powiedziane.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Zwyczaj, nie wyjątek",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 5,15-16",
+       "przeklad": "BW",
+       "akapity": [
+        "I rozchodziła się tym bardziej wieść o nim, i schodziły się wielkie tłumy, aby go słuchać i dać się uzdrowić z chorób swoich. Sam zaś oddalił się na pustkowie i modlił się."
+       ]
+      },
+      {
+       "odnosnik": "J 6,14-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy ludzie ujrzawszy cud, jaki uczynił, rzekli: Ten naprawdę jest prorokiem, który miał przyjść na świat. Jezus zaś poznawszy, że zamyślają podejść, porwać go i obwołać królem, uszedł znowu na górę sam jeden."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "U Łukasza tłumy rosną, a Jezus się oddala. **Jak jedno ma się do drugiego? Co by się stało z Jego służbą, gdyby tego nie robił?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "U Jana tłum chce dla Jezusa czegoś, co wygląda na sukces. **Przed jakimi dobrymi propozycjami trzeba czasem uciec na górę?** Dlaczego trudniej odmówić temu, kto nas podziwia, niż temu, kto nas atakuje?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Nie mogę przybyć",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Nehemiasz, urzędnik perskiego króla, przyjechał do zrujnowanej Jerozolimy odbudować mur. Praca dobiega końca. Sąsiedni namiestnicy, którzy od początku jej przeszkadzali, zmieniają metodę.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ne 6,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy tedy do Sanballata, Tobiasza, Geszema Araba oraz pozostałych naszych wrogów dotarła wieść, że odbudowałem mur i że nie pozostała w nim żadna wyrwa, a do tego czasu jedynie wrót nie wstawiłem do bram, przysłał do mnie Sanballat i Geszem takie wezwanie: Nuże, zejdźmy się razem na naradę w Kefirim w dolinie Ono. Lecz oni mieli złe zamiary wobec mnie. Wyprawiłem przeto do nich posłów z taką odpowiedzią: Wielkiej pracy się podjąłem i nie mogę przybyć. Po cóż by miała ustać ta praca, gdybym ją przerwał, aby przybyć do was? Wtedy oni po czterykroć przysyłali do mnie takie samo wezwanie, a ja tak samo im odpowiadałem."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zaproszenie brzmi rozsądnie: spotkajmy się i porozmawiajmy. **Co Nehemiasz odpowiada, a czego w jego odpowiedzi nie ma?** Zwróćcie uwagę, że zna ich zamiary i mimo to o nich nie wspomina.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Cztery razy to samo wezwanie i cztery razy ta sama odpowiedź. **Co dzieje się zwykle z naszym „nie\" przy trzecim i czwartym podejściu?** Dlaczego?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Wielkiej pracy się podjąłem\". **Czy trzeba budować mur Jerozolimy, żeby mieć prawo odmówić?** Co jest waszą wielką pracą, z której nie wolno zejść?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "List otwarty",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ne 6,5-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Po raz piąty w ten sam sposób przysłał do mnie Sanballat swojego sługę z listem otwartym w ręku, a było w nim napisane tak: Wśród pogan rozeszła się wieść – a zwłaszcza Geszem to rozpowiada – że ty i Żydzi zamyślacie zbuntować się i dlatego odbudowujesz mur, ty zaś zamierzasz zostać ich królem, jak głoszą te wieści; a nawet proroków ustanowiłeś, którzy mają głosić o tobie w Jeruzalemie: Jest w Judei król! Otóż wieść o tym niechybnie dotrze do króla, przeto zejdźmy się razem na naradę! Wtedy ja wysłałem do niego taką odpowiedź: Nic z tego wszystkiego, co ty mówisz, nie zaszło, ale sam to wszystko zmyśliłeś. Wszyscy oni bowiem straszyli nas myśląc o nas: Braknie im sił do dalszej pracy i nie zostanie ona wykonana. Toteż jeszcze bardziej się do niej przyłożyłem."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Za piątym razem list jest otwarty, czyli każdy po drodze mógł go przeczytać. **Jak działa nacisk przez to, co ludzie powiedzą?** Dlaczego bywa skuteczniejszy niż groźba?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nehemiasz odpowiada jednym zdaniem i wraca do pracy. **Czego nie robi, choć miałby do tego prawo?** Ile czasu i sił kosztuje obrona własnej reputacji?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Brzemię i ciężar",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ga 6,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Bracia, jeśli człowiek zostanie przyłapany na jakimś upadku, wy, którzy macie Ducha, poprawiajcie takiego w duchu łagodności, bacząc każdy na siebie samego, abyś i ty nie był kuszony. Jedni drugich brzemiona noście, a tak wypełnicie zakon Chrystusowy. Jeśli bowiem kto mniema, że jest czymś, będąc niczym, ten samego siebie oszukuje. Każdy zaś niech bada własne postępowanie, a wtedy będzie miał uzasadnienie chluby wyłącznie w sobie samym, a nie w porównaniu z drugim. Albowiem każdy własny ciężar poniesie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 2 mówi: „jedni drugich brzemiona noście\". Werset 5: „każdy własny ciężar poniesie\". **Czy Paweł sobie przeczy?** Podajcie przykład brzemienia, które trzeba nieść razem, i ciężaru, którego nikt za nikogo nie poniesie.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Co dzieje się z człowiekiem, za którego ktoś stale niesie to, co należy do niego? A co dzieje się z tym, który niesie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Bacząc każdy na siebie samego, abyś i ty nie był kuszony\". **Na jakie pokusy narażony jest ten, kto pomaga?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Paweł wkłada między te dwa zdania ostrzeżenie przed oszukiwaniem samego siebie. Pasuje ono do obu stron. Chętniej niesiemy cudze brzemiona, niż pozwalamy komukolwiek pomóc przy własnych, i nazywamy to siłą, choć bywa pychą. Bywa też odwrotnie: bierzemy na plecy czyjś własny ciężar i nazywamy to miłością, choć odbieramy człowiekowi coś, co miał ponieść sam. Granica ma więc dwie strony: czego nie brać i czego nie odmawiać sobie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Niedobra to rzecz",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 18,13-18.21-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Nazajutrz zasiadł Mojżesz, aby sądzić lud. Lud zaś stał przed Mojżeszem od rana do wieczora. A gdy teść Mojżesza zobaczył wszystko, co on czyni dla ludu, rzekł: Czemu ty sam czynisz to dla ludu? Dlaczego ty sam musisz tu siedzieć, a cały lud staje przed tobą od rana do wieczora? Wtedy Mojżesz odpowiedział teściowi swemu: Ponieważ lud przychodzi do mnie, aby się radzić Boga. Gdy mają jaką sprawę, przychodzą do mnie, a ja jestem rozjemcą między jednym a drugim i oznajmiam przepisy i prawa Boże. Na to rzekł teść Mojżesza do niego: Niedobra to rzecz, którą czynisz. Męczysz się zarówno ty, jak i ten lud, który jest z tobą, bo sprawa ta jest za trudna dla ciebie, nie podołasz jej sam. [...] Ale ty upatrz sobie z całego ludu mężów dzielnych, bogobojnych, mężów godnych zaufania, nieprzekupnych i tych ustanów nad nimi jako przełożonych nad tysiącem albo nad setką, albo nad pięćdziesiątką, albo nad dziesiątką, aby sądzili lud w każdym czasie. Tobie zaś niech przedkładają każdą ważniejszą sprawę, a każdą pomniejszą sprawę niech rozsądzą sami; tak odciążysz siebie, a oni ponosić będą odpowiedzialność wraz z tobą. Jeżeli to uczynisz, to podołasz temu, co Bóg ci nakazuje, a również cały ten lud wróci w spokoju do swego miejsca. Mojżesz usłuchał głosu teścia swojego i uczynił wszystko, co ten powiedział."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mojżesz robi rzecz dobrą, potrzebną i pobożną. **Dlaczego Jetro nazywa ją niedobrą? Kto na niej traci poza Mojżeszem?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co Mojżesz musiał przyznać przed sobą, żeby posłuchać teścia?** Dlaczego ludziom, którzy służą, tak trudno to przyznać?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W wersecie 2 i w wersecie 5 Paweł używa dwóch różnych greckich słów. `Baros` z wersetu 2 to ciężar, który przygniata, coś ponad siły jednego człowieka. `Phortion` z wersetu 5 to ładunek do przeniesienia, to, co komuś przypada do niesienia. Tego drugiego słowa używa Jezus, gdy mówi o sobie. BW oddaje je tam wyrazem „brzemię\", tym samym, którym w Ga 6,2 oddaje `baros`, więc w polskim tekście tej różnicy nie widać.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 11,30",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem jarzmo moje jest miłe, a brzemię moje lekkie."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus nie obiecuje życia bez ładunku. Obiecuje ładunek, który jest Jego i jest lekki. **Po czym poznać, że niosę to, co On mi dał, a po czym, że dźwigam coś, co wziąłem sam albo co ktoś mi włożył?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Tak i nie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 5,33-37",
+       "przeklad": "BW",
+       "akapity": [
+        "Słyszeliście także, że powiedziano przodkom: Nie będziesz fałszywie przysięgał, ale dotrzymasz Panu przysiąg swoich. A Ja wam powiadam, abyście w ogóle nie przysięgali ani na niebo, gdyż jest tronem Boga, ani na ziemię, gdyż jest podnóżkiem stóp jego, ani na Jerozolimę, gdyż jest miastem wielkiego króla; ani na głowę swoją nie będziesz przysięgał, gdyż nie możesz uczynić nawet jednego włosa białym lub czarnym. Niechaj więc mowa wasza będzie: Tak – tak, nie – nie, bo co ponadto jest, to jest od złego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi o przysięgach, a kończy zdaniem o zwykłej, codziennej mowie. **Co mówi o człowieku to, że jego „tak\" potrzebuje wzmocnień, a jego „nie\" długich usprawiedliwień?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Dlaczego tak trudno powiedzieć samo „nie\", bez tłumaczenia się?** Czego się wtedy boimy?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Bywa „tak\", które znaczy „nie\", i „nie\", które znaczy „może, jeśli nalegasz\". **Komu taka mowa szkodzi i w jaki sposób?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Marto, Marto",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 10,38-42",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy szli, wstąpił do pewnej wioski; a pewna niewiasta, imieniem Marta, przyjęła go do domu. Ta miała siostrę, a na imię jej było Maria, która usiadłszy u nóg Pana, słuchała jego słowa. Marta zaś krzątała się koło różnej posługi; a przystąpiwszy, rzekła: Panie, czy nie dbasz o to, że siostra moja pozostawiła mnie samą, abym pełniła posługi? Powiedz jej więc, aby mi pomogła. A odpowiadając rzekł do niej Pan: Marto, Marto, troszczysz się i kłopoczesz o wiele rzeczy; niewiele zaś potrzeba, bo tylko jednego; Maria bowiem dobrą cząstkę wybrała, która nie będzie jej odjęta."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "To Marta przyjęła Jezusa do domu i robi to, czego wymaga gościnność. **Co w jej słowach pokazuje, że po drodze coś poszło nie tak?** Przeczytajcie uważnie, co zarzuca siostrze, a co samemu Jezusowi.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nie mówi, że posługa jest zła, i nie każe Marcie przestać. **Co dokładnie nazywa kłopotem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Maria wybrała, a Jezus broni jej wyboru: „nie będzie jej odjęta\". **Czyje słuszne oczekiwania Maria w tej chwili zawodzi?** Co to mówi o odmawianiu rzeczom dobrym?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Usiąść u nóg nauczyciela znaczyło zająć miejsce ucznia, a kobiet w tym miejscu wtedy nie oczekiwano. Marta robi dokładnie to, czego po gospodyni się spodziewano, i Łukasz nigdzie nie opisuje posługi inaczej niż dobrze. Kłopotem nie jest kuchnia. Kłopotem jest rozproszenie, które kończy się zarzutem wobec Gościa, że Mu nie zależy. Jezus nie odbiera Marcie jej pracy. Odmawia tylko jednego: nie odeśle Marii spod swoich nóg.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Marta po raz drugi i trzeci",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 11,20-22.27",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy więc Marta usłyszała, że Jezus idzie, wybiegła na jego spotkanie; ale Maria siedziała w domu. Rzekła więc Marta do Jezusa: Panie! Gdybyś tu był, nie byłby umarł brat mój. Ale i teraz wiem, że o cokolwiek byś prosił Boga, da ci to Bóg. [...] Rzecze mu: Tak, Panie! Ja uwierzyłam, że Ty jesteś Chrystus, Syn Boży, który miał przyjść na świat."
+       ]
+      },
+      {
+       "odnosnik": "J 12,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "A na sześć dni przed Paschą poszedł Jezus do Betanii, gdzie był Łazarz, który umarł, a którego Jezus wzbudził z martwych. Tam więc przygotowali mu wieczerzę, a Marta posługiwała, Łazarz zaś był jednym z tych, którzy z nim siedzieli przy stole;"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jan pokazuje Martę jeszcze dwa razy. **Jak te sceny zmieniają obraz siostry, którą przywykliśmy uważać za tę gorszą?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W J 12 Marta znowu posługuje i tym razem nikt jej nie upomina. **Co się zmieniło: posługa czy Marta?** Po czym to poznać w tekście?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus wiedział, po co przyszedł, bo miał swoje puste miejsce przed świtem. **Gdzie w twoim tygodniu jest miejsce, w którym przypominasz sobie, po co jesteś?** Jeśli go nie ma, skąd wiesz, czemu mówić „tak\"?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czyj własny ciężar niesiesz, choć należy do niego? A kto mógłby ci pomóc przy twoim brzemieniu, gdybyś mu na to pozwolił?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **komu najtrudniej ci odmówić i czego się boisz, że się stanie, kiedy to zrobisz?** Nie musisz mówić, o kogo chodzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: druga mila",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 5,38-42",
+       "przeklad": "BW",
+       "akapity": [
+        "Słyszeliście, iż powiedziano: Oko za oko, ząb za ząb. A Ja wam powiadam: Nie sprzeciwiajcie się złemu, a jeśli cię kto uderzy w prawy policzek, nadstaw mu i drugi. A temu, kto chce się z tobą procesować i zabrać ci szatę, zostaw i płaszcz. A kto by cię przymuszał, żebyś szedł z nim jedną milę, idź z nim i dwie. Temu, kto cię prosi, daj, a od tego, który chce od ciebie pożyczyć, nie odwracaj się."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "To ten sam rozdział, z którego pochodzi „tak – tak, nie – nie\". Wierzący czytają te słowa na dwa sposoby. Jedni słyszą w nich wezwanie, by uczeń Jezusa nie stawiał żądaniom żadnej granicy. Inni zwracają uwagę, że Jezus mówi o odpowiedzi na zniewagę i przymus i że zakazuje odwetu, a nie odmowy. Słowo „przymuszać\" pada potem jeszcze raz, gdy żołnierze zmuszają Szymona z Cyreny do niesienia krzyża. Pierwsza mila jest wymuszona. Druga jest już darem wolnego człowieka i odbiera przymuszającemu władzę nad sytuacją. Oba odczytania łączy jedno: to uczeń decyduje, co daje, i daje więcej, niż musi, a nie mniej.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czym różni się druga mila przebyta z własnej woli od pierwszej, przebytej ze strachu?** Czy z zewnątrz widać różnicę? A od środka?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak pogodzić „temu, kto cię prosi, daj\" z „pójdźmy gdzie indziej\" z bloku 1?** Oba zdania wypowiedział ten sam Jezus.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 4,28-30",
+       "przeklad": "BW",
+       "akapity": [
+        "I wszyscy w synagodze, słysząc to, zawrzeli gniewem. I powstawszy wypchnęli go z miasta, i wywiedli go aż na szczyt góry, na której miasto ich było zbudowane, aby go w dół strącić. Lecz On przeszedł przez środek ich i oddalił się."
+       ]
+      },
+      {
+       "odnosnik": "J 10,17-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Dlatego Ojciec miłuje mnie, iż Ja kładę życie swoje, aby je znowu wziąć. Nikt mi go nie odbiera, ale Ja kładę je z własnej woli. Mam moc dać je i mam moc znowu je odzyskać; taki rozkaz wziąłem od Ojca mego."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W Nazarecie Jezus przechodzi przez środek tłumu i odchodzi. W Getsemane nie odchodzi, choć mógł. **Czym różni się życie oddane od życia, które pozwoliło się sobie odebrać?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak w praktyce odróżnić ofiarę, do której wzywa Jezus, od zwykłej niezdolności do powiedzenia „nie\"?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie zamykaj tego formułką. Uważaj na osoby, którym kiedyś powiedziano, że mają „nieść swój krzyż\" w domu, w którym dzieje im się krzywda. Krzyż Jezusa był decyzją wolnego człowieka, który wiedział, po co to robi. Nie był skutkiem tego, że nie umiał odejść.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Jezus umiał powiedzieć ludziom „nie\", bo wcześniej powiedział Ojcu „tak\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Mk 1,35 albo Ga 6,5.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kiedy następnym razem poczujesz, że mówisz „tak\" wbrew sobie, zanim odpowiesz, zapytaj siebie: **czego się boję, jeśli odmówię?** Gniewu, odrzucenia, cudzej opinii, własnego poczucia winy, czegoś jeszcze.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zapytaj Boga wprost: **po co jestem posłany w tym czasie mojego życia?** Zostań przy tym pytaniu dłużej niż chwilę. Dopóki nie ma na nie odpowiedzi, każda prośba wygląda jak obowiązek.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** przyznaj przed Bogiem jedną pomoc, której udzielasz nie z miłości, ale po to, żeby być potrzebnym albo mieć święty spokój. Nie musisz od razu niczego zmieniać. Najpierw nazwij to po imieniu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opisuje dom albo związek, w którym za odmowę spotyka go kara, krzyk, ciche dni, kontrola albo przemoc.** To nie jest kwestia asertywności i nie da się jej rozwiązać dobrą radą przy stole. Nie pozwól grupie radzić ani oceniać. Powiedz, że to, co opisuje, jest poważne, i zostań z tą osobą po spotkaniu. Pomóż jej znaleźć pomoc specjalisty i nie zostawaj z tym sam. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Chrześcijanin ma się zaprzeć samego siebie, a nie stawiać granice.\"** Zgódź się, że Jezus wzywa do oddania życia. Potem wróć do bloku 1: ten sam Jezus zostawił pod drzwiami całe miasto i poszedł gdzie indziej. Oddać można tylko to, co się ma. Poziom 3 ma na to osobne pytanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„No właśnie, ja też nikomu nic nie muszę.\"** To drugie uproszczenie. W Liście do Galacjan „brzemiona noście\" stoi przed „własny ciężar poniesie\". Nehemiasz odmawia, żeby budować, a Jezus odchodzi, żeby głosić gdzie indziej. Zapytaj: „Czemu służy moje nie? Jakiemu tak?\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś jest wyraźnie przemęczony służbą w zborze.** Przeczytaj z nim scenę Mojżesza i jego teścia z poziomu 2, nawet jeśli prowadzisz poziom 1. „Niedobra to rzecz\" pada o pracy dobrej i pobożnej. W najbliższych tygodniach o nic go nie proś i zobacz, czy grupa może coś od niego przejąć.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja jestem Martą i ktoś to musi robić.\"** Przyznaj rację: ktoś musi i Jezus nie kazał Marcie przestać. Zapytaj, co w jej słowach do Jezusa było z posługi, a co ze zmęczenia i żalu. Jeśli masz czas, pokaż Martę z J 11, która pierwsza wybiega Jezusowi na spotkanie i składa wyznanie wiary.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na konkretną osobę: teściową, szefa, kogoś ze zboru.** Przerwij spokojnie. O nieobecnych nie rozmawiamy. Przesuń pytanie na pierwszą osobę: „Czego ja się boję, kiedy mam mu odmówić?\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Pada język poradników: toksyczni ludzie, wampiry energetyczne, odcinanie się.** Nie walcz ze słowami, ale ich nie podejmuj. Biblia nie dzieli ludzi na toksycznych i zdrowych. Wróć do tekstu: Nehemiasz nie nazwał Sanballata ani jednym epitetem, po prostu nie zszedł z muru.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 4. Bloki 1 i 2 pokazują odmowę, która wynika z powołania, blok 3 daje rozróżnienie, a blok 5 przenosi wszystko do domu i kuchni.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś opisuje dom albo związek, w którym za odmowę spotyka go kara, krzyk, ciche dni, kontrola albo przemoc.",
+     "odpowiedz": "To nie jest kwestia asertywności i nie da się jej rozwiązać dobrą radą przy stole. Nie pozwól grupie radzić ani oceniać. Powiedz, że to, co opisuje, jest poważne, i zostań z tą osobą po spotkaniu. Pomóż jej znaleźć pomoc specjalisty i nie zostawaj z tym sam. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, numer alarmowy 112."
+    },
+    {
+     "sytuacja": "„Chrześcijanin ma się zaprzeć samego siebie, a nie stawiać granice.\"",
+     "odpowiedz": "Zgódź się, że Jezus wzywa do oddania życia. Potem wróć do bloku 1: ten sam Jezus zostawił pod drzwiami całe miasto i poszedł gdzie indziej. Oddać można tylko to, co się ma. Poziom 3 ma na to osobne pytanie."
+    },
+    {
+     "sytuacja": "„No właśnie, ja też nikomu nic nie muszę.\"",
+     "odpowiedz": "To drugie uproszczenie. W Liście do Galacjan „brzemiona noście\" stoi przed „własny ciężar poniesie\". Nehemiasz odmawia, żeby budować, a Jezus odchodzi, żeby głosić gdzie indziej. Zapytaj: „Czemu służy moje nie? Jakiemu tak?\""
+    },
+    {
+     "sytuacja": "Ktoś jest wyraźnie przemęczony służbą w zborze.",
+     "odpowiedz": "Przeczytaj z nim scenę Mojżesza i jego teścia z poziomu 2, nawet jeśli prowadzisz poziom 1. „Niedobra to rzecz\" pada o pracy dobrej i pobożnej. W najbliższych tygodniach o nic go nie proś i zobacz, czy grupa może coś od niego przejąć."
+    },
+    {
+     "sytuacja": "„Ja jestem Martą i ktoś to musi robić.\"",
+     "odpowiedz": "Przyznaj rację: ktoś musi i Jezus nie kazał Marcie przestać. Zapytaj, co w jej słowach do Jezusa było z posługi, a co ze zmęczenia i żalu. Jeśli masz czas, pokaż Martę z J 11, która pierwsza wybiega Jezusowi na spotkanie i składa wyznanie wiary."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na konkretną osobę: teściową, szefa, kogoś ze zboru.",
+     "odpowiedz": "Przerwij spokojnie. O nieobecnych nie rozmawiamy. Przesuń pytanie na pierwszą osobę: „Czego ja się boję, kiedy mam mu odmówić?\""
+    },
+    {
+     "sytuacja": "Pada język poradników: toksyczni ludzie, wampiry energetyczne, odcinanie się.",
+     "odpowiedz": "Nie walcz ze słowami, ale ich nie podejmuj. Biblia nie dzieli ludzi na toksycznych i zdrowych. Wróć do tekstu: Nehemiasz nie nazwał Sanballata ani jednym epitetem, po prostu nie zszedł z muru."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 4. Bloki 1 i 2 pokazują odmowę, która wynika z powołania, blok 3 daje rozróżnienie, a blok 5 przenosi wszystko do domu i kuchni."
+    }
+   ]
+  }
+ ]
+}

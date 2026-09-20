@@ -1,0 +1,805 @@
+{
+ "tytul": "Rozkosz, nie ciężar",
+ "id": "S-05",
+ "seria": "Szabat jako dar",
+ "opis": "Jak przeżywać dzień odpoczynku, żeby nie zamienił się w listę zakazów.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Iz 58,13-14; Ps 92,1-6.13-16; Łk 23,54-56; 24,1; Mt 23,1-4; Kol 2,20-23; Hbr 4,1-4.9-11",
+  "p2": "Iz 56,1-7; Mk 1,21-22.29-35; Ne 13,15-19",
+  "p3": "Kol 2,16-17; Rz 14,1.4-6; Hbr 4,9-10"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 24,
+  "p3": 29
+ },
+ "tagi": [
+  "szabat",
+  "odpoczynek",
+  "łaska",
+  "legalizm",
+  "praktyka"
+ ],
+ "wersja": 1,
+ "zdanie": "Szabatu nie da się odrobić. Można go tylko przyjąć.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest praktyczne. Pyta, jak przeżywać dzień odpoczynku, żeby nie zamienił się w listę zakazów. Izajasz nie mówi „wytrzymaj ten dzień\", tylko „nazwij go rozkoszą\". Są dwa sposoby, żeby tę rozkosz stracić. Pierwszy to obudować dzień przepisami tak szczelnie, że przestaje być widać Boga i ludzi. Drugi to zdjąć z niego wszystkie granice, aż niczym nie różni się od pozostałych sześciu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś wychowany w surowym domu może pamiętać szabat jako nudę, zakazy i poczucie winy. Ten żal jest prawdziwy i potrzebuje miejsca, a nie sprostowania.",
+      "Przy stole mogą siedzieć ludzie, którzy w soboty pracują, bo są pielęgniarkami, kierowcami albo boją się o etat, a także ci, których współmałżonek nie wierzy. Każde zdanie zaczynające się od „powinno się\" trafia w nich.",
+      "Poziom 3 pokazuje teksty, na które powołują się chrześcijanie świętujący niedzielę albo uznający wszystkie dni za równe. Jeśli taka osoba jest wśród was, ma usłyszeć swoje stanowisko przedstawione uczciwie.",
+      "Grupa może zacząć ustalać, co w szabat wolno. To dokładnie ten mechanizm, o którym jest blok 4."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie wydawaj werdyktów w sprawach „czy wolno\". Nie stawiaj swojego domu za wzór. Nie pozwól, żeby ktokolwiek przy stole musiał się tłumaczyć ze swojej soboty.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie wolny dzień, po którym naprawdę byłeś wypoczęty. Powiedz jednym zdaniem, co w nim było albo czego w nim nie było.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi, nie dopytuj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Nazwij go rozkoszą",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 58,13-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeżeli powstrzymasz swoją nogę od bezczeszczenia sabatu, aby załatwić swoje sprawy w moim świętym dniu, i będziesz nazywał sabat rozkoszą, a dzień poświęcony Panu godnym czci, i uczcisz go nie odbywając w nim podróży, nie załatwiając swoich spraw i nie prowadząc pustej rozmowy, wtedy będziesz się rozkoszował Panem, a Ja sprawię, że wzniesiesz się ponad wyżyny ziemi, i nakarmię cię dziedzictwem twojego ojca, Jakuba, bo usta Pana to przyrzekły."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Izajasz nie mówi „wytrzymaj ten dzień\". Mówi „nazwij go rozkoszą\". **Czy rozkosz da się komuś nakazać? Co w takim razie znaczy tutaj słowo „jeżeli\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wypiszcie wszystko, od czego ten tekst każe się powstrzymać. **Co łączy te rzeczy? Czemu robią miejsce, kiedy znikają?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Obietnica nie brzmi „będziesz się rozkoszował wolnym dniem\", tylko „będziesz się rozkoszował Panem\". **Co ta różnica zmienia w myśleniu o odpoczynku?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Cały rozdział 58 mówi o pobożności, która Bogu się nie podoba. Kilka wersetów wcześniej prorok zarzuca ludziom, że w dzień postu załatwiają swoje sprawy i uciskają robotników. „Swoje sprawy\" to więc przede wszystkim interesy. Szabat stoi na końcu rozdziału o sprawiedliwości: dzień, w którym przestaję gonić za swoim, jest dniem, w którym ktoś przy mnie wreszcie może odetchnąć.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dom modlitwy dla wszystkich",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 56,1-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Tak mówi Pan: Przestrzegajcie prawa i kierujcie się sprawiedliwością, gdyż bliskie jest nadejście mojego zbawienia i objawienie się mojej sprawiedliwości. Szczęśliwy człowiek, który to czyni, i syn człowieczy, który się tego trzyma, który przestrzega sabatu, nie bezczeszcząc go, i który strzeże swojej ręki, aby nie czyniła nic złego.",
+        "Niech więc nie mówi cudzoziemiec, który przystał do Pana: Pan na pewno wykluczy mnie ze swojego ludu, i niech nie mówi trzebieniec: Patrzcie, jestem tylko uschłym drzewem. Bo tak mówi Pan: Trzebieńcom, którzy przestrzegają sabatu i wybierają to, w czym mam upodobanie, i trzymają się mojego przymierza, przyznam w moim domu i w obrębie moich murów miejsce i dam im imię lepsze niż mają synowie i córki, imię wieczne, które nie będzie starte.",
+        "Cudzoziemców zaś, którzy przystali do Pana, aby mu służyć i aby miłować imię Pana, być jego sługami, wszystkich, którzy przestrzegają sabatu, nie bezczeszcząc go, i trzymają się mojego przymierza, wprowadzę na moją świętą górę i sprawię im radość w moim domu modlitwy. Ich całopalenia i ich rzeźne ofiary będą mi miłe na moim ołtarzu, gdyż mój dom będzie zwany domem modlitwy dla wszystkich ludów."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Cudzoziemiec i trzebieniec to ludzie pewni, że dla nich miejsca nie ma. **Co Bóg obiecuje każdemu z nich i co ma z tym wspólnego szabat?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Sprawię im radość w moim domu modlitwy\". **Dla kogo w naszej społeczności dzień święty jest najbardziej samotnym dniem tygodnia?** Co ten tekst mówi o takich ludziach?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajski rzeczownik `oneg`, oddany jako „rozkosz\", pojawia się w całym Starym Testamencie jeszcze tylko raz, w Iz 13,22, i opisuje tam pałace królewskie. Pokrewny czasownik, użyty w wersecie 14, nie znaczy po prostu „cieszyć się\". Oznacza zachwyt czymś wykwintnym, delikatnym, królewskim. Bóg nie każe więc siódmego dnia znosić ani nawet lubić. Opisuje go słowem, którego reszta Biblii używa o pałacu.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak zmienia się sens przykazania, jeśli dzień odpoczynku jest pałacem, do którego się wchodzi, a nie dyżurem, który trzeba odsiedzieć?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Pieśń na dzień szabatu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 92,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Psalm. Pieśń na dzień sabatu. Dobrze jest dziękować Panu I opiewać imię twe, o Najwyższy, Obwieszczać z rana łaskę twoją, A w nocy wierność twoją, Na lutni o dziesięciu strunach I na harfie przy dźwięku cytry. Bo rozweseliłeś mnie, Panie, czynami twymi, Raduję się z dzieł rąk twoich. Jakże wielkie są dzieła twoje, Panie, Bardzo głębokie są myśli twoje!"
+       ]
+      },
+      {
+       "odnosnik": "Ps 92,13-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Sprawiedliwy wyrośnie jak palma, Rozrośnie się jak cedr Libanu. Zasadzeni w domu Pańskim Wyrastają w dziedzińcach Boga naszego. Jeszcze w starości przynoszą owoc, Są w pełni sił i świeżości, Aby obwieszczać, że Pan jest prawy, Że jest opoką moją, i nie ma w nim nieprawości."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "To jedyny psalm, który ma w nagłówku dopisek „na dzień sabatu\". **Czym ten psalm wypełnia dzień? Czego w nim w ogóle nie ma?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Rozweseliłeś mnie, Panie, czynami twymi\". **Czyje dzieła stoją w środku tego dnia: moje czy Boże? Co dzieje się z szabatem, kiedy w jego środku stoi to, czego ja nie robię?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Psalm kończy się obrazem drzew, które „jeszcze w starości przynoszą owoc\". **Co łączy odpoczynek z owocowaniem?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Szabat w Kafarnaum",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 1,21-22",
+       "przeklad": "BW",
+       "akapity": [
+        "I weszli do Kafarnaum; i zaraz w sabat wstąpił do synagogi, i nauczał. I zdumiewali się nad nauką jego, gdyż nauczał ich jako moc mający, a nie jak uczeni w Piśmie."
+       ]
+      },
+      {
+       "odnosnik": "Mk 1,29-35",
+       "przeklad": "BW",
+       "akapity": [
+        "I zaraz po opuszczeniu synagogi przyszli z Jakubem i Janem do domu Szymona i Andrzeja. A teściowa Szymona leżała w gorączce i zaraz powiedziano mu o niej. I przystąpiwszy, ujął ją za rękę i podniósł ją; i opuściła ją gorączka, i usługiwała im. A gdy nadszedł wieczór i zaszło słońce, przynosili do niego wszystkich, którzy się źle mieli, i opętanych przez demony. I całe miasto zgromadziło się u drzwi. I uzdrowił wielu, których trapiły przeróżne choroby, i wypędził wiele demonów, ale nie pozwolił demonom mówić, bo go znali. A wczesnym rankiem, przed świtem, wstał, wyszedł i udał się na puste miejsce, i tam się modlił."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Prześledźcie ten dzień po kolei: synagoga, dom przyjaciół, chora przy łóżku, wspólny stół. **Co z tego planu dnia dałoby się przenieść do naszych szabatów?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mieszkańcy Kafarnaum przynoszą chorych dopiero po zachodzie słońca. **Co to mówi o ich szabacie, a co o szabacie Jezusa, który tego samego dnia uzdrowił już dwoje ludzi?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Dzień Przygotowania",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 23,54-56",
+       "przeklad": "BW",
+       "akapity": [
+        "A był to dzień Przygotowania i nastawał sabat. A szły też za nim niewiasty, które razem z Jezusem przybyły z Galilei i widziały grób oraz jak składano ciało jego; powróciwszy zaś przygotowały wonności i maści. Przez sabat zaś odpoczywały według przykazania."
+       ]
+      },
+      {
+       "odnosnik": "Łk 24,1",
+       "przeklad": "BW",
+       "akapity": [
+        "A pierwszego dnia tygodnia, wczesnym rankiem, przyszły do grobu, niosąc wonności, które przygotowały."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "To najgorszy piątek w życiu tych kobiet. Mają niedokończony obowiązek wobec Kogoś, kogo kochały, i mimo to odpoczywają. **Co to mówi o tym, czym był dla nich szabat?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dzień przed szabatem miał własną nazwę: Przygotowanie. **Co dzieje się z dniem świętym, do którego nikt się nie przygotował? Kto w domu zwykle za to płaci?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Odpocząć, kiedy praca nie jest skończona. **Dlaczego to takie trudne? Czego taki odpoczynek wymaga od człowieka?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Łukasz pisał dla czytelników pochodzących z pogan, kilkadziesiąt lat po tych wydarzeniach. Jako jedyny autor Nowego Testamentu dodaje w tym miejscu słowa „według przykazania\" i robi to bez żadnego zakłopotania. Użyty przez niego czasownik oznacza więcej niż przerwę w pracy, bo obejmuje także wewnętrzne uciszenie. Tego samego dnia Jezus spoczywał w grobie po słowach „Wykonało się\", tak jak Bóg odpoczął po ukończeniu stworzenia.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Nie dotykaj, nie kosztuj",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 23,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Jezus przemówił do ludu i do uczniów swoich tymi słowy: Na mównicy Mojżeszowej zasiedli uczeni w Piśmie i faryzeusze. Wszystko więc, cokolwiek by wam powiedzieli, czyńcie i zachowujcie, ale według uczynków ich nie postępujcie; mówią bowiem, ale nie czynią. Bo wiążą ciężkie brzemiona i kładą na barki ludzkie, ale sami nawet palcem swoim nie chcą ich ruszyć."
+       ]
+      },
+      {
+       "odnosnik": "Kol 2,20-23",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeśli tedy z Chrystusem umarliście dla żywiołów świata, to dlaczego poddajecie się takim zakazom, jakbyście w świecie żyli: nie dotykaj, nie kosztuj, nie ruszaj? Przecież to wszystko niszczeje przez samo używanie, a są to tylko przykazania i nauki ludzkie. Mają one pozór mądrości w obrzędach wymyślonych przez ludzi, w poniżaniu samego siebie i w umartwianiu ciała, ale nie mają żadnej wartości, gdy chodzi o opanowanie zmysłów."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi o ciężkich brzemionach kładzionych na cudze barki. **Jak z dobrego przykazania robi się brzemię?** Wypiszcie kroki.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł pisze, że takie zakazy „mają pozór mądrości\". **Dlaczego lista zakazów jest tak pociągająca? Co daje temu, kto ją układa, i temu, kto jej przestrzega?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Czym różni się granica, która chroni dzień, od płotu, który go zasłania?** Podajcie po jednym przykładzie, nie wskazując nikogo z obecnych.",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W czasach Jezusa szabat zwykłych ludzi był prostszy niż spory uczonych: nie wykonywano swojej zwykłej pracy, nie rozpalano ognia, nie wyruszano w drogę. Surowe obudowywanie przykazań nie rodziło się z pychy, lecz z lęku o przetrwanie wiary w obcym otoczeniu. Tak bywa do dziś: kto mnoży zakazy, zwykle czegoś się boi. Zamiast pytać „czy to wolno\", można zapytać, czy dane zajęcie skupia uwagę na Bogu i ludziach, czy ją rozprasza.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Bramy Jerozolimy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ne 13,15-19",
+       "przeklad": "BW",
+       "akapity": [
+        "W owych dniach stwierdziłem, że w Judei wytłaczano w sabat wino w tłoczniach i zwożono snopy, nakładając je na osły, a także wino, winogrona, figi i wszelkie inne ciężary, i sprowadzano w dzień sabatu do Jeruzalemu. Ostrzegłem ich przeto, aby w tym dniu żywności nie sprzedawali. Również Tyryjczycy, którzy w nim mieszkali, sprowadzali rybę i wszelki towar i sprzedawali w sabat Judejczykom, także w Jeruzalemie. Zgromiłem tedy możnych Judei i powiedziałem do nich: Co to za niegodziwa rzecz, której się dopuszczacie, znieważając dzień sabatu? Czy nie tak postępowali wasi ojcowie, za co wszak nasz Bóg sprowadził na nas całe to nieszczęście, a również na to miasto! Wy zaś ściągacie jeszcze większy gniew na Izraela, znieważając sabat? Wydałem więc zarządzenie, że gdy w przeddzień sabatu będzie się ściemniać wokół bram jeruzalemskich, ma się zamknąć wrota. Nakazałem też, żeby ich nie otwierano, aż dopiero po sabacie. Postawiłem też przy bramach niektórych z moich sług z poleceniem: W dzień sabatu nie przejdzie tędy żaden ciężar."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nehemiasz zamyka bramy miasta. **Przed czym dokładnie chroni dzień? Do kogo kieruje zarzut: do tragarzy czy do możnych?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kto zyskuje, kiedy bramy są zamknięte?** Czym granica Nehemiasza różni się od brzemion, o których mówił Jezus?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: cień i rzeczywistość",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kol 2,16-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Niechże was tedy nikt nie sądzi z powodu pokarmu i napoju albo z powodu święta lub nowiu księżyca bądź sabatu. Wszystko to są tylko cienie rzeczy przyszłych; rzeczywistością natomiast jest Chrystus."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Wielu chrześcijan czyta ten tekst tak: szabat należał do cieni, które zapowiadały Chrystusa. Skoro rzeczywistość przyszła, cień przestał wiązać i nikt nie ma prawa oceniać drugiego według tego, czy i kiedy świętuje. To odczytanie ma za sobą długą tradycję i poważnych komentatorów.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Inni zwracają uwagę na trzy rzeczy. Zestaw „święto, nów, szabat\" jest w Starym Testamencie stałą formułą i oznacza tam ofiary oraz obrzędy składane w te dni, a to one zapowiadały Chrystusa. Paweł nie spiera się z Mojżeszem, tylko z nauczycielami ascezy z wersetów 18-23, którzy oceniali, jak wierzący jedzą i świętują. Wreszcie szabat ustanowiony przy stworzeniu, zanim pojawił się grzech, nie mógł być zapowiedzią odkupienia, bo był pamiątką czegoś, co już się dokonało.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Uczciwie trzeba dodać, że to jeden z najtrudniejszych fragmentów u Pawła i prawie każde słowo jest w nim przedmiotem sporu. Obie strony łączy to, co w tekście pewne: rzeczywistością jest Chrystus i nikt nie ma prawa czynić z dnia miary oceny drugiego człowieka.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co w wersetach 16-23 przemawia za pierwszym odczytaniem, a co za drugim?** Kogo Paweł w tym fragmencie pozbawia prawa do osądzania?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: każdy dzień jednakowo",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 14,1",
+       "przeklad": "BW",
+       "akapity": [
+        "A słabego w wierze przyjmujcie, nie wdając się w ocenę jego poglądów."
+       ]
+      },
+      {
+       "odnosnik": "Rz 14,4-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Kimże ty jesteś, że osądzasz cudzego sługę? Czy stoi, czy pada, do pana swego należy; ostoi się jednak, bo Pan ma moc podtrzymać go. Jeden robi różnicę między dniem a dniem, drugi zaś każdy dzień ocenia jednakowo; niechaj każdy pozostanie przy swoim zdaniu. Kto przestrzega dnia, dla Pana przestrzega; kto je, dla Pana je, dziękuje bowiem Bogu; a kto nie je, dla Pana nie je, i dziękuje Bogu."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pierwsze odczytanie: Paweł zostawia sprawę dni sumieniu każdego wierzącego, a szabat jest jednym z takich dni. Drugie odczytanie: słowo „szabat\" nie pada w całym liście. Rozdział dotyczy jedzenia i skrupułów idących dalej, niż wymaga jakiekolwiek przykazanie, więc najpewniej chodzi o dni postu. Paweł zalicza siebie do „mocnych\", a według Dziejów Apostolskich sam co szabat był w synagodze. Uchylenie jednego z dziesięciu przykazań wymagałoby też więcej niż półtora wersetu na marginesie sporu o jarzyny.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Ostrożność obowiązuje w obie strony. Kto świętuje szabat, nie może twierdzić, że ten rozdział go potwierdza, bo tekst o szabacie po prostu nie mówi. Obie strony łączy rzecz najważniejsza w całym rozdziale: Paweł nie każe skłóconym uzgodnić poglądów. Zakazuje im pogardy i osądzania.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł ma własne zdanie, a mimo to nie rozstrzyga sporu, tylko zmienia postawę spierających się. **Jak rozmawiać o dniu odpoczynku z chrześcijaninem, który świętuje inaczej, tak żeby żadna ze stron ani nie gardziła, ani nie osądzała?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Odpocznienie, do którego się wchodzi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 4,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy tedy obietnica wejścia do odpocznienia jego jest jeszcze ważna, miejmy się na baczności, aby się nie okazało, że ktoś z was pozostał w tyle. I nam bowiem była zwiastowana dobra nowina, jak i tamtym; lecz tamtym słowo usłyszane nie przydało się na nic, gdyż nie zostało powiązane z wiarą tych, którzy je słyszeli. Albowiem do odpocznienia wchodzimy my, którzy uwierzyliśmy, zgodnie z tym, jak powiedział: Jak przysiągłem w gniewie moim: Nie wejdą do mego odpocznienia, chociaż dzieła jego od założenia świata były dokonane. O siódmym dniu bowiem powiedział gdzieś tak: I odpoczął Bóg dnia siódmego od wszystkich dzieł swoich."
+       ]
+      },
+      {
+       "odnosnik": "Hbr 4,9-11",
+       "przeklad": "BW",
+       "akapity": [
+        "A tak pozostaje jeszcze odpocznienie dla ludu Bożego; kto bowiem wszedł do odpocznienia jego, ten sam odpoczął od dzieł swoich, jak Bóg od swoich. Starajmy się tedy usilnie wejść do owego odpocznienia, aby nikt nie upadł, idąc za tym przykładem nieposłuszeństwa."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Do odpocznienia wchodzimy my, którzy uwierzyliśmy\". **Co odpoczynek ma wspólnego z wiarą? Dlaczego człowiekowi, który nie ufa, tak trudno odpocząć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Odpoczął od dzieł swoich, jak Bóg od swoich\". **Co może znaczyć odpoczynek od „swoich dzieł\", jeśli chodzi o coś więcej niż praca zarobkowa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Starajmy się usilnie wejść do owego odpocznienia\". Wysiłek po to, żeby odpocząć. **Jak rozumiecie ten paradoks?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Autor łączy tu psalm o pokoleniu, które nie weszło do ziemi obiecanej, ze zdaniem o Bogu odpoczywającym siódmego dnia. Według Księgi Rodzaju pierwszy pełny dzień życia ludzi był dniem odpoczynku, zanim cokolwiek zdążyli zrobić. Szabat co tydzień powtarza tę kolejność: najpierw dar, potem praca. Kto odpoczywa, wyznaje bez słów, że ani świat, ani jego własne zbawienie nie wiszą na nim.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: odpoczynek w Chrystusie czy dzień?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W wersecie 9 autor zmienia słowo. W całym wywodzie „odpocznienie\" to po grecku `katapausis`. Tylko tutaj pada `sabbatismos`, rzeczownik utworzony od czasownika „świętować szabat\", tak jak „chrzest\" od „chrzcić\".",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pierwsze odczytanie: odpocznieniem jest zbawienie w Chrystusie. Dzień był jego zapowiedzią, a kto ufa Chrystusowi, ten świętuje szabat codziennie. Tak myślało wielu chrześcijan już w drugim wieku.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Drugie odczytanie: wszędzie poza tym listem `sabbatismos` oznacza dosłowne świętowanie szabatu, co przyznają także badacze broniący niedzieli, choć wyciągają z tego inny wniosek. List, który o ofiarach i lewickim kapłaństwie mówi, że zostały zniesione, o szabatowym odpoczynku mówi, że „pozostaje\". Odpoczynek w Chrystusie pogłębia więc dzień, a nie zajmuje jego miejsca.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Obie strony łączy sedno fragmentu: prawdziwy odpoczynek to zaufanie Chrystusowi. Dzień przeżyty bez tego zaufania jest pusty, bez względu na to, który to dzień tygodnia.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy odpoczynek „w Chrystusie\" i odpoczynek siódmego dnia muszą się wykluczać?** Jak wyglądałby pierwszy bez drugiego, a jak drugi bez pierwszego?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Gdyby ktoś przez miesiąc przyglądał się twoim dniom odpoczynku, jakim słowem by je opisał? **Jak daleko byłoby od tego słowa do słowa „rozkosz\" i co leży pomiędzy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "List do Hebrajczyków mówi o odpoczynku od „dzieł swoich\". **Od czego tobie najtrudniej odpocząć: od pracy, od telefonu, od zamartwiania się, od udowadniania czegoś sobie albo innym?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **jakie wspomnienie dnia świętego z dzieciństwa nosisz w sobie i co ono zrobiło z twoim obrazem Boga?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pielęgniarka ma sobotni dyżur. Ojciec rodziny wie, że odmowa pracy w soboty może kosztować go etat. Żona niewierzącego męża słyszy, że na sobotę zaplanował rodzinny wyjazd. **Jak świętować, kiedy nie wszystko zależy ode mnie? Co w takiej sytuacji znaczy wierność, a co łaska?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie rozstrzygaj cudzych przypadków i nie pozwól, żeby rozstrzygała je grupa. Warto natomiast, żeby padły dwie rzeczy z tekstów. Jezus pokazał, że ratowanie życia i miłosierdzie należą do szabatu. Paweł pyta: „Kimże ty jesteś, że osądzasz cudzego sługę?\"",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Szabatu nie da się odrobić. Można go tylko przyjąć.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Iz 58,13-14 albo Hbr 4,9-10.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Zanim nadejdzie twój najbliższy dzień odpoczynku, zapytaj siebie: **na co w tym dniu czekam?** Jeśli odpowiedź brzmi „na nic\", nie poprawiaj jej. Powiedz ją Bogu tak, jak brzmi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Nazwij przed Bogiem jedną rzecz, której nie umiesz odłożyć nawet na dobę. Potem zapytaj: **czego się boję, że się stanie, kiedy ją puszczę?** Zostań przy tym pytaniu dłużej, niż jest ci wygodnie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli nosisz żal za szabaty dzieciństwa pełne zakazów albo wstyd za to, jak sam urządzałeś ten dzień innym, nie zagaduj tego. Przyznaj to przed Bogiem, a jeśli trzeba, także przed człowiekiem, którego to dotyczy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Dobrze, ale czy w szabat wolno...?\"** Nie wydawaj werdyktu, nawet jeśli masz zdanie. Każda twoja odpowiedź stanie się kolejnym punktem czyjejś listy. Oddaj pytanie: „Czy to daje ci odpoczynek? Czy zbliża do Boga i ludzi? Czy komuś służy?\" Jeśli ktoś naciska, powiedz, że materiał celowo nie daje listy, bo Biblia też jej nie daje.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„U nas w domu szabat to była męka.\"** Wysłuchaj do końca. Nie broń rodziców ani kościoła i nie poprawiaj cudzych wspomnień. Możesz powiedzieć: „Izajasz używa słowa rozkosz. Jeśli było inaczej, to coś poszło nie tak z dniem, nie z tobą\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli każdy może robić, co chce.\"** Nie. Izajasz i Nehemiasz pokazują, że dzień ma granice i bez nich znika. Zapytaj o różnicę: granica chroni ludzi i czas z Bogiem, płot chroni poczucie, że jestem lepszy od innych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś, kto pracuje w soboty, zaczyna się tłumaczyć albo ktoś zaczyna go oceniać.** Przerwij od razu i spokojnie. Przeczytaj Rz 14,4. Takie sprawy omawia się w cztery oczy, z kimś zaufanym, a nie przy stole.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gość świętujący niedzielę czuje się atakowany albo ktoś z grupy zaczyna go przekonywać.** Powiedz wprost, że dziś nikt nikogo nie przekonuje. Poziom 3 pokazuje jego teksty uczciwie. Przypomnij, co łączy wszystkich przy stole: odpoczynkiem jest Chrystus, a dzień bez Niego jest pusty.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Na poziomie 3 ktoś chce „wygrać\" List do Kolosan albo List do Rzymian.** Przypomnij, że materiał celowo pokazuje po dwa stanowiska i mówi, co je łączy. To trudne teksty. Jeśli grupa chce wejść głębiej, zróbcie z tego osobne spotkanie, z czasem na spokojne czytanie całych rozdziałów.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu, zanim cokolwiek dodasz. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa rozkręca się tak, że nie zdążycie z materiałem.** Zostaw blok 2 i idź do bloków 3 i 5. Blok 5 jest tym, bez którego spotkanie traci puentę: odpoczynek zaczyna się od zaufania, nie od regulaminu.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Dobrze, ale czy w szabat wolno...?\"",
+     "odpowiedz": "Nie wydawaj werdyktu, nawet jeśli masz zdanie. Każda twoja odpowiedź stanie się kolejnym punktem czyjejś listy. Oddaj pytanie: „Czy to daje ci odpoczynek? Czy zbliża do Boga i ludzi? Czy komuś służy?\" Jeśli ktoś naciska, powiedz, że materiał celowo nie daje listy, bo Biblia też jej nie daje."
+    },
+    {
+     "sytuacja": "„U nas w domu szabat to była męka.\"",
+     "odpowiedz": "Wysłuchaj do końca. Nie broń rodziców ani kościoła i nie poprawiaj cudzych wspomnień. Możesz powiedzieć: „Izajasz używa słowa rozkosz. Jeśli było inaczej, to coś poszło nie tak z dniem, nie z tobą\"."
+    },
+    {
+     "sytuacja": "„Czyli każdy może robić, co chce.\"",
+     "odpowiedz": "Nie. Izajasz i Nehemiasz pokazują, że dzień ma granice i bez nich znika. Zapytaj o różnicę: granica chroni ludzi i czas z Bogiem, płot chroni poczucie, że jestem lepszy od innych."
+    },
+    {
+     "sytuacja": "Ktoś, kto pracuje w soboty, zaczyna się tłumaczyć albo ktoś zaczyna go oceniać.",
+     "odpowiedz": "Przerwij od razu i spokojnie. Przeczytaj Rz 14,4. Takie sprawy omawia się w cztery oczy, z kimś zaufanym, a nie przy stole."
+    },
+    {
+     "sytuacja": "Gość świętujący niedzielę czuje się atakowany albo ktoś z grupy zaczyna go przekonywać.",
+     "odpowiedz": "Powiedz wprost, że dziś nikt nikogo nie przekonuje. Poziom 3 pokazuje jego teksty uczciwie. Przypomnij, co łączy wszystkich przy stole: odpoczynkiem jest Chrystus, a dzień bez Niego jest pusty."
+    },
+    {
+     "sytuacja": "Na poziomie 3 ktoś chce „wygrać\" List do Kolosan albo List do Rzymian.",
+     "odpowiedz": "Przypomnij, że materiał celowo pokazuje po dwa stanowiska i mówi, co je łączy. To trudne teksty. Jeśli grupa chce wejść głębiej, zróbcie z tego osobne spotkanie, z czasem na spokojne czytanie całych rozdziałów."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu, zanim cokolwiek dodasz. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Rozmowa rozkręca się tak, że nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 2 i idź do bloków 3 i 5. Blok 5 jest tym, bez którego spotkanie traci puentę: odpoczynek zaczyna się od zaufania, nie od regulaminu."
+    }
+   ]
+  }
+ ]
+}

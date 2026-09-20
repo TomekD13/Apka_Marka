@@ -1,0 +1,866 @@
+{
+ "tytul": "Daniel 5. Napis na ścianie",
+ "id": "D-05",
+ "seria": "Księga Daniela",
+ "opis": "Ostatnia uczta Babilonu i napis na ścianie. Co człowiek robi z historią, którą zna na pamięć.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Dn 5,1-4; 5,5-9; 5,13-17; 5,18-24; 5,25-30",
+  "p2": "Dn 1,2; Dn 5,10-12; Rz 1,20-21; Ps 62,10; 1Sm 2,3; Iz 21,4-5.9; Jr 51,39.57",
+  "p3": "Iz 45,1-4; Ap 18,2-4; Dn 4,24"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 28,
+  "p3": 32
+ },
+ "tagi": [
+  "Daniel",
+  "odpowiedzialność",
+  "pycha",
+  "świętość",
+  "sąd",
+  "pamięć"
+ ],
+ "wersja": 1,
+ "zdanie": "Znać historię o Bogu to jeszcze nie to samo, co podnieść oczy. Światło, które dostałem, czeka na odpowiedź.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Napis na ścianie zna każdy, kto słyszał powiedzenie „mene, tekel\". To spotkanie nie jest jednak o tajemniczych słowach. Jego środek leży w wersecie 22: „chociaż to wszystko wiedziałeś\". Belsazar zna historię Nebukadnesara ze szczegółami. Wie o siedmiu latach, o podniesionych oczach, o liście do całego imperium. I nie robi z tą wiedzą nic. Rozdział pyta, co człowiek robi z cudzym doświadczeniem Boga, które dostał za darmo. Drugi wątek to naczynia: te same, które w pierwszym zdaniu księgi trafiły do skarbca babilońskiego boga, wracają dziś na stół.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Czytacie prawie cały rozdział w pięciu odcinkach. Scenę z królową-matką streszcza jedno zdanie kursywą, a jej tekst jest na poziomie 2. Biblia Warszawska pisze imię króla „Belsazar\". Werset o Dariuszu, który w wielu przekładach zamyka ten rozdział jako 5,31, w Biblii Warszawskiej otwiera następny jako 6,1.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "To najciemniejszy rozdział części opowiadającej: kończy się śmiercią, a wyrok nie zostawia furtki. Ktoś przy stole może usłyszeć w nim zdanie o sobie: dla mnie też jest za późno. Tekst mówi o człowieku, który do ostatniej godziny nie pyta Boga o nic poza odczytaniem zagadki.",
+      "„Wiedziałeś i nic z tym nie zrobiłeś\" potrafi zaboleć rodziców, których dorosłe dzieci znają wiarę z domu i odeszły. Rozdział nie wini Nebukadnesara za wnuka i nie daje nikomu prawa do takich rachunków.",
+      "Uczta i wino ściągają rozmowę na alkohol. Przy stole może siedzieć ktoś z problemem w rodzinie albo własnym. Wino nie jest osią tego tekstu, jest nią to, z czego pito i po co.",
+      "Słowa „policzone, zważone, podzielone\" aż proszą się o przyłożenie do dzisiejszych rządów i państw. Nie idź tam."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pytaj nikogo, co zmarnował. Nie stosuj wyroku z wersetów 26-28 do żadnej współczesnej osoby ani władzy. Nie strasz: ten rozdział ma otworzyć oczy, a nie wywołać panikę.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie ostrzeżenie albo dobrą radę, którą znałeś doskonale i z której nie skorzystałeś. Bez szczegółów: powiedz jednym zdaniem, dlaczego wtedy nie posłuchałeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Naczynia na stole",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 5,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Król Belsazar urządził wielką ucztę dla tysiąca swoich dostojników i przed tym tysiącem pił wino. A gdy Belsazar był pod działaniem wina, kazał przynieść złote i srebrne naczynia, które jego ojciec Nebukadnesar zabrał ze świątyni w Jeruzalemie, aby król i jego dostojnicy, jego żony i jego nałożnice mogły z nich pić. I przyniesiono złote i srebrne naczynia, które zabrano ze świątyni, z domu Bożego w Jeruzalemie; a król i jego dostojnicy, jego żony i jego nałożnice pili z nich. Pili wino i wysławiali bogów ze złota, srebra, miedzi, żelaza, drzewa i kamienia."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W pałacu nie brakowało pucharów. **Po co królowi akurat te naczynia?** Co chce pokazać tysiącowi gości, kiedy każe je przynieść?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Tekst dwa razy mówi, skąd są naczynia, i dodaje: „z domu Bożego\". Potem wylicza, z czego zrobieni są bogowie, których goście wysławiają. **Co autor zestawia ze sobą w tych czterech wersetach?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Nebukadnesar te naczynia zabrał, ale przez dziesiątki lat trzymał je w skarbcu. Belsazar robi z nich zastawę. **Czym różni się jeden gest od drugiego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Księga Daniela zaczyna się od tych samych naczyń. W jej drugim zdaniu trafiają do skarbca babilońskiego boga jako dowód, że Bóg Izraela przegrał. Od tamtej chwili minęło ponad sześćdziesiąt lat. Przez ten czas Bóg dał się poznać dwóm pokoleniom dworu: przez sen o posągu, przez piec, przez siedem lat Nebukadnesara. Belsazar wyciąga naczynia nie z niewiedzy. To jest jego odpowiedź na wszystko, co o tym Bogu słyszał.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy w księdze",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** W piątym z sześciu opowiadań dworskich. Rozdziały 4 i 5 są parą: dwóch królów, ta sama pycha, dwa różne zakończenia. Pierwszy podniósł oczy i odzyskał tron. Drugi zna tę historię i traci wszystko w jedną noc. Między rozdziałami księga przeskakuje kilkadziesiąt lat. Daniel, który w rozdziale 1 był nastolatkiem, jest teraz starym człowiekiem i dwór zdążył o nim zapomnieć.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** To ostatnia noc państwa babilońskiego. Tekst sam podaje, kto je przejmie: Medowie i Persowie. Biesiadnicy czują się bezpieczni za murami, które uchodziły za nie do zdobycia. Tekst nazywa Nebukadnesara ojcem Belsazara. W językach semickich to samo słowo oznacza ojca, dziadka, przodka, a nawet poprzednika na urzędzie, bo osobnego słowa na dziadka po prostu nie ma.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia w odbiorze tej uczty świadomość, że to ostatnia noc królestwa, a biesiadnicy o tym nie wiedzą?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pierwsze zdanie księgi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 1,2",
+       "przeklad": "BW",
+       "akapity": [
+        "A Pan wydał w jego ręce Jojakima, króla judzkiego, i część naczyń domu Bożego; on zaś sprowadził je do ziemi Szinear, do domu swojego boga, a naczynia wniósł do skarbca swojego boga."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Naczynia znalazły się w Babilonie, bo „Pan wydał\" je w ręce króla. **Jak to zdanie z początku księgi zmienia sens dzisiejszej uczty?** Do kogo te naczynia cały czas należały?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przez sześćdziesiąt lat wyglądało na to, że nic się nie dzieje: naczynia leżą, Bóg milczy. **Co ten rozdział mówi o Bożym milczeniu?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Ręka",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 5,5-9",
+       "przeklad": "BW",
+       "akapity": [
+        "W tej samej chwili ukazały się palce ręki ludzkiej i pisały naprzeciw świecznika na wapiennej ścianie pałacu królewskiego. Król zauważył grzbiet ręki, która pisała. Wtedy barwa twarzy króla zmieniła się, a jego myśli zaniepokoiły go, stawy jego bioder rozluźniły się, a jego kolana zadrżały. I zawołał król z całej siły, aby wprowadzono wróżbitów, Chaldejczyków i astrologów. Wtedy król odezwał się i rzekł do mędrców babilońskich: Ktokolwiek przeczyta to pismo i poda mi jego wykład, ten będzie ubrany w purpurę, otrzyma złoty łańcuch na szyję i będzie rządził jako trzeci w moim królestwie. Wtedy weszli wszyscy mędrcy króla, lecz nie mogli odczytać pisma i podać jego wykładu królowi. Wtedy król Belsazar był bardzo przestraszony, a barwa jego twarzy zmieniła się i dostojnicy jego byli zaniepokojeni."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„W tej samej chwili\". Żadnego grzmotu, żadnego głosu, tylko palce, ściana i światło świecznika. **Dlaczego ta cisza jest straszniejsza niż krzyk?** Co dzieje się z salą pełną tysiąca ludzi?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Porównajcie króla z wersetu 1 i króla z wersetu 6. **Ile trzeba było, żeby jeden zamienił się w drugiego?** Na czym stała jego pewność siebie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Pierwszym odruchem króla jest zawołać wróżbitów i obiecać nagrodę. **Czego ten odruch o nim mówi?** O co król nie pyta, choć mógłby?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Opis jest bezlitośnie cielesny: twarz blednie, biodra puszczają, kolana uderzają jedno o drugie. Człowiek, który przed chwilą pił z naczyń Boga na oczach tysiąca gości, nie panuje nad własnym ciałem. To trzeci raz w tej księdze, kiedy mędrcy Babilonu stają bezradni wobec tego, co Bóg chce powiedzieć. Dwór miał więc dość okazji, żeby się nauczyć, do kogo iść po odpowiedź.",
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Do sali wchodzi królowa-matka. Pamięta czasy Nebukadnesara i przypomina, że w królestwie wciąż żyje człowiek imieniem Daniel.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Kobieta, która pamięta",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 5,10-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Na skutek słów króla i jego dostojników weszła królowa-matka do sali biesiadnej i odezwawszy się królowa-matka tak rzekła: Królu, żyj na wieki! Niech cię nie trwożą twoje myśli i niech się nie zmienia barwa twojej twarzy! Jest mąż w twoim królestwie, na którym spoczywa duch świętych bogów. W dniach twojego ojca znajdowano u niego oświecenie, rozum, mądrość jak mądrość bogów. Król Nebukadnesar, twój ojciec, ustanowił go przełożonym nad wróżbitami, czarownikami, Chaldejczykami i astrologami, dlatego iż Daniel miał nadzwyczajnego ducha, wiedzę i rozum do wykładania snów, do rozwiązywania zagadek i do wyświetlania tajemnic; król nazwał go Baltazarem. Niech więc teraz wezwą Daniela i niech poda wykład!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Królowej-matki nie było na uczcie. Jest jedyną osobą na dworze, która pamięta Daniela, i nazywa go hebrajskim imieniem. **Co stało się z pamięcią tego dworu w ciągu jednego pokolenia?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel był kiedyś przełożonym wszystkich mędrców. Teraz trzeba go królowi przedstawiać. **Jak wygląda wierność człowieka, o którym zapomniano?** Co Daniel robił przez te lata, kiedy nikt go nie wzywał?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Dary zostaw u siebie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 5,13-17",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy przyprowadzono Daniela przed króla, król odezwał się i rzekł do Daniela: Czy to ty jesteś Danielem z wygnańców judzkich, których przyprowadził król, mój ojciec, z ziemi judzkiej? Słyszałem o tobie, że duch bogów spoczywa na tobie i że masz oświecenie, rozum i nadzwyczajną mądrość. Otóż przyprowadzono przede mnie mędrców, wróżbitów, aby mi odczytali to pismo i wyłożyli mi jego znaczenie, lecz oni nie umieli wyłożyć mi tego słowa. Lecz słyszałem o tobie, że umiesz podać wykład i rozwiązywać zagadki. Jeżeli więc umiesz odczytać pismo i wyłożyć mi jego znaczenie, będziesz obleczony w purpurę, złoty łańcuch włożą na twoją szyję i jako trzeci będziesz panował w królestwie.",
+        "Daniel odpowiedział i rzekł wobec króla: Twoje dary niech pozostaną u ciebie, a twoje upominki daj komu innemu, lecz pismo odczytam królowi i wyłożę mu je."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Król wita starego ministra słowami: „Danielem z wygnańców judzkich, których przyprowadził król, mój ojciec\". **Co chce mu tym powiedzieć?** Jak to powitanie brzmi w sali, w której stoją naczynia z Jerozolimy?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W rozdziale 2 Daniel przyjął od Nebukadnesara dary i urząd. Dziś mówi: „Twoje dary niech pozostaną u ciebie\". **Dlaczego tym razem odmawia, zanim powie choć słowo wykładu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Wobec Nebukadnesara Daniel był przerażony i życzył mu, żeby sen dotyczył jego wrogów. Tu nie ma ani jednego ciepłego słowa. **Skąd ta różnica?** Co Daniel widzi w tym królu, czego nie widział w tamtym?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Król dwa razy mówi „słyszałem o tobie\". Wszystko, co wie o Danielu i o jego Bogu, wie ze słyszenia. Królowa-matka mówi jeszcze o „duchu świętych bogów\" i Belsazar powtarza to po niej słowo w słowo, bez słowa „świętych\". Tekst pokazuje człowieka, który ma informacje z drugiej ręki i nie widzi powodu, żeby sprawdzić je samemu. Nebukadnesar też zaczynał od „waszego Boga\", ale po drodze powiedział „Najwyższy\" i w końcu „Król Niebios\". Belsazar przez cały rozdział nie wypowiada o Bogu Daniela ani jednego własnego zdania.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Wiedziałeś",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 5,18-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Królu! Bóg Najwyższy dał królestwo, wielkość, chwałę i dostojeństwo twojemu ojcu Nebukadnesarowi. A przed wielkością, której On mu udzielił, wszystkie ludy, plemiona i języki drżały i lękały się go; bo, kogo chciał, zabijał, a kogo chciał, zostawiał przy życiu, kogo chciał, wywyższał, a kogo chciał, poniżał. Lecz gdy jego serce wyniosło się w pysze, a jego duch się rozzuchwalił, został strącony z tronu królewskiego i odebrano mu jego chwałę. I został wypędzony spośród ludzi, a jego serce stało się podobne do zwierzęcego; zamieszkał z dzikimi osłami, karmiono go trawą jak bydło i jego ciało było zraszane rosą niebieską, aż poznał, że Bóg Najwyższy ma władzę nad królestwem ludzkim i ustanawia nad nim, kogo chce. A ty, jego synu, Belsazarze, nie uniżyłeś swojego serca, chociaż to wszystko wiedziałeś. Lecz przeciwko Panu nieba się podniosłeś i przyniesiono przed ciebie naczynia z jego świątyni; a ty i twoi dostojnicy, twoje żony i twoje nałożnice piliście z nich wino i wysławiałeś bogów ze srebra i złota, miedzi i żelaza, drzewa i kamienia, które nie widzą ani nie słyszą i nic nie wiedzą, a Boga, w którego ręku jest twoje tchnienie i od którego zależą wszystkie twoje drogi, nie uczciłeś. Dlatego przez niego została zesłana ta ręka i został wypisany ten napis."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zanim Daniel odczyta napis, opowiada królowi historię, którą ten zna. **Po co?** Co jest właściwym zarzutem w wersecie 22?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bogowie ze złota i kamienia „nie widzą ani nie słyszą i nic nie wiedzą\". O prawdziwym Bogu Daniel mówi: „w którego ręku jest twoje tchnienie\". **Co to zestawienie mówi komuś, kto właśnie patrzy na rękę piszącą po ścianie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Belsazar nie przeżył siedmiu lat wśród zwierząt. Dostał tę lekcję za darmo, w opowieści. **Dlaczego cudze doświadczenie tak rzadko nas zmienia?** Czego trzeba, żeby historia usłyszana stała się historią przyjętą?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Zarzut Daniela ma trzy stopnie. Nie uniżyłeś serca. Podniosłeś się przeciw Panu nieba. Nie uczciłeś Boga, który trzyma twój oddech. W środku stoi zdanie, które zmienia wagę wszystkiego: „chociaż to wszystko wiedziałeś\". Nebukadnesar palił Jerozolimę jako człowiek, który tego Boga nie znał, i dostał sny, proroka i rok zwłoki. Belsazar zaczyna tam, gdzie tamten skończył, z gotowym świadectwem w ręku. W tej księdze odpowiedzialność rośnie razem ze światłem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Poznali i nie uwielbili",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 1,20-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo niewidzialna jego istota, to jest wiekuista jego moc i bóstwo, mogą być od stworzenia świata oglądane w dziełach i poznane umysłem, tak iż nic nie mają na swoją obronę, dlatego że poznawszy Boga, nie uwielbili go jako Boga i nie złożyli mu dziękczynienia, lecz znikczemnieli w myślach swoich, a ich nierozumne serce pogrążyło się w ciemności."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nie mówi, że ludziom zabrakło wiedzy. Mówi, czego zabrakło po niej: uwielbienia i dziękczynienia. **Jak to pasuje do Belsazara?** Jaka jest droga od „wiem\" do „dziękuję\"?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Większość osób przy tym stole wie o Bogu więcej niż Belsazar. **Co to zdanie z wersetu 22 znaczy dla ludzi, którzy znają Biblię od dziecka?** Rozmawiajcie o sobie, nie o nieobecnych.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Policzone, zważone, podzielone",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 5,25-30",
+       "przeklad": "BW",
+       "akapity": [
+        "A oto napis, który został wypisany: mene, mene, tekel, uparsin. A taki jest wykład tego słowa: Mene: Bóg policzył dni twojego panowania i doprowadził je do końca. Tekel – jesteś zważony na wadze i znaleziony lekkim. Peres – twoje królestwo będzie podzielone i oddane Medom i Persom. Wtedy na rozkaz Belsazara obleczono Daniela w purpurę i włożono złoty łańcuch na jego szyję i głoszono o nim publicznie, że ma rządzić jako trzeci w królestwie. Tej samej nocy został zabity Belsazar, król chaldejski."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Trzy słowa, trzy czynności: policzyć, zważyć, podzielić. **Kto w tym napisie liczy i waży, a kto jest liczony i ważony?** Jak to się ma do uczty, na której król pokazywał, kto tu rządzi?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Król słyszy wyrok i każe ubrać Daniela w purpurę. Dotrzymuje słowa co do nagrody. **Czego nie robi?** Porównajcie to z tym, co zrobił Nebukadnesar, kiedy usłyszał swój wyrok i radę Daniela.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Rozdział zaczyna się ucztą dla tysiąca, a kończy jednym krótkim zdaniem. **Co autor chce powiedzieć tym, jak mało miejsca poświęca śmierci króla?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "„Znaleziony lekkim\" to obraz wagi szalkowej: na jednej szali kładzie się człowieka, na drugiej to, ile powinien ważyć. W Biblii Bóg jest tym, który waży serca i uczynki, a Jego waga nie liczy złota, murów ani liczby gości. Tego samego wieczoru król rozdaje jeszcze urzędy w królestwie, którego za kilka godzin nie będzie. Ostatnią rzeczą, jaką robi w życiu, jest wypłacenie nagrody za wiadomość, z której nie skorzystał.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Na wadze",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 62,10",
+       "przeklad": "BW",
+       "akapity": [
+        "Tylko tchnieniem są synowie ludzcy, Synowie mężów zaś zawodni, Na wadze podnoszą się w górę, Wszyscy oni lżejsi są niż tchnienie."
+       ]
+      },
+      {
+       "odnosnik": "1Sm 2,3",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie mówcie ustawicznie wyniośle, Niech nie wychodzi zuchwalstwo z ust waszych, Gdyż Pan jest Bogiem, który wszystko wie, Bogiem, który waży uczynki."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm mówi o wszystkich ludziach to samo, co napis mówi o Belsazarze: na wadze idą w górę. **Skoro nikt z nas nie waży dość, co w takim razie odróżnia Belsazara od Nebukadnesara?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czym ludzie zwykle dociążają swoją szalę?** Co z tego ma jakąkolwiek wagę według tych dwóch tekstów?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Uczta zapowiedziana",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Prorocy Izraela opisali upadek Babilonu na długo przed tą nocą, i opisali go jako ucztę.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 21,4-5.9",
+       "przeklad": "BW",
+       "akapity": [
+        "Moje serce dostaje obłędu, przerażenie mnie ogarnia, upragniony przeze mnie zmierzch zmieniło w grozę. Zastawiają stół, rozścielają poduszki, jedzą, piją. Wstańcie, książęta, namaszczajcie tarczę, [...] I oto tu nadchodzi oddział jeźdźców, zaprzęgi konne. I odezwał się głos: Upadł, upadł Babilon i wszystkie posągi jego bogów potrzaskane na ziemi."
+       ]
+      },
+      {
+       "odnosnik": "Jr 51,39.57",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy się rozochocą, przygotuję dla nich ucztę i upiję ich, aż pomdleją i zasną snem wiecznym, z którego się nie obudzą – mówi Pan. [...] Upiję jego książąt i jego mędrców, i jego namiestników, i urzędników, i jego bohaterów, i zasną snem wiecznym, i już się nie obudzą – mówi Król; jego imię Pan Zastępów."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wygnańcy mieli te zwoje ze sobą. **Jak czytał je ktoś taki jak Daniel przez sześćdziesiąt lat, patrząc na mury Babilonu?** Co znaczy dla wierzącego to, że imperium, które wygląda na wieczne, ma w Bożym słowie zapisany koniec?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Napis był najpewniej aramejski, a aramejski zapisuje się samymi spółgłoskami. Mędrcy mogli więc znać litery i nie umieć złożyć z nich zdania, bo sens zależał od tego, jakie samogłoski się doda. Przeczytane jako rzeczowniki trzy słowa to nazwy odważników: mina, szekel i połówka, zapewne pół miny. Brzmiało to jak wykrzyczany na targu cennik. Daniel czyta je jako czasowniki: policzono, zważono, podzielono. W ostatnim słowie słychać jeszcze trzecie znaczenie, bo `peres` brzmi prawie tak samo jak nazwa Persów. Jedno słowo mówi naraz, co się stanie z królestwem i kto je weźmie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wszyscy w sali widzieli te same litery. Odczytał je ten, kto znał Autora. **Co ta scena mówi o rozumieniu Bożego słowa?** Czego trzeba poza znajomością liter?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: upadek Babilonu jako wzór",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Prorok Izajasz nazwał zdobywcę Babilonu po imieniu i dał mu zaskakujący tytuł.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 45,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Tak rzekł Pan do swojego pomazańca Cyrusa, którego ująłem za jego prawicę, aby przed nim zdeptać narody i odpiąć pas na biodrach królów, aby przed nim otworzyć podwoje i aby bramy nie były zamknięte: Ja pójdę przed tobą i wyrównam drogi, wysadzę spiżowe wrota i rozbiję żelazne zawory. I dam ci schowane w mroku skarby i ukryte kosztowności, abyś poznał, że Ja jestem Pan, który cię wołam po imieniu, Bóg Izraela, przez wzgląd na mojego sługę Jakuba i Izraela, mojego wybrańca, wołam cię po imieniu, nadałem ci zaszczytne imię, chociaż mnie nie znałeś."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Ostatnia księga Biblii wraca do tej nocy i używa słów Izajasza.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 18,2-4",
+       "przeklad": "BW",
+       "akapity": [
+        "I zawołał donośnym głosem: Upadł, upadł Wielki Babilon i stał się siedliskiem demonów i schronieniem wszelkiego ducha nieczystego i schronieniem wszelkiego ptactwa nieczystego i wstrętnego. Gdyż wszystkie narody piły wino szaleńczej rozpusty jego i królowie ziemi uprawiali z nim wszeteczeństwo, a kupcy ziemi wzbogacili się na wielkim jego przepychu. I usłyszałem inny głos z nieba mówiący: Wyjdźcie z niego, ludu mój, abyście nie byli uczestnikami jego grzechów i aby was nie dotknęły plagi na niego spadające,"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zbieżności stoją w samym tekście: wino, naczynia, pycha, nagły upadek w jedną noc, wyzwoliciel ze wschodu, wyjście ludu Bożego. Co do tego, czym jest Babilon Apokalipsy, chrześcijanie się różnią. Jedni widzą w nim cesarski Rzym czasów Jana. Inni, w tym adwentyści, czytają go jako obraz religii sprzymierzonej z władzą i przymusem, który wraca w dziejach i będzie miał swoją ostatnią postać przed powrotem Chrystusa. Wtedy Cyrus, pomazaniec, który otwiera bramy i wypuszcza wygnańców do domu, staje się zapowiedzią samego Chrystusa. Obie strony zgadzają się co do wzoru z Dn 5: system, który używa rzeczy świętych do własnej chwały, ma policzone dni, a Bóg najpierw woła swoich ludzi, żeby wyszli.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czym według tych trzech tekstów jest „Babilon\": miejscem na mapie czy sposobem postępowania?** Po czym można go rozpoznać?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg nazywa pomazańcem pogańskiego króla, który Go nie zna, i posługuje się nim, żeby wypuścić swój lud. **Co to mówi o tym, jak Bóg prowadzi historię i przez kogo potrafi działać?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie pozwól, żeby rozmowa zamieniła się w wskazywanie, kto dziś jest Babilonem. Materiał nie nazywa żadnego państwa, kościoła ani osoby. Wystarczy wzór: święte rzeczy użyte do własnej chwały.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Belsazar miał w rodzinie gotowe świadectwo i traktował je jak starą anegdotę. **Czyją historię z Bogiem znasz na pamięć, rodziców, dziadków, kogoś ze zboru, i co z nią do tej pory zrobiłeś?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Naczynia ze świątyni nie były do picia na uczcie. **Co w twoim życiu jest przeznaczone dla Boga, a bywa używane do czegoś zupełnie innego?** Pomyśl o czasie, zdolnościach, ciele, słowach.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest coś, o czym wiesz od dawna, że jest prawdą, i wciąż nic z tym nie robisz?** Nie musisz mówić co.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Nebukadnesar usłyszał od Daniela radę, która zostawiała drzwi otwarte.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 4,24",
+       "przeklad": "BW",
+       "akapity": [
+        "Dlatego, królu, niech ci się spodoba moja rada: Zmaż swoje grzechy sprawiedliwością, a swoje winy miłosierdziem nad ubogimi, może wtedy twoje szczęście będzie trwałe!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Belsazar takiej rady nie dostaje. Nie ma „może\", nie ma roku zwłoki, jest jedna noc. **Czy istnieje chwila, po której jest za późno? Kto ją wyznacza: Bóg, który zamyka drzwi, czy człowiek, który do końca o nic nie prosi?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie rozstrzygaj i nie strasz. Warto, żeby padły dwie obserwacje z tekstu. Belsazar przez cały rozdział ani razu nie zwraca się do Boga: pyta o znaczenie napisu, nie o to, co ma zrobić. A lęk, że dla mnie jest już za późno, sam jest znakiem, że serce nie jest takie jak jego. Jeśli ktoś mówi to o sobie poważnie, zostań z nim po spotkaniu.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Znać historię o Bogu to jeszcze nie to samo, co podnieść oczy. Światło, które dostałem, czeka na odpowiedź.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Dn 5,22 albo Dn 5,23b.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przypomnij sobie jedną rzecz, którą Bóg pokazał ci wyraźnie, przez czyjeś życie, przez własne doświadczenie albo przez Jego słowo, i która od tamtej pory leży odłożona. Powiedz Mu o niej wprost: „Wiedziałem o tym\". Zobacz, co chcesz powiedzieć potem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Daniel powiedział królowi o Bogu, „w którego ręku jest twoje tchnienie\". Zatrzymaj się dziś na chwilę przy własnym oddechu i zapytaj siebie: **kiedy ostatnio podziękowałem za to, co uważam za oczywiste?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** zapytaj kogoś starszego w wierze, rodzica, babcię, kogoś ze zboru, o jego historię z Bogiem, tę samą, którą słyszałeś już wiele razy. Tym razem posłuchaj jej tak, jakby była skierowana do ciebie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„A jeśli dla mnie też jest już za późno?\"** Potraktuj to poważnie i spokojnie. Belsazar do końca nie zwrócił się do Boga ani jednym słowem, a jego ostatnią decyzją było rozdanie nagrody. Ktoś, kto się boi, że zamknął sobie drogę, już robi to, czego tamten nie zrobił. W tej samej księdze Nebukadnesar, który spalił świątynię, dostaje cały rozdział na świadectwo. Jeśli lęk jest silny albo uporczywy, porozmawiaj z tą osobą po spotkaniu i zachęć do rozmowy z pastorem. Przy myślach o odebraniu sobie życia nie zostawaj z tym sam: telefon zaufania 116 123, numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rodzic mówi z bólem: „moje dzieci wszystko wiedziały i odeszły\".** Nie pozwól, żeby ten rozdział stał się wyrokiem na czyjeś dzieci. Tekst nie obwinia Nebukadnesara za Belsazara i nie mówi nic o ludziach, którzy żyją i których historia trwa. Belsazar to człowiek w ostatniej nocy swojego życia. Dorosłe dziecko, które wciąż przychodzi na rodzinny obiad, nim nie jest. Podziękuj za szczerość i nie dopuszczaj do rad ze strony grupy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na alkohol: ile wolno, czy wolno, kto pije.** Wino nie jest osią tego rozdziału. Tekst zauważa tylko, że król sięgnął po naczynia, gdy był pod jego działaniem. Przy stole może siedzieć ktoś, kogo ten temat dotyka osobiście. Wróć do pytania, z czego pito i po co. Jeśli ktoś chce rozmawiać o trzeźwości, zaproponuj osobne spotkanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś przykłada „policzone, zważone, podzielone\" do dzisiejszego rządu, państwa albo Kościoła.** Przerwij. Materiał nie wskazuje żadnej współczesnej władzy, daty ani instytucji. Napis był adresowany do jednego człowieka, który znał prawdę. Zapytaj zamiast tego: co w moim życiu leży dziś na wadze?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli Bóg zabija za świętokradztwo\" albo lęk, że za nieuważne potraktowanie rzeczy świętych spotka kogoś kara.** Tekst nie mówi, że Bóg zabił Belsazara. Mówi, że Bóg policzył dni jego panowania i że tej nocy król zginął, gdy padło miasto. Zarzut Daniela nie dotyczy jednego gestu, tylko całego życia wbrew temu, co król wiedział. Nikt przy stole nie jest w tej sytuacji przez to, że kiedyś położył Biblię na podłodze.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Pytania o historię: kim był Belsazar, kim Dariusz Medyjczyk, dlaczego „trzeci w królestwie\".** Powiedz uczciwie, że o te szczegóły historycy spierają się od dawna i że materiał ich nie rozstrzyga. Pewne jest to, co potrzebne do spotkania: słowo „ojciec\" oznacza w tych językach także przodka i poprzednika, a tej nocy państwo babilońskie przeszło w ręce Medów i Persów. Reszta to temat dla zainteresowanych, po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu o to, co wie i z czym nic nie robi.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami. Nie wywołuj nikogo.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Blok 3 przeczytajcie tylko na głos, bez pytań. Bloków 4 i 5 nie skracaj: zdanie „chociaż to wszystko wiedziałeś\" i napis niosą całe spotkanie.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„A jeśli dla mnie też jest już za późno?\"",
+     "odpowiedz": "Potraktuj to poważnie i spokojnie. Belsazar do końca nie zwrócił się do Boga ani jednym słowem, a jego ostatnią decyzją było rozdanie nagrody. Ktoś, kto się boi, że zamknął sobie drogę, już robi to, czego tamten nie zrobił. W tej samej księdze Nebukadnesar, który spalił świątynię, dostaje cały rozdział na świadectwo. Jeśli lęk jest silny albo uporczywy, porozmawiaj z tą osobą po spotkaniu i zachęć do rozmowy z pastorem. Przy myślach o odebraniu sobie życia nie zostawaj z tym sam: telefon zaufania 116 123, numer alarmowy 112."
+    },
+    {
+     "sytuacja": "Rodzic mówi z bólem: „moje dzieci wszystko wiedziały i odeszły\".",
+     "odpowiedz": "Nie pozwól, żeby ten rozdział stał się wyrokiem na czyjeś dzieci. Tekst nie obwinia Nebukadnesara za Belsazara i nie mówi nic o ludziach, którzy żyją i których historia trwa. Belsazar to człowiek w ostatniej nocy swojego życia. Dorosłe dziecko, które wciąż przychodzi na rodzinny obiad, nim nie jest. Podziękuj za szczerość i nie dopuszczaj do rad ze strony grupy."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na alkohol: ile wolno, czy wolno, kto pije.",
+     "odpowiedz": "Wino nie jest osią tego rozdziału. Tekst zauważa tylko, że król sięgnął po naczynia, gdy był pod jego działaniem. Przy stole może siedzieć ktoś, kogo ten temat dotyka osobiście. Wróć do pytania, z czego pito i po co. Jeśli ktoś chce rozmawiać o trzeźwości, zaproponuj osobne spotkanie."
+    },
+    {
+     "sytuacja": "Ktoś przykłada „policzone, zważone, podzielone\" do dzisiejszego rządu, państwa albo Kościoła.",
+     "odpowiedz": "Przerwij. Materiał nie wskazuje żadnej współczesnej władzy, daty ani instytucji. Napis był adresowany do jednego człowieka, który znał prawdę. Zapytaj zamiast tego: co w moim życiu leży dziś na wadze?"
+    },
+    {
+     "sytuacja": "„Czyli Bóg zabija za świętokradztwo\" albo lęk, że za nieuważne potraktowanie rzeczy świętych spotka kogoś kara.",
+     "odpowiedz": "Tekst nie mówi, że Bóg zabił Belsazara. Mówi, że Bóg policzył dni jego panowania i że tej nocy król zginął, gdy padło miasto. Zarzut Daniela nie dotyczy jednego gestu, tylko całego życia wbrew temu, co król wiedział. Nikt przy stole nie jest w tej sytuacji przez to, że kiedyś położył Biblię na podłodze."
+    },
+    {
+     "sytuacja": "Pytania o historię: kim był Belsazar, kim Dariusz Medyjczyk, dlaczego „trzeci w królestwie\".",
+     "odpowiedz": "Powiedz uczciwie, że o te szczegóły historycy spierają się od dawna i że materiał ich nie rozstrzyga. Pewne jest to, co potrzebne do spotkania: słowo „ojciec\" oznacza w tych językach także przodka i poprzednika, a tej nocy państwo babilońskie przeszło w ręce Medów i Persów. Reszta to temat dla zainteresowanych, po spotkaniu."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu o to, co wie i z czym nic nie robi.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami. Nie wywołuj nikogo."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Blok 3 przeczytajcie tylko na głos, bez pytań. Bloków 4 i 5 nie skracaj: zdanie „chociaż to wszystko wiedziałeś\" i napis niosą całe spotkanie."
+    }
+   ]
+  }
+ ]
+}

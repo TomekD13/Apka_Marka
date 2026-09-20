@@ -2,7 +2,7 @@ import { useEffect, useState, type ReactNode } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { useI18n } from '../i18n'
 
-export type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' | 'download' | 'settings' | 'close' | 'notes' | 'memory' | 'occasion' | 'lesson' | 'contact' | 'chevron'
+export type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' | 'download' | 'settings' | 'close' | 'notes' | 'memory' | 'occasion' | 'lesson' | 'group' | 'contact' | 'chevron'
 
 export function AppIcon({ name, className = '' }: { name: IconName; className?: string }) {
   if (name === 'prayer') {
@@ -30,6 +30,7 @@ export function AppIcon({ name, className = '' }: { name: IconName; className?: 
     memory: <><rect x="5" y="6" width="22" height="20" rx="3"/><path d="M10 11h12M10 16h8M10 21h5"/></>,
     occasion: <><path d="M16 27S6 21.3 6 13c0-5.5 6.6-7.7 10-2.8C19.4 5.3 26 7.5 26 13c0 8.3-10 14-10 14Z"/></>,
     lesson: <><path d="M5 7h22v18H5zM9 4v6M23 4v6M9 15h14M9 20h8"/></>,
+    group: <><circle cx="12" cy="12" r="4"/><circle cx="22.5" cy="13.5" r="3"/><path d="M4 26c0-4.4 3.6-8 8-8s8 3.6 8 8M22 19.5c3.6 0 6.5 2.9 6.5 6.5"/></>,
     contact: <><rect x="4.5" y="6" width="23" height="18" rx="3"/><path d="m6 9 10 7 10-7"/></>,
     chevron: <path d="m11 7 10 9-10 9"/>,
   }
@@ -87,9 +88,9 @@ export function AppNavigation() {
           <DrawerLink to={`${home}/okazje`} icon="occasion" onClick={() => setOpen(false)}>{t('occasions.cta', 'Teksty na różne okazje')}</DrawerLink>
         </DrawerGroup>
         <DrawerGroup icon="hope" title="#JestNadzieja – materiały" open={hopeOpen} onToggle={() => setHopeOpen(!hopeOpen)}>
-          <DrawerLink to={`${home}/jest-nadzieja`} icon="hope" onClick={() => setOpen(false)}>#JestNadzieja – materiały</DrawerLink>
           <DrawerLink to={`${home}/40-dni`} icon="prayer" onClick={() => setOpen(false)}>{t('home.pray40', '40 dni modlitwy')}</DrawerLink>
           <DrawerLink to={`${home}/edukacja`} icon="lesson" onClick={() => setOpen(false)}>{t('edu.title', 'Materiały edukacyjne')}</DrawerLink>
+          <DrawerLink to={`${home}/grupy-nadziei`} icon="group" onClick={() => setOpen(false)}>{t('groups.title', 'Grupy Nadziei')}</DrawerLink>
         </DrawerGroup>
         <DrawerGroup icon="music" title={t('nav.songs', 'Pieśni')} open={songsOpen} onToggle={() => setSongsOpen(!songsOpen)}>
           <DrawerLink to={`${home}/spiewnik`} icon="music" onClick={() => setOpen(false)}>{t('songs.title', 'Śpiewnik')}</DrawerLink>

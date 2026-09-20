@@ -1,0 +1,759 @@
+{
+ "tytul": "Pojednanie",
+ "id": "R-03",
+ "seria": "Relacje",
+ "opis": "Przebaczyć można samemu, pojednać się trzeba we dwoje. Droga Jakuba do Ezawa.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Rdz 32,4-13; Rdz 33,1-11; Rdz 33,12-17; Mt 5,23-24; Łk 19,8-9; 2Kor 5,17-20",
+  "p2": "Rdz 27,41-45; Rdz 32,25-32; Flm 10-18; Rdz 33,18-20; 1J 4,20-21",
+  "p3": "Rdz 33,10-11; Rdz 45,14-15.24"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 28,
+  "p3": 32
+ },
+ "tagi": [
+  "relacje",
+  "pojednanie",
+  "rodzina",
+  "wina",
+  "pierwszy krok"
+ ],
+ "wersja": 1,
+ "zdanie": "Przebaczyć mogę sam. Do pojednania idzie się we dwoje, a pierwszy krok należy do tego, kto pierwszy go zobaczył.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przebaczyć można samemu. Pojednać się trzeba we dwoje. To spotkanie idzie za jedną historią, Jakuba i Ezawa, i patrzy na nią głównie oczami tego, kto zawinił i wraca. Pokazuje, ile kosztuje droga do brata, jak wygląda przyjęcie i dlaczego pojednani bracia rozeszli się potem każdy w swoją stronę. Na końcu Paweł pokazuje, że tak samo postąpił z nami Bóg.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole może żyć w zerwanej relacji z rodzicem, dzieckiem albo rodzeństwem i od lat słyszeć, że „powinien się pogodzić\". Nie dokładaj nacisku.",
+      "Ktoś mógł doświadczyć przemocy. Dla tej osoby pojednanie rozumiane jako powrót jest niebezpieczne. Przeczytaj pierwszą czerwoną flagę przed spotkaniem.",
+      "Druga strona mogła już umrzeć. Temat poruszy wtedy żałobę i żal, że nie zdążyło się porozmawiać."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie namawiaj nikogo do konkretnego kroku wobec konkretnej osoby. Nie obiecuj, że druga strona wybiegnie naprzeciw. Nie każdy Ezaw wybiega.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie sytuację, w której ktoś pierwszy wyciągnął do ciebie rękę po kłótni. Bez szczegółów. Powiedz jednym zdaniem, jak to zrobił.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi, nie dopytuj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Boję się go",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Dwadzieścia lat wcześniej Jakub podstępem odebrał bratu błogosławieństwo ojca. Ezaw chciał go za to zabić, więc Jakub uciekł. Teraz wraca z rodziną i stadami.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 32,4-13",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem posłał Jakub przed sobą posłów do Ezawa, brata swego, do ziemi Seir, do krainy Edom, i dał im takie polecenie: Tak powiecie panu mojemu Ezawowi: To mówi sługa twój, Jakub: Byłem gościem Labana i zatrzymałem się tam aż dotąd. A mam woły i osły, trzody, niewolników i niewolnice; i posyłam posłów, aby dać znać o tym panu mojemu, by znaleźć łaskę u ciebie.",
+        "A gdy posłowie wrócili do Jakuba, rzekli: Przyszliśmy do brata twego, do Ezawa, lecz on już idzie na twoje spotkanie, a jest z nim czterystu mężów. Wtedy Jakub zląkł się bardzo i zatrwożył. Rozdzielił więc na dwa obozy ludzi, którzy z nim byli, owce, bydło i wielbłądy, pomyślał bowiem: Jeżeli Ezaw napadnie na jeden obóz i pobije go, wtedy ocaleje drugi obóz.",
+        "Potem rzekł Jakub: Boże ojca mego Abrahama i Boże ojca mego Izaaka, Panie, który do mnie powiedziałeś: Wróć do ziemi swojej i do ojczyzny swojej, a będę ci czynił dobrze, niegodny jestem wszystkich dowodów łaski i wszystkich objawów wierności, jakie okazałeś słudze twemu, bo tylko o tym kiju moim przeprawiłem się przez Jordan, a teraz mam dwa obozy. Wyrwij mnie, proszę, z ręki brata mego, z ręki Ezawa, bo boję się go, że przyjdzie i zabije mnie oraz matkę z dziećmi. Wszak sam powiedziałeś: Będę ci czynił dobrze i rozmnożę potomstwo twoje jak piasek morski, którego nie można zliczyć z powodu wielkiej ilości!"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wypiszcie wszystko, co Jakub robi przed spotkaniem. **Co z tego jest zabezpieczeniem się, a co jest już krokiem w stronę brata?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "To Jakub skrzywdził i to Jakub się boi. **Co jego strach mówi o tym, jak przez dwadzieścia lat nosił w sobie tamtą sprawę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W skradzionym błogosławieństwie ojciec zapowiedział, że bracia będą Jakubowi służyć. Teraz Jakub każe nazywać Ezawa panem, a siebie sługą. **Co oddaje tymi słowami?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Nikt Jakuba do tego spotkania nie zmuszał. Mógł ominąć Seir szerokim łukiem. Tymczasem sam wysyła posłów i sam daje znać, że wraca. Tuż przedtem spotkał na drodze aniołów i nazwał to miejsce obozem Bożym. Zaraz potem dzieli własny obóz i śle ludzi do brata. Wygląda na to, że zrozumiał coś ważnego: nie wróci do ziemi, którą obiecał mu Bóg, omijając człowieka, którego skrzywdził.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: aż zapomni",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 27,41-45",
+       "przeklad": "BW",
+       "akapity": [
+        "Dlatego znienawidził Ezaw Jakuba z powodu błogosławieństwa, którym go pobłogosławił ojciec, i taki powziął Ezaw zamiar: Zbliżają się dni żałoby po ojcu moim. Wtedy zabiję brata mego Jakuba. Rebece doniesiono słowa Ezawa, starszego jej syna. Wtedy ona kazała przywołać Jakuba, młodszego syna, i rzekła do niego: Brat twój, Ezaw, chce zemścić się na tobie i zabić cię. Posłuchaj więc, synu mój, głosu mego, wstań i uciekaj do Haranu, do Labana, brata mego. Zamieszkaj u niego przez jakiś czas, aż przejdzie złość brata twego, a gdy przeminie gniew brata twego przeciwko tobie i zapomni o tym, coś mu uczynił, dam ci znać i sprowadzę cię stamtąd. Czemu jednego dnia miałabym was obu utracić?"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Rebeka liczy na to, że czas załatwi sprawę. „Jakiś czas\" trwał dwadzieścia lat, a Biblia nigdzie nie wspomina, żeby matka jeszcze zobaczyła syna. **Co czas w tej historii zrobił, a czego nie zrobił?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Dlaczego ucieczka była wtedy rozsądna, a mimo to niczego nie rozwiązała?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Noc przed spotkaniem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 32,25-32",
+       "przeklad": "BW",
+       "akapity": [
+        "Jakub zaś pozostał sam. I mocował się z nim pewien mąż aż do wzejścia zorzy. A gdy widział, że go nie przemoże, uderzył go w staw biodrowy i zwichnął staw biodrowy Jakuba, gdy się z nim mocował. I rzekł: Puść mnie, bo już wzeszła zorza. Ale on odpowiedział: Nie puszczę cię, dopóki mi nie pobłogosławisz. Wtedy rzekł do niego: Jakie jest imię twoje? I odpowiedział: Jakub. Wtedy rzekł: Nie będziesz już nazywał się Jakub, lecz Izrael, bo walczyłeś z Bogiem i z ludźmi i zwyciężyłeś. A Jakub zapytał, mówiąc: Powiedz mi, proszę, jakie jest imię twoje? Na to odpowiedział: Dlaczego pytasz o imię moje? I tam mu błogosławił. I nazwał Jakub to miejsce Peniel, mówiąc: Oglądałem Boga twarzą w twarz, a jednak ocalało życie moje. A gdy przechodził przez Peniel, wschodziło nad nim słońce, on zaś utykał z powodu biodra swego."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Kiedy Ezaw dowiedział się o oszustwie, powiedział, że brat słusznie nazywa się Jakub, bo już dwa razy go podszedł. **Co w takim razie znaczy dla Jakuba wypowiedzieć tej nocy swoje imię?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakub wychodzi z tej nocy z nowym imieniem i kulejąc. **Jak jedno i drugie przygotowuje go na poranek z bratem?** Jak wygląda człowiek, który idzie się pojednać, utykając?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Wybiegł naprzeciw",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 33,1-11",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy Jakub podniósł oczy swoje, zobaczył, że Ezaw nadchodzi a z nim czterystu mężów. Rozdzielił więc dzieci pomiędzy Leę, Rachelę i dwie służące. Na przedzie ustawił służące wraz z ich dziećmi, Leę z jej dziećmi za nimi, Rachelę zaś z Józefem na końcu. Sam natomiast poszedł przed nimi i pokłonił się siedem razy aż do ziemi, zanim zbliżył się do brata swego. Ezaw wybiegł naprzeciw niego, objął go, rzucił mu się na szyję i ucałował go; i rozpłakali się.",
+        "A gdy Ezaw podniósł oczy i ujrzał żony i dzieci, rzekł: A ci kim są dla ciebie? Odpowiedział: To dzieci, którymi Bóg łaskawie obdarzył sługę twego. Potem przybliżyły się służące z dziećmi swymi i pokłoniły się. Przybliżyła się też Lea z dziećmi swymi i pokłoniły się, potem przybliżył się Józef i Rachela i pokłonili się. A Ezaw rzekł: Co ma znaczyć cały ten twój obóz, który spotkałem? I odpowiedział: Chcę zdobyć życzliwość pana mego. Wtedy rzekł Ezaw: Ja mam dosyć, bracie mój, zatrzymaj sobie to, co twoje. Rzekł Jakub: O, nie! Proszę cię, jeślim zdobył życzliwość twoją, przyjmij dar mój ode mnie, bo oglądałem oblicze twoje, jak się ogląda oblicze Boga i przyjąłeś mnie łaskawie. Przyjmij, proszę, upominek mój, który ci złożyłem, gdyż Bóg był mi łaskawy i mam wszystko! A gdy usilnie nalegał na niego, przyjął."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Policzcie czasowniki w wersecie 4. **Czego Jakub się spodziewał, a co dostał? Który z tych czasowników należy już do obu braci?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ezaw mówi, że ma dosyć, a Jakub nalega, żeby brat wziął dar. **Dlaczego Jakubowi tak na tym zależy? Czym jest ten dar, skoro nie jest zapłatą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W całej scenie nie pada ani „przepraszam\", ani „przebaczam\". **Jak jedno i drugie zostało powiedziane bez słów?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Oglądałem oblicze twoje, jak się ogląda oblicze Boga\". **Co Jakub zobaczył w twarzy brata?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Pokuta Jakuba zapisana jest w gestach. Ojciec zapowiedział, że bracia będą mu się kłaniać, a teraz to on kłania się siedem razy i oddaje stada. Przyjęcie Ezawa też jest zapisane w gestach: wybiegł, objął, rzucił się na szyję, ucałował. Kiedy Jezus opowie o ojcu, który biegnie do marnotrawnego syna, użyje tych samych obrazów. Słuchacze znający Księgę Rodzaju wiedzieli, skąd pochodzi ta scena.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W wersecie 11 Jakub nie prosi po hebrajsku o przyjęcie „upominku\". Mówi: przyjmij moją `berachę`, czyli moje błogosławieństwo. To jest dokładnie to słowo, wokół którego kręcił się cały rozdział 27. Jakub oddaje bratu to, co mu kiedyś zabrał, i nazywa rzecz po imieniu. Dla porównania przekład ekumeniczny, podobnie jak BW, wygładza to miejsce: „Weź, proszę, mój dar, który ci przyniesiono\".",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Druga gra słów dotyczy twarzy. Miejsce nocnej walki Jakub nazwał Peniel, „oblicze Boga\". Kilka godzin później mówi Ezawowi, że oglądał jego `panim`, oblicze, tak jak się ogląda oblicze Boga. Dwa razy w ciągu jednej doby spodziewał się śmierci i dwa razy zobaczył twarz, która go przyjęła.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia w rozumieniu sceny wiedza, że Jakub mówi „przyjmij moje błogosławieństwo\"?** Dlaczego przy pojednaniu tak ważne jest, żeby winny sam nazwał to, co zrobił?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Każdy w swoją stronę",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 33,12-17",
+       "przeklad": "BW",
+       "akapity": [
+        "A potem rzekł: Ruszajmy w drogę i chodźmy, a ja pójdę z tobą. Odpowiedział mu Jakub: Pan mój wie, że dzieci są jeszcze wątłe, muszę też mieć wzgląd na owce i krowy, które karmią młode. Jeśli popędzi się je przez jeden dzień, zginie całe stado. Niech pan mój jedzie naprzód przed sługą swoim, a ja będę ciągnął powoli, w miarę jak nadąży bydło, które jest przede mną, i jak nadążą dzieci, aż dojdę do pana mego do Seiru. Wtedy rzekł Ezaw: Pozwól tedy, że zostawię z tobą kilku z moich ludzi. A on odpowiedział: Po cóż to? Bylem tylko zdobył życzliwość pana mego. Tego dnia udał się Ezaw w drogę powrotną do Seiru, a Jakub wyruszył do Sukkot i zbudował sobie dom, a dla stad swoich wystawił szałasy. Dlatego nazwano to miejsce Sukkot."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ezaw proponuje wspólną drogę, potem eskortę. Jakub dwa razy uprzejmie odmawia. **Jak to odczytujecie: jako nieufność, roztropność, a może jedno i drugie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bracia padli sobie w ramiona i tego samego dnia rozeszli się w przeciwne strony. **Co to mówi o tym, czym pojednanie jest, a czym być nie musi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jakub mówi, że dojdzie do Seiru, a idzie do Sukkot. **Co o tym myślicie?** Tekst tego nie komentuje.",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Biblia nie dopisuje tej historii szczęśliwego zakończenia, w którym bracia zamieszkują po sąsiedzku. Pojednanie nie przywróciło im dzieciństwa i nie zrobiło z nich przyjaciół. Zrobiło coś skromniejszego i wystarczającego: zdjęło z jednego strach, z drugiego żądzę odwetu i pozwoliło im żyć osobno bez wrogości. Po latach Księga Rodzaju wspomni ich jeszcze raz razem. Staną obok siebie przy grobie ojca.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Zostaw dar",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 5,23-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeślibyś więc składał dar swój na ołtarzu i tam wspomniałbyś, iż brat twój ma coś przeciwko tobie, zostaw tam dar swój na ołtarzu, odejdź i najpierw pojednaj się z bratem swoim, a potem przyszedłszy, złóż dar swój."
+       ]
+      },
+      {
+       "odnosnik": "Łk 19,8-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Zacheusz zaś stanął i rzekł do Pana: Panie, oto połowę majątku mojego daję ubogim, a jeśli na kim co wymusiłem, jestem gotów oddać w czwórnasób. A Jezus rzekł do niego: Dziś zbawienie stało się udziałem domu tego, ponieważ i on jest synem Abrahamowym."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi o sytuacji, w której to ja zawiniłem i wiem o tym. Jakub też wiedział. **Dlaczego właśnie wtedy droga do drugiego człowieka jest najdłuższa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zacheusz nie poprzestaje na słowach. **Co dodaje? Jakie miejsce w pojednaniu ma naprawienie szkody?** Porównajcie to z darem Jakuba.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ołtarz z pierwszego tekstu stał w Jerozolimie, a Jezus mówi to w Galilei, kilka dni drogi stamtąd. **Co ta odległość mówi o tym, co jest dla Boga pilniejsze?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Mnie to przypisz",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Onezym, niewolnik Filemona, uciekł od swego pana i prawdopodobnie go okradł. Trafił do uwięzionego Pawła i uwierzył. Paweł odsyła go z listem.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Flm 10-18",
+       "przeklad": "BW",
+       "akapity": [
+        "proszę cię za synem moim, Onezymem, którego urodziłem w więzieniu, który niegdyś nie był dla ciebie użyteczny, ale teraz jest dla ciebie i dla mnie bardzo użyteczny. Tego ci odsyłam, a on jest sercem moim. Chciałem go przy sobie zatrzymać, aby mi w twoim zastępstwie posługiwał w więzieniu, które znoszę dla ewangelii, ale bez twego przyzwolenia nie chciałem nic uczynić, aby twój dobry uczynek nie był jakby wymuszony, lecz był z dobrej woli. Bo, być może, że dlatego utraciłeś go na krótki czas, abyś go odzyskał na wieki, i to już nie jako sługę, ale więcej niż sługę, bo jako brata umiłowanego, zwłaszcza dla mnie, a tym bardziej dla ciebie, tak według ciała, jak i w Panu. Jeżeli więc masz mnie za przyjaciela, przyjmij go jak mnie. A jeżeli ci jakąś szkodę wyrządził albo jest ci coś winien, mnie to przypisz."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł staje między dwiema stronami. **Co bierze na siebie? Czego mimo swojego autorytetu nie robi?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Nie jako sługę, ale jako brata\". **Pojednanie przywraca tu stary układ czy tworzy nowy?** Co z tego wynika dla relacji, do których nie chcemy wracać w dawnym kształcie?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wśród osób pozdrawiających Filemona na końcu listu jest Marek, ten sam, którego Paweł kiedyś nie chciał zabrać w podróż. **Co to dodaje do prośby Pawła?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Służba pojednania",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Kor 5,17-20",
+       "przeklad": "BW",
+       "akapity": [
+        "Tak więc, jeśli ktoś jest w Chrystusie, nowym jest stworzeniem; stare przeminęło, oto wszystko stało się nowe. A wszystko to jest z Boga, który nas pojednał z sobą przez Chrystusa i poruczył nam służbę pojednania, to znaczy, że Bóg w Chrystusie świat z sobą pojednał, nie zaliczając im ich upadków, i powierzył nam słowo pojednania. Dlatego w miejsce Chrystusa poselstwo sprawujemy, jak gdyby przez nas Bóg upominał; w miejsce Chrystusa prosimy: Pojednajcie się z Bogiem."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W historii Jakuba pierwszy krok zrobił winny. **Kto robi pierwszy krok tutaj? Która strona była w tej relacji skrzywdzona?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg zrobił ze swojej strony wszystko, a Paweł mimo to prosi: pojednajcie się. **Czego nawet Bóg nie robi za drugą stronę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Poruczył nam służbę pojednania\". **Po czym w skłóconej rodzinie albo w skłóconym zborze można poznać człowieka, który sam został pojednany?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Bóg w tym tekście nie stoi z boku jako ktoś, kogo trzeba dopiero udobruchać. Był w Chrystusie i sam wyszedł z inicjatywą, choć to Jego skrzywdzono. Przypomina tu Ezawa, który wybiega, a jeszcze bardziej ojca z przypowieści Jezusa. Jednocześnie niczego nie wymusza. Prosi. Pojednanie nawet dla Boga jest drogą dwóch stron: można przejść całą swoją część i nadal czekać na drugiego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ołtarz po pojednaniu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 33,18-20",
+       "przeklad": "BW",
+       "akapity": [
+        "Na koniec dotarł Jakub szczęśliwie po powrocie z Paddan-Aram do miasta Sychem w ziemi kanaanejskiej i rozbił obóz pod miastem, kupiwszy za sto srebrników od synów Chamora, ojca Sychema, część pola, na którym rozbił swój namiot. Tam też postawił ołtarz i nazwał go: Bóg jest Bogiem Izraela."
+       ]
+      },
+      {
+       "odnosnik": "1J 4,20-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeśli kto mówi: Miłuję Boga, a nienawidzi brata swego, kłamcą jest; albowiem kto nie miłuje brata swego, którego widzi, nie może miłować Boga, którego nie widzi. A to przykazanie mamy od niego, aby ten, kto miłuje Boga, miłował i brata swego."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przez dwadzieścia lat Jakub mówił o „Bogu mojego ojca\". Izrael to jego własne nowe imię. **Co znaczy nazwa, którą nadaje ołtarzowi, i dlaczego pada dopiero teraz, po spotkaniu z bratem?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jan łączy brata, którego widać, z Bogiem, którego nie widać. **Jak historia Jakuba ilustruje to zdanie?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: pojednanie nie jest gwarancją",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 45,14-15.24",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem rzucił się na szyję bratu swemu Beniaminowi i płakał. Beniamin też płakał w objęciach jego, następnie ucałował wszystkich braci swoich i płakał obejmując ich, po czym rozmawiali z nim bracia jego. [...] Potem odprawił braci, a gdy odjeżdżali, rzekł do nich: Nie kłóćcie się w drodze!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokolenie później synowie Jakuba przeżywają własną scenę łez i objęć. Józef przed chwilą płakał z braćmi, a na pożegnanie mówi im rzecz zupełnie trzeźwą. Wiele lat potem, po śmierci ojca, ci sami bracia wciąż będą się go bali.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co Józef wie o pojednaniu, skoro zaraz po objęciach mówi „nie kłóćcie się w drodze\"?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Pojednanie jest wydarzeniem czy drogą?** Co przemawia za jednym, a co za drugim w obu historiach z Księgi Rodzaju?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W tej historii jest ten, kto idzie z duszą na ramieniu, i ten, kto wybiega naprzeciw. **W której z tych ról bywasz częściej? Która jest dla ciebie trudniejsza?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co w pojednaniu kosztuje cię najwięcej: pierwszy krok, nazwanie własnej winy, naprawienie szkody czy przyjęcie wyciągniętej ręki?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest ktoś, do kogo droga prowadzi przez twój Jabbok?** Nie musisz mówić kto.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakub nie wiedział, jak skończy się spotkanie. Ezaw szedł z czterystu ludźmi, a Jakub ustawił rodzinę tak, żeby część mogła uciec. **Kiedy próba pojednania jest odwagą, a kiedy narażaniem siebie i bliskich? Czy są relacje, w których trzeba poprzestać na przebaczeniu z daleka?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie szukaj jednej odpowiedzi. Warto, żeby padło, że Jakub szedł przygotowany i ostrożny, a po spotkaniu zachował dystans. Warto też powiedzieć wprost, że tam, gdzie druga strona nadal krzywdzi, bezpieczeństwo idzie przed pojednaniem.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przebaczyć mogę sam. Do pojednania idzie się we dwoje, a pierwszy krok należy do tego, kto pierwszy go zobaczył.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Rdz 33,10 albo 2Kor 5,18.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jakub przez dwadzieścia lat wiedział, że brat ma coś przeciwko niemu. Zapytaj siebie w ciszy: **kto ma coś przeciwko mnie i ja o tym wiem?** Nie szukaj usprawiedliwień. Zostań chwilę przy samym imieniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zanim Jakub stanął przed bratem, spędził noc sam na sam z Bogiem i musiał powiedzieć, jak się nazywa. Zapytaj Boga: **co musiałbym nazwać po imieniu, zanim pójdę do tego człowieka?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli jest szkoda, którą da się naprawić, przyznaj przed sobą, co by to było. Rzecz do oddania, słowo do odwołania, zdanie do wypowiedzenia. Nie planuj jeszcze niczego. Zobacz najpierw, co się w tobie temu sprzeciwia.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o pojednaniu z osobą, która stosowała albo stosuje przemoc.** Powiedz jasno: przebaczenie nie oznacza powrotu do krzywdziciela ani rezygnacji z ochrony siebie i dzieci. Pojednanie wymaga dwóch stron i prawdziwej zmiany tej, która krzywdziła. Nie da się go zrobić w pojedynkę ani na siłę. Jakub szedł ostrożnie i po spotkaniu zachował dystans. Nie zostawaj z tym sam, porozmawiaj po spotkaniu i pomóż znaleźć fachową pomoc. Przy bezpośrednim zagrożeniu numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Próbowałem. Druga strona nie chce.\"** Nie dopytuj, co zrobił źle. Paweł prosi w imieniu Boga „pojednajcie się\", więc nawet Bóg bywa stroną, która czeka. Możesz powiedzieć: „Swoją część drogi można przejść do końca. Na drugą nie mamy wpływu\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„On już nie żyje.\"** To jest żałoba, nie temat do dyskusji. Wysłuchaj i nie podsuwaj rozwiązań. Jeśli osoba chce, możesz dodać, że to, co niewypowiedziane, wciąż można wypowiedzieć przed Bogiem. Zostań z nią po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś pod wpływem spotkania chce jeszcze dziś dzwonić albo jechać.** Ostudź życzliwie. Jakub przygotowywał się długo: posłańcy, modlitwa, noc nad Jabbokiem. Pośpiech rzadko służy pojednaniu. Zachęć, żeby najpierw porozmawiał o tym z Bogiem i z kimś zaufanym.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Pogodziliśmy się, a i tak jest między nami chłodno.\"** Wróć do bloku 3. Bracia rozeszli się każdy w swoją stronę i Biblia nie nazywa tego porażką. Pojednanie nie zawsze daje bliskość. Czasem daje pokój i to wystarcza.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś przy stole zaczyna godzić dwie inne osoby albo naciska: „powinieneś do niej pójść\".** Przerwij spokojnie. Każdy zna tylko swoją część drogi. Materiał mówi o moim pierwszym kroku, nie o cudzym.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś mówi o pojednaniu z osobą, która stosowała albo stosuje przemoc.",
+     "odpowiedz": "Powiedz jasno: przebaczenie nie oznacza powrotu do krzywdziciela ani rezygnacji z ochrony siebie i dzieci. Pojednanie wymaga dwóch stron i prawdziwej zmiany tej, która krzywdziła. Nie da się go zrobić w pojedynkę ani na siłę. Jakub szedł ostrożnie i po spotkaniu zachował dystans. Nie zostawaj z tym sam, porozmawiaj po spotkaniu i pomóż znaleźć fachową pomoc. Przy bezpośrednim zagrożeniu numer alarmowy 112."
+    },
+    {
+     "sytuacja": "„Próbowałem. Druga strona nie chce.\"",
+     "odpowiedz": "Nie dopytuj, co zrobił źle. Paweł prosi w imieniu Boga „pojednajcie się\", więc nawet Bóg bywa stroną, która czeka. Możesz powiedzieć: „Swoją część drogi można przejść do końca. Na drugą nie mamy wpływu\"."
+    },
+    {
+     "sytuacja": "„On już nie żyje.\"",
+     "odpowiedz": "To jest żałoba, nie temat do dyskusji. Wysłuchaj i nie podsuwaj rozwiązań. Jeśli osoba chce, możesz dodać, że to, co niewypowiedziane, wciąż można wypowiedzieć przed Bogiem. Zostań z nią po spotkaniu."
+    },
+    {
+     "sytuacja": "Ktoś pod wpływem spotkania chce jeszcze dziś dzwonić albo jechać.",
+     "odpowiedz": "Ostudź życzliwie. Jakub przygotowywał się długo: posłańcy, modlitwa, noc nad Jabbokiem. Pośpiech rzadko służy pojednaniu. Zachęć, żeby najpierw porozmawiał o tym z Bogiem i z kimś zaufanym."
+    },
+    {
+     "sytuacja": "„Pogodziliśmy się, a i tak jest między nami chłodno.\"",
+     "odpowiedz": "Wróć do bloku 3. Bracia rozeszli się każdy w swoją stronę i Biblia nie nazywa tego porażką. Pojednanie nie zawsze daje bliskość. Czasem daje pokój i to wystarcza."
+    },
+    {
+     "sytuacja": "Ktoś przy stole zaczyna godzić dwie inne osoby albo naciska: „powinieneś do niej pójść\".",
+     "odpowiedz": "Przerwij spokojnie. Każdy zna tylko swoją część drogi. Materiał mówi o moim pierwszym kroku, nie o cudzym."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    }
+   ]
+  }
+ ]
+}

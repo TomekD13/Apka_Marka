@@ -26,6 +26,7 @@ python tools/extract_spiewnik.py    # PDF -> songs.json (1-700) + Spiewnik/_701-
 python tools/extract_youth.py       # śpiewniki obozowe + rozdział 41 -> songs-youth.json
 python tools/extract_pray40.py      # one27/Teksty{Short,Long} -> pray40/
 python tools/extract_edu.py         # one27/Szkolenia{Short,Long} -> edu/
+python tools/extract_groups.py      # one27/GrupyBiblijne -> groups/ (Grupy Nadziei)
 python tools/build_bible_full.py    # pełny przekład -> bible/{KOD}/
 python tools/build_bible_be.py pl   # wersety do studiów (Biblia Ekumeniczna)
 python tools/build_index.py pl      # lista studiów w index.json

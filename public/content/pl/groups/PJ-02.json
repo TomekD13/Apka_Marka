@@ -1,0 +1,924 @@
+{
+ "tytul": "Ojciec i dwaj synowie",
+ "id": "PJ-02",
+ "seria": "Przypowieści Jezusa",
+ "opis": "Dwóch zgubionych synów, jeden daleko, drugi w domu, i ojciec, który tego samego dnia wychodzi do obu.",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Łk 15,1-3.11-32",
+  "p2": "Łk 15,4-10; Pwt 21,18-21; Am 8,11-12; Rdz 33,4; Ps 103,8-14; Łk 5,29-32; Łk 19,10",
+  "p3": "Łk 7,13; Rz 2,4; Łk 9,22"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 20,
+  "p2": 32,
+  "p3": 38
+ },
+ "tagi": [
+  "przypowieści",
+  "obraz Boga",
+  "łaska",
+  "powrót",
+  "starszy brat"
+ ],
+ "wersja": 1,
+ "zdanie": "Ojciec wyszedł z domu dwa razy: do tego, który wracał z daleka, i do tego, który stał dwa kroki od drzwi.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Tradycja nazwała tę historię przypowieścią o synu marnotrawnym, ale zgubionych synów jest w niej dwóch, a bohaterem nie jest żaden z nich. Jezus opowiada ją ludziom, którzy szemrzą, że jada z grzesznikami. Spotkanie ma doprowadzić grupę do ojca, który dwa razy tego samego dnia wychodzi z domu: raz na drogę, raz na podwórze. Większość ludzi przy stole zna pierwszą połowę na pamięć. Druga połowa jest dla nich.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Fałszywy obraz Boga, który ta przypowieść koryguje, noszą w głowie obaj synowie: Bóg jako pracodawca, u którego miejsce trzeba sobie wysłużyć, a powrót odpracować. Prowadzi do niego pytanie kluczowe o obraz ojca w bloku 5.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Dla kogoś słowo „ojciec\" nie jest dobrym słowem. Ojciec nieobecny, pijący albo bijący nie pomaga zrozumieć tej przypowieści. Nie zakładaj, że obraz ojca każdemu coś ociepla.",
+      "Przy stole może siedzieć rodzic, którego dziecko jest w „dalekim kraju\". Każde zdanie o czekaniu i o niewychodzeniu za synem trafia go osobiście.",
+      "Wieloletni członkowie kościoła mogą poczuć się zaatakowani postacią starszego brata. To nie jest atak. Ojciec mówi do niego najczulsze zdanie całej historii.",
+      "Ktoś może wyprowadzić z przypowieści wniosek, że skrucha i zmiana życia nie mają znaczenia. Tekst tego nie mówi."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie przydzielaj ról. Nie pytaj, kto jest którym synem. Nie kończ morałem o wracaniu do kościoła. Przypowieść kończy się bez ostatniej sceny i spotkanie też może.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie powrót, którego się obawiałeś: do domu, do pracy po długiej przerwie, do kogoś po kłótni. Nie opowiadaj całej historii. Powiedz tylko, czy w drzwiach było lepiej, czy gorzej, niż się spodziewałeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, jednym zdaniem. Nie dopytuj nikogo o szczegóły.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Szemranie i prośba",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 15,1-3.11-12",
+       "przeklad": "BW",
+       "akapity": [
+        "A zbliżali się do niego wszyscy celnicy i grzesznicy, aby go słuchać. Faryzeusze zaś i uczeni w Piśmie szemrali i mówili: Ten grzeszników przyjmuje i jada z nimi. Powiedział im więc takie podobieństwo: [...]",
+        "Potem rzekł: Pewien człowiek miał dwóch synów. I rzekł młodszy z nich ojcu: Ojcze, daj mi część majętności, która na mnie przypada. Wtedy ten rozdzielił im majętność."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przy Jezusie stoją dwie grupy. **Po co przyszła każda z nich i do której Jezus kieruje tę opowieść?** Zapamiętajcie odpowiedź, wrócimy do niej na końcu.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Syn prosi o to, co dostałby po śmierci ojca. **Co ta prośba mówi ojcu, choć nie pada w niej ani jedno niegrzeczne słowo?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ojciec mógł odmówić. **Co robi i czego nie robi? Co to mówi o nim, zanim cokolwiek się wydarzy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Tekst mówi, że ojciec rozdzielił majętność „im\", czyli obu. **Co robi w tej scenie starszy syn?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W tamtej kulturze taka prośba znaczyła mniej więcej: nie mogę się doczekać twojej śmierci. Ojciec musiałby wydzielić, a syn spieniężyć część rodowej ziemi na oczach całej wsi. Obyczaj oczekiwał też od starszego brata, że stanie między ojcem a młodszym jako rozjemca. Starszy bierze swoją część i milczy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** Jezus jest w drodze do Jerozolimy. Rozdział wcześniej siedział przy stole u przywódcy faryzeuszów i opowiadał o uczcie, na którą przyszli ubodzy i ludzie z opłotków. Teraz to przy Jego stole siedzą celnicy i grzesznicy, a pobożni stoją obok i szemrzą. Wspólny posiłek znaczył wtedy przyjęcie człowieka, nie tylko towarzystwo. Jezus odpowiada trzema przypowieściami pod rząd: o owcy, o drachmie i o dwóch synach. Każda kończy się zaproszeniem do wspólnej radości.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Syn, który sprzedał ojcowiznę i stracił ją wśród obcych, nie mógł liczyć na ciche wejście do wsi. Późniejsze źródła żydowskie opisują obrzęd odcięcia: przed takim człowiekiem rozbijano gliniane naczynie i ogłaszano, że jest odcięty od swoich. Nie wiemy, jak powszechny był ten zwyczaj w czasach Jezusa, ale wrogości wsi syn mógł być pewien. Kto chciał mu jej oszczędzić, musiał dotrzeć do niego pierwszy.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Owca i drachma",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 15,4-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Któż z was, gdy ma sto owiec, a zgubi jedną z nich, nie pozostawia dziewięćdziesięciu dziewięciu na pustkowiu i nie idzie za zagubioną, aż ją odnajdzie? A odnalazłszy, kładzie ją na ramiona swoje i raduje się. I przyszedłszy do domu, zwołuje przyjaciół i sąsiadów, mówiąc do nich: Weselcie się ze mną, gdyż odnalazłem moją zgubioną owcę! Powiadam wam: Większa będzie radość w niebie z jednego grzesznika, który się upamięta, niż z dziewięćdziesięciu dziewięciu sprawiedliwych, którzy nie potrzebują upamiętania.",
+        "Albo, która niewiasta, mając dziesięć drachm, gdy zgubi jedną drachmę, nie bierze światła, nie wymiata domu i nie szuka gorliwie, aż znajdzie? A znalazłszy, zwołuje przyjaciółki oraz sąsiadki i mówi: Weselcie się ze mną, gdyż znalazłam drachmę, którą zgubiłam. Taka, mówię wam, jest radość wśród aniołów Bożych nad jednym grzesznikiem, który się upamięta."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jedna ze stu, jedna z dziesięciu, jeden z dwóch. **Co rośnie z przypowieści na przypowieść?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Owca gubi się na pustkowiu, drachma w domu. Owca nie zna drogi, moneta nawet nie wie, że zginęła. **Czym na tym tle różni się zagubienie syna? A gdzie gubi się starszy brat?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Obie krótkie przypowieści kończą się tym samym zdaniem: weselcie się ze mną. **Do kogo z obecnych Jezus to mówi?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Paragraf, z którego ojciec nie skorzystał",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 21,18-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeżeli ktoś ma syna upartego i krnąbrnego, który nie słucha ani głosu swojego ojca, ani głosu swojej matki, a choć oni go karcą, on ich nie słucha, to pochwycą go jego ojciec i matka i przyprowadzą do starszych jego miasta, do bramy tej miejscowości, i powiedzą do starszych miasta: Ten nasz syn jest uparty i krnąbrny, nie słucha naszego głosu, żarłok to i pijak. Wtedy wszyscy mężowie tego miasta ukamienują go i poniesie śmierć. Wytępisz zło spośród siebie, a cały Izrael to usłyszy i będzie się bał."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Uczeni w Piśmie, którzy słuchali Jezusa, znali ten przepis. **Czego się spodziewali po ojcu z opowieści i co usłyszeli zamiast tego?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo: majętność",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Majętność\", którą ojciec rozdziela w wersecie 12, to po grecku `bios`, czyli życie i to, z czego się żyje. To samo słowo wraca w wersecie 30, w zarzucie starszego brata.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Syn prosi o majątek, a ojciec oddaje mu część swojego życia. **Co ta gra znaczeń mówi o tym, ile kosztuje ojca wolność syna?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Daleki kraj",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 15,13-19",
+       "przeklad": "BW",
+       "akapity": [
+        "A po niewielu dniach młodszy syn zabrał wszystko i odjechał do dalekiego kraju, i tam roztrwonił swój majątek, prowadząc rozwiązłe życie. A gdy wydał wszystko, nastał wielki głód w owym kraju i on zaczął cierpieć niedostatek. Poszedł więc i przystał do jednego z obywateli owego kraju, a ten wysłał go do swej posiadłości wiejskiej, aby pasł świnie. I pragnął napełnić brzuch swój omłotem, którym karmiły się świnie, lecz nikt mu nie dawał. A wejrzawszy w siebie, rzekł: Iluż to najemników ojca mojego ma pod dostatkiem chleba, a ja tu z głodu ginę. Wstanę i pójdę do ojca mego i powiem mu: Ojcze, zgrzeszyłem przeciwko niebu i przeciwko tobie, już nie jestem godzien nazywać się synem twoim, uczyń ze mnie jednego z najemników swoich."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Syn układa przemowę z trzech części: wyznanie, ocena samego siebie, propozycja. **Na co liczy? Jakiego ojca spodziewa się zastać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Prześledźcie drogę w dół krok po kroku. **Który moment jest dnem i po czym to poznać?** Zwróćcie uwagę na słowa „nikt mu nie dawał\".",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Co przypomina mu się o domu jako pierwsze?** Co to mówi o tym, z czym człowiek zwykle zaczyna wracać?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Dla żydowskiego słuchacza pasienie świń było ostatnim stopniem upadku. Późniejsi rabini mówili wprost: przeklęty, kto hoduje świnie. Najemnik z kolei nie był najniższym szczeblem w gospodarstwie. Był człowiekiem wolnym, mieszkał poza domem i zarabiał na siebie, więc mógł spłacać dług. Syn nie prosi o powrót do stołu. Proponuje układ.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dwa głody",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Am 8,11-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Oto idą dni – mówi Wszechmogący Pan – że ześlę głód na ziemię, nie głód chleba ani pragnienie wody, lecz słuchania słów Pana. I wlec się będą od morza do morza, i tułać się z północy na wschód, szukając słowa Pana, lecz nie znajdą."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W dalekim kraju panuje głód chleba. Amos zna jeszcze inny głód. **Jak te dwa głody mają się do siebie w historii młodszego syna? Który zaczął się wcześniej?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co by się stało z tym chłopakiem, gdyby pieniądze się nie skończyły, a głód nie przyszedł?** Co to mówi o wydarzeniach, które bierzemy za najgorsze, co mogło nas spotkać?",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Zachował się egipski papirus z drugiego wieku, list syna do matki. Pisze w nim, że wstydził się przyjść, że chodzi w łachmanach, że wie, iż zgrzeszył, i błaga ją o pojednanie. Tacy synowie nie byli więc literacką fikcją i słuchacze Jezusa znali ich ze swoich wsi. Nowy w tej opowieści nie jest syn. Nowy jest ojciec.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Ojciec biegnie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 15,20-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Wstał i poszedł do ojca swego. A gdy jeszcze był daleko, ujrzał go jego ojciec, użalił się i pobiegłszy rzucił mu się na szyję, i pocałował go. Syn zaś rzekł do niego: Ojcze, zgrzeszyłem przeciwko niebu i przeciwko tobie, już nie jestem godzien nazywać się synem twoim. Ojciec zaś rzekł do sług swoich: Przynieście szybko najlepszą szatę i ubierzcie go; dajcie też pierścień na jego rękę i sandały na nogi, i przyprowadźcie tuczne cielę, zabijcie je, a jedzmy i weselmy się, dlatego, że ten syn mój był umarły, a ożył, zginął, a odnalazł się. I zaczęli się weselić."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wypiszcie po kolei, co robi ojciec, zanim syn powie pierwsze słowo. **Co jest w tej kolejności zaskakujące?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Porównajcie przemowę ułożoną w wersetach 18-19 z tą wypowiedzianą w wersecie 21. **Czego zabrakło? Jak myślicie, dlaczego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ojciec nie odpowiada synowi ani słowem. Mówi do sług. **Co każde z jego poleceń komunikuje synowi, domownikom i całej wsi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Szanowany starszy mężczyzna na Wschodzie nie biegał. Bieg oznaczał podkasaną szatę i odsłonięte nogi, czyli utratę powagi na oczach sąsiadów. Najlepsza szata w domu należała do ojca. Pierścień był sygnetem, którym pieczętowano sprawy rodziny. Boso chodzili słudzy, sandały nosił syn. A tucznego cielęcia jest za dużo na jedną rodzinę. To uczta dla całej wsi, tej samej, która pamiętała, jak wyjeżdżał.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ten sam bieg, ten sam Bóg",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 33,4",
+       "przeklad": "BW",
+       "akapity": [
+        "Ezaw wybiegł naprzeciw niego, objął go, rzucił mu się na szyję i ucałował go; i rozpłakali się."
+       ]
+      },
+      {
+       "odnosnik": "Ps 103,8-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Miłosierny i łaskawy jest Pan, Cierpliwy i pełen dobroci. Nie prawuje się ustawicznie, Nie gniewa się na wieki. Nie postępuje z nami według grzechów naszych Ani nie odpłaca nam według win naszych. Lecz jak wysoko jest niebo nad ziemią, Tak wielka jest dobroć jego dla tych, którzy się go boją. Jak daleko jest wschód od zachodu, Tak oddalił od nas występki nasze. Jak się lituje ojciec nad dziećmi, Tak się lituje Pan nad tymi, którzy się go boją, Bo On wie, jakim tworem jesteśmy, Pamięta, żeśmy prochem."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakub też wracał z dalekiego kraju do kogoś, kogo skrzywdził w sprawie dziedzictwa, i też miał przygotowaną przemowę. **Co słuchacz znający tę historię usłyszał w wersecie 20?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm 103 śpiewano na długo przed Jezusem. **Co z tej przypowieści było więc znane od dawna, a co Jezus dodał od siebie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wróćcie do tła z początku spotkania: syna czekała we wsi wrogość, może nawet publiczne odcięcie. **Jeśli ojciec biegnie także po to, żeby zdążyć przed wsią, kto w tej scenie bierze na siebie wstyd powrotu?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Użalił się\" z wersetu 20 to grecki czasownik `splanchnizomai`. Pochodzi od słowa oznaczającego wnętrzności i opisuje poruszenie, które czuje się w brzuchu. W Nowym Testamencie występuje tylko w Ewangeliach i prawie zawsze mówi o Jezusie, który widzi człowieka w potrzebie. Łukasz używa go kilka rozdziałów wcześniej:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 7,13",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy ją Pan zobaczył, użalił się nad nią i rzekł do niej: Nie płacz."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ojciec z przypowieści dostaje czasownik, którym Ewangelie opisują samego Jezusa. **Co Jezus mówi w ten sposób faryzeuszom o tym, co właśnie dzieje się przy Jego stole?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: gdzie syn się nawrócił",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Są dwa sposoby czytania wersetu 17. W pierwszym „wejrzał w siebie\" jest już upamiętaniem: syn nazywa grzech grzechem, wstaje i wraca, a obie wcześniejsze przypowieści wprost mówią o grzeszniku, który się upamięta. W drugim syn w chlewie liczy chleb i układa plan spłaty, a prawdziwy zwrot przychodzi dopiero na drodze, na widok biegnącego ojca. Dlatego zdanie o najemniku nigdy nie pada.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 2,4",
+       "przeklad": "BW",
+       "akapity": [
+        "Albo może lekceważysz bogactwo jego dobroci i cierpliwości, i pobłażliwości, nie zważając na to, że dobroć Boża do upamiętania cię prowadzi?"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co w tekście przemawia za pierwszym odczytaniem, a co za drugim?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Oba odczytania zgadzają się w jednym: syn wraca, bo pamięta, jaki jest dom ojca. **Co to mówi o tym, skąd w ogóle bierze się skrucha?** Przyjęcie jest w tej historii bezwarunkowe. Czy to znaczy, że syn mógł zostać taki, jaki był?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Syn, który był w polu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 15,25-30",
+       "przeklad": "BW",
+       "akapity": [
+        "Starszy zaś syn jego był w polu. A gdy wracając zbliżył się do domu, usłyszał muzykę i tańce. I przywoławszy jednego ze sług, pytał, co to jest. Ten zaś rzekł do niego: Brat twój przyszedł i ojciec twój kazał zabić tuczne cielę, że go zdrowym odzyskał. Rozgniewał się więc i nie chciał wejść. Tedy ojciec jego wyszedł i prosił go. Ten zaś odrzekł ojcu: Oto tyle lat służę ci i nigdy nie przestąpiłem rozkazu twego, a mnie nigdy nie dałeś nawet koźlęcia, bym się mógł zabawić z przyjaciółmi mymi. Gdy zaś ten syn twój, który roztrwonił majętność twoją z nierządnicami, przyszedł, kazałeś dla niego zabić tuczne cielę."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ojciec tego dnia drugi raz wychodzi z domu do syna. **Co łączy te dwa wyjścia, a co je różni?** Który syn stoi w tej chwili dalej od stołu?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Posłuchajcie słownictwa starszego: „służę ci\", „rozkazu twego\", „nie dałeś mi\". Zestawcie je z planem młodszego z wersetu 19. **Co ci dwaj mają ze sobą wspólnego, choć jeden wyjechał, a drugi został?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Sługa mówi „brat twój\", starszy mówi „ten syn twój\". **Kogo starszy wypisuje z rodziny tym jednym zwrotem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Starszy chciałby koźlęcia, żeby się zabawić „z przyjaciółmi\". **Z kim nie planuje świętować? Co to mówi o tym, jak mu było w domu przez te wszystkie lata?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Skąd wiedział o nierządnicach",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wróćcie do wersetu 13. Narrator mówi tylko o „rozwiązłym życiu\". Szczegół o nierządnicach dodaje starszy brat. **Skąd go wziął? Co to mówi o tym, jak człowiek zajęty własną poprawnością patrzy na cudzy upadek?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Lekarz i chorzy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 5,29-32",
+       "przeklad": "BW",
+       "akapity": [
+        "A Lewi wyprawił wielkie przyjęcie dla niego w domu swoim. I była liczna rzesza celników oraz innych, którzy zasiedli wraz z nimi do stołu. I szemrali faryzeusze i ich uczeni w Piśmie, mówiąc do uczniów jego: Dlaczego z celnikami i grzesznikami jecie i pijecie? A Jezus odpowiadając, rzekł do nich: Nie potrzebują zdrowi lekarza, lecz ci, którzy się źle mają. Nie przyszedłem wzywać do upamiętania sprawiedliwych, lecz grzesznych."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To ta sama scena dziesięć rozdziałów wcześniej: uczta, celnicy, szemranie. **Czym odpowiedź Jezusa z rozdziału 15 różni się od tej pierwszej? Co w niej nowego mówi o samych szemrzących?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "„Wszystko moje jest twoim\"",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 15,31-32",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy on rzekł do niego: Synu, ty zawsze jesteś ze mną i wszystko moje jest twoim. Należało zaś weselić się i radować, że ten brat twój był umarły, a ożył, zaginął, a odnalazł się."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ojciec nie prostuje ani jednego zarzutu. **Co mówi zamiast tego? Co starszy syn miał przez wszystkie te lata i jak to przeżywał?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Obaj synowie nosili w głowie podobny obraz ojca. **Jaki to obraz? Jak każdy z nich sobie z nim radził i co ojciec robi z tym obrazem w obu rozmowach?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przypowieść nie ma ostatniej sceny. Wróćcie do wersetów 1-2. **Kto z tamtych słuchaczy miał ją dopisać i czym?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Starszy powiedział „ten syn twój\". Ojciec odpowiada „ten brat twój\" i tym jednym słowem z powrotem wpisuje obu do rodziny. Starszemu powrót brata niczego nie odbierał, bo majątek był już podzielony. Jego gniew nie dotyczy rachunków. Dotyczy łaski okazanej komuś, kto na nią nie zapracował.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Po co przyszedł",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 19,10",
+       "przeklad": "BW",
+       "akapity": [
+        "Przyszedł bowiem Syn Człowieczy, aby szukać i zbawić to, co zginęło."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi to cztery rozdziały dalej, w domu innego celnika. **Kogo z rozdziału 15 obejmuje to zdanie? Czy także kogoś, kto nigdy nie wyszedł z domu?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Należało\" z wersetu 32 to greckie `edei`, czyli „trzeba było\", „musiało się\". Łukasz używa tego samego czasownika, gdy Jezus mówi o własnej drodze:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 9,22",
+       "przeklad": "BW",
+       "akapity": [
+        "powiadając: Syn Człowieczy musi wiele cierpieć i musi być odrzucony przez starszych i arcykapłanów, i uczonych w Piśmie, i musi być zabity, a dnia trzeciego wskrzeszony."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Radość z odnalezionego nie jest więc w tej historii sprawą nastroju ani dobrego wychowania. **Co znaczy, że uczta dla wracającego i krzyż stoją u Łukasza pod tym samym „trzeba\"?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q35",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Można odejść od ojca, wyjeżdżając, i można odejść, zostając w domu. **Jak wygląda to drugie odejście u człowieka wierzącego? Po czym je poznać u siebie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q36",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Młodszy wracał z przemową i planem spłaty. **Z czym ty zwykle wracasz do Boga po czymś, czego się wstydzisz? Co by się zmieniło, gdybyś spodziewał się ojca z wersetu 20?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q37",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **przy której scenie tej przypowieści jest ci dziś najbliżej: przy chlewie, na drodze, przy stole czy na podwórzu pod drzwiami?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q38",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pasterz idzie za owcą na pustkowie. Kobieta przeszukuje cały dom. Ojciec nie jedzie za synem do dalekiego kraju, tylko patrzy na drogę. **Dlaczego w trzeciej przypowieści Bóg czeka, skoro w dwóch pierwszych szuka? Kiedy miłość idzie za człowiekiem, a kiedy pozwala mu odejść?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie zamykaj tego formułą. Jeśli przy stole siedzi rodzic dorosłego dziecka, które odeszło, to pytanie jest dla niego bardzo osobiste. Warto zauważyć tylko tyle, że ojciec, który czeka, nie jest bezczynny: zobaczył syna z daleka, bo patrzył.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Ojciec wyszedł z domu dwa razy: do tego, który wracał z daleka, i do tego, który stał dwa kroki od drzwi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Łk 15,20 albo Łk 15,31.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przyjrzyj się przemowie, z którą przychodzisz do Boga, gdy coś zawalisz. **Czy jest w niej zdanie o najemniku: obietnica, że odpracujesz, że teraz już będzie inaczej, że zasłużysz?** Spróbuj raz przyjść bez tego zdania i zobacz, co zostaje.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zapytaj siebie uczciwie, czy jest ktoś, na czyj powrót do Boga, do kościoła albo do rodziny nie umiałbyś się ucieszyć. **Nie oceniaj tej odpowiedzi. Powiedz ją Bogu takimi słowami, jakimi starszy brat mówił do ojca: wprost.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** zostań przez kilka dni przy zdaniu „wszystko moje jest twoim\". Zapytaj, co z tego, co Bóg ci dał, przeżywasz jak etat i wypłatę, a nie jak dom.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Dla mnie ojciec to nie jest dobre skojarzenie.\"** Przyjmij to bez dyskusji i bez pocieszania. Możesz powiedzieć: „Jezus nie mówi, że Bóg jest taki jak nasi ojcowie. Opowiada o ojcu, jakiego żaden ze słuchaczy nie widział, bo żaden tak by nie postąpił\". Jeśli ktoś zaczyna opowiadać o przemocy w domu, wysłuchaj, podziękuj i nie drąż przy grupie. Zostań z tą osobą po spotkaniu. Jeżeli przemoc trwa, nie zostawaj z tym sam i pomóż jej znaleźć pomoc specjalistyczną.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rodzic dorosłego dziecka pyta: „To mam czekać czy jechać za nim?\"** Przypowieść nie jest instrukcją dla rodziców i nie rób z niej instrukcji. Nie doradzaj. Możesz zauważyć dwie rzeczy z tekstu: ojciec nie przestał patrzeć na drogę, a gdy syn się pojawił, nie było ani wyrzutów, ani warunków. Reszta to rozmowa na osobności, nie przy stole.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To jest niesprawiedliwe wobec starszego.\"** Zgódź się, bo według rachunku zasług to jest niesprawiedliwe i przypowieść ma to pokazać. Potem zapytaj: „Co dokładnie starszy stracił tego dnia?\" i wróć do wersetu 31.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja nigdy nie odszedłem, więc to nie o mnie.\"** Nie konfrontuj. Zapytaj całą grupę, nie tę osobę: „Do kogo Jezus opowiadał tę historię według wersetów 1-3?\" Druga połowa przypowieści jest napisana właśnie dla tych, którzy nie odeszli.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli wystarczy wrócić i wszystko jedno, co się robiło?\"** Tekst mówi co innego. Syn nazywa swój grzech po imieniu, a obie wcześniejsze przypowieści mówią o grzeszniku, który się upamięta. Przypowieść nie unieważnia skruchy. Pokazuje, że przyjęcie jej nie wymaga odpracowania. Pokazuje też jedną prawdę, serce Ojca, i nie jest wykładem całej drogi zbawienia, więc nie buduje się nauki na tym, czego w niej nie ma. O zadośćuczynieniu wobec skrzywdzonych ludzi Łukasz mówi gdzie indziej, na przykład w historii Zacheusza.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś porównuje wyznanie syna do spowiedzi i zaczyna się spór o praktyki kościołów.** Nie wchodź w polemikę. Przy stole mogą siedzieć katolicy i należy im się szacunek. Wróć do tekstu: komu syn wyznaje winę i co dzieje się z jego propozycją odpracowania.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Skróć blok 2, nie bloki 4 i 5. Wszyscy znają chlew, mało kto doszedł kiedyś do podwórza. Jeśli spotkanie skończy się na uczcie, grupa wysłucha tylko połowy tego, co Jezus powiedział.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Dla mnie ojciec to nie jest dobre skojarzenie.\"",
+     "odpowiedz": "Przyjmij to bez dyskusji i bez pocieszania. Możesz powiedzieć: „Jezus nie mówi, że Bóg jest taki jak nasi ojcowie. Opowiada o ojcu, jakiego żaden ze słuchaczy nie widział, bo żaden tak by nie postąpił\". Jeśli ktoś zaczyna opowiadać o przemocy w domu, wysłuchaj, podziękuj i nie drąż przy grupie. Zostań z tą osobą po spotkaniu. Jeżeli przemoc trwa, nie zostawaj z tym sam i pomóż jej znaleźć pomoc specjalistyczną."
+    },
+    {
+     "sytuacja": "Rodzic dorosłego dziecka pyta: „To mam czekać czy jechać za nim?\"",
+     "odpowiedz": "Przypowieść nie jest instrukcją dla rodziców i nie rób z niej instrukcji. Nie doradzaj. Możesz zauważyć dwie rzeczy z tekstu: ojciec nie przestał patrzeć na drogę, a gdy syn się pojawił, nie było ani wyrzutów, ani warunków. Reszta to rozmowa na osobności, nie przy stole."
+    },
+    {
+     "sytuacja": "„To jest niesprawiedliwe wobec starszego.\"",
+     "odpowiedz": "Zgódź się, bo według rachunku zasług to jest niesprawiedliwe i przypowieść ma to pokazać. Potem zapytaj: „Co dokładnie starszy stracił tego dnia?\" i wróć do wersetu 31."
+    },
+    {
+     "sytuacja": "„Ja nigdy nie odszedłem, więc to nie o mnie.\"",
+     "odpowiedz": "Nie konfrontuj. Zapytaj całą grupę, nie tę osobę: „Do kogo Jezus opowiadał tę historię według wersetów 1-3?\" Druga połowa przypowieści jest napisana właśnie dla tych, którzy nie odeszli."
+    },
+    {
+     "sytuacja": "„Czyli wystarczy wrócić i wszystko jedno, co się robiło?\"",
+     "odpowiedz": "Tekst mówi co innego. Syn nazywa swój grzech po imieniu, a obie wcześniejsze przypowieści mówią o grzeszniku, który się upamięta. Przypowieść nie unieważnia skruchy. Pokazuje, że przyjęcie jej nie wymaga odpracowania. Pokazuje też jedną prawdę, serce Ojca, i nie jest wykładem całej drogi zbawienia, więc nie buduje się nauki na tym, czego w niej nie ma. O zadośćuczynieniu wobec skrzywdzonych ludzi Łukasz mówi gdzie indziej, na przykład w historii Zacheusza."
+    },
+    {
+     "sytuacja": "Ktoś porównuje wyznanie syna do spowiedzi i zaczyna się spór o praktyki kościołów.",
+     "odpowiedz": "Nie wchodź w polemikę. Przy stole mogą siedzieć katolicy i należy im się szacunek. Wróć do tekstu: komu syn wyznaje winę i co dzieje się z jego propozycją odpracowania."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Skróć blok 2, nie bloki 4 i 5. Wszyscy znają chlew, mało kto doszedł kiedyś do podwórza. Jeśli spotkanie skończy się na uczcie, grupa wysłucha tylko połowy tego, co Jezus powiedział."
+    }
+   ]
+  }
+ ]
+}

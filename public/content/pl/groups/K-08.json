@@ -1,0 +1,812 @@
+{
+ "tytul": "Zaczynanie od nowa",
+ "id": "K-08",
+ "seria": "Kryzysy i przełomy życia",
+ "opis": "Dla tych, którym coś się skończyło. Noemi wraca z pustymi rękami i nie widzi, kto idzie obok.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Rt 1,1-7; Rt 1,14-22; Jr 29,4-7; Jr 29,8-14; Iz 43,16-19; Flp 3,12-14",
+  "p2": "Rt 1,8-13; Rt 2,1-3.19-20; Ps 137,1-6; Rdz 12,1-4; Rt 2,11-12; Ps 92,13-16",
+  "p3": "Rt 3,17; Pwt 8,2; Iz 43,25"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 27,
+  "p3": 31
+ },
+ "tagi": [
+  "kryzys",
+  "nowy początek",
+  "emigracja",
+  "starość",
+  "strata",
+  "nadzieja",
+  "Rut",
+  "wygnanie"
+ ],
+ "wersja": 1,
+ "zdanie": "Nowy początek rzadko wygląda jak początek. Częściej wygląda jak synowa idąca obok, jęczmień na polu albo ogród założony nie tam, gdzie się chciało.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest dla ludzi, którym coś się skończyło i którzy muszą zacząć jeszcze raz, często nie tam i nie wtedy, kiedy chcieli. Po stracie, po rozwodzie, po przeprowadzce, po wyjeździe dzieci za granicę, na emeryturze. Biblia pokazuje dwa takie początki. Noemi wraca do domu z pustymi rękami i nie widzi, kto idzie obok niej. Wygnańcy w Babilonie dostają list, który każe im budować domy w miejscu, którego nie wybrali. W obu historiach nowy początek nie wygląda jak początek.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Materiał nie obiecuje, że będzie lepiej niż było. Pokazuje, że Bóg jest już w tym nowym miejscu, zanim człowiek zdąży je polubić.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś może być w samym środku: tydzień po pogrzebie, miesiąc po rozstaniu, tuż po przeprowadzce. Dla niego słowa „nowy początek\" brzmią jak przymus.",
+      "Przy stole mogą siedzieć rodzice, których dzieci i wnuki mieszkają za granicą, oraz ludzie, którzy sami wyjechali albo wrócili. Temat emigracji niesie poczucie winy po obu stronach.",
+      "Jr 29,11 wiele osób zna jako osobistą obietnicę pomyślności. Tekst stoi w akapicie o siedemdziesięciu latach. Trzeba to pokazać tak, żeby nikomu nie odebrać pociechy.",
+      "Starsi uczestnicy mogą usłyszeć w temacie, że ich czas minął. Ten materiał mówi coś odwrotnego."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pocieszaj na skróty. Nie mów nikomu, że „Bóg ma lepszy plan\". Nie doradzaj, czy wyjechać, wrócić, sprzedać dom, przejść na emeryturę. Grupa słucha i towarzyszy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie jakiś swój początek: pierwszą pracę, przeprowadzkę, pierwszy dzień w nowym miejscu. Powiedz jedną rzecz, którą zabrałeś ze sobą ze starego życia.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, jednym zdaniem. Nie komentuj odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Dziesięć lat na obcym polu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rt 1,1-7",
+       "przeklad": "BW",
+       "akapity": [
+        "W czasach, gdy rządzili sędziowie, nastał głód w kraju. Wtedy wyszedł z Betlejemu judzkiego pewien mąż wraz ze swoją żoną i dwoma synami, aby osiąść jako obcy przybysz na polach moabskich. On nazywał się Elimelech, a jego żona Noemi, synowie jego zaś Machlon i Kilion; byli to Efratejczycy z Betlejemu judzkiego. I przyszli na pola moabskie i przebywali tam. Potem umarł Elimelech, mąż Noemi, i pozostała ona sama wraz z dwoma swoimi synami. Ci wzięli sobie za żony Moabitki: jedna nazywała się Orpa, a druga nazywała się Rut; i mieszkali tam około dziesięciu lat. Gdy obaj, Machlon i Kilion, też umarli, pozostała ta kobieta osierocona, bez obu swoich synów i bez męża. Wtedy wybrała się wraz ze swoimi synowymi i wróciła z pól moabskich, gdyż usłyszała na polach moabskich, że Pan ujął się za swoim ludem i dał im chleb. Wyszła tedy z miejscowości, w której przebywała, a wraz z nią obie jej synowe, i wybrały się w drogę powrotną do ziemi judzkiej."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rodzina wyjechała za chlebem, na jakiś czas. **Prześledźcie, jak „na jakiś czas\" zamienia się w dziesięć lat i trzy groby.** W którym momencie Noemi mogła poczuć, że to już nie jest wyjazd, tylko życie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Noemi nie dostaje widzenia ani obietnicy. Słyszy na polu wiadomość, że w domu znów jest chleb. **Na czym opiera się jej decyzja o nowym początku? Czy to dużo, czy mało?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Tekst nie ocenia, czy wyjazd do Moabu był błędem. **Dlaczego autor mógł to pominąć?** Co by się zmieniło w historii, gdybyśmy to wiedzieli?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Betlejem znaczy „dom chleba\". Opowieść zaczyna się od tego, że w domu chleba zabrakło chleba, a kończy się żniwami. Moab leżał po drugiej stronie Morza Martwego, kilka dni drogi od Betlejemu, ale dla Izraelity był krajem obcym pod każdym względem. Noemi jest tam wdową bez synów, czyli bez nikogo, kto by ją utrzymał. Rusza w drogę bez planu. Ma tylko pogłoskę, że Bóg znów daje chleb.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Zawróćcie, córki moje",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rt 1,8-13",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy rzekła Noemi do obu swoich synowych: Idźcie, powróćcie każda do domu swej matki. Niech Pan okaże wam dobroć, jak wy okazałyście zmarłym i mnie. Niech Pan sprawi, aby każda z was znalazła dom u boku swojego męża; i pocałowała je. A wtedy one głośno zapłakały i rzekły do niej: My z tobą wrócimy do twojego ludu. Lecz Noemi odpowiedziała: Zawróćcie, córki moje! Po cóż macie iść ze mną? Czy mogę jeszcze urodzić synów, którzy by zostali waszymi mężami? Zawróćcie, córki moje, i idźcie, gdyż jestem za stara, aby wyjść za mąż. A choćbym nawet pomyślała, że jest jeszcze nadzieja, a nawet choćbym tej nocy wyszła za mąż i od razu urodziła synów, to czy wy czekałybyście, aż dorosną? Czy miałybyście wyrzec się ponownego zamążpójścia? Nie, córki moje, boć wielką gorycz mam w duszy ze względu na was, że przeciw mnie zwróciła się ręka Pana."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Noemi życzy synowym dobroci od Pana i w tej samej rozmowie mówi, że ręka Pana zwróciła się przeciw niej. **Jak te dwa zdania mieszczą się w jednym człowieku?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Noemi liczy: jestem za stara, nie urodzę, nie doczekacie. Rachunek jest poprawny. **Czego w jej rachunku brakuje?** Kiedy nasze własne wyliczenia przyszłości są poprawne i mimo to niepełne?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Pusta?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rt 1,14-22",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz one jeszcze głośniej zapłakały. Potem Orpa ucałowała swoją teściową, lecz Rut pozostała przy niej. Następnie rzekła Noemi: Oto twoja szwagierka wraca do swojego ludu i do swojego boga; zawróć i ty za swoją szwagierką. Lecz Rut odpowiedziała: Nie nalegaj na mnie, abym cię opuściła i odeszła od ciebie; albowiem dokąd ty pójdziesz i ja pójdę; gdzie ty zamieszkasz i ja zamieszkam; lud twój – lud mój, a Bóg twój – Bóg mój. Gdzie ty umrzesz, tam i ja umrę i tam pochowana będę. Niech mi uczyni Pan, cokolwiek zechce, a jednak tylko śmierć odłączy mnie od ciebie. Noemi, widząc, że tamta obstaje przy tym, aby iść z nią, zaniechała z nią dalszej rozmowy. I szły obie, aż doszły do Betlejemu. A gdy doszły do Betlejemu, powstało z powodu nich w całym mieście wielkie poruszenie i kobiety mówiły: Czy to jest Noemi? A ona rzekła do nich: Nie nazywajcie mnie Noemi, nazywajcie mnie Mara, gdyż Wszechmogący napoił mnie wielką goryczą. Bogata wyszłam, a Pan zgotował mi powrót w niedostatku; dlaczego więc nazywacie mnie Noemi, skoro Pan wystąpił przeciwko mnie, a Wszechmogący zło mi zgotował? Tak powróciła Noemi a wraz z nią Rut Moabitka, jej synowa, z pól moabskich. A przyszły do Betlejemu na początku żniwa jęczmiennego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rut składa jedną z najmocniejszych deklaracji w całej Biblii. **Jak Noemi na nią odpowiada?** Przeczytajcie uważnie werset 18. Co to mówi o stanie, w jakim jest Noemi?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Noemi stoi w bramie i mówi kobietom, że wróciła z niczym. **Kto stoi obok niej, kiedy to mówi?** Jak mogła tego nie policzyć?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Porównajcie to, co mówi Noemi, z tym, co w ostatnim zdaniu dopowiada narrator. **Jakie dwie rzeczy narrator widzi, a Noemi jeszcze nie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Nikt w tej scenie nie poprawia Noemi. Ani kobiety, ani Rut, ani narrator nie mówią jej, że nie ma racji. **Dlaczego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Deklaracja Rut jest przysięgą. Rut wzywa na świadka Boga Izraela, używając Jego imienia, i wiąże się z Noemi poza jej śmierć: chce być pochowana w obcej ziemi. Nie idzie po męża ani po lepsze życie, bo Noemi właśnie jej wyliczyła, że niczego takiego tam nie ma. Narrator kończy rozdział dwoma spokojnymi informacjami: Rut jest, a w Betlejemie zaczynają się żniwa. Nowy początek już stoi w bramie, tylko jeszcze nie ma imienia.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Trafiła na kawałek pola",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rt 2,1-3.19-20",
+       "przeklad": "BW",
+       "akapity": [
+        "A Noemi miała dalekiego krewnego ze strony swego męża, z rodziny Elimelecha, człowieka bardzo zamożnego, który nazywał się Boaz. Rzekła tedy Rut Moabitka do Noemi: Pozwól mi pójść na pole zbierać kłosy za tym, w którego oczach znajdę łaskę. A ona jej odpowiedziała: Idź, córko moja! I poszła, a przyszedłszy na pole, zbierała za żeńcami. Zdarzyło się zaś, że trafiła na kawałek pola, należącego do Boaza, który był z rodziny Elimelecha. [...]",
+        "A jej teściowa rzekła do niej: Gdzie zbierałaś dzisiaj i gdzie pracowałaś? Niech będzie błogosławiony ten, który zwrócił na ciebie uwagę. Wtedy opowiedziała swojej teściowej, u kogo pracowała, i rzekła: Ten mąż, u którego pracowałam dzisiaj, nazywa się Boaz. Wtedy rzekła Noemi do swojej synowej: Niech mu błogosławi Pan, który nie zaniechał swego miłosierdzia dla żywych ani dla umarłych. Powiedziała jeszcze Noemi: Mąż ten jest naszym bliskim krewnym, jest jednym z naszych wykupicieli."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nowy początek nie zaczyna się od cudu. Zaczyna się od tego, że ktoś wstaje rano i idzie zbierać kłosy po cudzym polu. **Co to mówi o tym, jak wyglądają pierwsze kroki po stracie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Porównajcie Noemi z bramy z Noemi z wersetu 20. **Co się zmieniło w tym, jak mówi o Bogu, i co tę zmianę wywołało?** Ile się do tej pory faktycznie zmieniło w jej sytuacji?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W wersecie 21 BW tłumaczy: „Bogata wyszłam, a Pan zgotował mi powrót w niedostatku\". Hebrajski jest prostszy i ostrzejszy, co widać w przekładzie ekumenicznym: „Wyszłam pełna, a pustą sprowadził mnie Pan\". Słowo „pusta\" wraca w tej księdze jeszcze raz, dwa rozdziały dalej, kiedy Rut przynosi od Boaza jęczmień.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rt 3,17",
+       "przeklad": "BW",
+       "akapity": [
+        "Powiedziała też: Te sześć miar jęczmienia dał mi, bo mówił: Nie możesz z pustymi rękoma przyjść do swojej teściowej."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Autor celowo kładzie to samo słowo w usta Noemi i w usta Boaza. **Kto w tej historii odpowiada na skargę Noemi i w jaki sposób?** Czy Bóg w tej księdze cokolwiek mówi?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Budujcie domy",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kilka wieków później tysiące ludzi z Jerozolimy trafia do Babilonu jako przesiedleńcy. Nie wybrali tego miejsca i czekają, aż będzie można wrócić. Prorok Jeremiasz wysyła im list.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jr 29,4-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Tak mówi Pan Zastępów, Bóg Izraela, do wszystkich wygnańców, których skazałem na wygnanie z Jeruzalemu do Babilonu: Budujcie domy i zamieszkujcie je; zakładajcie ogrody i spożywajcie ich owoc! Pojmujcie żony i płodźcie synów i córki; Wybierajcie też żony dla waszych synów, a wasze córki wydawajcie za mąż, aby rodziły synów i córki, by was tam przybywało, a nie ubywało. A starajcie się o pomyślność miasta, do którego skazałem was na wygnanie, i módlcie się za nie do Pana, bo od jego pomyślności zależy wasza pomyślność!"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dom, ogród, ślub dzieci, wnuki. **Co łączy wszystkie te polecenia?** Ile czasu potrzeba, żeby zjeść owoc z ogrodu, który dopiero się zakłada?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ci ludzie żyli na walizkach i czekali na powrót. **Co się dzieje z człowiekiem, który latami traktuje swoje obecne życie jako poczekalnię?** Przed czym ten list chce ich uchronić?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Bóg każe modlić się za miasto, które ich uprowadziło. **Jak rozumiecie zdanie, że od jego pomyślności zależy wasza?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "List nie każe wygnańcom polubić Babilonu ani uznać, że dobrze się stało. Nie każe też zapomnieć o Jerozolimie. Każe żyć tam, gdzie są: sadzić, budować, żenić dzieci. Dwa razy pada w nim zdanie, że to Bóg ich tam posłał. W miejscu, którego nie wybrali, nie są więc poza Jego zasięgiem. Pierwszym krokiem nowego początku jest w tym liście rozpakowanie walizek.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pieśń Pana na obcej ziemi",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ten psalm napisali ludzie, do których szedł list Jeremiasza.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 137,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Nad rzekami Babilonu – tam siedzieliśmy I płakaliśmy na wspomnienie Syjonu. Na wierzbach w tamtej krainie Zawiesiliśmy lutnie nasze, Bo tam żądali od nas słów pieśni Ci, którzy nas wzięli w niewolę, A ciemięzcy nasi – radości: Śpiewajcie nam jakąś pieśń Syjonu! Jakże mamy śpiewać pieśń Pana Na obcej ziemi? Jeśli zapomnę cię, Jeruzalem, Niech uschnie prawica moja! Niech przylgnie język mój do podniebienia, Jeślibym nie pamiętał o tobie, Jeślibym nie wyniósł Jeruzalemu Nad największą radość moją!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm płacze nad rzeką, a list każe zakładać ogrody. Oba teksty są w Biblii. **Czy one sobie przeczą, czy potrzebują się nawzajem?** Co by się stało z wygnańcami, gdyby mieli tylko jeden z nich?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Jakże mamy śpiewać pieśń Pana na obcej ziemi?\" **Jak brzmi to pytanie w ustach kogoś, kto wyjechał z kraju, albo kogoś, kto został sam w domu, z którego wszyscy wyjechali?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Siedemdziesiąt lat",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jr 29,8-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdyż tak mówi Pan Zastępów, Bóg Izraela: Niechaj was nie zwodzą wasi prorocy, którzy są wśród was, ani wasi wróżbici, i nie słuchajcie waszych snów, które się wam śnią. Albowiem oni kłamliwie wam prorokują w moim imieniu, nie posłałem ich – mówi Pan. Bo tak mówi Pan: Gdy upłynie dla Babilonu siedemdziesiąt lat, nawiedzę was i spełnię na was swoją obietnicę, że sprowadzę was z powrotem na to miejsce. Albowiem ja wiem, jakie myśli mam o was – mówi Pan – myśli o pokoju, a nie o niedoli, aby zgotować wam przyszłość i natchnąć nadzieją. Gdy będziecie mnie wzywać i zanosić do mnie modły, wysłucham was. A gdy mnie będziecie szukać, znajdziecie mnie. Gdy mnie będziecie szukać całym swoim sercem, objawię się wam – mówi Pan – odmienię wasz los i zgromadzę was ze wszystkich narodów i ze wszystkich miejsc, do których was rozproszyłem – mówi Pan – i sprowadzę was z powrotem do miejsca, skąd skazałem was na wygnanie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Fałszywi prorocy w Babilonie zapowiadali szybki powrót. **Dlaczego taka obietnica jest groźna dla człowieka, który ma zacząć od nowa?** Co robi z nim nadzieja, że zaraz wszystko wróci na swoje miejsce?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 11 wiele osób zna na pamięć. Przeczytajcie go razem z wersetem 10. **Komu Bóg to mówi i na kiedy?** Ilu z tych, którzy słuchali listu, mogło doczekać powrotu?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Powrót jest odległy, a jedna rzecz jest dostępna od razu, w Babilonie, bez świątyni. **Co to jest według wersetów 12-14?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Siedemdziesiąt lat to dłużej niż dorosłe życie. Większość ludzi, którzy słuchali tego listu, umarła w Babilonie, a do Jerozolimy wróciły ich dzieci i wnuki. Werset 11 nie obiecuje więc słuchaczom szybkiej poprawy losu. Mówi coś, co sięga dalej: Bóg myśli o nich dobrze także wtedy, gdy okoliczności się nie zmieniają, i myśli w skali dłuższej niż jedno życie. Domy, ogrody i wesela z początku listu były sposobem, w jaki ta przyszłość miała nadejść.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czy Jr 29,11 jest o mnie",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Są dwa sposoby czytania tego wersetu. Pierwszy mówi: to list do konkretnych ludzi w konkretnym roku, „was\" jest w liczbie mnogiej i oznacza naród, a obietnica dotyczy powrotu z wygnania po siedemdziesięciu latach. Wyjęcie zdania z listu i powieszenie go na ścianie jako gwarancji, że moje plany się powiodą, robi z tekstem dokładnie to, co robili fałszywi prorocy z wersetu 8. Drugi mówi: adresat jest historyczny, ale Ten, kto mówi, się nie zmienia. Skoro tak myśli o ludziach, których sam posłał na wygnanie, to werset mówi prawdę o Jego charakterze i wolno się na nim oprzeć.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Oba stanowiska łączy jedno. Obietnica nie dotyczy okoliczności, tylko Boga. Słowo oddane w BW jako „pokój\" to hebrajskie `szalom`, to samo, które w wersecie 7 trzy razy przetłumaczono jako „pomyślność\". Bóg obiecuje `szalom` ludziom, którym chwilę wcześniej kazał zabiegać o `szalom` Babilonu. A zdanie o szukaniu całym sercem nie jest warunkiem do spełnienia. Stoi po zdaniu o Bożych myślach i jest na nie odpowiedzią.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zostaje z tego wersetu dla kogoś, kto wie, że jego sytuacja się nie odmieni: choroba nie minie, dzieci nie wrócą z zagranicy, mąż nie wróci?** Czy to mniej, czy więcej niż obietnica szybkiej poprawy?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Rzecz nowa",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 43,16-19",
+       "przeklad": "BW",
+       "akapity": [
+        "Tak mówi Pan, który toruje drogę przez morze i ścieżkę przez potężne wody, który wyprowadza do boju wozy i konie, wojsko i siły zbrojne razem; a oto leżą i już nie powstaną, zgaśli, spłonęli jak knot. Nie wspominajcie dawnych wydarzeń, a na to, co minęło, już nie zważajcie! Oto Ja czynię rzecz nową: Już się rozwija, czy tego nie spostrzegacie? Tak, przygotowuję na pustyni drogę, rzeki na pustkowiu."
+       ]
+      },
+      {
+       "odnosnik": "Flp 3,12-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie jakobym już to osiągnął albo już był doskonały, ale dążę do tego, aby pochwycić, ponieważ zostałem pochwycony przez Chrystusa Jezusa. Bracia, ja o sobie samym nie myślę, że pochwyciłem, ale jedno czynię: zapominając o tym, co za mną, i zdążając do tego, co przede mną, zmierzam do celu, do nagrody w górze, do której zostałem powołany przez Boga w Chrystusie Jezusie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg najpierw przypomina przejście przez morze, największy cud w historii Izraela, a zaraz potem mówi: nie wspominajcie. **Dlaczego nawet najlepsze wspomnienie może przeszkadzać w nowym początku?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Już się rozwija, czy tego nie spostrzegacie?\" Wróćcie na chwilę do Noemi w bramie Betlejemu. **Co sprawia, że człowiek nie widzi tego, co już rośnie obok niego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paweł pisze to jako stary człowiek, z więzienia. **Co znaczy w jego ustach „zapominając o tym, co za mną\"?** Czy chodzi tylko o porażki?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Kilka zdań wcześniej Paweł wylicza to, co ma za sobą, i nie są to klęski. To jego dorobek: pochodzenie, wykształcenie, gorliwość, nienaganna opinia. Zapominanie nie oznacza u niego utraty pamięci, bo przecież właśnie to wszystko wymienił. Oznacza, że przeszłość, ani ta zła, ani ta dobra, nie mówi mu już, kim jest. Zdanie, na którym to stoi, jest w wersecie 12: zostałem pochwycony. Paweł biegnie do przodu, bo Ktoś już go trzyma.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Po siedemdziesiątce",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 12,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Pan do Abrama: Wyjdź z ziemi swojej i od rodziny swojej, i z domu ojca swego do ziemi, którą ci wskażę. A uczynię z ciebie naród wielki i będę ci błogosławił, i uczynię sławnym imię twoje, tak że staniesz się błogosławieństwem. I będę błogosławił błogosławiącym tobie, a przeklinających cię przeklinać będę; i będą w tobie błogosławione wszystkie plemiona ziemi. Abram wybrał się w drogę, jak mu rozkazał Pan, i poszedł z nim Lot. Abram miał siedemdziesiąt pięć lat, gdy wyszedł z Haranu."
+       ]
+      },
+      {
+       "odnosnik": "Rt 2,11-12",
+       "przeklad": "BW",
+       "akapity": [
+        "A Boaz odpowiedział jej, mówiąc: Opowiedziano mi wszystko dokładnie, jak postąpiłaś ze swoją teściową, gdy umarł twój mąż, że opuściłaś swego ojca i swoją matkę, i swoją ziemię, w której się urodziłaś, i poszłaś do ludu, którego przedtem nie znałaś. Niech ci wynagrodzi Pan twój postępek i niech będzie pełna twoja odpłata od Pana, Boga izraelskiego, do którego przyszłaś, aby się schronić pod jego skrzydłami."
+       ]
+      },
+      {
+       "odnosnik": "Ps 92,13-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Sprawiedliwy wyrośnie jak palma, Rozrośnie się jak cedr Libanu. Zasadzeni w domu Pańskim Wyrastają w dziedzińcach Boga naszego. Jeszcze w starości przynoszą owoc, Są w pełni sił i świeżości, Aby obwieszczać, że Pan jest prawy, Że jest opoką moją, i nie ma w nim nieprawości."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Największa historia Starego Testamentu zaczyna się od człowieka, który ma siedemdziesiąt pięć lat i słyszy „wyjdź\". **Co to mówi komuś, kto uważa, że w jego wieku niczego się już nie zaczyna?** Jaki owoc przynosi się „jeszcze w starości\"?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Porównajcie słowa Boaza o Rut ze słowami Boga do Abrama. **Co je łączy?** Czym różni się start Abrama, który wychodzi z dobytkiem i obietnicą, od startu młodej wdowy z Moabu?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: zapomnieć czy pamiętać",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Izajasz mówi „nie wspominajcie dawnych wydarzeń\". Ta sama Biblia dziesiątki razy mówi coś odwrotnego.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 8,2",
+       "przeklad": "BW",
+       "akapity": [
+        "Zachowaj też w pamięci całą drogę, którą Pan, Bóg twój, prowadził cię przez czterdzieści lat po pustyni, aby cię ukorzyć i doświadczyć, i aby poznać, co jest w twoim sercu, czy będziesz przestrzegał jego przykazań, czy nie."
+       ]
+      },
+      {
+       "odnosnik": "Iz 43,25",
+       "przeklad": "BW",
+       "akapity": [
+        "Ja, jedynie Ja, mogę przez wzgląd na siebie zmazać twoje przestępstwa i twoich grzechów nie wspomnę."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W tym samym rozdziale, w którym lud ma nie wspominać dawnych wydarzeń, Bóg mówi, że sam nie wspomni ich grzechów. **Jaką pamięć Biblia każe pielęgnować, a jaką odłożyć?** Po czym poznać, że wspomnienie przestało mnie karmić i zaczęło mnie więzić?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wygnańcy mieli rozpakować walizki. **Gdzie w twoim życiu wciąż stoją spakowane walizki, czyli co odkładasz do czasu, aż okoliczności się zmienią?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Noemi mówiła, że wróciła pusta, a obok stała Rut. **Kto albo co może być dziś twoją Rut, czyli czymś, co już jest przy tobie, a czego nie liczysz?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **co w twoim życiu właśnie się skończyło albo się kończy?** Nie musisz mówić, co o tym myślisz ani co zamierzasz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Większość adresatów listu Jeremiasza nie doczekała powrotu. Budowali domy i sadzili ogrody dla wnuków. **Co znaczy zaczynać od nowa, jeśli owoców tego początku mogę już nie zobaczyć? Czy nowy początek w wieku osiemdziesięciu lat jest czymś innym niż w wieku trzydziestu, czy tylko tak nam się wydaje?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie zamykaj tego pytania. Jeśli w grupie są osoby starsze, pozwól im mówić pierwszym i nie poprawiaj ich.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Nowy początek rzadko wygląda jak początek. Częściej wygląda jak synowa idąca obok, jęczmień na polu albo ogród założony nie tam, gdzie się chciało.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Iz 43,19 albo Jr 29,11 razem z wersetem 10.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Noemi miała gotowe zdanie o swoim życiu: wróciłam pusta. Zapytaj siebie, **jakim jednym zdaniem opowiadasz dziś swoją historię** sobie i innym. A potem zapytaj Boga, czego w tym zdaniu brakuje.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o miejscu, w którym jesteś nie z własnego wyboru: mieście, mieszkaniu, stanie zdrowia, samotności. Zostań z pytaniem: **co by znaczyło założyć tu ogród?** Nie planuj. Najpierw sprawdź, co się w tobie buntuje, kiedy to pytanie słyszysz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** przyznaj przed Bogiem, do czego najbardziej chciałbyś wrócić i czego w głębi serca wciąż od Niego żądasz z powrotem. Powiedz Mu to wprost i nie dopowiadaj od razu, że się z tym godzisz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś jest w świeżym kryzysie: niedawny pogrzeb, rozstanie, utrata domu albo pracy.** Dla niego to za wcześnie na rozmowę o nowym początku i nie wolno go do niej ciągnąć. Noemi w bramie nikt nie poprawiał. Pozwól tej osobie tylko słuchać. Grupa towarzyszy, nie leczy i nie doradza w sprawach medycznych, prawnych, finansowych ani psychologicznych. Jeśli widzisz, że ktoś sobie nie radzi albo mówi, że nie ma po co żyć, nie zostawaj z tym sam i pomóż mu dotrzeć do specjalisty. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Bóg ma dla ciebie wspaniały plan, zobaczysz, jeszcze będzie lepiej niż było.\"** Przerwij łagodnie. Tekst tego nie obiecuje. Adresaci Jr 29,11 w większości umarli w Babilonie. Możesz powiedzieć: „List nie obiecał im, że będzie jak dawniej. Obiecał, że Bóg jest z nimi tam, gdzie są\". To uczciwsze i na dłuższą metę bardziej pocieszające.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rodzic mówi z żalem o dzieciach, które wyjechały za granicę. Albo ktoś, kto wyjechał, mówi o poczuciu winy wobec starych rodziców.** Nie oceniaj niczyjej decyzji i nie pozwól oceniać grupie. Księga Rut nie mówi, czy wyjazd do Moabu był błędem. Wróć do pytania o ogród: co można zbudować w takim układzie, jaki jest, także na odległość.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„W moim wieku to już tylko czekać.\"** Nie zaprzeczaj i nie zagrzewaj. Zapytaj, co ta osoba myśli o Abramie, który miał siedemdziesiąt pięć lat, i o wygnańcach sadzących ogrody dla wnuków. Jeśli prowadzisz poziom 1, możesz mimo to przeczytać Ps 92,15.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś pyta grupę o radę: wyjechać czy zostać, wrócić do kraju, sprzedać dom, przeprowadzić się do dzieci.** Grupa nie jest od takich decyzji. Zapytaj, czy chce, żeby się za niego modlić, i zaproponuj spokojną rozmowę po spotkaniu z kimś, komu ufa.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś odczytuje „zacznij od nowa\" jako zachętę do powrotu do krzywdzącego związku albo miejsca.** Powiedz wprost, że żaden z dzisiejszych tekstów nie każe wracać tam, gdzie człowiekowi dzieje się krzywda. Noemi wraca tam, gdzie jest chleb i bezpieczeństwo. Przy przemocy w rodzinie potrzebna jest pomoc specjalistyczna, a nie studium biblijne.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa zamienia się we wspominanie, jak to kiedyś było dobrze.** Pozwól na chwilę, to też jest żałoba. Potem wróć do Iz 43,18-19 i zapytaj tymi samymi słowami co w tekście: co już się rozwija, czego nie spostrzegamy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 1 i przeczytajcie go tylko na głos. Bloki 2 i 3 niosą spotkanie: Noemi w bramie i list o ogrodach.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś jest w świeżym kryzysie: niedawny pogrzeb, rozstanie, utrata domu albo pracy.",
+     "odpowiedz": "Dla niego to za wcześnie na rozmowę o nowym początku i nie wolno go do niej ciągnąć. Noemi w bramie nikt nie poprawiał. Pozwól tej osobie tylko słuchać. Grupa towarzyszy, nie leczy i nie doradza w sprawach medycznych, prawnych, finansowych ani psychologicznych. Jeśli widzisz, że ktoś sobie nie radzi albo mówi, że nie ma po co żyć, nie zostawaj z tym sam i pomóż mu dotrzeć do specjalisty. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, numer alarmowy 112."
+    },
+    {
+     "sytuacja": "„Bóg ma dla ciebie wspaniały plan, zobaczysz, jeszcze będzie lepiej niż było.\"",
+     "odpowiedz": "Przerwij łagodnie. Tekst tego nie obiecuje. Adresaci Jr 29,11 w większości umarli w Babilonie. Możesz powiedzieć: „List nie obiecał im, że będzie jak dawniej. Obiecał, że Bóg jest z nimi tam, gdzie są\". To uczciwsze i na dłuższą metę bardziej pocieszające."
+    },
+    {
+     "sytuacja": "Rodzic mówi z żalem o dzieciach, które wyjechały za granicę. Albo ktoś, kto wyjechał, mówi o poczuciu winy wobec starych rodziców.",
+     "odpowiedz": "Nie oceniaj niczyjej decyzji i nie pozwól oceniać grupie. Księga Rut nie mówi, czy wyjazd do Moabu był błędem. Wróć do pytania o ogród: co można zbudować w takim układzie, jaki jest, także na odległość."
+    },
+    {
+     "sytuacja": "„W moim wieku to już tylko czekać.\"",
+     "odpowiedz": "Nie zaprzeczaj i nie zagrzewaj. Zapytaj, co ta osoba myśli o Abramie, który miał siedemdziesiąt pięć lat, i o wygnańcach sadzących ogrody dla wnuków. Jeśli prowadzisz poziom 1, możesz mimo to przeczytać Ps 92,15."
+    },
+    {
+     "sytuacja": "Ktoś pyta grupę o radę: wyjechać czy zostać, wrócić do kraju, sprzedać dom, przeprowadzić się do dzieci.",
+     "odpowiedz": "Grupa nie jest od takich decyzji. Zapytaj, czy chce, żeby się za niego modlić, i zaproponuj spokojną rozmowę po spotkaniu z kimś, komu ufa."
+    },
+    {
+     "sytuacja": "Ktoś odczytuje „zacznij od nowa\" jako zachętę do powrotu do krzywdzącego związku albo miejsca.",
+     "odpowiedz": "Powiedz wprost, że żaden z dzisiejszych tekstów nie każe wracać tam, gdzie człowiekowi dzieje się krzywda. Noemi wraca tam, gdzie jest chleb i bezpieczeństwo. Przy przemocy w rodzinie potrzebna jest pomoc specjalistyczna, a nie studium biblijne."
+    },
+    {
+     "sytuacja": "Rozmowa zamienia się we wspominanie, jak to kiedyś było dobrze.",
+     "odpowiedz": "Pozwól na chwilę, to też jest żałoba. Potem wróć do Iz 43,18-19 i zapytaj tymi samymi słowami co w tekście: co już się rozwija, czego nie spostrzegamy."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 1 i przeczytajcie go tylko na głos. Bloki 2 i 3 niosą spotkanie: Noemi w bramie i list o ogrodach."
+    }
+   ]
+  }
+ ]
+}

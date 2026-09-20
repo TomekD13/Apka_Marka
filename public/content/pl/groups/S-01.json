@@ -1,0 +1,744 @@
+{
+ "tytul": "Zmęczeni",
+ "id": "S-01",
+ "seria": "Szabat jako dar",
+ "opis": "Faraon nie daje przerwy. Bóg sam odpoczywa i zaprasza do odpoczynku zmęczonych.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Wj 5,1-2.4-9; Ps 127,1-2; Mk 6,30-34; Mt 11,28-30; Wj 31,16-17",
+  "p2": "Wj 1,11-14; Koh 2,22-23; 4,6-8; Wj 33,12-14; Iz 30,15",
+  "p3": "Wj 5,5; Mt 11,28-29; 12,1; Wj 23,12; Wj 31,17"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 30
+ },
+ "tagi": [
+  "szabat",
+  "odpoczynek",
+  "zmęczenie",
+  "praca",
+  "wolność"
+ ],
+ "wersja": 1,
+ "zdanie": "Faraon liczy cegły. Bóg odpoczywa pierwszy i zaprasza do siebie.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie nie jest o szabacie jako przykazaniu. Jest o zmęczeniu i o tym, skąd ono się bierze. Biblia opowiada o władcy, który nie daje przerwy, i o Bogu, który sam odpoczywa i zaprasza do odpoczynku. Dzień odpoczynku pojawia się dopiero w ostatnim bloku, jako odpowiedź na potrzebę, a nie jako teza do obrony. Spotkanie nie rozstrzyga, który dzień jest właściwy ani jak go świętować.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole może siedzieć ktoś naprawdę wyczerpany: opiekun chorego, samotny rodzic, człowiek na dwóch etatach. Dla niego zdanie „po prostu odpocznij\" brzmi jak kpina. Nie dawaj rad.",
+      "Ktoś może usłyszeć w tym spotkaniu pochwałę lenistwa albo krytykę ludzi pracowitych. Tekst mówi co innego: praca jest dobra, zły jest pan, który nie pozwala przestać.",
+      "Osoba spoza kościoła może od razu zapytać, dlaczego sobota, a nie niedziela. To uczciwe pytanie, ale nie na dziś. To spotkanie go nie rozstrzyga.",
+      "Adwentysta z długim stażem może chcieć od razu wyłożyć całą naukę o szabacie. Poproś, żeby dziś został przy tekstach, które są na stole."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pytaj nikogo, ile godzin pracuje ani jak spędza soboty. Nie porównuj ludzi. Nie używaj szabatu jako miary tego, kto przy stole jest bliżej Boga.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Kiedy ostatnio byłeś naprawdę wypoczęty? Nie opowiadaj całej historii. Powiedz tylko, kiedy to było i po czym to poznałeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi, także wtedy, gdy ktoś powie, że nie pamięta.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Pan, który nie daje przerwy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 5,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem Mojżesz i Aaron przyszli do faraona i rzekli: Tak mówi Pan, Bóg Izraela: Wypuść mój lud, aby obchodzili święto ku mojej czci na pustyni. A faraon rzekł: Któż to jest Pan, bym miał słuchać głosu jego i wypuścić Izraela? Pana nie znam, a Izraela nie wypuszczę."
+       ]
+      },
+      {
+       "odnosnik": "Wj 5,4-9",
+       "przeklad": "BW",
+       "akapity": [
+        "A król egipski rzekł do nich: Dlaczego to, Mojżeszu i Aaronie, chcecie oderwać lud od jego pracy? Idźcie do waszych robót pańszczyźnianych! I rzekł jeszcze faraon: Oto teraz, gdy są liczniejsi niż ludność kraju, wy chcecie, żeby świętowali zamiast pracować? Tego samego dnia faraon rozkazał naganiaczom i nadzorcom, mówiąc: Nie dawajcie odtąd ludowi słomy do wyrabiania cegieł tak jak poprzednio. Niech sami idą i zbierają sobie słomę. Wyznaczcie im też tę samą ilość cegieł, jaką dotychczas wyrabiali, nic z niej nie ujmując; bo są opieszali i dlatego wołają: Chodźmy i złóżmy ofiarę Bogu naszemu! Niech praca tych ludzi będzie cięższa i niech nią będą zajęci, a nie będą się zajmowali bredniami."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Mojżesz prosi o kilka dni przerwy na święto. **Jak faraon tłumaczy sobie tę prośbę? Wypiszcie słowa, którymi opisuje ludzi i ich potrzebę.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Odpowiedzią faraona na prośbę o przerwę jest więcej pracy przy tej samej normie. **Po co mu to? Co według wersetu 9 ma się stać z człowiekiem, który jest stale zajęty?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Gdzie dziś słychać głos podobny do tego: „jesteście opieszali\", „ta sama ilość cegieł\", „nie zajmujcie się bredniami\"?** Czy ten głos zawsze przychodzi z zewnątrz?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Faraon nie jest przeciwnikiem pracy Izraela, tylko jej właścicielem. W jego świecie człowiek jest tyle wart, ile cegieł zrobi, a każda przerwa to strata. Dlatego prośbę o święto nazywa lenistwem, a rozmowę o Bogu bredniami. Warto zauważyć, czego w Egipcie nie ma: nie ma ani jednego dnia, który należałby do niewolnika. Tydzień bez przerwy to w tej księdze definicja niewoli.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Skąd się wzięły cegły",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 1,11-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Ustanowiono przeto nad nim nadzorców pańszczyźnianych, aby go gnębili ciężkimi robotami; budowano wtedy dla faraona miasta – spichlerze: Pitom i Ramses. Lecz im bardziej go gnębili, tym więcej się rozmnażał i rozrastał; i bano się synów izraelskich. Egipcjanie zmuszali Izraelitów do ciężkich robót i uprzykrzali im życie uciążliwą robotą w glinie i przy cegłach i różną pracą na polu. Wszystkie te prace wykonywali pod przymusem."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Izrael buduje spichlerze, czyli magazyny na zapasy. **Dla kogo są te zapasy i czego boi się ten, kto je gromadzi?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W tych czterech wersetach słowa o pracy i przymusie wracają raz za razem. **Co autor chce, żebyśmy poczuli, czytając to powtarzanie?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W wersecie 5 faraon zarzuca Mojżeszowi i Aaronowi, że dają ludowi wytchnienie od ciężarów. Używa przy tym hebrajskiego czasownika `szabat`, czyli „przestać, odpocząć\". To ten sam rdzeń, od którego pochodzi nazwa siódmego dnia. Biblia Warszawska oddaje go słowem „świętowali\". W ustach faraona słowo, którym Księga Rodzaju opisała odpoczynek Boga, brzmi jak oskarżenie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pierwszy raz w Księdze Wyjścia słowo o odpoczynku pada z ust człowieka, który odpoczynku zakazuje. **Co to mówi o tym, o co naprawdę toczy się spór między Bogiem a faraonem?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Chleb w troskach",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 127,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "Pieśń pielgrzymek. Salomonowa. Jeśli Pan domu nie zbuduje, Próżno trudzą się ci, którzy go budują. Jeśli Pan nie strzeże miasta, Daremnie czuwa stróż. Daremnie wcześnie rano wstajecie, I późno się kładziecie, spożywając chleb w troskach: Wszak on i we śnie obdarza umiłowanego swego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Nad tymi ludźmi nie stoi żaden nadzorca. **Kto w takim razie każe im wcześnie wstawać i późno się kłaść? Co ich pogania?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Psalm nie mówi, że budowanie i czuwanie są złe. **Co dokładnie nazywa daremnym? Od czego zależy, czy ten sam trud jest próżny, czy nie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„On i we śnie obdarza umiłowanego swego\". **Co człowiek przyznaje, kiedy kładzie się spać, chociaż nie wszystko jest zrobione?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jedna garść",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Koh 2,22-23",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo cóż pozostaje człowiekowi z całego jego trudu i porywów jego serca, którymi się trudzi pod słońcem, skoro całe jego życie jest tylko cierpieniem, a jego zajęcia zmartwieniem i nawet w nocy jego serce nie zaznaje spokoju? To również jest marnością."
+       ]
+      },
+      {
+       "odnosnik": "Koh 4,6-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Lepiej jest mieć jedną garść pełną, a przy tym spokój, niż dwie garście pełne, a przy tym trud i gonitwę za wiatrem. I ponownie stwierdziłem następującą marność pod słońcem: Oto jest ktoś samotny i nie ma nikogo przy sobie, nie ma ani syna, ani brata; nie ma też końca jego trudu, a jego oczy nie mogą się nasycić bogactwem. Pyta on: Dla kogo się trudzę i odmawiam sobie przyjemności? To również jest marnością i przykrą sprawą."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Człowiek z rozdziału czwartego zadaje sobie pytanie „dla kogo się trudzę\" i pracuje dalej. **Dlaczego samo postawienie pytania go nie zatrzymuje?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Nawet w nocy jego serce nie zaznaje spokoju\". **Czym różni się zmęczenie ciała od zmęczenia, które opisuje Kohelet?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Odpocznijcie nieco",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 6,30-34",
+       "przeklad": "BW",
+       "akapity": [
+        "I zeszli się apostołowie u Jezusa, i opowiedzieli mu wszystko, co uczynili i czego nauczali. I rzekł im: Wy sami idźcie na osobność, na miejsce ustronne i odpocznijcie nieco. Albowiem tych, co przychodzili i odchodzili, było wielu, tak iż nie mieli nawet czasu, żeby się posilić. Odjechali więc w łodzi na ustronne miejsce, na osobność. Ale widziano ich odjeżdżających i poznało ich wielu, i pieszo ze wszystkich miast tam się zbiegli, i wyprzedzili ich. A wyszedłszy, ujrzał mnóstwo ludu i ulitował się nad nimi, że byli jak owce nie mające pasterza, i począł ich uczyć wielu rzeczy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Uczniowie wracają z dobrej i udanej pracy i chcą o niej opowiadać. **Co Jezus widzi w nich takiego, czego oni sami mogli nie widzieć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Plan odpoczynku się nie udaje, bo tłum jest na miejscu przed nimi. **Kto w tej scenie bierze tłum na siebie? Co z tego wynika dla uczniów?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Potrzeby ludzi były prawdziwe i pilne, a Jezus mimo to kazał uczniom odpłynąć. **Co to mówi o odpoczynku w życiu kogoś, kto służy innym?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To nie jest odpoczynek od złej pracy. Uczniowie uzdrawiali i nauczali, a ludzie ich potrzebowali. Jezus nie czeka, aż potrzeby się skończą, bo się nie skończą. Zwraca uwagę słowo „nieco\". Nie obiecuje im urlopu ani życia bez tłumu, tylko przerwę, po której wrócą. Kiedy przerwa się nie udaje, to On zaczyna nauczać, nie oni.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Inne jarzmo",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 11,28-30",
+       "przeklad": "BW",
+       "akapity": [
+        "Pójdźcie do mnie wszyscy, którzy jesteście spracowani i obciążeni, a Ja wam dam ukojenie. Weźcie na siebie moje jarzmo i uczcie się ode mnie, że jestem cichy i pokornego serca, a znajdziecie ukojenie dla dusz waszych. Albowiem jarzmo moje jest miłe, a brzemię moje lekkie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi o dwóch grupach: spracowanych i obciążonych. **Czym różni się ktoś, kto się napracował, od kogoś, na kogo coś nałożono? Kto i co nakłada ludziom na barki?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nie mówi „zdejmijcie jarzmo\", tylko „weźcie moje\". **Dlaczego nie obiecuje życia bez żadnego jarzma? Czym Jego jarzmo różni się od jarzma faraona?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ukojenie jest tu najpierw darem, bo Jezus mówi „Ja wam dam\", a potem czymś, co się znajduje, ucząc się od Niego. **Jak te dwie rzeczy mają się do siebie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jarzmo to drewniana belka dopasowana do karku wołu albo do barków tragarza. Źle wyprofilowane rani, dobrze zrobione pozwala unieść ciężar. Najstarszy zachowany przekaz spoza Ewangelii, pochodzący z drugiego wieku, podaje, że Jezus jako cieśla robił właśnie pługi i jarzma. Nie da się tego sprawdzić, ale obraz pasuje do Jego słów: „moje jarzmo\" to jarzmo zrobione na miarę. Nauczyciele tamtych czasów nazywali jarzmem Prawo. Jezus nie wyrzuca Prawa, tylko zaprasza, żeby uczyć się go przy Nim.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Oblicze, które idzie razem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 33,12-14",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Mojżesz do Pana: Oto Ty mówisz do mnie: Prowadź ten lud, a nie oznajmiłeś mi, kogo poślesz ze mną, chociaż powiedziałeś: Znam cię po imieniu, oraz: Znalazłeś łaskę w oczach moich. Toteż jeśli znalazłem łaskę w oczach twoich, daj mi poznać zamysły twoje, abym cię poznał i wiedział, że znalazłem łaskę w oczach twoich; zważ też, że twoim ludem jest ten naród. Odpowiedział Pan: Oblicze moje pójdzie i zaznasz spokoju ode mnie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mojżesz jest przeciążony odpowiedzialnością za lud i prosi o plan. **Co dostaje zamiast planu?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg łączy w jednym zdaniu swoją obecność i spokój Mojżesza. **Co to mówi o tym, skąd według Biblii bierze się odpoczynek?** Porównajcie to ze słowami Jezusa „pójdźcie do mnie\".",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Greckie słowa, które Biblia Warszawska oddaje w Mt 11,28-29 jako „dam ukojenie\" i „ukojenie\", to `anapauso` i `anapausis`. W greckim przekładzie Starego Testamentu, z którego korzystali pierwsi chrześcijanie, tym właśnie słowem nazywa się odpoczynek szabatowy, między innymi w Wj 16,23, Wj 23,12 i Pwt 5,14. Słuchacz wychowany na tym przekładzie słyszał w zaproszeniu Jezusa ton szabatowy.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Mateusz to wzmacnia układem księgi. Zaraz po tych słowach zaczyna rozdział dwunasty zwrotem „w tym czasie\", pokazuje Jezusa idącego w szabat wśród zbóż (Mt 12,1) i opowiada dwie sceny szabatowe pod rząd.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli zaproszenie „pójdźcie do mnie\" brzmiało szabatowo, **to co Jezus mówi o sobie samym? I co mówi o tym, do czego szabat od początku prowadził?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Bóg, który odetchnął",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 31,16-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Synowie izraelscy będą przestrzegać sabatu, zachowując sabat w pokoleniach swoich jako przymierze wieczne. Między mną a synami izraelskimi będzie on znakiem na wieki, bo w sześciu dniach stworzył Pan niebo i ziemię, a dnia siódmego odpoczął i wytchnął."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ci sami ludzie, którzy w Egipcie nie mieli ani dnia przerwy, dostają dzień odpoczynku jako znak. **Znak czego? Co ten dzień mówi im co tydzień o tym, czyi teraz są?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "O Bogu napisano, że „odpoczął i wytchnął\". **Porównajcie Go z faraonem z pierwszego bloku. Jaki pan odpoczywa sam i daje odpocząć tym, którzy do niego należą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Bóg się nie męczy, a mimo to tekst mówi o Jego odpoczynku. **Po co Bogu odpoczynek, jeśli nie ze zmęczenia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W opowieściach sąsiadów Izraela bogowie stwarzają ludzi po to, żeby ludzie pracowali za nich, a bogowie mieli wreszcie spokój. W Biblii jest odwrotnie. Bóg pracuje sześć dni, odpoczywa pierwszy i zaprasza człowieka do swojego odpoczynku. Dzień, który Izrael dostaje po wyjściu z Egiptu, nie jest nową normą cegieł. Jest cotygodniowym dowodem, że faraon już nimi nie rządzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "W ciszy i zaufaniu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 30,15",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdyż tak mówi Wszechmocny, Pan, Święty Izraelski: Jeżeli się nawrócicie i zachowacie spokój, będziecie zbawieni, w ciszy i zaufaniu będzie wasza moc; lecz wy nie chcieliście."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Prorok mówi do ludzi, którzy w chwili zagrożenia gorączkowo szukają sojuszy i zabezpieczeń. **Dlaczego spokój i cisza są tu nazwane mocą, a nie słabością?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Lecz wy nie chcieliście\". **Dlaczego człowiek potrafi nie chcieć odpoczynku, nawet kiedy jest mu ofiarowany?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Wytchnął\" w Wj 31,17 to rzadki hebrajski czasownik `nafasz`, czyli „złapać oddech, odetchnąć\". W całej Biblii pada tylko trzy razy. W Wj 23,12 mówi o synu niewolnicy i o przybyszu, którzy mają odetchnąć siódmego dnia. W 2 Sm 16,14 mówi o Dawidzie i jego ludziach, którzy łapią oddech podczas ucieczki. Tutaj mówi o Bogu. Tym samym słowem Biblia opisuje odpoczynek Stwórcy i odpoczynek człowieka z samego dołu drabiny.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Faraon mówi: więcej cegieł, mniej słomy, nie zajmujcie się bredniami. **Jak brzmi ten głos w twoim tygodniu? Przychodzi z zewnątrz czy od środka?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Który z dzisiejszych tekstów jest ci teraz najbardziej potrzebny: psalm o chlebie w troskach, „odpocznijcie nieco\" czy „pójdźcie do mnie\"? Dlaczego ten?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czego się boisz, że się stanie, kiedy naprawdę się zatrzymasz?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: odpoczynek, na który nie każdego stać",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Zaproszenie do odpoczynku łatwo przyjąć komuś, kto ma stałą pracę, zdrowie i wolny weekend. Inaczej słyszy je matka, która sama wychowuje troje dzieci, syn opiekujący się ojcem po udarze albo człowiek, który bez drugiego etatu nie zapłaci czynszu. Biblia zna tę trudność. Pierwszymi adresatami dnia odpoczynku byli dawni niewolnicy, a przykazanie osobno wymienia sługę, służącą i przybysza, czyli tych, którzy sami przerwy sobie dać nie mogli.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Do kogo w takim razie skierowane jest przykazanie odpoczynku: do zmęczonego czy do tego, kto ma władzę nad jego czasem?** Co z tego wynika dla wspólnoty, w której jedni mogą odpocząć, a inni nie?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus obiecuje ukojenie „dla dusz waszych\", a uczniom nad jeziorem odpoczynek się nie udał. **Czy można mieć odpoczynek, który obiecuje Jezus, kiedy okoliczności nie dają wytchnienia? A jeśli można, to czy potrzebny jest jeszcze osobny dzień?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie rozstrzygaj tego dziś. O związku między odpoczynkiem w Chrystusie a odpoczynkiem siódmego dnia jest osobne spotkanie: „Rozkosz, nie ciężar\". Wystarczy, że pytanie zostanie postawione uczciwie.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Faraon liczy cegły. Bóg odpoczywa pierwszy i zaprasza do siebie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Mt 11,28 albo Ps 127,2.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kiedy w tym tygodniu złapiesz się na tym, że nie potrafisz przestać, zapytaj siebie: **kto mi teraz każe?** Szef, rachunki, czyjeś oczekiwania, a może ja sam. Nazwij tego pana po imieniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przed snem, zamiast przeliczać, co zostało niezrobione, powiedz Bogu jedno zdanie: „Ty i we śnie obdarzasz\". Zobacz, co się w tobie temu zdaniu sprzeciwia.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** pomyśl o kimś, kto przez ciebie nie może odpocząć, w domu albo w pracy. Zapytaj Boga, co by się stało, gdybyś dał tej osobie odetchnąć.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Łatwo mówić. Ja nie mam kiedy odpoczywać.\"** Nie przekonuj i nie podsuwaj sposobów na organizację czasu. Powiedz, że właśnie dla takich ludzi napisano pierwszy blok: Izrael też nie mógł przestać i nie było w tym jego winy. Jeśli ta osoba chce mówić dalej, wysłuchaj. Po spotkaniu zapytaj, czy grupa może w czymś konkretnie pomóc.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Bez pracy nie ma kołaczy. Biblia nie chwali leni.\"** Zgódź się, bo to prawda: przykazanie mówi też „sześć dni będziesz pracował\". Potem wróć do tekstu: „Psalm 127 nie krytykuje budowania. Co w takim razie nazywa daremnym?\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A właściwie dlaczego sobota, a nie niedziela?\"** Podziękuj za pytanie i powiedz wprost, że jest ważne, ale to spotkanie go nie rozstrzyga. Dziś zostajemy przy tym, po co w ogóle człowiekowi dzień odpoczynku. Nie dawaj się wciągnąć w wykład. Jeśli ta osoba chce szukać dalej, wskaż osobne spotkania: „Dzień, który był na początku\" oraz „Rozkosz, nie ciężar\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś z dłuższym stażem mówi: „My na szczęście mamy szabat, w przeciwieństwie do innych.\"** Spokojnie zmień kierunek: „Można mieć wolną sobotę i dalej nosić w sobie faraona. Jak to wygląda u nas?\" Szabat nie jest tu sposobem na odróżnienie lepszych od gorszych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o zmęczeniu, którego nie leczy ani sen, ani urlop, albo o tym, że nic go już nie cieszy.** To może być coś więcej niż przepracowanie. Nie diagnozuj przy grupie. Po spotkaniu zachęć, żeby porozmawiał z lekarzem, i zapytaj, czy ma obok siebie kogoś bliskiego. Telefon zaufania dla dorosłych w kryzysie emocjonalnym: 116 123.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu, zanim cokolwiek dodasz. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa rozkręca się tak, że nie zdążycie z materiałem.** Zostaw blok 2 i idź do bloków 4 i 5. Zestawienie faraona z pierwszego bloku z Bogiem, który odetchnął, jest tym, bez czego spotkanie traci puentę.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Łatwo mówić. Ja nie mam kiedy odpoczywać.\"",
+     "odpowiedz": "Nie przekonuj i nie podsuwaj sposobów na organizację czasu. Powiedz, że właśnie dla takich ludzi napisano pierwszy blok: Izrael też nie mógł przestać i nie było w tym jego winy. Jeśli ta osoba chce mówić dalej, wysłuchaj. Po spotkaniu zapytaj, czy grupa może w czymś konkretnie pomóc."
+    },
+    {
+     "sytuacja": "„Bez pracy nie ma kołaczy. Biblia nie chwali leni.\"",
+     "odpowiedz": "Zgódź się, bo to prawda: przykazanie mówi też „sześć dni będziesz pracował\". Potem wróć do tekstu: „Psalm 127 nie krytykuje budowania. Co w takim razie nazywa daremnym?\""
+    },
+    {
+     "sytuacja": "„A właściwie dlaczego sobota, a nie niedziela?\"",
+     "odpowiedz": "Podziękuj za pytanie i powiedz wprost, że jest ważne, ale to spotkanie go nie rozstrzyga. Dziś zostajemy przy tym, po co w ogóle człowiekowi dzień odpoczynku. Nie dawaj się wciągnąć w wykład. Jeśli ta osoba chce szukać dalej, wskaż osobne spotkania: „Dzień, który był na początku\" oraz „Rozkosz, nie ciężar\"."
+    },
+    {
+     "sytuacja": "Ktoś z dłuższym stażem mówi: „My na szczęście mamy szabat, w przeciwieństwie do innych.\"",
+     "odpowiedz": "Spokojnie zmień kierunek: „Można mieć wolną sobotę i dalej nosić w sobie faraona. Jak to wygląda u nas?\" Szabat nie jest tu sposobem na odróżnienie lepszych od gorszych."
+    },
+    {
+     "sytuacja": "Ktoś mówi o zmęczeniu, którego nie leczy ani sen, ani urlop, albo o tym, że nic go już nie cieszy.",
+     "odpowiedz": "To może być coś więcej niż przepracowanie. Nie diagnozuj przy grupie. Po spotkaniu zachęć, żeby porozmawiał z lekarzem, i zapytaj, czy ma obok siebie kogoś bliskiego. Telefon zaufania dla dorosłych w kryzysie emocjonalnym: 116 123."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu, zanim cokolwiek dodasz. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Rozmowa rozkręca się tak, że nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 2 i idź do bloków 4 i 5. Zestawienie faraona z pierwszego bloku z Bogiem, który odetchnął, jest tym, bez czego spotkanie traci puentę."
+    }
+   ]
+  }
+ ]
+}

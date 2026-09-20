@@ -1,0 +1,541 @@
+{
+ "tytul": "Niecierpliwość",
+ "id": "E-14",
+ "seria": "Emocje",
+ "opis": "Niecierpliwość wygląda jak zaradność. O czekaniu, które nie jest biernością.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Rdz 16,1-4; 1Sm 13,8-14; Ps 13,2-6; Ps 130,5-6; Jk 5,7-8",
+  "p2": "Wj 32,1; Hbr 6,12.15",
+  "p3": "Ps 13,2"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 80,
+  "p3": 95
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 23,
+  "p3": 23
+ },
+ "tagi": [
+  "emocje",
+  "czekanie",
+  "zaufanie",
+  "kontrola"
+ ],
+ "wersja": 1,
+ "zdanie": "Niecierpliwość rzadko wybiera zło. Najczęściej wybiera coś dobrego o kilka lat za wcześnie.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Niecierpliwość rzadko wygląda na emocję. Najczęściej wygląda na zaradność. W obu głównych historiach tego spotkania ludzie nie buntują się przeciw Bogu, tylko biorą sprawy w swoje ręce, bo czekanie stało się nie do zniesienia. Materiał ma odróżnić czekanie od bierności i pokazać, że Biblia daje miejsce także na niecierpliwe „dopóki\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole może czekać od lat na coś bardzo konkretnego: dziecko, pracę, uzdrowienie, nawrócenie bliskiej osoby. Historia Sary może zaboleć.",
+      "Blok o Saulu łatwo zsuwa się w potępianie. Uważaj, bo jego decyzja była całkiem rozsądna.",
+      "Nie mów nikomu, że po prostu musi bardziej zaufać."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie obiecuj, że jak się doczeka, to dostanie. Hbr 11 mówi o ludziach, którzy się nie doczekali. Nie stawiaj cierpliwości jako cnoty ludzi duchowo lepszych.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Co cię w tym tygodniu najbardziej zirytowało w czekaniu: kolejka, korek, cudza opieszałość, coś innego? Jedno słowo.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "zacznij od rzeczy błahej. Do poważnych dojdziemy sami.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Może z niej będę miała dzieci",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 16,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "A Saraj, żona Abrama, nie urodziła mu dzieci, lecz miała niewolnicę, Egipcjankę, imieniem Hagar. Rzekła więc Saraj do Abrama: Oto Pan odmówił mi potomstwa, obcuj, proszę, z niewolnicą moją, może z niej będę miała dzieci. I usłuchał Abram rady Saraj. Wzięła więc Saraj, żona Abrama, niewolnicę swą Hagar, Egipcjankę-było to po dziesięciu latach pobytu Abrama w ziemi kanaanejskiej-i dała ją za żonę mężowi swemu, Abramowi. A on obcował z Hagar, i poczęła. Lecz gdy spostrzegła, że poczęła, zaczęła pogardzać panią swoją."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 3 podaje szczegół, który łatwo przeoczyć: było to po dziesięciu latach. **Co ta liczba zmienia w ocenie postępku Saraj?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Saraj zaczyna od zdania „Pan odmówił mi potomstwa\". **Czy to jest niewiara? Co ona właściwie stwierdza?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jej pomysł był w tamtej kulturze legalny i rozsądny. **Co w nim było nie tak?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Abram nie protestuje, tylko słucha. **Kto ponosi tu odpowiedzialność?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Dziesięć lat to długo. Saraj nie porzuca wiary w obietnicę, ona próbuje jej pomóc. Jej plan jest zgodny z prawem, zwyczajem i zdrowym rozsądkiem, a jedyne, czego mu brakuje, to czekanie. Skutki pokazuje werset 4 i cała reszta tej historii: pogarda, konflikt i krzywda kobiety, którą do tego użyto. Niecierpliwość rzadko wybiera coś złego. Zwykle wybiera coś dobrego o kilka lat za wcześnie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie wiemy, co się z nim stało",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 32,1",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy lud widział, że Mojżesz opóźniał zejście z góry, zgromadził się wokół Aarona i rzekli do niego: Nuże, uczyń nam bogów, którzy pójdą przed nami, nie wiemy bowiem, co się stało z owym Mojżeszem, mężem, który nas wyprowadził z ziemi egipskiej."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Powodem podanym wprost jest to, że Mojżesz się opóźniał. **Ile czasu musi minąć, żeby cierpliwość ludu się skończyła?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Proszą o bogów, którzy pójdą przed nimi. **Czego naprawdę chcą: innego boga czy czegokolwiek, co się rusza?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Ośmieliłem się",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Sm 13,8-14",
+       "przeklad": "BW",
+       "akapity": [
+        "I czekał siedem dni do czasu oznaczonego przez Samuela, lecz Samuel nie nadszedł do Gilgal. Wtedy lud opuścił go i rozproszył się. I rzekł Saul: Przygotujcie mi ofiarę całopalną i ofiarę pojednania. I złożył ofiarę całopalną. Kiedy dokończył całopalenia, nadszedł Samuel i Saul wyszedł na jego spotkanie, aby go pozdrowić. I zapytał Samuel: Co uczyniłeś? A Saul odrzekł: Gdy widziałem, że lud pierzchnął ode mnie, a ty nie nadszedłeś w oznaczonym czasie, Filistyńczycy natomiast są zebrani w Michmas, pomyślałem, że Filistyńczycy wkrótce ruszą na mnie do Gilgal, a ja nie zdążyłem pozyskać łaski przed obliczem Pańskim, ośmieliłem się przeto złożyć ofiarę całopalną. Tedy rzekł Samuel do Saula: Popełniłeś głupstwo! Gdybyś był dochował przykazania Pana, Boga twego, które On ci nadał, Pan byłby utwierdził królestwo twoje nad Izraelem na wieki. Lecz teraz królestwo twoje nie utrzyma się. Pan wyszukał sobie męża według swego serca i Pan ustanowił go księciem nad swoim ludem za to, iż nie dochowałeś tego, co ci Pan rozkazał."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Saul czekał siedem dni, czyli tyle, ile ustalono. **Czego mu zabrakło?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie jego tłumaczenie z wersetów 11 i 12. **Ile z tego to prawda?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Saul mówi: nie zdążyłem pozyskać łaski przed obliczem Pańskim. Motywacja jest religijna. **Co to mówi o tym, jak niecierpliwość się maskuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Samuel nazywa to głupstwem, a nie buntem. **Jaka to różnica?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Dopókiż, Panie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 13,2-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Dopókiż, Panie, będziesz mnie stale zapominał? Dopókiż zakrywać będziesz oblicze swoje przede mną? Dopókiż mieć będę zmartwienie w duszy, A strapienie w sercu-codziennie? Dopókiż nieprzyjaciel mój będzie wynosił się nade mnie? Wejrzyj! Wysłuchaj mnie, Panie, Boże mój! Rozjaśnij oczy moje, abym nie zasnął snem śmierci! By nie rzekł nieprzyjaciel mój: Przemogłem go! By nie radowali się wrogowie moi, gdybym się zachwiał. Ja bowiem ufam łasce twojej! Niech się raduje serce moje zbawieniem twoim! Będę śpiewał Panu, bo okazał mi dobroć."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Cztery razy pada słowo „dopókiż\". **Do kogo psalmista kieruje tę niecierpliwość?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W wersecie 6 ton zmienia się całkowicie, choć nic się w sytuacji nie zmieniło. **Co się stało między wersetem 5 a 6?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ten psalm został włączony do modlitewnika Izraela. **Co to mówi o dopuszczalnym tonie rozmowy z Bogiem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Psalm 13 pokazuje trzecią drogę, obok brania spraw w swoje ręce i udawania spokoju. Psalmista nie rozwiązuje swojej sytuacji i nie tłumi napięcia. Zanosi je do Boga w formie pretensji, i to cztery razy w dwóch wersetach. Zwrot następuje nie przez odpowiedź z nieba ani przez zmianę okoliczności, tylko przez przypomnienie sobie, komu ufał wcześniej. Niecierpliwość powiedziana Bogu ma gdzie się rozładować.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Dusza moja oczekuje",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 130,5-6",
+       "przeklad": "BW",
+       "akapity": [
+        "W Panu pokładam nadzieję, Dusza moja żyje nadzieją. Oczekuję słowa jego. Dusza moja oczekuje Pana, Tęskniej niż stróże poranku, bardziej niż stróże poranku."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Porównanie jest bardzo precyzyjne: bardziej niż stróże poranku. **Stróż nocny nie może przyspieszyć świtu, ale wie, że przyjdzie. Co to mówi o czekaniu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalmista mówi, że oczekuje słowa. **Czym różni się czekanie na słowo od czekania na rozwiązanie?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Rolnik czeka",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jk 5,7-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Przeto bądźcie cierpliwi, bracia, aż do przyjścia Pana. Oto rolnik cierpliwie oczekuje cennego owocu ziemi, aż spadnie wczesny i późniejszy deszcz. Bądźcie i wy cierpliwi, umocnijcie serca swoje, bo przyjście Pana jest bliskie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jakub wybiera obraz rolnika, a nie kogoś bezczynnego. **Co rolnik robi w czasie czekania, a czego nie może zrobić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Mówi o wczesnym i późniejszym deszczu, czyli o dwóch porach, na które nie ma się wpływu. **Gdzie kończy się praca, a zaczyna czekanie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Umocnijcie serca swoje\". **Czy czekanie jest w tym ujęciu biernością?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dostał to, co obiecane",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 6,12.15",
+       "przeklad": "BW",
+       "akapity": [
+        "abyście się nie stali ociężałymi, ale byli naśladowcami tych, którzy przez wiarę i cierpliwość dziedziczą obietnice. [...] a tak, ponieważ czekał cierpliwie, otrzymał to, co było obiecane."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Autor łączy wiarę z cierpliwością jako dwie rzeczy potrzebne razem. **Co się dzieje, gdy jest wiara bez cierpliwości?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Abraham otrzymał obietnicę, ale nie doczekał jej pełnego spełnienia, o czym mówi Hbr 11. **Jak to pogodzić z wersetem 15?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Saraj i Saul podjęli decyzje rozsądne i o kilka lat albo kilka godzin za wczesne. **Na co czekasz teraz i jaki masz gotowy plan B?** Ten plan zwykle już istnieje.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm 13 pyta „dopókiż\" cztery razy. **Czy pozwalasz sobie mówić Bogu coś takiego, czy uważasz to za nieprzyzwoite?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest coś, na co czekasz tak długo, że przestałeś już o to prosić?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Niecierpliwość rzadko wybiera zło. Najczęściej wybiera coś dobrego o kilka lat za wcześnie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Ps 130,6 albo Jk 5,7.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Nazwij jedną rzecz, na którą czekasz, i sprawdź, co już zrobiłeś, żeby ją przyspieszyć. **Zapytaj siebie, czy to była praca rolnika, czy pomysł Saraj.** Różnica jest w tym, czy działanie mieści się w tym, co do ciebie należy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Powiedz Bogu swoje „dopókiż\" i powiedz je wprost. **Psalm 13 nie został za to usunięty z Biblii.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli wiesz, że gdzieś ruszyłeś za wcześnie i to komuś zaszkodziło, przyznaj to przed sobą. To trudniejsze niż przyznanie się do błędu, bo wtedy chodziło o dobrą rzecz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa zaczyna potępiać Sarę albo Saula.** Zatrzymaj to. Oba postępki były rozsądne i zrozumiałe, i właśnie dlatego są w Biblii. Łatwe potępienie zamyka temat dla wszystkich, którzy zrobili coś podobnego.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś czeka od lat na dziecko, uzdrowienie albo powrót bliskiej osoby.** Nie dawaj nadziei, której nie możesz potwierdzić. Nie mów „na pewno się doczekasz\". Wysłuchaj i idź dalej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Trzeba po prostu zaufać Bogu.\"** Prawdziwe i puste w tym momencie. Wróć do Psalmu 13, gdzie zaufanie pojawia się dopiero po czterech pretensjach.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czekanie to bierność, Bóg pomaga tym, którzy działają.\"** Odeślij do Jk 5,7. Rolnik pracuje i mimo to nie może przyspieszyć deszczu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś przyznaje, że zrobił coś przedwcześnie i to zaszkodziło rodzinie.** Nie komentuj moralnie. Podziękuj za szczerość. Nie pozwól grupie doradzać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na powtórne przyjście i terminy.** Utnij łagodnie. To temat na osobne spotkanie.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Grupa zaczyna potępiać Sarę albo Saula.",
+     "odpowiedz": "Zatrzymaj to. Oba postępki były rozsądne i zrozumiałe, i właśnie dlatego są w Biblii. Łatwe potępienie zamyka temat dla wszystkich, którzy zrobili coś podobnego."
+    },
+    {
+     "sytuacja": "Ktoś czeka od lat na dziecko, uzdrowienie albo powrót bliskiej osoby.",
+     "odpowiedz": "Nie dawaj nadziei, której nie możesz potwierdzić. Nie mów „na pewno się doczekasz\". Wysłuchaj i idź dalej."
+    },
+    {
+     "sytuacja": "„Trzeba po prostu zaufać Bogu.\"",
+     "odpowiedz": "Prawdziwe i puste w tym momencie. Wróć do Psalmu 13, gdzie zaufanie pojawia się dopiero po czterech pretensjach."
+    },
+    {
+     "sytuacja": "„Czekanie to bierność, Bóg pomaga tym, którzy działają.\"",
+     "odpowiedz": "Odeślij do Jk 5,7. Rolnik pracuje i mimo to nie może przyspieszyć deszczu."
+    },
+    {
+     "sytuacja": "Ktoś przyznaje, że zrobił coś przedwcześnie i to zaszkodziło rodzinie.",
+     "odpowiedz": "Nie komentuj moralnie. Podziękuj za szczerość. Nie pozwól grupie doradzać."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na powtórne przyjście i terminy.",
+     "odpowiedz": "Utnij łagodnie. To temat na osobne spotkanie."
+    }
+   ]
+  }
+ ]
+}

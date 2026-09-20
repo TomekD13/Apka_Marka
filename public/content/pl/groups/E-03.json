@@ -1,0 +1,614 @@
+{
+ "tytul": "Wstyd",
+ "id": "E-03",
+ "seria": "Emocje",
+ "opis": "Wina mówi „zrobiłem coś złego”, wstyd mówi „jestem zły”. Jak Bóg odpowiada na to drugie.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Rdz 3,7-10; Rdz 3,21; Łk 7,37-39.44-48; J 8,3-11; Hbr 12,2; Rz 10,11",
+  "p2": "Łk 15,20-24; Ps 34,6; Iz 61,7",
+  "p3": "Ps 32,1-2; Rz 8,1"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 17,
+  "p2": 22,
+  "p3": 25
+ },
+ "tagi": [
+  "emocje",
+  "tożsamość",
+  "przebaczenie",
+  "godność"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg nie unieważnia wstydu i nie zostawia człowieka w liściach figowych. Przychodzi z lepszym okryciem.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Wstyd to nie to samo co poczucie winy. Wina mówi „zrobiłem coś złego\". Wstyd mówi „jestem zły\" i dlatego nie da się go zmyć przeprosinami. Całe spotkanie trzyma się tej różnicy, bo Biblia odpowiada na jedno i drugie inaczej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "To bardzo zapalny temat. Przy stole może siedzieć ktoś po rozwodzie, po aborcji, po więzieniu, ktoś z historią, o której nikt nie wie. Nie pytaj nikogo wprost o jego wstyd.",
+      "Grupa może zacząć rozmawiać o cudzych grzechach jako przykładach. Utnij to natychmiast.",
+      "Kościół bywa miejscem, gdzie ludzie wstyd dostali, a nie stracili. Ktoś może to powiedzieć na głos. Nie broń się."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie zachęcaj do wyznań przy grupie. Nie mów „nie masz się czego wstydzić\", bo to unieważnia człowieka. Nie używaj słowa „grzesznica\" ani żadnej etykiety wobec kogokolwiek przy stole.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Dokończ zdanie jednym słowem: kiedy jest mi wstyd, zwykle... (milczę, żartuję, atakuję, wychodzę, tłumaczę się). Bez opowiadania sytuacji.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy. Nie dopytuj nikogo o powód.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Pierwsze ukrycie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 3,7-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy otworzyły się oczy im obojgu i poznali, że są nadzy. Spletli więc liście figowe i zrobili sobie przepaski. A gdy usłyszeli szelest Pana Boga przechadzającego się po ogrodzie w powiewie dziennym, skrył się Adam z żoną swoją przed Panem Bogiem wśród drzew ogrodu. Lecz Pan Bóg zawołał na Adama i rzekł do niego: Gdzie jesteś? A on odpowiedział: Usłyszałem szelest twój w ogrodzie i zląkłem się, gdyż jestem nagi, dlatego skryłem się."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zanim Bóg cokolwiek powiedział, oni już coś zrobili. **Wypiszcie po kolei, co robią w wersetach 7 i 8.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Adam tłumaczy, dlaczego się ukrył: bo jestem nagi. **Czy to jest prawdziwy powód? Czego nie mówi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Bóg pyta „gdzie jesteś\", choć wie. **Po co zadaje to pytanie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Wstyd pojawia się w Biblii wcześniej niż jakakolwiek rozmowa o karze. Pierwszą reakcją nie jest żal, tylko dwie czynności: zakryć i zniknąć. Liście figowe to próba poradzenia sobie własnymi środkami, ukrycie się między drzewami to rezygnacja z relacji. Adam mówi prawdę, ale nie całą. Nagi był już wcześniej i to mu nie przeszkadzało. Zmieniło się nie ciało, tylko to, kim czuje się przed Bogiem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 3,
+   "tytul": "Wstyd czy wina",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Wina dotyczy czynu: zrobiłem coś złego. Wstyd dotyczy osoby: jestem zły. Dlatego winę da się wyznać i naprawić, a wstyd zwykle prowadzi do chowania się, bo nie ma czego naprawić, skoro zepsuty jest sam człowiek.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajskie `bosz`, tłumaczone jako wstyd, znaczy pierwotnie coś w rodzaju „zawieść, okazać się nie tym, za kogo się uchodziło\". To słowo ze świata relacji i honoru, nie z sądu.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Spróbujcie to rozróżnienie zastosować do tekstu. **Które zdania Adama mówią o czynie, a które o nim samym?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy da się przeprosić za to, kim się jest?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Ubranie, które dał Bóg",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 3,21",
+       "przeklad": "BW",
+       "akapity": [
+        "I uczynił Pan Bóg Adamowi i jego żonie odzienie ze skór, i przyodział ich."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg nie mówi, że wstyd jest nieuzasadniony i nie każe zdjąć liści figowych. **Co robi zamiast tego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przepaski z liści zrobili sami. Odzienie ze skór zrobił Bóg. **Czym te dwa okrycia się różnią i co musiało się stać, żeby powstało to drugie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To jeden z tych wersetów, które łatwo przeczytać jako szczegół gospodarczy. Bóg nie unieważnia wstydu, bo coś naprawdę się stało. Zamiast tego robi rzecz praktyczną: daje okrycie lepsze niż to, które człowiek skleił sobie sam. Skóra musiała pochodzić od zwierzęcia, więc pierwsza śmierć w Biblii służy zakryciu ludzkiej hańby. Cała późniejsza mowa o szacie sprawiedliwości wyrasta z tego obrazu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Kobieta, która weszła nieproszona",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 7,37-39",
+       "przeklad": "BW",
+       "akapity": [
+        "A oto pewna kobieta z tego miasta, grzesznica, dowiedziawszy się, iż zasiada przy stole w domu faryzeusza, przyniosła alabastrowy słoik olejku. I stanąwszy z tyłu u jego nóg, zapłakała, i zaczęła łzami zlewać nogi jego i włosami swojej głowy wycierać, a całując jego stopy, namaszczała je olejkiem. Ujrzawszy to faryzeusz, który go zaprosił, mówił sam w sobie: Gdyby ten był prorokiem, wiedziałby, kim i jaka jest ta kobieta, która go dotyka, bo to grzesznica."
+       ]
+      },
+      {
+       "odnosnik": "Łk 7,44-48",
+       "przeklad": "BW",
+       "akapity": [
+        "I zwróciwszy się do kobiety, powiedział Szymonowi: Widzisz tę kobietę? Wszedłem do twojego domu, a nie dałeś wody dla nóg moich; ona zaś łzami skropiła nogi moje i włosami swoimi wytarła. Nie pocałowałeś mnie; a ona, odkąd wszedłem, nie przestała całować nóg moich. Głowy mojej oliwą nie namaściłeś; ona zaś olejkiem namaściła nogi moje. Dlatego powiadam ci: Odpuszczono jej liczne grzechy, bo bardzo miłowała. Komu zaś mało się odpuszcza, mało miłuje. I rzekł do niej: Odpuszczone są grzechy twoje."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ona nie mówi ani słowa w całej scenie. **Co robi zamiast mówić i dlaczego akurat tak?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Szymon myśli o niej „kim i jaka jest ta kobieta\". Jezus zaczyna zdaniem „widzisz tę kobietę?\". **Co Jezus zmienia tym jednym pytaniem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus wypomina Szymonowi trzy rzeczy, których nie zrobił, a które ona zrobiła. **Kto w tej scenie powinien się wstydzić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Wejście kobiety na męską ucztę bez zaproszenia było w tamtej kulturze skandalem samym w sobie, niezależnie od jej przeszłości. Ona wchodzi w miejsce, w którym jej wstyd zostanie natychmiast rozpoznany, i robi to świadomie. Jezus nie ukrywa jej historii ani jej nie zaprzecza. Robi coś innego: każe Szymonowi ją zobaczyć. Wstyd karmi się byciem niewidzialnym i patrzonym z góry naraz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Kamienie, które nie poleciały",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 8,3-11",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem uczeni w Piśmie i faryzeusze przyprowadzili kobietę przyłapaną na cudzołóstwie, postawili ją pośrodku i rzekli do niego: Nauczycielu, tę oto kobietę przyłapano na jawnym cudzołóstwie. A Mojżesz w zakonie kazał nam takie kamienować. Ty zaś co mówisz? A to mówili, kusząc go, by mieć powód do oskarżenia go. A Jezus, schyliwszy się, pisał palcem po ziemi. A gdy go nie przestawali pytać, podniósł się i rzekł do nich: Kto z was jest bez grzechu, niech pierwszy rzuci na nią kamieniem. I znowu schyliwszy się, pisał po ziemi. A gdy oni to usłyszeli i sumienie ich ruszyło, wychodzili jeden za drugim, poczynając od najstarszych, i pozostał Jezus sam i owa kobieta pośrodku. A Jezus podniósłszy się i nie widząc nikogo, tylko kobietę, rzekł jej: Kobieto! Gdzież są ci, co cię oskarżali? Nikt cię nie potępił? A ona odpowiedziała: Nikt, Panie! Wtedy rzekł Jezus: I Ja cię nie potępiam: Idź i odtąd już nie grzesz."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 3 mówi, że postawili ją pośrodku. **Po co? Do czego jest im potrzebna?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nie mówi, że nie zgrzeszyła, i nie mówi, że prawo się nie liczy. **Co mówi i dlaczego oskarżyciele odchodzą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ostatnie zdanie ma dwie części: nie potępiam oraz idź i już nie grzesz. **Co by się stało, gdyby została tylko jedna z nich?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Odchodzą poczynając od najstarszych. **Dlaczego akurat w tej kolejności?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ojciec, który biegł",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 15,20-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Wstał i poszedł do ojca swego. A gdy jeszcze był daleko, ujrzał go jego ojciec, użalił się i pobiegłszy rzucił mu się na szyję, i pocałował go. Syn zaś rzekł do niego: Ojcze, zgrzeszyłem przeciwko niebu i przeciwko tobie, już nie jestem godzien nazywać się synem twoim. Ojciec zaś rzekł do sług swoich: Przynieście szybko najlepszą szatę i ubierzcie go; dajcie też pierścień na jego rękę i sandały na nogi, i przyprowadźcie tuczne cielę, zabijcie je, a jedzmy i weselmy się, dlatego, że ten syn mój był umarły, a ożył, zginął, a odnalazł się. I zaczęli się weselić."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Syn ma przygotowaną przemowę, ale ojciec przerywa mu w połowie. **Czego syn nie zdążył powiedzieć i dlaczego to ważne?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Starszy mężczyzna biegnący przez wieś podkasywał szatę, co było w tamtej kulturze poniżające. **Kto w tej scenie bierze na siebie wstyd?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Szata, pierścień i obuwie to nie są prezenty. **Co każda z tych rzeczy przywraca?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Wzgardzona hańba",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 12,2",
+       "przeklad": "BW",
+       "akapity": [
+        "patrząc na Jezusa, sprawcę i dokończyciela wiary, który zamiast doznać należytej mu radości, wycierpiał krzyż, nie bacząc na jego hańbę, i usiadł na prawicy tronu Bożego."
+       ]
+      },
+      {
+       "odnosnik": "Rz 10,11",
+       "przeklad": "BW",
+       "akapity": [
+        "Powiada bowiem Pismo: Każdy, kto w niego wierzy, nie będzie zawstydzony."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "O Jezusie napisano, że nie bacząc na hańbę krzyża, przeszedł przez nią. Ukrzyżowanie było zaprojektowane jako maksymalne upokorzenie publiczne. **Co znaczy, że On się na to zgodził?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł obiecuje, że wierzący nie będzie zawstydzony. **Czy to obietnica, że nikt nas nie upokorzy, czy coś innego?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dwa zdania ze Starego Testamentu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 34,6",
+       "przeklad": "BW",
+       "akapity": [
+        "Spójrzcie na niego, a zajaśniejecie I oblicza wasze nie okryją się wstydem!"
+       ]
+      },
+      {
+       "odnosnik": "Iz 61,7",
+       "przeklad": "BW",
+       "akapity": [
+        "Za to, że hańba ich była podwójna, a zniewaga i oplwanie były ich udziałem, dlatego odziedziczycie podwójną cząstkę w swoim kraju i wieczna radość będzie waszym udziałem,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm łączy patrzenie na Boga z tym, co dzieje się z twarzą. **Dlaczego akurat twarz?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Izajasz nie obiecuje, że hańby nie było. **Co obiecuje zamiast tego?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Adam zakrył się liśćmi. **Czym ty zakrywasz to, czego się wstydzisz?** Praca, humor, milczenie, pomaganie innym, coś jeszcze.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy jest w twoim życiu obszar, o którym myślisz: gdyby ludzie w kościele to wiedzieli, patrzyliby na mnie inaczej?** Nie mów jaki. Powiedz tylko, czy jest.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy zdarzyło ci się, że ktoś zobaczył w tobie coś dobrego wtedy, gdy ty widziałeś w sobie tylko wstyd?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zrobić, gdy wstyd zostaje mimo przebaczenia? Człowiek wierzy, że Bóg mu odpuścił, a dalej nie może na siebie patrzeć. Czy to brak wiary w przebaczenie, czy coś, co potrzebuje innego lekarstwa niż wyznanie?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "to jest realne doświadczenie wielu ludzi wierzących. Nie kwituj go zdaniem, że trzeba po prostu uwierzyć. Wina i wstyd potrzebują różnych rzeczy: wina wyznania, wstyd bycia zobaczonym i nieodrzuconym.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg nie unieważnia wstydu i nie zostawia człowieka w liściach figowych. Przychodzi z lepszym okryciem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Rdz 3,21 albo Rz 10,11.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o jednej rzeczy, której nie powiedziałbyś nikomu w kościele. Nie musisz jej nikomu mówić. **Zapytaj siebie: czego się boję, że ludzie by wtedy zobaczyli?** Nazwij to słowo. Zwykle jest jedno.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przeczytaj jeszcze raz Rdz 3,21 i zostań przy jednym pytaniu: **czy naprawdę wierzysz, że Bóg widzi cię takim, jakim jesteś, i mimo to podchodzi bliżej, a nie dalej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli nosisz coś, o czym nie wie nikt, poszukaj jednej osoby, która nie jest częścią tej historii, i powiedz jej. Wstyd żyje z ukrycia i słabnie, gdy zostaje zobaczony przez kogoś, kto nie odchodzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna wyznawać coś poważnego przy całej grupie.** Nie przerywaj w pół zdania, ale nie pozwól temu się rozwinąć. Podziękuj, powiedz krótko, że to odwaga, i zaproponuj rozmowę po spotkaniu. Grupa domowa nie jest miejscem spowiedzi i nikt nie powinien wyjść z poczuciem, że powiedział za dużo.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„W kościele dostałem wstydu więcej niż gdziekolwiek.\"** Nie broń kościoła. Powiedz, że to się zdarza i że w tekstach, które dziś czytaliśmy, wstyd zawsze przychodzi od ludzi, a okrycie od Boga. Zapytaj, czy chce o tym opowiedzieć po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś podaje cudzy grzech jako przykład.** Utnij natychmiast: „Zostańmy przy tekście.\" Nie komentuj i idź dalej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Nie masz się czego wstydzić.\"** Ktoś powie to komuś przy stole z dobrymi intencjami. To zdanie unieważnia. Możesz je delikatnie odwrócić: „Może pytanie nie brzmi, czy jest powód, tylko co Bóg z tym robi.\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu o własny wstyd.** Najbardziej naturalna reakcja. Nie naciskaj. Odpowiedz sam, ogólnie, i idź dalej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś obraca wszystko w żart.** Żart jest tu formą zakrycia, dokładnie tą, o której mówi blok pierwszy. Nie wytykaj tego. Po prostu wróć do pytania.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś zaczyna wyznawać coś poważnego przy całej grupie.",
+     "odpowiedz": "Nie przerywaj w pół zdania, ale nie pozwól temu się rozwinąć. Podziękuj, powiedz krótko, że to odwaga, i zaproponuj rozmowę po spotkaniu. Grupa domowa nie jest miejscem spowiedzi i nikt nie powinien wyjść z poczuciem, że powiedział za dużo."
+    },
+    {
+     "sytuacja": "„W kościele dostałem wstydu więcej niż gdziekolwiek.\"",
+     "odpowiedz": "Nie broń kościoła. Powiedz, że to się zdarza i że w tekstach, które dziś czytaliśmy, wstyd zawsze przychodzi od ludzi, a okrycie od Boga. Zapytaj, czy chce o tym opowiedzieć po spotkaniu."
+    },
+    {
+     "sytuacja": "Ktoś podaje cudzy grzech jako przykład.",
+     "odpowiedz": "Utnij natychmiast: „Zostańmy przy tekście.\" Nie komentuj i idź dalej."
+    },
+    {
+     "sytuacja": "„Nie masz się czego wstydzić.\"",
+     "odpowiedz": "Ktoś powie to komuś przy stole z dobrymi intencjami. To zdanie unieważnia. Możesz je delikatnie odwrócić: „Może pytanie nie brzmi, czy jest powód, tylko co Bóg z tym robi.\""
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu o własny wstyd.",
+     "odpowiedz": "Najbardziej naturalna reakcja. Nie naciskaj. Odpowiedz sam, ogólnie, i idź dalej."
+    },
+    {
+     "sytuacja": "Ktoś obraca wszystko w żart.",
+     "odpowiedz": "Żart jest tu formą zakrycia, dokładnie tą, o której mówi blok pierwszy. Nie wytykaj tego. Po prostu wróć do pytania."
+    }
+   ]
+  }
+ ]
+}

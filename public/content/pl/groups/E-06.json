@@ -1,0 +1,614 @@
+{
+ "tytul": "Zazdrość",
+ "id": "E-06",
+ "seria": "Emocje",
+ "opis": "Emocja, do której nikt się nie przyznaje. Skąd się bierze i co robi z tym, kto ją nosi.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Rdz 37,3-8.11; 1Sm 18,6-9; Ps 73,2-3.16-17; Mt 20,9-15; Jk 3,14-16",
+  "p2": "Lb 12,1-2; J 3,26-30; Ga 5,19-21",
+  "p3": "Wj 34,14"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 17,
+  "p2": 23,
+  "p3": 25
+ },
+ "tagi": [
+  "emocje",
+  "porównywanie",
+  "rywalizacja",
+  "wdzięczność"
+ ],
+ "wersja": 1,
+ "zdanie": "Zazdrość nie liczy tego, co mam. Liczy dystans między mną a kimś innym, i dlatego nigdy nie kończy liczenia.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Zazdrość jest bardzo wstydliwą emocją, bo nikt nie chce się do niej przyznać. O gniewie i lęku mówi się łatwo, o zazdrości prawie nigdy. Dlatego to spotkanie idzie okrężną drogą: najpierw przez cudze historie, dopiero na końcu do siebie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Zazdrość w kościele często dotyczy służby: kto prowadzi, kto śpiewa, kogo zauważono. Może to wypłynąć i dotknąć osób siedzących przy stole.",
+      "Bezdzietność, choroba, cudze małżeństwo, cudze dzieci. Tu zazdrość bywa splątana z prawdziwym bólem i nie wolno jej potraktować jak zwykłej wady.",
+      "Nikt nie powie „zazdroszczę\". Powie „to niesprawiedliwe\". Nie wytykaj tego."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie moralizuj i nie zbieraj deklaracji. Nie mów nikomu, żeby się cieszył z cudzego szczęścia. Nie rób z zazdrości grzechu gorszego niż inne.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "W czyich rękach jakaś rzecz cieszy cię szczerze, a w czyich trochę uwiera? Nie podawaj nazwisk. Powiedz tylko, czy zauważyłeś u siebie taką różnicę.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i przyznaj się do czegoś drobnego. To rozbraja resztę.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Szata z rękawami",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 37,3-8.11",
+       "przeklad": "BW",
+       "akapity": [
+        "A Izrael kochał Józefa najbardziej ze wszystkich synów swoich, ponieważ urodził mu się na starość. Sprawił mu też długą szatę z rękawami. Bracia jego widzieli, że ojciec kochał go więcej niż wszystkich jego braci, nienawidzili go więc i nie umieli się zdobyć na dobre słowo dla niego. Pewnego razu miał Józef sen i opowiedział go braciom swoim, oni zaś jeszcze bardziej go znienawidzili. Powiedział im bowiem: Słuchajcie, proszę, tego snu, który mi się śnił: Oto wiązaliśmy snopy na polu; wtem snop mój podniósł się i stanął, a wasze snopy otoczyły go i pokłoniły się mojemu snopowi. Rzekli do niego bracia: Czy chciałbyś naprawdę królować nad nami? Czy chciałbyś naprawdę nami rządzić? I jeszcze bardziej znienawidzili go z powodu snów i słów jego. [...] Wtedy zazdrościli mu bracia, lecz ojciec jego zachował to słowo w pamięci."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Tekst podaje powód nienawiści braci bardzo dokładnie. **Co dokładnie zrobił Józef, a co zrobił ojciec?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Winę za tę sytuację można rozłożyć na trzy strony. **Ile z tego jest winą braci?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Werset 4 mówi, że nie umieli zdobyć się na dobre słowo. **Co zazdrość robi z mową?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Historia nie zaczyna się od złych braci, tylko od ojca, który kochał nierówno i dał tego widoczny znak. Zazdrość rzadko rodzi się z niczego. Zwykle jest reakcją na realną różnicę w traktowaniu. To nie usprawiedliwia tego, co bracia zrobili, ale tłumaczy, dlaczego Biblia opisuje tę scenę tak drobiazgowo. Szata była widoczna codziennie. Zazdrość potrzebuje czegoś, na co można patrzeć.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Czy tylko przez Mojżesza",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Lb 12,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Miriam i Aaron zaczęli wypowiadać się przeciw Mojżeszowi z powodu żony, Kuszytki, którą pojął, gdyż pojął za żonę Kuszytkę. I mówili: Czy tylko przez Mojżesza przemawiał Pan? Czy także przez nas nie przemawia? A Pan to usłyszał."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zarzut oficjalny dotyczy żony Mojżesza. Drugie zdanie ujawnia coś innego. **O co naprawdę chodzi Miriam i Aaronowi?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Dlaczego zazdrość prawie zawsze potrzebuje przyzwoitego pretekstu?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Dziesięć tysięcy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Sm 18,6-9",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy szli w czasie powrotu Dawida po zabiciu Filistyńczyka, wyszły kobiety ze wszystkich miast izraelskich na spotkanie króla Saula ze śpiewem i pląsami przy wtórze bębnów z radosnymi okrzykami i przy dźwiękach cymbałów. I odezwały się pląsające kobiety w te słowa: Pobił Saul swój tysiąc, Ale Dawid swoje dziesięć tysięcy. I gniewało to Saula bardzo, i nie podobało mu się to powiedzenie, i rzekł: Przypisały Dawidowi dziesięć tysięcy, a mnie przypisały tylko tysiąc. Teraz brak mu już tylko królestwa. Od tego dnia i nadal spoglądał Saul na Dawida z zazdrością."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Pieśń kobiet chwali obu, Saula też. **Co Saul z niej usłyszał?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 8 kończy się zdaniem: teraz brak mu już tylko królestwa. **Nikt tego nie powiedział. Skąd się wzięło?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Werset 9 mówi, że od tego dnia Saul patrzył na Dawida inaczej. **Co się zmieniło: Dawid czy spojrzenie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Saul wygrał bitwę i wraca w triumfie. Pieśń wymienia go pierwszego. Gdyby nie było porównania, byłby to najlepszy dzień w jego życiu. Porównanie zamienia zwycięstwo w porażkę, choć nic się w faktach nie zmieniło. Ostatnie zdanie wersetu 8 jest własnym dopowiedzeniem Saula, wnioskiem wyciągniętym z jednej piosenki. Dalszy ciąg jego historii wyrasta z tego zdania.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Aż wszedłem do świątyni",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 73,2-3.16-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Co do mnie-omal nie potknęły się nogi moje, Omal nie pośliznęły się kroki moje, Bo zazdrościłem zuchwałym, Widząc pomyślność bezbożnych. [...] Chciałem to tedy zrozumieć, Lecz niezwykle trudne mi się to wydało, Dopókim nie dotarł do tajemnic Bożych I nie zrozumiałem kresu ich."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Psalmista przyznaje wprost, że zazdrościł, i mówi, że przez to omal się nie potknął. **Czym groziła mu ta zazdrość?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Próbował to zrozumieć i nie dał rady. Zmiana przyszła nie przez zrozumienie. **Co się stało w wersecie 17?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Nic w sytuacji bezbożnych się nie zmieniło. **Co w takim razie się zmieniło?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Denar dla ostatnich",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 20,9-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Podeszli tedy najęci o godzinie jedenastej i otrzymali po denarze. A gdy podeszli pierwsi, sądzili, że wezmą więcej. Lecz i oni otrzymali po denarze. Wziąwszy tyle szemrali przeciwko gospodarzowi, mówiąc: Ci ostatni jedną tylko godzinę pracowali, a zrównałeś ich z nami, cośmy znosili ciężar dnia i upał. A on odrzekł jednemu z nich: Przyjacielu, nie czynię ci krzywdy. Czy nie ugodziłeś się ze mną na denara? Bierz, co twoje, i idź! Chcę bowiem temu ostatniemu dać, jak i tobie. Czy nie wolno mi czynić z tym, co moje, jak chcę? Albo czy oko twoje jest zawistne dlatego, iż ja jestem dobry?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Pierwsi dostali dokładnie tyle, ile im obiecano. **Dlaczego mimo to czują się skrzywdzeni?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ostatnie zdanie gospodarza: czy oko twoje jest zawistne dlatego, iż ja jestem dobry. **Co ono mówi o tym, przeciw komu naprawdę jest skierowana zazdrość?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Gospodarz nazywa zawistnego „przyjacielem\". **Co to dodaje do sceny?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To jedna z niewielu przypowieści, w których Jezus wprost nazywa mechanizm zazdrości. Krzywda tych, którzy pracowali cały dzień, nie polega na tym, że dostali za mało, bo dostali dokładnie tyle, ile ustalono. Polega na tym, że ktoś inny dostał tyle samo. Zazdrość liczy nie to, co mam, tylko dystans między mną a kimś. Dlatego można ją mieć, mając wszystko, czego się chciało.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ten, który się cieszył",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 3,26-30",
+       "przeklad": "BW",
+       "akapity": [
+        "Przyszli więc do Jana i rzekli mu: Mistrzu! Ten, który był z tobą za Jordanem, o którym ty wydałeś świadectwo, oto On chrzci i wszyscy idą do niego. Jan, odpowiadając, rzekł: Nie może człowiek niczego wziąć, jeśli mu nie jest dane z nieba. Wy sami możecie mi zaświadczyć, że powiedziałem: Ja nie jestem Chrystusem, lecz zostałem posłany przed nim. Kto ma oblubienicę, ten jest oblubieńcem; a przyjaciel oblubieńca, który stoi i słucha go, raduje się niezmiernie, słysząc głos oblubieńca. Tej właśnie radości doznaję w całej pełni. On musi wzrastać, ja zaś stawać się mniejszym."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Uczniowie Jana przychodzą do niego z klasycznym zdaniem: wszyscy idą do Niego. **Czego się po nim spodziewali?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jan odpowiada zdaniem o tym, że człowiek nie może wziąć niczego, co nie jest mu dane z nieba. **Jak to zdanie rozbraja zazdrość?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„On musi wzrastać, ja zaś stawać się mniejszym\". **Jan mówi to bez goryczy. Co mu to umożliwia?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Skąd to się bierze",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jk 3,14-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeśli jednak gorzką zazdrość i kłótliwość macie w sercach swoich, to przynajmniej nie przechwalajcie się i nie kłamcie wbrew prawdzie. Nie jest to mądrość, która z góry zstępuje, lecz przyziemna, zmysłowa, demoniczna. Bo gdzie jest zazdrość i kłótliwość, tam niepokój i wszelki zły czyn."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jakub zestawia zazdrość z kłótliwością i mówi, że skutkiem jest niepokój i wszelki zły czyn. **Dlaczego akurat te dwie rzeczy chodzą w parze?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakub nie każe najpierw przestać zazdrościć. Każe najpierw czegoś innego. **Czego i dlaczego w tej kolejności?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Lista Pawła",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ga 5,19-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Jawne zaś są uczynki ciała, mianowicie: wszeteczeństwo, nieczystość, rozpusta, bałwochwalstwo, czary, wrogość, spór, zazdrość, gniew, knowania, waśnie, odszczepieństwo, zabójstwa, pijaństwo, obżarstwo i tym podobne; o tych zapowiadam wam, jak już przedtem zapowiedziałem, że ci, którzy te rzeczy czynią, Królestwa Bożego nie odziedziczą."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zazdrość stoi na tej liście między rzeczami, które uznajemy za znacznie cięższe. **Co to mówi o jej wadze?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "blok",
+   "poziom": 3,
+   "tytul": "Bóg zazdrosny",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajskie `kin'a` znaczy i „zazdrość\", i „gorliwość\". Tym samym słowem opisany jest Saul patrzący na Dawida i Bóg mówiący o sobie w Wj 34,14, że jest Bogiem zazdrosnym.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 34,14",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdyż nie będziesz się kłaniał innemu bogu. Albowiem Pan, którego imię jest \" Zazdrosny \", jest Bogiem zazdrosnym."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czym Boża zazdrość różni się od tej, o której czytaliśmy dzisiaj? Spróbujcie nazwać różnicę w jednym zdaniu.**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zazdrość ludzka chce mieć to, co ma ktoś inny. **Czego chce Boża?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "warto, żeby padło rozróżnienie między pragnieniem cudzego dobra a pragnieniem wierności kogoś, kto do Niego należy. Nie rozstrzygaj tego sam, jeśli grupa jeszcze pracuje.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Saul usłyszał piosenkę i dopowiedział sobie zdanie, którego w niej nie było. **Jakie zdanie ty dopowiadasz sobie po cudzym sukcesie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalmista przestał zazdrościć nie wtedy, gdy zrozumiał, tylko gdy zmienił miejsce, z którego patrzył. **Gdzie ty patrzysz na swoje życie: przez porównanie z kim?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest ktoś, o kim trudno ci usłyszeć dobrą wiadomość?** Nie mów kto.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Zazdrość nie liczy tego, co mam. Liczy dystans między mną a kimś innym, i dlatego nigdy nie kończy liczenia.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Mt 20,15 albo J 3,27.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Zauważ w tym tygodniu jeden moment, w którym cudza dobra wiadomość cię uwierała. Nie oceniaj się za to. **Zapytaj siebie: czego ta osoba ma, czego według mnie mi odmówiono?** Pod zazdrością prawie zawsze leży pretensja, i rzadko jest ona do tego człowieka.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Weź to samo i zanieś do Boga w formie pytania, nie prośby. **Zapytaj, dlaczego nie dostałeś tamtej rzeczy.** Psalm 73 pokazuje, że to pytanie wolno zadać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** powiedz tej osobie coś dobrego, wprost i bez zastrzeżeń. Nie po to, żeby poczuć się lepiej, tylko żeby sprawdzić, jak trudne to jest.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Nikt się nie przyznaje do zazdrości.** Normalne i spodziewane. Nie naciskaj. Pracujcie na tekstach, bo cudze historie robią tu robotę lepiej niż pytania wprost.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To nie zazdrość, to niesprawiedliwość.\"** Czasem to prawda. Nie przekonuj. Zapytaj: „Co by się musiało zmienić, żeby przestało boleć: żeby ty dostał więcej, czy żeby on dostał mniej?\" Odpowiedź zwykle wystarczy za komentarz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na konkretne osoby w zborze.** Utnij natychmiast. „Bez nazwisk.\" To najważniejsza granica w tym temacie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o bezdzietności, chorobie albo samotności.** Tu zazdrość jest splątana z realną stratą. Nie traktuj tego jak wady charakteru. Wysłuchaj i nie komentuj moralnie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Chrześcijanin powinien się cieszyć z cudzego szczęścia.\"** Powinien, tylko że to jest cel, a nie przycisk. Wróć do Ps 73: on najpierw przyznał, że zazdrości, i dopiero potem coś się ruszyło.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna się usprawiedliwiać ze swojej sytuacji.** Zazdrość rzadko przyznaje się wprost, częściej tłumaczy. Nie demaskuj. Wróć do tekstu.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Nikt się nie przyznaje do zazdrości.",
+     "odpowiedz": "Normalne i spodziewane. Nie naciskaj. Pracujcie na tekstach, bo cudze historie robią tu robotę lepiej niż pytania wprost."
+    },
+    {
+     "sytuacja": "„To nie zazdrość, to niesprawiedliwość.\"",
+     "odpowiedz": "Czasem to prawda. Nie przekonuj. Zapytaj: „Co by się musiało zmienić, żeby przestało boleć: żeby ty dostał więcej, czy żeby on dostał mniej?\" Odpowiedź zwykle wystarczy za komentarz."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na konkretne osoby w zborze.",
+     "odpowiedz": "Utnij natychmiast. „Bez nazwisk.\" To najważniejsza granica w tym temacie."
+    },
+    {
+     "sytuacja": "Ktoś mówi o bezdzietności, chorobie albo samotności.",
+     "odpowiedz": "Tu zazdrość jest splątana z realną stratą. Nie traktuj tego jak wady charakteru. Wysłuchaj i nie komentuj moralnie."
+    },
+    {
+     "sytuacja": "„Chrześcijanin powinien się cieszyć z cudzego szczęścia.\"",
+     "odpowiedz": "Powinien, tylko że to jest cel, a nie przycisk. Wróć do Ps 73: on najpierw przyznał, że zazdrości, i dopiero potem coś się ruszyło."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna się usprawiedliwiać ze swojej sytuacji.",
+     "odpowiedz": "Zazdrość rzadko przyznaje się wprost, częściej tłumaczy. Nie demaskuj. Wróć do tekstu."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,791 @@
+{
+ "tytul": "Czy Biblii można ufać?",
+ "id": "P-05",
+ "seria": "Pytania, które ludzie zadają",
+ "opis": "Pytamy samych autorów, skąd wiedzą to, o czym piszą, i po co piszą.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Łk 1,1-4; 2P 1,16-18; 1J 1,1-3; J 20,30-31; J 21,24-25; 2Tm 3,14-17; 2P 1,19-21; Dz 17,10-12",
+  "p2": "J 19,35; Dz 1,21-22; Dz 26,24-26; J 5,39-40; Łk 24,25-27.44-45; Hbr 1,1-2",
+  "p3": "Mt 8,28; Mk 5,1-2; Mk 16,8; 2P 3,15-16"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 23,
+  "p3": 28
+ },
+ "tagi": [
+  "Biblia",
+  "zaufanie",
+  "świadkowie",
+  "natchnienie",
+  "wątpliwości",
+  "czytanie"
+ ],
+ "wersja": 1,
+ "zdanie": "Biblia nie prosi, żeby jej wierzyć na ślepo. Mówi, skąd wie, mówi, po co jest, i zaprasza, żeby ją sprawdzać codziennie.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie nie jest wykładem z dowodów na prawdziwość Biblii. Robimy rzecz prostszą: pytamy samych autorów, skąd wiedzą to, o czym piszą, i po co piszą. Okazuje się, że mówią o tym otwarcie. Powołują się na świadków, na własne oczy i ręce, na badanie źródeł. Przyznają, że wybierali materiał. Mówią, do czego Pismo służy. I chwalą ludzi, którzy sprawdzają. Zaufanie do Biblii nie zaczyna się od wyłączenia rozumu, tylko od uważnego czytania.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Nie musisz znać odpowiedzi na każdy zarzut. Zdanie „nie wiem, sprawdzę\" buduje dziś więcej zaufania niż gładka odpowiedź na wszystko.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole może siedzieć ktoś, dla kogo Biblia to zbiór legend, i ktoś, dla kogo każde pytanie o Biblię jest brakiem wiary. Oboje mają się czuć bezpiecznie.",
+      "Ktoś mógł być raniony wersetami. Dla niego Biblia to nie księga, tylko narzędzie, którym go bito. Zaufanie do tekstu i zaufanie do ludzi, którzy go cytowali, to dwie różne sprawy.",
+      "Temat łatwo ucieka w ciekawostki: rękopisy, sobory, apokryfy, przekłady. Są ciekawe, ale nie zastąpią czytania tego, co autorzy mówią sami.",
+      "Spór o wiarę i naukę ma w tej serii osobne spotkanie. Dziś go nie otwieramy."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie broń Biblii nerwowo, bo to wygląda na strach. Nie zbywaj trudnych pytań zdaniem „trzeba po prostu wierzyć\". Nie ośmieszaj wątpiących i nie pozwól na to innym. Nie porównuj Biblii katolickiej z protestancką w tonie wyższości.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Komu albo czemu ufasz bez sprawdzania, a co zawsze sprawdzasz dwa razy? Podaj po jednym przykładzie.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko, najlepiej czymś zwyczajnym, jak rozkład jazdy albo prognoza pogody. Nie komentuj odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Jak powstała Ewangelia",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 1,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Skoro już wielu podjęło się sporządzenia opisu wydarzeń, które wśród nas się dokonały, jak nam to przekazali naoczni od samego początku świadkowie i słudzy Słowa, postanowiłem i ja, który wszystko od początku przebadałem, dokładnie kolejno ci to opisać, dostojny Teofilu, abyś upewnił się w prawdziwości nauki, jaką odebrałeś."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Wypiszcie z tego jednego zdania wszystko, co Łukasz mówi o swojej metodzie: skąd ma materiał, co z nim zrobił, kto pisał przed nim.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Łukasz nie pisze „Bóg mi to podyktował\". Pisze „przebadałem\". **Co to mówi o sposobie, w jaki Bóg posłużył się człowiekiem przy powstawaniu Biblii? Czy praca badacza i działanie Boga się wykluczają?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Teofil był już pouczony o wierze, a mimo to Łukasz pisze, żeby się „upewnił\". **Co to mówi o miejscu pytań i sprawdzania w życiu kogoś, kto już wierzy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Tak zaczynali swoje dzieła starożytni historycy: mówili, skąd wiedzą, i zaznaczali, że sięgają do świadków „od początku\". Łukasz staje więc świadomie w szeregu ludzi, których można rozliczyć z rzetelności. Sama deklaracja niczego jeszcze nie dowodzi, bo dokładność obiecywali także autorzy niedokładni. Łukasza trzeba sprawdzać tak jak ich: po tym, co zrobił z materiałem. Słowo „kolejno\" znaczy „w uporządkowany sposób\", niekoniecznie „chronologicznie\".",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Kto może być świadkiem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 1,21-22",
+       "przeklad": "BW",
+       "akapity": [
+        "Trzeba więc, aby jeden z tych mężów, którzy chodzili z nami przez cały czas, kiedy Pan Jezus przebywał między nami, począwszy od chrztu Jana, aż do dnia, w którym od nas został wzięty w górę, stał się wraz z nami świadkiem jego zmartwychwstania."
+       ]
+      },
+      {
+       "odnosnik": "J 19,35",
+       "przeklad": "BW",
+       "akapity": [
+        "A ten, który to widział, dał o tym świadectwo, a jego świadectwo jest prawdziwe; i on wie, że mówi prawdę, abyście i wy wierzyli."
+       ]
+      },
+      {
+       "odnosnik": "Dz 26,24-26",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy on to mówił ku swojej obronie, zawołał Festus donośnym głosem: Szalejesz, Pawle! Wielka uczoność przywodzi cię do szaleństwa. A Paweł rzecze: Nie szaleję, najdostojniejszy Festusie, lecz wypowiadam słowa prawdy i rozsądku. O sprawach tych wie przecież król, do którego też mówię śmiało, gdyż jestem przekonany, że nic z tych rzeczy nie uszło jego uwagi, bo też nie działo się to w jakimś zakątku."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Apostołowie szukają następcy Judasza. **Jakie warunki musi spełnić kandydat? Czego te warunki pilnują?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł przed sądem odwołuje się do wiedzy króla, który nie jest chrześcijaninem. **Co znaczy zdanie „nie działo się to w jakimś zakątku\"? Czym różni się wiara oparta na wydarzeniach publicznych od wiary opartej na prywatnym objawieniu jednej osoby?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Nie baśnie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2P 1,16-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdyż oznajmiliśmy wam moc i powtórne przyjście Pana naszego, Jezusa Chrystusa, nie opierając się na zręcznie zmyślonych baśniach, lecz jako naoczni świadkowie jego wielkości. Wziął On bowiem od Boga Ojca cześć i chwałę, gdy taki go doszedł głos od Majestatu chwały: Ten jest Syn mój umiłowany, którego sobie upodobałem. A my, będąc z nim na świętej górze, usłyszeliśmy ten głos, który pochodził z nieba."
+       ]
+      },
+      {
+       "odnosnik": "1J 1,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "Co było od początku, co słyszeliśmy, co oczami naszymi widzieliśmy, na co patrzyliśmy i czego ręce nasze dotykały, o Słowie żywota – a żywot objawiony został, i widzieliśmy, i świadczymy, i zwiastujemy wam ów żywot wieczny, który był u Ojca, a nam objawiony został – co widzieliśmy i słyszeliśmy, to i wam zwiastujemy, abyście i wy społeczność z nami mieli. A społeczność nasza jest społecznością z Ojcem i z Synem jego, Jezusem Chrystusem."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Piotr wie, że istnieją „zręcznie zmyślone baśnie\", i odcina się od nich. **Czym według obu tekstów różni się to, co piszą apostołowie, od baśni? Policzcie czasowniki związane ze zmysłami.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Obaj piszą „my\", nie „ja\". **Co zmienia to, że świadectwo jest zbiorowe? Komu łatwiej zaprzeczyć: jednemu człowiekowi czy grupie ludzi, którzy żyją wśród czytelników?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jan mówi, po co to pisze: żeby czytelnik miał „społeczność\", czyli wspólnotę, z nimi i z Bogiem. **Jaką różnicę robi to, czy czytam Biblię jako źródło informacji, czy jako zaproszenie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ktoś policzył w Ewangelii Jana odwołania do zmysłów. Widzenie w dosłownym sensie pojawia się blisko sto razy, słyszenie trzydzieści, do tego dotyk, zapach olejku wypełniający dom, odór przy grobie Łazarza i smak wina na weselu. Tak nie pisze ktoś, kto opowiada ideę. Tak pisze ktoś, kto pamięta, jak tam było.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Wybór i cel",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 20,30-31",
+       "przeklad": "BW",
+       "akapity": [
+        "I wiele innych cudów uczynił Jezus wobec uczniów, które nie są spisane w tej księdze; te zaś są spisane, abyście wierzyli, że Jezus jest Chrystusem, Synem Boga, i abyście wierząc mieli żywot w imieniu jego."
+       ]
+      },
+      {
+       "odnosnik": "J 21,24-25",
+       "przeklad": "BW",
+       "akapity": [
+        "A to właśnie jest uczeń, który składa świadectwo o tych rzeczach i to napisał; a wiemy, że świadectwo jego jest prawdziwe. Wiele też innych rzeczy dokonał Jezus, które, gdyby miały być spisane jedna po drugiej, mniemam, że i cały świat nie pomieściłby ksiąg, które by należało napisać."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jan otwarcie przyznaje, że wybierał, co zapisać, i że ma w tym cel. **Czy to przyznanie osłabia jego wiarygodność, czy ją wzmacnia? Dlaczego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jan mówi, po co jest jego księga: żebyście wierzyli i mieli życie. **Jakich pytań w takim razie nie należy tej księdze zadawać? Na jakie odpowiada chętnie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Wiemy, że świadectwo jego jest prawdziwe\". **Kto to mówi? Co znaczy, że pod księgą podpisuje się jeszcze ktoś poza autorem?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Można badać i minąć się z celem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 5,39-40",
+       "przeklad": "BW",
+       "akapity": [
+        "Badacie Pisma, bo sądzicie, że macie w nich żywot wieczny; a one składają świadectwo o mnie; ale mimo to do mnie przyjść nie chcecie, aby mieć żywot."
+       ]
+      },
+      {
+       "odnosnik": "Łk 24,25-27.44-45",
+       "przeklad": "BW",
+       "akapity": [
+        "A On rzekł do nich: O głupi i gnuśnego serca, by uwierzyć we wszystko, co powiedzieli prorocy. Czyż Chrystus nie musiał tego wycierpieć, by wejść do swojej chwały? I począwszy od Mojżesza poprzez wszystkich proroków wykładał im, co o nim było napisane we wszystkich Pismach. [...] Potem rzekł do nich: To są moje słowa, które mówiłem do was, będąc jeszcze z wami, że się musi spełnić wszystko, co jest napisane o mnie w zakonie Mojżesza i u proroków, i w Psalmach. Wtedy otworzył im umysły, aby mogli zrozumieć Pisma."
+       ]
+      },
+      {
+       "odnosnik": "Hbr 1,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "Wielokrotnie i wieloma sposobami przemawiał Bóg dawnymi czasy do ojców przez proroków; ostatnio, u kresu tych dni, przemówił do nas przez Syna, którego ustanowił dziedzicem wszechrzeczy, przez którego także wszechświat stworzył."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi do ludzi, którzy znali Pisma lepiej niż ktokolwiek z nas. **Jak to możliwe, że można badać Biblię całe życie i minąć się z jej celem? Po czym poznać, że to się dzieje?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zmartwychwstały Jezus mógł uczniom po prostu się pokazać. Zamiast tego najpierw prowadzi ich przez Pisma. **Dlaczego? Co to mówi o tym, jak On sam traktował Stary Testament?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "List do Hebrajczyków mówi, że Bóg przemawiał „wieloma sposobami\", a na końcu „przez Syna\". **Jeśli Jezus jest najpełniejszym słowem Boga, jak to ustawia czytanie trudnych kart Biblii?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Do czego służy Pismo",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Tm 3,14-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Ale ty trwaj w tym, czegoś się nauczył i czego pewny jesteś, wiedząc, od kogoś się tego nauczył. I ponieważ od dzieciństwa znasz Pisma święte, które cię mogą obdarzyć mądrością ku zbawieniu przez wiarę w Jezusa Chrystusa. Całe Pismo przez Boga jest natchnione i pożyteczne do nauki, do wykrywania błędów, do poprawy, do wychowywania w sprawiedliwości, aby człowiek Boży był doskonały, do wszelkiego dobrego dzieła przygotowany."
+       ]
+      },
+      {
+       "odnosnik": "2P 1,19-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Mamy więc słowo prorockie jeszcze bardziej potwierdzone, a wy dobrze czynicie, trzymając się go niby pochodni, świecącej w ciemnym miejscu, dopóki dzień nie zaświta i nie wzejdzie jutrzenka w waszych sercach. Przede wszystkim to wiedzcie, że wszelkie proroctwo Pisma nie podlega dowolnemu wykładowi. Albowiem proroctwo nie przychodziło nigdy z woli ludzkiej, lecz wypowiadali je ludzie Boży, natchnieni Duchem Świętym."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Wypiszcie z listu do Tymoteusza wszystko, do czego Pismo jest pożyteczne.** Czego na tej liście nie ma, a czego ludzie czasem w Biblii szukają?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Piotr mówi jednym tchem: „wypowiadali je ludzie\" i „natchnieni Duchem Świętym\". **Co się stanie z naszym czytaniem, jeśli zostawimy tylko pierwszą połowę tego zdania? A jeśli tylko drugą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Piotr porównuje Pismo do pochodni w ciemnym miejscu, która świeci, „dopóki dzień nie zaświta\". **Co ten obraz mówi o tym, czym Biblia jest, a czym nie jest?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Paweł przypomina Tymoteuszowi nie tylko, czego się nauczył, ale „od kogo\". Tymoteusz poznał Pisma od babki i matki. Zaufanie do Biblii rzadko zaczyna się od argumentów. Zwykle zaczyna się od człowieka, któremu ufamy i po którym widać, co ta księga z nim zrobiła. Argumenty przychodzą później i są potrzebne, ale to nie one pierwsze otwierają księgę.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Przez Boga natchnione\" to jedno greckie słowo `theopneustos`, dosłownie „tchnięte przez Boga\". Pada w Biblii tylko ten jeden raz. Przywołuje tchnienie z opisu stworzenia: Bóg tchnął i proch stał się żywym człowiekiem. Paweł nie opisuje mechanizmu. Mówi o pochodzeniu i o życiu, które w tych tekstach jest.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Piotr używa innego obrazu. „Natchnieni\" to dosłownie „niesieni\", `pheromenoi`. Tym samym czasownikiem Dzieje Apostolskie opisują statek niesiony przez wiatr. Statek pozostaje statkiem, z własnym kształtem i żaglami, a wiatr nadaje kierunek.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co obraz statku niesionego wiatrem mówi o roli ludzkiego autora? Gdzie w Biblii widać jego własny styl, temperament i ograniczenia?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Prawo do sprawdzania",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 17,10-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Bracia zaś wyprawili zaraz w nocy Pawła i Sylasa do Berei; ci, gdy tam przybyli, udali się do synagogi Żydów, którzy byli szlachetniejszego usposobienia niż owi w Tesalonice; przyjęli oni Słowo z całą gotowością i codziennie badali Pisma, czy tak się rzeczy mają. Wielu też z nich uwierzyło, również niemało wybitnych greckich niewiast i mężów."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Do Berei przychodzi apostoł Paweł, a słuchacze sprawdzają, czy mówi prawdę. **Jak Łukasz ocenia tę postawę? Co to mówi o autorytecie kaznodziei, pastora, tradycji?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Berejczycy łączą dwie rzeczy, które zwykle występują osobno: „całą gotowość\" i codzienne badanie. **Jak wygląda gotowość bez badania? A badanie bez gotowości? Do której z tych skrajności jest ci bliżej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Co według tego tekstu jest skutkiem sprawdzania?** Czy Łukasz boi się, że badanie osłabi wiarę?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Słowo oddane jako „badali\" pochodzi z sali sądowej. Oznacza przesłuchiwanie świadka i dochodzenie w sprawie. Berejczycy nie słuchali biernie. Zadawali tekstowi pytania, codziennie, i nikt im nie powiedział, że to brak wiary. Biblia sama daje czytelnikowi prawo, żeby ją sprawdzał. Kto zakazuje pytań w jej imieniu, robi to wbrew niej.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: ewangelie różnią się w szczegółach",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 8,28",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy przybył na drugą stronę, do krainy Gadareńczyków, zabiegli mu drogę dwaj opętani, wychodzący z grobów, bardzo groźni, tak iż nikt nie mógł przechodzić tą drogą."
+       ]
+      },
+      {
+       "odnosnik": "Mk 5,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "I przybyli na drugi brzeg morza, do krainy Gerazeńczyków. A gdy wychodził z łodzi, oto wybiegł z grobów naprzeciw niego opętany przez ducha nieczystego człowiek,"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Dwóch czy jeden? Gadara czy Geraza? Podobnych różnic jest w ewangeliach więcej, na przykład w listach kobiet przy grobie. Pierwsze podejście szuka zharmonizowania: było dwóch, Marek opowiada o tym, który mówił, a obie nazwy wskazują ten sam region. Drugie podejście przyjmuje, że niezależni świadkowie zapamiętują to samo wydarzenie nieco inaczej i że Bóg nie wygładził tych różnic. Obie strony zgadzają się co do dwóch rzeczy. Relacje są zgodne w tym, co istotne: kto, co zrobił i jaki był skutek. A gdyby czterej autorzy uzgadniali wersje, takich szwów by nie było. Zmowa daje zeznania identyczne. Pamięć daje zeznania zgodne w rdzeniu i różne w szczegółach.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co budziłoby w was większą nieufność: cztery relacje różniące się w szczegółach czy cztery relacje identyczne co do słowa? Co te różnice mówią o tym, jak Bóg obchodzi się z ludzkimi świadkami?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: tekst przepisywano ręcznie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 16,8",
+       "przeklad": "BW",
+       "akapity": [
+        "A wyszedłszy, uciekły od grobu, ogarnął je bowiem lęk i zdumienie, i nic nikomu nie mówiły, bo się bały."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W wielu wydaniach Biblii po tym wersecie stoi uwaga, że najstarsze rękopisy kończą Ewangelię Marka w tym miejscu, a wersety 9-20 dopisano później. Rzeczywiście nie ma ich w najstarszych zachowanych rękopisach z czwartego wieku, a pisarze chrześcijańscy z czwartego i piątego stulecia świadczą, że brakowało ich w większości znanych im kopii. Jedni widzą w tym powód do nieufności: skoro coś dopisano, to skąd wiadomo, co jeszcze. Drudzy zwracają uwagę, że wiemy o tym właśnie dlatego, że rękopisów jest bardzo dużo i można je porównywać. Dopiski daje się wykryć, a wydania Biblii uczciwie je oznaczają. Żadna nauka chrześcijańska nie stoi na spornym fragmencie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy wiadomość, że wydawcy Biblii oznaczają miejsca niepewne, zmniejsza wasze zaufanie do tekstu czy je zwiększa? Dlaczego?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: rzeczy niezrozumiałe",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2P 3,15-16",
+       "przeklad": "BW",
+       "akapity": [
+        "A cierpliwość Pana naszego uważajcie za ratunek, jak i umiłowany brat nasz, Paweł, w mądrości, która mu jest dana, pisał do was; tak też mówi we wszystkich listach, gdzie o tym się wypowiada; są w nich pewne rzeczy niezrozumiałe, które, podobnie jak i inne pisma, ludzie niewykształceni i niezbyt umocnieni przekręcają ku swej własnej zgubie."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Apostoł Piotr przyznaje, że w listach apostoła Pawła są rzeczy trudne do zrozumienia. **Co to mówi komuś, kto czyta Biblię i czegoś nie rozumie? Jak według Piotra wygląda złe obchodzenie się z trudnym tekstem?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Skąd wzięło się twoje dzisiejsze nastawienie do Biblii, ufne albo nieufne?** Od jakich ludzi i z jakich doświadczeń?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Berejczycy badali codziennie. **Jak wygląda twoje czytanie Biblii, kiedy jesteś z nią sam: czego w niej szukasz i co omijasz?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **jakie pytanie do Biblii nosisz w sobie od dawna i nie miałeś odwagi zadać go na głos?**",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "jeśli ktoś takie pytanie zada, nie odpowiadaj od razu. Podziękuj, zapisz je i zaproponuj, że wrócicie do niego razem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Prawie wszystko, co dziś czytaliśmy, to Biblia mówiąca o sobie samej. **Czy świadectwo we własnej sprawie może kogokolwiek przekonać? Co jeszcze musi się wydarzyć, żeby człowiek zaufał tej księdze, i czy to coś należy do dziedziny dowodów?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie zamykaj tego pytania. Warto natomiast, żeby padło spostrzeżenie, że dowody mogą usunąć przeszkody, ale zaufanie rodzi się ze spotkania. Berejczycy badali i „uwierzyli\", a nie „zostali pokonani w dyskusji\".",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Biblia nie prosi, żeby jej wierzyć na ślepo. Mówi, skąd wie, mówi, po co jest, i zaprasza, żeby ją sprawdzać codziennie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Dz 17,11 albo J 20,31.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jan napisał swoją księgę, żebyś miał życie. Kiedy następnym razem otworzysz Biblię, zanim zaczniesz czytać, zapytaj siebie uczciwie: **po co ją teraz otwieram?** Po argument, po spokój sumienia, z obowiązku, z ciekawości, po spotkanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o człowieku, po którym było widać, że Biblia go zmieniła na dobre. A potem o kimś, kto jej używał, żeby ranić. Zapytaj Boga: **któremu z tych dwóch obrazów pozwalam decydować o moim zaufaniu do tej księgi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** nazwij przed Bogiem fragment Biblii, z którym się nie zgadzasz albo który cię gorszy. Nie wygładzaj tego. Powiedz Mu to wprost i zostaw u Niego, bez wymuszania na sobie odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Biblię pisali ludzie, a Kościół potem ją poprawiał, jak chciał.\"** Pierwsza połowa jest prawdą i Biblia sama to mówi: Łukasz badał, Jan wybierał. Druga połowa wymaga konkretu. Zapytaj: „Które miejsce masz na myśli?\". Rękopisów jest tak dużo i z tak różnych stron świata, że żadna instytucja nie mogła poprawić wszystkich naraz. Tam, gdzie coś dopisano, współczesne wydania to oznaczają. Jeśli grupa chce, przeczytajcie blok o zakończeniu Marka z poziomu 3.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Biblia jest pełna sprzeczności.\"** Nie zaprzeczaj odruchowo. Poproś o jeden konkretny przykład i zapiszcie go. Jeśli znasz odpowiedź, podaj ją krótko. Jeśli nie znasz, powiedz „nie wiem, sprawdzę\" i naprawdę sprawdź. Blok o dwóch opętanych z poziomu 3 pokazuje, jak o takich miejscach rozmawiać bez paniki.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Katolicka Biblia ma więcej ksiąg. To która jest prawdziwa?\"** Odpowiedz rzeczowo i bez wyższości. Różnica dotyczy kilku ksiąg Starego Testamentu, które powstały między Starym a Nowym Testamentem. Cztery ewangelie, Dzieje i listy są we wszystkich chrześcijańskich Bibliach te same. Wszystko, co dziś czytaliśmy, stoi w każdej z nich. To temat na osobną rozmowę, nie na dziś.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Każdy przekład mówi co innego.\"** Zaproponuj doświadczenie: przeczytajcie jeden z dzisiejszych fragmentów w dwóch albo trzech przekładach, które ludzie mają przy sobie. Różnice będą w słowach, nie w treści. Porównywanie przekładów jest jednym z najprostszych sposobów badania Pisma, do którego nie trzeba znać greki.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś w grupie mówi: „kto zadaje takie pytania, ten po prostu nie wierzy\".** Przerwij spokojnie i wróć do Berei. Łukasz nazywa szlachetnymi tych, którzy sprawdzali apostoła. Pytanie nie jest niewiarą. Ochroń osobę, która pytała, bo inaczej więcej nie zapyta.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada, jak wersetami usprawiedliwiano krzywdę, którą mu wyrządzono.** Wysłuchaj. Nie broń Biblii i nie tłumacz tamtych ludzi. Powiedz, że to, co go spotkało, było nadużyciem tekstu, i że Jezus najostrzej mówił właśnie do tych, którzy znali Pisma i używali ich przeciw ludziom. Zostań z tą osobą po spotkaniu. Jeśli krzywda trwa, nie zostawaj z tym sam i porozmawiaj z pastorem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A co z ewolucją, potopem, wiekiem ziemi?\"** To pytania z innego spotkania tej serii, „Wiara i nauka: czy muszę wybierać?\". Zapisz je i nie otwieraj dziś. Możesz przypomnieć listę z 2Tm 3: Pismo mówi o sobie, że jest po to, by prowadzić do zbawienia i wychowywać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 3. Bloki 1 i 5 tworzą ramę spotkania: autor, który badał, i czytelnicy, którzy badają. Blok 4 mówi, po co to wszystko.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Biblię pisali ludzie, a Kościół potem ją poprawiał, jak chciał.\"",
+     "odpowiedz": "Pierwsza połowa jest prawdą i Biblia sama to mówi: Łukasz badał, Jan wybierał. Druga połowa wymaga konkretu. Zapytaj: „Które miejsce masz na myśli?\". Rękopisów jest tak dużo i z tak różnych stron świata, że żadna instytucja nie mogła poprawić wszystkich naraz. Tam, gdzie coś dopisano, współczesne wydania to oznaczają. Jeśli grupa chce, przeczytajcie blok o zakończeniu Marka z poziomu 3."
+    },
+    {
+     "sytuacja": "„Biblia jest pełna sprzeczności.\"",
+     "odpowiedz": "Nie zaprzeczaj odruchowo. Poproś o jeden konkretny przykład i zapiszcie go. Jeśli znasz odpowiedź, podaj ją krótko. Jeśli nie znasz, powiedz „nie wiem, sprawdzę\" i naprawdę sprawdź. Blok o dwóch opętanych z poziomu 3 pokazuje, jak o takich miejscach rozmawiać bez paniki."
+    },
+    {
+     "sytuacja": "„Katolicka Biblia ma więcej ksiąg. To która jest prawdziwa?\"",
+     "odpowiedz": "Odpowiedz rzeczowo i bez wyższości. Różnica dotyczy kilku ksiąg Starego Testamentu, które powstały między Starym a Nowym Testamentem. Cztery ewangelie, Dzieje i listy są we wszystkich chrześcijańskich Bibliach te same. Wszystko, co dziś czytaliśmy, stoi w każdej z nich. To temat na osobną rozmowę, nie na dziś."
+    },
+    {
+     "sytuacja": "„Każdy przekład mówi co innego.\"",
+     "odpowiedz": "Zaproponuj doświadczenie: przeczytajcie jeden z dzisiejszych fragmentów w dwóch albo trzech przekładach, które ludzie mają przy sobie. Różnice będą w słowach, nie w treści. Porównywanie przekładów jest jednym z najprostszych sposobów badania Pisma, do którego nie trzeba znać greki."
+    },
+    {
+     "sytuacja": "Ktoś w grupie mówi: „kto zadaje takie pytania, ten po prostu nie wierzy\".",
+     "odpowiedz": "Przerwij spokojnie i wróć do Berei. Łukasz nazywa szlachetnymi tych, którzy sprawdzali apostoła. Pytanie nie jest niewiarą. Ochroń osobę, która pytała, bo inaczej więcej nie zapyta."
+    },
+    {
+     "sytuacja": "Ktoś opowiada, jak wersetami usprawiedliwiano krzywdę, którą mu wyrządzono.",
+     "odpowiedz": "Wysłuchaj. Nie broń Biblii i nie tłumacz tamtych ludzi. Powiedz, że to, co go spotkało, było nadużyciem tekstu, i że Jezus najostrzej mówił właśnie do tych, którzy znali Pisma i używali ich przeciw ludziom. Zostań z tą osobą po spotkaniu. Jeśli krzywda trwa, nie zostawaj z tym sam i porozmawiaj z pastorem."
+    },
+    {
+     "sytuacja": "„A co z ewolucją, potopem, wiekiem ziemi?\"",
+     "odpowiedz": "To pytania z innego spotkania tej serii, „Wiara i nauka: czy muszę wybierać?\". Zapisz je i nie otwieraj dziś. Możesz przypomnieć listę z 2Tm 3: Pismo mówi o sobie, że jest po to, by prowadzić do zbawienia i wychowywać."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3. Bloki 1 i 5 tworzą ramę spotkania: autor, który badał, i czytelnicy, którzy badają. Blok 4 mówi, po co to wszystko."
+    }
+   ]
+  }
+ ]
+}

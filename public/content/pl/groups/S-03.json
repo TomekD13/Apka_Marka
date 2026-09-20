@@ -1,0 +1,702 @@
+{
+ "tytul": "Dzień wolnych ludzi",
+ "id": "S-03",
+ "seria": "Szabat jako dar",
+ "opis": "Drugi powód szabatu: byłeś niewolnikiem. Dzień dla tych, którzy sami przerwy sobie dać nie mogą.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Pwt 5,12-15; Wj 23,9-12; Kpł 25,1-7; Am 8,4-6; Iz 58,3.6-10",
+  "p2": "Pwt 15,12-15; Kpł 25,8-10.23; 2Krn 36,20-21",
+  "p3": "Pwt 5,13-15; Wj 20,11; Wj 21,2; Flm 15-16"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 24,
+  "p3": 29
+ },
+ "tagi": [
+  "szabat",
+  "wolność",
+  "sprawiedliwość",
+  "praca",
+  "przybysz",
+  "stworzenie"
+ ],
+ "wersja": 1,
+ "zdanie": "Wolny człowiek świętuje swoją wolność tym, że daje odetchnąć innym.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Księga Wyjścia uzasadnia szabat stworzeniem. Księga Powtórzonego Prawa podaje drugi powód: byłeś niewolnikiem. To spotkanie idzie za tym drugim powodem. Pokazuje, że dzień odpoczynku od początku był pomyślany także dla tych, którzy sami przerwy sobie dać nie mogą: sługi, przybysza, zwierzęcia, a nawet ziemi. Pytanie spotkania brzmi nie „czy ja odpoczywam\", tylko „kto odpoczywa dzięki mnie, a kto przeze mnie nie może\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Temat pracy i wyzysku w kilka minut zamienia się w rozmowę o polityce, związkach zawodowych, handlu w niedzielę albo migrantach. Materiał nie zajmuje w tych sporach stanowiska i ty też tego nie rób.",
+      "Przy stole może siedzieć pracodawca i może siedzieć ktoś źle traktowany w pracy. Żaden z nich nie jest dziś oskarżonym ani ofiarą na pokaz.",
+      "Ktoś może pracować w soboty, bo jest pielęgniarką, kierowcą albo opiekuje się chorym. To spotkanie nie jest o nim i nie wolno mu dać odczuć, że jest.",
+      "Teksty mówią o niewolnikach bez potępienia samej instytucji. Ktoś to zauważy. Poziom 3 ma na to osobny blok."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie wskazuj winnych, ani przy stole, ani poza nim. Nie zamieniaj spotkania w listę postulatów. Nie używaj szabatu jako miary, kto jest sprawiedliwy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie czas, kiedy o twoim czasie decydował ktoś inny: w szkole, w wojsku, w szpitalu, w pracy. Powiedz jednym zdaniem, czego ci wtedy najbardziej brakowało.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi, nie dopytuj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Byłeś niewolnikiem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 5,12-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Przestrzegaj dnia sabatu, aby go święcić, jak rozkazał ci Pan, twój Bóg. Sześć dni będziesz pracował i wykonywał wszelką twoją pracę, ale siódmego dnia jest sabat Pana, twojego Boga. Nie będziesz wykonywał żadnej pracy ani ty, ani twój syn, ani twoja córka, ani twój sługa, ani twoja służąca, ani twój wół, ani twój osioł, ani twoje bydlę, ani obcy przybysz, który mieszka w twoich bramach, aby odpoczął twój sługa i twoja służebnica tak jak ty. Pamiętaj, że byłeś niewolnikiem w ziemi egipskiej i że Pan, twój Bóg, wyprowadził cię stamtąd ręką możną i ramieniem wyciągniętym. Dlatego rozkazał ci Pan, twój Bóg, abyś obchodził dzień sabatu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie listę tych, którzy mają odpocząć, od początku do końca. **W którą stronę idzie ta lista? Kogo prawo wymienia osobno, chociaż mogłoby napisać po prostu „nikt w twoim domu\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Aby odpoczął twój sługa i twoja służebnica tak jak ty\". **Co znaczą trzy ostatnie słowa? Co dzieje się na jeden dzień w tygodniu z różnicą między panem a sługą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przykazanie każe pamiętać o własnej niewoli akurat wtedy, gdy mówi o odpoczynku innych. **Dlaczego? Co człowiek, któremu się poprawiło, najłatwiej zapomina?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "To przykazanie słyszą ludzie, którzy za chwilę sami będą mieli pola, służbę i zwierzęta. **Przed czym ma ich uchronić, zanim jeszcze cokolwiek posiadają?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W Księdze Wyjścia szabat przypomina, że Bóg stworzył świat. Tutaj przypomina, że Bóg wyprowadził z niewoli. Te dwa powody się nie wykluczają: skoro każdy człowiek jest stworzony przez Boga, nikt nie może być czyimś narzędziem bez przerwy. Przykazanie jest przy tym jedynym w Dekalogu, które w jednym zdaniu zwraca człowieka ku Bogu i ku ludziom pod jego dachem. Dawny niewolnik świętuje swoją wolność tym, że daje wolny dzień innym.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Zwrot „ręką możną i ramieniem wyciągniętym\" był dla pierwszych słuchaczy czytelną aluzją. Uniesione, silne ramię było w Egipcie oficjalnym znakiem faraona. Tak przedstawiano go na płaskorzeźbach: z ręką wzniesioną do ciosu nad pokonanymi. Opowiadanie o wyjściu z Egiptu bierze ten obraz i odwraca go. Ramię mocniejsze od ramienia faraona nie podnosi się po to, żeby zmusić do pracy, tylko po to, żeby z niej wyprowadzić.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W Pwt 5,13-15 cztery razy pada hebrajski rdzeń `awad`, czyli „pracować, służyć\". Układa się w klamrę: „będziesz pracował\", dosłownie „będziesz służył\", potem „twój sługa i twoja służąca\" mają nie pracować, potem „twój sługa i twoja służebnica\" mają odpocząć, a na końcu „byłeś sługą w ziemi egipskiej\". Polskie przekłady muszą tu użyć kilku różnych słów, hebrajski ma jedno.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli „sześć dni będziesz służył\" i „byłeś sługą w Egipcie\" to ten sam rdzeń, **to czym według tego przykazania różni się praca wolnego człowieka od pracy niewolnika?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Aby wytchnął",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 23,9-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Przychodnia nie uciskaj, sami bowiem wiecie, jak się czuje przychodzeń; wszak byliście przychodniami w ziemi egipskiej. Przez sześć lat obsiewać będziesz ziemię swoją i zbierać jej plony, w siódmym zaś zostawisz ją odłogiem i nie uprawisz jej, niech pożywią się z niej ubodzy twego ludu, a tym, co pozostanie po nich, niech pożywią się zwierzęta polne; tak też postąpisz z twoją winnicą i z twoim ogrodem oliwnym. Sześć dni wykonywać będziesz swoje prace, ale dnia siódmego będziesz świętował, aby wypoczął twój wół i twój osioł i aby wytchnął syn twojej niewolnicy i przychodzeń."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W wersecie 12 gospodarz ma świętować, „aby\" odpoczął ktoś inny. **Kto tu jest celem przykazania? Wypiszcie wszystkich po kolei.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Syn niewolnicy i przybysz to w tamtym świecie ludzie z samego dołu. **Co ich łączy? Do kogo mogliby się odwołać, gdyby ktoś kazał im pracować bez przerwy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Sami wiecie, jak się czuje przychodzeń\". **Na czym Bóg opiera to prawo: na groźbie kary czy na czymś innym?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ta wersja przykazania nie wymienia ani gospodarza, ani jego dzieci. Wymienia tylko tych, którzy o odpoczynek sami upomnieć się nie mogą: zwierzę robocze, dziecko niewolnicy, obcego. Gdy tacy dostaną polecenie pracy, nie mają komu się poskarżyć, więc prawo upomina się o nich z góry. Ten sam rytm sześciu i jednego obejmuje tu także pole: co siódmy rok zbierają z niego ubodzy, a po nich dzikie zwierzęta.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Siódmy rok",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 15,12-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeżeli zaprzeda ci się twój brat, Hebrajczyk lub Hebrajka, to będzie ci służył sześć lat, a w siódmym roku wypuścisz go od siebie wolnym. A wypuszczając go od siebie wolnym, nie wypuścisz go bez niczego. Szczodrze go obdarujesz z twojej trzody, z twego gumna i z twojej tłoczni tym, czym ubłogosławił cię Pan, Bóg twój. Będziesz pamiętał, że byłeś niewolnikiem w ziemi egipskiej i że Pan, Bóg twój, wykupił cię. Dlatego Ja nakazuję ci to dzisiaj."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Sześć i siedem wracają tu w skali lat. **Co łączy ten przepis z przykazaniem o szabacie? Znajdźcie zdanie, które powtarza się prawie słowo w słowo.**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pan ma wypuścić sługę nie z pustymi rękami, tylko szczodrze obdarowanego. **Jak Bóg wypuścił Izraela z Egiptu? Co to mówi o tym, skąd człowiek ma wiedzieć, jak traktować słabszego?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Ziemia też",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kpł 25,1-7",
+       "przeklad": "BW",
+       "akapity": [
+        "I przemówił Pan do Mojżesza na górze Synaj tymi słowy: Mów do synów izraelskich i powiedz im tak: Gdy wejdziecie do ziemi, którą Ja wam daję, to ziemia ta będzie obchodzić sabat dla Pana: Przez sześć lat będziesz obsiewał swoje pole i przez sześć lat będziesz obcinał swoją winnicę, i będziesz zbierał jej plon. Lecz w roku siódmym będzie mieć ziemia sabat całkowity, odpoczynek, sabat dla Pana. Nie będziesz obsiewał swego pola ani obcinał swojej winnicy. Nie będziesz zbierał żniwa z tego, co samo wyrosło po żniwie twoim, i nie będziesz zrywał winogron z nie obciętych pędów. Ziemia mieć będzie rok odpoczynku. To, co ziemia wyda w czasie swego odpoczynku, będzie dla was pożywieniem – dla ciebie i dla twego sługi, i dla twojej służebnicy, i dla twego najemnika, i dla tych, którzy u ciebie mieszkają, dla twojego bydła i dla zwierząt, które są na twojej ziemi będzie pożywieniem cały jej plon."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Tekst nie mówi, że rolnik daje ziemi odpocząć. Mówi, że to ziemia „będzie obchodzić\" swój szabat i że jest to szabat „dla Pana\". **Co to mówi o tym, do kogo należy pole?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W siódmym roku wszyscy jedzą to, co samo wyrosło: gospodarz, sługa, najemnik, gość, bydło i dzikie zwierzęta. **Co się dzieje przez ten rok z różnicą między właścicielem a resztą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Rok bez siewu i bez żniw to dla rolnika prawdziwe ryzyko. **Czego musiał być pewien, żeby zostawić pług w szopie?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Wolność dla wszystkich mieszkańców",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kpł 25,8-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Naliczysz sobie siedem lat sabatowych, siedem razy po siedem lat. Czas tych siedmiu lat sabatowych obejmować będzie czterdzieści dziewięć lat. W dziesiątym dniu siódmego miesiąca każesz zadąć w róg. W dniu pojednania każecie dąć w rogi po całej waszej ziemi. Poświęcicie pięćdziesiąty rok i obwołacie w ziemi wolność dla wszystkich jej mieszkańców. Będzie to dla was rok jubileuszowy. Wrócicie każdy do dawanej swej własności i wrócicie każdy do swojej rodziny."
+       ]
+      },
+      {
+       "odnosnik": "Kpł 25,23",
+       "przeklad": "BW",
+       "akapity": [
+        "Ziemi nie będzie się sprzedawać na zawsze, gdyż ziemia należy do mnie, a wy jesteście u mnie przybyszami i mieszkańcami."
+       ]
+      },
+      {
+       "odnosnik": "2Krn 36,20-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Następnie uprowadził do niewoli do Babilonu wszystkich pozostałych, którzy ocaleli od miecza, i tam zostali niewolnikami jego i jego synów aż do nastania królestwa perskiego. Tak wypełniło się słowo Pana, wypowiedziane przez usta Jeremiasza tej treści: Przez cały czas spustoszenia, dopóki kraj nie odpłaci swoich sabatów, będzie odpoczywał, aby dopełnić siedemdziesiąt lat."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dzień, rok, siedem razy siedem lat. **Co rośnie razem ze skalą? Co dostaje człowiek w szabat, co w siódmym roku, a co w roku jubileuszowym?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Wy jesteście u mnie przybyszami\". **Jak to zdanie zmienia sposób patrzenia na przybysza z czwartego przykazania?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Kronikarz tłumaczy siedemdziesiąt lat wygnania zaległymi szabatami ziemi. **Co to mówi o tym, jak poważnie Bóg traktuje odpoczynek, którego ktoś komuś nie dał?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Kiedyż minie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Am 8,4-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Słuchajcie tego wy, którzy depczecie ubogiego i tępicie biednych kraju, mówiąc: Kiedyż minie nów, abyśmy mogli kupczyć zbożem, i sabat, abyśmy mogli ziarno wystawić na sprzedaż, pomniejszyć efę, a powiększyć odważniki, przechylić oszukańczo wagę, nabywać nędzarzy za pieniądze, a ubogich za parę sandałów i sprzedawać poślad zboża?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ci kupcy szabatu nie łamią. Zamykają stragany i czekają. **Co w takim razie jest nie tak? Gdzie są myślami w dzień odpoczynku?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przez jeden dzień w tygodniu fałszywa waga stoi nieużywana. **Kogo chroni szabat nawet wtedy, gdy świętują go ludzie, którzy go nie znoszą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Czy można zachować dzień odpoczynku co do joty i zgubić wszystko, po co został dany? Jak by to wyglądało dzisiaj?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Efa to miara objętości, którą odmierzano sprzedawane zboże, a odważnikami ważono srebro kupującego. Mniejsza miara i cięższy odważnik oznaczają, że biedny dostaje mniej i płaci więcej. Amos nie zarzuca tym ludziom pracy w szabat. Zarzuca im, że szabat jest dla nich tylko przerwą w zarabianiu na cudzej biedzie. Dzień, który miał dawać oddech ubogim, oni przeczekują z zegarkiem w ręku.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Zerwać jarzmo",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 58,3",
+       "przeklad": "BW",
+       "akapity": [
+        "Dlaczego pościmy, a Ty tego nie widzisz? Dlaczego umartwiamy nasze dusze, a Ty tego nie zauważasz? Oto w dniu waszego postu załatwiacie swoje sprawy i uciskacie wszystkich swoich robotników."
+       ]
+      },
+      {
+       "odnosnik": "Iz 58,6-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz to jest post, w którym mam upodobanie: że się rozwiązuje bezprawne więzy, że się zrywa powrozy jarzma, wypuszcza na wolność uciśnionych i łamie wszelkie jarzmo, że podzielisz twój chleb z głodnym i biednych bezdomnych przyjmiesz do domu, gdy zobaczysz nagiego, przyodziejesz go, a od swojego współbrata się nie odwrócisz. Wtedy twoje światło wzejdzie jak zorza poranna i twoje uzdrowienie rychło nastąpi; twoja sprawiedliwość pójdzie przed tobą, a chwała Pańska będzie twoją tylną strażą. Gdy potem będziesz wołał, Pan cię wysłucha, a gdy będziesz krzyczał o pomoc, odpowie: Oto jestem! Gdy usuniesz spośród siebie jarzmo, szydercze pokazywanie palcem i bezecne mówienie, gdy głodnemu podasz swój chleb i zaspokoisz pragnienie strapionego, wtedy twoje światło wzejdzie w ciemności, a twój zmierzch będzie jak południe,"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ludzie są pobożni i mają żal, że Bóg tego nie widzi. **Co Bóg widzi zamiast ich postu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Słowo „jarzmo\" pada w tym fragmencie trzy razy. **Czyje to jarzmo i kto je nałożył? Co Bóg nazywa świętowaniem, które Mu się podoba?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Obok jarzma Izajasz wymienia „szydercze pokazywanie palcem i bezecne mówienie\". **Co pogarda ma wspólnego z wyzyskiem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ten rozdział Izajasza zaczyna się od postu, a kończy słowami o szabacie jako rozkoszy. Prorok stawia obie sprawy obok siebie nieprzypadkowo. Dzień święty, w którym „uciskacie wszystkich swoich robotników\", nie jest dla Boga dniem świętym. Zerwane jarzmo, podzielony chleb i otwarty dom to nie dodatek do świętowania. To jest jego treść, zgodna z tym, co przykazanie mówiło od początku: aby odpoczął twój sługa tak jak ty.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przykazanie wymienia tych, którzy odpoczywają dzięki gospodarzowi. **Kto dziś pracuje po to, żebyś ty miał wolny dzień i wygodny tydzień? Pomyśl o ludziach, których zwykle nie widzisz.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Pamiętaj, że byłeś niewolnikiem\". **Co jest twoim Egiptem, o którym łatwo zapomnieć, gdy myślisz o ludziach, którym dziś jest ciężej niż tobie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest ktoś, w domu albo w pracy, komu mógłbyś dać odetchnąć, a tego nie robisz?** Nie musisz mówić kto.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: dwa powody jednego przykazania",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Dekalog zapisano w Biblii dwa razy. W Księdze Wyjścia szabat ma uzasadnienie w stworzeniu: „w sześciu dniach uczynił Pan niebo i ziemię [...] a siódmego dnia odpoczął\" (Wj 20,11). W Księdze Powtórzonego Prawa uzasadnieniem jest wyjście z Egiptu. Niektórzy wyciągają z tego wniosek, że szabat jest pamiątką narodowego wyzwolenia Izraela i dotyczy tylko jego. Inni widzą w obu wersjach jedną myśl. Różnicę dostrzegano już w starożytności: jeden z rękopisów znad Morza Martwego łączy obie wersje w jeden tekst i podaje oba powody razem.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy drugi powód unieważnia pierwszy, czy go dopełnia?** Jeśli wyjście z niewoli było początkiem ludu, tak jak stworzenie było początkiem świata, co mają wspólnego oba uzasadnienia?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pierwsze pokolenie pod Synajem pamiętało Egipt. Pokolenie słuchające Mojżesza czterdzieści lat później już nie. **Dlaczego właśnie jemu Bóg przypomina przy szabacie o niewoli?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: prawo, które nie znosi niewoli",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przykazanie daje słudze dzień odpoczynku „tak jak ty\", ale nie zakazuje posiadania sług. Prawo Mojżeszowe ogranicza niewolę, zamiast ją znieść: „Jeżeli kupisz niewolnika hebrajskiego, sześć lat służyć ci będzie, a siódmego wyjdzie na wolność bez okupu\" (Wj 21,2). Paweł odsyła zbiegłego niewolnika do jego pana, ale z listem, w którym prosi, żeby przyjął go „już nie jako sługę, ale więcej niż sługę, bo jako brata umiłowanego\" (Flm 16).",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Dlaczego Bóg nie zniósł niewolnictwa jednym zdaniem?** Co robi z człowiekiem, który ma niewolnika, cotygodniowy dzień, w którym obaj są sobie równi, i zdanie „pamiętaj, że byłeś niewolnikiem\"?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie broń Biblii na siłę i nie udawaj, że trudności nie ma. Warto natomiast, żeby padła obserwacja, że prawo szabatu wkłada w środek ówczesnego porządku coś, czego ten porządek na dłuższą metę nie wytrzyma: dzień, w którym pan i sługa stoją przed Bogiem tak samo.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Kiedy odpoczywam w szabat, ktoś pilnuje elektrowni, prowadzi autobus, dyżuruje w szpitalu, a ktoś inny uszył moje ubranie w kraju, w którym dnia wolnego nie ma. **Jak dziś zachować słowa „aby odpoczął twój sługa tak jak ty\", skoro „moi słudzy\" są rozproszeni po całym świecie i nie znam ich imion? Gdzie kończy się moja odpowiedzialność?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "materiał celowo nie daje odpowiedzi. Nie pozwól, żeby rozmowa zamieniła się w wyliczanie, czego nie wolno kupować, ani w bezradne wzruszenie ramion. Niech pytanie zostanie pytaniem.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Wolny człowiek świętuje swoją wolność tym, że daje odetchnąć innym.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Pwt 5,15 albo Iz 58,6.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W najbliższy dzień odpoczynku rozejrzyj się i zapytaj siebie: **kto w tej chwili pracuje, żebym ja mógł nie pracować?** Nie po to, żeby poczuć się winnym. Po to, żeby tych ludzi zobaczyć.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przypomnij sobie swój Egipt: czas, kiedy było ci ciężko i ktoś albo coś cię z tego wyprowadziło. Podziękuj za to Bogu i zapytaj Go, **komu ta pamięć jest dziś potrzebna**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** zapytaj siebie, czy jest ktoś, dla kogo bywasz faraonem: w domu, w pracy, w kościele. Zostań przy tym pytaniu, zanim zaczniesz się tłumaczyć.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa skręca w politykę: płace, związki zawodowe, handel w niedzielę, migranci.** Przerwij spokojnie: „Każdy z nas ma tu swoje zdanie i nie musimy go dziś uzgadniać. Tekst nie pyta, na kogo głosuję, tylko kto odpoczywa pod moim dachem\". Wróć do ostatniego czytanego fragmentu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli Biblia popiera niewolnictwo?\"** Nie zbywaj tego. Przyznaj, że prawo Mojżeszowe niewoli nie znosi, tylko ją ogranicza, i pokaż, co robi przykazanie: daje słudze ten sam dzień co panu i każe panu pamiętać, że sam był niewolnikiem. Jeśli grupa pracuje na poziomie 3, przejdźcie do bloku o tym napięciu. Jeśli nie, zapisz pytanie na osobną rozmowę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś pracuje w soboty i zaczyna się tłumaczyć albo milknie.** Powiedz wprost, że dzisiejsze teksty mówią do tych, którzy mają władzę nad cudzym czasem, a nie do tych, którzy muszą pracować. O pracy ratującej życie i o tym, co Jezus robił w szabat, jest osobne spotkanie: „Jezus i szabat\". Nie dopuść, żeby ktokolwiek przy stole tę osobę oceniał.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś, kto zatrudnia ludzi, czuje się zaatakowany.** Podkreśl, że przykazanie zakłada gospodarza, który ma służbę i pola, i nie robi mu z tego zarzutu. Pyta tylko o jedno: czy ci ludzie odpoczywają tak jak on. To pytanie dotyczy każdego, kto ma na kogokolwiek wpływ, także rodziców.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„My przynajmniej w szabat nie handlujemy, nie to co inni.\"** Wróć do Amosa: „Ci kupcy też nie handlowali. Co prorok miał im do powiedzenia?\" Szabat nie jest tu sposobem na poczucie się lepszym.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu, zanim cokolwiek dodasz. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa rozkręca się tak, że nie zdążycie z materiałem.** Zostaw blok 3 i idź do bloków 4 i 5. Bez Amosa i Izajasza spotkanie zostaje przy przepisach, a to prorocy pokazują, co się dzieje, gdy dzień zostaje, a jego sens znika.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Rozmowa skręca w politykę: płace, związki zawodowe, handel w niedzielę, migranci.",
+     "odpowiedz": "Przerwij spokojnie: „Każdy z nas ma tu swoje zdanie i nie musimy go dziś uzgadniać. Tekst nie pyta, na kogo głosuję, tylko kto odpoczywa pod moim dachem\". Wróć do ostatniego czytanego fragmentu."
+    },
+    {
+     "sytuacja": "„Czyli Biblia popiera niewolnictwo?\"",
+     "odpowiedz": "Nie zbywaj tego. Przyznaj, że prawo Mojżeszowe niewoli nie znosi, tylko ją ogranicza, i pokaż, co robi przykazanie: daje słudze ten sam dzień co panu i każe panu pamiętać, że sam był niewolnikiem. Jeśli grupa pracuje na poziomie 3, przejdźcie do bloku o tym napięciu. Jeśli nie, zapisz pytanie na osobną rozmowę."
+    },
+    {
+     "sytuacja": "Ktoś pracuje w soboty i zaczyna się tłumaczyć albo milknie.",
+     "odpowiedz": "Powiedz wprost, że dzisiejsze teksty mówią do tych, którzy mają władzę nad cudzym czasem, a nie do tych, którzy muszą pracować. O pracy ratującej życie i o tym, co Jezus robił w szabat, jest osobne spotkanie: „Jezus i szabat\". Nie dopuść, żeby ktokolwiek przy stole tę osobę oceniał."
+    },
+    {
+     "sytuacja": "Ktoś, kto zatrudnia ludzi, czuje się zaatakowany.",
+     "odpowiedz": "Podkreśl, że przykazanie zakłada gospodarza, który ma służbę i pola, i nie robi mu z tego zarzutu. Pyta tylko o jedno: czy ci ludzie odpoczywają tak jak on. To pytanie dotyczy każdego, kto ma na kogokolwiek wpływ, także rodziców."
+    },
+    {
+     "sytuacja": "„My przynajmniej w szabat nie handlujemy, nie to co inni.\"",
+     "odpowiedz": "Wróć do Amosa: „Ci kupcy też nie handlowali. Co prorok miał im do powiedzenia?\" Szabat nie jest tu sposobem na poczucie się lepszym."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu, zanim cokolwiek dodasz. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Rozmowa rozkręca się tak, że nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3 i idź do bloków 4 i 5. Bez Amosa i Izajasza spotkanie zostaje przy przepisach, a to prorocy pokazują, co się dzieje, gdy dzień zostaje, a jego sens znika."
+    }
+   ]
+  }
+ ]
+}

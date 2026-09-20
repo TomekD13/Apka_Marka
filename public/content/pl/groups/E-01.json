@@ -1,0 +1,824 @@
+{
+ "tytul": "Gniew",
+ "id": "E-01",
+ "seria": "Emocje",
+ "opis": "Co robimy w chwili między złością a reakcją i dlaczego Biblia nie każe gniewowi zniknąć.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Rdz 4,3-8; Ef 4,26-27.31-32; Ps 37,8; Jk 1,19-20; Prz 14,29; 15,1; 16,32; 29,11; Mk 3,1-5; Rz 12,17-21",
+  "p2": "Lb 20,9-12; Mt 5,21-24; Łk 15,25-32; Jon 4,1-4.9-11; Kol 3,8; 1P 3,9",
+  "p3": "Ps 4,5; Wj 34,6; Rz 12,19"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 17,
+  "p2": 28,
+  "p3": 31
+ },
+ "tagi": [
+  "emocje",
+  "relacje",
+  "przebaczenie",
+  "serce"
+ ],
+ "wersja": 3,
+ "zdanie": "Gniew nie jest wyrokiem. Jest progiem, a na progu jeszcze można się zatrzymać.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie nie jest o tym, żeby przestać się złościć. Jest o tym, co robimy w oknie czasu między pojawieniem się gniewu a naszą reakcją. Biblia nie każe uczuciu zniknąć. Każe nie oddawać mu steru.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole może mieć w domu realny problem z gniewem albo być po stronie osoby raniącej. Nikogo nie naciskaj na wyznania.",
+      "Temat łatwo zsuwa się w porady praktyczne w rodzaju „policz do dziesięciu\". Za każdym razem wracaj do tekstu.",
+      "Osoba, która mówi o sobie, że nigdy się nie złości, zwykle ma gniew stłumiony, a nie brak gniewu. To nie jest rozmowa na forum grupy."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie stawiaj nikogo za przykład, ani dobry, ani zły. Nie podsumowuj cudzej wypowiedzi zdaniem „czyli masz problem z...\". Nie diagnozuj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o ostatniej sytuacji, w której poczułeś złość i byłeś przekonany, że masz rację. Nie opowiadaj szczegółów. Powiedz tylko jedno słowo, które opisuje, co wtedy zrobiłeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi, nie dopytuj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Rozmowa przed zabójstwem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 4,3-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Po niejakim czasie Kain złożył Panu ofiarę z plonów rolnych; Abel także złożył ofiarę z pierworodnych trzody swojej i z tłuszczu ich. A Pan wejrzał na Abla i na jego ofiarę. Ale na Kaina i na jego ofiarę nie wejrzał; wtedy Kain rozgniewał się bardzo i zasępiło się jego oblicze.",
+        "I rzekł Pan do Kaina: Czemu się gniewasz i czemu zasępiło się twoje oblicze? Wszak byłoby pogodne, gdybyś czynił dobrze, a jeśli nie będziesz czynił dobrze, u drzwi czyha grzech. Kusi cię, lecz ty masz nad nim panować.",
+        "Potem rzekł Kain do brata swego Abla: Wyjdźmy na pole! A gdy byli na polu, rzucił się Kain na brata swego Abla i zabił go."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Werset 7 jest w BW składniowo trudny. Jeśli grupa się na nim potknie, przeczytaj go w przekładzie ekumenicznym: „Byłbyś pogodny, gdybyś dobrze postępował. Jeżeli jednak nie będziesz dobrze czynił, to grzech czający się w pobliżu skusi cię, ty zaś masz nad nim panować\".",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg rozmawia z Kainem, kiedy ten jest już rozgniewany. **Czego Bóg w tej rozmowie nie robi?** Wypiszcie, czego w Jego słowach nie ma.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg mówi Kainowi: „ty masz nad nim panować\". **Co to znaczy, że gniew jest czymś, nad czym się panuje, a nie czymś, co się po prostu ma albo czego się nie ma?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Co musiało się wydarzyć między wersetem 5 a wersetem 8?** Wypiszcie kroki.",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Bóg nie mówi Kainowi „nie gniewaj się\". Nie ocenia uczucia i nie każe go stłumić. Grzech jest opisany jako coś na zewnątrz, co leży u drzwi i czeka, aż zostanie wpuszczone. Ostatnie zdanie Boga jest zdaniem o władzy. Między gniewem Kaina a śmiercią Abla mieści się cała rozmowa z Bogiem, propozycja wyjścia na pole i droga na to pole. To nie jest odległość jednej sekundy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Mojżesz",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Lb 20,9-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Mojżesz wziął laskę sprzed oblicza Pana, jak mu Pan rozkazał. Zgromadzili tedy Mojżesz i Aaron zbór przed skałą. I rzekł do nich: Słuchajcie, przekorni! Czy z tej skały wydobędziemy dla was wodę? I podniósł Mojżesz rękę swoją, i uderzył dwa razy swoją laską o skałę. Wtedy trysnęła obficie woda i napił się zbór oraz ich bydło. I rzekł Pan do Mojżesza i do Aarona: Ponieważ mi nie zaufaliście, aby mnie uwielbić na oczach synów izraelskich, dlatego nie wprowadzicie tego zgromadzenia do ziemi, którą im daję."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mojżesz miał powód, żeby być wściekły, i nikogo nie zabił. **Co jego gniew mimo to zmienił?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czym różni się to, co Bóg kazał zrobić, od tego, co Mojżesz zrobił?** Woda i tak popłynęła. Dlaczego to nie zamknęło sprawy?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajski opisuje gniew przez ciało. Czasownik `charah` znaczy „zapłonąć\", a rzeczownik `af` to „nos, nozdrza\". Werset 5 dosłownie brzmi mniej więcej tak: „zapłonęło Kainowi bardzo i opadła jego twarz\". Tego samego słownictwa Biblia używa wobec Boga, więc samo słowo nie przesądza, czy gniew jest zły.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W wersecie 7 grzech opisany jest imiesłowem `rovets`, czyli „leżący, przyczajony\", używanym o zwierzęciu czekającym w bezruchu. W językach ościennych pokrewny wyraz oznaczał demona czyhającego przy drzwiach domu.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Termin",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ef 4,26-27",
+       "przeklad": "BW",
+       "akapity": [
+        "Gniewajcie się, lecz nie grzeszcie; niech słońce nie zachodzi nad gniewem waszym, nie dawajcie diabłu przystępu."
+       ]
+      },
+      {
+       "odnosnik": "Ef 4,31-32",
+       "przeklad": "BW",
+       "akapity": [
+        "Wszelka gorycz i zapalczywość, i gniew, i krzyk, i złorzeczenie niech będą usunięte spośród was wraz z wszelką złością. Bądźcie jedni dla drugich uprzejmi, serdeczni, odpuszczając sobie wzajemnie, jak i wam Bóg odpuścił w Chrystusie."
+       ]
+      },
+      {
+       "odnosnik": "Ps 37,8",
+       "przeklad": "BW",
+       "akapity": [
+        "Zaprzestań gniewu i zaniechaj zapalczywości! Nie gniewaj się, gdyż to wiedzie do złego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł nie zakazuje gniewu. **Czego w takim razie zakazuje? Co dokładnie dodaje zdanie o zachodzącym słońcu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 31 wymienia pięć rzeczy po kolei: gorycz, zapalczywość, gniew, krzyk, złorzeczenie. **Czy to przypadkowa lista, czy kolejność? Jeśli kolejność, to czego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Psalm mówi, że gniew „wiedzie do złego\". **Dokąd konkretnie prowadził w historii, którą przed chwilą czytaliśmy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Gniew nienazwany i niezałatwiony zmienia postać. Przestaje być reakcją na konkretne zdarzenie i staje się stosunkiem do osoby. Człowiek już nie jest zły o to, co ktoś powiedział we wtorek. Jest zły na tego człowieka. Warto zauważyć, że cały rozdział mówi o wspólnocie, nie o pojedynczym człowieku. Kilka wersetów wcześniej Paweł pisze, że jesteśmy „członkami jedni drugich\". Gniew trzymany w kieszeni nie jest sprawą prywatną.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Przerwane nabożeństwo",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 5,21-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Słyszeliście, iż powiedziano przodkom: Nie będziesz zabijał, a kto by zabił, pójdzie pod sąd. A Ja wam powiadam, że każdy, kto się gniewa na brata swego, pójdzie pod sąd, a kto by rzekł bratu swemu: Racha, stanie przed Radą Najwyższą, a kto by rzekł: Głupcze, pójdzie w ogień piekielny. Jeślibyś więc składał dar swój na ołtarzu i tam wspomniałbyś, iż brat twój ma coś przeciwko tobie, zostaw tam dar swój na ołtarzu, odejdź i najpierw pojednaj się z bratem swoim, a potem przyszedłszy, złóż dar swój."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus zestawia gniew z zabójstwem. **Co Jego zdaniem łączy te dwie rzeczy?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie uważnie: to **brat ma coś przeciwko tobie**, nie ty przeciwko niemu. **Kto w takim razie ma zrobić pierwszy krok?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus każe zostawić dar i wyjść ze świątyni. **Co to mówi o tym, jak pilna jest ta sprawa?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Grecki rozróżnia to, co polszczyzna skleja. `Thymos` to wybuch, coś, co szybko rośnie i szybko opada. `Orgē` to gniew osadzony, postawa, coś, co zostaje. W Ef 4,26 Paweł używa jeszcze innego wyrazu, `parorgismos`, czyli rozdrażnienie. Zakaz z drugiej części wersetu dotyczy właśnie tego: nie idź spać poirytowany.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pierwsza część wersetu 26 jest cytatem z Ps 4,5 w greckim tłumaczeniu Starego Testamentu. Hebrajski oryginał brzmi raczej „drżyjcie i nie grzeszcie\". Paweł nie wymyśla nowej reguły, sięga po zdanie znane ze śpiewanego psalmu.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Kto ma rację",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jk 1,19-20",
+       "przeklad": "BW",
+       "akapity": [
+        "Wiedzcie to, umiłowani bracia moi. A niech każdy człowiek będzie skory do słuchania, nieskory do mówienia, nieskory do gniewu. Bo gniew człowieka nie czyni tego, co jest sprawiedliwe u Boga."
+       ]
+      },
+      {
+       "odnosnik": "Prz 14,29",
+       "przeklad": "BW",
+       "akapity": [
+        "Człowiek nierychły do gniewu jest bardzo roztropny, lecz porywczy pomnaża swoją głupotę."
+       ]
+      },
+      {
+       "odnosnik": "Prz 15,1",
+       "przeklad": "BW",
+       "akapity": [
+        "Łagodna odpowiedź uśmierza gniew, lecz przykre słowo wywołuje złość."
+       ]
+      },
+      {
+       "odnosnik": "Prz 16,32",
+       "przeklad": "BW",
+       "akapity": [
+        "Więcej wart jest cierpliwy niż bohater, a ten, kto opanowuje siebie samego, więcej znaczy niż zdobywca miasta."
+       ]
+      },
+      {
+       "odnosnik": "Prz 29,11",
+       "przeklad": "BW",
+       "akapity": [
+        "Głupi ujawnia całą swoją porywczość, lecz mądry w końcu ją uśmierza."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Gniew prawie zawsze czuje się jak wymierzanie sprawiedliwości. **Co Jakub robi z tym poczuciem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zwróćcie uwagę na kolejność u Jakuba: słuchanie, mówienie, gniew. **W którym miejscu tego łańcucha da się jeszcze coś zrobić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Przypowieści mówią o gniewie językiem siły i wojny: opanowanie siebie jest warte więcej niż zdobycie miasta. **Dlaczego akurat takim obrazem?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Starszy brat",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 15,28-30",
+       "przeklad": "BW",
+       "akapity": [
+        "Rozgniewał się więc i nie chciał wejść. Tedy ojciec jego wyszedł i prosił go. Ten zaś odrzekł ojcu: Oto tyle lat służę ci i nigdy nie przestąpiłem rozkazu twego, a mnie nigdy nie dałeś nawet koźlęcia, bym się mógł zabawić z przyjaciółmi mymi. Gdy zaś ten syn twój, który roztrwonił majętność twoją z nierządnicami, przyszedł, kazałeś dla niego zabić tuczne cielę."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Starszy brat ma gniew dobrze uzasadniony i wszystko, co mówi, jest prawdą. **Co w jego słowach pokazuje, na kogo naprawdę jest zły?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ojciec nie mówi mu, że nie ma racji. **Co robi zamiast tego?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przypowieść kończy się, zanim dowiemy się, czy starszy brat wszedł. **Dlaczego Jezus to tak zostawił?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Gniew, który uzdrawia",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 3,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "I wstąpił znowu do synagogi; a był tam człowiek z uschłą ręką. I podpatrywali go, czy uzdrowi go w sabat, aby go oskarżyć. Wtedy rzekł do człowieka, który miał uschłą rękę: Wyjdź na środek. A do nich rzekł: Czy wolno w sabat dobrze czynić, czy źle czynić, życie zachować czy zabić? A oni milczeli. I spojrzał na nich z gniewem, zasmucił się z powodu zatwardziałości ich serca, i rzekł owemu człowiekowi: Wyciągnij rękę! I wyciągnął, i ręka jego wróciła do dawnego stanu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "O Jezusie napisano, że spojrzał na nich z gniewem. **Jak to się ma do wszystkiego, co przeczytaliśmy do tej pory? Co odróżnia ten gniew od gniewu Kaina?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Marek pisze, że Jezus był przy tym zasmucony. **Co znaczy, że gniew i smutek występują tu razem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Kto w tej scenie wyszedł i zaczął planować zabójstwo?** Co z tego wynika?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Marek używa tego samego greckiego słowa, którym Paweł określa gniew mający zostać usunięty spośród nas. Różnicy nie ma więc w uczuciu. Jest w kierunku i w skutku. Gniew Kaina jest o niego samego i kończy się trupem. Gniew Jezusa jest o człowieka z uschłą ręką i kończy się uzdrowieniem. Do zabrania ze sobą zostaje prosty test: czy mój gniew wciąż widzi w drugim człowieka, czy zamienił go w przeszkodę.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jonasz",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jon 4,1-4.9-11",
+       "przeklad": "BW",
+       "akapity": [
+        "Jonaszowi bardzo się to nie podobało, tak że się rozgniewał. I modlił się do Pana, mówiąc: Ach, Panie! Czy nie to miałem na myśli, gdy jeszcze byłem w mojej ojczyźnie? Dlatego pierwszym razem uciekałem do Tarszyszu; wiedziałem bowiem, że Ty jesteś Bogiem łaskawym i miłosiernym, cierpliwym i pełnym łaski, który żałuje nieszczęścia. Otóż teraz, Panie, zabierz moją duszę, bo lepiej mi umrzeć aniżeli żyć. A Pan odpowiedział: Czy to słuszne, tak się gniewać? [...]",
+        "Wtedy rzekł Bóg do Jonasza: Czy to słuszne, tak się gniewać z powodu krzewu rycynowego? A ten odpowiedział: Słusznie jestem zagniewany, i to na śmierć. A Pan rzekł: Ty żałujesz krzewu rycynowego, koło którego nie pracowałeś i którego nie wyhodowałeś; wyrósł on w ciągu jednej nocy i w ciągu jednej nocy zginął, a Ja nie miałbym żałować Niniwy, tego wielkiego miasta, w którym żyje więcej niż sto dwadzieścia tysięcy ludzi, którzy nie umieją rozróżnić między tym, co prawe, a tym, co lewe, a nadto wiele bydła?"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jonasz jest wściekły na Boga za to, że Bóg okazał miłosierdzie. **Bóg dwa razy pyta go o to samo. Dlaczego nie mówi mu wprost, że nie ma racji?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg nie wchodzi w spór o rację, tylko pyta o proporcje. **Co Jego pytanie odsłania na temat tego, co Jonasz naprawdę kocha?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: gniew Boży",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jeśli gniew ludzki jest tak niebezpieczny, dlaczego Biblia mówi o gniewie Boga setki razy?",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 34,6",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Pan przeszedł obok niego, a on zawołał: Panie, Panie, Boże miłosierny i łaskawy, nieskory do gniewu, bogaty w łaskę i wierność."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg przedstawia siebie jako „nieskory do gniewu\". Hebrajskie wyrażenie znaczy dosłownie „długi w nozdrzach\", czyli ktoś, komu długo trwa, zanim zapłonie. **Co to mówi o miejscu gniewu w Bożym charakterze?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W Biblii gniew Boży nigdy nie jest utratą panowania nad sobą. **Wypiszcie, co jeszcze go odróżnia od naszego.**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "tutaj prawie na pewno pojawi się pytanie o karę wieczną i piekło. Nie wchodź w to dziś. Zapisz pytanie i zrób z niego osobne spotkanie.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Zamiast odwetu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 12,17-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Nikomu złem za złe nie oddawajcie, starajcie się o to, co jest dobre w oczach wszystkich ludzi. Jeśli można, o ile to od was zależy, ze wszystkimi ludźmi pokój miejcie. Najmilsi! Nie mścijcie się sami, ale pozostawcie to gniewowi Bożemu, albowiem napisano: Pomsta do mnie należy, Ja odpłacę, mówi Pan. Jeśli tedy łaknie nieprzyjaciel twój, nakarm go; jeśli pragnie, napój go; bo czyniąc to, węgle rozżarzone zgarniesz na jego głowę. Nie daj się zwyciężyć złu, ale zło dobrem zwyciężaj."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł nie mówi, że krzywda była nieważna. **Co w takim razie robi z krzywdą? Dokąd ją odsyła?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Jeśli można, o ile to od was zależy\". **Dlaczego Paweł dodaje to zastrzeżenie? Czego nie obiecuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Zakaz zemsty nie opiera się na tym, że krzywda była błaha. Opiera się na tym, że sąd ma właściciela i to nie my nim jesteśmy. Paradoksalnie właśnie istnienie Bożego gniewu pozwala odłożyć własny. Nie trzeba samemu wyrównywać rachunków, bo nie ma ryzyka, że nikt ich nie policzy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dwa krótkie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kol 3,8",
+       "przeklad": "BW",
+       "akapity": [
+        "ale teraz odrzućcie i wy to wszystko: gniew, zapalczywość, złość, bluźnierstwo i nieprzyzwoite słowa z ust waszych."
+       ]
+      },
+      {
+       "odnosnik": "1P 3,9",
+       "przeklad": "BW",
+       "akapity": [
+        "nie oddawajcie złem za zło ani obelgą za obelgę, lecz przeciwnie, błogosławcie, gdyż na to powołani zostaliście, abyście odziedziczyli błogosławieństwo."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Trzech różnych autorów pisze to samo trzy razy. **Co to mówi o tym, jak częsty był ten problem w pierwszych zborach?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Gdzie w twoim tygodniu jest to okno między poczuciem złości a reakcją? **Co realnie dzieje się w tych kilku sekundach?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Który z dzisiejszych tekstów uwiera cię najbardziej i dlaczego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest ktoś, nad kim słońce zaszło już wiele razy?** Nie musisz mówić kto.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł mówi o zamknięciu sprawy przed zachodem słońca. **Co zrobić, gdy druga strona nie chce rozmawiać, nie żyje albo rozmowa byłaby niebezpieczna? Czy da się zamknąć dzień jednostronnie i co wtedy właściwie zamykamy?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie ma tu jednej odpowiedzi i nie próbuj jej wyprodukować. Warto natomiast, żeby padło rozróżnienie między pojednaniem, które wymaga dwóch osób i nie zawsze jest możliwe, a odłożeniem gniewu, które wymaga jednej.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Gniew nie jest wyrokiem. Jest progiem, a na progu jeszcze można się zatrzymać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Ef 4,26 albo Rdz 4,7b.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Gniew prawie zawsze czegoś pilnuje. Kiedy najbliższym razem poczujesz złość, zanim cokolwiek zrobisz, zapytaj siebie: **co właśnie zostało naruszone?** Duma, poczucie sprawiedliwości, bezpieczeństwo, czyjeś dobre zdanie o tobie, coś jeszcze.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o osobie, na którą trzymasz gniew najdłużej. Zapytaj Boga o jedno: **czego się boisz, gdybyś ten gniew odłożył?** Zostań przy tym pytaniu, nawet jeśli odpowiedź nie przyjdzie od razu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** poproś kogoś, kto cię dobrze zna, żeby powiedział ci, jak twój gniew wygląda z zewnątrz. Wysłuchaj do końca i nie tłumacz się.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja się w ogóle nie złoszczę.\"** Nie konfrontuj. Możesz powiedzieć: „Jakub pisze o byciu nieskorym do gniewu jak o czymś, czego się uczymy. Jak to u ciebie wyglądało kiedyś?\" Gniew stłumiony bywa trudniejszy niż wybuchowy, ale to nie jest rozmowa na forum grupy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czasem trzeba się wkurzyć, inaczej ludzie wchodzą na głowę.\"** Zgódź się z obserwacją, bo jest trafna, i przesuń pytanie: „Mk 3 pokazuje gniew, który kończy się uzdrowieniem. Co musiałoby być prawdą o moim gniewie, żeby kończył się podobnie?\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To znaczy, że mam udawać, że nic się nie stało?\"** Nie. Ef 4,26 zakłada, że coś się stało i że trzeba to załatwić przed nocą, a nie schować. Paweł każe sprawę zamknąć, nie przemilczeć.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A co z gniewem na Boga?\"** To prawdziwe pytanie i Biblia jest go pełna: psalmy, Jonasz, Hiob, Jeremiasz. Nie zbywaj go. Powiedz, że Bóg wytrzymuje szczery gniew lepiej niż uprzejme milczenie, i zaproponuj osobne spotkanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada długą historię swojej krzywdy.** Wysłuchaj do końca, podziękuj, nie diagnozuj i nie udzielaj rad. Potem spokojnie wróć pytaniem do tekstu. Jeśli sprawa jest poważna, zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu, zanim cokolwiek dodasz. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami, nie innymi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa rozkręca się tak, że nie zdążycie z materiałem.** Zostaw bloki 3 i 5, idź prosto do bloku 4 i zastosowania. Blok 4 jest tym, bez którego spotkanie traci puentę.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Ja się w ogóle nie złoszczę.\"",
+     "odpowiedz": "Nie konfrontuj. Możesz powiedzieć: „Jakub pisze o byciu nieskorym do gniewu jak o czymś, czego się uczymy. Jak to u ciebie wyglądało kiedyś?\" Gniew stłumiony bywa trudniejszy niż wybuchowy, ale to nie jest rozmowa na forum grupy."
+    },
+    {
+     "sytuacja": "„Czasem trzeba się wkurzyć, inaczej ludzie wchodzą na głowę.\"",
+     "odpowiedz": "Zgódź się z obserwacją, bo jest trafna, i przesuń pytanie: „Mk 3 pokazuje gniew, który kończy się uzdrowieniem. Co musiałoby być prawdą o moim gniewie, żeby kończył się podobnie?\""
+    },
+    {
+     "sytuacja": "„To znaczy, że mam udawać, że nic się nie stało?\"",
+     "odpowiedz": "Nie. Ef 4,26 zakłada, że coś się stało i że trzeba to załatwić przed nocą, a nie schować. Paweł każe sprawę zamknąć, nie przemilczeć."
+    },
+    {
+     "sytuacja": "„A co z gniewem na Boga?\"",
+     "odpowiedz": "To prawdziwe pytanie i Biblia jest go pełna: psalmy, Jonasz, Hiob, Jeremiasz. Nie zbywaj go. Powiedz, że Bóg wytrzymuje szczery gniew lepiej niż uprzejme milczenie, i zaproponuj osobne spotkanie."
+    },
+    {
+     "sytuacja": "Ktoś opowiada długą historię swojej krzywdy.",
+     "odpowiedz": "Wysłuchaj do końca, podziękuj, nie diagnozuj i nie udzielaj rad. Potem spokojnie wróć pytaniem do tekstu. Jeśli sprawa jest poważna, zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu, zanim cokolwiek dodasz. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami, nie innymi."
+    },
+    {
+     "sytuacja": "Rozmowa rozkręca się tak, że nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw bloki 3 i 5, idź prosto do bloku 4 i zastosowania. Blok 4 jest tym, bez którego spotkanie traci puentę."
+    }
+   ]
+  }
+ ]
+}

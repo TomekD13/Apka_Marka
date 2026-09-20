@@ -1,0 +1,881 @@
+{
+ "tytul": "Daniel 12. Idź i odpocznij",
+ "id": "D-12",
+ "seria": "Księga Daniela",
+ "opis": "Ostatnia strona księgi: ci, którzy śpią w prochu, obudzą się, a stary prorok słyszy, że może odpocząć.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Dn 11,44-45; 12,1; 12,2-3; 12,4; 12,5-10; 12,13; 1,21",
+  "p2": "Łk 10,20; Iz 25,8; 26,19; Dz 24,14-15; Ap 22,10; Hbr 11,13.39-40",
+  "p3": "Rdz 3,19; Dn 7,25; Dn 12,11-12"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 25,
+  "p3": 31
+ },
+ "tagi": [
+  "Daniel",
+  "zmartwychwstanie",
+  "nadzieja",
+  "śmierć",
+  "wytrwałość",
+  "koniec"
+ ],
+ "wersja": 1,
+ "zdanie": "Nie muszę rozumieć końca świata, żeby spokojnie dojść do własnego. Wystarczy wiedzieć, kto budzi śpiących.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To ostatnia strona księgi. Po jedenastu rozdziałach królów, bestii i liczb Bóg kończy rozmowę z Danielem dwiema rzeczami. Pierwsza to najjaśniejsze w całym Starym Testamencie zdanie o zmartwychwstaniu: ci, którzy śpią w prochu ziemi, obudzą się. Druga to zdanie powiedziane do starego człowieka, który pyta „kiedy\" i „jak to się skończy\": idź swoją drogą, spoczniesz i powstaniesz. Daniel nie dostaje odpowiedzi na wszystkie pytania. Dostaje obietnicę, że jego własna historia nie kończy się w grobie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie nie jest wykładem o stanie umarłych ani o chronologii końca. Pełne studium o śmierci jest w osobnym materiale „Co jest po śmierci?\". Tu zostajecie przy tym, co niesie Dn 12.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole może być w świeżej żałobie. Dla niego werset 2 nie jest doktryną, tylko pytaniem o konkretną osobę. Czytajcie go wolno i nie dopowiadajcie, kto obudzi się do czego.",
+      "Druga połowa wersetu 2 mówi o hańbie i potępieniu. Ktoś usłyszy w niej wyrok na bliskiego, który umarł bez wiary. Tekst nie podaje nazwisk i grupa też nie.",
+      "Liczby z wersetów 7, 11 i 12 przyciągają rachmistrzów. Na poziomie 1 czytacie werset 7 bez obliczeń, a wersety 11-12 są tylko na poziomie 3.",
+      "Przy stole mogą siedzieć osoby wierzące, że zmarli są już w niebie. Nie polemizuj. Pokaż, co mówi ten tekst: mówi o śnie i o obudzeniu."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie licz dat. Nie wskazuj, czym jest dzisiejszy „czas ucisku\". Nie pocieszaj nikogo zdaniami, których tekst nie wypowiada.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o kimś starszym, kogo znałeś, kto umiał kończyć: odejść z pracy, oddać klucze, pożegnać się. Powiedz jednym zdaniem, co w tym było dobrego.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "W owym czasie",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Ostatni władca z długiego proroctwa rozdziału 11 rusza na swoją ostatnią wojnę.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 11,44-45",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtem przestraszą go wieści ze wschodu i północy, dlatego wyruszy w wielkiej złości, aby wygubić i wytępić wielu. I rozbije wspaniałe swoje namioty między morzem i prześliczną świętą górą. Wtedy dojdzie do swojego kresu i nikt mu nie pomoże."
+       ]
+      },
+      {
+       "odnosnik": "Dn 12,1",
+       "przeklad": "BW",
+       "akapity": [
+        "W owym czasie powstanie Michał, wielki książę, który jest orędownikiem synów twojego ludu, a nastanie czas takiego ucisku, jakiego nigdy nie było, odkąd istnieją narody, aż do owego czasu. W owym to czasie wybawiony będzie twój lud, każdy, kto jest wpisany do księgi żywota."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "O królu powiedziano: „nikt mu nie pomoże\". O ludzie Daniela: powstanie ten, kto jest jego orędownikiem. **Co różni te dwa końce?** Od czego zależy, po której stronie tego zdania się jest?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 1 zapowiada naraz największy ucisk i wybawienie. **Czego ten tekst nie obiecuje ludowi Bożemu, a co obiecuje?** Porównajcie to z piecem z rozdziału 3 i z jamą lwów z rozdziału 6.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Wybawiony będzie „każdy, kto jest wpisany do księgi\". Nie pada słowo o zasługach ani o wiedzy. **Co to znaczy być zapisanym? Kto prowadzi tę księgę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W rozdziale 11 czasownik „powstanie\" pada raz po raz i prawie zawsze oznacza kolejnego króla, który zaraz zniknie. W rozdziale 12 pada po raz ostatni i ten, kto powstaje, już nie upada. Imię Michał znaczy „któż jest jak Bóg\". To pytanie jest odpowiedzią na całą księgę: na posąg ze złota, na króla, który kazał się do siebie modlić, na róg mówiący zuchwałe słowa.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy w księdze",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** Na ostatniej stronie. Rozdział 12 kończy widzenie zaczęte nad Tygrysem w rozdziale 10 i zamyka całą księgę. Każde z czterech wielkich widzeń Daniela kończyło się interwencją Boga: kamień rozbija posąg, Syn Człowieczy dostaje królestwo, zuchwały król zostaje zmiażdżony „bez udziału ludzkiej ręki\". To ostatnie idzie o krok dalej niż tamte. Sięga poza historię, do grobów.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Dla pierwszych czytelników pytanie nie było teoretyczne. Rozdział 11 zapowiedział, że najwierniejsi, ci „roztropni\", którzy uczą innych, będą padać od miecza i ognia. Jeśli śmierć jest końcem, to przegrali właśnie ci, którzy mieli rację. Wersety 2 i 3 są odpowiedzią na to pytanie.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 10,20",
+       "przeklad": "BW",
+       "akapity": [
+        "Wszakże nie z tego się radujcie, iż duchy są wam podległe, radujcie się raczej z tego, iż imiona wasze w niebie są zapisane."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Uczniowie wracają zachwyceni tym, co potrafią, a Jezus przekierowuje ich radość na to, gdzie są zapisani. **Dlaczego to drugie jest pewniejszym powodem do radości niż pierwsze?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Ci, którzy śpią w prochu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 12,2-3",
+       "przeklad": "BW",
+       "akapity": [
+        "A wielu z tych, którzy śpią w prochu ziemi, obudzą się, jedni do żywota wiecznego, a drudzy na hańbę i wieczne potępienie. Lecz roztropni jaśnieć będą jak jasność na sklepieniu niebieskim, a ci, którzy wielu wiodą do sprawiedliwości, jak gwiazdy na wieki wieczne."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Tekst nazywa śmierć snem, a to, co po niej, obudzeniem. **Co ten obraz mówi o śmierci, a czego o niej nie mówi?** Co wiemy o człowieku, który śpi?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Poprzedni rozdział mówi, że roztropni „padać będą od miecza i ognia\" i że niektórzy z nich upadną. Teraz ci sami roztropni jaśnieją jak gwiazdy. **Co zmartwychwstanie zmienia w ocenie życia, które po ludzku skończyło się klęską?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jaśnieć mają nie najsilniejsi ani najsławniejsi, tylko „ci, którzy wielu wiodą do sprawiedliwości\". **Kto był taką osobą w twoim życiu?** Czy ona o tym wie?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Wcześniejsze księgi Starego Testamentu mówią o śmierci głównie językiem prochu i milczenia: wrócisz do prochu, w grobie nikt Cię nie wysławia. To zdanie jest punktem zwrotnym. Bierze to samo słowo „proch\" i dopisuje do niego ciąg dalszy. Nadzieja nie polega tu na tym, że coś w człowieku nie umiera, tylko na tym, że Bóg budzi tych, którzy naprawdę zasnęli. W świecie, w którym żył Jezus, przez „zmartwychwstanie\" rozumiano z zasady powrót do życia w ciele, a nie dalsze istnienie duszy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Izajasz mówił to pierwszy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 25,8",
+       "przeklad": "BW",
+       "akapity": [
+        "Wszechmocny Pan zniszczy śmierć na wieki i zetrze łzę z każdego oblicza, i usunie hańbę swojego ludu na całej ziemi, gdyż Pan powiedział."
+       ]
+      },
+      {
+       "odnosnik": "Iz 26,19",
+       "przeklad": "BW",
+       "akapity": [
+        "Ożyją twoi umarli, twoje ciała wstaną, obudzą się i będą radośnie śpiewać ci, którzy leżą w prochu, gdyż twoja rosa jest rosą światłości, a ziemia wyda zmarłych."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które słowa Izajasza wracają u Daniela?** Co Daniel dokłada do tego, co powiedział Izajasz?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Izajasz mówi, że Bóg „zetrze łzę z każdego oblicza\". **Jak brzmi ta obietnica dla kogoś, kto dziś płacze po konkretnej osobie?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nadzieja wspólna",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 24,14-15",
+       "przeklad": "BW",
+       "akapity": [
+        "To jednak wyznaję przed tobą, że służę ojczystemu Bogu zgodnie z tą drogą, którą oni nazywają sektą, wierząc we wszystko, co jest napisane w zakonie i u proroków, pokładając w Bogu nadzieję, która również im samym przyświeca, że nastąpi zmartwychwstanie sprawiedliwych i niesprawiedliwych."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł stoi przed sądem i mówi, że jego nadzieja jest ta sama, co nadzieja jego oskarżycieli, i że wziął ją z proroków. **Co to mówi o miejscu Dn 12,2 w wierze pierwszych chrześcijan?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Słowo „proch\" w wersecie 2 to hebrajskie `afar`, to samo, które pada w wyroku z ogrodu Eden.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 3,19",
+       "przeklad": "BW",
+       "akapity": [
+        "W pocie oblicza twego będziesz jadł chleb, aż wrócisz do ziemi, z której zostałeś wzięty; bo prochem jesteś i w proch się obrócisz."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Daniel 12,2 jest więc odpowiedzią na Rdz 3,19, daną tym samym słowem. Pierwsza strona Biblii mówi, dokąd człowiek wraca. Ostatnia strona Daniela mówi, że to nie jest ostatni adres.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Między Rdz 3,19 a Dn 12,2 jest prawie cały Stary Testament. **Jak myślicie, dlaczego Bóg tak długo czekał z powiedzeniem tego wprost?** Komu i w jakiej chwili to w końcu powiedział?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: „wielu\" i „wieczne potępienie\"",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Werset 2 rodzi dwa pytania. Pierwsze: dlaczego „wielu\", a nie „wszyscy\"? Jedni czytają to jako zmartwychwstanie szczególnej grupy w czasie ostatniego ucisku. Inni widzą tu hebrajski sposób mówienia, w którym „wielu\" znaczy „mnóstwo, ci liczni\" i nikogo nie wyklucza, i zestawiają to ze słowami Jezusa, że wszyscy w grobach usłyszą Jego głos. Oba odczytania zgadzają się co do rzeczy głównej: grób nie jest końcem ani dla wiernych, ani dla niewiernych.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Drugie pytanie dotyczy słów „hańba i wieczne potępienie\". Hebrajski wyraz oddany jako „potępienie\" pada w Biblii jeszcze tylko raz, na końcu Księgi Izajasza, i oznacza tam odrazę, jaką budzi widok poległych wrogów Boga. Jedni czytają werset jako zapowiedź nieskończonego, świadomego cierpienia. Inni, w tym adwentyści, zwracają uwagę, że tekst mówi o hańbie, która jest wieczna w skutkach, a nie o męce, która trwa bez końca, i że „żywot wieczny\" dostają w tym zdaniu tylko pierwsi. Pełna rozmowa o tym jest w materiale „Czy Bóg mnie ukarze?\". Obie strony łączy to, że Bóg traktuje ludzkie wybory poważnie i że zło nie będzie miało ostatniego słowa.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co ten werset mówi na pewno, a co do niego dopowiadamy z innych miejsc albo z wyobraźni?** Spróbujcie rozdzielić jedno od drugiego.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Zapieczętuj księgę",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 12,4",
+       "przeklad": "BW",
+       "akapity": [
+        "Ale ty, Danielu, zamknij te słowa i zapieczętuj księgę aż do czasu ostatecznego! Wielu będzie to badać i wzrośnie poznanie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel ma zapisać księgę, której sam do końca nie zrozumie, dla ludzi, których nigdy nie pozna. **Jak się pracuje nad czymś, czego owoców się nie zobaczy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Wielu będzie to badać i wzrośnie poznanie\". Z całej księgi wiemy, jakiego poznania szuka Daniel i jakie miał lud, który „zna swojego Boga\". **O jakim poznaniu mówi ten werset: o wiedzy o przyszłości czy o czymś innym?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Pieczętowano dokumenty ważne, żeby dotarły nienaruszone do adresata. **Co zmienia myśl, że ta księga była zapieczętowana nie przed czytelnikiem, tylko dla czytelnika?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie pieczętuj",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 22,10",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzecze do mnie: Nie pieczętuj słów proroctwa tej księgi! Albowiem czas bliski jest."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel słyszy „zapieczętuj\", Jan kilka wieków później słyszy „nie pieczętuj\". **Co wydarzyło się między tymi dwoma poleceniami, że drugie odwraca pierwsze?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Jak długo?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 12,5-10",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy ja, Daniel, spojrzałem, oto dwaj inni aniołowie stali, jeden z tej strony rzeki, a drugi z tamtej strony rzeki. I rzekłem do męża obleczonego w szatę lnianą, który stał nad wodą rzeki: Kiedy przyjdzie koniec tych dziwnych rzeczy? Wtedy usłyszałem, jak mąż obleczony w szatę lnianą, który stał nad wodami rzeki, podniósł prawicę i lewicę ku niebu i przysięgał na tego, który żyje wiecznie: Będzie to trwało czas wyznaczony, dwa czasy i pół czasu [...]. Wprawdzie słyszałem to, lecz tego nie rozumiałem, i rzekłem: Panie mój! Jakiż jest koniec tych rzeczy? Wtedy rzekł: Idź, Danielu, bo słowa są zamknięte i zapieczętowane aż do czasu ostatecznego. Wielu będzie oczyszczonych, wybielonych i wypławionych, lecz bezbożni będą postępować bezbożnie. Żaden bezbożny nie będzie miał poznania, lecz roztropni będą mieli poznanie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel pyta dwa razy: „kiedy\" i „jaki będzie koniec\". Przyjrzyjcie się odpowiedziom. **Na co dostaje odpowiedź, a na co nie?** Co dostaje zamiast?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Słyszałem to, lecz tego nie rozumiałem\". Mówi to człowiek, o którym w rozdziale 1 napisano, że rozumiał wszelkie widzenia i sny. **Co to zdanie, zapisane na ostatniej stronie, mówi o tym, jak czytać całą tę księgę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Przysięga składana jest z obiema rękami podniesionymi ku niebu, na Tego, który żyje wiecznie. **Co właściwie zostaje tu zaprzysiężone: data czy to, że koniec nastąpi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Pytanie „jak długo\" wraca w tej księdze jak refren. Pada w rozdziale 8 nad zdeptaną świątynią, stoi za modlitwą z rozdziału 9 i pada tutaj po raz ostatni. Bóg go nie gani. Odpowiada na nie miarą, która ma jedną wspólną cechę: jest policzona i ma koniec. Zło w tej księdze ma zawsze wyznaczony czas. Królestwo Boga nie ma.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czas, dwa czasy i pół czasu",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ta sama miara padła już w rozdziale 7.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 7,25",
+       "przeklad": "BW",
+       "akapity": [
+        "I będzie mówił zuchwałe słowa przeciwko Najwyższemu, będzie męczył Świętych Najwyższego, będzie zamyślał odmienić czasy i zakon; i będą wydani w jego moc aż do czasu i dwóch czasów i pół czasu."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Koniec wersetu 7, opuszczony wyżej w cytacie, przekład ekumeniczny oddaje tak: „oraz gdy zostanie zniszczona potęga świętego ludu, wtedy to wszystko się spełni\" (Ekum.). Koniec przychodzi więc nie wtedy, gdy lud Boży jest u szczytu siły, tylko gdy po ludzku nie ma już żadnej.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Są trzy odczytania tej miary. Pierwsze liczy ją dosłownie, jako trzy i pół roku, i wiąże z prześladowaniem za Antiocha IV w II wieku przed Chrystusem. Drugie, historyczne, czyta dni prorockie jako lata, zestawia tę miarę z 1260 dniami i 42 miesiącami z Apokalipsy i widzi w niej długie wieki, w których władza religijna sprzymierzona z państwem prześladowała inaczej wierzących. Trzecie przenosi ją na krótki okres tuż przed końcem świata. Każde musi coś wyjaśnić: pierwsze, dlaczego Apokalipsa, pisana długo po Antiochu, mówi o tej mierze jak o rzeczy przyszłej, drugie, skąd dokładnie liczyć początek i koniec, trzecie, dlaczego między resztą proroctwa a jego końcem miałaby być przerwa, o której tekst milczy.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Wszystkie trzy łączy rzecz najważniejsza: czas ucisku jest odmierzony z góry i się kończy.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co daje prześladowanemu człowiekowi sama wiadomość, że czas jego ucisku jest policzony, nawet jeśli nie zna rachunku?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 12,11-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Od czasu zniesienia stałej ofiary codziennej i postawienia obrzydliwości spustoszenia upłynie tysiąc dwieście dziewięćdziesiąt dni. Błogosławiony ten, kto wytrwa i dożyje do tysiąca trzystu trzydziestu pięciu dni."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Tych dwóch liczb Biblia nie powtarza nigdzie indziej i nigdzie ich nie wyjaśnia. Komentatorzy wszystkich szkół proponują różne rachunki i żaden nie zdobył powszechnej zgody. **Dlaczego Bóg zostawił na ostatniej stronie księgi coś, czego po dwudziestu pięciu wiekach nadal nie umiemy policzyć? Jak żyć z Biblią, w której są zdania zapieczętowane także dla nas? I co w tych dwóch wersetach jest jasne bez żadnego rachunku?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie proponuj własnego wyliczenia i nie dopuść do licytacji na daty. Warto, żeby padło spostrzeżenie, że jedyne słowo skierowane tu do człowieka to „kto wytrwa\", i że różnica między liczbami mówi o czekaniu dłuższym, niż się spodziewano.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Idź swoją drogą",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 12,13",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz ty idź swoją drogą, aż przyjdzie koniec; i spoczniesz, i powstaniesz do swojego losu u kresu dni."
+       ]
+      },
+      {
+       "odnosnik": "Dn 1,21",
+       "przeklad": "BW",
+       "akapity": [
+        "A Daniel pozostał tam do pierwszego roku Cyrusa."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ostatnie zdanie księgi ma cztery czasowniki: idź, spoczniesz, powstaniesz, i jeszcze „aż przyjdzie koniec\". **Co każdy z nich mówi o tym, co Daniela czeka?** Który z nich jest rozkazem, a które obietnicą?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel pytał o koniec świata. Dostał odpowiedź o własnym końcu i o tym, co po nim. **Dlaczego Bóg zamienił jedno pytanie na drugie?** Które z nich jest ważniejsze dla człowieka po osiemdziesiątce?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Pierwszy rozdział kończy się zdaniem „Daniel pozostał\", ostatni zdaniem „powstaniesz\". **Co mieści się między tymi dwoma słowami?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Daniel nie wrócił do Jerozolimy, nie zobaczył odbudowanej świątyni i nie dożył przyjścia Pomazańca, o którym pisał. Umarł w kraju wygnania, z pytaniami bez odpowiedzi. Ostatnie słowa, jakie usłyszał, nie dotyczą imperiów. Dotyczą jego: jest dla ciebie miejsce odpoczynku i jest dla ciebie przydział na końcu dni. „Los\" to w tamtym języku działka ziemi, którą każda rodzina dostawała w kraju obiecanym.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie bez nas",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 11,13",
+       "przeklad": "BW",
+       "akapity": [
+        "Wszyscy oni poumierali w wierze, nie otrzymawszy tego, co głosiły obietnice, lecz ujrzeli i powitali je z dala; wyznali też, że są gośćmi i pielgrzymami na ziemi."
+       ]
+      },
+      {
+       "odnosnik": "Hbr 11,39-40",
+       "przeklad": "BW",
+       "akapity": [
+        "A wszyscy ci, choć dla swej wiary zdobyli chlubne świadectwo, nie otrzymali tego, co głosiła obietnica, ponieważ Bóg przewidział ze względu na nas coś lepszego, mianowicie, aby oni nie osiągnęli celu bez nas."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Według Listu do Hebrajczyków Daniel i inni jeszcze nie odebrali tego, co im obiecano, i czekają, żeby odebrać to razem z nami. **Co to mówi o tym, jak Bóg myśli o swoim ludzie: jako o pojedynczych osobach czy jako o rodzinie, która siada do stołu dopiero w komplecie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak zmienia się myślenie o własnej śmierci, jeśli jest ona odpoczynkiem w drodze na wspólne spotkanie?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel usłyszał „idź swoją drogą\", choć nie dostał odpowiedzi na wszystko. **Jakie pytanie do Boga nosisz bez odpowiedzi i co by dla ciebie znaczyło iść z nim dalej, zamiast stać w miejscu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Księga Daniela jest pełna obrazów: stół królewski, posąg, piec, szaleństwo króla, napis na ścianie, jama lwów, bestie i Syn Człowieczy, modlitwa „my zgrzeszyliśmy\", siedemdziesiąt tygodni, wojna za kulisami, a dziś obudzenie tych, którzy śpią w prochu. **Który obraz z tej księgi, choćby tylko z dzisiejszego rozdziału, zostanie z tobą i co on ci mówi o Bogu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **co zmienia w twoim dzisiejszym życiu zdanie „spoczniesz i powstaniesz\"?** Możesz myśleć o sobie albo o kimś, kogo pożegnałeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie każdy przy stole zna całą księgę. Przeczytaj wyliczenie z drugiego pytania wolno i pozwól wybrać z tego, co kto zna, choćby tylko z dzisiejszego rozdziału.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Księga Daniela przez dwanaście rozdziałów pokazuje Boga, który panuje nad historią, a mimo to Jego najwierniejsi ludzie trafiają do pieca, do jamy i pod miecz, i umierają na obczyźnie, nie doczekawszy. **Czy zmartwychwstanie jest wystarczającą odpowiedzią na to, co wierni tracą po drodze? Czego nie naprawia i na co trzeba by innej odpowiedzi?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdyby zabrać z tej księgi werset 12,2, co zostałoby z jej nadziei?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie broń Boga i nie zamykaj rozmowy. Jeśli ktoś mówi z własnej straty, wysłuchaj i podziękuj.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Nie muszę rozumieć końca świata, żeby spokojnie dojść do własnego. Wystarczy wiedzieć, kto budzi śpiących.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Dn 12,13 albo Dn 12,3.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o kimś, kto „wiódł cię do sprawiedliwości\", i kto już nie żyje albo jest daleko. Podziękuj za niego Bogu po imieniu. Jeśli żyje, zapytaj siebie: **co mnie powstrzymuje, żeby mu to powiedzieć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Usiądź na chwilę ze zdaniem „spoczniesz i powstaniesz\" i pomyśl o własnej śmierci bez uciekania od tej myśli. **Zobacz, co się w tobie pojawia: lęk, ulga, bunt, obojętność.** Powiedz o tym Bogu takimi słowami, jakie masz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** Daniel pracował nad księgą, której owoców nie zobaczył. Zapytaj Boga, **co w twoim życiu jest pracą dla ludzi, których nie poznasz**, i czy jesteś gotów robić ją dalej bez oglądania wyniku.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś jest w świeżej żałobie i przy wersecie 2 zaczyna płakać albo milknie.** Nie przyspieszaj i nie pocieszaj formułą. Możesz powiedzieć: „Dziękuję, że jesteś z nami z tym\". Daj ciszę. Grupa towarzyszy, nie tłumaczy. Po spotkaniu zostań z tą osobą. Jeśli żałoba trwa długo i odbiera siły do życia, zachęć do rozmowy ze specjalistą. Telefon zaufania dla dorosłych w kryzysie emocjonalnym: 116 123, numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A mój ojciec nie wierzył. To znaczy, że obudzi się na potępienie?\"** Nie odpowiadaj za Boga. Tekst nie podaje nazwisk, a księgę żywota prowadzi Ktoś, kto zna serce lepiej niż rodzina. Możesz przypomnieć, że w tej samej księdze Bóg trzy rozdziały walczy o pogańskiego króla. Nie dawaj fałszywej pewności w żadną stronę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Przecież zmarli są już w niebie i patrzą na nas.\"** Nie polemizuj i nie poprawiaj. Powiedz, że chrześcijanie różnie to rozumieją, i zapytaj, co mówi tekst, który macie przed oczami: mówi o śnie i o obudzeniu. Dodaj, że jest osobne spotkanie „Co jest po śmierci?\" i że można do niego wrócić.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś wyciąga kalkulator: 1260, 1290, 1335, daty, wykresy.** Przerwij życzliwie. To jest stała reguła całej serii: żadnego wyliczania dat i żadnych aktualizacji politycznych. Przypomnij werset 8: sam Daniel nie rozumiał, a usłyszał „idź\". Zaproponuj poziom 3 na osobną okazję.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Biegać tam i z powrotem, wzrośnie poznanie, to przecież o samolotach i internecie.\"** W BW stoi „wielu będzie to badać\". Zdanie mówi o ludziach, którzy przeszukują księgę, a poznanie, o które chodzi Danielowi, to poznanie Boga i Jego dróg. Nie rób z tego sporu, po prostu przeczytajcie werset jeszcze raz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To teraz jest ten wielki ucisk? Wojna, kryzysy, wszystko się sypie.\"** Nie potwierdzaj i nie zaprzeczaj. Każde pokolenie czytelników Daniela miało powody, żeby tak myśleć. Tekst nie każe rozpoznawać daty, tylko mówi, kto wtedy powstanie. Wróć do pytania, co znaczy być zapisanym.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś boi się końca świata albo sądu.** Zwróć uwagę, do kogo i jakim tonem mówi ostatnie zdanie księgi. Człowiek, który najwięcej wiedział o końcu, usłyszał: idź, odpoczniesz, powstaniesz. Ta księga nie kończy się groźbą.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 3 i przeczytajcie go tylko na głos. Bloki 2 i 5 niosą całe spotkanie: obudzą się i powstaniesz.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś jest w świeżej żałobie i przy wersecie 2 zaczyna płakać albo milknie.",
+     "odpowiedz": "Nie przyspieszaj i nie pocieszaj formułą. Możesz powiedzieć: „Dziękuję, że jesteś z nami z tym\". Daj ciszę. Grupa towarzyszy, nie tłumaczy. Po spotkaniu zostań z tą osobą. Jeśli żałoba trwa długo i odbiera siły do życia, zachęć do rozmowy ze specjalistą. Telefon zaufania dla dorosłych w kryzysie emocjonalnym: 116 123, numer alarmowy 112."
+    },
+    {
+     "sytuacja": "„A mój ojciec nie wierzył. To znaczy, że obudzi się na potępienie?\"",
+     "odpowiedz": "Nie odpowiadaj za Boga. Tekst nie podaje nazwisk, a księgę żywota prowadzi Ktoś, kto zna serce lepiej niż rodzina. Możesz przypomnieć, że w tej samej księdze Bóg trzy rozdziały walczy o pogańskiego króla. Nie dawaj fałszywej pewności w żadną stronę."
+    },
+    {
+     "sytuacja": "„Przecież zmarli są już w niebie i patrzą na nas.\"",
+     "odpowiedz": "Nie polemizuj i nie poprawiaj. Powiedz, że chrześcijanie różnie to rozumieją, i zapytaj, co mówi tekst, który macie przed oczami: mówi o śnie i o obudzeniu. Dodaj, że jest osobne spotkanie „Co jest po śmierci?\" i że można do niego wrócić."
+    },
+    {
+     "sytuacja": "Ktoś wyciąga kalkulator: 1260, 1290, 1335, daty, wykresy.",
+     "odpowiedz": "Przerwij życzliwie. To jest stała reguła całej serii: żadnego wyliczania dat i żadnych aktualizacji politycznych. Przypomnij werset 8: sam Daniel nie rozumiał, a usłyszał „idź\". Zaproponuj poziom 3 na osobną okazję."
+    },
+    {
+     "sytuacja": "„Biegać tam i z powrotem, wzrośnie poznanie, to przecież o samolotach i internecie.\"",
+     "odpowiedz": "W BW stoi „wielu będzie to badać\". Zdanie mówi o ludziach, którzy przeszukują księgę, a poznanie, o które chodzi Danielowi, to poznanie Boga i Jego dróg. Nie rób z tego sporu, po prostu przeczytajcie werset jeszcze raz."
+    },
+    {
+     "sytuacja": "„To teraz jest ten wielki ucisk? Wojna, kryzysy, wszystko się sypie.\"",
+     "odpowiedz": "Nie potwierdzaj i nie zaprzeczaj. Każde pokolenie czytelników Daniela miało powody, żeby tak myśleć. Tekst nie każe rozpoznawać daty, tylko mówi, kto wtedy powstanie. Wróć do pytania, co znaczy być zapisanym."
+    },
+    {
+     "sytuacja": "Ktoś boi się końca świata albo sądu.",
+     "odpowiedz": "Zwróć uwagę, do kogo i jakim tonem mówi ostatnie zdanie księgi. Człowiek, który najwięcej wiedział o końcu, usłyszał: idź, odpoczniesz, powstaniesz. Ta księga nie kończy się groźbą."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3 i przeczytajcie go tylko na głos. Bloki 2 i 5 niosą całe spotkanie: obudzą się i powstaniesz."
+    }
+   ]
+  }
+ ]
+}

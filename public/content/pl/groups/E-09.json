@@ -1,0 +1,561 @@
+{
+ "tytul": "Gorycz",
+ "id": "E-09",
+ "seria": "Emocje",
+ "opis": "Osad po emocjach, które nie znalazły ujścia. Historia Noemi, która nazwała siebie Gorzką.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Rt 1,19-21; Wj 15,23-25; Hi 7,11; Hi 10,1; Hbr 12,14-15; Rt 4,14-15",
+  "p2": "1Sm 1,10-11; Dz 8,22-23",
+  "p3": "Rt 1,20"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 80,
+  "p3": 95
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 22,
+  "p3": 23
+ },
+ "tagi": [
+  "emocje",
+  "uraza",
+  "przebaczenie",
+  "strata"
+ ],
+ "wersja": 1,
+ "zdanie": "Gorycz to nie emocja jednego dnia, tylko osad po dniach, których nikt nie wysłuchał.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Gorycz nie jest emocją chwili, tylko osadem po emocjach, które nie znalazły ujścia. Dlatego nie leczy się jej tak jak gniewu. Materiał prowadzi przez historię Noemi, która zaczyna się nazwaniem siebie Gorzką, a kończy inaczej, choć nikt jej po drodze nie skarcił.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Gorycz zwykle ma powód i ten powód jest prawdziwy. Nie wolno jej traktować jak wady charakteru, dopóki nie uzna się krzywdy.",
+      "Ktoś przy stole może być zgorzkniały wobec kościoła, zboru albo konkretnej osoby z tej grupy. To może wyjść.",
+      "Noemi mówi, że Bóg wystąpił przeciwko niej. Nie poprawiaj tego zdania, bo Biblia go nie poprawia."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie przekonuj nikogo, że nie ma powodu. Nie przechodź do przebaczenia zanim grupa nie nazwie krzywdy. Nie stawiaj bloku piątego jako morału.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o kimś, kogo znasz, i kto po ciężkim doświadczeniu stał się cieplejszy, oraz o kimś, kto stał się twardszy. Nie podawaj nazwisk. **Czy wiesz, co zdecydowało o różnicy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "to jest pytanie na wejście do całego tematu. Nie rozstrzygaj go tutaj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Nazywajcie mnie Mara",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rt 1,19-21",
+       "przeklad": "BW",
+       "akapity": [
+        "I szły obie, aż doszły do Betlejemu. A gdy doszły do Betlejemu, powstało z powodu nich w całym mieście wielkie poruszenie i kobiety mówiły: Czy to jest Noemi? A ona rzekła do nich: Nie nazywajcie mnie Noemi, nazywajcie mnie Mara, gdyż Wszechmogący napoił mnie wielką goryczą. Bogata wyszłam, a Pan zgotował mi powrót w niedostatku; dlaczego więc nazywacie mnie Noemi, skoro Pan wystąpił przeciwko mnie, a Wszechmogący zło mi zgotował?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Noemi znaczy „moja słodycz\", Mara znaczy „gorzka\". Ona prosi o zmianę imienia. **Co to znaczy, że gorycz stała się jej tożsamością, a nie tylko stanem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Trzykrotnie mówi o tym, co zrobił Pan, a ani razu o tym, co zrobili ludzie. **Do kogo kieruje swoją pretensję?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W tej scenie obok niej stoi Rut, która właśnie zostawiła dla niej wszystko. **Noemi mówi „wracam w niedostatku\". Czego nie zauważa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Nikt w tekście nie prostuje jej słów. **Co to mówi o tym, jak Biblia traktuje gorzką mowę człowieka po stracie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Noemi straciła męża i dwóch synów w obcym kraju. Jej gorycz ma realny powód i nie jest przesadą. Warto zauważyć trzy rzeczy. Po pierwsze, mówi wprost do ludzi, nie za plecami. Po drugie, mówi o Bogu jak o kimś, kto istnieje i działa, a nie jak o kimś, kogo nie ma. Po trzecie, nikt jej nie karci. Narrator zapisuje jej słowa bez komentarza, a księga skończy się inaczej, niż ona w tej chwili przewiduje.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajski rdzeń `mar` znaczy „gorzki\" i wraca w Biblii w trzech kontekstach: gorzka woda, gorzkie zioła spożywane przy passze i gorzka dusza człowieka. Ten sam wyraz opisuje więc smak, obrzęd pamięci o niewoli i stan serca.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co łączy te trzy rzeczy? Dlaczego akurat smak stał się obrazem tego, co dzieje się w człowieku po długiej krzywdzie?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Gorzkie wody",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 15,23-25",
+       "przeklad": "BW",
+       "akapity": [
+        "I przybyli do miejscowości Mara, i nie mogli tam pić wody, bo była gorzka; dlatego nazwano tę miejscowość Mara. Wtedy lud szemrał przeciwko Mojżeszowi, mówiąc: Co będziemy pić? Mojżesz wołał do Pana, a Pan wskazał mu drzewo; i wrzucił je do wody, a woda stała się słodka. Tam ustanowił dlań przepisy i prawo i tam go doświadczył,"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "To dzieje się trzy dni po przejściu przez morze, czyli po największym cudzie w historii tego ludu. **Co to mówi o tym, jak szybko wraca gorycz?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg nie przenosi ich do innego źródła i nie każe im pić mimo wszystko. **Co robi z wodą, która już jest?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Miejsce zostało nazwane Mara i ta nazwa została. **Dlaczego nie zmieniono jej po tym, jak woda stała się słodka?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Gorycz wypowiedziana",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hi 7,11",
+       "przeklad": "BW",
+       "akapity": [
+        "Dlatego też nie mogę dłużej powstrzymać ust swoich, będę mówił w utrapieniu mojego ducha, będę narzekał w goryczy mojej duszy."
+       ]
+      },
+      {
+       "odnosnik": "Hi 10,1",
+       "przeklad": "BW",
+       "akapity": [
+        "Obrzydło mi życie, toteż puszczę wodze mojej skardze i będę mówił w goryczy mojej duszy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Hiob zapowiada, że będzie mówił w goryczy swojej duszy, i robi to przez wiele rozdziałów. **Do kogo mówi i co to zmienia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Na końcu księgi Bóg mówi, że Hiob mówił o Nim właściwie, a jego pobożni przyjaciele nie. **Jak to możliwe, skoro Hiob mówił rzeczy bardzo gorzkie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Puszczę wodze mojej skardze\". **Czym różni się skarga od narzekania?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Biblia rozróżnia gorycz wypowiedzianą i gorycz przechowywaną, i traktuje je zupełnie inaczej. Hiob mówi rzeczy, których nikt nie odważyłby się dziś powiedzieć na głos w kościele, a zostaje pochwalony. Jego przyjaciele mówią rzeczy poprawne i zostają zganieni. Różnica nie leży w treści, tylko w adresie. Hiob kieruje wszystko do Boga i tym samym nie zamyka się w sobie. Gorycz staje się trucizną wtedy, gdy nie ma dokąd wyjść.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Anna w świątyni",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Sm 1,10-11",
+       "przeklad": "BW",
+       "akapity": [
+        "Z goryczą w duszy modliła się ona do Pana i bardzo płakała, I złożyła ślubowanie, mówiąc: Panie Zastępów! Jeśli wejrzysz na niedolę swojej służebnicy i jeśli wspomnisz na mnie, a nie zapomnisz o swojej służebnicy i dasz swojej służebnicy męskiego potomka, to ja oddam go Panu po wszystkie dni jego życia, i nożyce nie dotkną jego głowy."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Tekst mówi wprost, że modliła się z goryczą w duszy. **Czy gorycz przeszkodziła jej modlitwie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Prosi o syna i od razu obiecuje, że go odda. **Co się w niej zmieniło w trakcie tej modlitwy?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Korzeń gorzkości",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 12,14-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Dążcie do pokoju ze wszystkimi i do uświęcenia, bez którego nikt nie ujrzy Pana, bacząc, żeby nikt nie pozostał z dala od łaski Bożej, żeby jakiś gorzki korzeń rosnący w górę, nie wyrządził szkody i żeby przezeń nie pokalało się wielu,"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Obraz jest rolniczy: korzeń rosnący w górę. **Co ten obraz mówi o tempie i o tym, co widać na powierzchni?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Autor pisze, że przez taki korzeń pokala się wielu. **Jak gorycz jednego człowieka przenosi się na grupę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ostrzeżenie zaczyna się od zdania o pozostawaniu z dala od łaski. **Jaki jest według tego tekstu grunt, na którym gorycz rośnie najlepiej?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Gorzka żółć",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 8,22-23",
+       "przeklad": "BW",
+       "akapity": [
+        "Przeto odwróć się od tej nieprawości swojej i proś Pana, czy nie mógłby ci być odpuszczony zamysł serca twego; widzę bowiem, żeś pogrążony w gorzkiej żółci i w więzach nieprawości."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr używa wobec Szymona obrazu gorzkiej żółci i więzów. **Co te dwa obrazy mówią o goryczy: czy to stan, czy uwięzienie?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Koniec historii Noemi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rt 4,14-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy powiedziały kobiety do Noemi: Błogosławiony niech będzie Pan, który cię dziś nie pozostawił bez wykupiciela, i niech imię jego będzie głośne w Izraelu. Niechaj ten będzie dla ciebie krzepicielem duszy i żywicielem w twojej starości, gdyż urodziła go twoja synowa, która cię miłuje i która jest dla ciebie lepsza niż siedmiu synów."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Kobiety mówią do Noemi o wykupicielu i o krzepicielu duszy. **Porównajcie to z tym, co Noemi mówiła o sobie w rozdziale pierwszym.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Nikt w tej księdze nie powiedział Noemi, że nie ma prawa być gorzka. **Co w takim razie ją zmieniło?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zmiana przychodzi przez Rut, czyli przez osobę, która przy niej została. **Co to mówi o roli ludzi w wychodzeniu z goryczy?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Noemi poprosiła, żeby nazywać ją Gorzką. **Czy jest w tobie obszar, w którym przedstawiasz się przez to, co ci zrobiono?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hiob mówił swoją gorycz Bogu, a nie o Bogu. **Gdzie trafia twoja? Zostaje w środku, idzie do ludzi, czy do Niego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest sprawa sprzed lat, do której wracasz w myślach częściej, niż chciałbyś przyznać?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Gorycz to nie emocja jednego dnia, tylko osad po dniach, których nikt nie wysłuchał.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Hbr 12,15 albo Rt 4,15.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Wróć myślą do najstarszej krzywdy, którą wciąż pamiętasz dokładnie. **Zapytaj siebie, co byś stracił, gdybyś ją odłożył.** Gorycz zwykle czegoś pilnuje: poczucia, że miałeś rację, albo tego, żeby krzywda nie została uznana za nieważną.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Powiedz Bogu jedno zdanie o tej sprawie, takie, jakiego nie powiedziałbyś przy ludziach. **Hiob mówił mocniej i został pochwalony.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jest ktoś, o kim nie potrafisz powiedzieć dobrego słowa. Poszukaj jednej prawdziwej dobrej rzeczy i wypowiedz ją na głos, choćby w pustym pokoju. Sprawdź, ile cię to kosztuje.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Trzeba po prostu przebaczyć i puścić.\"** Prawdziwe i w tym momencie bezużyteczne. Wróć do Noemi: nikt jej tego nie powiedział, a jednak księga kończy się dobrze. Przebaczenie, do którego popycha się człowieka za wcześnie, zwykle jest udawane.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o goryczy wobec kościoła albo wobec kogoś z tej grupy.** Nie broń instytucji i nie prostuj faktów. Wysłuchaj, podziękuj, zaproponuj rozmowę osobno. Jeśli rzecz dotyczy kogoś obecnego, przerwij i przenieś to poza spotkanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi, że ma pretensje do Boga.** Nie koryguj. Noemi i Hiob mówili to samo i Biblia to zapisała bez komentarza.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa zaczyna rozstrzygać, kto miał rację w jakiejś dawnej sprawie.** Utnij. Ten temat nie jest o ustalaniu winnych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja nie mam do nikogo żalu.\"** Nie konfrontuj. Przesuń pytanie: „Czy jest ktoś, o kim wolisz nie myśleć?\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Cisza po pytaniu o najstarszą krzywdę.** Zostaw ją. To pytanie ma pracować w drodze do domu, nie przy stole.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Trzeba po prostu przebaczyć i puścić.\"",
+     "odpowiedz": "Prawdziwe i w tym momencie bezużyteczne. Wróć do Noemi: nikt jej tego nie powiedział, a jednak księga kończy się dobrze. Przebaczenie, do którego popycha się człowieka za wcześnie, zwykle jest udawane."
+    },
+    {
+     "sytuacja": "Ktoś mówi o goryczy wobec kościoła albo wobec kogoś z tej grupy.",
+     "odpowiedz": "Nie broń instytucji i nie prostuj faktów. Wysłuchaj, podziękuj, zaproponuj rozmowę osobno. Jeśli rzecz dotyczy kogoś obecnego, przerwij i przenieś to poza spotkanie."
+    },
+    {
+     "sytuacja": "Ktoś mówi, że ma pretensje do Boga.",
+     "odpowiedz": "Nie koryguj. Noemi i Hiob mówili to samo i Biblia to zapisała bez komentarza."
+    },
+    {
+     "sytuacja": "Grupa zaczyna rozstrzygać, kto miał rację w jakiejś dawnej sprawie.",
+     "odpowiedz": "Utnij. Ten temat nie jest o ustalaniu winnych."
+    },
+    {
+     "sytuacja": "„Ja nie mam do nikogo żalu.\"",
+     "odpowiedz": "Nie konfrontuj. Przesuń pytanie: „Czy jest ktoś, o kim wolisz nie myśleć?\""
+    },
+    {
+     "sytuacja": "Cisza po pytaniu o najstarszą krzywdę.",
+     "odpowiedz": "Zostaw ją. To pytanie ma pracować w drodze do domu, nie przy stole."
+    }
+   ]
+  }
+ ]
+}

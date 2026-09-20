@@ -1,0 +1,851 @@
+{
+ "tytul": "Daniel 6. Otwarte okno",
+ "id": "D-06",
+ "seria": "Księga Daniela",
+ "opis": "W dniu, w którym modlitwa staje się przestępstwem, Daniel nie robi nic nowego. Wierność jako nawyk, nie zryw.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Dn 6,1-6; 6,7-10; 6,11-12; 6,15-19; 6,20-24.26-29",
+  "p2": "1Krl 8,48-49; Ps 55,17-18; Dz 5,27-29; Mt 27,65-66; 28,1-2",
+  "p3": "Mt 6,5-6; Rz 13,1-2; Dn 6,25; Pwt 24,16; Hbr 11,33-38"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 25,
+  "p3": 31
+ },
+ "tagi": [
+  "Daniel",
+  "modlitwa",
+  "wierność",
+  "nawyk",
+  "sumienie",
+  "prawo",
+  "praca"
+ ],
+ "wersja": 1,
+ "zdanie": "W dniu próby nie staniesz się kimś innym, niż byłeś wczoraj przy otwartym oknie.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Wszyscy znają lwy. To spotkanie jest o oknie. Daniel ma ponad osiemdziesiąt lat i w dniu, w którym modlitwa staje się przestępstwem, nie robi niczego nowego. Idzie do domu i modli się tak, „jak to zwykle dotąd czynił\". Jego wierność nie jest zrywem, tylko nawykiem, który ma kilkadziesiąt lat. Drugi wątek to prawo: urzędnicy nie łamią żadnego przepisu, oni przepis piszą. Trzeci to król, który chce dobrze i nie może cofnąć własnego podpisu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Czytacie dziś prawie cały rozdział, w pięciu odcinkach. Dwa krótkie fragmenty streszcza zdanie kursywą. Przeczytaj je grupie na głos.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Prawo użyte przeciw sumieniu natychmiast kojarzy się z bieżącymi sporami. Materiał nie wskazuje żadnego współczesnego państwa, ustawy ani polityka i grupa też nie powinna.",
+      "Ktoś przy stole modlił się o ratunek i ratunek nie przyszedł. Historia z happy endem może go zaboleć. Na poziomie 3 jest o tym osobne pytanie, a w czerwonych flagach gotowa odpowiedź.",
+      "Trzy razy dziennie, na kolanach, przez całe życie. Część grupy usłyszy w tym wyrzut. Daniel nie jest tu miarą, którą mierzymy obecnych.",
+      "Werset 25, w którym giną także żony i dzieci oskarżycieli, jest na poziomie 3. Jeśli ktoś doczyta go w swojej Biblii, nie udawaj, że go nie ma."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pytaj nikogo, jak wygląda jego modlitwa. Nie obiecuj, że Bóg zawsze zamyka paszcze lwom. Nie rób z otwartego okna wzoru demonstrowania wiary.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o jednej rzeczy, którą robisz codziennie od tak dawna, że już się nad nią nie zastanawiasz. Powiedz, co to jest, jednym zdaniem.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Człowiek bez haka",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 6,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "A Dariusz Medyjczyk objął królestwo, mając sześćdziesiąt dwa lata. I postanowił Dariusz powołać nad królestwem stu dwudziestu satrapów; mieli być wszędzie w całym królestwie. Nad nimi ustanowił trzech ministrów, z których jednym był Daniel. I owi satrapowie mieli przed nimi zdawać sprawę, aby król nie był poszkodowany. Tenże Daniel wyróżniał się wśród satrapów i ministrów, gdyż był w nim nadzwyczajny duch, i król zamierzał ustanowić go nad całym królestwem. Satrapowie zaś i ministrowie szukali w sprawach państwowych pozoru do skargi przeciwko Danielowi, lecz nie mogli znaleźć pozoru do skargi ani winy, gdyż był godny zaufania i nie stwierdzono u niego żadnego zaniedbania ani winy. Wtedy rzekli owi mężowie: Nie znajdziemy u tego Daniela żadnego pozoru do skargi, chyba że znajdziemy przeciwko niemu coś na punkcie jego religii."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ktoś zlecił pełną kontrolę kilkudziesięciu lat pracy Daniela. **Co znaleziono? Wypiszcie z wersetu 5 wszystko, co tekst mówi o nim jako o urzędniku.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wrogowie dochodzą do wniosku, że jedyny słaby punkt Daniela to jego Bóg. **Co musieli o nim wiedzieć, żeby być tego tak pewni? Skąd to wiedzieli?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Daniel służy już trzeciemu z kolei władcy, a teraz nowemu imperium. **Dlaczego kolejne rządy chcą mieć u siebie tego samego człowieka?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Daniel trafił do Babilonu jako nastolatek, a od tamtej chwili minęło blisko siedemdziesiąt lat. Ma więc ponad osiemdziesiątkę. Urzędnicy nie szukają u niego błędu z zazdrości o wiarę. Szukają, bo ma dostać stanowisko, na które sami liczyli. Wiara staje się celem dopiero wtedy, gdy uczciwość nie daje punktu zaczepienia. Warto to zapamiętać: plan przeciw Danielowi zakłada, że on się nie zmieni. Jego przewidywalność jest jedyną rzeczą, na której wrogowie mogą polegać.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy w księdze",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** W ostatnim z sześciu opowiadań dworskich. Rozdział 3 opowiadał o trzech przyjaciołach i piecu, ten opowiada o samym Danielu i jamie. Oba mają ten sam szkielet: rozkaz, odmowa, wyrok, ocalenie, dekret króla. Od następnego rozdziału księga zmienia charakter i zaczynają się widzenia.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Babilon upadł, rządzą Medowie i Persowie. Siedemdziesiąt lat wygnania, które zapowiedział Jeremiasz, dobiega końca, a Jerozolima wciąż leży w gruzach. O Dariuszu Medyjczyku nie wiemy z innych źródeł nic pewnego. Proponowano utożsamienie go z jednym z wodzów Cyrusa, ale to hipotezy. Tekst interesuje się nim jako człowiekiem, nie jako datą.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Tam, gdzie Biblia Warszawska ma „na punkcie jego religii\", tekst aramejski używa słowa `dat`, czyli „prawo\". Przekład ekumeniczny oddaje to dosłownie: „oskarżenie związane z prawem jego Boga\". To samo słowo wraca w wersetach 9, 13 i 16 jako „prawo Medów i Persów\". Autor zderza więc w jednym rozdziale dwa prawa, z których każde uchodzi za niezmienne.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Urzędnicy rozumieją, że Daniel żyje pod dwoma prawami naraz, i planują doprowadzić do ich zderzenia. **Co to mówi o wierze Daniela, że z zewnątrz wyglądała jak prawo, a nie jak nastrój?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Pismo",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 6,7-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Wówczas owi satrapowie i ministrowie wpadli do króla i tak odezwali się do niego: Żyj wiecznie, królu Dariuszu! Wszyscy ministrowie królestwa, namiestnicy, satrapowie, zwierzchnicy i doradcy doradzają, aby król wydał zarządzenie i nadał mu moc obowiązującą: Kto w ciągu trzydziestu dni o cokolwiek będzie się modlił do jakiegokolwiek boga albo człowieka oprócz ciebie, królu, będzie wrzucony do lwiej jamy. Teraz więc królu, wydaj to zarządzenie i każ sporządzić pismo, które według niewzruszonego prawa Medów i Persów nie może być cofnięte. Wobec tego król kazał sporządzić pismo z tym zarządzeniem."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Wszyscy ministrowie królestwa\" doradzają. **Kogo wśród tych wszystkich nie było? Na czym polega kłamstwo, które nie zawiera ani jednego fałszywego słowa o Danielu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Urzędnicy nie łamią prawa. Piszą je. **Czym różni się krzywda wyrządzona wbrew prawu od krzywdy wyrządzonej zgodnie z prawem? Przed którą trudniej się bronić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Trzydzieści dni, przez które król jest jedynym adresatem wszystkich próśb. **Na co w Dariuszu liczyli autorzy projektu?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Otwarte okno",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 6,11-12",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy Daniel się dowiedział, że sporządzono to pismo, udał się do swojego domu, a miał w swym górnym pokoju okna otwarte w stronę Jeruzalemu i trzy razy dziennie padał na kolana, modlił się i wysławiał swojego Boga, jak to zwykle dotąd czynił. Wtem wpadli owi mężowie i zastali Daniela modlącego się i błagającego swojego Boga."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Wypiszcie wszystko, co Daniel robi po usłyszeniu o dekrecie.** A teraz listę tego, czego nie robi, choć mógłby: nie idzie do króla, nie pisze odwołania, nie zamyka okna, nie czeka trzydziestu dni. Co jeszcze?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Jak to zwykle dotąd czynił\". **Co te pięć słów zmienia w całej scenie?** Czym różni się człowiek, który w kryzysie zaczyna się modlić, od człowieka, który w kryzysie po prostu nie przestaje?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wystarczyło przez miesiąc modlić się po cichu, przy zamkniętym oknie, i nikt by niczego nie udowodnił. **Dlaczego Daniel tego nie zrobił? Co by się w nim zmieniło, gdyby zamknął okno?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Śmierć grozi za modlitwę prośby, a Daniel „wysławia\", czyli dziękuje. **Za co może dziękować człowiek, który właśnie przeczytał wyrok na siebie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Dom zamożnego człowieka miał płaski dach, a na nim nadbudowaną izbę z dużymi oknami, osłoniętymi najwyżej ażurową kratą dla przewiewu. Kto się tam modlił, tego było widać i słychać z ulicy. Daniel nie urządza więc demonstracji. Nie wychodzi na dach i nie otwiera okna na złość. Okno było otwarte wczoraj i przedwczoraj. Sceny nie tworzy bohaterska decyzja, tylko brak decyzji o schowaniu się. Jerozolima, w której stronę patrzy, od kilkudziesięciu lat jest ruiną.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "W stronę miasta",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kiedy Salomon poświęcał świątynię, modlił się także za ludzi, którzy kiedyś trafią do niewoli:",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Krl 8,48-49",
+       "przeklad": "BW",
+       "akapity": [
+        "i nawrócą się do ciebie z całego swego serca i z całej swojej duszy w ziemi swoich nieprzyjaciół, którzy ich uprowadzili, i będą się modlić do ciebie zwróceni w stronę swojej ziemi, którą dałeś ich ojcom, i w stronę miasta, które wybrałeś, i w stronę przybytku, który zbudowałem dla imienia twojego, Ty racz wysłuchać w niebie, w miejscu, gdzie mieszkasz, ich modlitwy i błagania i uznać ich prawo,"
+       ]
+      },
+      {
+       "odnosnik": "Ps 55,17-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Ja do Boga wołam, A Pan mnie wybawi. Wieczorem, rano i w południe narzekać będę i jęczeć, I wysłucha głosu mojego."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel nie wymyślił ani kierunku, ani pór modlitwy. **Co mu dawało to, że modlił się w formie starszej od niego, której nie musiał co dzień wymyślać od nowa?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Świątyni nie ma, miasto jest rumowiskiem, a on trzy razy dziennie odwraca się w tamtą stronę. **Czym jest modlitwa zwrócona ku czemuś, co leży w gruzach?** O czym mówi Bogu samym kierunkiem?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Bardziej niż ludzi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 5,27-29",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy ich przywiedli, stawili ich przed Radą Najwyższą. I zapytał ich arcykapłan, mówiąc: Nakazaliśmy wam surowo, abyście w tym imieniu nie uczyli, a oto napełniliście nauką waszą Jerozolimę i chcecie ściągnąć na nas krew tego człowieka. Piotr zaś i apostołowie odpowiadając, rzekli: Trzeba bardziej słuchać Boga niż ludzi."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr mówi „bardziej\", a nie „zamiast\". **Jak to jedno słowo opisuje całe życie Daniela, wzorowego urzędnika trzech władców?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Apostołowie mówią to głośno, przed sądem. Daniel nie mówi nic, po prostu klęka. **Czy to dwie różne postawy, czy ta sama?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: okno i komora",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 6,5-6",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy się modlicie, nie bądźcie jak obłudnicy, gdyż oni lubią modlić się, stojąc w synagogach i na rogach ulic, aby pokazać się ludziom; zaprawdę powiadam wam: Otrzymali zapłatę swoją. Ale ty, gdy się modlisz, wejdź do komory swojej, a zamknąwszy drzwi za sobą, módl się do Ojca swego, który jest w ukryciu, a Ojciec twój, który widzi w ukryciu, odpłaci tobie."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jezus każe zamknąć drzwi. Daniel nie zamyka okna. Zwyczaj modlitwy o stałych porach był w czasach Jezusa powszechny i właśnie dlatego można go było nadużyć: wystarczyło tak ułożyć dzień, żeby pora modlitwy zastała człowieka na rogu ulicy.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy Jezus i Daniel sobie przeczą?** Zapytajcie o każdego z nich: co by zyskał, gdyby ludzie go zobaczyli, i co by zyskał, gdyby się schował.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Po czym poznać u siebie, czy widoczność mojej wiary jest oknem Daniela, czy rogiem ulicy?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Król, który nie może",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Urzędnicy idą prosto do króla. Najpierw każą mu potwierdzić, że dekret obowiązuje, a dopiero potem podają nazwisko: Daniel, jeden z wygnańców judzkich, nie zważa na ciebie, królu.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 6,15-19",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy król usłyszał te słowa, bardzo mu się to nie podobało; i zastanawiał się nad tym, jakby Daniela ratować i aż do zachodu słońca starał się go uwolnić. Lecz owi mężowie wpadli do króla i tak rzekli do króla: Wiedz, królu, iż jest prawem u Medów i Persów, że żadne zarządzenie lub nakaz, wydany przez króla, nie mogą być zmienione. Wtedy król rozkazał, aby przyprowadzono Daniela i wrzucono go do lwiej jamy; a król odezwał się i rzekł do Daniela: Twój Bóg, któremu nieustannie służysz, niech cię wyratuje! Po czym przyniesiono jeden kamień i położono go na otworze jamy, a król opieczętował go swoim sygnetem i sygnetami swoich dostojników, aby sprawa Daniela nie uległa zmianie. Potem udał się król do swojego pałacu i spędził noc na poście, nie dopuścił do siebie nałożnic, a sen go odbiegł."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Najpotężniejszy człowiek imperium przez cały dzień próbuje uratować jednego urzędnika i nie daje rady. **Kto naprawdę rządzi w tej scenie? Co związało królowi ręce?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Twój Bóg, któremu nieustannie służysz\". Mówi to poganin, który zna Daniela od niedawna. **Co musiał u niego widzieć, żeby użyć słowa „nieustannie\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Tekst opisuje noc króla ze szczegółami: post, samotność, bezsenność. O nocy Daniela nie mówi nic. **Kto tej nocy siedzi w jamie, a kto jest naprawdę uwięziony?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Dramat rozdziału stoi na jednej zasadzie prawnej: zarządzenia wydanego przez króla Medów i Persów nie mógł cofnąć nawet sam król. Władca absolutny okazuje się więźniem własnego podpisu. Jama była zapewne podziemną komorą z otworem u góry. Pieczęć na kamieniu działała w obie strony. Dostojnikom gwarantowała, że król nie wyciągnie Daniela po kryjomu, a królowi, że nikt nie dobije go w nocy, gdyby lwy go oszczędziły.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Kamień i pieczęć",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 27,65-66",
+       "przeklad": "BW",
+       "akapity": [
+        "Rzekł im Piłat: Macie straż, idźcie, zabezpieczcie, jak umiecie. Poszli więc i zabezpieczyli grób, pieczętując kamień i zaciągając straż."
+       ]
+      },
+      {
+       "odnosnik": "Mt 28,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "A po sabacie, o świcie pierwszego dnia tygodnia, przyszła Maria Magdalena i druga Maria, aby obejrzeć grób. I oto powstało wielkie trzęsienie ziemi, albowiem anioł Pański zstąpił z nieba i przystąpiwszy odwalił kamień i usiadł na nim."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Niewinny skazany przez władcę, który wolałby go uwolnić. Kamień, urzędowa pieczęć, noc, a o świcie ktoś biegnie do grobu. **Wypiszcie wszystko, co łączy obie sceny.**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "A teraz różnica: Daniel wychodzi z jamy żywy, bo lwy go nie tknęły. **Czego ta historia nie umiała jeszcze opowiedzieć, a co opowiada dopiero poranek po ukrzyżowaniu?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: posłuszny nieposłuszny",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 13,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "Każdy człowiek niech się poddaje władzom zwierzchnim; bo nie ma władzy, jak tylko od Boga, a te, które są, przez Boga są ustanowione. Przeto kto się przeciwstawia władzy, przeciwstawia się Bożemu postanowieniu; a ci, którzy się przeciwstawiają, sami na siebie potępienie ściągają."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Daniel złamał obowiązujące prawo, świadomie i przy otwartym oknie. Za chwilę powie królowi: „względem ciebie, królu, nic złego nie popełniłem\". Jedni chrześcijanie kładą nacisk na słowa Pawła i przypominają, że Daniel przez całe życie był lojalny, a odmówił w jednej sprawie. Drudzy kładą nacisk na odmowę i przypominają, że władza, która sięga po sumienie, wychodzi poza to, co jej dano. Obie strony zgadzają się co do dwóch rzeczy: Daniel nie organizuje oporu i nie ucieka przed karą.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak Daniel może twierdzić, że nic złego królowi nie zrobił, skoro złamał jego dekret?** Gdzie według tego rozdziału kończy się to, co należy do króla?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "O świcie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 6,20-24",
+       "przeklad": "BW",
+       "akapity": [
+        "A wstawszy bardzo rano o świcie poszedł król śpiesznie do lwiej jamy. A gdy się przybliżył do jamy, zawołał smutnym głosem na Daniela i rzekł: Danielu, sługo Boga żywego! Czy twój Bóg, któremu nieustannie służysz, mógł cię wybawić od lwów? Wtedy Daniel rzekł do króla: Królu, żyj na wieki! Mój Bóg posłał swojego anioła, by zamknął paszcze lwów, tak że mi nie zaszkodziły, gdyż przed nim jestem niewinny, nadto względem ciebie, królu, nic złego nie popełniłem. Wtedy król bardzo się z tego ucieszył i rozkazał wyciągnąć Daniela z jamy; a gdy wyciągnięto Daniela z jamy, nie znaleziono na nim żadnego uszkodzenia, gdyż wierzył w swojego Boga."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Król każe wrzucić do jamy oskarżycieli. Tym razem lwy nie czekają.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 6,26-29",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem król Dariusz wystosował do wszystkich narodów, plemion i języków na całej ziemi pismo tej treści: Pokój wam! Przeze mnie wydany został dekret, że na całym obszarze mojego królestwa winni drżeć i bać się Boga Daniela; On bowiem jest Bogiem żywym i trwa na wieki, a jego królestwo jest niezniszczalne i władza jego jest nieskończona. On wybawia i wyzwala, i czyni znaki i cuda na niebie i na ziemi, On, który wyratował Daniela z mocy lwów. A Danielowi dobrze się powodziło za panowania Dariusza i za panowania Cyrusa, Persa."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg nie zatrzymał dekretu, nie zmiękczył urzędników i nie oszczędził Danielowi jamy. Anioł przyszedł dopiero na dół. **Co to mówi o tym, gdzie i kiedy Bóg ratuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rozdział zaczyna się jednym pismem królewskim i kończy drugim. **O kim było pierwsze, a o kim jest drugie? Co musiało się wydarzyć pomiędzy, żeby poganin napisał zdanie o królestwie, które jest niezniszczalne?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Gdyż wierzył w swojego Boga\". Tekst nigdzie nie mówi, że Daniel wiedział, iż wyjdzie. **Co znaczy wierzyć, kiedy schodzi się na dół bez gwarancji?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: werset 25",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 6,25",
+       "przeklad": "BW",
+       "akapity": [
+        "Rozkazał też król, aby przyprowadzono owych mężów, którzy oczernili Daniela, i wrzucono ich do lwiej jamy, ich samych, ich dzieci i żony, a zanim dosięgnęli dna jamy, lwy rzuciły się na nich i pogruchotały wszystkie ich kości."
+       ]
+      },
+      {
+       "odnosnik": "Pwt 24,16",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie poniosą śmierci ojcowie za synów ani synowie nie poniosą śmierci za ojców; każdy za swój grzech poniesie śmierć."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kto wydaje ten rozkaz i czyim prawem się kieruje?** Czy tekst gdziekolwiek mówi, że Bóg albo Daniel tego chcieli? Co to znaczy dla czytania Biblii, że zapisuje ona także czyny, których nie pochwala?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie broń tego wersetu i nie łagodź go. To sprawiedliwość perskiego króla, nie Boża. Prawo Mojżesza wprost zakazywało karania dzieci za ojców.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wiara Daniela w dniu próby była dokładnie taka, jaka była w zwykły wtorek. **Co w twoim tygodniu jest na tyle stałe, że w kryzysie nie musiałbyś tego dopiero wymyślać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wrogowie Daniela mogli polegać na tym, że się nie zmieni. **Co ludzie, z którymi pracujesz albo mieszkasz, mogliby z pewnością powiedzieć o tobie i twoim Bogu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest jakieś okno, które po cichu zamknąłeś, bo tak było bezpieczniej?** Nie musisz mówić jakie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 11,33-38",
+       "przeklad": "BW",
+       "akapity": [
+        "którzy przez wiarę podbili królestwa, zaprowadzili sprawiedliwość, otrzymali obietnice, zamknęli paszcze lwom, zgasili moc ognia, uniknęli ostrza miecza, podźwignęli się z niemocy, stali się mężni na wojnie, zmusili do ucieczki obce wojska. Kobiety otrzymały z powrotem swoich zmarłych przez wskrzeszenie; inni zaś zostali zamęczeni na śmierć, nie przyjąwszy uwolnienia, aby dostąpić lepszego zmartwychwstania. Drudzy zaś doznali szyderstw i biczowania, a nadto więzów i więzienia; byli kamienowani, paleni, przerzynani piłą, zabijani mieczem, błąkali się w owczych i kozich skórach, wyzuci ze wszystkiego, uciskani, poniewierani; ci, których świat nie był godny, tułali się po pustyniach i górach, po jaskiniach i rozpadlinach ziemi."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ta sama wiara, to samo zdanie, a w środku słowo „inni\". Jednym lwy zamknęły paszcze, drugich przerzynano piłą. **Dlaczego Bóg jednych wyprowadza z jamy, a innych nie? I co w takim razie obiecuje szósty rozdział Daniela, jeśli nie obiecuje ocalenia?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie produkuj odpowiedzi. Warto, żeby padło jedno spostrzeżenie: List do Hebrajczyków obie grupy nazywa tak samo, ludźmi wiary, i żadnej nie uważa za mniej wysłuchaną.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "W dniu próby nie staniesz się kimś innym, niż byłeś wczoraj przy otwartym oknie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Dn 6,11 albo Dn 6,27b.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Daniel nie musiał w kryzysie niczego postanawiać, bo postanowił dawno. Zapytaj siebie: **gdyby jutro moja wiara zaczęła kosztować, co bym robił dalej bez namysłu, a co musiałbym dopiero zacząć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Okno Daniela wychodziło na ruiny, a on i tak modlił się w tamtą stronę. Pomyśl o sprawie, która w twoim życiu leży w gruzach od lat. Powiedz o niej Bogu jeszcze raz, nawet jeśli mówiłeś już sto razy i nic się nie zmieniło.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** przyznaj przed Bogiem, przed kim i dlaczego chowasz to, w co wierzysz. Nie obiecuj od razu, że przestaniesz. Najpierw nazwij, czego się boisz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„To tak jak u nas teraz\", i pada nazwa ustawy, rządu, partii albo instytucji.** Przerwij spokojnie i od razu. Ten rozdział nie daje narzędzia do oceniania bieżącej polityki, a przy stole siedzą ludzie o różnych poglądach. Powiedz: „Zostańmy przy Danielu. Co on zrobił, a czego nie zrobił?\". Zwróć uwagę, że Daniel nie protestuje, nie organizuje nikogo i nie wypowiada ani słowa przeciw królowi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna wyliczać, kiedy i gdzie wierzący będą prześladowani, z datami i scenariuszami.** Tekst niczego takiego nie zapowiada. Opowiada o jednym człowieku i jednym miesiącu. Wróć do pytania o nawyk: na przyszłość przygotowuje to, co robimy dziś, a nie wiedza o tym, co będzie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja się modliłem i lwy nie zamknęły paszczy.\"** To nie jest zarzut do odparcia, tylko ból. Nie tłumacz i nie pocieszaj wersetem. Możesz powiedzieć, że Biblia zna obie historie i w Liście do Hebrajczyków stawia je w jednym zdaniu, a tych, których nie ocalono, nazywa ludźmi, „których świat nie był godny\". Zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś czuje się oskarżony: „ja nie umiem tak regularnie, to pewnie w ogóle nie mam wiary\".** Daniel ma osiemdziesiąt lat praktyki. Nikt nie zaczyna od trzech razy dziennie na kolanach. Zapytaj raczej, co małego i stałego byłoby dla tej osoby możliwe, i nie dopytuj przy wszystkich.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli trzeba się z wiarą obnosić, niech wszyscy widzą.\"** Daniel niczego nie pokazuje. On tylko nie chowa tego, co robił zawsze. Różnica jest w motywie: czy chcę być widziany, czy po prostu nie chcę się ukrywać. Na poziomie 3 jest o tym zestawienie z Mt 6.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada o realnym konflikcie sumienia w pracy i prosi o werdykt.** Grupa nie wydaje werdyktów. Podziękuj, zapytaj, czy chce modlitwy, i zaproponuj rozmowę po spotkaniu. Nie pozwól, żeby inni zaczęli mówić, co powinien zrobić.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Historycy nie znają żadnego Dariusza Medyjczyka.\"** To prawda, że poza Biblią nie ma pewnego poświadczenia tego imienia. Istnieje kilka propozycji, kim mógł być, i żadna nie jest rozstrzygnięta. Powiedz to uczciwie i nie rób z tego sporu przy stole.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Blok 2 przeczytajcie tylko na głos. Nie skracaj bloku 3, bo na nim stoi całe spotkanie. Z bloku 5 zostaw pytanie o to, gdzie i kiedy przyszedł anioł.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„To tak jak u nas teraz\", i pada nazwa ustawy, rządu, partii albo instytucji.",
+     "odpowiedz": "Przerwij spokojnie i od razu. Ten rozdział nie daje narzędzia do oceniania bieżącej polityki, a przy stole siedzą ludzie o różnych poglądach. Powiedz: „Zostańmy przy Danielu. Co on zrobił, a czego nie zrobił?\". Zwróć uwagę, że Daniel nie protestuje, nie organizuje nikogo i nie wypowiada ani słowa przeciw królowi."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna wyliczać, kiedy i gdzie wierzący będą prześladowani, z datami i scenariuszami.",
+     "odpowiedz": "Tekst niczego takiego nie zapowiada. Opowiada o jednym człowieku i jednym miesiącu. Wróć do pytania o nawyk: na przyszłość przygotowuje to, co robimy dziś, a nie wiedza o tym, co będzie."
+    },
+    {
+     "sytuacja": "„Ja się modliłem i lwy nie zamknęły paszczy.\"",
+     "odpowiedz": "To nie jest zarzut do odparcia, tylko ból. Nie tłumacz i nie pocieszaj wersetem. Możesz powiedzieć, że Biblia zna obie historie i w Liście do Hebrajczyków stawia je w jednym zdaniu, a tych, których nie ocalono, nazywa ludźmi, „których świat nie był godny\". Zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "Ktoś czuje się oskarżony: „ja nie umiem tak regularnie, to pewnie w ogóle nie mam wiary\".",
+     "odpowiedz": "Daniel ma osiemdziesiąt lat praktyki. Nikt nie zaczyna od trzech razy dziennie na kolanach. Zapytaj raczej, co małego i stałego byłoby dla tej osoby możliwe, i nie dopytuj przy wszystkich."
+    },
+    {
+     "sytuacja": "„Czyli trzeba się z wiarą obnosić, niech wszyscy widzą.\"",
+     "odpowiedz": "Daniel niczego nie pokazuje. On tylko nie chowa tego, co robił zawsze. Różnica jest w motywie: czy chcę być widziany, czy po prostu nie chcę się ukrywać. Na poziomie 3 jest o tym zestawienie z Mt 6."
+    },
+    {
+     "sytuacja": "Ktoś opowiada o realnym konflikcie sumienia w pracy i prosi o werdykt.",
+     "odpowiedz": "Grupa nie wydaje werdyktów. Podziękuj, zapytaj, czy chce modlitwy, i zaproponuj rozmowę po spotkaniu. Nie pozwól, żeby inni zaczęli mówić, co powinien zrobić."
+    },
+    {
+     "sytuacja": "„Historycy nie znają żadnego Dariusza Medyjczyka.\"",
+     "odpowiedz": "To prawda, że poza Biblią nie ma pewnego poświadczenia tego imienia. Istnieje kilka propozycji, kim mógł być, i żadna nie jest rozstrzygnięta. Powiedz to uczciwie i nie rób z tego sporu przy stole."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Blok 2 przeczytajcie tylko na głos. Nie skracaj bloku 3, bo na nim stoi całe spotkanie. Z bloku 5 zostaw pytanie o to, gdzie i kiedy przyszedł anioł."
+    }
+   ]
+  }
+ ]
+}

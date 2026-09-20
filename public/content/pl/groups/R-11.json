@@ -1,0 +1,824 @@
+{
+ "tytul": "Sami, ale nie osamotnieni",
+ "id": "R-11",
+ "seria": "Relacje",
+ "opis": "Rodzina, którą tworzy Jezus, i miejsce przy stole dla tych, którzy żyją w pojedynkę.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Ps 68,6-7; Iz 56,3-5; Mk 3,20-21.31-35; Mk 10,28-31; 1Kor 7,7-8.32-35; Dz 2,42-47",
+  "p2": "Łk 2,36-38; J 19,25-27; 1Tm 5,1-2; Rz 16,1-2.13; Mt 19,10-12; 1Kor 7,25-28; Dz 6,1; Dz 9,36-39; Jk 1,27",
+  "p3": "Ps 68,7; Rdz 2,18; 1Kor 7,8"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 30,
+  "p3": 34
+ },
+ "tagi": [
+  "relacje",
+  "Kościół",
+  "rodzina",
+  "samotni",
+  "wdowy",
+  "wspólnota",
+  "gościnność"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg nie obiecał każdemu małżeństwa. Obiecał każdemu dom, a kluczami do tego domu jesteśmy my.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie nie jest o ludziach samotnych. Jest o rodzinie, którą tworzy Jezus, i o tym, kto ma w niej miejsce przy stole. Jezus nie miał żony ani dzieci. Paweł też nie. Jedną z pierwszych osób, które opowiadały w Jerozolimie o narodzonym Mesjaszu, była stara wdowa. Nowy Testament nie traktuje życia w pojedynkę jako poczekalni przed prawdziwym życiem. Traktuje natomiast bardzo poważnie pytanie, czy Kościół jest dla każdego domem, czy tylko miejscem, do którego rodziny przychodzą razem i razem wychodzą.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokrewny materiał: Samotność z serii Emocje. Tamten mówi o uczuciu, ten o miejscu we wspólnocie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole mogą siedzieć osoby, które nigdy nie założyły rodziny, owdowiałe, rozwiedzione, porzucone, a także osoby w małżeństwie, w którym są bardzo same. Nikt z nich nie jest dziś tematem rozmowy ani przypadkiem do omówienia.",
+      "Małżeństwa łatwo przechodzą w ton współczucia albo dobrych rad. Jedno i drugie rani.",
+      "Ktoś może usłyszeć 1Kor 7 jako pochwałę samotności, o którą nie prosił. Paweł mówi o darze, nie o obowiązku cieszenia się."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pytaj nikogo o jego stan cywilny ani o plany. Nie mów „na każdego przyjdzie czas\". Nie dziel grupy na „my w rodzinach\" i „wy samotni\". Wszystkie pytania dotyczą wszystkich.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie stół, przy którym poczułeś się jak u siebie, chociaż nie był to stół twojej rodziny. Powiedz jednym zdaniem, co o tym zdecydowało.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Dom i imię",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 68,6-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Ojcem sierot i sędzią wdów Jest Bóg w swym świętym przybytku. Bóg samotnym daje dom na mieszkanie, Wyprowadza więźniów na wolność, Lecz oporni pozostają w ziemi suchej."
+       ]
+      },
+      {
+       "odnosnik": "Iz 56,3-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Niech więc nie mówi cudzoziemiec, który przystał do Pana: Pan na pewno wykluczy mnie ze swojego ludu, i niech nie mówi trzebieniec: Patrzcie, jestem tylko uschłym drzewem. Bo tak mówi Pan: Trzebieńcom, którzy przestrzegają sabatu i wybierają to, w czym mam upodobanie, i trzymają się mojego przymierza, przyznam w moim domu i w obrębie moich murów miejsce i dam im imię lepsze niż mają synowie i córki, imię wieczne, które nie będzie starte."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Psalm mówi, że Bóg samotnym daje dom. **Czego psalmista nie napisał, choć mógłby?** Zwróćcie uwagę, że nie pada tu ani słowo o mężu, żonie czy dzieciach.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Trzebieniec to mężczyzna, który nie mógł mieć potomstwa. Mówi o sobie: „jestem tylko uschłym drzewem\". **Skąd człowiek bierze takie zdanie o sobie?** Kto mu je podpowiedział?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Bóg obiecuje trzebieńcom miejsce w swoim domu i imię lepsze niż synowie i córki. **Co to mówi o tym, czym Bóg mierzy czyjeś życie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W starożytnym Izraelu imię człowieka trwało w jego dzieciach i w ziemi, którą po nim dziedziczyły. Kto nie miał potomstwa, znikał bez śladu. Dlatego obietnica z Księgi Izajasza była tak zaskakująca. Bóg nie pociesza trzebieńca słowami, że to nic takiego. Daje mu to, czego mu brakowało, tylko z innej ręki: miejsce, którego nikt nie odbierze, i imię, które nie zostanie starte. Tym miejscem jest dom Boga, czyli Jego lud.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Anna",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 2,36-38",
+       "przeklad": "BW",
+       "akapity": [
+        "I była Anna, prorokini, córka Fanuela, z plemienia Aser; ta była bardzo podeszła w latach, a żyła siedem lat z mężem od panieństwa swego. I była wdową do osiemdziesiątego czwartego roku życia, i nie opuszczała świątyni, służąc Bogu w postach i w modlitwach dniem i nocą. I nadszedłszy tejże godziny, wielbiła Boga i mówiła o nim wszystkim, którzy oczekiwali odkupienia Jerozolimy."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Łukasz poświęca Annie trzy zdania i w każdym podaje coś innego. **Co wiemy o jej stracie, co o jej codzienności i co o jej roli?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Siedem lat małżeństwa i kilkadziesiąt lat wdowieństwa. **Jak Łukasz opisuje te dziesięciolecia: jako czekanie na coś czy jako życie?** Po czym to widać?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Słowo przetłumaczone w Ps 68,7 jako „samotni\" pochodzi od hebrajskiego wyrazu `jachid`, czyli „jedyny, pojedynczy\". Nie opisuje ono uczucia, tylko położenie: człowieka, który jest sam jeden, bez oparcia w rodzie. Czasownik, którego używa psalm, znaczy dosłownie „osadza\" albo „daje zamieszkać\". Bóg nie mówi pojedynczemu człowiekowi, żeby sobie poradził. Osadza go w domu.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W tamtym świecie człowiek bez rodu nie miał obrońcy, zaplecza ani głosu. **Kto dziś jest w podobnym położeniu, także wśród ludzi, których znacie?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Kto jest moją rodziną",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 3,20-21.31-35",
+       "przeklad": "BW",
+       "akapity": [
+        "I poszedł do domu. I znowu zgromadził się lud, tak iż nie mogli nawet spożyć chleba. A krewni, gdy o tym usłyszeli, przyszli, aby go pochwycić, mówili bowiem, że odszedł od zmysłów. [...]",
+        "Wtedy przyszli matka i bracia jego, a stojąc przed domem, posłali po niego i kazali go zawołać. A wokół niego siedział lud. I powiedzieli mu: Oto matka twoja i bracia twoi, i siostry twoje są przed domem i poszukują cię. I odpowiadając, rzekł im: Któż jest matką moją i braćmi? I powiódł oczyma po tych, którzy wokół niego siedzieli, i rzekł: Oto matka moja i bracia moi. Ktokolwiek czyni wolę Bożą, ten jest moim bratem i siostrą, i matką."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Marek zaznacza, kto stoi przed domem, a kto siedzi w środku wokół Jezusa. **Co mówi sam ten układ sceny?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nie wyrzeka się matki i braci. **Co w takim razie robi z pojęciem rodziny?** Co jest nowym warunkiem przynależności i kogo ten warunek wpuszcza do środka?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Własna rodzina uznała Jezusa za kogoś, kto odszedł od zmysłów. **Co to znaczy dla człowieka, którego bliscy nie rozumieją jego wiary albo jego życia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus wylicza: brat, siostra, matka. **Kogo na tej liście brakuje i dlaczego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ewangelie nie ukrywają, że rodzina Jezusa długo Mu nie ufała. W świecie, w którym szacunek najbliższych należał do honoru człowieka, nikt by takiej rzeczy nie wymyślił. Jezus wie więc z własnego doświadczenia, jak to jest nie mieć oparcia w domu. Na Jego liście nie ma ojca, bo w tej rodzinie Ojciec jest jeden. Pozostałe miejsca są otwarte dla każdego, kto słucha.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pod krzyżem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 19,25-27",
+       "przeklad": "BW",
+       "akapity": [
+        "A stały pod krzyżem Jezusa matka jego i siostra matki jego, Maria, żona Kleofasa, i Maria Magdalena. A gdy Jezus ujrzał matkę i ucznia, którego miłował, stojącego przy niej, rzekł do matki: Niewiasto, oto syn twój! Potem rzekł do ucznia: Oto matka twoja! I od owej godziny wziął ją ów uczeń do siebie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus w ostatnich minutach życia tworzy rodzinę z dwojga ludzi, których nie łączy krew. **Jak ta scena pokazuje w praktyce to, co powiedział w Mk 3?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Wziął ją ów uczeń do siebie\". **Ile w tym zdaniu jest uczucia, a ile konkretu?** Co oznacza rodzina w wierze, gdy przełożyć ją na adres, klucze i stół?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Stokroć więcej",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 10,28-31",
+       "przeklad": "BW",
+       "akapity": [
+        "I począł Piotr mówić do niego: Oto my opuściliśmy wszystko i poszliśmy za tobą. Jezus odpowiedział: Zaprawdę powiadam wam, nie ma takiego, kto by opuścił dom albo braci, albo siostry, albo matkę, albo ojca, albo dzieci, albo pola dla mnie i dla ewangelii, który by nie otrzymał stokrotnie, teraz, w doczesnym życiu domów i braci, i sióstr, i matek, i dzieci, i pól, choć wśród prześladowań, a w nadchodzącym czasie żywota wiecznego. A wielu pierwszych będzie ostatnimi, a ostatnich pierwszymi."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus obiecuje sto domów, sto matek, stu braci i dodaje: „teraz, w doczesnym życiu\". **W jaki sposób ta obietnica może się spełnić?** Kto musi coś zrobić, żeby się spełniła?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jeśli ktoś ma otrzymać stokroć domów, to ktoś inny musi swój dom otworzyć. **Po której stronie tej obietnicy stoi każdy z nas?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Dlaczego Jezus dopowiada „choć wśród prześladowań\"?** Co to mówi o cenie, jaką pierwsi uczniowie płacili za wiarę we własnych domach?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W czasach Nowego Testamentu nie istniała opieka państwa. O chorego, starego i ubogiego dbała rodzina, a w drugiej kolejności synagoga albo cech. Kto uwierzył w Jezusa, bywał od jednego i drugiego odcięty z dnia na dzień. Dlatego pierwsi chrześcijanie nie mogli poprzestać na nazywaniu się braćmi i siostrami. Musieli nimi być, bo dla wielu z nich innej rodziny już nie było.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jak matki, jak siostry",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Tm 5,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "Starszego mężczyzny nie strofuj, lecz upominaj go jak ojca, młodszych jak braci, starsze kobiety jak matki, młodsze jak siostry, z wszelką powściągliwością."
+       ]
+      },
+      {
+       "odnosnik": "Rz 16,1-2.13",
+       "przeklad": "BW",
+       "akapity": [
+        "A polecam wam Febę, siostrę naszą, która jest diakonisą zboru w Kenchreach, abyście ją przyjęli w Panu, jak przystoi świętym, i wspierali ją w każdej sprawie, jeśliby od was tego potrzebowała, bo i ona była wielu pomocna, również mnie samemu. [...] Pozdrówcie Rufa, wybranego w Panu, i matkę jego, i moją."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nie miał żony ani dzieci. W jednym zdaniu pozdrowień pisze o matce Rufa: „i moją\". **Co te dwa słowa mówią o tym, jak wyglądało jego życie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Feba podróżuje sama z listem przez pół imperium, a Paweł prosi, żeby ją przyjąć i wspierać „w każdej sprawie\". **Jak wyglądałoby takie przyjęcie dzisiaj, gdyby do waszego zboru przyjechał ktoś sam?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Dar, nie poczekalnia",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Kor 7,7-8.32-35",
+       "przeklad": "BW",
+       "akapity": [
+        "A wolałbym, aby wszyscy ludzie byli tacy, jak ja, lecz każdy ma własny dar łaski od Boga, jeden taki, a drugi inny. A mówię tym, którzy nie wstąpili w związki małżeńskie, oraz wdowom: Dobrze zrobią, jeśli pozostaną w tym stanie, w jakim ja jestem. [...]",
+        "Chcę, abyście byli wolni od trosk; kto nie ma żony, troszczy się o sprawy Pańskie, o to, jak by się Panu podobać; a żonaty troszczy się o sprawy tego świata, o to, jak by się podobać żonie, i żyje w rozterce. Także kobieta niezamężna i panna troszczy się o sprawy Pańskie, aby być świętą i ciałem i duchem; mężatka zaś troszczy się o sprawy tego świata, jakby się podobać mężowi. A to mówię dla własnego dobra waszego, nie aby sidła na was zarzucać, lecz abyście postępowali przystojnie i trwali przy Panu ustawicznie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł nazywa darem łaski zarówno małżeństwo, jak i życie bez małżeństwa. **Co się zmienia, kiedy o obu mówi się tym samym słowem?** Jak zwykle mówi się o nich w Kościele?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł nie pisze, że żonaty jest gorszym chrześcijaninem. Pisze, że „żyje w rozterce\". **Co uczciwie widzi w jednym i w drugim sposobie życia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Nie aby sidła na was zarzucać\". **Dlaczego Paweł czuje potrzebę takiego zastrzeżenia?** Jak mogłaby zostać nadużyta jego rada?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Komu jest dane",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 19,10-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Rzekli mu uczniowie: Jeśli tak się przedstawia sprawa męża i żony, nie warto się żenić. A On im powiedział: Nie wszyscy pojmują tę sprawę, tylko ci, którym jest dane. Albowiem są trzebieńcy, którzy się takimi z żywota matki urodzili, są też trzebieńcy, którzy zostali wytrzebieni przez ludzi, są również trzebieńcy, którzy się wytrzebili sami dla Królestwa Niebios. Kto może pojąć, niech pojmuje!"
+       ]
+      },
+      {
+       "odnosnik": "1Kor 7,25-28",
+       "przeklad": "BW",
+       "akapity": [
+        "A co do panien, nakazu Pańskiego nie mam, ale wyrażam zdanie jako ten, który dzięki miłosierdziu Pańskiemu zasługuje na wiarę. Sądzę więc, że w obliczu groźnego położenia dobrze jest człowiekowi pozostać takim, jakim jest. Jesteś związany z żoną? Nie szukaj rozłączenia. Nie jesteś związany z żoną? Nie szukaj żony. A jeśli się ożeniłeś, nie zgrzeszyłeś, a jeśli panna wyszła za mąż, nie zgrzeszyła; wszakże tacy będą mieli doczesne kłopoty, ja zaś chciałbym wam tego oszczędzić."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus wymienia trzy drogi do życia bez małżeństwa: od urodzenia, przez ludzi i z własnego wyboru. **Dlaczego to ważne, że nie wrzuca wszystkich do jednego worka?** Które z tych dróg są wyborem, a które nie?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł zaznacza, że nie ma tu nakazu Pana, tylko własne zdanie, i że pisze „w obliczu groźnego położenia\". **Jak te dwa zastrzeżenia wpływają na to, jak czytać jego radę dzisiaj?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "W judaizmie tamtych czasów małżeństwo było oczywistym ideałem. O mężczyźnie bez żony mówiono, że nie jest w pełni człowiekiem. Na tym tle widać, jak niezwykłe było to, że Jezus nie założył rodziny, a Jego najbardziej znany apostoł żył sam i mówił o tym jako o darze. Po raz pierwszy czyjeś życie mogło być pełne bez małżeństwa i potomstwa, bo jego miarą stało się co innego.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: niedobrze czy dobrze",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 2,18",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem rzekł Pan Bóg: Niedobrze jest człowiekowi, gdy jest sam. Uczynię mu pomoc odpowiednią dla niego."
+       ]
+      },
+      {
+       "odnosnik": "1Kor 7,8",
+       "przeklad": "BW",
+       "akapity": [
+        "A mówię tym, którzy nie wstąpili w związki małżeńskie, oraz wdowom: Dobrze zrobią, jeśli pozostaną w tym stanie, w jakim ja jestem."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pierwsza strona Biblii mówi „niedobrze\", Paweł mówi „dobrze\". Jedni godzą to tak: Księga Rodzaju podaje zasadę, a Paweł wyjątek na trudne czasy, więc małżeństwo pozostaje drogą zwyczajną, a życie w pojedynkę szczególnym powołaniem nielicznych. Drudzy zwracają uwagę, że Bóg w ogrodzie nie mówi o braku żony, tylko o byciu samemu, a Paweł bez żony sam nie był: miał Tymoteusza, Febę, matkę Rufa i zbory w każdym porcie. Według nich lekarstwem na „niedobrze\" jest wspólnota, a małżeństwo to jedna z jej postaci. Obie strony zgadzają się, że człowiek nie został stworzony do życia w izolacji i że żadna z dróg nie jest chrześcijaństwem drugiej kategorii.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które z tych odczytań częściej słychać w Kościele i jakie ma skutki dla ludzi żyjących w pojedynkę?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli Paweł bez żony nie był sam, to znaczy, że ktoś był przy nim. **Co by się stało z radą z 1Kor 7, gdyby wyjąć ją z takiego Kościoła, jaki Paweł znał?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Po domach",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 2,42-47",
+       "przeklad": "BW",
+       "akapity": [
+        "I trwali w nauce apostolskiej i we wspólnocie, w łamaniu chleba i w modlitwach. A dusze wszystkich ogarnięte były bojaźnią, albowiem za sprawą apostołów działo się wiele cudów i znaków. Wszyscy zaś, którzy uwierzyli, byli razem i mieli wszystko wspólne, i sprzedawali posiadłości i mienie, i rozdzielali je wszystkim, jak komu było potrzeba. Codziennie też jednomyślnie uczęszczali do świątyni, a łamiąc chleb po domach, przyjmowali pokarm z weselem i w prostocie serca, chwaląc Boga i ciesząc się przychylnością całego ludu. Pan zaś codziennie pomnażał liczbę tych, którzy mieli być zbawieni."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Łukasz wymienia dwa miejsca spotkań: świątynię i domy. **Co dzieje się w każdym z nich?** Które z tych miejsc jest w naszym życiu kościelnym mocne, a które słabe?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Codziennie\" pada tu dwa razy, a posiłek jest w centrum. **Dla kogo wspólny stół w środku tygodnia znaczy najwięcej?** Pomyślcie o kimś, kto w sobotę po nabożeństwie wraca do pustego mieszkania.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Tekst mówi, że rozdzielali „jak komu było potrzeba\". **Skąd wiedzieli, komu czego potrzeba?** Co trzeba o sobie nawzajem wiedzieć, żeby to było możliwe?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Przeoczone",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 6,1",
+       "przeklad": "BW",
+       "akapity": [
+        "A w owym czasie, gdy liczba uczniów wzrastała, wszczęło się szemranie hellenistów przeciwko Żydom, że zaniedbywano ich wdowy przy codziennym usługiwaniu."
+       ]
+      },
+      {
+       "odnosnik": "Dz 9,36-39",
+       "przeklad": "BW",
+       "akapity": [
+        "A w Joppie była pewna uczennica, imieniem Tabita, co w tłumaczeniu znaczy Dorkas; życie jej wypełnione było dobrymi i miłosiernymi uczynkami, jakich dokonywała. I stało się, że w tym właśnie czasie zaniemogła i umarła; obmyto ją i złożono w sali na piętrze. Ponieważ zaś Lydda leży blisko Joppy, uczniowie, usłyszawszy, że tam przebywa Piotr, wysłali do niego dwóch mężów z prośbą: Nie zwlekaj z przyjściem do nas. Wybrał się tedy Piotr i poszedł z nimi; a gdy przyszedł, zaprowadzili go do sali na piętrze; i obstąpiły go wszystkie wdowy, płacząc i pokazując suknie i płaszcze, które robiła Dorkas, gdy była z nimi."
+       ]
+      },
+      {
+       "odnosnik": "Jk 1,27",
+       "przeklad": "BW",
+       "akapity": [
+        "Czystą i nieskalaną pobożnością przed Bogiem i Ojcem jest to: nieść pomoc sierotom i wdowom w ich niedoli i zachowywać siebie nie splamionym przez świat."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Cztery rozdziały po pięknym opisie z Dz 2 ten sam Kościół kogoś przeocza. **Co to mówi o tym, jak łatwo ludzie bez rodziny znikają z pola widzenia nawet w dobrej wspólnocie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Łukasz nie wspomina o mężu ani dzieciach Tabity. Opisuje ją przez to, co robiła, i przez ludzi, którzy po niej płaczą. **Kto w tej scenie jest czyją rodziną?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wdowy pokazują Piotrowi suknie i płaszcze. **Czy w tej historii samotni są tymi, którym się pomaga, czy tymi, którzy pomagają?** Co się dzieje z człowiekiem, którego wspólnota widzi wyłącznie w pierwszej roli?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus powiódł oczyma po siedzących wokół i powiedział: „Oto matka moja i bracia moi\". **Gdybyś powiódł oczyma po swoim zborze, o kim mógłbyś szczerze powiedzieć, że jest dla ciebie rodziną?** Kto mógłby tak powiedzieć o tobie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Obietnica stu domów spełnia się przez otwarte drzwi. **Co konkretnie sprawia, że twoje drzwi i twój kalendarz są otwarte albo zamknięte dla ludzi spoza twojego najbliższego kręgu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **w którym momencie tygodnia albo roku najbardziej brakuje ci ludzi?** Nie musisz mówić dlaczego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus obiecał stokroć więcej domów, braci, sióstr i matek już teraz. **Co powiedzieć komuś, kto jest w Kościele od lat i tej obietnicy nie doświadczył? Czy to jego wina, wina wspólnoty, czy źle rozumiemy obietnicę?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie broń Kościoła i nie szukaj winnych. Jeśli ktoś mówi o sobie, najpierw wysłuchaj. Warto, żeby padło spostrzeżenie, że Jezus złożył tę obietnicę ludziom, którzy mieli ją spełniać jedni drugim.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg nie obiecał każdemu małżeństwa. Obiecał każdemu dom, a kluczami do tego domu jesteśmy my.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Ps 68,7a albo Mk 3,35.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Trzebieniec mówił o sobie: „jestem tylko uschłym drzewem\". Zapytaj siebie: **jakie zdanie o sobie powtarzam w duchu, a którego Bóg o mnie nie powiedział?** Nazwij je, zanim zaczniesz z nim dyskutować.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o swoim stole i o swoich świętach. **Kto przy nich nigdy nie siedział tylko dlatego, że nie przyszło mi to do głowy?** Zostań przy pierwszej twarzy, która się pojawi, i zapytaj Boga, co z tym zrobić.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli to ty jesteś sam, przyznaj przed Bogiem, czego oczekujesz od ludzi, a o co nigdy nikogo nie poprosiłeś. Jeśli masz pełny dom, przyznaj, komu po cichu zazdrościsz wolności albo kogo po cichu unikasz, bo jego samotność cię krępuje.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś z dobrego serca mówi do osoby samotnej: „Bóg ma dla ciebie kogoś, zobaczysz\".** Przerwij łagodnie, bo tego żaden z dzisiejszych tekstów nie obiecuje. Możesz powiedzieć: „Psalm mówi o domu, Izajasz o imieniu, Jezus o braciach i siostrach. Zostańmy przy tym, co jest obiecane\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa zamienia się w swatanie, żarty o ślubach albo porady, gdzie kogoś poznać.** Wróć do tekstu od razu. Najprostsze pytanie: „Co Jezus zrobił pod krzyżem dla swojej matki i dla Jana?\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi z goryczą: „Kościół jest dla rodzin, ja tu jestem dodatkiem\".** Nie zaprzeczaj i nie tłumacz zboru. Podziękuj za szczerość. Dz 6,1 pokazuje, że pierwszy Kościół też kogoś przeoczył i potraktował skargę poważnie. Zapytaj, co by pomogło, i zapamiętaj odpowiedź.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Osoba owdowiała albo po rozwodzie zaczyna płakać.** Daj czas, nie zagaduj ciszy. Nie pozwól grupie pocieszać frazesami. Wystarczy powiedzieć: „Dziękujemy, że jesteś z nami\". Po spotkaniu podejdź.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Paweł mówi, że lepiej się nie żenić, więc małżeństwo to niższa droga.\"** Tego tekst nie mówi. Paweł obie drogi nazywa darem łaski, zaznacza, że nie ma nakazu Pana, i pisze, że kto się żeni, nie grzeszy. Jeśli prowadzisz poziom 2, przeczytajcie 1Kor 7,25-28.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś w małżeństwie mówi: „Ja też jestem samotny, nikt o tym nie mówi\".** To ważny głos i nie trzeba go porównywać z innymi. Rodzina, o której mówi Jezus, jest także dla tych, którzy mają dom pełny, a serce puste. Nie dopytuj o szczegóły małżeństwa przy grupie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu o własne drzwi i kalendarz.** To dobrze. Policz w myślach do dziesięciu i nie łagodź pytania.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 4. Bloki 2, 3 i 5 niosą spotkanie: kto jest rodziną, obietnica stu domów i stół po domach.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś z dobrego serca mówi do osoby samotnej: „Bóg ma dla ciebie kogoś, zobaczysz\".",
+     "odpowiedz": "Przerwij łagodnie, bo tego żaden z dzisiejszych tekstów nie obiecuje. Możesz powiedzieć: „Psalm mówi o domu, Izajasz o imieniu, Jezus o braciach i siostrach. Zostańmy przy tym, co jest obiecane\"."
+    },
+    {
+     "sytuacja": "Rozmowa zamienia się w swatanie, żarty o ślubach albo porady, gdzie kogoś poznać.",
+     "odpowiedz": "Wróć do tekstu od razu. Najprostsze pytanie: „Co Jezus zrobił pod krzyżem dla swojej matki i dla Jana?\""
+    },
+    {
+     "sytuacja": "Ktoś mówi z goryczą: „Kościół jest dla rodzin, ja tu jestem dodatkiem\".",
+     "odpowiedz": "Nie zaprzeczaj i nie tłumacz zboru. Podziękuj za szczerość. Dz 6,1 pokazuje, że pierwszy Kościół też kogoś przeoczył i potraktował skargę poważnie. Zapytaj, co by pomogło, i zapamiętaj odpowiedź."
+    },
+    {
+     "sytuacja": "Osoba owdowiała albo po rozwodzie zaczyna płakać.",
+     "odpowiedz": "Daj czas, nie zagaduj ciszy. Nie pozwól grupie pocieszać frazesami. Wystarczy powiedzieć: „Dziękujemy, że jesteś z nami\". Po spotkaniu podejdź."
+    },
+    {
+     "sytuacja": "„Paweł mówi, że lepiej się nie żenić, więc małżeństwo to niższa droga.\"",
+     "odpowiedz": "Tego tekst nie mówi. Paweł obie drogi nazywa darem łaski, zaznacza, że nie ma nakazu Pana, i pisze, że kto się żeni, nie grzeszy. Jeśli prowadzisz poziom 2, przeczytajcie 1Kor 7,25-28."
+    },
+    {
+     "sytuacja": "Ktoś w małżeństwie mówi: „Ja też jestem samotny, nikt o tym nie mówi\".",
+     "odpowiedz": "To ważny głos i nie trzeba go porównywać z innymi. Rodzina, o której mówi Jezus, jest także dla tych, którzy mają dom pełny, a serce puste. Nie dopytuj o szczegóły małżeństwa przy grupie."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu o własne drzwi i kalendarz.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu i nie łagodź pytania."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 4. Bloki 2, 3 i 5 niosą spotkanie: kto jest rodziną, obietnica stu domów i stół po domach."
+    }
+   ]
+  }
+ ]
+}

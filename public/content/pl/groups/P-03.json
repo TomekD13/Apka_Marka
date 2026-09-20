@@ -1,0 +1,901 @@
+{
+ "tytul": "Skąd zło, skoro Bóg jest dobry?",
+ "id": "P-03",
+ "seria": "Pytania, które ludzie zadają",
+ "opis": "Skąd w dobrym świecie dobrego Boga wzięło się zło. Opowieść, która ma sprawcę i koniec.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Rdz 2,16-17; 3,1-6; Rdz 3,7-13; Mt 13,24-30; Ap 12,7-12; 1J 4,8-10; Ap 21,3-5",
+  "p2": "Pwt 30,19-20; Rdz 3,15; Mt 13,36-39; Ez 28,12-17; J 12,31-32; 1J 3,8; Hbr 2,14-15",
+  "p3": "Rdz 3,1-5; Iz 45,5-7; Jk 1,13-15; Iz 14,12-14; 2P 3,9"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 31,
+  "p3": 37
+ },
+ "tagi": [
+  "zło",
+  "wolność",
+  "obraz Boga",
+  "szatan",
+  "nadzieja",
+  "miłość"
+ ],
+ "wersja": 1,
+ "zdanie": "Zło zaczęło się od kłamstwa o tym, jaki jest Bóg, i skończy się, gdy wszyscy zobaczą, jaki jest naprawdę.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie pyta o całą opowieść: skąd w dobrym świecie dobrego Boga wzięło się zło. Biblia nie odpowiada wykładem, tylko historią. W tej historii zło nie pochodzi od Boga, ma sprawcę, zaczyna się od kłamstwa o tym, jaki Bóg jest, i ma wyznaczony koniec. Bóg nie usuwa go siłą w jednej chwili, bo stawką jest miłość, a miłości nie da się wymusić. Adwentyści nazywają tę opowieść wielkim bojem, czyli sporem między Chrystusem a szatanem o charakter Boga. Przy stole nie musisz używać tej nazwy. Wystarczą teksty. Przy człowieku, który cierpi, zostaje osobne spotkanie: „Dlaczego cierpienie?\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "„Bóg dał ludziom wolność\" brzmi rozsądnie w fotelu i okrutnie w szpitalu. Jeśli ktoś przy stole właśnie cierpi, to spotkanie nie jest odpowiedzią na jego ból i nie udawaj, że jest.",
+      "Rozmowa o szatanie łatwo zsuwa się w sensację albo w żarty. Biblia mówi o nim mało i rzeczowo. Trzymaj się tej miary.",
+      "Rdz 3 bywa używane przeciwko kobietom. Tekst na to nie pozwala: Adam „był z nią\", a Bóg pyta najpierw jego.",
+      "Ktoś spoza kościoła może uważać opowieść o ogrodzie za mit. Nie musisz tego rozstrzygać, żeby rozmawiać o tym, co tekst mówi o Bogu i o nas."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie broń Boga szybciej niż Biblia. Nie tłumacz konkretnych nieszczęść działaniem szatana albo czyimś wyborem. Tego nie wiesz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Kiedy pierwszy raz w życiu pomyślałeś, że ze światem jest coś nie tak? Ile miałeś lat? Wystarczy jedno zdanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj odpowiedzi innych.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Pytanie węża",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 2,16-17",
+       "przeklad": "BW",
+       "akapity": [
+        "I dał Pan Bóg człowiekowi taki rozkaz: Z każdego drzewa tego ogrodu możesz jeść, ale z drzewa poznania dobra i zła nie wolno ci jeść, bo gdy tylko zjesz z niego, na pewno umrzesz."
+       ]
+      },
+      {
+       "odnosnik": "Rdz 3,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "A wąż był chytrzejszy niż wszystkie dzikie zwierzęta, które uczynił Pan Bóg. I rzekł do kobiety: Czy rzeczywiście Bóg powiedział: Nie ze wszystkich drzew ogrodu wolno wam jeść? A kobieta odpowiedziała wężowi: Możemy jeść owoce z drzew ogrodu, tylko o owocu drzewa, które jest w środku ogrodu, rzekł Bóg: Nie wolno wam z niego jeść ani się go dotykać, abyście nie umarli. Na to rzekł wąż do kobiety: Na pewno nie umrzecie, lecz Bóg wie, że gdy tylko zjecie z niego, otworzą się wam oczy i będziecie jak Bóg, znający dobro i zło. A gdy kobieta zobaczyła, że drzewo to ma owoce dobre do jedzenia i że były miłe dla oczu, i godne pożądania dla zdobycia mądrości, zerwała z niego owoc i jadła. Dała też mężowi swemu, który był z nią, i on też jadł."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Porównajcie słowa Boga z Rdz 2,16 z pierwszym pytaniem węża. **Co wąż zrobił z Bożym „z każdego drzewa możesz jeść\"? Jaki obraz Boga powstaje z jego pytania?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wąż ani razu nie mówi „zjedz\". **Co w takim razie atakuje: zakaz czy Tego, kto go dał? Co według węża Bóg ukrywa przed ludźmi i dlaczego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W ogrodzie było jedno drzewo, z którego nie wolno było jeść. **Po co w ogóle tam stało? Czym byłoby posłuszeństwo w świecie, w którym nie da się powiedzieć „nie\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Gdzie dziś słyszysz to samo podejrzenie: że Bóg czegoś ci żałuje, że Jego „nie\" jest przeciwko tobie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Zło w Biblii nie zaczyna się od przemocy ani od pożądania. Zaczyna się od zdania o Bogu: On nie życzy ci dobrze. Wąż nie zaprzecza, że Bóg istnieje. Podważa Jego charakter. Hojność, która dała wszystkie drzewa poza jednym, przedstawia jako ciasnotę. Jeśli to kłamstwo jest korzeniem zła, to odpowiedzią na zło nie może być pokaz siły. Siła niczego o charakterze nie dowodzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Wybierz",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 30,19-20",
+       "przeklad": "BW",
+       "akapity": [
+        "Biorę dziś przeciwko wam na świadków niebo i ziemię. Położyłem dziś przed tobą życie i śmierć, błogosławieństwo i przekleństwo. Wybierz przeto życie, abyś żył, ty i twoje potomstwo, miłując Pana, Boga twego, słuchając jego głosu i lgnąc do niego, gdyż w tym jest twoje życie i przedłużenie twoich dni, abyś mieszkał na ziemi, którą Pan przysiągł dać twoim ojcom, Abrahamowi, Izaakowi i Jakubowi."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg kładzie przed ludźmi dwie drogi i mówi, którą sam by wybrał. **Czego mimo to nie robi? Co to mówi o tym, jak Bóg rozumie miłość?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy da się nakazać komuś, żeby „lgnął\"? Jaką cenę płaci ten, kto chce być kochany, a nie tylko słuchany?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W całym opowiadaniu o ogrodzie narrator nazywa Stwórcę „Pan Bóg\". To połączenie imienia własnego, które w Biblii oznacza Boga przymierza i bliskości, z ogólnym słowem „Bóg\". W tekście hebrajskim jest jeden wyjątek, czyli rozmowa z wężem. Wąż mówi tylko „Bóg\" i kobieta, odpowiadając mu, robi to samo. Widać to także w Biblii Warszawskiej, wystarczy porównać początek wersetu 1 ze słowami węża i z wersetami 3 i 5. W wersecie 11 przekład dopowiada słowo „Bóg\" tam, gdzie oryginał ma samo „rzekł\". Zanim ktokolwiek zerwie owoc, z rozmowy znika imię, które oznaczało więź. Ktoś bliski staje się pojęciem, a o pojęciu łatwiej pomyśleć źle.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Gdzie jesteś?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 3,7-13",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy otworzyły się oczy im obojgu i poznali, że są nadzy. Spletli więc liście figowe i zrobili sobie przepaski. A gdy usłyszeli szelest Pana Boga przechadzającego się po ogrodzie w powiewie dziennym, skrył się Adam z żoną swoją przed Panem Bogiem wśród drzew ogrodu. Lecz Pan Bóg zawołał na Adama i rzekł do niego: Gdzie jesteś? A on odpowiedział: Usłyszałem szelest twój w ogrodzie i zląkłem się, gdyż jestem nagi, dlatego skryłem się. Wtedy rzekł Bóg: Kto ci powiedział, że jesteś nagi? Czy jadłeś z drzewa, z którego zakazałem ci jeść? Na to rzekł Adam: Kobieta, którą mi dałeś, aby była ze mną, dała mi z tego drzewa i jadłem. Wtedy rzekł Pan Bóg do kobiety: Dlaczego to uczyniłaś? I odpowiedziała kobieta: Wąż mnie zwiódł i jadłam."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wypiszcie po kolei, co się zmieniło po zjedzeniu owocu: w stosunku do siebie samych, do Boga i do siebie nawzajem. **Które z tych pęknięć rozpoznajecie w dzisiejszym świecie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Pierwszym uczuciem człowieka wobec Boga po upadku jest strach. **Czy Bóg w tej scenie zrobił coś, czego należało się bać? Skąd w takim razie ten strach?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Adam w jednym zdaniu obwinia kobietę i Boga: „którą mi dałeś\". **Jak daleko od tego zdania do pytania „skąd zło, skoro Bóg jest dobry\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Bóg nie wchodzi do ogrodu z wyrokiem. Tekst mówi, że zawołał, a pierwsze, co mówi, jest pytaniem. „Gdzie jesteś\" nie jest pytaniem śledczego, który nie zna odpowiedzi. To wołanie kogoś, kto chce odzyskać rozmowę. W scenie, w której zło wchodzi na świat, tym, kto szuka, jest Bóg, a tym, kto się chowa, człowiek. Warto to zapamiętać przed lekturą kolejnych tekstów.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Obietnica",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 3,15",
+       "przeklad": "BW",
+       "akapity": [
+        "I ustanowię nieprzyjaźń między tobą a kobietą, między twoim potomstwem a jej potomstwem; ono zdepcze ci głowę, a ty ukąsisz je w piętę."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg mówi to do węża, zanim jeszcze powie cokolwiek ludziom o skutkach ich czynu. **Co to zdanie zapowiada? Kto w tej walce zostaje zraniony, a kto pokonany?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Głowa i pięta to nie są równe rany. **Co to mówi o tym, czy dobro i zło są w Biblii równorzędnymi siłami?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Nieprzyjaciel to uczynił",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 13,24-30",
+       "przeklad": "BW",
+       "akapity": [
+        "Inne podobieństwo podał im, mówiąc: Podobne jest Królestwo Niebios do człowieka, który posiał dobre nasienie na swojej roli. A kiedy ludzie spali, przyszedł jego nieprzyjaciel i nasiał kąkolu między pszenicę, i odszedł. A gdy zboże podrosło i wydało owoc, wtedy się pokazał i kąkol. Przyszli więc słudzy gospodarza i powiedzieli mu: Panie, czy nie posiałeś dobrego nasienia na swojej roli? Skąd więc ma ona kąkol? A on im rzekł: To nieprzyjaciel uczynił. A słudzy mówią do niego: Czy chcesz więc, abyśmy poszli i wybrali go? A on odpowiada: Nie! Abyście czasem wybierając kąkol, nie powyrywali wraz z nim i pszenicy. Pozwólcie obydwom róść razem aż do żniwa. A w czasie żniwa powiem żeńcom: Zbierzcie najpierw kąkol i powiążcie go w snopki na spalenie, a pszenicę zwieźcie do mojej stodoły."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Pytanie sług jest naszym pytaniem: posiałeś dobre, skąd więc zło? **Jak brzmi odpowiedź gospodarza? Co ta odpowiedź wyklucza?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Słudzy chcą wyrwać kąkol natychmiast. **Jaki powód podaje gospodarz, żeby tego nie robić? O kogo się troszczy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Gospodarz nie tłumaczy, jak nieprzyjaciel dostał się na pole ani dlaczego nikt go nie zatrzymał. **Czego w tej przypowieści dowiadujemy się na pewno, a co zostaje bez wyjaśnienia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Czy zdarzyło ci się chcieć, żeby Bóg „wyrwał kąkol\" od razu? Co by się stało z tobą samym, gdyby to zrobił dziś o północy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Odpowiedź gospodarza ma w przekładzie trzy słowa i jest jedną z najkrótszych odpowiedzi Biblii na pytanie o pochodzenie zła. Mówi dwie rzeczy: nie ja to posiałem i jest ktoś, kto to zrobił. Zwłoka gospodarza nie jest obojętnością. Wynika z troski o pszenicę. Przypowieść nie obiecuje też, że tak będzie zawsze. Żniwo jest wyznaczone.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kąkol z tej przypowieści to najpewniej życica roczna, trawa, której pędy do złudzenia przypominają młodą pszenicę. Różnicę widać dopiero przy dojrzewaniu: ziarno życicy ciemnieje, pszenicy złoci się. Jej ziarno bywa trujące, więc zasianie jej na cudzym polu było znanym sposobem zemsty, na który istniały przepisy prawa. Słuchacze Jezusa rozumieli od razu, że nie chodzi o zwykłe chwasty, tylko o sabotaż. Rozumieli też, że korzenie obu roślin splatają się pod ziemią i nie da się wyrwać jednej bez drugiej.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 13,36-39",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy rozpuścił lud i poszedł do domu. I przystąpili do niego uczniowie jego, mówiąc: Wyłóż nam podobieństwo o kąkolu na roli. A On odpowiadając, rzekł: Ten, który sieje dobre nasienie, to Syn Człowieczy. Rola zaś, to świat, a dobre nasienie, to synowie Królestwa, kąkol zaś, to synowie Złego. A nieprzyjaciel, który go posiał, to diabeł, a żniwo, to koniec świata, żeńcy zaś, to aniołowie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus sam wyjaśnia przypowieść i nazywa nieprzyjaciela. **Czy mówi o nim jak o sile, zasadzie czy osobie? Dlaczego to rozróżnienie ma znaczenie dla pytania, skąd zło?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Rolą jest świat, a żeńcami są aniołowie, nie słudzy. **Co to mówi o naszych próbach ustalania, kto jest pszenicą, a kto kąkolem?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Walka w niebie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 12,7-12",
+       "przeklad": "BW",
+       "akapity": [
+        "I wybuchła walka w niebie: Michał i aniołowie jego stoczyli bój ze smokiem. I walczył smok i aniołowie jego, lecz nie przemógł i nie było już dla nich miejsca w niebie. I zrzucony został ogromny smok, wąż starodawny, zwany diabłem i szatanem, który zwodzi cały świat; zrzucony został na ziemię, zrzuceni też zostali z nim jego aniołowie. I usłyszałem donośny głos w niebie, mówiący: Teraz nastało zbawienie i moc, i panowanie Boga naszego, i władztwo Pomazańca jego, gdyż zrzucony został oskarżyciel braci naszych, który dniem i nocą oskarżał ich przed naszym Bogiem. A oni zwyciężyli go przez krew Baranka i przez słowo świadectwa swojego, i nie umiłowali życia swojego tak, by raczej je obrać niż śmierć. Dlatego weselcie się, niebiosa, i wy, którzy w nich mieszkacie. Lecz biada ziemi i morzu, gdyż zstąpił do was diabeł pałający wielkim gniewem, bo wie, iż czasu ma niewiele."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jan nadaje smokowi kilka imion i opisuje, czym się zajmuje. **Wypiszcie je. Jaką bronią walczy ten przeciwnik? Porównajcie to z rozmową w ogrodzie.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Czym według wersetu 11 został pokonany?** Dlaczego nie czytamy tu o większej sile, tylko o krwi Baranka i słowie świadectwa?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Tekst kończy się dwiema wiadomościami naraz: „weselcie się\" i „biada ziemi\". **Jak żyć między jedną a drugą? Co znaczą słowa „czasu ma niewiele\"?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Skąd wziął się nieprzyjaciel",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Prorok Ezechiel zwraca się do króla Tyru, ale jego słowa szybko wychodzą poza to, co da się powiedzieć o jakimkolwiek ludzkim władcy.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ez 28,12-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Synu człowieczy, zanuć pieśń żałobną nad królem Tyru i powiedz mu: Tak mówi Wszechmocny Pan: Ty, który byłeś odbiciem doskonałości, pełnym mądrości i skończonego piękna, Byłeś w Edenie, ogrodzie Bożym; okryciem twoim były wszelakie drogie kamienie: karneol, topaz i jaspis, chryzolit, beryl i onyks, szafir, rubin i szmaragd; ze złota zrobione były twoje bębenki, a twoje ozdoby zrobiono w dniu, gdy zostałeś stworzony. Obok cheruba, który bronił wstępu, postawiłem cię; byłeś na świętej górze Bożej, przechadzałeś się pośród kamieni ognistych. Nienagannym byłeś w postępowaniu swoim od dnia, gdy zostałeś stworzony, aż dotąd, gdy odkryto u ciebie niegodziwość. Przy rozległym swoim handlu napełniłeś swoje wnętrze gwałtem i zgrzeszyłeś. Wtedy to wypędziłem cię z góry Bożej, a cherub, który bronił wstępu, wygubił cię spośród kamieni ognistych. Twoje serce było wyniosłe z powodu twojej piękności. Zniweczyłeś swoją mądrość skutkiem swojej świetności. Zrzuciłem cię na ziemię; postawiłem cię przed królami, aby się z ciebie naigrawali."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dwa razy pada słowo „stworzony\". **Jaki był ten, o kim mowa, w dniu stworzenia? Czy tekst mówi, że Bóg stworzył go złym?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Tekst mówi „aż dotąd, gdy odkryto u ciebie niegodziwość\", i nie wyjaśnia, skąd się wzięła. Wskazuje tylko kierunek: serce wyniosłe z powodu własnego piękna. **Czy zło w ogóle da się wyjaśnić? Co by znaczyło, gdyby miało dobry powód?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Skoro zło zaczęło się w stworzeniu, a nie w Stwórcy, to nie jest wieczne. Miało początek. **Co z tego wynika dla jego końca?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Teraz",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 12,31-32",
+       "przeklad": "BW",
+       "akapity": [
+        "Teraz odbywa się sąd nad tym światem; teraz władca tego świata będzie wyrzucony. A gdy Ja będę wywyższony ponad ziemię, wszystkich do siebie pociągnę."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi to kilka dni przed krzyżem i słowem „wywyższony\" nazywa swoją śmierć. **Dlaczego właśnie krzyż ma być chwilą, w której „władca tego świata\" przegrywa? Co krzyż pokazuje o Bogu, czego wąż w ogrodzie zaprzeczał?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Jaki jest Bóg i jak to się skończy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1J 4,8-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Kto nie miłuje, nie zna Boga, gdyż Bóg jest miłością. W tym objawiła się miłość Boga do nas, iż Syna swego jednorodzonego posłał Bóg na świat, abyśmy przezeń żyli. Na tym polega miłość, że nie myśmy umiłowali Boga, lecz że On nas umiłował i posłał Syna swego jako ubłaganie za grzechy nasze."
+       ]
+      },
+      {
+       "odnosnik": "Ap 21,3-5",
+       "przeklad": "BW",
+       "akapity": [
+        "I usłyszałem donośny głos z tronu mówiący: Oto przybytek Boga między ludźmi! I będzie mieszkał z nimi, a oni będą ludem jego, a sam Bóg będzie z nimi. I otrze wszelką łzę z oczu ich, i śmierci już nie będzie; ani smutku, ani krzyku, ani mozołu już nie będzie; albowiem pierwsze rzeczy przeminęły. I rzekł Ten, który siedział na tronie: Oto wszystko nowym czynię. I mówi: Napisz to, gdyż słowa te są pewne i prawdziwe."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jan nie pisze, że Bóg kocha, tylko że jest miłością. Wąż twierdził, że Bóg zatrzymuje dobro dla siebie. **Co według Jana Bóg zrobił? Jak to odpowiada na zarzut z ogrodu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W ogrodzie człowiek chował się przed Bogiem. Na końcu Bóg mieszka z ludźmi i sam ociera łzy. **Co musiało się wydarzyć pomiędzy, żeby strach z Rdz 3 zamienił się w taką bliskość?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Po to przyszedł",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1J 3,8",
+       "przeklad": "BW",
+       "akapity": [
+        "Kto popełnia grzech, z diabła jest, gdyż diabeł od początku grzeszy. A Syn Boży na to się objawił, aby zniweczyć dzieła diabelskie."
+       ]
+      },
+      {
+       "odnosnik": "Hbr 2,14-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Skoro zaś dzieci mają udział we krwi i w ciele, więc i On również miał w nich udział, aby przez śmierć zniszczyć tego, który miał władzę nad śmiercią, to jest diabła, i aby wyzwolić wszystkich tych, którzy z powodu lęku przed śmiercią przez całe życie byli w niewoli."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Oba teksty podają cel przyjścia Jezusa. **Jaki? Jakimi środkami go osiąga według Listu do Hebrajczyków?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg nie pokonuje zła z daleka. Wchodzi w „krew i ciało\" i sam umiera. **Co to mówi o pytaniu, czy Bogu jest obojętne, że cierpimy?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wąż nie namawiał do zła. Podsuwał podejrzenie wobec Boga. **W jakich sytuacjach to podejrzenie odzywa się w tobie najmocniej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czego z dzisiejszych tekstów dowiedzieliśmy się na pewno, a co zostało bez odpowiedzi?** Z czym z tej drugiej listy jest ci najtrudniej?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest w twojej historii takie zło, przy którym odpowiedź „nieprzyjaciel to uczynił\" coś zmienia?** A może takie, przy którym ci nie wystarcza?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: „Ja stwarzam ciemność\"",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 45,5-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Ja jestem Pan i nie ma innego, oprócz mnie nie ma Boga. Ja ci przypinam pas, chociaż mnie nie znasz, aby poznali od wschodu słońca i od zachodu, że nie ma nikogo oprócz mnie. Ja jestem Pan i nie ma innego. Ja tworzę światłość i stwarzam ciemność, Ja przygotowuję zarówno zbawienie, jak i nieszczęście, Ja, Pan, czynię to wszystko."
+       ]
+      },
+      {
+       "odnosnik": "Jk 1,13-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Niechaj nikt, gdy wystawiony jest na pokusę, nie mówi: Przez Boga jestem kuszony; Bóg bowiem nie jest podatny na pokusy ani sam nikogo nie kusi. Lecz każdy bywa kuszony przez własne pożądliwości, które go pociągają i nęcą; potem, gdy pożądliwość pocznie, rodzi grzech, a gdy grzech dojrzeje, rodzi śmierć."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Słowa z Izajasza skierowane są do Cyrusa, perskiego króla, wychowanego w świecie, w którym władzę nad losem dzielono między wiele bóstw, przychylnych i wrogich. Bóg mówi mu, że nie ma drugiego boga, z którym dzieliłby władzę. Hebrajskie słowo oddane tu jako „nieszczęście\" bywa w starszych przekładach tłumaczone jako „zło\". Ma szeroki zakres: oznacza zarówno zło moralne, jak i klęskę albo sąd. Tu stoi naprzeciw słowa „pokój, pomyślność\", więc chodzi o klęskę, a nie o grzech.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak pogodzić Izajasza z Jakubem i z przypowieścią o kąkolu?** Co Izajasz chce wykluczyć, a co chce wykluczyć Jakub?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Biblia odrzuca dwa proste rozwiązania naraz. Pierwsze: jest dwóch równych bogów, dobry i zły. Drugie: jest jeden Bóg i wszystko, także zło, pochodzi wprost od Niego. **Dlaczego każde z nich byłoby łatwiejsze? Co tracimy, wybierając którekolwiek?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: o kim mówią prorocy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 14,12-14",
+       "przeklad": "BW",
+       "akapity": [
+        "O, jakże spadłeś z nieba, ty, gwiazdo jasna, synu jutrzenki! Powalony jesteś na ziemię, pogromco narodów! A przecież to ty mawiałeś w swoim sercu: Wstąpię na niebiosa, swój tron wyniosę ponad gwiazdy Boże i zasiądę na górze narad, na najdalszej północy. Wstąpię na szczyty obłoków, zrównam się z Najwyższym."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Izajasz mówi do króla Babilonu, Ezechiel do króla Tyru. Część czytelników Biblii poprzestaje na tym i widzi w obu tekstach poetycki opis upadku pysznych władców. Inni, w tym tradycja adwentystyczna i wielu wcześniejszych wykładowców, czytają je na dwóch piętrach: prorok patrzy na króla i widzi przez niego tego, kto za nim stoi, bo o żadnym człowieku nie da się powiedzieć, że był w Edenie i że był nienaganny od dnia stworzenia. Oba odczytania łączy jedno: pycha, która chce zająć miejsce Boga, jest w Biblii korzeniem zła, czy mowa o królu, czy o aniele.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które odczytanie wydaje ci się bliższe tekstowi i dlaczego?** Co zmienia się w odpowiedzi na pytanie „skąd zło\", jeśli przyjąć tylko pierwsze?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q35",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Zrównam się z Najwyższym\" i „będziecie jak Bóg\". **Co łączy te dwa zdania? Jak wygląda ta sama pokusa w zwyczajnym życiu?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q36",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg wiedział, co się stanie, a mimo to stworzył istoty zdolne Go odrzucić. **Czy świat bez możliwości zła byłby światem, w którym możliwa jest miłość? A jeśli nie, czy miłość jest warta tej ceny? Kto ma prawo odpowiedzieć na to pytanie: ten, kto patrzy z boku, czy ten, kto cierpi?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2P 3,9",
+       "przeklad": "BW",
+       "akapity": [
+        "Pan nie zwleka z dotrzymaniem obietnicy, chociaż niektórzy uważają, że zwleka, lecz okazuje cierpliwość względem was, bo nie chce, aby ktokolwiek zginął, lecz chce, aby wszyscy przyszli do upamiętania."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q37",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr nazywa zwłokę cierpliwością. Gospodarz z przypowieści nazywa ją troską o pszenicę. Tymczasem każdy dzień zwłoki to także kolejne cierpienie. **Jak długo cierpliwość wobec jednych pozostaje dobrocią wobec drugich?** Czy tekst daje na to odpowiedź, czy tylko prosi o zaufanie?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie rozstrzygaj. Warto natomiast, żeby padło jedno: Biblia nie odpowiada na te pytania teorią, tylko osobą. Bóg, o którego pytamy, sam wszedł w świat kąkolu i sam w nim umarł.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Zło zaczęło się od kłamstwa o tym, jaki jest Bóg, i skończy się, gdy wszyscy zobaczą, jaki jest naprawdę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Mt 13,28a albo 1J 4,8.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kiedy w tym tygodniu przyjdzie ci do głowy myśl w rodzaju „Bóg mi czegoś żałuje\" albo „Bogu jest wszystko jedno\", zatrzymaj się i zapytaj siebie: **czyim głosem mówi to zdanie?** Tym z Rdz 2,16 czy tym z Rdz 3,1?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o jednym złu, które cię dotknęło, i o tym, komu je dotąd przypisywałeś: sobie, ludziom, losowi, Bogu. Powiedz to Bogu wprost. Potem przeczytaj Mu na głos słowa gospodarza i zostań przy tym, co w tobie wywołują, także jeśli to jest sprzeciw.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** przypomnij sobie sytuację, w której chowasz się przed Bogiem tak jak Adam wśród drzew. Usłysz pytanie „gdzie jesteś\" jako wołanie, a nie jako przesłuchanie, i odpowiedz na nie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś przy stole jest w świeżym cierpieniu i słucha rozmowy o wolności jak wykładu nad własnym grobem.** Przerwij tok i powiedz to na głos: „Rozmawiamy dziś o wielkiej opowieści. Ona nie jest odpowiedzią na czyjś konkretny ból i nie ma nią być\". Nie pozwól, żeby ktokolwiek zastosował dzisiejsze teksty do jego sytuacji. Zostań z tą osobą po spotkaniu. Grupa towarzyszy, nie leczy i nie wyjaśnia.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To wszystko przez Ewę.\"** Wróć do tekstu: Adam „był z nią\", Bóg woła i pyta najpierw jego, a Nowy Testament mówi o upadku jako o grzechu Adama. Tekst nie daje podstaw do obciążania kobiet i nie pozwól, żeby taki żart albo teza przeszły bez sprostowania.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja w diabła nie wierzę\" albo „to przecież mit\".** Nie spieraj się. Zaproponuj: „Zobaczmy, co ta opowieść mówi o Bogu i o nas, a o resztę spytajmy na końcu\". Jezus w Mt 13 mówi o nieprzyjacielu jak o kimś realnym i to wystarczy jako punkt wyjścia. Osoba spoza kościoła ma prawo do dystansu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Szatan za każdym rogiem: ktoś przypisuje mu chorobę sąsiada, awarię auta i decyzje rządu.** Biblia mówi o nim oszczędnie i nie uczy nas rozpoznawać jego ręki w konkretnych zdarzeniach. Wróć do Ap 12: jego bronią jest zwodzenie i oskarżanie. Tam go szukajmy, nie w zepsutym aucie. Bez polityki.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Dlaczego Bóg nie zniszczył szatana od razu?\"** Dobre pytanie. Oddaj je grupie i wróć do bloku 1: jeśli zarzut brzmiał „Bóg jest tyranem, który myśli o sobie\", to co udowodniłoby natychmiastowe zniszczenie tego, kto go postawił? Nie podawaj tego jako zamkniętej odpowiedzi. Pytania z poziomu 3 zostawiają tę sprawę otwartą celowo.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli Bóg wiedział i nic nie zrobił.\"** Nie broń. Pokaż, co zrobił: szukał człowieka w ogrodzie, dał obietnicę, posłał Syna, który sam umarł. Można uznać, że to za mało, ale nie można powiedzieć, że nic.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa odpływa w spory o wiek ziemi, ewolucję albo dosłowność węża.** Nie wchodź w to. Powiedz, że to temat na inne spotkanie, i wróć do pytania, które tekst stawia: co wąż powiedział o Bogu i czy miał rację.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** Policz w myślach do dziesięciu. Powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 2 i skróć blok 4 do pytania o imiona smoka. Bloki 1, 3 i 5 niosą całość: kłamstwo o Bogu, „nieprzyjaciel to uczynił\", Bóg jest miłością i zło ma koniec.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś przy stole jest w świeżym cierpieniu i słucha rozmowy o wolności jak wykładu nad własnym grobem.",
+     "odpowiedz": "Przerwij tok i powiedz to na głos: „Rozmawiamy dziś o wielkiej opowieści. Ona nie jest odpowiedzią na czyjś konkretny ból i nie ma nią być\". Nie pozwól, żeby ktokolwiek zastosował dzisiejsze teksty do jego sytuacji. Zostań z tą osobą po spotkaniu. Grupa towarzyszy, nie leczy i nie wyjaśnia."
+    },
+    {
+     "sytuacja": "„To wszystko przez Ewę.\"",
+     "odpowiedz": "Wróć do tekstu: Adam „był z nią\", Bóg woła i pyta najpierw jego, a Nowy Testament mówi o upadku jako o grzechu Adama. Tekst nie daje podstaw do obciążania kobiet i nie pozwól, żeby taki żart albo teza przeszły bez sprostowania."
+    },
+    {
+     "sytuacja": "„Ja w diabła nie wierzę\" albo „to przecież mit\".",
+     "odpowiedz": "Nie spieraj się. Zaproponuj: „Zobaczmy, co ta opowieść mówi o Bogu i o nas, a o resztę spytajmy na końcu\". Jezus w Mt 13 mówi o nieprzyjacielu jak o kimś realnym i to wystarczy jako punkt wyjścia. Osoba spoza kościoła ma prawo do dystansu."
+    },
+    {
+     "sytuacja": "Szatan za każdym rogiem: ktoś przypisuje mu chorobę sąsiada, awarię auta i decyzje rządu.",
+     "odpowiedz": "Biblia mówi o nim oszczędnie i nie uczy nas rozpoznawać jego ręki w konkretnych zdarzeniach. Wróć do Ap 12: jego bronią jest zwodzenie i oskarżanie. Tam go szukajmy, nie w zepsutym aucie. Bez polityki."
+    },
+    {
+     "sytuacja": "„Dlaczego Bóg nie zniszczył szatana od razu?\"",
+     "odpowiedz": "Dobre pytanie. Oddaj je grupie i wróć do bloku 1: jeśli zarzut brzmiał „Bóg jest tyranem, który myśli o sobie\", to co udowodniłoby natychmiastowe zniszczenie tego, kto go postawił? Nie podawaj tego jako zamkniętej odpowiedzi. Pytania z poziomu 3 zostawiają tę sprawę otwartą celowo."
+    },
+    {
+     "sytuacja": "„Czyli Bóg wiedział i nic nie zrobił.\"",
+     "odpowiedz": "Nie broń. Pokaż, co zrobił: szukał człowieka w ogrodzie, dał obietnicę, posłał Syna, który sam umarł. Można uznać, że to za mało, ale nie można powiedzieć, że nic."
+    },
+    {
+     "sytuacja": "Rozmowa odpływa w spory o wiek ziemi, ewolucję albo dosłowność węża.",
+     "odpowiedz": "Nie wchodź w to. Powiedz, że to temat na inne spotkanie, i wróć do pytania, które tekst stawia: co wąż powiedział o Bogu i czy miał rację."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "Policz w myślach do dziesięciu. Powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 2 i skróć blok 4 do pytania o imiona smoka. Bloki 1, 3 i 5 niosą całość: kłamstwo o Bogu, „nieprzyjaciel to uczynił\", Bóg jest miłością i zło ma koniec."
+    }
+   ]
+  }
+ ]
+}

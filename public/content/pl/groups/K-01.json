@@ -1,0 +1,786 @@
+{
+ "tytul": "Żałoba",
+ "id": "K-01",
+ "seria": "Kryzysy i przełomy życia",
+ "opis": "Biblia daje żałobie miejsce i czas. Jezus płacze przy grobie, który za chwilę otworzy.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "J 11,17-27; J 11,33-44; Rdz 23,1-4; Rdz 50,1-3.10; Dz 8,2; 2Sm 12,16-23; 1Tes 4,13-18; 1Kor 15,26",
+  "p2": "J 11,1-6.11-15; Koh 3,1-4; Prz 25,20; Rz 12,15; 1Kor 15,51-55",
+  "p3": "Hi 1,20-21"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 25,
+  "p3": 29
+ },
+ "tagi": [
+  "kryzys",
+  "żałoba",
+  "śmierć",
+  "nadzieja",
+  "zmartwychwstanie",
+  "towarzyszenie"
+ ],
+ "wersja": 1,
+ "zdanie": "Wiara nie skraca żałoby. Daje jej horyzont.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie nie ma nikogo wyprowadzić z żałoby. Ma pokazać, że Biblia daje żałobie miejsce i czas, a wiara jej nie skraca, tylko daje jej horyzont. Ludzie w tych tekstach płaczą długo i głośno, a nikt im tego nie wyrzuca. Jezus płacze przy grobie, który za chwilę otworzy. Nadzieja zmartwychwstania przychodzi w tych tekstach obok łez, nie zamiast nich.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Prawie każdy przy stole kogoś pochował. Nie wiesz, czyja strata jest świeża, a czyja nieopłakana od dwudziestu lat.",
+      "Przy stole mogą siedzieć osoby, które modlą się za swoich zmarłych albo są przekonane, że bliski jest już w niebie. To spotkanie nie jest miejscem na spór o to. Czytamy, co mówi J 11 i 1Tes 4, i zostawiamy to tekstom.",
+      "Blok 4 opowiada o śmierci dziecka. Jeśli wiesz, że ktoś w grupie stracił dziecko albo przeżył poronienie, porozmawiaj z tą osobą przed spotkaniem i zapytaj, czy chce, żeby ten blok był czytany.",
+      "Pobożne zdania potrafią ranić bardziej niż milczenie. Temat będzie kusił grupę, żeby pocieszać. Dziś uczymy się raczej być obok."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie tłumacz nikomu, dlaczego jego bliski umarł. Nie mów „wiem, co czujesz\". Nie porównuj strat. Nie wyznaczaj nikomu terminu, do którego powinien się pozbierać. Nie dopytuj osoby, która zamilkła.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie czas, kiedy było ci bardzo ciężko, niekoniecznie po czyjejś śmierci. Co ktoś wtedy dla ciebie zrobił albo powiedział, że pamiętasz to do dziś? Jedno zdanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi. Jeśli ktoś chce pominąć swoją kolej, przejdź dalej bez słowa.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "„Gdybyś tu był\"",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Łazarz z Betanii, przyjaciel Jezusa, zachorował i umarł. Siostry posłały po Jezusa, kiedy brat jeszcze żył.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 11,17-27",
+       "przeklad": "BW",
+       "akapity": [
+        "Przyszedł tedy Jezus i znalazł go już od czterech dni w grobie. A Betania była blisko Jerozolimy, około piętnastu stadiów. I przyszło wielu Żydów do Marty i Marii, aby je pocieszyć po stracie brata. Gdy więc Marta usłyszała, że Jezus idzie, wybiegła na jego spotkanie; ale Maria siedziała w domu.",
+        "Rzekła więc Marta do Jezusa: Panie! Gdybyś tu był, nie byłby umarł brat mój. Ale i teraz wiem, że o cokolwiek byś prosił Boga, da ci to Bóg. Rzekł jej Jezus: Zmartwychwstanie brat twój. Odpowiedziała mu Marta: Wiem, że zmartwychwstanie przy zmartwychwstaniu w dniu ostatecznym.",
+        "Rzekł jej Jezus: Jam jest zmartwychwstanie i żywot; kto we mnie wierzy, choćby i umarł, żyć będzie. A kto żyje i wierzy we mnie, nie umrze na wieki. Czy wierzysz w to? Rzecze mu: Tak, Panie! Ja uwierzyłam, że Ty jesteś Chrystus, Syn Boży, który miał przyjść na świat."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Marta wita Jezusa zdaniem, w którym jest naraz wyrzut i wiara. **Co Jezus z tym zdaniem robi, a czego nie robi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Marta mówi o „dniu ostatecznym\". Jezus odpowiada: „Jam jest zmartwychwstanie\". **Co się zmienia, kiedy nadzieja przestaje być datą w kalendarzu, a zaczyna mieć twarz?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Marta wybiegła na drogę, Maria została w domu. **Co te dwie reakcje mówią o tym, jak różnie ludzie przeżywają tę samą stratę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Marta wierzy poprawnie. O zmartwychwstaniu w dniu ostatecznym uczono w synagodze i Jezus jej w niczym nie poprawia. Przesuwa tylko ciężar z odległego „to\" na bliskie „Ja\". Pyta o zaufanie do Osoby, która stoi przed nią na drodze. Warto też zauważyć, że Jezus nie broni się przed wyrzutem i nie tłumaczy swojej nieobecności. Zdanie „gdybyś tu był\" zostaje przyjęte bez nagany.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dwa dni zwłoki",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 11,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "A zachorował niejaki Łazarz z Betanii, miasteczka Marii i Marty, jej siostry. A była to ta Maria, która namaściła Pana maścią i otarła nogi włosami swymi, i jej to brat chorował. Posłały więc siostry do niego, mówiąc: Panie, oto choruje ten, którego miłujesz. A usłyszawszy to Jezus, rzekł: Ta choroba nie jest na śmierć, lecz na chwałę Bożą, aby Syn Boży był przez nią uwielbiony. A Jezus miłował Martę i jej siostrę, i Łazarza. A gdy usłyszał, że choruje, został jeszcze dwa dni na miejscu, gdzie przebywał;"
+       ]
+      },
+      {
+       "odnosnik": "J 11,11-15",
+       "przeklad": "BW",
+       "akapity": [
+        "To powiedział, a potem rzekł do nich: Łazarz, nasz przyjaciel, zasnął; ale idę zbudzić go ze snu. Tedy rzekli uczniowie do niego: Panie! Jeśli zasnął, zdrów będzie. Ale Jezus mówił o jego śmierci; oni zaś myśleli, że mówił o zwykłym śnie. Wtedy to rzekł im Jezus wyraźnie: Łazarz umarł, i raduję się, że tam nie byłem, ze względu na was, bo uwierzycie; lecz pójdźmy do niego."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jan pisze w jednym ciągu: Jezus ich miłował i został jeszcze dwa dni. **Jak te dwa zdania brzmią dla kogoś, kto się modlił, a pomoc nie przyszła na czas?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus nazywa śmierć przyjaciela snem, a zaraz potem mówi wprost: „Łazarz umarł\". **Po co oba zdania? Co by zginęło, gdyby zostało tylko jedno z nich?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Rachunek dni zdejmuje z tej sceny stary zarzut, że Jezus pozwolił przyjacielowi umrzeć dla efektu. Z Betanii do miejsca za Jordanem, gdzie przebywał Jezus, szło się mniej więcej dzień. Dzień drogi posłańca, dwa dni zwłoki i dzień drogi Jezusa dają razem cztery dni, a właśnie tyle Łazarz leżał już w grobie. Umarł więc najpewniej wtedy, gdy posłaniec był jeszcze w drodze. Zwłoka niczego nie przesądziła. Siostry o tym nie wiedzą i ich „gdybyś tu był\" pozostaje prawdziwym bólem.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jezus mówi o Łazarzu, że zasnął, a Paweł w 1Tes 4 tak samo nazywa zmarłych wierzących. Grecki czasownik to `koimaomai`, czyli „zasypiać\". Od niego pochodzi `koimeterion`, dosłownie „miejsce snu, sypialnia\". Pierwsi chrześcijanie nazwali tak miejsca, gdzie chowali swoich zmarłych, i stąd wzięło się polskie słowo cmentarz. Sama nazwa jest wyznaniem wiary: tu się śpi, a kto śpi, ten będzie obudzony.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Łzy przed cudem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 11,33-44",
+       "przeklad": "BW",
+       "akapity": [
+        "Jezus tedy, widząc ją płaczącą i płaczących Żydów, którzy z nią przyszli, rozrzewnił się w duchu i wzruszył się, i rzekł: Gdzie go położyliście? Rzekli do niego: Panie, pójdź i zobacz. I zapłakał Jezus. Rzekli więc Żydzi: Patrz, jak go miłował. A niektórzy z nich mówili: Nie mógł ten, który ślepemu otworzył oczy, uczynić, aby i ten nie umarł?",
+        "Jezus znowu rozrzewniwszy się w sobie, poszedł do grobu; była tam pieczara, u której wejścia leżał kamień. Rzekł Jezus: Usuńcie ten kamień. Rzekła mu Marta, siostra umarłego: Panie! Już cuchnie, bo już jest czwarty dzień w grobie. Rzekł jej Jezus: Czyż ci nie powiedziałem, że, jeśli uwierzysz, oglądać będziesz chwałę Bożą?",
+        "Usunęli więc kamień, gdzie leżał umarły. A Jezus, wzniósłszy oczy w górę, rzekł: Ojcze, dziękuję ci, żeś mnie wysłuchał. A Ja wiedziałem, że mnie zawsze wysłuchujesz, ale powiedziałem to ze względu na lud stojący wkoło, aby uwierzyli, żeś Ty mnie posłał. A gdy to rzekł, zawołał donośnym głosem: Łazarzu, wyjdź! I wyszedł umarły, mając nogi i ręce powiązane opaskami, a twarz jego była owinięta chustą. Rzekł do nich Jezus: Rozwiążcie go i pozwólcie mu odejść."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus wie, co zrobi za kilka minut, a mimo to płacze. **Co to mówi o miejscu łez u kogoś, kto ma nadzieję?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ludzie przy grobie komentują łzy Jezusa na dwa sposoby, w wersecie 36 i w wersecie 37. **Które z tych dwóch zdań słyszeliście przy czyjejś żałobie i co ono robi z człowiekiem, który płacze?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus woła Łazarza z grobu, ale kamień odsuwają ludzie i opaski też zdejmują ludzie. **Co w czyjejś żałobie należy do Boga, a co do tych, którzy stoją obok?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Łazarz wyszedł z grobu i po latach umarł po raz drugi. Jego siostry, jeśli go przeżyły, pochowały go jeszcze raz. Wskrzeszenie w Betanii nie było więc odpowiedzią na śmierć, tylko znakiem, kim jest Ten, który powiedział „Jam jest zmartwychwstanie\". Odpowiedź leży w tamtym zdaniu, nie w odsuniętym kamieniu. Dlatego ta historia należy także do tych, których bliscy z grobu nie wyszli.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Warszawska pisze łagodnie, że Jezus „rozrzewnił się w duchu\". Grecki czasownik `embrimaomai` jest dużo ostrzejszy. W Nowym Testamencie pojawia się jeszcze trzy razy i za każdym razem niesie surowość bliską gniewu: w surowym nakazie milczenia dla uzdrowionych niewidomych i dla trędowatego oraz w oburzeniu na kobietę z olejkiem. W klasycznej grece opisywał parskanie konia. Jan używa go dwukrotnie, w wersetach 33 i 38. Jezus przy grobie jest więc nie tylko smutny, jest wzburzony.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Na co albo na kogo może być ten gniew?** Co zmienia w obrazie Boga to, że Jezus idzie do grobu przyjaciela wzburzony, a nie pogodzony?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Żałoba ma swój czas",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 23,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "A Sara żyła sto dwadzieścia siedem lat; tyle było lat życia Sary. Sara umarła w Kiriat-Arba, czyli w Hebronie, w ziemi kanaanejskiej. Tam też przyszedł Abraham, aby odbyć żałobę po Sarze i opłakiwać ją. Potem Abraham wstał od swojej zmarłej i rzekł do Chetytów, mówiąc: Jestem u was osiadłym przybyszem; dajcie mi u siebie na własność grób, abym mógł wynieść z domu i pochować moją zmarłą."
+       ]
+      },
+      {
+       "odnosnik": "Rdz 50,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Józef rzucił się na twarz ojca swego, płakał nad nim i całował go. Potem Józef rozkazał sługom swoim, lekarzom, aby zabalsamowali ojca jego; i lekarze balsamowali Izraela przez czterdzieści dni, bo tak długo trwało balsamowanie. Egipcjanie opłakiwali go przez siedemdziesiąt dni."
+       ]
+      },
+      {
+       "odnosnik": "Rdz 50,10",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy przyjechali do Goren-ha-Atad, które jest za Jordanem, urządzili tam wielki i bardzo uroczysty obrzęd żałobny. Józef obchodził po swoim ojcu żałobę przez siedem dni."
+       ]
+      },
+      {
+       "odnosnik": "Dz 8,2",
+       "przeklad": "BW",
+       "akapity": [
+        "Szczepana zaś pogrzebali bogobojni mężowie i opłakiwali go wielce."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wypiszcie wszystko, co ci ludzie robią po stracie: ciałem, głosem, czasem. **Czego nikt im w tych tekstach nie wyrzuca?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "O Abrahamie czytamy najpierw, że przyszedł opłakiwać Sarę, a potem, że „wstał od swojej zmarłej\" i poszedł załatwiać grób. **Co znaczy, że Biblia zapisała oba zdania i to w tej kolejności?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Siedemdziesiąt dni, potem jeszcze siedem. **Ile czasu na żałobę daje człowiekowi dzisiejsze otoczenie: praca, rodzina, zbór? Skąd się bierze ten pośpiech?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Abraham jest w Biblii wzorem wiary i płacze nad Sarą. Ludzie, którzy chowali Szczepana, dopiero co słyszeli, jak umierając widział niebo otwarte, a mimo to „opłakiwali go wielce\". Łukasz nie widzi w tym słabej wiary, nazywa ich bogobojnymi. Siedem dni to w Księdze Rodzaju miara wielkich przejść: tyle trwa wesele i tyle trwa żałoba. Strata dostaje w Biblii własny czas, którego nikt nie skraca.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ocet na ranę",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Koh 3,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Wszystko ma swój czas i każda sprawa pod niebem ma swoją porę: Jest czas rodzenia i czas umierania; jest czas sadzenia i czas wyrywania tego, co zasadzono. Jest czas zabijania i czas leczenia; jest czas burzenia i czas budowania. Jest czas płaczu i czas śmiechu; jest czas narzekania i czas pląsów."
+       ]
+      },
+      {
+       "odnosnik": "Prz 25,20",
+       "przeklad": "BW",
+       "akapity": [
+        "Kto sercu strapionemu śpiewa pieśni, jest jak ten, kto zdejmuje ubranie w dzień mroźny, albo jak ocet na ranę."
+       ]
+      },
+      {
+       "odnosnik": "Rz 12,15",
+       "przeklad": "BW",
+       "akapity": [
+        "Weselcie się z weselącymi się, płaczcie z płaczącymi."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przypowieść mówi o kimś, kto strapionemu „śpiewa pieśni\". **Jakie pobożne albo życzliwe zdania działają na człowieka w żałobie jak ocet na ranę? Dlaczego tak działają, skoro mówiący chce dobrze?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nie pisze „pocieszajcie płaczących\", tylko „płaczcie z płaczącymi\". **Na czym polega różnica?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Dawid wstaje z ziemi",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Dawidowi zachorowało niemowlę. W jego historii ta choroba jest związana z winą ojca, opisaną rozdział wcześniej. Ten związek należy do tamtej jednej opowieści i nie wolno z niego wyciągać wniosku o żadnej innej śmierci.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Sm 12,16-23",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Dawid błagał Boga za dziecięciem i pościł Dawid, a gdy przyszedł na noc do domu, leżał całą noc na ziemi, gdy zaś przystąpili do niego starsi jego domu, aby go podnieść z ziemi, nie chciał wstać i nie spożył z nimi posiłku. Siódmego dnia dziecię zmarło. Słudzy Dawida bali się powiedzieć mu, że dziecię nie żyje, myśleli bowiem: Jeżeli oto, póki jeszcze dziecię żyło i my mówiliśmy do niego, on nie słuchał naszego głosu, to jakże mamy mu powiedzieć, że dziecię nie żyje? Gotów jeszcze zrobić sobie coś złego.",
+        "Lecz Dawid spostrzegł, że jego słudzy szepcą między sobą, domyślił się więc, że dziecię nie żyje. I zapytał Dawid swoich sług: Czy dziecię zmarło? A oni odpowiedzieli: Zmarło. Wtedy Dawid podniósł się z ziemi, umył się, namaścił, zmienił swoje szaty i poszedł do świątyni Pana, aby mu oddać pokłon. Potem powrócił do swojego domu, poprosił o posiłek, a gdy mu go podano, spożył go.",
+        "Wtedy rzekli do niego jego słudzy: Co ma znaczyć to, co uczyniłeś? Dopóki dziecię żyło, pościłeś i płakałeś, a gdy dziecię zmarło, podniosłeś się i spożyłeś posiłek? A on odpowiedział: Dopóki dziecię żyło, pościłem i płakałem, gdyż myślałem sobie: Kto wie? Może Pan zlituje się nade mną i dziecię będzie żyło? Teraz zaś, gdy zmarło, po cóż mam pościć? Czy mogę je jeszcze przywrócić życiu? To ja pójdę za nim, a nie ono powróci do mnie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Słudzy mieli w głowach gotowy obraz tego, jak żałoba powinna wyglądać, a Dawid zrobił wszystko odwrotnie. **Co ta scena mówi o naszych oczekiwaniach wobec cudzej żałoby?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„To ja pójdę za nim, a nie ono powróci do mnie\". **Co Dawid w tym zdaniu przyjmuje do wiadomości, a czego się mimo wszystko trzyma?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Dawid modlił się siedem dni i dziecko umarło. **Dokąd idzie zaraz potem, jeszcze przed posiłkiem? Co to mówi o jego relacji z Bogiem, który nie dał mu tego, o co prosił?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Nie jak ci, którzy nie mają nadziei",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Tes 4,13-18",
+       "przeklad": "BW",
+       "akapity": [
+        "A nie chcemy, bracia, abyście byli w niepewności co do tych, którzy zasnęli, abyście się nie smucili, jak drudzy, którzy nie mają nadziei. Albowiem jak wierzymy, że Jezus umarł i zmartwychwstał, tak też wierzymy, że Bóg przez Jezusa przywiedzie z nim tych, którzy zasnęli. A to wam mówimy na podstawie Słowa Pana, że my, którzy pozostaniemy przy życiu aż do przyjścia Pana, nie wyprzedzimy tych, którzy zasnęli.",
+        "Gdyż sam Pan na dany rozkaz, na głos archanioła i trąby Bożej zstąpi z nieba; wtedy najpierw powstaną ci, którzy umarli w Chrystusie, potem my, którzy pozostaniemy przy życiu, razem z nimi porwani będziemy w obłokach w powietrze, na spotkanie Pana; i tak zawsze będziemy z Panem. Przeto pocieszajcie się nawzajem tymi słowy."
+       ]
+      },
+      {
+       "odnosnik": "1Kor 15,26",
+       "przeklad": "BW",
+       "akapity": [
+        "A jako ostatni wróg zniszczona będzie śmierć."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł nie pisze „nie smućcie się\". Pisze: nie smućcie się tak jak ci, którzy nie mają nadziei. **W czym żałoba człowieka z nadzieją jest taka sama jak każda inna, a w czym jest inna?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Na czym Paweł opiera tę nadzieję?** Znajdźcie w tekście jedno wydarzenie, z którego wynika cała reszta.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Pocieszajcie się nawzajem tymi słowy\". **Którymi dokładnie? Co jest treścią pociechy w wersetach 16 i 17: gdzie będą zmarli, z kim i na jak długo?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paweł nazywa śmierć wrogiem. **Co zmienia w żałobie świadomość, że Bóg nie stoi po stronie śmierci, tylko razem ze mną przeciwko niej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Wierzący w Tesalonice bali się, że ich zmarli coś stracą, bo nie doczekali powrotu Jezusa. Paweł odpowiada, że nikt nikogo nie wyprzedzi. O zmarłych mówi tak samo, jak Jezus mówił o Łazarzu: zasnęli. Pociechą nie jest tu opis tego, co dzieje się z nimi teraz. Pociechą jest spotkanie, które nadejdzie. Dwa wyrażenia dźwigają cały tekst: „razem z nimi\" i „zawsze z Panem\".",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pochłonięta jest śmierć",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Kor 15,51-55",
+       "przeklad": "BW",
+       "akapity": [
+        "Oto tajemnicę wam objawiam: Nie wszyscy zaśniemy, ale wszyscy będziemy przemienieni w jednej chwili, w oka mgnieniu, na odgłos trąby ostatecznej; bo trąba zabrzmi i umarli wzbudzeni zostaną jako nie skażeni, a my zostaniemy przemienieni. Albowiem to, co skażone, musi przyoblec się w to, co nieskażone, a to, co śmiertelne, musi przyoblec się w nieśmiertelność. A gdy to, co skażone, przyoblecze się w to, co nieskażone, i to, co śmiertelne, przyoblecze się w nieśmiertelność, wtedy wypełni się słowo napisane: Pochłonięta jest śmierć w zwycięstwie! Gdzież jest, o śmierci, zwycięstwo twoje? Gdzież jest, o śmierci, żądło twoje?"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Porównajcie ten tekst z 1Tes 4. **Co się powtarza w obu opisach? Kiedy według Pawła człowiek przyobleka się w nieśmiertelność?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł drwi ze śmierci: „gdzież jest żądło twoje?\". **Czy człowiek w świeżej żałobie może wypowiedzieć to zdanie? Kiedy ono jest pociechą, a kiedy octem na ranę?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czy to Bóg zabiera?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przy trumnie często pada zdanie Joba.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hi 1,20-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Job powstał, rozdarł szaty i ogolił głowę; potem padł na ziemię i oddał pokłon, i rzekł: Nagi wyszedłem z łona matki mojej i nagi stąd odejdę. Pan dał, Pan wziął, niech będzie imię Pańskie błogosławione."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Czytelnik Księgi Joba wie jednak coś, czego Job nie wie. Kilka wersetów wcześniej widział, kto naprawdę uderzył w jego dom, i nie był to Bóg. Paweł nazywa śmierć wrogiem, którego Bóg zniszczy. Jezus idzie do grobu przyjaciela wzburzony.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czym w takim razie jest zdanie Joba: wykładem o tym, kto zabiera ludziom bliskich, czy czymś innym?** Co Job tym zdaniem robi, skoro mówi je, leżąc twarzą do ziemi?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak pogodzić oba głosy Biblii: ten, który w każdej stracie widzi Boga jako Pana życia, i ten, który nazywa śmierć Jego wrogiem?** Co te dwa głosy łączy?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "w Kościele są ludzie, którym zdanie „Pan wziął\" daje pokój, i ludzie, którym odbiera Boga. Nie rozstrzygaj za nich. Łączy ich jedno: zmarły nie wypadł z Bożych rąk.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakie słowa i gesty pomagały tobie albo komuś bliskiemu w żałobie, a jakie raniły? **Co z dzisiejszych tekstów tłumaczy tę różnicę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kto z dzisiejszych ludzi jest ci najbliższy w tym, jak przeżywa stratę:** Marta, która biegnie z wyrzutem, Maria, która siedzi w domu, Abraham, który wstaje załatwić pogrzeb, czy Dawid, którego nikt nie rozumie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest strata, której do końca nie opłakałeś?** Nie musisz mówić jaka.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Tamtego roku w Betanii były też inne pogrzeby i z tamtych grobów nikt nie wyszedł. **Co powiedzieć komuś, kto modlił się jak Marta i Maria, a jego bliski umarł? Co mówi mu J 11, skoro nie mówi „ciebie też to spotka przed pogrzebem\"?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie produkuj odpowiedzi. Jeśli grupa utknie, wróć do dwóch rzeczy z tekstu: Jezus płakał także przy tym grobie, który miał otworzyć, a obietnica „Jam jest zmartwychwstanie\" została powiedziana Marcie, zanim cokolwiek się wydarzyło.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Wiara nie skraca żałoby. Daje jej horyzont.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** J 11,25 albo 1Tes 4,14.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o kimś, kogo straciłeś. Powiedz Bogu zdanie Marty po swojemu: „Gdybyś tu był...\". Nie wygładzaj go i nie dopisuj od razu pobożnego zakończenia. Jezus przyjął to zdanie bez nagany.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przypomnij sobie kogoś ze swojego otoczenia, kto jest w żałobie, a kogo od jakiegoś czasu omijasz. Zapytaj siebie uczciwie: **czego się boję, że go unikam?** Tego, że nie będę wiedział, co powiedzieć, czy tego, co jego strata przypomina mi o mojej?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** idź do tej osoby bez przygotowanych zdań. Wymów imię zmarłego, zapytaj, jaki był, i wysłuchaj do końca. Nie pocieszaj, dopóki nie zostaniesz o to poproszony.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś przy stole jest w świeżej żałobie albo zaczyna płakać.** Jeśli wiesz o świeżej stracie, porozmawiaj z tą osobą przed spotkaniem. Powiedz, o czym będzie, i daj jej pełną wolność: może milczeć, może wyjść, może nie przyjść. W trakcie nie kieruj do niej pytań po imieniu. Gdy ktoś płacze, nie przerywaj spotkania i nie zasypuj go słowami. Chwila ciszy i czyjaś ręka na ramieniu wystarczą. Idźcie dalej, kiedy ta osoba da znak, że można.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„On jest już w niebie i na nas patrzy\" albo ktoś wspomina o modlitwie za zmarłych.** Nie poprawiaj i nie otwieraj sporu, zwłaszcza gdy mówi to osoba w żałobie. Możesz powiedzieć: „Dzisiejsze teksty mówią o śmierci jak o śnie i o przebudzeniu, kiedy Jezus wróci. Jedno jest pewne dla nas wszystkich: twój bliski jest w Bożych rękach, a spotkanie jest przed nami\". Jeśli grupa chce wejść głębiej w to, co Biblia mówi o stanie umarłych, zapowiedz osobne spotkanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Bóg tak chciał\", „Bóg potrzebował aniołka\", „wszystko jest po coś\".** Te zdania zwykle mówi ktoś, kto chce pomóc, więc go nie zawstydzaj. Wróć do tekstu: „Zobaczmy, jak Jezus zachowuje się przy grobie. Czy wygląda na kogoś, kto tego chciał?\". Paweł nazywa śmierć wrogiem, nie narzędziem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Minął już rok, czas się pozbierać\" albo porównywanie strat.** Zatrzymaj to spokojnie. W Rdz 50 nikt nie liczy Józefowi dni. Żałoba nie ma terminarza, a po jednych stratach wraca falami przez lata. Zdanie „inni mają gorzej\" nikomu jeszcze nie pomogło.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Strata dziecka, poronienie i blok o Dawidzie.** To najtrudniejsze miejsce spotkania. Przeczytaj na głos zdanie wprowadzające do bloku 4: związek śmierci dziecka z winą ojca należy do tamtej jednej historii. Jeśli ktoś zapyta, czy Bóg zabrał mu dziecko za karę, odpowiedz wprost, że nie, i przypomnij J 9,3, gdzie Jezus odrzuca takie rachunki. Gdy wiesz, że temat jest dla kogoś zbyt świeży, pomiń blok 4 w całości. Spotkanie się bez niego obroni.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o samobójczej śmierci bliskiego albo sam mówi, że nie chce już żyć.** Nie oceniaj zmarłego i nie pozwól na to grupie. O jego losie nie rozstrzygamy my. Jeśli ktoś przy stole mówi, że sam nie widzi sensu życia, potraktuj to poważnie. Zostań z nim po spotkaniu, zapytaj wprost, czy myśli o odebraniu sobie życia, i nie zostawaj z tym sam. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, w bezpośrednim zagrożeniu numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa zaczyna doradzać albo leczyć.** Grupa słucha i towarzyszy. Nie diagnozuje, nie zaleca leków ani ich odstawienia, nie zastępuje psychologa. Jeśli czyjaś żałoba po wielu miesiącach wciąż nie pozwala mu jeść, spać albo pracować, zachęć go na osobności do rozmowy z lekarzem albo psychologiem. To nie jest brak wiary, tylko troska o siebie, taka sama jak sen i chleb, które Bóg dał Eliaszowi.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś przy stole jest w świeżej żałobie albo zaczyna płakać.",
+     "odpowiedz": "Jeśli wiesz o świeżej stracie, porozmawiaj z tą osobą przed spotkaniem. Powiedz, o czym będzie, i daj jej pełną wolność: może milczeć, może wyjść, może nie przyjść. W trakcie nie kieruj do niej pytań po imieniu. Gdy ktoś płacze, nie przerywaj spotkania i nie zasypuj go słowami. Chwila ciszy i czyjaś ręka na ramieniu wystarczą. Idźcie dalej, kiedy ta osoba da znak, że można."
+    },
+    {
+     "sytuacja": "„On jest już w niebie i na nas patrzy\" albo ktoś wspomina o modlitwie za zmarłych.",
+     "odpowiedz": "Nie poprawiaj i nie otwieraj sporu, zwłaszcza gdy mówi to osoba w żałobie. Możesz powiedzieć: „Dzisiejsze teksty mówią o śmierci jak o śnie i o przebudzeniu, kiedy Jezus wróci. Jedno jest pewne dla nas wszystkich: twój bliski jest w Bożych rękach, a spotkanie jest przed nami\". Jeśli grupa chce wejść głębiej w to, co Biblia mówi o stanie umarłych, zapowiedz osobne spotkanie."
+    },
+    {
+     "sytuacja": "„Bóg tak chciał\", „Bóg potrzebował aniołka\", „wszystko jest po coś\".",
+     "odpowiedz": "Te zdania zwykle mówi ktoś, kto chce pomóc, więc go nie zawstydzaj. Wróć do tekstu: „Zobaczmy, jak Jezus zachowuje się przy grobie. Czy wygląda na kogoś, kto tego chciał?\". Paweł nazywa śmierć wrogiem, nie narzędziem."
+    },
+    {
+     "sytuacja": "„Minął już rok, czas się pozbierać\" albo porównywanie strat.",
+     "odpowiedz": "Zatrzymaj to spokojnie. W Rdz 50 nikt nie liczy Józefowi dni. Żałoba nie ma terminarza, a po jednych stratach wraca falami przez lata. Zdanie „inni mają gorzej\" nikomu jeszcze nie pomogło."
+    },
+    {
+     "sytuacja": "Strata dziecka, poronienie i blok o Dawidzie.",
+     "odpowiedz": "To najtrudniejsze miejsce spotkania. Przeczytaj na głos zdanie wprowadzające do bloku 4: związek śmierci dziecka z winą ojca należy do tamtej jednej historii. Jeśli ktoś zapyta, czy Bóg zabrał mu dziecko za karę, odpowiedz wprost, że nie, i przypomnij J 9,3, gdzie Jezus odrzuca takie rachunki. Gdy wiesz, że temat jest dla kogoś zbyt świeży, pomiń blok 4 w całości. Spotkanie się bez niego obroni."
+    },
+    {
+     "sytuacja": "Ktoś mówi o samobójczej śmierci bliskiego albo sam mówi, że nie chce już żyć.",
+     "odpowiedz": "Nie oceniaj zmarłego i nie pozwól na to grupie. O jego losie nie rozstrzygamy my. Jeśli ktoś przy stole mówi, że sam nie widzi sensu życia, potraktuj to poważnie. Zostań z nim po spotkaniu, zapytaj wprost, czy myśli o odebraniu sobie życia, i nie zostawaj z tym sam. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, w bezpośrednim zagrożeniu numer alarmowy 112."
+    },
+    {
+     "sytuacja": "Grupa zaczyna doradzać albo leczyć.",
+     "odpowiedz": "Grupa słucha i towarzyszy. Nie diagnozuje, nie zaleca leków ani ich odstawienia, nie zastępuje psychologa. Jeśli czyjaś żałoba po wielu miesiącach wciąż nie pozwala mu jeść, spać albo pracować, zachęć go na osobności do rozmowy z lekarzem albo psychologiem. To nie jest brak wiary, tylko troska o siebie, taka sama jak sen i chleb, które Bóg dał Eliaszowi."
+    }
+   ]
+  }
+ ]
+}

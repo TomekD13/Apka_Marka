@@ -1,0 +1,761 @@
+{
+ "tytul": "Rozpad małżeństwa",
+ "id": "K-04",
+ "seria": "Kryzysy i przełomy życia",
+ "opis": "Jezus mówi o małżeństwie bardzo wysoko i siada przy studni z kobietą po pięciu małżeństwach.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "J 4,5-7.9-10.13-19; Mt 19,3-9; Ml 2,13-16; Iz 54,4-8; Ps 147,2-3; J 4,28-30.39-42",
+  "p2": "Rdz 2,18.21-24; Pwt 24,1-4; Oz 2,16-17.21-22; Jr 3,8; Ps 34,19",
+  "p3": "Mk 10,10-12; 1Kor 7,10-16; Ml 2,10"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 23,
+  "p3": 27
+ },
+ "tagi": [
+  "kryzys",
+  "rozwód",
+  "małżeństwo",
+  "porzucenie",
+  "łaska",
+  "wstyd"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg nie zmienił zdania o małżeństwie. Nie zmienił też zdania o tobie.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie trzyma w rękach dwie rzeczy naraz i nie wolno wypuścić żadnej. Pierwsza: Jezus mówi o małżeństwie bardzo wysoko i wraca do początku stworzenia. Druga: ten sam Jezus siada przy studni z kobietą po pięciu małżeństwach, prosi ją o wodę i robi z niej pierwszą zwiastunkę w Samarii. Spotkanie zaczyna się i kończy przy tej studni. Środek należy do tekstów trudnych, czytanych powoli i do końca.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole mogą siedzieć ludzie porzuceni, ludzie, którzy sami odeszli, osoby w drugim związku i dorosłe dzieci rozwiedzionych rodziców. Każda z tych osób usłyszy te same zdania inaczej. Nie wiesz o wszystkich.",
+      "Ktoś może właśnie teraz żyć w małżeństwie, w którym jest przemoc. Wszystko, co padnie o wierności i wytrwaniu, usłyszy jako nakaz zostania. Pierwsza czerwona flaga na końcu materiału jest o tym. Przeczytaj ją przed spotkaniem.",
+      "Rozmowa łatwo zjeżdża w ustalanie, kto był winien w konkretnym rozwodzie, albo w spór o to, co kościół powinien, a czego nie powinien.",
+      "Goście wychowani w innej tradycji mogą mieć inne pojęcia: sakrament, stwierdzenie nieważności. Traktuj to z szacunkiem i wracaj do tekstu."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pytaj nikogo o jego historię. Nie rozstrzygaj przy stole niczyjej sytuacji, ani minionej, ani obecnej. Nie udzielaj rad prawnych ani terapeutycznych. Nie pozwól, żeby ktokolwiek wyszedł z przekonaniem, że grupa kazała mu wracać do osoby, która go krzywdzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o czymś, co miało trwać, a się skończyło: przyjaźń, praca, miejsce, w którym było ci dobrze. Powiedz jednym zdaniem, co ci wtedy najbardziej pomogło albo czego najbardziej brakowało.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, krótko, i celowo nie o małżeństwie. Nikt nie ma poczuć, że musi mówić o swoim. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Przy studni w południe",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 4,5-7.9-10.13-19",
+       "przeklad": "BW",
+       "akapity": [
+        "Przybył więc do miasta samarytańskiego, zwanego Sychar, blisko pola, które Jakub dał swemu synowi Józefowi. A była tam studnia Jakuba. Jezus więc, zmęczony podróżą, usiadł sobie przy studni; było to około szóstej godziny. Wtem przyszła niewiasta samarytańska, aby nabrać wody. Jezus rzekł do niej: Daj mi pić! [...]",
+        "Wtedy niewiasta samarytańska rzekła do niego: Jakże Ty, będąc Żydem, prosisz mnie, Samarytankę, o wodę? (Żydzi bowiem nie obcują z Samarytanami). Odpowiadając jej Jezus, rzekł do niej: Gdybyś znała dar Boży i tego, który mówi do ciebie: Daj mi pić, wtedy sama prosiłabyś go, i dałby ci wody żywej. [...]",
+        "Odpowiedział jej Jezus, mówiąc: Każdy, kto pije tę wodę, znowu pragnąć będzie; ale kto napije się wody, którą Ja mu dam, nie będzie pragnął na wieki, lecz woda, którą Ja mu dam, stanie się w nim źródłem wody wytryskującej ku żywotowi wiecznemu. Rzecze do niego niewiasta: Panie, daj mi tej wody, abym nie pragnęła i tu nie przychodziła, by czerpać wodę. Mówi jej: Idź, zawołaj męża swego i wróć tutaj! Odpowiedziała niewiasta, mówiąc: Nie mam męża. Jezus rzekł do niej: Dobrze powiedziałaś: Nie mam męża. Miałaś bowiem pięciu mężów, a ten, którego teraz masz, nie jest twoim mężem; prawdę powiedziałaś. Rzekła mu niewiasta: Panie, widzę, żeś prorok."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus wie o niej wszystko od pierwszej chwili. Mimo to zaczyna od prośby o wodę, potem mówi o darze, a dopiero na końcu o mężach. **Co mówi ta kolejność?** Jak wyglądałaby ta rozmowa, gdyby zaczął od końca?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nazywa jej historię wprost, bez owijania. Dwa razy mówi przy tym, że powiedziała prawdę. **Czego w Jego słowach nie ma, choć można by się tego spodziewać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Tekst nie mówi, dlaczego było pięciu mężów. **Jakie historie mogą się kryć za tą liczbą w świecie, w którym żony się odprawiało, a mężowie często umierali młodo?** Którą z nich zwykle dopowiadamy sami i dlaczego właśnie tę?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W tamtym świecie list rozwodowy leżał w ręku mężczyzny. Kobieta nie mogła odprawić męża, mogła zostać odprawiona, także za bezdzietność. Pięciu mężów mogło więc znaczyć pięć pogrzebów, pięć odprawień albo jedno i drugie na zmianę. Ewangelista tego nie rozstrzyga i nie nazywa jej grzesznicą. Pisze tylko, że przyszła po wodę w południe, w największy upał, kiedy przy studni nie było nikogo. I że Jezus był zmęczony, usiadł i nie odszedł.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Od początku",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Spotkanie przy studni jeszcze dziś dokończymy. Najpierw tekst, którego nie da się ominąć. Jezus nie unikał pytania o rozwód, kiedy Mu je zadano.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 19,3-9",
+       "przeklad": "BW",
+       "akapity": [
+        "I przyszli do niego faryzeusze, kusząc go i mówiąc: Czy wolno odprawić żonę swoją dla każdej przyczyny? A On, odpowiadając, rzekł: Czyż nie czytaliście, że Stwórca od początku stworzył mężczyznę i kobietę? I rzekł: Dlatego opuści człowiek ojca i matkę i połączy się z żoną swoją, i będą ci dwoje jednym ciałem. A tak już nie są dwoje, ale jedno ciało. Co tedy Bóg złączył, człowiek niechaj nie rozłącza. Mówią mu: Czemuż jednak Mojżesz nakazał dać list rozwodowy i odprawić? Rzecze im: Mojżesz pozwolił wam odprawiać swoje żony ze względu na zatwardziałość serc waszych, ale od początku tak nie było. A powiadam wam: Ktokolwiek by odprawił żonę swoją, z wyjątkiem przyczyny wszeteczeństwa, i poślubił inną, cudzołoży, a kto by odprawioną poślubił, cudzołoży."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Faryzeusze pytają, co wolno. Jezus odpowiada, jak było na początku. **Co zmienia to przesunięcie pytania?** Czym różni się rozmowa o tym, co dopuszczalne, od rozmowy o tym, co zamierzone?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Oni mówią, że Mojżesz „nakazał\". Jezus poprawia: „pozwolił\", i podaje powód. **Co zdanie o zatwardziałości serc mówi o ludziach, a co o Bogu, który daje prawo takim ludziom?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Pytanie dotyczyło mężów odprawiających żony „dla każdej przyczyny\". **Kogo odpowiedź Jezusa chroniła w świecie, w którym odprawić mógł tylko mąż?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Pytanie było zaproszeniem do głośnego sporu. Jedna szkoła uczonych dopuszczała rozwód tylko z powodu niewierności. Druga pozwalała mężowi odprawić żonę z dowolnego powodu, w zachowanej dyskusji pada nawet przykład przypalonej potrawy. Jezus nie wybiera między szkołami. Cofa się przed Mojżesza, do Księgi Rodzaju. Ideał stawia bardzo wysoko i w tym samym zdaniu przyznaje, że mówi do ludzi o twardych sercach, żyjących daleko od początku.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pomoc odpowiednia",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 2,18.21-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem rzekł Pan Bóg: Niedobrze jest człowiekowi, gdy jest sam. Uczynię mu pomoc odpowiednią dla niego. [...] Wtedy zesłał Pan Bóg głęboki sen na człowieka, tak że zasnął. Potem wyjął jedno z jego żeber i wypełnił ciałem to miejsce. A z żebra, które wyjął z człowieka, ukształtował Pan Bóg kobietę i przyprowadził ją do człowieka. Wtedy rzekł człowiek: Ta dopiero jest kością z kości moich i ciałem z ciała mojego. Będzie się nazywała mężatką, gdyż z męża została wzięta. Dlatego opuści mąż ojca swego i matkę swoją i złączy się z żoną swoją, i staną się jednym ciałem."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To jest tekst, do którego wraca Jezus. **Jeśli dwoje staje się „jednym ciałem\", to czym jest rozstanie?** Co ten obraz tłumaczy z bólu ludzi, którzy przez to przeszli, nawet wtedy, gdy rozstanie było konieczne?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "List rozwodowy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 24,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeżeli ktoś pojmie kobietę za żonę, a potem zdarzy się, że ona nie znajdzie upodobania w jego oczach, gdyż on odkrył w niej coś odrażającego, to wypisze jej list rozwodowy, wręczy jej go i odprawi ją ze swego domu. Jeżeli ona odejdzie z jego domu i wyjdzie za mąż za innego, a także ten drugi mąż znienawidzi ją i również wypisze jej list rozwodowy, wręczy jej go i odprawi ją ze swego domu, albo też jeżeli ten drugi mąż, który ją pojął za żonę, umrze, to ten pierwszy jej mąż, który ją odprawił, nie będzie mógł ponownie pojąć jej za żonę, skoro została ona przezeń uznana za nieczystą, gdyż jest to obrzydliwością przed Panem. Nie sprowadzaj więc grzechu na ziemię, którą Pan, Bóg twój, daje ci w posiadanie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To jest przepis, na który powołują się faryzeusze. Przeczytajcie go jako jedno długie zdanie. **Co w nim jest opisem sytuacji, a co właściwym zakazem?** Czy ten tekst rozwód nakazuje, pochwala, czy tylko zastaje?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Odprawiona kobieta dostawała do ręki dokument. **Przed czym mógł ją chronić w świecie, w którym samotna kobieta bez dowodu, że jest wolna, była bezbronna?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Cały przepis to jedno zdanie warunkowe. Trzy wersety opisują sytuację, a jedyny zakaz pada na końcu i dotyczy pierwszego męża. Prawo nie ustanawia rozwodu. Zastaje go i ogranicza szkody. List dawał odprawionej dowód, że jest wolna, i chronił ją przed zarzutem cudzołóstwa oraz przed przymusowym powrotem. U sąsiednich ludów taki dokument nie był obowiązkowy. W Izraelu należał się każdej odprawionej.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: wyjątek u Mateusza i zdanie Pawła",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jezus u Mateusza podaje wyjątek. U Marka, w rozmowie z uczniami w domu, wyjątku nie ma. Paweł dwadzieścia lat później staje przed sytuacją, o której Jezus nie mówił.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 10,10-12",
+       "przeklad": "BW",
+       "akapity": [
+        "A w domu pytali go uczniowie znowu o to samo. I rzekł im: Ktokolwiek by rozwiódł się z żoną swoją i poślubił inną, popełnia wobec niej cudzołóstwo. A jeśliby sama rozwiodła się z mężem swoim i poślubiła innego, dopuszcza się cudzołóstwa."
+       ]
+      },
+      {
+       "odnosnik": "1Kor 7,10-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Tym zaś, którzy żyją w stanie małżeńskim, nakazuję nie ja, lecz Pan, ażeby żona męża nie opuszczała, a jeśliby opuściła, niech pozostanie niezamężna albo niech się z mężem pojedna; niech też mąż z żoną się nie rozwodzi. Pozostałym zaś mówię ja, nie Pan: Jeśli jakiś brat ma żonę pogankę, a ta zgadza się na współżycie z nim, niech się z nią nie rozwodzi; i żona, która ma męża poganina, a ten zgadza się na współżycie z nią, niech się z nim nie rozwodzi. Albowiem mąż poganin uświęcony jest przez żonę i żona poganka uświęcona jest przez wierzącego męża; inaczej dzieci wasze byłyby nieczyste, a tak są święte. A jeśli poganin chce się rozwieść, niechże się rozwiedzie; w takich przypadkach brat czy siostra nie są niewolniczo związani, gdyż do pokoju powołał was Bóg. Bo skądże wiesz, żono, że zbawisz męża? Albo skąd wiesz, mężu, że zbawisz żonę?"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Chrześcijanie czytają te teksty na dwa sposoby. Pierwsze odczytanie mówi, że ważnie zawartego małżeństwa nic nie rozwiązuje. Wyjątek u Mateusza dotyczy wtedy związków od początku nieprawych albo pozwala na rozstanie bez prawa do nowego małżeństwa, a Paweł uwalnia opuszczonego od pogoni za współmałżonkiem, nie od węzła. Drugie odczytanie mówi, że niewierność i porzucenie naprawdę łamią przymierze, więc strona skrzywdzona jest wolna, także do nowego związku. Słowo „wszeteczeństwo\" oddaje greckie `porneia`, szerokie określenie zakazanego współżycia.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Obie strony łączy więcej, niż dzieli. Żadna nie uważa rozwodu za dobro. Obie biorą na serio zdanie „od początku tak nie było\". Obie wiedzą, że Paweł nie powtarza mechanicznie słów Jezusa, tylko z szacunkiem dla nich rozeznaje nową sytuację i mówi uczciwie: „mówię ja, nie Pan\".",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Marek nie ma wyjątku, Mateusz ma, Paweł dodaje przypadek, o którym Jezus nie mówił. **Co to mówi o tym, jak pierwsi chrześcijanie stosowali słowa Jezusa do sytuacji, których On wprost nie omówił?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł kończy zdaniem: „do pokoju powołał was Bóg\". **Jak to zdanie działa jako miara w sytuacji, w której jedna strona odeszła i nie wraca?** Czego Paweł nie wymaga od opuszczonego?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie rozstrzygaj, które odczytanie jest słuszne, i nie pozwól, żeby ktokolwiek przymierzał je na głos do osoby siedzącej przy stole. Jeśli ktoś pyta o własną sytuację, to jest rozmowa z pastorem, nie z grupą.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Łzy na ołtarzu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ml 2,13-16",
+       "przeklad": "BW",
+       "akapity": [
+        "A oto druga rzecz, którą czynicie: Zraszacie łzami ołtarz Pana wśród płaczu i westchnień. Lecz On nie może już patrzeć na ofiarę, ani jej przyjąć łaskawie z waszych rąk. A wy mówicie: Dlaczego? Dlatego, że Pan jest świadkiem między tobą i między żoną twojej młodości, której stałeś się niewierny, chociaż ona była twoją towarzyszką i żoną, związaną z tobą przymierzem. Czy nie Jeden (Bóg) uczynił ją istotą z ciała i ducha? A czego pragnie ten Jeden? Potomstwa Bożego. Pilnujcie się więc w waszym duchu i niech nikt nie będzie niewierny żonie swej młodości! Gdyż kto jej nienawidzi i oddala ją – mówi Pan, Bóg Izraela – plami swoją szatę występkiem – mówi Pan Zastępów. Pilnujcie się więc w waszym duchu i nie bądźcie niewierni!"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Do kogo prorok mówi i po czyjej stronie staje w tym tekście Bóg?** Po czym to poznać?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Żona jest „związana z tobą przymierzem\", a Pan jest „świadkiem\". **Czym przymierze różni się od umowy, którą można wypowiedzieć?** Co to tłumaczy z tego, jak boli jego złamanie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ci ludzie płaczą przy ołtarzu i szczerze nie rozumieją, dlaczego Bóg milczy. **Jak to możliwe, że można się wzruszać na modlitwie i nie widzieć związku z tym, co się zrobiło we własnym domu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Adresatami są mężczyźni, którzy porzucili żony poślubione w młodości. Kilka wersetów wcześniej prorok mówi o ich nowych małżeństwach. Werset 16 jest po hebrajsku trudny i przekłady oddają go różnie, ale kierunek jest jeden: Bóg występuje przeciw temu, kto łamie wierność, nie przeciw tej, którą odprawiono. Tymczasem zdanie „Bóg nienawidzi rozwodów\" słyszeli najczęściej ludzie porzuceni. Prorok mówi je do porzucających.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajski czasownik `bagad`, czyli „postąpić wiarołomnie, zdradzić\", pada w Ml 2,10-16 pięć razy. Opisuje złamanie zobowiązania, które miało trwać. Warto zobaczyć, jak cały fragment się zaczyna.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ml 2,10",
+       "przeklad": "BW",
+       "akapity": [
+        "Czy nie mamy wszyscy jednego ojca? Czy nie jeden Bóg nas stworzył? Dlaczego oszukujemy się wzajemnie i bezcześcimy przymierze naszych ojców?"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Słowo oddane tu jako „oszukujemy się\" to ten sam czasownik. Prorok nie mówi „oszukujecie\", tylko „oszukujemy\". **Co zmienia w rozmowie o cudzych rozwodach to, że mówiący staje po stronie oskarżonych?** Jak brzmiałyby nasze rozmowy na ten temat, gdyby zaczynały się od „my\"?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Do porzuconej",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 54,4-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie bój się, bo już nie doznasz zawstydzenia, i nie zrażaj się, bo już nie zostaniesz zhańbiona, gdyż zapomnisz o hańbie swojej młodości i nie będziesz pamiętać opłakanego stanu twojego wdowieństwa. Bo twoim małżonkiem jest twój Stwórca – jego imię Pan Zastępów – a twoim Odkupicielem Święty Izraelski, zwany Bogiem całej ziemi. Gdyż Pan uzna cię znów za małżonkę, niegdyś porzuconą i strapioną w duchu. Bo czy można wzgardzić małżonką poślubioną w młodości? – mówi twój Bóg. Na krótką chwilę porzuciłem cię, lecz znów cię zgromadzę w wielkiej miłości. W przystępie gniewu zakryłem swoją twarz na chwilę przed tobą, lecz w wiecznej miłości zlitowałem się nad tobą, mówi Pan, twój Odkupiciel."
+       ]
+      },
+      {
+       "odnosnik": "Ps 147,2-3",
+       "przeklad": "BW",
+       "akapity": [
+        "Pan buduje Jeruzalem, Zgromadza rozproszonych Izraela. Uzdrawia tych, których serce jest złamane, I zawiązuje ich rany."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Izajasz mówi tu do całego narodu po klęsce i wygnaniu. Wybiera jednak obraz kobiety porzuconej, owdowiałej i zawstydzonej, bo jego słuchacze wiedzieli, jak wygląda jej życie.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg mówi do kogoś „porzuconego i strapionego w duchu\". **Wypiszcie, co obiecuje. Od czego zaczyna?** Dlaczego pierwsze słowa dotyczą wstydu i hańby, a nie samotności?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W psalmie ten sam Bóg odbudowuje miasto i zawiązuje rany. Jedno i drugie trwa. **Co słowo „zawiązuje\" mówi o tempie, w jakim goi się złamane serce, i o tym, kto jest przy tym obecny?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Skąd bierze się wstyd po rozpadzie małżeństwa, także u kogoś, kto niczemu nie zawinił?** Kto go podtrzymuje?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Bóg po tej stronie stołu",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Prorocy wiele razy opisują relację Boga z Jego ludem jako małżeństwo, w którym to On został zdradzony.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Oz 2,16-17.21-22",
+       "przeklad": "BW",
+       "akapity": [
+        "Dlatego teraz Ja zwabię ją i zaprowadzę na pustynię, i przemówię do jej serca. I dam jej tam winnice, a z doliny Achor uczynię bramę nadziei, i słuchać mnie tam będzie jak w dniach młodości i jak w dzień swojego wyjścia z ziemi egipskiej. [...] I zaręczę cię z sobą na wieki; zaręczę cię z sobą na zasadzie sprawiedliwości i prawa, miłości i zmiłowania. I zaręczę cię z sobą na zasadzie wierności, i poznasz Pana."
+       ]
+      },
+      {
+       "odnosnik": "Jr 3,8",
+       "przeklad": "BW",
+       "akapity": [
+        "Widziała także, że Ja właśnie z powodu wszystkich cudzołóstw odrzuciłem odstępną żonę, Izraela, i dałem jej list rozwodowy. Jednak jej siostra, niewierna Juda, nie ulękła się, lecz poszła i także oddawała się nierządowi;"
+       ]
+      },
+      {
+       "odnosnik": "Ps 34,19",
+       "przeklad": "BW",
+       "akapity": [
+        "Bliski jest Pan tym, których serce jest złamane, A wybawia utrapionych na duchu."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "U Ozeasza zdradzony Bóg nie chce wyroku, chce „przemówić do serca\". U Jeremiasza mówi o sobie, że wręczył list rozwodowy. **Co zmienia dla człowieka po rozpadzie małżeństwa to, że Bóg opisuje siebie jako kogoś, kto zna tę historię od środka?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg u Jeremiasza nie zerwał przymierza pierwszy. Nazwał po imieniu to, co druga strona zrobiła już dawno. **Czy bywa tak, że rozstanie nie niszczy małżeństwa, tylko stwierdza, że ono zostało zniszczone?** Czym takie rozstanie różni się od odprawienia „dla każdej przyczyny\"?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Dzban został przy studni",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Wracamy do Sychar. Rozmowa przy studni potoczyła się dalej. Jezus powiedział tej kobiecie wprost, że jest Mesjaszem. Potem wrócili uczniowie.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 4,28-30.39-42",
+       "przeklad": "BW",
+       "akapity": [
+        "Niewiasta tymczasem pozostawiła swój dzban, pobiegła do miasta i powiedziała ludziom: Chodźcie, zobaczcie człowieka, który powiedział mi wszystko, co uczyniłam; czy to nie jest Chrystus? Wyszli więc z miasta i przyszli do niego. [...]",
+        "I wielu Samarytan z tego miasta uwierzyło weń dzięki świadectwu niewiasty, która mówiła: Powiedział mi wszystko, co uczyniłam. Gdy więc Samarytanie przyszli do niego, prosili go, aby u nich pozostał; i pozostał tam dwa dni. I jeszcze więcej ich uwierzyło dzięki nauce jego. I mówili do niewiasty: Wierzymy już nie dzięki twemu opowiadaniu; sami bowiem słyszeliśmy i wiemy, że ten jest prawdziwie Zbawicielem świata."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W południe przyszła sama, o porze, kiedy przy studni nikogo nie ma. Teraz biegnie do ludzi. Jej historia nie zmieniła się ani o jeden fakt. **Co się zmieniło?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Powiedział mi wszystko, co uczyniłam\". To zdanie mogło być jej największym wstydem, a stało się jej świadectwem. **Co musiało być w sposobie, w jaki Jezus jej to powiedział, że tak to zapamiętała?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus zostaje dwa dni w mieście tej kobiety, a całe miasto słucha Go dzięki niej. **Co to mówi o miejscu, jakie ludzie po rozpadzie małżeństwa mają we wspólnocie Jezusa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W Ewangelii Jana to pierwsza osoba, której Jezus mówi wprost, że jest Mesjaszem. Nie wybrał do tego nauczyciela Pisma w Jerozolimie, tylko Samarytankę po pięciu małżeństwach. Niczego jej przedtem nie kazał naprawić. Dzban zostaje przy studni, bo pragnienie, z którym przyszła, było starsze i głębsze niż to, które gasi woda.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które z dzisiejszych zdań powinien usłyszeć ktoś, komu rozpada się albo rozpadło małżeństwo?** A które zdanie taki człowiek zwykle słyszy od wierzących zamiast tego?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Gdyby osoba świeżo po rozwodzie usiadła dziś pierwszy raz w naszym zborze albo w tej grupie, **co by zobaczyła i usłyszała?** Czego by się bała?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest w tobie coś związanego z rozpadem, własnym, rodziców albo kogoś bliskiego, co wciąż czeka na zawiązanie?** Nie musisz mówić co.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus z Mt 19 i Jezus z J 4 to ta sama osoba. Ideał stawia tak wysoko, że uczniowie mówią „nie warto się żenić\", a przy studni nie wypowiada ani jednego słowa potępienia. **Jak wspólnota ma trzymać jedno i drugie naraz, żeby ideał nie stał się kijem, a łaska obojętnością?** Po czym poznać, że wypadło jedno albo drugie?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie zamykaj tego formułą. Warto natomiast, żeby padło spostrzeżenie, że Jezus wysoki ideał wypowiada do ludzi, którzy pytają, co im wolno, a łaskę okazuje osobie, która już dawno wie, co poszło nie tak.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg nie zmienił zdania o małżeństwie. Nie zmienił też zdania o tobie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Ps 147,3 albo Iz 54,6.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jeśli rozpad dotyczy ciebie: po takim doświadczeniu zostają uczucia, których człowiek wstydzi się bardziej niż samego rozwodu. Ulga. Nienawiść. Tęsknota za kimś, kto zranił. **Nazwij jedno z nich przed Bogiem, bez poprawiania go na ładniejsze.** On już je zna, tak jak znał historię przy studni.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jeśli rozpad dotyczy kogoś, kogo znasz: zapytaj siebie, **co myślisz o tej osobie naprawdę, kiedy nikt nie słucha.** Czy jest w tym zdanie, którego Jezus w Sychar nie wypowiedział?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli w rozpadzie swojego małżeństwa masz własny udział, nazwij go przed Bogiem jednym zdaniem, w którym nie ma słowa „ale\" i nie ma drugiej osoby.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi albo daje do zrozumienia, że w jego małżeństwie jest przemoc. Albo ktoś inny oświadcza: „Bóg nienawidzi rozwodów, trzeba wytrwać\".** To jest flaga najważniejsza. Powiedz jasno i przy wszystkich: żaden z dzisiejszych tekstów nie każe nikomu zostawać tam, gdzie jest bity, zastraszany albo poniżany. Malachiasz mówi przeciw temu, kto krzywdzi, nie przeciw temu, kto przed krzywdą ucieka. Bezpieczeństwo jest pierwsze, reszta później. Nikt nie może usłyszeć od tej grupy, że ma wracać do krzywdziciela. Nie dopytuj przy stole. Po spotkaniu zostań z tą osobą, najlepiej razem z kimś zaufanym tej samej płci, i nie zostawaj z tym sam: powiadom pastora. Podaj numery: Niebieska Linia dla osób doznających przemocy w rodzinie 800 120 002, w zagrożeniu 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś jest w samym środku rozpadu: świeża wyprowadzka, pozew, walka o dzieci.** Ta osoba nie przyszła na studium, tylko żeby nie być sama. Grupa słucha i towarzyszy, nie leczy i nie doradza. Nie pozwól na rady prawne, na oceny drugiej strony ani na zdania w rodzaju „zobaczysz, jeszcze ci podziękuje\". Skróć materiał, jeśli trzeba. Gdy widzisz, że ktoś się nie trzyma, powiedz mu o telefonie zaufania dla dorosłych w kryzysie emocjonalnym, 116 123, i zachęć do rozmowy z psychologiem. Jeśli padają słowa o tym, że nie warto żyć, nie zostawiaj tej osoby samej i dzwoń pod 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„No dobrze, ale kto był winien?\" Grupa zaczyna ustalać winę w czyjejś historii.** Przerwij spokojnie. Przy stole słychać jedną stronę, a często żadnej. Wróć do pierwszego bloku: ewangelista nie podał powodu pięciu rozstań i nie był to przypadek.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Osoba w drugim związku pyta: „To ja żyję w grzechu?\"** Nie odpowiadaj przy stole ani „tak\", ani „nie\". To pytanie wymaga znajomości całej historii i spokojnej rozmowy z pastorem, a nie werdyktu grupy. Możesz powiedzieć: „To ważne pytanie i nie chcę go zbyć. Porozmawiajmy po spotkaniu, pomogę ci umówić się z pastorem\". Przypomnij, że Jezus rozmowę w Sychar zaczął od wody, nie od mężów.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dorosłe dziecko rozwiedzionych rodziców mówi o swoim bólu albo gwałtownie broni jednego z rodziców.** To osobna rana i często pomijana. Podziękuj, nie oceniaj żadnego z rodziców i nie każ wybierać strony. Blok 4 jest także dla tej osoby.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Kościół jest dziś za miękki\" albo „kościół mnie wtedy skreślił\".** Oba zdania mogą paść tego samego wieczoru i oba bywają prawdziwe. Nie broń instytucji i nie atakuj jej. Zapytaj: „Czego z tego, co Jezus zrobił przy studni, wtedy zabrakło?\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gość z tradycji katolickiej mówi o sakramencie albo o stwierdzeniu nieważności małżeństwa.** Przyjmij to z szacunkiem i nie wchodź w porównywanie kościołów. Wspólny grunt jest szeroki: przymierze, Bóg jako świadek, powaga przysięgi. Wróć do tekstu, który macie przed oczami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 3. Bloki 1, 2, 4 i 5 niosą całe spotkanie. Blok 2 bez bloku 5 zostawia ludzi z samym ideałem, a blok 5 bez bloku 2 z samą pociechą. Dopiero razem mówią prawdę.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś mówi albo daje do zrozumienia, że w jego małżeństwie jest przemoc. Albo ktoś inny oświadcza: „Bóg nienawidzi rozwodów, trzeba wytrwać\".",
+     "odpowiedz": "To jest flaga najważniejsza. Powiedz jasno i przy wszystkich: żaden z dzisiejszych tekstów nie każe nikomu zostawać tam, gdzie jest bity, zastraszany albo poniżany. Malachiasz mówi przeciw temu, kto krzywdzi, nie przeciw temu, kto przed krzywdą ucieka. Bezpieczeństwo jest pierwsze, reszta później. Nikt nie może usłyszeć od tej grupy, że ma wracać do krzywdziciela. Nie dopytuj przy stole. Po spotkaniu zostań z tą osobą, najlepiej razem z kimś zaufanym tej samej płci, i nie zostawaj z tym sam: powiadom pastora. Podaj numery: Niebieska Linia dla osób doznających przemocy w rodzinie 800 120 002, w zagrożeniu 112."
+    },
+    {
+     "sytuacja": "Ktoś jest w samym środku rozpadu: świeża wyprowadzka, pozew, walka o dzieci.",
+     "odpowiedz": "Ta osoba nie przyszła na studium, tylko żeby nie być sama. Grupa słucha i towarzyszy, nie leczy i nie doradza. Nie pozwól na rady prawne, na oceny drugiej strony ani na zdania w rodzaju „zobaczysz, jeszcze ci podziękuje\". Skróć materiał, jeśli trzeba. Gdy widzisz, że ktoś się nie trzyma, powiedz mu o telefonie zaufania dla dorosłych w kryzysie emocjonalnym, 116 123, i zachęć do rozmowy z psychologiem. Jeśli padają słowa o tym, że nie warto żyć, nie zostawiaj tej osoby samej i dzwoń pod 112."
+    },
+    {
+     "sytuacja": "„No dobrze, ale kto był winien?\" Grupa zaczyna ustalać winę w czyjejś historii.",
+     "odpowiedz": "Przerwij spokojnie. Przy stole słychać jedną stronę, a często żadnej. Wróć do pierwszego bloku: ewangelista nie podał powodu pięciu rozstań i nie był to przypadek."
+    },
+    {
+     "sytuacja": "Osoba w drugim związku pyta: „To ja żyję w grzechu?\"",
+     "odpowiedz": "Nie odpowiadaj przy stole ani „tak\", ani „nie\". To pytanie wymaga znajomości całej historii i spokojnej rozmowy z pastorem, a nie werdyktu grupy. Możesz powiedzieć: „To ważne pytanie i nie chcę go zbyć. Porozmawiajmy po spotkaniu, pomogę ci umówić się z pastorem\". Przypomnij, że Jezus rozmowę w Sychar zaczął od wody, nie od mężów."
+    },
+    {
+     "sytuacja": "Dorosłe dziecko rozwiedzionych rodziców mówi o swoim bólu albo gwałtownie broni jednego z rodziców.",
+     "odpowiedz": "To osobna rana i często pomijana. Podziękuj, nie oceniaj żadnego z rodziców i nie każ wybierać strony. Blok 4 jest także dla tej osoby."
+    },
+    {
+     "sytuacja": "„Kościół jest dziś za miękki\" albo „kościół mnie wtedy skreślił\".",
+     "odpowiedz": "Oba zdania mogą paść tego samego wieczoru i oba bywają prawdziwe. Nie broń instytucji i nie atakuj jej. Zapytaj: „Czego z tego, co Jezus zrobił przy studni, wtedy zabrakło?\"."
+    },
+    {
+     "sytuacja": "Gość z tradycji katolickiej mówi o sakramencie albo o stwierdzeniu nieważności małżeństwa.",
+     "odpowiedz": "Przyjmij to z szacunkiem i nie wchodź w porównywanie kościołów. Wspólny grunt jest szeroki: przymierze, Bóg jako świadek, powaga przysięgi. Wróć do tekstu, który macie przed oczami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3. Bloki 1, 2, 4 i 5 niosą całe spotkanie. Blok 2 bez bloku 5 zostawia ludzi z samym ideałem, a blok 5 bez bloku 2 z samą pociechą. Dopiero razem mówią prawdę."
+    }
+   ]
+  }
+ ]
+}

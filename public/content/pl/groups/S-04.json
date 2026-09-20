@@ -1,0 +1,827 @@
+{
+ "tytul": "Jezus i szabat",
+ "id": "S-04",
+ "seria": "Szabat jako dar",
+ "opis": "Jezus nie zniósł szabatu i go nie lekceważył. Wybierał ten dzień, żeby ludzi uwalniać.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Łk 4,16-21; Mk 2,23-28; Łk 13,10-17; J 5,1-3.5-11.16-17",
+  "p2": "Dz 17,2; Mk 3,1-6; Mt 12,5-8; Łk 14,1-6; J 9,1-7.13-16; J 7,21-24",
+  "p3": "Mk 2,27-28; J 5,18; J 10,35"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 29,
+  "p3": 33
+ },
+ "tagi": [
+  "szabat",
+  "Jezus",
+  "uzdrowienie",
+  "wolność",
+  "prawo i łaska"
+ ],
+ "wersja": 1,
+ "zdanie": "Jezus nie zabrał ludziom szabatu. Zabrał z szabatu to, co zabierało go ludziom.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie nie rozstrzyga, który dzień tygodnia jest właściwy. Patrzy na jedno: co Jezus robił z szabatem. Ewangelie pokazują, że co tydzień był w synagodze, że o ten dzień się spierał i że właśnie ten dzień wybierał, żeby ludzi uwalniać. Nie zniósł go i nie lekceważył. Zdejmował z niego to, co na niego nałożono, żeby znów było widać, po co jest.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Osoba spoza kościoła może poczuć, że jest nawracana na sobotę. Dziś nie o to chodzi i dobrze powiedzieć to na początku.",
+      "Z faryzeuszy i z przełożonego synagogi łatwo zrobić karykaturę. Ten człowiek nie był okrutny, był konsekwentny. Ostrze tych tekstów jest wymierzone w ludzi religijnych, czyli w nas.",
+      "U Jana słowo „Żydzi\" oznacza w tych scenach przywódców religijnych w Jerozolimie, nie naród. Jeśli przy stole padnie uogólnienie o Żydach, sprostuj je od razu i spokojnie.",
+      "Przy stole może siedzieć ktoś przewlekle chory. Uzdrowienia po osiemnastu i po trzydziestu ośmiu latach mogą go zaboleć bardziej niż pocieszyć."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie oceniaj niczyjego sposobu świętowania, ani sobotniego, ani niedzielnego. Nie pozwól, żeby rozmowa zamieniła się w polemikę między kościołami. Nie stawiaj nikogo z obecnych w roli faryzeusza.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie zasadę z domu albo ze szkoły, której trzeba było przestrzegać, choć nikt nie umiał wytłumaczyć, po co jest. Powiedz ją jednym zdaniem.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi, nie dopytuj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Według zwyczaju",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 4,16-21",
+       "przeklad": "BW",
+       "akapity": [
+        "I przyszedł do Nazaretu, gdzie się wychował, i wszedł według zwyczaju swego w dzień sabatu do synagogi, i powstał, aby czytać. I podano mu księgę proroka Izajasza, a otworzywszy księgę, natrafił na miejsce, gdzie było napisane: Duch Pański nade mną, przeto namaścił mnie, abym zwiastował ubogim dobrą nowinę, posłał mnie, abym ogłosił jeńcom wyzwolenie, a ślepym przejrzenie, abym uciśnionych wypuścił na wolność, abym zwiastował miłościwy rok Pana.",
+        "I zamknąwszy księgę, oddał ją słudze i usiadł. A oczy wszystkich w synagodze były w niego wpatrzone. Zaczął tedy mówić do nich: Dziś wypełniło się to Pismo w uszach waszych."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Łukasz pisze, że Jezus wszedł do synagogi w szabat „według zwyczaju swego\". **Co to jedno wyrażenie mówi o tym, jak wyglądały Jego soboty przez trzydzieści lat życia w Nazarecie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wypiszcie wszystkich, którym ten fragment Izajasza coś obiecuje. **Co łączy tych ludzi? Dlaczego Jezus ogłasza to akurat w szabat?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Dziś wypełniło się to Pismo w uszach waszych\". **Co w tym jednym zdaniu jest najśmielsze?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "„Miłościwy rok Pana\" to język roku jubileuszowego z Księgi Kapłańskiej. Był to szabat rozciągnięty na lata: ziemia odpoczywała, długi darowano, niewolnicy wracali do domów. Jezus zaczyna więc publiczną działalność w szabat i opisuje ją słowami wziętymi z szabatu. U Łukasza to zapowiedź całej reszty. Kolejne uwolnienia, które pokaże, będą się działy właśnie w ten dzień.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Nabożeństwo szabatowe w synagodze miało stały porządek. Pisma czytano po hebrajsku, potem ktoś przekładał je na aramejski, żeby zwykli ludzie rozumieli. Przełożony synagogi często prosił gościa, żeby przeczytał fragment i powiedział kilka słów. Jezus nie wdziera się więc na mównicę. Korzysta ze zwyczaju, który znał od dziecka, w miejscowości, w której wszyscy znali Jego.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ten sam zwyczaj",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 17,2",
+       "przeklad": "BW",
+       "akapity": [
+        "Paweł zaś, według zwyczaju swego, poszedł do nich i przez trzy sabaty rozprawiał z nimi na podstawie Pism,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ten sam autor, Łukasz, opisuje Pawła wiele lat po zmartwychwstaniu tym samym wyrażeniem, którym opisał Jezusa. **Co z tego wynika, a czego z samego tego zdania wywnioskować się nie da?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Kłosy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 2,23-28",
+       "przeklad": "BW",
+       "akapity": [
+        "I stało się, że Jezus szedł w sabat przez zboża, a uczniowie jego w drodze zaczęli rwać kłosy. Wtedy rzekli do niego faryzeusze: Patrz! Czemu czynią w sabat to, czego czynić nie wolno?",
+        "A On im rzekł: Czy nigdy nie czytaliście, co uczynił Dawid, kiedy był w potrzebie i był głodny, on i ci, którzy z nim byli? Jak wszedł do domu Bożego za Abiatara, arcykapłana, i jadł chleby pokładne, które wolno spożywać tylko kapłanom, a które dał również tym, którzy z nim byli?",
+        "Ponadto rzekł im: Sabat jest ustanowiony dla człowieka, a nie człowiek dla sabatu. Tak więc Syn Człowieczy jest Panem również i sabatu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie zarzut faryzeuszy uważnie. **O co dokładnie mają pretensję, a czego uczniom nie zarzucają?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus mógł w tym miejscu powiedzieć, że szabat już nie obowiązuje. **Co powiedział zamiast tego? Jak zdanie „sabat jest ustanowiony dla człowieka\" zmienia pytanie o to, co wolno?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Syn Człowieczy jest Panem również i sabatu\". **Co robi pan z tym, co do niego należy? Co to zdanie mówi o samym Jezusie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W sporze o przepis Jezus odpowiada opowieścią o głodnym Dawidzie, a nie innym przepisem. **Dlaczego wybrał taką drogę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Zrywanie kłosów ręką na cudzym polu prawo Mojżesza dopuszcza wprost, w Pwt 23,26. Nikt nie zarzuca uczniom kradzieży ani zbyt długiej drogi. Zarzut dotyczy tego, że zrywanie zaliczono do żniwa, a więc wykładni, nie samego przykazania. Rabini znali podobne zdanie: szabat jest wydany wam, a nie wy szabatowi. Mówili je o Izraelu. Jezus mówi „dla człowieka\" i sięga w ten sposób aż do stworzenia.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Uschła ręka",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 3,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "I wstąpił znowu do synagogi; a był tam człowiek z uschłą ręką. I podpatrywali go, czy uzdrowi go w sabat, aby go oskarżyć. Wtedy rzekł do człowieka, który miał uschłą rękę: Wyjdź na środek. A do nich rzekł: Czy wolno w sabat dobrze czynić, czy źle czynić, życie zachować czy zabić? A oni milczeli. I spojrzał na nich z gniewem, zasmucił się z powodu zatwardziałości ich serca, i rzekł owemu człowiekowi: Wyciągnij rękę! I wyciągnął, i ręka jego wróciła do dawnego stanu. A faryzeusze, wyszedłszy zaraz, naradzali się z herodianami, jak by go zgładzić."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus daje tylko dwie możliwości: dobrze czynić albo źle czynić. **Dlaczego nie ma w Jego pytaniu trzeciej, czyli nie robić nic i poczekać do wieczora?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kto w tej scenie w szabat przywraca życie, a kto w ten sam szabat planuje zabójstwo?** Co z tego wynika dla pytania, kto naprawdę narusza ten dzień?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Miłosierdzia chcę",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 12,5-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Albo czy nie czytaliście w zakonie, że w sabat kapłani w świątyni naruszają sabat, a są bez winy? Ale mówię wam, że tutaj jest coś większego niż świątynia. I gdybyście byli zrozumieli, co to jest: Miłosierdzia chcę, a nie ofiary, nie potępialibyście niewinnych. Albowiem Syn Człowieczy jest Panem sabatu."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mateusz dopisuje do tej samej sceny dwa argumenty, których u Marka nie ma. **Jezus nazywa uczniów „niewinnymi\". Czego według Niego faryzeusze nie zrozumieli, skoro znali przepisy lepiej niż ktokolwiek?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W zdaniu „sabat jest ustanowiony dla człowieka\" Marek używa czasownika `egeneto`, czyli „powstał, stał się\". Tym samym słowem grecki przekład Starego Testamentu opisuje w pierwszym rozdziale Księgi Rodzaju pojawianie się kolejnych dzieł stworzenia. „Człowiek\" to tutaj `anthropos`, słowo oznaczające człowieka w ogóle, a nie członka jednego narodu. Jezus nie odsyła więc do Synaju, tylko do początku, podobnie jak wtedy, gdy pytany o rozwody mówi, że „od początku tak nie było\".",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zwrot „Pan sabatu\" bywa odczytywany nie jako „ten, kto stoi ponad szabatem\", lecz jako echo starotestamentowych wyrażeń „szabat Pana\" i „moje szabaty\". Jeśli tak, Jezus stawia siebie w miejscu, które w tamtych zdaniach zajmuje Bóg.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czym różni się zdanie „mam władzę nad szabatem\" od zdania „ten dzień jest mój\"? Które z nich lepiej pasuje do tego, co Jezus w szabat robił?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Osiemnaście lat",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 13,10-17",
+       "przeklad": "BW",
+       "akapity": [
+        "A nauczał w jednej z synagog w sabat. A oto była tam kobieta, od osiemnastu lat cierpiąca, pochylona tak, że zupełnie nie mogła się wyprostować. A Jezus, ujrzawszy ją, przywołał ją i rzekł do niej: Kobieto, uwolniona jesteś od choroby swojej. I położył na nią ręce; i zaraz wyprostowała się, i chwaliła Boga.",
+        "A odpowiadając, przełożony bożnicy, oburzony, że Jezus uzdrowił w sabat, rzekł do ludu: Jest sześć dni, kiedy należy pracować. W te dni przychodźcie i dajcie się uzdrawiać, a nie w dzień sabatu.",
+        "Odpowiedział mu Pan i rzekł: Obłudnicy! Czy nie każdy z was odwiązuje w dzień sabatu swego wołu czy osła od żłobu i nie wyprowadza ich do wodopoju? A czy tej córki Abrahama, którą szatan związał już od osiemnastu lat, nie należało rozwiązać od tych pęt w dniu sabatu? A gdy On to mówił, zawstydzili się wszyscy przeciwnicy jego, natomiast lud cały radował się ze wszystkich chwalebnych czynów, jakich dokonywał."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przełożony synagogi ma argument: jest sześć innych dni, a po osiemnastu latach jedna doba niczego nie zmieni. **Co w jego rozumowaniu jest rozsądne? Czego on nie widzi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nie mówi, że kobietę „wolno było\" uzdrowić mimo szabatu. Mówi, że „należało\" ją rozwiązać w dniu szabatu. **Co to mówi o tym, do czego ten dzień służy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus nazywa ją „córką Abrahama\". **Co te dwa słowa zmieniają dla kobiety, która po osiemnastu latach stoi wyprostowana pośrodku synagogi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Kto w ostatnim zdaniu się wstydzi, a kto się cieszy?** Po której stronie odnalazłaby się nasza grupa?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W grece ten sam czasownik pada tu trzy razy: kobieta jest „rozwiązana\" od choroby, każdy „rozwiązuje\" wołu, córkę Abrahama należało „rozwiązać\". Przekłady zwykle gubią tę klamrę. Przykazanie o szabacie wymienia z nazwy wołu i osła, więc Jezus odwołuje się do praktyki, której nikt nie kwestionował. Ewangelie opisują siedem takich uzdrowień. Żadne nie było nagłym przypadkiem i żaden chory o nie nie prosił. To Jezus wybierał człowieka i wybierał dzień.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Przy stole faryzeusza",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 14,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy Jezus wszedł w sabat do domu jednego z przedniejszych faryzeuszów, aby spożyć posiłek, oni go podpatrywali. I oto zjawił się przed nim pewien człowiek chory na puchlinę. Wtedy Jezus zapytał uczonych w zakonie i faryzeuszów, mówiąc: Czy wolno w sabat uzdrawiać, czy też nie? A oni milczeli. On zaś ujął go, uzdrowił i odprawił. Potem rzekł do nich: Jeśli osioł lub wół którego z was wpadnie do studni, czy zaraz, nawet w dzień sabatu, go nie wyciągnie? I nie mogli mu na to dać odpowiedzi."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus przyjmuje w szabat zaproszenie na obiad do człowieka, który Go śledzi. **Co to mówi o tym, jak spędzał ten dzień i z kim?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Gospodarze milczą dwa razy, przed uzdrowieniem i po nim. **O czym świadczy milczenie ludzi, którzy znają odpowiedź?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czy Jezus atakował samo przykazanie?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Część badaczy czyta te sceny tak: chorzy cierpieli od lat i mogli poczekać do wieczora, Jezus uzdrawiał ich w szabat rozmyślnie, a więc chciał pokazać, że przykazanie Go nie wiąże. To poważny argument, bo opiera się na tym, co w tekście rzeczywiście jest, czyli na celowości.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Inni, w tym uczeni żydowscy i chrześcijanie spoza naszego kościoła, czytają te same sceny odwrotnie: spór dotyczy wykładni, a nie ważności przykazania. Jezus pyta, co „wolno\" w szabat, a takie pytanie ma sens tylko wtedy, gdy dzień obowiązuje. Zauważają też, że gdyby ewangeliści chcieli ogłosić zniesienie szabatu, zrobiliby to wyjątkowo nieudolnie, a na procesie Jezusa zarzut łamania szabatu w ogóle nie pada.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Obie strony zgadzają się w dwóch punktach. Jezus działał celowo. Ostatecznie nie chodziło o przepis, lecz o to, kim On jest.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co w tekstach, które dziś czytaliśmy, przemawia za pierwszym odczytaniem, a co za drugim?** Trzymajcie się tego, co jest napisane.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Weź łoże swoje",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 5,1-3.5-11.16-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem było święto żydowskie i udał się Jezus do Jerozolimy. A jest w Jerozolimie przy Owczej Bramie sadzawka, zwana po hebrajsku Betezda, mająca pięć krużganków. W nich leżało mnóstwo chorych, ślepych, chromych i wycieńczonych, którzy czekali na poruszenie wody. [...]",
+        "A był tam pewien człowiek, który chorował od trzydziestu ośmiu lat. I gdy Jezus ujrzał go leżącego, i poznał, że już od dłuższego czasu choruje, zapytał go: Chcesz być zdrowy? Odpowiedział mu chory: Panie, nie mam człowieka, który by mnie wrzucił do sadzawki, gdy woda się poruszy; zanim zaś ja sam dojdę, inny przede mną wchodzi. Rzecze mu Jezus: Wstań, weź łoże swoje i chodź. I zaraz ten człowiek odzyskał zdrowie, wziął łoże swoje i chodził. A właśnie tego dnia był sabat.",
+        "Toteż mówili Żydzi do uzdrowionego: Dziś sabat, nie wolno ci nosić łoża. On zaś odpowiedział im: Ten, który mnie uzdrowił, rzekł mi: Weź łoże swoje i chodź. [...]",
+        "I dlatego Żydzi prześladowali Jezusa, że to uczynił w sabat. A Jezus odpowiedział im: Mój Ojciec aż dotąd działa i Ja działam."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Z całego tłumu chorych Jezus wybiera jednego człowieka, który o nic nie prosił, i wybiera szabat. Mógł też powiedzieć, żeby po posłanie wrócił wieczorem. **Co chciał pokazać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przywódcy widzą człowieka, który chodzi po trzydziestu ośmiu latach, i pytają o posłanie. **Jak to możliwe, że można patrzeć na cud i zobaczyć wykroczenie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Mój Ojciec aż dotąd działa i Ja działam\". **Co Bóg robi w szabat? Co by o Nim mówiło, gdyby wobec czyjegoś cierpienia nie robił w ten dzień nic?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Chory mówi: „nie mam człowieka\". **Kto w naszym otoczeniu mógłby dziś powiedzieć to samo?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Zakazu noszenia posłania w prawie Mojżesza nie ma. Pochodził z ustnej tradycji, a jej późniejszy spis rozstrzygał, że wolno nieść łoże z leżącym na nim chorym, ale pustego już nie. Ten człowiek stał się więc winny dokładnie w chwili, w której wyzdrowiał. Że Bóg działa także w szabat, uczyli sami rabini, bo inaczej świat by się rozpadł. Zgorszenie wywołało co innego: Jezus przypisał to samo prawo sobie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Błoto",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 9,1-7",
+       "przeklad": "BW",
+       "akapity": [
+        "A przechodząc, ujrzał człowieka ślepego od urodzenia. I zapytali go uczniowie jego, mówiąc: Mistrzu, kto zgrzeszył, on czy rodzice jego, że się ślepym urodził? Odpowiedział Jezus: Ani on nie zgrzeszył, ani rodzice jego, lecz aby się na nim objawiły dzieła Boże. Musimy wykonywać dzieła tego, który mnie posłał, póki dzień jest; nadchodzi noc, gdy nikt nie będzie mógł działać. Póki jestem na świecie, jestem światłością świata. Po tych słowach splunął na ziemię i ze śliny uczynił błoto, i to błoto nałożył na oczy ślepego. I rzekł do niego: Idź i obmyj się w sadzawce Syloe (to znaczy Posłany). Odszedł tedy i obmył się, i wrócił z odzyskanym wzrokiem."
+       ]
+      },
+      {
+       "odnosnik": "J 9,13-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Poprowadzili wówczas tego, który przedtem był ślepy, do faryzeuszów. A był właśnie sabat w tym dniu, w którym Jezus uczynił błoto i otworzył oczy jego. Pytali go więc również faryzeusze, w jaki sposób przejrzał. A on im rzekł: Nałożył błota na oczy moje, i obmyłem się, i widzę. Na to niektórzy faryzeusze rzekli: Człowiek ten nie jest z Boga, bo nie przestrzega sabatu; inni natomiast mówili: Jakże może człowiek grzeszny dokonywać takich cudów? I nastąpił rozłam wśród nich."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus mógł uzdrowić samym słowem, a mimo to robi błoto, czego tradycja w szabat zakazywała. **Dlaczego nie wybrał drogi, która nikogo by nie uraziła?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Faryzeusze dzielą się na dwie grupy. **Od czego zaczyna swoje rozumowanie jedna, a od czego druga?** Od czego zaczynamy my, kiedy ktoś robi coś inaczej niż u nas przyjęte?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W obu opowiadaniach Jan mówi czytelnikowi, że był szabat, dopiero po uzdrowieniu. **Co się zmienia, kiedy czyta się scenę drugi raz, już z tą wiedzą?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie sądźcie z pozoru",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 7,21-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Odpowiadając Jezus, rzekł im: Jednego dzieła dokonałem, a wszyscy się dziwicie. Wszak Mojżesz dał wam obrzezkę (nie iżby ona pochodziła od Mojżesza, lecz od przodków) i w sabat obrzezujecie człowieka. Jeżeli człowiek w sabat przyjmuje obrzezkę, aby nie był naruszony zakon Mojżesza, to dlaczego się na mnie gniewacie, że w sabat uzdrowiłem całego człowieka? Nie sądźcie z pozoru, ale sądźcie sprawiedliwie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus sam wraca tu do uzdrowienia przy sadzawce i sam je komentuje. **Czy broni się jak ktoś, kto przykazanie odrzucił, czy jak ktoś, kto twierdzi, że je wypełnił?** Po czym to poznać?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co znaczy sądzić „z pozoru\" w sprawach wiary?** Podajcie przykład, który nie dotyczy nikogo z obecnych.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: „łamał sabat\"",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 5,18",
+       "przeklad": "BW",
+       "akapity": [
+        "Dlatego też Żydzi tym usilniej starali się o to, aby go zabić, bo nie tylko łamał sabat, lecz także Boga nazywał własnym Ojcem, i siebie czynił równym Bogu."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jedni czytają to zdanie jako stwierdzenie ewangelisty: Jezus rzeczywiście rozluźnił szabat i Jan to odnotowuje. Drudzy zwracają uwagę, że Jan podaje tu powody, dla których przeciwnicy chcieli Jezusa zabić, a więc referuje ich zarzut. Ten sam zarzut Jezus odpiera potem sam, w siódmym rozdziale. Dochodzi obserwacja językowa. Grecki czasownik `lyo`, oddany tu jako „łamał\", znaczy najczęściej „rozwiązywać, uwalniać\". Wraca w J 10,35, gdzie Jezus mówi, że Pismo „nie może być naruszone\".",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Nawet autorzy najpoważniejszej naukowej obrony niedzieli przyznają, że Jan przenosi całą dyskusję na pytanie, kim jest Jezus, i nie zajmuje się wprost tym, czy chrześcijanie mają zachowywać cotygodniowy szabat. To łączy oba odczytania: piąty rozdział Jana jest przede wszystkim o Synu, który robi to, co Ojciec.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czyj głos słyszymy w wersecie 18: narratora czy oskarżycieli?** Co w samym tekście pomaga to rozstrzygnąć, a co zostaje otwarte?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus zdejmował z szabatu to, co na niego nałożono, żeby znów było widać, po co ten dzień jest. **Gdzie w twojej wierze albo w twoim domu jakaś zasada zasłoniła to, czemu miała służyć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Spotkaliśmy dziś głodnych uczniów, pochyloną kobietę, człowieka przy sadzawce i przełożonego synagogi. **Kto z nich jest ci dziś najbliższy i dlaczego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **co od dawna cię wiąże i z czym chciałbyś przyjść do Pana szabatu?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przełożony synagogi bronił dnia, który kochał, i był przekonany, że broni Boga. **Jak odróżnić wierność przykazaniu od obrony własnego płotu, skoro od środka jedno i drugie wygląda tak samo?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie zamykaj tego formułą. Warto natomiast, żeby padło kryterium, które podsuwa sam tekst: co dzieje się z człowiekiem stojącym obok. W Łk 13 kobieta chwali Boga, a obrońca szabatu jest oburzony.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Jezus nie zabrał ludziom szabatu. Zabrał z szabatu to, co zabierało go ludziom.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Mk 2,27-28.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przełożony synagogi nie zauważył kobiety, bo pilnował dnia. Zapytaj Boga o jedno: **kogo ja nie zauważam, kiedy pilnuję swoich zasad?** Nie odpowiadaj za szybko.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Kiedy nadejdzie twój najbliższy dzień odpoczynku, zanim cokolwiek zaplanujesz, zapytaj siebie: **czy czekam na ten dzień, czy go odrabiam?** Jeśli odrabiasz, spróbuj przyznać przed sobą, co konkretnie zamieniło go w obowiązek.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** pomyśl o człowieku, o którym od lat myślisz, że „może poczekać jeszcze jeden dzień\". Zostań z tą myślą przed Bogiem, zanim zdecydujesz, co z nią zrobić.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli Jezus pokazał, że przepisy nie są ważne.\"** Wróć do Mk 2,27. „Ustanowiony dla człowieka\" to zdanie o celu dnia, a nie o jego końcu. Zapytaj: „Czego Jezus w tych scenach nie mówi, choć miał do tego idealną okazję?\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To w końcu sobota czy niedziela?\"** To prawdziwe pytanie i nie zbywaj go, ale dziś go nie rozstrzygacie. Powiedz wprost: „Dziś patrzymy, co Jezus robił z szabatem. Pytanie o dni to osobna rozmowa\". Teksty, na które powołują się obie strony, omawia osobne spotkanie: „Rozkosz, nie ciężar\". Nie pozwól, żeby stół podzielił się na obozy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Faryzeusze to byli obłudnicy i tyle.\"** Przełożony synagogi miał spójny argument, a jego zasada obowiązywała powszechnie: co można zrobić przed szabatem, tego się w szabat nie robi. Zapytaj: „Gdzie my mówimy komuś, żeby przyszedł w inny dzień?\" Jeśli rozmowa schodzi na Żydów w ogóle, przerwij: u Jana chodzi o grupę przywódców, a Jezus, uczniowie i uzdrowieni też byli Żydami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś przewlekle chory mówi: „Mnie nie uzdrowił\".** Nie tłumacz i nie pocieszaj formułą. Możesz powiedzieć, że te teksty nie obiecują każdemu uzdrowienia teraz. Mówią, po czyjej stronie stoi Bóg wobec cierpienia. Zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna oceniać, jak inni w zborze spędzają szabat.** Przerwij łagodnie: „Czytamy dziś o ludziach, którzy pilnowali cudzego szabatu i nie zauważyli człowieka obok. Zostańmy przy sobie\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gość spoza kościoła pyta, po co w ogóle dzień odpoczynku.** To dobre pytanie, ale nie temat tego spotkania. Odpowiedz jednym zdaniem z Mk 2,27 i zaproponuj rozmowę po spotkaniu. O tym, po co człowiekowi dzień odpoczynku, są osobne spotkania: „Zmęczeni\" oraz „Dzień, który był na początku\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu, zanim cokolwiek dodasz. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa rozkręca się tak, że nie zdążycie z materiałem.** Zostaw blok 1 w skróconej formie i idź do bloku 3. Pochylona kobieta jest tym fragmentem, bez którego spotkanie traci puentę.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Czyli Jezus pokazał, że przepisy nie są ważne.\"",
+     "odpowiedz": "Wróć do Mk 2,27. „Ustanowiony dla człowieka\" to zdanie o celu dnia, a nie o jego końcu. Zapytaj: „Czego Jezus w tych scenach nie mówi, choć miał do tego idealną okazję?\""
+    },
+    {
+     "sytuacja": "„To w końcu sobota czy niedziela?\"",
+     "odpowiedz": "To prawdziwe pytanie i nie zbywaj go, ale dziś go nie rozstrzygacie. Powiedz wprost: „Dziś patrzymy, co Jezus robił z szabatem. Pytanie o dni to osobna rozmowa\". Teksty, na które powołują się obie strony, omawia osobne spotkanie: „Rozkosz, nie ciężar\". Nie pozwól, żeby stół podzielił się na obozy."
+    },
+    {
+     "sytuacja": "„Faryzeusze to byli obłudnicy i tyle.\"",
+     "odpowiedz": "Przełożony synagogi miał spójny argument, a jego zasada obowiązywała powszechnie: co można zrobić przed szabatem, tego się w szabat nie robi. Zapytaj: „Gdzie my mówimy komuś, żeby przyszedł w inny dzień?\" Jeśli rozmowa schodzi na Żydów w ogóle, przerwij: u Jana chodzi o grupę przywódców, a Jezus, uczniowie i uzdrowieni też byli Żydami."
+    },
+    {
+     "sytuacja": "Ktoś przewlekle chory mówi: „Mnie nie uzdrowił\".",
+     "odpowiedz": "Nie tłumacz i nie pocieszaj formułą. Możesz powiedzieć, że te teksty nie obiecują każdemu uzdrowienia teraz. Mówią, po czyjej stronie stoi Bóg wobec cierpienia. Zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna oceniać, jak inni w zborze spędzają szabat.",
+     "odpowiedz": "Przerwij łagodnie: „Czytamy dziś o ludziach, którzy pilnowali cudzego szabatu i nie zauważyli człowieka obok. Zostańmy przy sobie\"."
+    },
+    {
+     "sytuacja": "Gość spoza kościoła pyta, po co w ogóle dzień odpoczynku.",
+     "odpowiedz": "To dobre pytanie, ale nie temat tego spotkania. Odpowiedz jednym zdaniem z Mk 2,27 i zaproponuj rozmowę po spotkaniu. O tym, po co człowiekowi dzień odpoczynku, są osobne spotkania: „Zmęczeni\" oraz „Dzień, który był na początku\"."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu, zanim cokolwiek dodasz. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Rozmowa rozkręca się tak, że nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 1 w skróconej formie i idź do bloku 3. Pochylona kobieta jest tym fragmentem, bez którego spotkanie traci puentę."
+    }
+   ]
+  }
+ ]
+}

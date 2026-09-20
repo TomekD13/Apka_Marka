@@ -1,0 +1,554 @@
+{
+ "tytul": "Wdzięczność",
+ "id": "E-12",
+ "seria": "Emocje",
+ "opis": "Wdzięczność rodzi się z pamięci. Dlaczego zapominamy nie w biedzie, tylko w dobrobycie.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Łk 17,11-19; Ps 103,1-5; Pwt 8,10-14.17-18; Kol 3,15-17; 1Tes 5,16-18",
+  "p2": "Ps 107,1-2.8-9; Łk 22,19",
+  "p3": "1Tes 5,18"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 80,
+  "p3": 95
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 22,
+  "p3": 23
+ },
+ "tagi": [
+  "emocje",
+  "pamięć",
+  "dziękczynienie",
+  "pokora"
+ ],
+ "wersja": 1,
+ "zdanie": "Niewdzięczność rzadko jest złą wolą. Najczęściej jest zapomnieniem, a zapomina się najszybciej wtedy, gdy jest dobrze.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Wdzięczność w Biblii jest ściśle związana z pamięcią, a niewdzięczność z zapominaniem. To nie jest temat o dobrym nastawieniu ani o docenianiu drobiazgów. Mocnym punktem jest Pwt 8: ostrzeżenie, że zapomina się nie w biedzie, tylko w dobrobycie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole może mieć właśnie bardzo trudny czas. Zdanie „za wszystko dziękujcie\" może zabrzmieć okrutnie. Blok piąty prowadź ostrożnie.",
+      "Wyliczanie powodów do wdzięczności na zawołanie zamienia to spotkanie w ćwiczenie szkolne. Nie rób rundki „za co jesteś wdzięczny\".",
+      "Nie łącz wdzięczności z poczuciem winy w stylu „inni mają gorzej\"."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie sugeruj, że brak wdzięczności to grzech człowieka w kryzysie. Nie każ dziękować za cierpienie, bo tekst tego nie mówi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Powiedz o jednej rzeczy, którą ktoś dla ciebie zrobił dawno temu, a ty pomyślałeś o tym dopiero po latach.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, krótko.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Gdzie jest dziewięciu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 17,11-19",
+       "przeklad": "BW",
+       "akapity": [
+        "A w drodze do Jerozolimy przechodził między Samarią i Galileą. Gdy wszedł do pewnej wioski, wyszło naprzeciw niego dziesięciu trędowatych mężów, którzy stanęli z daleka. I podnieśli swój głos, mówiąc: Jezusie, Mistrzu! Zmiłuj się nad nami. A gdy ich ujrzał, rzekł do nich: Idźcie, ukażcie się kapłanom. A gdy szli, zostali oczyszczeni. Jeden zaś z nich, widząc, że został uzdrowiony, wrócił, donośnym głosem chwaląc Boga. I padł na twarz do nóg jego, dziękując mu, a był to Samarytanin. A Jezus odezwał się i rzekł: Czyż nie dziesięciu zostało oczyszczonych? A gdzie jest dziewięciu? Czyż nikt się nie znalazł, który by wrócił i oddał chwałę Bogu, tylko ten cudzoziemiec? I rzekł mu: Wstań, idź! Wiara twoja uzdrowiła cię."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wszyscy dziesięciu zostali oczyszczeni i wszyscy byli posłuszni poleceniu Jezusa. **Czego zatem zabrakło dziewięciu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus pyta „gdzie jest dziewięciu\". **To pytanie zadaje sam sobie czy komuś? Co ono wyraża?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Do tego jednego mówi: wiara twoja uzdrowiła cię, choć uzdrowiony był już wcześniej. **Co dostał ten, który wrócił, a czego nie dostali pozostali?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Tekst podkreśla, że był to Samarytanin, czyli obcy. **Po co ten szczegół?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Dziewięciu nie zrobiło nic złego. Wykonali dokładnie to, co Jezus powiedział: poszli do kapłanów. Nikt ich nie oskarża o nieposłuszeństwo. Brak wdzięczności nie jest tu złamaniem zasady, tylko czymś, czego po prostu zabrakło. Warto też zobaczyć, że powrót kosztował: tamten musiał zawrócić z drogi do własnego życia, które właśnie mu się otwierało.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Nie zapominaj",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 103,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Dawidowy. Błogosław, duszo moja, PanuI wszystko, co we mnie, imieniu jego świętemu! Błogosław, duszo moja, Panu I nie zapominaj wszystkich dobrodziejstw jego! On odpuszcza wszystkie winy twoje, Leczy wszystkie choroby twoje. On ratuje od zguby życie twoje; On wieńczy cię łaską i litością. On nasyca dobrem życie twoje, Tak iż odnawia się jak u orła młodość twoja."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Psalmista mówi do własnej duszy w trybie rozkazującym. **Dlaczego trzeba sobie kazać błogosławić i nie zapominać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 2 zakłada, że zapominanie jest domyślne. **Co takiego jest w dobrodziejstwach, że tak łatwo znikają z pamięci?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dalej idzie lista bardzo konkretna: winy, choroby, ratunek, łaska, nasycenie. **Dlaczego wdzięczność potrzebuje listy, a nie ogólnego wrażenia?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Niech mówią odkupieni",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 107,1-2.8-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Wysławiajcie Pana, albowiem jest dobry, Albowiem łaska jego trwa na wieki! Niech mówią odkupieni przez Pana, Ci, których wyzwolił z ręki nieprzyjaciela, [...] Niechaj wysławiają Pana za łaskę jego I za jego cuda dla synów ludzkich, Napoił bowiem duszę pragnącego, A duszę głodnego napełnił dobrem!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm wzywa odkupionych, żeby mówili. **Do kogo i po co?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czym różni się wdzięczność powiedziana na głos od tej, którą się tylko czuje?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Gdy najesz się do syta",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 8,10-14.17-18",
+       "przeklad": "BW",
+       "akapity": [
+        "gdzie będziesz jadł do syta i błogosławił Pana, Boga twego, za tę piękną ziemię, którą ci dał. Bacz, abyś nie zapomniał Pana, Boga twego, zaniedbując jego przykazania, prawa i ustawy, które ci dziś nadaję. Aby gdy się najesz do syta, gdy pobudujesz sobie piękne domy, gdzie będziesz mieszkał, i gdy twoje bydło i trzody rozmnożą się, i gdy będziesz posiadał wiele srebra i złota, i wszystkiego będziesz miał wiele, serce twoje nie stało się wyniosłe oraz abyś nie zapomniał Pana, Boga twego, który cię wyprowadził z ziemi egipskiej, z domu niewoli, [...] Abyś nie mówił w swoim sercu: Moja moc i siła mojej ręki zdobyła mi to bogactwo. Pamiętaj, że to Pan, Bóg twój, daje ci siłę do zdobywania bogactwa, aby potwierdzić swoje przymierze, które poprzysiągł twoim ojcom, jak się to dziś okazuje."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ostrzeżenie dotyczy czasu dobrobytu, nie biedy. **Dlaczego to właśnie wtedy zapomina się o Bogu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 17 podaje konkretne zdanie, którego mają nie mówić: moja moc i siła mojej ręki zdobyła mi to bogactwo. **Co to zdanie wycina z obrazu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Tekst łączy zapomnienie z wyniosłością serca. **Jak te dwie rzeczy się ze sobą wiążą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Mojżesz mówi to ludziom, którzy dopiero mają wejść do ziemi obiecanej, czyli w przeddzień największego dobrobytu w ich historii. Nie ostrzega ich przed głodem ani przed wrogiem, tylko przed sytością. Wdzięczność wymaga pamiętania, skąd się wzięło to, co mam, a dostatek działa jak znieczulenie na tę pamięć. Im dłużej coś mamy, tym bardziej wygląda to na naszą zasługę.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Bądźcie wdzięczni",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kol 3,15-17",
+       "przeklad": "BW",
+       "akapity": [
+        "A w sercach waszych niech rządzi pokój Chrystusowy, do którego też powołani jesteście w jednym ciele; a bądźcie wdzięczni. Słowo Chrystusowe niech mieszka w was obficie; we wszelkiej mądrości nauczajcie i napominajcie jedni drugich przez psalmy, hymny, pieśni duchowne, wdzięcznie śpiewając Bogu w sercach waszych; i wszystko, cokolwiek czynicie w słowie lub w uczynku, wszystko czyńcie w imieniu Pana Jezusa, dziękując przez Niego Bogu Ojcu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł stawia wdzięczność obok pokoju i Słowa mieszkającego w ludziach. **Dlaczego akurat w tym towarzystwie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 17 rozciąga dziękczynienie na wszystko, co robimy w słowie i w uczynku. **Jak miałoby to wyglądać w zwykłym dniu pracy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Wdzięczność pojawia się tu w kontekście wspólnoty i śpiewu, nie w samotności. **Co to dodaje?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Na pamiątkę",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 22,19",
+       "przeklad": "BW",
+       "akapity": [
+        "I wziąwszy chleb, i podziękowawszy, łamał i dawał im, mówiąc: To jest ciało moje, które się za was daje; to czyńcie na pamiątkę moją."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus podziękował nad chlebem w noc przed śmiercią. **Za co dziękował, wiedząc, co się zaraz stanie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ustanawia obrzęd, którego istotą jest pamiętanie. **Dlaczego wdzięczność potrzebuje powtarzalnej formy, a nie tylko dobrej woli?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Za wszystko dziękujcie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Tes 5,16-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Zawsze się radujcie. Bez przystanku się módlcie. Za wszystko dziękujcie; taka jest bowiem wola Boża w Chrystusie Jezusie względem was."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł pisze „za wszystko dziękujcie\", a nie „za wszystko się cieszcie\". **Czy to znaczy, że mamy dziękować za krzywdę i chorobę? Przeczytajcie dokładnie, co jest napisane.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Trzy polecenia stoją razem: radujcie się, módlcie się, dziękujcie. **Co się stanie, jeśli wyjmiemy środkowe?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak dziękować w środku nieszczęścia, nie kłamiąc? Gdzie jest granica między wdzięcznością a udawaniem, że jest dobrze?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "zwróć uwagę, że Paweł pisze „za wszystko\", czyli w każdej sytuacji, a nie „za każdą rzecz jako dobrą\". Ale nie podawaj tego od razu, niech grupa sama do tego dojdzie.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalmista musiał kazać sobie pamiętać. **Co ty robisz, żeby nie zapomnieć? Masz jakikolwiek sposób, czy liczysz na pamięć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pwt 8 ostrzega, że zapomina się w dobrobycie. **W której dziedzinie życia jest ci teraz najlepiej? Sprawdź, czy to nie tam najrzadziej dziękujesz.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **jest ktoś, komu nigdy nie podziękowałeś, a powinieneś?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Niewdzięczność rzadko jest złą wolą. Najczęściej jest zapomnieniem, a zapomina się najszybciej wtedy, gdy jest dobrze.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Ps 103,2 albo Pwt 8,18.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Wróć myślą do czegoś, co dziś traktujesz jak oczywistość, a co kiedyś było prośbą. **Zapytaj siebie, kiedy przestałeś to zauważać.** Zwykle da się wskazać moment.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Wypowiedz komuś jedno konkretne podziękowanie, którego ta osoba się nie spodziewa. **Nie ogólne „dziękuję za wszystko\", tylko za rzecz, o której pewnie zapomniała.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli jest ktoś, kto ci pomógł, a ty nigdy tego nie uznałeś, bo było to dawno albo niewygodne, zrób to teraz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Trzeba dziękować za wszystko, także za cierpienie.\"** Zatrzymaj się przy tekście. Paweł pisze „za wszystko dziękujcie\", co znaczy: w każdej sytuacji, a nie że każda rzecz jest dobra. Ta różnica ma znaczenie dla kogoś, kto właśnie stracił dziecko.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi, że nie ma za co dziękować.** Nie przekonuj i nie podpowiadaj listy. Zapytaj, od kiedy tak jest. Po spotkaniu wróć do tej osoby.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rundka „za co jesteś wdzięczny\".** Nie rób tego, choćby ktoś prosił. To zamienia wdzięczność w ćwiczenie i prowadzi do odpowiedzi przewidywalnych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Inni mają gorzej, więc powinniśmy dziękować.\"** To nie jest wdzięczność, tylko porównywanie się, czyli zazdrość od drugiej strony. Nie rozwijaj.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa robi się sentymentalna.** Wróć do Pwt 8. Ten tekst jest ostry i dobrze studzi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada długie świadectwo.** Wysłuchaj, ale pilnuj, żeby nie zamieniło się to w licytację. Potem wróć pytaniem do tekstu.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Trzeba dziękować za wszystko, także za cierpienie.\"",
+     "odpowiedz": "Zatrzymaj się przy tekście. Paweł pisze „za wszystko dziękujcie\", co znaczy: w każdej sytuacji, a nie że każda rzecz jest dobra. Ta różnica ma znaczenie dla kogoś, kto właśnie stracił dziecko."
+    },
+    {
+     "sytuacja": "Ktoś mówi, że nie ma za co dziękować.",
+     "odpowiedz": "Nie przekonuj i nie podpowiadaj listy. Zapytaj, od kiedy tak jest. Po spotkaniu wróć do tej osoby."
+    },
+    {
+     "sytuacja": "Rundka „za co jesteś wdzięczny\".",
+     "odpowiedz": "Nie rób tego, choćby ktoś prosił. To zamienia wdzięczność w ćwiczenie i prowadzi do odpowiedzi przewidywalnych."
+    },
+    {
+     "sytuacja": "„Inni mają gorzej, więc powinniśmy dziękować.\"",
+     "odpowiedz": "To nie jest wdzięczność, tylko porównywanie się, czyli zazdrość od drugiej strony. Nie rozwijaj."
+    },
+    {
+     "sytuacja": "Grupa robi się sentymentalna.",
+     "odpowiedz": "Wróć do Pwt 8. Ten tekst jest ostry i dobrze studzi."
+    },
+    {
+     "sytuacja": "Ktoś opowiada długie świadectwo.",
+     "odpowiedz": "Wysłuchaj, ale pilnuj, żeby nie zamieniło się to w licytację. Potem wróć pytaniem do tekstu."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,822 @@
+{
+ "tytul": "Talenty",
+ "id": "PJ-11",
+ "seria": "Przypowieści Jezusa",
+ "opis": "O słudze, który zakopał fortunę, bo źle myślał o swoim panu, i o tym, jaki ten pan jest naprawdę.",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Mt 25,14-30",
+  "p2": "Mt 24,3; Rdz 3,10; Rz 8,15; Łk 19,11-13.15-24; Ps 18,26-27; Łk 12,48",
+  "p3": "Mt 13,12; Ef 2,8-10"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 32
+ },
+ "tagi": [
+  "przypowieści",
+  "obraz Boga",
+  "lęk",
+  "wierność",
+  "dary",
+  "powrót Jezusa"
+ ],
+ "wersja": 1,
+ "zdanie": "To, co myślisz o Panu, decyduje o tym, co zrobisz z tym, co od Niego masz.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ta przypowieść zwykle kończy jako zachęta, żeby bardziej się starać. Tekst idzie gdzie indziej. Trzeci sługa nie przegrywa na braku zdolności ani na lenistwie w zwykłym sensie. Przegrywa na tym, co myśli o swoim panu. Mówi to sam, własnymi słowami, w wersecie 24. Spotkanie ma doprowadzić grupę do pytania: jakiego pana noszę w głowie i co ten obraz robi z tym, co dostałem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Każda przypowieść Jezusa poprawia jakiś fałszywy obraz Boga. Ta poprawia obraz Boga twardego, który więcej żąda, niż daje, i przy którym najbezpieczniej jest niczego nie ruszać. Taki obraz nie robi z człowieka buntownika. Robi z niego kogoś, kto pilnuje czystej karty. Dwie rzeczy warto mieć w głowie. Pan z tej historii nie jest inwestorem, który czeka na stopę zwrotu: powierzony majątek to dobro, którym sługa ma obracać wśród ludzi. I druga: przypowieść jest zwierciadłem jednej prawdy, więc nie buduje się nauki na jej pobocznych szczegółach, na przykład na bankierach i odsetkach.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole może siedzieć ktoś, kto uważa, że zmarnował życie: lata, zdrowie, małżeństwo, powołanie. Usłyszy „sługo zły i leniwy\" jako zdanie o sobie. Zobacz pierwszą czerwoną flagę, zanim zaczniesz.",
+      "Ktoś wychowany w strachu przed Bogiem ma w głowie dokładnie pana z wersetu 24. Dla niego to spotkanie może być bardzo ważne, ale nie wolno go do niczego popychać.",
+      "Rozmowa łatwo zjeżdża w porównywanie: kto ile dostał, kto ile robi w zborze. Tekst ucina to identyczną pochwałą dla dwóch pierwszych.",
+      "Słowo „talent\" znaczy dziś uzdolnienie. W przypowieści to pieniądze, i to ogromne."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie kończ wezwaniem do większego zaangażowania w zborze. Nie pytaj nikogo, co zakopał. Nie rób z zysku dowodu Bożego błogosławieństwa. Nie broń pana przed zarzutami sługi zbyt szybko, niech grupa sama sprawdzi je w tekście.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie sytuację, w której ktoś powierzył ci coś cennego: klucze do mieszkania, dziecko na popołudnie, ważne zadanie w pracy. Powiedz jednym zdaniem, co wtedy poczułeś najpierw: radość czy obawę.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, jednym zdaniem. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Majątek w cudzych rękach",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 25,14-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Będzie bowiem tak jak z człowiekiem, który odjeżdżając, przywołał swoje sługi i przekazał im swój majątek. I dał jednemu pięć talentów, a drugiemu dwa, a trzeciemu jeden, każdemu według jego zdolności, i odjechał."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Pan wyjeżdża i zostawia majątek sługom. **Co ten gest mówi o panu, zanim ktokolwiek cokolwiek zrobi?** Wypiszcie, czego w tej scenie nie ma, a czego można by się spodziewać.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Każdy dostaje „według jego zdolności\". **Jak można to usłyszeć jako niesprawiedliwość, a jak jako troskę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Pan nie zostawia żadnej instrukcji. **Skąd słudzy mają wiedzieć, czego on chce?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Talent nie oznaczał wtedy uzdolnienia. Był miarą wagi kruszcu i odpowiadał mniej więcej sześciu tysiącom denarów, a denar był dniówką robotnika. Jeden talent to około dwudziestu lat pracy. Sługa, który dostał najmniej, trzymał w rękach fortunę. Znaczenie „zdolność\" przylgnęło do słowa dopiero później, właśnie za sprawą tej przypowieści.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** To ostatnie dni przed ukrzyżowaniem. Jezus siedzi z uczniami na Górze Oliwnej i odpowiada na ich pytanie o koniec. Najpierw mówi o znakach, potem przestaje mówić o datach i opowiada kilka historii o czekaniu: o słudze, któremu pan się spóźnia, o pannach czekających na oblubieńca, o talentach. Zaraz po tej przypowieści przyjdzie obraz sądu nad narodami. Wszystkie te opowieści odpowiadają na jedno pytanie: co robić, kiedy pana długo nie ma.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Bogaci właściciele często wyjeżdżali na długo, a majątkiem obracali w ich imieniu zaufani słudzy. Taki sługa nie był właścicielem, ale działał z pełną swobodą. Bezpiecznego systemu bankowego dla wszystkich nie było, więc zakopanie kosztowności uchodziło za zwyczajną, roztropną ostrożność.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 24,3",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy siedział na Górze Oliwnej, przystąpili do niego uczniowie na osobności, mówiąc: Powiedz nam, kiedy się to stanie i jaki będzie znak twego przyjścia i końca świata?"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Uczniowie pytają „kiedy\". Jezus odpowiada historią o tym, co słudzy robili w czasie nieobecności pana. **Na jakie pytanie On w ten sposób odpowiada zamiast tego, które zadali?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Zaraz poszedł",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 25,16-18",
+       "przeklad": "BW",
+       "akapity": [
+        "A ten, który wziął pięć talentów, zaraz poszedł, obracał nimi i zyskał dalsze pięć. Podobnie i ten, który wziął dwa, zyskał dalsze dwa. A ten, który wziął jeden, odszedł, wykopał dół w ziemi i ukrył pieniądze pana swego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "O pierwszym słudze napisano, że „zaraz poszedł\". **Co trzeba myśleć o panu, żeby bez wahania ryzykować jego majątkiem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Trzeci sługa niczego nie kradnie i niczego nie traci. **Przed czym chroni talent, a przed czym chroni siebie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Obracanie pieniędzmi mogło skończyć się stratą. **Dlaczego przypowieść nie pokazuje żadnego sługi, który próbował i stracił?** Co to może mówić o tym, na czym panu zależy?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pierwsze „zląkłem się\"",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 3,10",
+       "przeklad": "BW",
+       "akapity": [
+        "A on odpowiedział: Usłyszałem szelest twój w ogrodzie i zląkłem się, gdyż jestem nagi, dlatego skryłem się."
+       ]
+      },
+      {
+       "odnosnik": "Rz 8,15",
+       "przeklad": "BW",
+       "akapity": [
+        "Wszak nie wzięliście ducha niewoli, by znowu ulegać bojaźni, lecz wzięliście ducha synostwa, w którym wołamy: Abba, Ojcze!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pierwsze słowa człowieka do Boga po upadku to: zląkłem się i skryłem się. Trzeci sługa powie za chwilę prawie to samo. **Co łączy te dwie sceny?** Co w obu zostaje ukryte w ziemi albo wśród drzew?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł przeciwstawia ducha niewoli duchowi synostwa. **Jak wygląda ta sama praca wykonywana z jednego i z drugiego ducha?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Wejdź do radości",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 25,19-23",
+       "przeklad": "BW",
+       "akapity": [
+        "A po długim czasie powraca pan owych sług i rozlicza się z nimi. I przystąpiwszy ten, który wziął pięć talentów, przyniósł dalsze pięć talentów i rzekł: Panie! Pięć talentów mi powierzyłeś. Oto dalsze pięć talentów zyskałem. Rzekł mu pan jego: Dobrze, sługo dobry i wierny! Nad tym, co małe, byłeś wierny, wiele ci powierzę; wejdź do radości pana swego. Potem przystąpił ten, który wziął dwa talenty, i rzekł: Panie! Dwa talenty mi powierzyłeś, oto dalsze dwa talenty zyskałem. Rzekł mu pan jego: Dobrze, sługo dobry i wierny! Nad tym, co małe, byłeś wierny, wiele ci powierzę; wejdź do radości pana swego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Porównajcie słowo po słowie to, co pan mówi pierwszemu i drugiemu słudze. **Co z tego wynika dla kogoś, kto przez całe życie porównuje się z innymi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Pan chwali sługę jako „wiernego\", nie jako skutecznego. Pięć talentów nazywa czymś małym. **Co w takim razie jest dla niego duże?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Wejdź do radości pana swego\" nie brzmi jak język rozliczenia. **Jak brzmi? Czego ten pan chciał od początku: zysku czy czegoś innego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Pan wraca „po długim czasie\". Jezus mówi to uczniom, którzy chcieli znać datę. Przypowieść zakłada, że czekanie potrwa dłużej, niż ktokolwiek się spodziewa, i że ten czas nie jest pusty. Nagrodą nie jest odpoczynek od zadań, tylko większe zaufanie i miejsce przy stole pana. Pochwała nie rośnie razem z kwotą.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ta sama historia opowiedziana inaczej",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kilka dni wcześniej, pod Jerychem, Jezus opowiedział podobną historię ludziom, którzy myśleli, że Królestwo objawi się natychmiast.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 19,11-13.15-24",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy oni tego słuchali, powiedział im dodatkowo podobieństwo, dlatego, że był blisko Jerozolimy, a oni mniemali, że wkrótce ma się objawić Królestwo Boże. Rzekł więc: Pewien człowiek szlachetnego rodu udał się do dalekiego kraju, aby objąć królowanie i wrócić. Przywołał więc dziesięciu sług swoich i dał im dziesięć min, i rzekł do nich: Obracajcie nimi, aż powrócę. [...]",
+        "A gdy on, objąwszy królowanie powrócił, kazał przywołać do siebie te sługi, którym dał pieniądze, aby się dowiedzieć, ile kto zarobił. Zjawił się więc pierwszy i rzekł: Panie, mina twoja przyniosła dziesięć min zysku. I rzekł do niego: To dobrze, sługo dobry, przeto iż w małym byłeś wierny, obejmij władzę nad dziesięciu miastami. I przyszedł drugi, mówiąc: Panie, mina twoja przyniosła pięć min. Rzekł i do niego: Także i ty bądź nad pięcioma miastami. A inny przyszedł i rzekł: Panie, oto mina twoja, którą trzymałem w chustce. Bałem się bowiem ciebie, żeś człowiekiem surowym; bierzesz, czego nie położyłeś, i żniesz, czego nie posiałeś. Rzecze do niego: Na podstawie twoich słów osądzę cię, sługo zły. Wiedziałeś, że jestem człowiekiem surowym; biorę, czego nie położyłem, i żnę, czego nie posiałem. Dlaczego więc nie dałeś pieniędzy moich do banku? Po powrocie miałbym je z zyskiem? A do tych, którzy stali obok, powiedział: Odbierzcie od niego minę, a dajcie temu, który ma dziesięć min."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "U Mateusza każdy dostaje inną sumę i taką samą pochwałę. U Łukasza każdy dostaje tyle samo, a wyniki są różne. Mina to około stu dniówek, sześćdziesiąt razy mniej niż talent. **Co każda wersja mówi komuś, kto uważa, że dostał od życia za mało?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Słudzy u Łukasza mówią „mina twoja przyniosła\", nie „zarobiłem\". **Co ten sposób mówienia zdradza o tym, jak rozumieją swoją rolę?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W obu wersjach różni się niemal wszystko poza jednym: sługą, który się bał, i jego zdaniem o panu. **Dlaczego właśnie ta postać wraca za każdym razem?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Wiedziałem o tobie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 25,24-27",
+       "przeklad": "BW",
+       "akapity": [
+        "Wreszcie przystąpił i ten, który wziął jeden talent, i rzekł: Panie! Wiedziałem o tobie, żeś człowiek twardy, że żniesz, gdzieś nie siał, i zbierasz, gdzieś nie rozsypywał. Bojąc się tedy, odszedłem i ukryłem talent twój w ziemi; oto masz, co twoje. A odpowiadając, rzekł mu pan jego: Sługo zły i leniwy! Wiedziałeś, że żnę, gdzie nie siałem, i zbieram, gdzie nie rozsypywałem. Powinieneś był więc dać pieniądze moje bankierom, a ja po powrocie odebrałbym, co moje, z zyskiem."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Sługa zaczyna od słów „wiedziałem o tobie\". **Sprawdźcie jego portret pana na tym, co przeczytaliśmy do tej pory. Co się zgadza, a co nie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Porównajcie werset 24 z wersetem 26. Pan powtarza słowa sługi, ale jedno określenie pomija. **Które? Co pan przyjmuje z tego opisu, a czego nie bierze na siebie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Bojąc się, odszedłem i ukryłem\". **Jak obraz pana w głowie sługi doprowadził go krok po kroku do dołu w ziemi?** Spróbujcie odtworzyć jego rozumowanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Trzech ludzi służyło u tego samego pana i dwóch z nich znało kogoś zupełnie innego niż trzeci. Różnica nie wynikała z faktów, bo fakty były wspólne: wszyscy dostali fortunę na słowo. Pan nie prostuje zarzutu i nie broni swojego charakteru. Pokazuje tylko, że sługa nie był wierny nawet własnemu obrazowi. Kto naprawdę bałby się twardego pana, zaniósłby pieniądze bankierom. Strach nie zrobił ze sługi buntownika. Zrobił z niego człowieka, który dla bezpieczeństwa nie robi nic.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jakim Go widzisz",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 18,26-27",
+       "przeklad": "BW",
+       "akapity": [
+        "Z pobożnym obchodzisz się łaskawie, Z nienagannym postępujesz nienagannie. Z czystym okazujesz się czysty, A z przewrotnym postępujesz przewrotnie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm mówi, że to, jak człowiek żyje, wpływa na to, jakim widzi Boga. **Jak to mogło działać u trzeciego sługi przez ten „długi czas\", gdy talent leżał w ziemi?** Co było pierwsze: strach czy omijanie pana?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Skąd ludzie biorą obraz Boga twardego, który żnie, gdzie nie siał?** Wypiszcie źródła, nie oceniając nikogo.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Twardy\" z wersetu 24 to greckie `sklēros`: surowy, szorstki, bezwzględny. Łukasz w tym samym miejscu używa słowa `austēros`, które pierwotnie opisywało smak cierpki i ściągający. Oba opisują kogoś, z kim nie da się rozmawiać. Zwróćcie uwagę, że w całej przypowieści ten przymiotnik pada tylko z ust sługi. Narrator nigdzie tak pana nie nazywa, a sam pan, powtarzając zarzut w wersecie 26, tego słowa nie używa.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Oto masz, co twoje\" brzmi jak zamknięcie rachunku: jesteśmy kwita. **Czego sługa chce od pana, oddając dokładnie tyle, ile dostał?** Jakiej relacji szuka, a jakiej unika?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Kto ma",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 25,28-30",
+       "przeklad": "BW",
+       "akapity": [
+        "Weźcie przeto od niego ten talent i dajcie temu, który ma dziesięć talentów. Każdemu bowiem, kto ma, będzie dane i obfitować będzie, a temu, kto nie ma, zostanie zabrane i to, co ma. A nieużytecznego sługę wrzućcie w ciemności zewnętrzne; tam będzie płacz i zgrzytanie zębów."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dwaj pierwsi wchodzą „do radości pana\", trzeci trafia „w ciemności zewnętrzne\". **Gdzie był trzeci sługa wobec swojego pana, zanim zapadł jakikolwiek wyrok?** Co wyrok zmienia, a co tylko ujawnia?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Sługa mówił, że ma talent, i przyniósł go w całości. Pan mówi o nim jako o tym, „kto nie ma\". **Czego ten sługa nie miał?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Talent trafia do sługi, który ma już dziesięć, a pan go sobie nie zabiera. **Co to mówi o tym, komu pan ufa i dlaczego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Zakopany pieniądz nie rośnie, nie jest ziarnem. To, czego się nie używa, zanika, i to zdanie jest obserwacją, zanim stanie się wyrokiem. Zakończenie jest ostre i nie trzeba go łagodzić. Warto jednak zobaczyć, komu Jezus to mówi: uczniom, dwa dni przed krzyżem, na którym sam pokaże, jaki jest Pan. Najmocniejsza odpowiedź na werset 24 nie pada w przypowieści. Pada na Golgocie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Komu wiele dano",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 12,48",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz ten, który nie znał, choć popełnił coś karygodnego, odbierze niewiele razów. Komu wiele dano, od tego wiele będzie się żądać, a komu wiele powierzono, od tego więcej będzie się wymagać."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To zdanie mówi, że miara jest dopasowana do tego, co kto dostał i co wiedział. **Jak czyta się je ze strachem, a jak z zaufaniem?** Co w nim słyszy trzeci sługa, a co pierwszy?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czy wyrok nie przyznaje słudze racji",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Trudność jest realna. Sługa mówi, że pan jest twardy, a pan na końcu każe go wyrzucić w ciemności. Można zapytać, czy zakończenie nie potwierdza portretu z wersetu 24.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Są dwa sposoby czytania. W pierwszym pan z przypowieści jest obrazem Boga, a zarzut sługi jest fałszywy, co widać po hojności pana, po identycznej pochwale i po zaproszeniu do radości. Sługa dostaje na końcu to, co sam wybrał: życie z dala od pana, którego nie chciał znać. W drugim przypowieść jest przede wszystkim ostrzeżeniem o odpowiedzialności i nie należy z każdego szczegółu wyprowadzać nauki o charakterze Boga, tak jak nie robi się tego przy niesprawiedliwym sędzi z innej przypowieści. Oba odczytania zgadzają się w jednym: bezczynność ze strachu nie jest w oczach Jezusa neutralna, a obraz Boga, który ją rodzi, jest fałszywy.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 13,12",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem temu, kto ma, będzie dane i obfitować będzie; a temu kto nie ma, i to, co ma, będzie odjęte."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus powiedział to samo zdanie wcześniej, gdy tłumaczył, dlaczego mówi w przypowieściach. Tam chodziło o słuchanie. **Co łączy słuchanie, którego się nie używa, z talentem, którego się nie używa?** Czy to zdanie opisuje kaprys pana, czy sposób, w jaki działa każdy dar?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które z dwóch odczytań jest wam bliższe i co w tekście za nim stoi?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: rozliczenie i łaska",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ef 2,8-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem łaską zbawieni jesteście przez wiarę, i to nie z was: Boży to dar; nie z uczynków, aby się kto nie chlubił. Jego bowiem dziełem jesteśmy, stworzeni w Chrystusie Jezusie do dobrych uczynków, do których przeznaczył nas Bóg, abyśmy w nich chodzili."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł mówi, że zbawienie jest darem, a nie zapłatą. Jezus opowiada o panu, który rozlicza sługi. **Zanim uznacie, że te teksty się kłócą, sprawdźcie: co w przypowieści jest darem i w którym momencie zostaje dane?** Czy którykolwiek sługa zarobił na swój talent?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Trzej słudzy mieli jednego pana i dwa różne portrety. **Jaki portret Boga działa w tobie wtedy, gdy masz zaryzykować coś dla Niego albo dla drugiego człowieka?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zakopać można nie tylko pieniądze. **Jak wygląda zakopany talent u kogoś, kto prowadzi poprawne, ostrożne życie wierzącego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest coś, co dostałeś i co od dawna leży w ziemi, bo bałeś się, że zrobisz to źle?** Nie musisz mówić, co to jest.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W przypowieści nikt nie próbuje i nie traci. W życiu to się zdarza: ktoś zaryzykował dla Boga, włożył lata w służbę, małżeństwo albo dzieło, i został z niczym. **Co pan z tej przypowieści powiedziałby słudze, który wróciłby z pustymi rękami, ale nie z dołu w ziemi?** Czy tekst daje jakąkolwiek podstawę, żeby to przewidzieć?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "tekst o tym milczy i nie dopowiadaj za niego. Można zauważyć tylko tyle, że pan chwali wierność, nie wynik, i że jedynym zarzutem wobec trzeciego jest to, czego ze strachu nie zrobił.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "To, co myślisz o Panu, decyduje o tym, co zrobisz z tym, co od Niego masz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Mt 25,21 albo Mt 25,24-25.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Dokończ przed sobą zdanie trzeciego sługi: „Wiedziałem o Tobie, że jesteś...\". **Nie wpisuj tego, co powinieneś myśleć. Wpisz to, według czego naprawdę żyjesz.** Potem zapytaj, skąd masz ten obraz i czy kiedykolwiek sprawdziłeś go na Jezusie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o jednej rzeczy, której nie robisz wyłącznie ze strachu, że wyjdzie źle. Powiedz o niej Bogu wprost i zapytaj: **czego się po Tobie spodziewam, gdyby mi się nie udało?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli nosisz w sobie przekonanie, że zmarnowałeś lata, nie licz ich. Zostań przy słowach „wejdź do radości pana swego\" i zapytaj, czy wierzysz, że ten Pan chce cię mieć przy stole, a nie przy kasie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„To o mnie. Zmarnowałem życie.\"** Nie zaprzeczaj pospiesznie i nie pocieszaj frazesem. Podziękuj za szczerość. Potem zauważ dwie rzeczy z tekstu. Sługa nie zostaje potępiony za słaby wynik, tylko za to, że ze strachu przed panem nie zrobił nic i obwinił o to pana. A człowiek, który boli nad straconymi latami, nie stoi w miejscu trzeciego sługi, bo tamten niczego nie żałował. Nie rób przy grupie bilansu czyjegoś życia. Jeśli słyszysz rozpacz, a nie tylko żal, zostań z tą osobą po spotkaniu. Przy myślach samobójczych nie zostawaj z tym sam: telefon zaufania dla dorosłych w kryzysie to 116 123, numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja mam tylko jeden talent, inni mają pięć.\"** Wróć do wersetów 21 i 23 i poproś, żeby ktoś przeczytał je jeden po drugim. Pochwała jest identyczna. Możesz dodać, że jeden talent to dwadzieścia lat pracy, więc w tej historii nikt nie dostał mało.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli Bóg błogosławi tym, którzy pomnażają. Sukces jest znakiem Jego łaski.\"** Tekst chwali wierność, nie obrót. Pan nie pyta o stopę zwrotu i nie porównuje wyników. Jeśli rozmowa idzie w stronę pieniędzy i powodzenia, zapytaj: „Co pan nazywa w wersecie 21 małym, a co dużym?\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś wykorzystuje przypowieść, żeby zagonić innych do pracy w zborze.** Przerwij spokojnie. Ta przypowieść nie jest narzędziem do rozdzielania zadań i nikt przy stole nie ma prawa oceniać, co zakopał ktoś inny. Wróć do pytania w pierwszej osobie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Bóg, którego znam z domu, był dokładnie taki jak w wersecie 24.\"** To ważne zdanie i nie wolno go zbyć. Nie poprawiaj, nie wykładaj. Możesz powiedzieć: „W tej przypowieści tak o panu mówi tylko jeden człowiek i to ten, który go unikał\". Zaproponuj, żeby ta osoba przez jakiś czas patrzyła po prostu na Jezusa w Ewangeliach i pytała, czy jest twardy. Reszta to rozmowa na osobności, jeśli będzie jej chciała.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Leniwy\" pada pod adresem kogoś wyczerpanego albo chorego.** Wyczerpanie, depresja i choroba to nie jest lenistwo z wersetu 26. Sługa miał siły, żeby wykopać dół. Jeśli ktoś przykłada to słowo do siebie w takim stanie, powiedz to wprost i nie pozwól grupie doradzać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ciemności zewnętrzne, płacz i zgrzytanie zębów. Czyli jednak trzeba się bać.\"** Nie łagodź tekstu i nie strasz nim. Zauważ, że strach jest w tej przypowieści przyczyną upadku, a nie lekarstwem: jedyny sługa, który się bał, skończył najgorzej. Pytania o naturę kary odłóż do osobnego spotkania, jest o tym materiał „Czy Bóg mnie ukarze?\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Skróć bloki 2 i 3. Blok 4 niesie całe spotkanie i musi mieć czas.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„To o mnie. Zmarnowałem życie.\"",
+     "odpowiedz": "Nie zaprzeczaj pospiesznie i nie pocieszaj frazesem. Podziękuj za szczerość. Potem zauważ dwie rzeczy z tekstu. Sługa nie zostaje potępiony za słaby wynik, tylko za to, że ze strachu przed panem nie zrobił nic i obwinił o to pana. A człowiek, który boli nad straconymi latami, nie stoi w miejscu trzeciego sługi, bo tamten niczego nie żałował. Nie rób przy grupie bilansu czyjegoś życia. Jeśli słyszysz rozpacz, a nie tylko żal, zostań z tą osobą po spotkaniu. Przy myślach samobójczych nie zostawaj z tym sam: telefon zaufania dla dorosłych w kryzysie to 116 123, numer alarmowy 112."
+    },
+    {
+     "sytuacja": "„Ja mam tylko jeden talent, inni mają pięć.\"",
+     "odpowiedz": "Wróć do wersetów 21 i 23 i poproś, żeby ktoś przeczytał je jeden po drugim. Pochwała jest identyczna. Możesz dodać, że jeden talent to dwadzieścia lat pracy, więc w tej historii nikt nie dostał mało."
+    },
+    {
+     "sytuacja": "„Czyli Bóg błogosławi tym, którzy pomnażają. Sukces jest znakiem Jego łaski.\"",
+     "odpowiedz": "Tekst chwali wierność, nie obrót. Pan nie pyta o stopę zwrotu i nie porównuje wyników. Jeśli rozmowa idzie w stronę pieniędzy i powodzenia, zapytaj: „Co pan nazywa w wersecie 21 małym, a co dużym?\""
+    },
+    {
+     "sytuacja": "Ktoś wykorzystuje przypowieść, żeby zagonić innych do pracy w zborze.",
+     "odpowiedz": "Przerwij spokojnie. Ta przypowieść nie jest narzędziem do rozdzielania zadań i nikt przy stole nie ma prawa oceniać, co zakopał ktoś inny. Wróć do pytania w pierwszej osobie."
+    },
+    {
+     "sytuacja": "„Bóg, którego znam z domu, był dokładnie taki jak w wersecie 24.\"",
+     "odpowiedz": "To ważne zdanie i nie wolno go zbyć. Nie poprawiaj, nie wykładaj. Możesz powiedzieć: „W tej przypowieści tak o panu mówi tylko jeden człowiek i to ten, który go unikał\". Zaproponuj, żeby ta osoba przez jakiś czas patrzyła po prostu na Jezusa w Ewangeliach i pytała, czy jest twardy. Reszta to rozmowa na osobności, jeśli będzie jej chciała."
+    },
+    {
+     "sytuacja": "„Leniwy\" pada pod adresem kogoś wyczerpanego albo chorego.",
+     "odpowiedz": "Wyczerpanie, depresja i choroba to nie jest lenistwo z wersetu 26. Sługa miał siły, żeby wykopać dół. Jeśli ktoś przykłada to słowo do siebie w takim stanie, powiedz to wprost i nie pozwól grupie doradzać."
+    },
+    {
+     "sytuacja": "„Ciemności zewnętrzne, płacz i zgrzytanie zębów. Czyli jednak trzeba się bać.\"",
+     "odpowiedz": "Nie łagodź tekstu i nie strasz nim. Zauważ, że strach jest w tej przypowieści przyczyną upadku, a nie lekarstwem: jedyny sługa, który się bał, skończył najgorzej. Pytania o naturę kary odłóż do osobnego spotkania, jest o tym materiał „Czy Bóg mnie ukarze?\"."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Skróć bloki 2 i 3. Blok 4 niesie całe spotkanie i musi mieć czas."
+    }
+   ]
+  }
+ ]
+}

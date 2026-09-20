@@ -40,7 +40,9 @@ export default defineConfig({
         navigateFallback: base + 'index.html',
         // Panel statystyk to osobna aplikacja PHP. Service worker nie może
         // zastępować jej stroną Reacta po zainstalowaniu PWA.
-        navigateFallbackDenylist: [new RegExp('^' + base + 'stat/')],
+        // /beta/ to osobne wydanie testowe z wlasnym service workerem (deploy-beta.sh) -
+        // bez tego wyjatku glowna aplikacja podstawia tam swoja strone
+        navigateFallbackDenylist: [new RegExp('^' + base + 'stat/'), new RegExp('^' + base + 'beta/')],
         // nie precache'ujemy treści (bywa duża) – cache'ujemy ją w runtime; „Pobierz offline” ją rozgrzewa
         globPatterns: ['**/*.{js,css,html,svg,png,webp,woff2}'],
         // tresc dociagamy w runtime; baner w wersji 2560 tylko wtedy, gdy ekran go potrzebuje

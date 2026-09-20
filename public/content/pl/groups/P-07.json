@@ -1,0 +1,864 @@
+{
+ "tytul": "Jaki naprawdę jest Bóg?",
+ "id": "P-07",
+ "seria": "Pytania, które ludzie zadają",
+ "opis": "Obraz Boga wyniesiony z domu obok Boga, którego pokazuje Jezus.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Wj 33,18-23; 34,5-7; Lb 14,17-20; Ne 9,16-17; J 1,14.18; J 14,8-9; Łk 15,1-7; J 16,26-27; Rz 5,6-8",
+  "p2": "Jl 2,12-13; Hbr 1,1-3; Łk 9,51-56; Ez 33,11",
+  "p3": "Wj 34,6-7; J 1,17; Ez 18,1-4.20; Na 1,2-3.7"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 26,
+  "p3": 32
+ },
+ "tagi": [
+  "obraz Boga",
+  "charakter Boga",
+  "Ojciec",
+  "Jezus",
+  "łaska",
+  "strach"
+ ],
+ "wersja": 1,
+ "zdanie": "Jeśli chcesz wiedzieć, jaki jest Bóg, patrz na Jezusa. Wszystko, co do Niego nie pasuje, możesz spokojnie podać w wątpliwość.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Każdy przy stole ma jakiś obraz Boga, także ten, kto w Boga nie wierzy. Ten obraz rzadko pochodzi z Biblii. Częściej z domu, z lekcji religii, z jednego kazania, z twarzy własnego ojca. To spotkanie kładzie obok siebie dwa miejsca, w których Bóg sam mówi, jaki jest: zdanie wypowiedziane do Mojżesza na górze i życie Jezusa. Oś jest prosta. Mojżesz prosi „pokaż mi\" i słyszy opis. Filip prosi „pokaż nam\" i słyszy: patrzysz na Niego od trzech lat.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Słowo „Ojciec\" nie dla każdego jest ciepłe. Ktoś przy stole mógł mieć ojca, który bił, pił albo zniknął. Nie zakładaj, że to słowo pomaga.",
+      "Ktoś mógł być wychowany w strachu przed Bogiem, który wszystko widzi i wszystko zapisuje. Dla niego zdanie „Bóg jest miłością\" bywa pustym sloganem. Nie przekonuj, pokazuj tekst.",
+      "Łatwo zsunąć się w przeciwstawienie surowego Boga Starego Testamentu łagodnemu Jezusowi. Dzisiejsze teksty pokazują coś odwrotnego: najcieplejsze zdanie o Bogu pada na Synaju.",
+      "Drugi rów jest po przeciwnej stronie drogi: Bóg, któremu wszystko jedno. Autoportret z Księgi Wyjścia ma zdanie o winie i nie wolno go wycinać."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pytaj nikogo o jego ojca. Nie poprawiaj cudzego obrazu Boga, nawet jeśli jest ponury. Niech zrobi to tekst. Pełna historia ojca i dwóch synów z Łk 15 ma osobny materiał w serii o przypowieściach, a pytanie o sąd i piekło ma osobny materiał w tej serii. Dziś ich nie otwieraj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Kiedy byłeś dzieckiem, jak wyobrażałeś sobie Boga? Jeden obraz albo jedno słowo.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj odpowiedzi, także tych zabawnych i tych smutnych.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Pokaż mi",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Lud dopiero co ulał złotego cielca. Mojżesz wstawia się za nim i na koniec prosi o coś dla siebie.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 33,18-23",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Mojżesz: Pokaż mi, proszę, chwałę twoją! I odpowiedział Pan: Sprawię, że całe dostojeństwo moje przejdzie przed tobą, i ogłoszę imię „Pan\" przed tobą, i zmiłuję się, nad kim się zmiłuję, i zlituję się, nad kim się zlituję. Nadto powiedział: Nie możesz oglądać oblicza mojego, gdyż nie może mnie człowiek oglądać i pozostać przy życiu. I rzekł Pan: Oto miejsce przy mnie. Stań na skale. A gdy przechodzić będzie chwała moja, postawię cię w rozpadlinie skalnej i osłonię cię dłonią moją, aż przejdę, a gdy usunę dłoń moją, ujrzysz mnie z tyłu, oblicza mojego oglądać nie można."
+       ]
+      },
+      {
+       "odnosnik": "Wj 34,5-7",
+       "przeklad": "BW",
+       "akapity": [
+        "I zstąpił Pan w obłoku, a on stanął tam przy nim i wezwał imienia Pańskiego. Wtedy Pan przeszedł obok niego, a on zawołał: Panie, Panie, Boże miłosierny i łaskawy, nieskory do gniewu, bogaty w łaskę i wierność, zachowujący łaskę dla tysięcy, odpuszczający winę, występek i grzech, nie pozostawiający w żadnym razie bez kary, lecz nawiedzający winę ojców na synach i na wnukach do trzeciego i czwartego pokolenia!"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Mojżesz prosi o chwałę. **Czego spodziewalibyście się po pokazie Bożej chwały? Co Mojżesz dostaje zamiast tego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Wypiszcie po kolei wszystko, co w wersetach 6 i 7 pada o Bogu.** Co stoi na początku listy, a co na końcu? Co mówi sama kolejność?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Porównajcie dwie liczby: łaska „dla tysięcy\", wina „do trzeciego i czwartego pokolenia\". **Co mówi ta proporcja?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Te słowa padają tuż po złotym cielcu. **Co zmienia to, że Bóg przedstawia się w ten sposób właśnie wtedy, a nie w dniu, w którym lud był wierny?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To najważniejszy autoportret Boga w Starym Testamencie i zdanie najczęściej cytowane przez sam Stary Testament. Mojżesz chciał zobaczyć. Bóg dał mu usłyszeć. Chwała okazała się charakterem: miłosierdzie, łaska, cierpliwość, wierność, przebaczenie. Zdanie o winie stoi na końcu i jest krótsze, ale stoi. Bóg, który wszystko puszcza płazem, nie byłby dobrą wiadomością dla nikogo, kogo kiedyś skrzywdzono.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajskie `rachum`, czyli „miłosierny\", pochodzi od wyrazu `rechem`, który oznacza łono matki. Pierwsze słowo, jakim Bóg opisuje siebie, mówi o czułości wobec kogoś, kogo się nosiło.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Para „łaska i wierność\" to po hebrajsku `chesed we'emet`. `Chesed` to miłość, która nie odchodzi, bo związała się słowem. `Emet` to prawda w znaczeniu niezawodności.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "„Odpuszczający\" to hebrajskie `nasa`, które dosłownie znaczy „podnieść i nieść\". W języku prawa oznaczało wzięcie na siebie odpowiedzialności za cudzą winę.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jeśli przebaczyć znaczy „podnieść i ponieść\", to kto w tym zdaniu niesie ciężar?** Co to zmienia w rozumieniu przebaczenia jako machnięcia ręką?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: wina ojców na synach",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Wielu ludzi słyszy w wersecie 7 Boga, który karze wnuki za grzechy dziadków. Ta sama Biblia ma jednak tekst, w którym Bóg zakazuje takiego myślenia.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ez 18,1-4.20",
+       "przeklad": "BW",
+       "akapity": [
+        "I doszło mnie słowo Pana tej treści: Dlaczego to używacie między sobą przysłowia o ziemi izraelskiej: Ojcowie jedli kwaśne grona, a zęby synów ścierpły? Jakom żyw – mówi Wszechmocny Pan – że już nie będziecie wypowiadali w Izraelu tego przysłowia. Oto wszyscy ludzie są moi, zarówno ojciec, jak syn – są moimi. Każdy, kto grzeszy, umrze. [...] Człowiek, który grzeszy, umrze. Syn nie poniesie kary za winę ojca ani ojciec nie poniesie kary za winę syna. Sprawiedliwość będzie zaliczona sprawiedliwemu, a bezbożność spadnie na bezbożnego."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Są dwa sposoby czytania Wj 34,7. Pierwszy widzi tu opis skutków: trzy albo cztery pokolenia mieszkały wtedy pod jednym dachem i zło ojca realnie uderzało w cały dom. Drugi zwraca uwagę na równoległe zdanie w przykazaniach, gdzie mowa jest o pokoleniach „tych, którzy mnie nienawidzą\", czyli o dzieciach, które idą drogą ojców. Oba odczytania łączy jedno: nikt nie odpowiada przed Bogiem za cudzy grzech, a miara łaski jest w tym zdaniu nieporównanie większa niż miara winy.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdzie widzicie w życiu, że zło przechodzi z pokolenia na pokolenie?** Czym różni się zdanie „Bóg to zsyła\" od zdania „Bóg to widzi i nazywa\"?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Zdanie, którego się trzymali",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Mija trochę czasu. Lud stoi na granicy ziemi obiecanej i chce wybrać wodza, który zaprowadzi go z powrotem do Egiptu. Bóg mówi o końcu tego ludu. Mojżesz się modli.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Lb 14,17-20",
+       "przeklad": "BW",
+       "akapity": [
+        "Niechże więc teraz wielką okaże się moc Pana mojego, jak rzekłeś, mówiąc: Pan nierychły do gniewu i bardzo łaskawy przebacza winę i występek, choć nie pozostawia bez kary, lecz za winę ojców nawiedza synów do trzeciego i czwartego pokolenia. Odpuść przeto winę tego ludu według wielkości twojej łaski, jak już przebaczałeś ludowi temu od czasu wyjścia z Egiptu aż dotąd. I rzekł Pan: Odpuściłem na twoje słowo;"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Prawie tysiąc lat później, po powrocie z wygnania, lud opowiada Bogu własną historię.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ne 9,16-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz oni, nasi ojcowie, podle postąpili, usztywniając swoje karki i nie słuchając twoich przykazań. Uchylali się od posłuszeństwa, nie pomnąc na cuda, jakie czyniłeś z nimi, owszem, usztywniali swoje karki i wpadli na pomysł, aby wrócić do swojej niewoli w Egipcie. Ale Ty jesteś Bogiem odpuszczenia, miłosiernym i litościwym, cierpliwym i wielce łaskawym, więc ich nie opuściłeś."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Na czym Mojżesz opiera swoją prośbę? Jakich argumentów w jego modlitwie nie ma**, choć zwykle sięgamy po nie pierwsi?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Między tymi dwiema modlitwami jest prawie tysiąc lat porażek. **Co z tego tysiąclecia zapamiętali o sobie, a co o Bogu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Mojżesz mówi: „jak rzekłeś\". **Kto w takim razie wypowiedział słowa na górze?** Co znaczy, że to zdanie nie jest ludzką opinią o Bogu, tylko tym, co Bóg powiedział o sobie?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Zdanie z góry Synaj wraca w Biblii raz za razem: w psalmach, u Joela, u Nehemiasza, u Nahuma. Izrael sięgał po nie zawsze wtedy, gdy nie miał nic innego do położenia na stole. Jest też Jonasz, który cytuje je z pretensją. Uciekał przed Bogiem nie dlatego, że Go nie znał, ale dlatego, że znał Go dobrze i wiedział, że okaże łaskę ludziom, których Jonasz nie znosił.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jeszcze teraz",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jl 2,12-13",
+       "przeklad": "BW",
+       "akapity": [
+        "Wszakże jeszcze teraz mówi Pan: Nawróćcie się do mnie całym swym sercem, w poście, płaczu i narzekaniu! Rozdzierajcie swoje serca, a nie swoje szaty, i nawróćcie się do Pana, swojego Boga, gdyż On jest łaskawy i miłosierny, nierychły do gniewu i pełen litości, i żal mu karania!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Joel podaje powód, dla którego warto wracać. **Jaki to powód? Czym różni się powrót do kogoś, kto jest „pełen litości\", od powrotu ze strachu?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Jeszcze teraz\". **Do kogo przy waszym stole, w waszej rodzinie albo w was samych mogłyby być skierowane te dwa słowa?** Nie trzeba mówić na głos.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Kto mnie widział",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 1,14.18",
+       "przeklad": "BW",
+       "akapity": [
+        "A Słowo ciałem się stało i zamieszkało wśród nas, i ujrzeliśmy chwałę jego, chwałę, jaką ma jedyny Syn od Ojca, pełne łaski i prawdy. [...] Boga nikt nigdy nie widział, lecz jednorodzony Bóg, który jest na łonie Ojca, objawił go."
+       ]
+      },
+      {
+       "odnosnik": "J 14,8-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Rzekł mu Filip: Panie, pokaż nam Ojca, a wystarczy nam. Odpowiedział mu Jezus: Tak długo jestem z wami i nie poznałeś mnie, Filipie? Kto mnie widział, widział Ojca; jak możesz mówić: Pokaż nam Ojca?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Filip prosi o to samo, o co prosił Mojżesz. **Czym odpowiedź, którą dostaje, różni się od tej z góry Synaj?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Weźcie zdanie Jezusa dosłownie. **Przypomnijcie sobie trzy sceny z Jego życia, które pamiętacie najlepiej. Co każda z nich mówi o Ojcu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jan pisze, że Boga nikt nigdy nie widział. **Co w takim razie zrobić z obrazami Boga, które nosimy, a które do Jezusa nie pasują?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jan pisze prolog z Księgą Wyjścia przed oczami. „Ujrzeliśmy chwałę\" odpowiada na prośbę „pokaż mi chwałę\". „Pełne łaski i prawdy\" to greckie echo hebrajskiej pary z Wj 34,6, którą BW oddaje jako „łaskę i wierność\". Jan mówi: to, co Mojżesz usłyszał zza Bożej dłoni, myśmy oglądali przez trzy lata z bliska. Jezus nie jest więc łagodniejszą wersją Boga. Jest tym samym autoportretem, tylko już nie w słowach.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Odbicie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 1,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "Wielokrotnie i wieloma sposobami przemawiał Bóg dawnymi czasy do ojców przez proroków; ostatnio, u kresu tych dni, przemówił do nas przez Syna, którego ustanowił dziedzicem wszechrzeczy, przez którego także wszechświat stworzył. On, który jest odblaskiem chwały i odbiciem jego istoty i podtrzymuje wszystko słowem swojej mocy, dokonawszy oczyszczenia z grzechów, zasiadł po prawicy majestatu na wysokościach"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Autor zestawia „wieloma sposobami przez proroków\" z „przez Syna\". **Co wynika z tego dla kogoś, kto w Biblii trafia na fragment, z którego obraz Boga wychodzi mu ciemny?** Od czego zacząć czytanie?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ogień z nieba",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 9,51-56",
+       "przeklad": "BW",
+       "akapity": [
+        "I stało się, gdy dopełniały się dni, kiedy miał być wzięty do nieba i postanowił pójść do Jerozolimy, że wysłał przed sobą posłańców. A ci w drodze wstąpili do wioski samarytańskiej, aby mu przygotować gospodę. Lecz nie przyjęli go, dlatego, że droga jego prowadziła do Jerozolimy. A gdy to widzieli uczniowie Jakub i Jan, rzekli: Panie, czy chcesz, abyśmy słowem ściągnęli ogień z nieba, który by ich pochłonął, jak to i Eliasz uczynił? A On, obróciwszy się, zgromił ich i rzekł: Nie wiecie, jakiego ducha jesteście. Albowiem Syn Człowieczy nie przyszedł zatracać dusze ludzkie, ale je zachować. I poszli do innej wioski."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakub i Jan mają po swojej stronie biblijny precedens i szczere oburzenie. **Co mimo to słyszą?** Jaki obraz Boga nosili w sobie po trzech latach chodzenia z Jezusem?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus nie karze wioski. Idzie do innej. **Co ta scena mówi o tym, jak Bóg traktuje ludzi, którzy Go nie chcą?**",
+     "poziom": 2
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Część rękopisów nie ma słów Jezusa z wersetów 55 i 56 i dlatego w niektórych przekładach scena kończy się na „zgromił ich\". Sens sceny jest ten sam w obu wersjach.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 1,17",
+       "przeklad": "BW",
+       "akapity": [
+        "Zakon bowiem został nadany przez Mojżesza, łaska zaś i prawda stała się przez Jezusa Chrystusa."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Polskie „zaś\" sugeruje przeciwstawienie: tam Prawo, tu łaska. W greckim tekście między dwiema częściami zdania nie ma żadnego spójnika. Przekład ekumeniczny oddaje to neutralnie: „Prawo zostało dane przez Mojżesza, a łaska i prawda przyszły przez Jezusa Chrystusa\". Jan nie ustawia Mojżesza przeciw Jezusowi. Łaskę i prawdę Mojżesz usłyszał na górze jako opis Boga. W Jezusie ten opis „stał się\", czyli przyszedł w ciele.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak zmienia się czytanie całej Biblii, jeśli między Synajem a Jezusem nie stoi „ale\", tylko „i\"?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Z kim jada",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 15,1-7",
+       "przeklad": "BW",
+       "akapity": [
+        "A zbliżali się do niego wszyscy celnicy i grzesznicy, aby go słuchać. Faryzeusze zaś i uczeni w Piśmie szemrali i mówili: Ten grzeszników przyjmuje i jada z nimi. Powiedział im więc takie podobieństwo: Któż z was, gdy ma sto owiec, a zgubi jedną z nich, nie pozostawia dziewięćdziesięciu dziewięciu na pustkowiu i nie idzie za zagubioną, aż ją odnajdzie? A odnalazłszy, kładzie ją na ramiona swoje i raduje się. I przyszedłszy do domu, zwołuje przyjaciół i sąsiadów, mówiąc do nich: Weselcie się ze mną, gdyż odnalazłem moją zgubioną owcę! Powiadam wam: Większa będzie radość w niebie z jednego grzesznika, który się upamięta, niż z dziewięćdziesięciu dziewięciu sprawiedliwych, którzy nie potrzebują upamiętania."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zarzut brzmi: przyjmuje grzeszników i jada z nimi. Jezus nie zaprzecza i się nie tłumaczy. Opowiada, co dzieje się w niebie. **Co z tego wynika: kogo pokazuje w tej chwili Jego stół?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Kto w tej krótkiej historii szuka, kto niesie, kto się cieszy? Co robi owca?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Faryzeusze znali zdanie z góry Synaj na pamięć. **Jak to możliwe, że można znać je na pamięć i szemrać, kiedy ktoś robi dokładnie to, co ono opisuje?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Sam Ojciec",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 16,26-27",
+       "przeklad": "BW",
+       "akapity": [
+        "Owego dnia w imieniu moim prosić będziecie, a nie mówię wam, że Ja prosić będę Ojca za was; albowiem sam Ojciec miłuje was, dlatego że wyście mnie umiłowali i uwierzyli, że Ja od Boga wyszedłem."
+       ]
+      },
+      {
+       "odnosnik": "Rz 5,6-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Wszak Chrystus, gdy jeszcze byliśmy słabi, we właściwym czasie umarł za bezbożnych. Rzadko się zdarza, że ktoś umrze za sprawiedliwego; prędzej za dobrego gotów ktoś umrzeć. Bóg zaś daje dowód swojej miłości ku nam przez to, że kiedy byliśmy jeszcze grzesznikami, Chrystus za nas umarł."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi uczniom, że nie musi prosić Ojca za nimi, bo „sam Ojciec miłuje was\". **Jaki obraz Boga Jezus tym zdaniem poprawia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie uważnie Rz 5,8. **Kto daje dowód miłości i czyjej miłości?** Co się zmienia, gdy krzyż przestaje być historią o Jezusie, który przekonał Boga, a staje się historią o Bogu, który coś nam pokazuje?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Kiedy byliśmy jeszcze grzesznikami\". **Jak to zdanie ma się do przekonania, że najpierw trzeba się poprawić, a dopiero potem przyjść?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Wielu chrześcijan nosi w sobie cichy podział ról: surowy Ojciec i łagodny Syn, który stanął między nami a Nim. Teksty z tego bloku na to nie pozwalają. Ojciec nie został udobruchany. To On posłał, On daje dowód, On kocha. Jeśli Jezus szuka zagubionych i jada z grzesznikami, to dlatego, że taki jest Ten, który Go posłał.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Przysięga",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ez 33,11",
+       "przeklad": "BW",
+       "akapity": [
+        "Powiedz im: Jakom żyw – mówi Wszechmocny Pan – nie mam upodobania w śmierci bezbożnego, a raczej, by się bezbożny odwrócił od swojej drogi, a żył. Zawróćcie, zawróćcie ze swoich złych dróg! Dlaczego macie umrzeć, domu izraelski?"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg przysięga na własne życie. **Dlaczego uznał, że w tej sprawie samo zapewnienie nie wystarczy?** Co ludzie musieli o Nim myśleć?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To zdanie pada w Starym Testamencie, w księdze pełnej zapowiedzi sądu. **Co mówi o tym, czy Bóg sądu i Bóg ratunku to dwie różne osoby?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Skąd pochodzi obraz Boga, który nosisz?** Ile w nim jest z tekstów takich jak dzisiejsze, a ile z domu, szkoły, kościoła, czyjejś twarzy?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które z dzisiejszych zdań o Bogu najtrudniej ci przyjąć jako prawdziwe?** Jak myślisz, dlaczego akurat to?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **jak wyglądałaby twoja modlitwa dziś wieczorem, gdybyś na serio przyjął, że po drugiej stronie jest Ktoś taki jak Jezus?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: trudne strony Starego Testamentu",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Potop, wojny w Kanaanie, prorocy mówiący o gniewie. Kto czyta całą Biblię, prędzej czy później pyta, jak to się ma do Jezusa.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Na 1,2-3.7",
+       "przeklad": "BW",
+       "akapity": [
+        "Bogiem żarliwym i mściwym jest Pan. Mściwy jest Pan i pełen gniewu. Mści się Pan na swoich wrogach i wybucha gniewem na swoich nieprzyjaciół. Pan jest cierpliwy i pełen łaski, lecz na pewno sprawi, że winny nie ujdzie bezkarnie. Jego droga jest w burzy i wichrze, a chmura jest prochem pod jego nogami. [...] Dobry jest Pan, ostoją jest w dniu ucisku; on zna tych, którzy mu ufają,"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Wierzący odpowiadają na to napięcie na dwa sposoby. Jedni kładą nacisk na to, że Jezus jest najpełniejszym objawieniem Boga i że wszystko inne trzeba czytać w Jego świetle. Bóg mówił do ludzi tyle, ile mogli unieść, a obraz rósł z czasem. Drudzy przypominają, że nie wolno niczego wygładzać: także Jezus mówił o sądzie, a Bóg, którego zło nie obchodzi, nie byłby dobry. Łączy ich więcej, niż dzieli. Obie strony wierzą w jednego Boga obu Testamentów, obie uznają Jezusa za miarę i obie widzą, że u Nahuma gniew i schronienie stoją w jednym akapicie. Adresatem tej księgi była Niniwa, imperium znane z okrucieństwa. Dla jej ofiar zdanie o Bogu, który nie puszcza zła płazem, było ewangelią.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy Bóg, który nigdy się nie gniewa, byłby lepszy?** Dla kogo tak, a dla kogo nie?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nahum cytuje zdanie z góry Synaj w samym środku wyroczni o sądzie. **Co to mówi o tym, jak prorocy sami rozumieli związek między gniewem Boga a Jego łaską?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wielu ludzi zna Ewangelie od dziecka, a mimo to boi się Boga bardziej, niż Go kocha. **Skąd bierze się obraz silniejszy niż tekst? Co musiałoby się stać, żeby zdanie „kto mnie widział, widział Ojca\" zeszło z głowy niżej?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie odpowiadaj za grupę. Jeśli ktoś powie, że sam tak ma, podziękuj i nie naprawiaj. Wystarczy, że to zostało powiedziane na głos przy ludziach, którzy nie uciekli.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Jeśli chcesz wiedzieć, jaki jest Bóg, patrz na Jezusa. Wszystko, co do Niego nie pasuje, możesz spokojnie podać w wątpliwość.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** J 14,9 albo Wj 34,6.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Masz w sobie jakiś obraz Boga, który włącza się sam: gdy coś zawalisz, gdy coś ci się uda, gdy dzieje się coś złego. Przy najbliższej takiej okazji zatrzymaj się i zapytaj: **czyją twarz ma Bóg, o którym właśnie pomyślałem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Weź zdanie z góry Synaj i powiedz je Bogu jako pytanie: **czy naprawdę jesteś taki wobec mnie?** Zostań przy tym pytaniu, nawet jeśli odpowiedzią będzie na początku cisza.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** przyznaj przed Bogiem, czego się w Nim boisz. Nie wygładzaj tego. Powiedz to tak, jak to w tobie brzmi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Bóg Starego Testamentu jest okrutny, Jezus jest zupełnie inny.\"** Nie spieraj się. Zapytaj, skąd pochodzi najcieplejsze zdanie o Bogu, jakie dziś czytaliście. Pochodzi z Księgi Wyjścia. Potem przypomnij, że Jezus sam mówi: kto mnie widział, widział Ojca. Jeśli grupa chce iść dalej, na poziomie 3 jest blok o trudnych stronach Starego Testamentu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Dla mnie słowo ojciec nie znaczy nic dobrego.\"** Podziękuj i nie dopytuj. Możesz powiedzieć, że Biblia sama nie zaczyna od słowa „ojciec\", tylko od opisu: miłosierny, łaskawy, cierpliwy, wierny. Nie trzeba przechodzić do Boga przez własnego ojca. Można iść przez Jezusa. Jeśli historia jest ciężka, zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Mnie od dziecka straszono Bogiem.\"** Nie oceniaj ludzi, którzy to robili, i nie broń ich. Powiedz, że strach przed Bogiem to częste doświadczenie i że dzisiejsze teksty są właśnie dla kogoś, kto je ma. Wróć do J 16,27.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli Bóg wszystko wybacza i nic nie ma znaczenia.\"** Przeczytajcie jeszcze raz koniec Wj 34,7. Bóg nie puszcza zła płazem. Pytanie o sąd jest poważne i ma w tej serii osobne spotkanie. Dziś wystarczy zauważyć kolejność i proporcję w autoportrecie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś przywołuje potop, Kanaan albo inny trudny tekst i żąda wyjaśnienia.** Nie improwizuj obrony. Powiedz, że to uczciwe pytanie, i zaproponuj regułę z Hbr 1: zaczynamy od Syna, bo tam obraz jest najostrzejszy, a od niego idziemy do miejsc ciemniejszych. Konkretny tekst można wziąć na osobne spotkanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o Bogu z goryczą po osobistej tragedii.** To nie jest moment na teologię. Wysłuchaj. Nie broń Boga. Psalmy pokazują, że taki ton mieści się w modlitwie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 2. Bloki 1 i 3 niosą oś spotkania, czyli dwie prośby „pokaż\", a blok 5 jest puentą, bez której spotkanie kończy się na obrazie Jezusa bez Ojca.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Bóg Starego Testamentu jest okrutny, Jezus jest zupełnie inny.\"",
+     "odpowiedz": "Nie spieraj się. Zapytaj, skąd pochodzi najcieplejsze zdanie o Bogu, jakie dziś czytaliście. Pochodzi z Księgi Wyjścia. Potem przypomnij, że Jezus sam mówi: kto mnie widział, widział Ojca. Jeśli grupa chce iść dalej, na poziomie 3 jest blok o trudnych stronach Starego Testamentu."
+    },
+    {
+     "sytuacja": "„Dla mnie słowo ojciec nie znaczy nic dobrego.\"",
+     "odpowiedz": "Podziękuj i nie dopytuj. Możesz powiedzieć, że Biblia sama nie zaczyna od słowa „ojciec\", tylko od opisu: miłosierny, łaskawy, cierpliwy, wierny. Nie trzeba przechodzić do Boga przez własnego ojca. Można iść przez Jezusa. Jeśli historia jest ciężka, zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "„Mnie od dziecka straszono Bogiem.\"",
+     "odpowiedz": "Nie oceniaj ludzi, którzy to robili, i nie broń ich. Powiedz, że strach przed Bogiem to częste doświadczenie i że dzisiejsze teksty są właśnie dla kogoś, kto je ma. Wróć do J 16,27."
+    },
+    {
+     "sytuacja": "„Czyli Bóg wszystko wybacza i nic nie ma znaczenia.\"",
+     "odpowiedz": "Przeczytajcie jeszcze raz koniec Wj 34,7. Bóg nie puszcza zła płazem. Pytanie o sąd jest poważne i ma w tej serii osobne spotkanie. Dziś wystarczy zauważyć kolejność i proporcję w autoportrecie."
+    },
+    {
+     "sytuacja": "Ktoś przywołuje potop, Kanaan albo inny trudny tekst i żąda wyjaśnienia.",
+     "odpowiedz": "Nie improwizuj obrony. Powiedz, że to uczciwe pytanie, i zaproponuj regułę z Hbr 1: zaczynamy od Syna, bo tam obraz jest najostrzejszy, a od niego idziemy do miejsc ciemniejszych. Konkretny tekst można wziąć na osobne spotkanie."
+    },
+    {
+     "sytuacja": "Ktoś mówi o Bogu z goryczą po osobistej tragedii.",
+     "odpowiedz": "To nie jest moment na teologię. Wysłuchaj. Nie broń Boga. Psalmy pokazują, że taki ton mieści się w modlitwie."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 2. Bloki 1 i 3 niosą oś spotkania, czyli dwie prośby „pokaż\", a blok 5 jest puentą, bez której spotkanie kończy się na obrazie Jezusa bez Ojca."
+    }
+   ]
+  }
+ ]
+}

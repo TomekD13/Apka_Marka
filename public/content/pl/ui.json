@@ -445,5 +445,24 @@
     "inviteWhatsapp": "Zaproś przez WhatsApp",
     "inviteText": "Zapraszam cię do #JestNadzieja – Biblia, studia biblijne i czytanki w jednym miejscu.",
     "fbAppId": ""
+  },
+  "groups": {
+    "title": "Grupy Nadziei",
+    "tile": "Gotowe spotkania biblijne dla grup domowych, w trzech poziomach.",
+    "intro": "Gotowe spotkania dla grup domowych. Czytacie fragment, rozmawiacie, czytacie następny. Każdy temat ma trzy poziomy, a prowadzący nie potrzebuje przygotowania teologicznego.",
+    "meetings": "spotkań",
+    "unavailable": "Materiały są chwilowo niedostępne.",
+    "missing": "Nie ma takiego materiału.",
+    "backToList": "Wróć do spisu Grup Nadziei",
+    "about": "ok.",
+    "questions": "pytań",
+    "key": "Kluczowe",
+    "optional": "Jeśli macie czas",
+    "note": "Notka",
+    "leaderNote": "Prowadzący",
+    "leaderOnly": "tylko dla prowadzącego",
+    "leaderMode": "Tryb prowadzącego",
+    "showOptional": "Pytania dodatkowe",
+    "bibleNote": "Cytaty: Biblia Warszawska, o ile nie oznaczono inaczej."
   }
 }
