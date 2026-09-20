@@ -90,6 +90,7 @@ export function AppNavigation() {
           <DrawerLink to={`${home}/jest-nadzieja`} icon="hope" onClick={() => setOpen(false)}>#JestNadzieja – materiały</DrawerLink>
           <DrawerLink to={`${home}/40-dni`} icon="prayer" onClick={() => setOpen(false)}>{t('home.pray40', '40 dni modlitwy')}</DrawerLink>
           <DrawerLink to={`${home}/edukacja`} icon="lesson" onClick={() => setOpen(false)}>{t('edu.title', 'Materiały edukacyjne')}</DrawerLink>
+          <DrawerLink to={`${home}/grupy-nadziei`} icon="hope" onClick={() => setOpen(false)}>{t('groups.title', 'Grupy Nadziei')}</DrawerLink>
         </DrawerGroup>
         <DrawerGroup icon="music" title={t('nav.songs', 'Pieśni')} open={songsOpen} onToggle={() => setSongsOpen(!songsOpen)}>
           <DrawerLink to={`${home}/spiewnik`} icon="music" onClick={() => setOpen(false)}>{t('songs.title', 'Śpiewnik')}</DrawerLink>
