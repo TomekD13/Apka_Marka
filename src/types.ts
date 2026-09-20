@@ -290,6 +290,7 @@ export interface GroupBlock {
 export interface GroupEntry {
   id: string
   tytul: string
+  opis: string
   teksty: string
   zdanie: string
   dlugosc: GroupTriple

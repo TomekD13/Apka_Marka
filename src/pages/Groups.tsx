@@ -67,7 +67,7 @@ export function Groups() {
 
   return <section className="mx-auto max-w-xl">
     <BackLink to={`/${lang}/jest-nadzieja`} className="mb-4">#JestNadzieja</BackLink>
-    <PageHeading icon="lesson" title={t('groups.title', 'Grupy Nadziei')} />
+    <PageHeading icon="group" title={t('groups.title', 'Grupy Nadziei')} />
     <p className="mt-3 text-slate-600 dark:text-slate-300">{t('groups.intro', 'Gotowe spotkania dla grup domowych. Czytacie fragment, rozmawiacie, czytacie następny. Każdy temat ma trzy poziomy, a prowadzący nie potrzebuje przygotowania teologicznego.')}</p>
     {failed ? <p className="mt-6 text-slate-500 dark:text-slate-400">{t('groups.unavailable', 'Materiały są chwilowo niedostępne.')}</p> : !data ? <p className="mt-6 text-slate-500 dark:text-slate-400">{t('common.loading', 'Wczytywanie…')}</p> : <div className="mt-6 space-y-3">{data.serie.map((serie) => {
       const open = openSeries === serie.prefiks
@@ -81,7 +81,7 @@ export function Groups() {
           <p className="px-1 pb-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300">{serie.opis}</p>
           {serie.items.map((item, i) => <Link key={item.id} to={`/${lang}/grupy-nadziei/${item.id}`} viewTransition className="gradient-panel flex items-start gap-3 rounded-lg border border-slate-200 px-3 py-2 text-slate-900 transition hover:border-brand hover:shadow-sm dark:border-slate-700 dark:text-white">
             <span className="w-6 shrink-0 pt-0.5 text-right text-xs tabular-nums text-slate-500 dark:text-slate-400">{i + 1}</span>
-            <span className="min-w-0 flex-1"><span className="block font-medium leading-snug">{item.tytul}</span><span className="block truncate text-xs text-slate-500 dark:text-slate-400">{item.teksty}</span></span>
+            <span className="min-w-0 flex-1"><span className="block font-medium leading-snug">{item.tytul}</span>{item.opis && <span className="mt-0.5 block text-xs leading-snug text-slate-500 dark:text-slate-400">{item.opis}</span>}</span>
           </Link>)}
         </div>}
       </section>

@@ -151,6 +151,7 @@ def metryka(tekst: str) -> dict:
     return {
         "id": pola.get("id", ""),
         "seria": pola.get("seria", ""),
+        "opis": pola.get("opis", ""),
         "tryb": pola.get("tryb", "tematyczny").replace("księgi", "ksiegi"),
         "poprzedni": pola.get("poprzedni") or None,
         "nastepny": pola.get("nastepny") or pola.get("następny") or None,
@@ -294,7 +295,7 @@ def main() -> int:
         if not poz:
             continue
         serie.append({"prefiks": prefiks, "tytul": tytul, "opis": opis, "tryb": poz[0]["tryb"],
-                      "items": [{"id": d["id"], "tytul": d["tytul"], "teksty": d["teksty"]["p1"],
+                      "items": [{"id": d["id"], "tytul": d["tytul"], "opis": d["opis"], "teksty": d["teksty"]["p1"],
                                  "zdanie": d["zdanie"], "dlugosc": d["dlugosc"],
                                  "liczbaPytan": d["liczbaPytan"], "tagi": d["tagi"]} for d in poz]})
     bez_serii = [i for i in materialy if klucz_id(i)[0] not in {s[0] for s in SERIE}]
@@ -303,6 +304,9 @@ def main() -> int:
     for s in serie:
         print("  %-32s %2d  (%s)" % (s["tytul"], len(s["items"]), ", ".join(x["id"] for x in s["items"])))
     print("Razem: %d materialow" % sum(len(s["items"]) for s in serie))
+    bez_opisu = [i for i, d in materialy.items() if not d["opis"]]
+    if bez_opisu:
+        print("UWAGA - brak wiersza `opis` w metryce: " + ", ".join(sorted(bez_opisu, key=klucz_id)))
     if bez_serii:
         print("UWAGA - id spoza znanych serii, pominiete: " + ", ".join(bez_serii))
     for nazwa, problemy in odrzucone:

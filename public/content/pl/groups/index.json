@@ -14,6 +14,7 @@
     {
      "id": "E-01",
      "tytul": "Gniew",
+     "opis": "Co robimy w chwili między złością a reakcją i dlaczego Biblia nie każe gniewowi zniknąć.",
      "teksty": "Rdz 4,3-8; Ef 4,26-27.31-32; Ps 37,8; Jk 1,19-20; Prz 14,29; 15,1; 16,32; 29,11; Mk 3,1-5; Rz 12,17-21",
      "zdanie": "Gniew nie jest wyrokiem. Jest progiem, a na progu jeszcze można się zatrzymać.",
      "dlugosc": {
@@ -36,6 +37,7 @@
     {
      "id": "E-02",
      "tytul": "Lęk",
+     "opis": "Biblia mówi „nie bój się” setki razy, bo wie, że się boimy. Kto w lęku ma ostatnie słowo?",
      "teksty": "Lb 13,30-33; Mk 4,37-41; Mt 14,28-31; Mt 10,28-31; 1J 4,18; Flp 4,6-7",
      "zdanie": "Wiara nie usuwa lęku. Odbiera mu ostatnie słowo.",
      "dlugosc": {
@@ -58,6 +60,7 @@
     {
      "id": "E-03",
      "tytul": "Wstyd",
+     "opis": "Wina mówi „zrobiłem coś złego”, wstyd mówi „jestem zły”. Jak Bóg odpowiada na to drugie.",
      "teksty": "Rdz 3,7-10; Rdz 3,21; Łk 7,37-39.44-48; J 8,3-11; Hbr 12,2; Rz 10,11",
      "zdanie": "Bóg nie unieważnia wstydu i nie zostawia człowieka w liściach figowych. Przychodzi z lepszym okryciem.",
      "dlugosc": {
@@ -80,6 +83,7 @@
     {
      "id": "E-04",
      "tytul": "Smutek",
+     "opis": "Biblia robi smutkowi miejsce i nie każe go skracać. O pocieszaniu, które przychodzi za szybko.",
      "teksty": "J 11,32-36; Ps 42,4-6.12; Hi 2,11-13; 1Tes 4,13-14; Ap 21,3-4",
      "zdanie": "Bóg nie skraca żałoby. Siada w niej obok.",
      "dlugosc": {
@@ -103,6 +107,7 @@
     {
      "id": "E-05",
      "tytul": "Wina",
+     "opis": "Poczucie winy czasem mówi prawdę, a czasem kłamie. Dwaj ludzie, jedna noc, dwa zakończenia.",
      "teksty": "Ps 32,3-5; 2Sm 12,7.9.13; Mt 26,75; Mt 27,3-5; J 21,15-17; 1J 1,9; Rz 8,1",
      "zdanie": "Wina, która zostaje sama ze sobą, zabija. Wina zaniesiona Bogu staje się drogą powrotną.",
      "dlugosc": {
@@ -125,6 +130,7 @@
     {
      "id": "E-06",
      "tytul": "Zazdrość",
+     "opis": "Emocja, do której nikt się nie przyznaje. Skąd się bierze i co robi z tym, kto ją nosi.",
      "teksty": "Rdz 37,3-8.11; 1Sm 18,6-9; Ps 73,2-3.16-17; Mt 20,9-15; Jk 3,14-16",
      "zdanie": "Zazdrość nie liczy tego, co mam. Liczy dystans między mną a kimś innym, i dlatego nigdy nie kończy liczenia.",
      "dlugosc": {
@@ -147,6 +153,7 @@
     {
      "id": "E-07",
      "tytul": "Samotność",
+     "opis": "Można być samotnym w tłumie i w małżeństwie. O samotności wśród ludzi i o opuszczeniu przez Boga.",
      "teksty": "Rdz 2,18; Ps 142,5-6; Ps 88,14-19; Mk 14,32-38; Hbr 13,5; J 16,32",
      "zdanie": "Bóg nie powiedział człowiekowi, że wystarczy mu sam Bóg. Powiedział, że niedobrze jest człowiekowi, gdy jest sam, i zrobił z tym coś.",
      "dlugosc": {
@@ -169,6 +176,7 @@
     {
      "id": "E-08",
      "tytul": "Zniechęcenie",
+     "opis": "Zniechęcenie dotyka tych, którzy zrobili dużo. Eliasz dzień po największym zwycięstwie.",
      "teksty": "1Krl 19,3-9; Lb 11,11-15; Łk 24,17-24; Ga 6,9; 2Kor 4,8-9.16-18",
      "zdanie": "Bóg nie zaczął od kazania dla Eliasza. Zaczął od snu i jedzenia, a rozmowę odłożył na później.",
      "dlugosc": {
@@ -191,6 +199,7 @@
     {
      "id": "E-09",
      "tytul": "Gorycz",
+     "opis": "Osad po emocjach, które nie znalazły ujścia. Historia Noemi, która nazwała siebie Gorzką.",
      "teksty": "Rt 1,19-21; Wj 15,23-25; Hi 7,11; Hi 10,1; Hbr 12,14-15; Rt 4,14-15",
      "zdanie": "Gorycz to nie emocja jednego dnia, tylko osad po dniach, których nikt nie wysłuchał.",
      "dlugosc": {
@@ -213,6 +222,7 @@
     {
      "id": "E-10",
      "tytul": "Radość",
+     "opis": "Teksty o radości pisano z więzień i z ruin. Radość, która potrafi żyć obok smutku.",
      "teksty": "Ne 8,9-12; Flp 4,4-7; Łk 15,8-10; J 16,20-22; Ha 3,17-18; Ps 16,11",
      "zdanie": "Radość biblijna nie czeka, aż lista braków się skończy. Zaczyna się od słowa „lecz\".",
      "dlugosc": {
@@ -235,6 +245,7 @@
     {
      "id": "E-11",
      "tytul": "Tęsknota",
+     "opis": "Niedosyt nie jest wadą wiary. Tęsknota jako coś, co Bóg wpisał w człowieka celowo.",
      "teksty": "Ps 42,2-3; Ps 84,2-3.11; Rz 8,22-25; Hbr 11,13-16; Flp 1,21-24",
      "zdanie": "Niedosyt nie jest defektem wiary. Jest dowodem na to, że zostaliśmy zrobieni na coś większego, niż mamy.",
      "dlugosc": {
@@ -258,6 +269,7 @@
     {
      "id": "E-12",
      "tytul": "Wdzięczność",
+     "opis": "Wdzięczność rodzi się z pamięci. Dlaczego zapominamy nie w biedzie, tylko w dobrobycie.",
      "teksty": "Łk 17,11-19; Ps 103,1-5; Pwt 8,10-14.17-18; Kol 3,15-17; 1Tes 5,16-18",
      "zdanie": "Niewdzięczność rzadko jest złą wolą. Najczęściej jest zapomnieniem, a zapomina się najszybciej wtedy, gdy jest dobrze.",
      "dlugosc": {
@@ -280,6 +292,7 @@
     {
      "id": "E-13",
      "tytul": "Współczucie",
+     "opis": "Dlaczego tak często nie czujemy współczucia, choć wiemy, że powinniśmy. Poruszone wnętrze Jezusa.",
      "teksty": "Mt 9,35-36; Łk 10,30-35; Ps 103,13-14; Rz 12,15; Mt 25,35-40",
      "zdanie": "Kapłan, Lewita i Samarytanin zobaczyli to samo. Różnica zaczęła się w tym, co się w nich poruszyło.",
      "dlugosc": {
@@ -302,6 +315,7 @@
     {
      "id": "E-14",
      "tytul": "Niecierpliwość",
+     "opis": "Niecierpliwość wygląda jak zaradność. O czekaniu, które nie jest biernością.",
      "teksty": "Rdz 16,1-4; 1Sm 13,8-14; Ps 13,2-6; Ps 130,5-6; Jk 5,7-8",
      "zdanie": "Niecierpliwość rzadko wybiera zło. Najczęściej wybiera coś dobrego o kilka lat za wcześnie.",
      "dlugosc": {
@@ -320,28 +334,6 @@
       "zaufanie",
       "kontrola"
      ]
-    },
-    {
-     "id": "E-15",
-     "tytul": "Zdumienie",
-     "teksty": "Iz 6,1-5; Łk 5,4-9; Hi 42,1-6; Ap 1,12-17; Łk 24,30-32",
-     "zdanie": "Każdy z nich najpierw padł, a potem został podniesiony. Nikt nie został na ziemi.",
-     "dlugosc": {
-      "p1": 60,
-      "p2": 80,
-      "p3": 95
-     },
-     "liczbaPytan": {
-      "p1": 18,
-      "p2": 21,
-      "p3": 23
-     },
-     "tagi": [
-      "emocje",
-      "bojaźń",
-      "uwielbienie",
-      "spotkanie z Bogiem"
-     ]
     }
    ]
   },
@@ -354,6 +346,7 @@
     {
      "id": "R-01",
      "tytul": "Konflikt",
+     "opis": "Spór, zanim ktokolwiek zawinił. Wierzący też się spierają, pytanie brzmi, co robią dalej.",
      "teksty": "Rdz 13,5-12; Dz 6,1-7; Dz 15,36-41; Mt 18,15-17; Prz 18,13.17; Flp 4,2-3; 2Tm 4,11",
      "zdanie": "Spór nie jest dowodem, że coś poszło źle. Dowodem jest dopiero to, co z nim zrobimy.",
      "dlugosc": {
@@ -376,6 +369,7 @@
     {
      "id": "R-02",
      "tytul": "Przebaczenie",
+     "opis": "Czym przebaczenie jest, a czym nie jest: nie zapomnieniem i nie zaufaniem na kredyt.",
      "teksty": "Mt 18,21-35; Rdz 50,15-21; Łk 23,33-34; Kol 3,12-13; 2Tm 4,14-16",
      "zdanie": "Przebaczyć to wypuścić dług z ręki i oddać rachunek Bogu. To nie to samo, co oddać krzywdzicielowi klucze do domu.",
      "dlugosc": {
@@ -399,6 +393,7 @@
     {
      "id": "R-03",
      "tytul": "Pojednanie",
+     "opis": "Przebaczyć można samemu, pojednać się trzeba we dwoje. Droga Jakuba do Ezawa.",
      "teksty": "Rdz 32,4-13; Rdz 33,1-11; Rdz 33,12-17; Mt 5,23-24; Łk 19,8-9; 2Kor 5,17-20",
      "zdanie": "Przebaczyć mogę sam. Do pojednania idzie się we dwoje, a pierwszy krok należy do tego, kto pierwszy go zobaczył.",
      "dlugosc": {
@@ -422,6 +417,7 @@
     {
      "id": "R-04",
      "tytul": "Słowa",
+     "opis": "Słowa robią coś między ludźmi, zanim zdążymy je cofnąć. Skąd się biorą i co mogą zbudować.",
      "teksty": "Jk 3,2-6; Jk 3,7-12; Prz 26,20-22; Prz 11,13; 16,28; 17,9; Mt 12,33-37; Prz 12,18; 25,11; Iz 50,4; Ef 4,29",
      "zdanie": "Usta mówią to, czego pełne jest serce. Kto chce innych słów, niech prosi o inne serce.",
      "dlugosc": {
@@ -445,6 +441,7 @@
     {
      "id": "R-05",
      "tytul": "Małżeństwo",
+     "opis": "Przymierze, nie kontrakt. Jaką miłość Biblia ma na myśli, kiedy mówi o mężu i żonie.",
      "teksty": "Rdz 2,18-23; Rdz 2,24-25; Ml 2,14; Ef 5,21-33; 1Kor 13,4-8; PnP 8,6-7; Oz 2,21-22",
      "zdanie": "Małżeństwo jest przymierzem dwojga, którzy oddają siebie, i obrazem miłości, w której jest miejsce dla każdego.",
      "dlugosc": {
@@ -468,6 +465,7 @@
     {
      "id": "R-06",
      "tytul": "Rodzice i dzieci",
+     "opis": "Jak wiara przechodzi z pokolenia na pokolenie i dlaczego nie da się jej ani wymusić, ani zlecić.",
      "teksty": "Pwt 6,4-9; Pwt 6,20-25; 1Sm 2,12.22-24; 3,11-13; Ef 6,1-4; Kol 3,20-21; Łk 2,41-52",
      "zdanie": "Wiary nie da się dziecku wręczyć. Można nią przy nim żyć, odpowiadać na pytania i pamiętać, że ono ma jeszcze jednego Ojca.",
      "dlugosc": {
@@ -491,6 +489,7 @@
     {
      "id": "R-07",
      "tytul": "Dorosłe dzieci, starzejący się rodzice",
+     "opis": "Czcij i opuść: dwa słowa dla dorosłych, którzy mają własne życie i rodziców, którym ubywa sił.",
      "teksty": "Wj 20,12; Kpł 19,32; Prz 23,22; Rdz 2,24; Rdz 12,1; Mk 7,9-13; Rt 1,8-11.14-18; J 19,25-27",
      "zdanie": "Można opuścić dom rodziców i nigdy nie opuścić ich samych.",
      "dlugosc": {
@@ -515,6 +514,7 @@
     {
      "id": "R-08",
      "tytul": "Przyjaźń",
+     "opis": "Przyjaźń jako przymierze. Od Jonatana i Dawida do Jezusa, który nazywa uczniów przyjaciółmi.",
      "teksty": "1Sm 18,1-4; 1Sm 20,12-17.41-42; Prz 17,17; 27,5-6.9.17; Koh 4,9-12; J 15,12-16",
      "zdanie": "Przyjaźń zaczyna się od oddanego płaszcza, a poznaje się ją na pustyni.",
      "dlugosc": {
@@ -539,6 +539,7 @@
     {
      "id": "R-09",
      "tytul": "Granice",
+     "opis": "Jezus odchodził od tłumów, które Go potrzebowały. Miłość to nie to samo co dostępność.",
      "teksty": "Mk 1,32-38; Ne 6,1-4; Ga 6,1-5; Mt 5,33-37; Łk 10,38-42",
      "zdanie": "Jezus umiał powiedzieć ludziom „nie\", bo wcześniej powiedział Ojcu „tak\".",
      "dlugosc": {
@@ -563,6 +564,7 @@
     {
      "id": "R-10",
      "tytul": "Trudny człowiek",
+     "opis": "Jak przy trudnym człowieku nie stać się kimś takim jak on. Dawid, Saul i nóż w jaskini.",
      "teksty": "1Sm 24,4-8; 1Sm 24,9-13.16; 1Sm 24,17-20.23; 1Sm 25,2-3.10-13.32-33; Łk 6,27-36",
      "zdanie": "Trudny człowiek może mi wiele zabrać. Nie musi decydować o tym, kim przy nim będę.",
      "dlugosc": {
@@ -587,6 +589,7 @@
     {
      "id": "R-11",
      "tytul": "Sami, ale nie osamotnieni",
+     "opis": "Rodzina, którą tworzy Jezus, i miejsce przy stole dla tych, którzy żyją w pojedynkę.",
      "teksty": "Ps 68,6-7; Iz 56,3-5; Mk 3,20-21.31-35; Mk 10,28-31; 1Kor 7,7-8.32-35; Dz 2,42-47",
      "zdanie": "Bóg nie obiecał każdemu małżeństwa. Obiecał każdemu dom, a kluczami do tego domu jesteśmy my.",
      "dlugosc": {
@@ -612,6 +615,7 @@
     {
      "id": "R-12",
      "tytul": "Inny niż ja",
+     "opis": "Co zrobić z bratem, który w sprawie drugorzędnej myśli i żyje inaczej niż ja.",
      "teksty": "Łk 6,13-16; Mt 9,9; Rz 14,1-6; Rz 14,7-13; 1Kor 12,14-22.25-26; Rz 15,1-3.5-7; J 17,20-21",
      "zdanie": "Bóg przyjął mojego brata, zanim zapytał mnie o zdanie.",
      "dlugosc": {
@@ -644,6 +648,7 @@
     {
      "id": "P-01",
      "tytul": "Dlaczego cierpienie?",
+     "opis": "Biblia odmawia prostego rachunku winy i kary. Co daje cierpiącemu w zamian za formułę?",
      "teksty": "Hi 1,6-12.20-22; Hi 2,11-13; 4,7-8; 42,7; Hi 38,1-7; 42,5; J 9,1-7; Łk 13,1-5; Rz 8,18-23.26-28",
      "zdanie": "Biblia nie mówi mi, dlaczego cierpię. Mówi mi, że to nie wyrok, i mówi, kto jest przy mnie.",
      "dlugosc": {
@@ -667,6 +672,7 @@
     {
      "id": "P-02",
      "tytul": "Czy Bóg słyszy moje modlitwy?",
+     "opis": "Dawid, Paweł i Jezus w Getsemane: niewysłuchane prośby opowiedziane od środka.",
      "teksty": "Łk 11,5-13; Ps 13,2-6; Mt 26,36-44; 2Kor 12,7-10",
      "zdanie": "Bóg słyszy. Jego „słyszę\" nie zawsze znaczy „zrobię, o co prosisz\", ale nigdy nie znaczy „nie obchodzisz mnie\".",
      "dlugosc": {
@@ -690,6 +696,7 @@
     {
      "id": "P-03",
      "tytul": "Skąd zło, skoro Bóg jest dobry?",
+     "opis": "Skąd w dobrym świecie dobrego Boga wzięło się zło. Opowieść, która ma sprawcę i koniec.",
      "teksty": "Rdz 2,16-17; 3,1-6; Rdz 3,7-13; Mt 13,24-30; Ap 12,7-12; 1J 4,8-10; Ap 21,3-5",
      "zdanie": "Zło zaczęło się od kłamstwa o tym, jaki jest Bóg, i skończy się, gdy wszyscy zobaczą, jaki jest naprawdę.",
      "dlugosc": {
@@ -714,6 +721,7 @@
     {
      "id": "P-04",
      "tytul": "Co jest po śmierci?",
+     "opis": "Biblia mówi o śmierci prosto: człowiek śpi, a Bóg go obudzi. Nadzieja oparta na zmartwychwstaniu.",
      "teksty": "Koh 9,5-6.10; Ps 146,3-4; Rdz 2,7; Rdz 3,19; J 11,11-14; J 5,28-29; 1Kor 15,16-23; 1Kor 15,51-55; 1Tm 6,15-16",
      "zdanie": "Umarli śpią, a Jezus zna ich po imieniu. Nadzieją nie jest to, że śmierć jest łagodna, tylko to, że On ją przerwie.",
      "dlugosc": {
@@ -738,6 +746,7 @@
     {
      "id": "P-05",
      "tytul": "Czy Biblii można ufać?",
+     "opis": "Pytamy samych autorów, skąd wiedzą to, o czym piszą, i po co piszą.",
      "teksty": "Łk 1,1-4; 2P 1,16-18; 1J 1,1-3; J 20,30-31; J 21,24-25; 2Tm 3,14-17; 2P 1,19-21; Dz 17,10-12",
      "zdanie": "Biblia nie prosi, żeby jej wierzyć na ślepo. Mówi, skąd wie, mówi, po co jest, i zaprasza, żeby ją sprawdzać codziennie.",
      "dlugosc": {
@@ -762,6 +771,7 @@
     {
      "id": "P-06",
      "tytul": "Czy Jezus naprawdę zmartwychwstał?",
+     "opis": "Na tym wydarzeniu stoi całe chrześcijaństwo. Co właściwie mamy: świadków, pusty grób, Tomasza.",
      "teksty": "1Kor 15,1-8; Łk 24,1-12; Mt 28,11-15; Łk 24,36-43; J 20,24-29",
      "zdanie": "Uczniowie nie byli łatwowierni i nikt ich o to nie prosił. Jezus przyszedł do nich przez zamknięte drzwi i przyszedł drugi raz, dla jednego, który jeszcze nie mógł.",
      "dlugosc": {
@@ -786,6 +796,7 @@
     {
      "id": "P-07",
      "tytul": "Jaki naprawdę jest Bóg?",
+     "opis": "Obraz Boga wyniesiony z domu obok Boga, którego pokazuje Jezus.",
      "teksty": "Wj 33,18-23; 34,5-7; Lb 14,17-20; Ne 9,16-17; J 1,14.18; J 14,8-9; Łk 15,1-7; J 16,26-27; Rz 5,6-8",
      "zdanie": "Jeśli chcesz wiedzieć, jaki jest Bóg, patrz na Jezusa. Wszystko, co do Niego nie pasuje, możesz spokojnie podać w wątpliwość.",
      "dlugosc": {
@@ -810,6 +821,7 @@
     {
      "id": "P-08",
      "tytul": "Czy Bóg mnie ukarze? Sąd i piekło",
+     "opis": "Sąd jako dobra nowina dla skrzywdzonych i to, co Biblia naprawdę mówi o piekle.",
      "teksty": "Ps 96,10-13; Ps 9,8-11; J 3,16-21; J 5,24; Ml 3,19-21; Mt 10,28; Rz 6,23; Ez 18,23; 1Tm 2,3-6; Ap 20,11-15; 21,1-4",
      "zdanie": "Sąd jest po to, żeby zło się skończyło, a nie po to, żeby trwało wiecznie. Kto zaufał Sędziemu, ten ma w Nim obrońcę.",
      "dlugosc": {
@@ -835,6 +847,7 @@
     {
      "id": "P-09",
      "tytul": "Czy Jezus to jedyna droga?",
+     "opis": "Nie ma innego Zbawiciela, a ten jeden działa szerzej, niż sięga nasza wiedza.",
      "teksty": "J 14,1-7; Dz 4,5-12; Dz 10,1-6.34-36; Rz 2,14-16; Dz 17,22-31; Łk 13,22-30",
      "zdanie": "Droga jest jedna i jest nią Jezus. Tego, jak daleko sięga Jego ręka, nie wie nikt z nas, i całe szczęście.",
      "dlugosc": {
@@ -859,6 +872,7 @@
     {
      "id": "P-10",
      "tytul": "Po co mi Kościół?",
+     "opis": "Dla tych, którym wystarcza „Bóg tak, Kościół nie”, i dla tych, którzy wyszli z niego poranieni.",
      "teksty": "Hbr 10,19-25; Ef 4,11-16; Mt 18,5-6.10.12-14.19-20; Ap 2,1-5; 3,14-20; J 13,34-35; 1J 4,19-21",
      "zdanie": "Jezus zna wady swojego Kościoła lepiej niż ty i wciąż chodzi między świecznikami.",
      "dlugosc": {
@@ -883,6 +897,7 @@
     {
      "id": "P-11",
      "tytul": "Wiara i wątpliwości",
+     "opis": "„Wierzę, pomóż niedowiarstwu memu”. Jezus nie odsyła nikogo, kto wątpi.",
      "teksty": "Mk 9,17-27; Mt 11,2-11; Mt 14,25-33; Mt 28,16-20; Jud 20-23; Mt 12,20",
      "zdanie": "Wątpliwość przyniesiona Jezusowi jest już modlitwą.",
      "dlugosc": {
@@ -907,6 +922,7 @@
     {
      "id": "P-12",
      "tytul": "Wiara i nauka: czy muszę wybierać?",
+     "opis": "Czy Biblia każe wybierać między wiarą a nauką? Dwie księgi jednego Autora.",
      "teksty": "Ps 19,2-11; Rz 1,19-20; Dz 14,15-17; Rdz 1,1.26-31; Hi 28,1-4.9-13.23-28; Hbr 11,1-3; Prz 25,2; 1Kor 13,9.12",
      "zdanie": "Ten, kto dał Pismo, zrobił też świat. Nie muszę bronić jednej Jego księgi przed drugą.",
      "dlugosc": {
@@ -939,6 +955,7 @@
     {
      "id": "K-01",
      "tytul": "Żałoba",
+     "opis": "Biblia daje żałobie miejsce i czas. Jezus płacze przy grobie, który za chwilę otworzy.",
      "teksty": "J 11,17-27; J 11,33-44; Rdz 23,1-4; Rdz 50,1-3.10; Dz 8,2; 2Sm 12,16-23; 1Tes 4,13-18; 1Kor 15,26",
      "zdanie": "Wiara nie skraca żałoby. Daje jej horyzont.",
      "dlugosc": {
@@ -963,6 +980,7 @@
     {
      "id": "K-02",
      "tytul": "Choroba",
+     "opis": "Uzdrowieni i nieuzdrowieni w jednym Nowym Testamencie. Bóg blisko chorego w obu przypadkach.",
      "teksty": "Mk 5,24-34; J 5,1-9; 2Kor 12,7-10; 2Tm 4,20; 1Tm 5,23; J 9,1-3; Jk 5,13-16",
      "zdanie": "Bóg nie każdemu odejmuje chorobę, ale nikogo nie zostawia w niej samego. My też nie powinniśmy.",
      "dlugosc": {
@@ -987,6 +1005,7 @@
     {
      "id": "K-03",
      "tytul": "Utrata pracy i pieniędzy",
+     "opis": "Utrata pracy zabiera więcej niż pieniądze. Bóg, który daje na dziś: kruki, garść mąki, manna.",
      "teksty": "1Krl 17,1-9; 1Krl 17,10-16; Mt 6,25-34; Flp 4,10-13; Łk 12,15; Ha 3,17-19",
      "zdanie": "Bóg rzadko napełnia spiżarnię. Częściej sprawia, że rano w dzbanie znowu jest garść mąki.",
      "dlugosc": {
@@ -1011,6 +1030,7 @@
     {
      "id": "K-04",
      "tytul": "Rozpad małżeństwa",
+     "opis": "Jezus mówi o małżeństwie bardzo wysoko i siada przy studni z kobietą po pięciu małżeństwach.",
      "teksty": "J 4,5-7.9-10.13-19; Mt 19,3-9; Ml 2,13-16; Iz 54,4-8; Ps 147,2-3; J 4,28-30.39-42",
      "zdanie": "Bóg nie zmienił zdania o małżeństwie. Nie zmienił też zdania o tobie.",
      "dlugosc": {
@@ -1035,6 +1055,7 @@
     {
      "id": "K-05",
      "tytul": "Niespełnione rodzicielstwo",
+     "opis": "Dla tych, którzy chcieli zostać rodzicami i nie zostali. Czego Biblia nie obiecuje, a co obiecuje.",
      "teksty": "1Sm 1,2-8; 1Sm 1,9-18; 1Sm 1,19-20; Łk 1,5-7; Iz 54,1; Iz 56,3-5; Łk 11,27-28",
      "zdanie": "Bóg nie liczy twojego życia w dzieciach. Daje imię, którego nic nie zetrze.",
      "dlugosc": {
@@ -1059,6 +1080,7 @@
     {
      "id": "K-06",
      "tytul": "Kryzys wiary",
+     "opis": "Gdy człowiek, który wierzył, nie umie już się modlić. Przechodzili przez to najważniejsi ludzie Biblii.",
      "teksty": "Ps 77,2-10; 1Krl 19,9-14.18; Lm 3,17-26; J 6,60-69; Ps 77,11-16.20-21",
      "zdanie": "Wiara nie zawsze widzi ślady. Czasem tylko pamięta, że droga już raz wiodła przez morze.",
      "dlugosc": {
@@ -1083,6 +1105,7 @@
     {
      "id": "K-07",
      "tytul": "Zdrada i zawód",
+     "opis": "Rana zadana przez kogoś bliskiego, widziana z obu stron: głos zdradzonego i droga Piotra.",
      "teksty": "Ps 55,13-15.21-22; Ps 55,5-9.17-18.23; Łk 22,31-34.54-62; J 21,9.12-13.15-19; 2Tm 4,9-13.16-18",
      "zdanie": "Bóg wysłuchuje skargi zdradzonego do końca, a temu, kto zawiódł, rozpala ognisko. Ani jednego, ani drugiego nie pogania.",
      "dlugosc": {
@@ -1108,6 +1131,7 @@
     {
      "id": "K-08",
      "tytul": "Zaczynanie od nowa",
+     "opis": "Dla tych, którym coś się skończyło. Noemi wraca z pustymi rękami i nie widzi, kto idzie obok.",
      "teksty": "Rt 1,1-7; Rt 1,14-22; Jr 29,4-7; Jr 29,8-14; Iz 43,16-19; Flp 3,12-14",
      "zdanie": "Nowy początek rzadko wygląda jak początek. Częściej wygląda jak synowa idąca obok, jęczmień na polu albo ogród założony nie tam, gdzie się chciało.",
      "dlugosc": {
@@ -1142,6 +1166,7 @@
     {
      "id": "S-01",
      "tytul": "Zmęczeni",
+     "opis": "Faraon nie daje przerwy. Bóg sam odpoczywa i zaprasza do odpoczynku zmęczonych.",
      "teksty": "Wj 5,1-2.4-9; Ps 127,1-2; Mk 6,30-34; Mt 11,28-30; Wj 31,16-17",
      "zdanie": "Faraon liczy cegły. Bóg odpoczywa pierwszy i zaprasza do siebie.",
      "dlugosc": {
@@ -1165,6 +1190,7 @@
     {
      "id": "S-02",
      "tytul": "Dzień, który był na początku",
+     "opis": "Pierwszy pełny dzień człowieka był dniem odpoczynku po pracy, którą wykonał Ktoś inny.",
      "teksty": "Rdz 1,31; 2,1-3; Wj 16,22-30; Wj 20,8-11; Mk 2,27; Iz 56,3-7",
      "zdanie": "Pierwszy pełny dzień człowieka był dniem odpoczynku. Bóg zaczyna od daru, nie od normy.",
      "dlugosc": {
@@ -1188,6 +1214,7 @@
     {
      "id": "S-03",
      "tytul": "Dzień wolnych ludzi",
+     "opis": "Drugi powód szabatu: byłeś niewolnikiem. Dzień dla tych, którzy sami przerwy sobie dać nie mogą.",
      "teksty": "Pwt 5,12-15; Wj 23,9-12; Kpł 25,1-7; Am 8,4-6; Iz 58,3.6-10",
      "zdanie": "Wolny człowiek świętuje swoją wolność tym, że daje odetchnąć innym.",
      "dlugosc": {
@@ -1212,6 +1239,7 @@
     {
      "id": "S-04",
      "tytul": "Jezus i szabat",
+     "opis": "Jezus nie zniósł szabatu i go nie lekceważył. Wybierał ten dzień, żeby ludzi uwalniać.",
      "teksty": "Łk 4,16-21; Mk 2,23-28; Łk 13,10-17; J 5,1-3.5-11.16-17",
      "zdanie": "Jezus nie zabrał ludziom szabatu. Zabrał z szabatu to, co zabierało go ludziom.",
      "dlugosc": {
@@ -1235,6 +1263,7 @@
     {
      "id": "S-05",
      "tytul": "Rozkosz, nie ciężar",
+     "opis": "Jak przeżywać dzień odpoczynku, żeby nie zamienił się w listę zakazów.",
      "teksty": "Iz 58,13-14; Ps 92,1-6.13-16; Łk 23,54-56; 24,1; Mt 23,1-4; Kol 2,20-23; Hbr 4,1-4.9-11",
      "zdanie": "Szabatu nie da się odrobić. Można go tylko przyjąć.",
      "dlugosc": {
@@ -1266,6 +1295,7 @@
     {
      "id": "PJ-01",
      "tytul": "Siewca",
+     "opis": "",
      "teksty": "Mk 4,1-20; Mk 4,26-29",
      "zdanie": "Siewca nie skreśla z góry żadnego kawałka pola. Moją częścią jest nie bronić dostępu.",
      "dlugosc": {
@@ -1289,6 +1319,7 @@
     {
      "id": "PJ-02",
      "tytul": "Ojciec i dwaj synowie",
+     "opis": "",
      "teksty": "Łk 15,1-3.11-32",
      "zdanie": "Ojciec wyszedł z domu dwa razy: do tego, który wracał z daleka, i do tego, który stał dwa kroki od drzwi.",
      "dlugosc": {
@@ -1312,6 +1343,7 @@
     {
      "id": "PJ-11",
      "tytul": "Talenty",
+     "opis": "",
      "teksty": "Mt 25,14-30",
      "zdanie": "To, co myślisz o Panu, decyduje o tym, co zrobisz z tym, co od Niego masz.",
      "dlugosc": {
@@ -1336,6 +1368,7 @@
     {
      "id": "PJ-12",
      "tytul": "Owce i kozły",
+     "opis": "",
      "teksty": "Mt 25,31-46; Mt 26,1-2",
      "zdanie": "Na sądzie wyjdzie na jaw to, czego nikt nie zapisywał, a Sędzią będzie Ten, który sam był głodny, nagi i uwięziony.",
      "dlugosc": {
@@ -1368,6 +1401,7 @@
     {
      "id": "D-01",
      "tytul": "Daniel 1. Nowe imię, ten sam Bóg",
+     "opis": "Nowe imię, nowy język, ten sam Bóg. Gdzie Daniel stawia granicę, a gdzie jej nie stawia.",
      "teksty": "Dn 1,1-2; 1,3-7; 1,8-10; 1,11-16; 1,17-21",
      "zdanie": "Babilon może zmienić ci imię. Nie zmieni tego, czyj jesteś, jeśli położyłeś to sobie na sercu wcześniej.",
      "dlugosc": {
@@ -1392,6 +1426,7 @@
     {
      "id": "D-02",
      "tytul": "Daniel 2. Sen o posągu",
+     "opis": "Sen, którego nikt nie umiał opowiedzieć. Bóg, który objawia tajemnice, i królestwo bez końca.",
      "teksty": "Dn 2,1-3.10-12; 2,13-19; 2,20-23.27-30; 2,31-35; 2,36-45",
      "zdanie": "Imperia się zmieniają, a historia i tak kończy się kamieniem, którego nie wyciosała ludzka ręka.",
      "dlugosc": {
