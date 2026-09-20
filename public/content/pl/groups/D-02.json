@@ -1,0 +1,868 @@
+{
+ "tytul": "Daniel 2. Sen o posągu",
+ "id": "D-02",
+ "seria": "Księga Daniela",
+ "tryb": "ksiegi",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Dn 2,1-3.10-12; 2,13-19; 2,20-23.27-30; 2,31-35; 2,36-45",
+  "p2": "Rdz 41,15-16; Dn 5,25-28; 8,20-21; Mt 13,31-32; Dn 2,46-49",
+  "p3": "Rdz 1,28; Łk 20,17-18"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 27,
+  "p3": 33
+ },
+ "tagi": [
+  "Daniel",
+  "proroctwo",
+  "królestwo Boże",
+  "modlitwa",
+  "historia",
+  "nadzieja"
+ ],
+ "wersja": 1,
+ "zdanie": "Imperia się zmieniają, a historia i tak kończy się kamieniem, którego nie wyciosała ludzka ręka.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ten rozdział najczęściej zamienia się w lekcję historii z tabelką: metal, imperium, daty. To spotkanie idzie inną drogą. Pyta, jaki jest Bóg, który objawia tajemnice, i co ten sen dawał ludziom, którzy stracili kraj, króla i świątynię. Mędrcy Babilonu mówią, że bogowie nie mieszkają wśród ludzi. Daniel mówi, że jest Bóg na niebie, który objawia tajemnice. Cały rozdział jest rozpięty między tymi dwoma zdaniami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Rozdział jest długi. Na poziomie 1 czytacie pięć odcinków, a to, co między nimi, streszcza jedno zdanie kursywą. Przeczytaj je grupie na głos.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś zna wykład na pamięć i zechce go wygłosić od razu, z datami. Poproś, żeby poczekał do bloku 5, i trzymaj się tego, co stoi w tekście. Tekst nazywa po imieniu tylko pierwsze królestwo.",
+      "Rozmowa o królestwach łatwo schodzi na bieżącą politykę, Unię Europejską, wojny i przywódców. Nie idź tam. Materiał nie wskazuje żadnego współczesnego państwa ani polityka i grupa też nie powinna.",
+      "Przy stole może siedzieć ktoś, kto słyszał o proroctwach wyłącznie w tonie straszenia. Ten sen nie straszy. Kończy się dobrą wiadomością.",
+      "Ktoś może zapytać, czy księga nie powstała po wydarzeniach, które opisuje. To poważne pytanie, jest o nim mowa na poziomie 3."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie rysuj tabelki, zanim grupa sama nie opisze posągu. Nie dopowiadaj dat, których nie ma w tekście. Nie rozstrzygaj sporów między szkołami wykładu tonem, który zamyka rozmowę.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ostatnio zostawiliśmy Daniela jako świeżego absolwenta babilońskiej szkoły, który postawił jedną granicę. Dziś cała ta szkoła dostaje wyrok śmierci, a on razem z nią.",
+     "poziom": 1
+    },
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie sytuację, w której ktoś zażądał od ciebie czegoś niemożliwego. Powiedz jednym zdaniem, co zrobiłeś najpierw.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Żądanie niemożliwe",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 2,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "W dwunastym roku panowania Nebukadnesara miał Nebukadnesar sen, tak iż jego duch był zaniepokojony i sen go odszedł. I kazał król zwołać wróżbitów i magów, czarowników i Chaldejczyków, aby królowi opowiedzieli jego sen; i przyszli, i stanęli przed królem. Wtedy król rzekł do nich: Miałem sen i mój duch jest zaniepokojony, bo chcę zrozumieć ten sen."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Mędrcy proszą, żeby król opowiedział sen, a oni go wyłożą. Król odmawia: mają mu powiedzieć i sen, i wykład, inaczej zginą. Podejrzewa, że grają na czas.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 2,10-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Chaldejczycy odpowiedzieli królowi, mówiąc: Nie ma na ziemi człowieka, który by mógł spełnić żądanie króla; jak też w ogóle żaden wielki i potężny król nie stawiał takiego żądania wobec wróżbity, maga i Chaldejczyka. To, czego król żąda, jest trudne, a nie ma drugiego takiego, kto by tę rzecz królowi oznajmił, oprócz bogów, którzy nie mieszkają wśród ludzi. Z tego powodu król był bardzo zły i bardzo się rozgniewał, i kazał stracić wszystkich magów babilońskich."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Król żąda nie tylko wykładu, ale i samego snu. **Czego się boi? Komu nie ufa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Najlepsi specjaliści imperium mówią, że bogowie „nie mieszkają wśród ludzi\". **Co to jedno zdanie mówi o całej religii, którą reprezentują?** Jak się żyje z takimi bogami?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Najpotężniejszy człowiek świata nie może spać i wydaje wyrok na własnych doradców. **Jak wygląda władza, która się boi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Na starożytnym Wschodzie sen króla nie był jego prywatną sprawą. Uważano go za wiadomość od bogów, często ostrzeżenie przed nieszczęściem, które grozi władcy albo państwu. Król musiał znać jego sens, żeby zdążyć się zabezpieczyć. Nebukadnesar zachowuje się jak człowiek, który dostał pilną depeszę i nie potrafi jej odczytać. Jest na początku panowania i niczego nie jest jeszcze pewien.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy w księdze",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** W drugim z sześciu opowiadań dworskich. Rozdział 1 pokazał, jak Daniel trafił do Babilonu i skończył królewską szkołę. Teraz jest najmłodszym z mędrców i nikt go nawet nie wezwał na naradę. Ten rozdział jest osią całej księgi: sen o czterech królestwach i królestwie Boga wróci w rozdziale 7 jako widzenie samego Daniela, a rozdziały 8-12 będą go rozwijać.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** W wersecie 4 tekst zaznacza, że mędrcy odpowiadają po aramejsku. Od tego miejsca aż do końca rozdziału 7 sama księga jest napisana po aramejsku, w języku urzędowym imperium. Część o losach narodów jest zapisana tak, żeby mogły ją przeczytać narody.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Biblia Warszawska ma w pierwszym wersecie „w dwunastym roku\". Tekst hebrajski i większość przekładów, także ekumeniczny, mają „w drugim roku\". Różnica ma znaczenie dla opowiadania: w drugim roku Nebukadnesara Daniel jest jeszcze bardzo młody, najwyżej świeżo po królewskiej szkole.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia w tej scenie świadomość, że przed królem stanie za chwilę nie doświadczony dostojnik, tylko ktoś na samym początku drogi?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Czas i przyjaciele",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 2,13-19",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy wydano rozkaz stracenia magów, miano stracić także Daniela i jego towarzyszy. Wtedy Daniel mądrze i roztropnie zwrócił się do Ariocha, dowódcy gwardii przybocznej króla, który wyszedł, aby stracić magów babilońskich. Odezwał się do Ariocha, oficera królewskiego, tymi słowy: Dlaczego rozkaz królewski jest taki srogi? Wtedy Arioch objaśnił tę rzecz Danielowi. Na to Daniel poszedł i prosił króla, aby mu dał czas na wyłożenie królowi snu. Potem pobiegł Daniel do domu i opowiedział tę rzecz swoim towarzyszom: Ananiaszowi, Miszaelowi i Azariaszowi, aby wybłagali u Boga niebios miłosierdzie z powodu tej tajemnicy, by nie stracono Daniela i jego towarzyszy wraz z pozostałymi magami babilońskimi. Wtedy Danielowi została objawiona w nocnym widzeniu tajemnica, za co Daniel wysławiał Boga niebios."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel dowiaduje się, że ma zginąć za coś, o czym nawet nie słyszał. **Wypiszcie po kolei, co robi w wersetach 14-18.** Czego na tej liście brakuje, choć byście się tego spodziewali?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Prosi króla o czas, a przyjaciół o modlitwę. Obiecuje wykład, zanim cokolwiek wie. **Skąd ta pewność i dlaczego mimo niej nie modli się sam?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Modlą się o „miłosierdzie z powodu tej tajemnicy\". **Za kogo jeszcze, oprócz siebie, stawiają się w tej modlitwie?** Zajrzyjcie na koniec wersetu 18.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Jest Bóg na niebie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 2,20-23",
+       "przeklad": "BW",
+       "akapity": [
+        "I zaczął Daniel mówić tymi słowy: Niech będzie błogosławione imię Boga od wieków na wieki, albowiem do niego należą mądrość i moc. On zmienia czasy i pory, On utrąca królów i ustanawia królów, udziela mądrości mądrym, a rozumnym rozumu. On odsłania to, co głębokie i ukryte; wie co jest w ciemnościach, u Niego mieszka światłość. Ciebie, Boże moich ojców chwalę i wysławiam, bo mi dałeś mądrość i moc, a teraz oznajmiłeś mi, o co cię prosiliśmy; oznajmiłeś nam sprawę króla."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Daniel idzie do Ariocha i prosi, żeby wstrzymał egzekucje. Arioch spiesznie prowadzi go do króla. Król pyta: czy naprawdę możesz mi opowiedzieć sen i go wyłożyć?",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 2,27-30",
+       "przeklad": "BW",
+       "akapity": [
+        "Daniel odpowiedział królowi tymi słowy: Tajemnicy, o którą pyta król, nie mogą wyjawić królowi ani magowie, ani wróżbici, ani czarownicy, ani astrolodzy. Jest jednak Bóg na niebie, który objawia tajemnice i wyjawia królowi Nebukadnesarowi, co się stanie w przyszłych dniach. A twój sen i twoje widzenie, które ci przeszły przez głowę, są takie: Tobie, o królu, przyszły na twoim łożu myśli o tym, co kiedyś się stanie, a ten, który objawia tajemnice, powiedział ci, co się stanie. Nie dzięki mądrości, którą miałbym w większym stopniu niż wszyscy żyjący, jest mi objawiona ta tajemnica, lecz abym wyłożył królowi sen i abyś ty zrozumiał myśli swojego serca."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel ma odpowiedź, a kat wciąż chodzi po mieście. **Co robi najpierw?** Co ta kolejność mówi o nim?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„On utrąca królów i ustanawia królów\". **Jak brzmi to zdanie w ustach człowieka, którego własny król został właśnie utrącony, a on sam służy temu, kto to zrobił?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Porównajcie werset 11 z wersetem 28. **Co Daniel mówi o sobie, a co o Bogu?** Dla kogo według wersetu 30 jest ten sen?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Mędrcy powiedzieli prawdę o swoich bogach: nie mieszkają wśród ludzi i nie mówią. Daniel odpowiada jednym zdaniem: jest Bóg na niebie, który objawia tajemnice. Nie chowa ich, tylko odsłania, i to komu: pogańskiemu królowi, który zburzył Mu miasto. Pierwszą rzeczą, jakiej Nebukadnesar dowiaduje się o Bogu Daniela, jest to, że ten Bóg chce z nim rozmawiać.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Już raz tak było",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 41,15-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy faraon rzekł do Józefa: Miałem sen, a nie ma nikogo, kto by go wyłożył, ale o tobie słyszałem, że gdy usłyszysz sen, umiesz go wyłożyć. Józef odpowiedział faraonowi: Nie w mojej to mocy, lecz Bóg udzieli faraonowi pomyślnej odpowiedzi."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Młody Hebrajczyk, obcy dwór, sen władcy, bezradni mędrcy. **Co łączy odpowiedź Józefa z odpowiedzią Daniela?** Czego obaj pilnują w chwili, która mogłaby być ich wielką szansą?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Dlaczego tak trudno powiedzieć „nie w mojej to mocy\" wtedy, gdy wszyscy patrzą i czekają na popis?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Posąg i kamień",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 2,31-35",
+       "przeklad": "BW",
+       "akapity": [
+        "Ty, królu, miałeś widzenie: Oto olbrzymi posąg stał przed tobą; wielki był ów posąg, potężny jego blask, a straszny jego wygląd. Głowa tego posągu była ze szczerego złota, jego pierś i jego ramiona ze srebra, jego brzuch i jego biodra z miedzi, jego golenie z żelaza, jego nogi po części z żelaza, po części z gliny. Patrzyłeś, a wtem bez udziału rąk oderwał się od góry kamień, uderzył ten posąg w nogi z żelaza i gliny, i skruszył je. Wtedy rozsypało się w kawałki żelazo, glina, miedź, srebro i złoto, i było to wszystko jak plewa na klepisku w lecie; i rozniósł to wiatr, tak że nie było po nich śladu. Kamień zaś, który uderzył w posąg, stał się wielką górą i wypełnił całą ziemię."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Opiszcie posąg od góry do dołu, tylko z tekstu.** Co się zmienia, kiedy wzrok schodzi w dół?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Teraz kamień. **Skąd się bierze, czyją ręką i co się z nim dzieje na końcu?** Zestawcie posąg i kamień: co w tym śnie jest zrobione ludzką ręką, a co nie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Po posągu zostaje „plewa na klepisku\", którą roznosi wiatr. **Co ten obraz mówi o rzeczach, które wyglądają na wieczne?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Od głowy w dół metale tracą na wartości i zyskują na twardości: złoto, srebro, miedź, żelazo. Reguła łamie się w stopach, gdzie żelazo jest wymieszane z gliną. Posąg jest więc najsłabszy dokładnie tam, gdzie powinien być najmocniejszy, bo na stopach stoi wszystko. Kamień nie uderza w złotą głowę. Uderza w stopy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Wykład",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 2,36-45",
+       "przeklad": "BW",
+       "akapity": [
+        "Taki jest sen, a teraz go wyłożymy królowi: Ty, o królu, jesteś królem królów, któremu Bóg niebios dał królestwo, moc i siłę, i chwałę, w którego ręce na całej zamieszkanej ziemi dał ludzi, polne zwierzęta i ptactwo niebieskie, którego uczynił władcą tego wszystkiego, ty jesteś głową ze złota, ale po tobie powstanie inne królestwo, słabsze niż twoje, a potem trzecie królestwo z miedzi, które opanuje całą ziemię. Czwarte królestwo będzie mocne jak żelazo, bo żelazo wszystko kruszy i łamie; i jak żelazo, które kruszy, tak i ono wszystko skruszy i zdruzgocze. A że widziałeś nogi i palce po części z gliny, a po części z żelaza, znaczy, że królestwo będzie rozdzielone, lecz będzie miało coś z trwałości żelaza, jak widziałeś żelazo zmieszane z ziemią gliniastą. A to, że palce u nóg były po części z żelaza, a po części z gliny, znaczy, że królestwo będzie po części mocne, a po części kruche. A że widziałeś żelazo zmieszane z gliniastą ziemią, znaczy: zmieszają się z sobą, lecz jeden nie będzie się trzymał drugiego, tak jak żelazo nie może się zmieszać z gliną.",
+        "Za dni tych królów Bóg niebios stworzy królestwo, które na wieki nie będzie zniszczone, a królestwo to nie przejdzie na inny lud; zniszczy i usunie wszystkie owe królestwa, lecz samo ostoi się na wieki, jak to widziałeś, że od góry oderwał się kamień bez udziału rąk, rozbił żelazo i miedź, glinę, srebro, złoto. Wielki Bóg objawił królowi, co potem się stanie. Sen jest prawdziwy, a wykład jego pewny."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Nebukadnesar słyszy w jednym zdaniu: „ty jesteś głową ze złota\" i „po tobie powstanie inne królestwo\". **Jak to jest usłyszeć obie rzeczy naraz?** Skąd według wersetu 37 król ma to, co ma?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Wypiszcie z wersetu 44 wszystko, co tekst mówi o królestwie Boga.** Czym różni się ono od czterech poprzednich?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Pierwsi czytelnicy tej księgi żyli pod obcym panowaniem, bez króla i bez świątyni. **Co dawał im ten sen?** Co zmienia w codziennym życiu wiedza, że historia ma ostatni rozdział i że nie napisze go żadne imperium?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Żelazo i glina: „zmieszają się z sobą, lecz jeden nie będzie się trzymał drugiego\". **Co to mówi o wszystkich próbach sklejenia świata w jedno ludzkimi sposobami?**",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "tekst nazywa po imieniu tylko pierwsze królestwo, Babilon. Jeśli grupa zacznie wymieniać następne, zapytaj: „A gdzie to stoi w tym rozdziale?\". Imiona kolejnych podaje sama księga, ale dalej. Są na poziomie 2.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Księga sama nazywa następne",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 5,25-28",
+       "przeklad": "BW",
+       "akapity": [
+        "A oto napis, który został wypisany: mene, mene, tekel, uparsin. A taki jest wykład tego słowa: Mene: Bóg policzył dni twojego panowania i doprowadził je do końca. Tekel – jesteś zważony na wadze i znaleziony lekkim. Peres – twoje królestwo będzie podzielone i oddane Medom i Persom."
+       ]
+      },
+      {
+       "odnosnik": "Dn 8,20-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Baran z dwoma rogami, którego widziałeś, oznacza królów Medii i Persji. A kozioł, to król grecki, a wielki róg, który jest między jego oczami, to król pierwszy."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Sama Księga Daniela podaje imiona królestwa drugiego i trzeciego. **Jakie to królestwa?** Co z tego wynika dla czwartego, które przychodzi po Grecji i jest „mocne jak żelazo\"?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Dlaczego lepiej, żeby symbole wyjaśniała sama Biblia, niż żebyśmy dopasowywali je do tego, co akurat widzimy w wiadomościach?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Czwartego królestwa Daniel nigdzie nie nazywa. Już w starożytności wielu czytelników, żydowskich i chrześcijańskich, widziało w nim Rzym, który przyszedł po Grecji i którego nie zastąpiło żadne kolejne imperium, tylko mozaika państw, mocnych i kruchych, nigdy trwale sklejonych. Tak czyta ten sen również Kościół Adwentystów. Warto jednak pamiętać o proporcjach: tekst poświęca królestwom dziewięć wersetów po to, żeby dojść do dziesiątego.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Kamień i ziarno",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 13,31-32",
+       "przeklad": "BW",
+       "akapity": [
+        "Inne podobieństwo podał im, mówiąc: Podobne jest Królestwo Niebios do ziarnka gorczycznego, które wziąwszy człowiek, zasiał na roli swojej. Jest ono, co prawda, najmniejsze ze wszystkich nasion, ale kiedy urośnie, jest największe ze wszystkich jarzyn, i staje się drzewem, tak iż przylatują ptaki niebieskie i gnieżdżą się w gałęziach jego."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Słuchacze Jezusa znali sen z Daniela i czekali na kamień, który skruszy Rzym. Jezus mówi im o ziarnie. **Co te dwa obrazy królestwa mają wspólnego, a czym się różnią?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy kamień i ziarno się wykluczają, czy opisują dwa etapy tej samej historii?** Co by to znaczyło dla ludzi, którzy żyją pomiędzy?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Reakcja króla",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 2,46-49",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy król Nebukadnesar padł na swoją twarz i oddał cześć Danielowi; i rozkazał złożyć mu ofiary z pokarmów i kadzidlane. Potem odezwał się król i rzekł do Daniela: Zaprawdę wasz Bóg jest Bogiem bogów i Panem królów. On objawia tajemnice; gdyż ty mogłeś odsłonić tę tajemnicę. Potem wyniósł król Daniela na wysokie stanowisko, hojnie go obdarował i powołał go na namiestnika całej prowincji babilońskiej i na naczelnego zwierzchnika wszystkich magów babilońskich. Lecz Daniel wyprosił u króla, aby zarząd prowincji babilońskiej powierzył Szadrachowi, Meszachowi i Abed-Negowi. A Daniel pozostał na dworze królewskim."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Król mówi o Bogu wielkie słowa. **Przyjrzyjcie się jednak zaimkowi: czyj to Bóg według króla?** Czego w jego reakcji jeszcze brakuje?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W następnym rozdziale ten sam król postawi posąg cały ze złota, od głowy do stóp. **Co mógł chcieć w ten sposób poprawić w swoim śnie?** Zapamiętajcie to pytanie na kolejne spotkanie.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo: władza pożyczona z Edenu",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Werset 38 opisuje władzę Nebukadnesara nad ludźmi, polnymi zwierzętami i ptactwem niebieskim. Brzmi to jak echo pierwszej strony Biblii.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 1,28",
+       "przeklad": "BW",
+       "akapity": [
+        "I błogosławił im Bóg, i rzekł do nich Bóg: Rozradzajcie się i rozmnażajcie się, i napełniajcie ziemię, i czyńcie ją sobie poddaną; panujcie nad rybami morskimi i nad ptactwem niebios, i nad wszelkimi zwierzętami, które się poruszają po ziemi!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co jest na liście Nebukadnesara, czego nie było na liście Adama i Ewy?** Co mówi o imperiach to, że człowiek na początku dostał władzę nad stworzeniem, ale nie nad drugim człowiekiem?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel mówi królowi, że wszystko to „dał\" mu Bóg niebios. To ten sam czasownik, który w rozdziale 1 padł trzy razy. **Co znaczy dla władcy, i dla każdego z nas, że to, co ma, jest dane, a nie zdobyte?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: jak czytano ten sen",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ten rozdział czytano na kilka sposobów i uczciwie jest je nazwać.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Szkoła historyczna jest najstarsza. Przyjmuje, że księgę napisał Daniel w szóstym wieku przed Chrystusem, a sen obejmuje cały bieg dziejów: Babilon, Medo-Persję, Grecję, Rzym, podzieloną Europę i na końcu królestwo Boga przy powtórnym przyjściu Chrystusa. Tak czytali reformatorzy i tak czytają adwentyści. Szkoła futurystyczna zgadza się co do autora i królestw, ale końcówkę proroctw Daniela przenosi w całości w krótki okres tuż przed końcem świata. Szkoła preterystyczna uważa, że wszystko wypełniło się w starożytności, najpóźniej wraz z pierwszym przyjściem Jezusa albo upadkiem Rzymu. Szkoła historyczno-krytyczna przyjmuje, że księgę napisał nieznany autor w drugim wieku przed Chrystusem, już po większości opisanych wydarzeń, i dlatego czwartym królestwem czyni Grecję, a Medów i Persów rozdziela na dwa osobne.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Dwie rzeczy warto przy tym wiedzieć. Sama księga traktuje Medów i Persów jako jedno królestwo, co widać w Dn 5,28 i 8,20. A wśród zwojów znad Morza Martwego są rękopisy Daniela z drugiego wieku przed Chrystusem, co oznacza, że księga była już wtedy przepisywana i czytana jako Pismo.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Osobne pytanie dotyczy kamienia. Jedni widzą w nim pierwsze przyjście Jezusa i powolny wzrost Kościoła. Inni zwracają uwagę, że kamień uderza w stopy, czyli przychodzi po podziale czwartego królestwa, że jego uderzenie jest katastrofą dla całego posągu, a nie cichym początkiem, i że w śnie królestwo kamienia nie istnieje obok poprzednich, tylko zajmuje ich miejsce. To wskazuje na powtórne przyjście. Jezus sam sięgnął po ten obraz:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 20,17-18",
+       "przeklad": "BW",
+       "akapity": [
+        "On zaś, spojrzawszy na nich, rzekł: Cóż więc znaczy to, co napisane: Kamień, który odrzucili budowniczowie, stał się kamieniem węgielnym? Każdy, kto by upadł na ten kamień, roztrzaska się, a na kogo by on upadł, zmiażdży go."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi o kamieniu, na który można upaść teraz, i o kamieniu, który spadnie później. **Jak to zdanie pomaga połączyć oba odczytania?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wszystkie szkoły różnią się co do dat i imion. **W czym się zgadzają, kiedy czytają werset 44?** Co z tego rozdziału zostaje, nawet jeśli ktoś nie jest pewien szczegółów?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie musisz bronić żadnej szkoły. Wystarczy pokazać, że odczytanie historyczne trzyma się imion, które podaje sama księga. Jeśli ktoś ma inne zdanie, zapytaj, na którym wersecie je opiera.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Każdy ma swój posąg: coś, co wygląda na trwałe jak złoto i na czym opiera poczucie bezpieczeństwa. **Co jest nim u ciebie i gdzie ma stopy z gliny?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel w kryzysie poprosił o czas i o modlitwę trzech przyjaciół. **Kogo ty możesz poprosić, kiedy dostajesz zadanie ponad siły?** Co cię powstrzymuje?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest w twoim życiu sprawa, której nie rozumiesz i z którą chodzisz jak król z niewyjaśnionym snem?** Nie musisz mówić jaka.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel mówi, że Bóg „utrąca królów i ustanawia królów\", i że to Bóg dał królestwo Nebukadnesarowi, temu samemu, który spalił Jerozolimę. **Czy to znaczy, że Bóg chce każdej władzy, jaka akurat jest? Jak pogodzić Boga, który trzyma historię, z historią pełną krzywd, które wyrządzają władcy?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie zamykaj tego pytania i nie pozwól, żeby zamieniło się w rozmowę o dzisiejszych politykach. Warto, żeby padło jedno spostrzeżenie z samego tekstu: sen nie pochwala żadnego z czterech królestw. Wszystkie kończą jako plewa. Bóg dopuszcza i ogranicza, a to nie to samo, co pochwalać.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Imperia się zmieniają, a historia i tak kończy się kamieniem, którego nie wyciosała ludzka ręka.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Dn 2,44 albo Dn 2,28a.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Mędrcy Babilonu wierzyli w bogów, którzy nie mieszkają wśród ludzi i nie mówią. Zapytaj siebie uczciwie: **czy mój Bóg na co dzień jest bliżej Boga Daniela, czy bogów Babilonu?** Czy spodziewam się, że cokolwiek mi powie?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o rzeczy, której upadku boisz się najbardziej: praca, zdrowie, oszczędności, porządek świata, który znasz. Powiedz Bogu, czego dokładnie się boisz. Potem przeczytaj na głos Dn 2,44 i zostań przy tym zdaniu chwilę dłużej, niż jest ci wygodnie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** w tym tygodniu poproś konkretną osobę, żeby modliła się z tobą o sprawę, z którą dotąd chodziłeś sam.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś od razu wygłasza cały wykład: Babilon, Medo-Persja, Grecja, Rzym, Europa, z datami.** Podziękuj i poproś o cierpliwość: „Dojdziemy do tego w bloku 5. Najpierw zobaczmy, co jest przed posągiem\". Jeśli wykład wraca, pytaj za każdym razem: „Gdzie to stoi w tekście, który mamy przed sobą?\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To się właśnie dzieje, zobaczcie, co robi Unia Europejska\", albo inny bieżący temat.** Przerwij spokojnie. Sen mówi o tym, że żadna ludzka konstrukcja nie sklei świata na trwałe, i nic więcej. Nie wskazuje instytucji ani dat. Wróć do pytania, co ten sen dawał wygnańcom i co daje nam.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Przecież tę księgę napisano po fakcie, każdy historyk to wie.\"** Nie reaguj obronnie. Powiedz, że taki pogląd istnieje i że są poważne powody, by się z nim nie zgadzać, między innymi rękopisy z Qumran i to, że księga sama łączy Medów z Persami. Zaproponuj poziom 3 albo rozmowę po spotkaniu. Nie rób z tego sporu przy stole.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś się boi: „czyli będzie koniec świata, wszystko się rozpadnie\".** Zwróć uwagę, kto w tym rozdziale się boi, a kto śpiewa. Boi się król, który ma wszystko. Daniel, który nie ma nic, błogosławi Boga. Koniec snu to nie katastrofa, tylko królestwo, które „ostoi się na wieki\". Dla wygnańców to była najlepsza wiadomość z możliwych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa utyka na szczegółach: ile palców, które dokładnie państwa, co znaczy glina.** Tekst nie liczy palców i nie nazywa państw. Powiedz to wprost i przejdź do wersetu 44.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś pyta: „A dlaczego mnie Bóg nie odpowiada tak jak Danielowi, w jedną noc?\"** To prawdziwy ból, nie zbywaj go. Nie obiecuj, że odpowiedź przyjdzie. Możesz powiedzieć, że Daniel też dostał tylko to, o co prosił tej nocy, a na wiele innych pytań czekał całe życie, co pokażą dalsze rozdziały. Zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Blok 2 przeczytajcie tylko na głos. Nie skracaj bloku 3, bo bez niego spotkanie zamienia się w lekcję historii. Z bloku 5 zostaw pytanie o werset 44.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś od razu wygłasza cały wykład: Babilon, Medo-Persja, Grecja, Rzym, Europa, z datami.",
+     "odpowiedz": "Podziękuj i poproś o cierpliwość: „Dojdziemy do tego w bloku 5. Najpierw zobaczmy, co jest przed posągiem\". Jeśli wykład wraca, pytaj za każdym razem: „Gdzie to stoi w tekście, który mamy przed sobą?\"."
+    },
+    {
+     "sytuacja": "„To się właśnie dzieje, zobaczcie, co robi Unia Europejska\", albo inny bieżący temat.",
+     "odpowiedz": "Przerwij spokojnie. Sen mówi o tym, że żadna ludzka konstrukcja nie sklei świata na trwałe, i nic więcej. Nie wskazuje instytucji ani dat. Wróć do pytania, co ten sen dawał wygnańcom i co daje nam."
+    },
+    {
+     "sytuacja": "„Przecież tę księgę napisano po fakcie, każdy historyk to wie.\"",
+     "odpowiedz": "Nie reaguj obronnie. Powiedz, że taki pogląd istnieje i że są poważne powody, by się z nim nie zgadzać, między innymi rękopisy z Qumran i to, że księga sama łączy Medów z Persami. Zaproponuj poziom 3 albo rozmowę po spotkaniu. Nie rób z tego sporu przy stole."
+    },
+    {
+     "sytuacja": "Ktoś się boi: „czyli będzie koniec świata, wszystko się rozpadnie\".",
+     "odpowiedz": "Zwróć uwagę, kto w tym rozdziale się boi, a kto śpiewa. Boi się król, który ma wszystko. Daniel, który nie ma nic, błogosławi Boga. Koniec snu to nie katastrofa, tylko królestwo, które „ostoi się na wieki\". Dla wygnańców to była najlepsza wiadomość z możliwych."
+    },
+    {
+     "sytuacja": "Rozmowa utyka na szczegółach: ile palców, które dokładnie państwa, co znaczy glina.",
+     "odpowiedz": "Tekst nie liczy palców i nie nazywa państw. Powiedz to wprost i przejdź do wersetu 44."
+    },
+    {
+     "sytuacja": "Ktoś pyta: „A dlaczego mnie Bóg nie odpowiada tak jak Danielowi, w jedną noc?\"",
+     "odpowiedz": "To prawdziwy ból, nie zbywaj go. Nie obiecuj, że odpowiedź przyjdzie. Możesz powiedzieć, że Daniel też dostał tylko to, o co prosił tej nocy, a na wiele innych pytań czekał całe życie, co pokażą dalsze rozdziały. Zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Blok 2 przeczytajcie tylko na głos. Nie skracaj bloku 3, bo bez niego spotkanie zamienia się w lekcję historii. Z bloku 5 zostaw pytanie o werset 44."
+    }
+   ]
+  }
+ ]
+}

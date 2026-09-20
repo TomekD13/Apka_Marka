@@ -1,0 +1,539 @@
+{
+ "tytul": "Radość",
+ "id": "E-10",
+ "seria": "Emocje",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Ne 8,9-12; Flp 4,4-7; Łk 15,8-10; J 16,20-22; Ha 3,17-18; Ps 16,11",
+  "p2": "Dz 16,25",
+  "p3": "Flp 4,4"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 80,
+  "p3": 95
+ },
+ "liczbaPytan": {
+  "p1": 20,
+  "p2": 22,
+  "p3": 23
+ },
+ "tagi": [
+  "emocje",
+  "wdzięczność",
+  "nadzieja",
+  "wspólnota"
+ ],
+ "wersja": 1,
+ "zdanie": "Radość biblijna nie czeka, aż lista braków się skończy. Zaczyna się od słowa „lecz\".",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To ostatnie spotkanie serii i celowo nie jest nagrodą za przejście przez trudne tematy. Teksty o radości w Biblii pisane są najczęściej z miejsc, w których nie ma powodu do wesołości: z więzienia, z ruin miasta, z zapowiedzi pustych spichlerzy. Radość nie jest tu przeciwieństwem smutku, tylko czymś, co potrafi z nim współistnieć.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Po serii o gniewie, lęku i goryczy ktoś może być w miejscu, w którym radość brzmi jak wyrzut. Uważaj na ton.",
+      "Zdanie „radujcie się zawsze\" bywa używane jako zakaz smutku. Jeśli padnie w tej roli, zareaguj.",
+      "Nie każ nikomu wyliczać powodów do wdzięczności. To zamienia radość w zadanie."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie rób z tego spotkania podsumowania serii ani bilansu. Nie zestawiaj radości z poprzednimi tematami tak, jakby była na nie lekarstwem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Co cię ostatnio ucieszyło tak drobnego, że wstyd o tym mówić na głos? Powiedz to mimo wszystko.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i wybierz coś naprawdę błahego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Radość jako ostoja",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ne 8,9-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Nehemiasz, który był namiestnikiem, oraz Ezdrasz, kapłan i pisarz, i Lewici, którzy objaśniali lud, rzekli do całego ludu: Dzień dzisiejszy jest poświęcony Panu, waszemu Bogu, nie smućcie się i nie płaczcie; gdyż cały lud, słuchając postanowień Zakonu, płakał. I rzekł do nich: Idźcie, najedzcie się tłustego jadła i napijcie się słodkich napojów, udzielcie też tym, którzy nic nie przygotowali, gdyż dzień dzisiejszy jest poświęcony naszemu Panu; nie smućcie się, wszak radość z Pana jest waszą ostoją. Lewici zaś uspokajali cały lud, mówiąc: Uspokójcie się, gdyż dzień dzisiejszy jest święty, nie smućcie się. Rozszedł się więc cały lud, aby się najeść i napić, i udzielić innym, i urządzić wielką radosną uroczystość, gdyż zrozumieli słowa, które im podano."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Lud płacze, bo dopiero co usłyszał Prawo i zobaczył, jak daleko od niego odszedł. **Dlaczego przywódcy każą im przestać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Polecenie brzmi bardzo konkretnie: jedzcie, pijcie i poślijcie porcje tym, którzy nic nie przygotowali. **Dlaczego radość dostaje tu formę posiłku i dzielenia się, a nie uczucia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Radość z Pana jest waszą ostoją\". **Ostoja to coś, na czym się stoi. Co to znaczy, że radość jest podporą, a nie nagrodą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Werset 12 podaje powód, dla którego cieszyli się naprawdę. **Jaki to powód?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To jedna z niewielu scen w Biblii, gdzie ludziom każe się przestać płakać, i warto zobaczyć, kiedy. Nie przy pogrzebie ani w nieszczęściu, tylko w dniu, w którym zrozumieli słowa Prawa. Radość jest tu odpowiedzią na to, że Bóg przemówił i że wciąż mają z Nim do czynienia. Konkretem jest wspólny stół i porcje dla tych, którzy nic nie mają. Radość biblijna prawie zawsze ma liczbę mnogą.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "List z więzienia",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Flp 4,4-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Radujcie się w Panu zawsze; powtarzam, radujcie się. Skromność wasza niech będzie znana wszystkim ludziom: Pan jest blisko. Nie troszczcie się o nic, ale we wszystkim w modlitwie i błaganiach z dziękczynieniem powierzcie prośby wasze Bogu. A pokój Boży, który przewyższa wszelki rozum, strzec będzie serc waszych i myśli waszych w Chrystusie Jezusie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł pisze to jako więzień, do ludzi, którzy się o niego martwią. **Co ta okoliczność robi ze zdaniem „radujcie się zawsze\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Powtarza to polecenie dwa razy w jednym wersecie. **Czy radość da się nakazać? Czym byłby nakaz, gdyby chodziło o uczucie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Między wezwaniem do radości a obietnicą pokoju stoi zdanie: Pan jest blisko. **Jak ono wiąże jedno z drugim?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Radujcie się w Panu\", nie „radujcie się z sytuacji\". **Co to zawężenie zmienia?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Śpiew o północy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 16,25",
+       "przeklad": "BW",
+       "akapity": [
+        "A około północy Paweł i Sylas modlili się i śpiewem wielbili Boga, więźniowie zaś przysłuchiwali się im."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł i Sylas mają za sobą pobicie i są zakuci. **Co robią o północy i kto ich słucha?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Tekst zaznacza, że przysłuchiwali się im inni więźniowie. **Po co ten szczegół w opowiadaniu?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Kobieta, która przewróciła dom",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 15,8-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Albo, która niewiasta, mając dziesięć drachm, gdy zgubi jedną drachmę, nie bierze światła, nie wymiata domu i nie szuka gorliwie, aż znajdzie? A znalazłszy, zwołuje przyjaciółki oraz sąsiadki i mówi: Weselcie się ze mną, gdyż znalazłam drachmę, którą zgubiłam. Taka, mówię wam, jest radość wśród aniołów Bożych nad jednym grzesznikiem, który się upamięta."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zgubiła jedną z dziesięciu monet, więc dziewięć dalej ma. **Dlaczego mimo to przewraca cały dom?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Znalazłszy monetę, zwołuje sąsiadki. Koszt takiego zaproszenia mógł przewyższyć wartość monety. **Co to mówi o naturze radości?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi, że taka jest radość wśród aniołów nad jednym nawróconym. **Czyja to radość jest opisywana w tej przypowieści: nasza czy Boża?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Smutek, który się zamieni",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 16,20-22",
+       "przeklad": "BW",
+       "akapity": [
+        "Zaprawdę, zaprawdę, powiadam wam: Wy płakać i narzekać będziecie, a świat się będzie weselił; wy smutni będziecie, ale smutek wasz w radość się zamieni. Kobieta, gdy rodzi, smuci się, bo nadeszła jej godzina; lecz gdy porodzi dzieciątko, już nie pamięta o udręce gwoli radości, że się człowiek na świat urodził. I wy teraz się smucicie, lecz znowu ujrzę was, i będzie się radowało serce wasze, a nikt nie odbierze wam radości waszej."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nie mówi „po smutku przyjdzie radość\". Mówi, że smutek zamieni się w radość. **Czym to się różni?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Obraz rodzącej kobiety. Ból nie zostaje odwołany ani skrócony. **Co się z nim dzieje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ostatnie zdanie mówi o radości, której nikt nie odbierze. **Co to mówi o źródle tej radości?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Grecki czasownik oznacza tu przemianę jednej rzeczy w drugą, a nie następstwo w czasie. Jezus nie obiecuje, że po ciężkim okresie przyjdzie lepszy. Mówi, że to samo wydarzenie, które teraz jest powodem płaczu, okaże się powodem radości. Mówi to przed krzyżem i o krzyżu. Dlatego obraz porodu pasuje najlepiej: nikt nie twierdzi, że bólu nie było, ale nikt też nie chce cofnąć tego, co się przez niego stało.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Choćby figowiec nie zakwitł",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ha 3,17-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Zaiste, drzewo figowe nie wydaje owocu, a na winoroślach nie ma gron. Zawodzi drzewo oliwne, a rola nie dostarcza pożywienia. W ogrodzeniu nie ma owiec, a w oborach nie ma bydła. Lecz ja będę radował się w Panu, weselił się w Bogu mojego zbawienia."
+       ]
+      },
+      {
+       "odnosnik": "Ps 16,11",
+       "przeklad": "BW",
+       "akapity": [
+        "Dasz mi poznać drogę życia, Obfitość radości w obliczu twoim, Rozkosz po prawicy twojej na wieki."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Habakuk wylicza sześć rzeczy, których nie ma, i wszystkie są podstawą przetrwania jego ludu. **Co zostaje, gdy odjąć całą tę listę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Lecz ja będę radował się w Panu\". To jest decyzja, a nie opis stanu. **Czy da się zdecydować o radości? Co dokładnie się wtedy wybiera?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm mówi o obfitości radości w obliczu Bożym. **Dlaczego akurat oblicze, czyli bycie widzianym i widzenie?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co powiedzieć człowiekowi w depresji, który słyszy „radujcie się zawsze\" i odbiera to jako oskarżenie? Czy polecenie Pawła dotyczy uczuć, których ten człowiek nie jest w stanie wywołać?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "uważaj, żeby nie zamienić tego w poradę psychologiczną. Warto zauważyć, że Paweł pisze „w Panu\", a nie „z życia\", i że radość biblijna wielokrotnie idzie ramię w ramię z płaczem, na przykład u Nehemiasza i w J 16.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nehemiasz kazał ludziom posłać porcje tym, którzy nic nie przygotowali. **Komu mógłbyś posłać swoją porcję w tym tygodniu?** Cokolwiek to u ciebie znaczy.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Habakuk wyliczył wszystko, czego nie ma, zanim powiedział „lecz ja\". **Spróbuj ułożyć takie zdanie o sobie. Najpierw lista, potem „lecz\".**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **kiedy ostatnio cieszyłeś się z czegoś razem z kimś, a nie obok kogoś?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Radość biblijna nie czeka, aż lista braków się skończy. Zaczyna się od słowa „lecz\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Ne 8,10 albo Ha 3,18.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przez najbliższe dni zauważ moment, w którym coś cię ucieszyło, i **zatrzymaj się w nim o pięć sekund dłużej, niż zwykle to robisz.** Radość zwykle nie jest rzadsza, niż nam się wydaje. Jest krócej zauważana.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Kobieta z przypowieści zwołała sąsiadki. **Zapytaj siebie, z kim dzielisz swoje dobre wiadomości.** Jeśli odpowiedź brzmi „z nikim\", to jest ważniejsze niż samo pytanie o radość.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** komuś, kto ma teraz ciężki czas, powiedz o czymś dobrym, co cię spotkało, i zapytaj wprost, czy to mu nie ciąży. Radość dzielona z kimś w trudnym momencie wymaga wyczucia, którego można się nauczyć tylko w praktyce.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Skoro jesteś chrześcijaninem, powinieneś być radosny.\"** Najczęstsze i najbardziej szkodliwe zdanie przy tym temacie. Odpowiedź jest w tekstach: Nehemiasz mówi o radości do płaczących, a Jezus obiecuje radość ludziom, którzy będą płakać i narzekać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi, że nie potrafi się cieszyć.** Nie doradzaj i nie podpowiadaj powodów do wdzięczności. Zapytaj, od kiedy. Jeśli odpowiedź brzmi „od dawna\", porozmawiaj po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa zaczyna licytować się na świadectwa.** Zatrzymaj to. Radość opowiadana na zawody jest formą porównywania się i wraca do tematu zazdrości.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś traktuje to spotkanie jak zamknięcie serii i podsumowanie.** To nie jest podsumowanie. Radość nie jest nagrodą za przerobienie trudnych emocji.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A ja nie mam się z czego cieszyć.\"** Nie przekonuj, że ma. Wróć do Habakuka: on też wypisał najpierw wszystko, czego nie ma.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa robi się lekka i płytka.** To ryzyko tego tematu. Wróć do bloku piątego, bo tam radość ma najwięcej ciężaru.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Skoro jesteś chrześcijaninem, powinieneś być radosny.\"",
+     "odpowiedz": "Najczęstsze i najbardziej szkodliwe zdanie przy tym temacie. Odpowiedź jest w tekstach: Nehemiasz mówi o radości do płaczących, a Jezus obiecuje radość ludziom, którzy będą płakać i narzekać."
+    },
+    {
+     "sytuacja": "Ktoś mówi, że nie potrafi się cieszyć.",
+     "odpowiedz": "Nie doradzaj i nie podpowiadaj powodów do wdzięczności. Zapytaj, od kiedy. Jeśli odpowiedź brzmi „od dawna\", porozmawiaj po spotkaniu."
+    },
+    {
+     "sytuacja": "Grupa zaczyna licytować się na świadectwa.",
+     "odpowiedz": "Zatrzymaj to. Radość opowiadana na zawody jest formą porównywania się i wraca do tematu zazdrości."
+    },
+    {
+     "sytuacja": "Ktoś traktuje to spotkanie jak zamknięcie serii i podsumowanie.",
+     "odpowiedz": "To nie jest podsumowanie. Radość nie jest nagrodą za przerobienie trudnych emocji."
+    },
+    {
+     "sytuacja": "„A ja nie mam się z czego cieszyć.\"",
+     "odpowiedz": "Nie przekonuj, że ma. Wróć do Habakuka: on też wypisał najpierw wszystko, czego nie ma."
+    },
+    {
+     "sytuacja": "Rozmowa robi się lekka i płytka.",
+     "odpowiedz": "To ryzyko tego tematu. Wróć do bloku piątego, bo tam radość ma najwięcej ciężaru."
+    }
+   ]
+  }
+ ]
+}

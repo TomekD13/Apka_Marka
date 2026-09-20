@@ -1,0 +1,922 @@
+{
+ "tytul": "Czy Bóg mnie ukarze? Sąd i piekło",
+ "id": "P-08",
+ "seria": "Pytania, które ludzie zadają",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Ps 96,10-13; Ps 9,8-11; J 3,16-21; J 5,24; Ml 3,19-21; Mt 10,28; Rz 6,23; Ez 18,23; 1Tm 2,3-6; Ap 20,11-15; 21,1-4",
+  "p2": "Rdz 18,25; Dn 7,21-22; Rz 8,31-34; Ps 37,9-11.20; Abd 16; Jud 7; 2P 2,6",
+  "p3": "Mt 25,41.46; Hbr 9,12; 2Tes 1,8-9; Ap 14,9-11; 20,9-10; Iz 34,8-10; Mk 9,43-48; Iz 66,22-24"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 31
+ },
+ "tagi": [
+  "sąd",
+  "piekło",
+  "kara",
+  "sprawiedliwość",
+  "strach",
+  "obraz Boga",
+  "nadzieja"
+ ],
+ "wersja": 1,
+ "zdanie": "Sąd jest po to, żeby zło się skończyło, a nie po to, żeby trwało wiecznie. Kto zaufał Sędziemu, ten ma w Nim obrońcę.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przy tym pytaniu siedzą obok siebie dwie grupy ludzi i boją się rzeczy przeciwnych. Jedni boją się, że Bóg ich ukarze. Drudzy boją się, że Bóg nie ukarze nikogo, także tego, kto ich skrzywdził. Spotkanie ma służyć obu. Idzie w trzech krokach. Najpierw sąd w Biblii jest dobrą nowiną dla skrzywdzonych. Potem Jezus mówi wprost, kto na sąd nie idzie. Na końcu teksty pokazują, czym kończy się zło: nie mękami bez końca, tylko końcem. Bóg nie utrzymuje nikogo przy życiu po to, żeby cierpiał. Większość chrześcijan czyta to inaczej i poziom 3 uczciwie pokazuje teksty, na których się opierają.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole mógł być straszony piekłem od dziecka. Dla niego sam temat uruchamia ciało, nie tylko myśli. Nie żartuj z tego i nie przyspieszaj.",
+      "Ktoś inny nosi krzywdę. Zdanie „Bóg nikogo nie będzie męczył\" może usłyszeć jako „twojemu oprawcy nic nie grozi\". Tekst mówi co innego: księgi zostaną otwarte i nic nie jest zapomniane.",
+      "Ktoś może mieć zmarłego bliskiego, który nie wierzył. Dla niego to nie jest rozmowa o doktrynie.",
+      "Przy stole mogą siedzieć katolicy i inni chrześcijanie, dla których wieczne piekło jest częścią wiary. Nie wygrywaj z nimi. Czytajcie razem."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie używaj tego tematu, żeby kogokolwiek nastraszyć albo do czegokolwiek skłonić. Nie wyrokuj o losie żadnego konkretnego człowieka, żywego ani zmarłego. Pytanie, co dzieje się z człowiekiem w chwili śmierci, ma w tej serii osobny materiał. Dziś go nie otwieraj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Kiedy słyszysz słowa „sąd Boży\", co czujesz najpierw: ulgę, strach, obojętność, coś innego? Jedno słowo.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy. Nie komentuj odpowiedzi. Zapamiętaj, ile osób powiedziało „strach\". Wrócisz do tego na końcu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Niech się radują",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 96,10-13",
+       "przeklad": "BW",
+       "akapity": [
+        "Głoście wśród narodów: Pan jest królem! On utwierdził świat tak, że się nie chwieje; Sprawiedliwie sądzić będzie ludy! Niech radują się niebiosa i weseli się ziemia! Niech zaszumi morze i to, co je wypełnia! Niech radują się pola i wszystko, co jest na nich; Niech szumią radośnie wszystkie drzewa leśne Przed obliczem Pana, bo idzie! Zaiste, idzie, by sądzić ziemię. Będzie sądził świat sprawiedliwie, A ludy według swej wierności."
+       ]
+      },
+      {
+       "odnosnik": "Ps 9,8-11",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz Pan trwa na wieki, Ustawia na sąd tron swój. Sądzić będzie świat sprawiedliwie, Bezstronnie osądzać ludy. Pan stanie się schronieniem uciśnionemu, Schronieniem w czasie niedoli. Ufać będą tobie ci, którzy znają imię twoje, Bo nie opuszczasz, Panie, tych, którzy cię szukają."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Psalm wzywa pola, morze i drzewa do radości. **Z jakiego powodu? W jakim położeniu musi być człowiek, żeby wiadomość o nadchodzącym sędzi była dla niego najlepszą wiadomością dnia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W Ps 9 zaraz obok tronu sądu stoi „schronienie uciśnionemu\". **Co łączy te dwie rzeczy? Czym byłby świat, w którym sądu nie ma?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Dziś słowo „sąd\" budzi głównie strach. **Z czyjego miejsca patrzymy, kiedy się boimy, a z czyjego patrzy psalmista?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W Biblii sądu wypatrują przede wszystkim skrzywdzeni: wdowa, sierota, oszukany robotnik, przybysz bez praw. Sędzia jest tym, kto przychodzi i przywraca. Świat bez sądu to świat, w którym ostatnie słowo należy do silniejszego. Dlatego psalmy śpiewają o sądzie, a nie szepczą. Zanim zapytamy, czy Bóg nas ukarze, warto usłyszeć tych, którzy od wieków proszą, żeby wreszcie przyszedł.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Sędzia całej ziemi",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Abraham dowiaduje się, że Sodoma ma zostać zniszczona, i zaczyna się z Bogiem targować.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 18,25",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie dopuść, byś miał uczynić coś podobnego, by uśmiercić sprawiedliwego wespół z bezbożnym, by sprawiedliwego spotkało to samo, co bezbożnego. Nie dopuść do tego! Czyż ten, który jest sędzią całej ziemi, nie ma stosować prawa?"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Abraham wymaga od Boga sprawiedliwości i Bóg go za to nie gani. **Co to mówi o tym, czy wolno nam oceniać obrazy sądu, które nam przekazano?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Komu przy pytaniu o los konkretnych ludzi wystarczy zdanie Abrahama: sędzia całej ziemi postąpi słusznie?** Komu nie wystarczy i dlaczego?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Sąd na korzyść",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 7,21-22",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy patrzyłem, wtedy ów róg prowadził wojnę ze Świętymi i przemógł ich, aż przyszedł Sędziwy i odbył się sąd i prawo zostało przyznane Świętym Najwyższego, i nadszedł czas, że Święci otrzymali królestwo."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel widzi sąd, którego wynikiem jest wyrok dla kogoś, a nie przeciw komuś. **Jak zmienia się obraz sali sądowej, jeśli ci, którzy należą do Boga, siedzą w niej po stronie pokrzywdzonych, a nie na ławie oskarżonych?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Kto nie idzie na sąd",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 3,16-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem tak Bóg umiłował świat, że Syna swego jednorodzonego dał, aby każdy, kto weń wierzy, nie zginął, ale miał żywot wieczny. Bo nie posłał Bóg Syna na świat, aby sądził świat, lecz aby świat był przez niego zbawiony. Kto wierzy w niego, nie będzie sądzony; kto zaś nie wierzy, już jest osądzony dlatego, że nie uwierzył w imię jednorodzonego Syna Bożego. A na tym polega sąd, że światłość przyszła na świat, lecz ludzie bardziej umiłowali ciemność, bo ich uczynki były złe. Każdy bowiem, kto źle czyni, nienawidzi światłości i nie zbliża się do światłości, aby nie ujawniono jego uczynków. Lecz kto postępuje zgodnie z prawdą, dąży do światłości, aby wyszło na jaw, że uczynki jego dokonane są w Bogu."
+       ]
+      },
+      {
+       "odnosnik": "J 5,24",
+       "przeklad": "BW",
+       "akapity": [
+        "Zaprawdę, zaprawdę, powiadam wam, kto słucha słowa mego i wierzy temu, który mnie posłał, ma żywot wieczny i nie stanie przed sądem, lecz przeszedł ze śmierci do żywota."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Po co według wersetu 17 Bóg posłał Syna? Na czym w takim razie według wersetu 19 „polega sąd\"?** Kto w tym opisie kogo osądza?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przyjrzyjcie się czasom w J 5,24: „ma\", „nie stanie\", „przeszedł\". **Co te trzy słowa mówią komuś, kto od lat żyje w lęku przed dniem sądu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Światło przyszło ratować, nie potępiać, a mimo to ludzie od niego uciekają. **Dlaczego? Czego boi się człowiek, który nie chce wyjść z cienia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W tych słowach Jezusa sąd nie jest zasadzką zastawioną na koniec życia. Światło przyszło i stoi. Rozstrzyga się to, co człowiek z nim robi: podchodzi czy się cofa. Kto podszedł, ten według Jezusa ma już życie i przed sądem jako oskarżony nie stanie. Pytanie „czy Bóg mnie ukarze\" dostaje tu odpowiedź bardzo osobistą. Nie zależy ona od bilansu uczynków, tylko od tego, komu człowiek zaufał.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Kto będzie oskarżał",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 8,31-34",
+       "przeklad": "BW",
+       "akapity": [
+        "Cóż tedy na to powiemy? Jeśli Bóg za nami, któż przeciwko nam? On, który nawet własnego Syna nie oszczędził, ale go za nas wszystkich wydał, jakżeby nie miał z nim darować nam wszystkiego? Któż będzie oskarżał wybranych Bożych? Przecież Bóg usprawiedliwia. Któż będzie potępiał? Jezus Chrystus, który umarł, więcej, zmartwychwstał, który jest po prawicy Boga, Ten przecież wstawia się za nami."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł rozgląda się po sali sądowej i szuka oskarżyciela. **Kogo znajduje na miejscu sędziego, a kogo na miejscu obrońcy?** Co zostaje z procesu, w którym sędzia i obrońca są po tej samej stronie?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kto w takim razie wciąż oskarża człowieka, który zaufał Chrystusowi?** Skąd przychodzi ten głos?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Dzień, który pali",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ml 3,19-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo oto nadchodzi dzień, który pali jak piec. Wtedy wszyscy zuchwali i wszyscy, którzy czynili zło, staną się cierniem. I spali ich ten nadchodzący dzień – mówi Pan Zastępów – tak, że im nie pozostawi ani korzenia, ani gałązki. Ale dla was, którzy boicie się mojego imienia, wzejdzie słońce sprawiedliwości z uzdrowieniem na swoich skrzydłach. I będziecie wychodzić z podskakiwaniem, jak cielęta wychodzące z obory. I podepczecie bezbożnych tak, że będą prochem pod waszymi stopami w dniu, który Ja przygotowuję – mówi Pan Zastępów."
+       ]
+      },
+      {
+       "odnosnik": "Mt 10,28",
+       "przeklad": "BW",
+       "akapity": [
+        "I nie bójcie się tych, którzy zabijają ciało, ale duszy zabić nie mogą; bójcie się raczej tego, który może i duszę i ciało zniszczyć w piekle."
+       ]
+      },
+      {
+       "odnosnik": "Rz 6,23",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem zapłatą za grzech jest śmierć, lecz darem łaski Bożej jest żywot wieczny w Chrystusie Jezusie, Panu naszym."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "W części wydań Biblii ten fragment Malachiasza ma numerację 4,1-3.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Wypiszcie z Malachiasza, co zostaje z tych, którzy czynili zło.** Jaki koniec rysują te obrazy: trwanie w męce czy koniec istnienia?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rz 6,23 stawia naprzeciw siebie dwa słowa. **Kto według tego zdania ma życie wieczne i skąd je ma? Co z tego wynika dla tych, którzy daru nie przyjęli?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Jakiego czasownika używa Jezus w Mt 10,28 na to, co Bóg może zrobić z duszą i ciałem?** Czym to się różni od tego, co o piekle słyszeliście w dzieciństwie?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Słowo „piekło\" w Mt 10,28 to w oryginale Gehenna, czyli nazwa doliny pod murami Jerozolimy. Za królów Achaza i Manassesa palono tam dzieci w ofierze. Jeremiasz zapowiedział, że stanie się miejscem sądu i trupów. Słuchacze Jezusa mogli w jej stronę po prostu spojrzeć. Obraz mówi o zniszczeniu, po którym nic nie zostaje. Życie wieczne jest w Biblii darem dla tych, którzy są w Chrystusie. Nikt nie ma go z natury, także po to, żeby wiecznie cierpieć.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jakby ich nigdy nie było",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 37,9-11.20",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo niegodziwcy będą wytępieni, Ci zaś, którzy pokładają nadzieję w Panu, odziedziczą ziemię. Jeszcze trochę, a nie będzie bezbożnego; Spojrzysz na miejsce jego, a już go nie będzie. Lecz pokorni odziedziczą ziemię I rozkoszować się będą obfitym pokojem. [...] Zaiste, bezbożni wyginą, A nieprzyjaciele Pana są jak ogień w piecu, zniszczeją, pójdą z dymem."
+       ]
+      },
+      {
+       "odnosnik": "Abd 16",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo jak piliście na mojej świętej górze, tak pić będą stale wszystkie narody; pić będą i chłeptać, i będzie z nimi tak, jak gdyby ich nigdy nie było."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Zbierzcie czasowniki i obrazy z obu tekstów.** Co mówią o końcu zła, a czego w nich nie ma?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus cytuje Ps 37,11 w błogosławieństwach: cisi odziedziczą ziemię. **Co to mówi o miejscu, w którym rozegra się koniec tej historii?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ogień wieczny",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jud 7",
+       "przeklad": "BW",
+       "akapity": [
+        "tak też Sodoma i Gomora i okoliczne miasta, które w podobny do nich sposób oddały się rozpuście i przeciwnemu naturze pożądaniu cudzego ciała, stanowią przykład kary ognia wiecznego za to."
+       ]
+      },
+      {
+       "odnosnik": "2P 2,6",
+       "przeklad": "BW",
+       "akapity": [
+        "miasta Sodomę i Gomorę spalił do cna i na zagładę skazał jako przykład dla tych, którzy by mieli wieść życie bezbożne,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Juda nazywa ogień Sodomy „wiecznym\", a Piotr mówi, że miasta spłonęły „do cna\". Sodoma dziś nie płonie. **Co w takim razie jest w tym ogniu wieczne?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Obaj autorzy nazywają Sodomę „przykładem\". **Przykładem czego: jak długo trwa kara czy jak ostateczny jest jej skutek?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: kaźń wieczna",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 25,41.46",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy powie i tym po lewicy: Idźcie precz ode mnie, przeklęci, w ogień wieczny, zgotowany diabłu i jego aniołom. [...] I odejdą ci na kaźń wieczną, sprawiedliwi zaś do życia wiecznego."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "To jest najmocniejszy tekst tych, którzy wierzą w piekło bez końca, i trzeba go usłyszeć w pełnej sile. Ich argument brzmi: w jednym zdaniu stoją obok siebie kara wieczna i życie wieczne. Jeśli życie trwa bez końca, to kara także. Tak czytała te słowa większość chrześcijan przez stulecia.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Drugie odczytanie zwraca uwagę, że Biblia mówi też o „wiecznym odkupieniu\" w Hbr 9,12 i o „sądzie wiecznym\" w Hbr 6,2. Odkupywanie i sądzenie nie trwają bez końca. Wieczny jest ich skutek. Kara wieczna byłaby więc karą, od której nie ma odwołania, a nie karaniem, które nigdy się nie kończy. Paweł nazywa ją po imieniu:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Tes 1,8-9",
+       "przeklad": "BW",
+       "akapity": [
+        "w ogniu płomienistym, wymierzając karę tym, którzy nie znają Boga, oraz tym, którzy nie są posłuszni ewangelii Pana naszego Jezusa. Poniosą oni karę: zatracenie wieczne, oddalenie od oblicza Pana i od mocy chwały jego,"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Obie strony łączy więcej, niż się wydaje. Obie traktują sąd jako rzecz realną i nieodwracalną. Obie widzą, że Jezus mówi o nim po to, żeby ostrzec, a nie po to, żeby sparaliżować. Obie zgadzają się, że utrata życia z Bogiem jest stratą bez miary. Warto też zauważyć, dla kogo według wersetu 41 ogień został przygotowany.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Która część tego zdania Jezusa waży dla was najwięcej: „wieczna\", „kaźń\" czy „zgotowany diabłu i jego aniołom\"?** Co każde z tych słów mówi o Bogu?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: dym na wieki wieków",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 14,9-11",
+       "przeklad": "BW",
+       "akapity": [
+        "A trzeci anioł szedł za nimi, mówiąc donośnym głosem: Jeżeli ktoś odda pokłon zwierzęciu i jego posągowi i przyjmie znamię na swoje czoło lub na swoją rękę, to i on pić będzie samo czyste wino gniewu Bożego z kielicha jego gniewu i będzie męczony w ogniu i w siarce wobec świętych aniołów i wobec Baranka. A dym ich męki unosi się w górę na wieki wieków i nie mają wytchnienia we dnie i w nocy ci, którzy oddają pokłon zwierzęciu i jego posągowi, ani nikt, kto przyjmuje znamię jego imienia."
+       ]
+      },
+      {
+       "odnosnik": "Ap 20,9-10",
+       "przeklad": "BW",
+       "akapity": [
+        "I ruszyli na ziemię jak długa i szeroka, i otoczyli obóz świętych i miasto umiłowane. I spadł z nieba ogień, i pochłonął ich. A diabeł, który ich zwodził, został wrzucony do jeziora z ognia i siarki, gdzie znajduje się też zwierzę i fałszywy prorok, i będą dręczeni dniem i nocą na wieki wieków."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jan nie wymyślił tego języka. Wziął go z proroków:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 34,8-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo jest to dzień pomsty Pana, rok odwetu za spór z Syjonem. Toteż potoki Edomu zamienią się w smołę, a jego glina w siarkę, a jego ziemia stanie się smołą gorejącą: ani w nocy, ani w dzień nie zgaśnie, jego dym wznosić się będzie zawsze; z pokolenia w pokolenie będzie pustynią, po wiek wieków nikt nie będzie nią chodził."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pierwsze stanowisko: słów „dniem i nocą na wieki wieków\" nie da się osłabić, zwłaszcza w Ap 20,10, gdzie mowa wprost o dręczeniu. Drugie stanowisko: Izajasz użył tych samych słów o Edomie, a Edom dawno nie płonie. To język ostatecznej ruiny, a nie pomiar czasu. Apokalipsa jest księgą obrazów, zwierzę i fałszywy prorok są w niej symbolami potęg, a samo jezioro ogniste tekst objaśnia jako „drugą śmierć\". W wersecie 9 ludzi ogień „pochłonął\". Uczciwie trzeba przyznać, że Ap 20,10 pozostaje dla tego drugiego odczytania tekstem najtrudniejszym. Obie strony łączy przekonanie, że zło nie wróci i że Bóg nie zostawi go bez odpowiedzi.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak czytać księgę, w której są smok, bestie i jezioro ognia: które zdania brać dosłownie, a które jako obrazy?** Po czym to poznajecie w innych miejscach Biblii?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: robak, który nie umiera",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 9,43-48",
+       "przeklad": "BW",
+       "akapity": [
+        "A jeśli cię gorszy ręka twoja, odetnij ją; lepiej jest dla ciebie wejść kaleką do żywota, niż mieć dwoje rąk, a pójść do piekła, w ogień nieugaszony, gdzie robak ich nie umiera, a ogień nie gaśnie. A jeśli cię gorszy noga twoja, odetnij ją; lepiej jest dla ciebie wejść kulawym do żywota, niż mieć dwie nogi, a być wrzuconym do piekła, gdzie robak ich nie umiera, a ogień nie gaśnie. I jeśli cię gorszy oko twoje, wyłup je; lepiej jest dla ciebie jednookim wejść do Królestwa Bożego, niż mieć dwoje oczu, a być wrzuconym do piekła, gdzie robak ich nie umiera, a ogień nie gaśnie."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jezus cytuje tu ostatni werset Księgi Izajasza:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 66,22-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo jak nowe niebo i nowa ziemia, które Ja stworzę, ostaną się przede mną – mówi Pan – tak ostoi się wasze potomstwo i wasze imię. I będzie tak, że w każdy nów i w każdy sabat przychodzić będzie każdy człowiek, aby mi oddać pokłon – mówi Pan. Gdy wyjdą, będą oglądać trupy ludzi, którzy odstąpili ode mnie; bo robak ich nie zginie, a ogień ich nie zgaśnie i będą obrzydliwością dla wszelkiego ciała."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pierwsze stanowisko: Jezus bierze obraz proroka i przykłada go do losu człowieka po sądzie, a powtarza go trzy razy. Tak nie mówi się o czymś, co trwa chwilę. Drugie stanowisko: u Izajasza robak i ogień działają na trupach, nie na żywych. Ogień „nieugaszony\" to w języku proroków ogień, którego nikt nie zdoła ugasić, zanim skończy swoje dzieło. Jeremiasz zapowiedział taki ogień w bramach Jerozolimy w Jr 17,27 i te bramy dawno nie płoną. Obie strony zgadzają się co do sedna słów Jezusa: są w życiu rzeczy, dla których warto stracić rękę, bo stawką jest całe życie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi o odcinaniu ręki do ludzi, których kocha. **Po co używa tak ostrego języka? Czym ostrzeżenie różni się od straszenia?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Czego chce Sędzia",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ez 18,23",
+       "przeklad": "BW",
+       "akapity": [
+        "Czy rzeczywiście mam upodobanie w śmierci bezbożnego – mówi Wszechmocny Pan – a nie raczej w tym, by się odwrócił od swoich dróg i żył?"
+       ]
+      },
+      {
+       "odnosnik": "1Tm 2,3-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Jest to rzecz dobra i miła przed Bogiem, Zbawicielem naszym, który chce, aby wszyscy ludzie byli zbawieni i doszli do poznania prawdy. Albowiem jeden jest Bóg, jeden też pośrednik między Bogiem a ludźmi, człowiek Chrystus Jezus, który siebie samego złożył jako okup za wszystkich, aby o tym świadczono we właściwym czasie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg zadaje u Ezechiela pytanie, na które odpowiedź wydaje Mu się oczywista. **Co to pytanie zdradza o tym, co ludzie o Nim myśleli? Co myślimy my?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Czego według Pawła chce Bóg, wobec ilu ludzi i co zrobił, żeby to było możliwe?** Jak to się ma do obrazu Boga, który czeka na nasze potknięcie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Bóg nie ma upodobania w niczyjej śmierci, a jednak zło się skończy. **Co to mówi o tym, jak sam Bóg przeżywa dzień sądu?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Druga śmierć i świat bez łez",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 20,11-15",
+       "przeklad": "BW",
+       "akapity": [
+        "I widziałem wielki, biały tron i tego, który na nim siedzi, przed którego obliczem pierzchła ziemia i niebo, i miejsca dla nich nie było. I widziałem umarłych, wielkich i małych, stojących przed tronem; i księgi zostały otwarte; również inna księga, księga żywota została otwarta; i osądzeni zostali umarli na podstawie tego, co zgodnie z ich uczynkami było napisane w księgach. I wydało morze umarłych, którzy w nim się znajdowali, również śmierć i piekło wydały umarłych, którzy w nich się znajdowali, i byli osądzeni, każdy według uczynków swoich. I śmierć, i piekło zostały wrzucone do jeziora ognistego; owo jezioro ogniste, to druga śmierć. I jeżeli ktoś nie był zapisany w księdze żywota, został wrzucony do jeziora ognistego."
+       ]
+      },
+      {
+       "odnosnik": "Ap 21,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "I widziałem nowe niebo i nową ziemię; albowiem pierwsze niebo i pierwsza ziemia przeminęły, i morza już nie ma. I widziałem miasto święte, nowe Jeruzalem, zstępujące z nieba od Boga, przygotowane jak przyozdobiona oblubienica dla męża swego. I usłyszałem donośny głos z tronu mówiący: Oto przybytek Boga między ludźmi! I będzie mieszkał z nimi, a oni będą ludem jego, a sam Bóg będzie z nimi. I otrze wszelką łzę z oczu ich, i śmierci już nie będzie; ani smutku, ani krzyku, ani mozołu już nie będzie; albowiem pierwsze rzeczy przeminęły."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Co według wersetu 14 zostaje wrzucone do jeziora ognistego i jak sam tekst to jezioro nazywa?** Co znaczy, że na końcu giną śmierć i piekło?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wypiszcie z Ap 21,4, czego już nie będzie. **Czy taki świat byłby możliwy, gdyby gdzieś obok bez końca trwało czyjeś cierpienie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Księgi zostały otwarte\". **Co to zdanie znaczy dla kogoś, kogo krzywdy nikt nigdy nie uznał?** A co znaczy istnienie drugiej księgi, księgi żywota?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Słowo „piekło\" w wersetach 13 i 14 to greckie `hades`, czyli kraina umarłych, grób. Nie jest tu miejscem mąk, tylko czymś, co oddaje swoich umarłych, a potem samo zostaje zniszczone. Biblia kończy się więc inaczej, niż wielu z nas uczono. Nie ma w niej dwóch wiecznych królestw, jasnego i ciemnego, trwających obok siebie. Jest jeden świat, w którym śmierci już nie ma, bo umarła jako ostatnia.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Po której stronie stajesz odruchowo, kiedy myślisz o sądzie: tych, którzy się go boją, czy tych, którzy na niego czekają?** Skąd to się w tobie wzięło?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia się w modlitwie, w wychowaniu dzieci, w mówieniu innym o Bogu, jeśli Bóg nie jest kimś, kto będzie kogokolwiek męczył bez końca?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest w tobie strach przed Bogiem, który dziś trochę drgnął?** Nie musisz mówić, skąd pochodzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Człowiek, który wyrządził wielkie zło, zwraca się do Chrystusa w ostatniej godzinie życia i według J 5,24 przed sądem nie stanie. Jego ofiara być może nigdy nie usłyszała od niego słowa „przepraszam\". **Czy to jest sprawiedliwe? Co musiałoby się stać na sądzie, żeby ofiara mogła powiedzieć: tak, stało się zadość?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie broń Boga szybciej niż Biblia. Warto, żeby padły dwie rzeczy. Pierwsza: łaska nie oznacza, że zło przemilczano, bo ktoś za nie umarł. Druga: księgi zostają otwarte także po to, żeby skrzywdzony zobaczył, że Bóg widział wszystko. Reszta zostaje otwarta.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Sąd jest po to, żeby zło się skończyło, a nie po to, żeby trwało wiecznie. Kto zaufał Sędziemu, ten ma w Nim obrońcę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** J 5,24 albo Rz 6,23.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przypomnij sobie, kto pierwszy powiedział ci o piekle i jak to zrobił. Zapytaj siebie: **jaki Bóg wyłaniał się z tamtej opowieści i ile z Niego zostało we mnie do dziś?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jeśli nosisz krzywdę, której nikt nie osądził, powiedz Bogu wprost: **to jest w Twoich księgach i chcę, żebyś to Ty się tym zajął.** Zobacz, co dzieje się w tobie, kiedy to mówisz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** zapytaj siebie, czy jest ktoś, komu w głębi duszy życzysz piekła. Nie naprawiaj tego od razu. Przyznaj to przed Bogiem, który nie ma upodobania w niczyjej śmierci.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi, że od dziecka boi się piekła, i widać, że temat go porusza.** Zwolnij. Nie tłumacz mu, że niepotrzebnie się bał. Przeczytajcie jeszcze raz J 5,24 i zapytaj tylko, co słyszy w słowie „przeszedł\". Jeśli lęk jest silny i wraca, zaproponuj rozmowę po spotkaniu z tobą albo z pastorem. Przy lęku, który utrudnia życie, pomoc psychologa nie jest brakiem wiary.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli temu, kto mnie skrzywdził, nic nie będzie?\"** Tego teksty nie mówią. Księgi zostają otwarte, każdy czyn jest nazwany, a kto nie chciał życia od Boga, traci je na zawsze. To nie jest pobłażanie. Różnica polega na tym, że Bóg nie torturuje. Nie naciskaj na przebaczenie i nie mów tej osobie, co powinna czuć. Grupa słucha i towarzyszy, nie prowadzi terapii. Jeśli krzywda trwa nadal, zostań z tą osobą po spotkaniu i pomóż jej znaleźć fachową pomoc. Telefon zaufania dla dorosłych w kryzysie to 116 123, numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A bogacz i Łazarz? Tam jest ogień i rozmowa po śmierci.\"** To przypowieść, w której Jezus używa znanej słuchaczom opowieści, żeby powiedzieć coś o bogactwie i o głuchocie na Pismo. Zasługuje na osobne spotkanie razem z pytaniem, co dzieje się po śmierci. Zapisz i nie otwieraj dziś.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Kościół od dwóch tysięcy lat uczy o wiecznym piekle. Wy wiecie lepiej?\"** Nie wchodź w spór o Kościoły. Powiedz, że to prawda: większość chrześcijan tak czyta te teksty i ma swoje powody, które poziom 3 pokazuje uczciwie. Pogląd o ostatecznej zagładzie też ma w chrześcijaństwie długą historię i poważnych obrońców w różnych wyznaniach. Przy tym stole nie głosujemy, tylko czytamy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To po co się starać, skoro złych po prostu nie będzie?\"** Zapytaj, czy utrata wszystkiego na zawsze to mało. Potem wróć do Rz 6,23: alternatywą dla śmierci nie jest spokój, tylko życie z Bogiem, które jest darem. Nikt nie kocha ze strachu przed torturą, a Bóg szuka miłości.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś pyta o zmarłego bliskiego, który nie wierzył.** Nie wyrokuj w żadną stronę. Przeczytaj Rdz 18,25 i Ez 18,23. Wiemy, jaki jest Sędzia, i wiemy, że zna tego człowieka lepiej niż ktokolwiek z nas. To wystarczy i to jest dużo.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna używać tematu, żeby napominać innych przy stole.** Przerwij spokojnie. Jezus mówił o sądzie najostrzej do ludzi pewnych siebie i religijnych, a najłagodniej do przestraszonych. Wróć do pytań w pierwszej osobie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 4. Bloki 1, 2 i 5 niosą spotkanie: komu sąd służy, kto na niego nie idzie i jak kończy się historia. Bloku 3 nie skracaj do samej notki, bo bez tekstu Malachiasza teza o zagładzie wisi w powietrzu.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś mówi, że od dziecka boi się piekła, i widać, że temat go porusza.",
+     "odpowiedz": "Zwolnij. Nie tłumacz mu, że niepotrzebnie się bał. Przeczytajcie jeszcze raz J 5,24 i zapytaj tylko, co słyszy w słowie „przeszedł\". Jeśli lęk jest silny i wraca, zaproponuj rozmowę po spotkaniu z tobą albo z pastorem. Przy lęku, który utrudnia życie, pomoc psychologa nie jest brakiem wiary."
+    },
+    {
+     "sytuacja": "„Czyli temu, kto mnie skrzywdził, nic nie będzie?\"",
+     "odpowiedz": "Tego teksty nie mówią. Księgi zostają otwarte, każdy czyn jest nazwany, a kto nie chciał życia od Boga, traci je na zawsze. To nie jest pobłażanie. Różnica polega na tym, że Bóg nie torturuje. Nie naciskaj na przebaczenie i nie mów tej osobie, co powinna czuć. Grupa słucha i towarzyszy, nie prowadzi terapii. Jeśli krzywda trwa nadal, zostań z tą osobą po spotkaniu i pomóż jej znaleźć fachową pomoc. Telefon zaufania dla dorosłych w kryzysie to 116 123, numer alarmowy 112."
+    },
+    {
+     "sytuacja": "„A bogacz i Łazarz? Tam jest ogień i rozmowa po śmierci.\"",
+     "odpowiedz": "To przypowieść, w której Jezus używa znanej słuchaczom opowieści, żeby powiedzieć coś o bogactwie i o głuchocie na Pismo. Zasługuje na osobne spotkanie razem z pytaniem, co dzieje się po śmierci. Zapisz i nie otwieraj dziś."
+    },
+    {
+     "sytuacja": "„Kościół od dwóch tysięcy lat uczy o wiecznym piekle. Wy wiecie lepiej?\"",
+     "odpowiedz": "Nie wchodź w spór o Kościoły. Powiedz, że to prawda: większość chrześcijan tak czyta te teksty i ma swoje powody, które poziom 3 pokazuje uczciwie. Pogląd o ostatecznej zagładzie też ma w chrześcijaństwie długą historię i poważnych obrońców w różnych wyznaniach. Przy tym stole nie głosujemy, tylko czytamy."
+    },
+    {
+     "sytuacja": "„To po co się starać, skoro złych po prostu nie będzie?\"",
+     "odpowiedz": "Zapytaj, czy utrata wszystkiego na zawsze to mało. Potem wróć do Rz 6,23: alternatywą dla śmierci nie jest spokój, tylko życie z Bogiem, które jest darem. Nikt nie kocha ze strachu przed torturą, a Bóg szuka miłości."
+    },
+    {
+     "sytuacja": "Ktoś pyta o zmarłego bliskiego, który nie wierzył.",
+     "odpowiedz": "Nie wyrokuj w żadną stronę. Przeczytaj Rdz 18,25 i Ez 18,23. Wiemy, jaki jest Sędzia, i wiemy, że zna tego człowieka lepiej niż ktokolwiek z nas. To wystarczy i to jest dużo."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna używać tematu, żeby napominać innych przy stole.",
+     "odpowiedz": "Przerwij spokojnie. Jezus mówił o sądzie najostrzej do ludzi pewnych siebie i religijnych, a najłagodniej do przestraszonych. Wróć do pytań w pierwszej osobie."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 4. Bloki 1, 2 i 5 niosą spotkanie: komu sąd służy, kto na niego nie idzie i jak kończy się historia. Bloku 3 nie skracaj do samej notki, bo bez tekstu Malachiasza teza o zagładzie wisi w powietrzu."
+    }
+   ]
+  }
+ ]
+}

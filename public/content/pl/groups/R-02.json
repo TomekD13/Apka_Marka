@@ -1,0 +1,777 @@
+{
+ "tytul": "Przebaczenie",
+ "id": "R-02",
+ "seria": "Relacje",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Mt 18,21-35; Rdz 50,15-21; Łk 23,33-34; Kol 3,12-13; 2Tm 4,14-16",
+  "p2": "Rdz 4,23-24; Łk 7,41-47; Ps 103,8-12; Łk 17,3-4",
+  "p3": "Mt 6,12.14-15; Wj 34,6-7; Mi 7,18-19"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 27,
+  "p3": 32
+ },
+ "tagi": [
+  "relacje",
+  "przebaczenie",
+  "krzywda",
+  "łaska",
+  "granice"
+ ],
+ "wersja": 1,
+ "zdanie": "Przebaczyć to wypuścić dług z ręki i oddać rachunek Bogu. To nie to samo, co oddać krzywdzicielowi klucze do domu.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o tym, czym przebaczenie jest, a czym nie jest. Jest aktem jednej strony: wypuszczam dług z ręki i oddaję rachunek Bogu. Nie jest zapomnieniem, nie jest stwierdzeniem, że nic się nie stało, i nie jest zaufaniem na kredyt. Pojednanie, które wymaga dwóch osób, to temat następnego spotkania. Dziś pilnuj tej granicy, bo większość cierpienia wokół przebaczenia bierze się z pomylenia tych dwóch rzeczy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole może siedzieć ktoś, kto doznał poważnej krzywdy: przemocy, zdrady, wykorzystania. Dla tej osoby zdanie „musisz przebaczyć\" bywało już narzędziem nacisku. Nie dokładaj.",
+      "Zakończenie przypowieści jest twarde. Ludzie o wrażliwym sumieniu usłyszą w nim groźbę, a nie łaskę.",
+      "Ktoś może chcieć opowiedzieć swoją historię w szczegółach. To nie jest na forum grupy."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nikomu nie mów, że powinien już przebaczyć. Nie mierz cudzej krzywdy. Nie podsuwaj nikomu powrotu do osoby, która go raniła.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Dokończ jednym zdaniem: kiedy słyszę „przebacz i zapomnij\", to myślę sobie...",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi, nie dopytuj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Ile razy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 18,21-27",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy przystąpił Piotr do niego i rzekł mu: Panie, ile razy mam odpuścić bratu memu, jeżeli przeciwko mnie zgrzeszy? Czy aż do siedmiu razy? Mówi mu Jezus: Nie powiadam ci: do siedmiu razy, lecz do siedemdziesięciu siedmiu razy.",
+        "Dlatego Królestwo Niebios podobne jest do pewnego króla, który chciał zrobić obrachunek ze sługami swymi. A gdy zaczął robić obrachunek, przyprowadzono mu jednego dłużnika, który był mu winien dziesięć tysięcy talentów. A ponieważ nie miał z czego oddać, kazał go pan sprzedać wraz z żoną i dziećmi, i wszystkim, co miał, aby dług został spłacony. Wtedy sługa padł przed nim, złożył mu pokłon i rzekł: Panie! Okaż mi cierpliwość, a oddam ci wszystko. Tedy pan ulitował się nad owym sługą, uwolnił go i dług mu darował."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Piotr proponuje siedem razy i zapewne uważa, że to dużo. **Co jego pytanie zdradza o tym, jak rozumie przebaczenie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Sługa prosi o czas: okaż cierpliwość, a oddam wszystko. **Co dostaje zamiast tego? Czym różni się darowanie długu od rozłożenia go na raty?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Talent był największą jednostką pieniądza, a dziesięć tysięcy największą liczbą, która miała po grecku własną nazwę. **Co Jezus mówi tą sumą o obietnicy „oddam ci wszystko\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jezus opowiada o przebaczeniu językiem długu i nie jest to przypadek. Krzywda zostawia po sobie rachunek: ktoś mi coś zabrał i jest mi to winien. Przebaczyć znaczy w tej przypowieści darować, czyli przestać ściągać. Dług nie zostaje uznany za mały ani za nieistniejący. Król zna jego wysokość co do talenta. Mimo to wypuszcza go z ręki.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pieśń Lamecha",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 4,23-24",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Lamech do swych żon: Ado i Syllo, słuchajcie głosu mojego! Wy, żony Lamecha, nadstawcie ucha na słowo moje! Męża gotów jestem zabić, jeśli mnie zrani, a chłopca, jeśli mi zrobi siniec. Jeżeli Kain miał być pomszczony siedem razy, to Lamech siedemdziesiąt siedem razy."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Te same dwie liczby, siedem i siedemdziesiąt siedem, padają obok siebie już na początku Biblii. **Co Jezus robi z rachunkiem Lamecha?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Lamech układa o swojej zemście wiersz i każe żonom słuchać. **Dlaczego zemsta tak lubi mieć publiczność?** A przebaczenie?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Sto denarów",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 18,28-35",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy ów sługa wyszedł, spotkał jednego ze swych współsług, który był mu winien sto denarów; i pochwyciwszy, dusił go, mówiąc: Oddaj, coś winien. Wtedy współsługa jego, padłszy na kolana, prosił go mówiąc: Okaż mi cierpliwość, a oddam ci wszystko. On jednak nie chciał, lecz odszedł i wtrącił go do więzienia, dopóki nie odda długu.",
+        "A współsłudzy jego widząc to, co zaszło, zasmucili się bardzo i poszedłszy, opowiedzieli panu swemu wszystko, co się stało. Wtedy przywołał go pan jego i rzekł mu: Sługo zły! Wszystek tamten dług darowałem ci, boś mnie prosił. Czy i ty nie powinieneś był zlitować się nad współsługą swoim, jak i ja zlitowałem się nad tobą? I rozgniewał się pan jego, i wydał go katom, żeby mu oddał cały dług. Tak i Ojciec mój niebieski uczyni wam, jeśli każdy nie odpuści z serca swego bratu swemu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Denar to dniówka robotnika, więc sto denarów to mniej więcej trzy miesiące pracy. To nie są grosze. **Co zmienia w tej historii fakt, że drugi dług też jest prawdziwy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Współsługa wypowiada słowo w słowo tę samą prośbę, którą przed chwilą wypowiedział pierwszy sługa. **Dlaczego tamten jej nie rozpoznał? Co się z nim stało między salą króla a ulicą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ostatnie zdanie mówi o przebaczeniu „z serca\". **Czym różni się przebaczenie z serca od przebaczenia wypowiedzianego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W wielu opowiedzeniach tej przypowieści drugi dług to drobiazg. W tekście tak nie jest. Pierwszy sługa nie odmówił darowania błahostki, tylko realnej straty. Jezus nie buduje przebaczenia na tym, że krzywda była mała. Buduje je na tym, co stało się wcześniej w sali króla. Sługa wyszedł stamtąd wolny, ale wciąż liczył po staremu. Jego kłopot nie polega na tym, że zna wysokość długu. Polega na tym, że zapomniał o własnym.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dwaj dłużnicy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 7,41-47",
+       "przeklad": "BW",
+       "akapity": [
+        "Pewien wierzyciel miał dwóch dłużników. Jeden był dłużny pięćset denarów, a drugi pięćdziesiąt. A gdy oni nie mieli z czego oddać, obydwom darował. Który więc z nich będzie go bardziej miłował? A Szymon odpowiadając, rzekł: Sądzę, że ten, któremu więcej darował. A On mu rzekł: Słusznie osądziłeś. I zwróciwszy się do kobiety, powiedział Szymonowi: Widzisz tę kobietę? Wszedłem do twojego domu, a nie dałeś wody dla nóg moich; ona zaś łzami skropiła nogi moje i włosami swoimi wytarła. Nie pocałowałeś mnie; a ona, odkąd wszedłem, nie przestała całować nóg moich. Głowy mojej oliwą nie namaściłeś; ona zaś olejkiem namaściła nogi moje. Dlatego powiadam ci: Odpuszczono jej liczne grzechy, bo bardzo miłowała. Komu zaś mało się odpuszcza, mało miłuje."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W małej przypowieści kolejność jest jasna: najpierw darowanie, potem miłość. **Jak w tym świetle rozumieć zdanie o kobiecie? Czy jej miłość jest przyczyną przebaczenia, czy jego skutkiem?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Szymon nie uważa się za wielkiego dłużnika. **Jak to wpływa na sposób, w jaki patrzy na kobietę?** Jak ma się to do sługi z Mt 18?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czy Bóg przebacza pod warunkiem?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 6,12.14-15",
+       "przeklad": "BW",
+       "akapity": [
+        "i odpuść nam nasze winy, jak i my odpuszczamy naszym winowajcom; [...] Bo jeśli odpuścicie ludziom ich przewinienia, odpuści i wam Ojciec wasz niebieski. A jeśli nie odpuścicie ludziom, i Ojciec wasz nie odpuści wam przewinień waszych."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Te zdania brzmią jak transakcja: przebaczę ci, jeśli ty przebaczysz. Tymczasem w przypowieści król daruje pierwszy, bez żadnego warunku, a sługa traci darowanie dopiero wtedy, gdy pokazuje, że nic z niego nie przyjął.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Spróbujcie opisać różnicę między tymi dwoma zdaniami: „Bóg przebacza mi w nagrodę za to, że przebaczam\" oraz „kto nie przebacza, pokazuje, że nie przyjął przebaczenia\".** Za którym przemawia kolejność zdarzeń w przypowieści?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co powiedzielibyście komuś, kto po lekturze wersetu 35 boi się, że Bóg go odrzuci, bo wciąż nie potrafi komuś przebaczyć?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Czy ja jestem na miejscu Boga",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Bracia sprzedali Józefa do niewoli. Po latach Józef, już jako zarządca Egiptu, dał im się poznać, płakał z nimi i sprowadził całą rodzinę do siebie. Od tamtej chwili minęło wiele lat. Właśnie umarł ojciec.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 50,15-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Bracia Józefa, widząc, że umarł ojciec ich, mówili: Może Józef będzie teraz wrogo do nas usposobiony i odpłaci nam sowicie za wszystko zło, które mu wyrządziliśmy? Kazali więc Józefowi powiedzieć: Ojciec twój dał takie polecenie przed śmiercią: Tak powiedzcie Józefowi: Ach, przebacz braciom swoim ich występek i ich grzech oraz zło, które ci wyrządzili. Odpuść przeto teraz występek sług Boga ojca twego. I zapłakał Józef, gdy to mówiono do niego.",
+        "Potem przyszli bracia jego, upadli przed nim i rzekli: Sługami twoimi jesteśmy. A Józef rzekł do nich: Nie bójcie się! Czyż ja jestem na miejscu Boga? Wy wprawdzie knuliście zło przeciwko mnie, ale Bóg obrócił to w dobro, chcąc uczynić to, co się dziś dzieje: zachować przy życiu liczny lud. Nie bójcie się więc. Ja będę utrzymywał was i dzieci wasze. Tak pocieszał ich i przyjaźnie z nimi rozmawiał."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Józef nie mówi, że nic się nie stało. **Znajdźcie zdanie, w którym nazywa zło po imieniu. Co mówi zaraz potem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Czyż ja jestem na miejscu Boga?\" **Co Józef oddaje tym pytaniem i komu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Bracia od lat żyją pod opieką Józefa i wciąż się go boją. W całej historii ani razu sami nie poprosili o przebaczenie, a i teraz chowają się za słowami ojca. **Jak to możliwe, że ktoś, komu przebaczono, dalej żyje jak dłużnik?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Dlaczego Józef płacze?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Przebaczenie Józefa nie zaprzecza winie. „Knuliście zło\" pada otwartym tekstem. Józef odmawia tylko jednego: zajęcia miejsca sędziego. Ten rachunek należy do Boga. Potem robi jeszcze krok, do którego nikt go nie zmuszał. Zdejmuje z braci strach, obiecuje utrzymanie, rozmawia przyjaźnie. Księga Rodzaju, pełna obietnic o ziemi i potomstwie, kończy się sceną przebaczenia w rodzinie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Jak Chrystus odpuścił wam",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 23,33-34",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy przyszli na miejsce, zwane Trupią Czaszką, ukrzyżowali go tam, także i złoczyńców, jednego po prawicy, a drugiego po lewicy. A Jezus rzekł: Ojcze, odpuść im, bo nie wiedzą, co czynią. A przy dzieleniu się jego szatami rzucali losy."
+       ]
+      },
+      {
+       "odnosnik": "Kol 3,12-13",
+       "przeklad": "BW",
+       "akapity": [
+        "Przeto przyobleczcie się jako wybrani Boży, święci i umiłowani, w serdeczne współczucie, w dobroć, pokorę, łagodność i cierpliwość, znosząc jedni drugich i przebaczając sobie nawzajem, jeśli kto ma powód do skargi przeciw komu: Jak Chrystus odpuścił wam, tak i wy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus modli się za ludzi, którzy o nic nie prosili i właśnie dzielą Jego ubranie. **Co ta scena mówi o tym, od czego przebaczenie zależy, a od czego nie zależy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł nie uzasadnia przebaczenia tym, że winowajca na nie zasłużył albo że sprawa była drobna. **Na czym je opiera?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Jeśli kto ma powód do skargi\". Paweł zakłada, że powody bywają prawdziwe. **Co to zmienia w rozmowie o przebaczeniu?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jak daleko jest wschód od zachodu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 103,8-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Miłosierny i łaskawy jest Pan, Cierpliwy i pełen dobroci. Nie prawuje się ustawicznie, Nie gniewa się na wieki. Nie postępuje z nami według grzechów naszych Ani nie odpłaca nam według win naszych. Lecz jak wysoko jest niebo nad ziemią, Tak wielka jest dobroć jego dla tych, którzy się go boją. Jak daleko jest wschód od zachodu, Tak oddalił od nas występki nasze."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm opisuje Boże przebaczenie obrazami odległości. **Co zostaje oddalone: pamięć o tym, co się stało, czy coś innego?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Który z tych obrazów najtrudniej ci odnieść do siebie?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kiedy Bóg przedstawia się Mojżeszowi, mówi o sobie między innymi to:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 34,6-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Pan przeszedł obok niego, a on zawołał: Panie, Panie, Boże miłosierny i łaskawy, nieskory do gniewu, bogaty w łaskę i wierność, zachowujący łaskę dla tysięcy, odpuszczający winę, występek i grzech, nie pozostawiający w żadnym razie bez kary, lecz nawiedzający winę ojców na synach i na wnukach do trzeciego i czwartego pokolenia!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "„Odpuszczający\" to hebrajskie `nasa`, które dosłownie znaczy „podnieść, dźwignąć, ponieść\". W języku prawa oznacza wzięcie na siebie odpowiedzialności za czyjąś winę. Bóg nie przebacza machnięciem ręki. Podnosi ciężar i niesie go sam. Prorok Micheasz dopowiada, dokąd:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mi 7,18-19",
+       "przeklad": "BW",
+       "akapity": [
+        "Któż jest, Boże, jak Ty, który przebaczasz winę, odpuszczasz przestępstwo resztce swojego dziedzictwa, który nie chowasz na wieki gniewu, lecz masz upodobanie w łasce? Znowu zmiłuje się nad nami, zmyje nasze winy, wrzuci do głębin morskich wszystkie nasze grzechy."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W Nowym Testamencie „odpuścić\" to najczęściej `afiēmi`: puścić, zostawić, zwolnić. Tym samym słowem mówiono o umorzeniu długu.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przebaczenie jako puszczenie i przebaczenie jako dźwignięcie. **Który obraz lepiej opisuje to, co dzieje się w człowieku, który przebacza?** Kto według tych tekstów ponosi koszt?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Jego i ty się strzeż",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Tm 4,14-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Aleksander, kotlarz, wyrządził mi wiele złego; odda mu Pan według uczynków jego; jego i ty się strzeż; albowiem bardzo się sprzeciwił słowom naszym. W pierwszej obronie mojej nikogo przy mnie nie było, wszyscy mnie opuścili: niech im to nie będzie policzone;"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł wspomina dwie krzywdy. **Co mówi o Aleksandrze, a co o tych, którzy go opuścili? Co jest w obu przypadkach wspólne, a co różne?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Odda mu Pan\" i zaraz potem „jego i ty się strzeż\". **Czym różni się przebaczenie od zaufania?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Czego Paweł z Aleksandrem nie robi?** Wypiszcie.",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Paweł robi z krzywdą to samo, co Józef: oddaje rachunek Bogu. Nie mści się i nie życzy źle. Jednocześnie nie udaje, że Aleksander jest bezpieczny, i ostrzega przed nim przyjaciela. Przebaczenie wypuszcza dług z ręki. Nie oddaje krzywdzicielowi kluczy do domu. Zaufanie odbudowuje druga strona swoimi czynami i czasem nie odbudowuje go nigdy. Przebaczyć mogę sam. Do pojednania trzeba dwojga i o tym będzie następne spotkanie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Strofuj go",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 17,3-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Miejcie się na baczności. Jeśliby zgrzeszył twój brat, strofuj go, a jeśli się upamięta, odpuść mu. A jeśliby siedemkroć na dzień zgrzeszył przeciwko tobie, i siedemkroć zwrócił się do ciebie, mówiąc: Żałuję tego, odpuść mu."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus stawia przed przebaczeniem jeszcze jedno słowo: strofuj. **Co to mówi o przebaczeniu, które polega na przemilczeniu krzywdy?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czemu służy nazwanie zła po imieniu: temu, kto skrzywdził, czy temu, kto przebacza?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "O przebaczeniu krąży kilka nieporozumień: że trzeba zapomnieć, że trzeba znów zaufać, że trzeba najpierw coś poczuć, że druga strona musi najpierw poprosić. **Które z nich nosiłeś najdłużej i skąd je miałeś?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr liczył do siedmiu. **Gdzie ty prowadzisz rachunki?** Jak wygląda twoja księga długów: kto w niej jest i od jak dawna?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest dług, który wciąż trzymasz w ręku?** Nie mów czyj. Powiedz tylko, co cię powstrzymuje przed wypuszczeniem go.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W Łk 17,3 Jezus mówi: jeśli się upamięta, odpuść mu. Na krzyżu prosi o przebaczenie dla ludzi, którzy niczego nie żałują. **Czy można przebaczyć komuś, kto nie widzi swojej winy i nigdy nie przeprosi? Co wtedy właściwie robimy i co pozostaje niezałatwione?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy można przebaczyć w czyimś imieniu, na przykład krzywdę wyrządzoną mojemu dziecku?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie produkuj odpowiedzi. Pomocne bywa rozróżnienie, które przewija się przez całe spotkanie. Wypuszczenie długu z ręki zależy ode mnie. Naprawienie relacji zależy także od drugiej strony. Przebaczenie krzywdy wyrządzonej komuś innemu należy do tego, kto jej doznał.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przebaczyć to wypuścić dług z ręki i oddać rachunek Bogu. To nie to samo, co oddać krzywdzicielowi klucze do domu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Kol 3,13 albo Rdz 50,19.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Sługa wyszedł od króla wolny i po kilku krokach o tym zapomniał. Znajdź w tym tygodniu chwilę ciszy i zapytaj siebie: **co mnie zostało darowane?** Nie ogólnie. Konkretnie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o osobie, której imię przyszło ci dziś do głowy. Nie próbuj niczego czuć na siłę. Zapytaj Boga o jedno: **co stracę, jeśli wypuszczę ten dług?** Poczucie racji, pozycję pokrzywdzonego, ochronę przed kolejnym zranieniem, coś jeszcze.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** powiedz Bogu na głos, ile ten dług wynosi. Bez pomniejszania. A potem powiedz Mu, że rachunek należy do Niego. Jeśli jeszcze nie potrafisz, powiedz Mu i to.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o przemocy w domu albo z opisu wynika, że jej doświadcza.** Powiedz jasno, także przy grupie, jeśli trzeba: przebaczenie nie oznacza powrotu do osoby, która krzywdzi, ani rezygnacji z ochrony siebie i dzieci. Paweł przebaczył i ostrzegał przed Aleksandrem. Nie zostawaj z tym sam. Porozmawiaj z tą osobą po spotkaniu i pomóż jej dotrzeć do fachowej pomocy. Przy bezpośrednim zagrożeniu numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Przebacz i zapomnij.\"** Zapytaj, gdzie to jest w tekście. Józef po latach pamięta wszystko i nazywa to złem. Król zna wysokość długu. Biblijne przebaczenie nie kasuje pamięci, tylko zmienia to, co z nią robimy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Nie potrafię przebaczyć. Próbowałem.\"** Nie naciskaj i nie pocieszaj na siłę. Możesz powiedzieć: „Przebaczenie dużej krzywdy rzadko jest jedną decyzją. Częściej jest drogą, na którą wraca się wiele razy. To, że chcesz, już coś znaczy\". Nie wyznaczaj terminów.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś przy stole naciska na inną osobę, żeby przebaczyła.** Przerwij od razu, spokojnie: „Nikt z nas nie zna wysokości cudzego długu\". Przypowieść jest o moim długu i moim współsłudze, nie o tym, co powinien zrobić sąsiad.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś odbiera wersety 34 i 35 jako groźbę i widać, że się boi.** Wróć do kolejności zdarzeń: król darował pierwszy i bez warunków. Przypowieść nie mówi, że Bóg czyha na potknięcie. Mówi, że nie da się jednocześnie żyć z łaski i dusić współsługi. Lęk o to, czy umiem przebaczyć, jest czymś zupełnie innym niż postawa sługi, który nie chciał.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„On nigdy nie przeprosił.\"** To prawdziwa trudność, nie wymówka. Oprawcy pod krzyżem też nie przeprosili. Przebaczenie nie czeka na drugą stronę. Pojednanie czeka. To rozróżnienie wielu ludziom zdejmuje ciężar, więc warto je powtórzyć.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Nie umiem przebaczyć sobie.\"** Nie rozwijaj tego na forum, bo to osobny temat, bliski spotkaniu o winie. Możesz zapytać: „Jeśli król darował, to kto jeszcze trzyma ten dług?\" i zaproponować rozmowę po spotkaniu.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś mówi o przemocy w domu albo z opisu wynika, że jej doświadcza.",
+     "odpowiedz": "Powiedz jasno, także przy grupie, jeśli trzeba: przebaczenie nie oznacza powrotu do osoby, która krzywdzi, ani rezygnacji z ochrony siebie i dzieci. Paweł przebaczył i ostrzegał przed Aleksandrem. Nie zostawaj z tym sam. Porozmawiaj z tą osobą po spotkaniu i pomóż jej dotrzeć do fachowej pomocy. Przy bezpośrednim zagrożeniu numer alarmowy 112."
+    },
+    {
+     "sytuacja": "„Przebacz i zapomnij.\"",
+     "odpowiedz": "Zapytaj, gdzie to jest w tekście. Józef po latach pamięta wszystko i nazywa to złem. Król zna wysokość długu. Biblijne przebaczenie nie kasuje pamięci, tylko zmienia to, co z nią robimy."
+    },
+    {
+     "sytuacja": "„Nie potrafię przebaczyć. Próbowałem.\"",
+     "odpowiedz": "Nie naciskaj i nie pocieszaj na siłę. Możesz powiedzieć: „Przebaczenie dużej krzywdy rzadko jest jedną decyzją. Częściej jest drogą, na którą wraca się wiele razy. To, że chcesz, już coś znaczy\". Nie wyznaczaj terminów."
+    },
+    {
+     "sytuacja": "Ktoś przy stole naciska na inną osobę, żeby przebaczyła.",
+     "odpowiedz": "Przerwij od razu, spokojnie: „Nikt z nas nie zna wysokości cudzego długu\". Przypowieść jest o moim długu i moim współsłudze, nie o tym, co powinien zrobić sąsiad."
+    },
+    {
+     "sytuacja": "Ktoś odbiera wersety 34 i 35 jako groźbę i widać, że się boi.",
+     "odpowiedz": "Wróć do kolejności zdarzeń: król darował pierwszy i bez warunków. Przypowieść nie mówi, że Bóg czyha na potknięcie. Mówi, że nie da się jednocześnie żyć z łaski i dusić współsługi. Lęk o to, czy umiem przebaczyć, jest czymś zupełnie innym niż postawa sługi, który nie chciał."
+    },
+    {
+     "sytuacja": "„On nigdy nie przeprosił.\"",
+     "odpowiedz": "To prawdziwa trudność, nie wymówka. Oprawcy pod krzyżem też nie przeprosili. Przebaczenie nie czeka na drugą stronę. Pojednanie czeka. To rozróżnienie wielu ludziom zdejmuje ciężar, więc warto je powtórzyć."
+    },
+    {
+     "sytuacja": "„Nie umiem przebaczyć sobie.\"",
+     "odpowiedz": "Nie rozwijaj tego na forum, bo to osobny temat, bliski spotkaniu o winie. Możesz zapytać: „Jeśli król darował, to kto jeszcze trzyma ten dług?\" i zaproponować rozmowę po spotkaniu."
+    }
+   ]
+  }
+ ]
+}

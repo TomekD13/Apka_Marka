@@ -1,0 +1,737 @@
+{
+ "tytul": "Utrata pracy i pieniędzy",
+ "id": "K-03",
+ "seria": "Kryzysy i przełomy życia",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "1Krl 17,1-9; 1Krl 17,10-16; Mt 6,25-34; Flp 4,10-13; Łk 12,15; Ha 3,17-19",
+  "p2": "Rdz 2,15; Rdz 3,17-19; Wj 16,16-20; Prz 30,7-9; Flp 4,14-19",
+  "p3": "2Kor 11,27; Hbr 11,37-38; Łk 4,25-26"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 27,
+  "p3": 30
+ },
+ "tagi": [
+  "kryzys",
+  "praca",
+  "pieniądze",
+  "troska",
+  "zaufanie",
+  "tożsamość"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg rzadko napełnia spiżarnię. Częściej sprawia, że rano w dzbanie znowu jest garść mąki.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Utrata pracy albo pieniędzy zabiera więcej niż pieniądze. Zabiera rytm dnia, miejsce w rodzinie i odpowiedź na pytanie „czym się zajmujesz\". Biblia nie obiecuje w takiej chwili pełnej spiżarni. Pokazuje Boga, który daje na dziś: kruki rano i wieczorem, garść mąki, która się nie kończy, mannę na jeden dzień. To spotkanie nie uczy zaradności i nie jest o zarządzaniu budżetem. Jest o tym, na czym człowiek stoi, kiedy potok wysycha.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "O pieniądzach mówi się trudniej niż o grzechach. Ktoś przy stole może być bez pracy, w długach albo przed zwolnieniem i nikt w grupie o tym nie wie.",
+      "Wstyd jest tu silniejszy niż lęk. Szczególnie ludzie, którzy całe życie utrzymywali rodzinę, przeżywają utratę pracy jak utratę twarzy.",
+      "W grupie mogą siedzieć obok siebie ludzie zamożni i ludzie liczący każdą złotówkę. Jedno nieuważne zdanie o wakacjach albo o „zwykłej pensji\" potrafi zaboleć.",
+      "Temat ciągnie w stronę porad i w stronę narzekania na gospodarkę i rządzących. Jedno i drugie zabija rozmowę o tekście."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pytaj nikogo o jego sytuację finansową. Nie mów, że „Bóg na pewno ma dla ciebie coś lepszego\", bo tego nie wiesz. Nie łącz cudzej biedy z jego wiernością albo jej brakiem. Nie pozwól grupie doradzać w sprawach kredytów, inwestycji i długów.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Jaka była twoja pierwsza praca albo pierwsze zarobione pieniądze? Jedno zdanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. To pytanie ma być lekkie i takie ma pozostać. Nie komentuj odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Potok, który wysechł",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Krl 17,1-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Eliasz Tiszbita z Tiszbe w Gileadzie rzekł do Achaba: Jako żyje Pan, Bóg Izraela, przed którego obliczem stoję, że nie będzie w tych latach rosy ani deszczu, tylko na moje słowo. I doszło go takie słowo Pana: Odejdź stąd, a udaj się na wschód i ukryj się nad potokiem Kerit, który wpływa od wschodu do Jordanu. Z potoku tego będziesz pił, a krukom nakazałem, aby cię tam żywiły. Poszedł więc i postąpił według słowa Pana; odszedłszy, zamieszkał nad potokiem Kerit, który wpływa od wschodu do Jordanu. Kruki zaś przynosiły mu chleb i mięso rano oraz chleb i mięso wieczorem, a z potoku pił wodę.",
+        "Lecz po pewnym czasie wysechł potok, gdyż nie było deszczu w tym kraju. I wtedy doszło go takie słowo Pana: Wstań i idź do Sarepty, która należy do Sydonu, i zamieszkaj tam. Oto nakazałem pewnej tamtejszej wdowie, aby cię żywiła."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Eliasz siedzi nad tym potokiem, bo tak kazał mu Bóg, a potok mimo to wysycha. **Co ta scena robi z myślą: skoro straciłem źródło utrzymania, to albo coś zrobiłem źle, albo Bóg mnie zostawił?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Sprawdźcie kolejność w wersetach 7 i 8. **Kiedy przychodzi następne słowo od Boga: zanim potok wysechł czy potem? Co to znaczy dla kogoś, kto patrzy, jak z tygodnia na tydzień ubywa mu wody?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Nowym źródłem utrzymania proroka ma być wdowa z obcego kraju, która sama nic nie ma. **Czego uczy człowieka to, że pomoc przychodzi od kogoś, po kim by się jej nie spodziewał i od kogo niezręcznie ją przyjąć?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Praca przed cierniami",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 2,15",
+       "przeklad": "BW",
+       "akapity": [
+        "I wziął Pan Bóg człowieka i osadził go w ogrodzie Eden, aby go uprawiał i strzegł."
+       ]
+      },
+      {
+       "odnosnik": "Rdz 3,17-19",
+       "przeklad": "BW",
+       "akapity": [
+        "A do Adama rzekł: Ponieważ usłuchałeś głosu żony swojej i jadłeś z drzewa, z którego ci zabroniłem, mówiąc: Nie wolno ci jeść z niego, przeklęta niech będzie ziemia z powodu ciebie! W mozole żywić się będziesz z niej po wszystkie dni życia swego! Ciernie i osty rodzić ci będzie i żywić się będziesz zielem polnym. W pocie oblicza twego będziesz jadł chleb, aż wrócisz do ziemi, z której zostałeś wzięty; bo prochem jesteś i w proch się obrócisz."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Człowiek dostał pracę, zanim cokolwiek się zepsuło. **Co się zmieniło po upadku: sama praca czy coś wokół niej? Co dokładnie zostało przeklęte?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli praca należy do tego, jak Bóg nas pomyślał, to jej utrata boli głębiej niż pusty portfel. **Co człowiek traci razem z pracą? I odwrotnie: co się dzieje, gdy praca staje się całą odpowiedzią na pytanie, kim jestem?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Garść mąki",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Krl 17,10-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Wstał więc i poszedł do Sarepty, a gdy wchodził do bramy miasta, oto pewna wdowa zbierała tam drwa. Odezwał się więc do niej tymi słowy: Przynieś mi nieco wody w naczyniu, abym się napił. A gdy ona szła, aby nabrać, zawołał jeszcze na nią: Przynieś mi też, proszę, kawałek chleba. Lecz ona odpowiedziała: Jako żyje Pan, Bóg twój, że nie mam nic upieczonego, a tylko garść mąki w dzbanie i odrobinę oliwy w bańce. Oto właśnie zbieram trochę drwa, potem pójdę i przyrządzę to dla siebie i dla mojego syna, a gdy to zjemy, to chyba umrzemy.",
+        "Lecz Eliasz rzekł do niej: Nie bój się! Idź i zrób, jak powiadasz, lecz najpierw przyrządź mi z tego mały placek i przynieś mi go, dla siebie zaś i syna swojego przyrządzisz później. Gdyż tak mówi Pan, Bóg Izraela: Mąka w garncu nie wyczerpie się, Oliwy w bańce nie zabraknie Aż do dnia, kiedy Pan spuści deszcz na ziemię. Poszła więc i postąpiła według słowa Eliasza, i mieli co jeść, ona i on, i jej rodzina, dzień w dzień. Mąka w garnku nie wyczerpała się, oliwy w bańce nie zabrakło według słowa Pana, które wypowiedział przez Eliasza."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wdowa ma plan na resztę życia: upiec, zjeść i umrzeć. **Co niedostatek zrobił z jej patrzeniem w przyszłość? Jak wygląda to samo zawężenie u człowieka, któremu kończą się oszczędności?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg nie napełnił jej spiżarni. **Ile mąki było w dzbanie każdego ranka przez cały czas suszy? Jaka jest różnica między „mieć zapas\" a „mieć na dziś\" i czego każde z nich uczy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Najpierw przyrządź mi\". To twarda prośba wobec kogoś, kto ma ostatnią garść. **Co zmienia się w człowieku, który w środku własnego braku wciąż ma coś do dania?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Sarepta leżała w kraju Sydonu, skąd pochodziła królowa Izebel i skąd przyszedł do Izraela kult Baala, boga burzy i urodzaju. Susza uderzała więc wprost w to, co Baal miał zapewniać. Właśnie tam, na jego terenie, Bóg Izraela karmi ubogą cudzoziemkę, dzień po dniu. Warto też zauważyć skalę cudu. Nie ma wozów ze zbożem ani nagłego bogactwa. Jest dzban, który rano znowu nie jest pusty.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Omer na głowę",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 16,16-20",
+       "przeklad": "BW",
+       "akapity": [
+        "Oto, co rozkazał Pan: Zbierajcie z niego, każdy według tego, ile potrzebuje do jedzenia, omer na głowę. Niechaj każdy zbierze według liczby osób, które należą do jego namiotu. Synowie izraelscy uczynili tak i zbierali, jedni więcej, drudzy mniej. A gdy to odmierzali na omery, ten, co zebrał więcej, nie miał nadmiaru, a ten, co zebrał mniej, nie miał braku. Każdy zebrał tyle, ile mógł zjeść. I rzekł Mojżesz do nich: Niechaj nikt nie pozostawia z tego nic do rana. Ale niektórzy nie usłuchali Mojżesza i pozostawili z tego nieco do rana, lecz to pokryło się robactwem i zacuchnęło. I Mojżesz rozgniewał się na nich."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Manny nie dało się odłożyć na jutro. **Czego Bóg chciał nauczyć ludzi, którzy przez pokolenia byli niewolnikami i nigdy nie mieli nic swojego? Dlaczego ta lekcja jest tak trudna także dla nas?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Ten, co zebrał mniej, nie miał braku\". **Jak to zdanie brzmi w grupie, w której jedni zbierają więcej, a drudzy mniej?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Dzień jutrzejszy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 6,25-34",
+       "przeklad": "BW",
+       "akapity": [
+        "Dlatego powiadam wam: Nie troszczcie się o życie swoje, co będziecie jedli albo co będziecie pili, ani o ciało swoje, czym się przyodziewać będziecie. Czyż życie nie jest czymś więcej niż pokarm, a ciało niż odzienie? Spójrzcie na ptaki niebieskie, że nie sieją ani żną, ani zbierają do gumien, a Ojciec wasz niebieski żywi je; czyż wy nie jesteście daleko zacniejsi niż one? A któż z was, troszcząc się, może dodać do swego wzrostu jeden łokieć?",
+        "A co do odzienia, czemu się troszczycie? Przypatrzcie się liliom polnym, jak rosną; nie pracują ani przędą. A powiadam wam: Nawet Salomon w całej chwale swojej nie był tak przyodziany, jak jedna z nich. Jeśli więc Bóg tak przyodziewa trawę polną, która dziś jest, a jutro będzie w piec wrzucona, czyż nie o wiele więcej was, o małowierni?",
+        "Nie troszczcie się więc i nie mówcie: Co będziemy jeść? albo: Co będziemy pić? albo: Czym się będziemy przyodziewać? Bo tego wszystkiego poganie szukają; albowiem Ojciec wasz niebieski wie, że tego wszystkiego potrzebujecie. Ale szukajcie najpierw Królestwa Bożego i sprawiedliwości jego, a wszystko inne będzie wam dodane. Nie troszczcie się więc o dzień jutrzejszy, gdyż dzień jutrzejszy będzie miał własne troski. Dosyć ma dzień swego utrapienia."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wyobraźcie sobie, że te słowa czyta ktoś tydzień po otrzymaniu wypowiedzenia. **Co one w nim budzą? Co w nich może zaboleć, a co może podtrzymać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nie mówi, że jedzenie i ubranie są nieważne. **Co dokładnie mówi o naszych potrzebach w wersecie 32? Czym różni się troska, której zakazuje, od zwykłej zapobiegliwości?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ptaki nie sieją i nie żną, ale też nie siedzą w gnieździe z otwartym dziobem. **Czego ten obraz nie mówi? Jak rozpoznać chwilę, w której szukanie pracy i liczenie pieniędzy przestaje być odpowiedzialnością, a zaczyna być tym, przed czym Jezus ostrzega?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ostatnie zdanie jest zaskakująco trzeźwe: każdy dzień ma swoje utrapienie. **Co Jezus obiecuje, a czego nie obiecuje w sprawie jutra?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Większość słuchaczy Jezusa żyła z dniówki. Prawo Mojżesza kazało wypłacić najemnikowi zarobek przed zachodem słońca, bo bez tego jego rodzina tego dnia by nie jadła. Prośba „chleba naszego powszedniego daj nam dzisiaj\" nie była więc figurą stylistyczną i Jezus nie mówi o troskach do ludzi sytych. Mówi do tych, u których sprawa jutrzejszego chleba rozstrzygała się naprawdę każdego wieczoru.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ani ubóstwo, ani bogactwo",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 30,7-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Proszę cię o dwie rzeczy; nie odmów mi, zanim umrę: Oddal ode mnie fałsz i słowo kłamliwe; nie nawiedź mnie ubóstwem ani nie obdarz bogactwem, daj mi spożywać chleb według mojej potrzeby, abym, będąc syty, nie zaparł się ciebie i nie rzekł: Któż jest Pan? Albo, abym z nędzy nie zaczął kraść i nie znieważył imienia mojego Boga."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Modlący się widzi niebezpieczeństwo po obu stronach. **Co według niego robi z człowiekiem nadmiar, a co niedostatek? Którą z tych dwóch pokus znacie lepiej?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Ile to jest „chleb według mojej potrzeby\"? Kto i co dzisiaj ustala tę miarę w naszych głowach?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: „wszystko inne będzie wam dodane\"",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jezus mówi, że temu, kto szuka Królestwa, reszta będzie dodana. A jednak ten sam Nowy Testament zna wierzących, którym jej zabrakło.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Kor 11,27",
+       "przeklad": "BW",
+       "akapity": [
+        "W trudzie i znoju, często w niedosypianiu, w głodzie i pragnieniu, często w postach, w zimie i nagości."
+       ]
+      },
+      {
+       "odnosnik": "Hbr 11,37-38",
+       "przeklad": "BW",
+       "akapity": [
+        "byli kamienowani, paleni, przerzynani piłą, zabijani mieczem, błąkali się w owczych i kozich skórach, wyzuci ze wszystkiego, uciskani, poniewierani; ci, których świat nie był godny, tułali się po pustyniach i górach, po jaskiniach i rozpadlinach ziemi."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł szukał Królestwa jak mało kto i bywał głodny. **Czym w takim razie jest zdanie z Mt 6,33: gwarancją, zasadą, która zwykle działa, czy jeszcze czymś innym?** Jedni czytają je jako obietnicę, na której można stanąć dosłownie. Inni widzą w nim opis Ojca, który zna potrzeby, ale nie podpisuje umowy. **Co łączy oba odczytania?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Nauczyłem się",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paweł pisze ten list z więzienia i dziękuje zborowi w Filippi za przysłaną pomoc.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Flp 4,10-13",
+       "przeklad": "BW",
+       "akapity": [
+        "A uradowałem się wielce w Panu, że nareszcie zakwitło staranie wasze o mnie, ponieważ już dawno o tym myśleliście, tylko nie mieliście po temu sposobności. A nie mówię tego z powodu niedostatku, bo nauczyłem się przestawać na tym, co mam. Umiem się ograniczyć, umiem też żyć w obfitości; wszędzie i we wszystkim jestem wyćwiczony; umiem być nasycony, jak i głód cierpieć, obfitować i znosić niedostatek. Wszystko mogę w tym, który mnie wzmacnia, w Chrystusie."
+       ]
+      },
+      {
+       "odnosnik": "Łk 12,15",
+       "przeklad": "BW",
+       "akapity": [
+        "Powiedział też do nich: Baczcie, a wystrzegajcie się wszelkiej chciwości, dlatego że nie od obfitości dóbr zależy czyjeś życie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł dwa razy używa języka nauki: „nauczyłem się\", „jestem wyćwiczony\". **Co to mówi o tym, skąd się bierze spokój wobec braku? W jakiej szkole zdobywa się taką umiejętność?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zdanie „wszystko mogę w tym, który mnie wzmacnia\" bywa cytowane jako hasło ludzi sukcesu. **O jakim „wszystkim\" mówi Paweł, jeśli przeczytać to zdanie razem z poprzednim?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus mówi, że życie człowieka nie zależy od obfitości dóbr. **Od czego w praktyce zależy to, jak oceniamy własne życie i cudze? Co się dzieje z tą oceną, gdy ktoś traci pracę?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "W dawaniu i przyjmowaniu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Flp 4,14-19",
+       "przeklad": "BW",
+       "akapity": [
+        "Wszakże dobrze uczyniliście, uczestnicząc w mojej udręce. A wy, Filipianie, wiecie, że na początku zwiastowania ewangelii, gdy wyszedłem z Macedonii, wy byliście jedynym zborem, który był wspólnikiem moim w dawaniu i przyjmowaniu, bo już do Tesaloniki i raz, i drugi przysłaliście dla mnie zapomogę. Nie żebym oczekiwał daru, ale oczekuję plonu, który obficie będzie zaliczony na wasze dobro. Poświadczam zaś, że odebrałem wszystko, nawet więcej niż mi potrzeba; mam wszystkiego pod dostatkiem, otrzymawszy od Epafrodyta wasz dar, przyjemną wonność, ofiarę mile widzianą, w której Bóg ma upodobanie. A Bóg mój zaspokoi wszelką potrzebę waszą według bogactwa swego w chwale, w Chrystusie Jezusie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Człowiek, który „umie znosić niedostatek\", bez skrępowania przyjmuje zapomogę i za nią dziękuje. **Dlaczego przyjmowanie pomocy bywa trudniejsze niż jej dawanie? Co Paweł wie o przyjmowaniu, czego my nie wiemy?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Obietnica z wersetu 19 pada w liście do zboru, który właśnie się podzielił. **Jaką drogą Bóg najczęściej zaspokaja czyjeś potrzeby? Kim w tej historii są Filipianie dla Pawła, jeśli porównać ją z historią Eliasza?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Choćby figowiec nie zakwitł",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ha 3,17-19",
+       "przeklad": "BW",
+       "akapity": [
+        "Zaiste, drzewo figowe nie wydaje owocu, a na winoroślach nie ma gron. Zawodzi drzewo oliwne, a rola nie dostarcza pożywienia. W ogrodzeniu nie ma owiec, a w oborach nie ma bydła. Lecz ja będę radował się w Panu, weselił się w Bogu mojego zbawienia. Wszechmogący Pan jest moją mocą. Sprawia, że moje nogi są chyże jak nogi łań, i pozwala mi kroczyć po wyżynach. Przewodnikowi chóru przy wtórze instrumentów strunowych."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Policzcie, ile źródeł utrzymania wymienia prorok i ile z nich zawiodło. **Jak brzmiałaby ta lista napisana dzisiaj, waszymi słowami?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Po słowach „lecz ja\" nic w gospodarstwie się nie zmienia. **Na czym opiera się ta radość, skoro nie na poprawie sytuacji? Czym się różni od robienia dobrej miny do złej gry?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ostatnie zdanie to wskazówka dla dyrygenta. Ten tekst był śpiewany przez cały zbór. **Co to mówi o miejscu takich doświadczeń we wspólnej pobożności? Czy w naszych nabożeństwach jest miejsce na pieśń człowieka, któremu nic nie obrodziło?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Księga Habakuka zaczyna się skargą, a nie wyznaniem wiary. Prorok pyta Boga, dlaczego milczy i jak długo jeszcze. W ostatnim rozdziale Bóg nie odzywa się już ani słowem, a sytuacja się nie poprawia. Zaufanie Habakuka nie jest jednak skokiem w ciemność. Wcześniej w tej samej modlitwie wspomina, co Bóg zrobił dla swojego ludu przy wyjściu z Egiptu. Jego „lecz ja\" opiera się na pamięci, nie na nastroju.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Utrata pracy albo pieniędzy zabiera więcej niż pieniądze. **Co jeszcze zabiera? Który z dzisiejszych tekstów dotyka właśnie tej straty?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdzie w twoim życiu przebiega granica między rozsądnym planowaniem a troską, o której mówi Jezus? Po czym poznajesz, że ją przekroczyłeś?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy w sprawach pieniędzy nosisz coś, o czym nikomu nie mówisz?** Nie musisz podawać żadnych szczegółów.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 4,25-26",
+       "przeklad": "BW",
+       "akapity": [
+        "Prawdziwie zaś mówię wam: Wiele było wdów w Izraelu w czasach Eliasza, kiedy niebo było zamknięte przez trzy lata i sześć miesięcy, tak iż był wielki głód na całej ziemi, a do żadnej z nich nie został posłany Eliasz, tylko do wdowy w Sarepcie Sydońskiej."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus sam zauważa, że głodnych wdów było wiele, a dzban napełniał się tylko jednej. **Co zrobić z tym zdaniem? Co ono mówi tym, do których prorok nie przyszedł?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy historia wdowy mówi coś także tym, którzy mają mąki pod dostatkiem?** Przez kogo Bóg mógłby dziś napełniać cudze dzbany?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "na pierwsze pytanie materiał nie daje odpowiedzi i ty też nie musisz. Drugie pytanie nie unieważnia pierwszego, ale pozwala grupie nie utknąć w bezradności.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg rzadko napełnia spiżarnię. Częściej sprawia, że rano w dzbanie znowu jest garść mąki.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Mt 6,34 albo Ha 3,17-18.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Zapytaj siebie: **gdybym jutro stracił pracę albo dochód, co straciłbym oprócz pieniędzy? Kim byłbym wtedy we własnych oczach?** Zostań przy tym pytaniu dłużej, niż jest wygodnie. Odpowiedź pokazuje, na czym naprawdę stoisz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przyjrzyj się swojemu lękowi o pieniądze. **O który dzień się martwisz: o dzisiejszy czy o ten za pięć lat?** Nazwij przed Bogiem konkretnie to, czego się boisz. Nie ogólnie „przyszłość\", tylko tę jedną rzecz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli masz kłopoty finansowe, które ukrywasz, powiedz o nich jednej zaufanej osobie. A jeśli niczego ci nie brakuje, zapytaj Boga, dla kogo możesz być krukiem albo Filipianinem, i zrób to tak, żeby ten człowiek nie musiał się wstydzić.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Przy stole siedzi ktoś, kto właśnie stracił pracę albo tonie w długach.** Jeśli o tym wiesz, porozmawiaj z tą osobą przed spotkaniem, powiedz, jaki będzie temat, i zostaw jej wolność: może milczeć, może nie przyjść. W trakcie nie kieruj do niej pytań i nie rób z niej przykładu. Jeśli sama zacznie mówić, wysłuchajcie bez rad i bez pocieszania na siłę. Wstyd w tym kryzysie jest zwykle większy niż strach, więc najważniejsze, co grupa może dać, to zwyczajne traktowanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Kto chce pracować, ten pracę znajdzie\" i inne zdania o zaradności.** Zatrzymaj to spokojnie. Eliasz siedział nad potokiem z Bożego polecenia i potok wysechł. Ludzie tracą pracę z powodu choroby, wieku, likwidacji zakładu albo cudzych decyzji. Nikt przy tym stole nie zna całej historii drugiego.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Oddawaj wiernie dziesięcinę, a Bóg ci pobłogosławi\" albo odwrotnie: „widocznie coś jest nie tak z twoją wiernością\".** Wierność w dawaniu jest dobra, ale nie jest polisą. Wróć do tekstów: Paweł bywał głodny, Habakukowi nic nie obrodziło, a żadnemu z nich Biblia nie zarzuca niewierności. Nie pozwól, żeby ktoś wyszedł ze spotkania z przekonaniem, że jego kłopoty są Bożą karą albo że Boga da się skłonić do wypłaty.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa zaczyna doradzać: kredyty, inwestycje, „mój szwagier szuka ludzi\".** Życzliwa informacja o wolnym etacie jest w porządku, ale po spotkaniu i w cztery oczy. Grupa nie doradza w sprawach finansowych ani prawnych. Przy poważnych długach trzeba fachowej pomocy: w każdym powiecie działają punkty nieodpłatnej pomocy prawnej i poradnictwa obywatelskiego, a wsparcia udziela też ośrodek pomocy społecznej. Zachęć do skorzystania z nich i zaproponuj, że ktoś może pójść razem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Realna bieda w grupie.** Jeśli ktoś nie ma za co kupić jedzenia albo opłacić mieszkania, modlitwa nie wystarczy. Porozmawiaj z tą osobą na osobności, zapytaj, czy zgodzi się, żebyś poruszył sprawę z pastorem albo z diakonami, i dopilnuj dyskrecji. Pomoc ma być udzielona tak, żeby nie upokarzała.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Długi, hazard, myśli o tym, że „rodzinie będzie lepiej beze mnie\".** Długi, z których nie widać wyjścia, potrafią doprowadzić człowieka do myśli samobójczych. Jeśli usłyszysz takie zdanie, nawet rzucone półżartem, potraktuj je poważnie. Zostań z tym człowiekiem po spotkaniu, zapytaj wprost, czy myśli o odebraniu sobie życia, i nie zostawaj z tym sam. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, w bezpośrednim zagrożeniu numer alarmowy 112. Przy hazardzie i innych uzależnieniach potrzebna jest terapia, nie tylko silna wola.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na rządzących, ceny i porównywanie zarobków.** Przerwij uprzejmie i wróć do tekstu, który macie przed oczami. Narzekanie daje ulgę na pięć minut i niczego nie zmienia, a porównywanie zarobków zostawia przy stole kogoś upokorzonego.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Przy stole siedzi ktoś, kto właśnie stracił pracę albo tonie w długach.",
+     "odpowiedz": "Jeśli o tym wiesz, porozmawiaj z tą osobą przed spotkaniem, powiedz, jaki będzie temat, i zostaw jej wolność: może milczeć, może nie przyjść. W trakcie nie kieruj do niej pytań i nie rób z niej przykładu. Jeśli sama zacznie mówić, wysłuchajcie bez rad i bez pocieszania na siłę. Wstyd w tym kryzysie jest zwykle większy niż strach, więc najważniejsze, co grupa może dać, to zwyczajne traktowanie."
+    },
+    {
+     "sytuacja": "„Kto chce pracować, ten pracę znajdzie\" i inne zdania o zaradności.",
+     "odpowiedz": "Zatrzymaj to spokojnie. Eliasz siedział nad potokiem z Bożego polecenia i potok wysechł. Ludzie tracą pracę z powodu choroby, wieku, likwidacji zakładu albo cudzych decyzji. Nikt przy tym stole nie zna całej historii drugiego."
+    },
+    {
+     "sytuacja": "„Oddawaj wiernie dziesięcinę, a Bóg ci pobłogosławi\" albo odwrotnie: „widocznie coś jest nie tak z twoją wiernością\".",
+     "odpowiedz": "Wierność w dawaniu jest dobra, ale nie jest polisą. Wróć do tekstów: Paweł bywał głodny, Habakukowi nic nie obrodziło, a żadnemu z nich Biblia nie zarzuca niewierności. Nie pozwól, żeby ktoś wyszedł ze spotkania z przekonaniem, że jego kłopoty są Bożą karą albo że Boga da się skłonić do wypłaty."
+    },
+    {
+     "sytuacja": "Grupa zaczyna doradzać: kredyty, inwestycje, „mój szwagier szuka ludzi\".",
+     "odpowiedz": "Życzliwa informacja o wolnym etacie jest w porządku, ale po spotkaniu i w cztery oczy. Grupa nie doradza w sprawach finansowych ani prawnych. Przy poważnych długach trzeba fachowej pomocy: w każdym powiecie działają punkty nieodpłatnej pomocy prawnej i poradnictwa obywatelskiego, a wsparcia udziela też ośrodek pomocy społecznej. Zachęć do skorzystania z nich i zaproponuj, że ktoś może pójść razem."
+    },
+    {
+     "sytuacja": "Realna bieda w grupie.",
+     "odpowiedz": "Jeśli ktoś nie ma za co kupić jedzenia albo opłacić mieszkania, modlitwa nie wystarczy. Porozmawiaj z tą osobą na osobności, zapytaj, czy zgodzi się, żebyś poruszył sprawę z pastorem albo z diakonami, i dopilnuj dyskrecji. Pomoc ma być udzielona tak, żeby nie upokarzała."
+    },
+    {
+     "sytuacja": "Długi, hazard, myśli o tym, że „rodzinie będzie lepiej beze mnie\".",
+     "odpowiedz": "Długi, z których nie widać wyjścia, potrafią doprowadzić człowieka do myśli samobójczych. Jeśli usłyszysz takie zdanie, nawet rzucone półżartem, potraktuj je poważnie. Zostań z tym człowiekiem po spotkaniu, zapytaj wprost, czy myśli o odebraniu sobie życia, i nie zostawaj z tym sam. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, w bezpośrednim zagrożeniu numer alarmowy 112. Przy hazardzie i innych uzależnieniach potrzebna jest terapia, nie tylko silna wola."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na rządzących, ceny i porównywanie zarobków.",
+     "odpowiedz": "Przerwij uprzejmie i wróć do tekstu, który macie przed oczami. Narzekanie daje ulgę na pięć minut i niczego nie zmienia, a porównywanie zarobków zostawia przy stole kogoś upokorzonego."
+    }
+   ]
+  }
+ ]
+}

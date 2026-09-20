@@ -1,0 +1,858 @@
+{
+ "tytul": "Rodzice i dzieci",
+ "id": "R-06",
+ "seria": "Relacje",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Pwt 6,4-9; Pwt 6,20-25; 1Sm 2,12.22-24; 3,11-13; Ef 6,1-4; Kol 3,20-21; Łk 2,41-52",
+  "p2": "Ps 78,4-7; 2Tm 1,2-5; Dz 16,1; Wj 12,26-27; Sdz 2,10; 1Sm 8,1-3; Ez 18,20; Mk 10,13-16; Ps 103,13-14; Łk 15,20; Iz 49,15-16",
+  "p3": "Prz 22,6"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 29,
+  "p3": 33
+ },
+ "tagi": [
+  "relacje",
+  "rodzina",
+  "wychowanie",
+  "przekazywanie wiary",
+  "pokolenia"
+ ],
+ "wersja": 1,
+ "zdanie": "Wiary nie da się dziecku wręczyć. Można nią przy nim żyć, odpowiadać na pytania i pamiętać, że ono ma jeszcze jednego Ojca.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie nie jest kursem wychowania. Jest o tym, jak wiara przechodzi z pokolenia na pokolenie i dlaczego nie da się jej ani wymusić, ani zlecić komuś innemu. Biblia pokazuje dwa sposoby, na które rodzic może zawieść: abdykację Heliego i twardość, przed którą ostrzega Paweł. Pokazuje też dom, w którym nikt nie zawinił, a rodzice i tak nie rozumieją własnego dziecka. Każdy przy stole jest czyimś dzieckiem, więc to spotkanie jest dla wszystkich, nie tylko dla rodziców.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Prawie na pewno siedzi przy stole rodzic, którego dorosłe dziecko odeszło od wiary albo od Kościoła. Ten rodzic słyszy każde zdanie o wychowaniu jako akt oskarżenia. Przeczytaj pierwszą czerwoną flagę, zanim zaczniesz.",
+      "Ktoś mógł być wychowany w domu, w którym Biblią bito, dosłownie albo w przenośni. Dla niego słowa „karność\" i „posłuszeństwo\" mają smak krzywdy.",
+      "Są osoby, które dzieci nie mają, choć chciały, i osoby, które dziecko straciły.",
+      "Rodzice małych dzieci chętnie udzielają sobie rad i oceniają cudze metody. To zabija rozmowę.",
+      "W bloku 3 cytat celowo kończy się przed wersetem 25, w którym stoi trudne zdanie o tym, że Pan postanowił zgubić synów Heliego. Jeśli ktoś je przeczyta, powiedz krótko, że tekst opisuje ludzi, którzy od lat odrzucali każde ostrzeżenie, i wróć do Heliego."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pytaj nikogo o jego dzieci. Nie stawiaj żadnej rodziny za przykład. Nie pozwól, żeby ktokolwiek komentował czyjeś wychowanie. Nie obiecuj nikomu, że dziecko wróci, i nie sugeruj, że odeszło z winy rodziców.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie jedną rzecz z domu, w którym dorastałeś: zwyczaj, powiedzenie, sposób spędzania jakiegoś dnia. Coś, co robisz do dziś, albo coś, czego postanowiłeś nigdy nie powtarzać. Powiedz to jednym zdaniem.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, krótko. Pytanie jest o domu rodzinnym, więc może odpowiedzieć każdy. Nie komentuj odpowiedzi, także tych gorzkich.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "W domu i w drodze",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 6,4-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Słuchaj, Izraelu! Pan jest Bogiem naszym, Pan jedynie! Będziesz tedy miłował Pana, Boga swego, z całego serca swego i z całej duszy swojej, i z całej siły swojej. Niechaj słowa te, które Ja ci dziś nakazuję, będą w twoim sercu. Będziesz je wpajał w twoich synów i będziesz o nich mówił, przebywając w swoim domu, idąc drogą, kładąc się i wstając. Przywiążesz je jako znak do swojej ręki i będą jako przepaska między twoimi oczyma. Wypiszesz je też na odrzwiach twojego domu i na twoich bramach."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zwróćcie uwagę na kolejność. Najpierw słowa mają być „w twoim sercu\", dopiero potem masz je wpajać dzieciom. **Dlaczego ta kolejność ma znaczenie? Co się dzieje, gdy ktoś próbuje ją odwrócić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Mojżesz wymienia cztery sytuacje: w domu, w drodze, przed snem, po przebudzeniu. **Co to mówi o miejscu, w którym dziecko uczy się wiary? Czego na tej liście nie ma?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Pierwsze słowo brzmi „słuchaj\" i jest skierowane do dorosłych. **Czego dziecko dowiaduje się o Bogu, patrząc na dorosłego, który sam słucha?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ten tekst pobożni Żydzi odmawiali rano i wieczorem, także w czasach Jezusa, który nazwał go pierwszym przykazaniem. Warto zobaczyć, czego w nim nie ma: nie ma szkoły, świątyni ani kapłana. Wiara przechodzi tu przy stole, w drodze i przy łóżku, w zwykłych rozmowach zwykłego dnia. Nie da się też przekazać tego, czego się nie ma. Przykazanie zaczyna się od serca dorosłego, a nie od zachowania dziecka.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Przyszłemu pokoleniu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 78,4-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Tego nie zataimy przed synami ich, Lecz opowiemy przyszłemu pokoleniu: Chwalebne czyny Pana i moc jego, Oraz cudowne dzieła, których dokonał. Związał Jakuba przykazaniami I ustanowił w Izraelu zakon, Który nadał ojcom naszym, Aby głosili go synom swoim, Aby poznało go następne pokolenie, A synowie, którzy się urodzą, Znów opowiadali go dzieciom swoim: Że mają pokładać nadzieję w Bogu I nie zapominać o dziełach Bożych, Lecz strzec przykazań jego;"
+       ]
+      },
+      {
+       "odnosnik": "2Tm 1,2-5",
+       "przeklad": "BW",
+       "akapity": [
+        "do Tymoteusza, umiłowanego syna: Łaska, miłosierdzie i pokój od Boga Ojca i Chrystusa Jezusa, Pana naszego. Dziękuję Bogu, któremu z czystym sumieniem służę, tak jak przodkowie moi, gdy nieustannie ciebie wspominam w modlitwach moich, we dnie i w nocy; pomny na łzy twoje, pragnę cię ujrzeć, abym doznał pełnej radości; przywodzę sobie na pamięć nieobłudną wiarę twoją, która była zadomowiona w babce twojej Loidzie i w matce twojej Eunice, a pewien jestem, że i w tobie żyje."
+       ]
+      },
+      {
+       "odnosnik": "Dz 16,1",
+       "przeklad": "BW",
+       "akapity": [
+        "Dotarł też do Derbe i do Listry. A był tam pewien uczeń, imieniem Tymoteusz, syn Żydówki, która była wierząca, i ojca Greka."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm mówi „opowiemy\", w liczbie mnogiej. Następne pokolenie jest sprawą całego ludu. **Jaką rolę wobec dzieci i młodych w zborze ma ktoś, kto sam dzieci nie ma?** Przyjrzyjcie się, jak Paweł, który nie miał rodziny, nazywa Tymoteusza.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wiara Tymoteusza przyszła przez babcię i matkę, a ojciec jej nie podzielał. **Co ta historia mówi komuś, kto wychowuje dziecko w wierze sam albo wbrew reszcie rodziny?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "BW ma „będziesz je wpajał\". Hebrajski czasownik `szanan` znaczy dosłownie „ostrzyć\", tak jak ostrzy się nóż: wieloma krótkimi pociągnięciami, nie jednym mocnym. Dalszy ciąg zdania mówi, jak to wygląda w praktyce. To nie są lekcje, tylko rozmowy wplecione w dzień.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czym różni się ostrzenie od wbijania?** Co z tego obrazu wynika dla kogoś, kto chciałby przekazać dziecku wiarę w jednej wielkiej, poważnej rozmowie?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Gdy syn zapyta",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 6,20-25",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy twój syn zapyta cię kiedyś: Co to za nakazy, ustawy i prawa, które nakazał wam Pan, Bóg wasz, to odpowiesz twojemu synowi: Byliśmy niewolnikami faraona w Egipcie i Pan wyprowadził nas z Egiptu możną ręką. I czynił Pan na naszych oczach znaki i cuda wielkie i dotkliwe przeciw Egiptowi i przeciw faraonowi, i przeciw całemu jego domowi. Lecz nas stamtąd wyprowadził, aby nas wprowadzić tutaj i dać nam tę ziemię, którą przysiągł naszym ojcom. I nakazał nam Pan spełniać te wszystkie przepisy, okazywać cześć zbożną Panu, Bogu naszemu, aby nam się dobrze powodziło po wszystkie dni naszego życia, jak to jest dzisiaj. I będzie nam poczytane za sprawiedliwość, gdy dołożymy starań, aby spełniać wobec Pana, Boga naszego, te wszystkie przykazania, jak nam nakazał."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Syn pyta o przepisy. Ojciec nie odpowiada „bo tak trzeba\" ani „bo Bóg tak kazał\". **Od czego zaczyna swoją odpowiedź? Dlaczego właśnie od tego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przyjrzyjcie się słowom syna: prawa, które Bóg nakazał „wam\". Ojciec odpowiada: „byliśmy\", „nas\", „nam\". **Co się dzieje między tymi dwoma zaimkami?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Tekst zakłada, że dziecko zapyta, i traktuje to pytanie jako coś dobrego. **Jak w waszych domach rodzinnych przyjmowano pytania o wiarę? Co dzieje się z pytaniami, których nie wolno zadać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Mojżesz każe odpowiedzieć na pytanie o przepisy opowieścią o wyzwoleniu. Najpierw jest to, co Bóg zrobił dla nas, potem to, co my robimy dla Niego. Przepis oderwany od tej opowieści staje się dla dziecka ciężarem bez powodu. Warto też zobaczyć, że ojciec mówi „byliśmy niewolnikami\", choć sam mógł urodzić się już na pustyni. Opowiada historię ludu jako własną. Dziecko nie dziedziczy regulaminu, tylko historię, do której może się dopisać.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pokolenie, które nie znało",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 12,26-27",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy was zapytają synowie wasi: Co znaczy ten wasz obrzęd? Odpowiecie: Jest to rzeźna ofiara paschalna dla Pana, który omijał domy synów Izraela w Egipcie, gdy Egipcjanom zadawał ciosy, a domy nasze ochronił. I lud pochylił głowy, i oddał pokłon."
+       ]
+      },
+      {
+       "odnosnik": "Sdz 2,10",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy również całe to pokolenie wymarło i nastało po nich inne pokolenie, które nie znało Pana ani tego, co On uczynił dla Izraela,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pascha została tak pomyślana, żeby dziecko przy stole musiało zapytać. **Co w naszym życiu z Bogiem jest na tyle widoczne i na tyle inne, że dziecko mogłoby o to zapytać?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pokolenie po Jozuem „nie znało Pana ani tego, co On uczynił\". Wystarczyło jedno pokolenie. **Czym różni się znajomość zasad religii od znajomości Boga i tego, co zrobił?** Którą z nich łatwiej przekazać?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Mówił, ale nie powstrzymał",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Sm 2,12.22-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Ale synowie Heliego byli nikczemni i nie znali Pana. [...] A gdy Heli zestarzał się bardzo i dowiedział się o wszystkim, co jego synowie czynili całemu Izraelowi, a także o tym, że obcowali z niewiastami, które służyły u wejścia do Namiotu Zgromadzenia, mawiał do nich: Czemu dopuszczacie się tych rzeczy, o których słyszę jako o waszych złych uczynkach od całego tego ludu? Nie tak, moi synowie, gdyż nie dobra to wieść, którą słyszę i którą lud Pana rozpowszechnia."
+       ]
+      },
+      {
+       "odnosnik": "1Sm 3,11-13",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Pan do Samuela: Oto Ja uczynię w Izraelu rzecz, od której każdemu, kto o niej usłyszy, w obu uszach zadźwięczy. W dniu owym spełnię na Helim wszystko, co mówiłem o jego domu, od początku do końca. Donieś mu, że Ja osądzę jego dom na wieki za grzech, o którym wiedział, że jego synowie znieważali Boga, a on ich nie strofował."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Heli rozmawiał z synami, a mimo to Bóg mówi, że ich nie strofował. **Czego zabrakło w jego słowach?** Przeczytajcie je jeszcze raz: o co Heli się martwi?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Synowie Heliego wyrośli w świątyni, przy ołtarzu, a tekst mówi, że „nie znali Pana\". **Jak to możliwe, żeby dorastać tak blisko rzeczy świętych i nie poznać Boga?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Heli był nie tylko ojcem, ale i kapłanem w Szilo, przełożonym swoich synów, a oni krzywdzili ludzi przychodzących do świątyni. **Kogo Heli chronił, a kogo zostawił bez ochrony?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Synowie Heliego są dorosłymi kapłanami, a nie dziećmi. Zabierają siłą mięso z ofiar i współżyją z kobietami służącymi przy Namiocie. Heli jest ich przełożonym i może odsunąć ich od ołtarza. Poprzestaje na wymówce, w której martwi się głównie o to, co mówią ludzie. Bóg nie zarzuca mu, że ma złych synów. Zarzuca mu, że wiedział i nie powstrzymał krzywdy, choć miał do tego władzę.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Synowie Samuela",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Sm 8,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy się Samuel zestarzał, ustanowił swoich synów sędziami nad Izraelem. Starszemu jego synowi było na imię Joel, młodszemu zaś Abiasz. Byli oni sędziami w Beer-Szebie. Lecz jego synowie nie chodzili jego drogami, gonili raczej za zyskiem, brali datki i naginali prawo."
+       ]
+      },
+      {
+       "odnosnik": "Ez 18,20",
+       "przeklad": "BW",
+       "akapity": [
+        "Człowiek, który grzeszy, umrze. Syn nie poniesie kary za winę ojca ani ojciec nie poniesie kary za winę syna. Sprawiedliwość będzie zaliczona sprawiedliwemu, a bezbożność spadnie na bezbożnego."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Samuel dorastał w domu Heliego i widział z bliska, jak to się kończy. Był wierny Bogu przez całe życie. Jego synowie nie poszli jego drogami. **Co ta historia mówi o granicach tego, co rodzic może?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ezechiel mówi, że ojciec nie poniesie winy syna, a syn winy ojca. **Co to zdanie zdejmuje z rodzica dorosłego dziecka? A co zdejmuje z dorosłego dziecka trudnych rodziców?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: obietnica czy obserwacja",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 22,6",
+       "przeklad": "BW",
+       "akapity": [
+        "Wychowuj chłopca odpowiednio do drogi, którą ma iść, a nie zejdzie z niej nawet w starości."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "To zdanie bywa czytane jak gwarancja: jeśli dobrze wychowasz, dziecko zostanie przy Bogu. Wielu rodziców wyciąga z niego wniosek odwrotny: skoro moje dziecko odeszło, to źle je wychowałem. Tymczasem Księga Przypowieści w ogromnej części nie składa obietnic, tylko opisuje, jak zwykle bywa. Mówi na przykład, że pracowity się bogaci, a wszyscy znamy pracowitych ubogich. Sama Biblia pokazuje też wiernych rodziców, których dzieci wybrały inaczej: Samuel, a przede wszystkim Bóg, którego pierwsze dzieci odeszły z ogrodu.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak zmienia się to zdanie, jeśli przeczytamy je jako mądrą obserwację, a nie jako umowę z Bogiem?** Co zyskuje rodzic, a co traci, gdy przestaje je traktować jak gwarancję?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "to jest najważniejszy blok dla rodzica, którego dziecko odeszło. Nie łagodź przy tym sensu przypowieści. Wychowanie ma znaczenie i zwykle zostawia trwały ślad. Nie jest natomiast mechanizmem, a dziecko nie jest produktem.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Nie rozgoryczajcie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ef 6,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Dzieci, bądźcie posłuszne rodzicom swoim w Panu, bo to rzecz słuszna. Czcij ojca swego i matkę, to jest pierwsze przykazanie z obietnicą: Aby ci się dobrze działo i abyś długo żył na ziemi. A wy, ojcowie, nie pobudzajcie do gniewu dzieci swoich, lecz napominajcie i wychowujcie je w karności, dla Pana."
+       ]
+      },
+      {
+       "odnosnik": "Kol 3,20-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Dzieci, bądźcie posłuszne rodzicom we wszystkim; albowiem Pan ma w tym upodobanie. Ojcowie, nie rozgoryczajcie dzieci swoich, aby nie upadały na duchu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W obu listach Paweł po zdaniu do dzieci od razu dodaje ostrzeżenie dla ojców. **Przed czym ostrzega? Dlaczego uznał, że trzeba to powiedzieć właśnie tym, którzy w domu mają władzę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Aby nie upadały na duchu\". **Jak wygląda dziecko, także dorosłe, które upadło na duchu? Co w domu, nawet bardzo pobożnym, potrafi do tego doprowadzić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Heli był za miękki, a Paweł ostrzega przed twardością. **Po czym poznać, w którą stronę ja sam się przechylam?** Czy to zależy od tego, jak mnie wychowano?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W świecie Pawła ojciec miał nad domem władzę niemal nieograniczoną, a ówczesne pouczenia o rodzinie mówiły wyłącznie o obowiązkach domowników wobec niego. Paweł zwraca się do dzieci wprost, jak do osób, które słuchają listu razem z dorosłymi, a ojcu stawia granicę. Słowa „w Panu\" też są granicą. Posłuszeństwo dziecka nie obejmuje zgody na zło ani na krzywdę. Rodzic nie jest dla dziecka Bogiem. Ma je do Boga prowadzić.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jak ojciec",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 10,13-16",
+       "przeklad": "BW",
+       "akapity": [
+        "I przynosili do niego dzieci, aby się ich dotknął, ale uczniowie gromili ich. Gdy Jezus to spostrzegł, oburzył się i rzekł do nich: Pozwólcie dziatkom przychodzić do mnie i nie zabraniajcie im, albowiem takich jest Królestwo Boże. Zaprawdę powiadam wam, ktokolwiek by nie przyjął Królestwa Bożego jak dziecię, nie wejdzie do niego. I brał je w ramiona, i błogosławił, kładąc na nie ręce."
+       ]
+      },
+      {
+       "odnosnik": "Ps 103,13-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Jak się lituje ojciec nad dziećmi, Tak się lituje Pan nad tymi, którzy się go boją, Bo On wie, jakim tworem jesteśmy, Pamięta, żeśmy prochem."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To jedno z niewielu miejsc, w których Ewangelie mówią, że Jezus się oburzył. **Na kogo i o co? Co dorośli mogą dziś robić takiego, co stoi dzieciom na drodze do Jezusa?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm tłumaczy Boga przez obraz ojca, który się lituje, bo pamięta, z czego dziecko jest zrobione. **Co dzieje się z obrazem Boga u kogoś, kto takiego ojca nie miał? Skąd taka osoba może wziąć inny obraz?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Nie pobudzajcie do gniewu\" to greckie `parorgizo`. Rzeczownik od tego samego rdzenia stoi w Ef 4,26, w zdaniu o słońcu, które nie powinno zachodzić nad gniewem. Paweł wie więc, że dom jest pierwszym miejscem, w którym człowiek uczy się gniewu. Ciekawsze jest drugie słowo. „Wychowujcie\" to `ektrefo`, ten sam czasownik, którego Paweł użył kilkanaście zdań wcześniej, gdy pisał, że nikt nie nienawidzi własnego ciała, tylko je „żywi\". Wychowywać znaczy u niego najpierw karmić.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Czemuście mnie szukali",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 2,41-52",
+       "przeklad": "BW",
+       "akapity": [
+        "A rodzice jego chodzili co roku do Jerozolimy na Święto Paschy. I gdy miał dwanaście lat, poszli do Jerozolimy na to święto, jak to było w zwyczaju. A gdy te dni dobiegły końca i wracali, zostało dziecię Jezus w Jerozolimie, o czym nie wiedzieli jego rodzice, a mniemając, iż jest pośród podróżnych, uszli dzień drogi i szukali go między krewnymi i znajomymi. I gdy go nie znaleźli, wrócili do Jerozolimy, szukając go. A po trzech dniach znaleźli go w świątyni, siedzącego wpośród nauczycieli, słuchającego i pytającego ich. A zdumiewali się wszyscy, którzy go słuchali, nad jego rozumem i odpowiedziami. I ujrzawszy go, zdziwili się. I rzekła do niego matka jego: Synu, cóżeś nam to uczynił? Oto ojciec twój i ja bolejąc szukaliśmy ciebie. I rzekł do nich: Czemuście mnie szukali? Czyż nie wiedzieliście, że w tym, co jest Ojca mego, Ja być muszę? Lecz oni nie rozumieli tego słowa, które im mówił. I poszedł z nimi, i przyszedł do Nazaretu, i był im uległy. A matka jego zachowywała wszystkie te słowa w sercu swoim. Jezusowi zaś przybywało mądrości i wzrostu oraz łaski u Boga i u ludzi."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W tej historii nikt nie zgrzeszył, a jest w niej strach, wyrzut i niezrozumienie. **Co to mówi o napięciach między rodzicami a dorastającym dzieckiem? Czy każde z nich oznacza, że ktoś zawinił?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Maria mówi „ojciec twój i ja\". Jezus odpowiada o „Ojcu moim\". **Czego dwunastolatek uczy tym zdaniem swoich rodziców? Do kogo dziecko należy najpierw?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Łukasz pisze, że rodzice nie zrozumieli, a Maria „zachowywała te słowa w sercu\". **Co może zrobić rodzic z tym, czego w swoim dziecku nie rozumie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ten sam chłopiec, który mówi „muszę być u Ojca\", wraca do Nazaretu i jest rodzicom uległy. **Jak te dwie rzeczy mieszczą się w jednym człowieku?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To są pierwsze słowa Jezusa zapisane w Ewangeliach i są pytaniem. Rodzice, którzy słyszeli anioła i pasterzy, dwanaście lat później nie rozumieją własnego syna. Łukasz tego nie wygładza. Pokazuje za to, że to oni co roku brali Go do Jerozolimy, i właśnie tam, dokąd Go sami zaprowadzili, chłopiec odnalazł coś własnego. Tak wygląda cel wychowania w wierze: dziecko zaczyna mówić o Bogu „mój Ojciec\", a nie tylko „Bóg moich rodziców\".",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Gdy dziecko jest daleko",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 15,20",
+       "przeklad": "BW",
+       "akapity": [
+        "Wstał i poszedł do ojca swego. A gdy jeszcze był daleko, ujrzał go jego ojciec, użalił się i pobiegłszy rzucił mu się na szyję, i pocałował go."
+       ]
+      },
+      {
+       "odnosnik": "Iz 49,15-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Czy kobieta może zapomnieć o swoim niemowlęciu i nie zlitować się nad dziecięciem swojego łona? A choćby nawet one zapomniały, jednak Ja ciebie nie zapomnę. Oto na moich dłoniach wyrysowałem cię, twoje mury stoją mi zawsze przed oczyma."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ojciec z przypowieści zobaczył syna, „gdy jeszcze był daleko\". **Co to mówi o tym, co robił przez cały czas jego nieobecności? Czego nie robił?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg porównuje siebie do matki, która nie zapomina. **Co znaczy dla rodzica, że jego dziecko ma jeszcze jednego Rodzica, który widzi dalej i kocha dłużej?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W zdaniu „Ja być muszę\" stoi greckie `dei`, czyli „trzeba, jest konieczne\". Łukasz będzie używał tego słowa przez całą Ewangelię, ilekroć Jezus mówi o swojej drodze: muszę głosić, muszę iść do Jerozolimy, Syn Człowieczy musi wiele wycierpieć. Pierwszy raz pada ono z ust dwunastolatka, w świątyni, przy rodzicach.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dziecko może mieć od Boga drogę, której rodzice nie wybrali i której nie rozumieją. **Jak odróżnić dziecko, które błądzi, od dziecka, które idzie za czymś, czego ja nie widzę?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mojżesz każe odpowiadać na pytania opowieścią o tym, co Bóg zrobił. **Jaką historię o Bogu mógłbyś opowiedzieć jako własną, gdyby dziecko, wnuk albo ktoś młody ze zboru zapytał cię, dlaczego wierzysz?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co wyniosłeś z domu rodzinnego takiego, co do dziś kształtuje twój obraz Boga, na dobre albo na złe?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy w relacji z własnymi rodzicami albo z własnymi dziećmi jest coś, co chciałbyś dziś oddać Bogu, bo sam tego nie udźwigniesz?** Nie musisz mówić co.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg pociąga Heliego do odpowiedzialności za dorosłych synów. Ezechiel mówi, że ojciec nie poniesie winy syna. **Gdzie kończy się odpowiedzialność rodzica za dorosłe dziecko? Za co odpowiada, a za co już nie?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie zamykaj tego jednym zdaniem. Pomaga obserwacja z tekstu: Heli nie odpowiada za wybory synów, tylko za to, że mając władzę nad świątynią, pozwalał im krzywdzić ludzi. Samuelowi, którego synowie też zawiedli, Bóg niczego takiego nie zarzuca.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Wiary nie da się dziecku wręczyć. Można nią przy nim żyć, odpowiadać na pytania i pamiętać, że ono ma jeszcze jednego Ojca.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Pwt 6,6-7 albo Iz 49,15.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Mojżesz zaczyna od słów „niech będą w twoim sercu\". Zapytaj siebie uczciwie: **co z mojej wiary jest naprawdę moje, a co tylko powtarzam po rodzicach albo na przekór nim?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o jednej osobie młodszej od siebie: dziecku, wnuku, chrześniaku, kimś ze zboru. Zapytaj Boga: **co ona widzi, kiedy patrzy na moje życie z Tobą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli nosisz żal do rodziców albo poczucie winy wobec własnego dziecka, nazwij to przed Bogiem jednym zdaniem, bez tłumaczenia się i bez oskarżania. Zostań przy zdaniu Ezechiela: każdy odpowiada za siebie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Rodzic mówi: „Moje dziecko odeszło od Boga. Gdzie popełniłem błąd?\"** To najważniejsza chwila tego spotkania. Nie analizuj wychowania i nie pozwól, żeby robiła to grupa. Nie obiecuj, że dziecko wróci, bo tego nie wiesz. Powiedz to, co mówi tekst: Samuel był wierny, a jego synowie wybrali inaczej. Ezechiel mówi, że każdy odpowiada za siebie. Ojciec z przypowieści nie pobiegł za synem do dalekiego kraju, tylko wypatrywał. Bóg o tym dziecku nie zapomniał. Jeśli rodzic rzeczywiście ma sobie coś do wyrzucenia, to jest rozmowa na osobności i zwykle zaczyna się od przeproszenia dziecka, nie od pouczania go.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Biblia mówi, że kto żałuje rózgi, nienawidzi syna.\"** Nie wchodź w spór o metody. Powiedz spokojnie trzy rzeczy. Rózga jest w Biblii także narzędziem pasterza, który nią prowadzi i broni, a przypowieść mówi o tym, żeby dziecka nie zostawiać bez korekty, co jest błędem Heliego. Paweł, pisząc do ojców, nie wspomina o biciu, tylko ostrzega przed doprowadzaniem dzieci do gniewu i zniechęcenia. Polskie prawo zakazuje kar cielesnych. Grupa nie jest miejscem na obronę bicia dzieci.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada o przemocy w domu rodzinnym, także tej uzasadnianej Biblią.** Wysłuchaj, podziękuj, nie broń rodziców i nie każ od razu przebaczać. Możesz powiedzieć, że Paweł stawia ojcom granicę właśnie dlatego, że taka krzywda jest realna. Jeśli rana jest głęboka, zaproponuj rozmowę po spotkaniu i zachęć do skorzystania z pomocy psychologa.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś daje do zrozumienia, że dziecko w jego otoczeniu jest dziś krzywdzone.** To nie może zostać przy stole. Porozmawiaj po spotkaniu, nie zostawaj z tym sam i nie próbujcie załatwiać tego wewnątrz zboru. Telefon zaufania dla dzieci i młodzieży to 116 111, przy bezpośrednim zagrożeniu 112. Ochrona dziecka ma pierwszeństwo przed dobrym imieniem rodziny i zboru. To jest dokładnie lekcja Heliego.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Osoba bezdzietna milknie albo mówi: „To nie dla mnie\".** Przypomnij, że każdy przy stole jest czyimś dzieckiem, a Psalm 78 mówi „opowiemy\" o całym ludzie. Paweł nie miał rodziny i nazywał Tymoteusza synem. Nie pytaj o powody bezdzietności. Niespełnione rodzicielstwo ma osobny materiał w serii Kryzysy i przełomy życia.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rodzice małych dzieci zaczynają wymieniać się radami albo oceniać cudze metody.** Przerwij z uśmiechem: „To temat na kawę po spotkaniu\". Wróć do pytania z tekstu. Porady wychowawcze zamieniają studium w poradnię, a rodzicom, którym coś się nie udało, zamykają usta.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Dzieci mają słuchać we wszystkim, tak jest napisane.\"** Pokaż słowa „w Panu\" z Ef 6,1 i dwunastoletniego Jezusa, który był rodzicom uległy, a jednocześnie wiedział, że najpierw należy do Ojca. Posłuszeństwo dziecka nigdy nie obejmuje zgody na krzywdę ani na grzech.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Połącz bloki 1 i 2, zadając z każdego po jednym pytaniu kluczowym. Bloki 3, 4 i 5 niosą spotkanie: dwa sposoby, na które rodzic może zawieść, i dom, w którym nikt nie zawinił.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Rodzic mówi: „Moje dziecko odeszło od Boga. Gdzie popełniłem błąd?\"",
+     "odpowiedz": "To najważniejsza chwila tego spotkania. Nie analizuj wychowania i nie pozwól, żeby robiła to grupa. Nie obiecuj, że dziecko wróci, bo tego nie wiesz. Powiedz to, co mówi tekst: Samuel był wierny, a jego synowie wybrali inaczej. Ezechiel mówi, że każdy odpowiada za siebie. Ojciec z przypowieści nie pobiegł za synem do dalekiego kraju, tylko wypatrywał. Bóg o tym dziecku nie zapomniał. Jeśli rodzic rzeczywiście ma sobie coś do wyrzucenia, to jest rozmowa na osobności i zwykle zaczyna się od przeproszenia dziecka, nie od pouczania go."
+    },
+    {
+     "sytuacja": "„Biblia mówi, że kto żałuje rózgi, nienawidzi syna.\"",
+     "odpowiedz": "Nie wchodź w spór o metody. Powiedz spokojnie trzy rzeczy. Rózga jest w Biblii także narzędziem pasterza, który nią prowadzi i broni, a przypowieść mówi o tym, żeby dziecka nie zostawiać bez korekty, co jest błędem Heliego. Paweł, pisząc do ojców, nie wspomina o biciu, tylko ostrzega przed doprowadzaniem dzieci do gniewu i zniechęcenia. Polskie prawo zakazuje kar cielesnych. Grupa nie jest miejscem na obronę bicia dzieci."
+    },
+    {
+     "sytuacja": "Ktoś opowiada o przemocy w domu rodzinnym, także tej uzasadnianej Biblią.",
+     "odpowiedz": "Wysłuchaj, podziękuj, nie broń rodziców i nie każ od razu przebaczać. Możesz powiedzieć, że Paweł stawia ojcom granicę właśnie dlatego, że taka krzywda jest realna. Jeśli rana jest głęboka, zaproponuj rozmowę po spotkaniu i zachęć do skorzystania z pomocy psychologa."
+    },
+    {
+     "sytuacja": "Ktoś daje do zrozumienia, że dziecko w jego otoczeniu jest dziś krzywdzone.",
+     "odpowiedz": "To nie może zostać przy stole. Porozmawiaj po spotkaniu, nie zostawaj z tym sam i nie próbujcie załatwiać tego wewnątrz zboru. Telefon zaufania dla dzieci i młodzieży to 116 111, przy bezpośrednim zagrożeniu 112. Ochrona dziecka ma pierwszeństwo przed dobrym imieniem rodziny i zboru. To jest dokładnie lekcja Heliego."
+    },
+    {
+     "sytuacja": "Osoba bezdzietna milknie albo mówi: „To nie dla mnie\".",
+     "odpowiedz": "Przypomnij, że każdy przy stole jest czyimś dzieckiem, a Psalm 78 mówi „opowiemy\" o całym ludzie. Paweł nie miał rodziny i nazywał Tymoteusza synem. Nie pytaj o powody bezdzietności. Niespełnione rodzicielstwo ma osobny materiał w serii Kryzysy i przełomy życia."
+    },
+    {
+     "sytuacja": "Rodzice małych dzieci zaczynają wymieniać się radami albo oceniać cudze metody.",
+     "odpowiedz": "Przerwij z uśmiechem: „To temat na kawę po spotkaniu\". Wróć do pytania z tekstu. Porady wychowawcze zamieniają studium w poradnię, a rodzicom, którym coś się nie udało, zamykają usta."
+    },
+    {
+     "sytuacja": "„Dzieci mają słuchać we wszystkim, tak jest napisane.\"",
+     "odpowiedz": "Pokaż słowa „w Panu\" z Ef 6,1 i dwunastoletniego Jezusa, który był rodzicom uległy, a jednocześnie wiedział, że najpierw należy do Ojca. Posłuszeństwo dziecka nigdy nie obejmuje zgody na krzywdę ani na grzech."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Połącz bloki 1 i 2, zadając z każdego po jednym pytaniu kluczowym. Bloki 3, 4 i 5 niosą spotkanie: dwa sposoby, na które rodzic może zawieść, i dom, w którym nikt nie zawinił."
+    }
+   ]
+  }
+ ]
+}

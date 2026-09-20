@@ -1,0 +1,832 @@
+{
+ "tytul": "Po co mi Kościół?",
+ "id": "P-10",
+ "seria": "Pytania, które ludzie zadają",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Hbr 10,19-25; Ef 4,11-16; Mt 18,5-6.10.12-14.19-20; Ap 2,1-5; 3,14-20; J 13,34-35; 1J 4,19-21",
+  "p2": "Hbr 3,12-13; Rz 12,4-5; Ez 34,1-6.11-16; 1Kor 1,2; 11,17-22; Łk 4,16.28-30",
+  "p3": "Hbr 3,1; 3J 9-10; Dz 8,36-39"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 25,
+  "p3": 30
+ },
+ "tagi": [
+  "Kościół",
+  "wspólnota",
+  "zranienie",
+  "zbór",
+  "miłość",
+  "samotna wiara"
+ ],
+ "wersja": 1,
+ "zdanie": "Jezus zna wady swojego Kościoła lepiej niż ty i wciąż chodzi między świecznikami.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To pytanie zadają dwie grupy ludzi. Jedni mówią: wierzę w Boga, ale instytucja nie jest mi do niczego potrzebna. Drudzy byli w środku i wyszli poranieni. To spotkanie nie broni żadnej instytucji. Pokazuje, po co według Nowego Testamentu wierzący są sobie nawzajem potrzebni, i pokazuje Jezusa, który zna wady swojego Kościoła lepiej niż jakikolwiek krytyk, mówi o nich głośno i mimo to z niego nie wychodzi. W słowie „Kościół\" chodzi tu o wspólnotę uczniów, nie o budynek, urząd ani konkretne wyznanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "O tym, co robić, gdy ktoś we wspólnocie zawinił wobec ciebie, mówi osobny materiał Konflikt. Tutaj ten wątek tylko mijamy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole może siedzieć ktoś skrzywdzony przez ludzi Kościoła: przez duchownego, przez zbór, przez rodzinę działającą w imię religii. Dla niego każde zdanie o pięknie wspólnoty może brzmieć jak unieważnienie jego historii.",
+      "Ktoś inny nie przychodzi na nabożeństwa, bo nie może: choroba, praca zmianowa, opieka nad bliskim. Łatwo go zawstydzić jednym wersetem.",
+      "Rozmowa łatwo zamienia się w narzekanie na własny zbór albo w licytację wyznań."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie broń instytucji i nie tłumacz sprawców. Nie mów nikomu, że powinien wrócić. Nie używaj Hbr 10,25 jak pałki.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o grupie ludzi, w której kiedyś czułeś się naprawdę u siebie: klasa, drużyna, podwórko, zespół w pracy, zbór. Powiedz jednym zdaniem, co sprawiało, że byłeś tam u siebie.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Skoro mamy wstęp",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 10,19-25",
+       "przeklad": "BW",
+       "akapity": [
+        "Mając więc, bracia, ufność, iż przez krew Jezusa mamy wstęp do świątyni drogą nową i żywą, którą otworzył dla nas poprzez zasłonę, to jest przez ciało swoje, oraz kapłana wielkiego nad domem Bożym, wejdźmy na nią ze szczerym sercem, w pełni wiary, oczyszczeni w sercach od złego sumienia i obmyci na ciele wodą czystą; trzymajmy się niewzruszenie nadziei, którą wyznajemy, bo wierny jest Ten, który dał obietnicę; i baczmy jedni na drugich w celu pobudzenia się do miłości i dobrych uczynków, nie opuszczając wspólnych zebrań naszych, jak to jest u niektórych w zwyczaju, lecz dodając sobie otuchy, a to tym bardziej, im lepiej widzicie, że się ten dzień przybliża."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Autor najpierw mówi, co mamy, a dopiero potem trzy razy mówi, co z tym zrobić: wejdźmy, trzymajmy się, baczmy. **Co mamy według wersetów 19-21? Jak zmienia się brzmienie słów o wspólnych zebraniach, kiedy czyta się je od wersetu 19, a nie od wersetu 25?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przyjrzyjcie się wersetom 24 i 25. **Po co według tego tekstu wierzący się spotykają? Wypiszcie czasowniki. Czego na tej liście nie ma, choć moglibyśmy się tego spodziewać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Jak to jest u niektórych w zwyczaju\". Już w pierwszym pokoleniu chrześcijan byli ludzie, którzy przestali przychodzić. **Jakie powody przychodzą wam do głowy? Czy autor ich potępia, czy robi coś innego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Adresaci tego listu nie byli nowicjuszami. Wcześniej znieśli zniewagi i utratę majątku, stali przy uwięzionych współwyznawcach. Potem mijały lata, Jezus nie wracał i przyszło zmęczenie. Część przestała przychodzić, nie ze złej woli, tylko z wypalenia. Autor nie odpowiada im nakazem. Najpierw przypomina, co zrobił Chrystus, a wspólnotę pokazuje jako miejsce, w którym zmęczeni dodają sobie otuchy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Każdego dnia",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 3,12-13",
+       "przeklad": "BW",
+       "akapity": [
+        "Baczcie, bracia, żeby nie było czasem w kimś z was złego, niewierzącego serca, które by odpadło od Boga żywego, ale napominajcie jedni drugich każdego dnia, dopóki trwa to, co się nazywa „dzisiaj\", aby nikt z was nie popadł w zatwardziałość przez oszustwo grzechu."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Autor mówi o „oszustwie grzechu\". Oszukany z definicji nie wie, że jest oszukiwany. **Czego człowiek nie jest w stanie zobaczyć w sobie sam? Kto w twoim życiu ma prawo powiedzieć ci coś niewygodnego?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Baczmy jedni na drugich\" oddaje grecki czasownik `katanoeō`, czyli przyglądać się uważnie, wnikliwie rozważać. W całym liście pada on jeszcze tylko raz, na początku trzeciego rozdziału.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 3,1",
+       "przeklad": "BW",
+       "akapity": [
+        "Przeto, bracia święci, współuczestnicy powołania niebieskiego, zważcie na Jezusa, posłańca i arcykapłana naszego wyznania,"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ten sam rodzaj uwagi, który list każe skierować na Jezusa, każe potem skierować na ludzi obok. **Co to mówi o tym, jak autor widzi związek między patrzeniem na Chrystusa a patrzeniem na siebie nawzajem?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Ciało, które rośnie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ef 4,11-16",
+       "przeklad": "BW",
+       "akapity": [
+        "I On ustanowił jednych apostołami, drugich prorokami, innych ewangelistami, a innych pasterzami i nauczycielami, aby przygotować świętych do dzieła posługiwania, do budowania ciała Chrystusowego, aż dojdziemy wszyscy do jedności wiary i poznania Syna Bożego, do męskiej doskonałości, i dorośniemy do wymiarów pełni Chrystusowej, abyśmy już nie byli dziećmi, miotanymi i unoszonymi lada wiatrem nauki przez oszustwo ludzkie i przez podstęp, prowadzący na bezdroża błędu, lecz abyśmy, będąc szczerymi w miłości, wzrastali pod każdym względem w niego, który jest Głową, w Chrystusa, z którego całe ciało spojone i związane przez wszystkie wzajemnie się zasilające stawy, według zgodnego z przeznaczeniem działania każdego poszczególnego członka, rośnie i buduje siebie samo w miłości."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie uważnie werset 12. **Kto wykonuje „dzieło posługiwania\": ludzie wymienieni w wersecie 11 czy „święci\", czyli wszyscy wierzący? Co to zmienia w obrazie Kościoła, w którym kilka osób służy, a reszta patrzy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Według wersetu 16 ciało rośnie dzięki działaniu „każdego poszczególnego członka\". **Czego brakuje ciału, gdy ktoś się wycofuje? A czego brakuje temu, kto się wycofał?** Pomaga werset 14.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Będąc szczerymi w miłości\". **Co spotykaliście częściej wśród wierzących: prawdę bez miłości czy miłość bez prawdy? Jak wygląda jedno i drugie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Lista z wersetu 11 nie jest drabiną stanowisk. W obrazie, którego używa Paweł, ci ludzie są jak stawy i więzadła: miejsca, w których ciało trzyma się razem i dzięki którym może się ruszać. Ich zadanie to przygotować pozostałych do służby. Zbór, który ogląda pracę kilku osób, nie jest obrazem z tego listu. W tym liście nikt nie rośnie sam i nikt nie rośnie za kogoś.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Członkami jedni drugich",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 12,4-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Jak bowiem w jednym ciele wiele mamy członków, a nie wszystkie członki tę samą czynność wykonują, tak my wszyscy jesteśmy jednym ciałem w Chrystusie, a z osobna jesteśmy członkami jedni drugich."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nie mówi tylko, że należymy do Chrystusa. Mówi, że należymy do siebie nawzajem. **Co to zdanie robi z przekonaniem, że wiara jest sprawą wyłącznie prywatną?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Jeden z tych małych",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 18,5-6.10.12-14",
+       "przeklad": "BW",
+       "akapity": [
+        "A kto przyjmie jedno takie dziecię w imię moje, mnie przyjmuje. Kto zaś zgorszy jednego z tych małych, którzy wierzą we mnie, lepiej będzie dla niego, aby mu zawieszono u szyi kamień młyński i utopiono go w głębi morza. [...] Baczcie, abyście nie gardzili żadnym z tych małych, bo powiadam wam, że aniołowie ich w niebie ustawicznie patrzą na oblicze Ojca mojego, który jest w niebie. [...] Jak się wam wydaje? Gdyby jakiś człowiek miał sto owiec i jedna z nich zabłąkałaby się, czyż nie zostawi w górach dziewięćdziesięciu dziewięciu i nie pójdzie szukać zabłąkanej? A jeśli mu się uda ją odnaleźć, zaprawdę powiadam wam, że się z niej bardziej raduje niż z dziewięćdziesięciu dziewięciu, które się nie zabłąkały. Tak też nie jest wolą Ojca waszego, który jest w niebie, aby zginął jeden z tych małych."
+       ]
+      },
+      {
+       "odnosnik": "Mt 18,19-20",
+       "przeklad": "BW",
+       "akapity": [
+        "Nadto powiadam wam, że jeśliby dwaj z was na ziemi uzgodnili swe prośby o jakąkolwiek rzecz, otrzymają ją od Ojca mojego, który jest w niebie. Albowiem gdzie są dwaj lub trzej zgromadzeni w imię moje, tam jestem pośród nich."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Cały osiemnasty rozdział Mateusza to mowa Jezusa o życiu wspólnoty uczniów. Czytamy z niego początek i koniec.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Najostrzejsze zdanie tego rozdziału Jezus kieruje nie do tych, którzy odeszli, tylko do tych, przez których ktoś upadł. **Co to mówi o tym, po czyjej stronie On staje, gdy wspólnota skrzywdzi kogoś słabszego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Gdzie są dwaj lub trzej zgromadzeni w imię moje\". Jezus obiecuje swoją obecność najmniejszej możliwej wspólnocie. **Czego ta obietnica nie wymaga? I dlaczego mimo to Jezus nie mówi „gdzie jest jeden\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Wyobraźcie sobie, że zabłąkana owca to ktoś, kto przestał przychodzić. **Kto w tej przypowieści ma się ruszyć z miejsca? Czego pasterz nie robi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Kamień młyński z tego zdania to nie ręczne żarna, tylko wielkie żarno obracane przez osła. Archeolodzy znajdują takie w miastach z tamtej epoki. To ciężar, którego człowiek sam nie podniesie. Druga rzecz: rabini mówili, że gdy dwóch siedzi nad Torą, Boża obecność jest między nimi. Jezus bierze to znane powiedzenie i w miejscu Tory stawia swoje imię, a w miejscu Bożej obecności samego siebie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pasterze, którzy paśli samych siebie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ez 34,1-6.11-16",
+       "przeklad": "BW",
+       "akapity": [
+        "I doszło mnie słowo Pana tej treści: Synu człowieczy, prorokuj przeciwko pasterzom Izraela, prorokuj i powiedz im: Pasterze! Tak mówi Wszechmocny Pan: Biada pasterzom Izraela, którzy sami siebie paśli! Czy pasterze nie powinni raczej paść trzody? Mleko wy zjadacie, w wełnę wy się ubieracie, tuczne zarzynacie, lecz owiec nie pasiecie. Słabej nie wzmacnialiście, chorej nie leczyliście, skaleczonej nie opatrywaliście, zbłąkanej nie sprowadzaliście z powrotem, zagubionej nie szukaliście, a nawet silną rządziliście gwałtem i surowo. Tak rozproszyły się moje owce, gdyż nie było pasterza i były żerem dla wszelkiego zwierzęcia polnego. Rozproszyły się i błąkały się moje owce po wszystkich górach i po wszystkich wysokich pagórkach; po całym kraju rozproszyły się moje owce, a nie było nikogo, kto by się o nie zatroszczył lub ich szukał. [...]",
+        "Gdyż tak mówi Wszechmocny Pan: Oto Ja sam zatroszczę się o moje owce i będę ich doglądał. Jak pasterz troszczy się o swoją trzodę, gdy jest pośród swoich rozproszonych owiec, tak Ja zatroszczę się o moje owce i wyratuję je z wszystkich miejsc, dokąd zostały rozproszone w dniu chmurnym i mrocznym. Wyprowadzę je spomiędzy ludów i zbiorę je z ziem; przyprowadzę je znowu do ich ziemi i będę je pasł na górach izraelskich, w dolinach i na wszystkich równinach kraju. Będę je pasł na dobrych pastwiskach i ich błonie będzie na wysokich górach izraelskich. Tam będą odpoczywać na dobrym błoniu i będą się paść na tłustych pastwiskach na górach izraelskich. Ja sam będę pasł moje owce i Ja sam ułożę je na ich legowisku – mówi Wszechmocny Pan. Będę szukał zaginionych, rozproszone sprowadzę z powrotem, zranione opatrzę, chore wzmocnię, tłustych i mocnych będę strzegł, i będę pasł sprawiedliwie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Krytyka przywódców religijnych nie jest wynalazkiem naszych czasów. Tu wypowiada ją sam Bóg. **Co z listy z wersetu 4 rozpoznajecie z własnego doświadczenia albo z opowieści innych?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg o rozproszonych owcach mówi „moje\", a „Ja sam\" powtarza raz po raz. **Co ten tekst mówi człowiekowi, którego zranili ludzie mający go prowadzić? Czyje są te owce, kiedy pasterze zawiedli?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Znam uczynki twoje",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "W pierwszym rozdziale Objawienia Jan widzi Jezusa stojącego pośród siedmiu świeczników, które oznaczają siedem zborów. Potem Jezus dyktuje list do każdego z nich. Czytamy pierwszy i ostatni.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 2,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Do anioła zboru w Efezie napisz: To mówi Ten, który trzyma siedem gwiazd w prawicy swojej, który się przechadza pośród siedmiu złotych świeczników: Znam uczynki twoje i trud, i wytrwałość twoją, i wiem, że nie możesz ścierpieć złych, i że doświadczyłeś tych, którzy podają się za apostołów, a nimi nie są, i stwierdziłeś, że są kłamcami. Masz też wytrwałość i cierpiałeś dla imienia mego, a nie ustałeś. Lecz mam ci za złe, że porzuciłeś pierwszą twoją miłość. Wspomnij więc, z jakiej wyżyny spadłeś i upamiętaj się, i spełniaj uczynki takie, jak pierwej; a jeżeli nie, to przyjdę do ciebie i ruszę świecznik twój z jego miejsca, jeśli się nie upamiętasz."
+       ]
+      },
+      {
+       "odnosnik": "Ap 3,14-20",
+       "przeklad": "BW",
+       "akapity": [
+        "A do anioła zboru w Laodycei napisz: To mówi ten, który jest Amen, świadek wierny i prawdziwy, początek stworzenia Bożego: Znam uczynki twoje, żeś ani zimny, ani gorący. Obyś był zimny albo gorący! A tak, żeś letni, a nie gorący ani zimny, wypluję cię z ust moich. Ponieważ mówisz: Bogaty jestem i wzbogaciłem się, i niczego nie potrzebuję, a nie wiesz, żeś pożałowania godzien nędzarz i biedak, ślepy i goły, radzę ci, abyś nabył u mnie złota w ogniu wypróbowanego, abyś się wzbogacił i abyś przyodział szaty białe, aby nie wystąpiła na jaw haniebna nagość twoja, oraz maści, by nią namaścić oczy twoje, abyś przejrzał. Wszystkich, których miłuję, karcę i smagam; bądź tedy gorliwy i upamiętaj się. Oto stoję u drzwi i kołaczę; jeśli ktoś usłyszy głos mój i otworzy drzwi, wstąpię do niego i będę z nim wieczerzał, a on ze mną."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus „przechadza się pośród świeczników\" i dwa razy mówi „znam\". **Wypiszcie, co zarzuca Efezowi i Laodycei. Czego mimo tych zarzutów nie robi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W Laodycei Jezus stoi na zewnątrz własnego zboru i puka. **Co to mówi o stanie tego zboru? A co mówi o Jezusie to, że spod tych drzwi nie odchodzi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Efez miał prawą naukę, trud i wytrwałość. Zabrakło jednej rzeczy. **Dlaczego zbór, który ma wszystko oprócz miłości, słyszy ostrzeżenie o utracie świecznika?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Trzy zarzuty wobec Laodycei są trzema wizytówkami tego miasta. Słynęło z banków, z tkanin i ze szkoły medycznej, w której wyrabiano maść na oczy. Woda płynęła do niego długim akweduktem i docierała letnia. Jezus mówi do zboru jego własnym językiem. Z siedmiu zborów pięć słyszy naganę. Do żadnego Jezus nie przestaje mówić.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Schodzicie się ku gorszemu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Kor 1,2",
+       "przeklad": "BW",
+       "akapity": [
+        "zborowi Bożemu, który jest w Koryncie, poświęconym w Chrystusie Jezusie, powołanym świętym, wraz ze wszystkimi, którzy wzywają imienia Pana naszego Jezusa Chrystusa na każdym miejscu, ich i naszym:"
+       ]
+      },
+      {
+       "odnosnik": "1Kor 11,17-22",
+       "przeklad": "BW",
+       "akapity": [
+        "A dając to zalecenie, nie pochwalam, że się schodzicie nie ku lepszemu, ale ku gorszemu. Słyszę bowiem najpierw, że gdy się jako zbór schodzicie, powstają między wami podziały; i po części temu wierzę. Zresztą, muszą nawet być rozdwojenia między wami, aby wyszło na jaw, którzy wśród was są prawdziwymi chrześcijanami. Wy tedy, gdy się schodzicie w zborze, nie spożywacie w sposób należyty Wieczerzy Pańskiej; każdy bowiem zabiera się niezwłocznie do spożycia własnej wieczerzy i skutek jest taki, że jeden jest głodny a drugi pijany. Czy nie macie domów, aby jeść i pić? Albo czy zborem Bożym gardzicie i poniewieracie tymi, którzy nic nie mają? Co mam wam powiedzieć? Czy mam was pochwalić? Nie, za to was nie pochwalam."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W tym samym liście Paweł nazywa Koryntian „zborem Bożym\" i „świętymi\", a potem pisze, że ich spotkania przynoszą więcej szkody niż pożytku. **Jak jedno ma się do drugiego? Czy kiedykolwiek istniał Kościół bez wad, do którego dałoby się wrócić?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kto w Koryncie płacił za bałagan we wspólnocie?** Zwróćcie uwagę na werset 22.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Greckie `ekklēsia`, które BW oddaje jako „zbór\", znaczyło w zwykłej greczyźnie zgromadzenie zwołanych obywateli miasta. W greckim przekładzie Starego Testamentu tym słowem nazywano lud Izraela zebrany przed Bogiem. W Nowym Testamencie nigdy nie oznacza budynku i nigdy nie oznacza urzędu. Oznacza ludzi, których ktoś zwołał. Pytanie „po co mi Kościół\" w języku Nowego Testamentu brzmi więc: po co mi ci ludzie i po co ja im.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Po tym poznają",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 13,34-35",
+       "przeklad": "BW",
+       "akapity": [
+        "Nowe przykazanie daję wam, abyście się wzajemnie miłowali, jak Ja was umiłowałem; abyście się i wy wzajemnie miłowali. Po tym wszyscy poznają, żeście uczniami moimi, jeśli miłość wzajemną mieć będziecie."
+       ]
+      },
+      {
+       "odnosnik": "1J 4,19-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Miłujmy więc, gdyż On nas przedtem umiłował. Jeśli kto mówi: Miłuję Boga, a nienawidzi brata swego, kłamcą jest; albowiem kto nie miłuje brata swego, którego widzi, nie może miłować Boga, którego nie widzi. A to przykazanie mamy od niego, aby ten, kto miłuje Boga, miłował i brata swego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jako znak rozpoznawczy uczniów Jezus nie podaje ani poprawnej nauki, ani liczebności, ani budynków. Podaje coś, czego nie da się mieć w pojedynkę. **Dlaczego właśnie to?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jan zestawia Boga, którego nie widać, z bratem, którego widać. **Dlaczego kochać Boga bywa łatwiej niż kochać człowieka z sąsiedniego krzesła? Co ten widzialny człowiek sprawdza w mojej wierze?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Jak Ja was umiłowałem\". Jezus mówi to przy stole, przy którym przed chwilą umył nogi także Judaszowi i Piotrowi. **Jaką wspólnotę miał przed oczami, kiedy dawał to przykazanie?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Według zwyczaju",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 4,16.28-30",
+       "przeklad": "BW",
+       "akapity": [
+        "I przyszedł do Nazaretu, gdzie się wychował, i wszedł według zwyczaju swego w dzień sabatu do synagogi, i powstał, aby czytać. [...] I wszyscy w synagodze, słysząc to, zawrzeli gniewem. I powstawszy wypchnęli go z miasta, i wywiedli go aż na szczyt góry, na której miasto ich było zbudowane, aby go w dół strącić. Lecz On przeszedł przez środek ich i oddalił się."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus znał tych ludzi od dziecka i wiedział, jacy są. Mimo to chodzenie do synagogi było Jego zwyczajem, także potem, w innych miastach. **Co to mówi o tym, czym była dla Niego niedoskonała wspólnota?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czego szukasz we wspólnocie wierzących, a co do niej wnosisz?** Która z tych dwóch list jest dłuższa?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Który z dzisiejszych tekstów najbardziej kłóci się z twoim doświadczeniem Kościoła?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest ktoś, kto przestał przychodzić i za kim nikt nie poszedł? A może to ty jesteś kimś takim?** Nie musisz mówić więcej, niż chcesz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 3,
+   "tytul": "Diotrefes",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "3J 9-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Napisałem do zboru krótki list, lecz Diotrefes, który lubi odgrywać wśród nich kierowniczą rolę, nie uznaje nas. Dlatego, jeżeli przyjdę, przypomnę uczynki jego, że złośliwymi słowy nas obmawia i nie zadowalając się tym, nie tylko sam nie przyjmuje braci, lecz nawet zabrania to czynić tym, którzy chcą ich przyjąć, i usuwa ich ze zboru."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Już w pierwszym wieku jest zbór, w którym jeden człowiek rządzi, obmawia i wyrzuca. **Co Jan zamierza z tym zrobić? Czego nie każe robić ludziom, których Diotrefes usunął?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: Bóg tak, Kościół nie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 8,36-39",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy tak jechali drogą, przybyli nad jakąś wodę, a eunuch rzekł: Oto woda; cóż stoi na przeszkodzie, abym został ochrzczony? Filip zaś powiedział mu: Jeśli wierzysz z całego serca, możesz. A odpowiadając, rzekł: Wierzę, że Jezus Chrystus jest Synem Bożym. I kazał zatrzymać wóz, zeszli obaj, Filip i eunuch, do wody, i ochrzcił go. Gdy zaś wyszli z wody, Duch Pański porwał Filipa i eunuch nie ujrzał go więcej, lecz radując się jechał dalej swoją drogą."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pierwsze stanowisko: wiara rozgrywa się między człowiekiem a Bogiem. Dworzanin z Etiopii uwierzył na pustej drodze, został ochrzczony bez żadnego zboru i wrócił do kraju, w którym nie było ani jednego chrześcijanina. Tekst mówi, że jechał, radując się. Drugie stanowisko: Nowy Testament nie zna chrześcijaństwa w pojedynkę. Jego obrazy to ciało, dom, rodzina i trzoda, a zwrot „jedni drugich\" wraca w listach dziesiątki razy. Obie strony łączy więcej, niż się wydaje. Zbawia Chrystus, a nie przynależność. I nikt w Nowym Testamencie nie jest wzywany do samotności jako do drogi wiary. Eunuch nie odszedł od wspólnoty. On jej jeszcze nie miał.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co dworzanin wiózł ze sobą, wracając sam? Czego mu brakowało?** Czym różni się jego samotność od samotności kogoś, kto wspólnotę miał i z niej zrezygnował?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Werset 37 w wielu starych rękopisach nie występuje i część przekładów podaje go w przypisie. **Czy scena zmienia sens bez tego wersetu?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hbr 10,25 mówi, żeby nie opuszczać wspólnych zebrań. Ez 34 i Trzeci List Jana pokazują wspólnoty, w których ludzie byli ranieni i wyrzucani. **Czy są sytuacje, w których odejście z konkretnej wspólnoty jest właściwe? Po czym odróżnić odejście, które chroni, od odejścia, które ucieka?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie rozstrzygaj za nikogo. Warto, żeby padły dwa rozróżnienia. Pierwsze: odejść z konkretnego zboru to nie to samo, co odejść od ludu Bożego w ogóle. Drugie: tam, gdzie jest przemoc albo nadużycie, odejście jest ochroną i nikt nie ma prawa nazywać go niewiernością.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Jezus zna wady swojego Kościoła lepiej niż ty i wciąż chodzi między świecznikami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Hbr 10,24-25 albo Mt 18,20.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przywołaj twarz jednej osoby ze swojej wspólnoty, którą trudno ci znosić. Zapytaj Boga: **co Ty w niej widzisz, czego ja nie widzę?** Nie spiesz się z odpowiedzią.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jeśli nosisz ranę zadaną przez ludzi Kościoła, powiedz o niej Bogu wprost: co się stało i kto to zrobił. Bez łagodzenia i bez usprawiedliwiania kogokolwiek. Ez 34 pokazuje, że On nie stoi po stronie pasterzy, którzy paśli samych siebie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** pomyśl o kimś, kto zniknął z twojej wspólnoty. Zapytaj siebie, **co naprawdę powstrzymuje cię przed tym, żeby się do niego odezwać.** Nazwij to po imieniu, zanim zrobisz cokolwiek innego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada o realnej krzywdzie doznanej od ludzi Kościoła.** To najważniejsza chwila spotkania. Nie broń instytucji, nie tłumacz sprawców, nie mów „ludzie zawodzą, ale Bóg nie\" i nie przechodź szybko dalej. Powiedz: „To nie powinno było się stać\". Możesz wskazać Mt 18,6 i Ez 34: Bóg mówi o takich rzeczach ostrzej niż my. Nie namawiaj do przebaczenia ani do powrotu. Zostań z tą osobą po spotkaniu. Jeśli mowa o przestępstwie, zwłaszcza wobec dziecka, to jest sprawa dla policji i prokuratury, a nie do załatwienia wewnątrz zboru. W nagłym zagrożeniu numer alarmowy to 112, a telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Wierzę w Boga, ale Kościół nie jest mi do niczego potrzebny.\"** Nie spieraj się i nie nawracaj. Zapytaj: „Do czego według dzisiejszych tekstów wierzący są sobie potrzebni? Które z tych rzeczy da się mieć samemu?\" Niech odpowie tekst, nie ty.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa zamienia się w narzekanie na wasz zbór albo na konkretne osoby.** Przerwij spokojnie: nie rozmawiamy o nieobecnych. Zwróć uwagę, że w Ap 2-3 Jezus mówi do zboru, a nie o zborze za jego plecami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A który Kościół jest tym prawdziwym?\"** To uczciwe pytanie, ale na inne spotkanie. Dzisiejsze teksty mówią o wspólnocie uczniów jako takiej. Przy stole mogą siedzieć ludzie z różnych wyznań i nikt nie powinien poczuć, że jego kościół jest dziś oceniany.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś czuje się winny, bo nie może przychodzić: choroba, praca zmianowa, opieka nad bliskim.** Powiedz wprost, że Hbr 10,25 mówi o zwyczaju porzucania wspólnoty, a nie o niemożności. Zapytaj raczej grupę, jak wspólnota może przyjść do tego, kto sam przyjść nie może.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi: „prawdziwy wierzący nie odchodzi, trzeba znosić wszystko\".** Nie zgadzaj się na to zdanie. Znoszenie cudzych słabości to jedno, znoszenie krzywdy to drugie. Jan nie każe nikomu wracać pod władzę Diotrefesa.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw bloki 1, 3 i 4. Blok 4 niesie puentę: Jezus zna, mówi prawdę i nie odchodzi.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś opowiada o realnej krzywdzie doznanej od ludzi Kościoła.",
+     "odpowiedz": "To najważniejsza chwila spotkania. Nie broń instytucji, nie tłumacz sprawców, nie mów „ludzie zawodzą, ale Bóg nie\" i nie przechodź szybko dalej. Powiedz: „To nie powinno było się stać\". Możesz wskazać Mt 18,6 i Ez 34: Bóg mówi o takich rzeczach ostrzej niż my. Nie namawiaj do przebaczenia ani do powrotu. Zostań z tą osobą po spotkaniu. Jeśli mowa o przestępstwie, zwłaszcza wobec dziecka, to jest sprawa dla policji i prokuratury, a nie do załatwienia wewnątrz zboru. W nagłym zagrożeniu numer alarmowy to 112, a telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123."
+    },
+    {
+     "sytuacja": "„Wierzę w Boga, ale Kościół nie jest mi do niczego potrzebny.\"",
+     "odpowiedz": "Nie spieraj się i nie nawracaj. Zapytaj: „Do czego według dzisiejszych tekstów wierzący są sobie potrzebni? Które z tych rzeczy da się mieć samemu?\" Niech odpowie tekst, nie ty."
+    },
+    {
+     "sytuacja": "Rozmowa zamienia się w narzekanie na wasz zbór albo na konkretne osoby.",
+     "odpowiedz": "Przerwij spokojnie: nie rozmawiamy o nieobecnych. Zwróć uwagę, że w Ap 2-3 Jezus mówi do zboru, a nie o zborze za jego plecami."
+    },
+    {
+     "sytuacja": "„A który Kościół jest tym prawdziwym?\"",
+     "odpowiedz": "To uczciwe pytanie, ale na inne spotkanie. Dzisiejsze teksty mówią o wspólnocie uczniów jako takiej. Przy stole mogą siedzieć ludzie z różnych wyznań i nikt nie powinien poczuć, że jego kościół jest dziś oceniany."
+    },
+    {
+     "sytuacja": "Ktoś czuje się winny, bo nie może przychodzić: choroba, praca zmianowa, opieka nad bliskim.",
+     "odpowiedz": "Powiedz wprost, że Hbr 10,25 mówi o zwyczaju porzucania wspólnoty, a nie o niemożności. Zapytaj raczej grupę, jak wspólnota może przyjść do tego, kto sam przyjść nie może."
+    },
+    {
+     "sytuacja": "Ktoś mówi: „prawdziwy wierzący nie odchodzi, trzeba znosić wszystko\".",
+     "odpowiedz": "Nie zgadzaj się na to zdanie. Znoszenie cudzych słabości to jedno, znoszenie krzywdy to drugie. Jan nie każe nikomu wracać pod władzę Diotrefesa."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw bloki 1, 3 i 4. Blok 4 niesie puentę: Jezus zna, mówi prawdę i nie odchodzi."
+    }
+   ]
+  }
+ ]
+}

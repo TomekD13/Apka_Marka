@@ -1,0 +1,848 @@
+{
+ "tytul": "Czy Jezus to jedyna droga?",
+ "id": "P-09",
+ "seria": "Pytania, które ludzie zadają",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "J 14,1-7; Dz 4,5-12; Dz 10,1-6.34-36; Rz 2,14-16; Dz 17,22-31; Łk 13,22-30",
+  "p2": "Dz 10,42-43; 11,13-14; J 1,9; J 10,14-16; Dz 14,15-17; Mt 8,10-11; Ap 7,9-10",
+  "p3": "Dz 4,9.12; Dz 17,22; Hbr 11,6; Rz 10,12-15"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 32
+ },
+ "tagi": [
+  "Jezus",
+  "zbawienie",
+  "inne religie",
+  "misja",
+  "tolerancja",
+  "pokora"
+ ],
+ "wersja": 1,
+ "zdanie": "Droga jest jedna i jest nią Jezus. Tego, jak daleko sięga Jego ręka, nie wie nikt z nas, i całe szczęście.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To pytanie ma dziś ostre krawędzie. Dla jednych zdanie „Jezus jest jedyną drogą\" brzmi jak pycha. Dla innych każde zmiękczenie tego zdania brzmi jak zdrada. Nowy Testament trzyma obie rzeczy naraz i spotkanie ma pokazać obie. Pierwsza: nie ma innego Zbawiciela. Druga: ten jeden Zbawiciel działa dalej i szerzej, niż sięga nasza wiedza, a Bóg bywa na miejscu przed misjonarzem. Wyłączność dotyczy Jezusa, nie naszej grupy. Tekst nie daje nam listy zbawionych i nie pozwala jej układać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Prawie każdy przy stole kocha kogoś, kto wierzy inaczej albo nie wierzy. Ta rozmowa jest dla niego o konkretnej twarzy, nie o religiach świata.",
+      "Ktoś mógł zostać odrzucony przez rodzinę po zmianie wyznania. Dla niego słowo „jedyna droga\" padało już jako broń, i to z obu stron.",
+      "Przy stole może siedzieć osoba innej wiary albo niewierząca. Ma czuć się gościem, nie tematem.",
+      "W Polsce pytanie łatwo zamienia się w porównywanie Kościołów. Dzisiejsze teksty nie mówią o wyznaniach chrześcijańskich. Mówią o Jezusie."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie wyrokuj o losie żadnego człowieka ani żadnej grupy. Nie łagodź zdań Jezusa i nie zaostrzaj ich. Nie pozwól, żeby rozmowa stała się sporem o to, który Kościół ma rację.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o kimś bliskim, kto wierzy inaczej niż ty albo nie wierzy wcale. Nie mów, kto to jest. Powiedz jedną rzecz, którą w tej osobie cenisz.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Te osoby będą potem cicho siedzieć przy stole razem z wami. O to chodzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Droga, która jest osobą",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Ostatni wieczór przed ukrzyżowaniem. Jezus właśnie powiedział uczniom, że odchodzi.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 14,1-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Niechaj się nie trwoży serce wasze; wierzcie w Boga i we mnie wierzcie! W domu Ojca mego wiele jest mieszkań; gdyby było inaczej, byłbym wam powiedział. Idę przygotować wam miejsce. A jeśli pójdę i przygotuję wam miejsce, przyjdę znowu i wezmę was do siebie, abyście, gdzie Ja jestem, i wy byli. I dokąd Ja idę, wiecie, i drogę znacie. Rzekł do niego Tomasz: Panie, nie wiemy, dokąd idziesz, jakże możemy znać drogę? Odpowiedział mu Jezus: Ja jestem droga i prawda, i żywot, nikt nie przychodzi do Ojca, tylko przeze mnie. Gdybyście byli mnie poznali i Ojca mego byście znali; odtąd go znacie i widzieliście go."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Do kogo i w jakiej chwili Jezus mówi to zdanie?** Co się zmienia, kiedy słyszymy je jako słowa do przestraszonych przyjaciół, a nie jako tezę w sporze z innymi religiami?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Tomasz pyta o drogę tak, jakby chodziło o mapę. Jezus odpowiada: „Ja jestem\". **Czym różni się droga, która jest osobą, od drogi, która jest zbiorem poglądów albo przynależnością do grupy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Zdanie z wersetu 6 mówi, przez kogo przychodzi się do Ojca. **Czego to zdanie nie mówi?** Wypiszcie, co zwykle do niego dopowiadamy.",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Najbardziej wyłączne zdanie Jezusa pada tuż po jednym z najbardziej gościnnych: w domu Ojca jest wiele mieszkań. Jezus nie mówi „ja znam drogę\" ani „ja pokażę drogę\". Mówi, że jest nią sam. Jeśli to prawda, to do Ojca nie dochodzi się dzięki lepszej religii, większej wiedzy ani właściwej przynależności. Dochodzi się dzięki Niemu. Zdanie jest wyłączne wobec innych zbawicieli. O tym, kogo i jak Jezus tą drogą prowadzi, mówi znacznie mniej, niż byśmy chcieli.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Żadne inne imię",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Piotr i Jan uzdrowili przy bramie świątyni człowieka chromego od urodzenia. Spędzili noc w areszcie. Rano stają przed najwyższą władzą religijną kraju.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 4,5-12",
+       "przeklad": "BW",
+       "akapity": [
+        "A następnego dnia zebrali się w Jerozolimie ich przełożeni i starsi, i uczeni w Piśmie oraz Annasz, arcykapłan, i Kaifasz, i Jan, i Aleksander, i wszyscy, ilu ich było z rodu arcykapłańskiego. I postawiwszy ich pośrodku, pytali się: Jaką mocą albo w czyim imieniu to uczyniliście? Wtedy Piotr, pełen Ducha Świętego, rzekł do nich: Przełożeni ludu i starsi! Jeżeli my dziś jesteśmy przesłuchiwani z powodu dobrodziejstwa wyświadczonego człowiekowi choremu, dzięki czemu został on uzdrowiony, to niech wam wszystkim i całemu ludowi izraelskiemu wiadome będzie, że stało się to w imieniu Jezusa Chrystusa Nazareńskiego, którego wy ukrzyżowaliście, którego Bóg wzbudził z martwych; dzięki niemu ten oto stoi zdrów przed wami. On to jest owym kamieniem odrzuconym przez was, budujących, On stał się kamieniem węgielnym. I nie ma w nikim innym zbawienia; albowiem nie ma żadnego innego imienia pod niebem, danego ludziom, przez które moglibyśmy być zbawieni."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Kto wypowiada zdanie o jedynym imieniu, do kogo i w jakim położeniu?** Czy tak wygląda język ludzi, którzy czują się lepsi od innych?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Piotr nie mówi, że nie ma zbawienia w innej wspólnocie. Mówi, że nie ma go „w nikim innym\". **Czym różni się jedno od drugiego? Co dzieje się, gdy te dwa zdania zaczynamy mylić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Sąd pytał o uzdrowienie, a Piotr kończy na zbawieniu. **Jak jedno łączy się z drugim?** Co uzdrowiony człowiek, stojący obok, mówi samą swoją obecnością?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Piotr nie mówi tych słów do pogan. Mówi je do najbardziej religijnych ludzi swojego narodu, do znawców Pisma i stróżów świątyni. Zdanie o jedynym imieniu jest więc najpierw ostrzeżeniem dla pobożnych: nawet najlepsza religia nie zbawia. Zbawia Ten, którego fachowcy od budowania odrzucili. Kto używa tego wersetu, żeby wynieść własną grupę ponad inne, stawia się po tej stronie sali, po której Piotr nie stał.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 4,9",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeżeli my dziś jesteśmy przesłuchiwani z powodu dobrodziejstwa wyświadczonego człowiekowi choremu, dzięki czemu został on uzdrowiony,"
+       ]
+      },
+      {
+       "odnosnik": "Dz 4,12",
+       "przeklad": "BW",
+       "akapity": [
+        "I nie ma w nikim innym zbawienia; albowiem nie ma żadnego innego imienia pod niebem, danego ludziom, przez które moglibyśmy być zbawieni."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "„Uzdrowiony\" w wersecie 9 i „zbawieni\" w wersecie 12 to po grecku ten sam czasownik `sōzō`. Znaczy ocalić, uratować, przywrócić do całości. Piotr gra tym słowem: to, co stało się z nogami tego człowieka, jest małym obrazem tego, co Jezus robi z całym człowiekiem.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak zmienia się brzmienie wersetu 12, jeśli „zbawienie\" znaczy postawienie człowieka na nogi, a nie tylko bilet wstępu?** Kto w takim razie jest zainteresowany tym, żeby jak najwięcej ludzi je otrzymało?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Bóg był tam pierwszy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 10,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "A pewien mąż w Cezarei, imieniem Korneliusz, setnik kohorty, zwanej italską, pobożny i bogobojny wraz z całym domem swoim, dający hojne jałmużny ludowi i nieustannie modlący się do Boga, ujrzał wyraźnie w widzeniu za dnia około dziewiątej godziny anioła Bożego, który przystąpił do niego i rzekł mu: Korneliuszu! Ten zaś, strachem zdjęty, utkwił w nim wzrok i rzekł: Co jest, Panie? I rzekł mu: Modlitwy twoje i jałmużny twoje jako ofiara dotarły przed oblicze Boże. Przeto poślij teraz mężów do Joppy i sprowadź niejakiego Szymona, którego nazywają Piotrem; przebywa on w gościnie u niejakiego Szymona, garbarza, który ma dom nad morzem."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Piotr przychodzi, choć wejście do domu poganina łamie wszystko, czego go nauczono. Zaczyna tak:",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 10,34-36",
+       "przeklad": "BW",
+       "akapity": [
+        "Piotr zaś otworzył usta i rzekł: Teraz pojmuję naprawdę, że Bóg nie ma względu na osobę, lecz w każdym narodzie miły mu jest ten, kto się go boi i sprawiedliwie postępuje. Posłał On synom izraelskim Słowo, zwiastując dobrą nowinę o pokoju przez Jezusa Chrystusa; On to jest Panem wszystkich."
+       ]
+      },
+      {
+       "odnosnik": "Rz 2,14-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Skoro bowiem poganie, którzy nie mają zakonu, z natury czynią to, co zakon nakazuje, są sami dla siebie zakonem, chociaż zakonu nie mają; dowodzą też oni, że treść zakonu jest zapisana w ich sercach; wszak świadczy o tym sumienie ich oraz myśli, które nawzajem się oskarżają lub też biorą w obronę; będzie to w dniu, kiedy według ewangelii mojej Bóg sądzić będzie ukryte sprawy ludzkie przez Jezusa Chrystusa."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Co wiemy o Korneliuszu z czasu, zanim usłyszał o Jezusie? Co Bóg zrobił z jego modlitwami?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Modlitwy Korneliusza dotarły do Boga, a mimo to anioł każe posłać po Piotra. **Czego anioł nie powiedział sam? Co z tego wynika: że Piotr był niepotrzebny czy że Korneliuszowi wciąż czegoś brakowało?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Według Pawła ludzie, którzy nie znali Prawa, mają jego treść w sercach, a sądzić ich będzie Bóg „przez Jezusa Chrystusa\". **Dlaczego dla kogoś, kto nigdy nie słyszał ewangelii, to dobra wiadomość, że sędzią jest właśnie Jezus?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "„Teraz pojmuję naprawdę\". Apostoł, który w Jerozolimie mówił o jedynym imieniu, w Cezarei uczy się czegoś nowego i przyznaje to na głos. Bóg był w domu rzymskiego oficera przed Piotrem, słuchał jego modlitw i przyjmował jego dary. A jednak nie zostawił go tam, gdzie był. Szerokość Bożego działania nie czyni Jezusa zbędnym. Prowadzi do Niego. Piotr zaraz doda, że Jezus jest „Panem wszystkich\".",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Słowa, przez które będziesz zbawiony",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 10,42-43",
+       "przeklad": "BW",
+       "akapity": [
+        "Przykazał nam też, abyśmy ludowi głosili i składali świadectwo, że On jest ustanowionym przez Boga sędzią żywych i umarłych. O nim to świadczą wszyscy prorocy, iż każdy, kto w niego wierzy, dostąpi odpuszczenia grzechów przez imię jego."
+       ]
+      },
+      {
+       "odnosnik": "Dz 11,13-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Opowiedział nam on, jak ujrzał anioła, który się pojawił w domu jego i rzekł: Poślij do Joppy i sprowadź Szymona, którego nazywają Piotrem, a on powie ci słowa, przez które będziesz zbawiony, ty i cały dom twój."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Korneliusz był pobożny, hojny i wysłuchany, a anioł mówi o słowach, przez które dopiero „będzie zbawiony\". **Jak te dwie rzeczy mieszczą się w jednej historii?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co Piotr dał Korneliuszowi takiego, czego nie dały mu lata modlitw i jałmużny?** Szukajcie odpowiedzi w Dz 10,43.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Inne owce",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 1,9",
+       "przeklad": "BW",
+       "akapity": [
+        "Prawdziwa światłość, która oświeca każdego człowieka, przyszła na świat."
+       ]
+      },
+      {
+       "odnosnik": "J 10,14-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Ja jestem dobry pasterz i znam swoje owce, i moje mnie znają. Jak Ojciec mnie zna i Ja znam Ojca, i życie swoje kładę za owce. Mam i inne owce, które nie są z tej owczarni; również i te muszę przyprowadzić, i głosu mojego słuchać będą, i będzie jedna owczarnia i jeden pasterz."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus nie mówi „będę miał inne owce\". Mówi „mam\". **Co to znaczy, że ktoś jest Jego, zanim trafił do jakiejkolwiek owczarni?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jest wiele owiec spoza tej owczarni i jest jeden pasterz. **Jak to zdanie trzyma razem szerokość i wyłączność?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Nieznany Bóg",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 17,22-31",
+       "przeklad": "BW",
+       "akapity": [
+        "A Paweł, stanąwszy pośrodku Areopagu, rzekł: Mężowie ateńscy! Widzę, że pod każdym względem jesteście ludźmi nadzwyczaj pobożnymi. Przechodząc bowiem i oglądając wasze świętości, znalazłem też ołtarz, na którym napisano: Nieznanemu Bogu. Otóż to, co czcicie, nie znając, ja wam zwiastuję. Bóg, który stworzył świat i wszystko, co na nim, Ten, będąc Panem nieba i ziemi, nie mieszka w świątyniach ręką zbudowanych ani też nie służy mu się rękami ludzkimi, jak gdyby czego potrzebował, gdyż sam daje wszystkim życie i tchnienie, i wszystko. Z jednego pnia wywiódł też wszystkie narody ludzkie, aby mieszkały na całym obszarze ziemi, ustanowiwszy dla nich wyznaczone okresy czasu i granice ich zamieszkania, żeby szukały Boga, czy go może nie wyczują i nie znajdą, bo przecież nie jest On daleko od każdego z nas. Albowiem w nim żyjemy i poruszamy się, i jesteśmy, jak to i niektórzy z waszych poetów powiedzieli: Z jego bowiem rodu jesteśmy. Będąc więc z rodu Bożego, nie powinniśmy sądzić, że bóstwo jest podobne do złota albo srebra, albo do kamienia, wytworu sztuki i ludzkiego umysłu. Bóg wprawdzie puszczał płazem czasy niewiedzy, teraz jednak wzywa wszędzie wszystkich ludzi, aby się upamiętali, gdyż wyznaczył dzień, w którym będzie sądził świat sprawiedliwie przez męża, którego ustanowił, potwierdzając to wszystkim przez wskrzeszenie go z martwych."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Kilka wersetów wcześniej Łukasz pisze, że Paweł „obruszał się w duchu\" na widok miasta pełnego posągów. **Od czego mimo to zaczyna mowę? Wypiszcie wszystko, co mówi dobrego o Ateńczykach i o ich szukaniu.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg „nie jest daleko od każdego z nas\", a zarazem „teraz wzywa wszędzie wszystkich\". **Jak Paweł łączy Boga bliskiego każdemu człowiekowi z jednym Człowiekiem wskrzeszonym z martwych?** Czego nie poświęca po żadnej stronie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paweł cytuje pogańskich poetów jako świadków prawdy o Bogu. **Co to mówi o tym, gdzie można znaleźć okruchy prawdy i co z nimi robić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ateńscy filozofowie mogli przytaknąć prawie całej mowie: Stwórca, dawca życia, Bóg większy niż świątynie i posągi. Pęknięcie przyszło w dwóch miejscach. Pierwsze to wezwanie do opamiętania, bo zakłada Boga osobowego, wobec którego można zawinić. Drugie to zmartwychwstanie. Wtedy jedni zaczęli drwić, inni odłożyli rozmowę, a kilku uwierzyło. Wspólny grunt jest prawdziwy i Paweł stoi na nim bez udawania. Ma jednak krawędź i tą krawędzią jest Jezus.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie zostawił siebie bez świadectwa",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Kilka lat wcześniej w Listrze tłum chciał złożyć Pawłowi i Barnabie ofiarę jak bogom.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 14,15-17",
+       "przeklad": "BW",
+       "akapity": [
+        "i wołając: Ludzie, co robicie? I my jesteśmy tylko ludźmi, takimi jak i wy, zwiastujemy wam dobrą nowinę, abyście się odwrócili od tych marnych rzeczy do Boga żywego, który stworzył niebo i ziemię, i morze, i wszystko, co w nich jest. Za czasów minionych pokoleń pozwalał On wszystkim poganom chodzić własnymi drogami; jednakże nie omieszkał dawać o sobie świadectwa przez dobrodziejstwa, dając wam z nieba deszcz i czasy urodzajne, napełniając pokarmem i radością serca wasze."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Przez co według Pawła Bóg mówił do ludzi, którzy nie mieli Biblii ani proroków?** Jakie „świadectwa\" tego rodzaju dostał w życiu każdy z nas?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nazywa dawne kulty „marnymi rzeczami\", a jednocześnie mówi, że Bóg był dla tych ludzi dobry przez całe pokolenia. **Jak można mówić prawdę o czyjejś religii i nie gardzić człowiekiem?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Słowo, które BW oddaje w Dz 17,22 jako „nadzwyczaj pobożni\", to greckie `deisidaimonesteroi`. Jest dwuznaczne. Mogło znaczyć „bardzo religijni\" i mogło znaczyć „bardzo zabobonni\". Paweł wybrał wyraz, który słuchacz mógł przyjąć jako uprzejmość, a który nie był pochlebstwem. Nie powiedział Ateńczykom, że ich religia jest dobra. Powiedział, że widzi, jak bardzo szukają.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdzie przebiega granica między szacunkiem dla czyjegoś szukania a przytakiwaniem wszystkiemu, co znalazł?** Jak Paweł utrzymuje się na tej granicy?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Ilu?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 13,22-30",
+       "przeklad": "BW",
+       "akapity": [
+        "I obchodził miasta i wioski, nauczając, i zdążał w kierunku Jerozolimy. I rzekł ktoś do niego: Panie, czy tylko niewielu będzie zbawionych? On zaś rzekł do nich: Starajcie się wejść przez wąską bramę, gdyż wielu, powiadam wam, będzie chciało wejść, ale nie będą mogli. Gdy wstanie gospodarz i zamknie bramę, a wy staniecie na dworze i pukać będziecie w bramę, mówiąc: Panie, otwórz nam, a on odpowie: Nie wiem, skąd jesteście. Wówczas zaczniecie mówić: Jadaliśmy i pijaliśmy przed tobą, i na ulicach naszych nauczałeś; a on powie wam: Nie wiem, skąd jesteście, odstąpcie ode mnie wszyscy, którzy czynicie nieprawość. Tam będzie płacz i zgrzytanie zębów, gdy ujrzycie Abrahama, Izaaka i Jakuba i wszystkich proroków w Królestwie Bożym, siebie samych zaś precz wyrzuconych. I przyjdą ze wschodu i z zachodu, z północy i z południa, i zasiądą w Królestwie Bożym. I oto ostatni będą pierwszymi, a pierwsi ostatnimi."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ktoś pyta o liczbę i o innych. **Na jakie pytanie Jezus odpowiada zamiast tego i komu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Kto w tej scenie stoi zaskoczony na dworze i na co się powołuje? Kto siedzi w środku i skąd przyszedł?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Jadaliśmy przed tobą, na naszych ulicach nauczałeś\". **Jak brzmiałoby to zdanie w ustach kogoś, kto od urodzenia jest w kościele?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ze wschodu i z zachodu",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Rzymski setnik prosi Jezusa o uzdrowienie sługi i mówi, że wystarczy jedno słowo.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 8,10-11",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy Jezus to usłyszał, zdziwił się i rzekł do tych, którzy szli za nim: Zaprawdę powiadam wam, u nikogo w Izraelu tak wielkiej wiary nie znalazłem. A powiadam wam, że wielu przybędzie ze wschodu i zachodu, i zasiądą do stołu z Abrahamem i z Izaakiem, i z Jakubem w Królestwie Niebios."
+       ]
+      },
+      {
+       "odnosnik": "Ap 7,9-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem widziałem, a oto tłum wielki, którego nikt nie mógł zliczyć, z każdego narodu i ze wszystkich plemion, i ludów, i języków, którzy stali przed tronem i przed Barankiem, odzianych w szaty białe, z palmami w swych rękach. I wołali głosem donośnym, mówiąc: Zbawienie jest u Boga naszego, który siedzi na tronie, i u Baranka."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Na pytanie „czy niewielu\" Jezus w Łk 13 nie odpowiada liczbą. **Jaką odpowiedź dają te dwa teksty?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Tłum jest nie do policzenia i pochodzi zewsząd. **Komu mimo to przypisuje swoje zbawienie?** Co to mówi o wyłączności, która zostaje nawet w najszerszym obrazie Biblii?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus „zdziwił się\" wiarą oficera obcej armii. **Kiedy ostatnio zdziwiła cię czyjaś wiara albo dobroć tam, gdzie się jej nie spodziewałeś?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Do której pomyłki ci bliżej: do zawężania drogi tak, żeby mieściła się na niej tylko twoja grupa, czy do poszerzania jej tak, że Jezus przestaje być potrzebny?** Skąd to w tobie jest?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wróć do osoby, o której myślałeś na początku. **Co po dzisiejszych tekstach wiesz o tym, jak Bóg na nią patrzy?** A czego nadal nie wiesz i nie musisz wiedzieć?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy ktoś kiedyś użył wobec ciebie słów o „jedynej drodze\" jak broni albo czy ty sam tak ich użyłeś?** Co byś dziś zrobił inaczej?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: ci, którzy nigdy nie usłyszeli",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 11,6",
+       "przeklad": "BW",
+       "akapity": [
+        "Bez wiary zaś nie można podobać się Bogu; kto bowiem przystępuje do Boga, musi uwierzyć, że On istnieje i że nagradza tych, którzy go szukają."
+       ]
+      },
+      {
+       "odnosnik": "Rz 10,12-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie masz bowiem różnicy między Żydem a Grekiem, gdyż jeden jest Pan wszystkich, bogaty dla wszystkich, którzy go wzywają. Każdy bowiem, kto wzywa imienia Pańskiego, zbawiony będzie. Ale jak mają wzywać tego, w którego nie uwierzyli? A jak mają uwierzyć w tego, o którym nie słyszeli? A jak usłyszeć, jeśli nie ma tego, który zwiastuje? A jak mają zwiastować, jeżeli nie zostali posłani? Jak napisano: O jak piękne są nogi tych, którzy zwiastują dobre nowiny!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Wśród chrześcijan, którzy poważnie traktują Biblię, są w tej sprawie dwa stanowiska. Pierwsze mówi: do zbawienia potrzebna jest świadoma wiara w Jezusa. Łańcuch z Rz 10 nie ma ogniwa zapasowego, a Korneliusz mimo całej swojej pobożności musiał usłyszeć „słowa, przez które będzie zbawiony\". Drugie mówi: nikt nie będzie zbawiony inaczej niż przez Chrystusa, ale Chrystus może zbawić człowieka, który nie poznał Jego imienia, a odpowiedział na światło, jakie miał. Tak było z Abrahamem, Jobem i każdym wierzącym Starego Testamentu. Zbawił ich Chrystus, którego imienia nie znali. Na to odczytanie wskazują Dz 10,35, Rz 2,14-16, J 1,9 i próg wiary z Hbr 11,6, który jest zaskakująco niski. W naszym Kościele częściej spotyka się stanowisko drugie.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Obie strony łączy to, co najważniejsze. Jest jeden Zbawiciel. Nikogo nie zbawia jego religia, szczerość ani uczynki. Nikt z nas nie wyrokuje o konkretnych ludziach. Obie strony uważają też misję za pilną, choć z różnych powodów.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które z tych dwóch stanowisk jest ci bliższe i który tekst najbardziej ci w nim przeszkadza?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hbr 11,6 wymienia tylko dwie rzeczy, w które trzeba uwierzyć. **Co to mówi o Bogu, że próg ustawił właśnie tak?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli Bóg potrafi dotrzeć do człowieka, który nigdy nie słyszał o Jezusie, to **po co nas posyła? Co traci człowiek, który idzie za światłem, jakie ma, ale nigdy nie dowiedział się, komu je zawdzięcza?** A co tracimy my, kiedy nie idziemy?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie zamykaj tego formułą. Warto, żeby ktoś zauważył, że Korneliusz po wizycie Piotra nie dostał tylko informacji. Dostał pewność przebaczenia, Ducha, wspólnotę i imię Tego, do kogo modlił się po omacku. Ewangelia jest czymś więcej niż polisą na sąd.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Droga jest jedna i jest nią Jezus. Tego, jak daleko sięga Jego ręka, nie wie nikt z nas, i całe szczęście.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** J 14,6 albo Dz 10,34-35.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o osobie, o której mówiłeś na początku. Zapytaj Boga: **gdzie byłeś w jej życiu, zanim ja się nią przejąłem?** Zostań przy tym pytaniu przez kilka dni i patrz na nią tymi oczami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zapytaj siebie uczciwie: **czy bardziej zależy mi na tym, żeby mieć rację co do drogi, czy na tym, żeby nią iść?** Ludzie za zamkniętą bramą z Łk 13 też mieli rację co do tego, kto nauczał na ich ulicach.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli kiedyś zraniłeś kogoś, broniąc jedynej prawdy, przyznaj to przed Bogiem. Jeśli droga do tej osoby jest otwarta, zastanów się, czy nie powiedzieć jej „przepraszam\" bez żadnego „ale\".",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Wszystkie religie prowadzą do tego samego Boga.\"** Nie atakuj. Zgódź się z tym, co w tym zdaniu dobre: z szacunkiem dla ludzi i z niechęcią do pychy. Potem zauważ, że same religie tak o sobie nie mówią i że zdanie z J 14,6 nie jest opinią chrześcijan o innych, tylko twierdzeniem Jezusa o sobie. Pytanie nie brzmi, czy to zdanie jest grzeczne, tylko czy jest prawdziwe. Wróć do tekstu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli moja babcia, mój kolega buddysta, mój niewierzący ojciec są straceni?\"** Tego nie mówi żaden z dzisiejszych tekstów i tego nie mówimy my. Wiemy, kto jest Sędzią, i wiemy, że był w życiu tych ludzi, zanim my o nich pomyśleliśmy. Przeczytaj jeszcze raz Dz 10,4 i Łk 13,29. Jeśli pytanie dotyczy kogoś zmarłego, nie teoretyzuj. To jest żałoba, nie dyskusja.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Adwentyści uważają, że tylko oni będą zbawieni?\"** Nie. Dz 4,12 mówi o imieniu, nie o Kościele. Dzisiejsze spotkanie w ogóle nie dotyczy wyznań chrześcijańskich. Katolik, luteranin, zielonoświątkowiec i adwentysta wyznają to samo imię. Scena z Łk 13 ostrzega właśnie tych, którzy są pewni, że siedzą w środku.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Przy stole jest osoba innej wiary albo niewierząca i rozmowa zaczyna toczyć się o niej.** Przerwij to od razu. Zwracajcie się do niej jak do uczestnika, nie jak do przykładu. Możesz zapytać ją, jak te teksty brzmią z jej miejsca, i przyjąć odpowiedź bez poprawiania.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada, że rodzina odrzuciła go po zmianie wyznania, albo że sam zerwał z rodziną „dla prawdy\".** Wysłuchaj. Nie oceniaj żadnej ze stron. To jest rana, a nie argument w dyskusji. Jeśli będzie chciał, wróćcie do tego po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś używa J 14,6 jak pałki: „Pismo mówi jasno, nie ma o czym rozmawiać\".** Zgódź się, że Pismo mówi jasno, i zapytaj, komu Jezus powiedział te słowa i po co. Powiedział je przestraszonym przyjaciołom, żeby się nie trwożyli. Potem przeczytaj Dz 10,34: nawet Piotr musiał powiedzieć „teraz pojmuję\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Skoro Bóg i tak dotrze do każdego, to po co misja?\"** To jest pytanie z poziomu 3 i warto je tam zostawić. Krótko: Korneliusz był wysłuchany, a Bóg i tak uznał, że musi usłyszeć o Jezusie. Najwyraźniej ewangelia daje coś, czego nie daje samo szukanie po omacku.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 4. Bloki 1 i 2 pokazują wyłączność, blok 3 szerokość, a blok 5 zamienia spór o innych w pytanie do mnie. Bez bloku 5 spotkanie kończy się teorią.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Wszystkie religie prowadzą do tego samego Boga.\"",
+     "odpowiedz": "Nie atakuj. Zgódź się z tym, co w tym zdaniu dobre: z szacunkiem dla ludzi i z niechęcią do pychy. Potem zauważ, że same religie tak o sobie nie mówią i że zdanie z J 14,6 nie jest opinią chrześcijan o innych, tylko twierdzeniem Jezusa o sobie. Pytanie nie brzmi, czy to zdanie jest grzeczne, tylko czy jest prawdziwe. Wróć do tekstu."
+    },
+    {
+     "sytuacja": "„Czyli moja babcia, mój kolega buddysta, mój niewierzący ojciec są straceni?\"",
+     "odpowiedz": "Tego nie mówi żaden z dzisiejszych tekstów i tego nie mówimy my. Wiemy, kto jest Sędzią, i wiemy, że był w życiu tych ludzi, zanim my o nich pomyśleliśmy. Przeczytaj jeszcze raz Dz 10,4 i Łk 13,29. Jeśli pytanie dotyczy kogoś zmarłego, nie teoretyzuj. To jest żałoba, nie dyskusja."
+    },
+    {
+     "sytuacja": "„Adwentyści uważają, że tylko oni będą zbawieni?\"",
+     "odpowiedz": "Nie. Dz 4,12 mówi o imieniu, nie o Kościele. Dzisiejsze spotkanie w ogóle nie dotyczy wyznań chrześcijańskich. Katolik, luteranin, zielonoświątkowiec i adwentysta wyznają to samo imię. Scena z Łk 13 ostrzega właśnie tych, którzy są pewni, że siedzą w środku."
+    },
+    {
+     "sytuacja": "Przy stole jest osoba innej wiary albo niewierząca i rozmowa zaczyna toczyć się o niej.",
+     "odpowiedz": "Przerwij to od razu. Zwracajcie się do niej jak do uczestnika, nie jak do przykładu. Możesz zapytać ją, jak te teksty brzmią z jej miejsca, i przyjąć odpowiedź bez poprawiania."
+    },
+    {
+     "sytuacja": "Ktoś opowiada, że rodzina odrzuciła go po zmianie wyznania, albo że sam zerwał z rodziną „dla prawdy\".",
+     "odpowiedz": "Wysłuchaj. Nie oceniaj żadnej ze stron. To jest rana, a nie argument w dyskusji. Jeśli będzie chciał, wróćcie do tego po spotkaniu."
+    },
+    {
+     "sytuacja": "Ktoś używa J 14,6 jak pałki: „Pismo mówi jasno, nie ma o czym rozmawiać\".",
+     "odpowiedz": "Zgódź się, że Pismo mówi jasno, i zapytaj, komu Jezus powiedział te słowa i po co. Powiedział je przestraszonym przyjaciołom, żeby się nie trwożyli. Potem przeczytaj Dz 10,34: nawet Piotr musiał powiedzieć „teraz pojmuję\"."
+    },
+    {
+     "sytuacja": "„Skoro Bóg i tak dotrze do każdego, to po co misja?\"",
+     "odpowiedz": "To jest pytanie z poziomu 3 i warto je tam zostawić. Krótko: Korneliusz był wysłuchany, a Bóg i tak uznał, że musi usłyszeć o Jezusie. Najwyraźniej ewangelia daje coś, czego nie daje samo szukanie po omacku."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 4. Bloki 1 i 2 pokazują wyłączność, blok 3 szerokość, a blok 5 zamienia spór o innych w pytanie do mnie. Bez bloku 5 spotkanie kończy się teorią."
+    }
+   ]
+  }
+ ]
+}

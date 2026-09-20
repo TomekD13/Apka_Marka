@@ -1,0 +1,568 @@
+{
+ "tytul": "Samotność",
+ "id": "E-07",
+ "seria": "Emocje",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Rdz 2,18; Ps 142,5-6; Ps 88,14-19; Mk 14,32-38; Hbr 13,5; J 16,32",
+  "p2": "2Tm 4,9-11.16-17; Ps 68,6-7",
+  "p3": "Ps 88,19"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 23,
+  "p3": 24
+ },
+ "tagi": [
+  "emocje",
+  "wspólnota",
+  "opuszczenie",
+  "obecność"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg nie powiedział człowiekowi, że wystarczy mu sam Bóg. Powiedział, że niedobrze jest człowiekowi, gdy jest sam, i zrobił z tym coś.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Samotność to nie to samo co bycie samemu. Można być samotnym w tłumie i w małżeństwie, i właśnie ta samotność boli najbardziej. Spotkanie ma dwa nurty: samotność między ludźmi i poczucie opuszczenia przez Boga. Drugi jest trudniejszy i Biblia go nie przemilcza.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole mogą siedzieć osoby samotne z wyboru i nie z wyboru, wdowy, rozwiedzeni, single w kościele, w którym małżeństwo jest normą. Nie zakładaj, że samotność to problem do rozwiązania.",
+      "Grupa domowa łatwo wpada w ton „przecież masz nas\". To bywa prawdą, ale powiedziane w niewłaściwym momencie unieważnia człowieka.",
+      "Blok trzeci nie ma dobrego zakończenia i tak ma być. Nie doklejaj pointy."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie swataj i nie doradzaj zapisania się do grupy. Nie mów „Bóg wystarczy\" komuś, kto właśnie mówi o tęsknocie za człowiekiem. Nie skracaj bloku trzeciego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Kiedy ostatnio byłeś sam i było ci z tym dobrze? Jedno zdanie, bez wyjaśnień.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "to pytanie celowo dotyczy dobrej samotności. Zaczynamy od strony, która nie boli.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Niedobrze jest człowiekowi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 2,18",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem rzekł Pan Bóg: Niedobrze jest człowiekowi, gdy jest sam. Uczynię mu pomoc odpowiednią dla niego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "To zdanie pada w świecie, w którym wszystko inne Bóg nazwał dobrym, a człowiek ma pełną relację z Bogiem. **Co z tego wynika?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg nie mówi „człowiek uważa, że jest mu źle\". Mówi „niedobrze jest\". **Czyja to ocena i co ona zmienia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Czy to zdanie dotyczy tylko małżeństwa? **Czego brakowało Adamowi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To pierwsze „niedobrze\" w Biblii i pada przed jakimkolwiek grzechem. Samotność nie jest tu skutkiem upadku ani karą. Jest brakiem wpisanym w to, jak człowiek został zrobiony. Ważne jest też, czego to zdanie nie mówi: nie mówi, że Bóg jest niewystarczający. Mówi, że Bóg tak urządził człowieka, że potrzebuje również drugiego człowieka, i sam to nazwał, zanim ktokolwiek się poskarżył.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Nikt nie pyta o mnie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 142,5-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Patrzę na prawo i widzę-Nikt nie zważa na mnie. Nie ma dla mnie ucieczki, Nikt się nie troszczy o mnie. Panie, do ciebie wołam. Rzekłem: Tyś moją nadzieją, Tyś działem moim w krainie żyjących."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Psalmista patrzy na prawo, czyli w stronę, z której w sądzie stawał obrońca. **Co on właściwie opisuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 5 kończy się zdaniem „nikt się nie troszczy o mnie\", a werset 6 zaczyna się od „Panie, do ciebie wołam\". **Co się dzieje między tymi dwoma zdaniami?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Czy zdanie „nikt się nie troszczy o mnie\" jest obiektywnie prawdziwe? **Czy to ma tu znaczenie?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Psalm bez pointy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 88,14-19",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz ja, Panie, do ciebie wołam, A rankiem wita cię modlitwa moja: Dlaczego, Panie, odtrącasz duszę moją, Ukrywasz przede mną oblicze swoje? Jam biedny i bliski śmierci do młodości mojej, Zawisła nade mną groza twoja, jestem zrozpaczony. Przewaliły się nade mną ciosy gniewu twego, Niszczą mnie strachy twoje. Ogarniają mnie nieustannie jak woda, Otaczają mię wszystkie naraz. Odstręczyłeś ode mnie przyjaciela i towarzysza, Moimi zaufanymi-to mroki."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ten psalm kończy się dokładnie tam, gdzie widzicie. Nie ma zwrotu, nie ma „ale Ty, Panie\". **Co robi w Biblii tekst, który tak się kończy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ostatnie zdanie mówi, że jedynymi zaufanymi są mroki. **Do kogo psalmista mimo to mówi przez cały czas?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Werset 14 mówi o modlitwie, która wita Boga każdego ranka. **Jak to się ma do reszty psalmu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Psalm 88 jest jedynym psalmem, który nie dochodzi do żadnego rozwiązania. Ostatnie słowo brzmi „mroki\". Wielu ludzi ma poczucie, że taka modlitwa jest niewłaściwa, że trzeba zakończyć czymś pozytywnym. Obecność tego tekstu w Biblii mówi coś innego. Skarga bez happy endu też jest modlitwą i nie trzeba jej domykać na siłę. Warto zauważyć jedno: przez cały psalm autor mówi do Boga, a nie o Bogu. Nie zerwał rozmowy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Wszyscy mnie opuścili",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Tm 4,9-11.16-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Staraj się przyjść do mnie rychło; albowiem Demas mnie opuścił, umiłowawszy świat doczesny, i odszedł do Tesaloniki, Krescent do Galacji, Tytus do Dalmacji; tylko Łukasz jest ze mną. Weź Marka i przyprowadź z sobą, bo mi jest bardzo potrzebny do posługiwania. [...] W pierwszej obronie mojej nikogo przy mnie nie było, wszyscy mnie opuścili: niech im to nie będzie policzone; ale Pan stał przy mnie i dodał mi sił, aby przeze mnie dopełnione było zwiastowanie ewangelii, i aby je słyszeli wszyscy poganie; i zostałem wyrwany z paszczy lwiej."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł wymienia ludzi z imienia i mówi wprost, kto odszedł. **Czy to gorycz, czy coś innego? Zwróćcie uwagę na drugą część wersetu 16.**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pisze „nikogo przy mnie nie było\", a zaraz potem „ale Pan stał przy mnie\". **Czy to drugie unieważnia pierwsze?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Prosi Tymoteusza, żeby przyszedł, i prosi o Marka. **Czego to dowodzi o człowieku, który wie, że Pan przy nim stoi?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Jednej godziny",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 14,32-38",
+       "przeklad": "BW",
+       "akapity": [
+        "I przyszli do ogrodu, który zwano Getsemane, i rzekł do uczniów swoich: Siądźcie tutaj, aż się pomodlę. I wziął z sobą Piotra i Jakuba, i Jana, i począł się niepokoić i trwożyć. I rzekł do nich: Smętna jest dusza moja aż do śmierci; zostańcie tu i czuwajcie. Potem postąpił nieco dalej, padł na ziemię i modlił się, aby, jeśli to możliwe, ominęła go ta godzina. I mówił: Abba, Ojcze! Ty wszystko możesz, oddal ten kielich ode mnie; wszakże nie co Ja chcę, ale co Ty. I przyszedł, i zastał ich śpiących, i rzekł do Piotra: Szymonie, śpisz? Nie mogłeś czuwać jednej godziny? Czuwajcie i módlcie się, abyście nie popadli w pokuszenie; duch wprawdzie jest ochotny, ale ciało mdłe."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus prosi trzech najbliższych o jedną konkretną rzecz. **O co dokładnie i dlaczego akurat o to?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Smętna jest dusza moja aż do śmierci\" mówi do ludzi, nie do Ojca. **Po co im to mówi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zasypiają trzy razy. **Czy to jest zdrada, czy coś innego? Werset 38 podpowiada odpowiedź.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus poprosił o obecność, nie o rozwiązanie. **Co to mówi o tym, czego potrzebuje człowiek w najciężejszej godzinie?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Nie porzucę cię",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 13,5",
+       "przeklad": "BW",
+       "akapity": [
+        "Niech życie wasze będzie wolne od chciwości; poprzestawajcie na tym, co posiadacie; sam bowiem powiedział: Nie porzucę cię ani cię nie opuszczę."
+       ]
+      },
+      {
+       "odnosnik": "J 16,32",
+       "przeklad": "BW",
+       "akapity": [
+        "Oto nadchodzi godzina, owszem już nadeszła, że się rozproszycie, każdy do swoich, i mnie samego zostawicie; lecz nie jestem sam, bo Ojciec jest ze mną."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi „zostawicie mnie samego\" i zaraz potem „nie jestem sam\". **Jak obie części mogą być prawdziwe naraz?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Obietnica z Listu do Hebrajczyków pada w kontekście pieniędzy i poprzestawania na tym, co się ma. **Co łączy chciwość z lękiem przed opuszczeniem?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Bóg samotnym daje dom",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 68,6-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Ojcem sierot i sędzią wdów Jest Bóg w swym świętym przybytku. Bóg samotnym daje dom na mieszkanie, Wyprowadza więźniów na wolność, Lecz oporni pozostają w ziemi suchej."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm wymienia sieroty, wdowy, samotnych i więźniów. **Co te cztery grupy mają wspólnego?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg samotnym daje dom, a nie towarzystwo. **Czym dom różni się od towarzystwa?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus w Getsemane powiedział trzem ludziom, jak bardzo jest mu ciężko. **Czy jest ktoś, komu ty mówisz takie rzeczy? Odpowiedz sobie, nie grupie.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm 88 mówi do Boga i nie kończy się dobrze. **Czy pozwalasz sobie na taką modlitwę, czy tylko na uporządkowaną?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **kiedy ostatnio ktoś był przy tobie, nie próbując niczego naprawiać?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co powiedzieć człowiekowi, który mówi: modlę się i nic, czuję się opuszczony przez Boga? Czy odpowiedź „Bóg jest z tobą, tylko tego nie czujesz\" jest prawdą, pocieszeniem, czy jednym i drugim?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie rozstrzygaj tego szybko. Zwróć uwagę, że Jezus na krzyżu zacytował psalm o opuszczeniu, a nie o obecności. To najmocniejszy argument, żeby nie zbywać takiego człowieka.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg nie powiedział człowiekowi, że wystarczy mu sam Bóg. Powiedział, że niedobrze jest człowiekowi, gdy jest sam, i zrobił z tym coś.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Rdz 2,18 albo Hbr 13,5.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o tym, kiedy ostatnio powiedziałeś komuś, że jest ci ciężko, bez owijania. Jeśli nie pamiętasz, **zapytaj siebie, co cię przed tym powstrzymuje: brak ludzi czy coś w tobie.** To dwie różne sprawy i mają różne wyjścia.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jest w twoim otoczeniu ktoś, kto prawdopodobnie jest samotny, a nikt tego nie widzi. **Zapytaj Boga, kto to jest.** Zwykle nazwisko przychodzi szybciej, niż byśmy chcieli.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** poproś kogoś o obecność, a nie o pomoc. Bez zadania do wykonania, bez rady. Tylko o to, żeby był.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Przecież masz nas, masz kościół.\"** Prawdziwe i w złym momencie raniące. Możesz powiedzieć: „Bóg powiedział, że niedobrze jest człowiekowi samemu, zanim ktokolwiek się poskarżył. Nie poprawiajmy tego zdania.\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o samotności w małżeństwie albo w rodzinie.** To bardzo bolesne wyznanie i zwykle kosztuje. Nie komentuj, nie doradzaj, nie zadawaj pytań o szczegóły. Podziękuj i idź dalej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa chce dokleić pointę do Psalmu 88.** Przytrzymaj ich. Ten psalm nie ma pointy i to jest jego treść. Jeśli ktoś upiera się przy dobrym zakończeniu, zapytaj, dlaczego to takie ważne.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna swatać albo doradzać.** Utnij łagodnie. „Zostawmy rady, wróćmy do tekstu.\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Samotność to czas dany od Boga na wzrost.\"** Bywa i tak, ale dla kogoś przy stole może to brzmieć jak zamknięcie ust. Nie rozwijaj tego wątku, jeśli nie zgłosił go ktoś, kogo to dotyczy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi, że czuje się opuszczony przez Boga.** Nie zaprzeczaj i nie poprawiaj. Zapytaj, od kiedy. Po spotkaniu wróć do tej osoby.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Przecież masz nas, masz kościół.\"",
+     "odpowiedz": "Prawdziwe i w złym momencie raniące. Możesz powiedzieć: „Bóg powiedział, że niedobrze jest człowiekowi samemu, zanim ktokolwiek się poskarżył. Nie poprawiajmy tego zdania.\""
+    },
+    {
+     "sytuacja": "Ktoś mówi o samotności w małżeństwie albo w rodzinie.",
+     "odpowiedz": "To bardzo bolesne wyznanie i zwykle kosztuje. Nie komentuj, nie doradzaj, nie zadawaj pytań o szczegóły. Podziękuj i idź dalej."
+    },
+    {
+     "sytuacja": "Grupa chce dokleić pointę do Psalmu 88.",
+     "odpowiedz": "Przytrzymaj ich. Ten psalm nie ma pointy i to jest jego treść. Jeśli ktoś upiera się przy dobrym zakończeniu, zapytaj, dlaczego to takie ważne."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna swatać albo doradzać.",
+     "odpowiedz": "Utnij łagodnie. „Zostawmy rady, wróćmy do tekstu.\""
+    },
+    {
+     "sytuacja": "„Samotność to czas dany od Boga na wzrost.\"",
+     "odpowiedz": "Bywa i tak, ale dla kogoś przy stole może to brzmieć jak zamknięcie ust. Nie rozwijaj tego wątku, jeśli nie zgłosił go ktoś, kogo to dotyczy."
+    },
+    {
+     "sytuacja": "Ktoś mówi, że czuje się opuszczony przez Boga.",
+     "odpowiedz": "Nie zaprzeczaj i nie poprawiaj. Zapytaj, od kiedy. Po spotkaniu wróć do tej osoby."
+    }
+   ]
+  }
+ ]
+}

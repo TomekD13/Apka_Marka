@@ -1,0 +1,816 @@
+{
+ "tytul": "Czy Bóg słyszy moje modlitwy?",
+ "id": "P-02",
+ "seria": "Pytania, które ludzie zadają",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Łk 11,5-13; Ps 13,2-6; Mt 26,36-44; 2Kor 12,7-10",
+  "p2": "Łk 18,1-8; Ps 88,2-4.14-15.19; Hbr 5,7-8; Dn 10,2-3.12-14; Rz 8,26-27",
+  "p3": "Łk 11,8; Mk 11,22-24; J 15,7; 1J 5,14-15; Jk 4,2-3; Mt 6,7-8"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 28,
+  "p3": 34
+ },
+ "tagi": [
+  "modlitwa",
+  "milczenie Boga",
+  "zaufanie",
+  "Getsemane",
+  "skarga"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg słyszy. Jego „słyszę\" nie zawsze znaczy „zrobię, o co prosisz\", ale nigdy nie znaczy „nie obchodzisz mnie\".",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Za tym pytaniem prawie nigdy nie stoi ciekawość. Stoi konkretna modlitwa, na którą ktoś nie dostał tego, o co prosił. Spotkanie nie ma tego naprawić ani wytłumaczyć. Ma pokazać, że Biblia zna niewysłuchane prośby od środka: Dawid pyta „dopókiż\", Paweł trzy razy słyszy coś innego, niż chciał, a Jezus w Getsemane prosi o to, czego nie dostaje. Obok tego stoi przypowieść, w której Jezus mówi o Ojcu lepiej, niż my o Nim myślimy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole modlił się o zdrowie dziecka, o małżeństwo, o życie kogoś bliskiego, i nie stało się to, o co prosił. Może o tym nie powie, ale będzie słuchał każdego zdania przez tę historię.",
+      "Najgroźniejsze zdanie tego wieczoru brzmi: „trzeba było mocniej wierzyć\". Drugie w kolejności: „Bóg zawsze odpowiada: tak, nie albo poczekaj\". Pierwsze rani, drugie zamyka rozmowę, zanim się zaczęła.",
+      "Świadectwa wysłuchanych modlitw są dobre, ale opowiedziane obok cudzej niewysłuchanej potrafią zaboleć."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie tłumacz nikomu, dlaczego jego modlitwa nie została spełniona. Nie wiesz tego. Nie zamieniaj spotkania w kurs skutecznej modlitwy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "O co prosiłeś Boga, kiedy byłeś dzieckiem? Wystarczy jedna rzecz, może być zupełnie błaha.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Pytanie jest celowo lekkie. Na cięższe przyjdzie czas.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Przyjaciel o północy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 11,5-13",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł do nich: Któż z was, mając przyjaciela, pójdzie do niego o północy i powie mu: Przyjacielu, pożycz mi trzy chleby, albowiem przyjaciel mój przybył do mnie, będąc w podróży, a nie mam mu co podać. A tamten z mieszkania odpowie mu: Nie naprzykrzaj mi się, drzwi już są zamknięte, dzieci moje są ze mną w łóżku, nie mogę wstać i dać ci. Powiadam wam, jeżeli nawet nie dlatego wstanie i da mu, że jest jego przyjacielem, to dla natręctwa jego wstanie i da mu, ile potrzebuje.",
+        "A ja wam powiadam: Proście, a będzie wam dane; szukajcie, a znajdziecie; kołaczcie, a otworzą wam. Każdy bowiem, kto prosi, otrzymuje, a kto szuka, znajduje, a kto kołacze, temu otworzą. Gdzież jest taki ojciec pośród was, który, gdy syn będzie go prosił o chleb, da mu kamień? Albo gdy będzie go prosił o rybę, da mu zamiast ryby węża? Albo gdy będzie prosił o jajo, da mu skorpiona? Jeśli więc wy, którzy jesteście źli, umiecie dobre dary dawać dzieciom swoim, o ileż bardziej Ojciec niebieski da Ducha Świętego tym, którzy go proszą."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W przypowieści jest zaspany sąsiad, a w zakończeniu jest ojciec. **Którym z nich jest Bóg? Po czym to poznajemy w słowach Jezusa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus dwa razy buduje zdanie według wzoru „jeśli nawet wy, to o ileż bardziej\". **Co ten wzór mówi o Bogu? Jaki obraz Boga Jezus tu poprawia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Syn prosi o chleb, rybę i jajo. **Co według ostatniego zdania daje Ojciec? Dlaczego Jezus kończy właśnie tak, a nie obietnicą chleba?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Kiedy ostatnio modliłeś się tak, jakbyś budził kogoś, kto nie ma ochoty wstać?** Skąd bierze się w nas taki obraz?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Przypowieść łatwo przeczytać na opak: Bóg śpi, a my mamy dobijać się tak długo, aż ustąpi. Jezus mówi coś przeciwnego. Skoro nawet niechętny sąsiad w końcu wstaje, to o ileż bardziej Ojciec, który nie śpi i nie jest niechętny. Modlitwa nie służy przełamaniu Bożego oporu. Zwróćcie też uwagę, że obietnica na końcu dotyczy Ducha Świętego, czyli obecności samego Boga, a nie listy naszych próśb.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Wdowa i sędzia",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 18,1-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Powiedział im też podobieństwo o tym, że powinni zawsze się modlić i nie ustawać, mówiąc: Był w jednym mieście pewien sędzia, który Boga się nie bał, a z człowiekiem się nie liczył. Była też w owym mieście pewna wdowa, która go nachodziła i mówiła: Weź mię w obronę przed moim przeciwnikiem. I przez długi czas nie chciał. Potem zaś powiedział sobie: Chociaż i Boga się nie boję ani z człowiekiem się nie liczę, jednak ponieważ naprzykrza mi się ta wdowa, wezmę ją w obronę, by w końcu nie przyszła i nie uderzyła mnie w twarz. I rzekł Pan: Słuchajcie, co ten niesprawiedliwy sędzia powiada! A czyżby Bóg nie wziął w obronę swoich wybranych, którzy wołają do niego we dnie i w nocy, chociaż zwleka w ich sprawie? Powiadam wam, że szybko weźmie ich w obronę. Tylko czy Syn Człowieczy znajdzie wiarę na ziemi, gdy przyjdzie?"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus znów wybiera na bohatera kogoś, kto jest przeciwieństwem Boga. **Po co? Co zyskuje przez taki kontrast?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W jednym zdaniu stoją obok siebie słowa „zwleka\" i „szybko\". **Jak to pogodzić? Czyj zegar mierzy jedno, a czyj drugie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przypowieść kończy się pytaniem o wiarę, a nie o odpowiedź na modlitwę. **Co jest według Jezusa zagrożone, gdy odpowiedź długo nie przychodzi?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Słowo oddane w Łk 11,8 jako „natręctwo\" to greckie `anaideia`. Dosłownie znaczy bezwstyd, brak zahamowań. W Nowym Testamencie pada tylko w tym miejscu. Nie opisuje więc długości modlitwy ani liczby powtórzeń. Opisuje kogoś, kto o północy nie ma skrupułów, żeby stanąć pod cudzymi drzwiami, bo potrzeba jest prawdziwa, a przyjaciel jest przyjacielem. Jezus zachęca do modlitwy bez krępowania się, nie do modlitwy na wytrzymałość.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Dopókiż?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 13,2-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Dopókiż, Panie, będziesz mnie stale zapominał? Dopókiż zakrywać będziesz oblicze swoje przede mną? Dopókiż mieć będę zmartwienie w duszy, A strapienie w sercu – codziennie? Dopókiż nieprzyjaciel mój będzie wynosił się nade mnie? Wejrzyj! Wysłuchaj mnie, Panie, Boże mój! Rozjaśnij oczy moje, abym nie zasnął snem śmierci! By nie rzekł nieprzyjaciel mój: Przemogłem go! By nie radowali się wrogowie moi, gdybym się zachwiał. Ja bowiem ufam łasce twojej! Niech się raduje serce moje zbawieniem twoim! Będę śpiewał Panu, bo okazał mi dobroć."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Cztery razy pada „dopókiż\". **Co Dawid zarzuca Bogu? Czy powiedziałbyś coś takiego na głos w kościele?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Między skargą a ostatnim zdaniem psalmu sytuacja Dawida się nie zmienia. Wróg nadal jest, odpowiedzi nadal nie ma. **Co w takim razie się zmieniło? Na czym Dawid opiera słowo „ufam\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ta skarga nie jest prywatnym zapiskiem. Nagłówek kieruje ją do przewodnika chóru, czyli do śpiewania przez wszystkich. **Co to mówi o tym, jakie modlitwy Bóg uznaje za właściwe?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Psalm, który kończy się ciemnością",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 88,2-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Panie, Boże zbawienia mego, We dnie i w nocy wołam do ciebie. Niech modlitwa moja dojdzie przed ciebie, Nakłoń ucha swego na błaganie moje, Bo dusza moja syta jest cierpień, A życie moje bliskie jest krainy umarłych."
+       ]
+      },
+      {
+       "odnosnik": "Ps 88,14-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz ja, Panie, do ciebie wołam, A rankiem wita cię modlitwa moja: Dlaczego, Panie, odtrącasz duszę moją, Ukrywasz przede mną oblicze swoje?"
+       ]
+      },
+      {
+       "odnosnik": "Ps 88,19",
+       "przeklad": "BW",
+       "akapity": [
+        "Odstręczyłeś ode mnie przyjaciela i towarzysza, Moimi zaufanymi – to mroki."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm 13 kończy się śpiewem. Psalm 88 kończy się mrokiem i na tym urywa. **Dlaczego ktoś uznał, że taka modlitwa powinna znaleźć się w Biblii?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Autor przez cały psalm nie dostaje odpowiedzi, a mimo to co rano wraca z tą samą modlitwą. **Do kogo mówi w pierwszym zdaniu? Co to mówi o jego wierze?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Trzy razy w ogrodzie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 26,36-44",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy idzie Jezus z nimi do ogrodu, zwanego Getsemane, i mówi do uczniów: Siądźcie tu, a Ja tymczasem odejdę tam i będę się modlił. I wziął z sobą Piotra oraz dwóch synów Zebedeuszowych, i począł się smucić i trwożyć. Wtedy mówi do nich: Smętna jest dusza moja aż do śmierci; pozostańcie tu i czuwajcie ze mną. Potem postąpił nieco dalej, upadł na oblicze swoje, modlił się i mówił: Ojcze mój, jeśli można, niech mnie ten kielich minie; wszakże nie jako Ja chcę, ale jako Ty.",
+        "I wrócił do uczniów, i zastał ich śpiących, i mówił do Piotra: Tak to nie mogliście jednej godziny czuwać ze mną? Czuwajcie i módlcie się, abyście nie popadli w pokuszenie; duch wprawdzie jest ochotny, ale ciało mdłe. Znowu po raz drugi odszedł i modlił się, mówiąc: Ojcze mój, jeśli nie może mnie ten kielich minąć, żebym go pił, niech się stanie wola twoja. I przyszedł znowu, i zastał ich śpiących, albowiem oczy ich były obciążone. I zostawił ich, znowu odszedł i modlił się po raz trzeci tymi samymi słowami."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**O co dokładnie prosi Jezus? Czy dostaje to, o co prosi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Gdyby niewysłuchana modlitwa zawsze oznaczała za mało wiary albo ukryty grzech, **co trzeba by powiedzieć o tej modlitwie?** Co ta scena robi z takim tłumaczeniem?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Porównajcie słowa pierwszej i drugiej modlitwy. **Co się między nimi przesunęło?** Czy kielich zniknął, czy zmieniło się coś innego?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus mówi Ojcu wprost, czego chce, i dopiero potem dodaje „nie jako Ja chcę\". **Dlaczego ta kolejność jest ważna? Co tracimy, gdy zaczynamy od razu od drugiej połowy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jezus nie ukrywa przed Ojcem, czego pragnie. Nie zaczyna od pobożnej zgody. Mówi „niech mnie ten kielich minie\" i wraca z tą prośbą trzy razy. Zdanie „nie jako Ja chcę\" nie zastępuje prośby, tylko stoi obok niej. Jedyna w pełni sprawiedliwa osoba w Biblii usłyszała w najważniejszej godzinie życia odmowę. Od tej nocy nikt nie ma prawa powiedzieć cierpiącemu, że jego modlitwa była za słaba.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "„Został wysłuchany\"",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 5,7-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Za dni swego życia w ciele zanosił On z wielkim wołaniem i ze łzami modlitwy i błagania do tego, który go mógł wybawić od śmierci, i dla bogobojności został wysłuchany; i chociaż był Synem, nauczył się posłuszeństwa przez to, co wycierpiał,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Autor pisze, że Jezus modlił się do Tego, który mógł Go wybawić od śmierci, i że został wysłuchany. A przecież umarł. **W jakim sensie został wysłuchany? Co to mówi o tym, jak Bóg rozumie słowo „wysłuchać\"?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy znasz z własnego życia modlitwę, która została wysłuchana inaczej i później, niż prosiłeś?** Jak długo trwało, zanim to zobaczyłeś?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kielich nie jest w tej modlitwie przypadkowym obrazem. U proroków kielich w ręku Boga oznacza sąd, który ktoś musi wypić do dna. Tak mówią Izajasz, Jeremiasz i Treny, gdzie kielich wędruje od narodu do narodu. W Getsemane ten sam kielich trafia do rąk Jednego, który na niego nie zasłużył. Jezus nie prosi więc o uniknięcie bólu jako takiego. Prosi, żeby nie musiał wypić tego, co należało się innym, i ostatecznie wypija.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Dosyć masz",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Kor 12,7-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Bym się więc z nadzwyczajności objawień zbytnio nie wynosił, wbity został cierń w ciało moje, jakby posłaniec szatana, by mnie policzkował, abym się zbytnio nie wynosił. W tej sprawie trzy razy prosiłem Pana, by on odstąpił ode mnie. Lecz powiedział do mnie: Dosyć masz, gdy masz łaskę moją, albowiem pełnia mej mocy okazuje się w słabości. Najchętniej więc chlubić się będę słabościami, aby zamieszkała we mnie moc Chrystusowa. Dlatego mam upodobanie w słabościach, w zniewagach, w potrzebach, w prześladowaniach, w uciskach dla Chrystusa; albowiem kiedy jestem słaby, wtedy jestem mocny."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł prosił trzy razy, tak jak Jezus w ogrodzie. **Czy jego modlitwa pozostała bez odpowiedzi? Co dokładnie usłyszał?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł nazywa cierń „posłańcem szatana\", a nie darem od Boga. Mimo to mówi, że cierń czemuś posłużył. **Jak te dwie rzeczy mieszczą się w jednym zdaniu? Czym różni się „Bóg to zesłał\" od „Bóg tego użył\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Przez Pawła Bóg uzdrawiał innych ludzi. Jego samego nie uzdrowił. **Co z tego wynika dla zdania „gdybyś miał więcej wiary, byłbyś zdrowy\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Co jest trudniejsze do przyjęcia: brak odpowiedzi czy odpowiedź „dosyć masz\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Nie wiemy, czym był cierń. Najpewniej była to dolegliwość ciała, znana adresatom listu i dokuczliwa na tyle, że Paweł trzy razy prosił o jej zabranie. Ważne jest to, czego w tekście nie ma. Nie ma zarzutu, że Pawłowi zabrakło wiary. Nie ma też milczenia. Jest odpowiedź, która nie zmienia okoliczności, tylko obiecuje obecność: łaska wystarczy, moc zamieszka w słabości.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Wysłuchany pierwszego dnia",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Daniel modli się i pości trzy tygodnie. Nic się nie dzieje. Potem przychodzi posłaniec z nieba.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 10,2-3",
+       "przeklad": "BW",
+       "akapity": [
+        "W owym czasie ja, Daniel, byłem w żałobie przez trzy tygodnie. Nie jadłem smacznych potraw, ani mięsa, ani wina nie brałem do ust, nie namaszczałem się olejkiem, aż upłynęły trzy tygodnie."
+       ]
+      },
+      {
+       "odnosnik": "Dn 10,12-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy rzekł do mnie: Nie bój się, Danielu, gdyż od pierwszego dnia, gdy postanowiłeś zrozumieć i ukorzyć się przed swoim Bogiem, słowa twoje zostały wysłuchane, a ja przyszedłem z powodu twoich słów! Lecz książę anielski królestwa perskiego sprzeciwiał mi się przez dwadzieścia jeden dni, lecz oto Michał, jeden z pierwszych książąt anielskich, przyszedł mi na pomoc, dlatego ja zostawiłem go tam przy księciu anielskim królestwa perskiego, i przyszedłem, aby ci objawić, co ma przyjść na twój lud w dniach ostatecznych, bo widzenie znów dotyczy dni przyszłych."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kiedy modlitwa Daniela została wysłuchana, a kiedy on się o tym dowiedział?** Jak wyglądały te trzy tygodnie z jego strony?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Posłaniec mówi o oporze, który napotkał po drodze. Tekst uchyla zasłonę na chwilę i zaraz ją opuszcza. **Co z tego wynika dla zdania „skoro nic się nie dzieje, to Bóg nie słucha\"?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Duch, który tłumaczy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 8,26-27",
+       "przeklad": "BW",
+       "akapity": [
+        "Podobnie i Duch wspiera nas w niemocy naszej; nie wiemy bowiem, o co się modlić, jak należy, ale sam Duch wstawia się za nami w niewysłowionych westchnieniach. A Ten, który bada serca, wie, jaki jest zamysł Ducha, bo zgodnie z myślą Bożą wstawia się za świętymi."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł przyznaje, że nie wiemy, o co się modlić, jak należy. **Czy to zdanie cię niepokoi, czy przynosi ulgę? Co według niego dzieje się z naszą nieporadną modlitwą po drodze?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak wygląda twoja modlitwa, kiedy długo nie ma odpowiedzi?** Bardziej jak Psalm 13, jak uprzejme formuły, czy jak cisza?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Który obraz Boga z dzisiejszych tekstów jest najbliższy temu, jak Go sobie wyobrażasz, gdy się modlisz:** zaspany sąsiad, niechętny sędzia czy ojciec?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest modlitwa, którą przestałeś się modlić, bo nic się nie działo?** Nie musisz mówić, czego dotyczyła.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: „o cokolwiek\"",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 11,22-24",
+       "przeklad": "BW",
+       "akapity": [
+        "A Jezus, odpowiadając, rzekł im: Miejcie wiarę w Boga! Zaprawdę powiadam wam: Ktokolwiek by rzekł tej górze: Wznieś się i rzuć się w morze, a nie wątpiłby w sercu swoim, lecz wierzył, że stanie się to, co mówi, spełni mu się. Dlatego powiadam wam: Wszystko, o cokolwiek byście się modlili i prosili, tylko wierzcie, że otrzymacie, a spełni się wam."
+       ]
+      },
+      {
+       "odnosnik": "J 15,7",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeśli we mnie trwać będziecie i słowa moje w was trwać będą, proście o cokolwiek byście chcieli, stanie się wam."
+       ]
+      },
+      {
+       "odnosnik": "1J 5,14-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Taka zaś jest ufność, jaką mamy do niego, iż jeżeli prosimy o coś według jego woli, wysłuchuje nas. A jeżeli wiemy, że nas wysłuchuje, o co prosimy, wiemy też, że otrzymaliśmy już od niego to, o co prosiliśmy."
+       ]
+      },
+      {
+       "odnosnik": "Jk 4,2-3",
+       "przeklad": "BW",
+       "akapity": [
+        "Pożądacie, a nie macie; zabijacie i zazdrościcie, a nie możecie osiągnąć; walczycie i spory prowadzicie. Nie macie, bo nie prosicie. Prosicie, a nie otrzymujecie, dlatego że źle prosicie, zamyślając to zużyć na zaspokojenie swoich namiętności."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ten sam Jezus, który mówi „o cokolwiek\", kilka dni później modli się w Getsemane i kielich Go nie mija. **Czy Jezusowi zabrakło wiary? Jeśli nie, to jak czytać Mk 11 w świetle Mt 26?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jan, Jakub i sam Jezus w J 15 dopisują do obietnicy warunki: „jeśli we mnie trwać będziecie\", „według jego woli\", „źle prosicie\". **Czy te warunki ratują obietnicę, czy ją rozmywają?** Jak je czytać, żeby nie zrobić z nich listy kontrolnej, którą sprawdza się cierpiącego?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W Kościele spotyka się dwa sposoby czytania tych tekstów. Jeden kładzie nacisk na śmiałość: proś konkretnie i spodziewaj się odpowiedzi. Drugi na poddanie: proś i zostaw wynik Bogu. **Co każdy z nich chroni? Co je łączy, jeśli spojrzeć na Getsemane, gdzie są oba naraz?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 6,7-8",
+       "przeklad": "BW",
+       "akapity": [
+        "A modląc się, nie bądźcie wielomówni jak poganie; albowiem oni mniemają, że dla swej wielomówności będą wysłuchani. Nie bądźcie do nich podobni, gdyż wie Bóg, Ojciec wasz, czego potrzebujecie, przedtem zanim go poprosicie."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Skoro Ojciec wie, czego potrzebujemy, zanim poprosimy, **po co prosić?** Jedna z odpowiedzi mówi, że prośba nie informuje Boga ani Go nie przekonuje, tylko otwiera Mu drzwi od naszej strony. **Czy to cię przekonuje? Co w takim razie zmienia modlitwa: Boga, okoliczności czy modlącego się?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dwie rodziny modlą się o chore dziecko. Jedno zdrowieje, drugie umiera. **Co wolno powiedzieć o tej różnicy na podstawie tekstów, które dziś czytaliśmy? Czego powiedzieć nie wolno?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy modlitwa, która kończy się jak Psalm 88, jest modlitwą wiary?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "na q33 nie ma odpowiedzi i nie wolno jej wyprodukować. Wystarczy, że grupa uczciwie nazwie, czego teksty nie mówią: nie mówią, że zabrakło wiary, i nie mówią, że Bóg kochał jedno dziecko mniej.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg słyszy. Jego „słyszę\" nie zawsze znaczy „zrobię, o co prosisz\", ale nigdy nie znaczy „nie obchodzisz mnie\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Łk 11,13 albo 2Kor 12,9a.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Wróć do jednej modlitwy, którą porzuciłeś, bo nic się nie działo. Powiedz Bogu wprost, co czułeś, kiedy milczał. Bez łagodzenia. Psalm 13 daje ci na to pozwolenie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zapytaj siebie, do kogo się modlisz: do sąsiada, którego trzeba obudzić, do sędziego, którego trzeba zmęczyć, czy do Ojca. Zauważ, skąd masz ten obraz i czy pochodzi od Jezusa.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** pomódl się o tę jedną rzecz słowami z Getsemane, w tej samej kolejności. Najpierw całkiem szczerze, czego chcesz. Dopiero potem „nie jako ja chcę, ale jako Ty\". Zobacz, która połowa przychodzi ci trudniej.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś jest w świeżym bólu po modlitwie, która nie została spełniona: śmierć, choroba, rozpad rodziny.** Nie pytaj go wprost i nie używaj jego historii jako przykładu. Jeśli zacznie mówić, grupa słucha. Nikt nie wyjaśnia, nikt nie pociesza wersetem, nikt nie opowiada w odpowiedzi o własnej wysłuchanej modlitwie. Wystarczy „dziękuję, że to powiedziałeś\" i chwila ciszy. Zostań z tą osobą po spotkaniu. Grupa towarzyszy, nie leczy. Jeśli słyszysz o myślach samobójczych, nie zostawaj z tym sam. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Trzeba było mocniej wierzyć\" albo „widocznie był w tym jakiś grzech\".** Zatrzymaj od razu, spokojnie. Wróć do bloku 3 i 4: Jezusowi i Pawłowi nie zabrakło wiary, a nie dostali tego, o co prosili. Możesz powiedzieć: „Sprawdźmy, czy tekst pozwala tak powiedzieć o Jezusie w Getsemane\". Nie pozwala.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Pobożne frazesy: „Bóg zawsze odpowiada: tak, nie albo poczekaj\", „Bóg wie lepiej\", „co nas nie zabije\".** Część z nich bywa prawdą, ale wypowiedziane do kogoś w bólu działają jak zamknięcie drzwi. Przesuń rozmowę na tekst: „Dawid mówi Bogu, że o nim zapomniał. Co Bóg zrobił z taką modlitwą? Wpisał ją do śpiewnika\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Świadectwo cudownie wysłuchanej modlitwy.** Podziękuj szczerze. Nie buduj na nim reguły i nie pozwól grupie jej zbudować. Jeśli obok siedzi ktoś, komu się nie ułożyło, dodaj jedno zdanie: „W Biblii jedno i drugie stoi obok siebie i nikt nie dostaje wyjaśnienia różnicy\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja już się nie modlę.\"** To wyznanie, nie prowokacja. Nie nawracaj. Możesz zapytać: „Kiedy przestałeś?\" i wysłuchać. Autor Psalmu 88 był o krok od tego samego i jego tekst jest w Biblii.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na techniki: jak długo, o której, w jakiej pozycji, jakimi słowami.** Wróć do pytania z bloku 1: do kogo się modlimy. Jezus w tej przypowieści nie uczy metody, tylko poprawia obraz Ojca.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** Policz w myślach do dziesięciu. Przy tym temacie ludzie ważą, ile mogą powiedzieć. Powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 2. Bloki 1, 3 i 4 niosą całość: jaki jest Ojciec, co usłyszał Syn, co usłyszał Paweł.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś jest w świeżym bólu po modlitwie, która nie została spełniona: śmierć, choroba, rozpad rodziny.",
+     "odpowiedz": "Nie pytaj go wprost i nie używaj jego historii jako przykładu. Jeśli zacznie mówić, grupa słucha. Nikt nie wyjaśnia, nikt nie pociesza wersetem, nikt nie opowiada w odpowiedzi o własnej wysłuchanej modlitwie. Wystarczy „dziękuję, że to powiedziałeś\" i chwila ciszy. Zostań z tą osobą po spotkaniu. Grupa towarzyszy, nie leczy. Jeśli słyszysz o myślach samobójczych, nie zostawaj z tym sam. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, numer alarmowy 112."
+    },
+    {
+     "sytuacja": "„Trzeba było mocniej wierzyć\" albo „widocznie był w tym jakiś grzech\".",
+     "odpowiedz": "Zatrzymaj od razu, spokojnie. Wróć do bloku 3 i 4: Jezusowi i Pawłowi nie zabrakło wiary, a nie dostali tego, o co prosili. Możesz powiedzieć: „Sprawdźmy, czy tekst pozwala tak powiedzieć o Jezusie w Getsemane\". Nie pozwala."
+    },
+    {
+     "sytuacja": "Pobożne frazesy: „Bóg zawsze odpowiada: tak, nie albo poczekaj\", „Bóg wie lepiej\", „co nas nie zabije\".",
+     "odpowiedz": "Część z nich bywa prawdą, ale wypowiedziane do kogoś w bólu działają jak zamknięcie drzwi. Przesuń rozmowę na tekst: „Dawid mówi Bogu, że o nim zapomniał. Co Bóg zrobił z taką modlitwą? Wpisał ją do śpiewnika\"."
+    },
+    {
+     "sytuacja": "Świadectwo cudownie wysłuchanej modlitwy.",
+     "odpowiedz": "Podziękuj szczerze. Nie buduj na nim reguły i nie pozwól grupie jej zbudować. Jeśli obok siedzi ktoś, komu się nie ułożyło, dodaj jedno zdanie: „W Biblii jedno i drugie stoi obok siebie i nikt nie dostaje wyjaśnienia różnicy\"."
+    },
+    {
+     "sytuacja": "„Ja już się nie modlę.\"",
+     "odpowiedz": "To wyznanie, nie prowokacja. Nie nawracaj. Możesz zapytać: „Kiedy przestałeś?\" i wysłuchać. Autor Psalmu 88 był o krok od tego samego i jego tekst jest w Biblii."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na techniki: jak długo, o której, w jakiej pozycji, jakimi słowami.",
+     "odpowiedz": "Wróć do pytania z bloku 1: do kogo się modlimy. Jezus w tej przypowieści nie uczy metody, tylko poprawia obraz Ojca."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "Policz w myślach do dziesięciu. Przy tym temacie ludzie ważą, ile mogą powiedzieć. Powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 2. Bloki 1, 3 i 4 niosą całość: jaki jest Ojciec, co usłyszał Syn, co usłyszał Paweł."
+    }
+   ]
+  }
+ ]
+}

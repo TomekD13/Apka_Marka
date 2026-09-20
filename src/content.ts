@@ -1,5 +1,5 @@
 import { loadBibleBook, loadBibleIndex, loadTranslations } from './lib/bible'
-import type { Bible, EduIndex, EduItem, Flashcards, IndexFile, LangsFile, Occasions, Pray40Day, Pray40Index, SongCollection, SongsFile, Study, Ui } from './types'
+import type { Bible, EduIndex, EduItem, Flashcards, GroupItem, GroupsIndex, IndexFile, LangsFile, Occasions, Pray40Day, Pray40Index, SongCollection, SongsFile, Study, Ui } from './types'
 
 const BASE = import.meta.env.BASE_URL // np. '/'
 const cache = new Map<string, unknown>()
@@ -34,6 +34,8 @@ export const loadPray40Day = (lang: string, day: number) =>
 export const loadEdu = (lang: string) => getJSON<EduIndex>(`${lang}/edu/index.json`)
 export const loadEduItem = (lang: string, nr: number) =>
   getJSON<EduItem>(`${lang}/edu/${String(nr).padStart(2, '0')}.json`)
+export const loadGroups = (lang: string) => getJSON<GroupsIndex>(`${lang}/groups/index.json`)
+export const loadGroupItem = (lang: string, id: string) => getJSON<GroupItem>(`${lang}/groups/${id}.json`)
 
 /**
  * Pobiera cały moduł językowy do cache (service worker zachowa go offline).
@@ -48,9 +50,10 @@ export async function downloadModule(lang: string, onProgress?: (done: number, t
   const translation = meta?.defaultTranslation || 'DEMO'
 
   // spisy trzeba mieć najpierw - to one mówią, ile jest do pobrania
-  const [pray, edu, bibles] = await Promise.all([
+  const [pray, edu, groups, bibles] = await Promise.all([
     loadPray40(lang).catch(() => null),
     loadEdu(lang).catch(() => null),
+    loadGroups(lang).catch(() => null),
     loadTranslations(lang).catch(() => null)
   ])
   const reader = bibles?.translations ?? []
@@ -63,6 +66,7 @@ export async function downloadModule(lang: string, onProgress?: (done: number, t
     loadFlashcards(lang),
     ...(pray?.days ?? []).map((d) => loadPray40Day(lang, d.day)),
     ...(edu?.items ?? []).map((i) => loadEduItem(lang, i.nr)),
+    ...(groups?.serie ?? []).flatMap((s) => s.items.map((i) => loadGroupItem(lang, i.id))),
     // wersety do studiów w pozostałych przekładach, nie tylko domyślnym
     ...reader.filter((r) => r.code !== translation).map((r) => loadBible(lang, r.code))
   ].map((p) => p.catch(() => undefined))

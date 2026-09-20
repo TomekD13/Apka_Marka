@@ -1,0 +1,516 @@
+{
+ "tytul": "Zniechęcenie",
+ "id": "E-08",
+ "seria": "Emocje",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "1Krl 19,3-9; Lb 11,11-15; Łk 24,17-24; Ga 6,9; 2Kor 4,8-9.16-18",
+  "p2": "Iz 40,29-31",
+  "p3": "1Krl 19,9"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 80,
+  "p3": 95
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 20,
+  "p3": 21
+ },
+ "tagi": [
+  "emocje",
+  "wypalenie",
+  "wytrwałość",
+  "służba"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg nie zaczął od kazania dla Eliasza. Zaczął od snu i jedzenia, a rozmowę odłożył na później.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Zniechęcenie w Biblii najczęściej nie dotyka ludzi, którzy nic nie robią. Dotyka tych, którzy zrobili dużo. Eliasz zniechęca się nazajutrz po największym zwycięstwie, Mojżesz w środku powołania. To spotkanie jest więc bardziej dla zmęczonych niż dla leniwych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Wypalenie w służbie bywa tematem bolesnym i politycznym w zborze. Możesz usłyszeć żale pod adresem konkretnych osób. Nie pozwól na nazwiska.",
+      "Zniechęcenie i depresja wyglądają podobnie z zewnątrz, a potrzebują różnych rzeczy. Nie diagnozuj.",
+      "Eliasz mówi „weź życie moje\". Ktoś przy stole może mieć z tym zdaniem osobistą historię."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie motywuj. Nie mów „trzeba się po prostu nie poddawać\". Zwróć uwagę, że Bóg u Eliasza zaczyna od jedzenia i snu, i sam też nie spiesz się z duchowymi wnioskami.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Jedno słowo: po czym poznajesz u siebie, że masz dość? Nie po czym poznają inni, tylko ty.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i konkretnie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Pod jałowcem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Krl 19,3-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Zląkł się więc i ruszył w drogę, aby ocalić swoje życie, i przyszedł do Beer-Szeby, która należy do Judy, i tam pozostawił swojego sługę. Sam zaś poszedł na pustynię o jeden dzień drogi, a doszedłszy tam, usiadł pod krzakiem jałowca i życzył sobie śmierci, mówiąc: Dosyć już, Panie, weź życie moje, gdyż nie jestem lepszy niż moi ojcowie. Potem położył się i zasnął pod krzakiem jałowca. Lecz oto dotknął go anioł i rzekł do niego: Wstań, posil się! A gdy spojrzał, oto przy jego głowie leżał placek upieczony i dzban z wodą. Posilił się więc i znowu się położył. Lecz anioł przyszedł po raz drugi, dotknął go i rzekł: Wstań, posil się, gdyż masz daleką drogę przed sobą. Wstał więc i posiliwszy się, szedł w mocy tego posiłku czterdzieści dni i czterdzieści nocy aż do góry Bożej Choreb. I wszedł tam do pieczary, aby tam przenocować. Lecz oto doszło go słowo Pana tej treści: Co tu robisz, Eliaszu?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "To dzieje się zaraz po tym, jak Eliasz sam stanął przeciw setkom proroków i wygrał. **Jak to możliwe, że po takim dniu przychodzi taki dzień?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg nie odpowiada na słowa Eliasza. **Co robi zamiast tego? Wypiszcie kolejno, co się dzieje w wersetach 5 do 7.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Eliasz mówi: nie jestem lepszy niż moi ojcowie. **Z czym on się właściwie porównuje i skąd to porównanie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Pierwsze pytanie, jakie pada od Boga, brzmi „co tu robisz\". **Czy to jest wyrzut, czy pytanie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Bóg nie zaczyna od korekty teologicznej ani od przypomnienia wczorajszego zwycięstwa. Zaczyna od snu, jedzenia i drugiego posiłku. Dopiero potem przychodzi rozmowa, i to nie od razu. Tekst poświęca cztery wersety na to, co dziś nazwalibyśmy podstawową regeneracją. Warto to zapamiętać przy człowieku, który mówi, że nie daje rady. Bardzo często pierwszą potrzebną rzeczą nie jest rozmowa duchowa.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Nie mogę sam",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Lb 11,11-15",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Mojżesz do Pana: Dlaczego tak źle obszedłeś się ze swoim sługą? I dlaczego nie znalazłem łaski w twoich oczach, żeś włożył na mnie cały ciężar tego ludu? Czy ja począłem ten lud? Czy ja go zrodziłem, że mówisz do mnie: Nieś go na łonie swoim, jak piastun nosi niemowlę, do ziemi, którą poprzysiągłeś jego ojcom? Skąd mam wziąć mięso, aby dać całemu temu ludowi? Gdyż biadają wobec mnie, mówiąc: Daj nam mięsa, abyśmy jedli! Ja sam nie mogę unieść całego tego ludu, gdyż za ciężki jest dla mnie. A jeżeli tak postępujesz ze mną, to zabij mnie raczej zaraz, jeżeli znalazłem łaskę w twoich oczach, abym nie musiał patrzeć na moje nieszczęście."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Mojżesz mówi to wszystko wprost do Boga, łącznie z zarzutem i prośbą o śmierć. **Co to mówi o tym, co wolno powiedzieć Bogu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 14: ja sam nie mogę unieść całego tego ludu. **Czy to jest skarga, czy diagnoza?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dalszy ciąg rozdziału pokazuje, że Bóg rozwiązuje problem, dzieląc odpowiedzialność na siedemdziesięciu. **Czego to nie zmienia i co zmienia?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "A myśmy się spodziewali",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 24,17-24",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł do nich: Cóż to za rozmowy, idąc, prowadzicie z sobą? I przystanęli przygnębieni. A odpowiadając jeden, imieniem Kleopas, rzekł do niego: Czyś Ty jedyny pątnik w Jerozolimie, który nie wie, co się w niej w tych dniach stało? Rzekł im: Co? Oni zaś odpowiedzieli mu: Z Jezusem Nazareńskim, który był mężem, prorokiem mocarnym w czynie i w słowie przed Bogiem i wszystkim ludem, jak arcykapłani i zwierzchnicy nasi wydali na niego wyrok śmierci i ukrzyżowali go. A myśmy się spodziewali, że On odkupi Izraela, lecz po tym wszystkim już dziś trzeci dzień, jak się to stało. Lecz i niektóre nasze niewiasty, które były wczesnym rankiem u grobu, wprawiły nas w zdumienie, bo nie znalazły jego ciała, przyszły mówiąc, że miały widzenie aniołów, powiadających, iż On żyje. Toteż niektórzy z tych, którzy byli z nami, poszli do grobu i zastali to tak, jak mówiły niewiasty, lecz jego nie widzieli."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Najważniejsze zdanie tej rozmowy to: a myśmy się spodziewali. **Co dokładnie zawiodło: fakty czy oczekiwania?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Oni mają już informację o pustym grobie i o aniołach. Mimo to idą przygnębieni w przeciwną stronę. **Dlaczego wiadomość im nie pomogła?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus idzie z nimi kawał drogi i zadaje pytania, zamiast od razu się ujawnić. **Po co ta zwłoka?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Zniechęcenie rzadko bierze się z braku informacji. Ci dwaj wiedzą wszystko, co trzeba, łącznie z relacją kobiet o pustym grobie, a mimo to wracają do domu. Problem leży w zdaniu „myśmy się spodziewali\", czyli w rozjeździe między tym, czego oczekiwali, a tym, co się stało. Bóg zrobił coś większego, niż planowali, a oni odbierają to jako porażkę, bo wygląda inaczej niż ich wyobrażenie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Nie ustawajmy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ga 6,9",
+       "przeklad": "BW",
+       "akapity": [
+        "A czynić dobrze nie ustawajmy, albowiem we właściwym czasie żąć będziemy bez znużenia."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł nie obiecuje, że zmęczenie minie. Obiecuje coś innego. **Co dokładnie i kiedy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„We właściwym czasie\" to zastrzeżenie, którego nikt nie lubi. **Dlaczego Paweł go nie pomija?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Powaleni, ale nie pokonani",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Kor 4,8-9.16-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Zewsząd uciskani, nie jesteśmy jednak pognębieni, zakłopotani, ale nie zrozpaczeni, prześladowani, ale nie opuszczeni, powaleni, ale nie pokonani, [...] Dlatego nie upadamy na duchu; bo choć zewnętrzny nasz człowiek niszczeje, to jednak ten nasz wewnętrzny odnawia się z każdym dniem. Albowiem nieznaczny chwilowy ucisk przynosi nam przeogromną obfitość wiekuistej chwały, nam, którzy nie patrzymy na to, co widzialne, ale na to, co niewidzialne; albowiem to, co widzialne, jest doczesne, a to, co niewidzialne, jest wieczne."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł czterokrotnie stawia obok siebie dwie rzeczy: co go spotyka i co się z nim mimo to nie dzieje. **Wypiszcie te pary. Czego w nich nie ma?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 16 mówi o niszczeniu jednego i odnawianiu drugiego jednocześnie. **Co to znaczy w praktyce dla kogoś, kto jest wyczerpany?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paweł nazywa swój ucisk nieznacznym i chwilowym, choć znamy listę tego, co przeszedł. **Skąd bierze taką miarę?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ci, którzy ufają",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 40,29-31",
+       "przeklad": "BW",
+       "akapity": [
+        "Zmęczonemu daje siłę, a bezsilnemu moc w obfitości. Młodzieńcy ustają i mdleją, a pacholęta potykają się i upadają, lecz ci, którzy ufają Panu, nabierają siły, wzbijają się w górę na skrzydłach jak orły, biegną, a nie mdleją, idą, a nie ustają."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Kolejność w wersecie 31 jest odwrotna, niż byśmy napisali: wzbijają się, potem biegną, potem idą. **Dlaczego chodzenie jest na końcu, a nie na początku?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Werset 30 mówi, że młodzi też się męczą. **Przeciw jakiemu przekonaniu to jest napisane?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Eliasz po odpoczynku i po spotkaniu z Bogiem dalej mówi to samo co wcześniej, słowo w słowo. **Co to mówi o tempie wychodzenia ze zniechęcenia? Czy istnieje moment, w którym wolno komuś powiedzieć: dosyć tego, weź się w garść?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Bóg tego Eliaszowi nie mówi. Daje mu jedzenie, ciszę, nowe zadanie i człowieka do współpracy. To cztery rzeczy, a żadna z nich nie jest napomnieniem.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Eliasz najpierw dostał sen i jedzenie. **Czego twoje zniechęcenie potrzebuje najpierw: odpoczynku, rozmowy z człowiekiem czy rozmowy z Bogiem?** Bądź szczery co do kolejności.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dwaj uczniowie zniechęcili się przez zdanie „myśmy się spodziewali\". **Czego ty się spodziewałeś, a nie dostałeś?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **jest coś, co robisz od dawna i nie widzisz efektów?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg nie zaczął od kazania dla Eliasza. Zaczął od snu i jedzenia, a rozmowę odłożył na później.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Ga 6,9 albo Iz 40,31.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Sprawdź, czy twoje zniechęcenie jest zmęczeniem, czy rozczarowaniem. **To pierwsze mija po odpoczynku, drugie nie.** Jeśli to drugie, nazwij oczekiwanie, które zawiodło. Zwykle jest bardzo konkretne.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Mojżesz powiedział Bogu wprost, że jest za ciężko i że sam nie uniesie. **Powiedz to samo, jeśli tak jest. Bez łagodzenia i bez tłumaczenia się, że inni mają gorzej.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli niesiesz coś, czego nie powinieneś nieść sam, oddaj komuś jedną rzecz w tym tygodniu. Nie całość. Jedną.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa zmienia się w narzekanie na konkretne osoby w zborze.** Utnij. „Bez nazwisk, wróćmy do tekstu.\" Zniechęcenie w służbie prawie zawsze ma twarze, ale grupa domowa nie jest miejscem na rozliczenia.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi, że nie ma po co żyć.** Potraktuj poważnie, nie duchowo. Nie zostawiaj tego bez dalszego kroku po spotkaniu. Nie cytuj mu Eliasza jako pocieszenia.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Trzeba się po prostu nie poddawać.\"** Odpowiedź jest w tekście: Bóg nie powiedział tego Eliaszowi. Dał mu jeść.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna motywować innych.** Motywacja na tym spotkaniu jest tym, czym rady przyjaciół Hioba. Łagodnie wróć do pytania.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Jeśli służysz Bogu, nie powinieneś się wypalać.\"** Mojżesz, Eliasz i Paweł mówią co innego. Odeślij do tekstu, nie do własnego zdania.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Cisza.** Naturalna przy tym temacie, bo przyznanie się do wyczerpania kosztuje w kościele więcej niż przyznanie się do gniewu.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Rozmowa zmienia się w narzekanie na konkretne osoby w zborze.",
+     "odpowiedz": "Utnij. „Bez nazwisk, wróćmy do tekstu.\" Zniechęcenie w służbie prawie zawsze ma twarze, ale grupa domowa nie jest miejscem na rozliczenia."
+    },
+    {
+     "sytuacja": "Ktoś mówi, że nie ma po co żyć.",
+     "odpowiedz": "Potraktuj poważnie, nie duchowo. Nie zostawiaj tego bez dalszego kroku po spotkaniu. Nie cytuj mu Eliasza jako pocieszenia."
+    },
+    {
+     "sytuacja": "„Trzeba się po prostu nie poddawać.\"",
+     "odpowiedz": "Odpowiedź jest w tekście: Bóg nie powiedział tego Eliaszowi. Dał mu jeść."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna motywować innych.",
+     "odpowiedz": "Motywacja na tym spotkaniu jest tym, czym rady przyjaciół Hioba. Łagodnie wróć do pytania."
+    },
+    {
+     "sytuacja": "„Jeśli służysz Bogu, nie powinieneś się wypalać.\"",
+     "odpowiedz": "Mojżesz, Eliasz i Paweł mówią co innego. Odeślij do tekstu, nie do własnego zdania."
+    },
+    {
+     "sytuacja": "Cisza.",
+     "odpowiedz": "Naturalna przy tym temacie, bo przyznanie się do wyczerpania kosztuje w kościele więcej niż przyznanie się do gniewu."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,920 @@
+{
+ "tytul": "Owce i kozły",
+ "id": "PJ-12",
+ "seria": "Przypowieści Jezusa",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Mt 25,31-46; Mt 26,1-2",
+  "p2": "Dn 7,13-14; Ez 34,17-22; Prz 19,17; Dz 9,3-5; Mt 6,3-4; Mt 7,21-23; Jk 2,14-17; J 19,28; Mt 27,35",
+  "p3": "Mt 10,40-42; Mt 12,48-50; Ef 2,8-10; Jud 7; 2Tes 1,9"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 34
+ },
+ "tagi": [
+  "przypowieści",
+  "sąd",
+  "miłosierdzie",
+  "ubodzy",
+  "powrót Jezusa",
+  "obraz Boga"
+ ],
+ "wersja": 1,
+ "zdanie": "Na sądzie wyjdzie na jaw to, czego nikt nie zapisywał, a Sędzią będzie Ten, który sam był głodny, nagi i uwięziony.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To ostatnia opowieść, jaką Jezus mówi przed męką, i jedyny tak rozbudowany obraz sądu w Ewangeliach. Najdziwniejsze w nim jest to, że zdziwieni są wszyscy. Ci po prawej nie pamiętają, żeby kiedykolwiek usłużyli Królowi. Ci po lewej nie pamiętają, żeby Go kiedykolwiek minęli. Sąd dotyczy rzeczy, których nikt nie zapisywał. Spotkanie ma zostać przy tym zdziwieniu i przy zdaniu „mnie uczyniliście\", a nie przy rachunku dobrych uczynków. To spotkanie jest zamkniętą całością i nie wymaga znajomości wcześniejszych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Lęk przed sądem. Ktoś przy stole od dziecka boi się tego tekstu i słyszy w nim tylko werset 41. Zobacz pierwszą czerwoną flagę.",
+      "Licytacja. Ktoś zaczyna wyliczać, komu pomógł, albo grupa zaczyna planować akcję charytatywną, żeby znaleźć się po prawej stronie. To dokładnie odwrotność tego, co robią owce.",
+      "Pytanie o zbawienie z uczynków. Jest uczciwe i ma swój blok na poziomie 3. Na poziomie 1 wystarczy trzymać się tekstu: owce niczego nie liczyły.",
+      "Pytanie o wieczne męki. Werset 46 je wywoła. Pełne studium jest w materiale „Czy Bóg mnie ukarze?\", tu jest tylko krótki blok na poziomie 3.",
+      "Przy stole może siedzieć ktoś, kto sam jest dziś głodny, chory, obcy albo ma bliskiego w więzieniu. Dla niego ten tekst brzmi z drugiej strony: Król stoi po jego stronie."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie ustawiaj nikogo po żadnej stronie. Nie kończ listą zadań dla grupy. Nie zamieniaj spotkania w spór o piekło. Nie łagodź tekstu, ale też nim nie strasz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie sytuację, w której ktoś zrobił dla ciebie coś dobrego i prawdopodobnie dawno o tym zapomniał, a ty pamiętasz do dziś. Powiedz jednym zdaniem, co to było.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, jednym zdaniem. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Tron i pasterz",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 25,31-33",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy przyjdzie Syn Człowieczy w chwale swojej i wszyscy aniołowie z nim, wtedy zasiądzie na tronie swej chwały. I będą zgromadzone przed nim wszystkie narody, i odłączy jedne od drugich, jak pasterz odłącza owce od kozłów. I ustawi owce po swojej prawicy, a kozły po lewicy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W trzech zdaniach Jezus używa dwóch obrazów: króla na tronie i pasterza przy stadzie. **Co każdy z nich mówi o tym, kto sądzi? Co daje ich połączenie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ten, kto to mówi, siedzi na zboczu góry z garstką uczniów, a za dwa dni zostanie aresztowany. **Jak te słowa brzmią w ustach kogoś w takiej sytuacji?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Przed tronem stają „wszystkie narody\". **Kto w takim razie ogląda tę scenę z boku?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Owce i kozy do dziś pasie się w tamtym regionie razem, bo jedzą nieco inną paszę i można je prowadzić jednym stadem. Wieczorem pasterz często je rozdziela, ponieważ kozy gorzej znoszą chłód i potrzebują cieplejszego schronienia. Słuchacze widzieli tę czynność wiele razy. Pasterz nie musiał się zastanawiać, które zwierzę jest które. Rozróżnienie było widoczne od dawna, wieczór tylko je ujawniał.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** To koniec ostatniej wielkiej mowy Jezusa u Mateusza. Jezus siedzi z uczniami na Górze Oliwnej i odpowiada na pytanie o swoje przyjście i koniec świata. Po zapowiedziach opowiada kilka historii o czekaniu: o słudze, o pannach, o talentach. Ta scena zamyka całość. Następne zdanie Ewangelii mówi już o Passze i o krzyżu. Po tych słowach nie ma już u Mateusza żadnej dłuższej mowy Jezusa.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Tytuł Syn Człowieczy, którym Jezus mówi o sobie, pochodzi z Księgi Daniela. Tam postać podobna do człowieka otrzymuje władzę nad wszystkimi narodami. Słuchacze znający Pisma słyszeli więc w pierwszym zdaniu bardzo wysokie roszczenie.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 7,13-14",
+       "przeklad": "BW",
+       "akapity": [
+        "I widziałem w widzeniach nocnych: Oto na obłokach niebieskich przyszedł ktoś, podobny do Syna Człowieczego; doszedł do Sędziwego i stawiono go przed nim. I dano mu władzę i chwałę, i królestwo, aby mu służyły wszystkie ludy, narody i języki, Jego władza – władzą wieczną, niezmienną, jego królestwo – niezniszczalne."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "U Daniela Syn Człowieczy otrzymuje władzę po bestiach, które pożerały i deptały. **Co zapowiada o Jego sądzie to, że jest „podobny do człowieka\", a nie do bestii?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pasterz, który już raz rozsądzał",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ez 34,17-22",
+       "przeklad": "BW",
+       "akapity": [
+        "Do was zaś, moje owce, mówi Wszechmocny Pan: Oto Ja rozsądzę między owcą a owcą, między baranami i kozłami. Czy nie dość wam tego, że spasacie najlepsze pastwisko, ale jeszcze resztę waszego pastwiska depczecie swoimi nogami, pijecie czystą wodę, ale jeszcze pozostałą resztę mącicie swoimi nogami? I moje owce musiały paść się na tym, co zdeptały wasze nogi, i pić to, co zmąciły wasze nogi. Dlatego tak mówi do nich Wszechmocny Pan: Oto Ja sam rozsądzę między owcami tłustymi a owcami chudymi. Ponieważ odepchnęliście wszystkie słabe bokiem i plecami i odtrąciliście je swoimi rogami, aż wypchnęliście je na zewnątrz, dlatego wyratuję moją trzodę i już nie będzie łupem. Rozsądzę między owcą a owcą."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "U Ezechiela Bóg rozsądza wewnątrz jednego stada. **Za co sądzi silne zwierzęta i po czyjej stronie staje?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co z tego proroctwa wraca w opowieści Jezusa, a co Jezus dodaje nowego?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Przygotowane od założenia świata",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 25,34-36",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy powie król tym po swojej prawicy: Pójdźcie, błogosławieni Ojca mego, odziedziczcie Królestwo, przygotowane dla was od założenia świata. Albowiem łaknąłem, a daliście mi jeść, pragnąłem, a daliście mi pić, byłem przychodniem, a przyjęliście mnie, byłem nagi, a przyodzialiście mnie, byłem chory, a odwiedzaliście mnie, byłem w więzieniu, a przychodziliście do mnie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przyjrzyjcie się sześciu rzeczom z listy. **Co je łączy? Czego na tej liście nie ma, choć można by się tego spodziewać na sądzie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Król mówi „odziedziczcie\" i dodaje, że Królestwo było przygotowane „od założenia świata\". **Co te dwa wyrażenia mówią o tym, skąd się bierze miejsce po prawej stronie?** Jak się dziedziczy, a jak się zarabia?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Żadna z tych sześciu rzeczy nie wymaga majątku, wykształcenia ani urzędu. **Co z tego wynika?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Kiedy cię widzieliśmy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 25,37-40",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy odpowiedzą mu sprawiedliwi tymi słowy: Panie! Kiedy widzieliśmy cię łaknącym, a nakarmiliśmy cię, albo pragnącym, a daliśmy ci pić? A kiedy widzieliśmy cię przychodniem i przyjęliśmy cię albo nagim i przyodzialiśmy cię? I kiedy widzieliśmy cię chorym albo w więzieniu, i przychodziliśmy do ciebie? A król, odpowiadając, powie im: Zaprawdę powiadam wam, cokolwiek uczyniliście jednemu z tych najmniejszych moich braci, mnie uczyniliście."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Sprawiedliwi są szczerze zaskoczeni. **Co ich zdziwienie mówi o tym, jak i po co pomagali?** Czego ci ludzie najwyraźniej nie prowadzili?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Król nie mówi „policzę wam to tak, jakbyście uczynili to mnie\". Mówi „mnie uczyniliście\". **Jaka jest różnica między tymi dwoma zdaniami?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Co zmienia w patrzeniu na człowieka w potrzebie świadomość, że Król nazywa go swoim bratem, i to najmniejszym?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Myśl, że Bóg bierze do siebie to, co robi się ubogiemu, była znana. Księga Przypowieści mówi, że kto lituje się nad ubogim, pożycza Panu. Jezus idzie o krok dalej. Nie mówi o pożyczce ani o zapisie na koncie. Mówi, że był tam osobiście. Zdziwienie sprawiedliwych jest najlepszym dowodem, że nie zbierali punktów. Kto zbiera punkty, ten wie, ile ich ma.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ten sam głos na drodze do Damaszku",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 19,17",
+       "przeklad": "BW",
+       "akapity": [
+        "Kto się lituje nad ubogim, pożycza Panu, a ten mu odpłaci za jego dobrodziejstwo."
+       ]
+      },
+      {
+       "odnosnik": "Dz 9,3-5",
+       "przeklad": "BW",
+       "akapity": [
+        "I stało się w czasie drogi, że gdy się zbliżał do Damaszku, olśniła go nagle światłość z nieba, a gdy padł na ziemię, usłyszał głos mówiący do niego: Saulu, Saulu, czemu mnie prześladujesz? I rzekł: Kto jesteś, Panie? A On: Ja jestem Jezus, którego ty prześladujesz;"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Saul nigdy nie spotkał Jezusa. Prześladował ludzi w Jerozolimie i jechał po następnych. **Co mówi mu głos z nieba i jak to się ma do zdania „mnie uczyniliście\"?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Saul też zapytał: kto jesteś, Panie? **Co łączy jego pytanie z pytaniem obu grup przed tronem?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Niech nie wie lewica",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 6,3-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Ale ty, gdy dajesz jałmużnę, niechaj nie wie lewica twoja, co czyni prawica twoja, aby twoja jałmużna była ukryta, a Ojciec twój, który widzi w ukryciu, odpłaci tobie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Na początku swojego nauczania Jezus mówił o pomaganiu, o którym nie wie nawet własna lewa ręka. **Jak to zdanie wypełnia się w scenie sądu?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "To samo pytanie z drugiej strony",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 25,41-45",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy powie i tym po lewicy: Idźcie precz ode mnie, przeklęci, w ogień wieczny, zgotowany diabłu i jego aniołom. Albowiem łaknąłem, a nie daliście mi jeść, pragnąłem, a nie daliście mi pić. Byłem przychodniem, a nie przyjęliście mnie, nagim, a nie przyodzialiście mnie, chorym i w więzieniu i nie odwiedziliście mnie. Wtedy i oni mu odpowiedzą, mówiąc: Panie! Kiedy widzieliśmy cię łaknącym albo pragnącym, albo przychodniem, albo nagim, albo chorym, albo w więzieniu i nie usłużyliśmy ci? Wtedy im odpowie tymi słowy: Zaprawdę powiadam wam, czegokolwiek nie uczyniliście jednemu z tych najmniejszych, i mnie nie uczyniliście."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przejrzyjcie zarzuty. **Jakiego rodzaju winy tu są, a jakich nie ma wcale?** Kim ci ludzie mogli być w oczach sąsiadów?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Obie grupy zadają to samo pytanie i obie mówią do Króla „Panie\". **Czym różni się ich zdziwienie?** Posłuchajcie uważnie końcówki wersetu 44: co z niej wynika o tym, komu ci ludzie byliby gotowi usłużyć?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Porównajcie werset 34 z wersetem 41. Królestwo jest przygotowane „dla was\". **Dla kogo przygotowany jest ogień? Co ta różnica mówi o tym, czego Bóg chciał dla ludzi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ci po lewej nie są w tej scenie zbrodniarzami. Nikogo nie zabili ani nie okradli. Ich wina składa się wyłącznie z zaniechań. Mówią, że gdyby zobaczyli Króla, usłużyliby Mu. Problem w tym, że wypatrywali Króla, a mijali człowieka. Opowieść nie każe zgadywać, kto stoi po której stronie. Każe patrzeć pod nogi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Panie, Panie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 7,21-23",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie każdy, kto do mnie mówi: Panie, Panie, wejdzie do Królestwa Niebios; lecz tylko ten, kto pełni wolę Ojca mojego, który jest w niebie. W owym dniu wielu mi powie: Panie, Panie, czyż nie prorokowaliśmy w imieniu twoim i w imieniu twoim nie wypędzaliśmy demonów, i w imieniu twoim nie czyniliśmy wielu cudów? A wtedy im powiem: Nigdy was nie znałem. Idźcie precz ode mnie wy, którzy czynicie bezprawie."
+       ]
+      },
+      {
+       "odnosnik": "Jk 2,14-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Cóż to pomoże, bracia moi, jeśli ktoś mówi, że ma wiarę, a nie ma uczynków? Czy wiara może go zbawić? Jeśli brat albo siostra nie mają się w co przyodziać i brakuje im powszedniego chleba, a ktoś z was powiedziałby im: Idźcie w pokoju, ogrzejcie się i nasyćcie, a nie dalibyście im tego, czego ciało potrzebuje, cóż to pomoże? Tak i wiara, jeżeli nie ma uczynków, martwa jest sama w sobie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ludzie z Kazania na Górze pamiętają swoje czyny bardzo dokładnie i potrafią je wyliczyć. Owce z rozdziału 25 nie pamiętają niczego. **Co mówi to zestawienie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakub opisuje kogoś, kto głodnemu mówi pobożne zdanie i odchodzi. **Czym taka pobożność różni się od obojętności? A może niczym?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Za dwa dni",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 25,46",
+       "przeklad": "BW",
+       "akapity": [
+        "I odejdą ci na kaźń wieczną, sprawiedliwi zaś do życia wiecznego."
+       ]
+      },
+      {
+       "odnosnik": "Mt 26,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy Jezus dokończył wszystkich tych mów, rzekł do uczniów swoich: Wiecie, że za dwa dni będzie Pascha i Syn Człowieczy będzie wydany na ukrzyżowanie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ten sam „Syn Człowieczy\", który w wersecie 31 zasiada na tronie chwały, w następnym zdaniu Ewangelii zostaje wydany na ukrzyżowanie. **Co to zestawienie mówi o Sędzim?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wróćcie do listy z wersetów 35-36 i przypomnijcie sobie, co spotkało Jezusa w ciągu następnych trzech dni. **Które punkty tej listy przeszedł On sam?** Jak to zmienia słuchanie zdania „mnie uczyniliście\"?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Jakim słowem kończy się ostatnia mowa Jezusa u Mateusza?** Czy to ma znaczenie?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Sąd w tej opowieści nie wprowadza nowych zasad. Sprawdza to, o czym Jezus mówił od początku: czy miłość, którą się wyznawało, miała ręce. Sędzia nie przygląda się ludzkiej biedzie z wysokości tronu. Zna ją od środka: głód, pragnienie, obcy trybunał, odarcie z szat, więzienie. Dla skrzywdzonych i pominiętych to jest dobra nowina. Ich sprawę bierze Ktoś, kto leżał tam, gdzie oni.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Lista, którą przeszedł sam",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 19,28",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem Jezus, wiedząc, że się już wszystko wykonało, aby się wypełniło Pismo, powiedział: Pragnę."
+       ]
+      },
+      {
+       "odnosnik": "Mt 27,35",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy go przybili do krzyża, rozdzielili szaty jego, rzucając o nie losy,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W Wielki Piątek Jezus był spragniony, nagi, uwięziony i obcy we własnym mieście. **Kto w opisie męki zachował się wobec Niego jak owce z przypowieści, a kto jak kozły?** Czy ktokolwiek z nich wiedział, komu służy albo kogo mija?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: kim są najmniejsi bracia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Są dwa odczytania i oba mają oparcie w Ewangelii Mateusza.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W pierwszym „najmniejsi bracia\" to uczniowie Jezusa, zwłaszcza posłani z Ewangelią. Mateusz używa słowa „bracia\" najczęściej o uczniach, a „maluczcy\" to u niego wierzący. Narody byłyby wtedy sądzone po tym, jak przyjęły bezbronnych posłańców Króla.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 10,40-42",
+       "przeklad": "BW",
+       "akapity": [
+        "Kto was przyjmuje, mnie przyjmuje, a kto mnie przyjmuje, przyjmuje tego, który mnie posłał. Kto przyjmuje proroka jako proroka, otrzyma zapłatę proroka; a kto przyjmuje sprawiedliwego jako sprawiedliwego, otrzyma zapłatę sprawiedliwego. A ktokolwiek by napoił jednego z tych maluczkich tylko kubkiem zimnej wody jako ucznia, zaprawdę powiadam wam, nie straci zapłaty swojej."
+       ]
+      },
+      {
+       "odnosnik": "Mt 12,48-50",
+       "przeklad": "BW",
+       "akapity": [
+        "A On, odpowiadając, rzekł temu, co mu to powiedział: Któż jest moją matką? I kto to bracia moi? I wyciągnąwszy rękę ku uczniom swoim, rzekł: Oto matka moja i bracia moi! Albowiem ktokolwiek czyni wolę Ojca mojego, który jest w niebie, ten jest moim bratem i siostrą, i matką."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W drugim odczytaniu najmniejszym bratem jest każdy człowiek w potrzebie. Przemawia za tym zdziwienie owiec: w rozdziale 10 ucznia przyjmuje się „jako ucznia\", czyli wiedząc, czyj jest, a tutaj nikt nie wie, komu służy. W wersecie 45 słowo „bracia\" w ogóle znika i zostają sami „najmniejsi\".",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co w tekście przemawia za pierwszym odczytaniem, a co za drugim?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Oba odczytania zgadzają się w jednym: Król utożsamia się ze słabymi, a nie z silnymi, i żadne nie pozwala minąć człowieka w potrzebie. **Czy wybór między nimi zmienia cokolwiek w tym, co mamy zrobić jutro?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: sąd według uczynków i zbawienie z łaski",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ef 2,8-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem łaską zbawieni jesteście przez wiarę, i to nie z was: Boży to dar; nie z uczynków, aby się kto nie chlubił. Jego bowiem dziełem jesteśmy, stworzeni w Chrystusie Jezusie do dobrych uczynków, do których przeznaczył nas Bóg, abyśmy w nich chodzili."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W scenie sądu nie pada żadne inne kryterium niż czyny miłosierdzia, a wyrok łączy z nimi słowo „albowiem\". Paweł pisze, że zbawienie nie jest z uczynków. Te teksty często ustawia się przeciwko sobie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Poszukajcie w samej scenie sądu śladów łaski.** Zwróćcie uwagę na słowa „błogosławieni Ojca mego\", „odziedziczcie\", „przygotowane od założenia świata\" i na to, że sprawiedliwi nie potrafią wskazać ani jednej swojej zasługi.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł w jednym zdaniu mówi „nie z uczynków\" i „stworzeni do dobrych uczynków\". **Czym różni się uczynek, który jest korzeniem zbawienia, od uczynku, który jest jego owocem?** Po której stronie tej różnicy stoją owce?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: kaźń wieczna",
+   "elementy": [
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "to tylko krótkie wprowadzenie. Pełne studium tematu jest w materiale „Czy Bóg mnie ukarze? Sąd i piekło\". Jeśli grupa chce iść głębiej, zaproponuj tamto spotkanie.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Werset 46 zestawia „kaźń wieczną\" z „życiem wiecznym\". Chrześcijanie czytają go na dwa sposoby. Według pierwszego skoro życie trwa bez końca, to bez końca trwa także świadome cierpienie odrzuconych, bo oba wyrażenia mają ten sam przymiotnik. Według drugiego wieczna jest kara w swoim skutku, a nie karanie jako proces: odrzuceni giną naprawdę i na zawsze, a przeciwieństwem życia wiecznego jest śmierć, z której nie ma powrotu. Tak czytają ten werset adwentyści.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jud 7",
+       "przeklad": "BW",
+       "akapity": [
+        "tak też Sodoma i Gomora i okoliczne miasta, które w podobny do nich sposób oddały się rozpuście i przeciwnemu naturze pożądaniu cudzego ciała, stanowią przykład kary ognia wiecznego za to."
+       ]
+      },
+      {
+       "odnosnik": "2Tes 1,9",
+       "przeklad": "BW",
+       "akapity": [
+        "Poniosą oni karę: zatracenie wieczne, oddalenie od oblicza Pana i od mocy chwały jego,"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Juda nazywa los Sodomy „ogniem wiecznym\", a Paweł mówi o „zatraceniu wiecznym\". **Czy Sodoma płonie do dziś? Co w takim razie może znaczyć słowo „wieczny\" przy słowie oznaczającym karę albo zniszczenie?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Oba stanowiska zgadzają się, że rozstrzygnięcie jest ostateczne, że jest sprawiedliwe i że Bóg go dla nikogo nie chciał, bo ogień był przygotowany dla diabła, nie dla ludzi. **Jak każde z tych odczytań wpływa na obraz Boga, z którym człowiek żyje na co dzień?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ci po lewej mówią, że gdyby zobaczyli Króla, usłużyliby Mu. **Kogo najłatwiej jest nie zobaczyć w twoim zwykłym tygodniu: w domu, w pracy, na klatce schodowej, w zborze?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Owce pomagały i zapominały. **Co dzieje się z dobrym uczynkiem, który człowiek pamięta, liczy albo o którym opowiada?** Jak robić dobro tak, żeby nie wiedziała o nim własna lewa ręka?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy byłeś kiedyś po drugiej stronie tej listy, czyli głodny, chory, obcy albo odcięty od ludzi, i ktoś przyszedł?** Co to dla ciebie znaczyło?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Owce nie wiedziały, że służą Królowi. My po przeczytaniu tego tekstu już wiemy. **Czy można karmić głodnego po to, żeby znaleźć się po prawej stronie, i czy to jest jeszcze to, o czym mówi Jezus? Jak mając tę wiedzę, zachować niewiedzę owiec?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie rozwiązuj tego formułą. Warto, żeby padło jedno spostrzeżenie: owce nie patrzyły ani na nagrodę, ani na siebie. Patrzyły na człowieka, który był głodny. Możliwe, że jedyną drogą do ich niewiedzy jest patrzeć tam, gdzie one.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Na sądzie wyjdzie na jaw to, czego nikt nie zapisywał, a Sędzią będzie Ten, który sam był głodny, nagi i uwięziony.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Mt 25,40.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przez najbliższe dni zwróć uwagę na jedną osobę, którą zwykle mijasz. **Nie planuj od razu pomocy. Najpierw ją zobacz.** Zapytaj siebie, dlaczego dotąd była dla ciebie niewidoczna.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jeśli ten tekst budzi w tobie lęk, powiedz o tym Bogu wprost. Potem zostań przy wersecie 34 i zapytaj: **czy wierzę, że to Królestwo było przygotowane także dla mnie, zanim cokolwiek zrobiłem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** zrób jedną rzecz z listy z wersetów 35-36 tak, żeby nie dowiedział się o niej nikt, także ta grupa. Jeśli złapiesz się na tym, że chcesz ją komuś opowiedzieć, przyjrzyj się temu pragnieniu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Boję się tego tekstu. Nigdy nie będę wiedzieć, czy zrobiłem dość.\"** Potraktuj to poważnie i nie zagaduj. Zauważ razem z tą osobą, że pytanie „czy zrobiłem dość\" jest pytaniem kogoś, kto liczy, a owce nie liczyły. Przeczytaj jeszcze raz werset 34: błogosławieni Ojca, odziedziczcie, przygotowane od założenia świata. Zwróć też uwagę, kto sądzi: Ten, który dwa dni później oddał za tych ludzi życie. Jeśli lęk przed sądem towarzyszy komuś od dzieciństwa i odbiera mu spokój, to rozmowa na osobności, nie przy stole.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna wyliczać, komu pomógł, albo grupa licytuje się zasługami.** Przerwij łagodnie pytaniem do wszystkich: „Co w tej scenie potrafią wyliczyć owce?\" Nie zawstydzaj osoby, która zaczęła. Zwykle robi to z niepewności, nie z pychy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Zróbmy jako grupa akcję pomocy, żeby nie skończyć po lewej stronie.\"** Pomysł pomocy jest dobry, motyw nie. Nie gaś inicjatywy, ale oddziel ją od spotkania: „Porozmawiajmy o tym po modlitwie. Teraz zostańmy przy pytaniu, kogo nie widzę\". Nie pozwól, żeby spotkanie zakończyło się rozdzieleniem zadań.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli jednak zbawienie jest z uczynków.\"** Nie wchodź w spór wyznaniowy. Przy stole mogą siedzieć katolicy i protestanci i obie tradycje traktują ten tekst poważnie. Wróć do tekstu: Królestwo się dziedziczy, było przygotowane wcześniej, a sprawiedliwi nie umieją wskazać żadnej zasługi. Jeśli prowadzisz poziom 1, możesz przeczytać Ef 2,8-10 z poziomu 3 i zapytać, co jest korzeniem, a co owocem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A co z ludźmi, którzy nigdy nie słyszeli o Jezusie?\"** Tekst mówi o „wszystkich narodach\" i o ludziach, którzy nie wiedzieli, że służą Królowi. Więcej nie mówi i nie dopowiadaj za niego. Nikt przy stole nie rozstrzyga losu konkretnych ludzi. Jest o tym osobny materiał „Czy Jezus to jedyna droga?\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Spór o piekło i wieczne męki.** Nie rozstrzygaj go przy poziomie 1. Powiedz, że chrześcijanie czytają werset 46 na dwa sposoby, że jest o tym osobne spotkanie, i wróć do pytania, o co w tej scenie pyta Sędzia. Nie pozwól, żeby ktokolwiek wyśmiewał przekonania innych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś przy stole sam jest dziś w potrzebie: chory, bez pracy, obcy w kraju, z bliskim w więzieniu.** Nie rób z niego ilustracji i nie organizuj mu pomocy na forum. Dla niego ten tekst brzmi inaczej: Król stoi po jego stronie i nazywa go bratem. Jeśli sam o tym powie, podziękuj. O konkretnej pomocy porozmawiaj z nim po spotkaniu, dyskretnie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na politykę: uchodźcy, zasiłki, więziennictwo.** Przerwij. Tekst mówi w drugiej osobie o tym, co ja zrobiłem z człowiekiem na mojej drodze. Nie mówi, jak ma głosować mój sąsiad.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Skróć blok 2. Bloki 3 i 4 muszą paść oba, bo cała opowieść stoi na dwóch takich samych pytaniach. Blok 5 potrzebuje choćby pięciu minut, inaczej spotkanie skończy się na ogniu, a nie na Sędzim.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Boję się tego tekstu. Nigdy nie będę wiedzieć, czy zrobiłem dość.\"",
+     "odpowiedz": "Potraktuj to poważnie i nie zagaduj. Zauważ razem z tą osobą, że pytanie „czy zrobiłem dość\" jest pytaniem kogoś, kto liczy, a owce nie liczyły. Przeczytaj jeszcze raz werset 34: błogosławieni Ojca, odziedziczcie, przygotowane od założenia świata. Zwróć też uwagę, kto sądzi: Ten, który dwa dni później oddał za tych ludzi życie. Jeśli lęk przed sądem towarzyszy komuś od dzieciństwa i odbiera mu spokój, to rozmowa na osobności, nie przy stole."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna wyliczać, komu pomógł, albo grupa licytuje się zasługami.",
+     "odpowiedz": "Przerwij łagodnie pytaniem do wszystkich: „Co w tej scenie potrafią wyliczyć owce?\" Nie zawstydzaj osoby, która zaczęła. Zwykle robi to z niepewności, nie z pychy."
+    },
+    {
+     "sytuacja": "„Zróbmy jako grupa akcję pomocy, żeby nie skończyć po lewej stronie.\"",
+     "odpowiedz": "Pomysł pomocy jest dobry, motyw nie. Nie gaś inicjatywy, ale oddziel ją od spotkania: „Porozmawiajmy o tym po modlitwie. Teraz zostańmy przy pytaniu, kogo nie widzę\". Nie pozwól, żeby spotkanie zakończyło się rozdzieleniem zadań."
+    },
+    {
+     "sytuacja": "„Czyli jednak zbawienie jest z uczynków.\"",
+     "odpowiedz": "Nie wchodź w spór wyznaniowy. Przy stole mogą siedzieć katolicy i protestanci i obie tradycje traktują ten tekst poważnie. Wróć do tekstu: Królestwo się dziedziczy, było przygotowane wcześniej, a sprawiedliwi nie umieją wskazać żadnej zasługi. Jeśli prowadzisz poziom 1, możesz przeczytać Ef 2,8-10 z poziomu 3 i zapytać, co jest korzeniem, a co owocem."
+    },
+    {
+     "sytuacja": "„A co z ludźmi, którzy nigdy nie słyszeli o Jezusie?\"",
+     "odpowiedz": "Tekst mówi o „wszystkich narodach\" i o ludziach, którzy nie wiedzieli, że służą Królowi. Więcej nie mówi i nie dopowiadaj za niego. Nikt przy stole nie rozstrzyga losu konkretnych ludzi. Jest o tym osobny materiał „Czy Jezus to jedyna droga?\"."
+    },
+    {
+     "sytuacja": "Spór o piekło i wieczne męki.",
+     "odpowiedz": "Nie rozstrzygaj go przy poziomie 1. Powiedz, że chrześcijanie czytają werset 46 na dwa sposoby, że jest o tym osobne spotkanie, i wróć do pytania, o co w tej scenie pyta Sędzia. Nie pozwól, żeby ktokolwiek wyśmiewał przekonania innych."
+    },
+    {
+     "sytuacja": "Ktoś przy stole sam jest dziś w potrzebie: chory, bez pracy, obcy w kraju, z bliskim w więzieniu.",
+     "odpowiedz": "Nie rób z niego ilustracji i nie organizuj mu pomocy na forum. Dla niego ten tekst brzmi inaczej: Król stoi po jego stronie i nazywa go bratem. Jeśli sam o tym powie, podziękuj. O konkretnej pomocy porozmawiaj z nim po spotkaniu, dyskretnie."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na politykę: uchodźcy, zasiłki, więziennictwo.",
+     "odpowiedz": "Przerwij. Tekst mówi w drugiej osobie o tym, co ja zrobiłem z człowiekiem na mojej drodze. Nie mówi, jak ma głosować mój sąsiad."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Skróć blok 2. Bloki 3 i 4 muszą paść oba, bo cała opowieść stoi na dwóch takich samych pytaniach. Blok 5 potrzebuje choćby pięciu minut, inaczej spotkanie skończy się na ogniu, a nie na Sędzim."
+    }
+   ]
+  }
+ ]
+}

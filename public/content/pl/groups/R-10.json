@@ -1,0 +1,890 @@
+{
+ "tytul": "Trudny człowiek",
+ "id": "R-10",
+ "seria": "Relacje",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "1Sm 24,4-8; 1Sm 24,9-13.16; 1Sm 24,17-20.23; 1Sm 25,2-3.10-13.32-33; Łk 6,27-36",
+  "p2": "1Sm 18,10-11; 19,10; Ps 57,1-4; 1Sm 26,21-25; 27,1; 1Sm 25,14-17; Prz 26,4-5; Prz 25,21-22; Rz 12,14-16; 1P 2,21-23",
+  "p3": "Mt 5,43; Kpł 19,17-18; J 18,19-23; Łk 4,28-30"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 31,
+  "p3": 35
+ },
+ "tagi": [
+  "relacje",
+  "nieprzyjaciel",
+  "odwet",
+  "granice",
+  "Dawid",
+  "miłość nieprzyjaciół"
+ ],
+ "wersja": 1,
+ "zdanie": "Trudny człowiek może mi wiele zabrać. Nie musi decydować o tym, kim przy nim będę.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie nie jest o tym, jak zmienić trudnego człowieka. Jest o tym, jak przy nim nie stać się kimś takim jak on. Dawid ma w jaskini nóż i okazję. Nie używa noża, mówi prawdę na głos, oddaje sąd Bogu i odchodzi w swoją stronę. Każdy z tych czterech ruchów jest ważny, a czwarty najłatwiej przeoczyć: Dawid nie wraca na dwór Saula. Rozdział później ten sam Dawid omal nie wycina całego domu z powodu jednej zniewagi, więc nikt tu nie jest bohaterem bez skazy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokrewne materiały: Gniew, Przebaczenie, Pojednanie. Znajomość żadnego z nich nie jest potrzebna.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole może siedzieć ktoś, kto żyje z człowiekiem stosującym przemoc. Dla tej osoby zdanie „miłuj nieprzyjaciół\" może zabrzmieć jak nakaz, żeby została i znosiła. Tekst tego nie mówi. Przeczytaj pierwszą czerwoną flagę przed spotkaniem.",
+      "Każdy ma swojego trudnego człowieka i część grupy może mieć tego samego, na przykład kogoś ze zboru. Rozmowa o nieobecnych zamienia spotkanie w plotkę.",
+      "Ktoś przy stole jest trudnym człowiekiem dla kogoś innego przy tym samym stole. Nie wiesz kto i nie próbuj zgadywać."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pozwól podawać imion ani rozpoznawalnych szczegółów. Nie radź nikomu, co ma zrobić ze swoją relacją. Nie mów nikomu, że powinien wytrzymać.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o człowieku, przy którym najtrudniej ci być sobą. Bez imienia i bez opisu. Powiedz jednym słowem, kim się przy nim stajesz.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, jednym słowem. Jeśli ktoś zacznie opowiadać historię, przerwij łagodnie i poproś o samo słowo.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Nóż i okazja",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Saul jest królem. Dawid był jego muzykiem, dowódcą i zięciem, a od dłuższego czasu ucieka przed nim po pustyni, bo król z zazdrości postanowił go zabić. Saul rusza w pościg z trzema tysiącami ludzi.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Sm 24,4-8",
+       "przeklad": "BW",
+       "akapity": [
+        "I doszedł do szałasów owczych przy drodze, gdzie była jaskinia. Saul wszedł do niej z potrzebą, Dawid zaś i jego wojownicy siedzieli w głębi jaskini. I rzekli wojownicy Dawida do niego: Oto dzień, o którym zapowiedział ci Pan: Wydam twoich wrogów w twoje ręce i będziesz mógł zrobić z nimi, co będziesz chciał. Wstał tedy Dawid i uciął ukradkiem kraj płaszcza Saulowego. Lecz potem ruszyło Dawida sumienie, iż uciął kraj płaszcza Saulowego, I rzekł do swoich wojowników: Broń Boże, abym miał uczynić tę rzecz memu panu, pomazańcowi Pańskiemu, podnosząc swoją rękę na niego, gdyż jest pomazańcem Pańskim. I zgromił Dawid swoich wojowników tymi słowami, i nie pozwolił im wystąpić przeciwko Saulowi; Saul zaś wstał, wyszedł z jaskini i poszedł swoją drogą."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wojownicy mówią Dawidowi, że tę okazję dał mu sam Bóg. **Jak brzmi ich argument i dlaczego jest tak przekonujący?** Co w nim jest pobożnego?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dawid nikogo nie zabił, tylko uciął kawałek płaszcza, a mimo to ruszyło go sumienie. **Co takiego zrobił tym jednym cięciem?** Po co mu był ten kawałek materiału?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Dawid musi powstrzymać nie tylko siebie, ale i swoich ludzi. **Jaką rolę grają w naszych konfliktach ci, którzy stoją po naszej stronie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Dawid nie mówi, że Saul na to nie zasługuje, ani że Saul jest w gruncie rzeczy dobrym człowiekiem. Podaje jeden powód i powtarza go dwa razy: ten człowiek należy do Pana. Nie opiera się na charakterze Saula, bo na nim nie dałoby się niczego oprzeć. Opiera się na tym, do kogo Saul należy i kto ma prawo go osądzić. To rozróżnienie wróci w całym spotkaniu: mogę nie mieć o kimś dobrego zdania i nadal nie podnieść na niego ręki.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Włócznia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Zanim Dawid trafił na pustynię, mieszkał na dworze i grał królowi na harfie.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Sm 18,10-11",
+       "przeklad": "BW",
+       "akapity": [
+        "Następnego dnia wstąpił w Saula zły duch od Boga, tak iż w domu popadł w szał; Dawid grał na harfie jak co dzień, Saul zaś trzymał w ręku włócznię. Wtem rzucił Saul włócznię z tym zamiarem: Przygwożdżę Dawida do ściany. Lecz Dawid uskoczył przed nim dwukrotnie."
+       ]
+      },
+      {
+       "odnosnik": "1Sm 19,10",
+       "przeklad": "BW",
+       "akapity": [
+        "chciał Saul przebić Dawida włócznią i przygwoździć go do ściany, lecz ten wymknął się Saulowi, tak iż tamten wbił włócznię w ścianę, Dawid zaś uciekł i uratował się. Tejże nocy"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Włócznia tkwi w ścianie. Dawid mógł ją wyrwać i odrzucić. **Jakie dwie rzeczy zrobił zamiast tego?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dawid nie oddaje ciosu i nie zostaje w pokoju, w którym latają włócznie. **Dlaczego tak łatwo nam uznać, że możliwe jest tylko jedno z dwojga: oddać albo znosić?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Psalm z jaskini",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 57,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Przewodnikowi chóru. Na nutę: „Nie zatracaj...\" Miktam Dawida, gdy uciekał przed Saulem do jaskini. Zmiłuj się nade mną, Boże, zmiłuj się nade mną, Bo tobie zaufała dusza moja I w cieniu twych skrzydeł chcę się schronić, Aż przeminie nieszczęście! Wołam do Boga Najwyższego, do Boga, Który do końca doprowadzi sprawę moją. On ześle pomoc z nieba i wybawi mnie, Gdy lży mnie gnębiciel. Sela. Bóg ześle łaskę swoją i wierność swoją."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nagłówek łączy ten psalm z jaskinią. **Komu Dawid mówi o swoim gnębicielu i co to zmienia w tym, jak potem rozmawia z samym gnębicielem?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Prawda powiedziana na głos",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Sm 24,9-13.16",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem wstał również Dawid i wyszedłszy z jaskini, wołał za Saulem: Panie mój, królu! A gdy Saul obejrzał się poza siebie, Dawid padł twarzą ku ziemi i oddał mu pokłon. I rzekł Dawid do Saula: Dlaczego słuchasz słów ludzi mówiących: Oto Dawid ma złe zamysły wobec ciebie. Oto w dniu dzisiejszym przekonałeś się, że Pan wydał cię w jaskini w moją rękę. Mówiono mi, aby cię zabić, lecz ja oszczędziłem cię, postanawiając, że nie wyciągnę swojej ręki na mojego pana, gdyż jest pomazańcem Pańskim. Ojcze mój, zobaczże, zobacz skraj twego płaszcza w mojej ręce, a stąd że ucinając skraj twego płaszcza, nie zabiłem cię, możesz poznać i stwierdzić, że nie zamyślam nic złego ni występnego i że nic nie zawiniłem przeciwko tobie, ty zaś czyhasz na moje życie, aby mi je odebrać. Niech Pan rozsądzi między mną a między tobą i niech ci odpłaci Pan za mnie, lecz ręka moja nie podniesie się na ciebie, [...] Niech tedy Pan będzie sędzią i rozsądzi między mną a między tobą, niech zobaczy i ujmie się za sprawą moją, i odda mi sprawiedliwość przed tobą."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dawid oszczędził Saula, ale nie milczy. **Wypiszcie, co mówi mu wprost.** Czego w tej mowie nie ma, choć mogłoby być?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Niech Pan rozsądzi między mną a między tobą\". Dawid nie mówi, że krzywdy nie było, i nie mówi, że sprawa jest zamknięta. **Co właściwie robi ze swoją krzywdą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Pokłon do ziemi, „panie mój\", „ojcze mój\", a w tym samym oddechu „czyhasz na moje życie\". **Jak Dawidowi udaje się połączyć szacunek z nazwaniem zła po imieniu?** Które z tych dwojga przychodzi wam trudniej?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Dawid wychodzi z jaskini dopiero wtedy, gdy Saul już z niej wyszedł i ruszył swoją drogą. Woła za nim z odległości. Mówi prawdę z miejsca, z którego może ją powiedzieć. Trzyma też w ręce dowód. Nie prosi Saula, żeby mu uwierzył na słowo, tylko pokazuje kawałek płaszcza. Z człowiekiem, który słucha plotek i sam sobie dopowiada resztę, Dawid rozmawia faktami.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Łzy Saula",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Sm 24,17-20.23",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy Dawid skończył swoje przemówienie do Saula, rzekł Saul: Czy to twój głos, synu mój, Dawidzie? I wybuchnął głośnym płaczem, I rzekł do Dawida: Jesteś sprawiedliwszy ode mnie, gdyż ty wyświadczyłeś mi dobrodziejstwo, a ja wyrządziłem ci zło. I dałeś dziś dowód, że postąpiłeś ze mną szlachetnie nie zabijając mnie, choć Pan wydał mnie w twoje ręce. Gdy ktoś natknie się na swego wroga, czy pozwala mu spokojnie odejść? Niech Pan odpłaci ci dobrem za to, co dziś dla mnie uczyniłeś. [...] I przysiągł Dawid Saulowi. Potem ruszył Saul do swego domu, a Dawid ze swoimi wojownikami wycofał się do obronnego miejsca."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Saul płacze, przyznaje się do winy i błogosławi Dawida. **Przeczytajcie uważnie ostatnie zdanie. Dokąd idzie Saul, a dokąd Dawid?** Dlaczego nie wracają razem?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Łzy Saula wyglądają na szczere. **Czym różni się wzruszenie od zmiany?** Po czym Dawid mógłby poznać jedno i drugie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Dawid składa Saulowi przysięgę, że nie wytępi jego rodziny. **Co Dawid w tej scenie daje, a czego nie daje?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Druga jaskinia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Dwa rozdziały później wszystko się powtarza. Saul znów ściga Dawida, Dawid znów ma go w ręku, tym razem śpiącego, i znów go oszczędza. Zabiera mu tylko włócznię.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Sm 26,21-25",
+       "przeklad": "BW",
+       "akapity": [
+        "A Saul rzekł: Zgrzeszyłem; wróć więc synu mój, Dawidzie, bo nie skrzywdzę cię już nigdy za to, że ci dzisiaj drogim było życie moje. Oto postępowałem głupio i bardzo błądziłem. A Dawid odpowiedział: Oto włócznia króla, niechaj podejdzie tutaj jeden z młodzieńców i odbierze ją. A Pan nagradza każdego za jego sprawiedliwość i wierność; wydał cię bowiem Pan dzisiaj w moją rękę, ale ja nie chciałem podnieść mojej ręki na pomazańca Pańskiego. Oto, jak cenne było dzisiaj twoje życie w moich oczach, tak niechaj będzie cenne moje życie w oczach Pana i niech wyrwie mnie z wszelkiego ucisku. I rzekł Saul do Dawida: Błogosławionyś, synu mój, Dawidzie, wiele jeszcze zdziałasz i będziesz miał powodzenie. Potem ruszył Dawid w swoją stronę, a Saul powrócił na swoje miejsce."
+       ]
+      },
+      {
+       "odnosnik": "1Sm 27,1",
+       "przeklad": "BW",
+       "akapity": [
+        "A Dawid rozważał w swoim sercu: Tak jak rzeczy stoją, zginę któregoś dnia z ręki Saula; toteż najlepiej będzie dla mnie, jeżeli schronię się do ziemi Filistyńczyków. Wtedy Saul zaniecha mnie i przestanie mnie tropić po całej krainie izraelskiej, i tak ujdę jego ręki."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Saul mówi wprost: „wróć, nie skrzywdzę cię już nigdy\". **Jak Dawid odpowiada na to zaproszenie?** Zwróćcie uwagę, czego w jego odpowiedzi brakuje.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dawid oddaje włócznię przez posłańca i nie podchodzi sam. **Czy to jest brak przebaczenia, brak wiary, czy coś innego?** Jak byście to nazwali?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dawid dwa razy oszczędził Saula i ani razu mu nie zaufał. **Co ta historia mówi o różnicy między zrzeczeniem się zemsty a powierzeniem komuś swojego bezpieczeństwa?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Nabal",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Między jedną a drugą jaskinią Biblia wstawia inną historię. Dawid i jego ludzie przez całe miesiące pilnowali na pustyni cudzych stad. W dzień strzyżenia owiec Dawid prosi właściciela o poczęstunek.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Sm 25,2-3.10-13.32-33",
+       "przeklad": "BW",
+       "akapity": [
+        "W Maon żył pewien mąż, który miał swoją posiadłość w Karmelu. Mąż ten był bardzo zamożny, miał bowiem trzy tysiące owiec i tysiąc kóz. Zajęty był właśnie strzyżeniem owiec w Karmelu. Mąż ten nazywał się Nabal, a żona jego Abigail. Kobieta ta była roztropna i piękna, mąż zaś był nieokrzesany i niecnych postępków, z rodu Kalebita. [...]",
+        "W odpowiedzi rzekł Nabal sługom Dawida: Któż to jest Dawid, a któż to jest syn Isajego? W obecnym czasie wiele jest sług, którzy się buntują przeciwko swoim panom. Mamże wziąć mój chleb i moje wino, i mięso z moich zwierząt, które zarżnąłem dla moich postrzygaczy, i oddać mężom, o których nie wiem, skąd są? Zawrócili tedy słudzy Dawida i przyszedłszy doń donieśli mu o tym wszystkim. Rzekł więc Dawid do swoich wojowników: Przypaszcie każdy swój miecz! I przypasał każdy swój miecz, a także i Dawid przypasał swój miecz. I poszło za Dawidem około czterystu mężów, a dwustu pozostało przy jukach. [...]",
+        "I rzekł Dawid do Abigail: Błogosławiony Pan, Bóg Izraela, który cię wysłał dzisiaj na spotkanie ze mną. I błogosławiona twoja roztropność, i błogosławionaś ty, że powstrzymałaś mnie dzisiaj od przelewu krwi i ratowania siebie swoją własną ręką."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "W opuszczonej części Abigail, żona Nabala, bez wiedzy męża wyjeżdża Dawidowi naprzeciw z jedzeniem i przekonuje go, żeby zawrócił.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ten sam Dawid, który nie tknął króla czyhającego na jego życie, idzie z czterystoma ludźmi wyciąć dom gbura, który go obraził. **Skąd ta różnica?** Dlaczego zniewaga potrafi boleć bardziej niż zagrożenie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W jaskini Dawid powstrzymał się sam. Tutaj musiał go powstrzymać ktoś inny. **Co to mówi o nas i o tym, kogo potrzebujemy mieć blisko, kiedy ktoś nas zrani?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Dawid mówi, że Abigail powstrzymała go od „ratowania siebie swoją własną ręką\". **Jak to wyrażenie łączy tę scenę z jaskinią?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Imię Nabal znaczy po hebrajsku „głupiec\" i żona mówi to o nim wprost. Narrator nie ukrywa, że ten człowiek jest naprawdę nieznośny. Historia nie każe udawać, że trudni ludzie są w głębi serca mili. Pokazuje co innego: największym zagrożeniem dla Dawida nie był tego dnia Nabal, tylko to, kim Dawid stałby się do rana, gdyby nikt nie stanął mu na drodze.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Zbyt złośliwy, żeby z nim rozmawiać",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Sm 25,14-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Tymczasem jeden ze sług doniósł Abigail żonie Nabala: Oto wysłał Dawid z pustyni, aby pozdrowili naszego pana, lecz on ich zbeształ. A wojownicy ci byli dla nas bardzo dobrzy, nie zostaliśmy znieważeni i nic nam nie zginęło przez cały czas, gdy z nimi przestawaliśmy, będąc w polu. Murem byli dla nas zarówno w nocy, jak we dnie przez cały czas, gdy byliśmy z nimi, pasąc owce. Rozważ więc teraz i obmyśl, co zrobić, gdyż zguba pana naszego i całego jego domu jest postanowiona, on sam zaś jest zbyt złośliwy, żeby można z nim rozmawiać."
+       ]
+      },
+      {
+       "odnosnik": "Prz 26,4-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie odpowiadaj głupiemu według jego głupoty, abyś i ty nie upodobnił się do niego. Odpowiedz głupiemu według jego głupoty, aby się nie uważał za mądrego."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Sługa nie idzie z tą sprawą do Nabala. **Dlaczego?** Czy Biblia uznaje, że są ludzie, z którymi w danej chwili nie da się rozmawiać?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Księga Przysłów stawia obok siebie dwie rady, które sobie przeczą. **Dlaczego redaktor zostawił obie?** Po czym poznać, która pasuje do dzisiejszej sytuacji?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Abigail żyje z trudnym człowiekiem na co dzień. **Co robi, a czego nie robi?** Zwróćcie uwagę, że działa za jego plecami i ratuje w ten sposób także jego.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Jak Ojciec",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 6,27-36",
+       "przeklad": "BW",
+       "akapity": [
+        "Ale wam, którzy słuchacie, powiadam: Miłujcie nieprzyjaciół waszych, dobrze czyńcie tym, którzy was nienawidzą, błogosławcie tym, którzy was przeklinają, módlcie się za tych, którzy was krzywdzą. Temu, kto cię uderzy w policzek, nadstaw i drugi, a temu, kto ci zabiera płaszcz, i sukni nie odmawiaj. Każdemu, kto cię prosi, daj, a od tego, kto bierze, co twoje, nie żądaj zwrotu. A jak chcecie, aby ludzie wam czynili, czyńcie im tak samo i wy. A jeśli miłujecie tych, którzy was miłują, na jakąż wdzięczność zasługujecie? Wszak i grzesznicy miłują tych, którzy ich miłują. Jeśli bowiem dobrze czynicie tym, którzy wam dobrze czynią, na jaką wdzięczność zasługujecie? Wszak i grzesznicy to samo czynią. A jeśli pożyczacie tym, od których spodziewacie się zwrotu, na jaką wdzięczność zasługujecie? I grzesznicy pożyczają grzesznikom, aby to samo odebrać z powrotem. Ale miłujcie nieprzyjaciół waszych i dobrze czyńcie, i pożyczajcie, nie spodziewając się zwrotu, a będzie obfita nagroda wasza, i synami Najwyższego będziecie, gdyż On dobrotliwy jest i dla niewdzięcznych, i dla złych. Bądźcie miłosierni, jak miłosierny jest Ojciec wasz."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus opisuje miłość do nieprzyjaciół czterema czasownikami w wersetach 27 i 28. **Wypiszcie je. Które z nich są uczuciami, a które czynami?** Co z tego wynika dla kogoś, kto swojego trudnego człowieka po prostu nie lubi?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus podaje jeden powód: Bóg jest dobrotliwy dla niewdzięcznych i złych. **Dlaczego uzasadnia to charakterem Ojca, a nie tym, że nieprzyjaciel się dzięki temu zmieni?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Wróćcie do jaskini. **Które z tych zdań Dawid wypełnił na tysiąc lat przed ich wypowiedzeniem, a czego w jego zachowaniu nie było?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Wszak i grzesznicy to samo czynią\". **Jak wyglądałby wasz tydzień, gdyby wyjąć z niego wszystko, co robicie tylko dla tych, którzy się odwzajemnią?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Z czterech czasowników Jezusa żaden nie wymaga, żeby nieprzyjaciel był blisko. Dobrze czynić, błogosławić i modlić się można także z drugiej strony doliny, tak jak Dawid. Jezus nie mówi też, że nieprzyjaciel przestanie być nieprzyjacielem. Nazywa go tak do końca. Miłość, o której tu mowa, nie polega na udawaniu, że ktoś jest inny, niż jest. Polega na tym, że to nie on ustala, jaki będę ja.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Chleb, woda i błogosławieństwo",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 25,21-22",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeśli łaknie twój nieprzyjaciel, nakarm go chlebem, a jeśli pragnie, napój go wodą, bo wtedy węgle rozżarzone zgarniesz na jego głowę, a Pan ci odpłaci."
+       ]
+      },
+      {
+       "odnosnik": "Rz 12,14-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Błogosławcie tych, którzy was prześladują, błogosławcie, a nie przeklinajcie. Weselcie się z weselącymi się, płaczcie z płaczącymi. Bądźcie wobec siebie jednakowo usposobieni; nie bądźcie wyniośli, lecz się do niskich skłaniajcie; nie uważajcie sami siebie za mądrych."
+       ]
+      },
+      {
+       "odnosnik": "1P 2,21-23",
+       "przeklad": "BW",
+       "akapity": [
+        "Na to bowiem powołani jesteście, gdyż i Chrystus cierpiał za was, zostawiając wam przykład, abyście wstępowali w jego ślady; On grzechu nie popełnił ani nie znaleziono zdrady w ustach jego; On, gdy mu złorzeczono, nie odpowiadał złorzeczeniem, gdy cierpiał, nie groził, lecz poruczał sprawę temu, który sprawiedliwie sądzi;"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przysłowie mówi o chlebie i wodzie, czyli o rzeczach bardzo małych. **Dlaczego wobec trudnego człowieka łatwiej o wielki gest niż o szklankę wody?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr pisze, że Jezus „poruczał sprawę temu, który sprawiedliwie sądzi\". **Gdzie słyszeliście dziś niemal te same słowa?** Co łączy Dawida przed jaskinią i Jezusa przed sądem?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł zaraz po błogosławieniu prześladowców pisze: „nie uważajcie sami siebie za mądrych\". **Co to zdanie robi w tym miejscu?** Przed czym chroni kogoś, kto właśnie postąpił szlachetnie?",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Obraz rozżarzonych węgli najpewniej mówi o zawstydzeniu, które prowadzi do opamiętania, a nie o wyrafinowanej zemście. Przysłowie dotyczy sąsiedzkiej zgody i nie idzie tak daleko jak Jezus. Na tym tle widać, co jest nowego w Łk 6: dobro wobec nieprzyjaciela nie jest tam sposobem na cokolwiek. Jest po prostu podobieństwem do Ojca.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 5,43",
+       "przeklad": "BW",
+       "akapity": [
+        "Słyszeliście, iż powiedziano: Będziesz miłował bliźniego swego, a będziesz miał w nienawiści nieprzyjaciela swego."
+       ]
+      },
+      {
+       "odnosnik": "Kpł 19,17-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie będziesz chował w sercu swoim nienawiści do brata swego. Będziesz gorliwie upominał bliźniego swego, abyś nie ponosił za niego grzechu. Nie będziesz się mścił i nie będziesz chował urazy do synów twego ludu, lecz będziesz miłował bliźniego swego jak siebie samego. Jam jest Pan!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pierwsza połowa zdania, które przytacza Jezus, pochodzi z Księgi Kapłańskiej. Drugiej połowy, tej o nienawiści do nieprzyjaciela, w Starym Testamencie nie ma. Było to najpewniej obiegowe dopowiedzenie, powtarzane tak długo, aż zaczęło brzmieć jak Pismo. Jezus nie poprawia więc Mojżesza. Zdejmuje z przykazania dopisek, który ludzie sami do niego dodali.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Księga Kapłańska w jednym zdaniu zakazuje nienawiści i nakazuje upominać. **Jak te dwie rzeczy mają się do siebie?** Czy można kogoś szczerze upomnieć i nie chować do niego urazy?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: drugi policzek",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jezus mówi o nadstawieniu drugiego policzka. Warto zobaczyć, co sam zrobił, kiedy został uderzony, i co zrobił, kiedy chciano Go zabić przed czasem.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 18,22-23",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy On to powiedział, jeden ze sług, który tam stał, wymierzył Jezusowi policzek, mówiąc: Tak odpowiadasz arcykapłanowi? Odrzekł mu Jezus: Jeżeli źle powiedziałem, udowodnij, że źle, a jeśli dobrze, czemu mnie bijesz?"
+       ]
+      },
+      {
+       "odnosnik": "Łk 4,28-30",
+       "przeklad": "BW",
+       "akapity": [
+        "I wszyscy w synagodze, słysząc to, zawrzeli gniewem. I powstawszy wypchnęli go z miasta, i wywiedli go aż na szczyt góry, na której miasto ich było zbudowane, aby go w dół strącić. Lecz On przeszedł przez środek ich i oddalił się."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jedni czytają słowa o policzku jako regułę: chrześcijanin nie broni się nigdy i przed nikim. Drudzy czytają je jako obraz zerwania z odwetem: nie oddaję ciosu, ale wolno mi zapytać „czemu mnie bijesz\", wolno mi odejść i wolno mi szukać ochrony. Obie strony zgadzają się co do jednego: uczeń Jezusa nie odpłaca złem za zło. Spór dotyczy tego, czy rezygnacja z odwetu oznacza także rezygnację z bezpieczeństwa.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co Jezus robi w tych dwóch scenach, a czego nie robi?** Jak to się ma do Jego własnych słów z Łk 6,29?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Uderzenie w policzek było w tamtym świecie przede wszystkim zniewagą, a nie napaścią zagrażającą życiu. **Czy to rozróżnienie pomaga czytać słowa Jezusa, czy jest wygodnym wybiegiem?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "jeśli przy stole jest osoba doświadczająca przemocy, nie prowadź tej rozmowy teoretycznie. Powiedz jasno, że Dawid uciekł przed włócznią, Jezus oddalił się z Nazaretu, a Paweł powoływał się na swoje prawa obywatelskie, i że szukanie bezpieczeństwa nie jest brakiem miłości.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dawid zrobił cztery rzeczy: nie użył noża, powiedział prawdę, oddał sąd Bogu i odszedł w swoją stronę. **Która z tych czterech jest dla ciebie najtrudniejsza wobec twojego trudnego człowieka?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nabal pokazał, że drobna zniewaga potrafi wyzwolić w nas więcej niż prawdziwa krzywda. **Kto jest twoją Abigail, czyli kimś, kto ma prawo stanąć ci na drodze, zanim zrobisz coś, czego będziesz żałować?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **co byłoby twoim chlebem i wodą, jedną małą dobrą rzeczą dla kogoś, kogo nie lubisz?** Nie musisz mówić, o kogo chodzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q35",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dawid kochał Saula na tyle, żeby go nie zabić, i znał go na tyle, żeby do niego nie wrócić. **Czy są sytuacje, w których jedyną formą miłości do nieprzyjaciela, jaka nam pozostaje, jest modlitwa z daleka? Skąd wiadomo, że to już ta sytuacja, a nie wymówka?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie rozstrzygaj. Warto, żeby padło spostrzeżenie, że Dawid nie podjął tej decyzji po jednym incydencie, tylko po wielu, i że do końca życia Saula nie podniósł na niego ręki ani słowem, ani czynem.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Trudny człowiek może mi wiele zabrać. Nie musi decydować o tym, kim przy nim będę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Łk 6,36 albo 1Sm 24,13.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o swoim trudnym człowieku i zapytaj siebie uczciwie: **jaki jest mój kawałek płaszcza?** Chodzi o drobną rzecz, którą mu robię albo mówię o nim za plecami i którą nazywam niewinną.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Dawid powiedział: „Niech Pan rozsądzi między mną a między tobą\". Spróbuj powiedzieć Bogu to samo o konkretnej osobie i zauważ, co się w tobie dzieje. **Czy naprawdę chcesz oddać ten sąd, czy wolisz go zatrzymać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** zapytaj Boga, dla kogo to ty jesteś trudnym człowiekiem. Nie broń się od razu. Zostań przy pierwszym imieniu, które przyjdzie ci na myśl.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opisuje przemoc w domu albo z jego słów wynika, że się boi.** Przemoc to nie trudny charakter i ten materiał nie jest o niej. Nie mów, że trzeba miłować nieprzyjaciół, i nie pozwól, żeby powiedział to ktoś z grupy. Dawid nie wrócił na dwór Saula, choć Saul płakał i obiecywał. Grupa nigdy nie radzi nikomu, żeby został w sytuacji krzywdy. Porozmawiaj z tą osobą po spotkaniu, nie zostawaj z tym sam, powiedz o pomocy specjalistycznej. Niebieska Linia dla osób doświadczających przemocy w rodzinie: 800 120 002. W zagrożeniu życia 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli mam się dawać bić i jeszcze dziękować?\"** Nie. Pokaż ostatnie zdanie bloku 3: Saul idzie do domu, Dawid do warowni. Jezus nazywa nieprzyjaciela nieprzyjacielem i nie każe się do niego wprowadzać. Wyrzeczenie się zemsty i dbanie o własne bezpieczeństwo idą w tej historii razem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna opowiadać o konkretnej osobie, którą grupa zna.** Przerwij od razu i spokojnie: „Zostańmy przy sobie, nie przy nieobecnych\". Jeśli trzeba, przypomnij, że Dawid mówił o Saulu do Saula i do Boga, a nie do obozu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Niektórzy po prostu są źli i nie ma co się nad nimi rozczulać.\"** Tekst się zgadza, że Nabal jest nieznośny, i mówi to wprost. Przesuń pytanie z niego na nas: „Co Nabal omal nie zrobił z Dawida w ciągu jednego popołudnia?\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja nie mam żadnych wrogów.\"** Możliwe. Zapytaj łagodnie o ludzi, których się unika, przy których się milknie albo o których myśli się z ulgą, że dziś ich nie będzie. Jezus mówi też o niewdzięcznych, nie tylko o wrogach.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi: „Bóg go ukarze, zobaczycie\", z wyraźną satysfakcją.** Nie gaś, ale dopytaj: „Dawid oddał sąd Bogu i przysiągł chronić rodzinę Saula. Jak poznać, czy oddałem komuś sąd, czy tylko czekam na widowisko?\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu o własny kawałek płaszcza.** To dobrze. Policz w myślach do dziesięciu. To pytanie nie wymaga odpowiedzi na głos.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 4. Bloki 1, 3 i 5 niosą całe spotkanie: nie użyć noża, nie wrócić na dwór, być jak Ojciec.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś opisuje przemoc w domu albo z jego słów wynika, że się boi.",
+     "odpowiedz": "Przemoc to nie trudny charakter i ten materiał nie jest o niej. Nie mów, że trzeba miłować nieprzyjaciół, i nie pozwól, żeby powiedział to ktoś z grupy. Dawid nie wrócił na dwór Saula, choć Saul płakał i obiecywał. Grupa nigdy nie radzi nikomu, żeby został w sytuacji krzywdy. Porozmawiaj z tą osobą po spotkaniu, nie zostawaj z tym sam, powiedz o pomocy specjalistycznej. Niebieska Linia dla osób doświadczających przemocy w rodzinie: 800 120 002. W zagrożeniu życia 112."
+    },
+    {
+     "sytuacja": "„Czyli mam się dawać bić i jeszcze dziękować?\"",
+     "odpowiedz": "Nie. Pokaż ostatnie zdanie bloku 3: Saul idzie do domu, Dawid do warowni. Jezus nazywa nieprzyjaciela nieprzyjacielem i nie każe się do niego wprowadzać. Wyrzeczenie się zemsty i dbanie o własne bezpieczeństwo idą w tej historii razem."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna opowiadać o konkretnej osobie, którą grupa zna.",
+     "odpowiedz": "Przerwij od razu i spokojnie: „Zostańmy przy sobie, nie przy nieobecnych\". Jeśli trzeba, przypomnij, że Dawid mówił o Saulu do Saula i do Boga, a nie do obozu."
+    },
+    {
+     "sytuacja": "„Niektórzy po prostu są źli i nie ma co się nad nimi rozczulać.\"",
+     "odpowiedz": "Tekst się zgadza, że Nabal jest nieznośny, i mówi to wprost. Przesuń pytanie z niego na nas: „Co Nabal omal nie zrobił z Dawida w ciągu jednego popołudnia?\""
+    },
+    {
+     "sytuacja": "„Ja nie mam żadnych wrogów.\"",
+     "odpowiedz": "Możliwe. Zapytaj łagodnie o ludzi, których się unika, przy których się milknie albo o których myśli się z ulgą, że dziś ich nie będzie. Jezus mówi też o niewdzięcznych, nie tylko o wrogach."
+    },
+    {
+     "sytuacja": "Ktoś mówi: „Bóg go ukarze, zobaczycie\", z wyraźną satysfakcją.",
+     "odpowiedz": "Nie gaś, ale dopytaj: „Dawid oddał sąd Bogu i przysiągł chronić rodzinę Saula. Jak poznać, czy oddałem komuś sąd, czy tylko czekam na widowisko?\""
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu o własny kawałek płaszcza.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. To pytanie nie wymaga odpowiedzi na głos."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 4. Bloki 1, 3 i 5 niosą całe spotkanie: nie użyć noża, nie wrócić na dwór, być jak Ojciec."
+    }
+   ]
+  }
+ ]
+}

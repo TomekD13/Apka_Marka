@@ -1,0 +1,779 @@
+{
+ "tytul": "Konflikt",
+ "id": "R-01",
+ "seria": "Relacje",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Rdz 13,5-12; Dz 6,1-7; Dz 15,36-41; Mt 18,15-17; Prz 18,13.17; Flp 4,2-3; 2Tm 4,11",
+  "p2": "Jk 4,1-2; Dz 15,1-2.6-7.12-13.19; Ga 2,11-14; Kol 4,10",
+  "p3": "Dz 15,39; Hbr 10,24; Łk 22,24-27"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 26,
+  "p3": 31
+ },
+ "tagi": [
+  "relacje",
+  "konflikt",
+  "kościół",
+  "rozmowa"
+ ],
+ "wersja": 1,
+ "zdanie": "Spór nie jest dowodem, że coś poszło źle. Dowodem jest dopiero to, co z nim zrobimy.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o sporze, zanim ktokolwiek zawinił. Biblia pokazuje ludzi wierzących, którzy się spierają: o pastwiska, o rozdział pomocy, o to, kogo zabrać w podróż. W większości tych historii nikt nie zgrzeszył. Pytanie nie brzmi więc, jak uniknąć konfliktu, tylko co z nim robimy. O przebaczeniu i pojednaniu są dwa następne spotkania, dziś tam nie wchodźcie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole mogą siedzieć dwie osoby, które są ze sobą w sporze, albo ktoś, kto jest w sporze ze zborem. Nie pozwól, żeby spotkanie stało się rozprawą.",
+      "Część ludzi wyniosła z domu przekonanie, że dobry chrześcijanin się nie kłóci. Dla nich sam temat jest niewygodny i będą milczeć.",
+      "Rozmowa o Mt 18 łatwo zamienia się w rozmowę o dyscyplinie zborowej i o konkretnych sprawach z przeszłości. Wracaj do tekstu."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie rozstrzygaj, kto miał rację, Paweł czy Barnaba. Nie pytaj o szczegóły cudzych sporów. Nie pozwalaj mówić o osobach nieobecnych.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Jak w twoim domu rodzinnym wyglądała kłótnia? Jedno zdanie: było głośno, było cicho, czy udawano, że nic się nie dzieje.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi, nie dopytuj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Jesteśmy przecież braćmi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 13,5-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Również Lot, który wędrował z Abramem, miał owce, bydło i namioty. Lecz kraj nie mógł ich obu utrzymać, bo dobytek ich był tak wielki, że nie mogli przebywać razem. Między pasterzami stad Abrama a pasterzami stad Lota powstał spór. A Kananejczycy i Peryzyci mieszkali wówczas w kraju.",
+        "Wtedy rzekł Abram do Lota: Niechże nie będzie sporu między mną a tobą i między pasterzami moimi a twoimi, jesteśmy przecież braćmi. Czyż cały kraj nie stoi przed tobą otworem? Odłącz się więc ode mnie! Jeśli chcesz pójść w lewo, ja pójdę w prawo, a jeśli chcesz pójść w prawo, ja pójdę w lewo.",
+        "Wtedy Lot podniósłszy oczy, widział, że cały okręg nadjordański – zanim Pan zniszczył Sodomę i Gomorę – był obfity w wodę, jak ogród Pana, jak ziemia egipska, aż do Soaru. I wybrał sobie Lot cały okręg nadjordański. I wyruszył Lot na wschód. Tak rozstali się obaj ci mężowie. Abram zamieszkał w ziemi kanaanejskiej, natomiast Lot przebywał w miastach okręgu nadjordańskiego i rozbijał swe namioty aż do Sodomy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Poszukajcie w tekście przyczyny sporu. **Kto tu zawinił?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Abram jest starszy i to jemu Bóg obiecał tę ziemię, a mimo to oddaje Lotowi pierwszy wybór. **Z czego rezygnuje i co w zamian chroni?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W środku historii o kłótni pasterzy narrator wtrąca, że w kraju mieszkali wtedy Kananejczycy i Peryzyci. **Po co ta uwaga właśnie w tym miejscu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ten spór bierze się z błogosławieństwa. Stad jest za dużo, pastwisk za mało i nikt nie zgrzeszył. Abram najpierw nazywa relację, a dopiero potem szuka rozwiązania: jesteśmy braćmi, więc niech nie będzie sporu. Rozwiązaniem okazuje się rozstanie. W Biblii zgoda nie zawsze oznacza, że ludzie zostają razem. Czasem oznacza, że rozchodzą się, zanim spór zniszczy to, co ich łączy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Skąd spory",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jk 4,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "Skądże spory i skąd walki między wami? Czy nie pochodzą one z namiętności waszych, które toczą bój w członkach waszych? Pożądacie, a nie macie; zabijacie i zazdrościcie, a nie możecie osiągnąć; walczycie i spory prowadzicie. Nie macie, bo nie prosicie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakub szuka źródła sporów nie między ludźmi, lecz w ludziach. **Jak to się ma do historii Abrama i Lota, w której zaczęło się od braku pastwisk?** Czy każdy spór ma źródło, o którym pisze Jakub?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Lot „podniósłszy oczy, widział\" i wybrał. **Co w jego wyborze przypomina to, o czym pisze Jakub?** Czego Lot nie zrobił, zanim wybrał?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Szemranie o wdowy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 6,1-7",
+       "przeklad": "BW",
+       "akapity": [
+        "A w owym czasie, gdy liczba uczniów wzrastała, wszczęło się szemranie hellenistów przeciwko Żydom, że zaniedbywano ich wdowy przy codziennym usługiwaniu. Wtedy dwunastu, zwoławszy wszystkich uczniów, rzekło: Nie jest rzeczą słuszną, żebyśmy zaniedbali słowo Boże, a usługiwali przy stołach. Upatrzcie tedy, bracia, spośród siebie siedmiu mężów, cieszących się zaufaniem, pełnych Ducha Świętego i mądrości, a ustanowimy ich, aby się zajęli tą sprawą; my zaś pilnować będziemy modlitwy i służby Słowa.",
+        "I podobał się ten wniosek całemu zgromadzeniu, i wybrali Szczepana, męża pełnego wiary i Ducha Świętego, i Filipa, i Prochora, i Nikanora, i Tymona, i Parmena, i Mikołaja, prozelitę z Antiochii; tych stawili przed apostołami, którzy pomodlili się i włożyli na nich ręce. A Słowo Boże rosło i poczet uczniów w Jerozolimie bardzo się pomnażał, także znaczna liczba kapłanów przyjmowała wiarę."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Helleniści to Żydzi mówiący po grecku, przybysze z diaspory. Wszystkie siedem imion wybranych mężów jest greckich.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Kościół rośnie i ktoś zostaje pominięty. **Co apostołowie robią ze skargą? Wypiszcie też, czego nie robią.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Skarżyli się ci, którzy mówili po grecku, i wszyscy wybrani noszą greckie imiona. **Co to mówi o tym, komu zgromadzenie powierzyło rozwiązanie problemu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Przeczytajcie jeszcze raz ostatnie zdanie. **Co ten spór, dobrze przeprowadzony, dał Kościołowi?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Ostre starcie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 15,36-41",
+       "przeklad": "BW",
+       "akapity": [
+        "A po kilku dniach rzekł Paweł do Barnaby: Wybierzmy się w drogę i odwiedźmy braci we wszystkich miastach, w których zwiastowaliśmy Słowo Pańskie, aby zobaczyć, jak im się powodzi. Ale Barnaba chciał zabrać z sobą również Jana, zwanego Markiem. Paweł natomiast uważał za słuszne nie zabierać z sobą tego, który odstąpił od nich w Pamfilii i nie brał udziału wraz z nimi w pracy. Powstało nieporozumienie, tak iż się rozstali, Barnaba, zabrawszy Marka, odpłynął na Cypr, Paweł zaś poruczony łasce Pańskiej przez braci, obrał sobie Sylasa i udał się w drogę. Przemierzał Syrię i Cylicję, umacniając zbory."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Słowo „nieporozumienie\" jest tu bardzo łagodne. Przekład ekumeniczny oddaje to samo miejsce mocniej: „Doszło do ostrego starcia, w rezultacie którego się rozdzielili\".",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie racje obu stron. **Co przemawia za Pawłem? Co przemawia za Barnabą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Łukasz nie pisze, kto miał rację. **Dlaczego mógł to tak zostawić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Z jednej wyprawy zrobiły się dwie. **Czy to jest dobre zakończenie, złe, czy jedno i drugie naraz?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Barnaba to człowiek, który kiedyś wprowadził Pawła do apostołów, gdy wszyscy się go bali. Marek był jego krewnym i w czasie pierwszej wyprawy zawrócił w połowie drogi do domu. Łukasz, towarzysz podróży Pawła, mógł tę scenę pominąć albo wygładzić. Zostawił ją. Pierwszy Kościół w jego opisie to nie jest złoty wiek bez sporów, tylko ludzie pełni Ducha, którzy potrafią się poróżnić tak, że nie pojadą dalej razem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: ten sam rozdział",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Rozdział, który kończy się rozstaniem Pawła i Barnaby, zaczyna się od sporu o wiele poważniejszego. Chodziło o to, czy poganie muszą przyjąć obrzezanie, żeby być zbawieni. Tam Paweł i Barnaba stali po jednej stronie.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 15,1-2.6-7.12-13.19",
+       "przeklad": "BW",
+       "akapity": [
+        "A pewni ludzie, którzy przybyli z Judei, nauczali braci: Jeśli nie zostaliście obrzezani według zwyczaju Mojżeszowego, nie możecie być zbawieni. Gdy zaś powstał zatarg i spór niemały między Pawłem i Barnabą a nimi, postanowiono, żeby Paweł i Barnaba oraz kilku innych spośród nich udało się w sprawie tego sporu do apostołów i starszych do Jerozolimy. [...]",
+        "Zgromadzili się więc apostołowie i starsi, aby tę sprawę rozważyć. A gdy to już długo rozpatrywano, wstał Piotr i rzekł do nich: Mężowie bracia, wy wiecie, że Bóg już dawno spośród was mnie wybrał, aby poganie przez usta moje usłyszeli słowa Ewangelii i uwierzyli. [...]",
+        "I umilkło całe zgromadzenie, i słuchali Barnaby i Pawła, gdy opowiadali, jakie to znaki i cuda uczynił przez nich Bóg między poganami. A gdy ci umilkli, odezwał się Jakub, mówiąc: Mężowie bracia, posłuchajcie mnie! [...] Dlatego sądzę, że nie należy czynić trudności tym spośród pogan, którzy nawracają się do Boga,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wypiszcie kolejne kroki: kto mówi, kto milczy, jak długo to trwa. **Co w tym sposobie prowadzenia sporu zwraca waszą uwagę?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ci sami dwaj ludzie wygrywają razem wielki spór o ewangelię, a kilka wersetów dalej nie potrafią się dogadać w sprawie jednego współpracownika. **Dlaczego spór o człowieka bywa trudniejszy niż spór o zasady?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W Dz 15,39 Łukasz używa greckiego rzeczownika `paroxysmos`. To od niego pochodzi nasz „paroksyzm\", czyli gwałtowny atak. Słowo opisuje ostre rozdrażnienie, nie różnicę zdań przy herbacie.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W całym Nowym Testamencie ten rzeczownik pojawia się jeszcze tylko raz, w zupełnie innym świetle:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 10,24",
+       "przeklad": "BW",
+       "akapity": [
+        "i baczmy jedni na drugich w celu pobudzenia się do miłości i dobrych uczynków,"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "„Pobudzenie\" to w oryginale to samo słowo. Ta sama energia, która rozdzieliła Pawła i Barnabę, może według autora Listu do Hebrajczyków służyć do czegoś odwrotnego.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co by znaczyło w praktyce „ostro prowokować\" kogoś do miłości zamiast do kłótni?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Sam na sam",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Tu sytuacja jest inna niż dotąd. Ktoś rzeczywiście zawinił.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 18,15-17",
+       "przeklad": "BW",
+       "akapity": [
+        "A jeśliby zgrzeszył brat twój, idź, upomnij go sam na sam; jeśliby cię usłuchał, pozyskałeś brata swego. Jeśliby zaś nie usłuchał, weź z sobą jeszcze jednego lub dwóch, aby na oświadczeniu dwu lub trzech świadków była oparta każda sprawa. A jeśliby ich nie usłuchał, powiedz zborowi; a jeśliby zboru nie usłuchał, niech będzie dla ciebie jak poganin i celnik."
+       ]
+      },
+      {
+       "odnosnik": "Prz 18,13.17",
+       "przeklad": "BW",
+       "akapity": [
+        "Kto odpowiada, zanim wysłucha, zdradza swoją bezmyślność i naraża się na hańbę. Słuszność ma ten, kto pierwszy występuje w sprawie, lecz gdy przychodzi jego przeciwnik, bierze go na spytki."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Policzcie, ile osób wie o sprawie na każdym etapie. **Co Jezus chroni taką kolejnością?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 15 podaje cel całej drogi: pozyskać brata. **Jak zmienia się rozmowa, kiedy chcę kogoś pozyskać, a nie wygrać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Według Przypowieści pierwszy ma słuszność, dopóki nie przyjdzie drugi. **Co z tego wynika dla kogoś, kto słyszy o sporze tylko od jednej strony?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Niech będzie dla ciebie jak poganin i celnik\". **Jak sam Jezus traktował pogan i celników?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ta droga ma kilka cech, które łatwo przeoczyć. Daje czas na przemyślenie i sprawdzenie faktów. Na każdym etapie o sprawie wie możliwie najmniej osób. Celem od początku do końca jest odzyskanie człowieka. Ostatnie słowo należy do całej wspólnoty, a nie do wąskiego grona. My zwykle idziemy w odwrotnej kolejności: najpierw dowiadują się wszyscy dookoła, a zainteresowany na końcu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Wobec wszystkich",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ga 2,11-14",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy przyszedł Kefas do Antiochii, przeciwstawiłem mu się otwarcie, bo też okazał się winnym. Zanim bowiem przyszli niektórzy od Jakuba, jadał razem z poganami; a gdy przyszli, usunął się i odłączył z obawy przed tymi, którzy byli obrzezani. A wraz z nim obłudnie postąpili również pozostali Żydzi, tak że i Barnaba dał się wciągnąć w ich obłudę. Ale gdy spostrzegłem, że nie postępują zgodnie z prawdą ewangelii, powiedziałem do Kefasa wobec wszystkich: Jeśli ty, będąc Żydem, po pogańsku żyjesz, a nie po żydowsku, czemuż zmuszasz pogan żyć po żydowsku?"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nie idzie do Piotra sam na sam, tylko mówi wobec wszystkich. **Czym ta sytuacja różni się od tej, o której mówi Jezus w Mt 18?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr nie zmienił poglądów. Przestraszył się opinii. **Ile naszych sporów w Kościele dotyczy przekonań, a ile tego, kto co o nas pomyśli?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Ktoś trzeci i dużo czasu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Flp 4,2-3",
+       "przeklad": "BW",
+       "akapity": [
+        "Upominam Ewodię i upominam Syntychę, aby były jednomyślne w Panu. Proszę także i ciebie, wierny mój towarzyszu, zajmij się nimi, wszak one dla ewangelii razem ze mną walczyły wespół z Klemensem i z innymi współpracownikami moimi, których imiona są w księdze żywota."
+       ]
+      },
+      {
+       "odnosnik": "2Tm 4,11",
+       "przeklad": "BW",
+       "akapity": [
+        "tylko Łukasz jest ze mną. Weź Marka i przyprowadź z sobą, bo mi jest bardzo potrzebny do posługiwania."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List był czytany na głos całemu zborowi, a Paweł wymienia obie kobiety z imienia. **Co o nich mówi, a czego nie mówi? Po czyjej stronie staje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł prosi kogoś trzeciego, żeby się nimi zajął. **Kiedy spór potrzebuje trzeciej osoby i kim ten ktoś powinien być?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Drugi tekst pisze ten sam Paweł o tym samym Marku, wiele lat po rozstaniu z Barnabą. **Co musiało się wydarzyć po drodze, o czym Biblia milczy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Dzieje Apostolskie pokazują pęknięcie i na tym kończą. Dopiero listy pokazują, że się zrosło. Marek pojawia się w nich jako współpracownik Pawła, a w ostatnim liście, pisanym z więzienia, apostoł prosi właśnie o niego. Paweł umiał zmienić zdanie o człowieku. Nie wiemy, kto zrobił pierwszy krok ani ile to trwało. Wiemy tylko, że tamto ostre starcie nie było ostatnim słowem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ślad w innym liście",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kol 4,10",
+       "przeklad": "BW",
+       "akapity": [
+        "Pozdrawia was Arystarch, współwięzień mój, i Marek, siostrzeniec Barnaby, o którym otrzymaliście polecenie, abyście go przyjęli, jeśli do was przyjdzie,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nie tylko pracuje znów z Markiem. Poleca go zborom. **Dlaczego mogło to być potrzebne? Co dzieje się z opinią o człowieku, którego ktoś ważny kiedyś publicznie odrzucił?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: jedność bez sporów?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jezus modlił się o jedność uczniów. Ci sami uczniowie pokłócili się przy ostatniej wspólnej kolacji.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 22,24-27",
+       "przeklad": "BW",
+       "akapity": [
+        "Powstał też spór między nimi o to, kto z nich ma uchodzić za największego. On zaś rzekł do nich: Królowie narodów panują nad nimi, a władcy ich są nazywani dobroczyńcami. Wy zaś nie tak, lecz kto jest największy wśród was, niech będzie jako najmniejszy, a ten, który przewodzi, niech będzie jako usługujący. Któż bowiem jest większy? Czy ten, który u stołu zasiada, czy ten, który usługuje? Czy nie ten, który u stołu zasiada? Lecz Ja jestem wśród was jako ten, który usługuje."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus nie mówi „przestańcie się kłócić\". **Co robi zamiast tego z przedmiotem ich sporu?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Spór o pastwiska, spór o wdowy, spór o Marka i spór o to, kto jest największy. **Czym ten ostatni różni się od pozostałych?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy jedność, o którą modlił się Jezus, oznacza brak sporów? Jeśli nie, to co oznacza?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Widzieliśmy dziś kilka dróg: ustąpić jak Abram, zmienić organizację jak apostołowie, rozstać się jak Paweł z Barnabą, pójść sam na sam, poprosić kogoś trzeciego. **Po którą sięgasz najczęściej, a która jest dla ciebie najtrudniejsza?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zwykle robisz, kiedy zaczyna się spór: nacierasz, wycofujesz się, milczysz, szukasz sojuszników?** Skąd to masz?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest spór, w którym czekasz, aż druga strona zrobi pierwszy krok?** Nie musisz mówić z kim.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Abram i Lot rozstali się, Paweł i Barnaba też, i w obu przypadkach Bóg dalej błogosławił. **Kiedy rozstanie jest mądrością, a kiedy ucieczką przed rozmową, którą trzeba odbyć? Po czym to poznać od środka?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie zamykaj tego pytania. Warto natomiast, żeby padło spostrzeżenie, że Abram przed rozstaniem nazwał relację, a Paweł po latach do Marka wrócił. W obu przypadkach rozstanie nie było zerwaniem.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Spór nie jest dowodem, że coś poszło źle. Dowodem jest dopiero to, co z nim zrobimy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Rdz 13,8.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o sporze, w którym teraz jesteś albo który masz za sobą. Zapytaj siebie uczciwie: **czego ja w nim właściwie bronię?** Sprawy, swojej racji, swojej pozycji, czyjegoś dobrego zdania o mnie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przypomnij sobie sytuację, w której wyrobiłeś sobie zdanie o cudzym konflikcie po wysłuchaniu jednej strony. Zostań chwilę z pytaniem: **co by się zmieniło, gdybym usłyszał drugą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli jest osoba, o której mówisz innym więcej niż jej samej, przyznaj to przed Bogiem. Zapytaj Go, czego się boisz w rozmowie sam na sam.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Prawdziwi chrześcijanie się nie kłócą.\"** Nie polemizuj. Odeślij do tekstu: „Paweł i Barnaba byli napełnieni Duchem i doszło między nimi do ostrego starcia. Co nam to mówi?\" Dla kogoś wychowanego w domu, gdzie spór był zakazany, to może być uwalniające odkrycie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna opowiadać o konkretnym sporze w waszym zborze.** Przerwij spokojnie i od razu: „Nie rozmawiamy dziś o osobach, których tu nie ma\". To dokładnie zasada z Mt 18: o sprawie wie możliwie najmniej ludzi. Jeśli sprawa jest poważna, zaproponuj rozmowę po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dwie osoby przy stole są ze sobą w sporze i napięcie czuć w powietrzu.** Nie próbuj ich godzić na forum. Prowadź spotkanie normalnie, pytania zastosowania zadaj ogólnie, nie patrz w ich stronę. Grupa nie jest trzecim krokiem z Mt 18.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To kto w końcu miał rację, Paweł czy Barnaba?\"** Powiedz uczciwie, że tekst tego nie rozstrzyga, i zapytaj: „A dlaczego tak bardzo chcemy to wiedzieć?\" Potrzeba wskazania winnego to część tego, o czym jest spotkanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś używa Mt 18, żeby uzasadnić publiczne napiętnowanie kogoś.** Wróć do wersetu 15 i do celu: pozyskać brata. Zapytaj, jak Jezus traktował celników. Nie wchodź w szczegóły procedur zborowych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o „konflikcie\" w domu, a z opisu wynika, że chodzi o przemoc albo zastraszanie.** To nie jest temat dzisiejszego spotkania i nie jest to spór dwóch równych stron. Nie radź „idź sam na sam\". Porozmawiaj z tą osobą po spotkaniu i pomóż jej znaleźć fachowe wsparcie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Prawdziwi chrześcijanie się nie kłócą.\"",
+     "odpowiedz": "Nie polemizuj. Odeślij do tekstu: „Paweł i Barnaba byli napełnieni Duchem i doszło między nimi do ostrego starcia. Co nam to mówi?\" Dla kogoś wychowanego w domu, gdzie spór był zakazany, to może być uwalniające odkrycie."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna opowiadać o konkretnym sporze w waszym zborze.",
+     "odpowiedz": "Przerwij spokojnie i od razu: „Nie rozmawiamy dziś o osobach, których tu nie ma\". To dokładnie zasada z Mt 18: o sprawie wie możliwie najmniej ludzi. Jeśli sprawa jest poważna, zaproponuj rozmowę po spotkaniu."
+    },
+    {
+     "sytuacja": "Dwie osoby przy stole są ze sobą w sporze i napięcie czuć w powietrzu.",
+     "odpowiedz": "Nie próbuj ich godzić na forum. Prowadź spotkanie normalnie, pytania zastosowania zadaj ogólnie, nie patrz w ich stronę. Grupa nie jest trzecim krokiem z Mt 18."
+    },
+    {
+     "sytuacja": "„To kto w końcu miał rację, Paweł czy Barnaba?\"",
+     "odpowiedz": "Powiedz uczciwie, że tekst tego nie rozstrzyga, i zapytaj: „A dlaczego tak bardzo chcemy to wiedzieć?\" Potrzeba wskazania winnego to część tego, o czym jest spotkanie."
+    },
+    {
+     "sytuacja": "Ktoś używa Mt 18, żeby uzasadnić publiczne napiętnowanie kogoś.",
+     "odpowiedz": "Wróć do wersetu 15 i do celu: pozyskać brata. Zapytaj, jak Jezus traktował celników. Nie wchodź w szczegóły procedur zborowych."
+    },
+    {
+     "sytuacja": "Ktoś mówi o „konflikcie\" w domu, a z opisu wynika, że chodzi o przemoc albo zastraszanie.",
+     "odpowiedz": "To nie jest temat dzisiejszego spotkania i nie jest to spór dwóch równych stron. Nie radź „idź sam na sam\". Porozmawiaj z tą osobą po spotkaniu i pomóż jej znaleźć fachowe wsparcie."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    }
+   ]
+  }
+ ]
+}

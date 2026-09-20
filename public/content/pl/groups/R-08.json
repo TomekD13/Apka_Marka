@@ -1,0 +1,838 @@
+{
+ "tytul": "Przyjaźń",
+ "id": "R-08",
+ "seria": "Relacje",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "1Sm 18,1-4; 1Sm 20,12-17.41-42; Prz 17,17; 27,5-6.9.17; Koh 4,9-12; J 15,12-16",
+  "p2": "1Sm 23,15-18; 2Sm 9,1.3.6-7; Hi 6,14-17; Łk 5,18-20; Wj 33,11; Jk 2,23",
+  "p3": "Rdz 44,30; 1Sm 20,30-34; Mt 26,48-50"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 32
+ },
+ "tagi": [
+  "relacje",
+  "przyjaźń",
+  "wierność",
+  "przymierze",
+  "samotność",
+  "prawda"
+ ],
+ "wersja": 1,
+ "zdanie": "Przyjaźń zaczyna się od oddanego płaszcza, a poznaje się ją na pustyni.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Biblia mówi o przyjaźni poważniej, niż jesteśmy przyzwyczajeni. Przyjaciele składają sobie przysięgę, wzywają Boga na świadka i biorą odpowiedzialność za swoje dzieci. Przyjaciel mówi prawdę, która boli, i przychodzi na pustynię, kiedy inni się odsunęli. Spotkanie prowadzi od Jonatana i Dawida do zdania, które Jezus wypowiada w noc przed krzyżem: „nazwałem was przyjaciółmi\". To ono jest puentą. Przyjaźń między ludźmi okazuje się obrazem tego, jak Bóg chce być z człowiekiem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole może nie mieć ani jednego przyjaciela i od lat się tego wstydzi. Dla niego całe spotkanie może brzmieć jak opis cudzego bogactwa.",
+      "Ktoś niedawno został przez przyjaciela zdradzony albo porzucony.",
+      "Dorosłym, zwłaszcza mężczyznom, trudno mówić o przyjaźni bez żartu. Nie wymuszaj powagi, ale sam jej nie rozbrajaj.",
+      "Rozmowa łatwo przechodzi w narzekanie, że w zborze nie ma prawdziwych więzi."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pytaj nikogo wprost, czy ma przyjaciół. Nie zapewniaj samotnych, że „mają nas\", jeśli za tym zdaniem nic nie stoi. Nie chwal przy wszystkich żadnej konkretnej przyjaźni w grupie, bo reszta usłyszy, że do niej nie należy. Pokrewny materiał z serii Emocje to Samotność.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o przyjaźni, która trwa albo trwała w twoim życiu najdłużej. Powiedz jedną rzecz, po której poznałeś, że to przyjaciel, a nie znajomy.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, dwoma zdaniami. Jeśli ktoś powie, że nie ma o kim mówić, podziękuj i idź dalej bez komentarza.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Płaszcz i miecz",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Dawid, pasterz z Betlejem, właśnie zabił Goliata i stoi przed królem Saulem. Przygląda się temu Jonatan, syn króla i następca tronu.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Sm 18,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy dokończył rozmowy z Saulem, dusza Jonatana przylgnęła do duszy Dawida, i umiłował go Jonatan jak siebie samego. I zabrał go Saul tegoż dnia z sobą i nie pozwolił mu już powrócić do domu jego ojca. Zawarli tedy Jonatan z Dawidem związek przyjaźni, ponieważ umiłował go jak siebie samego. Jonatan zdjął płaszcz, który miał na sobie, i dał go Dawidowi, tak samo swoją odzież – aż do swego miecza i łuku, i pasa."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jonatan jest księciem, Dawid pasterzem, który nagle stał się bohaterem. **Co Jonatan oddaje razem z płaszczem, mieczem i łukiem?** Co to mówi o tym, od czego zaczyna się przyjaźń?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Tekst dwa razy powtarza „jak siebie samego\". **Czym taka miłość różni się od podziwu, od interesu i od zwykłej sympatii?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jonatan miał wszelkie powody, żeby zobaczyć w Dawidzie rywala. **Od czego zależy, czy w kimś zdolniejszym od siebie widzimy zagrożenie, czy przyjaciela?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Płaszcz i broń księcia to znaki jego pozycji. Pierwszą rzeczą, jaką Jonatan robi wobec człowieka, który może mu kiedyś odebrać tron, jest oddanie mu tych znaków. Kilka wersetów dalej jego ojciec patrzy na tego samego Dawida i widzi rywala. Ojciec i syn widzą to samo i wybierają odwrotnie. Przyjaźń Jonatana od pierwszego dnia coś kosztuje i on o tym wie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Polskie „przylgnęła\" oddaje hebrajski czasownik, który znaczy „została związana\", jak węzłem. Tego samego wyrazu używa Juda, gdy tłumaczy w Egipcie, dlaczego stary Jakub nie przeżyje utraty Beniamina.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 44,30",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdybym więc teraz przyszedł do sługi twego, ojca mojego, a nie byłoby z nami chłopca, z którego duszą jest związana dusza jego,"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Biblia opisuje przyjaźń Jonatana tym samym słowem co miłość ojca do najmłodszego syna. **Co to mówi o wadze, jaką Pismo przykłada do przyjaźni?** Czy my stawiamy ją tak wysoko?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Przymierze",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Mija czas. Saul próbuje zabić Dawida, a Dawid musi uciekać. Jonatan obiecuje sprawdzić zamiary ojca i ostrzec przyjaciela.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Sm 20,12-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Tam rzekł Jonatan do Dawida: Świadkiem niech będzie Pan, Bóg izraelski, że wybadam mojego ojca o tym czasie jutro lub pojutrze, a jeżeli dobrze stoi sprawa Dawida, to gdybym wtedy nie posłał do ciebie i nie powiadomił cię o tym, niech Pan odpłaci to Jonatanowi teraz i potem. Jeżeli spodoba się mojemu ojcu wyrządzić ci zło, to sam cię o tym powiadomię i odprawię cię tak, że odejdziesz bezpieczny, a Pan będzie z tobą, jak był z moim ojcem. I nie tylko to; bo jeżeli jeszcze będę żył, to okaż mi przychylność w imię Pana, jeżeli zaś zginę, to też nie zaprzestań darzyć swoją przychylnością mojego domu po wszystkie czasy. A gdy Pan wytępi wszystkich wrogów Dawida z powierzchni ziemi, niech nie będzie wytępione imię Jonatana obok domu Dawida, niech raczej dokona Pan odpłaty tylko na wrogach Dawida. I Jonatan ponownie przysiągł Dawidowi na swoją miłość do niego, gdyż miłował go jak własne życie,"
+       ]
+      },
+      {
+       "odnosnik": "1Sm 20,41-42",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy pacholę odeszło, Dawid wstał i wyszedł spoza kupy kamieni, padł twarzą do ziemi i złożył trzy pokłony, po czym pocałowali się wzajemnie i wspólnie płakali, aż Dawid zaczął szlochać. Wreszcie rzekł Jonatan do Dawida: Idź w pokoju! Cośmy sobie obaj poprzysięgli w imię Pana, tego świadkiem będzie Pan między mną i między tobą, między potomstwem moim i między potomstwem twoim na wieki."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dwaj przyjaciele składają sobie przysięgę i wzywają Boga na świadka. **Po co przyjaźni przymierze? Co daje słowo wypowiedziane na głos, czego nie daje samo uczucie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jonatan prosi o coś na czas po własnej śmierci: o swój dom i swoje potomstwo. **Co to mówi o tym, jak daleko sięga przyjaźń w rozumieniu Biblii?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Przy pożegnaniu obaj płaczą, a Dawid szlocha. **Co dorosłym ludziom utrudnia dziś okazanie przyjacielowi, ile dla nich znaczy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W tamtych czasach nowy król często zabijał rodzinę poprzednika, żeby nikt nie upomniał się o tron. Prośba Jonatana jest więc bardzo konkretna: kiedy zostaniesz królem, nie zabijaj moich dzieci. Mówiąc to, syn Saula przyznaje na głos, że królem będzie Dawid, nie on. Czuła scena okazuje się także aktem politycznym, a przez to jest mocniejsza. Jonatan wie, ile ta przyjaźń go kosztuje, i przysięga ponownie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Na pustyni Zyf",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Sm 23,15-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Lękał się więc Dawid, że Saul wyruszył i czyha na jego życie. A gdy Dawid przebywał na pustyni Zyf w Choreszy, Jonatan, syn Saula, wybrał się do Dawida do Choreszy i dodawał mu otuchy w Bogu, I rzekł do niego: Nie bój się, gdyż nie dosięgnie cię ręka mojego ojca Saula; ty będziesz królem nad Izraelem, ja zaś będę drugim po tobie; także mój ojciec Saul wie o tym. I zawarli obaj przymierze przed Panem, i pozostał Dawid w Choreszy, a Jonatan poszedł do swojego domu."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jonatan nie przyprowadza wojska i nie przynosi zapasów. **Co przynosi? Co znaczy dodać komuś otuchy „w Bogu\", a nie w sobie ani w dobrych radach?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To ich ostatnie spotkanie. Jonatan mówi „będę drugim po tobie\", a niedługo potem ginie w bitwie u boku ojca. **Czy to, że jego nadzieja się nie spełniła, unieważnia to, co zrobił dla Dawida na pustyni?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Przy stole króla",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Sm 9,1.3.6-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Pewnego razu Dawid zapytał: Czy pozostał jeszcze ktoś z domu Saula, abym mógł mu wyświadczyć łaskę ze względu na Jonatana? [...] Król zapytał: Czy jest jeszcze jakiś mąż w domu Saula, abym mógł mu wyświadczyć łaskę Bożą? A Syba odpowiedział królowi: Jest jeszcze syn Jonatana, kulawy na obie nogi. [...] A gdy Mefiboszet, syn Jonatana, wnuk Saula, przybył do króla, padł na twarz i oddał mu pokłon, a Dawid rzekł: Mefiboszecie! A ten na to: Oto sługa twój! I rzekł do niego Dawid: Nie bój się, gdyż chcę ci wyświadczyć łaskę ze względu na twego ojca, Jonatana. Chcę ci zwrócić całą posiadłość ziemską Saula, twego dziadka, ty sam zaś będziesz jadał u mojego stołu po wszystkie czasy."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jonatan nie żyje od lat i nikt nie upomniałby się o dotrzymanie przysięgi. **Co ta scena mówi o przyjaźni, która trwa, gdy przyjaciela już nie ma?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mefiboszet pada na twarz i słyszy „nie bój się\". **Czego się bał i dlaczego miał powód?** Wróćcie do prośby Jonatana z bloku 2.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: ojciec czy przyjaciel",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Sm 20,30-34",
+       "przeklad": "BW",
+       "akapity": [
+        "I wybuchnął Saul gniewem na Jonatana, i rzekł do niego: Synu przewrotnej i przekornej niewiasty! Dobrze wiem, że się przyjaźnisz z synem Isajego ku twojej hańbie i hańbie łona twojej matki. Gdy dopóki żyje syn Isajego na ziemi, nie ostoisz się ani ty, ani twoje królestwo. Poślij więc zaraz i dostaw mi go, gdyż zasłużył na śmierć. A Jonatan odpowiedział Saulowi, swemu ojcu, tymi słowy: Dlaczego ma być zabity? Co uczynił? Wtedy Saul rzucił w niego włócznię, aby go przebić; poznał tedy Jonatan, że postanowieniem jego ojca było zabić Dawida. Wstał więc Jonatan od stołu w gniewie i nie jadł drugiego dnia po nowiu posiłku, gdyż martwił się o Dawida oraz że jego ojciec go znieważył."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jonatan nigdy nie zdradził Dawida i nigdy nie opuścił ojca. Ostrzegł przyjaciela, a potem wrócił do domu i zginął na wzgórzach Gilboa, walcząc u boku Saula.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak można być lojalnym wobec dwóch ludzi, z których jeden chce zabić drugiego?** Gdzie Jonatan postawił ojcu granicę, a gdzie jej nie postawił?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Razy przyjaciela",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 17,17",
+       "przeklad": "BW",
+       "akapity": [
+        "Przyjaciel zawsze okazuje miłość; rodzi się bratem w niedoli."
+       ]
+      },
+      {
+       "odnosnik": "Prz 27,5-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Lepsza jest jawna nagana, niż nieszczera miłość. Razy przyjaciela są oznaką wierności, pocałunki wroga są zwodnicze."
+       ]
+      },
+      {
+       "odnosnik": "Prz 27,9",
+       "przeklad": "BW",
+       "akapity": [
+        "Olejek i kadzidło cieszą serce, lecz słodki jest przyjaciel, który radzi szczerze."
+       ]
+      },
+      {
+       "odnosnik": "Prz 27,17",
+       "przeklad": "BW",
+       "akapity": [
+        "Żelazo ostrzy się żelazem, a zachowanie swojego bliźniego wygładza człowiek."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Razy przyjaciela są oznaką wierności\". **Po czym odróżnić raz zadany przez przyjaciela od zwykłej krytyki?** Co musi być prawdą o relacji, żeby trudne słowo dało się przyjąć?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przyjaciel „rodzi się bratem w niedoli\". **Co niedola pokazuje o przyjaźni, czego nie widać w dobrych czasach?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Żelazo ostrzy się o żelazo przez tarcie. **Czy przyjaźń, w której nigdy nie ma tarcia, jest jeszcze przyjaźnią?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Potok, który wysycha",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hi 6,14-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Strapionemu należy się życzliwość od przyjaciela, choćby nawet zaniechał bojaźni Bożej. Moi bracia okazali się zawodni jak potok, jak łożyska potoków, które występują z brzegów. Toczą mętną wodę lodową, w której na dnie kryje się śnieg. W porze letniej znikają, wysychają w upale bez śladu."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Job, w innych przekładach Hiob, mówi to do trzech przyjaciół, którzy przyszli go pocieszyć, a skończyli na udowadnianiu mu winy.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Potok na pustyni jest pełny zimą, a znika latem, czyli wtedy, gdy woda jest potrzebna. **Co dokładnie Job zarzuca przyjaciołom tym obrazem?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Choćby nawet zaniechał bojaźni Bożej\". **Co Job mówi o przyjaźni wobec kogoś, kto w cierpieniu traci wiarę albo mówi o Bogu rzeczy, których nie wypada mówić?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Lepiej dwom",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Koh 4,9-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Lepiej jest dwom niż jednemu, mają bowiem dobrą zapłatę za swój trud: Bo jeżeli upadną, to jeden drugiego podniesie. Lecz biada samotnemu, gdy upadnie! Nie ma drugiego, który by go podniósł. Także, gdy dwaj razem leżą, zagrzeją się; natomiast jak może jeden się zagrzać? A jeżeli jednego można pokonać, to we dwóch można się ostać; a sznur potrójny nie tak szybko się zerwie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Kaznodzieja wylicza, co daje obecność drugiego człowieka: owoc wspólnego trudu, podniesienie po upadku, ciepło, obronę. **Której z tych rzeczy najbardziej brakuje ludziom, których znacie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Tekst nie mówi „biada temu, kto upadnie\". Mówi „biada samotnemu, gdy upadnie\". **Na czym polega różnica?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Mowa była o dwóch, a na końcu pojawia się sznur potrójny. **Kto albo co może być trzecią nicią?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Czterech na dachu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 5,18-20",
+       "przeklad": "BW",
+       "akapity": [
+        "że oto mężowie nieśli na łożu człowieka sparaliżowanego, i usiłowali wnieść go i położyć przed nim, a nie znalazłszy drogi, którędy by go mogli wnieść z powodu tłumu, weszli na dach i przez powałę spuścili go wraz z łożem do środka przed samego Jezusa. I ujrzawszy wiarę ich, rzekł: Człowieku, odpuszczone są ci grzechy twoje."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czyją wiarę widzi Jezus?** Co to mówi o tym, co przyjaciele mogą zrobić dla kogoś, kto sam do Jezusa nie dojdzie?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Nazwałem was przyjaciółmi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 15,12-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Takie jest przykazanie moje, abyście się wzajemnie miłowali, jak Ja was umiłowałem. Większej miłości nikt nie ma nad tę, jak gdy kto życie swoje kładzie za przyjaciół swoich. Jesteście przyjaciółmi moimi, jeśli czynić będziecie, co wam przykazuję. Już was nie nazywam sługami, bo sługa nie wie, co czyni pan jego; lecz nazwałem was przyjaciółmi, bo wszystko, co słyszałem od Ojca mojego, oznajmiłem wam. Nie wy mnie wybraliście, ale Ja was wybrałem i przeznaczyłem was, abyście szli i owoc wydawali i aby owoc wasz był trwały, by to, o cokolwiek byście prosili Ojca w imieniu moim, dał wam."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Czym według Jezusa różni się sługa od przyjaciela?** Co przyjaciel wie, czego sługa nie wie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi o oddaniu życia za przyjaciół w noc przed krzyżem. **Zestawcie to z Jonatanem, który oddał płaszcz, miecz i tron. Co te dwie przyjaźnie mają wspólnego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Nie wy mnie wybraliście, ale Ja was wybrałem\". **Co to zdanie znaczy dla kogoś, kto ma poczucie, że nikt nigdy nie wybrał go na przyjaciela?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Kilka godzin wcześniej Jezus przepasał się prześcieradłem i umył uczniom nogi, czyli zrobił to, co należało do niewolnika. Teraz odwraca role po raz drugi: tych, którzy mieli prawo nazywać się najwyżej Jego sługami, nazywa przyjaciółmi. W Starym Testamencie „sługa Pana\" to tytuł zaszczytny, noszony przez Mojżesza i Dawida. Jezus daje więcej niż ten zaszczyt. Miarą przyjaźni jest tu wtajemniczenie: przyjaciel wie, co Pan zamierza.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Przyjaciel Boga",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 33,11",
+       "przeklad": "BW",
+       "akapity": [
+        "I rozmawiał Pan z Mojżeszem twarzą w twarz, tak jak człowiek rozmawia ze swoim przyjacielem, po czym wracał Mojżesz do obozu, podczas gdy młody sługa jego, Jozue, syn Nuna, nie oddalał się z Namiotu."
+       ]
+      },
+      {
+       "odnosnik": "Jk 2,23",
+       "przeklad": "BW",
+       "akapity": [
+        "I wypełniło się Pismo, które mówi: I uwierzył Abraham Bogu i poczytane mu to zostało ku usprawiedliwieniu, i nazwany został przyjacielem Boga."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Biblia dwa razy nazywa człowieka przyjacielem Boga. **Co w tych dwóch zdaniach jest treścią tej przyjaźni?** Poszukajcie: rozmowa twarzą w twarz, zaufanie.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak wyglądałaby wasza modlitwa, gdybyście potraktowali poważnie słowa „jak człowiek rozmawia ze swoim przyjacielem\"?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W J 15 Jezus używa greckiego `philos`, czyli „ktoś kochany, bliski\". W ogrodzie Getsemane zwraca się do Judasza innym wyrazem.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 26,48-50",
+       "przeklad": "BW",
+       "akapity": [
+        "A ten, który go wydał, dał im znak, mówiąc: Ten, którego pocałuję, jest nim, bierzcie go. I zaraz przystąpił do Jezusa, i rzekł: Bądź pozdrowiony, Mistrzu! I pocałował go. A Jezus rzekł do niego: Przyjacielu, po co przychodzisz? Wtedy podeszli bliżej, rzucili się na Jezusa i pochwycili go."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Tu pada `hetairos`, „towarzyszu\". W Nowym Testamencie słowo to występuje tylko u Mateusza, trzy razy, zawsze jako zwrot do kogoś: do robotnika, który szemrze na gospodarza winnicy, do gościa bez szaty weselnej i do Judasza. Za każdym razem słyszy je ktoś, kto właśnie zlekceważył łączącą go więź.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przypowieści mówiły: „pocałunki wroga są zwodnicze\". **Co Jezus robi, nazywając Judasza w tej chwili towarzyszem? Czy to ironia, czy ostatnia wyciągnięta ręka?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Padły dziś trzy obrazy przyjaciela: ten, który oddaje płaszcz, ten, który mówi prawdę, i ten, który przychodzi na pustynię. **Którym z nich bywasz najczęściej, a którym najrzadziej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jonatan dodawał Dawidowi otuchy w Bogu. **Kto robi to dla ciebie? A dla kogo robisz to ty?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest przyjaźń, która wygasła albo się zerwała, a której ci brakuje?** Nie musisz mówić czyja.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Jesteście przyjaciółmi moimi, jeśli czynić będziecie, co wam przykazuję\". Między ludźmi przyjaciel, który rozkazuje, przestaje być przyjacielem. **Czy przyjaźń z Jezusem jest w takim razie przyjaźnią w zwykłym sensie? Co się zmienia, gdy jedyne przykazanie, o którym tu mowa, brzmi „abyście się wzajemnie miłowali\"?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy można być czyimś przyjacielem, nie będąc mu równym?** Jonatan i Dawid nie byli równi na początku i nie byli równi na końcu.",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie zamykaj. Warto, żeby padło, że Jezus nie znosi różnicy między sobą a uczniami, tylko ją przekracza z własnej woli, tak jak Jonatan przekroczył różnicę między księciem a pasterzem.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przyjaźń zaczyna się od oddanego płaszcza, a poznaje się ją na pustyni.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Prz 17,17 albo J 15,15.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o kimś, kto jest dziś na swojej pustyni Zyf: boi się, ukrywa, został sam. Zapytaj siebie: **co znaczyłoby pójść do niego i dodać mu otuchy w Bogu, a nie w dobrych radach?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zapytaj siebie uczciwie: **komu pozwalam mówić mi prawdę?** Jeśli nikomu, zostań przy pytaniu dlaczego. Nie szukaj od razu winnych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** Jezus nazywa cię przyjacielem, czyli kimś, kto ma prawo wiedzieć i pytać. Porozmawiaj z Nim tak, jak rozmawia się z przyjacielem, nie z urzędem. Powiedz Mu jedną rzecz, której nie powiedziałbyś na głos w kościele.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja nie mam żadnego przyjaciela.\"** Nie zaprzeczaj i nie pocieszaj zdaniem „masz przecież nas\". Podziękuj za szczerość, bo wiele kosztowała. W bloku 5 jest zdanie dla tej osoby: „nie wy mnie wybraliście, ale Ja was wybrałem\". Po spotkaniu zrób coś konkretnego: zadzwoń w tygodniu, zaproś na obiad. Jedno zaproszenie znaczy więcej niż zapewnienie przy stole.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada o przyjacielu, który go zdradził.** Wysłuchaj, nie oceniaj nieobecnego i nie naciskaj na przebaczenie. Biblia zna ten ból, Ps 55 mówi o powierniku, z którym „mieliśmy wspólne słodkie tajemnice\". Jeśli rana jest świeża, zaproponuj rozmowę po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Między Dawidem a Jonatanem było coś więcej niż przyjaźń.\"** Nie oburzaj się i nie wchodź w spór. Tekst mówi językiem przymierza, a zwrot „miłować jak siebie samego\" to ten sam zwrot, którym Kpł 19,18 opisuje miłość bliźniego. Obaj mają żony i dzieci, o których tekst mówi wprost. Możesz dodać, że to pytanie więcej mówi o naszych czasach, którym trudno wyobrazić sobie głęboką więź bez erotyki, niż o tamtych. Potem wróć do pytania z bloku.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa zamienia się w narzekanie, że w zborze nie ma prawdziwych przyjaźni.** Zgódź się, że to boli, i przesuń pytanie na pierwszą osobę: „Komu ja w ostatnim roku oddałem płaszcz?\" Jonatan nie czekał, aż Dawid zrobi pierwszy krok.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś pyta o przyjaźń między kobietą a mężczyzną albo mówi, że małżonek jest zazdrosny o jego przyjaźnie.** Teksty z tego spotkania nie dają tu przepisu i nie udawaj, że dają. Powiedz, że to dobre pytanie na rozmowę we dwoje albo we troje, nie na forum. Jeśli w tle jest kontrolowanie kontaktów przez współmałżonka, zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Żarty rozbrajają każde poważniejsze pytanie.** Pozwól na śmiech, a potem powtórz pytanie tymi samymi słowami i odpowiedz na nie pierwszy, poważnie i krótko.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 4. Bloki 1 i 2 opowiadają historię Jonatana, blok 3 dodaje prawdę, a blok 5 jest puentą, bez której spotkanie zostaje przy samej psychologii.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Ja nie mam żadnego przyjaciela.\"",
+     "odpowiedz": "Nie zaprzeczaj i nie pocieszaj zdaniem „masz przecież nas\". Podziękuj za szczerość, bo wiele kosztowała. W bloku 5 jest zdanie dla tej osoby: „nie wy mnie wybraliście, ale Ja was wybrałem\". Po spotkaniu zrób coś konkretnego: zadzwoń w tygodniu, zaproś na obiad. Jedno zaproszenie znaczy więcej niż zapewnienie przy stole."
+    },
+    {
+     "sytuacja": "Ktoś opowiada o przyjacielu, który go zdradził.",
+     "odpowiedz": "Wysłuchaj, nie oceniaj nieobecnego i nie naciskaj na przebaczenie. Biblia zna ten ból, Ps 55 mówi o powierniku, z którym „mieliśmy wspólne słodkie tajemnice\". Jeśli rana jest świeża, zaproponuj rozmowę po spotkaniu."
+    },
+    {
+     "sytuacja": "„Między Dawidem a Jonatanem było coś więcej niż przyjaźń.\"",
+     "odpowiedz": "Nie oburzaj się i nie wchodź w spór. Tekst mówi językiem przymierza, a zwrot „miłować jak siebie samego\" to ten sam zwrot, którym Kpł 19,18 opisuje miłość bliźniego. Obaj mają żony i dzieci, o których tekst mówi wprost. Możesz dodać, że to pytanie więcej mówi o naszych czasach, którym trudno wyobrazić sobie głęboką więź bez erotyki, niż o tamtych. Potem wróć do pytania z bloku."
+    },
+    {
+     "sytuacja": "Rozmowa zamienia się w narzekanie, że w zborze nie ma prawdziwych przyjaźni.",
+     "odpowiedz": "Zgódź się, że to boli, i przesuń pytanie na pierwszą osobę: „Komu ja w ostatnim roku oddałem płaszcz?\" Jonatan nie czekał, aż Dawid zrobi pierwszy krok."
+    },
+    {
+     "sytuacja": "Ktoś pyta o przyjaźń między kobietą a mężczyzną albo mówi, że małżonek jest zazdrosny o jego przyjaźnie.",
+     "odpowiedz": "Teksty z tego spotkania nie dają tu przepisu i nie udawaj, że dają. Powiedz, że to dobre pytanie na rozmowę we dwoje albo we troje, nie na forum. Jeśli w tle jest kontrolowanie kontaktów przez współmałżonka, zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "Żarty rozbrajają każde poważniejsze pytanie.",
+     "odpowiedz": "Pozwól na śmiech, a potem powtórz pytanie tymi samymi słowami i odpowiedz na nie pierwszy, poważnie i krótko."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 4. Bloki 1 i 2 opowiadają historię Jonatana, blok 3 dodaje prawdę, a blok 5 jest puentą, bez której spotkanie zostaje przy samej psychologii."
+    }
+   ]
+  }
+ ]
+}

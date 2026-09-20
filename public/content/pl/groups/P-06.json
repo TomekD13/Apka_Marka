@@ -1,0 +1,831 @@
+{
+ "tytul": "Czy Jezus naprawdę zmartwychwstał?",
+ "id": "P-06",
+ "seria": "Pytania, które ludzie zadają",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "1Kor 15,1-8; Łk 24,1-12; Mt 28,11-15; Łk 24,36-43; J 20,24-29",
+  "p2": "1Kor 15,12-19; Mk 16,1-8; Mt 27,62-66; J 20,1-10; Mt 28,16-17; 1P 1,8-9",
+  "p3": "Dz 2,29-32; Dz 10,39-41"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 29,
+  "p3": 34
+ },
+ "tagi": [
+  "zmartwychwstanie",
+  "świadkowie",
+  "wątpliwości",
+  "Tomasz",
+  "pusty grób",
+  "nadzieja"
+ ],
+ "wersja": 1,
+ "zdanie": "Uczniowie nie byli łatwowierni i nikt ich o to nie prosił. Jezus przyszedł do nich przez zamknięte drzwi i przyszedł drugi raz, dla jednego, który jeszcze nie mógł.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Na tym jednym wydarzeniu stoi całe chrześcijaństwo i Nowy Testament mówi to bez ogródek: jeśli Chrystus nie zmartwychwstał, wiara jest daremna. Dlatego warto uczciwie zobaczyć, co właściwie mamy. Samego zmartwychwstania nikt nie widział i żadna ewangelia nie twierdzi inaczej. Mamy świadków pustego grobu i świadków spotkań. Mamy bardzo stare wyznanie wiary z listą nazwisk. Mamy wersję przeciwników. I mamy uczniów, którzy sami długo nie wierzyli.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie nie ma nikogo przycisnąć do ściany. Historia doprowadza człowieka do progu i tam się zatrzymuje. Przez próg przechodzi się inaczej, a Tomasz pokazuje, że Jezus umie czekać na tych, którzy jeszcze nie mogą.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole może nie wierzyć w zmartwychwstanie albo rozumieć je jako symbol. Jeśli poczuje, że to spotkanie jest zasadzką, zamknie się albo nie wróci.",
+      "Ktoś wierzący może poczuć się zagrożony samym stawianiem pytania. Dla niego uczciwe czytanie wersji przeciwników zabrzmi jak podważanie wiary.",
+      "Temat kusi ciekawostkami i dowodami spoza Biblii. Trzymajcie się tekstów.",
+      "Ktoś w żałobie usłyszy to wszystko nie jako zagadnienie, tylko jako pytanie o swojego zmarłego. Materiały „Co jest po śmierci?\" i „Żałoba\" idą tym tropem dalej."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pytaj nikogo wprost, czy wierzy. Nie mów „dowody są niepodważalne\". Nie pozwól, żeby grupa przekonywała jedną osobę. Nie zawstydzaj wątpiącego i nie rób z Tomasza negatywnego przykładu, bo tekst tego nie robi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie wiadomość, dobrą albo złą, w którą w pierwszej chwili nie mogłeś uwierzyć. Powiedz jednym zdaniem, co cię w końcu przekonało.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Najstarsze wyznanie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Kor 15,1-8",
+       "przeklad": "BW",
+       "akapity": [
+        "A przypominam wam, bracia, ewangelię, którą wam zwiastowałem, którą też przyjęliście i w której trwacie, i przez którą zbawieni jesteście, jeśli ją tylko zachowujecie tak, jak wam ją zwiastowałem, chyba że nadaremnie uwierzyliście. Najpierw bowiem podałem wam to, co i ja przejąłem, że Chrystus umarł za grzechy nasze według Pism i że został pogrzebany, i że dnia trzeciego został z martwych wzbudzony według Pism, i że ukazał się Kefasowi, potem dwunastu; potem ukazał się więcej niż pięciuset braciom naraz, z których większość dotychczas żyje, niektórzy zaś zasnęli; potem ukazał się Jakubowi, następnie wszystkim apostołom; a w końcu po wszystkich ukazał się i mnie jako poronionemu płodowi."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł pisze: „podałem wam to, co i ja przejąłem\". **Co to mówi o pochodzeniu i wieku tego wyznania? Wypiszcie cztery rzeczy, które ono stwierdza, każda zaczyna się od „że\".**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przy pięciuset braciach Paweł dopisuje: „większość dotychczas żyje\". **Po co ten dopisek w liście, który będzie czytany publicznie? Do czego zaprasza czytelnika?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Na liście jest Jakub, brat Jezusa, o którym ewangelie mówią, że za życia Jezusa w Niego nie wierzył, i Paweł, który chrześcijan więził. **Co te dwa nazwiska wnoszą do listy świadków?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "„Przejąłem\" i „podałem\" to zwroty, którymi w tamtym świecie opisywano staranne przekazywanie nauki od nauczyciela do ucznia. Paweł pisze ten list około dwudziestu pięciu lat po ukrzyżowaniu i cytuje formułę starszą od listu. Warto zauważyć, że spotkania z Piotrem i z Jakubem, dwoma przywódcami pierwszego Kościoła, mieszczą się tu w pół zdania i nikt ich nigdzie nie opisał. Kto układa legendę, zaczyna od scen najbardziej użytecznych.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Co, jeśli nie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Kor 15,12-19",
+       "przeklad": "BW",
+       "akapity": [
+        "A jeśli się o Chrystusie opowiada, że został z martwych wzbudzony, jakże mogą mówić niektórzy między wami, że zmartwychwstania nie ma? Bo jeśli nie ma zmartwychwstania, to i Chrystus nie został wzbudzony; a jeśli Chrystus nie został wzbudzony, tedy i kazanie nasze daremne, daremna też wasza wiara; wówczas też byliśmy fałszywymi świadkami Bożymi, bo świadczyliśmy o Bogu, że Chrystusa wzbudził, którego nie wzbudził, skoro umarli nie bywają wzbudzeni. Jeśli bowiem umarli nie bywają wzbudzeni, to i Chrystus nie został wzbudzony; a jeśli Chrystus nie został wzbudzony, daremna jest wiara wasza; jesteście jeszcze w swoich grzechach. Zatem i ci, którzy zasnęli w Chrystusie, poginęli. Jeśli tylko w tym życiu pokładamy nadzieję w Chrystusie, jesteśmy ze wszystkich ludzi najbardziej pożałowania godni."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł sam rozważa możliwość, że to wszystko nieprawda, i wylicza skutki. **Wypiszcie je. Co to mówi o nim jako świadku, że stawia sprawę tak ostro?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wielu ludzi ceni chrześcijaństwo za wartości i tradycję, a zmartwychwstanie traktuje jako dodatek. **Czy Paweł zgodziłby się, że chrześcijaństwo bez zmartwychwstania wciąż ma sens? Dlaczego?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Słowa jak baśnie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 24,1-12",
+       "przeklad": "BW",
+       "akapity": [
+        "A pierwszego dnia tygodnia, wczesnym rankiem, przyszły do grobu, niosąc wonności, które przygotowały. I zastały kamień odwalony od grobowca. A wszedłszy do środka, nie znalazły ciała Pana Jezusa. Gdy były z tego powodu zakłopotane, stało się, że oto dwaj mężowie przystąpili do nich w lśniących szatach. A gdy się zatrwożyły i schyliły twarze ku ziemi, oni rzekli do nich: Dlaczego szukacie żyjącego wśród umarłych? Nie ma go tu, ale wstał z martwych. Wspomnijcie, jak mówił wam, będąc jeszcze w Galilei, że Syn Człowieczy musi być wydany w ręce grzesznych ludzi i musi być ukrzyżowany, a dnia trzeciego powstać. I wspomniały na jego słowa. I zawróciwszy od grobowca, doniosły o tym jedenastu i wszystkim pozostałym. A były to Maria Magdalena i Joanna, i Maria, matka Jakuba, i inne z nimi, które opowiedziały to apostołom. Lecz słowa te wydały im się niczym baśnie, i nie dawali im wiary. Piotr zaś, wstawszy, pobiegł do grobu i nachyliwszy się, ujrzał jedynie leżące prześcieradła, i odszedł do siebie, dziwiąc się temu, co się stało."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Kobiety idą z wonnościami. **Czego się spodziewały tego ranka? Co to mówi o tym, czy uczniowie byli ludźmi gotowymi uwierzyć w cokolwiek?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Łukasz zapisuje, że apostołowie uznali relację kobiet za baśnie. **Jak w tej scenie wypadają przyszli przywódcy Kościoła? Po co autor, który chce przekonać czytelnika, zapisuje coś takiego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Piotr pobiegł, zobaczył płótna i odszedł, „dziwiąc się\". **Czym zdziwienie różni się od wiary? Co pusty grób sam z siebie potrafi udowodnić, a czego nie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W tamtym świecie świadectwo kobiety ważyło mało, w sądzie często nie liczyło się wcale. Nie trzeba z tego robić dowodu matematycznego, bo bywały wyjątki. Pewne jest jedno: ktoś, kto wymyśla historię po to, by przekonać, nie zaczyna od świadków, których najłatwiej zbyć. Wszystkie cztery ewangelie zaczynają właśnie od nich, a Łukasz dopisuje jeszcze, że pierwsi, którzy im nie uwierzyli, to apostołowie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Strach przy grobie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 16,1-8",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy minął sabat, Maria Magdalena i Maria Jakubowa, i Salome nakupiły wonności, aby pójść i namaścić go. I bardzo rano, skoro wzeszło słońce, pierwszego dnia tygodnia, przyszły do grobu. I mówiły do siebie: Któż nam odwali kamień od drzwi grobu? Ale gdy spojrzały, zauważyły, że kamień był odwalony, był bowiem bardzo wielki. A gdy weszły do grobu, ujrzały młodzieńca siedzącego po prawej stronie, odzianego w białą szatę i zdumiały się bardzo. On zaś rzekł do nich: Nie trwóżcie się! Jezusa szukacie Nazareńskiego, ukrzyżowanego; wstał z martwych, nie ma go tu, oto miejsce, gdzie go złożono. Ale idźcie i powiedzcie uczniom jego i Piotrowi, że was poprzedza do Galilei; tam go ujrzycie, jak wam powiedział. A wyszedłszy, uciekły od grobu, ogarnął je bowiem lęk i zdumienie, i nic nikomu nie mówiły, bo się bały."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Najstarsze rękopisy Ewangelii Marka kończą się w tym miejscu: na ucieczce, lęku i milczeniu. **Jakie to robi wrażenie jako zakończenie opowieści o największym zwycięstwie? Co mówi o pierwszej reakcji ludzi na zmartwychwstanie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Powiedzcie uczniom jego i Piotrowi\". **Dlaczego Piotr jest wymieniony osobno? Co to zdanie znaczyło dla człowieka, który trzy dni wcześniej się zaparł?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Baśnie\" w Łk 24,11 to greckie `lēros`. W Nowym Testamencie pada tylko tutaj. W literaturze tamtych czasów oznaczało puste gadanie, a w tekstach medycznych majaczenie chorego w gorączce. Łukasz, którego tradycja nazywa lekarzem, wybrał słowo bez żadnej taryfy ulgowej dla apostołów.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zyskuje czytelnik na tym, że autor nie oszczędza bohaterów własnej opowieści?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Wersja przeciwników",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 28,11-15",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy one szły, oto niektórzy ze straży przyszli do miasta i powiadomili arcykapłanów o wszystkim, co zaszło. Ci zaś zebrali się wraz ze starszymi i po naradzie dali sporo pieniędzy żołnierzom, mówiąc: Powiedzcie, że uczniowie jego w nocy przyszli i ukradli go, gdy spaliśmy. A jeśliby o tym usłyszał namiestnik, my go przekonamy i wam bezpieczeństwo zapewnimy. Wzięli więc pieniądze i postąpili tak, jak ich pouczono. I rozniosła się ta wieść wśród Żydów aż po dzień dzisiejszy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dwie strony opowiadają, co się stało z ciałem, i każda mówi co innego. **Co mimo to obie strony przyjmują za pewne?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przyjrzyjcie się wersji ze strażnikami, którzy spali. **Jakie ma słabe punkty? A jakie słabe punkty ma z punktu widzenia sceptyka relacja Mateusza?** Spróbujcie potraktować obie uczciwie.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Mateusz pisze, że ta wieść krąży „aż po dzień dzisiejszy\". **Co to mówi o sytuacji, w której pisze, i o czytelnikach, którzy mogli tę drugą wersję znać z pierwszej ręki?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To, że zarzut kradzieży rzeczywiście krążył, potwierdzają źródła spoza Biblii. Jeszcze w połowie drugiego wieku chrześcijański pisarz przytacza go jako to, co rozpowiadają przeciwnicy: uczniowie wykradli ciało nocą z grobu. Przez sto lat sporu nikt po drugiej stronie nie twierdził, że ciało leży tam, gdzie je złożono. Spierano się o to, dlaczego grób jest pusty, a nie o to, czy jest pusty.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Straż",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 27,62-66",
+       "przeklad": "BW",
+       "akapity": [
+        "Nazajutrz, czyli w dzień po święcie Przygotowania, zebrali się u Piłata przedniejsi arcykapłani i faryzeusze, mówiąc: Panie, przypomnieliśmy sobie, że ten zwodziciel jeszcze za życia powiedział: Po trzech dniach zmartwychwstanę. Rozkaż więc zabezpieczyć grób aż do trzeciego dnia, żeby czasem uczniowie jego nie przyszli, nie ukradli go i nie powiedzieli ludowi: Powstał z martwych. I będzie ostatnie oszustwo gorsze niż pierwsze. Rzekł im Piłat: Macie straż, idźcie, zabezpieczcie, jak umiecie. Poszli więc i zabezpieczyli grób, pieczętując kamień i zaciągając straż."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kto w tej scenie pamięta zapowiedź zmartwychwstania, a kto o niej zapomniał?** Co w tym zestawieniu jest ironiczne?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Uczniowie w tych dniach siedzą za zamkniętymi drzwiami ze strachu. **Na ile prawdopodobne jest, że ci sami ludzie wykradają ciało spod straży, a potem przez resztę życia za to kłamstwo cierpią?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Nie duch",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 24,36-43",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy to mówili, On sam stanął wśród nich i rzekł im: Pokój wam! Wtedy zatrwożyli się i pełni lęku mniemali, że widzą ducha. Lecz On rzekł im: Czemu jesteście zatrwożeni i czemu wątpliwości budzą się w waszych sercach? Spójrzcie na ręce moje i nogi moje, że to Ja jestem. Dotknijcie mnie i popatrzcie: Wszak duch nie ma ciała ani kości, jak widzicie, że Ja mam. A gdy to powiedział, pokazał im ręce i nogi. Lecz gdy oni jeszcze nie wierzyli z radości i dziwili się, rzekł im: Macie tu co do jedzenia? A oni podali mu kawałek ryby pieczonej i plaster miodu. A On wziął i jadł przy nich."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Uczniowie mają gotowe wyjaśnienie: to duch. **Co Jezus robi po kolei, żeby im to wyjaśnienie odebrać? Dlaczego tak Mu na tym zależy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Jeszcze nie wierzyli z radości\". **Co to za stan? Czy znacie go z własnego życia?** Zwróćcie uwagę, że Jezus nie gani ich za to, tylko prosi o coś do jedzenia.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Zmartwychwstały ma ślady po gwoździach. **Co to mówi o związku między Jego nowym życiem a tym, co przeszedł? Co to może znaczyć dla naszych ran?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Szczegół łatwy do przeoczenia: żaden z czterech opisów ukrzyżowania nie wspomina o gwoździach. Mówią tylko, że Go ukrzyżowano. O gwoździach dowiadujemy się dopiero z tych scen, gdy Jezus pokazuje ręce i nogi. Najbardziej znany szczegół męki znamy wyłącznie ze świadectwa o zmartwychwstaniu. Ewangeliści nie opowiadają o duchowym przeżyciu uczniów. Opowiadają o ciele, które można rozpoznać po ranach i które je rybę.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Płótna",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 20,1-10",
+       "przeklad": "BW",
+       "akapity": [
+        "A pierwszego dnia tygodnia, wczesnym rankiem, gdy jeszcze było ciemno, przyszła Maria Magdalena do grobu i ujrzała kamień odwalony od grobu. Pobiegła więc i przyszła do Szymona Piotra i do drugiego ucznia, którego miłował Jezus, i rzekła do nich: Wzięli Pana z grobu i nie wiemy, gdzie go położyli. Wyszedł tedy Piotr i ów drugi uczeń, i szli do grobu. A biegli obaj razem; ale ów drugi uczeń wyprzedził Piotra i pierwszy przyszedł do grobu, a nachyliwszy się, ujrzał leżące prześcieradła; jednak nie wszedł. Przyszedł także i Szymon Piotr, który szedł za nim, i wszedł do grobowca i ujrzał leżące prześcieradła oraz chustę, która była na głowie jego, nie leżącą z prześcieradłami, ale zwiniętą osobno na jednym miejscu. A wtedy wszedł i ów drugi uczeń, który pierwszy przybiegł do grobowca, i ujrzał, i uwierzył; albowiem jeszcze nie rozumieli Pisma, że musi powstać z martwych. Odeszli więc znowu uczniowie do domu."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jakie jest pierwsze wyjaśnienie pustego grobu, które przychodzi Marii do głowy?** Co to mówi o nastawieniu uczniów?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jan opisuje płótna i osobno zwiniętą chustę z dokładnością protokołu. **Co zobaczył w tym widoku „drugi uczeń\", że uwierzył? Co zrobiłby z płótnami ktoś, kto zabiera ciało?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Tekst zauważa, że uczeń musiał się nachylić, żeby zajrzeć. Wejścia do żydowskich grobów z tamtych czasów są niskie, mają kilkadziesiąt centymetrów wysokości. **Co takie drobne szczegóły mówią o tym, kto stoi za tą relacją?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Tomasz",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 20,24-29",
+       "przeklad": "BW",
+       "akapity": [
+        "A Tomasz, jeden z dwunastu, zwany Bliźniakiem, nie był z nimi, gdy przyszedł Jezus. Powiedzieli mu tedy inni uczniowie: Widzieliśmy Pana. On zaś im rzekł: Jeśli nie ujrzę na rękach jego znaku gwoździ i nie włożę palca mego w miejsce gwoździ, i nie włożę ręki mojej w bok jego, nie uwierzę. A po ośmiu dniach znowu byli w domu uczniowie jego i Tomasz z nimi. I przyszedł Jezus, gdy drzwi były zamknięte, i stanął pośród nich, i rzekł: Pokój wam! Potem rzekł do Tomasza: Daj tu palec swój i oglądaj ręce moje, i daj tu rękę swoją, i włóż w bok mój, a nie bądź bez wiary, lecz wierz. Odpowiedział Tomasz i rzekł mu: Pan mój i Bóg mój. Rzekł mu Jezus: Że mnie ujrzałeś, uwierzyłeś; błogosławieni, którzy nie widzieli, a uwierzyli."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Tomasz stawia warunki. **Jak Jezus na nie odpowiada? Skąd zna je słowo w słowo, skoro nie było Go przy tamtej rozmowie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Między jednym spotkaniem a drugim mija osiem dni. Tomasz nie wierzy i jest „z nimi\". **Co uczniowie zrobili, a czego nie zrobili z niewierzącym kolegą przez ten tydzień? Czego to uczy naszą grupę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Błogosławieni, którzy nie widzieli, a uwierzyli\". **O kim Jezus mówi? Na czym ma się opierać wiara tych ludzi, skoro nie na widzeniu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Najpełniejsze wyznanie wiary w całej Ewangelii Jana pada z ust człowieka, który tydzień wcześniej powiedział „nie uwierzę\". Ewangelia zaczyna się od zdania, że Słowo było Bogiem, a kończy się tym samym zdaniem wypowiedzianym przez wątpiącego. Tekst nie mówi, czy Tomasz w końcu włożył rękę w bok Jezusa. Wygląda na to, że kiedy mógł, już nie potrzebował.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Niektórzy powątpiewali",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 28,16-17",
+       "przeklad": "BW",
+       "akapity": [
+        "A jedenastu uczniów poszło do Galilei, na górę, gdzie im Jezus przykazał. I gdy go ujrzeli, oddali mu pokłon, lecz niektórzy powątpiewali."
+       ]
+      },
+      {
+       "odnosnik": "1P 1,8-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Tego miłujecie, chociaż go nie widzieliście, wierzycie w niego, choć go teraz nie widzicie, i weselicie się radością niewysłowioną i chwalebną, osiągając cel wiary, zbawienie dusz."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mateusz kończy ewangelię sceną, w której uczniowie oddają pokłon i jednocześnie niektórzy się wahają. Zaraz potem wszyscy bez wyjątku dostają to samo zadanie. **Co to mówi o tym, ile pewności Jezus wymaga od ludzi, których posyła?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr pisze do ludzi, którzy nigdy Jezusa nie widzieli. **Co według niego mają zamiast widzenia? Czy to opis, w którym się odnajdujecie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Słowo oddane jako „powątpiewali\" znaczy raczej „zawahali się\". W ewangeliach pada jeszcze tylko raz: o Piotrze idącym po wodzie. To nie jest opis niewiary, tylko wiary zmieszanej z wahaniem u kogoś, kto już postawił stopę na wodzie.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: relacje różnią się w szczegółach",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ile kobiet poszło do grobu? U Jana jedna, u Mateusza dwie, u Marka trzy, u Łukasza więcej. Jeden anioł czy dwóch? Jedno podejście układa relacje w jeden przebieg: kobiet było kilka, każdy autor wymienia te, o których chce powiedzieć, a gdzie było dwóch aniołów, tam był i jeden. Drugie podejście przyjmuje, że mamy niezależne wspomnienia, których nikt nie uzgodnił. Oba spostrzeżenia się wspierają. U Jana Maria jest sama, a mówi: „nie wiemy, gdzie go położyli\". Liczba mnoga zdradza, że autor wie o pozostałych kobietach. Autorzy nie dopisują też do listy osób, które znali, jeśli te osoby nie były przy grobie. Różnice dotyczą obrzeży. Rdzeń jest wszędzie ten sam: pierwszy dzień tygodnia, kobiety, pusty grób, wiadomość, niedowierzanie uczniów.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdyby czterej autorzy chcieli oszukać, co zrobiliby z tymi różnicami przed wypuszczeniem ksiąg w świat? Co mówi o nich to, że ich nie usunęli?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: inne wyjaśnienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Od początku proponowano inne wyjaśnienia. Ciało wykradziono. Jezus nie umarł, tylko omdlał. Uczniowie mieli wizje zrodzone z żalu. Historia zmartwychwstania to późna legenda. Uczciwie trzeba powiedzieć dwie rzeczy. Historyk dochodzi tu do ściany: jego narzędzia nie potrafią potwierdzić cudu, mogą tylko zbadać skutki. A każde wyjaśnienie, także sceptyczne, musi udźwignąć te same skutki naraz: pusty grób, którego przeciwnicy nie kwestionowali, przekonanie wielu ludzi, że Go widzieli i z Nim jedli, zmianę przestraszonych uczniów oraz dwóch przeciwników, Jakuba i Pawła. Do tego Żydzi tamtej epoki oczekiwali zmartwychwstania wszystkich na końcu czasów. Nikt nie oczekiwał zmartwychwstania jednego człowieka w środku historii, więc uczniowie nie mieli gotowego wzoru, do którego mogliby swoją opowieść dopasować.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 2,29-32",
+       "przeklad": "BW",
+       "akapity": [
+        "Mężowie bracia, wolno mi otwarcie mówić do was o patriarsze Dawidzie, że umarł i został pogrzebany, a jego grób jest u nas aż po dzień dzisiejszy. Będąc jednak prorokiem i wiedząc, że mu Bóg zaręczył przysięgą, iż jego cielesny potomek zasiądzie na tronie jego, mówił, przewidziawszy to, o zmartwychwstaniu Chrystusa, że nie pozostanie w otchłani ani ciało jego nie ujrzy skażenia. Tego to Jezusa wzbudził Bóg, czego my wszyscy świadkami jesteśmy;"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr mówi to w Jerozolimie, siedem tygodni po ukrzyżowaniu, kilkanaście minut drogi od grobu Jezusa, i wskazuje ręką grób Dawida. **Na co się naraża, mówiąc to właśnie tam? Które z innych wyjaśnień najtrudniej pogodzić z tą sceną?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które z czterech wyjaśnień wydaje się wam najmocniejsze i z którymi faktami radzi sobie najgorzej?** Potraktujcie je poważnie, bez ośmieszania.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 10,39-41",
+       "przeklad": "BW",
+       "akapity": [
+        "A my jesteśmy świadkami tego wszystkiego, co uczynił w ziemi żydowskiej i w Jerozolimie; jego to zabili, zawiesiwszy na drzewie. Ale Bóg wzbudził go trzeciego dnia i dozwolił mu się objawić. Nie całemu ludowi, lecz świadkom uprzednio wybranym przez Boga, nam, którzy z nim jedliśmy i piliśmy po jego zmartwychwstaniu."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zmartwychwstały mógł stanąć przed Piłatem, przed Kajfaszem, na dziedzińcu świątyni. Sprawa byłaby zamknięta. **Dlaczego pokazał się tylko tym, którzy Go wcześniej znali? Co to mówi o tym, jakiej wiary Bóg szuka i jakiej nie chce wymuszać?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie ma tu jednej odpowiedzi. Warto, żeby padło spostrzeżenie z przypowieści o bogaczu i Łazarzu: kto nie słucha Mojżesza i proroków, nie uwierzy, choćby kto z umarłych powstał. Oraz drugie: Bóg, który objawia się przez świadków, zostawia człowiekowi wolność.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**W której postaci dzisiejszych tekstów jest ci dziś najbliżej:** kobiety z wonnościami, apostołowie słyszący baśnie, Piotr, który się dziwi, uczniowie niewierzący z radości, Tomasz? Dlaczego?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co konkretnie zmieniłoby się w twoim zwykłym tygodniu, gdybyś był zupełnie pewny, że Jezus żyje?** A co by się zmieniło, gdybyś był pewny, że nie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest coś, co musiałbyś zobaczyć albo czego dotknąć, żeby uwierzyć mocniej?** Tomasz powiedział to na głos i nikt go za to nie wyrzucił.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Uczniowie nie byli łatwowierni i nikt ich o to nie prosił. Jezus przyszedł do nich przez zamknięte drzwi i przyszedł drugi raz, dla jednego, który jeszcze nie mógł.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** J 20,29 albo 1Kor 15,20.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Tomasz wiedział dokładnie, czego mu brakuje do wiary, i umiał to nazwać. Zapytaj siebie: **czego brakuje mnie?** Dowodu, doświadczenia, zaufania do ludzi, którzy o tym mówią, zgody na to, co by z tego wynikało. Nazwij to tak precyzyjnie jak on.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jezus pokazał uczniom rany, a nie triumf. Pomyśl o jednej swojej ranie, o której wolałbyś, żeby po zmartwychwstaniu nie było po niej śladu. Zapytaj Go: **co Ty chcesz z nią zrobić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli nie wierzysz albo nie jesteś pewny, powiedz Mu to wprost, tak jak powiedziałbyś komuś, kto stoi w pokoju. Tomasz nie dostał odpowiedzi przez osiem dni. Zostań przez ten czas „z nimi\".",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Dla mnie zmartwychwstanie to symbol. On żyje w nas, w naszej pamięci.\"** Nie atakuj. Zapytaj, co z tym poglądem robi tekst: „Zobaczmy, czy Łukasz pozwala tak to czytać. Po co w jego opowieści ryba?\". Ewangeliści znali pojęcie ducha i zjawy i wyraźnie mówią, że to nie to. Człowiek może się z nimi nie zgodzić, ale nie może powiedzieć, że oni sami mieli na myśli symbol.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Uczniowie byli w żałobie, a ludzie w żałobie widują zmarłych.\"** To poważny argument i zasługuje na poważną odpowiedź. Przyznaj, że takie doświadczenia istnieją. Potem zapytaj, co z tym wyjaśnieniem robią teksty: pusty grób, spotkania grupowe, posiłek, Paweł i Jakub, którzy w żałobie nie byli. Nie musisz wygrać. Wystarczy, że rozmowa pozostanie przy faktach do wyjaśnienia.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Chciałbym wierzyć, ale nie potrafię.\"** To najważniejsze zdanie, jakie może dziś paść. Nie naprawiaj go i nie pozwól, żeby grupa rzuciła się z radami. Powiedz: „Tomasz był w tym samym miejscu i uczniowie trzymali go przy sobie osiem dni. Dobrze, że jesteś z nami\". I na tym poprzestań.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś naciska na wątpiącego: „musisz po prostu uwierzyć, to kwestia decyzji\".** Przerwij spokojnie. Jezus nie powiedział tego Tomaszowi. Przyszedł do niego i pokazał mu dokładnie to, o co prosił. Wiary nie da się nikomu nakazać i tekst tego nie próbuje.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„W innych religiach bogowie też umierali i wracali do życia.\"** Pierwsi krytycy chrześcijaństwa znali tamte mity bardzo dobrze i nie sięgali po ten zarzut. Zarzucali uczniom oszustwo albo złudzenie, bo rozumieli, że chrześcijanie mówią o konkretnym człowieku, konkretnym grobie i cielesnym powrocie, a nie o corocznym cyklu przyrody. Można to powiedzieć krótko i wrócić do tekstu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa ucieka w całun turyński, filmy dokumentalne i sensacje.** Powiedz, że to ciekawe tematy na inną okazję. Dzisiejsze spotkanie opiera się na tym, co każdy może sam przeczytać i ocenić.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś w żałobie pyta przez łzy: „czyli ja go jeszcze zobaczę?\"** Zostaw materiał. Odpowiedz tym, co mówi Paweł: Chrystus jest pierwszym snopem żniwa, a za Nim pójdą ci, którzy do Niego należą. Nie dodawaj wykładu. Zostań z tą osobą po spotkaniu. Grupa słucha i towarzyszy, nie leczy. Materiał „Żałoba\" jest napisany właśnie na taką chwilę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 3. Blok 1 daje fundament, bloki 2 i 4 pokazują uczniów, którzy nie wierzą, a blok 5 jest tym, bez którego spotkanie traci serce.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Dla mnie zmartwychwstanie to symbol. On żyje w nas, w naszej pamięci.\"",
+     "odpowiedz": "Nie atakuj. Zapytaj, co z tym poglądem robi tekst: „Zobaczmy, czy Łukasz pozwala tak to czytać. Po co w jego opowieści ryba?\". Ewangeliści znali pojęcie ducha i zjawy i wyraźnie mówią, że to nie to. Człowiek może się z nimi nie zgodzić, ale nie może powiedzieć, że oni sami mieli na myśli symbol."
+    },
+    {
+     "sytuacja": "„Uczniowie byli w żałobie, a ludzie w żałobie widują zmarłych.\"",
+     "odpowiedz": "To poważny argument i zasługuje na poważną odpowiedź. Przyznaj, że takie doświadczenia istnieją. Potem zapytaj, co z tym wyjaśnieniem robią teksty: pusty grób, spotkania grupowe, posiłek, Paweł i Jakub, którzy w żałobie nie byli. Nie musisz wygrać. Wystarczy, że rozmowa pozostanie przy faktach do wyjaśnienia."
+    },
+    {
+     "sytuacja": "„Chciałbym wierzyć, ale nie potrafię.\"",
+     "odpowiedz": "To najważniejsze zdanie, jakie może dziś paść. Nie naprawiaj go i nie pozwól, żeby grupa rzuciła się z radami. Powiedz: „Tomasz był w tym samym miejscu i uczniowie trzymali go przy sobie osiem dni. Dobrze, że jesteś z nami\". I na tym poprzestań."
+    },
+    {
+     "sytuacja": "Ktoś naciska na wątpiącego: „musisz po prostu uwierzyć, to kwestia decyzji\".",
+     "odpowiedz": "Przerwij spokojnie. Jezus nie powiedział tego Tomaszowi. Przyszedł do niego i pokazał mu dokładnie to, o co prosił. Wiary nie da się nikomu nakazać i tekst tego nie próbuje."
+    },
+    {
+     "sytuacja": "„W innych religiach bogowie też umierali i wracali do życia.\"",
+     "odpowiedz": "Pierwsi krytycy chrześcijaństwa znali tamte mity bardzo dobrze i nie sięgali po ten zarzut. Zarzucali uczniom oszustwo albo złudzenie, bo rozumieli, że chrześcijanie mówią o konkretnym człowieku, konkretnym grobie i cielesnym powrocie, a nie o corocznym cyklu przyrody. Można to powiedzieć krótko i wrócić do tekstu."
+    },
+    {
+     "sytuacja": "Rozmowa ucieka w całun turyński, filmy dokumentalne i sensacje.",
+     "odpowiedz": "Powiedz, że to ciekawe tematy na inną okazję. Dzisiejsze spotkanie opiera się na tym, co każdy może sam przeczytać i ocenić."
+    },
+    {
+     "sytuacja": "Ktoś w żałobie pyta przez łzy: „czyli ja go jeszcze zobaczę?\"",
+     "odpowiedz": "Zostaw materiał. Odpowiedz tym, co mówi Paweł: Chrystus jest pierwszym snopem żniwa, a za Nim pójdą ci, którzy do Niego należą. Nie dodawaj wykładu. Zostań z tą osobą po spotkaniu. Grupa słucha i towarzyszy, nie leczy. Materiał „Żałoba\" jest napisany właśnie na taką chwilę."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3. Blok 1 daje fundament, bloki 2 i 4 pokazują uczniów, którzy nie wierzą, a blok 5 jest tym, bez którego spotkanie traci serce."
+    }
+   ]
+  }
+ ]
+}

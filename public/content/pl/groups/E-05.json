@@ -1,0 +1,596 @@
+{
+ "tytul": "Wina",
+ "id": "E-05",
+ "seria": "Emocje",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Ps 32,3-5; 2Sm 12,7.9.13; Mt 26,75; Mt 27,3-5; J 21,15-17; 1J 1,9; Rz 8,1",
+  "p2": "Ps 51,3-4.12-14; Mi 7,18-19",
+  "p3": "2Kor 7,10"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 23,
+  "p3": 25
+ },
+ "tagi": [
+  "emocje",
+  "przebaczenie",
+  "sumienie",
+  "nawrócenie"
+ ],
+ "wersja": 1,
+ "zdanie": "Wina, która zostaje sama ze sobą, zabija. Wina zaniesiona Bogu staje się drogą powrotną.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Poczucie winy jest jedyną emocją w tej serii, która czasem mówi prawdę i wtedy trzeba jej posłuchać, a czasem kłamie i wtedy trzeba ją nazwać po imieniu. Spotkanie ma pomóc odróżnić jedno od drugiego. Osią są dwaj ludzie, którzy zawiedli tej samej nocy i skończyli inaczej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole może żyć z winą, o której nikt nie wie, i to spotkanie może ją poruszyć. Nie pytaj o szczegóły, nigdy.",
+      "Sumienie przewrażliwione, czyli poczucie winy za wszystko, jest częstsze u ludzi religijnych niż u innych. Dla takiej osoby ten temat może być bolesny, a nie uwalniający.",
+      "Nie każde poczucie winy jest od Boga. Nie każde jest też fałszywe. Nie rozstrzygaj tego za nikogo."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie zachęcaj do publicznych wyznań. Nie dawaj recept w rodzaju „po prostu przyjmij przebaczenie\". Nie porównuj grzechów pod względem ciężaru.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o sytuacji, w której ktoś powiedział ci „przepraszam\" i naprawdę ci ulżyło. Nie opowiadaj jej. Powiedz tylko, co takiego było w tym przeprosinach, że zadziałały.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, krótko.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Gdy milczałem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 32,3-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy milczałem, schły kości moje Od błagalnego wołania przez cały dzień. Bo we dnie i w nocy ciążyła na mnie ręka twoja, Siła moja zanikła jak podczas upałów letnich. Sela. Grzech mój wyznałem tobie I winy mojej nie ukryłem. Rzekłem: Wyznam występki moje Panu; Wtedy Ty odpuściłeś winę grzechu mego. Sela."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Psalmista opisuje milczenie w kategoriach fizycznych: schły kości, siła zanikła. **Co on właściwie opisuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zmiana przychodzi w wersecie 5 i jest bardzo szybka. **Co dokładnie zrobił i co się stało natychmiast potem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Trzy razy w jednym wersecie pojawia się ta sama czynność, opisana innymi słowami. **Wypiszcie je.**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Hebrajski tekst mówi o milczeniu, które nie jest spokojem, tylko zaciskaniem. Człowiek nie przestaje myśleć o swojej winie, przestaje o niej mówić. Psalm łączy to wprost ze stanem ciała, bo wina nienazwana szuka sobie innego ujścia: bezsenności, rozdrażnienia, zmęczenia bez powodu. Werset 5 nie opisuje długiego procesu ani pokuty. Opisuje jedno zdanie powiedziane Bogu i to, co przyszło zaraz po nim.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Ty jesteś tym mężem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Sm 12,7.9.13",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Natan rzekł do Dawida: Ty jesteś tym mężem. Tak mówi Pan, Bóg Izraela: Ja cię namaściłem na króla nad Izraelem i Ja cię wyrwałem z ręki Saula. [...] Dlaczego więc wzgardziłeś słowem Pana, popełniając zło w oczach jego? Uriasza Chetejczyka zabiłeś mieczem, jego żonę wziąłeś sobie za żonę, jego zaś zabiłeś mieczem Ammonitów. [...] Wtedy rzekł Dawid do Natana: Zgrzeszyłem wobec Pana. Natan zaś rzekł do Dawida: Pan również odpuścił twój grzech, nie umrzesz."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Natan przychodzi do Dawida prawie rok po wszystkim. **Co to mówi o tym, jak długo człowiek potrafi żyć z winą, nie nazywając jej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg wylicza Dawidowi jego winę bardzo konkretnie, bez ogólników. **Dlaczego nie wystarczyło powiedzieć „zgrzeszyłeś\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Odpowiedź Dawida ma trzy słowa. **Czego w niej nie ma? Wypiszcie, czego się nie tłumaczy.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Przebaczenie przychodzi natychmiast, ale konsekwencje zostają, o czym mówi dalszy ciąg rozdziału. **Jak to rozumieć razem?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Psalm napisany po tej rozmowie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 51,3-4.12-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Zmiłuj się nade mną, Boże, według łaski swojej, Według wielkiej litości swojej zgładź występki moje! Obmyj mnie zupełnie z winy mojej I oczyść mnie z grzechu mego! [...] Serce czyste stwórz we mnie, o Boże, A ducha prawego odnów we mnie! Nie odrzucaj mnie od oblicza swego I nie odbieraj mi swego Ducha świętego! Przywróć mi radość z wybawienia twego I wesprzyj mnie duchem ochoczym!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dawid nie prosi o cofnięcie skutków ani o dobrą opinię. **O co prosi w wersetach 12 i 13?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Przywróć mi radość z wybawienia twego\". **Czego to zdanie nie mówi o radości?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Dwaj ludzie, jedna noc",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 26,75",
+       "przeklad": "BW",
+       "akapity": [
+        "I wspomniał Piotr na słowa Jezusa, który powiedział: Zanim kur zapieje, trzykroć się mnie zaprzesz. I wyszedłszy, gorzko zapłakał."
+       ]
+      },
+      {
+       "odnosnik": "Mt 27,3-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Judasz, który go zdradził, widząc, że został skazany, żałował tego, zwrócił trzydzieści srebrników arcykapłanom oraz starszym i rzekł: Zgrzeszyłem, gdyż wydałem krew niewinną. A oni rzekli: Cóż nam do tego? Ty patrz swego. Wtedy rzucił srebrniki do świątyni, oddalił się, poszedł i powiesił się."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Obaj zawiedli, obaj żałowali, obaj to poczuli mocno. **Wypiszcie, co robi każdy z nich po fakcie. Gdzie drogi się rozchodzą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Judasz mówi „zgrzeszyłem, gdyż wydałem krew niewinną\". To poprawne wyznanie. **Do kogo je kieruje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Arcykapłani odpowiadają: cóż nam do tego, ty patrz swego. **Co się dzieje z człowiekiem, który przychodzi z winą do kogoś, kto nie ma czym przebaczyć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Różnica nie leży w ciężarze przewinienia ani w sile żalu. Judasz żałuje autentycznie i próbuje naprawić: oddaje pieniądze. Idzie jednak z tym do ludzi, którzy nie mają mocy przebaczać, a potem zostaje sam ze swoją winą. Piotr wychodzi i płacze, czyli na tym etapie nie robi nic więcej. Różnicę zrobi to, że wróci tam, gdzie jest Jezus. Wina zabija wtedy, gdy zostaje sama ze sobą.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Trzy pytania przy ognisku",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 21,15-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy więc spożyli śniadanie, rzekł Jezus do Szymona Piotra: Szymonie, synu Jana, miłujesz mnie więcej niż ci? Rzekł mu: Tak, Panie! Ty wiesz, że cię miłuję. Rzecze mu: Paś owieczki moje. Rzecze mu znowu po raz drugi: Szymonie, synu Jana, miłujesz mnie? Rzecze mu: Tak, Panie! Ty wiesz, że cię miłuję. Rzekł mu: Paś owieczki moje. Rzecze mu po raz trzeci: Szymonie, synu Jana, miłujesz mnie? Zasmucił się Piotr, że mu po raz trzeci powiedział: Miłujesz mnie? I odpowiedział mu: Panie! Ty wszystko wiesz, Ty wiesz, że cię miłuję. Rzecze mu Jezus: Paś owieczki moje."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus pyta trzy razy, choć Piotr odpowiada za pierwszym. **Dlaczego akurat trzy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Nie pada tu ani jedno słowo o zaparciu się. Nie ma wyrzutu, nie ma rozliczenia. **Jak Jezus traktuje przeszłość Piotra?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Po każdej odpowiedzi pada polecenie: paś owieczki moje. **Co to znaczy, że przebaczenie kończy się przydziałem zadania?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Piotr zasmucił się przy trzecim pytaniu. **Czy to jest dobry smutek?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Nie ma potępienia",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1J 1,9",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeśli wyznajemy grzechy swoje, wierny jest Bóg i sprawiedliwy i odpuści nam grzechy, i oczyści nas od wszelkiej nieprawości."
+       ]
+      },
+      {
+       "odnosnik": "Rz 8,1",
+       "przeklad": "BW",
+       "akapity": [
+        "Przeto teraz nie ma żadnego potępienia dla tych, którzy są w Chrystusie Jezusie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jan pisze, że Bóg jest wierny i sprawiedliwy, gdy odpuszcza. Spodziewalibyśmy się raczej, że jest miłosierny. **Dlaczego sprawiedliwy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł pisze: teraz nie ma żadnego potępienia. **Kto zatem potępia człowieka, który już wyznał, a dalej czuje się potępiony?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Gdzie idą grzechy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mi 7,18-19",
+       "przeklad": "BW",
+       "akapity": [
+        "Któż jest, Boże, jak Ty, który przebaczasz winę, odpuszczasz przestępstwo resztce swojego dziedzictwa, który nie chowasz na wieki gniewu, lecz masz upodobanie w łasce? Znowu zmiłuje się nad nami, zmyje nasze winy, wrzuci do głębin morskich wszystkie nasze grzechy."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Micheasz pyta „któż jest, Boże, jak Ty\". **Co konkretnie uznaje za wyjątkowe w Bogu?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Obraz jest fizyczny: wrzucone w głębiny morskie. **Co ten obraz mówi o możliwości odzyskania tego, co wrzucone?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm 32 mówi, że milczenie kosztuje ciało. **Czy jest coś, o czym nie mówisz Bogu, bo uważasz, że to za małe albo za późne?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Judasz poszedł z winą do ludzi, którzy nie mogli mu przebaczyć. **Do kogo ty idziesz ze swoją winą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest rzecz, którą Bóg ci przebaczył, a ty sobie nie?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 3,
+   "tytul": "Dwa smutki",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Kor 7,10",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem smutek, który jest według Boga, sprawia upamiętanie ku zbawieniu i nikt go nie żałuje; smutek zaś światowy sprawia śmierć."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł mówi, że jeden smutek prowadzi do zmiany, a drugi do śmierci. **Wróćcie do Piotra i Judasza i dopasujcie.**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy da się rozpoznać, który smutek się przeżywa, zanim zobaczy się skutek? Czy trzeba czekać na koniec historii?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "to jest prawdziwie otwarte pytanie i nie ma tu prostej odpowiedzi. Warto, żeby padło spostrzeżenie, że smutek według Boga kieruje człowieka do Boga, a smutek światowy zamyka go w sobie samym.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Wina, która zostaje sama ze sobą, zabija. Wina zaniesiona Bogu staje się drogą powrotną.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Ps 32,5 albo Rz 8,1.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Sprawdź, czy twoje poczucie winy mówi „zrobiłem coś złego\", czy „jestem zły\". **To pierwsze prowadzi do wyznania i ma koniec. To drugie zwykle nie ma końca.** Nazwij, które nosisz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jest rzecz, o której myślisz najczęściej, gdy nie możesz zasnąć. **Zapytaj Boga wprost, czy On to już zamknął. Zostań przy tym pytaniu, nawet jeśli odpowiedź nie przychodzi tego samego wieczoru.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli jest człowiek, wobec którego masz realny dług, zrób pierwszy krok w tę stronę. Nie musi to być spowiedź z całości. Wystarczy jedno zdanie prawdy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna wyznawać konkretny grzech przy grupie.** Zatrzymaj to łagodnie i zaproponuj rozmowę po spotkaniu. Nikt nie powinien wyjść z poczuciem, że powiedział przy ludziach coś, czego nie da się cofnąć.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś czuje się winny za wszystko, także za rzeczy, na które nie miał wpływu.** Nie przekonuj, że nie ma powodu, bo taka osoba zwykle to już słyszała. Wróć do pytania z bloku piątego: kto tu potępia, skoro Bóg już nie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Mnie Bóg przebaczył, ale ja sobie nie mogę.\"** To bardzo częste zdanie. Nie kwituj go szybko. Zapytaj: „Czy twoje zdanie o tobie jest ważniejsze niż Jego?\" i zostaw ciszę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa zaczyna porównywać grzechy albo oceniać Judasza.** Utnij. Materiał nie służy do orzekania o czyimś zbawieniu, także Judasza. Trzymaj się tego, co robi wina, a nie kto gdzie trafił.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Skoro przebaczone, to mogę dalej.\"** Wróć do J 21: przebaczenie kończy się poleceniem, a nie zwolnieniem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Cisza po pytaniu o własną winę.** Zostaw ją. To pytanie ma działać po spotkaniu, nie przy stole.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś zaczyna wyznawać konkretny grzech przy grupie.",
+     "odpowiedz": "Zatrzymaj to łagodnie i zaproponuj rozmowę po spotkaniu. Nikt nie powinien wyjść z poczuciem, że powiedział przy ludziach coś, czego nie da się cofnąć."
+    },
+    {
+     "sytuacja": "Ktoś czuje się winny za wszystko, także za rzeczy, na które nie miał wpływu.",
+     "odpowiedz": "Nie przekonuj, że nie ma powodu, bo taka osoba zwykle to już słyszała. Wróć do pytania z bloku piątego: kto tu potępia, skoro Bóg już nie."
+    },
+    {
+     "sytuacja": "„Mnie Bóg przebaczył, ale ja sobie nie mogę.\"",
+     "odpowiedz": "To bardzo częste zdanie. Nie kwituj go szybko. Zapytaj: „Czy twoje zdanie o tobie jest ważniejsze niż Jego?\" i zostaw ciszę."
+    },
+    {
+     "sytuacja": "Grupa zaczyna porównywać grzechy albo oceniać Judasza.",
+     "odpowiedz": "Utnij. Materiał nie służy do orzekania o czyimś zbawieniu, także Judasza. Trzymaj się tego, co robi wina, a nie kto gdzie trafił."
+    },
+    {
+     "sytuacja": "„Skoro przebaczone, to mogę dalej.\"",
+     "odpowiedz": "Wróć do J 21: przebaczenie kończy się poleceniem, a nie zwolnieniem."
+    },
+    {
+     "sytuacja": "Cisza po pytaniu o własną winę.",
+     "odpowiedz": "Zostaw ją. To pytanie ma działać po spotkaniu, nie przy stole."
+    }
+   ]
+  }
+ ]
+}

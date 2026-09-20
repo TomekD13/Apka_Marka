@@ -1,0 +1,843 @@
+{
+ "tytul": "Wiara i nauka: czy muszę wybierać?",
+ "id": "P-12",
+ "seria": "Pytania, które ludzie zadają",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Ps 19,2-11; Rz 1,19-20; Dz 14,15-17; Rdz 1,1.26-31; Hi 28,1-4.9-13.23-28; Hbr 11,1-3; Prz 25,2; 1Kor 13,9.12",
+  "p2": "Rdz 8,22; Jr 33,25-26; Rdz 1,14-18; Rdz 2,19-20; Hi 38,31-33; Ps 111,2; Ps 104,13-15.19-24",
+  "p3": "Rdz 1,1-5; Hi 9,5; Mk 4,39-41"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 30
+ },
+ "tagi": [
+  "nauka",
+  "stworzenie",
+  "rozum",
+  "przyroda",
+  "mądrość",
+  "pokora"
+ ],
+ "wersja": 1,
+ "zdanie": "Ten, kto dał Pismo, zrobił też świat. Nie muszę bronić jednej Jego księgi przed drugą.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Wielu ludzi usłyszało w szkole, w domu albo w kościele, że trzeba wybrać: albo wiara, albo nauka. To spotkanie sprawdza, czy Biblia sama stawia taki wybór. Stare chrześcijańskie porównanie mówi o dwóch księgach jednego Autora, czyli o przyrodzie i o Piśmie. Jeśli Autor jest jeden, księgi nie mogą sobie naprawdę przeczyć. Mogą sobie przeczyć nasze odczytania jednej i drugiej. Punktem wyjścia jest stworzenie: świat jest chciany, dobry i uporządkowany, a człowiek dostał rozum po to, żeby go używać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Materiał celowo nie rozstrzyga sporów o wiek Ziemi, o dni stworzenia ani o teorie pochodzenia życia. Nie próbuj tego robić przy stole. Nikt tu nie zamknie tych pytań w godzinę, a próba zwykle kończy się kpiną z którejś strony.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole może siedzieć ktoś, kto pracuje w nauce albo w medycynie i od lat czuje się w kościele podejrzany. Może też siedzieć ktoś, kto przez te pytania odszedł od wiary albo patrzy, jak odchodzi jego dziecko.",
+      "Kpina przychodzi z obu stron: z „uczonych, którzy nic nie wiedzą\" i z „ciemnych wierzących\". Jedna i druga zamyka rozmowę.",
+      "Łatwo o sensacyjne dowody z internetu, których nikt przy stole nie umie sprawdzić."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie wygłaszaj wykładu z przyrody ani z apologetyki. Nie podawaj liczb i dat, których nie potrafisz uzasadnić. Nie pozwól nikogo ośmieszyć.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Kiedy ostatnio coś w przyrodzie albo w technice sprawiło, że pomyślałeś: jak to w ogóle działa? Powiedz o tym jednym zdaniem.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Dwie księgi w jednym psalmie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 19,2-11",
+       "przeklad": "BW",
+       "akapity": [
+        "Niebiosa opowiadają chwałę Boga, A firmament głosi dzieło rąk jego. Dzień dniowi przekazuje wieść, A noc nocy podaje wiadomość. Nie jest to mowa, nie są to słowa, Nie słychać ich głosu... A jednak po całej ziemi rozbrzmiewa ich dźwięk I do krańców świata dochodzą ich słowa... Tam na nich słońcu postawił namiot, A ono jak oblubieniec wychodzi ze swej komnaty, Raduje się jak bohater, biegnąc swą drogą. Z jednego krańca niebios wychodzi I biegnie do drugiego krańca, I nic się nie ukryje przed jego żarem.",
+        "Zakon Pana jest doskonały, pokrzepia duszę, Świadectwo Pana jest wierne, Uczy prostaczka mądrości. Rozkazy Pana są słuszne, rozweselają serce, Przykazanie Pana jest jasne, oświeca oczy. Bojaźń Pana jest czysta, ostoi się na zawsze, Wyroki Pana są prawdziwe, a zarazem sprawiedliwe. Są bardziej pożądane niż złoto, nawet najszczersze, I słodsze niż miód, nawet najwyborniejszy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W pierwszej części mówi niebo. „Nie jest to mowa, nie są to słowa\", a jednak wiadomość dochodzi do krańców świata. **Co da się wyczytać z nieba o Bogu? A czego z samego nieba wyczytać się nie da?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W wersecie 8 psalm bez ostrzeżenia przechodzi od słońca do „zakonu Pana\", czyli do Pisma. **Dlaczego poeta postawił te dwie rzeczy w jednej pieśni? Co mówi druga księga, czego pierwsza powiedzieć nie potrafi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Dawid nie widzi żadnej konkurencji między patrzeniem w niebo a czytaniem Pisma. **Skąd dziś bierze się poczucie, że trzeba wybierać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W części o niebie pada ogólne słowo „Bóg\", i to tylko raz. W części o Piśmie wraca imię własne Boga Izraela, które BW oddaje jako „Pan\". W całym psalmie pojawia się ono siedem razy i ani razu tam, gdzie mówi niebo. Niebo mówi, że Ktoś jest i że jest potężny. Jak ma na imię i czy można Mu zaufać, mówi dopiero Pismo. Psalmista potrzebuje obu ksiąg i żadnej nie czyta przeciwko drugiej.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Oglądane w dziełach",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 1,19-20",
+       "przeklad": "BW",
+       "akapity": [
+        "Ponieważ to, co o Bogu wiedzieć można, jest dla nich jawne, gdyż Bóg im to objawił. Bo niewidzialna jego istota, to jest wiekuista jego moc i bóstwo, mogą być od stworzenia świata oglądane w dziełach i poznane umysłem, tak iż nic nie mają na swoją obronę,"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "W Listrze tłum chce złożyć Pawłowi i Barnabie ofiarę jak bogom. Paweł mówi do ludzi, którzy nigdy nie mieli w ręku Pism Izraela.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 14,15-17",
+       "przeklad": "BW",
+       "akapity": [
+        "i wołając: Ludzie, co robicie? I my jesteśmy tylko ludźmi, takimi jak i wy, zwiastujemy wam dobrą nowinę, abyście się odwrócili od tych marnych rzeczy do Boga żywego, który stworzył niebo i ziemię, i morze, i wszystko, co w nich jest. Za czasów minionych pokoleń pozwalał On wszystkim poganom chodzić własnymi drogami; jednakże nie omieszkał dawać o sobie świadectwa przez dobrodziejstwa, dając wam z nieba deszcz i czasy urodzajne, napełniając pokarmem i radością serca wasze."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Co według Pawła można poznać o Bogu z samego świata?** Wypiszcie dokładnie, co wymienia w Rz 1,20. Czego na tej liście nie ma?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Oglądane w dziełach i poznane umysłem\". Paweł traktuje ludzki umysł jako narzędzie poznawania Boga. **Gdzie spotkaliście się z przekonaniem przeciwnym, że myślenie wierze szkodzi? Kto je częściej wypowiada: wierzący czy niewierzący?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W Listrze Paweł nie cytuje ani jednego wersetu. **Na jakie świadectwo się powołuje? Co to mówi o śladach, które Bóg zostawił ludziom, którzy nigdy nie otworzą Biblii?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Przekonanie, że świat stworzył Bóg wierny i stanowiący prawa, było jednym z fundamentów europejskiej nauki. Skoro Prawodawca jest jeden i nie kaprysi, przyrodę warto badać, bo jutro zachowa się tak samo jak dziś. Uczony, który nie wierzy, musi poznawalność i porządek świata po prostu założyć. Wierzący ma powód, żeby się ich spodziewać.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Przymierze z dniem i nocą",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 8,22",
+       "przeklad": "BW",
+       "akapity": [
+        "Dopóki ziemia istnieć będzie, nie ustaną siew i żniwo, zimno i gorąco, lato i zima, dzień i noc."
+       ]
+      },
+      {
+       "odnosnik": "Jr 33,25-26",
+       "przeklad": "BW",
+       "akapity": [
+        "Tak mówi Pan: Jak pewne jest, że ode mnie pochodzi przymierze z dniem i nocą i że Ja ustanowiłem prawa niebios i ziemi, tak pewne jest, że nie odrzucę potomstwa Jakuba i Dawida, mojego sługi, i będę spośród jego potomstwa wybierał władców nad potomkami Abrahama, Izaaka i Jakuba. Albowiem odmienię ich los i ulituję się nad nimi."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg mówi o „prawach niebios i ziemi\", stałość przyrody nazywa przymierzem i porównuje do niej własną wierność wobec ludzi. **Czym w oczach Biblii są więc prawa przyrody?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy nauka byłaby możliwa w świecie rządzonym przez kapryśnych bogów?** Co musi być prawdą o charakterze Stwórcy, żeby doświadczenie powtórzone jutro dało ten sam wynik?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Na początku",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 1,1.26-31",
+       "przeklad": "BW",
+       "akapity": [
+        "Na początku stworzył Bóg niebo i ziemię. [...]",
+        "Potem rzekł Bóg: Uczyńmy człowieka na obraz nasz, podobnego do nas i niech panuje nad rybami morskimi i nad ptactwem niebios, i nad bydłem, i nad całą ziemią, i nad wszelkim płazem pełzającym po ziemi. I stworzył Bóg człowieka na obraz swój. Na obraz Boga stworzył go. Jako mężczyznę i niewiastę stworzył ich. I błogosławił im Bóg, i rzekł do nich Bóg: Rozradzajcie się i rozmnażajcie się, i napełniajcie ziemię, i czyńcie ją sobie poddaną; panujcie nad rybami morskimi i nad ptactwem niebios, i nad wszelkimi zwierzętami, które się poruszają po ziemi! Potem rzekł Bóg: Oto daję wam wszelką roślinę wydającą nasienie na całej ziemi i wszelkie drzewa, których owoc ma w sobie nasienie: niech będzie dla was pokarmem! Wszystkim zaś dzikim zwierzętom i wszelkiemu ptactwu niebios, i wszelkim płazom na ziemi, w których jest tchnienie życia, daję na pokarm wszystkie rośliny. I tak się stało. I spojrzał Bóg na wszystko, co uczynił, a było to bardzo dobre. I nastał wieczór, i nastał poranek – dzień szósty."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Człowiek stawia o początkach różne pytania: kto, po co, kim jesteśmy, w jaki sposób, kiedy. **Przejdźcie przez tę listę z tekstem w ręku. Na które pytania ten fragment odpowiada wprost i z naciskiem, a o których mówi niewiele albo nic?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Człowiek jest „na obraz Boga\" i dostaje ziemię w zarząd. **Co z tego wynika dla ludzkiej ciekawości? Czy badanie stworzenia jest czymś, co człowiek robi wbrew Bogu, czy zadaniem, które od Niego dostał?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Było to bardzo dobre\". **Co zmienia w podejściu do materii, ciała i przyrody przekonanie, że świat jest chciany i dobry, a nie przypadkowy ani zły?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Tej strony nie pisano przeciwko nauce, bo nauki w naszym sensie wtedy nie było. Pisano ją w świecie, w którym słońce i księżyc były bogami. W babilońskim micie świat powstaje z ciała zabitej bogini, a ludzi lepi się z krwi pokonanego bóstwa, żeby odrabiali pańszczyznę za zmęczonych bogów. W Księdze Rodzaju jest jeden Bóg, świat jest rzeczą, a nie bóstwem, a człowiek jest obrazem Boga i dostaje ziemię.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Większa lampa i mniejsza lampa",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 1,14-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem rzekł Bóg: Niech powstaną światła na sklepieniu niebios, aby oddzielały dzień od nocy i były znakami dla oznaczania pór, dni i lat! Niech będą światłami na sklepieniu niebios, aby świecić nad ziemią! I tak się stało. I uczynił Bóg dwa wielkie światła: większe światło, aby rządziło dniem, i mniejsze światło, aby rządziło nocą, oraz gwiazdy. I umieścił je Bóg na sklepieniu niebios, aby świeciły nad ziemią. I rządziły dniem i nocą oraz aby oddzielały światłość od ciemności. I widział Bóg, że to było dobre."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "U sąsiadów Izraela słońce i księżyc były bogami i miały imiona. Tutaj nie mają nawet nazw. Są większym i mniejszym światłem, zawieszonym do pracy. **Co musi się stać z bóstwem, żeby ktoś odważył się je zmierzyć, zważyć i zbadać?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jak je nazwie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 2,19-20",
+       "przeklad": "BW",
+       "akapity": [
+        "Utworzył więc Pan Bóg z ziemi wszelkie dzikie zwierzęta i wszelkie ptactwo niebios i przyprowadził do człowieka, aby zobaczyć, jak je nazwie, a każda istota żywa miała mieć taką nazwę, jaką nada jej człowiek. Nadał tedy człowiek nazwy wszelkiemu bydłu i ptactwu niebios, i wszelkim dzikim zwierzętom. Lecz dla człowieka nie znalazła się pomoc dla niego odpowiednia."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pierwsze zadanie umysłowe człowieka w Biblii to przyjrzeć się zwierzętom i je nazwać. Bóg przyprowadza je, „aby zobaczyć, jak je nazwie\". **Kto w tej scenie jest ciekawy? Co to mówi o tym, jak Bóg patrzy na ludzkie poznawanie świata?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: ile lat ma świat",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 1,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Na początku stworzył Bóg niebo i ziemię. A ziemia była pustkowiem i chaosem; ciemność była nad otchłanią, a Duch Boży unosił się nad powierzchnią wód. I rzekł Bóg: Niech stanie się światłość. I stała się światłość. I widział Bóg, że światłość była dobra. Oddzielił tedy Bóg światłość od ciemności. I nazwał Bóg światłość dniem, a ciemność nazwał nocą. I nastał wieczór, i nastał poranek – dzień pierwszy."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Biblia nigdzie nie podaje daty stworzenia. Wszystkie liczby, które krążą, są ludzkimi obliczeniami na podstawie rodowodów. Wśród chrześcijan, którzy traktują tę stronę poważnie, także wśród adwentystów, są co najmniej dwa odczytania. Jedni włączają dwa pierwsze wersety do pierwszego dnia i wtedy cały wszechświat jest młody. Drudzy widzą w nich stan zastany przed pierwszym dniem: niebo i surowa ziemia mogły istnieć długo wcześniej, a tydzień stworzenia opowiada o urządzeniu ziemi i o powołaniu na niej życia. Obie strony czytają dni jako dni. Obie wyznają, że świat ma Stwórcę, że człowiek jest Jego obrazem i że szabat jest pamiątką tamtego tygodnia.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Przeczytajcie wersety 1-3 powoli. Co jest już na scenie, zanim Bóg powie pierwsze „niech stanie się\"?** Czy sam tekst rozstrzyga, jak długo to trwało? Co dla waszej wiary zależy od tej odpowiedzi, a co nie zależy?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie rozstrzygaj i nie pozwól rozstrzygać. Przy stole mogą siedzieć ludzie o jeszcze innych poglądach. Wystarczy, że grupa zobaczy, gdzie kończy się tekst, a zaczyna obliczenie.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Górnik i mądrość",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hi 28,1-4.9-13.23-28",
+       "przeklad": "BW",
+       "akapity": [
+        "Tak! Są kopalnie srebra i miejsca, gdzie się płucze złoto. Żelazo wydobywa się z ziemi, a miedź wytapia się z rudy. Położono kres ciemności, bada się rudę aż do najdalszych zakątków w ciemności i mroku. Kopią szyb w dolinie, z dala od osiedli, zapomniani przez przechodniów, bez oparcia dla nóg wiszą, kołyszą się. [...] Po krzemień człowiek wyciąga rękę, wywraca góry od podstaw. W skałach wykuwa sztolnie, a jego oko dostrzega wszystko, co cenne. Nakłada pęta na rzeki, aby nie przeciekały; wywodzi na światło to, co skryte. Lecz gdzie można znaleźć mądrość? A gdzie jest siedziba rozumu? Człowiek nie zna drogi do niej; nie można jej znaleźć w krainie żyjących. [...] Bóg wie o drodze do niej, tylko On zna jej siedzibę, bo tylko On patrzy na krańce ziemi i widzi wszystko, co jest pod niebem. Gdy nadawał wiatrowi wagę i mierzył pojemność wód, gdy deszczowi wyznaczał prawo i szlak dla błyskawicy, wtedy ją widział i zgłębił, ustalił i wypróbował, i rzekł do człowieka: Oto bojaźń Pańska, ona jest mądrością, a unikanie złego rozumem."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Poeta opisuje kopalnię z wyraźnym podziwem: człowiek kładzie kres ciemności, wywraca góry, wywodzi na światło to, co skryte. **Jak ten tekst ocenia ludzką technikę i dociekliwość?** Czy słychać w nim lęk przed wiedzą?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "A potem przychodzi werset 12: „Lecz gdzie można znaleźć mądrość?\". **Czego nie da się wykopać żadnym szybem? Jakich pytań nauka nie stawia, bo nie ma do nich narzędzi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ostatni werset określa mądrość nie jako ilość wiedzy, tylko jako bojaźń Pańską i unikanie złego. **Czy znacie ludzi bardzo wykształconych i niemądrych albo niewykształconych i mądrych? Co to mówi o różnicy między wiedzą a mądrością?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To jeden z najdokładniejszych opisów techniki w całej Biblii. Szyby bije się z dala od osiedli, w miejscach, po których nikt nie chodzi. Górnicy wiszą bez oparcia dla nóg i kują w krzemiennej skale. Poeta z tej pracy nie kpi i nie widzi w niej zagrożenia dla Boga. Zauważcie też wersety 25-27: Bóg waży wiatr, mierzy wody i wyznacza deszczowi prawo. Stwórca jest tu opisany językiem miary i wagi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Godne badania",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hi 38,31-33",
+       "przeklad": "BW",
+       "akapity": [
+        "Czy możesz związać pęk Plejad albo rozluźnić pasek Oriona? Czy możesz wyprowadzić gwiazdy Zodiaku w czasie właściwym i wyprowadzić Niedźwiedzicę z jej młodymi? Czy znasz porządek nieba albo czy możesz ustanowić jego władztwo na ziemi?"
+       ]
+      },
+      {
+       "odnosnik": "Ps 111,2",
+       "przeklad": "BW",
+       "akapity": [
+        "Wielkie są dzieła Pana, Godne badania przez wszystkich, którzy je kochają."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg zasypuje Joba pytaniami o przyrodę. Na część z nich umiemy dziś odpowiedzieć lepiej niż Job. **Czy to osłabia wymowę tych pytań, czy ją wzmacnia? Czy każda odpowiedź, którą znaleźliśmy, zmniejszyła liczbę pytań?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm łączy badanie z kochaniem. **Jak wygląda badanie czegoś, co się kocha? Czym różni się od badania czegoś, co chce się tylko wykorzystać?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W wersecie 9 górnik „wywraca góry od podstaw\". Hebrajski używa tu tego samego czasownika, którym kilkanaście rozdziałów wcześniej Job opisał Boga.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hi 9,5",
+       "przeklad": "BW",
+       "akapity": [
+        "On góry przenosi niepostrzeżenie, przewraca je w swoim gniewie."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Poeta opisuje człowieka w kopalni słowem, które w tej księdze opisywało dotąd Boga. **Co to mówi o godności ludzkiej pracy badawczej? A co o jej granicy mówi reszta rozdziału?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Cząstkowa jest nasza wiedza",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 11,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "A wiara jest pewnością tego, czego się spodziewamy, przeświadczeniem o tym, czego nie widzimy. Wszak jej zawdzięczają przodkowie chlubne świadectwo. Przez wiarę poznajemy, że światy zostały ukształtowane słowem Boga, tak iż to, co widzialne, nie powstało ze świata zjawisk."
+       ]
+      },
+      {
+       "odnosnik": "Prz 25,2",
+       "przeklad": "BW",
+       "akapity": [
+        "Chwałą Bożą jest rzecz ukryć, a chwałą królów rzecz zbadać."
+       ]
+      },
+      {
+       "odnosnik": "1Kor 13,9.12",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo cząstkowa jest nasza wiedza i cząstkowe nasze prorokowanie; [...] Teraz bowiem widzimy jakby przez zwierciadło i niby w zagadce, ale wówczas twarzą w twarz. Teraz poznanie moje jest cząstkowe, ale wówczas poznam tak, jak jestem poznany."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List do Hebrajczyków mówi „przez wiarę poznajemy\", a nie „zamiast poznawać, wierzymy\". Początku świata nie widział żaden człowiek, wierzący ani niewierzący. **W co każdy, kto mówi o początku, musi w którymś miejscu uwierzyć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg ukrywa, królowie badają, i jedno, i drugie nazwano chwałą. **Jak to przysłowie widzi relację między Bogiem a badaczem: jako rywalizację czy jako coś innego? Do czego to jest podobne?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Cząstkowa jest nasza wiedza\". Paweł mówi to o wiedzy ludzi wierzących. **Jak wyglądałyby rozmowy o wierze i nauce, gdyby obie strony zaczynały od tego zdania?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Wiele głośnych sporów nie toczyło się między Biblią a przyrodą, tylko między czyimś odczytaniem Biblii a czyimś odczytaniem przyrody. Kiedy Kościół bronił nieruchomej Ziemi, był przekonany, że broni Pisma. Bronił greckiej filozofii przyrody, z którą zrosła się jego teologia. Dane to nie to samo co ich interpretacja, a Pismo to nie to samo co nasz wykład. Nikt nie jest nieomylnym czytelnikiem żadnej z dwóch ksiąg.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Sprawiasz, że rośnie trawa",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 104,13-15.19-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Zraszasz góry z górnych swych komnat, Ziemia nasyca się owocem, który stwarzasz. Sprawiasz, że rośnie trawa dla bydła I rośliny na użytek człowieka, By dobywał chleb z ziemi I wino, które rozwesela serce człowieka, Oliwę, od której lśni się oblicze, I chleb, co wzmacnia serce człowieka. [...] Uczyniłeś księżyc, aby pory oznaczał, Słońce zna swój zachód. Rozprzestrzeniasz mrok i nastaje noc: Wtedy wychodzą wszystkie zwierzęta leśne. Lwięta ryczą za łupem I domagają się żeru od Boga. Lecz gdy słońce wzejdzie, znikają I kładą się w swych legowiskach. Człowiek wychodzi do pracy swojej, Do pracy swej aż do wieczora. O, jak liczne są dzieła twoje, Panie! Tyś wszystko mądrze uczynił: Ziemia jest pełna dóbr twoich!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalmista mówi do Boga: „sprawiasz, że rośnie trawa\". Dziś umiemy dość dokładnie opisać, jak rośnie trawa. **Czy wyjaśnienie, jak coś działa, odbiera to Bogu? Gdzie psalm widzi Boga: w tym, co niezwykłe, czy w tym, co codzienne i regularne?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Niektórzy szukają Boga tylko tam, gdzie nauka nie ma jeszcze wyjaśnienia. **Co dzieje się z taką wiarą przy każdym nowym odkryciu? Jak wyglądałaby wiara zbudowana na Psalmie 104?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: cuda i prawa przyrody",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 4,39-41",
+       "przeklad": "BW",
+       "akapity": [
+        "I obudziwszy się, zgromił wicher i rzekł do morza: Umilknij! Ucisz się! I ustał wicher i nastała wielka cisza. I rzekł do nich: Czemu jesteście tacy bojaźliwi? Jakże to, jeszcze wiary nie macie? I zdjął ich strach wielki i mówili jeden do drugiego: Kim więc jest Ten, że i wiatr, i morze są mu posłuszne?"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jeśli przyroda jest tak regularna, że da się ją badać, to co z cudami? Jedni mówią: cud jest złamaniem praw przyrody, więc kto przyjmuje naukę, musi cuda odrzucić, a kto przyjmuje cuda, podkopuje naukę. Drudzy odpowiadają obrazem. Siedzisz pod dachem i prawa fizyki trzymają cię w suchości. Ktoś bierze wiadro i wylewa ci wodę na głowę. Żadne prawo nie zostało złamane. Zmienił się bieg zdarzeń, bo w układ wkroczyła osoba. Obie strony łączy jedno: o cudzie w ogóle da się mówić tylko tam, gdzie przyroda jest regularna. W świecie bez praw nic by nikogo nie dziwiło.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Uczniowie byli rybakami i wiedzieli, jak zachowuje się jezioro. **Dlaczego właśnie oni przestraszyli się ciszy bardziej niż burzy? O co pytają w wersecie 41: o mechanizm czy o osobę?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Skąd masz swoje wyobrażenie o tym, jak wiara ma się do nauki:** z domu, ze szkoły, z kościoła, z internetu? Czy ktoś ci kiedyś powiedział, że musisz wybrać?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które z dzisiejszych zdań chciałbyś usłyszeć, kiedy miałeś piętnaście lat?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy nosisz jakieś pytanie z pogranicza wiary i nauki, którego boisz się zadać na głos, w kościele albo poza nim?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zdarza się, że to, co mówi dziś większość uczonych, i to, jak rozumiem tekst biblijny, nie dają się uzgodnić. Mogę wtedy poprawić swoje rozumienie tekstu, mogę zakwestionować interpretację danych albo mogę żyć z otwartym pytaniem. **Po czym poznać, która z tych dróg jest w danej sprawie uczciwa? Jak długo umiesz żyć z pytaniem bez odpowiedzi?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie ma tu jednej odpowiedzi. Może pomóc obraz z Księgi Joba. Żona Joba widziała problemy i dlatego odmówiła wiary. Przyjaciele Joba wierzyli i dlatego odmówili widzenia problemów. Job wierzył i nie przestał widzieć problemów. Uczciwość stoi wyżej niż łatwa spójność, a na uzgodnienie wolno dać sobie tyle czasu, ile będzie potrzebne.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Ten, kto dał Pismo, zrobił też świat. Nie muszę bronić jednej Jego księgi przed drugą.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Ps 19,2 albo Ps 111,2.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kiedy w najbliższych dniach coś w przyrodzie cię zatrzyma, zostań przy tym chwilę dłużej, niż wypada. Zapytaj: **co to mówi o Tym, kto to wymyślił?** A potem zapytaj o to samo, czytając Pismo.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przyznaj przed sobą jedno pytanie, którego unikasz, bo boisz się, że odpowiedź zachwieje twoją wiarą albo twoim obrazem świata. Spróbuj powiedzieć Bogu: **nie boję się prawdy, bo cała jest Twoja.** Jeśli nie umiesz powiedzieć tego szczerze, powiedz Mu właśnie to.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** pomyśl o kimś, z czyich poglądów w tych sprawach kpiłeś, choćby w myślach. Może to był ktoś wierzący, może niewierzący. Zapytaj siebie, **co ta kpina w tobie chroniła.**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś kpi z uczonych albo z niewierzących: „oni sami nie wiedzą, co mówią\".** Przerwij od razu i spokojnie. Bóg szuka każdego człowieka, także tego, który Go w swojej pracy nie uwzględnia. Stracić czyjś szacunek z powodu wiary to nie wstyd. Stracić go przez złośliwość, wyniosłość i niedouczone uwagi to zupełnie co innego.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś kpi w drugą stronę: z wierzących, z „dosłownego czytania\", z kościoła.** Przerwij tak samo. Przy tym stole nikt nie jest ośmieszany za to, co myśli. Zapytaj: „Który z dzisiejszych tekstów cię zaskoczył?\" i wróć do Biblii.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś chce dziś rozstrzygnąć, ile lat ma Ziemia, co z dinozaurami, co z potopem.** Powiedz wprost, że materiał tego celowo nie robi i że nie jesteś w stanie zrobić tego rzetelnie. Biblia nie podaje daty stworzenia. Dzisiejsze pytanie jest inne: czy muszę wybierać między Autorem a Jego dziełem. Zapisz pytania, jeśli grupa chce do nich wrócić z kimś kompetentnym.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś przynosi sensacyjny dowód z internetu, za wiarą albo przeciw niej.** Nie oceniaj dowodu, bo nie masz jak. Powiedz, że wierzący ma więcej powodów niż ktokolwiek, żeby dbać o rzetelność, bo mówi o rzeczach świętych. Słaby argument w dobrej sprawie szkodzi tej sprawie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Przy stole siedzi ktoś, kto pracuje w nauce albo w medycynie.** Nie rób z niego ani eksperta od wszystkiego, ani oskarżonego. Jeśli sam chce coś powiedzieć, wysłuchajcie go. Nie wywołuj go do odpowiedzi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rodzic mówi: „w szkole uczą moje dziecko inaczej i nie wiem, co mu powiedzieć\".** Nie dawaj gotowej formułki. Ważniejsze od jednej dobrej odpowiedzi jest to, żeby dziecko wiedziało, że w domu i w zborze wolno pytać i że nikt się tych pytań nie boi. Zaproponuj rozmowę po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw bloki 1, 3 i 5. Blok 4 możecie przeczytać na głos bez pytań, bo sam tekst robi swoją robotę.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś kpi z uczonych albo z niewierzących: „oni sami nie wiedzą, co mówią\".",
+     "odpowiedz": "Przerwij od razu i spokojnie. Bóg szuka każdego człowieka, także tego, który Go w swojej pracy nie uwzględnia. Stracić czyjś szacunek z powodu wiary to nie wstyd. Stracić go przez złośliwość, wyniosłość i niedouczone uwagi to zupełnie co innego."
+    },
+    {
+     "sytuacja": "Ktoś kpi w drugą stronę: z wierzących, z „dosłownego czytania\", z kościoła.",
+     "odpowiedz": "Przerwij tak samo. Przy tym stole nikt nie jest ośmieszany za to, co myśli. Zapytaj: „Który z dzisiejszych tekstów cię zaskoczył?\" i wróć do Biblii."
+    },
+    {
+     "sytuacja": "Ktoś chce dziś rozstrzygnąć, ile lat ma Ziemia, co z dinozaurami, co z potopem.",
+     "odpowiedz": "Powiedz wprost, że materiał tego celowo nie robi i że nie jesteś w stanie zrobić tego rzetelnie. Biblia nie podaje daty stworzenia. Dzisiejsze pytanie jest inne: czy muszę wybierać między Autorem a Jego dziełem. Zapisz pytania, jeśli grupa chce do nich wrócić z kimś kompetentnym."
+    },
+    {
+     "sytuacja": "Ktoś przynosi sensacyjny dowód z internetu, za wiarą albo przeciw niej.",
+     "odpowiedz": "Nie oceniaj dowodu, bo nie masz jak. Powiedz, że wierzący ma więcej powodów niż ktokolwiek, żeby dbać o rzetelność, bo mówi o rzeczach świętych. Słaby argument w dobrej sprawie szkodzi tej sprawie."
+    },
+    {
+     "sytuacja": "Przy stole siedzi ktoś, kto pracuje w nauce albo w medycynie.",
+     "odpowiedz": "Nie rób z niego ani eksperta od wszystkiego, ani oskarżonego. Jeśli sam chce coś powiedzieć, wysłuchajcie go. Nie wywołuj go do odpowiedzi."
+    },
+    {
+     "sytuacja": "Rodzic mówi: „w szkole uczą moje dziecko inaczej i nie wiem, co mu powiedzieć\".",
+     "odpowiedz": "Nie dawaj gotowej formułki. Ważniejsze od jednej dobrej odpowiedzi jest to, żeby dziecko wiedziało, że w domu i w zborze wolno pytać i że nikt się tych pytań nie boi. Zaproponuj rozmowę po spotkaniu."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw bloki 1, 3 i 5. Blok 4 możecie przeczytać na głos bez pytań, bo sam tekst robi swoją robotę."
+    }
+   ]
+  }
+ ]
+}

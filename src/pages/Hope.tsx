@@ -35,6 +35,12 @@ export function Hope() {
         <span className="min-w-0 flex-1"><span className="block text-lg font-bold text-slate-900 dark:text-white">Materiały edukacyjne</span><span className="mt-1 block text-sm leading-relaxed text-slate-600 dark:text-slate-300">Przejdź do listy materiałów i wybierz temat, który chcesz otworzyć.</span></span>
         <span className="text-xl text-brand dark:text-sky-300" aria-hidden>›</span>
       </Link>
+
+      <Link to={`/${lang}/grupy-nadziei`} viewTransition className="gradient-panel flex items-center gap-3 rounded-2xl border p-4 transition hover:-translate-y-0.5 hover:border-brand/60 hover:shadow-md dark:hover:border-sky-300/60">
+        <span className="rounded-xl bg-brand/10 p-3 text-brand dark:bg-sky-400/15 dark:text-sky-300"><AppIcon name="hope" className="h-7 w-7" /></span>
+        <span className="min-w-0 flex-1"><span className="block text-lg font-bold text-slate-900 dark:text-white">{t('groups.title', 'Grupy Nadziei')}</span><span className="mt-1 block text-sm leading-relaxed text-slate-600 dark:text-slate-300">{t('groups.tile', 'Gotowe spotkania biblijne dla grup domowych, w trzech poziomach.')}</span></span>
+        <span className="text-xl text-brand dark:text-sky-300" aria-hidden>›</span>
+      </Link>
     </div>
   </section>
 }

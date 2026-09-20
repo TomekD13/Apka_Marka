@@ -1,0 +1,917 @@
+{
+ "tytul": "Dlaczego cierpienie?",
+ "id": "P-01",
+ "seria": "Pytania, które ludzie zadają",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Hi 1,6-12.20-22; Hi 2,11-13; 4,7-8; 42,7; Hi 38,1-7; 42,5; J 9,1-7; Łk 13,1-5; Rz 8,18-23.26-28",
+  "p2": "Hi 1,16; 2,3; Hi 19,25-27; J 9,24-25; Łk 13,10-17; 2Kor 1,3-5; Hbr 4,15-16",
+  "p3": "Hi 1,9; 2,3; J 9,3-4; Rz 8,28; Rdz 50,20; Rz 8,35-39"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 28,
+  "p3": 35
+ },
+ "tagi": [
+  "cierpienie",
+  "obraz Boga",
+  "Job",
+  "towarzyszenie",
+  "nadzieja"
+ ],
+ "wersja": 1,
+ "zdanie": "Biblia nie mówi mi, dlaczego cierpię. Mówi mi, że to nie wyrok, i mówi, kto jest przy mnie.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie nie odpowiada na pytanie „dlaczego\". Pokazuje, których odpowiedzi Biblia odmawia. Odmawia rachunku, w którym każde nieszczęście jest zapłatą za konkretny grzech. Odmawia go w Księdze Joba i odmawia go ustami Jezusa, dwa razy. W zamian nie daje formuły. Daje Boga, który przychodzi, Jezusa, który działa, i Ducha, który wzdycha razem z nami. Biblia Warszawska pisze imię bohatera „Job\", inne przekłady „Hiob\". To ta sama osoba.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole prawie na pewno siedzi ktoś, kto właśnie cierpi albo patrzy na cierpienie bliskiej osoby. Dla niego to nie jest temat, tylko życie.",
+      "Grupa będzie chciała pocieszać gotowymi zdaniami: „Bóg ma plan\", „wszystko jest po coś\", „Bóg nie daje więcej, niż udźwigniesz\". Dokładnie to robili przyjaciele Joba i Bóg nazwał to mówieniem nieprawdy o Nim.",
+      "Ktoś może usłyszeć Łk 13 jako groźbę. Jezus mówi tam do ludzi, którzy komentują cudze nieszczęście, a nie do tych, których ono spotkało.",
+      "Ktoś może nosić w sobie przekonanie, że jego choroba albo strata jest karą. Nie wyciągaj tego na forum."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie tłumacz nikomu jego cierpienia. Nie kończ spotkania zdaniem, które wszystko wyjaśnia. Jeśli na końcu zostanie pytanie bez odpowiedzi, spotkanie się udało.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie zdanie, które ktoś ci powiedział w trudnym czasie i które pomogło, albo takie, które zabolało. Powiedz tylko to zdanie, bez historii, która za nim stoi.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi. Jeśli ktoś nie chce mówić, idź dalej bez zatrzymywania się.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Rozmowa, której Job nie słyszał",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hi 1,6-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Otóż zdarzyło się pewnego dnia, że przybyli synowie Boży, aby się stawić przed Panem, a wśród nich przybył też i szatan. I rzekł Pan do szatana: Skąd przybywasz? A szatan odpowiedział Panu, mówiąc: Wędrowałem po ziemi i przeszedłem ją wzdłuż i wszerz. Rzekł Pan do szatana: Czy zwróciłeś uwagę na mojego sługę, Joba? Bo nie ma mu równego na ziemi. Mąż to nienaganny i prawy, bogobojny i stroniący od złego. Na to szatan odpowiedział Panu, mówiąc: Czy za darmo jest Job tak bogobojny? Czy Ty nie otoczyłeś go zewsząd opieką wraz z jego domem i wszystkim, co ma? Błogosławiłeś sprawie jego rąk i jego dobytek rozmnożył się w kraju. Lecz wyciągnij tylko rękę i dotknij tego, co ma; czy nie będzie ci w oczy złorzeczył? Na to rzekł Pan do szatana: Oto wszystko, co ma, jest w twojej mocy, tylko jego nie dotykaj! I odszedł szatan sprzed oblicza Pana."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "W jednym dniu Job traci stada, sługi i dziesięcioro dzieci.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hi 1,20-22",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Job powstał, rozdarł szaty i ogolił głowę; potem padł na ziemię i oddał pokłon, i rzekł: Nagi wyszedłem z łona matki mojej i nagi stąd odejdę. Pan dał, Pan wziął, niech będzie imię Pańskie błogosławione. W tym wszystkim nie zgrzeszył Job i nie wypowiedział nic niestosownego przeciwko Panu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Czytelnik wie coś, czego Job nie dowie się do końca księgi. **Co dokładnie wiemy my, a czego nie wie on? Jak to zmienia sposób, w jaki słuchamy jego słów „Pan wziął\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Szatan nie oskarża Joba o żaden grzech. **O co w takim razie go oskarża? I kogo jeszcze dotyka to oskarżenie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Co według tego tekstu jest powodem nieszczęścia Joba: jego wina czy coś zupełnie innego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Pytanie szatana brzmi: czy ktokolwiek kocha Boga za darmo, czy tylko za to, co przy Nim dostaje. To zarzut wobec Joba i zarazem wobec Boga, że kupuje sobie miłość opieką. Job cierpi więc nie mimo swojej wierności, tylko z jej powodu. Księga od pierwszej strony wyklucza odpowiedź, której będą bronić jego przyjaciele.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ogień Boży",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hi 1,16",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy ten jeszcze mówił, przyszedł inny i rzekł: Ogień Boży spadł z nieba, spalił trzodę i sługi i pochłonął je; uszedłem tylko ja sam, aby ci o tym donieść."
+       ]
+      },
+      {
+       "odnosnik": "Hi 2,3",
+       "przeklad": "BW",
+       "akapity": [
+        "Rzekł Pan do szatana: Czy zwróciłeś uwagę na mojego sługę Joba? Bo nie ma mu równego na ziemi. Mąż to nienaganny i prawy, bogobojny i stroniący od złego, trwa jeszcze w swej pobożności, chociaż ty mnie podburzyłeś, abym go bez przyczyny zgubił."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Sługa, który ocalał, nazywa to, co spadło z nieba, ogniem Bożym. **Czy czytelnik, który zna rozmowę z wersetów 6-12, nazwałby to tak samo? Co to mówi o zdaniach w rodzaju „Bóg mi to zrobił\"?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg sam mówi, że Job cierpi „bez przyczyny\". **Co to zdanie robi z każdą próbą znalezienia przyczyny w Jobie?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Za darmo\" w pytaniu szatana z Hi 1,9 i „bez przyczyny\" w słowach Boga z Hi 2,3 to po hebrajsku to samo słowo, `chinnam`. Szatan pyta, czy Job kocha `chinnam`, czyli bez zapłaty. Bóg odpowiada, że Job cierpi `chinnam`, czyli bez powodu. Księga spina oba końce jednym wyrazem: miłość, która nie jest zapłatą, i cierpienie, które nie jest karą.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Przyjaciele",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hi 2,11-13",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy trzej przyjaciele Joba usłyszeli o całym nieszczęściu, jakie spadło na niego, przyszli, każdy ze swojej miejscowości: Elifaz z Temanu, Bildad z Szuach i Sofar z Naama. Umówili się pospołu, aby pójść, wyrazić mu współczucie i pocieszyć go. A gdy z daleka spojrzeli na niego, nie poznali go; poczęli głośno płakać i każdy z nich rozdarł swoje szaty, i rzucali proch w górę na swoje głowy. I siedzieli z nim na ziemi siedem dni i siedem nocy, a żaden nie przemówił do niego ani słowa; widzieli bowiem, że jego ból był bardzo wielki."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Potem zaczynają mówić. Pierwszy odzywa się Elifaz.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hi 4,7-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Przypomnij sobie, kto kiedy, będąc niewinny, zginął, albo gdzie ludzie prawi byli wytępieni! Jak daleko spojrzeć, ci, którzy orali bezprawie i rozsiewali zło, zawsze je zbierali."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Rozmowa trwa ponad trzydzieści rozdziałów. Na końcu Bóg ją ocenia.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hi 42,7",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy Pan wypowiedział do Joba te słowa, odezwał się Pan do Elifaza z Temanu: Mój gniew zapłonął przeciwko tobie i przeciwko dwom twoim przyjaciołom, ponieważ nie mówiliście o mnie prawdy, jak mój sługa Job."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Co przyjaciele zrobili dobrze przez pierwsze siedem dni? W którym momencie zaczęło się psuć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zdanie Elifaza brzmi pobożnie i logicznie. **Co dokładnie twierdzi o świecie? Co z tego wynika dla człowieka, który siedzi przed nim w popiele?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Przyjaciele bronili Boga, a Job się z Nim spierał. **Dlaczego Bóg mówi, że to Job mówił o Nim prawdę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Przyjaciele nie kwestionują żadnej prawdy wiary. Wierzą, że Bóg jest sprawiedliwy i że zło ma skutki. Ich błąd leży w zastosowaniu: z ogólnej zasady robią wyrok na konkretnego człowieka. Przyszli dać nadzieję, a dali poczucie winy. Bóg reaguje na to gniewem, jakiego nie ma nigdzie indziej w tej księdze. Broniąc Go, zrobili z Niego kogoś, kto zabija dzieci za nieujawniony grzech ojca.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Odpowiedź bez wyjaśnienia",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hi 38,1-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem Pan odpowiedział Jobowi spośród zawieruchy i rzekł: Któż to zaciemnia mój plan słowami bezmyślnymi? Przepasz jako mąż swoje biodra, będę cię pytał, a ty mnie pouczysz. Gdzie byłeś, gdy zakładałem ziemię? Powiedz, jeśli wiesz i rozumiesz. Kto wyznaczył jej rozmiary? Czy wiesz? Albo kto rozciągnął nad nią sznur mierniczy? Na czym są osadzone jej filary albo kto założył jej kamień węgielny? Gdy gwiazdy poranne chórem radośnie się odezwały i okrzyk wydali wszyscy synowie Boży?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Bóg mówi przez cztery rozdziały. Ani razu nie wspomina o rozmowie z szatanem. Job odpowiada krótko.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hi 42,5",
+       "przeklad": "BW",
+       "akapity": [
+        "Tylko ze słyszenia wiedziałem o tobie, lecz teraz moje oko ujrzało cię."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Job przez całą księgę domagał się wyjaśnienia. **Co dostał zamiast niego? Dlaczego mu to wystarczyło?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Czym różni się „wiedzieć o Bogu ze słyszenia\" od tego, co Job mówi o sobie teraz? Które z tych dwóch bardziej pomaga w cierpieniu?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Wyznanie w środku ciemności",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hi 19,25-27",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz ja wiem, że Odkupiciel mój żyje i że jako ostatni nad prochem stanie! Że potem, chociaż moja skóra jest tak poszarpana, uwolniony od swego ciała będę oglądał Boga. Tak! Ja sam ujrzę go i moje oczy zobaczą go, nie kto inny. Moje nerki zanikają we mnie za tym tęskniąc."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Te słowa padają w środku księgi, między jedną skargą a drugą, zanim Bóg cokolwiek powiedział. **Skąd Job to wie, skoro nic w jego sytuacji na to nie wskazuje?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Job w tej samej księdze mówi Bogu rzeczy bardzo ostre i wyznaje, że Odkupiciel żyje. **Czy jedno wyklucza drugie? Co Bóg o tym sądzi, jeśli wziąć pod uwagę Hi 42,7?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Kto zgrzeszył?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 9,1-7",
+       "przeklad": "BW",
+       "akapity": [
+        "A przechodząc, ujrzał człowieka ślepego od urodzenia. I zapytali go uczniowie jego, mówiąc: Mistrzu, kto zgrzeszył, on czy rodzice jego, że się ślepym urodził? Odpowiedział Jezus: Ani on nie zgrzeszył, ani rodzice jego, lecz aby się na nim objawiły dzieła Boże. Musimy wykonywać dzieła tego, który mnie posłał, póki dzień jest; nadchodzi noc, gdy nikt nie będzie mógł działać. Póki jestem na świecie, jestem światłością świata. Po tych słowach splunął na ziemię i ze śliny uczynił błoto, i to błoto nałożył na oczy ślepego. I rzekł do niego: Idź i obmyj się w sadzawce Syloe (to znaczy Posłany). Odszedł tedy i obmył się, i wrócił z odzyskanym wzrokiem."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Uczniowie dają Jezusowi dwie możliwości do wyboru. **Co Jezus robi z ich pytaniem? Na jakie pytanie odpowiada zamiast tego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Uczniowie patrzą na niewidomego i widzą zagadkę teologiczną. **Co widzi Jezus? Po czym to poznajemy w tekście?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Jak czuje się człowiek, przy którym inni głośno zastanawiają się, czyja to wina? Czy zdarza się nam to robić?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W świecie starożytnym winę często rozpoznawano po nieszczęściu. Człowiek nie dochodził do wniosku, że zawinił, bo ruszyło go sumienie. Dochodził do niego, bo zachorował, stracił kogoś bliskiego albo spotkała go klęska. Nieszczęście było znakiem, a znak kazał szukać grzechu. Pytanie uczniów nie jest więc złośliwe. Jest zwyczajne, tak myśleli wszyscy. Tym mocniej brzmi odpowiedź Jezusa, który nie wybiera żadnej z dwóch podsuniętych możliwości.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 9,24-25",
+       "przeklad": "BW",
+       "akapity": [
+        "Przywołali więc ponownie człowieka, który był ślepy, i rzekli do niego: Oddaj chwałę Bogu; my wiemy, że człowiek ten jest grzeszny. A on odpowiedział: Czy jest grzeszny, nie wiem: to jedno wiem, że byłem ślepy, a teraz widzę."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przesłuchujący mówią „my wiemy\". Uzdrowiony mówi „nie wiem\" i „to jedno wiem\". **Kto w tym rozdziale jest pewny swojej teologii, a kto widzi? Co z tego wynika dla naszych rozmów o cierpieniu?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: „aby się objawiły dzieła Boże\"",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Zdanie Jezusa z wersetu 3 potrafi zaboleć. Czy Bóg uczynił człowieka niewidomym na całe lata po to, żeby mieć okazję do cudu?",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Najstarsze greckie rękopisy nie mają interpunkcji. Kropki i przecinki stawiają wydawcy i tłumacze. Te same słowa da się podzielić inaczej: „Ani on nie zgrzeszył, ani rodzice jego. Lecz aby się objawiły dzieła Boże, musimy wykonywać dzieła tego, który mnie posłał, póki dzień jest\". W takim odczytaniu Jezus w ogóle nie podaje przyczyny ślepoty. Mówi, co teraz trzeba zrobić.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak zmienia się obraz Boga w zależności od tego, gdzie postawimy kropkę?** Które odczytanie lepiej pasuje do tego, co Jezus robi w następnych wersetach?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nawet przy tradycyjnej interpunkcji Jezus nie mówi, skąd wzięła się ślepota, tylko dokąd ta historia zmierza. **Czym różni się pytanie „dlaczego\" od pytania „ku czemu\"? Które z nich Jezus uznaje za warte odpowiedzi?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Wieża w Syloe",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 13,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "W tym samym czasie przybyli do niego niektórzy z wiadomością o Galilejczykach, których krew Piłat pomieszał z ich ofiarami. I odpowiadając, rzekł do nich: Czy myślicie, że ci Galilejczycy byli większymi grzesznikami niż wszyscy inni Galilejczycy, że tak ucierpieli? Bynajmniej, powiadam wam, lecz jeżeli się nie upamiętacie, wszyscy podobnie poginiecie. Albo czy myślicie, że owych osiemnastu, na których upadła wieża przy Syloe i zabiła ich, było większymi winowajcami niż wszyscy ludzie zamieszkujący Jerozolimę? Bynajmniej, powiadam wam, lecz jeżeli się nie upamiętacie, wszyscy tak samo poginiecie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus sam dokłada drugi przykład. Pierwszy to zbrodnia władzy, drugi to katastrofa budowlana. **Co łączy Jego odpowiedź w obu wypadkach? Jakiego wniosku o ofiarach zakazuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus odwraca rozmowę od ofiar ku tym, którzy o nich opowiadają. **Dlaczego to robi? Do kogo skierowane jest wezwanie do upamiętania, a do kogo na pewno nie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Upamiętanie w Biblii Warszawskiej znaczy tyle co nawrócenie, zmiana myślenia i kierunku. Jezus nie grozi poszkodowanym. Mówi do ludzi, którzy komentują cudzą tragedię z bezpiecznej odległości i próbują ustalić, czym ofiary sobie na nią zasłużyły. Odbiera im tę odległość. Nieszczęście nie jest listą rankingową grzeszników.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Związana osiemnaście lat",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 13,10-17",
+       "przeklad": "BW",
+       "akapity": [
+        "A nauczał w jednej z synagog w sabat. A oto była tam kobieta, od osiemnastu lat cierpiąca, pochylona tak, że zupełnie nie mogła się wyprostować. A Jezus, ujrzawszy ją, przywołał ją i rzekł do niej: Kobieto, uwolniona jesteś od choroby swojej. I położył na nią ręce; i zaraz wyprostowała się, i chwaliła Boga. A odpowiadając, przełożony bożnicy, oburzony, że Jezus uzdrowił w sabat, rzekł do ludu: Jest sześć dni, kiedy należy pracować. W te dni przychodźcie i dajcie się uzdrawiać, a nie w dzień sabatu. Odpowiedział mu Pan i rzekł: Obłudnicy! Czy nie każdy z was odwiązuje w dzień sabatu swego wołu czy osła od żłobu i nie wyprowadza ich do wodopoju? A czy tej córki Abrahama, którą szatan związał już od osiemnastu lat, nie należało rozwiązać od tych pęt w dniu sabatu? A gdy On to mówił, zawstydzili się wszyscy przeciwnicy jego, natomiast lud cały radował się ze wszystkich chwalebnych czynów, jakich dokonywał."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To ten sam rozdział, kilka wersetów dalej. **Komu Jezus przypisuje chorobę tej kobiety? Jak ją samą nazywa?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W tej scenie pada trzy razy ten sam obraz: kobieta uwolniona, wół odwiązany, córka Abrahama rozwiązana z pęt. **Jeśli choroba jest więzami, a nie karą, to po której stronie stoi Bóg?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 6,
+   "tytul": "Wzdychanie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 8,18-23",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem sądzę, że utrapienia teraźniejszego czasu nic nie znaczą w porównaniu z chwałą, która ma się nam objawić. Bo stworzenie z tęsknotą oczekuje objawienia synów Bożych, gdyż stworzenie zostało poddane znikomości, nie z własnej woli, lecz z woli tego, który je poddał, w nadziei, że i samo stworzenie będzie wyzwolone z niewoli skażenia ku chwalebnej wolności dzieci Bożych. Wiemy bowiem, że całe stworzenie wespół wzdycha i wespół boleje aż dotąd. A nie tylko ono, lecz i my sami, którzy posiadamy zaczątek Ducha, wzdychamy w sobie, oczekując synostwa, odkupienia ciała naszego."
+       ]
+      },
+      {
+       "odnosnik": "Rz 8,26-28",
+       "przeklad": "BW",
+       "akapity": [
+        "Podobnie i Duch wspiera nas w niemocy naszej; nie wiemy bowiem, o co się modlić, jak należy, ale sam Duch wstawia się za nami w niewysłowionych westchnieniach. A Ten, który bada serca, wie, jaki jest zamysł Ducha, bo zgodnie z myślą Bożą wstawia się za świętymi. A wiemy, że Bóg współdziała we wszystkim ku dobremu z tymi, którzy Boga miłują, to jest z tymi, którzy według postanowienia jego są powołani."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W tym fragmencie wzdychają trzy strony. **Kto? Co to mówi o miejscu Boga wobec cierpienia: jest nad nim, obok niego czy w nim?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie werset 28 słowo po słowie. **Czy Paweł pisze, że wszystko, co nas spotyka, jest dobre? Co dokładnie pisze?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paweł mówi o świecie „poddanym znikomości\" i „w niewoli skażenia\". **Jak taki opis świata zmienia pytanie „dlaczego mnie to spotkało\"?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pociecha, która idzie dalej",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Kor 1,3-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Błogosławiony niech będzie Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia i Bóg wszelkiej pociechy, który pociesza nas we wszelkim utrapieniu naszym, abyśmy tych, którzy są w jakimkolwiek utrapieniu, pocieszać mogli taką pociechą, jaką nas samych Bóg pociesza. Bo, jak liczne są cierpienia Chrystusowe wśród nas, tak też i przez Chrystusa obficie spływa na nas pociecha."
+       ]
+      },
+      {
+       "odnosnik": "Hbr 4,15-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie mamy bowiem arcykapłana, który by nie mógł współczuć ze słabościami naszymi, lecz doświadczonego we wszystkim, podobnie jak my, z wyjątkiem grzechu. Przystąpmy tedy z ufną odwagą do tronu łaski, abyśmy dostąpili miłosierdzia i znaleźli łaskę ku pomocy w stosownej porze."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nie pisze, że Bóg wyjaśnia utrapienie. Pisze, że w nim pociesza. **Jak według tych dwóch tekstów wygląda pociecha, którą daje Bóg? Czym różni się od pociechy przyjaciół Joba?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kto potrafił być przy tobie w trudnym czasie dlatego, że sam coś przeszedł?** Co robił inaczej niż pozostali?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 6
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: „wszystko ku dobremu\"",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Rz 8,28 bywa cytowane jako zdanie, które zamyka rozmowę. Tymczasem Paweł nie mówi, że zło jest dobrem w przebraniu ani że Bóg je zsyła dla naszego pożytku. Mówi, że Bóg współdziała we wszystkim, także w tym, czego nie chciał.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 50,20",
+       "przeklad": "BW",
+       "akapity": [
+        "Wy wprawdzie knuliście zło przeciwko mnie, ale Bóg obrócił to w dobro, chcąc uczynić to, co się dziś dzieje: zachować przy życiu liczny lud."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Józef nie mówi braciom, że sprzedanie go było dobre. Nazywa je złem. **Co w takim razie przypisuje Bogu? Jak to pomaga czytać Rz 8,28?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Józef powiedział to zdanie po kilkudziesięciu latach i powiedział je sam o sobie. **Co się dzieje, gdy to samo zdanie mówi ktoś inny, człowiekowi, który dopiero siedzi w studni?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 6
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które z gotowych wyjaśnień cierpienia nosisz w sobie od dawna?** Skąd je masz: z domu, z kościoła, z własnych domysłów?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pomyśl o kimś, kto teraz cierpi. **Co z dzisiejszych tekstów podpowiada ci, jak przy nim być? Czego na pewno mu nie mówić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest w twoim życiu „dlaczego\", na które nie dostałeś odpowiedzi?** Nie musisz mówić, czego dotyczy. Wystarczy powiedzieć, co z nim dziś robisz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Czytelnik Księgi Joba od pierwszej strony wie, o co toczy się gra. Job nie dowiaduje się tego nigdy, nawet gdy Bóg wreszcie przemawia. **Dlaczego Bóg mu tego nie powiedział? Czy wiara Joba byłaby tą samą wiarą, gdyby znał kulisy?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Rozmowa z Hi 1 rodzi pytanie, którego tekst nie rozstrzyga: dlaczego Bóg w ogóle się zgadza. Jedna z odpowiedzi zauważa, że gdyby Bóg odmówił, potwierdziłby zarzut, że osłania swoich ludzi, żeby kupić ich lojalność. **Czy taka odpowiedź ci wystarcza? Co w niej pomaga, a co nadal uwiera?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 8,35-39",
+       "przeklad": "BW",
+       "akapity": [
+        "Któż nas odłączy od miłości Chrystusowej? Czy utrapienie, czy ucisk, czy prześladowanie, czy głód, czy nagość, czy niebezpieczeństwo, czy miecz? Jak napisano: Z powodu ciebie co dzień nas zabijają, uważają nas za owce ofiarne. Ale w tym wszystkim zwyciężamy przez tego, który nas umiłował. Albowiem jestem tego pewien, że ani śmierć, ani życie, ani aniołowie, ani potęgi niebieskie, ani teraźniejszość, ani przyszłość, ani moce, ani wysokość, ani głębokość, ani żadne inne stworzenie nie zdoła nas odłączyć od miłości Bożej, która jest w Chrystusie Jezusie, Panu naszym."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q35",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nie obiecuje, że utrapienie, głód i miecz nas ominą. Wymienia je jako rzeczy, które przychodzą. **Co w takim razie obiecuje? Czy to mało, czy dużo?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie domykaj tych pytań. Tekst zostawia je otwarte i grupa też może.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Biblia nie mówi mi, dlaczego cierpię. Mówi mi, że to nie wyrok, i mówi, kto jest przy mnie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Rz 8,26 albo Hi 42,5.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kiedy w tym tygodniu usłyszysz o czyimś nieszczęściu, złap pierwszą myśl, która przyjdzie ci do głowy. Sprawdź, czy nie ma w niej cichego „pewnie sam się do tego przyczynił\". Nie oceniaj się za to. Zobacz tylko, jak głęboko siedzi w nas rachunek przyjaciół Joba.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jeśli nosisz w sobie przekonanie, że jakaś twoja strata albo choroba jest karą, powiedz to Bogu wprost, własnymi słowami. Potem przeczytaj jeszcze raz, co Jezus odpowiedział uczniom przy niewidomym, i zostań przy tym zdaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** pójdź do kogoś, kto cierpi, i nie mów nic mądrego. Posiedź. Przyjaciele Joba przez siedem dni robili to, co trzeba.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś przy stole jest w świeżym cierpieniu: diagnoza, śmierć bliskiej osoby, rozpad rodziny.** To spotkanie jest wtedy przede wszystkim dla niego, ale nie o nim. Nie pytaj go o nic wprost i nie rób z niego ilustracji. Jeśli sam zacznie mówić, grupa słucha. Nikt nie radzi, nikt nie wyjaśnia, nikt nie opowiada w odpowiedzi własnej historii. Po spotkaniu zostań z tą osobą albo umów się na rozmowę. Grupa towarzyszy, nie leczy. Jeśli słyszysz o myślach samobójczych albo o przemocy, nie zostawaj z tym sam. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Pobożne frazesy: „Bóg ma plan\", „wszystko jest po coś\", „Bóg nie daje więcej, niż udźwigniesz\", „widocznie tak miało być\".** Przerwij łagodnie i od razu. Możesz powiedzieć: „Zatrzymajmy się. Przyjaciele Joba też mówili rzeczy, które brzmiały dobrze. Sprawdźmy, czy to zdanie jest w tekście, który mamy przed sobą\". Zwykle go tam nie ma. Nie zawstydzaj osoby, która to powiedziała. Najczęściej mówi tak, bo sama się boi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To za grzechy\" albo „Bóg mnie karze\".** Wróć do tekstu: Bóg mówi o Jobie „bez przyczyny\", Jezus mówi „ani on, ani rodzice jego\". Nie zaprzeczaj, że grzech miewa skutki, bo miewa. Pokaż różnicę między skutkiem a wyrokiem. Jeśli ktoś mówi tak o sobie, porozmawiaj z nim po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To jak Bóg mógł się założyć z szatanem o człowieka?\"** To uczciwe pytanie i tekst je prowokuje. Nie broń Boga szybciej, niż robi to księga. Możesz powiedzieć, że Job pytał ostrzej i to o nim Bóg powiedział, że mówił prawdę. Jeśli macie czas, sięgnijcie po pytania z poziomu 3.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada o uzdrowieniu albo cudownym ocaleniu, a obok siedzi ktoś, komu się nie ułożyło.** Podziękuj i nie buduj na tym wniosku. Przypomnij, że w tym samym Nowym Testamencie jedni są uzdrawiani, a inni nie, i że nikt nie dostaje wyjaśnienia tej różnicy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** Przy tym temacie cisza jest na miejscu. Nie wypełniaj jej. Policz w myślach do dziesięciu i dopiero wtedy powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa rozkręca się tak, że nie zdążycie z materiałem.** Zostaw blok 3 i blok 5. Bloki 1, 2, 4 i 6 niosą całość: Job nie jest winny, przyjaciele się mylą, Jezus odrzuca rachunek, Duch wzdycha razem z nami.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś przy stole jest w świeżym cierpieniu: diagnoza, śmierć bliskiej osoby, rozpad rodziny.",
+     "odpowiedz": "To spotkanie jest wtedy przede wszystkim dla niego, ale nie o nim. Nie pytaj go o nic wprost i nie rób z niego ilustracji. Jeśli sam zacznie mówić, grupa słucha. Nikt nie radzi, nikt nie wyjaśnia, nikt nie opowiada w odpowiedzi własnej historii. Po spotkaniu zostań z tą osobą albo umów się na rozmowę. Grupa towarzyszy, nie leczy. Jeśli słyszysz o myślach samobójczych albo o przemocy, nie zostawaj z tym sam. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, numer alarmowy 112."
+    },
+    {
+     "sytuacja": "Pobożne frazesy: „Bóg ma plan\", „wszystko jest po coś\", „Bóg nie daje więcej, niż udźwigniesz\", „widocznie tak miało być\".",
+     "odpowiedz": "Przerwij łagodnie i od razu. Możesz powiedzieć: „Zatrzymajmy się. Przyjaciele Joba też mówili rzeczy, które brzmiały dobrze. Sprawdźmy, czy to zdanie jest w tekście, który mamy przed sobą\". Zwykle go tam nie ma. Nie zawstydzaj osoby, która to powiedziała. Najczęściej mówi tak, bo sama się boi."
+    },
+    {
+     "sytuacja": "„To za grzechy\" albo „Bóg mnie karze\".",
+     "odpowiedz": "Wróć do tekstu: Bóg mówi o Jobie „bez przyczyny\", Jezus mówi „ani on, ani rodzice jego\". Nie zaprzeczaj, że grzech miewa skutki, bo miewa. Pokaż różnicę między skutkiem a wyrokiem. Jeśli ktoś mówi tak o sobie, porozmawiaj z nim po spotkaniu."
+    },
+    {
+     "sytuacja": "„To jak Bóg mógł się założyć z szatanem o człowieka?\"",
+     "odpowiedz": "To uczciwe pytanie i tekst je prowokuje. Nie broń Boga szybciej, niż robi to księga. Możesz powiedzieć, że Job pytał ostrzej i to o nim Bóg powiedział, że mówił prawdę. Jeśli macie czas, sięgnijcie po pytania z poziomu 3."
+    },
+    {
+     "sytuacja": "Ktoś opowiada o uzdrowieniu albo cudownym ocaleniu, a obok siedzi ktoś, komu się nie ułożyło.",
+     "odpowiedz": "Podziękuj i nie buduj na tym wniosku. Przypomnij, że w tym samym Nowym Testamencie jedni są uzdrawiani, a inni nie, i że nikt nie dostaje wyjaśnienia tej różnicy."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "Przy tym temacie cisza jest na miejscu. Nie wypełniaj jej. Policz w myślach do dziesięciu i dopiero wtedy powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Rozmowa rozkręca się tak, że nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3 i blok 5. Bloki 1, 2, 4 i 6 niosą całość: Job nie jest winny, przyjaciele się mylą, Jezus odrzuca rachunek, Duch wzdycha razem z nami."
+    }
+   ]
+  }
+ ]
+}

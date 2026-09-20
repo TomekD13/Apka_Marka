@@ -264,3 +264,53 @@ export interface BibleSources {
   sources: BibleSource[]
   catalogs?: BibleCatalog[]
 }
+
+/** „Grupy Nadziei" (#JestNadzieja) - studia dla grup domowych w trzech addytywnych poziomach. */
+export type GroupLevel = 1 | 2 | 3
+export interface GroupTriple { p1?: number; p2?: number; p3?: number }
+export interface GroupScripture { odnosnik: string; przeklad: string; akapity: string[] }
+export type GroupElement =
+  | { typ: 'pismo'; poziom: GroupLevel; fragmenty: GroupScripture[] }
+  | { typ: 'pytanie'; poziom: GroupLevel; id: string; kluczowe: boolean; opcjonalne: boolean; tekst: string }
+  | { typ: 'notka' | 'akapit' | 'wyroznienie' | 'lacznik' | 'uwaga-prowadzacego'; poziom: GroupLevel; tekst: string }
+  | { typ: 'lista'; poziom: GroupLevel; pozycje: string[] }
+export type GroupBlockType =
+  | 'prowadzacy' | 'otwarcie' | 'blok' | 'kontekst' | 'slowo' | 'napiecie' | 'pytanie-trudne'
+  | 'zastosowanie' | 'zdanie' | 'do-zrobienia' | 'modlitwa' | 'czerwone-flagi'
+export interface GroupBlock {
+  typ: GroupBlockType
+  poziom: GroupLevel
+  tytul: string
+  numer?: number
+  zwijany?: boolean
+  doBloku?: number | string
+  elementy: GroupElement[]
+  flagi?: { sytuacja: string; odpowiedz: string }[]
+}
+export interface GroupEntry {
+  id: string
+  tytul: string
+  teksty: string
+  zdanie: string
+  dlugosc: GroupTriple
+  liczbaPytan: GroupTriple
+  tagi: string[]
+}
+export interface GroupSeries { prefiks: string; tytul: string; opis: string; tryb: string; items: GroupEntry[] }
+export interface GroupsIndex { lang: string; title: string; series?: string; note?: string; serie: GroupSeries[] }
+export interface GroupItem {
+  id: string
+  tytul: string
+  seria: string
+  tryb: string
+  poprzedni: string | null
+  nastepny: string | null
+  teksty: { p1: string; p2: string; p3: string }
+  przekladBazowy: string
+  dlugosc: GroupTriple
+  liczbaPytan: GroupTriple
+  tagi: string[]
+  wersja: number
+  zdanie: string
+  bloki: GroupBlock[]
+}

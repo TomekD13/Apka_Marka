@@ -1,0 +1,866 @@
+{
+ "tytul": "Zdrada i zawód",
+ "id": "K-07",
+ "seria": "Kryzysy i przełomy życia",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Ps 55,13-15.21-22; Ps 55,5-9.17-18.23; Łk 22,31-34.54-62; J 21,9.12-13.15-19; 2Tm 4,9-13.16-18",
+  "p2": "Ps 41,10; J 13,21-22; Mt 26,47-50; Mt 27,3-5; Dz 1,15-17; Ez 34,2-6.11-12.15-16",
+  "p3": "Ps 55,16.24; 1P 5,7; J 18,18"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 26,
+  "p3": 31
+ },
+ "tagi": [
+  "kryzys",
+  "zdrada",
+  "zaufanie",
+  "przyjaźń",
+  "Kościół",
+  "Piotr",
+  "przywrócenie"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg wysłuchuje skargi zdradzonego do końca, a temu, kto zawiódł, rozpala ognisko. Ani jednego, ani drugiego nie pogania.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o ranie, którą zadaje ktoś bliski: przyjaciel, mąż albo żona, ktoś z rodziny, pastor, zbór. Biblia patrzy na nią z dwóch stron. Najpierw mówi zdradzony, w psalmie, i nikt go nie ucisza. Potem patrzymy na tego, kto zawiódł, czyli na Piotra, i na to, co Jezus z nim robi. Przy stole mogą siedzieć ludzie z obu stron tej historii. Niektórzy są po obu naraz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "O samym przebaczeniu i o pojednaniu są osobne materiały. Tutaj zostajemy przy bólu zdrady i przy drodze powrotu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś może być świeżo po zdradzie małżeńskiej albo sam zdradził. Może o tym wiedzieć cała grupa, może nikt.",
+      "Ktoś mógł zostać skrzywdzony przez duchownego albo przez zbór. Dla niego słowo „Kościół\" nie brzmi bezpiecznie, a siedzi właśnie na kościelnym spotkaniu.",
+      "Grupa lubi szybko dojść do zdania „trzeba przebaczyć\". Dla zranionego to brzmi jak polecenie, żeby przestał mówić.",
+      "Historia Piotra bywa używana przeciwko skrzywdzonym: skoro Jezus przywrócił Piotra, to ty też masz przyjąć z powrotem tego, kto cię zranił. Tekst tego nie mówi.",
+      "Na poziomie 2 pojawia się śmierć Judasza. Przeczytaj wcześniej flagę o myślach samobójczych."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie dopytuj o szczegóły. Nie oceniaj, kto w czyjejś historii zawinił. Nie broń instytucji, kiedy ktoś opowiada, jak go zraniła. Nie doradzaj w sprawach małżeńskich ani prawnych. Grupa słucha i towarzyszy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o człowieku, któremu ufasz bez zastrzeżeń. Nie mów, kto to. Powiedz jednym zdaniem, po czym poznałeś, że można mu ufać.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj odpowiedzi. Jeśli ktoś powie, że takiego człowieka nie ma, przyjmij to skinieniem głowy i idź dalej.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "To nie wróg",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 55,13-15.21-22",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo to nie wróg mnie lży – Co mógłbym znieść – Nie przeciwnik mój wynosi się nade mnie – Mógłbym się przed nim ukryć – Ale ty, człowiek równy mnie, Powiernik mój i przyjaciel, Z którym mieliśmy wspólne słodkie tajemnice, Do domu Bożego chodziliśmy w tłumie. [...]",
+        "Podniósł rękę na przyjaciół swoich, Pohańbił przymierze swoje. Gładsze niż masło są usta jego, Ale wrogość jest w sercu jego; Miększe niż oliwa są słowa jego. Ale to miecze obnażone."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dawid mówi, że wroga by zniósł, a przed przeciwnikiem by się ukrył. **Dlaczego rana od przyjaciela jest inna? Co dokładnie zostaje zniszczone, czego wróg nie mógłby dotknąć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wypiszcie, co łączyło tych dwóch ludzi: powiernik, wspólne tajemnice, dom Boży. **Co dzieje się z dobrymi wspomnieniami, kiedy okazuje się, kim był ten drugi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ten tekst jest modlitwą i był śpiewany w świątyni. **Co to mówi o tym, z czym wolno przyjść do Boga?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W połowie zdania psalm przestaje mówić o zdrajcy i zaczyna mówić do niego: „ale ty\". To jedyne takie miejsce w całej pieśni. Dawid nie podaje imienia i nie opisuje, co się stało. Dzięki temu w puste miejsce każdy może wstawić własną historię. Zwróćcie uwagę na szczegół: ci dwaj chodzili razem do domu Bożego. Biblia wie, że zdrada zdarza się także między ludźmi, którzy razem się modlili.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jezus zna to od środka",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 41,10",
+       "przeklad": "BW",
+       "akapity": [
+        "Nawet przyjaciel mój, któremu zaufałem, Który jadł mój chleb, Podniósł piętę przeciwko mnie."
+       ]
+      },
+      {
+       "odnosnik": "J 13,21-22",
+       "przeklad": "BW",
+       "akapity": [
+        "Po tych słowach Jezus, wstrząśnięty do głębi, oświadczył, mówiąc: Zaprawdę, zaprawdę, powiadam wam: jeden z was mnie wyda. Wtedy uczniowie spojrzeli po sobie w niepewności, o kim mówi."
+       ]
+      },
+      {
+       "odnosnik": "Mt 26,47-50",
+       "przeklad": "BW",
+       "akapity": [
+        "I gdy On jeszcze mówił, oto nadszedł Judasz, jeden z dwunastu, a wraz z nim liczny tłum z mieczami i z kijami, od arcykapłanów i od starszych ludu. A ten, który go wydał, dał im znak, mówiąc: Ten, którego pocałuję, jest nim, bierzcie go. I zaraz przystąpił do Jezusa, i rzekł: Bądź pozdrowiony, Mistrzu! I pocałował go. A Jezus rzekł do niego: Przyjacielu, po co przychodzisz? Wtedy podeszli bliżej, rzucili się na Jezusa i pochwycili go."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "W tamtym świecie wspólny posiłek wiązał ludzi zobowiązaniem. Zdrada kogoś, z kim jadło się chleb, ważyła więcej niż zwykła zdrada. Jezus przy stole cytuje właśnie Ps 41,10.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jan pisze, że Jezus był „wstrząśnięty do głębi\". Wiedział o zdradzie wcześniej, a mimo to go poruszyła. **Co to zmienia dla kogoś, kto modli się po własnej zdradzie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Znakiem zdrady jest pocałunek, a odpowiedzią Jezusa słowo „Przyjacielu\". **Jak słyszycie to słowo: jako ironię, jako ból, jako ostatnie zaproszenie?** Co w tekście przemawia za każdą z tych możliwości?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czy wolno się tak modlić",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ten sam psalm zawiera dwa zdania, których nie czyta się na nabożeństwach.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 55,16",
+       "przeklad": "BW",
+       "akapity": [
+        "Niech ich śmierć zaskoczy, Niech żywcem zstąpią do krainy umarłych, Bo złość jest w ich siedzibie i pomiędzy nimi."
+       ]
+      },
+      {
+       "odnosnik": "Ps 55,24",
+       "przeklad": "BW",
+       "akapity": [
+        "Ty, Boże, strącisz ich w dół zagłady; Ludzie krwawi i zdradliwi nie dożyją połowy dni swoich. Lecz ja tobie ufam."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Są dwa sposoby czytania takich modlitw. Pierwszy mówi: to uczciwość. Dawid nie udaje przed Bogiem łagodności, której nie ma, i całą swoją chęć odwetu wypowiada w modlitwie, zamiast ją wykonać. Drugi mówi: to modlitwa sprzed krzyża, a uczeń Jezusa ma przed oczami Tego, który modlił się za oprawców, więc nie może na niej poprzestać. Oba stanowiska łączy jedno: w żadnym z nich zdradzony nie bierze zemsty we własne ręce. Sąd zostaje u Boga.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co jest bezpieczniejsze dla zdradzonego i dla jego otoczenia: gniew wypowiedziany Bogu w takich słowach czy gniew, którego nigdzie nie wolno wypowiedzieć?** Gdzie widzicie granicę takiej modlitwy?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Skrzydła i brzemię",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 55,5-9.17-18.23",
+       "przeklad": "BW",
+       "akapity": [
+        "Serce drży we mnie, Opadł mnie lęk przed śmiercią, Bojaźń i drżenie nachodzi mnie I groza mnie ogarnia. Rzekłem: O, gdybym miał skrzydła jak gołębica, Chętnie uleciałbym i odpoczął. Oto uleciałbym daleko, Zamieszkałbym na pustyni. Sela. Szybko poszukałbym sobie schronienia Przed wichrem gwałtownym i przed burzą. [...]",
+        "Ja do Boga wołam, A Pan mnie wybawi. Wieczorem, rano i w południe narzekać będę i jęczeć, I wysłucha głosu mojego. [...]",
+        "Zrzuć na Pana brzemię swoje, A On cię podtrzyma! On nie dopuści, By na zawsze zachwiał się sprawiedliwy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Pierwszym odruchem Dawida jest ucieczka: skrzydła, pustynia, byle daleko od ludzi. Potem robi coś innego. **Prześledźcie w tekście, co robi zamiast ucieczki i jak często.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Psalm nie mówi „zapomnij\" ani „weź się w garść\". Mówi „zrzuć\". **Czym różni się zrzucenie ciężaru na kogoś od udawania, że ciężaru nie ma?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "„Wieczorem, rano i w południe\" to zwykłe pory modlitwy, wymienione od wieczora, bo wtedy zaczynał się dzień. Dawid nie załatwia sprawy jedną modlitwą. Wraca z tym samym narzekaniem trzy razy na dobę i nazywa to po imieniu: narzekać i jęczeć. Psalm nie obiecuje, że ciężar zniknie. Obiecuje, że Bóg podtrzyma tego, kto go niesie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajski wyraz oddany jako „brzemię\" występuje w całym Starym Testamencie tylko w tym jednym wersecie. Znaczy mniej więcej „to, co ci przypadło\", „to, co na ciebie zrzucono\". Grecki przekład Starego Testamentu oddał go słowem `merimna`, czyli troska, zmartwienie. Tym samym słowem posłużył się potem ktoś, kto zdradę znał z własnego doświadczenia, tylko od drugiej strony.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1P 5,7",
+       "przeklad": "BW",
+       "akapity": [
+        "Wszelką troskę swoją złóżcie na niego, gdyż On ma o was staranie."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr, który sam zawiódł przyjaciela, sięga po zdanie z psalmu człowieka zawiedzionego przez przyjaciela. **Co to mówi o tym, kto może się tym psalmem modlić?** Czy troska tego, kto zranił, też jest brzemieniem, które można zrzucić na Pana?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Nie znam go",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Teraz druga strona. Patrzymy na człowieka, który zawiódł.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 22,31-34.54-62",
+       "przeklad": "BW",
+       "akapity": [
+        "Szymonie, Szymonie, oto szatan wyprosił sobie, aby was przesiać jak pszenicę. Ja zaś prosiłem za tobą, aby nie ustała wiara twoja, a ty, gdy się kiedyś nawrócisz, utwierdzaj braci swoich. On zaś rzekł do niego: Panie, z tobą gotów jestem iść i do więzienia, i na śmierć. A On rzekł: Powiadam ci, Piotrze, nie zapieje dzisiaj kur, a ty się trzykroć zaprzesz, że mnie znasz. [...]",
+        "Pojmawszy go tedy, zawiedli go i wprowadzili do pałacu arcykapłana. Piotr zaś szedł za nim z daleka. A gdy rozpalili ognisko na środku podwórza i usiedli wokoło, usiadł i Piotr wśród nich. Gdy zaś pewna służąca zobaczyła go siedzącego w blasku ognia, przyjrzawszy mu się, rzekła: I ten był z nim. On zaś zaparł się, mówiąc: Niewiasto, nie znam go. A niedługo potem ktoś inny, zobaczywszy go, rzekł: I ty jesteś z nich. A Piotr rzekł: Człowieku, nie jestem. A po upływie mniej więcej jednej godziny ktoś inny zapewniał, mówiąc: Doprawdy, i ten był z nim, jest przecież Galilejczykiem. Piotr zaś odrzekł: Człowieku, nie wiem, co mówisz. I w tej chwili, gdy on jeszcze mówił, zapiał kur. A Pan, obróciwszy się, spojrzał na Piotra; i przypomniał sobie Piotr słowo Pana, jak do niego rzekł: Zanim kur dziś zapieje, trzykroć się mnie zaprzesz. I wyszedłszy na zewnątrz, gorzko zapłakał."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Piotr nie kłamał, kiedy obiecywał iść na śmierć. Kilka godzin wcześniej wyciągnął miecz przeciw uzbrojonemu oddziałowi. **Jak to możliwe, że ten sam człowiek przegrywa z pytaniem służącej?** Na co był gotowy, a na co nie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W jednym zdaniu Jezus zapowiada upadek i mówi „gdy się kiedyś nawrócisz\". **Co znaczy dla Piotra, że usłyszał o swoim powrocie, zanim jeszcze upadł?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Między pierwszym a trzecim zaparciem mija ponad godzina. **Co mogło się dziać w Piotrze przez ten czas i dlaczego nie wstał od ogniska?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Łukasz jako jedyny zapisał, że Pan się obrócił i spojrzał. Tekst nie mówi, jakie to było spojrzenie. **Co Piotr mógł w nim zobaczyć, skoro wyszedł i zapłakał, a nie uciekł w złości?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Wszystkie cztery Ewangelie opowiadają tę scenę i wszystkie zachowują to samo: ognisko, służącą, trzy pytania, koguta. Pierwszy Kościół nie ukrył największej kompromitacji swojego przywódcy. Była kwietniowa, zimna noc i dlatego na dziedzińcu palono ogień. Piotr usiadł między ludźmi, którzy przed chwilą aresztowali Jezusa, i chciał wyglądać na jednego z nich. Zaparcie zaczęło się, zanim ktokolwiek o cokolwiek zapytał.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dwóch ludzi tej samej nocy",
+   "elementy": [
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "ten fragment mówi o samobójstwie. Jeśli wiesz, że dla kogoś przy stole to temat osobisty, pomiń ten blok.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 27,3-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Judasz, który go zdradził, widząc, że został skazany, żałował tego, zwrócił trzydzieści srebrników arcykapłanom oraz starszym i rzekł: Zgrzeszyłem, gdyż wydałem krew niewinną. A oni rzekli: Cóż nam do tego? Ty patrz swego. Wtedy rzucił srebrniki do świątyni, oddalił się, poszedł i powiesił się."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Judasz żałuje, wyznaje winę i oddaje pieniądze. **Do kogo idzie ze swoją winą i co od nich słyszy?** Porównajcie to z tym, do kogo za kilka dni pójdzie Piotr.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Obaj zawiedli tej samej nocy i obaj gorzko tego żałowali. **Co według tych tekstów różni ich drogi: wielkość winy czy coś innego?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W zdaniu „szatan wyprosił sobie, aby was przesiać\" greckie „was\" stoi w liczbie mnogiej i dotyczy wszystkich uczniów. W zdaniu „prosiłem za tobą\" stoi liczba pojedyncza. Próba przychodzi na całą grupę, a modlitwa Jezusa ma imię. Czasownik oddany jako „nawrócisz się\" znaczy dosłownie „zawrócisz\". Jezus nie mówi „jeśli\", mówi „gdy\".",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus modli się imiennie za tego ucznia, który zawiedzie najgłośniej, i nie prosi o to, żeby Piotr nie upadł. Prosi, żeby nie ustała jego wiara. **Czym różni się upadek od ustania wiary?** Jak ta różnica wygląda w życiu?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Drugie ognisko",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Po zmartwychwstaniu uczniowie wracają do Galilei. Piotr idzie łowić ryby, łowi całą noc i nic. O świcie ktoś woła z brzegu.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 21,9.12-13.15-19",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy wyszli na ląd, ujrzeli rozniecone ognisko i rybę położoną na nim, i chleb. [...] Rzekł im Jezus: Pójdźcie i spożywajcie. A żaden z uczniów nie śmiał go pytać: Kto Ty jesteś? Bo wiedzieli, że to Pan. A Jezus zbliżył się, wziął chleb i dał im, podobnie i rybę. [...]",
+        "Gdy więc spożyli śniadanie, rzekł Jezus do Szymona Piotra: Szymonie, synu Jana, miłujesz mnie więcej niż ci? Rzekł mu: Tak, Panie! Ty wiesz, że cię miłuję. Rzecze mu: Paś owieczki moje. Rzecze mu znowu po raz drugi: Szymonie, synu Jana, miłujesz mnie? Rzecze mu: Tak, Panie! Ty wiesz, że cię miłuję. Rzekł mu: Paś owieczki moje. Rzecze mu po raz trzeci: Szymonie, synu Jana, miłujesz mnie? Zasmucił się Piotr, że mu po raz trzeci powiedział: Miłujesz mnie? I odpowiedział mu: Panie! Ty wszystko wiesz, Ty wiesz, że cię miłuję. Rzecze mu Jezus: Paś owieczki moje. Zaprawdę, zaprawdę, powiadam ci: Gdy byłeś młodszy, sam się przepasywałeś i chodziłeś, dokąd chciałeś; lecz gdy się zestarzejesz, wyciągniesz ręce swoje, a kto inny cię przepasze i poprowadzi, dokąd nie chcesz. A to powiedział, dając znać, jaką śmiercią uwielbi Boga. I powiedziawszy to, rzekł do niego: Pójdź za mną."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Najpierw jest ognisko, chleb i ryba, a rozmowa dopiero po śniadaniu. **Co mówi ta kolejność o tym, jak Jezus podchodzi do człowieka, który Go zawiódł?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Czego w tej rozmowie nie ma?** Wypiszcie wszystko, czego moglibyście się spodziewać po kimś zdradzonym, a czego Jezus nie mówi.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Trzy pytania po trzech zaparciach. Trzecie pytanie Piotra zabolało. **Dlaczego Jezus nie oszczędził mu tego bólu? Czym różni się ból, który leczy, od bólu zadanego po to, żeby się odegrać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Na dziedzińcu Piotr zapewniał o sobie. Teraz mówi: „Ty wszystko wiesz\". **Co się zmieniło w jego sposobie mówienia o własnej miłości?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jezus przebaczył Piotrowi wcześniej. Tu dzieje się coś innego: Piotr zaparł się publicznie, więc przy świadkach dostaje z powrotem zadanie. Przebaczenie i przywrócenie do służby to w tej historii dwie osobne rzeczy. Warto też zobaczyć, kto przeszedł tę drogę. Inicjatywa wychodzi od zdradzonego i tylko od niego. Nikt z uczniów nie mówi Jezusowi, że powinien już Piotrowi zaufać. A ostatnie słowa rozmowy są te same co na początku ich znajomości: pójdź za mną.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jak Piotr mówi o Judaszu",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kilka tygodni później Piotr po raz pierwszy przemawia do zgromadzonych uczniów. Musi powiedzieć coś o Judaszu.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 1,15-17",
+       "przeklad": "BW",
+       "akapity": [
+        "A w owych dniach stanął Piotr wśród braci – a było tam zebrane grono około stu dwudziestu osób – i rzekł: Mężowie bracia! Musiało się wypełnić Pismo, w którym Duch Święty przepowiedział przez usta Dawida o Judaszu, który stał się przywódcą tych, co pojmali Jezusa; bo został on zaliczony do naszego grona i miał udział w tej służbie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr mówi, co Judasz zrobił, i nie dodaje ani jednego pogardliwego słowa. Przypomina nawet, że „został zaliczony do naszego grona\". **Skąd u Piotra taki ton?** Jak o cudzym upadku mówi ktoś, kto pamięta własny?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Często można usłyszeć, że Jezus pyta Piotra o miłość wyższą, greckie `agapaō`, a Piotr odpowiada skromniejszym `phileō`, i że w tym tkwi sedno sceny. To efektowne, ale tekst tego nie dźwiga. Jan używa obu czasowników zamiennie w całej Ewangelii: oba opisują miłość Ojca do Syna i oba miłość Jezusa do Łazarza. Sam Jan podaje, dlaczego Piotr się zasmucił: bo Jezus zapytał po raz trzeci.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Mocniejszy jest inny szczegół. Ognisko z tej sceny to po grecku `anthrakia`, żar z węgla drzewnego. W całym Nowym Testamencie słowo pada dwa razy, oba u Jana.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 18,18",
+       "przeklad": "BW",
+       "akapity": [
+        "A czeladź i służba stali przy roznieconym ognisku i grzali się, bo było zimno; a stał też z nimi Piotr i grzał się."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus rozpala nad jeziorem takie samo ognisko jak to, przy którym Piotr się Go zaparł. **Po co prowadzić człowieka z powrotem w miejsce, zapach i obraz jego upadku?** Co by stracił Piotr, gdyby ta rozmowa odbyła się gdziekolwiek indziej?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Kto został",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Paweł pisze z więzienia, pod koniec życia, po swoim pierwszym przesłuchaniu przed sądem.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Tm 4,9-13.16-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Staraj się przyjść do mnie rychło; albowiem Demas mnie opuścił, umiłowawszy świat doczesny, i odszedł do Tesaloniki, Krescent do Galacji, Tytus do Dalmacji; tylko Łukasz jest ze mną. Weź Marka i przyprowadź z sobą, bo mi jest bardzo potrzebny do posługiwania. A Tychikusa posłałem do Efezu. Płaszcz, który zostawiłem w Troadzie u Karposa, przynieś, gdy przyjdziesz, i księgi, zwłaszcza pergaminy. [...]",
+        "W pierwszej obronie mojej nikogo przy mnie nie było, wszyscy mnie opuścili: niech im to nie będzie policzone; ale Pan stał przy mnie i dodał mi sił, aby przeze mnie dopełnione było zwiastowanie ewangelii, i aby je słyszeli wszyscy poganie; i zostałem wyrwany z paszczy lwiej. Wyrwie mnie Pan ze wszystkiego złego i zachowa dla królestwa swego niebieskiego; jemu niech będzie chwała na wieki wieków. Amen."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Wszyscy mnie opuścili\". To nie byli wrogowie, to byli współpracownicy i bracia. **Co Paweł robi z tym zawodem w jednym zdaniu i czego w tym zdaniu nie ma?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Opuszczony Paweł nie zamyka się przed ludźmi. Prosi: przyjdź, przyprowadź Marka, przynieś płaszcz. **Co to mówi o tym, jak żyć po zawodzie? Co jest trudniejsze: przestać ufać komukolwiek czy poprosić znowu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Marek to ten sam człowiek, który lata wcześniej porzucił Pawła w połowie podróży, a Paweł nie chciał go potem zabrać w następną. **Co musiało się wydarzyć, żeby Paweł napisał o nim „jest mi bardzo potrzebny\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W tym krótkim fragmencie stoją obok siebie trzy rodzaje ludzi. Demas odszedł i nie wrócił. Marek kiedyś zawiódł i po latach został odzyskany. Łukasz po prostu został. Paweł nie udaje, że wszyscy są tacy sami, i nikogo nie przekreśla na zawsze. Zdanie „Pan stał przy mnie\" nie zastępuje mu ludzi. Pozwala mu nadal ich potrzebować.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Gdy rani pasterz",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Bywa, że krzywdę wyrządza ktoś, kto miał prowadzić do Boga. Biblia ma na to osobny, bardzo ostry tekst.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ez 34,2-6.11-12.15-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Synu człowieczy, prorokuj przeciwko pasterzom Izraela, prorokuj i powiedz im: Pasterze! Tak mówi Wszechmocny Pan: Biada pasterzom Izraela, którzy sami siebie paśli! Czy pasterze nie powinni raczej paść trzody? Mleko wy zjadacie, w wełnę wy się ubieracie, tuczne zarzynacie, lecz owiec nie pasiecie. Słabej nie wzmacnialiście, chorej nie leczyliście, skaleczonej nie opatrywaliście, zbłąkanej nie sprowadzaliście z powrotem, zagubionej nie szukaliście, a nawet silną rządziliście gwałtem i surowo. Tak rozproszyły się moje owce, gdyż nie było pasterza i były żerem dla wszelkiego zwierzęcia polnego. Rozproszyły się i błąkały się moje owce po wszystkich górach i po wszystkich wysokich pagórkach; po całym kraju rozproszyły się moje owce, a nie było nikogo, kto by się o nie zatroszczył lub ich szukał. [...]",
+        "Gdyż tak mówi Wszechmocny Pan: Oto Ja sam zatroszczę się o moje owce i będę ich doglądał. Jak pasterz troszczy się o swoją trzodę, gdy jest pośród swoich rozproszonych owiec, tak Ja zatroszczę się o moje owce i wyratuję je z wszystkich miejsc, dokąd zostały rozproszone w dniu chmurnym i mrocznym. [...] Ja sam będę pasł moje owce i Ja sam ułożę je na ich legowisku – mówi Wszechmocny Pan. Będę szukał zaginionych, rozproszone sprowadzę z powrotem, zranione opatrzę, chore wzmocnię, tłustych i mocnych będę strzegł, i będę pasł sprawiedliwie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Po czyjej stronie staje Bóg w tym tekście?** Kogo obwinia o to, że owce się rozproszyły: owce czy pasterzy?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg mówi o rozproszonych owcach „moje\", choć odeszły od stada. **Co to zdanie znaczy dla kogoś, kto odszedł od Kościoła, bo został w nim zraniony?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dawid chciał uciec na pustynię, Piotr wrócił do łowienia ryb, Paweł napisał list z prośbą. **Jaki jest twój pierwszy odruch, kiedy ktoś cię zawiedzie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dzisiejsze teksty pokazały zdradzonego i tego, kto zawiódł. **W którym z nich łatwiej ci się dziś rozpoznać? Co z tego, co przeczytaliśmy, było dla ciebie najtrudniejsze?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest w twoim życiu ognisko, do którego nie chcesz wracać, albo ktoś, kto czeka na twoje pierwsze słowo?** Nie musisz mówić, o kogo chodzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus nie tylko przebaczył Piotrowi, ale oddał mu owce. **Czy każdemu, kto zawiódł i żałuje, należy się powrót na to samo miejsce: do małżeństwa, do przyjaźni, do funkcji w Kościele? Po czym zdradzony ma poznać, że można zaufać znowu, i czy wolno mu nigdy nie zaufać?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie rozstrzygaj. Warto natomiast, żeby padły trzy obserwacje z tekstu. O przywróceniu zdecydował zdradzony, nie winny i nie świadkowie. Piotr nie domagał się niczego i nie powoływał na swoje łzy. Piotr zawiódł ze strachu i skrzywdził silniejszego od siebie. Kto wykorzystał władzę nad słabszym, ten jest w innej sytuacji i tej historii nie można używać jako argumentu za jego powrotem do funkcji.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg wysłuchuje skargi zdradzonego do końca, a temu, kto zawiódł, rozpala ognisko. Ani jednego, ani drugiego nie pogania.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Ps 55,23 albo Łk 22,32.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jeśli nosisz ranę po kimś bliskim: psalm mówi „zrzuć na Pana brzemię swoje\". Zapytaj siebie, **czy to brzemię naprawdę oddajesz, czy tylko opowiadasz o nim Bogu i zabierasz je z powrotem.** Nie musisz dziś niczego rozstrzygać w sprawie tego człowieka. Wystarczy, że powiesz Bogu prawdę o tym, jak bardzo boli.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jeśli to ty kogoś zawiodłeś: Piotr usłyszał o swoim powrocie, zanim upadł. Zostań z pytaniem, **czy wierzysz, że Jezus wiedział o tobie wszystko, kiedy cię wołał, i czy nadal mówi do ciebie „pójdź za mną\".**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** zapytaj Boga, czy jest ktoś, kto zawiódł się na tobie, a ty nawet tego nie zauważyłeś. Nie szukaj na siłę. Jeśli przyjdzie ci do głowy konkretna twarz, nie odsuwaj jej.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś jest w świeżym kryzysie: właśnie dowiedział się o zdradzie albo właśnie ją wyznał.** To spotkanie nie jest dla niego lekcją, tylko może być miejscem, gdzie nie jest sam. Nie każ mu odpowiadać na pytania. Grupa słucha i towarzyszy. Nie doradza, czy zostać w małżeństwie, czy odejść, i nie wypowiada się w sprawach prawnych ani majątkowych. Zostań z tą osobą po spotkaniu i zaproponuj rozmowę z kimś przygotowanym: duszpasterzem, psychologiem, poradnią rodzinną. Jeśli mówi o myślach samobójczych albo widzisz, że sobie nie radzi, nie zostawaj z tym sam. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Przy stole siedzą oboje małżonkowie, a zdrada jest między nimi.** Nie pozwól, żeby spotkanie stało się rozprawą. Żadnych pytań kierowanych do nich wprost. Jeśli jedno zacznie mówić o drugim, przerwij łagodnie: „To za ważne, żeby to załatwiać przy wszystkich. Porozmawiajmy po spotkaniu\". Blok 4 czytaj bez sugestii, kto w tej parze jest Piotrem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada o krzywdzie ze strony pastora, starszego zboru albo całej wspólnoty.** Uwierz i podziękuj za zaufanie. Nie tłumacz drugiej strony, nie mów „na pewno nie chciał\", nie broń dobrego imienia Kościoła. Przeczytaj Ez 34 z poziomu 2, nawet jeśli prowadzisz poziom 1: Bóg staje tam po stronie owiec. Jeśli w grę wchodzi przestępstwo, zwłaszcza wobec dziecka albo osoby zależnej, to nie jest sprawa do załatwienia wewnątrz zboru. Zgłasza się ją organom ścigania, a osobie skrzywdzonej pomaga się znaleźć pomoc specjalistyczną.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa naciska: „musisz przebaczyć\", „już czas to zostawić\", „Jezus przebaczył Piotrowi\".** Przerwij. Możesz powiedzieć: „Dawid wracał z tym samym trzy razy dziennie i Bóg go nie poganiał. My też nie będziemy\". O przebaczeniu jest osobne spotkanie. Przypomnij, że w J 21 o wszystkim zdecydował zdradzony i nikt Mu nie wyznaczał terminu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja już nikomu nie ufam i dobrze mi z tym.\"** Nie przekonuj. Zapytaj, co w liście Pawła zwraca uwagę tej osoby: człowiek opuszczony przez wszystkich prosi o płaszcz i o Marka. Zostaw to bez komentarza.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna wyznawać przy stole własną zdradę ze szczegółami.** Zatrzymaj go z szacunkiem: „Dziękuję, że to mówisz. Dokończmy po spotkaniu, w cztery oczy\". Publiczne wyznanie potrafi zranić osoby trzecie, których przy stole nie ma.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Blok o Judaszu wywołuje pytanie, czy samobójca jest potępiony.** Nie wchodź w to dzisiaj i nie wydawaj wyroków. Powiedz, że tekst opisuje, dokąd Judasz poszedł ze swoją winą, a osąd należy do Boga, który zna całego człowieka. Jeśli pytanie jest osobiste, porozmawiaj po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 2 i blok 5. Bloki 1, 3 i 4 niosą całe spotkanie: głos zdradzonego, upadek i drugie ognisko.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś jest w świeżym kryzysie: właśnie dowiedział się o zdradzie albo właśnie ją wyznał.",
+     "odpowiedz": "To spotkanie nie jest dla niego lekcją, tylko może być miejscem, gdzie nie jest sam. Nie każ mu odpowiadać na pytania. Grupa słucha i towarzyszy. Nie doradza, czy zostać w małżeństwie, czy odejść, i nie wypowiada się w sprawach prawnych ani majątkowych. Zostań z tą osobą po spotkaniu i zaproponuj rozmowę z kimś przygotowanym: duszpasterzem, psychologiem, poradnią rodzinną. Jeśli mówi o myślach samobójczych albo widzisz, że sobie nie radzi, nie zostawaj z tym sam. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, numer alarmowy 112."
+    },
+    {
+     "sytuacja": "Przy stole siedzą oboje małżonkowie, a zdrada jest między nimi.",
+     "odpowiedz": "Nie pozwól, żeby spotkanie stało się rozprawą. Żadnych pytań kierowanych do nich wprost. Jeśli jedno zacznie mówić o drugim, przerwij łagodnie: „To za ważne, żeby to załatwiać przy wszystkich. Porozmawiajmy po spotkaniu\". Blok 4 czytaj bez sugestii, kto w tej parze jest Piotrem."
+    },
+    {
+     "sytuacja": "Ktoś opowiada o krzywdzie ze strony pastora, starszego zboru albo całej wspólnoty.",
+     "odpowiedz": "Uwierz i podziękuj za zaufanie. Nie tłumacz drugiej strony, nie mów „na pewno nie chciał\", nie broń dobrego imienia Kościoła. Przeczytaj Ez 34 z poziomu 2, nawet jeśli prowadzisz poziom 1: Bóg staje tam po stronie owiec. Jeśli w grę wchodzi przestępstwo, zwłaszcza wobec dziecka albo osoby zależnej, to nie jest sprawa do załatwienia wewnątrz zboru. Zgłasza się ją organom ścigania, a osobie skrzywdzonej pomaga się znaleźć pomoc specjalistyczną."
+    },
+    {
+     "sytuacja": "Grupa naciska: „musisz przebaczyć\", „już czas to zostawić\", „Jezus przebaczył Piotrowi\".",
+     "odpowiedz": "Przerwij. Możesz powiedzieć: „Dawid wracał z tym samym trzy razy dziennie i Bóg go nie poganiał. My też nie będziemy\". O przebaczeniu jest osobne spotkanie. Przypomnij, że w J 21 o wszystkim zdecydował zdradzony i nikt Mu nie wyznaczał terminu."
+    },
+    {
+     "sytuacja": "„Ja już nikomu nie ufam i dobrze mi z tym.\"",
+     "odpowiedz": "Nie przekonuj. Zapytaj, co w liście Pawła zwraca uwagę tej osoby: człowiek opuszczony przez wszystkich prosi o płaszcz i o Marka. Zostaw to bez komentarza."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna wyznawać przy stole własną zdradę ze szczegółami.",
+     "odpowiedz": "Zatrzymaj go z szacunkiem: „Dziękuję, że to mówisz. Dokończmy po spotkaniu, w cztery oczy\". Publiczne wyznanie potrafi zranić osoby trzecie, których przy stole nie ma."
+    },
+    {
+     "sytuacja": "Blok o Judaszu wywołuje pytanie, czy samobójca jest potępiony.",
+     "odpowiedz": "Nie wchodź w to dzisiaj i nie wydawaj wyroków. Powiedz, że tekst opisuje, dokąd Judasz poszedł ze swoją winą, a osąd należy do Boga, który zna całego człowieka. Jeśli pytanie jest osobiste, porozmawiaj po spotkaniu."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 2 i blok 5. Bloki 1, 3 i 4 niosą całe spotkanie: głos zdradzonego, upadek i drugie ognisko."
+    }
+   ]
+  }
+ ]
+}

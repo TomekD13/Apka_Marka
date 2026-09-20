@@ -20,6 +20,7 @@ import { Notes, NoteEdit } from './pages/Notes'
 import { Prayers } from './pages/Prayers'
 import { Pray40, Pray40DayPage } from './pages/Pray40'
 import { Edu, EduItemPage } from './pages/Edu'
+import { Groups, GroupItemPage } from './pages/Groups'
 import { Account } from './pages/Account'
 import { BibleBookmarksPage, BibleChapterPage, BiblePage } from './pages/Bible'
 import { BibleSearchPage } from './pages/BibleSearch'
@@ -91,6 +92,8 @@ export const router = createBrowserRouter(
         { path: '40-dni/:day', element: <Pray40DayPage /> },
         { path: 'edukacja', element: <Edu /> },
         { path: 'edukacja/:nr', element: <EduItemPage /> },
+        { path: 'grupy-nadziei', element: <Groups /> },
+        { path: 'grupy-nadziei/:id', element: <GroupItemPage /> },
         { path: 'poznaj-boga-i-biblie', element: <BibleStudies /> },
         { path: 'lekcje-biblijne', element: <BibleLessons /> },
         { path: 'jest-nadzieja', element: <Hope /> },

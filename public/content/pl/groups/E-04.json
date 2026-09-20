@@ -1,0 +1,587 @@
+{
+ "tytul": "Smutek",
+ "id": "E-04",
+ "seria": "Emocje",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "J 11,32-36; Ps 42,4-6.12; Hi 2,11-13; 1Tes 4,13-14; Ap 21,3-4",
+  "p2": "Lm 3,19-24; 2Kor 1,3-4; Koh 7,2-4",
+  "p3": "2Kor 7,10"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 22,
+  "p3": 24
+ },
+ "tagi": [
+  "emocje",
+  "żałoba",
+  "strata",
+  "pocieszenie",
+  "nadzieja"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg nie skraca żałoby. Siada w niej obok.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie nie jest o tym, jak przestać być smutnym. Jest o tym, że Biblia robi smutkowi miejsce i nie każe go skracać. Cały materiał idzie pod prąd odruchowi, który każe pocieszać zbyt szybko.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole może być świeżo po stracie. Może się rozpłakać. To nie jest awaria spotkania, tylko jego treść. Nie ratuj sytuacji żartem ani zmianą tematu.",
+      "Zdania w rodzaju „Bóg tak chciał\" albo „wszystko dzieje się po coś\" potrafią zranić bardziej niż milczenie. Jeśli padną, nie zostawiaj ich bez odpowiedzi.",
+      "Depresja to nie to samo co smutek. Jeśli ktoś o niej mówi, nie traktuj tego jak problemu duchowego."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pocieszaj na siłę i nie spiesz się do bloku piątego. Nie każ nikomu opowiadać swojej straty. Nie przechodź do nadziei, zanim grupa nie posiedzi w tekstach o żalu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Kiedy komuś bliskiemu jest smutno, co robisz odruchowo: milczysz obok, mówisz coś pocieszającego, zmieniasz temat, próbujesz rozwiązać problem? Jedno słowo.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i szczerze, także jeśli twoja odpowiedź nie jest ta ładna.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Jezus zapłakał",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 11,32-36",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz gdy Maria przyszła tam, gdzie był Jezus i ujrzała go, padła mu do nóg, mówiąc do niego: Panie, gdybyś tu był, nie byłby umarł mój brat. Jezus tedy, widząc ją płaczącą i płaczących Żydów, którzy z nią przyszli, rozrzewnił się w duchu i wzruszył się, i rzekł: Gdzie go położyliście? Rzekli do niego: Panie, pójdź i zobacz. I zapłakał Jezus. Rzekli więc Żydzi: Patrz, jak go miłował."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus wie, że za chwilę wskrzesi Łazarza. **Dlaczego mimo to płacze?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Maria mówi „gdybyś tu był, nie byłby umarł\". To jest zarzut. **Jak Jezus na niego odpowiada?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Werset 33 mówi, że rozrzewnił się i wzruszył, gdy zobaczył płaczących. **Co było bezpośrednią przyczyną Jego płaczu: śmierć czy ludzie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To najkrótszy werset Nowego Testamentu i jeden z najtrudniejszych do wytłumaczenia. Jezus płacze nad grobem, który za kilka minut otworzy. Znaczy to, że łzy nie są tu oznaką bezradności ani braku wiary w zmartwychwstanie. Są reakcją na to, że śmierć w ogóle istnieje. Wiara w to, co będzie potem, nie unieważnia bólu tego, co jest teraz. Jezus nie skraca żałoby Marii ani swojej.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Rozmowa z własną duszą",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 42,4-6.12",
+       "przeklad": "BW",
+       "akapity": [
+        "Łzy moje są mi chlebem we dnie i w nocy, Gdy mówią do mnie co dzień: Gdzie jest Bóg twój? Wspominam to z wielkim rozrzewnieniem, Jak chodziłem w tłumie, pielgrzymując do domu Bożego Wśród głosów radości i dziękczynienia tłumu świętującego. Czemu rozpaczasz, duszo moja, I czemu drżysz we mnie? Ufaj Bogu, gdyż jeszcze sławić go będę: On jest zbawieniem moim i Bogiem moim! [...] Czemu rozpaczasz, duszo moja, I czemu drżysz we mnie? Ufaj Bogu, gdyż jeszcze sławić go będę: On jest zbawieniem moim i Bogiem moim!"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Psalmista mówi do samego siebie: czemu rozpaczasz, duszo moja. **Czym to się różni od mówienia o sobie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "To samo zdanie wraca w psalmie jak refren, także na samym końcu. **Co to znaczy, że musi je powtarzać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Werset 5 mówi o wspominaniu dawnej radości. **Czy wspomnienie dobrych czasów tu pomaga, czy boli?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Słowo „jeszcze\" w zdaniu „jeszcze sławić go będę\". **Co ono przyznaje o stanie obecnym?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Około jedna trzecia psalmów to lamenty, czyli skargi. Biblia nie traktuje żalu jako etapu, który trzeba szybko przejść, tylko daje mu własny gatunek literacki i miejsce w księdze modlitw. Psalmista nie zaprzecza swojemu stanowi i nie przekonuje siebie, że jest dobrze. Robi coś innego: mówi do siebie zamiast tylko słuchać siebie. Skarga jest w nim skierowana do Boga, a nie od Boga.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Środek Lamentacji",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Lm 3,19-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Wspominanie własnej niedoli i udręki to piołun i trucizna. Moja dusza bezustannie to wspomina i trapi się we mnie. To biorę sobie do serca i w tym moja nadzieja, niewyczerpane są objawy łaski Pana, miłosierdzie jego nie ustaje. Każdego poranku objawia się na nowo, wielka jest wierność twoja. Pan jest moim działem, mówi dusza moja, dlatego w nim mam nadzieję."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Te wersety stoją w samym środku księgi opłakującej zburzone miasto. **Co autor robi w wersecie 21, czego nie robił w 19 i 20?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Każdego poranku objawia się na nowo\". **Dlaczego akurat poranek, a nie raz na zawsze?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Siedem dni milczenia",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hi 2,11-13",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy trzej przyjaciele Joba usłyszeli o całym nieszczęściu, jakie spadło na niego, przyszli, każdy ze swojej miejscowości: Elifaz z Temanu, Bildad z Szuach i Sofar z Naama. Umówili się pospołu, aby pójść, wyrazić mu współczucie i pocieszyć go. A gdy z daleka spojrzeli na niego, nie poznali go; poczęli głośno płakać i każdy z nich rozdarł swoje szaty, i rzucali proch w górę na swoje głowy. I siedzieli z nim na ziemi siedem dni i siedem nocy, a żaden nie przemówił do niego ani słowa; widzieli bowiem, że jego ból był bardzo wielki."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przyjaciele Hioba robią tu rzecz, za którą się ich zwykle nie chwali, bo pamiętamy dalszy ciąg księgi. **Co dokładnie robią w tych trzech wersetach?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Siedem dni bez jednego słowa. **Dlaczego milczeli i skąd wiedzieli, że tak trzeba?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wszystko, co złego robią później, zaczyna się w chwili, gdy otwierają usta. **Co to mówi o pocieszaniu?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Smutek, który ma nadzieję",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Tes 4,13-14",
+       "przeklad": "BW",
+       "akapity": [
+        "A nie chcemy, bracia, abyście byli w niepewności co do tych, którzy zasnęli, abyście się nie smucili, jak drudzy, którzy nie mają nadziei. Albowiem jak wierzymy, że Jezus umarł i zmartwychwstał, tak też wierzymy, że Bóg przez Jezusa przywiedzie z nim tych, którzy zasnęli."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł nie pisze „nie smućcie się\". Pisze „nie smućcie się jak drudzy, którzy nie mają nadziei\". **Co ta różnica zmienia w praktyce?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł używa słowa „zasnęli\", nie „umarli\". **Co ten obraz mówi o tym, jak długa jest ta rozłąka z perspektywy tego, kto odszedł?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Podstawą pociechy jest u Pawła fakt historyczny, a nie uczucie. **Jaki to fakt i dlaczego akurat on?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Zdanie Pawła jest często cytowane tak, jakby zakazywało smutku chrześcijanom. Ono zakazuje czegoś innego: smucenia się bez nadziei. Żałoba zostaje, zmienia się jej horyzont. Warto zauważyć, czego Paweł nie robi. Nie mówi, że śmierć jest dobra, że zmarły jest teraz szczęśliwszy ani że trzeba przestać płakać. Podaje jedną informację i zostawia ludzi z ich stratą, tyle że w innym świetle.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pocieszenie, które idzie dalej",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Kor 1,3-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Błogosławiony niech będzie Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia i Bóg wszelkiej pociechy, który pociesza nas we wszelkim utrapieniu naszym, abyśmy tych, którzy są w jakimkolwiek utrapieniu, pocieszać mogli taką pociechą, jaką nas samych Bóg pociesza."
+       ]
+      },
+      {
+       "odnosnik": "Koh 7,2-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Lepiej iść do domu żałoby, niż iść do domu biesiady; bo tam widzi się kres wszystkich ludzi, a żyjący powinien brać to sobie do serca. Lepszy jest smutek niż śmiech, bo gdy smutek jest na twarzy, serce staje się lepsze. Serce mądrych jest w domu żałoby, lecz serce głupich w domu wesela."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł pisze, że Bóg pociesza nas, abyśmy mogli pocieszać innych. **Co z tego wynika o tym, kto najlepiej pociesza?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Kohelet twierdzi, że lepiej iść do domu żałoby niż do domu biesiady. **To brzmi ponuro. Jaki ma w tym sens?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Otarta łza",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 21,3-4",
+       "przeklad": "BW",
+       "akapity": [
+        "I usłyszałem donośny głos z tronu mówiący: Oto przybytek Boga między ludźmi! I będzie mieszkał z nimi, a oni będą ludem jego, a sam Bóg będzie z nimi. I otrze wszelką łzę z oczu ich, i śmierci już nie będzie; ani smutku, ani krzyku, ani mozołu już nie będzie; albowiem pierwsze rzeczy przeminęły."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg ociera łzy, a nie sprawia, że nigdy ich nie było. **Co to mówi o tym, jak Bóg traktuje to, co przeżyliśmy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pierwsze zdanie nie mówi o braku śmierci, tylko o tym, że Bóg będzie mieszkał z ludźmi. **Dlaczego to jest wymienione przed listą rzeczy, których nie będzie?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przyjaciele Hioba siedzieli siedem dni w milczeniu. **Kiedy ostatnio byłeś przy kimś smutnym, nie próbując tego naprawić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalmista mówił do własnej duszy. **Co ty mówisz sobie, gdy jest ci ciężko? Powtórz to zdanie w myślach i sprawdź, czy jest prawdziwe.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest strata, której według ciebie nie wolno ci już opłakiwać, bo minęło za dużo czasu?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 3,
+   "tytul": "Dwa rodzaje smutku",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Kor 7,10",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem smutek, który jest według Boga, sprawia upamiętanie ku zbawieniu i nikt go nie żałuje; smutek zaś światowy sprawia śmierć."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł rozdziela smutek według Boga i smutek światowy. **Po czym poznać, który jest który? Po treści czy po skutku?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy każdy smutek musi do czegoś prowadzić? Co ze smutkiem, który po prostu jest, bo ktoś umarł?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "uważaj, żeby ten blok nie zamienił się w sortowanie cudzych smutków na dobre i złe. Paweł pisze tu o żalu za grzech, nie o żałobie.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg nie skraca żałoby. Siada w niej obok.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** J 11,35 albo Ap 21,4.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o stracie, o której już nie mówisz, bo wydaje ci się, że wypadało przestać. **Zapytaj siebie, czy naprawdę ją opłakałeś, czy tylko przestałeś o niej mówić.** To nie to samo.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jest ktoś w twoim otoczeniu, kto właśnie stracił kogoś albo coś. **Zapytaj Boga, czy potrzebuje twoich słów, czy twojej obecności bez słów.** Odpowiedź częściej brzmi: to drugie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli nosisz w sobie zarzut do Boga, jak Maria przy grobie, powiedz Mu go wprost. Ona nie została za to skarcona.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś płacze.** Nie ratuj sytuacji. Nie podawaj chusteczki jak sygnału, że pora przestać. Zostaw ciszę, poczekaj, potem cicho zapytaj, czy chce, żebyście szli dalej. To jest dokładnie to, o czym był blok trzeci.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Bóg tak chciał\" albo „wszystko dzieje się po coś\".** Nie zostawiaj tego bez odpowiedzi, bo takie zdania ranią. Możesz powiedzieć: „Jezus przy grobie nie powiedział Marii żadnego z tych zdań. Zapłakał.\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o depresji albo o myślach samobójczych.** Nie diagnozuj i nie interpretuj tego duchowo. Potraktuj poważnie, podziękuj za zaufanie i koniecznie porozmawiaj po spotkaniu na osobności. Jeśli słyszysz o myślach samobójczych, nie zostawiaj tego bez dalszego kroku.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa chce szybko przejść do bloku piątego.** To odruch. Przytrzymaj ich w blokach drugim i trzecim. Nadzieja, do której dochodzi się za szybko, nie unosi ciężaru.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Chrześcijanin powinien się zawsze radować.\"** Odpowiedź jest w tekście: Paweł, który to napisał, napisał też, żeby płakać z płaczącymi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada swoją stratę bardzo długo.** Wysłuchaj. To rzadko jest przeszkoda, częściej sedno. Jeśli spotkanie się rozsypie, trudno. Materiał zostanie na następny raz.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś płacze.",
+     "odpowiedz": "Nie ratuj sytuacji. Nie podawaj chusteczki jak sygnału, że pora przestać. Zostaw ciszę, poczekaj, potem cicho zapytaj, czy chce, żebyście szli dalej. To jest dokładnie to, o czym był blok trzeci."
+    },
+    {
+     "sytuacja": "„Bóg tak chciał\" albo „wszystko dzieje się po coś\".",
+     "odpowiedz": "Nie zostawiaj tego bez odpowiedzi, bo takie zdania ranią. Możesz powiedzieć: „Jezus przy grobie nie powiedział Marii żadnego z tych zdań. Zapłakał.\""
+    },
+    {
+     "sytuacja": "Ktoś mówi o depresji albo o myślach samobójczych.",
+     "odpowiedz": "Nie diagnozuj i nie interpretuj tego duchowo. Potraktuj poważnie, podziękuj za zaufanie i koniecznie porozmawiaj po spotkaniu na osobności. Jeśli słyszysz o myślach samobójczych, nie zostawiaj tego bez dalszego kroku."
+    },
+    {
+     "sytuacja": "Grupa chce szybko przejść do bloku piątego.",
+     "odpowiedz": "To odruch. Przytrzymaj ich w blokach drugim i trzecim. Nadzieja, do której dochodzi się za szybko, nie unosi ciężaru."
+    },
+    {
+     "sytuacja": "„Chrześcijanin powinien się zawsze radować.\"",
+     "odpowiedz": "Odpowiedź jest w tekście: Paweł, który to napisał, napisał też, żeby płakać z płaczącymi."
+    },
+    {
+     "sytuacja": "Ktoś opowiada swoją stratę bardzo długo.",
+     "odpowiedz": "Wysłuchaj. To rzadko jest przeszkoda, częściej sedno. Jeśli spotkanie się rozsypie, trudno. Materiał zostanie na następny raz."
+    }
+   ]
+  }
+ ]
+}

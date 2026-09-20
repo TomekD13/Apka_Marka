@@ -1,0 +1,816 @@
+{
+ "tytul": "Wiara i wątpliwości",
+ "id": "P-11",
+ "seria": "Pytania, które ludzie zadają",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Mk 9,17-27; Mt 11,2-11; Mt 14,25-33; Mt 28,16-20; Jud 20-23; Mt 12,20",
+  "p2": "Rdz 18,10-15; Iz 35,4-6; 61,1; Ps 77,8-13; Łk 24,36-43; J 20,24-27",
+  "p3": "Mt 14,31; 28,17; Jk 1,5-8; Rdz 15,5-8; Łk 1,18-20.34-35"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 20,
+  "p2": 29,
+  "p3": 33
+ },
+ "tagi": [
+  "wątpliwości",
+  "wiara",
+  "niedowiarstwo",
+  "szczerość",
+  "Jan Chrzciciel",
+  "Piotr"
+ ],
+ "wersja": 1,
+ "zdanie": "Wątpliwość przyniesiona Jezusowi jest już modlitwą.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Wielu ludzi nosi przekonanie, że wątpliwości są wstydliwą chorobą wiary i że prawdziwie wierzący ich nie ma. Ewangelie pokazują coś innego. Wątpią w nich ojciec chorego dziecka, największy z proroków, pierwszy z apostołów i uczniowie patrzący na zmartwychwstałego Jezusa. Żadnego z nich Jezus nie odsyła. To spotkanie nie ma nikogo z wątpliwości wyleczyć. Ma pokazać, dokąd ci ludzie ze swoją niepewnością szli i jak Jezus ich przyjmował.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole może właśnie tracić wiarę i nikomu o tym nie mówił. Dla niego to spotkanie jest sprawdzianem, czy tu wolno być szczerym.",
+      "Ktoś inny uważa wątpienie za grzech i będzie chciał to grupie uświadomić.",
+      "Temat kusi, żeby wejść w spory o dowody. To nie jest spotkanie apologetyczne. W tej serii są osobne materiały o wiarygodności Biblii, o zmartwychwstaniu i o nauce."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pytaj nikogo wprost, w co wątpi. Nie naprawiaj cudzych wątpliwości wersetem. Nie udawaj, że sam żadnych nie masz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie coś, w co jako dziecko wierzyłeś bez zastrzeżeń, a potem zacząłeś o to pytać. Nie musi to być nic religijnego. Wystarczy jedno zdanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Wierzę, pomóż",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jezus schodzi z góry z trzema uczniami. Na dole zastaje tłum, spór i dziewięciu uczniów, którym coś się nie udało.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 9,17-27",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy odpowiedział mu jeden z ludu: Nauczycielu, przyprowadziłem do ciebie syna mego, który ma ducha niemego. A ten, gdziekolwiek go pochwyci, szarpie nim, a on pieni się i zgrzyta zębami i drętwieje; i mówiłem uczniom twoim, aby go wygnali, ale nie mogli. A On im odrzekł, mówiąc: O rodzie bez wiary! Jak długo będę z wami? Dokąd będę was znosił? Przywiedźcie go do mnie! I przywiedli go do niego. A gdy go duch ujrzał, zaraz zaczął nim szarpać, a on upadłszy na ziemię, tarzał się z pianą na ustach. I zapytał ojca jego: Od jak dawna to się z nim dzieje? A on powiedział: Od dzieciństwa. I często go rzucał nawet w ogień i wodę, żeby go zgubić; ale jeżeli coś możesz, zlituj się nad nami i pomóż nam. A Jezus rzekł do niego: Co się tyczy tego: Jeżeli coś możesz, to: Wszystko jest możliwe dla wierzącego. Zaraz zawołał ojciec chłopca: Wierzę, pomóż niedowiarstwu memu. A Jezus, widząc, że tłum się zbiega, zgromił ducha nieczystego i rzekł mu: Duchu niemy i głuchy! Nakazuję ci: Wyjdź z niego i już nigdy do niego nie wracaj. I krzyknął, i szarpnął nim gwałtownie, po czym wyszedł; a chłopiec wyglądał jak martwy, tak iż wielu mówiło, że umarł. A Jezus ujął go za rękę i podniósł go, a on powstał."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ojciec mówi: „jeżeli coś możesz\". **Skąd po takich latach i po takim dniu mogło się wziąć to „jeżeli\"?** Wypiszcie z tekstu wszystko, co na nie pracowało.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Wierzę, pomóż niedowiarstwu memu\". Jedno zdanie, dwie rzeczy naraz. **Czy ojciec sam sobie przeczy? Do kogo idzie ze swoją niewiarą i o co w jej sprawie prosi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus uzdrawia chłopca zaraz po tym wyznaniu. **Czego od ojca najpierw nie zażądał? Co to mówi o tym, ile wiary wystarcza, żeby przyjść?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus i tak zamierza uzdrowić, a mimo to pyta: „Od jak dawna?\". **Po co Mu ta rozmowa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ojciec nie ukrywa przed Jezusem niewiary i nie czeka, aż się jej pozbędzie. Przynosi ją jako drugą prośbę, zaraz obok pierwszej. Ewangelista nie wygładził tego zdania. W Biblii takich miejsc jest więcej: wiara i wahanie mieszkają w tym samym człowieku w tej samej godzinie, zwłaszcza w kryzysie. Pytanie nie brzmi więc, czy mam wątpliwości, tylko dokąd z nimi idę.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Śmiech Sary",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 18,10-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Tedy rzekł: Na pewno wrócę do ciebie za rok o tym samym czasie, a wtedy żona twoja Sara będzie miała syna. Sara zaś podsłuchiwała u wejścia do namiotu, które było za nim. A Abraham i Sara byli starzy, w podeszłym wieku. Ustało zaś już u Sary to, co zwykle bywa u kobiet. Toteż roześmiała się Sara sama do siebie, mówiąc: Teraz, gdy się zestarzałam, mam tej rozkoszy zażywać! I pan mój jest stary! Na to rzekł Pan do Abrahama: Dlaczego to roześmiała się Sara, mówiąc: Czyżbym naprawdę mogła jeszcze rodzić, gdy się zestarzałam? Czy jest cokolwiek niemożliwego dla Pana? W oznaczonym czasie za rok wrócę do ciebie, a Sara będzie miała syna. Wtedy Sara zaparła się, mówiąc: Nie śmiałam się, bo się bała. Ale On rzekł: Nieprawda, śmiałaś się."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Sara nie śmieje się z pychy. Ma za sobą dziesiątki lat czekania, które nauczyły ją nie robić sobie nadziei. **Co długie rozczarowanie robi ze zdolnością do wiary? Czym taki śmiech różni się od kpiny?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg słyszy śmiech, nazywa go po imieniu i obietnicy nie cofa. Syn dostanie imię Izaak, które znaczy „śmieje się\". **Co to mówi o tym, jak Bóg obchodzi się z niedowiarstwem zmęczonych ludzi?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Czy Ty jesteś tym",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 11,2-11",
+       "przeklad": "BW",
+       "akapity": [
+        "A Jan, usłyszawszy w więzieniu o czynach Chrystusa, wysłał uczniów swoich i kazał mu powiedzieć: Czy Ty jesteś tym, który ma przyjść, czy też mamy oczekiwać innego? A Jezus im odpowiedział: Idźcie i oznajmijcie Janowi, co słyszycie i widzicie: Ślepi odzyskują wzrok i chromi chodzą, trędowaci zostają oczyszczeni i głusi słyszą, umarli są wskrzeszani, a ubogim zwiastowana jest ewangelia; a błogosławiony jest ten, kto się mną nie zgorszy. A gdy ci odchodzili, zaczął Jezus mówić do tłumów o Janie: Co wyszliście oglądać na pustyni? Czy trzcinę chwiejącą się od wiatru? Ale co wyszliście oglądać? Czy człowieka w miękkie szaty odzianego? Oto ci, którzy miękkie szaty noszą, w domach królewskich mieszkają. Więc po co wyszliście? Ujrzeć proroka? Owszem, powiadam wam, nawet więcej niż proroka. To jest ten, o którym napisano: Oto Ja posyłam posłańca mego przed tobą, który przygotuje drogę twoją przed tobą. Zaprawdę powiadam wam: Nie powstał z tych, którzy z niewiast się rodzą, większy od Jana Chrzciciela, ale najmniejszy w Królestwie Niebios większy jest niż on."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nie odpowiada Janowi „tak, to Ja\". **Co mu daje zamiast zapewnienia? Dlaczego odsyła go do tego, co można zobaczyć i usłyszeć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Posłańcy jeszcze dobrze nie odeszli, a Jezus mówi o Janie do tłumu. **Co mówi o człowieku, który właśnie zapytał, czy się nie pomylił? Czy pytanie z więzienia zmieniło zdanie Jezusa o Janie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "To Jan ochrzcił Jezusa i wskazał Go ludziom. **Co zmieniło się między Jordanem a celą: fakty o Jezusie czy położenie Jana?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Błogosławiony, kto się mną nie zgorszy\". **Czym Jezus mógł Jana rozczarować?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Lista, którą Jezus podaje, nie jest przypadkowa. Jest utkana ze słów proroka Izajasza o czasach Mesjasza, a Jan znał te teksty. Jezus mówi mu w gruncie rzeczy: połóż obok siebie to, co czytałeś, i to, co widzą twoi uczniowie. Końcowe błogosławieństwo jest bardzo łagodną naganą. Bóg rzadko działa tak, jak się spodziewamy, i Jan właśnie tego doświadcza.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Czego na liście nie ma",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 35,4-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Mówcie do zaniepokojonych w sercu: Bądźcie mocni, nie bójcie się! Oto wasz Bóg! Nadchodzi pomsta, odpłata Boża! Sam on przychodzi i wybawi was! Wtedy otworzą się oczy ślepych, otworzą się też uszy głuchych. Wtedy chromy będzie skakał jak jeleń i radośnie odezwie się język niemych, gdyż wody wytrysną na pustyni i potoki na stepie."
+       ]
+      },
+      {
+       "odnosnik": "Iz 61,1",
+       "przeklad": "BW",
+       "akapity": [
+        "Duch Wszechmocnego, Pana nade mną, gdyż Pan namaścił mnie, abym zwiastował ubogim dobrą nowinę; posłał mnie, abym opatrzył tych, których serca są skruszone, abym ogłosił jeńcom wyzwolenie, a ślepym przejrzenie,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Porównajcie oba teksty z listą Jezusa z Mt 11,5. **Co się powtarza? Którego zdania z Iz 61,1 Jezus nie przytacza człowiekowi siedzącemu w więzieniu? Którego zdania z Iz 35,4 też nie ma?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jan nie wyszedł z tej celi żywy. **Co znaczy ufać komuś, kto spełnia obietnice, ale nie tę jedną, na której mi najbardziej zależy?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Czemu zwątpiłeś",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 14,25-33",
+       "przeklad": "BW",
+       "akapity": [
+        "A o czwartej straży nocnej przyszedł do nich, idąc po morzu. Uczniowie zaś, widząc go idącego po morzu, zatrwożyli się i mówili, że to zjawa, i ze strachu krzyknęli. Ale Jezus zaraz do nich powiedział: Ufajcie, Ja jestem, nie bójcie się! A Piotr, odpowiadając mu, rzekł: Panie, jeśli to Ty jesteś, każ mi przyjść do siebie po wodzie. A On rzekł: Przyjdź. I Piotr, wyszedłszy z łodzi, szedł po wodzie i przyszedł do Jezusa. A widząc wichurę, zląkł się i, gdy zaczął tonąć, zawołał, mówiąc: Panie, ratuj mnie. A Jezus zaraz wyciągnął rękę, uchwycił go i rzekł mu: O małowierny, czemu zwątpiłeś? A gdy weszli do łodzi, wiatr ustał. A ci, którzy byli w łodzi, złożyli mu pokłon, mówiąc: Zaprawdę, Ty jesteś Synem Bożym."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**W którym momencie Piotr zaczyna tonąć?** Na co patrzył chwilę wcześniej, a na co chwilę później? Czy wichura zaczęła się dopiero wtedy?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przyjrzyjcie się kolejności w wersecie 31: najpierw ręka, potem pytanie. **Co by to zmieniło, gdyby Jezus najpierw zapytał, a dopiero potem wyciągnął rękę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jedenastu zostało w łodzi i żaden z nich nie usłyszał słowa „małowierny\". **Kto w tej scenie miał mniej wiary: ten, który zwątpił na wodzie, czy ci, którzy z łodzi nie wyszli?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pytania w modlitwie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 77,8-13",
+       "przeklad": "BW",
+       "akapity": [
+        "Czy Pan na wieki odrzuca I nigdy już nie okaże łaski? Czy ustała na zawsze łaska jego? Czy cofnięta została obietnica jego na wieki? Czy Bóg zapomniał litości, Czy w gniewie stłumił miłosierdzie swoje? Sela. I rzekłem: To sprawia mi boleść, Że prawica Najwyższego jest zmienna. Wspominam dzieła Pańskie, Zaiste, wspominam twoje dawne cuda. Rozpamiętuję wszystkie dzieła twoje I rozważam czyny twoje."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalmista zadaje Bogu sześć pytań z rzędu i żadne nie jest grzeczne. Ten tekst trafił do modlitewnika Izraela i był śpiewany na głos. **Co to mówi o tym, jakie pytania wolno zadawać w modlitwie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co psalmista robi po tych pytaniach, w wersetach 12 i 13?** Czym to się różni od udawania, że pytań nie było?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Czasownik, który BW oddaje w Mt 14,31 jako „zwątpiłeś\", to greckie `distazō`. W całym Nowym Testamencie pada tylko dwa razy i oba razy u Mateusza. Drugie miejsce to scena na górze w Galilei, którą czytamy w następnym bloku. Słowo jest zbudowane na rdzeniu „dwa\" i znaczy raczej zawahać się, stać w dwóch miejscach naraz, niż odrzucić. To nie jest słowo, którym Ewangelie opisują niewiarę przeciwników Jezusa.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr usłyszał to słowo, kiedy był już poza łodzią i stał na wodzie. **Co to mówi o tym, kogo takie wahanie dotyczy: ludzi, którzy nie ruszyli z miejsca, czy tych, którzy już idą?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Niektórzy powątpiewali",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 28,16-20",
+       "przeklad": "BW",
+       "akapity": [
+        "A jedenastu uczniów poszło do Galilei, na górę, gdzie im Jezus przykazał. I gdy go ujrzeli, oddali mu pokłon, lecz niektórzy powątpiewali. A Jezus przystąpiwszy, rzekł do nich te słowa: Dana mi jest wszelka moc na niebie i na ziemi. Idźcie tedy i czyńcie uczniami wszystkie narody, chrzcząc je w imię Ojca i Syna, i Ducha Świętego, ucząc je przestrzegać wszystkiego, co wam przykazałem. A oto Ja jestem z wami po wszystkie dni aż do skończenia świata."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "To jest ostatnia scena Ewangelii. Uczniowie widzą zmartwychwstałego Jezusa, oddają Mu pokłon i część z nich się waha. Mateusz mógł to zdanie pominąć. **Dlaczego mógł chcieć, żeby zostało?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Co Jezus robi z tymi, którzy powątpiewają?** Czy oddziela ich od pozostałych? Komu daje zadanie i komu składa obietnicę „jestem z wami\"?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„A Jezus przystąpiwszy\". On robi krok w stronę wahających się. **Gdzie ten sam ruch widzieliście w trzech poprzednich scenach?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ewangelie nie oszczędzają apostołów. Po zmartwychwstaniu siedzą za zamkniętymi drzwiami, biorą Jezusa za ducha, nie wierzą kobietom, wahają się na górze. Wspólnota, która wymyślałaby swoją historię, nie pisałaby tak o własnych założycielach. To, że te zdania zostały, mówi coś o rzetelności relacji. Mówi też, że w pierwszym Kościele wahanie nikogo nie skreślało.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie wierzyli z radości",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 24,36-43",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy to mówili, On sam stanął wśród nich i rzekł im: Pokój wam! Wtedy zatrwożyli się i pełni lęku mniemali, że widzą ducha. Lecz On rzekł im: Czemu jesteście zatrwożeni i czemu wątpliwości budzą się w waszych sercach? Spójrzcie na ręce moje i nogi moje, że to Ja jestem. Dotknijcie mnie i popatrzcie: Wszak duch nie ma ciała ani kości, jak widzicie, że Ja mam. A gdy to powiedział, pokazał im ręce i nogi. Lecz gdy oni jeszcze nie wierzyli z radości i dziwili się, rzekł im: Macie tu co do jedzenia? A oni podali mu kawałek ryby pieczonej i plaster miodu. A On wziął i jadł przy nich."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus nie wygłasza wykładu. Pokazuje ręce, pozwala się dotknąć i zjada kawałek ryby. **Jakiego rodzaju pomocy udziela ludziom, którzy nie potrafią uwierzyć?** Co to mówi o tym, czego wątpiący czasem potrzebuje bardziej niż argumentu?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Nie wierzyli z radości\". **Czy zdarzyło ci się nie wierzyć w coś dlatego, że było za dobre?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 20,24-27",
+       "przeklad": "BW",
+       "akapity": [
+        "A Tomasz, jeden z dwunastu, zwany Bliźniakiem, nie był z nimi, gdy przyszedł Jezus. Powiedzieli mu tedy inni uczniowie: Widzieliśmy Pana. On zaś im rzekł: Jeśli nie ujrzę na rękach jego znaku gwoździ i nie włożę palca mego w miejsce gwoździ, i nie włożę ręki mojej w bok jego, nie uwierzę. A po ośmiu dniach znowu byli w domu uczniowie jego i Tomasz z nimi. I przyszedł Jezus, gdy drzwi były zamknięte, i stanął pośród nich, i rzekł: Pokój wam! Potem rzekł do Tomasza: Daj tu palec swój i oglądaj ręce moje, i daj tu rękę swoją, i włóż w bok mój, a nie bądź bez wiary, lecz wierz."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Między wersetem 25 a 26 mija osiem dni. Tomasz nie wierzy i przez cały ten czas jest z uczniami, a oni go nie wyrzucają. **Gdzie Jezus go znalazł? Co by było, gdyby Tomasz na ten tydzień odszedł albo gdyby go wyproszono?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Miejcie litość",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jud 20-23",
+       "przeklad": "BW",
+       "akapity": [
+        "Ale wy, umiłowani, budujcie siebie samych w oparciu o najświętszą wiarę waszą, módlcie się w Duchu Świętym, zachowajcie siebie samych w miłości Bożej, oczekując miłosierdzia Pana naszego Jezusa Chrystusa, ku życiu wiecznemu. Dla jednych, którzy mają wątpliwości, miejcie litość, wyrywając ich z ognia, ratujcie ich; dla drugich miejcie litość połączoną z obawą, mając odrazę nawet do szaty skalanej przez ciało."
+       ]
+      },
+      {
+       "odnosnik": "Mt 12,20",
+       "przeklad": "BW",
+       "akapity": [
+        "Trzciny nadłamanej nie dołamie, a lnu tlejącego nie zagasi, dopóki nie doprowadzi do zwycięstwa sprawiedliwości."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Juda pisze do wspólnoty, jak ma traktować ludzi z wątpliwościami. **Jakiego słowa używa? Jakich słów moglibyśmy się spodziewać na jego miejscu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zanim Juda powie cokolwiek o wątpiących, mówi: budujcie siebie, módlcie się, zachowajcie siebie w miłości Bożej. **Dlaczego ta kolejność? Co się dzieje, gdy za cudze wątpliwości bierze się ktoś, kto sam nie stoi pewnie w Bożej miłości?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Mateusz odnosi do Jezusa słowa o tlącym się lnie, czyli o knocie lampy, który bardziej dymi, niż świeci. **Co z takim knotem robi ktoś, komu zależy na porządku? Co robi Jezus?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Do której z dzisiejszych postaci jest ci najbliżej:** do ojca chłopca, Jana w celi, Piotra na wodzie czy uczniów na górze? Dlaczego?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co robisz ze swoimi pytaniami: chowasz je, mówisz o nich ludziom, mówisz o nich Bogu?** Czego się obawiasz, gdybyś powiedział je na głos wśród wierzących?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **jak brzmi twoja wersja zdania „wierzę, pomóż niedowiarstwu memu\"?** W co wierzysz i w co jednocześnie trudno ci uwierzyć?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: Jakub i Juda",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jk 1,5-8",
+       "przeklad": "BW",
+       "akapity": [
+        "A jeśli komu z was brak mądrości, niech prosi Boga, który wszystkich obdarza chętnie i bez wypominania, a będzie mu dana. Ale niech prosi z wiarą, bez powątpiewania; kto bowiem wątpi, podobny jest do fali morskiej, przez wiatr tu i tam miotanej. Przeto niechaj nie mniema taki człowiek, że coś od Pana otrzyma, człowiek o rozdwojonej duszy, chwiejny w całym swoim postępowaniu."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Juda każe mieć litość dla wątpiących. Jakub pisze, że wątpiący niczego nie otrzyma. W greckim oryginale obaj używają tego samego czasownika. Jedni czytają Jakuba dosłownie: modlitwa ma być wolna od wahania, a kto się waha, sam zamyka sobie drogę. Drudzy zwracają uwagę na to, jak Jakub sam tego człowieka opisuje: ma „rozdwojoną duszę\" i jest chwiejny „w całym swoim postępowaniu\". To nie jest ktoś, kto ma pytania, tylko ktoś, kto chce Boga i jednocześnie czegoś przeciwnego, i nie zamierza wybrać. Obie strony łączy początek tego fragmentu: Bóg daje „chętnie i bez wypominania\". Łączy je też ojciec z Mk 9, który przyznał się do niedowiarstwa i został wysłuchany.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czym różni się człowiek, który ma pytania i przynosi je Bogu, od człowieka „o rozdwojonej duszy\"?** Po czym poznać tę różnicę u siebie?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: to samo pytanie, różne odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 15,5-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem wyprowadził go na dwór i rzekł: Spójrz ku niebu i policz gwiazdy, jeśli możesz je policzyć! I rzekł do niego: Tak liczne będzie potomstwo twoje. Wtedy uwierzył Panu, a On poczytał mu to ku usprawiedliwieniu. Potem rzekł do niego: Jam jest Pan, który cię wywiódł z Ur chaldejskiego, aby ci dać tę ziemię w posiadanie. A on odpowiedział: Panie Boże, po czym poznam, że ją posiądę?"
+       ]
+      },
+      {
+       "odnosnik": "Łk 1,18-20",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy rzekł Zachariasz do anioła: Po czym to poznam? Jestem bowiem stary i żona moja w podeszłym wieku. A odpowiadając anioł rzekł do niego: Jam jest Gabriel, stojący przed Bogiem, i zostałem wysłany, by do ciebie przemówić i zwiastować ci tę dobrą nowinę. Otóż zaniemówisz i nie będziesz mógł mówić aż do dnia, kiedy się to stanie, bo nie uwierzyłeś słowom moim, które się wypełnią w swoim czasie."
+       ]
+      },
+      {
+       "odnosnik": "Łk 1,34-35",
+       "przeklad": "BW",
+       "akapity": [
+        "A Maria rzekła do anioła: Jak się to stanie, skoro nie znam męża? I odpowiadając anioł, rzekł jej: Duch Święty zstąpi na ciebie i moc Najwyższego zacieni cię. Dlatego też to, co się narodzi, będzie święte i będzie nazwane Synem Bożym."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Abraham dwa wersety po tym, jak uwierzył, pyta: „po czym poznam?\". W odpowiedzi Bóg zawiera z nim przymierze. Zachariasz zadaje to samo pytanie tymi samymi słowami i traci mowę na długie miesiące. Maria pyta „jak się to stanie?\" i dostaje wyjaśnienie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Skąd ta różnica?** Poszukajcie w samych tekstach: kto pyta, w jakiej sytuacji, co już wie i o co właściwie prosi. Czy jesteście pewni, że milczenie Zachariasza było wyłącznie karą?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "tekst nie daje tu prostego klucza i nie trzeba go dorabiać. Wystarczy, że grupa zobaczy, że Biblia nie ma jednej reakcji na ludzkie „skąd mam wiedzieć\" i że w żadnym z tych trzech przypadków obietnica nie została cofnięta.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bywa wątpliwość, która szuka odpowiedzi, i bywa taka, która szuka wymówki. **Po czym można je odróżnić u samego siebie? Czy człowiek zawsze wie, którą z nich nosi?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "pilnuj, żeby rozmowa została w pierwszej osobie. To pytanie nie służy do oceniania czyichkolwiek wątpliwości poza własnymi.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Wątpliwość przyniesiona Jezusowi jest już modlitwą.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Mk 9,24 albo Jud 22.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Nazwij przed Bogiem jedną wątpliwość, którą od dawna omijasz. Powiedz ją pełnym zdaniem, tak jak ojciec z Mk 9. **Nie dopowiadaj od razu pobożnej odpowiedzi.** Zostaw to zdanie przed Nim takie, jakie jest.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jan nie wątpił nad Jordanem. Zwątpił w celi. Zapytaj siebie: **czy moje wątpliwości przyszły razem ze zmianą okoliczności? Co się właściwie zmieniło: to, co wiem o Bogu, czy moje położenie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** pomyśl o kimś, kto wątpi głośno i kogo to w tobie drażni albo niepokoi. Zapytaj siebie, **czego się boisz w jego pytaniach.**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi, że traci wiarę albo że już jej nie ma.** Nie ratuj go i nie argumentuj. Podziękuj, że powiedział to na głos, bo to wymaga odwagi. Nie pozwól grupie rzucić się z wersetami i radami. Powiedz, że cieszysz się, że jest przy tym stole, i zaproponuj rozmowę po spotkaniu. Tomasz przez osiem dni nie wierzył i siedział z uczniami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Prawdziwy wierzący nie wątpi.\"** Nie wchodź w spór. Zapytaj: „Co Jezus powiedział o Janie zaraz po jego pytaniu z więzienia?\" i „Komu Jezus powierzył misję w Mt 28?\". Niech odpowie tekst.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zasypuje grupę zarzutami: sprzeczności w Biblii, nauka, historia Kościoła.** Nie dasz rady odpowiedzieć na wszystko i nie musisz. „Nie wiem\" jest uczciwą odpowiedzią. Zapisz pytania i powiedz, że w tej serii są osobne spotkania o wiarygodności Biblii i o nauce. Dziś rozmawiamy o tym, co robić z wątpliwością, a nie o tym, jak ją rozstrzygnąć.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa zaczyna naprawiać czyjeś wątpliwości.** Przerwij łagodnie. Juda mówi „miejcie litość\", a nie „miejcie argumenty\". Zapytaj osobę, która się odsłoniła, czy chce coś jeszcze dodać, i wróć do tekstu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czyjeś wątpliwości splatają się z rozpaczą: „nic już nie ma sensu\", „nie chce mi się żyć\".** To nie jest problem teologiczny i nie rozwiąże go studium biblijne. Zostań z tą osobą po spotkaniu, zapytaj wprost, jak się czuje, i nie zostawaj z tym sam. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, a w nagłym zagrożeniu 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rodzic mówi o dziecku, które odeszło od wiary.** To jest ból, nie temat do dyskusji. Nie doradzaj i nie pozwól doradzać innym. Możesz wskazać Mt 12,20: Jezus nie gasi tlącego się knota, także w cudzym dziecku.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Przy tym temacie cisza bywa znakiem, że ludzie ważą, ile mogą powiedzieć. Policz w myślach do dziesięciu i powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw bloki 1, 2 i 4. Blok 4 niesie puentę: Jezus powierza swoją sprawę ludziom, z których część się waha.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś mówi, że traci wiarę albo że już jej nie ma.",
+     "odpowiedz": "Nie ratuj go i nie argumentuj. Podziękuj, że powiedział to na głos, bo to wymaga odwagi. Nie pozwól grupie rzucić się z wersetami i radami. Powiedz, że cieszysz się, że jest przy tym stole, i zaproponuj rozmowę po spotkaniu. Tomasz przez osiem dni nie wierzył i siedział z uczniami."
+    },
+    {
+     "sytuacja": "„Prawdziwy wierzący nie wątpi.\"",
+     "odpowiedz": "Nie wchodź w spór. Zapytaj: „Co Jezus powiedział o Janie zaraz po jego pytaniu z więzienia?\" i „Komu Jezus powierzył misję w Mt 28?\". Niech odpowie tekst."
+    },
+    {
+     "sytuacja": "Ktoś zasypuje grupę zarzutami: sprzeczności w Biblii, nauka, historia Kościoła.",
+     "odpowiedz": "Nie dasz rady odpowiedzieć na wszystko i nie musisz. „Nie wiem\" jest uczciwą odpowiedzią. Zapisz pytania i powiedz, że w tej serii są osobne spotkania o wiarygodności Biblii i o nauce. Dziś rozmawiamy o tym, co robić z wątpliwością, a nie o tym, jak ją rozstrzygnąć."
+    },
+    {
+     "sytuacja": "Grupa zaczyna naprawiać czyjeś wątpliwości.",
+     "odpowiedz": "Przerwij łagodnie. Juda mówi „miejcie litość\", a nie „miejcie argumenty\". Zapytaj osobę, która się odsłoniła, czy chce coś jeszcze dodać, i wróć do tekstu."
+    },
+    {
+     "sytuacja": "Czyjeś wątpliwości splatają się z rozpaczą: „nic już nie ma sensu\", „nie chce mi się żyć\".",
+     "odpowiedz": "To nie jest problem teologiczny i nie rozwiąże go studium biblijne. Zostań z tą osobą po spotkaniu, zapytaj wprost, jak się czuje, i nie zostawaj z tym sam. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, a w nagłym zagrożeniu 112."
+    },
+    {
+     "sytuacja": "Rodzic mówi o dziecku, które odeszło od wiary.",
+     "odpowiedz": "To jest ból, nie temat do dyskusji. Nie doradzaj i nie pozwól doradzać innym. Możesz wskazać Mt 12,20: Jezus nie gasi tlącego się knota, także w cudzym dziecku."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Przy tym temacie cisza bywa znakiem, że ludzie ważą, ile mogą powiedzieć. Policz w myślach do dziesięciu i powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw bloki 1, 2 i 4. Blok 4 niesie puentę: Jezus powierza swoją sprawę ludziom, z których część się waha."
+    }
+   ]
+  }
+ ]
+}

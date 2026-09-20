@@ -1,0 +1,558 @@
+{
+ "tytul": "Współczucie",
+ "id": "E-13",
+ "seria": "Emocje",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Mt 9,35-36; Łk 10,30-35; Ps 103,13-14; Rz 12,15; Mt 25,35-40",
+  "p2": "Mk 1,40-42; Łk 7,12-15",
+  "p3": "Mt 9,36"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 80,
+  "p3": 95
+ },
+ "liczbaPytan": {
+  "p1": 17,
+  "p2": 21,
+  "p3": 23
+ },
+ "tagi": [
+  "emocje",
+  "miłosierdzie",
+  "bliźni",
+  "służba"
+ ],
+ "wersja": 1,
+ "zdanie": "Kapłan, Lewita i Samarytanin zobaczyli to samo. Różnica zaczęła się w tym, co się w nich poruszyło.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To jedyny temat w serii, w którym emocja jest skierowana na zewnątrz, a nie do wewnątrz. Dlatego stoi tu inaczej niż pozostałe: nie pytamy, co z nią zrobić, tylko dlaczego tak często jej nie czujemy, choć wiemy, że powinniśmy. Ewangelie używają wobec Jezusa słowa, które opisuje fizyczne poruszenie wnętrza, a nie decyzję woli.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Temat łatwo zsuwa się w wyrzuty sumienia i licytację, kto więcej pomaga. To go zabija.",
+      "Ktoś przy stole może być wypalony pomaganiem albo mieć w domu osobę chorą. Dla niego wezwanie do współczucia brzmi jak kolejny ciężar.",
+      "Mt 25 bywa czytany jako groźba. Nie prowadź tego w tę stronę."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie zbieraj deklaracji i nie planujcie akcji charytatywnej na tym spotkaniu. Nie chwal nikogo za to, co robi, i nie pytaj, kto komu pomaga.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie sytuację, w której ktoś obcy okazał ci życzliwość bez powodu. Jedno zdanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy. Zaczynamy od bycia po stronie tego, komu pomożono.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Użalił się nad nim",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 9,35-36",
+       "przeklad": "BW",
+       "akapity": [
+        "I obchodził Jezus wszystkie miasta i wioski, nauczał w ich synagogach i zwiastował ewangelię o Królestwie, i uzdrawiał wszelką chorobę i wszelką niemoc. A widząc lud, użalił się nad nim, gdyż był utrudzony i opuszczony jak owce, które nie mają pasterza."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 35 opisuje ogrom pracy Jezusa, a 36 mówi, co czuł, patrząc na tłum. **Czy to znaczy, że robił to wszystko z litości, czy że litość przyszła mimo zmęczenia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Obraz jest bardzo konkretny: owce bez pasterza, utrudzone i opuszczone. **Czego według tego obrazu brakowało tym ludziom najbardziej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus patrzy na tłum, a nie na jednostkę. **Czy da się współczuć tłumowi?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Grecki czasownik użyty tu wobec Jezusa, `splanchnizomai`, pochodzi od słowa oznaczającego wnętrzności. Opisuje poruszenie fizyczne, ściśnięcie w środku, a nie postanowienie. W Nowym Testamencie prawie zawsze odnosi się do Jezusa albo do postaci z przypowieści, które Go przedstawiają.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajski odpowiednik, `rachamim`, wywodzi się od słowa oznaczającego łono matki. Miłosierdzie Boże opisane jest więc obrazem z porządku rodzicielskiego, nie prawnego.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia fakt, że Biblia opisuje współczucie słowami z ciała, a nie z języka decyzji?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy można nakazać sobie coś, co dzieje się we wnętrznościach?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Ulitował się nad nim",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 10,30-35",
+       "przeklad": "BW",
+       "akapity": [
+        "A Jezus, nawiązując do tego, rzekł: Pewien człowiek szedł z Jerozolimy do Jerycha i wpadł w ręce zbójców, którzy go obrabowali, poranili i odeszli, zostawiając go na pół umarłego. Przypadkiem szedł tą drogą jakiś kapłan i zobaczywszy go, przeszedł mimo. Podobnie i Lewita, gdy przyszedł na to miejsce i zobaczył go, przeszedł mimo. Pewien Samarytanin zaś, podróżując tędy, podjechał do niego i ujrzawszy, ulitował się nad nim. I podszedłszy opatrzył rany jego, zalewając je oliwą i winem, po czym wsadził go na swoje bydlę, zawiózł do gospody i opiekował się nim. A nazajutrz dobył dwa denary, dał je gospodarzowi i rzekł: Opiekuj się nim, a co wydasz ponad to, ja w drodze powrotnej oddam ci."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Kapłan i Lewita zobaczyli go i przeszli mimo. Samarytanin zobaczył i ulitował się. **Widzieli wszyscy trzej. Gdzie leży różnica?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wypiszcie po kolei, co robi Samarytanin po wersecie 33. **Ile z tego to uczucie, a ile pieniądze, czas i zobowiązanie na przyszłość?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Obiecuje wrócić i dopłacić. **Co to mówi o granicach jego pomocy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Kapłan i Lewita mieli prawdopodobnie dobre powody, na przykład obrzędową czystość albo pośpiech do służby. **Jak dobre powody wypierają współczucie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Przypowieść nie przeciwstawia ludzi złych dobremu. Kapłan i Lewita nie są opisani jako okrutni, tylko jako ci, którzy przeszli mimo. Jezus opowiada to w odpowiedzi na pytanie „kto jest moim bliźnim\", a kończy pytaniem odwróconym: kto okazał się bliźnim. Przesuwa punkt ciężkości z ustalania, komu się należy pomoc, na to, kim się przy tej okazji stajemy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dotknął go",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 1,40-42",
+       "przeklad": "BW",
+       "akapity": [
+        "I przyszedł do niego trędowaty z prośbą, upadł na kolana i rzekł do niego: Jeśli chcesz, możesz mnie oczyścić. A Jezus, zdjęty litością, wyciągnął rękę swoją, dotknął się go i rzekł mu: Chcę, bądź oczyszczony! I natychmiast zszedł z niego trąd, i został oczyszczony."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus mógł uzdrowić słowem, jak w wielu innych miejscach. **Dlaczego dotknął kogoś, kogo nikomu nie wolno było dotykać?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Trędowaty mówi „jeśli chcesz\". **Czego on nie jest pewien?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Jak się lituje ojciec",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 103,13-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Jak się lituje ojciec nad dziećmi, Tak się lituje Pan nad tymi, którzy się go boją, Bo On wie, jakim tworem jesteśmy, Pamięta, żeśmy prochem."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Podstawą Bożej litości jest według wersetu 14 wiedza o tym, z czego jesteśmy. **Jak wiedza o czyjejś słabości wpływa na to, co do niego czujemy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Pamięta, żeśmy prochem\". **Czy to zdanie brzmi lekceważąco, czy czule? Od czego to zależy?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie płacz",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 7,12-15",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy się przybliżał do bramy miasta, oto wynoszono zmarłego, jedynego syna matki, która była wdową, a wiele ludzi z tego miasta było z nią. A gdy ją Pan zobaczył, użalił się nad nią i rzekł do niej: Nie płacz. I podszedłszy, dotknął się noszy, a ci, którzy je nieśli, stanęli. I rzekł: Młodzieńcze, tobie mówię: Wstań. I podniósł się zmarły, i zaczął mówić. I oddał go jego matce."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nikt Go o nic nie prosił. **Co uruchomiło całą tę scenę?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Tekst kończy się zdaniem, że oddał go matce. **Dlaczego to jest ostatnie zdanie, a nie samo wskrzeszenie?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Płaczcie z płaczącymi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 12,15",
+       "przeklad": "BW",
+       "akapity": [
+        "Weselcie się z weselącymi się, płaczcie z płaczącymi."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł wymienia dwie rzeczy. **Która z nich jest trudniejsza i dlaczego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To jest polecenie bez instrukcji: nie mówi, co powiedzieć ani jak pomóc. **Czego zatem wymaga?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Mnie uczyniliście",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 25,35-40",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem łaknąłem, a daliście mi jeść, pragnąłem, a daliście mi pić, byłem przychodniem, a przyjęliście mnie, byłem nagi, a przyodzialiście mnie, byłem chory, a odwiedzaliście mnie, byłem w więzieniu, a przychodziliście do mnie. Wtedy odpowiedzą mu sprawiedliwi tymi słowy: Panie! Kiedy widzieliśmy cię łaknącym, a nakarmiliśmy cię, albo pragnącym, a daliśmy ci pić? A kiedy widzieliśmy cię przychodniem i przyjęliśmy cię albo nagim i przyodzialiśmy cię? I kiedy widzieliśmy cię chorym albo w więzieniu, i przychodziliśmy do ciebie? A król, odpowiadając, powie im: Zaprawdę powiadam wam, cokolwiek uczyniliście jednemu z tych najmniejszych moich braci, mnie uczyniliście."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Lista jest zaskakująco zwyczajna: jedzenie, woda, gościna, ubranie, odwiedziny. **Czego na tej liście nie ma?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Sprawiedliwi są szczerze zdziwieni i pytają „kiedy?\". **Co to zdziwienie mówi o tym, jak działali?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus utożsamia się z najmniejszymi. **Czy to zmienia motywację pomagania, czy tylko jej uzasadnienie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Najważniejsze w tej scenie jest zdziwienie. Ci, którzy pomagali, nie prowadzili rachunku i nie widzieli w potrzebujących Jezusa w przebraniu. Po prostu reagowali na głód i chorobę, które mieli przed oczami. Gdyby wiedzieli, że to się liczy, ich pomoc byłaby czymś innym. Tekst opisuje ludzi, u których współczucie stało się odruchem, a nie strategią.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Kapłan i Lewita mieli powody, żeby przejść mimo. **Jakie są twoje najczęstsze powody?** Brak czasu, brak kompetencji, obawa, że się wciągniesz.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Samarytanin wyznaczył sobie granicę: zapłacił, wrócił, ale nie zabrał rannego do domu. **Gdzie jest twoja granica i czy jest uczciwa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest ktoś, o kim wiesz, że potrzebuje pomocy, a ty odsuwasz to od tygodni?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Kapłan, Lewita i Samarytanin zobaczyli to samo. Różnica zaczęła się w tym, co się w nich poruszyło.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Łk 10,33 albo Mt 25,40.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Zauważ w tym tygodniu jeden moment, w którym odwróciłeś wzrok: od żebraka, od wiadomości, od kogoś, kto zaczął mówić o swoim problemie. **Nie oceniaj się. Zapytaj siebie, przed czym się wtedy broniłeś.** Współczucie kosztuje i zwykle wiemy, ile.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o człowieku, którego oceniasz surowo. **Zapytaj Boga, czego o nim nie wiesz.** Psalm 103 wiąże litość z wiedzą o tym, z czego ktoś jest zrobiony.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** zrób jedną rzecz, o której nikt się nie dowie. Bez opowiadania o niej na następnym spotkaniu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa zamienia się w wyrzuty sumienia.** To najczęstszy sposób, w jaki ten temat się psuje. Wina nie produkuje współczucia, tylko unikanie. Wróć do Mt 25 i do zdziwienia sprawiedliwych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna opowiadać, ile pomaga.** Nie chwal i nie rozwijaj. Przesuń rozmowę do tekstu jednym zdaniem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś jest wypalony opieką nad chorym w rodzinie.** Dla tej osoby całe spotkanie może brzmieć jak żądanie więcej. Powiedz wprost, że Samarytanin też wyznaczył granicę i pojechał dalej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A co z ludźmi, którzy oszukują i wykorzystują pomoc?\"** Realne pytanie, ale potrafi pochłonąć całe spotkanie. Odpowiedz krótko i wróć do tekstu: przypowieść nie zajmuje się tym, czy ranny zasłużył.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa planuje akcję pomocową.** Dobre samo w sobie, ale nie na tym spotkaniu. Zaproponuj, żeby wrócić do tego osobno.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja po prostu nie jestem uczuciowy.\"** Nie konfrontuj. Zwróć uwagę, że Samarytanin został zapamiętany nie za uczucie, tylko za oliwę, bydlę i dwa denary.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Rozmowa zamienia się w wyrzuty sumienia.",
+     "odpowiedz": "To najczęstszy sposób, w jaki ten temat się psuje. Wina nie produkuje współczucia, tylko unikanie. Wróć do Mt 25 i do zdziwienia sprawiedliwych."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna opowiadać, ile pomaga.",
+     "odpowiedz": "Nie chwal i nie rozwijaj. Przesuń rozmowę do tekstu jednym zdaniem."
+    },
+    {
+     "sytuacja": "Ktoś jest wypalony opieką nad chorym w rodzinie.",
+     "odpowiedz": "Dla tej osoby całe spotkanie może brzmieć jak żądanie więcej. Powiedz wprost, że Samarytanin też wyznaczył granicę i pojechał dalej."
+    },
+    {
+     "sytuacja": "„A co z ludźmi, którzy oszukują i wykorzystują pomoc?\"",
+     "odpowiedz": "Realne pytanie, ale potrafi pochłonąć całe spotkanie. Odpowiedz krótko i wróć do tekstu: przypowieść nie zajmuje się tym, czy ranny zasłużył."
+    },
+    {
+     "sytuacja": "Grupa planuje akcję pomocową.",
+     "odpowiedz": "Dobre samo w sobie, ale nie na tym spotkaniu. Zaproponuj, żeby wrócić do tego osobno."
+    },
+    {
+     "sytuacja": "„Ja po prostu nie jestem uczuciowy.\"",
+     "odpowiedz": "Nie konfrontuj. Zwróć uwagę, że Samarytanin został zapamiętany nie za uczucie, tylko za oliwę, bydlę i dwa denary."
+    }
+   ]
+  }
+ ]
+}

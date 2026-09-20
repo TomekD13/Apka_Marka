@@ -1,0 +1,814 @@
+{
+ "tytul": "Małżeństwo",
+ "id": "R-05",
+ "seria": "Relacje",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Rdz 2,18-23; Rdz 2,24-25; Ml 2,14; Ef 5,21-33; 1Kor 13,4-8; PnP 8,6-7; Oz 2,21-22",
+  "p2": "Ps 121,1-2; Rdz 3,12.16; Mk 10,42-45; Kol 3,18-19; Flp 2,3-5; Ap 19,7-9",
+  "p3": "Ef 5,21-22 (Ekum.)"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 26,
+  "p3": 31
+ },
+ "tagi": [
+  "relacje",
+  "małżeństwo",
+  "przymierze",
+  "miłość",
+  "wzajemność"
+ ],
+ "wersja": 1,
+ "zdanie": "Małżeństwo jest przymierzem dwojga, którzy oddają siebie, i obrazem miłości, w której jest miejsce dla każdego.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie nie jest poradnikiem dla par. Jest o tym, jaką miłość Biblia ma na myśli, kiedy mówi o mężu i żonie: przymierze, w którym obie strony oddają siebie, i obraz tego, jak Bóg kocha ludzi. Dlatego ostatni blok nie mówi już o małżeństwie, tylko o Bogu, który zaręcza się ze swoim ludem. To jest miejsce dla każdego przy stole, bez względu na stan cywilny.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole mogą siedzieć osoby samotne, owdowiałe, rozwiedzione, porzucone i takie, które same odeszły. Każde zdanie w rodzaju „małżeństwo to pełnia\" rani kogoś z nich.",
+      "Ktoś może żyć w małżeństwie, w którym jest przemoc, także taka, której nie widać: kontrola, poniżanie, strach. Dla tej osoby Ef 5 bywał narzędziem krzywdy. Przeczytaj pierwszą czerwoną flagę, zanim zaczniesz.",
+      "Jeśli w grupie są małżonkowie razem, każde pytanie osobiste jest dla nich pytaniem zadanym przy świadku. Nie dopytuj.",
+      "Rozmowa o Ef 5 łatwo zamienia się w spór o to, kto w domu rządzi. Tekst pyta o coś innego: kto pierwszy oddaje siebie."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie stawiaj żadnej pary za wzór. Nie żartuj z żon, mężów ani teściowych. Nie pytaj nikogo, dlaczego jest sam. Nie pozwól, żeby ktoś mówił przy grupie o wadach współmałżonka, obecnego albo nieobecnego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o małżeństwie, które znasz z bliska i które budzi twój szacunek: rodziców, dziadków, przyjaciół, sąsiadów. Powiedz jedną rzecz, którą w nim widzisz.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, jednym zdaniem. To pytanie jest celowo o cudzym małżeństwie, żeby każdy przy stole mógł odpowiedzieć. Nie komentuj odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Niedobrze, gdy sam",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 2,18-23",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem rzekł Pan Bóg: Niedobrze jest człowiekowi, gdy jest sam. Uczynię mu pomoc odpowiednią dla niego. Utworzył więc Pan Bóg z ziemi wszelkie dzikie zwierzęta i wszelkie ptactwo niebios i przyprowadził do człowieka, aby zobaczyć, jak je nazwie, a każda istota żywa miała mieć taką nazwę, jaką nada jej człowiek. Nadał tedy człowiek nazwy wszelkiemu bydłu i ptactwu niebios, i wszelkim dzikim zwierzętom. Lecz dla człowieka nie znalazła się pomoc dla niego odpowiednia. Wtedy zesłał Pan Bóg głęboki sen na człowieka, tak że zasnął. Potem wyjął jedno z jego żeber i wypełnił ciałem to miejsce. A z żebra, które wyjął z człowieka, ukształtował Pan Bóg kobietę i przyprowadził ją do człowieka. Wtedy rzekł człowiek: Ta dopiero jest kością z kości moich i ciałem z ciała mojego. Będzie się nazywała mężatką, gdyż z męża została wzięta."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W pierwszym rozdziale Biblii sześć razy pada „dobre\". Tutaj po raz pierwszy pada „niedobrze\", i to w ogrodzie, w którym jest Bóg i nie ma grzechu. **Co to mówi o tym, jak człowiek został pomyślany?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Pierwsze zapisane słowa człowieka to okrzyk na widok drugiego człowieka. **Co on w niej rozpoznaje? Czego w tym okrzyku nie ma?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Bóg mówi „niedobrze, gdy sam\", a Jezus i Paweł nie mieli żon. **Czy to zdanie mówi tylko o małżeństwie, czy o czymś szerszym?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Mężczyzna w tej scenie niczego nie robi. Śpi. Bóg sam stwierdza brak, sam kształtuje kobietę i sam ją przyprowadza, jak ktoś, kto przedstawia sobie dwoje ludzi. Okrzyk „kość z kości moich\" jest w hebrajskim grą słów: `isz` i `iszsza`, mężczyzna i kobieta, brzmią jak jedno słowo w dwóch odmianach. BW próbuje to oddać parą „mąż\" i „mężatka\". Pierwsze, co człowiek mówi o drugim człowieku, brzmi: jesteś taka jak ja.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Skąd nadejdzie pomoc",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 121,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "Pieśń pielgrzymek. Oczy moje wznoszę ku górom: Skąd nadejdzie mi pomoc? Pomoc moja jest od Pana, Który uczynił niebo i ziemię."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W psalmie i w Rdz 2,18 stoi to samo słowo „pomoc\". **Jak zmienia się brzmienie zdania „uczynię mu pomoc\", kiedy wiemy, że psalmista mówi tak o samym Bogu?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajskie `ezer`, czyli „pomoc\", występuje w Starym Testamencie dwadzieścia jeden razy. Szesnaście razy mówi o Bogu, który ratuje swój lud, trzy razy o sojusznikach wojskowych, a dwa pozostałe miejsca to nasz tekst. Ani razu nie oznacza pomocnika niższej rangi. Drugie słowo, oddane jako „odpowiednia dla niego\", znaczy dosłownie „jak naprzeciw niego\", czyli ktoś, kto staje twarzą w twarz.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Polskie „pomoc\" kojarzy się z kimś, kto asystuje. **Co się zmienia w obrazie małżeństwa, jeśli w Rdz 2,18 usłyszymy raczej „ratunek, który staje naprzeciw\"?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Opuści, złączy się, staną się",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 2,24-25",
+       "przeklad": "BW",
+       "akapity": [
+        "Dlatego opuści mąż ojca swego i matkę swoją i złączy się z żoną swoją, i staną się jednym ciałem. A człowiek i jego żona byli oboje nadzy, lecz nie wstydzili się."
+       ]
+      },
+      {
+       "odnosnik": "Ml 2,14",
+       "przeklad": "BW",
+       "akapity": [
+        "A wy mówicie: Dlaczego? Dlatego, że Pan jest świadkiem między tobą i między żoną twojej młodości, której stałeś się niewierny, chociaż ona była twoją towarzyszką i żoną, związaną z tobą przymierzem."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rdz 2,24 ma trzy czasowniki: opuści, złączy się, staną się. **Co znaczy każdy z nich z osobna? Co się dzieje, kiedy któregoś brakuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Malachiasz nazywa małżeństwo przymierzem, a Boga jego świadkiem. **Czym przymierze różni się od umowy, którą można rozwiązać, gdy przestaje się opłacać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Byli nadzy, lecz nie wstydzili się\". **Co to znaczy być przy kimś całkowicie widzianym i nie bać się?** Ile z tego dotyczy ciała, a ile całej reszty?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W tamtym świecie to żona opuszczała rodzinę i przechodziła do domu męża. Tekst mówi odwrotnie: opuścić ma mężczyzna. Zdanie idzie pod prąd obyczaju i dlatego tak mocno brzmi. Pierwsza lojalność męża należy się żonie, nie rodowi. Przymierze to w Biblii słowo, którym opisuje się więź Boga z Izraelem. Nie opiera się na tym, że druga strona na nie zasługuje, tylko na danym słowie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Co się zepsuło",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 3,12",
+       "przeklad": "BW",
+       "akapity": [
+        "Na to rzekł Adam: Kobieta, którą mi dałeś, aby była ze mną, dała mi z tego drzewa i jadłem."
+       ]
+      },
+      {
+       "odnosnik": "Rdz 3,16",
+       "przeklad": "BW",
+       "akapity": [
+        "Do kobiety zaś rzekł: Pomnożę dolegliwości brzemienności twojej, w bólach będziesz rodziła dzieci, mimo to ku mężowi twemu pociągać cię będą pragnienia twoje, on zaś będzie panował nad tobą."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Porównajcie „kość z kości moich\" ze zdaniem „kobieta, którą mi dałeś\". To ten sam człowiek o tej samej kobiecie. **Co się zmieniło w sposobie, w jaki o niej mówi?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**W którym miejscu opowieści padają słowa „on zaś będzie panował nad tobą\" i co stoi w ich sąsiedztwie?** Co z tego wynika dla pytania, czy panowanie jednego nad drugim należy do początku, czy do tego, co przyszło potem?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Czasownik „złączy się\" oznacza w hebrajskim przylgnięcie, jak skóra do kości, i jest tym samym słowem, którym Księga Powtórzonego Prawa każe Izraelowi przylgnąć do Boga. To język przymierza, nie zauroczenia. Z kolei zwrot „staną się jednym ciałem\" opisuje w hebrajskim proces, a nie stan osiągnięty w dniu ślubu. Jedność jest czymś, czym się dopiero stają, latami.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia dla pary po pięciu, dwudziestu albo czterdziestu latach świadomość, że „jedno ciało\" to droga, a nie punkt wyjścia?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Jedni drugim",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ef 5,21-33",
+       "przeklad": "BW",
+       "akapity": [
+        "ulegając jedni drugim w bojaźni Chrystusowej. Żony, bądźcie uległe mężom swoim jak Panu, bo mąż jest głową żony, jak Chrystus Głową Kościoła, ciała, którego jest Zbawicielem. Ale jak Kościół podlega Chrystusowi, tak i żony mężom swoim we wszystkim. Mężowie, miłujcie żony swoje, jak i Chrystus umiłował Kościół i wydał zań samego siebie, aby go uświęcić, oczyściwszy go kąpielą wodną przez Słowo, aby sam sobie przysposobić Kościół pełen chwały, bez zmazy lub skazy lub czegoś w tym rodzaju, ale żeby był święty i niepokalany. Tak też mężowie powinni miłować żony swoje, jak własne ciała. Kto miłuje żonę swoją, samego siebie miłuje. Albowiem nikt nigdy ciała swego nie miał w nienawiści, ale je żywi i pielęgnuje, jak i Chrystus Kościół, gdyż członkami ciała jego jesteśmy. Dlatego opuści człowiek ojca i matkę, i połączy się z żoną swoją, a tych dwoje będzie jednym ciałem. Tajemnica to wielka, ale ja odnoszę to do Chrystusa i Kościoła. A zatem niechaj i każdy z was miłuje żonę swoją, jak siebie samego, a żona niechaj poważa męża swego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Fragment zaczyna się od słów „ulegając jedni drugim\". **Do kogo skierowane jest to pierwsze zdanie? Jak ustawia ono wszystko, co Paweł mówi potem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Mąż ma kochać „jak Chrystus umiłował Kościół\". **Wypiszcie z tekstu, co dokładnie Chrystus zrobił. Czego na tej liście nie ma?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Policzcie, ile zdań Paweł kieruje do żon, a ile do mężów. **Komu stawia wyższe wymagania? Dlaczego, waszym zdaniem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Na końcu Paweł mówi, że właściwie pisze o Chrystusie i Kościele. **Co z tego fragmentu zostaje dla kogoś, kto nie jest i nie będzie w małżeństwie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Zdanie do żon nie ma w najstarszych rękopisach własnego czasownika. Pożycza go z wersetu 21, czyli z wezwania skierowanego do wszystkich. Wzorem dla męża nie jest Chrystus, który rządzi, tylko Chrystus, który wydaje samego siebie, karmi i pielęgnuje. Paweł nie pisze nigdzie: mężowie, dopilnujcie, żeby żony były wam uległe. Każdej stronie mówi o jej własnym oddaniu, nigdy o prawie do egzekwowania cudzego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: jak czytano to w Efezie",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** W świecie Pawła istniały spisane pouczenia o tym, jak ma wyglądać dom. Wszystkie mówiły o jednym: jak żona, dzieci i niewolnicy mają się zachowywać wobec pana domu, który miał nad nimi pełną władzę. O tym, jak on ma traktować ich, nie mówiły prawie nic. Paweł bierze tę znaną formę i odwraca kierunek. Najdłuższą część kieruje do tego, kto ma władzę, i mówi mu o oddaniu życia. Pierwsi słuchacze musieli to usłyszeć jako coś zaskakującego.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 10,42-45",
+       "przeklad": "BW",
+       "akapity": [
+        "Ale Jezus przywoławszy ich, rzekł do nich: Wiecie, że ci, których uważa się za władców narodów, nadużywają swej władzy nad nimi, a możni ich rządzą nimi samowolnie. Lecz nie tak ma być między wami, ale ktokolwiek by chciał być między wami wielki, niech będzie sługą waszym. I ktokolwiek by chciał być między wami pierwszy, niech będzie sługą wszystkich. Albowiem Syn Człowieczy nie przyszedł, aby mu służono, lecz aby służyć i oddać swe życie na okup za wielu."
+       ]
+      },
+      {
+       "odnosnik": "Kol 3,18-19",
+       "przeklad": "BW",
+       "akapity": [
+        "Żony, bądźcie uległe mężom swoim, jak przystoi w Panu. Mężowie, miłujcie żony swoje i nie bądźcie dla nich przykrymi."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Nie tak ma być między wami\". **Jeżeli to zdanie Jezusa obowiązuje także w domu, to jak wygląda w nim ktoś, kto chce być pierwszy?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W Liście do Kolosan mąż dostaje jedno krótkie ostrzeżenie: nie bądź przykry. **Dlaczego Paweł uznał, że trzeba to powiedzieć właśnie mężom?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: głowa i uległość",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Wierzący, którzy traktują ten tekst z równą powagą, czytają go na dwa sposoby. Jedni widzą tu trwały porządek: mąż ponosi szczególną odpowiedzialność za dom i przewodzi mu, służąc, a żona to przewodzenie dobrowolnie wspiera. Drudzy czytają całość przez werset 21: uległość jest wzajemna, a Paweł, mówiąc językiem swojej epoki, rozsadza ją od środka i prowadzi do małżeństwa dwojga równych partnerów. W Kościele adwentystycznym spotkacie oba sposoby czytania.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przekład ekumeniczny pokazuje, jak ściśle wersety 21 i 22 są ze sobą związane:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ef 5,21-22",
+       "przeklad": "Ekum",
+       "akapity": [
+        "Bądźcie poddani jedni drugim, trwając w bojaźni Chrystusa. Żony niech będą poddane swoim mężom jak Panu,"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Obie strony łączy więcej, niż dzieli. Obie przyjmują, że wzorem jest Chrystus, który oddaje życie. Obie przyjmują, że tekst nie daje nikomu prawa do wymuszania posłuszeństwa. I obie przyjmują, że nic w tym fragmencie nie usprawiedliwia przemocy, poniżania ani kontroli.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak w praktyce wygląda dom, w którym oboje na serio biorą werset 21?** Czym różniłby się w codziennych decyzjach od domu, w którym czyta się dopiero od wersetu 22?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie rozstrzygaj sporu między dwoma stanowiskami. Dopilnuj tylko, żeby nikt nie wyszedł z przekonaniem, że Biblia każe komukolwiek znosić krzywdę.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Co miłość robi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Kor 13,4-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Miłość jest cierpliwa, miłość jest dobrotliwa, nie zazdrości, miłość nie jest chełpliwa, nie nadyma się, nie postępuje nieprzystojnie, nie szuka swego, nie unosi się, nie myśli nic złego, nie raduje się z niesprawiedliwości, ale się raduje z prawdy; wszystko zakrywa, wszystkiemu wierzy, wszystkiego się spodziewa, wszystko znosi. Miłość nigdy nie ustaje; bo jeśli są proroctwa, przeminą; jeśli języki, ustaną, jeśli wiedza, wniwecz się obróci."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ten tekst czyta się na ślubach, ale Paweł napisał go do skłóconego zboru. **Poszukajcie w nim uczuć. Ile ich znajdziecie? Co jest w nim zamiast nich?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie fragment jeszcze raz, wstawiając w miejsce słowa „miłość\" imię Jezusa. **Co się dzieje z tym tekstem? A co się dzieje, gdy wstawicie własne imię?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Które z tych określeń najtrudniej zachować wobec kogoś, z kim się mieszka pod jednym dachem?** Dlaczego bliskość to utrudnia?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Paweł nie opisuje miłości ani jednym przymiotnikiem. W greckim tekście jest szesnaście czasowników: miłość coś robi albo czegoś nie robi. To ważne dla każdego, kto myśli, że jego miłość się skończyła, bo przestał ją czuć. W innych listach Paweł nazywa miłość owocem Ducha. Ten rozdział nie jest więc listą wymagań do spełnienia o własnych siłach, tylko opisem tego, o co warto prosić.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Wyżsi od siebie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Flp 2,3-5",
+       "przeklad": "BW",
+       "akapity": [
+        "I nie czyńcie nic z kłótliwości ani przez wzgląd na próżną chwałę, lecz w pokorze uważajcie jedni drugich za wyższych od siebie. Niechaj każdy baczy nie tylko na to, co jego, lecz i na to, co cudze. Takiego bądźcie względem siebie usposobienia, jakie było w Chrystusie Jezusie,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł pisze to do całego zboru, nie do małżonków. **Co by się stało z najczęstszym sporem w waszym domu, gdyby oboje przeczytali przed nim te trzy zdania?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Tam, gdzie BW ma „nie myśli nic złego\", stoi greckie `logizomai`, termin z rachunkowości: zapisywać na koncie. Miłość nie prowadzi księgi krzywd. Z kolei „wszystko zakrywa\" to czasownik `stego`, spokrewniony ze słowem „dach\". Znaczy okrywać, osłaniać, chronić. Nie chodzi o ukrywanie zła, tylko o to, że miłość osłania człowieka, zamiast go wystawiać.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak wygląda małżeństwo albo przyjaźń, w której ktoś prowadzi dokładną księgę?** Co dzieje się z zapisami w takiej księdze, gdy nikt ich nie wymazuje?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Mocna jak śmierć",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "PnP 8,6-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Połóż mnie jak pieczęć na swoim sercu, jak obrączkę na swoim ramieniu. Albowiem miłość jest mocna jak śmierć, namiętność twarda jak Szeol. Jej żar to żar ognia, to płomień Pana. Wielkie wody nie ugaszą miłości, a strumienie nie zaleją jej. Jeśliby kto chciał oddać za miłość całe swoje mienie, to czy zasługuje na pogardę?"
+       ]
+      },
+      {
+       "odnosnik": "Oz 2,21-22",
+       "przeklad": "BW",
+       "akapity": [
+        "I zaręczę cię z sobą na wieki; zaręczę cię z sobą na zasadzie sprawiedliwości i prawa, miłości i zmiłowania. I zaręczę cię z sobą na zasadzie wierności, i poznasz Pana."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Pieśń nad Pieśniami nazywa miłość dwojga ludzi „płomieniem Pana\". **Co to mówi o tym, skąd ta miłość pochodzi i kto ją podtrzymuje, gdy słabnie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "U Ozeasza to Bóg mówi jak narzeczony, i mówi to do ludu, który Go zdradził. **Jakie słowa padają w Jego przysiędze? Co z tego wynika dla kogoś, czyje ludzkie przymierze zostało złamane albo nigdy nie zostało zawarte?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Jeżeli małżeństwo jest obrazem miłości Boga do ludzi, to co jest oryginałem, a co kopią?** Co to zmienia dla małżonków, a co dla samotnych?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Wesele, na które wszyscy są zaproszeni",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 19,7-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Weselmy się i radujmy się, i oddajmy mu chwałę, gdyż nastało wesele Baranka, i oblubienica jego przygotowała się; i dano jej przyoblec się w czysty, lśniący bisior, a bisior oznacza sprawiedliwe uczynki świętych. I rzecze do mnie: Napisz: Błogosławieni, którzy są zaproszeni na weselną ucztę Baranka. I rzecze do mnie: To są prawdziwe Słowa Boże."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Biblia zaczyna się od ślubu w ogrodzie i kończy się weselem. **Kto jest na tym ostatnim weselu oblubienicą? Co to mówi o miejscu każdego z nas, bez względu na to, jak potoczyło się nasze życie?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł opisuje miłość czasownikami. **Który z nich jest teraz najbardziej potrzebny w twoich najbliższych relacjach: w małżeństwie, w rodzinie, w przyjaźni?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdzie w bliskiej relacji najłatwiej przychodzi ci prowadzenie księgi krzywd?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **co z dzisiejszych tekstów było dla ciebie dobrą wiadomością, a co uwierało?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł pisze, że miłość „wszystko znosi\", a Malachiasz mówi o przymierzu, którego świadkiem jest Bóg. Równocześnie są domy, w których jedna strona jest krzywdzona. **Gdzie kończy się cierpliwość, o której mówi 1Kor 13, a zaczyna obowiązek ochrony siebie i dzieci? Czy odejście w bezpieczne miejsce łamie przymierze, czy może łamie je ten, kto krzywdzi?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie produkuj reguły. Warto jednak, żeby padło jasno: u Malachiasza Bóg staje po stronie żony, której mąż „stał się niewierny\", a nie po stronie instytucji. Szukanie bezpieczeństwa nie jest zdradą przymierza. Jeśli ktoś pyta o to bardzo konkretnie, to może nie jest pytanie teoretyczne. Zobacz pierwszą czerwoną flagę.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Małżeństwo jest przymierzem dwojga, którzy oddają siebie, i obrazem miłości, w której jest miejsce dla każdego.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Ef 5,21 albo Oz 2,21.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przeczytaj w samotności 1Kor 13,4-7 i przy każdym czasowniku zadaj sobie pytanie: **jak to wygląda z drugiej strony, oczami osoby, która ze mną żyje?** Nie usprawiedliwiaj się i nie potępiaj. Patrz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jeśli jesteś w małżeństwie: zapytaj Boga, **w czym ostatnio czekałeś, aż druga strona odda coś pierwsza**. Jeśli nie jesteś: zapytaj Go, co w tobie odzywa się, gdy słyszysz słowo „małżeństwo\", i powiedz Mu to bez upiększeń.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** zostań przez chwilę ze zdaniem „zaręczę cię z sobą na wieki\" jako skierowanym do ciebie. Zauważ, co w tobie mu nie dowierza.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi albo daje do zrozumienia, że w jego domu jest przemoc: bicie, groźby, kontrola, poniżanie, strach.** To nie jest „trudne małżeństwo\" i nie jest to temat na forum grupy. Nie doradzaj cierpliwości, nie cytuj wersetów o uległości ani o znoszeniu wszystkiego i nie proponuj wspólnej rozmowy z obojgiem małżonków, bo to bywa niebezpieczne dla osoby krzywdzonej. Porozmawiaj z nią po spotkaniu na osobności. Powiedz wprost: to nie twoja wina, Biblia tego nie każe znosić, masz prawo szukać bezpieczeństwa. Podaj numer Niebieskiej Linii 800 120 002, a przy bezpośrednim zagrożeniu 112. Nie zostawaj z tym sam, poproś o pomoc pastora albo specjalistę, za zgodą tej osoby.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Pismo mówi jasno: żona ma słuchać męża i koniec.\"** Nie wchodź w spór o role. Poproś, żeby ta osoba przeczytała na głos werset 21 i werset 25, i zapytaj: „Do kogo jest pierwsze zdanie? I co Chrystus zrobił dla Kościoła?\" Jeśli ton robi się twardy, powiedz spokojnie, że tekst każdemu mówi o jego własnym oddaniu, nigdy o egzekwowaniu cudzego.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Osoba rozwiedziona mówi: „Ja to wszystko zawaliłam\" albo „U mnie się nie udało\".** Nie pocieszaj pospiesznie i nie oceniaj. Podziękuj za szczerość. Możesz wskazać Oz 2,21-22: Bóg mówi te słowa do kogoś, czyje przymierze leży w gruzach. Rozpad małżeństwa ma osobny materiał w serii Kryzysy i przełomy życia.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Osoba samotna mówi: „To spotkanie nie jest dla mnie\".** Potraktuj to poważnie. Przypomnij, że Jezus i Paweł nie mieli żon, a Paweł sam mówi na końcu, że pisze o Chrystusie i Kościele. Blok 4 i blok 5 są dla wszystkich. Jeśli wiesz z góry, że w grupie przeważają samotni, zacznij zapowiedzią, dokąd spotkanie zmierza.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna opowiadać o wadach współmałżonka.** Przerwij łagodnie, zwłaszcza gdy współmałżonek siedzi obok: „Zostańmy przy sobie. Pytanie brzmi, co ja wnoszę\". Jeśli widać, że para jest w kryzysie, zaproponuj po spotkaniu rozmowę z pastorem albo z poradnią małżeńską. Grupa nie jest terapią par.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś owdowiały milknie albo wychodzi.** Nie zatrzymuj i nie komentuj przy grupie. Po spotkaniu zadzwoń albo podejdź. Opowieść o dobrym małżeństwie bywa dla wdowy i wdowca równocześnie darem i bólem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Skróć blok 1 do dwóch pytań kluczowych i pomiń blok 2. Bloki 3, 4 i 5 muszą paść wszystkie: tekst sporny, tekst o tym, co miłość robi, i tekst, który obejmuje każdego przy stole.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś mówi albo daje do zrozumienia, że w jego domu jest przemoc: bicie, groźby, kontrola, poniżanie, strach.",
+     "odpowiedz": "To nie jest „trudne małżeństwo\" i nie jest to temat na forum grupy. Nie doradzaj cierpliwości, nie cytuj wersetów o uległości ani o znoszeniu wszystkiego i nie proponuj wspólnej rozmowy z obojgiem małżonków, bo to bywa niebezpieczne dla osoby krzywdzonej. Porozmawiaj z nią po spotkaniu na osobności. Powiedz wprost: to nie twoja wina, Biblia tego nie każe znosić, masz prawo szukać bezpieczeństwa. Podaj numer Niebieskiej Linii 800 120 002, a przy bezpośrednim zagrożeniu 112. Nie zostawaj z tym sam, poproś o pomoc pastora albo specjalistę, za zgodą tej osoby."
+    },
+    {
+     "sytuacja": "„Pismo mówi jasno: żona ma słuchać męża i koniec.\"",
+     "odpowiedz": "Nie wchodź w spór o role. Poproś, żeby ta osoba przeczytała na głos werset 21 i werset 25, i zapytaj: „Do kogo jest pierwsze zdanie? I co Chrystus zrobił dla Kościoła?\" Jeśli ton robi się twardy, powiedz spokojnie, że tekst każdemu mówi o jego własnym oddaniu, nigdy o egzekwowaniu cudzego."
+    },
+    {
+     "sytuacja": "Osoba rozwiedziona mówi: „Ja to wszystko zawaliłam\" albo „U mnie się nie udało\".",
+     "odpowiedz": "Nie pocieszaj pospiesznie i nie oceniaj. Podziękuj za szczerość. Możesz wskazać Oz 2,21-22: Bóg mówi te słowa do kogoś, czyje przymierze leży w gruzach. Rozpad małżeństwa ma osobny materiał w serii Kryzysy i przełomy życia."
+    },
+    {
+     "sytuacja": "Osoba samotna mówi: „To spotkanie nie jest dla mnie\".",
+     "odpowiedz": "Potraktuj to poważnie. Przypomnij, że Jezus i Paweł nie mieli żon, a Paweł sam mówi na końcu, że pisze o Chrystusie i Kościele. Blok 4 i blok 5 są dla wszystkich. Jeśli wiesz z góry, że w grupie przeważają samotni, zacznij zapowiedzią, dokąd spotkanie zmierza."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna opowiadać o wadach współmałżonka.",
+     "odpowiedz": "Przerwij łagodnie, zwłaszcza gdy współmałżonek siedzi obok: „Zostańmy przy sobie. Pytanie brzmi, co ja wnoszę\". Jeśli widać, że para jest w kryzysie, zaproponuj po spotkaniu rozmowę z pastorem albo z poradnią małżeńską. Grupa nie jest terapią par."
+    },
+    {
+     "sytuacja": "Ktoś owdowiały milknie albo wychodzi.",
+     "odpowiedz": "Nie zatrzymuj i nie komentuj przy grupie. Po spotkaniu zadzwoń albo podejdź. Opowieść o dobrym małżeństwie bywa dla wdowy i wdowca równocześnie darem i bólem."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Skróć blok 1 do dwóch pytań kluczowych i pomiń blok 2. Bloki 3, 4 i 5 muszą paść wszystkie: tekst sporny, tekst o tym, co miłość robi, i tekst, który obejmuje każdego przy stole."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,825 @@
+{
+ "tytul": "Inny niż ja",
+ "id": "R-12",
+ "seria": "Relacje",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Łk 6,13-16; Mt 9,9; Rz 14,1-6; Rz 14,7-13; 1Kor 12,14-22.25-26; Rz 15,1-3.5-7; J 17,20-21",
+  "p2": "Łk 9,49-50; Rz 14,14-21; Ga 3,26-28; Ef 2,14-16; Ef 4,1-6; J 17,22-23",
+  "p3": "Rz 15,7; Ga 2,11-14; Ga 1,8"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 29,
+  "p3": 34
+ },
+ "tagi": [
+  "relacje",
+  "Kościół",
+  "jedność",
+  "różnice",
+  "sumienie",
+  "osądzanie"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg przyjął mojego brata, zanim zapytał mnie o zdanie.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie nie jest o tym, kto ma rację w sporach, które dzielą zbory. Jest o tym, co robimy z bratem, który w sprawie drugorzędnej myśli i żyje inaczej niż my. Paweł w Rz 14 ma własne zdanie i go nie ukrywa, a mimo to ani razu nie wzywa stron, żeby je uzgodniły. Zajmuje się czymś innym: pogardą jednych i osądzaniem drugich. Jego zdaniem to one niszczą Kościół, a nie sama różnica.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokrewny materiał: Konflikt. Tamten mówi o sporze między dwiema osobami, ten o życiu w jednej wspólnocie z ludźmi, którzy zostaną inni.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Każdy zbór ma własną listę spraw zapalnych: jedzenie, ubiór, muzyka, sposób świętowania, wychowanie dzieci. Grupa będzie chciała rozstrzygnąć którąś z nich tu i teraz. Nie po to jest to spotkanie.",
+      "Rz 14 mówi o jarzynach i o dniach. Przy adwentystycznym stole obie rzeczy od razu budzą emocje. Przeczytaj dwie pierwsze czerwone flagi przed spotkaniem.",
+      "Każdy uważa siebie za mocnego, a drugą stronę za słabą albo za zbyt swobodną. Nie przydzielaj ról i nie pozwól ich przydzielać.",
+      "Przy stole mogą siedzieć goście z innych kościołów. To, jak grupa mówi o „tamtych\", usłyszą bardzo wyraźnie."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie rozstrzygaj żadnego konkretnego sporu. Nie mów, która strona w waszym zborze jest „słaba\". Nie dopuść do rozmowy o nieobecnych.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o kimś, kogo szczerze cenisz, a kto w jakiejś codziennej sprawie robi wszystko odwrotnie niż ty. Powiedz jednym zdaniem, co to za sprawa. Bez spraw kościelnych i bez polityki.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i lekko. To pytanie ma rozluźnić, nie otworzyć sporu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Jeden stół",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 6,13-16",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy nastał dzień, przywołał uczniów swoich i wybrał z nich dwunastu, których też nazwał apostołami: Szymona, którego nazwał Piotrem, i Andrzeja, brata jego, i Jakuba, i Jana, i Filipa, i Bartłomieja, i Mateusza, i Tomasza, i Jakuba Alfeuszowego, i Szymona, zwanego Gorliwcem, i Judasza Jakubowego, i Judasza Iskariotę, który został zdrajcą."
+       ]
+      },
+      {
+       "odnosnik": "Mt 9,9",
+       "przeklad": "BW",
+       "akapity": [
+        "I odchodząc stamtąd, ujrzał Jezus człowieka, siedzącego przy cle, imieniem Mateusz, i rzekł do niego: Pójdź za mną. A on wstał i poszedł za nim."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Na jednej liście stoją Mateusz, który pobierał cło dla okupanta, i Szymon z przydomkiem Gorliwiec. **Jak wyobrażacie sobie ich pierwsze wspólne posiłki?** O czym woleli nie rozmawiać?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Łukasz pisze, że Jezus ich „wybrał\". **Co to zmienia, że żaden z Dwunastu nie wybierał sobie pozostałych jedenastu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ewangelie nie zapisały ani jednej rozmowy, w której Jezus godzi poglądy Mateusza i Szymona. **Co w takim razie trzymało ich przy jednym stole przez trzy lata?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Celnik pracował dla systemu, który Rzym narzucił krajowi, i w oczach sąsiadów był kolaborantem. Przydomek Szymona mówi o żarliwości dla Prawa i narodu. Zorganizowane stronnictwo zelotów powstało później, ale samo słowo dobrze oddaje temperament człowieka, dla którego ktoś taki jak Mateusz był zdrajcą. Jezus posadził ich obok siebie i żadnemu nie kazał najpierw zmienić poglądów. To, co ich zebrało, było większe niż to, co ich dzieliło.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie chodzi z nami",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 9,49-50",
+       "przeklad": "BW",
+       "akapity": [
+        "A Jan odpowiadając, rzekł: Mistrzu, widzieliśmy takiego, który w twoim imieniu wygania demony i zabranialiśmy mu, ponieważ nie chodzi z nami. Wtedy Jezus rzekł do niego: Nie zabraniajcie; kto bowiem nie jest przeciwko wam, ten jest z wami."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jan podaje powód zakazu: „nie chodzi z nami\". **Czego w tym zarzucie nie ma?** Co mówi o tym, jak uczniowie rozumieli słowo „my\"?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak odpowiedź Jezusa ma się do tego, jak mówimy o chrześcijanach z innych wspólnot?** Co byśmy zabronili, gdybyśmy mogli?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Pogarda i osąd",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 14,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "A słabego w wierze przyjmujcie, nie wdając się w ocenę jego poglądów. Jeden wierzy, że może jeść wszystko, słaby zaś jarzynę jada. Niechże ten, kto je, nie pogardza tym, który nie je, a kto nie je, niech nie osądza tego, który je; albowiem Bóg go przyjął. Kimże ty jesteś, że osądzasz cudzego sługę? Czy stoi, czy pada, do pana swego należy; ostoi się jednak, bo Pan ma moc podtrzymać go. Jeden robi różnicę między dniem a dniem, drugi zaś każdy dzień ocenia jednakowo; niechaj każdy pozostanie przy swoim zdaniu. Kto przestrzega dnia, dla Pana przestrzega; kto je, dla Pana je, dziękuje bowiem Bogu; a kto nie je, dla Pana nie je, i dziękuje Bogu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł przypisuje każdej stronie inną pokusę. Jedna „pogardza\", druga „osądza\". **Która strona robi co i dlaczego właśnie tak?** Jak te dwie postawy brzmią dzisiaj, kiedy się je wypowiada na głos?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Albowiem Bóg go przyjął\". **O kim Paweł to mówi i co to zdanie robi z moim prawem do oceny?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Werset 6 mówi o obu stronach to samo: „dla Pana\" i „dziękuje Bogu\". **Co Paweł widzi w ludziach, którzy widzą w sobie nawzajem głównie błąd?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Pierwsi chrześcijanie nie mieli budynków kościelnych. Spotykali się w domach i jedli razem, więc ten spór toczył się dosłownie przy stole: ktoś podawał potrawę, której ktoś inny sumienie nie pozwalało tknąć. Warto zauważyć, czego Paweł nie robi. Ma w tej sprawie własne zdanie i wypowiada je kilka wersetów dalej, a mimo to nigdzie nie każe stronom dojść do jednego stanowiska. Zajmuje się ich postawą wobec siebie, nie ich poglądami.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Cudzy sługa",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 14,7-13",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem nikt z nas dla siebie nie żyje i nikt dla siebie nie umiera; bo jeśli żyjemy, dla Pana żyjemy; jeśli umieramy, dla Pana umieramy; przeto czy żyjemy, czy umieramy, Pańscy jesteśmy. Na to bowiem Chrystus umarł i ożył, aby i nad umarłymi i nad żywymi panować. Ty zaś czemu osądzasz swego brata? Albo i ty, czemu pogardzasz swoim bratem? Wszak wszyscy staniemy przed sądem Bożym. Bo napisano: Jakom żyw, mówi Pan, ugnie się przede mną wszelkie kolano i wszelki język wyznawać będzie Boga. Tak więc każdy z nas za samego siebie zda sprawę Bogu. Przeto nie osądzajmy już jedni drugich, ale raczej baczcie, aby nie dawać bratu powodu do upadku lub zgorszenia."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł przypomina o sądzie Bożym ludziom, którzy osądzają siebie nawzajem. **Jak myśl o tym, że sam zdam sprawę Bogu, wpływa na moją potrzebę rozliczania innych?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 13 zmienia kierunek: zamiast pilnować brata, mam pilnować, żeby nie być dla niego przeszkodą. **Na czym polega ta zamiana?** Kto w niej ponosi koszt?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Pańscy jesteśmy\". **Do kogo należy człowiek, z którym się nie zgadzam, i co z tego wynika dla tonu, jakim o nim mówię?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie dla pokarmu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 14,14-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Wiem i jestem przekonany w Panu Jezusie, że nie ma niczego, co by samo w sobie było nieczyste; nieczyste jest jedynie dla tego, kto je za nieczyste uważa. Jeżeli zaś z powodu pokarmu trapi się twój brat, to już nie postępujesz zgodnie z miłością; nie zatracaj przez swój pokarm tego, za którego Chrystus umarł. Niechże tedy to, co jest dobrem waszym, nie będzie powodem do bluźnierstwa. Albowiem Królestwo Boże, to nie pokarm i napój, lecz sprawiedliwość i pokój, i radość w Duchu Świętym. Bo kto w tym służy Chrystusowi, miły jest Bogu i przyjemny ludziom. Dążmy więc do tego, co służy ku pokojowi i ku wzajemnemu zbudowaniu. Dla pokarmu nie niszcz dzieła Bożego. Wszystko wprawdzie jest czyste, ale staje się złem dla człowieka, który przez jedzenie daje zgorszenie. Dobrze jest nie jeść mięsa i nie pić wina ani nic takiego, co by twego brata przyprawiło o upadek."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł mówi wprost, po której stronie sporu stoi, a potem każe swojej stronie ustąpić. **Dlaczego ciężar kładzie na tych, z którymi się zgadza?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Za którego Chrystus umarł\". Paweł opisuje brata od strony ceny, jaką za niego zapłacono. **Jak to zdanie ustawia proporcje między moją racją a drugim człowiekiem?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Królestwo Boże to nie pokarm i napój\". **Co w naszych rozmowach o wierze zajmuje miejsce, które Paweł rezerwuje dla sprawiedliwości, pokoju i radości?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "W Rz 14 chodzi o zgorszenie w ścisłym sensie: mój przykład pociąga kogoś do zrobienia rzeczy, którą jego własne sumienie uważa za grzech. Paweł nie mówi, że mam zrezygnować ze wszystkiego, co komukolwiek się nie podoba. Kto używa słowa „gorszysz mnie\" po to, żeby postawić na swoim, ten nie jest słabym z tego rozdziału. Jest raczej tym, który osądza.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Oko i ręka",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Kor 12,14-22.25-26",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem i ciało nie jest jednym członkiem, ale wieloma. Jeśliby rzekła noga: Ponieważ nie jestem ręką, nie należę do ciała; czy dlatego nie należy do ciała? A jeśliby rzekło ucho: Ponieważ nie jestem okiem, nie należę do ciała, czy dlatego nie należy do ciała? Jeśliby całe ciało było okiem, gdzież byłby słuch? A jeśliby całe ciało było słuchem, gdzież byłoby powonienie? Tymczasem Bóg umieścił członki w ciele, każdy z nich tak, jak chciał. A jeśliby wszystkie były jednym członkiem, gdzież byłoby ciało? A tak członków jest wiele, ale ciało jedno. Nie może więc oko powiedzieć ręce: Nie potrzebuję ciebie; albo głowa nogom: Nie potrzebuję was. Wprost przeciwnie: Te członki ciała, które zdają się być słabszymi, są potrzebniejsze, [...] aby nie było w ciele rozdwojenia, lecz aby członki miały nawzajem o sobie jednakie staranie. I jeśli jeden członek cierpi, cierpią z nim wszystkie członki; a jeśli doznaje czci jeden członek, radują się z nim wszystkie członki."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W tym fragmencie padają dwa różne zdania. Noga mówi: „nie należę\". Oko mówi: „nie potrzebuję ciebie\". **Kto w Kościele mówi pierwsze, a kto drugie?** Które zdarzyło się wam pomyśleć?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Jeśliby całe ciało było okiem\". **Jak wyglądałby zbór złożony wyłącznie z ludzi takich jak ja?** Czego by w nim nie było?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paweł pisze, że to Bóg umieścił członki w ciele, „jak chciał\". **Co to mówi o człowieku w moim zborze, którego obecność mnie męczy?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Mur",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ga 3,26-28",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem wszyscy jesteście synami Bożymi przez wiarę w Jezusa Chrystusa. Bo wszyscy, którzy zostaliście w Chrystusie ochrzczeni, przyoblekliście się w Chrystusa. Nie masz Żyda ani Greka, nie masz niewolnika ani wolnego, nie masz mężczyzny ani kobiety; albowiem wy wszyscy jedno jesteście w Jezusie Chrystusie."
+       ]
+      },
+      {
+       "odnosnik": "Ef 2,14-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem On jest pokojem naszym, On sprawił, że z dwojga jedność powstała, i zburzył w ciele swoim stojącą pośrodku przegrodę z muru nieprzyjaźni, On zniósł zakon przykazań i przepisów, aby czyniąc pokój, stworzyć w sobie samym z dwóch jednego nowego człowieka i pojednać obydwóch z Bogiem w jednym ciele przez krzyż, zniweczywszy na nim nieprzyjaźń;"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł wymienia trzy najgłębsze podziały swojego świata: narodowy, społeczny i między płciami. **Czy po chrzcie Żyd przestawał być Żydem, a niewolnik niewolnikiem?** Co w takim razie znaczy „nie masz\"?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "List do Efezjan mówi, że Chrystus zburzył mur nieprzyjaźni w swoim ciele. **Kto więc buduje mury, które stoją między wierzącymi dzisiaj, i z czego są zrobione?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Jak Chrystus nas",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 15,1-3.5-7",
+       "przeklad": "BW",
+       "akapity": [
+        "A my, którzy jesteśmy mocni, winniśmy wziąć na siebie ułomności słabych, a nie mieć upodobania w sobie samych. Każdy z nas niech się bliźniemu podoba ku jego dobru, dla zbudowania. Bo i Chrystus nie miał upodobania w sobie samym, lecz jak napisano: Urągania urągających tobie na mnie spadły. [...] A Bóg, który jest źródłem cierpliwości i pociechy, niech sprawi, abyście byli jednomyślni między sobą na wzór Jezusa Chrystusa, abyście jednomyślnie, jednymi usty wielbili Boga i Ojca Pana naszego, Jezusa Chrystusa. Przeto przyjmujcie jedni drugich, jak i Chrystus przyjął nas, ku chwale Boga."
+       ]
+      },
+      {
+       "odnosnik": "J 17,20-21",
+       "przeklad": "BW",
+       "akapity": [
+        "A nie tylko za nimi proszę, ale i za tymi, którzy przez ich słowo uwierzą we mnie. Aby wszyscy byli jedno, jak Ty, Ojcze, we mnie, a Ja w tobie, aby i oni w nas jedno byli, aby świat uwierzył, że Ty mnie posłałeś."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Jak i Chrystus przyjął nas\". **W jakim stanie Chrystus mnie przyjął i ile spraw kazał mi najpierw uporządkować?** Co z tego wynika dla kolejności: najpierw przyjąć czy najpierw poprawić?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł modli się o jednomyślność ludzi, którym przed chwilą pozwolił pozostać przy różnych zdaniach. **Na czym w takim razie polega ta jednomyślność?** Co mają robić „jednymi usty\"?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus wiąże jedność uczniów z tym, czy świat uwierzy. **Co widzi człowiek z zewnątrz, kiedy patrzy na nasze spory, i co z nich wnosi o Bogu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W świecie Pawła słabsi dostosowywali się do silniejszych. **Jak werset 1 odwraca ten porządek i dlaczego Paweł powołuje się właśnie na Chrystusa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Słowo „mocni\" pada w Liście do Rzymian tylko raz, właśnie tutaj, i od razu przy obowiązku niesienia cudzych słabości. Paweł mówi „my\", czyli staje po stronie tych, którzy mają ustąpić. Przyjęcie brata nie jest u niego jedynie naśladowaniem Jezusa. Jest oparte na fakcie: Chrystus już mnie przyjął, zanim uporządkowałem swoje poglądy i swoje życie. Nie daję więc bratu niczego, czego sam wcześniej nie dostałem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jedno ciało, jeden Duch",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ef 4,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Napominam was tedy ja, więzień w Panu, abyście postępowali, jak przystoi na powołanie wasze, z wszelką pokorą i łagodnością, z cierpliwością, znosząc jedni drugich w miłości, starając się zachować jedność Ducha w spójni pokoju: jedno ciało i jeden Duch, jak też powołani jesteście do jednej nadziei, która należy do waszego powołania; jeden Pan, jedna wiara, jeden chrzest; jeden Bóg i Ojciec wszystkich, który jest ponad wszystkimi, przez wszystkich i we wszystkich."
+       ]
+      },
+      {
+       "odnosnik": "J 17,22-23",
+       "przeklad": "BW",
+       "akapity": [
+        "A Ja dałem im chwałę, którą mi dałeś, aby byli jedno, jak my jedno jesteśmy. Ja w nich, a Ty we mnie, aby byli doskonali w jedności, żeby świat poznał, że Ty mnie posłałeś i że ich umiłowałeś, jak i mnie umiłowałeś."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nie każe jedności stworzyć, tylko ją „zachować\". **Skąd więc ta jedność się bierze i co my możemy z nią zrobić?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Znosząc jedni drugich w miłości\". To bardzo trzeźwe słowo. **Co Paweł zakłada o życiu w Kościele, skoro go używa?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł wylicza siedem rzeczy, które są jedne. **Czego na tej liście nie ma, choć o to właśnie najczęściej się spieramy?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 15,7",
+       "przeklad": "BW",
+       "akapity": [
+        "Przeto przyjmujcie jedni drugich, jak i Chrystus przyjął nas, ku chwale Boga."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Czasownik `proslambanō`, którym Paweł otwiera ten wywód w Rz 14,1 i którym go zamyka w Rz 15,7, znaczy dosłownie „wziąć do siebie\". W Nowym Testamencie opisuje przyjęcie kogoś do domu i do własnego towarzystwa. Nie chodzi więc o to, żeby brata tolerować w tej samej sali. Chodzi o to, żeby miał miejsce przy moim stole.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jaka jest różnica między tym, że kogoś w zborze toleruję, a tym, że biorę go do siebie?** Po czym druga osoba poznaje, które z dwojga ją spotkało?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: ten sam Paweł",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Apostoł, który w Rzymie pisze „niechaj każdy pozostanie przy swoim zdaniu\", w innym miejscu nie odpuszcza ani na krok. Co ciekawe, tam również chodzi o jedzenie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ga 2,11-14",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy przyszedł Kefas do Antiochii, przeciwstawiłem mu się otwarcie, bo też okazał się winnym. Zanim bowiem przyszli niektórzy od Jakuba, jadał razem z poganami; a gdy przyszli, usunął się i odłączył z obawy przed tymi, którzy byli obrzezani. A wraz z nim obłudnie postąpili również pozostali Żydzi, tak że i Barnaba dał się wciągnąć w ich obłudę. Ale gdy spostrzegłem, że nie postępują zgodnie z prawdą ewangelii, powiedziałem do Kefasa wobec wszystkich: Jeśli ty, będąc Żydem, po pogańsku żyjesz, a nie po żydowsku, czemuż zmuszasz pogan żyć po żydowsku?"
+       ]
+      },
+      {
+       "odnosnik": "Ga 1,8",
+       "przeklad": "BW",
+       "akapity": [
+        "Ale choćbyśmy nawet my albo anioł z nieba zwiastował wam ewangelię odmienną od tej, którą myśmy wam zwiastowali, niech będzie przeklęty!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jedni wyznaczają granicę według tematu: są prawdy główne, w których Kościół musi mówić jednym głosem, i sprawy drugorzędne, w których jest wolność, a trudność polega na ułożeniu obu list. Drudzy zauważają, że w Rzymie i w Antiochii temat był ten sam, a reakcja Pawła odwrotna. Różnicę widzą w skutku: w Rzymie każdy jadł po swojemu i wszyscy zostawali przy jednym stole, a w Antiochii sposób jedzenia stał się warunkiem zasiadania przy stole i odsunął od niego braci, których Bóg przyjął. Obie strony zgadzają się, że Paweł zna granicę, że wyznacza ją ewangelia, a nie przyzwyczajenie, i że ostre słowa zostawia dla tych, którzy kogoś wykluczają.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co dokładnie Paweł zarzuca Piotrowi: złą dietę, zły pogląd czy coś innego?** Przeczytajcie uważnie werset 14.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Po czym poznać, że spór w zborze przestał być sprawą z Rz 14, a stał się sprawą z Ga 2?** Spróbujcie podać kryterium, a nie przykład.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy sprawę drugorzędną można uczynić pierwszorzędną samym sposobem, w jaki się o nią walczy?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie układajcie listy prawd głównych i drugorzędnych dla waszego zboru. To nie jest zadanie grupy domowej. Wystarczy, że padnie pytanie, czy mój sposób obrony racji kogoś od stołu odsuwa.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nazwał dwie pokusy: pogardę i osąd. **Która jest bliższa tobie?** Po czym ją u siebie poznajesz, zanim cokolwiek powiesz?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pomyśl o różnicy, która najbardziej cię w Kościele drażni. **Czy należy do spraw, w których Bóg przyjął obie strony?** Skąd to wiesz?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest ktoś, kogo w zborze tolerujesz, ale nigdy nie wziąłeś do siebie?** Nie musisz mówić kto.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł każe mocnym ustępować słabym. **Co się dzieje ze wspólnotą, w której zawsze ustępują ci sami ludzie, a najbardziej skrupulatne sumienie ustala zasady dla wszystkich? Czy Rz 14 daje na to jakąś odpowiedź?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie ma tu jednej odpowiedzi. Warto, żeby padło spostrzeżenie, że Paweł zwraca się do obu stron i że słabemu również czegoś zakazuje: osądzania.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg przyjął mojego brata, zanim zapytał mnie o zdanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Rz 15,7 albo Rz 14,4.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kiedy następnym razem ktoś w zborze zrobi coś po swojemu i poczujesz ukłucie, zatrzymaj się przy nim na chwilę. Zapytaj siebie: **czy to, co czuję, to pogarda czy osąd?** Samo nazwanie wystarczy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o człowieku, z którym najbardziej się różnisz, i powiedz o nim Bogu jedno zdanie z Rz 14: „Ty go przyjąłeś\". **Zauważ, czy przechodzi ci to przez gardło.** Jeśli nie, zapytaj Boga dlaczego.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** przypomnij sobie sprawę, w której kiedyś byłeś absolutnie pewny swego, a dziś myślisz inaczej. Zapytaj siebie, jak wtedy traktowałeś ludzi, którzy myśleli tak, jak ty myślisz teraz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli szabat to też sprawa, w której każdy ma zostać przy swoim zdaniu?\"** Nie wchodź dziś w ten spór i nie zbywaj pytania. Powiedz, że cały rozdział dotyczy jedzenia, że Paweł nie wymienia szabatu z nazwy i że wielu czytelników widzi tu dni postu, o które w tamtych czasach rzeczywiście się spierano. Dodaj uczciwie, że chrześcijanie czytają ten werset różnie. Osobne spotkanie na ten temat to materiał „Rozkosz, nie ciężar\" z serii o szabacie. Dzisiejsze pytanie brzmi inaczej: jak traktuję brata, który się ze mną nie zgadza.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Paweł pisze, że słaby jada jarzyny. Czyli wegetarianie są słabi w wierze?\"** Nie. W Rzymie nie chodziło o zdrowie, tylko najpewniej o lęk przed mięsem, które mogło być nieczyste albo wcześniej ofiarowane bóstwom. Słowo „słaby\" opisuje u Pawła sumienie, które czuje się związane tam, gdzie Bóg nie wiąże. Nie opisuje jadłospisu. Kto nie je mięsa z innych powodów, nie jest bohaterem tego rozdziału. Jest nim każdy, kto drugim pogardza albo drugiego osądza, niezależnie od tego, co ma na talerzu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa zaczyna rozstrzygać konkretny spór ze zboru.** Przerwij spokojnie: „Paweł też miał zdanie i mimo to zajął się czym innym. Zróbmy jak on\". Wróć do pytania o pogardę i osąd.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„W takim razie wszystko jest względne i każdy może wierzyć, w co chce.\"** Tego tekst nie mówi. Ten sam Paweł w Liście do Galacjan nie ustępuje ani na krok, gdy chodzi o ewangelię. Rz 14 dotyczy spraw, w których Bóg przyjął obie strony. Jeśli prowadzisz poziom 3, jest tam o tym osobny blok.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o nieobecnych: „u nas to niektórzy…\".** Zatrzymaj od razu. Możesz powiedzieć: „Kimże ty jesteś, że osądzasz cudzego sługę, to zdanie Pawła, nie moje. Zostańmy przy pierwszej osobie\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Gorszysz mnie\" pada jako argument w rozmowie.** Wyjaśnij, co w tym rozdziale znaczy zgorszenie: pociągnięcie kogoś do czynu wbrew jego własnemu sumieniu. Niezadowolenie z cudzego zachowania nie jest zgorszeniem. Notka na poziomie 2 mówi o tym więcej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gość z innego kościoła czuje się oceniany.** Zareaguj od razu i ciepło. Łk 9,49-50 jest na poziomie 2, ale możesz go przeczytać zawsze: „kto nie jest przeciwko wam, ten jest z wami\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu o to, kogo toleruję, a nie przyjąłem.** To dobrze. Policz w myślach do dziesięciu. To pytanie nie wymaga odpowiedzi na głos.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 4. Bloki 2, 3 i 5 niosą spotkanie: pogarda i osąd, cudzy sługa, przyjmujcie jedni drugich.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Czyli szabat to też sprawa, w której każdy ma zostać przy swoim zdaniu?\"",
+     "odpowiedz": "Nie wchodź dziś w ten spór i nie zbywaj pytania. Powiedz, że cały rozdział dotyczy jedzenia, że Paweł nie wymienia szabatu z nazwy i że wielu czytelników widzi tu dni postu, o które w tamtych czasach rzeczywiście się spierano. Dodaj uczciwie, że chrześcijanie czytają ten werset różnie. Osobne spotkanie na ten temat to materiał „Rozkosz, nie ciężar\" z serii o szabacie. Dzisiejsze pytanie brzmi inaczej: jak traktuję brata, który się ze mną nie zgadza."
+    },
+    {
+     "sytuacja": "„Paweł pisze, że słaby jada jarzyny. Czyli wegetarianie są słabi w wierze?\"",
+     "odpowiedz": "Nie. W Rzymie nie chodziło o zdrowie, tylko najpewniej o lęk przed mięsem, które mogło być nieczyste albo wcześniej ofiarowane bóstwom. Słowo „słaby\" opisuje u Pawła sumienie, które czuje się związane tam, gdzie Bóg nie wiąże. Nie opisuje jadłospisu. Kto nie je mięsa z innych powodów, nie jest bohaterem tego rozdziału. Jest nim każdy, kto drugim pogardza albo drugiego osądza, niezależnie od tego, co ma na talerzu."
+    },
+    {
+     "sytuacja": "Grupa zaczyna rozstrzygać konkretny spór ze zboru.",
+     "odpowiedz": "Przerwij spokojnie: „Paweł też miał zdanie i mimo to zajął się czym innym. Zróbmy jak on\". Wróć do pytania o pogardę i osąd."
+    },
+    {
+     "sytuacja": "„W takim razie wszystko jest względne i każdy może wierzyć, w co chce.\"",
+     "odpowiedz": "Tego tekst nie mówi. Ten sam Paweł w Liście do Galacjan nie ustępuje ani na krok, gdy chodzi o ewangelię. Rz 14 dotyczy spraw, w których Bóg przyjął obie strony. Jeśli prowadzisz poziom 3, jest tam o tym osobny blok."
+    },
+    {
+     "sytuacja": "Ktoś mówi o nieobecnych: „u nas to niektórzy…\".",
+     "odpowiedz": "Zatrzymaj od razu. Możesz powiedzieć: „Kimże ty jesteś, że osądzasz cudzego sługę, to zdanie Pawła, nie moje. Zostańmy przy pierwszej osobie\"."
+    },
+    {
+     "sytuacja": "„Gorszysz mnie\" pada jako argument w rozmowie.",
+     "odpowiedz": "Wyjaśnij, co w tym rozdziale znaczy zgorszenie: pociągnięcie kogoś do czynu wbrew jego własnemu sumieniu. Niezadowolenie z cudzego zachowania nie jest zgorszeniem. Notka na poziomie 2 mówi o tym więcej."
+    },
+    {
+     "sytuacja": "Gość z innego kościoła czuje się oceniany.",
+     "odpowiedz": "Zareaguj od razu i ciepło. Łk 9,49-50 jest na poziomie 2, ale możesz go przeczytać zawsze: „kto nie jest przeciwko wam, ten jest z wami\"."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu o to, kogo toleruję, a nie przyjąłem.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. To pytanie nie wymaga odpowiedzi na głos."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 4. Bloki 2, 3 i 5 niosą spotkanie: pogarda i osąd, cudzy sługa, przyjmujcie jedni drugich."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,848 @@
+{
+ "tytul": "Słowa",
+ "id": "R-04",
+ "seria": "Relacje",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Jk 3,2-6; Jk 3,7-12; Prz 26,20-22; Prz 11,13; 16,28; 17,9; Mt 12,33-37; Prz 12,18; 25,11; Iz 50,4; Ef 4,29",
+  "p2": "Rdz 21,6-10; Prz 10,19; 17,27-28; Ps 141,3; Iz 6,5-7; 1P 2,22-23",
+  "p3": "Kpł 19,16; Jk 1,26; 1,5; 3,17; Prz 31,8-9"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 31
+ },
+ "tagi": [
+  "relacje",
+  "słowa",
+  "plotka",
+  "język",
+  "serce"
+ ],
+ "wersja": 1,
+ "zdanie": "Usta mówią to, czego pełne jest serce. Kto chce innych słów, niech prosi o inne serce.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie nie jest lekcją kultury języka. Jest o tym, że słowa robią coś między ludźmi, zanim zdążymy je cofnąć, i że Biblia nie szuka źródła kłopotu w ustach. Jakub opisuje szkody. Jezus pokazuje, skąd słowa się biorą. Ostatni blok pyta, co słowo może zbudować. Pilnuj tej kolejności, bo bez trzeciego kroku spotkanie kończy się postanowieniem, żeby mówić mniej, a to za mało.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole prawie na pewno siedzi ktoś, kto był obgadywany w tym zborze albo w tej grupie, i ktoś, kto obgadywał. Możliwe, że to ta sama osoba.",
+      "Ktoś nosi w sobie zdanie usłyszane w dzieciństwie od ojca, matki albo nauczyciela. Otwarcie może to poruszyć mocniej, niż się spodziewasz.",
+      "Rozmowa o plotce bardzo łatwo sama staje się plotką: „nie powiem kto, ale wszyscy wiecie\".",
+      "Hasło „nie plotkuj\" bywało używane do uciszania ludzi, którzy mówili o prawdziwej krzywdzie. Tekst na to nie pozwala. Materiał wraca do tego na poziomie 3 i w czerwonych flagach."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie podawaj przykładów z życia zboru, nawet bez nazwisk. Nie pozwól, żeby ktokolwiek opowiadał o słowach osoby nieobecnej. Nie żartuj z niczyjej gadatliwości ani małomówności.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie jedno zdanie, które ktoś kiedyś do ciebie powiedział i które pamiętasz do dziś. Nie mów, jakie to było zdanie ani kto je powiedział. Powiedz tylko, ile mniej więcej lat temu je usłyszałeś i czy było dobre, czy złe.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, jednym zdaniem. Nie dopytuj nikogo o treść. Na koniec rundy możesz zauważyć na głos tylko jedno: ile lat potrafi żyć jedno zdanie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Mały ster",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jk 3,2-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Dopuszczamy się bowiem wszyscy wielu uchybień; jeśli kto w mowie nie uchybia, ten jest mężem doskonałym, który i całe ciało może utrzymać na wodzy. A jeśli koniom wkładamy w pyski wędzidła, aby nam były posłuszne, to kierujemy całym ich ciałem. Także i okręty, chociaż są tak wielkie i gwałtownymi wichrami pędzone, kierowane bywają maleńkim sterem tam, dokąd chce wola sternika. Tak samo i język jest małym członkiem, lecz pyszni się z wielkich rzeczy. Jakże wielki las zapala mały ogień! I język jest ogniem; język jest wśród naszych członków swoistym światem nieprawości; kala on całe ciało i rozpala bieg życia, sam będąc rozpalony przez piekło."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jakub podaje trzy obrazy: wędzidło, ster i ogień. **Co łączy dwa pierwsze, a czym różni się od nich trzeci?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ster jest mały, a okręt płynie tam, dokąd ster go skieruje. **Dokąd słowa potrafią skierować małżeństwo, przyjaźń albo zbór?** Szukajcie przykładów w obie strony.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jakub zaczyna od słów „wszyscy\" i „wielu uchybień\" i sam siebie do tego wlicza. **Co zmienia w rozmowie o języku to, że zaczyna ją ktoś, kto nie stawia się ponad innymi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Wędzidło i ster to obrazy kierowania. Coś małego decyduje o kursie czegoś wielkiego. Ogień jest obrazem innego rodzaju: iskry nie da się zawołać z powrotem. Jakub pisze do ludzi, którzy znali suche zbocza nad Morzem Śródziemnym i wiedzieli, jak szybko idzie pożar. Słowo wypowiedziane działa dalej bez nas. Powtarzają je ludzie, których nie znamy, w rozmowach, o których się nie dowiemy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Tam, gdzie BW ma „piekło\", Jakub pisze `geenna`. To nazwa doliny pod murami Jerozolimy, która w czasach Jezusa była obrazem ostatecznego zniszczenia. W całym Nowym Testamencie słowa tego używa poza Jakubem tylko Jezus. Przekład ekumeniczny zostawia je bez tłumaczenia: język „jest podsycany ogniem Gehenny\". Jakub nie mówi więc, że zły język zasługuje na karę. Mówi, skąd bierze ogień. Pożar, który słowo roznieca między ludźmi, nie zaczyna się w ustach.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Z tych samych ust",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jk 3,7-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo wszelki rodzaj dzikich zwierząt i ptaków, płazów i stworzeń morskich może być ujarzmiony i został ujarzmiony przez rodzaj ludzki. Natomiast nikt z ludzi nie może ujarzmić języka, tego krnąbrnego zła, pełnego śmiercionośnego jadu. Nim wysławiamy Pana i Ojca i nim przeklinamy ludzi, stworzonych na podobieństwo Boże; z tych samych ust wychodzi błogosławieństwo i przekleństwo. Tak, bracia moi, być nie powinno. Czy źródło wydaje z tego samego otworu wodę słodką i gorzką? Czy drzewo figowe, bracia moi, może rodzić oliwki albo winna latorośl figi? Tak też słony zdrój nie może wydać słodkiej wody."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jakub zestawia pieśń śpiewaną Bogu i to, co mówimy o ludziach po wyjściu. **Dlaczego właśnie tutaj przypomina, że człowiek jest stworzony na podobieństwo Boże? Co to zmienia w ocenie słów wypowiedzianych o kimś?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Źródło nie daje na zmianę wody słodkiej i gorzkiej. My dajemy. **Co Jakub chce przez to powiedzieć o tym, gdzie naprawdę leży kłopot?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Nikt z ludzi nie może ujarzmić języka\". **Jak przyjmujecie to zdanie? Czy to wyrok, czy początek jakiejś innej rozmowy?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Sara",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 21,6-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Sara rzekła: Bóg wystawił mnie na pośmiewisko; każdy kto to usłyszy, śmiać się będzie ze mnie. I rzekła: Któż by był kiedykolwiek przepowiedział Abrahamowi, że Sara będzie karmić piersią dzieci, gdyż w starości jego urodziłam syna! A gdy dziecię podrosło i zostało odstawione od piersi, Abraham wyprawił wielką ucztę w dniu odstawienia Izaaka. A gdy Sara ujrzała, że syn Hagar, Egipcjanki, którego ta urodziła Abrahamowi, szydzi z jej syna Izaaka, rzekła do Abrahama: Wypędź tę niewolnicę i jej syna, nie będzie bowiem dziedziczył syn tej niewolnicy z moim synem Izaakiem!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Werset 6 brzmi w BW jak skarga. Hebrajskie zdanie da się odczytać także jako okrzyk radości i tak je oddaje przekład ekumeniczny: „Bóg dał mi powód do śmiechu\". Imię Izaak znaczy „śmieje się\".",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Te same usta w tym samym rozdziale mówią o Bożym cudzie i każą wyrzucić na pustynię kobietę z dzieckiem. **Co się stało między jednym zdaniem a drugim?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Sara nie wymawia imienia Hagar ani imienia Ismaela. Mówi „tę niewolnicę\" i „jej syna\". **Co dzieje się z człowiekiem, który w naszych ustach przestaje mieć imię?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Łakocie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 26,20-22",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy nie ma drzewa, ogień gaśnie; gdy nie ma oszczercy, zwada ustaje. Czym węgiel dla żaru i drzewo dla ognia, tym człowiek kłótliwy dla wzniecenia sporu. Słowa potwarcy są jak łakocie; spływają gładko w głąb ciała."
+       ]
+      },
+      {
+       "odnosnik": "Prz 11,13",
+       "przeklad": "BW",
+       "akapity": [
+        "Kto chodzi jako oszczerca, zdradza tajemnice; lecz człowiek godny zaufania dochowuje tajemnicy."
+       ]
+      },
+      {
+       "odnosnik": "Prz 16,28",
+       "przeklad": "BW",
+       "akapity": [
+        "Człowiek przewrotny wywołuje zwadę, a oszczerca skłóca ze sobą przyjaciół."
+       ]
+      },
+      {
+       "odnosnik": "Prz 17,9",
+       "przeklad": "BW",
+       "akapity": [
+        "Zataja występek ten, komu zależy na przyjaźni; lecz kto o nim rozgłasza, rozłącza przyjaciół."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Słowa potwarcy są jak łakocie\". To zdanie nie opisuje tego, kto plotkę opowiada, tylko tego, kto jej słucha. **Dlaczego cudza sprawa tak dobrze smakuje? Co dostajemy, kiedy jej słuchamy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ogień gaśnie, kiedy nie ma drzewa. **Kto w tym obrazie jest drzewem? Co konkretnie można zrobić, żeby nim nie być?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Prz 17,9 mówi o kimś, kto zataja cudzy występek, bo zależy mu na przyjaźni. **Czym różni się takie milczenie od zamiatania zła pod dywan?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Wiele przypowieści niczego nie nakazuje, tylko opisuje, jak jest. Zdanie o łakociach nie chwali plotki. Mówi uczciwie, że smakuje, i to jest pierwsza rzecz, którą trzeba o niej wiedzieć. Plotka daje poczucie bliskości z tym, kto opowiada, i poczucie wyższości nad tym, o kim mowa. Jedno i drugie dostajemy cudzym kosztem. W tych czterech zdaniach skutek jest zawsze ten sam: przyjaciele przestają być przyjaciółmi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Kiedy milczeć",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 10,19",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdzie dużo słów, tam nie brak występku; lecz kto opanowuje swój język, jest roztropny."
+       ]
+      },
+      {
+       "odnosnik": "Prz 17,27-28",
+       "przeklad": "BW",
+       "akapity": [
+        "Kto oszczędza swych słów, jest rozsądny, a kto zachowuje spokój ducha, jest roztropny. Nawet głupiec, gdy milczy, uchodzi za mądrego, za roztropnego, gdy zamyka usta."
+       ]
+      },
+      {
+       "odnosnik": "Ps 141,3",
+       "przeklad": "BW",
+       "akapity": [
+        "Panie, postaw straż przed ustami moimi, Pilnuj drzwi warg moich!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalmista nie obiecuje, że sam upilnuje swoich ust. Prosi, żeby Bóg postawił przy nich straż. **Co ta prośba mówi o tym, jak ocenia własne możliwości?** Zestawcie ją ze zdaniem Jakuba, że nikt z ludzi języka nie ujarzmi.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Milczenie też potrafi ranić: ciche dni, brak odpowiedzi, wymowne pominięcie kogoś. **Po czym odróżnić milczenie, które jest mądrością, od milczenia, które jest karą?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kpł 19,16",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie będziesz szerzył oszczerstw wśród ludu swojego i nie będziesz nastawał na życie swego bliźniego; Jam jest Pan."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajski mówi tu dosłownie: „nie będziesz chodził jako `rachil` wśród swojego ludu\". To samo wyrażenie stoi w Prz 11,13, które BW oddaje słowami „kto chodzi jako oszczerca\". Wyraz `rachil` jest spokrewniony ze słowem oznaczającym wędrownego kupca. Plotkarz to w tym obrazie domokrążca: chodzi od drzwi do drzwi, rozkłada towar i zawsze znajduje kupca. Warto też zauważyć, co stoi w drugiej połowie wersetu. Prawo stawia roznoszenie słów tuż obok nastawania na czyjeś życie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Handel wymaga dwóch stron. **Czym płaci ten, kto plotkę „kupuje\"? A czym płaci ten, o kim ona jest?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Skarbiec",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 12,33-37",
+       "przeklad": "BW",
+       "akapity": [
+        "Zasadźcie drzewo dobre, to i owoc będzie dobry, albo zasadźcie drzewo złe, to i owoc będzie zły; albowiem z owocu poznaje się drzewo. Plemiona żmijowe! Jakże możecie mówić dobrze, będąc złymi? Albowiem z obfitości serca mówią usta. Dobry człowiek wydobywa z dobrego skarbca dobre rzeczy, a zły człowiek wydobywa ze złego skarbca złe rzeczy. A powiadam wam, że z każdego nieużytecznego słowa, które ludzie wyrzekną, zdadzą sprawę w dzień sądu. Albowiem na podstawie słów twoich będziesz usprawiedliwiony i na podstawie słów twoich będziesz potępiony."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Z obfitości serca mówią usta\". Zwykle tłumaczymy się odwrotnie: „wymknęło mi się, wcale tak nie myślę\". **Co Jezus robi z takim tłumaczeniem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi o drzewie i owocu, Jakub o źródle i wodzie. **Jeżeli obaj mają rację, to od czego trzeba zacząć zmianę sposobu mówienia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus mówi o słowie „nieużytecznym\", a nie o słowie kłamliwym albo okrutnym. **Jakie słowa mieszczą się w tej kategorii? Dlaczego akurat one mają znaczenie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jezus mówi to do ludzi, którzy przed chwilą nazwali Jego uzdrowienie dziełem diabła. Nie wytyka im doboru słów, tylko pyta, co mają w środku. Słowa są w tym tekście objawem, a nie chorobą. Dlatego samo pilnowanie ust nie wystarcza i z czasem męczy. Kto chce mówić inaczej, potrzebuje innego skarbca. To przesuwa całe spotkanie z pytania „jak mam się hamować\" na pytanie „czym się napełniam\".",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Węgiel z ołtarza",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 6,5-7",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekłem: Biada mi! Zginąłem, bo jestem człowiekiem nieczystych warg i mieszkam pośród ludu nieczystych warg, gdyż moje oczy widziały Króla, Pana Zastępów. Wtedy przyleciał do mnie jeden z serafów, mając w ręku rozżarzony węgielek, który szczypcami wziął z ołtarza, I dotknął moich ust, i rzekł: Oto dotknęło to twoich warg i usunięta jest twoja wina, a twój grzech odpuszczony."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Izajasz staje przed Bogiem i pierwszą rzeczą, którą w sobie widzi, są wargi. **Dlaczego akurat one?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Izajasz nie składa obietnicy poprawy. **Skąd przychodzi oczyszczenie jego ust i kto je wykonuje?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakub pisał o języku rozpalonym ogniem z dołu. Tutaj ust dotyka ogień z ołtarza. **Co mówi wam to zestawienie dwóch ogni?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: ujarzmić to, czego nikt nie ujarzmi",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jakub pisze, że nikt z ludzi nie może ujarzmić języka. Dwa rozdziały wcześniej pisze coś, co brzmi jak wymaganie dokładnie tej niemożliwej rzeczy.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jk 1,26",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeśli ktoś sądzi, że jest pobożny, a nie powściąga języka swego, lecz oszukuje serce swoje, tego pobożność jest bezużyteczna."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jk 1,5",
+       "przeklad": "BW",
+       "akapity": [
+        "A jeśli komu z was brak mądrości, niech prosi Boga, który wszystkich obdarza chętnie i bez wypominania, a będzie mu dana."
+       ]
+      },
+      {
+       "odnosnik": "Jk 3,17",
+       "przeklad": "BW",
+       "akapity": [
+        "Ale mądrość, która jest z góry, jest przede wszystkim czysta, następnie miłująca pokój, łagodna, ustępliwa, pełna miłosierdzia i dobrych owoców, nie stronnicza, nie obłudna."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak pogodzić zdanie o języku, którego nikt nie ujarzmi, z wymaganiem, żeby go powściągać?** Przyjrzyjcie się słowom „nikt z ludzi\" oraz temu, o co Jakub każe prosić i skąd według niego przychodzi mądrość.",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie chodzi o zgrabną formułę. Warto natomiast, żeby padło spostrzeżenie, że Jakub nie mówi „nikt\", tylko „nikt z ludzi\", i że w jego liście to, czego człowiekowi brakuje, przychodzi „z góry\" i jest dane temu, kto prosi. Tą samą drogą poszedł Izajasz i autor Psalmu 141.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Słowo, które leczy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 12,18",
+       "przeklad": "BW",
+       "akapity": [
+        "Kto mówi nierozważnie, rani jak miecz; lecz język mędrców leczy."
+       ]
+      },
+      {
+       "odnosnik": "Prz 25,11",
+       "przeklad": "BW",
+       "akapity": [
+        "Słowo wypowiedziane we właściwym czasie jest jak złote jabłko na srebrnych czaszach."
+       ]
+      },
+      {
+       "odnosnik": "Iz 50,4",
+       "przeklad": "BW",
+       "akapity": [
+        "Wszechmogący Pan dał mi język ludzi uczonych, abym umiał spracowanemu odpowiedzieć miłym słowem, każdego ranka budzi moje ucho, abym słuchał jak ci, którzy się uczą."
+       ]
+      },
+      {
+       "odnosnik": "Ef 4,29",
+       "przeklad": "BW",
+       "akapity": [
+        "Niech żadne nieprzyzwoite słowo nie wychodzi z ust waszych, ale tylko dobre, które może budować, gdy zajdzie potrzeba, aby przyniosło błogosławieństwo tym, którzy go słuchają."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Do tej pory język był ogniem, jadem i mieczem. Tutaj leczy, buduje i przynosi błogosławieństwo. **Wróćcie do zdania z otwarcia, jeśli było dobre. Co sprawiło, że zostało z wami na lata?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Sługa z Księgi Izajasza umie odpowiedzieć zmęczonemu, bo każdego ranka ktoś budzi jego ucho. **Jaki jest związek między słuchaniem a mówieniem? Co z niego wynika dla kogoś, kto chce mówić lepiej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paweł dodaje trzy warunki dobrego słowa: ma budować, ma paść wtedy, gdy zajdzie potrzeba, i ma przynieść coś słuchającym. **Które z tych trzech sit jest dla was najtrudniejsze?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Usta, w których nie było zdrady",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1P 2,22-23",
+       "przeklad": "BW",
+       "akapity": [
+        "On grzechu nie popełnił ani nie znaleziono zdrady w ustach jego; On, gdy mu złorzeczono, nie odpowiadał złorzeczeniem, gdy cierpiał, nie groził, lecz poruczał sprawę temu, który sprawiedliwie sądzi;"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr stał na dziedzińcu arcykapłana i słyszał, co Jezus mówił i czego nie mówił, kiedy Go lżono. Wiele lat później pamięta przede wszystkim Jego usta. **Co Jezus zrobił z krzywdą, skoro nie odpowiedział na nią słowem?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czym różni się milczenie Jezusa od milczenia kogoś, kto się boi albo dusi w sobie urazę?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**W jakich sytuacjach twoje słowa najczęściej wyprzedzają ciebie samego?** Przy zmęczeniu, w pośpiechu, przy konkretnych ludziach, w wiadomościach pisanych na telefonie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi, że usta czerpią ze skarbca. **Czym twój skarbiec napełnia się w zwykłym tygodniu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest ktoś, komu od dawna jesteś winien dobre słowo i wciąż go nie powiedziałeś?** Nie musisz mówić kto.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 31,8-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Otwórz swoje usta w obronie niemego i w sprawie wszystkich opuszczonych! Otwórz swoje usta, sądź sprawiedliwie, ubogim i biednym wymierzaj sprawiedliwość!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ta sama księga, która każe dochować tajemnicy, każe otworzyć usta w obronie kogoś, kto sam się nie obroni. **Kiedy mówienie o kimś nieobecnym jest plotką, a kiedy obowiązkiem?** Spróbujcie nazwać różnicę: komu się mówi, po co i kto na tym zyskuje.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy zdarzyło się wam widzieć, że zakaz plotkowania posłużył do uciszenia kogoś, kto mówił o prawdziwej krzywdzie?** Co wtedy poszło nie tak?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie zamykaj tego jedną regułą. Pomaga rozróżnienie, które wynika z samych tekstów: plotka idzie do ludzi, którzy nic nie mogą zrobić, i karmi tego, kto mówi. Słowo w obronie idzie do kogoś, kto może pomóc, i służy skrzywdzonemu.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Usta mówią to, czego pełne jest serce. Kto chce innych słów, niech prosi o inne serce.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Mt 12,34b albo Ps 141,3.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kiedy najbliższym razem złapiesz się na tym, że mówisz o kimś nieobecnym, nie oceniaj się od razu. Zapytaj siebie o jedno: **co właśnie dostaję z tej rozmowy?** Bliskość, ulgę, poczucie, że jestem lepszy, coś jeszcze.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Wróć do zdania z otwarcia. Jeśli było złe, powiedz Bogu wprost, co ono w tobie zrobiło i ile miejsca wciąż zajmuje. Jeśli było dobre, zapytaj: **kto czeka na takie zdanie ode mnie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli wiesz, że twoje słowa kogoś zraniły, a nigdy do tego nie wróciłeś, stań z tym przed Bogiem, zanim pójdziesz do człowieka. Zapytaj Go, z jakiego skarbca tamte słowa wyszły.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna opowiadać, co o nim mówiono w zborze, i wiadomo, o kogo chodzi.** Przerwij łagodnie, zanim padną szczegóły: „Widzę, że to cię boli, i chcę tego wysłuchać po spotkaniu. Tutaj umówmy się, że nie mówimy o nieobecnych\". Potem naprawdę zostań i wysłuchaj.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja tylko mówię prawdę. Jestem szczery, a ludzie się obrażają.\"** Nie spieraj się o szczerość. Wróć do Ef 4,29: prawdziwość to za mało, Paweł pyta jeszcze, czy słowo buduje, czy pada w porę i co daje słuchającemu. Zapytaj: „Które z tych trzech sit najczęściej pomijasz?\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli o niczym złym nie wolno mówić? A jak ktoś robi komuś krzywdę?\"** To ważne pytanie i tekst mu sprzyja. Prz 31,8-9 każe otworzyć usta w obronie słabszego. Powiedzenie właściwej osobie o przemocy, nadużyciu albo zagrożeniu dziecka nie jest plotką. Jeżeli ktoś w grupie daje do zrozumienia, że sam jest w takiej sytuacji, porozmawiaj z nim po spotkaniu i nie zostawaj z tym sam.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o zdaniu z dzieciństwa i zaczyna płakać.** Nie pocieszaj na siłę i nie tłumacz rodziców. Daj chwilę ciszy, podziękuj. Możesz powiedzieć, że właśnie widać, o czym pisał Jakub: jedno zdanie, tyle lat. Wróć do tekstu dopiero wtedy, gdy ta osoba będzie gotowa.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa o plotce zamienia się w plotkę.** Zdarza się niemal zawsze. Powiedz z uśmiechem, że właśnie dołożyliście drzewa do ognia, i zadaj następne pytanie. Nie zawstydzaj osoby, która zaczęła.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja mam po prostu taki charakter, co w sercu, to na języku.\"** Zgódź się, że to dokładnie słowa Jezusa, i odwróć pytanie: „Skoro na języku jest to, co w sercu, to co twoje słowa mówią o tym, co tam jest?\" Bez nacisku. Wystarczy, że pytanie zawiśnie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu o skarbiec.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 3 i idź od bloku 2 prosto do bloku 4. Blok 4 niesie całe spotkanie, a blok 5 nie pozwala skończyć na samej diagnozie.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś zaczyna opowiadać, co o nim mówiono w zborze, i wiadomo, o kogo chodzi.",
+     "odpowiedz": "Przerwij łagodnie, zanim padną szczegóły: „Widzę, że to cię boli, i chcę tego wysłuchać po spotkaniu. Tutaj umówmy się, że nie mówimy o nieobecnych\". Potem naprawdę zostań i wysłuchaj."
+    },
+    {
+     "sytuacja": "„Ja tylko mówię prawdę. Jestem szczery, a ludzie się obrażają.\"",
+     "odpowiedz": "Nie spieraj się o szczerość. Wróć do Ef 4,29: prawdziwość to za mało, Paweł pyta jeszcze, czy słowo buduje, czy pada w porę i co daje słuchającemu. Zapytaj: „Które z tych trzech sit najczęściej pomijasz?\""
+    },
+    {
+     "sytuacja": "„Czyli o niczym złym nie wolno mówić? A jak ktoś robi komuś krzywdę?\"",
+     "odpowiedz": "To ważne pytanie i tekst mu sprzyja. Prz 31,8-9 każe otworzyć usta w obronie słabszego. Powiedzenie właściwej osobie o przemocy, nadużyciu albo zagrożeniu dziecka nie jest plotką. Jeżeli ktoś w grupie daje do zrozumienia, że sam jest w takiej sytuacji, porozmawiaj z nim po spotkaniu i nie zostawaj z tym sam."
+    },
+    {
+     "sytuacja": "Ktoś mówi o zdaniu z dzieciństwa i zaczyna płakać.",
+     "odpowiedz": "Nie pocieszaj na siłę i nie tłumacz rodziców. Daj chwilę ciszy, podziękuj. Możesz powiedzieć, że właśnie widać, o czym pisał Jakub: jedno zdanie, tyle lat. Wróć do tekstu dopiero wtedy, gdy ta osoba będzie gotowa."
+    },
+    {
+     "sytuacja": "Rozmowa o plotce zamienia się w plotkę.",
+     "odpowiedz": "Zdarza się niemal zawsze. Powiedz z uśmiechem, że właśnie dołożyliście drzewa do ognia, i zadaj następne pytanie. Nie zawstydzaj osoby, która zaczęła."
+    },
+    {
+     "sytuacja": "„Ja mam po prostu taki charakter, co w sercu, to na języku.\"",
+     "odpowiedz": "Zgódź się, że to dokładnie słowa Jezusa, i odwróć pytanie: „Skoro na języku jest to, co w sercu, to co twoje słowa mówią o tym, co tam jest?\" Bez nacisku. Wystarczy, że pytanie zawiśnie."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu o skarbiec.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3 i idź od bloku 2 prosto do bloku 4. Blok 4 niesie całe spotkanie, a blok 5 nie pozwala skończyć na samej diagnozie."
+    }
+   ]
+  }
+ ]
+}

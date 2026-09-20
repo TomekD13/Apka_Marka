@@ -1,0 +1,745 @@
+{
+ "tytul": "Kryzys wiary",
+ "id": "K-06",
+ "seria": "Kryzysy i przełomy życia",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Ps 77,2-10; 1Krl 19,9-14.18; Lm 3,17-26; J 6,60-69; Ps 77,11-16.20-21",
+  "p2": "Jr 20,7-9; Lm 3,1-8; Łk 22,31-32; Mt 28,16-20",
+  "p3": "Mt 14,29-31; Ps 73,16-17"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 25,
+  "p3": 28
+ },
+ "tagi": [
+  "kryzys",
+  "wiara",
+  "zwątpienie",
+  "nadzieja",
+  "pamięć",
+  "odejście"
+ ],
+ "wersja": 1,
+ "zdanie": "Wiara nie zawsze widzi ślady. Czasem tylko pamięta, że droga już raz wiodła przez morze.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o chwili, w której wiara przestaje działać. Nie o ciekawości ani o pytaniach intelektualnych, tylko o załamaniu: coś się stało albo długo nic się nie działo i człowiek, który wierzył, nie umie już się modlić. Biblia nie ukrywa, że przechodzili przez to jej najważniejsi ludzie: przełożony świątynnych śpiewaków, największy z proroków, autor Lamentacji, uczniowie Jezusa. Żaden z tych tekstów nie zawiera nagany. Spotkanie ma dać ludziom dwie rzeczy: pozwolenie, żeby powiedzieć Bogu prawdę, i kilka sposobów, w jakie ludzie Biblii przetrwali noc.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "O pytaniach i wątpliwościach jako takich jest osobny materiał w serii Pytania. O wyczerpaniu Eliasza pod krzakiem na pustyni mówi materiał Zniechęcenie. Tutaj czytamy dalszy ciąg tamtej sceny, rozmowę na górze Horeb.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole może właśnie teraz nie wierzyć i przychodzić z rozpędu albo dla rodziny. Dla tej osoby najważniejsze jest, żeby nikt jej nie naprawiał.",
+      "Ktoś ma dziecko, męża albo przyjaciela, który odszedł od wiary. Będzie czytał J 6 z myślą o nim.",
+      "Kryzys wiary bywa skutkiem krzywdy doznanej w kościele. Wtedy obrona kościoła jest ostatnią rzeczą, jakiej ta osoba potrzebuje.",
+      "To, co wygląda na kryzys wiary, bywa depresją. Grupa tego nie rozpozna i nie musi, ale prowadzący powinien o tym pamiętać."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie dawaj recept w rodzaju „więcej się módl, więcej czytaj\". Nie pozwól grupie przekonywać wątpiącego argumentami. Nie pytaj nikogo, jak jest teraz z jego wiarą. Nie kończ spotkania triumfalnie. Psalm 77 tak się nie kończy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o czymś, czemu kiedyś ufałeś bez zastrzeżeń, i nie chodzi o Boga: człowiek, instytucja, plan na życie. Powiedz jednym słowem, co poczułeś, kiedy to zaufanie pierwszy raz się zachwiało.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, jednym słowem i jednym zdaniem wyjaśnienia. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Pytania, których nie wypada zadawać",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 77,2-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Głośno wołam do Boga i krzyczę, Głośno wołam do Boga, aby mnie usłyszał. Szukam Pana w dniu mej niedoli, Ręka moja jest wyciągnięta w nocy i nie mdleje. Dusza moja nie chce przyjąć pocieszenia. Gdy wspominam o Bogu, jęczę, Gdy rozmyślam, duch mój omdlewa. Sela. Trzymałeś otwarte powieki oczu moich, abym nie spał, Byłem zaniepokojony, tak iż nie mogłem mówić. Przywodzę na pamięć dni dawne, Wspominam lata odległe. Rozważam w nocy w sercu, Rozmyślam i duch mój docieka: Czy Pan na wieki odrzuca I nigdy już nie okaże łaski? Czy ustała na zawsze łaska jego? Czy cofnięta została obietnica jego na wieki? Czy Bóg zapomniał litości, Czy w gniewie stłumił miłosierdzie swoje? Sela."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Wypiszcie pytania z końca tego fragmentu.** To nie są pytania ciekawego, tylko przerażonego. Czego ten człowiek się boi? Co znaczy to, że takie pytania stoją w Biblii, w księdze pieśni śpiewanych na nabożeństwie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Gdy wspominam o Bogu, jęczę\". Myśl o Bogu, która kiedyś niosła, teraz boli. **Jak do tego dochodzi?** Dlaczego wspomnienie „dni dawnych\" potrafi pogorszyć sprawę, zamiast pomóc?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Psalmista nie śpi i mówi Bogu: to Ty trzymasz mi powieki. **Co ten zarzut mówi o jego wierze?** Do kogo się zwraca człowiek, który naprawdę przestał wierzyć?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Nagłówek przypisuje ten psalm Asafowi. Asaf był przełożonym śpiewaków, których Dawid postawił przed Arką. Człowiek, który zawodowo prowadził innych w uwielbieniu, pisze pieśń o nocy, w której sam nie umie przyjąć pocieszenia, i oddaje ją zgromadzeniu do śpiewania. Izrael miał więc w swoim śpiewniku gotowe słowa na chwilę, gdy wiara się sypie. Nikt nie musiał ich wymyślać sam ani się ich wstydzić.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Prorok, który chciał przestać",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jr 20,7-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Namówiłeś mnie, Panie, i dałem się namówić; pochwyciłeś mnie i przemogłeś. Stałem się pośmiewiskiem na co dzień, każdy szydzi ze mnie. Gdyż ilekroć przemawiam, muszę krzyczeć i wołać: Gwałt i zniszczenie! I tak słowo Pana stało mi się hańbą i pośmiewiskiem na co dzień. A gdy pomyślałem: Nie wspomnę o nim i już nie przemówię w Jego imieniu, to stało się to w moim sercu jak ogień płonący, zamknięty w moich kościach. Mozoliłem się, by go znieść, lecz nie zdołałem."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeremiasz mówi Bogu, że czuje się przez Niego oszukany. **Co to mówi o relacji, w której takie zdanie może paść?** Czy mówi się tak do kogoś, kto jest nam obojętny?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Prorok postanawia zamilknąć o Bogu i nie daje rady. **Co to za „ogień zamknięty w kościach\"?** Czy znacie stan, w którym nie da się wierzyć i nie da się przestać?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Co tu robisz?",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Eliasz po wielkim zwycięstwie na Karmelu ucieka przed królową, prosi o śmierć, śpi, je i idzie czterdzieści dni na górę Horeb. Tam chowa się w pieczarze.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Krl 19,9-14.18",
+       "przeklad": "BW",
+       "akapity": [
+        "I wszedł tam do pieczary, aby tam przenocować. Lecz oto doszło go słowo Pana tej treści: Co tu robisz, Eliaszu? A on odpowiedział: Gorliwie stawałem w obronie Pana, Boga Zastępów, gdyż synowie izraelscy porzucili przymierze z tobą, poburzyli twoje ołtarze, a twoich proroków wybili mieczem. Pozostałem tylko ja sam, lecz i tak nastają na moje życie, aby mi je odebrać. Rzekł więc do niego: Wyjdź i stań na górze przed Panem. A oto Pan przechodził, a wicher potężny i silny, wstrząsający górami i kruszący skały szedł przed Panem; lecz w tym wichrze nie było Pana. A po wichrze było trzęsienie ziemi, lecz w tym trzęsieniu ziemi nie było Pana. Po trzęsieniu ziemi był ogień, lecz w tym ogniu nie było Pana. A po ogniu cichy łagodny powiew. Gdy go Eliasz usłyszał, zakrył płaszczem swoją twarz, wyszedł i stanął u wejścia do pieczary, a wtedy doszedł go głos: Co tu robisz, Eliaszu? A on odpowiedział: Gorliwie stawałem w obronie Pana, Boga Zastępów, gdyż synowie izraelscy porzucili przymierze z tobą, twoje ołtarze poburzyli, a twoich proroków wybili mieczem. Pozostałem tylko ja sam, lecz i tak nastają na moje życie, aby mi je odebrać. [...]",
+        "Zachowam w Izraelu jako resztkę siedem tysięcy, tych wszystkich, których kolana nie ugięły się przed Baalem, i tych wszystkich, których usta go nie całowały."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg dwa razy zadaje to samo pytanie. Eliasz dwa razy odpowiada słowo w słowo, także po wichrze, trzęsieniu ziemi, ogniu i ciszy. **Co to mówi o stanie, w jakim jest Eliasz?** Co Bóg robi z człowiekiem, do którego w tej chwili nic nie dociera?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Eliasz: „Pozostałem tylko ja sam\". Bóg: siedem tysięcy. Prorok mylił się co do faktów i był tego pewien. **Jak kryzys wiary zniekształca to, co widzimy: w sobie, w innych wierzących, w Bogu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Kilka dni wcześniej Bóg odpowiedział Eliaszowi ogniem z nieba. Teraz nie ma Go w ogniu, jest cichy powiew. **Co się dzieje z wiarą, która czeka na Boga tylko w jednej postaci?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W całej tej scenie Bóg ani razu nie gani Eliasza i nie pyta, gdzie się podziała jego wiara. Pyta, co tu robi, i słucha tej samej skargi dwa razy. Potem daje mu trzy rzeczy: zadanie na najbliższe dni, następcę, który pójdzie z nim dalej, i sprostowanie. Nie jesteś sam, nigdy nie byłeś. Samotność Eliasza była prawdziwym uczuciem i nieprawdziwą informacją.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Przepadła moja nadzieja",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Lm 3,17-26",
+       "przeklad": "BW",
+       "akapity": [
+        "Mojej duszy odebrał spokój, tak że zapomniałem, co to jest szczęście. I myślałem: Przepadła moja siła żywotna i moja nadzieja w Panu. Wspominanie własnej niedoli i udręki to piołun i trucizna. Moja dusza bezustannie to wspomina i trapi się we mnie. To biorę sobie do serca i w tym moja nadzieja, niewyczerpane są objawy łaski Pana, miłosierdzie jego nie ustaje. Każdego poranku objawia się na nowo, wielka jest wierność twoja. Pan jest moim działem, mówi dusza moja, dlatego w nim mam nadzieję. Dobry jest Pan dla tego, kto mu ufa, dla duszy, która go szuka. Dobrze jest czekać w milczeniu na zbawienie Pana."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Między zdaniem „przepadła moja nadzieja\" a zdaniem „w tym moja nadzieja\" w położeniu autora nie zmienia się nic. **Co się w takim razie zmienia?** Na czym opiera nadzieję, skoro nie na okolicznościach?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„To biorę sobie do serca\". To brzmi jak decyzja, nie jak uczucie. **Czym różni się nadzieja jako nastrój od nadziei jako czegoś, co człowiek sam sobie kładzie na sercu?** Czy to drugie jest uczciwe, kiedy uczucia mówią co innego?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Każdego poranku\". **Dlaczego miarą jest jeden dzień, a nie całe życie?** Co to zmienia dla kogoś, kto nie wie, czy będzie wierzył za rok?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Autor patrzy na Jerozolimę w gruzach. Świątynia spalona, ludzie wywiezieni albo głodni. Nadzieja nie przychodzi tu z poprawy sytuacji, bo żadnej poprawy nie ma. Przychodzi z pamięci o tym, jaki Bóg był do tej pory. Księga składa się z pięciu pieśni żałobnych i te słowa stoją w środku trzeciej, czyli dokładnie pośrodku całości. Nadzieja nie wieńczy lamentu. Siedzi w jego środku, z ruinami po obu stronach.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Zanim przyszła nadzieja",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Lm 3,1-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Ja jestem tym mężem, który zaznał niedoli od rózgi jego gniewu. Prowadził mnie i zawiódł do ciemności, gdzie nie ma światła. Tylko przeciwko mnie zwraca dzień po dniu swoją rękę. Zniszczył moje ciało i skórę, połamał moje kości. Spiętrzył wokół mnie wysoko gorycz i mozół. Kazał mi mieszkać w ciemnościach jak dawno zmarłym. Zagrodził mi wyjście, zakuł w ciężkie kajdany. A choć krzyczę i błagam, nieczuły jest na moją modlitwę."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ten sam człowiek w tym samym rozdziale mówi o Bogu „nieczuły na moją modlitwę\" i „wielka jest wierność twoja\". **Czy drugie zdanie unieważnia pierwsze?** Co by stracił ten rozdział, gdyby zaczynał się od wersetu 21?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zwykle o Bogu mówi się, że prowadzi do światła i na zielone pastwiska. Tu prowadzi w ciemność. **Co wolno powiedzieć Bogu o Bogu?** Gdzie jest granica i kto ją wyznaczył?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Do kogo pójdziemy?",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jezus wygłosił w Kafarnaum mowę, która zgorszyła słuchaczy. Dzień wcześniej tłum chciał Go obwołać królem.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 6,60-69",
+       "przeklad": "BW",
+       "akapity": [
+        "Wielu tedy spośród uczniów jego, usłyszawszy to, mówiło: Twarda to mowa, któż jej słuchać może? A Jezus, świadom, że z tego powodu szemrzą uczniowie jego, rzekł im: To was gorszy? Cóż dopiero, gdy ujrzycie Syna Człowieczego, wstępującego tam, gdzie był pierwej? Duch ożywia. Ciało nic nie pomaga. Słowa, które powiedziałem do was, są duchem i żywotem, lecz są pośród was tacy, którzy nie wierzą. Jezus bowiem od początku wiedział, którzy są niewierzący i kto go wyda. I mówił: Dlatego powiedziałem wam, że nikt nie może przyjść do mnie, jeżeli mu to nie jest dane od Ojca. Od tej chwili wielu uczniów jego zawróciło i już z nim nie chodziło. Wtedy Jezus rzekł do dwunastu: Czy i wy chcecie odejść? Odpowiedział mu Szymon Piotr: Panie! Do kogo pójdziemy? Ty masz słowa żywota wiecznego. A myśmy uwierzyli i poznali, że Ty jesteś Chrystusem, Synem Boga żywego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Odchodzą „uczniowie\", nie wrogowie. Jezus nie biegnie za nimi, nie łagodzi swoich słów, a najbliższych pyta wprost, czy też chcą odejść. **Co to pytanie mówi o tym, jak Jezus traktuje ludzką wolność?** Jak brzmi w uszach kogoś, kto sam się waha?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Piotr nie mówi „wszystko rozumiem\" ani „nigdy nie wątpiłem\". Mówi: „Do kogo pójdziemy?\". **Co to za wiara, która zostaje, bo nie ma dokąd pójść?** Czy to wiara słaba, czy może najbardziej podstawowa?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Myśmy uwierzyli i poznali\". **Dlaczego w tej kolejności?** Czy są rzeczy, które poznaje się dopiero od środka, po tym, jak się zostało?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To wyznanie nie pada na szczycie popularności Jezusa. Pada w chwili, gdy grupa topnieje w oczach i nikt nie wie, ilu jeszcze wyjdzie. Ci, którzy odeszli, raczej nie odeszli dlatego, że nie zrozumieli. Zrozumieli dobrze, że Jezus nie będzie królem od chleba, o jakiego im chodziło. Kryzys wiary bywa kryzysem obrazu Boga, który sami sobie zbudowaliśmy. Wtedy to, co się wali, nie zawsze jest wiarą.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Prosiłem za tobą",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 22,31-32",
+       "przeklad": "BW",
+       "akapity": [
+        "Szymonie, Szymonie, oto szatan wyprosił sobie, aby was przesiać jak pszenicę. Ja zaś prosiłem za tobą, aby nie ustała wiara twoja, a ty, gdy się kiedyś nawrócisz, utwierdzaj braci swoich."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi to temu samemu Piotrowi kilka godzin przed jego zaparciem się. Wie, co się stanie, i nie mówi „nie upadniesz\". **O co prosił i czego to dowodzi o tym, od kogo zależy przetrwanie wiary w kryzysie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Gdy się kiedyś nawrócisz, utwierdzaj braci\". Jezus jeszcze przed upadkiem wyznacza Piotrowi zadanie na potem. **Do czego przydaje się wspólnocie człowiek, który sam przeszedł przez załamanie wiary?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Niektórzy powątpiewali",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 28,16-20",
+       "przeklad": "BW",
+       "akapity": [
+        "A jedenastu uczniów poszło do Galilei, na górę, gdzie im Jezus przykazał. I gdy go ujrzeli, oddali mu pokłon, lecz niektórzy powątpiewali. A Jezus przystąpiwszy, rzekł do nich te słowa: Dana mi jest wszelka moc na niebie i na ziemi. Idźcie tedy i czyńcie uczniami wszystkie narody, chrzcząc je w imię Ojca i Syna, i Ducha Świętego, ucząc je przestrzegać wszystkiego, co wam przykazałem. A oto Ja jestem z wami po wszystkie dni aż do skończenia świata."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To ostatnia scena Ewangelii Mateusza. Zmartwychwstały stoi przed nimi, a „niektórzy powątpiewali\". **Co robi Jezus z tymi, którzy powątpiewają?** Czy wysyła tylko pewnych? Komu mówi „jestem z wami\"?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Greckie słowo oddane w Mt 28,17 jako „powątpiewali\" to `distazo`. Znaczy raczej „zawahać się, stanąć w rozkroku\" niż „nie wierzyć\". W Ewangeliach pada jeszcze tylko raz.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 14,29-31",
+       "przeklad": "BW",
+       "akapity": [
+        "A On rzekł: Przyjdź. I Piotr, wyszedłszy z łodzi, szedł po wodzie i przyszedł do Jezusa. A widząc wichurę, zląkł się i, gdy zaczął tonąć, zawołał, mówiąc: Panie, ratuj mnie. A Jezus zaraz wyciągnął rękę, uchwycił go i rzekł mu: O małowierny, czemu zwątpiłeś?"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Tym samym słowem opisano człowieka, który właśnie szedł po wodzie. **Co to mówi o tym, kim są „wątpiący\" w Ewangelii Mateusza?** Gdzie w tej scenie jest ręka Jezusa w chwili, gdy Piotr się waha?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Nie było widać śladów",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Wracamy do psalmu z początku. Noc trwa, pytania zostały bez odpowiedzi. Psalmista robi jedną rzecz.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 77,11-16.20-21",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekłem: To sprawia mi boleść, Że prawica Najwyższego jest zmienna. Wspominam dzieła Pańskie, Zaiste, wspominam twoje dawne cuda. Rozpamiętuję wszystkie dzieła twoje I rozważam czyny twoje. Boże, święta jest droga twoja! Któryż bóg jest tak wielki jak Bóg? Tyś Bogiem, który czyni cuda; Dałeś poznać narodom moc swoją. Odkupiłeś ramieniem swoim lud swój, Synów Jakuba i Józefa. Sela. [...]",
+        "Droga twoja wiodła przez morze, A ścieżki twoje przez wielkie wody, Lecz nie było widać śladów stóp twoich. Prowadziłeś lud swój jak stado ręką Mojżesza i Aarona."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Psalmista nie dostał odpowiedzi na żadne ze swoich pytań. **Co robi zamiast czekać na odpowiedź?** Na początku psalmu wspominanie bolało. Co zmieniło się w tym, co wspomina i jak?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Droga twoja wiodła przez morze, lecz nie było widać śladów stóp twoich\". **Jak wyglądało przejście przez morze dla ludzi, którzy szli środkiem, w nocy, między ścianami wody?** Co to zdanie mówi o tym, jak Bóg prowadzi i kiedy to widać?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Psalm urywa się na wspomnieniu. Nie ma zdania „i teraz już wiem\" ani „i odzyskałem pokój\". **Dlaczego ktoś zostawił go bez zakończenia?** Komu takie zakończenie służy?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Święta jest droga twoja\". Hebrajskie słowo `kodesz` znaczy „świętość\", ale także „miejsce święte, świątynia\". Zdanie da się więc czytać na dwa sposoby: Twoja droga jest święta albo Twoja droga jest w świątyni. Drugi psalm tego samego Asafa opisuje podobny kryzys i podobny zwrot.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 73,16-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Chciałem to tedy zrozumieć, Lecz niezwykle trudne mi się to wydało, Dopókim nie dotarł do tajemnic Bożych I nie zrozumiałem kresu ich."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "BW mówi tu o „tajemnicach Bożych\". Przekład ekumeniczny oddaje to samo miejsce dosłowniej: „Dopiero gdy wszedłem do świątyni Boga, zrozumiałem\". W obu psalmach Asaf nie rozwiązuje kryzysu w samotności, w głowie i w nocy. Coś się przesuwa, kiedy idzie tam, gdzie lud Boży wspólnie opowiada, co Bóg zrobił.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Dlaczego człowiek w kryzysie wiary najczęściej najpierw przestaje przychodzić?** Co musiałoby być prawdą o wspólnocie, żeby właśnie wtedy dało się do niej przyjść, z tymi pytaniami i bez udawania?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Asaf wspomina, autor Lamentacji bierze sobie do serca, Piotr zostaje, bo nie ma dokąd pójść, Eliasz dostaje towarzysza. **Który z tych sposobów przetrwania nocy jest ci najbliższy, a który najtrudniejszy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Gdyby ktoś z tej grupy powiedział dziś na głos „chyba przestaję wierzyć\", **co by usłyszał?** Co chciałbyś, żeby usłyszał?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest pytanie do Boga, które nosisz od dawna i którego nigdy nie zadałeś na głos?** Nie musisz mówić jakie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W J 6 Jezus pozwala odejść ludziom, którzy z Nim chodzili. Nie goni ich i nie zmienia dla nich swoich słów. Wielu z nas ma kogoś bliskiego, kto odszedł od wiary. **Co to znaczy kochać kogoś, kto odszedł, jeśli nie wolno ani go ścigać, ani skreślić? Czy milczenie Jezusa w wersecie 66 jest obojętnością?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie dawaj metody na odzyskanie kogokolwiek. Warto natomiast, żeby padło spostrzeżenie z Łk 22: Jezus nie zatrzymał Piotra przed upadkiem, tylko modlił się za niego i czekał na niego po drugiej stronie.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Wiara nie zawsze widzi ślady. Czasem tylko pamięta, że droga już raz wiodła przez morze.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Lm 3,21-23 albo J 6,68.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Asaf zapisał swoje pytania i oddał je do śpiewania. **Jakie jest twoje pytanie do Boga, to prawdziwe, nie to, które wypada mieć?** Powiedz Mu je tymi słowami, jakimi brzmi w tobie w nocy. On ma takie pytania we własnej księdze.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Autor Lamentacji nie miał nadziei na przyszłość, więc sięgnął po pamięć. Przypomnij sobie jeden moment, w którym byłeś pewien, że Bóg jest przy tobie. Nie oceniaj go z dzisiejszej perspektywy i nie tłumacz sobie, że może ci się wydawało. **Po prostu weź go sobie do serca, na dziś, na jeden poranek.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** Eliasz był pewien, że został sam, i się mylił. Zapytaj siebie, czy jest ktoś, komu mógłbyś powiedzieć prawdę o stanie swojej wiary. Jeśli jest, zostań z pytaniem, co cię przed tym powstrzymuje.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi wprost: „Ja już chyba nie wierzę\" albo „modlę się do ściany\".** To jest akt zaufania wobec grupy, nie atak na nią. Podziękuj. Nie naprawiaj, nie argumentuj i nie pozwól na to innym. Możesz powiedzieć: „Dobrze, że to mówisz tutaj. Asaf i Jeremiasz mówili ostrzej\". Ta osoba ma wyjść z przekonaniem, że jest przy tym stole mile widziana taka, jaka jest, a nie pod warunkiem, że jej przejdzie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś jest w świeżym kryzysie, po konkretnym ciosie: śmierć, zdrada, niewysłuchana modlitwa o coś najważniejszego.** Grupa słucha i towarzyszy, nie leczy i nie doradza. Nie tłumacz Boga. Skróć materiał i zostańcie przy Ps 77. Zapytaj po spotkaniu, czy ta osoba ma z kim rozmawiać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**To, co słyszysz, brzmi bardziej jak depresja niż jak kryzys wiary: bezsenność, brak sił, poczucie, że nic nie ma sensu, „lepiej, żeby mnie nie było\".** Eliasz prosił o śmierć i Bóg najpierw dał mu sen i jedzenie. Wyczerpania i choroby nie leczy się studium biblijnym. Zachęć do wizyty u lekarza albo psychologa i powiedz jasno, że to nie jest brak wiary. Telefon zaufania dla dorosłych w kryzysie emocjonalnym: 116 123. Jeśli ktoś mówi o odebraniu sobie życia, nie zostawiaj go samego i dzwoń pod 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czyjś kryzys zaczął się od krzywdy doznanej w kościele.** Nie broń kościoła i nie pomniejszaj tego, co się stało. Wysłuchaj. Jeśli to, co słyszysz, dotyczy przemocy albo wykorzystania, nie zostajesz z tym sam: zgłoś to pastorowi albo przełożonym kościoła, a osobie skrzywdzonej pomóż znaleźć specjalistyczną pomoc. Rozróżnienie między Bogiem a ludźmi, którzy Go zasłonili, może przyjść później i nie od ciebie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Trzeba się po prostu więcej modlić i czytać Biblię.\"** Zgódź się, że to dobre rzeczy, i wróć do tekstu: Asaf się modlił i właśnie wtedy jęczał. Zapytaj: „Co Bóg zrobił dla Eliasza, zanim cokolwiek mu powiedział?\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rodzic mówi o dziecku, które odeszło od wiary, z poczuciem winy albo z żalem do dziecka.** Nie dawaj rad wychowawczych i nie pozwól na nie grupie. W J 6 od samego Jezusa odeszło wielu, a nauczycielem był doskonałym. Na poziomie 3 jest o tym pytanie. Można je zadać także wtedy, gdy prowadzisz poziom 1.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna spór o argumenty: nauka, sprzeczności w Biblii, inne religie.** To inne spotkanie. Powiedz, że w serii Pytania są o tym osobne materiały, zapisz pytanie i wróć do dzisiejszego tematu: co się dzieje z człowiekiem, któremu wiara się załamała, i co wtedy robi Bóg.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 2 albo blok 4, zależnie od grupy. Bloków 1 i 5 nie rozdzielaj: to jeden psalm i całe spotkanie jest rozpięte między jego początkiem a końcem.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś mówi wprost: „Ja już chyba nie wierzę\" albo „modlę się do ściany\".",
+     "odpowiedz": "To jest akt zaufania wobec grupy, nie atak na nią. Podziękuj. Nie naprawiaj, nie argumentuj i nie pozwól na to innym. Możesz powiedzieć: „Dobrze, że to mówisz tutaj. Asaf i Jeremiasz mówili ostrzej\". Ta osoba ma wyjść z przekonaniem, że jest przy tym stole mile widziana taka, jaka jest, a nie pod warunkiem, że jej przejdzie."
+    },
+    {
+     "sytuacja": "Ktoś jest w świeżym kryzysie, po konkretnym ciosie: śmierć, zdrada, niewysłuchana modlitwa o coś najważniejszego.",
+     "odpowiedz": "Grupa słucha i towarzyszy, nie leczy i nie doradza. Nie tłumacz Boga. Skróć materiał i zostańcie przy Ps 77. Zapytaj po spotkaniu, czy ta osoba ma z kim rozmawiać."
+    },
+    {
+     "sytuacja": "To, co słyszysz, brzmi bardziej jak depresja niż jak kryzys wiary: bezsenność, brak sił, poczucie, że nic nie ma sensu, „lepiej, żeby mnie nie było\".",
+     "odpowiedz": "Eliasz prosił o śmierć i Bóg najpierw dał mu sen i jedzenie. Wyczerpania i choroby nie leczy się studium biblijnym. Zachęć do wizyty u lekarza albo psychologa i powiedz jasno, że to nie jest brak wiary. Telefon zaufania dla dorosłych w kryzysie emocjonalnym: 116 123. Jeśli ktoś mówi o odebraniu sobie życia, nie zostawiaj go samego i dzwoń pod 112."
+    },
+    {
+     "sytuacja": "Czyjś kryzys zaczął się od krzywdy doznanej w kościele.",
+     "odpowiedz": "Nie broń kościoła i nie pomniejszaj tego, co się stało. Wysłuchaj. Jeśli to, co słyszysz, dotyczy przemocy albo wykorzystania, nie zostajesz z tym sam: zgłoś to pastorowi albo przełożonym kościoła, a osobie skrzywdzonej pomóż znaleźć specjalistyczną pomoc. Rozróżnienie między Bogiem a ludźmi, którzy Go zasłonili, może przyjść później i nie od ciebie."
+    },
+    {
+     "sytuacja": "„Trzeba się po prostu więcej modlić i czytać Biblię.\"",
+     "odpowiedz": "Zgódź się, że to dobre rzeczy, i wróć do tekstu: Asaf się modlił i właśnie wtedy jęczał. Zapytaj: „Co Bóg zrobił dla Eliasza, zanim cokolwiek mu powiedział?\"."
+    },
+    {
+     "sytuacja": "Rodzic mówi o dziecku, które odeszło od wiary, z poczuciem winy albo z żalem do dziecka.",
+     "odpowiedz": "Nie dawaj rad wychowawczych i nie pozwól na nie grupie. W J 6 od samego Jezusa odeszło wielu, a nauczycielem był doskonałym. Na poziomie 3 jest o tym pytanie. Można je zadać także wtedy, gdy prowadzisz poziom 1."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna spór o argumenty: nauka, sprzeczności w Biblii, inne religie.",
+     "odpowiedz": "To inne spotkanie. Powiedz, że w serii Pytania są o tym osobne materiały, zapisz pytanie i wróć do dzisiejszego tematu: co się dzieje z człowiekiem, któremu wiara się załamała, i co wtedy robi Bóg."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 2 albo blok 4, zależnie od grupy. Bloków 1 i 5 nie rozdzielaj: to jeden psalm i całe spotkanie jest rozpięte między jego początkiem a końcem."
+    }
+   ]
+  }
+ ]
+}
