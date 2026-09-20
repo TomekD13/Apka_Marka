@@ -15,6 +15,8 @@ npm run dev        # http://localhost:5173
 npm run build      # tsc -b + vite + PWA + prune + gen_og  (jedyna bramka jakości)
 npm run preview
 bash deploy.sh     # build + publikacja na gh-pages repo pastormarek/aplikacja
+bash deploy-ftp.sh # build + wysylka dist/ na jestnadzieja.adwent.pl (adres glowny, FTP)
+bash deploy-beta.sh# to samo pod /beta/ - wydanie testowe, glownej strony nie rusza
 ```
 
 Nie ma lintera ani frameworka testowego. `npm run build` musi przechodzić czysto.
