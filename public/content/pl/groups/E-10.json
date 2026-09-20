@@ -39,7 +39,7 @@
    "elementy": [
     {
      "typ": "akapit",
-     "tekst": "To ostatnie spotkanie serii i celowo nie jest nagrodą za przejście przez trudne tematy. Teksty o radości w Biblii pisane są najczęściej z miejsc, w których nie ma powodu do wesołości: z więzienia, z ruin miasta, z zapowiedzi pustych spichlerzy. Radość nie jest tu przeciwieństwem smutku, tylko czymś, co potrafi z nim współistnieć.",
+     "tekst": "Teksty o radości w Biblii pisane są najczęściej z miejsc, w których nie ma powodu do wesołości: z więzienia, z ruin miasta, z zapowiedzi pustych spichlerzy. Radość nie jest tu przeciwieństwem smutku, tylko czymś, co potrafi z nim współistnieć.",
      "poziom": 1
     },
     {
@@ -50,7 +50,7 @@
     {
      "typ": "lista",
      "pozycje": [
-      "Po serii o gniewie, lęku i goryczy ktoś może być w miejscu, w którym radość brzmi jak wyrzut. Uważaj na ton.",
+      "Ktoś przy stole może być w miejscu, w którym radość brzmi jak wyrzut. Uważaj na ton.",
       "Zdanie „radujcie się zawsze\" bywa używane jako zakaz smutku. Jeśli padnie w tej roli, zareaguj.",
       "Nie każ nikomu wyliczać powodów do wdzięczności. To zamienia radość w zadanie."
      ],
@@ -58,7 +58,7 @@
     },
     {
      "typ": "akapit",
-     "tekst": "**Czego nie robić:** nie rób z tego spotkania podsumowania serii ani bilansu. Nie zestawiaj radości z poprzednimi tematami tak, jakby była na nie lekarstwem.",
+     "tekst": "**Czego nie robić:** nie przedstawiaj radości jako lekarstwa na smutek, lęk czy gniew. Nie rób z niej nagrody za przejście przez trudne rzeczy.",
      "poziom": 1
     }
    ]
@@ -490,12 +490,12 @@
     },
     {
      "typ": "akapit",
-     "tekst": "**Grupa zaczyna licytować się na świadectwa.** Zatrzymaj to. Radość opowiadana na zawody jest formą porównywania się i wraca do tematu zazdrości.",
+     "tekst": "**Grupa zaczyna licytować się na świadectwa.** Zatrzymaj to. Radość opowiadana na zawody jest formą porównywania się i rodzi zazdrość.",
      "poziom": 1
     },
     {
      "typ": "akapit",
-     "tekst": "**Ktoś traktuje to spotkanie jak zamknięcie serii i podsumowanie.** To nie jest podsumowanie. Radość nie jest nagrodą za przerobienie trudnych emocji.",
+     "tekst": "**Ktoś mówi o radości jak o nagrodzie za przejście przez trudne rzeczy.** Radość nie jest nagrodą. W dzisiejszych tekstach przychodzi w środku trudności, a nie po nich.",
      "poziom": 1
     },
     {
@@ -520,11 +520,11 @@
     },
     {
      "sytuacja": "Grupa zaczyna licytować się na świadectwa.",
-     "odpowiedz": "Zatrzymaj to. Radość opowiadana na zawody jest formą porównywania się i wraca do tematu zazdrości."
+     "odpowiedz": "Zatrzymaj to. Radość opowiadana na zawody jest formą porównywania się i rodzi zazdrość."
     },
     {
-     "sytuacja": "Ktoś traktuje to spotkanie jak zamknięcie serii i podsumowanie.",
-     "odpowiedz": "To nie jest podsumowanie. Radość nie jest nagrodą za przerobienie trudnych emocji."
+     "sytuacja": "Ktoś mówi o radości jak o nagrodzie za przejście przez trudne rzeczy.",
+     "odpowiedz": "Radość nie jest nagrodą. W dzisiejszych tekstach przychodzi w środku trudności, a nie po nich."
     },
     {
      "sytuacja": "„A ja nie mam się z czego cieszyć.\"",

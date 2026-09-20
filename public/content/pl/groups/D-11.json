@@ -4,8 +4,8 @@
  "seria": "Księga Daniela",
  "opis": "Trzy tygodnie ciszy po modlitwie i anioł, który mówi, co działo się w tym czasie za kulisami.",
  "tryb": "ksiegi-ciagly",
- "poprzedni": "D-10",
- "nastepny": "D-12",
+ "poprzedni": null,
+ "nastepny": null,
  "teksty": {
   "p1": "Dn 10,1-9; 10,10-14; 10,15-19; 10,20-21; 11,1-4; 11,31-35",
   "p2": "Ezd 1,1-3; 4,1-5; Ap 1,13-17; Iz 6,5-7; Mt 24,15-16; Dn 11,44-45",
@@ -76,11 +76,6 @@
    "poziom": 1,
    "tytul": "Otwarcie",
    "elementy": [
-    {
-     "typ": "akapit",
-     "tekst": "*Pomiń to zdanie, jeśli grupa wchodzi w serię od tego miejsca:* Ostatnio Daniel dostał odpowiedź, zanim skończył się modlić. Dziś modli się trzy tygodnie i nic.",
-     "poziom": 1
-    },
     {
      "typ": "wyroznienie",
      "tekst": "Przypomnij sobie czekanie na wiadomość, która długo nie przychodziła: wynik badania, decyzję, list, telefon. Powiedz jednym zdaniem, co wtedy robiłeś z czasem.",
@@ -502,7 +497,7 @@
      "id": "q20",
      "kluczowe": true,
      "opcjonalne": false,
-     "tekst": "O wiernych powiedziano dwie rzeczy naraz: „umocnią się i będą działać\" oraz „padać będą od miecza i ognia\". **Jak wygląda siła, która nie oznacza ocalenia?** Gdzie w tej księdze już to widzieliśmy?",
+     "tekst": "O wiernych powiedziano dwie rzeczy naraz: „umocnią się i będą działać\" oraz „padać będą od miecza i ognia\". **Jak wygląda siła, która nie oznacza ocalenia?** Gdzie jeszcze w tej księdze to widać?",
      "poziom": 1
     },
     {

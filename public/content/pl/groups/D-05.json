@@ -4,11 +4,11 @@
  "seria": "Księga Daniela",
  "opis": "Ostatnia uczta Babilonu i napis na ścianie. Co człowiek robi z historią, którą zna na pamięć.",
  "tryb": "ksiegi-ciagly",
- "poprzedni": "D-04",
- "nastepny": "D-06",
+ "poprzedni": null,
+ "nastepny": null,
  "teksty": {
   "p1": "Dn 5,1-4; 5,5-9; 5,13-17; 5,18-24; 5,25-30",
-  "p2": "Dn 1,2; Dn 5,10-12; Rz 1,20-21; Ps 62,10; 1Sm 2,3; Iz 21,4-5.9; Jr 51,39.57; Dn 6,1",
+  "p2": "Dn 1,2; Dn 5,10-12; Rz 1,20-21; Ps 62,10; 1Sm 2,3; Iz 21,4-5.9; Jr 51,39.57",
   "p3": "Iz 45,1-4; Ap 18,2-4; Dn 4,24"
  },
  "przekladBazowy": "BW",
@@ -19,8 +19,8 @@
  },
  "liczbaPytan": {
   "p1": 18,
-  "p2": 29,
-  "p3": 33
+  "p2": 28,
+  "p3": 32
  },
  "tagi": [
   "Daniel",
@@ -76,11 +76,6 @@
    "poziom": 1,
    "tytul": "Otwarcie",
    "elementy": [
-    {
-     "typ": "akapit",
-     "tekst": "*Pomiń to zdanie, jeśli grupa wchodzi w serię od tego miejsca.* Ostatnio Nebukadnesar sam opowiedział całemu imperium, jak stracił rozum i tron i jak Bóg oddał mu jedno i drugie, kiedy podniósł oczy. Dziś, wiele lat później, na tronie siedzi jego potomek, który zna tę historię na pamięć.",
-     "poziom": 1
-    },
     {
      "typ": "wyroznienie",
      "tekst": "Przypomnij sobie ostrzeżenie albo dobrą radę, którą znałeś doskonale i z której nie skorzystałeś. Bez szczegółów: powiedz jednym zdaniem, dlaczego wtedy nie posłuchałeś.",
@@ -575,14 +570,6 @@
      "opcjonalne": false,
      "tekst": "Wygnańcy mieli te zwoje ze sobą. **Jak czytał je ktoś taki jak Daniel przez sześćdziesiąt lat, patrząc na mury Babilonu?** Co znaczy dla wierzącego to, że imperium, które wygląda na wieczne, ma w Bożym słowie zapisany koniec?",
      "poziom": 2
-    },
-    {
-     "typ": "pytanie",
-     "id": "q26",
-     "kluczowe": false,
-     "opcjonalne": false,
-     "tekst": "Następny rozdział zaczyna się zdaniem: „A Dariusz Medyjczyk objął królestwo\" (Dn 6,1). Zmienia się imperium, prawo i władca, a Daniel, już po osiemdziesiątce, znowu zostaje ministrem. **Jak myślicie, co w jego życiu pozostało takie samo pod każdą władzą?** Zapamiętajcie to pytanie na kolejne spotkanie.",
-     "poziom": 2
     }
    ],
    "doBloku": 5
@@ -599,7 +586,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q27",
+     "id": "q26",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Wszyscy w sali widzieli te same litery. Odczytał je ten, kto znał Autora. **Co ta scena mówi o rozumieniu Bożego słowa?** Czego trzeba poza znajomością liter?",
@@ -656,7 +643,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q28",
+     "id": "q27",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "**Czym według tych trzech tekstów jest „Babilon\": miejscem na mapie czy sposobem postępowania?** Po czym można go rozpoznać?",
@@ -664,7 +651,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q29",
+     "id": "q28",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Bóg nazywa pomazańcem pogańskiego króla, który Go nie zna, i posługuje się nim, żeby wypuścić swój lud. **Co to mówi o tym, jak Bóg prowadzi historię i przez kogo potrafi działać?**",
@@ -685,7 +672,7 @@
    "elementy": [
     {
      "typ": "pytanie",
-     "id": "q30",
+     "id": "q29",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Belsazar miał w rodzinie gotowe świadectwo i traktował je jak starą anegdotę. **Czyją historię z Bogiem znasz na pamięć, rodziców, dziadków, kogoś ze zboru, i co z nią do tej pory zrobiłeś?**",
@@ -693,7 +680,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q31",
+     "id": "q30",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Naczynia ze świątyni nie były do picia na uczcie. **Co w twoim życiu jest przeznaczone dla Boga, a bywa używane do czegoś zupełnie innego?** Pomyśl o czasie, zdolnościach, ciele, słowach.",
@@ -701,7 +688,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q32",
+     "id": "q31",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Jeśli chcesz się tym podzielić: **czy jest coś, o czym wiesz od dawna, że jest prawdą, i wciąż nic z tym nie robisz?** Nie musisz mówić co.",
@@ -734,7 +721,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q33",
+     "id": "q32",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Belsazar takiej rady nie dostaje. Nie ma „może\", nie ma roku zwłoki, jest jedna noc. **Czy istnieje chwila, po której jest za późno? Kto ją wyznacza: Bóg, który zamyka drzwi, czy człowiek, który do końca o nic nie prosi?**",

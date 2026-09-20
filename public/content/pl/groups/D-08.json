@@ -4,8 +4,8 @@
  "seria": "Księga Daniela",
  "opis": "Ktoś depcze prawdę i wszystko mu się udaje. W niebie pada pytanie „jak długo?\" i niebo na nie odpowiada.",
  "tryb": "ksiegi-ciagly",
- "poprzedni": "D-07",
- "nastepny": "D-09",
+ "poprzedni": null,
+ "nastepny": null,
  "teksty": {
   "p1": "Dn 8,1-8; 8,9-12; 8,13-14; 8,15-22; 8,23-27",
   "p2": "Ps 74,3-4.7.9-10; Ap 6,9-11; Kpł 16,5.15-16.29-30; Dn 2,34-35",
@@ -19,8 +19,8 @@
  },
  "liczbaPytan": {
   "p1": 18,
-  "p2": 25,
-  "p3": 32
+  "p2": 24,
+  "p3": 31
  },
  "tagi": [
   "Daniel",
@@ -81,11 +81,6 @@
    "poziom": 1,
    "tytul": "Otwarcie",
    "elementy": [
-    {
-     "typ": "akapit",
-     "tekst": "*Pomiń to zdanie, jeśli grupa wchodzi w serię od tego miejsca.* Ostatnio Daniel widział cztery bestie wychodzące z morza i sąd, który zapada na korzyść świętych. Dziś widzi ciąg dalszy, ale z innej strony: zamiast dzikich bestii baran i kozioł, a w środku widzenia świątynia.",
-     "poziom": 1
-    },
     {
      "typ": "wyroznienie",
      "tekst": "Przypomnij sobie sytuację, w której działo się coś niesprawiedliwego, a ty mogłeś tylko czekać. Powiedz jednym zdaniem, co było w tym czekaniu najtrudniejsze.",
@@ -491,7 +486,7 @@
     },
     {
      "typ": "uwaga-prowadzacego",
-     "tekst": "to odczytanie nie wylicza daty końca świata i nigdy nie powinno. Mówi o tym, co dzieje się w niebie, a nie o tym, kiedy Jezus wróci. Rachunek lat wróci przy rozdziale 9.",
+     "tekst": "to odczytanie nie wylicza daty końca świata i nigdy nie powinno. Mówi o tym, co dzieje się w niebie, a nie o tym, kiedy Jezus wróci. Rachunek lat ma osobne spotkanie: „Daniel 9,20-27. Siedemdziesiąt tygodni\".",
      "poziom": 3
     }
    ],
@@ -624,14 +619,6 @@
      "opcjonalne": false,
      "tekst": "Sen króla z rozdziału 2 i widzenie Daniela z rozdziału 8 kończą się tak samo: bez udziału ludzkiej ręki. **Dlaczego księga tak uparcie wraca do tego zdania?** Przed czym chroni ono ludzi wierzących, zwłaszcza wtedy, gdy mają rację?",
      "poziom": 2
-    },
-    {
-     "typ": "pytanie",
-     "id": "q26",
-     "kluczowe": false,
-     "opcjonalne": false,
-     "tekst": "Daniel kończy rozdział chory, zaniepokojony i bez zrozumienia. W następnym rozdziale sięgnie po zwój proroka Jeremiasza i zacznie się modlić. **Co wy robicie z fragmentami Biblii i z kawałkami własnego życia, których nie rozumiecie?** Zapamiętajcie to pytanie na kolejne spotkanie.",
-     "poziom": 2
     }
    ],
    "doBloku": 5
@@ -689,7 +676,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q27",
+     "id": "q26",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "**Co oba odczytania mają wspólnego, kiedy opisują, co robi ten róg?** Czy wiedza o tym, jak taka władza działa, może być ważniejsza niż pewność co do jej imienia?",
@@ -697,7 +684,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q28",
+     "id": "q27",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Odczytanie historyczne mówi o systemie, który staje między człowiekiem a Bogiem i sięga po przymus. **Dlaczego ważne jest, żeby odróżniać system od ludzi, którzy w nim żyli i szczerze wierzyli?** Gdzie ta sama pokusa może pojawić się w każdym Kościele, także naszym?",
@@ -718,7 +705,7 @@
    "elementy": [
     {
      "typ": "pytanie",
-     "id": "q29",
+     "id": "q28",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "**Gdzie dziś widzisz „prawdę powaloną na ziemię\"** i łapiesz się na tym, że pytasz „jak długo\"? Nie chodzi o politykę. Chodzi o to, co leży ci na sercu.",
@@ -726,7 +713,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q30",
+     "id": "q29",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Róg zostaje pokonany „bez udziału ludzkiej ręki\". **W jakiej sprawie próbujesz własną ręką załatwić coś, co należy do Boga?** Co by się zmieniło, gdybyś przestał?",
@@ -734,7 +721,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q31",
+     "id": "q30",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Jeśli chcesz się tym podzielić: **czy jest coś, czego w Bogu albo w swoim życiu nie rozumiesz, a mimo to „wstajesz i sprawujesz służbę\"?** Nie musisz mówić co.",
@@ -749,7 +736,7 @@
    "elementy": [
     {
      "typ": "pytanie",
-     "id": "q32",
+     "id": "q31",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Bóg zna kres zła i go wyznaczył. Mimo to pozwala, żeby przez cały ten czas rogowi „cokolwiek czynił, to mu się udawało\", a ludzie byli deptani. **Dlaczego Bóg wyznacza złu termin, zamiast zatrzymać je od razu? Czy odpowiedź „aż do\" jest pociechą, czy trudnością?**",
@@ -821,7 +808,7 @@
     },
     {
      "typ": "akapit",
-     "tekst": "**Ktoś zaczyna wyliczać daty, także datę końca świata.** Powiedz wprost: ten rozdział nie podaje daty powrotu Jezusa i żadne uczciwe odczytanie jej z niego nie wyprowadza. Rachunek lat jest na poziomie 3 i wróci przy rozdziale 9. Dziś zostajemy przy obietnicy, nie przy kalendarzu.",
+     "tekst": "**Ktoś zaczyna wyliczać daty, także datę końca świata.** Powiedz wprost: ten rozdział nie podaje daty powrotu Jezusa i żadne uczciwe odczytanie jej z niego nie wyprowadza. Rachunek lat jest na poziomie 3. Jest o nim też osobne spotkanie: „Daniel 9,20-27. Siedemdziesiąt tygodni\". Dziś zostajemy przy obietnicy, nie przy kalendarzu.",
      "poziom": 1
     },
     {
@@ -867,7 +854,7 @@
     },
     {
      "sytuacja": "Ktoś zaczyna wyliczać daty, także datę końca świata.",
-     "odpowiedz": "Powiedz wprost: ten rozdział nie podaje daty powrotu Jezusa i żadne uczciwe odczytanie jej z niego nie wyprowadza. Rachunek lat jest na poziomie 3 i wróci przy rozdziale 9. Dziś zostajemy przy obietnicy, nie przy kalendarzu."
+     "odpowiedz": "Powiedz wprost: ten rozdział nie podaje daty powrotu Jezusa i żadne uczciwe odczytanie jej z niego nie wyprowadza. Rachunek lat jest na poziomie 3. Jest o nim też osobne spotkanie: „Daniel 9,20-27. Siedemdziesiąt tygodni\". Dziś zostajemy przy obietnicy, nie przy kalendarzu."
     },
     {
      "sytuacja": "„Nic z tego nie rozumiem.\"",

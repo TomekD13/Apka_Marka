@@ -4,8 +4,8 @@
  "seria": "Księga Daniela",
  "opis": "Trzej ludzie przed rozpalonym piecem mówią „a jeśli nie”. O wierze, która nie stawia Bogu warunków.",
  "tryb": "ksiegi-ciagly",
- "poprzedni": "D-02",
- "nastepny": "D-04",
+ "poprzedni": null,
+ "nastepny": null,
  "teksty": {
   "p1": "Dn 3,1-7; 3,8-15; 3,16-18; 3,19-25; 3,26-30",
   "p2": "Wj 20,3-5; Iz 43,1-3; Hbr 11,32-40",
@@ -19,8 +19,8 @@
  },
  "liczbaPytan": {
   "p1": 19,
-  "p2": 27,
-  "p3": 31
+  "p2": 26,
+  "p3": 30
  },
  "tagi": [
   "Daniel",
@@ -75,11 +75,6 @@
    "poziom": 1,
    "tytul": "Otwarcie",
    "elementy": [
-    {
-     "typ": "akapit",
-     "tekst": "*Pomiń to zdanie, jeśli grupa wchodzi w serię od tego miejsca.* Ostatnio król zobaczył we śnie posąg, w którym złota była tylko głowa, i usłyszał, że po jego królestwie przyjdą następne. Dziś stawia własny posąg, cały ze złota.",
-     "poziom": 1
-    },
     {
      "typ": "wyroznienie",
      "tekst": "Przypomnij sobie sytuację, w której wszyscy dookoła coś robili, a ty nie chciałeś. Powiedz jednym zdaniem, co było wtedy najtrudniejsze.",
@@ -513,14 +508,6 @@
      "opcjonalne": false,
      "tekst": "**Do której części tej listy należy zdanie „A jeżeli nie\"?** Co by z niego zostało, gdyby Biblia znała tylko pierwszą część?",
      "poziom": 2
-    },
-    {
-     "typ": "pytanie",
-     "id": "q25",
-     "kluczowe": false,
-     "opcjonalne": false,
-     "tekst": "Rozdział kończy się słowami króla, że nie ma innego Boga, który by mógł wybawić. W następnym ten sam król opowie własnymi słowami, jak Bóg musiał wybawić jego samego, i to od niego samego. **Jak myślicie, przed czym?** Zapamiętajcie to pytanie na kolejne spotkanie.",
-     "poziom": 2
     }
    ],
    "doBloku": 5
@@ -555,7 +542,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q26",
+     "id": "q25",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "**Co z rozdziału 3 powinien zapamiętać ktoś, kto kiedykolwiek stanie przed przymusem w sprawach sumienia?** Czego ten rozdział nie obiecuje?",
@@ -563,7 +550,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q27",
+     "id": "q26",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Nebukadnesar na końcu też sięga po przymus, tym razem w obronie prawdziwego Boga. **Czy przymus staje się lepszy, kiedy służy dobrej sprawie?** Co mówi o Bogu to, że sam nikogo w tym rozdziale nie zmusza?",
@@ -584,7 +571,7 @@
    "elementy": [
     {
      "typ": "pytanie",
-     "id": "q28",
+     "id": "q27",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Złote posągi nie zawsze mają trzydzieści metrów. **Przed czym dziś klęka się dlatego, że wszyscy klękają, a odmowa kosztuje?**",
@@ -592,7 +579,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q29",
+     "id": "q28",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "**O co prosisz Boga w taki sposób, że twoje zaufanie do Niego zależy od wyniku?** Jak brzmiałoby w tej sprawie twoje „a jeśli nie\"?",
@@ -600,7 +587,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q30",
+     "id": "q29",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Jeśli chcesz się tym podzielić: **czy był w twoim życiu piec, z którego Bóg cię nie wyjął, a mimo to wiesz, że nie byłeś w nim sam?** Możesz też powiedzieć, że tego nie wiesz.",
@@ -628,7 +615,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q31",
+     "id": "q30",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Tej samej nocy anioł wyprowadzi Piotra z więzienia. Jakuba nikt nie wyprowadził, choć zbór z pewnością modlił się i za niego. **Dlaczego jednych Bóg z pieca wyjmuje, a innych nie? Co możemy powiedzieć rodzinie Jakuba, a czego powiedzieć nie wolno?**",

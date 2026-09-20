@@ -4,11 +4,11 @@
  "seria": "Księga Daniela",
  "opis": "Modlitwa człowieka, który mówi „my zgrzeszyliśmy\", choć sam nie zawinił, i nie powołuje się na żadne zasługi.",
  "tryb": "ksiegi-ciagly",
- "poprzedni": "D-08",
- "nastepny": "D-10",
+ "poprzedni": null,
+ "nastepny": null,
  "teksty": {
   "p1": "Dn 9,1-3; 9,4-6; 9,7-10; 9,11-14; 9,15-19",
-  "p2": "Jr 29,10-14; Ne 1,4-7; Kpł 26,40-42; Wj 32,11-14; Dn 9,20-21",
+  "p2": "Jr 29,10-14; Ne 1,4-7; Kpł 26,40-42; Wj 32,11-14",
   "p3": "2Krn 36,20-21; 1J 1,8-9; Ez 18,20"
  },
  "przekladBazowy": "BW",
@@ -19,8 +19,8 @@
  },
  "liczbaPytan": {
   "p1": 18,
-  "p2": 28,
-  "p3": 33
+  "p2": 27,
+  "p3": 32
  },
  "tagi": [
   "Daniel",
@@ -41,12 +41,12 @@
    "elementy": [
     {
      "typ": "akapit",
-     "tekst": "Po dwóch spotkaniach pełnych bestii, rogów i liczb to spotkanie jest inne i tak ma być. Nie ma tu żadnego widzenia. Jest stary człowiek, który czyta zwój Jeremiasza, znajduje w nim obietnicę z terminem i zamiast odliczać dni, zaczyna się modlić. Modli się słowem „my\", choć księga nie zapisała o nim ani jednej winy. I na koniec nie powołuje się na nic, co zrobił on sam albo jego lud. Powołuje się wyłącznie na to, jaki jest Bóg. Wokół tych trzech rzeczy krąży całe spotkanie: czytanie, które prowadzi do modlitwy, „my\" zamiast „oni\" i miłosierdzie zamiast zasług.",
+     "tekst": "Po dwóch rozdziałach pełnych bestii, rogów i liczb ten jest inny i tak ma być. Nie ma tu żadnego widzenia. Jest stary człowiek, który czyta zwój Jeremiasza, znajduje w nim obietnicę z terminem i zamiast odliczać dni, zaczyna się modlić. Modli się słowem „my\", choć księga nie zapisała o nim ani jednej winy. I na koniec nie powołuje się na nic, co zrobił on sam albo jego lud. Powołuje się wyłącznie na to, jaki jest Bóg. Wokół tych trzech rzeczy krąży całe spotkanie: czytanie, które prowadzi do modlitwy, „my\" zamiast „oni\" i miłosierdzie zamiast zasług.",
      "poziom": 1
     },
     {
      "typ": "akapit",
-     "tekst": "Siedemdziesiąt tygodni i przyjście Gabriela to następne spotkanie. Dziś zostajecie przy modlitwie.",
+     "tekst": "O siedemdziesięciu tygodniach i przyjściu Gabriela jest osobne spotkanie: „Daniel 9,20-27. Siedemdziesiąt tygodni\". Dziś zostajecie przy modlitwie.",
      "poziom": 1
     },
     {
@@ -76,11 +76,6 @@
    "poziom": 1,
    "tytul": "Otwarcie",
    "elementy": [
-    {
-     "typ": "akapit",
-     "tekst": "Ostatnio zostawiliśmy Daniela chorego i zaniepokojonego po widzeniu, którego nie zrozumiał. Minęło kilkanaście lat. Babilon upadł, a Daniel wciąż nosi w sobie tamto pytanie. *Pomiń te zdania, jeśli grupa wchodzi w serię od tego miejsca.*",
-     "poziom": 1
-    },
     {
      "typ": "wyroznienie",
      "tekst": "Przypomnij sobie sytuację, w której powiedziałeś „my zawaliliśmy\", choć mogłeś powiedzieć „oni zawalili\". Albo odwrotnie. Powiedz jednym zdaniem, co o tym zdecydowało.",
@@ -150,7 +145,7 @@
    "elementy": [
     {
      "typ": "akapit",
-     "tekst": "**Gdzie jesteśmy.** Między drugim a trzecim widzeniem Daniela. Rozdział 8 skończył się zdaniem „nie rozumiałem go\". Rozdział 9 ma dwie części: modlitwę, którą czytamy dziś, i odpowiedź przyniesioną przez Gabriela, czyli proroctwo o siedemdziesięciu tygodniach, którym zajmie się następne spotkanie. W całej księdze to jedyna tak długa modlitwa i jedyny rozdział, w którym pada imię Boga objawione Mojżeszowi, w BW oddawane jako „Pan\".",
+     "tekst": "**Gdzie jesteśmy.** Między drugim a trzecim widzeniem Daniela. Rozdział 8 skończył się zdaniem „nie rozumiałem go\". Rozdział 9 ma dwie części: modlitwę, którą czytamy dziś, i odpowiedź przyniesioną przez Gabriela, czyli proroctwo o siedemdziesięciu tygodniach. Ta druga część ma osobne spotkanie. W całej księdze to jedyna tak długa modlitwa i jedyny rozdział, w którym pada imię Boga objawione Mojżeszowi, w BW oddawane jako „Pan\".",
      "poziom": 2
     },
     {
@@ -606,35 +601,6 @@
    "doBloku": 5
   },
   {
-   "typ": "blok",
-   "poziom": 2,
-   "tytul": "Następnym razem",
-   "elementy": [
-    {
-     "typ": "pismo",
-     "fragmenty": [
-      {
-       "odnosnik": "Dn 9,20-21",
-       "przeklad": "BW",
-       "akapity": [
-        "A gdy jeszcze mówiłem, modliłem się i wyznawałem mój grzech i grzech mojego ludu izraelskiego, i zanosiłem moje błaganie przed oblicze Pana, mojego Boga, za świętą górę mojego Boga. Gdy więc jeszcze mówiłem i modliłem się, oto nagle w czasie ofiary wieczornej przyleciał do mnie ów mąż Gabriel, którego przedtem oglądałem w widzeniu."
-       ]
-      }
-     ],
-     "poziom": 2
-    },
-    {
-     "typ": "pytanie",
-     "id": "q27",
-     "kluczowe": false,
-     "opcjonalne": false,
-     "tekst": "Daniel nie zdążył skończyć. **Co waszym zdaniem usłyszy człowiek, który modlił się w ten sposób?** Zapamiętajcie swoje odpowiedzi na kolejne spotkanie.",
-     "poziom": 2
-    }
-   ],
-   "doBloku": 5
-  },
-  {
    "typ": "napiecie",
    "poziom": 3,
    "tytul": "Napięcie: czy można wyznawać cudze grzechy",
@@ -664,7 +630,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q28",
+     "id": "q27",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "**Gdzie przebiega różnica między zdaniem „biorę na siebie cudzą winę\" a zdaniem „staję przed Bogiem razem z moim ludem\"?** Które z nich opisuje Daniela?",
@@ -672,7 +638,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q29",
+     "id": "q28",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "**Kiedy słowo „my\" w modlitwie jest uczciwe, a kiedy staje się wygodnym sposobem, żeby nikt konkretny nie musiał za nic odpowiedzieć?**",
@@ -693,7 +659,7 @@
    "elementy": [
     {
      "typ": "pytanie",
-     "id": "q30",
+     "id": "q29",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Daniel znalazł obietnicę i zaczął się modlić. **Co ty zwykle robisz z obietnicą, którą znajdujesz w Biblii: czekasz, liczysz czy rozmawiasz o niej z Bogiem?**",
@@ -701,7 +667,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q31",
+     "id": "q30",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "**O kim najłatwiej mówisz „oni\": w rodzinie, w pracy, w zborze, w kraju?** Co by się zmieniło, gdybyś choć raz pomodlił się za nich słowem „my\"?",
@@ -709,7 +675,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q32",
+     "id": "q31",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Jeśli chcesz się tym podzielić: **czy jest sprawa, w której wciąż próbujesz najpierw zasłużyć, zanim o cokolwiek poprosisz?** Nie musisz mówić jaka.",
@@ -724,7 +690,7 @@
    "elementy": [
     {
      "typ": "pytanie",
-     "id": "q33",
+     "id": "q32",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Daniel mówi, że nieszczęście Jerozolimy było sprawiedliwe. W tym samym mieście cierpieli jednak ludzie, którzy proroków słuchali, i dzieci, które niczego nie zawiniły. On sam zapłacił za cudze decyzje całym życiem. **Jak pogodzić zdanie „sprawiedliwy jest Pan we wszystkich swoich dziełach\" z tym, że skutki grzechu jednych spadają na drugich?**",
@@ -801,7 +767,7 @@
     },
     {
      "typ": "akapit",
-     "tekst": "**Rozmowa schodzi na winy narodu, rozliczenia historyczne albo bieżącą politykę.** Przerwij. Powiedz: „Daniel nie układa listy cudzych win, tylko modli się w pierwszej osobie. Zostańmy przy tym, o kim ja mówię oni\". Ten tekst nie komentuje żadnego współczesnego państwa ani żadnego sporu. Nie służy też do wyliczania dat, a do rachunku lat dojdziecie następnym razem.",
+     "tekst": "**Rozmowa schodzi na winy narodu, rozliczenia historyczne albo bieżącą politykę.** Przerwij. Powiedz: „Daniel nie układa listy cudzych win, tylko modli się w pierwszej osobie. Zostańmy przy tym, o kim ja mówię oni\". Ten tekst nie komentuje żadnego współczesnego państwa ani żadnego sporu. Nie służy też do wyliczania dat. Rachunek lat ma osobne spotkanie: „Daniel 9,20-27. Siedemdziesiąt tygodni\".",
      "poziom": 1
     },
     {
@@ -816,7 +782,7 @@
     },
     {
      "typ": "akapit",
-     "tekst": "**„A co z tymi siedemdziesięcioma tygodniami?\"** To następne spotkanie. Dziś zostajecie przy modlitwie, bo odpowiedź Gabriela jest odpowiedzią właśnie na nią.",
+     "tekst": "**„A co z tymi siedemdziesięcioma tygodniami?\"** Jest o tym osobne spotkanie: „Daniel 9,20-27. Siedemdziesiąt tygodni\". Dziś zostajecie przy modlitwie, bo odpowiedź Gabriela jest odpowiedzią właśnie na nią.",
      "poziom": 1
     },
     {
@@ -841,7 +807,7 @@
     },
     {
      "sytuacja": "Rozmowa schodzi na winy narodu, rozliczenia historyczne albo bieżącą politykę.",
-     "odpowiedz": "Przerwij. Powiedz: „Daniel nie układa listy cudzych win, tylko modli się w pierwszej osobie. Zostańmy przy tym, o kim ja mówię oni\". Ten tekst nie komentuje żadnego współczesnego państwa ani żadnego sporu. Nie służy też do wyliczania dat, a do rachunku lat dojdziecie następnym razem."
+     "odpowiedz": "Przerwij. Powiedz: „Daniel nie układa listy cudzych win, tylko modli się w pierwszej osobie. Zostańmy przy tym, o kim ja mówię oni\". Ten tekst nie komentuje żadnego współczesnego państwa ani żadnego sporu. Nie służy też do wyliczania dat. Rachunek lat ma osobne spotkanie: „Daniel 9,20-27. Siedemdziesiąt tygodni\"."
     },
     {
      "sytuacja": "„Skoro Bóg i tak obiecał, to po co się modlić?\"",
@@ -853,7 +819,7 @@
     },
     {
      "sytuacja": "„A co z tymi siedemdziesięcioma tygodniami?\"",
-     "odpowiedz": "To następne spotkanie. Dziś zostajecie przy modlitwie, bo odpowiedź Gabriela jest odpowiedzią właśnie na nią."
+     "odpowiedz": "Jest o tym osobne spotkanie: „Daniel 9,20-27. Siedemdziesiąt tygodni\". Dziś zostajecie przy modlitwie, bo odpowiedź Gabriela jest odpowiedzią właśnie na nią."
     },
     {
      "sytuacja": "Grupa milczy po pytaniu.",

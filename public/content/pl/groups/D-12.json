@@ -4,7 +4,7 @@
  "seria": "Księga Daniela",
  "opis": "Ostatnia strona księgi: ci, którzy śpią w prochu, obudzą się, a stary prorok słyszy, że może odpocząć.",
  "tryb": "ksiegi-ciagly",
- "poprzedni": "D-11",
+ "poprzedni": null,
  "nastepny": null,
  "teksty": {
   "p1": "Dn 11,44-45; 12,1; 12,2-3; 12,4; 12,5-10; 12,13; 1,21",
@@ -41,7 +41,7 @@
    "elementy": [
     {
      "typ": "akapit",
-     "tekst": "To ostatnie spotkanie serii i ostatnia strona księgi. Po jedenastu rozdziałach królów, bestii i liczb Bóg kończy rozmowę z Danielem dwiema rzeczami. Pierwsza to najjaśniejsze w całym Starym Testamencie zdanie o zmartwychwstaniu: ci, którzy śpią w prochu ziemi, obudzą się. Druga to zdanie powiedziane do starego człowieka, który pyta „kiedy\" i „jak to się skończy\": idź swoją drogą, spoczniesz i powstaniesz. Daniel nie dostaje odpowiedzi na wszystkie pytania. Dostaje obietnicę, że jego własna historia nie kończy się w grobie.",
+     "tekst": "To ostatnia strona księgi. Po jedenastu rozdziałach królów, bestii i liczb Bóg kończy rozmowę z Danielem dwiema rzeczami. Pierwsza to najjaśniejsze w całym Starym Testamencie zdanie o zmartwychwstaniu: ci, którzy śpią w prochu ziemi, obudzą się. Druga to zdanie powiedziane do starego człowieka, który pyta „kiedy\" i „jak to się skończy\": idź swoją drogą, spoczniesz i powstaniesz. Daniel nie dostaje odpowiedzi na wszystkie pytania. Dostaje obietnicę, że jego własna historia nie kończy się w grobie.",
      "poziom": 1
     },
     {
@@ -76,11 +76,6 @@
    "poziom": 1,
    "tytul": "Otwarcie",
    "elementy": [
-    {
-     "typ": "akapit",
-     "tekst": "*Pomiń to zdanie, jeśli grupa wchodzi w serię od tego miejsca:* Ostatnio czytaliśmy długie proroctwo o królach, którzy powstają jeden po drugim, i urwaliśmy je w pół zdania. Dziś to zdanie się kończy, a razem z nim cała księga.",
-     "poziom": 1
-    },
     {
      "typ": "wyroznienie",
      "tekst": "Pomyśl o kimś starszym, kogo znałeś, kto umiał kończyć: odejść z pracy, oddać klucze, pożegnać się. Powiedz jednym zdaniem, co w tym było dobrego.",
@@ -226,7 +221,7 @@
      "id": "q6",
      "kluczowe": true,
      "opcjonalne": false,
-     "tekst": "W poprzednim rozdziale czytaliśmy, że roztropni „padać będą od miecza i ognia\" i że niektórzy z nich upadną. Teraz ci sami roztropni jaśnieją jak gwiazdy. **Co zmartwychwstanie zmienia w ocenie życia, które po ludzku skończyło się klęską?**",
+     "tekst": "Poprzedni rozdział mówi, że roztropni „padać będą od miecza i ognia\" i że niektórzy z nich upadną. Teraz ci sami roztropni jaśnieją jak gwiazdy. **Co zmartwychwstanie zmienia w ocenie życia, które po ludzku skończyło się klęską?**",
      "poziom": 1
     },
     {
@@ -708,7 +703,7 @@
      "id": "q28",
      "kluczowe": false,
      "opcjonalne": false,
-     "tekst": "Przeszliśmy razem całą Księgę Daniela: stół królewski, posąg, piec, szaleństwo króla, napis na ścianie, jamę lwów, bestie i Syna Człowieczego, modlitwę „my zgrzeszyliśmy\", siedemdziesiąt tygodni, wojnę za kulisami. **Który obraz z tej księgi zostanie z tobą i co on ci mówi o Bogu?**",
+     "tekst": "Księga Daniela jest pełna obrazów: stół królewski, posąg, piec, szaleństwo króla, napis na ścianie, jama lwów, bestie i Syn Człowieczy, modlitwa „my zgrzeszyliśmy\", siedemdziesiąt tygodni, wojna za kulisami, a dziś obudzenie tych, którzy śpią w prochu. **Który obraz z tej księgi, choćby tylko z dzisiejszego rozdziału, zostanie z tobą i co on ci mówi o Bogu?**",
      "poziom": 1
     },
     {
@@ -721,7 +716,7 @@
     },
     {
      "typ": "uwaga-prowadzacego",
-     "tekst": "jeśli grupa wchodziła w serię po drodze i nie zna wszystkich rozdziałów, przeczytaj wyliczenie z drugiego pytania wolno i pozwól wybrać z tego, co kto zna.",
+     "tekst": "nie każdy przy stole zna całą księgę. Przeczytaj wyliczenie z drugiego pytania wolno i pozwól wybrać z tego, co kto zna, choćby tylko z dzisiejszego rozdziału.",
      "poziom": 1
     }
    ]
@@ -843,11 +838,6 @@
     },
     {
      "typ": "akapit",
-     "tekst": "**Grupa chce rozmawiać tylko o tym, co dalej, skoro seria się skończyła.** Dobrze, ale po modlitwie. Najpierw ostatnie pytanie zastosowania, każdy po kolei, krótko.",
-     "poziom": 1
-    },
-    {
-     "typ": "akapit",
      "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 3 i przeczytajcie go tylko na głos. Bloki 2 i 5 niosą całe spotkanie: obudzą się i powstaniesz.",
      "poziom": 1
     }
@@ -880,10 +870,6 @@
     {
      "sytuacja": "Ktoś boi się końca świata albo sądu.",
      "odpowiedz": "Zwróć uwagę, do kogo i jakim tonem mówi ostatnie zdanie księgi. Człowiek, który najwięcej wiedział o końcu, usłyszał: idź, odpoczniesz, powstaniesz. Ta księga nie kończy się groźbą."
-    },
-    {
-     "sytuacja": "Grupa chce rozmawiać tylko o tym, co dalej, skoro seria się skończyła.",
-     "odpowiedz": "Dobrze, ale po modlitwie. Najpierw ostatnie pytanie zastosowania, każdy po kolei, krótko."
     },
     {
      "sytuacja": "Nie zdążycie z materiałem.",

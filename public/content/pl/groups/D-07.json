@@ -4,8 +4,8 @@
  "seria": "Księga Daniela",
  "opis": "Cztery bestie, sala sądowa i ktoś o ludzkiej twarzy: sąd, który staje po stronie skrzywdzonych.",
  "tryb": "ksiegi-ciagly",
- "poprzedni": "D-06",
- "nastepny": "D-08",
+ "poprzedni": null,
+ "nastepny": null,
  "teksty": {
   "p1": "Dn 7,1-8; 7,9-12; 7,13-14; 7,15-18; 7,19-28",
   "p2": "Dn 2,39-40.44; Mk 14,61-64; Łk 12,32; Mt 4,8-10",
@@ -19,8 +19,8 @@
  },
  "liczbaPytan": {
   "p1": 19,
-  "p2": 26,
-  "p3": 31
+  "p2": 25,
+  "p3": 30
  },
  "tagi": [
   "Daniel",
@@ -77,11 +77,6 @@
    "poziom": 1,
    "tytul": "Otwarcie",
    "elementy": [
-    {
-     "typ": "akapit",
-     "tekst": "*Pomiń to zdanie, jeśli grupa wchodzi w serię od tego miejsca.* Ostatnio Daniel przeżył noc wśród lwów, które go nie tknęły. Dziś księga cofa się o kilkanaście lat i pokazuje jego własny sen, w którym zwierzęta są dużo groźniejsze.",
-     "poziom": 1
-    },
     {
      "typ": "wyroznienie",
      "tekst": "Przypomnij sobie sytuację, w której ktoś został potraktowany niesprawiedliwie i nikt nie stanął po jego stronie. Nie opowiadaj szczegółów. Powiedz jednym zdaniem, czego wtedy najbardziej brakowało.",
@@ -559,22 +554,6 @@
    ]
   },
   {
-   "typ": "blok",
-   "poziom": 2,
-   "tytul": "Przed następnym spotkaniem",
-   "elementy": [
-    {
-     "typ": "pytanie",
-     "id": "q25",
-     "kluczowe": false,
-     "opcjonalne": false,
-     "tekst": "Na tym kończy się aramejska część księgi. Od rozdziału 8 Daniel wraca do hebrajskiego, a zamiast dzikich bestii zobaczy barana i kozła, czyli zwierzęta, które Izrael składał w ofierze w świątyni. **Co może zapowiadać taka zmiana obrazów? O czym będzie następna wizja, skoro jej bohaterami są zwierzęta ofiarne?**",
-     "poziom": 2
-    }
-   ],
-   "doBloku": 5
-  },
-  {
    "typ": "napiecie",
    "poziom": 3,
    "tytul": "Napięcie: kim jest mały róg",
@@ -619,7 +598,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q26",
+     "id": "q25",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "**Które cechy rogu da się ustalić z samego tekstu, zanim otworzy się podręcznik historii?** Dlaczego warto zaczynać od rysopisu, a nie od gotowego imienia?",
@@ -627,7 +606,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q27",
+     "id": "q26",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Mały róg jest bardzo religijny: zajmuje się Bogiem, świętymi i prawem. Jezus mówi Piłatowi, że Jego słudzy nie walczą. **Gdzie chrześcijanie, dawniej i dziś, w każdym wyznaniu, ulegają pokusie, żeby Bożych spraw bronić siłą?** Gdzie ulegamy jej my?",
@@ -648,7 +627,7 @@
    "elementy": [
     {
      "typ": "pytanie",
-     "id": "q28",
+     "id": "q27",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Daniel zobaczył historię dwa razy: z poziomu morza i z poziomu tronu. **Na co patrzysz częściej, kiedy myślisz o świecie i o własnym życiu: na bestie czy na salę sądową? Co by się zmieniło, gdybyś częściej podnosił wzrok?**",
@@ -656,7 +635,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q29",
+     "id": "q28",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Sąd w tej wizji staje po stronie skrzywdzonych. **Jaką krzywdę, swoją albo cudzą, chciałbyś umieć zostawić temu sądowi, zamiast nosić ją sam?**",
@@ -664,7 +643,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q30",
+     "id": "q29",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Jeśli chcesz się tym podzielić: **gdzie w twoim życiu coś hałaśliwego i groźnego wygląda dziś na zwycięzcę, a ty czekasz na swoje „aż\"?** Nie musisz mówić, co to jest.",
@@ -679,7 +658,7 @@
    "elementy": [
     {
      "typ": "pytanie",
-     "id": "q31",
+     "id": "q30",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "„Róg prowadził wojnę ze Świętymi i przemógł ich\". Bóg w tej wizji widzi wszystko, ma księgi i trony, a mimo to Jego ludzie przegrywają, i to długo. **Dlaczego sąd nie zasiada wcześniej? Co znaczy ufać Bogu, który wygrywa na końcu, ale nie oszczędza swoim porażki po drodze?**",

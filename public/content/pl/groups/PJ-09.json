@@ -51,11 +51,6 @@
     },
     {
      "typ": "akapit",
-     "tekst": "To spotkanie jest zamkniętą całością. Znajomość wcześniejszych spotkań z serii nie jest potrzebna.",
-     "poziom": 1
-    },
-    {
-     "typ": "akapit",
      "tekst": "**Gdzie są miny:**",
      "poziom": 1
     },
@@ -88,7 +83,7 @@
     },
     {
      "typ": "uwaga-prowadzacego",
-     "tekst": "odpowiedz pierwszy, jednym zdaniem. Nie komentuj cudzych odpowiedzi. To spotkanie nie wymaga znajomości poprzednich.",
+     "tekst": "odpowiedz pierwszy, jednym zdaniem. Nie komentuj cudzych odpowiedzi.",
      "poziom": 1
     }
    ]

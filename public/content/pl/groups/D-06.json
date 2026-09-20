@@ -4,8 +4,8 @@
  "seria": "Księga Daniela",
  "opis": "W dniu, w którym modlitwa staje się przestępstwem, Daniel nie robi nic nowego. Wierność jako nawyk, nie zryw.",
  "tryb": "ksiegi-ciagly",
- "poprzedni": "D-05",
- "nastepny": "D-07",
+ "poprzedni": null,
+ "nastepny": null,
  "teksty": {
   "p1": "Dn 6,1-6; 6,7-10; 6,11-12; 6,15-19; 6,20-24.26-29",
   "p2": "1Krl 8,48-49; Ps 55,17-18; Dz 5,27-29; Mt 27,65-66; 28,1-2",
@@ -19,8 +19,8 @@
  },
  "liczbaPytan": {
   "p1": 19,
-  "p2": 26,
-  "p3": 32
+  "p2": 25,
+  "p3": 31
  },
  "tagi": [
   "Daniel",
@@ -77,11 +77,6 @@
    "poziom": 1,
    "tytul": "Otwarcie",
    "elementy": [
-    {
-     "typ": "akapit",
-     "tekst": "*Pomiń to zdanie, jeśli grupa wchodzi w serię od tego miejsca.* Ostatnio Babilon upadł w jedną noc, podczas uczty. Dziś rządzi już nowe imperium, a Daniel, stary człowiek, znów jest potrzebny na dworze.",
-     "poziom": 1
-    },
     {
      "typ": "wyroznienie",
      "tekst": "Pomyśl o jednej rzeczy, którą robisz codziennie od tak dawna, że już się nad nią nie zastanawiasz. Powiedz, co to jest, jednym zdaniem.",
@@ -611,22 +606,6 @@
    ]
   },
   {
-   "typ": "blok",
-   "poziom": 2,
-   "tytul": "Przed następnym spotkaniem",
-   "elementy": [
-    {
-     "typ": "pytanie",
-     "id": "q27",
-     "kluczowe": false,
-     "opcjonalne": false,
-     "tekst": "Na tym kończą się opowiadania z dworu. Daniel przeżył noc z lwami. W następnym rozdziale zobaczy we śnie zwierzęta dużo groźniejsze, wychodzące z morza, i sąd, który zasiada nad nimi. **Co z tych sześciu rozdziałów warto zabrać ze sobą, zanim księga zacznie mówić obrazami?**",
-     "poziom": 2
-    }
-   ],
-   "doBloku": 5
-  },
-  {
    "typ": "napiecie",
    "poziom": 3,
    "tytul": "Napięcie: werset 25",
@@ -653,7 +632,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q28",
+     "id": "q27",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "**Kto wydaje ten rozkaz i czyim prawem się kieruje?** Czy tekst gdziekolwiek mówi, że Bóg albo Daniel tego chcieli? Co to znaczy dla czytania Biblii, że zapisuje ona także czyny, których nie pochwala?",
@@ -674,7 +653,7 @@
    "elementy": [
     {
      "typ": "pytanie",
-     "id": "q29",
+     "id": "q28",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Wiara Daniela w dniu próby była dokładnie taka, jaka była w zwykły wtorek. **Co w twoim tygodniu jest na tyle stałe, że w kryzysie nie musiałbyś tego dopiero wymyślać?**",
@@ -682,7 +661,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q30",
+     "id": "q29",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Wrogowie Daniela mogli polegać na tym, że się nie zmieni. **Co ludzie, z którymi pracujesz albo mieszkasz, mogliby z pewnością powiedzieć o tobie i twoim Bogu?**",
@@ -690,7 +669,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q31",
+     "id": "q30",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Jeśli chcesz się tym podzielić: **czy jest jakieś okno, które po cichu zamknąłeś, bo tak było bezpieczniej?** Nie musisz mówić jakie.",
@@ -718,7 +697,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q32",
+     "id": "q31",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Ta sama wiara, to samo zdanie, a w środku słowo „inni\". Jednym lwy zamknęły paszcze, drugich przerzynano piłą. **Dlaczego Bóg jednych wyprowadza z jamy, a innych nie? I co w takim razie obiecuje szósty rozdział Daniela, jeśli nie obiecuje ocalenia?**",

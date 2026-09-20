@@ -40,7 +40,7 @@
    "elementy": [
     {
      "typ": "akapit",
-     "tekst": "To spotkanie nie jest jeszcze o szabacie jako przykazaniu. Jest o zmęczeniu i o tym, skąd ono się bierze. Biblia opowiada o władcy, który nie daje przerwy, i o Bogu, który sam odpoczywa i zaprasza do odpoczynku. Dzień odpoczynku pojawia się dopiero w ostatnim bloku, jako odpowiedź na potrzebę, a nie jako teza do obrony. Kolejne spotkania serii pójdą dalej.",
+     "tekst": "To spotkanie nie jest o szabacie jako przykazaniu. Jest o zmęczeniu i o tym, skąd ono się bierze. Biblia opowiada o władcy, który nie daje przerwy, i o Bogu, który sam odpoczywa i zaprasza do odpoczynku. Dzień odpoczynku pojawia się dopiero w ostatnim bloku, jako odpowiedź na potrzebę, a nie jako teza do obrony. Spotkanie nie rozstrzyga, który dzień jest właściwy ani jak go świętować.",
      "poziom": 1
     },
     {
@@ -53,7 +53,7 @@
      "pozycje": [
       "Przy stole może siedzieć ktoś naprawdę wyczerpany: opiekun chorego, samotny rodzic, człowiek na dwóch etatach. Dla niego zdanie „po prostu odpocznij\" brzmi jak kpina. Nie dawaj rad.",
       "Ktoś może usłyszeć w tym spotkaniu pochwałę lenistwa albo krytykę ludzi pracowitych. Tekst mówi co innego: praca jest dobra, zły jest pan, który nie pozwala przestać.",
-      "Osoba spoza kościoła może od razu zapytać, dlaczego sobota, a nie niedziela. To uczciwe pytanie, ale nie na dziś. Seria dojdzie do niego w swoim czasie.",
+      "Osoba spoza kościoła może od razu zapytać, dlaczego sobota, a nie niedziela. To uczciwe pytanie, ale nie na dziś. To spotkanie go nie rozstrzyga.",
       "Adwentysta z długim stażem może chcieć od razu wyłożyć całą naukę o szabacie. Poproś, żeby dziś został przy tekstach, które są na stole."
      ],
      "poziom": 1
@@ -616,7 +616,7 @@
     },
     {
      "typ": "uwaga-prowadzacego",
-     "tekst": "nie rozstrzygaj tego dziś. Do związku między odpoczynkiem w Chrystusie a odpoczynkiem siódmego dnia wraca ostatnie spotkanie serii. Wystarczy, że pytanie zostanie postawione uczciwie.",
+     "tekst": "nie rozstrzygaj tego dziś. O związku między odpoczynkiem w Chrystusie a odpoczynkiem siódmego dnia jest osobne spotkanie: „Rozkosz, nie ciężar\". Wystarczy, że pytanie zostanie postawione uczciwie.",
      "poziom": 3
     }
    ],
@@ -685,12 +685,12 @@
     },
     {
      "typ": "akapit",
-     "tekst": "**„A właściwie dlaczego sobota, a nie niedziela?\"** Podziękuj za pytanie i powiedz wprost, że jest ważne i że seria do niego dojdzie, zwłaszcza na drugim i piątym spotkaniu. Dziś zostajemy przy tym, po co w ogóle człowiekowi dzień odpoczynku. Nie dawaj się wciągnąć w wykład.",
+     "tekst": "**„A właściwie dlaczego sobota, a nie niedziela?\"** Podziękuj za pytanie i powiedz wprost, że jest ważne, ale to spotkanie go nie rozstrzyga. Dziś zostajemy przy tym, po co w ogóle człowiekowi dzień odpoczynku. Nie dawaj się wciągnąć w wykład. Jeśli ta osoba chce szukać dalej, wskaż osobne spotkania: „Dzień, który był na początku\" oraz „Rozkosz, nie ciężar\".",
      "poziom": 1
     },
     {
      "typ": "akapit",
-     "tekst": "**Ktoś z dłuższym stażem mówi: „My na szczęście mamy szabat, w przeciwieństwie do innych.\"** Spokojnie zmień kierunek: „Można mieć wolną sobotę i dalej nosić w sobie faraona. Jak to wygląda u nas?\" Szabat nie jest w tej serii sposobem na odróżnienie lepszych od gorszych.",
+     "tekst": "**Ktoś z dłuższym stażem mówi: „My na szczęście mamy szabat, w przeciwieństwie do innych.\"** Spokojnie zmień kierunek: „Można mieć wolną sobotę i dalej nosić w sobie faraona. Jak to wygląda u nas?\" Szabat nie jest tu sposobem na odróżnienie lepszych od gorszych.",
      "poziom": 1
     },
     {
@@ -720,11 +720,11 @@
     },
     {
      "sytuacja": "„A właściwie dlaczego sobota, a nie niedziela?\"",
-     "odpowiedz": "Podziękuj za pytanie i powiedz wprost, że jest ważne i że seria do niego dojdzie, zwłaszcza na drugim i piątym spotkaniu. Dziś zostajemy przy tym, po co w ogóle człowiekowi dzień odpoczynku. Nie dawaj się wciągnąć w wykład."
+     "odpowiedz": "Podziękuj za pytanie i powiedz wprost, że jest ważne, ale to spotkanie go nie rozstrzyga. Dziś zostajemy przy tym, po co w ogóle człowiekowi dzień odpoczynku. Nie dawaj się wciągnąć w wykład. Jeśli ta osoba chce szukać dalej, wskaż osobne spotkania: „Dzień, który był na początku\" oraz „Rozkosz, nie ciężar\"."
     },
     {
      "sytuacja": "Ktoś z dłuższym stażem mówi: „My na szczęście mamy szabat, w przeciwieństwie do innych.\"",
-     "odpowiedz": "Spokojnie zmień kierunek: „Można mieć wolną sobotę i dalej nosić w sobie faraona. Jak to wygląda u nas?\" Szabat nie jest w tej serii sposobem na odróżnienie lepszych od gorszych."
+     "odpowiedz": "Spokojnie zmień kierunek: „Można mieć wolną sobotę i dalej nosić w sobie faraona. Jak to wygląda u nas?\" Szabat nie jest tu sposobem na odróżnienie lepszych od gorszych."
     },
     {
      "sytuacja": "Ktoś mówi o zmęczeniu, którego nie leczy ani sen, ani urlop, albo o tym, że nic go już nie cieszy.",

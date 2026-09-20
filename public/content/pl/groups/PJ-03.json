@@ -50,11 +50,6 @@
     },
     {
      "typ": "akapit",
-     "tekst": "To spotkanie jest zamkniętą całością i nie wymaga znajomości wcześniejszych.",
-     "poziom": 1
-    },
-    {
-     "typ": "akapit",
      "tekst": "**Gdzie są miny:**",
      "poziom": 1
     },
@@ -87,7 +82,7 @@
     },
     {
      "typ": "uwaga-prowadzacego",
-     "tekst": "odpowiedz pierwszy, krótko. Nie komentuj cudzych odpowiedzi. To spotkanie nie wymaga znajomości poprzednich.",
+     "tekst": "odpowiedz pierwszy, krótko. Nie komentuj cudzych odpowiedzi.",
      "poziom": 1
     }
    ]

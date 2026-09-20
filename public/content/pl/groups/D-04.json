@@ -4,8 +4,8 @@
  "seria": "Księga Daniela",
  "opis": "Najpotężniejszy człowiek świata sam opowiada, jak stracił wszystko i dlaczego nazywa to łaską.",
  "tryb": "ksiegi-ciagly",
- "poprzedni": "D-03",
- "nastepny": "D-05",
+ "poprzedni": null,
+ "nastepny": null,
  "teksty": {
   "p1": "Dn 3,31-33; 4,1-5; 4,7-14; 4,16-19.21-24; 4,25-30; 4,31-34",
   "p2": "Ez 31,3-6.10-11; Pwt 8,17-18; Jk 4,6; Łk 18,14",
@@ -19,8 +19,8 @@
  },
  "liczbaPytan": {
   "p1": 18,
-  "p2": 25,
-  "p3": 29
+  "p2": 24,
+  "p3": 28
  },
  "tagi": [
   "Daniel",
@@ -80,11 +80,6 @@
    "poziom": 1,
    "tytul": "Otwarcie",
    "elementy": [
-    {
-     "typ": "akapit",
-     "tekst": "*Pomiń to zdanie, jeśli grupa wchodzi w serię od tego miejsca.* Ostatnio Nebukadnesar pytał trzech ludzi, który bóg wyrwie ich z jego ręki, a potem błogosławił ich Boga. Dziś sam opowiada, jak ten Bóg upomniał się o niego.",
-     "poziom": 1
-    },
     {
      "typ": "wyroznienie",
      "tekst": "Przypomnij sobie coś, co ci się w życiu naprawdę udało. Powiedz jednym zdaniem, komu lub czemu to zawdzięczasz.",
@@ -538,14 +533,6 @@
      "opcjonalne": false,
      "tekst": "**Komu w tej historii Bóg dał łaskę i w którym momencie?** Czy król na nią zasłużył?",
      "poziom": 2
-    },
-    {
-     "typ": "pytanie",
-     "id": "q23",
-     "kluczowe": false,
-     "opcjonalne": false,
-     "tekst": "Następny rozdział przeskakuje kilkadziesiąt lat. Na tronie siedzi potomek Nebukadnesara, który zna całą tę historię. **Jak myślicie, co człowiek może zrobić z cudzym nawróceniem, o którym wie wszystko?** Zapamiętajcie to pytanie na kolejne spotkanie.",
-     "poziom": 2
     }
    ],
    "doBloku": 5
@@ -572,7 +559,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q24",
+     "id": "q23",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "**Które z tych czytań jest wam bliższe i na którym wersecie je opieracie?** Co tracimy, kiedy zostawimy tylko jedno z nich?",
@@ -580,7 +567,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q25",
+     "id": "q24",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Werset 32 mówi, że mieszkańcy ziemi „uważani są za nic\". **Jak pogodzić to zdanie z Bogiem, który tyle zachodu wkłada w jednego człowieka?** Kto wypowiada te słowa i w jakim momencie swojego życia?",
@@ -596,7 +583,7 @@
    "elementy": [
     {
      "typ": "pytanie",
-     "id": "q26",
+     "id": "q25",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Każdy ma swój dach pałacu, czyli miejsce, z którego patrzy na to, co zbudował. **Co jest twoim Babilonem i jak brzmi twoje zdanie z wersetu 27?**",
@@ -604,7 +591,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q27",
+     "id": "q26",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Daniel połączył pychę króla z losem ubogich. **Kto w twoim otoczeniu płaci za to, że ty jesteś zajęty budowaniem swojego?**",
@@ -612,7 +599,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q28",
+     "id": "q27",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Jeśli chcesz się tym podzielić: **czy było w twoim życiu upokorzenie, o którym dziś potrafisz powiedzieć, że coś ci uratowało?** Nie musisz opowiadać szczegółów.",
@@ -627,7 +614,7 @@
    "elementy": [
     {
      "typ": "pytanie",
-     "id": "q29",
+     "id": "q28",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Nebukadnesar dostał sny, proroka, rok zwłoki, siedem lat i przywrócenie. Wielu tyranów w historii nie dostało niczego takiego i umarło w pałacach, syci i pewni siebie. **Dlaczego Bóg jednego pyszałka zatrzymuje, a innym pozwala iść dalej? Czy to, że mnie nikt nie zatrzymał, jest dobrym znakiem?**",

@@ -4,11 +4,11 @@
  "seria": "Księga Daniela",
  "opis": "Odpowiedź przychodzi, zanim modlitwa się kończy, a w jej środku stoi Pomazaniec, który zostanie zabity.",
  "tryb": "ksiegi-ciagly",
- "poprzedni": "D-09",
- "nastepny": "D-11",
+ "poprzedni": null,
+ "nastepny": null,
  "teksty": {
   "p1": "Dn 9,1-3.17-19; 9,20-23; 9,24; 9,25-26; 9,27",
-  "p2": "Jr 29,10; Iz 65,24; Dn 8,26-27; Kpł 25,8-10; Ezd 7,11-13.25-26; Mk 1,14-15; Łk 3,1-2.21-22; Dz 10,37-38; Dn 10,2-3",
+  "p2": "Jr 29,10; Iz 65,24; Dn 8,26-27; Kpł 25,8-10; Ezd 7,11-13.25-26; Mk 1,14-15; Łk 3,1-2.21-22; Dz 10,37-38",
   "p3": "Hbr 8,1-2; Iz 53,8; Mt 26,56; Mt 24,15-16"
  },
  "przekladBazowy": "BW",
@@ -19,8 +19,8 @@
  },
  "liczbaPytan": {
   "p1": 18,
-  "p2": 27,
-  "p3": 34
+  "p2": 26,
+  "p3": 33
  },
  "tagi": [
   "Daniel",
@@ -76,11 +76,6 @@
    "poziom": 1,
    "tytul": "Otwarcie",
    "elementy": [
-    {
-     "typ": "akapit",
-     "tekst": "Ostatnio słuchaliśmy modlitwy Daniela nad zwojem Jeremiasza: „my zgrzeszyliśmy\". Dziś zobaczymy, co się stało, zanim zdążył ją skończyć. *Pomiń to zdanie, jeśli grupa wchodzi w serię od tego miejsca.*",
-     "poziom": 1
-    },
     {
      "typ": "wyroznienie",
      "tekst": "Przypomnij sobie sytuację, w której zapytałeś o jedno, a dostałeś odpowiedź na coś znacznie większego. Powiedz jednym zdaniem, jak się wtedy poczułeś.",
@@ -638,35 +633,6 @@
    ]
   },
   {
-   "typ": "blok",
-   "poziom": 2,
-   "tytul": "Następnym razem",
-   "elementy": [
-    {
-     "typ": "pismo",
-     "fragmenty": [
-      {
-       "odnosnik": "Dn 10,2-3",
-       "przeklad": "BW",
-       "akapity": [
-        "W owym czasie ja, Daniel, byłem w żałobie przez trzy tygodnie. Nie jadłem smacznych potraw, ani mięsa, ani wina nie brałem do ust, nie namaszczałem się olejkiem, aż upłynęły trzy tygodnie."
-       ]
-      }
-     ],
-     "poziom": 2
-    },
-    {
-     "typ": "pytanie",
-     "id": "q26",
-     "kluczowe": false,
-     "opcjonalne": false,
-     "tekst": "Dziś odpowiedź przyszła, zanim Daniel skończył mówić. W następnym rozdziale ten sam człowiek będzie się modlił trzy tygodnie i przez trzy tygodnie nie usłyszy nic. **Co mogło się dziać w tym czasie po drugiej stronie?** Zapamiętajcie to pytanie na kolejne spotkanie.",
-     "poziom": 2
-    }
-   ],
-   "doBloku": 5
-  },
-  {
    "typ": "slowo",
    "poziom": 3,
    "tytul": "Słowo: i nie będzie go",
@@ -698,7 +664,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q27",
+     "id": "q26",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Proroctwo mówi nie tylko, że Pomazaniec umrze, ale że umrze sam. **Co to zmienia w tym, jak czytacie opis nocy w Getsemane?**",
@@ -706,7 +672,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q28",
+     "id": "q27",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Izajasz dopowiada, za co: „za występek mojego ludu\". **Jak to zdanie łączy się z modlitwą Daniela „my zgrzeszyliśmy\" i z obietnicą „zmazana będzie wina\"?**",
@@ -760,7 +726,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q29",
+     "id": "q28",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "**Które słowa wersetów 24-27 najtrudniej pogodzić z każdym z trzech odczytań?** Spróbujcie uczciwie, także wobec tego, które jest wam najbliższe.",
@@ -768,7 +734,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q30",
+     "id": "q29",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Jezus powiedział o tym proroctwie: „kto czyta, niech uważa\". **Na co według was mieli uważać pierwsi czytelnicy Mateusza i na co mamy uważać my?**",
@@ -789,7 +755,7 @@
    "elementy": [
     {
      "typ": "pytanie",
-     "id": "q31",
+     "id": "q30",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Daniel prosił o koniec siedemdziesięciu lat, a Bóg odpowiedział mu o winie, sprawiedliwości i Pomazańcu. **Gdzie w twoim życiu prosisz o odbudowę murów, a Bóg być może chce rozmawiać o czymś głębszym?**",
@@ -797,7 +763,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q32",
+     "id": "q31",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "„Gdy zacząłeś zanosić błaganie, wyszło słowo\". **Co by się zmieniło w twojej modlitwie, gdybyś naprawdę przyjął, że jesteś słyszany od pierwszego zdania, także wtedy, gdy nic jeszcze nie widać?**",
@@ -805,7 +771,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q33",
+     "id": "q32",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Jeśli chcesz się tym podzielić: **czy jest sprawa, w której wołasz „nie zwlekaj\", a odpowiedź wygląda na rozpisaną na dłużej, niż masz siłę czekać?** Nie musisz mówić jaka.",
@@ -820,7 +786,7 @@
    "elementy": [
     {
      "typ": "pytanie",
-     "id": "q34",
+     "id": "q33",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Bóg podał, skąd liczyć czas do Mesjasza, a mimo to większość ludzi, którzy mieli tę księgę w rękach, Go nie rozpoznała. **Po co Bóg daje proroctwo z kalendarzem, skoro sama znajomość kalendarza nikogo nie doprowadziła do wiary? Czego potrzeba oprócz rachunku?**",

@@ -19,8 +19,8 @@
  },
  "liczbaPytan": {
   "p1": 19,
-  "p2": 27,
-  "p3": 33
+  "p2": 26,
+  "p3": 32
  },
  "tagi": [
   "Daniel",
@@ -76,11 +76,6 @@
    "poziom": 1,
    "tytul": "Otwarcie",
    "elementy": [
-    {
-     "typ": "akapit",
-     "tekst": "Ostatnio zostawiliśmy Daniela jako świeżego absolwenta babilońskiej szkoły, który postawił jedną granicę. Dziś cała ta szkoła dostaje wyrok śmierci, a on razem z nią.",
-     "poziom": 1
-    },
     {
      "typ": "wyroznienie",
      "tekst": "Przypomnij sobie sytuację, w której ktoś zażądał od ciebie czegoś niemożliwego. Powiedz jednym zdaniem, co zrobiłeś najpierw.",
@@ -570,14 +565,6 @@
      "opcjonalne": false,
      "tekst": "Król mówi o Bogu wielkie słowa. **Przyjrzyjcie się jednak zaimkowi: czyj to Bóg według króla?** Czego w jego reakcji jeszcze brakuje?",
      "poziom": 2
-    },
-    {
-     "typ": "pytanie",
-     "id": "q25",
-     "kluczowe": false,
-     "opcjonalne": false,
-     "tekst": "W następnym rozdziale ten sam król postawi posąg cały ze złota, od głowy do stóp. **Co mógł chcieć w ten sposób poprawić w swoim śnie?** Zapamiętajcie to pytanie na kolejne spotkanie.",
-     "poziom": 2
     }
    ],
    "doBloku": 5
@@ -607,7 +594,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q26",
+     "id": "q25",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "**Co jest na liście Nebukadnesara, czego nie było na liście Adama i Ewy?** Co mówi o imperiach to, że człowiek na początku dostał władzę nad stworzeniem, ale nie nad drugim człowiekiem?",
@@ -615,7 +602,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q27",
+     "id": "q26",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Daniel mówi królowi, że wszystko to „dał\" mu Bóg niebios. To ten sam czasownik, który w rozdziale 1 padł trzy razy. **Co znaczy dla władcy, i dla każdego z nas, że to, co ma, jest dane, a nie zdobyte?**",
@@ -664,7 +651,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q28",
+     "id": "q27",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Jezus mówi o kamieniu, na który można upaść teraz, i o kamieniu, który spadnie później. **Jak to zdanie pomaga połączyć oba odczytania?**",
@@ -672,7 +659,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q29",
+     "id": "q28",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Wszystkie szkoły różnią się co do dat i imion. **W czym się zgadzają, kiedy czytają werset 44?** Co z tego rozdziału zostaje, nawet jeśli ktoś nie jest pewien szczegółów?",
@@ -693,7 +680,7 @@
    "elementy": [
     {
      "typ": "pytanie",
-     "id": "q30",
+     "id": "q29",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Każdy ma swój posąg: coś, co wygląda na trwałe jak złoto i na czym opiera poczucie bezpieczeństwa. **Co jest nim u ciebie i gdzie ma stopy z gliny?**",
@@ -701,7 +688,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q31",
+     "id": "q30",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Daniel w kryzysie poprosił o czas i o modlitwę trzech przyjaciół. **Kogo ty możesz poprosić, kiedy dostajesz zadanie ponad siły?** Co cię powstrzymuje?",
@@ -709,7 +696,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q32",
+     "id": "q31",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Jeśli chcesz się tym podzielić: **czy jest w twoim życiu sprawa, której nie rozumiesz i z którą chodzisz jak król z niewyjaśnionym snem?** Nie musisz mówić jaka.",
@@ -724,7 +711,7 @@
    "elementy": [
     {
      "typ": "pytanie",
-     "id": "q33",
+     "id": "q32",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Daniel mówi, że Bóg „utrąca królów i ustanawia królów\", i że to Bóg dał królestwo Nebukadnesarowi, temu samemu, który spalił Jerozolimę. **Czy to znaczy, że Bóg chce każdej władzy, jaka akurat jest? Jak pogodzić Boga, który trzyma historię, z historią pełną krzywd, które wyrządzają władcy?**",
