@@ -334,6 +334,30 @@
       "zaufanie",
       "kontrola"
      ]
+    },
+    {
+     "id": "E-15",
+     "tytul": "Rozczarowanie",
+     "opis": "Co zrobić z rozjazdem między tym, czego się spodziewałem, a tym, co przyszło: od ludzi, od siebie, od Boga.",
+     "teksty": "Łk 24,13-21; 2Krl 5,9-14; Jr 17,5-8; J 2,23-25; Łk 24,25-32; Prz 13,12; Rz 5,1-5; Łk 24,33-35",
+     "zdanie": "Rozczarowanie mówi prawdę o tym, czego się spodziewałem. Nie mówi jeszcze prawdy o tym, co robi Bóg.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 29,
+      "p3": 33
+     },
+     "tagi": [
+      "emocje",
+      "nadzieja",
+      "oczekiwania",
+      "zaufanie",
+      "Emaus"
+     ]
     }
    ]
   },
@@ -1290,12 +1314,12 @@
    "prefiks": "PJ",
    "tytul": "Przypowieści Jezusa",
    "opis": "Każda przypowieść to zamknięte spotkanie. Można zacząć w dowolnym miejscu.",
-   "tryb": "ksiegi, hybryda: spotkanie jest zamkniętą całością",
+   "tryb": "ksiegi-hybrydowy",
    "items": [
     {
      "id": "PJ-01",
      "tytul": "Siewca",
-     "opis": "",
+     "opis": "Ten sam siewca, to samo ziarno, cztery sposoby słuchania. I Bóg, który sieje także tam, gdzie nikt by nie siał.",
      "teksty": "Mk 4,1-20; Mk 4,26-29",
      "zdanie": "Siewca nie skreśla z góry żadnego kawałka pola. Moją częścią jest nie bronić dostępu.",
      "dlugosc": {
@@ -1306,7 +1330,7 @@
      "liczbaPytan": {
       "p1": 20,
       "p2": 32,
-      "p3": 36
+      "p3": 37
      },
      "tagi": [
       "przypowieści",
@@ -1319,7 +1343,7 @@
     {
      "id": "PJ-02",
      "tytul": "Ojciec i dwaj synowie",
-     "opis": "",
+     "opis": "Dwóch zgubionych synów, jeden daleko, drugi w domu, i ojciec, który tego samego dnia wychodzi do obu.",
      "teksty": "Łk 15,1-3.11-32",
      "zdanie": "Ojciec wyszedł z domu dwa razy: do tego, który wracał z daleka, i do tego, który stał dwa kroki od drzwi.",
      "dlugosc": {
@@ -1329,8 +1353,8 @@
      },
      "liczbaPytan": {
       "p1": 20,
-      "p2": 29,
-      "p3": 34
+      "p2": 32,
+      "p3": 38
      },
      "tagi": [
       "przypowieści",
@@ -1341,9 +1365,206 @@
      ]
     },
     {
+     "id": "PJ-03",
+     "tytul": "Miłosierny Samarytanin",
+     "opis": "Uczony pyta, kogo musi kochać, a Jezus odwraca pytanie: komu ty stałeś się bliźnim?",
+     "teksty": "Łk 10,25-37",
+     "zdanie": "Bliźniego nie da się zdefiniować. Można się nim tylko stać.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 26,
+      "p3": 30
+     },
+     "tagi": [
+      "przypowieści",
+      "bliźni",
+      "miłosierdzie",
+      "granice miłości",
+      "obcy"
+     ]
+    },
+    {
+     "id": "PJ-04",
+     "tytul": "Faryzeusz i celnik",
+     "opis": "Dwóch ludzi modli się w jednej świątyni, a z darem wraca ten, który przyszedł z pustymi rękami.",
+     "teksty": "Łk 18,9-14; Łk 18,15-17",
+     "zdanie": "Dwóch ludzi powiedziało Bogu, kim są. Z darem wrócił ten, który przyszedł z pustymi rękami.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 32
+     },
+     "tagi": [
+      "przypowieści",
+      "modlitwa",
+      "usprawiedliwienie",
+      "pokora",
+      "pogarda",
+      "łaska"
+     ]
+    },
+    {
+     "id": "PJ-05",
+     "tytul": "Robotnicy w winnicy",
+     "opis": "Wszyscy dostają tę samą zapłatę i pierwsi czują się skrzywdzeni: dlaczego cudza łaska tak boli?",
+     "teksty": "Mt 19,27-30; Mt 20,1-16; Mt 20,20-28",
+     "zdanie": "Bóg nikomu nie daje mniej, niż obiecał. Gorszy nas dopiero to, że innym daje tyle samo.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 34
+     },
+     "tagi": [
+      "przypowieści",
+      "łaska",
+      "zazdrość",
+      "nagroda",
+      "sprawiedliwość",
+      "służba"
+     ]
+    },
+    {
+     "id": "PJ-06",
+     "tytul": "Skarb, perła, ziarno gorczycy i zakwas",
+     "opis": "Cztery krótkie obrazy królestwa, które zaczyna się małe, pracuje w ukryciu i jest warte wszystkiego.",
+     "teksty": "Mt 13,31-32; Mt 13,33; Mt 13,34-35; Mt 13,44-46; Mt 13,51-52",
+     "zdanie": "Królestwo zaczyna się małe i pracuje w ukryciu. Kto zobaczył, ile jest warte, nie liczy kosztów.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 33
+     },
+     "tagi": [
+      "przypowieści",
+      "królestwo Boże",
+      "małe początki",
+      "radość",
+      "ukrycie"
+     ]
+    },
+    {
+     "id": "PJ-07",
+     "tytul": "Pszenica i kąkol",
+     "opis": "Skąd zło na Bożym polu, dlaczego Bóg nie wyrywa go od razu i czyje ręce zrobią to na końcu.",
+     "teksty": "Mt 13,24-26; Mt 13,27-28; Mt 13,29-30; Mt 13,36-39; Mt 13,40-43",
+     "zdanie": "Kąkol nie jest od Boga i nie zostanie na zawsze. Do żniwa Bóg chroni pszenicę, także przed naszą gorliwością.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 33
+     },
+     "tagi": [
+      "przypowieści",
+      "zło",
+      "cierpliwość Boga",
+      "osądzanie",
+      "Kościół",
+      "sąd"
+     ]
+    },
+    {
+     "id": "PJ-08",
+     "tytul": "Bogaty głupiec",
+     "opis": "Człowiek, który rozmawiał tylko ze sobą, i pytanie, dla kogo właściwie gromadzę to, co mam.",
+     "teksty": "Łk 12,13-15; Łk 12,16-17; Łk 12,18-19; Łk 12,20-21; Łk 12,22-24.32-34",
+     "zdanie": "Urodzaj jest przesyłką z adresem. Głupotą nie jest mieć, tylko planować tak, jakby poza mną nie było nikogo.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 28,
+      "p3": 33
+     },
+     "tagi": [
+      "przypowieści",
+      "pieniądze",
+      "chciwość",
+      "samotność",
+      "śmierć",
+      "zaufanie"
+     ]
+    },
+    {
+     "id": "PJ-09",
+     "tytul": "Wielka uczta",
+     "opis": "O stole u Boga, który jest nakryty już dziś, i o dobrych rzeczach, którymi się od niego wymawiamy.",
+     "teksty": "Łk 14,1.7-24",
+     "zdanie": "Od stołu u Boga rzadko odciąga człowieka wielkie zło. Częściej robi to dobra rzecz, która akurat dziś nie może poczekać.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 32
+     },
+     "tagi": [
+      "przypowieści",
+      "zaproszenie",
+      "łaska",
+      "wymówki",
+      "gościnność",
+      "Królestwo Boże"
+     ]
+    },
+    {
+     "id": "PJ-10",
+     "tytul": "Dziesięć panien",
+     "opis": "O czekaniu, które się przeciąga, i o gotowości, która pozwala spokojnie zasnąć.",
+     "teksty": "Mt 24,36.42-51; Mt 25,1-13",
+     "zdanie": "Gotowość nie polega na tym, żeby nie spać. Polega na tym, żeby mieć przy sobie coś, co pozwala zasnąć spokojnie, i znać Tego, na kogo się czeka.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 25,
+      "p3": 31
+     },
+     "tagi": [
+      "przypowieści",
+      "powtórne przyjście",
+      "czekanie",
+      "gotowość",
+      "nadzieja"
+     ]
+    },
+    {
      "id": "PJ-11",
      "tytul": "Talenty",
-     "opis": "",
+     "opis": "O słudze, który zakopał fortunę, bo źle myślał o swoim panu, i o tym, jaki ten pan jest naprawdę.",
      "teksty": "Mt 25,14-30",
      "zdanie": "To, co myślisz o Panu, decyduje o tym, co zrobisz z tym, co od Niego masz.",
      "dlugosc": {
@@ -1368,7 +1589,7 @@
     {
      "id": "PJ-12",
      "tytul": "Owce i kozły",
-     "opis": "",
+     "opis": "O sądzie, na którym zdziwieni są wszyscy, i o Królu, którego mijamy, nie wiedząc o tym.",
      "teksty": "Mt 25,31-46; Mt 26,1-2",
      "zdanie": "Na sądzie wyjdzie na jaw to, czego nikt nie zapisywał, a Sędzią będzie Ten, który sam był głodny, nagi i uwięziony.",
      "dlugosc": {
@@ -1446,6 +1667,258 @@
       "modlitwa",
       "historia",
       "nadzieja"
+     ]
+    },
+    {
+     "id": "D-03",
+     "tytul": "Daniel 3. A jeśli nie",
+     "opis": "Trzej ludzie przed rozpalonym piecem mówią „a jeśli nie”. O wierze, która nie stawia Bogu warunków.",
+     "teksty": "Dn 3,1-7; 3,8-15; 3,16-18; 3,19-25; 3,26-30",
+     "zdanie": "Bóg nie obiecał, że ominie mnie piec. Obiecał, że nie wejdę do niego sam.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 27,
+      "p3": 31
+     },
+     "tagi": [
+      "Daniel",
+      "wierność",
+      "przymus",
+      "cierpienie",
+      "zaufanie",
+      "obecność Boga"
+     ]
+    },
+    {
+     "id": "D-04",
+     "tytul": "Daniel 4. Król, który podniósł oczy",
+     "opis": "Najpotężniejszy człowiek świata sam opowiada, jak stracił wszystko i dlaczego nazywa to łaską.",
+     "teksty": "Dn 3,31-33; 4,1-5; 4,7-14; 4,16-19.21-24; 4,25-30; 4,31-34",
+     "zdanie": "Pokora zaczyna się od podniesienia oczu: od zobaczenia, skąd mam to, co mam.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 25,
+      "p3": 29
+     },
+     "tagi": [
+      "Daniel",
+      "pycha",
+      "pokora",
+      "władza",
+      "nawrócenie",
+      "łaska"
+     ]
+    },
+    {
+     "id": "D-05",
+     "tytul": "Daniel 5. Napis na ścianie",
+     "opis": "Ostatnia uczta Babilonu i napis na ścianie. Co człowiek robi z historią, którą zna na pamięć.",
+     "teksty": "Dn 5,1-4; 5,5-9; 5,13-17; 5,18-24; 5,25-30",
+     "zdanie": "Znać historię o Bogu to jeszcze nie to samo, co podnieść oczy. Światło, które dostałem, czeka na odpowiedź.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 29,
+      "p3": 33
+     },
+     "tagi": [
+      "Daniel",
+      "odpowiedzialność",
+      "pycha",
+      "świętość",
+      "sąd",
+      "pamięć"
+     ]
+    },
+    {
+     "id": "D-06",
+     "tytul": "Daniel 6. Otwarte okno",
+     "opis": "W dniu, w którym modlitwa staje się przestępstwem, Daniel nie robi nic nowego. Wierność jako nawyk, nie zryw.",
+     "teksty": "Dn 6,1-6; 6,7-10; 6,11-12; 6,15-19; 6,20-24.26-29",
+     "zdanie": "W dniu próby nie staniesz się kimś innym, niż byłeś wczoraj przy otwartym oknie.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 26,
+      "p3": 32
+     },
+     "tagi": [
+      "Daniel",
+      "modlitwa",
+      "wierność",
+      "nawyk",
+      "sumienie",
+      "prawo",
+      "praca"
+     ]
+    },
+    {
+     "id": "D-07",
+     "tytul": "Daniel 7. Bestie i Syn Człowieczy",
+     "opis": "Cztery bestie, sala sądowa i ktoś o ludzkiej twarzy: sąd, który staje po stronie skrzywdzonych.",
+     "teksty": "Dn 7,1-8; 7,9-12; 7,13-14; 7,15-18; 7,19-28",
+     "zdanie": "Bestie hałasują na dole, a na górze już postawiono trony i królestwo jest przyznane komuś o ludzkiej twarzy.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 26,
+      "p3": 31
+     },
+     "tagi": [
+      "Daniel",
+      "proroctwo",
+      "sąd",
+      "Syn Człowieczy",
+      "królestwo Boże",
+      "nadzieja",
+      "władza"
+     ]
+    },
+    {
+     "id": "D-08",
+     "tytul": "Daniel 8. Jak długo?",
+     "opis": "Ktoś depcze prawdę i wszystko mu się udaje. W niebie pada pytanie „jak długo?\" i niebo na nie odpowiada.",
+     "teksty": "Dn 8,1-8; 8,9-12; 8,13-14; 8,15-22; 8,23-27",
+     "zdanie": "Zło ma termin. Pytanie „jak długo?\" pada w niebie i niebo na nie odpowiada.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 25,
+      "p3": 32
+     },
+     "tagi": [
+      "Daniel",
+      "proroctwo",
+      "świątynia",
+      "sąd",
+      "cierpliwość",
+      "nadzieja"
+     ]
+    },
+    {
+     "id": "D-09",
+     "tytul": "Daniel 9, część 1. My zgrzeszyliśmy",
+     "opis": "Modlitwa człowieka, który mówi „my zgrzeszyliśmy\", choć sam nie zawinił, i nie powołuje się na żadne zasługi.",
+     "teksty": "Dn 9,1-3; 9,4-6; 9,7-10; 9,11-14; 9,15-19",
+     "zdanie": "Modlitwa nie stoi na tym, jacy jesteśmy my. Stoi na tym, jaki jest Bóg.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 28,
+      "p3": 33
+     },
+     "tagi": [
+      "Daniel",
+      "modlitwa",
+      "wyznanie",
+      "wstawiennictwo",
+      "miłosierdzie",
+      "obietnica"
+     ]
+    },
+    {
+     "id": "D-10",
+     "tytul": "Daniel 9,20-27. Siedemdziesiąt tygodni",
+     "opis": "Odpowiedź przychodzi, zanim modlitwa się kończy, a w jej środku stoi Pomazaniec, który zostanie zabity.",
+     "teksty": "Dn 9,1-3.17-19; 9,20-23; 9,24; 9,25-26; 9,27",
+     "zdanie": "Odpowiedź wyszła, zanim modlitwa się skończyła, i miała imię: Pomazaniec.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 34
+     },
+     "tagi": [
+      "Daniel",
+      "proroctwo",
+      "modlitwa",
+      "Mesjasz",
+      "krzyż",
+      "czas"
+     ]
+    },
+    {
+     "id": "D-11",
+     "tytul": "Daniel 10-11. Wojna za kulisami",
+     "opis": "Trzy tygodnie ciszy po modlitwie i anioł, który mówi, co działo się w tym czasie za kulisami.",
+     "teksty": "Dn 10,1-9; 10,10-14; 10,15-19; 10,20-21; 11,1-4; 11,31-35",
+     "zdanie": "Cisza po modlitwie nie znaczy, że nic się nie dzieje. Znaczy tylko, że nie widzę kulis.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 28,
+      "p3": 33
+     },
+     "tagi": [
+      "Daniel",
+      "modlitwa",
+      "aniołowie",
+      "historia",
+      "wytrwałość",
+      "proroctwo"
+     ]
+    },
+    {
+     "id": "D-12",
+     "tytul": "Daniel 12. Idź i odpocznij",
+     "opis": "Ostatnia strona księgi: ci, którzy śpią w prochu, obudzą się, a stary prorok słyszy, że może odpocząć.",
+     "teksty": "Dn 11,44-45; 12,1; 12,2-3; 12,4; 12,5-10; 12,13; 1,21",
+     "zdanie": "Nie muszę rozumieć końca świata, żeby spokojnie dojść do własnego. Wystarczy wiedzieć, kto budzi śpiących.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 25,
+      "p3": 31
+     },
+     "tagi": [
+      "Daniel",
+      "zmartwychwstanie",
+      "nadzieja",
+      "śmierć",
+      "wytrwałość",
+      "koniec"
      ]
     }
    ]

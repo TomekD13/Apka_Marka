@@ -1,0 +1,903 @@
+{
+ "tytul": "Daniel 8. Jak długo?",
+ "id": "D-08",
+ "seria": "Księga Daniela",
+ "opis": "Ktoś depcze prawdę i wszystko mu się udaje. W niebie pada pytanie „jak długo?\" i niebo na nie odpowiada.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": "D-07",
+ "nastepny": "D-09",
+ "teksty": {
+  "p1": "Dn 8,1-8; 8,9-12; 8,13-14; 8,15-22; 8,23-27",
+  "p2": "Ps 74,3-4.7.9-10; Ap 6,9-11; Kpł 16,5.15-16.29-30; Dn 2,34-35",
+  "p3": "Dn 7,25-26; Mt 24,15; Lb 14,34; Ez 4,6; Hbr 8,1-2; Hbr 9,24"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 25,
+  "p3": 32
+ },
+ "tagi": [
+  "Daniel",
+  "proroctwo",
+  "świątynia",
+  "sąd",
+  "cierpliwość",
+  "nadzieja"
+ ],
+ "wersja": 1,
+ "zdanie": "Zło ma termin. Pytanie „jak długo?\" pada w niebie i niebo na nie odpowiada.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To jest najtrudniejszy rozdział w pierwszej połowie widzeń i łatwo zrobić z niego wykład z datami. To spotkanie idzie za jednym pytaniem, które pada w samym środku rozdziału, w niebie, nie na ziemi: „jak długo?\". Ktoś depcze prawdę, świątynię i ludzi, i wszystko mu się udaje. Odpowiedź brzmi: nie bez końca. Świątynia „wróci do swojego prawa\". Bóg nie zostawia swojej sprawy bez rozstrzygnięcia. Wszystko inne w tym rozdziale służy temu zdaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Na poziomie 1 czytacie cały rozdział w pięciu odcinkach i trzymacie się tego, co nazywa sam tekst: baran to Medowie i Persowie, kozioł to Grecja. Kim jest mały róg i ile trwa 2300 wieczorów i poranków, tekst wprost nie mówi. Te pytania są na poziomach 2 i 3, razem z odczytaniem, które przyjmują adwentyści, i z odczytaniem, które przyjmuje większość współczesnych komentarzy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Adwentyści łączą ten rozdział z nauką o sądzie, który poprzedza powrót Jezusa, nazywaną czasem sądem śledczym. To znaczy: zanim Jezus wróci, w niebie zostaje jawnie rozstrzygnięte, kto do Niego należy. Przy stole tej nazwy używać nie trzeba.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś zna rachunek lat na pamięć i zechce go wygłosić. Poproś, żeby poczekał na poziom 3, a jeśli prowadzisz poziom 1, na rozmowę po spotkaniu.",
+      "Przy stole mogą siedzieć katolicy. Część adwentystów ma odruch, żeby przy małym rogu od razu mówić o papiestwie. Nie pozwól, żeby ktokolwiek przy stole poczuł się oskarżony. Tekst opisuje władzę, która stawia się na miejscu Boga i sięga po przymus. Nie opisuje zwykłych wierzących żadnego Kościoła.",
+      "Rozdział łatwo prowokuje do szukania małego rogu w dzisiejszych wiadomościach. Nie idźcie tam.",
+      "Ktoś może wyjść z poczuciem, że nic nie zrozumiał. Daniel wyszedł z tym samym, tak kończy się rozdział."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie podawaj dat na poziomie 1. Nie rysuj osi czasu. Nie rozstrzygaj sporu o mały róg tonem, który zamyka rozmowę. Nie strasz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "*Pomiń to zdanie, jeśli grupa wchodzi w serię od tego miejsca.* Ostatnio Daniel widział cztery bestie wychodzące z morza i sąd, który zapada na korzyść świętych. Dziś widzi ciąg dalszy, ale z innej strony: zamiast dzikich bestii baran i kozioł, a w środku widzenia świątynia.",
+     "poziom": 1
+    },
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie sytuację, w której działo się coś niesprawiedliwego, a ty mogłeś tylko czekać. Powiedz jednym zdaniem, co było w tym czekaniu najtrudniejsze.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Baran i kozioł",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 8,1-8",
+       "przeklad": "BW",
+       "akapity": [
+        "W trzecim roku króla Belsazara ukazało się mnie, Danielowi, widzenie, po tamtym, które mi się ukazało poprzednio. A w widzeniu, gdy patrzyłem, zdawało mi się, że jestem w twierdzy Suzie w krainie Elam; w widzeniu znalazłem się nad rzeką Ulaj. A gdy podniosłem oczy, widziałem, a oto baran stanął na brzegu rzeki; miał dwa rogi. Oba rogi były długie, lecz jeden był dłuższy od drugiego, a ten dłuższy wyrósł później. Widziałem, jak baran bódł na zachód i na północ, i na południe, a żadne zwierzę nie mogło mu się oprzeć i nikt nie mógł wyratować z jego mocy; robił co chciał, i był coraz silniejszy.",
+        "A gdy nad tym się zastanawiałem, oto nadszedł kozioł z zachodu po powierzchni całej ziemi, nie dotykając ziemi, a ten kozioł miał między oczami jeden róg. A gdy przyszedł do barana mającego dwa rogi, którego widziałem na brzegu rzeki, uderzył na niego z całej siły. I widziałem, jak natarł na barana, a rozjuszywszy się nań, uderzył na barana, złamał oba jego rogi; a baran nie miał siły, by mu sprostać; i rzuciwszy go o ziemię, zdeptał go, a nie było nikogo, kto by wyrwał barana z mocy kozła. A kozioł wyrósł bardzo; a gdy najbardziej spotężniał, złamał się wielki róg i na jego miejscu wyrosły cztery inne rogi na cztery strony nieba."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Opowiedzcie to widzenie własnymi słowami, jak scenę z filmu.** Co robi baran, co robi kozioł i jak kończy każdy z nich?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "O baranie czytamy: „robił co chciał, i był coraz silniejszy\". O koźle: „gdy najbardziej spotężniał, złamał się wielki róg\". **Co te dwa zdania mówią o każdej potędze, która wygląda na niepowstrzymaną?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Dwa razy pada zdanie, że nie było nikogo, kto by wyratował. **Jak wygląda świat widziany z perspektywy tych, po których przechodzą baran i kozioł?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy w księdze",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** W drugiej połowie księgi, w drugim z czterech widzeń Daniela. Rozdział 7 pokazał cztery bestie, mały róg i sąd. Rozdział 8 wraca do tej samej historii, ale zaczyna później, bo Babilon już się kończy, i skupia się na jednym: co się stanie ze świątynią. Rozdział 9 będzie odpowiedzią na to, czego Daniel tutaj nie zrozumiał.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Od tego rozdziału księga wraca z aramejskiego do hebrajskiego, języka Izraela i świątyni. Razem z językiem zmieniają się symbole. Znikają dzikie bestie, a pojawiają się baran i kozioł, zwierzęta czyste, znane każdemu Izraelicie ze służby ofiarnej. Już sam dobór zwierząt mówi, że ten rozdział będzie o świątyni. Suza, w której Daniel widzi siebie w widzeniu, stanie się później jedną ze stolic Persji.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia w czytaniu tego rozdziału świadomość, że Izraelita widział w baranie i koźle nie potwory, tylko zwierzęta znane ze świątyni?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Róg, który sięgnął nieba",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 8,9-12",
+       "przeklad": "BW",
+       "akapity": [
+        "A z jednego z nich wyrósł inny mały róg, który bardzo wyrósł ku południowi i ku wschodowi, i ku prześlicznej ziemi. Wielkością swoją sięgał aż do wojska niebieskiego i strącił na ziemię niektórych z wojska i z gwiazd, i podeptał ich. Wmówił w siebie potęgę, jaką ma książę wojsk, tak że odjęta mu została stała codzienna ofiara i zostało zbezczeszczone miejsce jego świątyni. Na codziennej ofierze dopuszczono się przestępstwa; prawda została powalona na ziemię, a cokolwiek czynił, to mu się udawało."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Baran i kozioł walczyli ze sobą o ziemię. **Z kim i o co walczy mały róg?** Wypiszcie z tekstu wszystko, na co podnosi rękę.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Prawda została powalona na ziemię, a cokolwiek czynił, to mu się udawało\". **Dlaczego to zdanie jest dla wierzącego trudniejsze niż cały opis wojen z bloku 1?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Tekst mówi, że róg „wmówił w siebie potęgę, jaką ma książę wojsk\". **Jak wygląda władza, która sięga po miejsce należne Bogu?** Po czym ją poznać, zanim zacznie deptać?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Poprzednie potęgi w tym rozdziale rosną w poziomie, po mapie: na zachód, na północ, na południe. Mały róg rośnie najpierw tak samo, a potem w górę, ku niebu. To jest nowość. Jego celem nie jest już terytorium, tylko „książę wojsk\", Jego świątynia i to, co się w niej dzieje codziennie, żeby ludzie mieli dostęp do Boga. Tekst nie mówi jeszcze, kim jest róg. Mówi, co robi: staje między Bogiem a ludźmi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W wersetach 11-13 Biblia Warszawska ma „stałą codzienną ofiarę\". W hebrajskim stoi tu jedno słowo, `tamid`, czyli „ciągłe\", „nieustanne\". Słowa „ofiara\" w tekście nie ma, dopowiedzieli je tłumacze. W Prawie Mojżesza `tamid` opisuje wszystko, co w świątyni działo się bez przerwy: codzienne całopalenie, lampę, która miała się palić stale, ogień na ołtarzu, chleb zawsze leżący na stole. Nigdy natomiast nie opisuje obrzędu dorocznego Dnia Pojednania.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Róg odbiera więc „księciu wojsk\" nie jedną ofiarę, tylko całą nieustanną służbę, dzięki której człowiek mógł codziennie przyjść do Boga. **Co to mówi o tym, w co ten róg naprawdę uderza?** Jak wygląda odebranie ludziom „ciągłego\" dostępu do Boga?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Jak długo?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 8,13-14",
+       "przeklad": "BW",
+       "akapity": [
+        "I usłyszałem jednego świętego mówiącego, a inny święty rzekł do tego właśnie świętego, który mówił: Jak długo zachowuje ważność widzenie dotyczące stałej codziennej ofiary, przestępstwa pustoszenia i bezczeszczenia świątyni i deptania prześlicznej ziemi? A ten odpowiedział mu: Aż do dwóch tysięcy trzystu wieczorów i poranków, potem świątynia znowu wróci do swojego prawa."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Pytanie „jak długo?\" nie pada z ust Daniela ani żadnego człowieka. Zadaje je istota niebiańska. **Co to mówi o niebie, że właśnie tam ktoś o to pyta?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Odpowiedź ma dwie części: liczbę i obietnicę. Zostawcie na chwilę liczbę. **Co obiecuje zdanie „świątynia znowu wróci do swojego prawa\" komuś, kto właśnie widział prawdę powaloną na ziemię?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Odpowiedź nie brzmi „zaraz\" ani „nigdy\", tylko „aż do\". **Czym różni się czekanie, które ma wyznaczony kres, od czekania bez końca?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To jest środek rozdziału i jego najważniejsze zdanie. Widzenie mogło się skończyć na rogu, któremu wszystko się udaje. Nie kończy się tam. Zło w tym rozdziale ma termin, a sprawa Boga i Jego świątyni zostanie rozstrzygnięta. Polskie „wróci do swojego prawa\" dobrze oddaje język sądu: chodzi o przywrócenie komuś racji, która została mu odebrana. Ile to czasu i o jaką świątynię chodzi, o to czytelnicy spierają się do dziś. O tym, że koniec jest wyznaczony, nie spiera się nikt.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Wołanie, które wraca",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 74,3-4.7.9-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Skieruj kroki swoje ku ruinom, które od dawna leżą: Wróg wszystko spustoszył w świątyni! Ryczeli wrogowie twoi w miejscu twych zgromadzeń, Zatknęli sztandary swoje. [...] Puścili z dymem świątynię twoją, Aż do gruntu splugawili przybytek imienia twego. [...] Nie widzimy godeł naszych; już nie ma proroka, A nikt pośród nas nie wie, jak długo? Jak długo, Boże, wróg będzie urągał? Czyż nieprzyjaciel wiecznie będzie bezcześcił twe imię?"
+       ]
+      },
+      {
+       "odnosnik": "Ap 6,9-11",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy zdjął piątą pieczęć, widziałem poniżej ołtarza dusze zabitych dla Słowa Bożego i dla świadectwa, które złożyli. I wołały donośnym głosem: Kiedyż, Panie święty i prawdziwy, rozpoczniesz sąd i pomścisz krew naszą na mieszkańcach ziemi? I dano każdemu z nich szatę białą, i powiedziano im, aby jeszcze odpoczęli przez krótki czas, aż się dopełni liczba współsług i braci ich, którzy mieli podobnie jak oni ponieść śmierć."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To samo pytanie pada w psalmie, u Daniela i w ostatniej księdze Biblii. **Co łączy tych, którzy je zadają?** Czego się domagają: zemsty czy czegoś innego?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalmista skarży się, że nikt nie wie, jak długo. Daniel słyszy odpowiedź. **Co zmienia sama wiadomość, że odpowiedź istnieje, nawet jeśli się jej w pełni nie rozumie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "obraz z Ap 6 jest symboliczny, jak krew Abla, która woła z ziemi. Jeśli ktoś zapyta o dusze pod ołtarzem, nie wchodź dziś w temat stanu umarłych. W serii Pytania jest o tym osobny materiał.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dzień, w którym oczyszczano świątynię",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Raz w roku, w Dniu Pojednania, arcykapłan oczyszczał samą świątynię. Wśród zwierząt tego dnia są baran i kozioł.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kpł 16,5.15-16.29-30",
+       "przeklad": "BW",
+       "akapity": [
+        "Od zboru synów izraelskich weźmie dwa kozły na ofiarę za grzech i jednego barana na ofiarę całopalną. [...] Następnie zarżnie kozła na ofiarę za grzech ludu i wniesie jego krew poza zasłonę, i uczyni z jego krwią podobnie, jak uczynił z krwią cielca: pokropi nią ponad wiekiem i przed wiekiem. Tak dokona przebłagania za świątynię z powodu nieczystości synów izraelskich i ich przestępstw spowodowanych wszystkimi ich grzechami. Tak samo też uczyni z Namiotem Zgromadzenia, który jest u nich wśród ich nieczystości. [...] A to będzie dla was wieczną ustawą: W miesiącu siódmym dziesiątego dnia tegoż miesiąca ukorzycie się i nie będziecie wykonywać żadnej pracy, zarówno tubylec jak i obcy przybysz, który osiadł wśród was. W tym dniu bowiem zostanie dokonane przebłaganie za was, aby was oczyścić. Od wszystkich waszych grzechów będziecie oczyszczeni przed Panem."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przez cały rok ludzie przynosili do świątyni swoje grzechy i odchodzili z przebaczeniem. Raz w roku oczyszczano sam budynek. **Dlaczego Bogu zależało, żeby sprawa grzechu została nie tylko przebaczona, ale i zamknięta?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Izraelita, który słyszał o baranie, koźle i świątyni przywróconej do swoich praw, miał w pamięci ten dzień. **Czym był dla niego Dzień Pojednania: dniem strachu czy dniem ulgi?** Co mówi o tym werset 30?",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Dzień Pojednania nie był dniem, w którym Bóg dopiero zaczynał przebaczać. Przebaczenie ludzie otrzymywali przez cały rok. Tego dnia sprawa była domykana: to, co nagromadziło się w świątyni, zostawało z niej usunięte, a lud stawał przed Bogiem czysty. Był to więc dzień sądu, którego wynikiem dla ufających Bogu było uniewinnienie. Adwentyści czytają Dn 8,14 na tym tle: jako zapowiedź ostatecznego domknięcia sprawy grzechu przed powrotem Jezusa.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Czasownik, który BW oddaje jako „wróci do swojego prawa\", to `nitsdaq`. W tej formie występuje w Starym Testamencie tylko raz, właśnie tutaj. Jego rdzeń znaczy „być sprawiedliwym, mieć rację\", a dalej „zostać przywróconym do właściwego stanu\", „zostać zrehabilitowanym\", „zostać oczyszczonym\". Używa się go w trzech sytuacjach: w sądzie, gdy fałszywie oskarżonemu przywraca się dobre imię, w tekstach o zbawieniu i w języku świątyni. Dlatego jedne przekłady mają tu „zostanie oczyszczona\", a inne, jak BW, mówią o przywróceniu praw.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które z tych znaczeń najlepiej odpowiada na to, co zrobił róg w wersetach 10-12?** A może potrzebne są wszystkie trzy naraz?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: ile to jest 2300 wieczorów i poranków",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Tekst nie mówi „dni\", tylko „wieczorów i poranków\". Są trzy główne sposoby liczenia.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pierwszy widzi tu 2300 ofiar, porannych i wieczornych, czyli 1150 dni. Drugi liczy 2300 pełnych dni, bo „wieczór i poranek\" to w Rdz 1 określenie całej doby, czyli ponad sześć lat. Oba odnoszą liczbę do prześladowania za Antiocha IV, władcy z jednego z królestw greckich, który zbezcześcił świątynię w Jerozolimie. Trudność: Pierwsza Księga Machabejska podaje dzień zbezczeszczenia ołtarza i dzień jego poświęcenia na nowo, a między nimi mija nieco ponad trzy lata, więc żadna z tych liczb nie pasuje dokładnie.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Trzeci sposób, przyjmowany przez adwentystów, czyta liczbę tak, jak resztę widzenia, czyli symbolicznie: dzień oznacza rok. Opiera się na tym, że pytanie z wersetu 13 dotyczy całego widzenia, a to zaczyna się od Persji i według Gabriela sięga „końca czasu\", więc kilka lat go nie pomieści. Zasada ma oparcie w Biblii:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Lb 14,34",
+       "przeklad": "BW",
+       "akapity": [
+        "Według liczby dni, w ciągu których badaliście tę ziemię, a było ich czterdzieści, dzień licząc za rok, będziecie ponosić karę za wasze winy przez czterdzieści lat i doznacie mojej niechęci."
+       ]
+      },
+      {
+       "odnosnik": "Ez 4,6",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy je skończysz, położysz się jeszcze raz, ale na prawym boku, i przez czterdzieści dni będziesz nosił winę domu judzkiego; wyznaczam ci po jednym dniu za każdy rok."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Początek rachunku to odczytanie bierze z rozdziału 9 i dochodzi do dziewiętnastego wieku. Trudność: musi wyjaśnić, o jaką świątynię chodzi, skoro jerozolimskiej dawno nie było. Odpowiada, że o tę, o której mówi List do Hebrajczyków:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 8,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "Główną zaś rzeczą w tym, co mówimy, jest to, że mamy takiego arcykapłana, który usiadł po prawicy tronu Majestatu w niebie, jako sługa świątyni i prawdziwego przybytku, który zbudował Pan, a nie człowiek."
+       ]
+      },
+      {
+       "odnosnik": "Hbr 9,24",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem Chrystus nie wszedł do świątyni zbudowanej rękami, która jest odbiciem prawdziwej, ale do samego nieba, aby się wstawiać teraz za nami przed obliczem Boga;"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co każde z tych odczytań musi wyjaśnić i które wyjaśnienie wydaje się wam mocniejsze?** Na którym wersecie się opieracie?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Niezależnie od rachunku: **co zmienia dla chrześcijanina wiadomość z Hbr 8 i 9, że służba w prawdziwej świątyni trwa teraz i że prowadzi ją Jezus?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "to odczytanie nie wylicza daty końca świata i nigdy nie powinno. Mówi o tym, co dzieje się w niebie, a nie o tym, kiedy Jezus wróci. Rachunek lat wróci przy rozdziale 9.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Gabrielu, wyjaśnij",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 8,15-22",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy ja, Daniel, miałem to widzenie i starałem się je zrozumieć, wtedy stanął przede mną ktoś, kto wyglądał jak mężczyzna. I słyszałem głos ludzki nad rzeką Ulaj, który tak wołał: Gabrielu, wyjaśnij mu to widzenie. I przyszedł na miejsce, gdzie stałem, a gdy przyszedł, zląkłem się i padłem na twarz. Wtedy rzekł do mnie: Zważ, synu człowieczy, że widzenie dotyczy czasu ostatecznego. A gdy on mówił ze mną, padłem nieprzytomny twarzą na ziemię; lecz on dotknął się mnie i postawił mnie na nogi, i rzekł: Oto ja objawię ci, co się będzie dziać pod koniec czasu gniewu, bo widzenie dotyczy końca czasu.",
+        "Baran z dwoma rogami, którego widziałeś, oznacza królów Medii i Persji. A kozioł, to król grecki, a wielki róg, który jest między jego oczami, to król pierwszy. A to, że został złamany, a cztery inne wyrosły zamiast niego, znaczy: Z jego narodu powstaną cztery królestwa, ale nie z taką mocą, jaką on miał."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel stara się zrozumieć i nie potrafi. **Kto w tej scenie robi pierwszy krok, żeby mu pomóc?** Co to mówi o tym, jak Bóg traktuje człowieka, który nie rozumie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Gabriel nazywa barana i kozła po imieniu. **Jakie to królestwa?** Co wynika z tego, że symbole wyjaśnia sam tekst, a nie czytelnik?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Daniel pada na twarz i traci przytomność, a anioł go dotyka i stawia na nogi. **Co ten gest mówi o tym, po co Bóg w ogóle pokazuje ludziom takie rzeczy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To jedyne miejsce w księdze, w którym anioł sam podaje imiona królestw. W czasach Belsazara Persja dopiero rosła w siłę, a Grecja była zbiorem skłóconych miast na końcu świata. Co do wielkiego rogu wszyscy czytelnicy są zgodni: to Aleksander Wielki, który w kilka lat zdobył imperium perskie i zmarł młodo u szczytu potęgi, a jego państwo podzielili między siebie jego wodzowie. Tekst nie podaje ani jego imienia, ani dat. Podaje kolejność.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Bez udziału ludzkiej ręki",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 8,23-27",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz pod koniec ich królowania, gdy zbrodniarze dopełnią swej miary, powstanie król zuchwały i podstępny. Siła jego będzie potężna i spowoduje okropne nieszczęścia; i szczęśliwie mu się powiedzie w działaniu, i zniszczy możnych i lud świętych. Działając podstępnie dzięki mądrości, będzie miał powodzenie; będzie pyszny w sercu i wielu zniszczy niespodzianie. Lecz gdy powstanie przeciwko księciu książąt, zostanie zmiażdżony bez udziału ludzkiej ręki. A widzenie o wieczorach i porankach, jak powiedziano, jest prawdą; ale ty zapieczętuj to widzenie, bo spełni się po wielu dniach.",
+        "Wtedy ja, Daniel, zemdlałem i chorowałem przez kilka dni; potem wstałem i sprawowałem służbę u króla, byłem jednak zaniepokojony widzeniem i nie rozumiałem go."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Gabriel nazwał barana i kozła, ale tego króla nie nazywa. Opisuje go. **Wypiszcie jego cechy. Po czym można poznać taką władzę, w jakiejkolwiek epoce by się pojawiła?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Koniec tego króla mieści się w pięciu słowach: „bez udziału ludzkiej ręki\". **Kto go w takim razie pokonuje?** Co to znaczy dla ludzi, którzy sami nie mają żadnej siły, żeby mu się przeciwstawić?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ostatni werset: Daniel choruje, wstaje, wraca do pracy i przyznaje, że nie rozumie. **Co mówi o wierze to, że prorok kończy rozdział zdaniem „nie rozumiałem\"?** Co robi z tym, czego nie rozumie?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Widzenie nie każe Danielowi niczego organizować ani z nikim walczyć. Róg nie zostaje pokonany przez powstanie, koalicję ani lepszego króla. Zostaje „zmiażdżony bez udziału ludzkiej ręki\". To ten sam język, którym rozdział 2 opisywał kamień uderzający w posąg. Daniel dostaje więc dwie wiadomości: będzie gorzej, niż myślisz, i skończy się to inaczej, niż potrafiłbyś to załatwić. Potem wstaje i idzie do pracy u króla.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ten sam koniec",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 2,34-35",
+       "przeklad": "BW",
+       "akapity": [
+        "Patrzyłeś, a wtem bez udziału rąk oderwał się od góry kamień, uderzył ten posąg w nogi z żelaza i gliny, i skruszył je. Wtedy rozsypało się w kawałki żelazo, glina, miedź, srebro i złoto, i było to wszystko jak plewa na klepisku w lecie; i rozniósł to wiatr, tak że nie było po nich śladu. Kamień zaś, który uderzył w posąg, stał się wielką górą i wypełnił całą ziemię."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Sen króla z rozdziału 2 i widzenie Daniela z rozdziału 8 kończą się tak samo: bez udziału ludzkiej ręki. **Dlaczego księga tak uparcie wraca do tego zdania?** Przed czym chroni ono ludzi wierzących, zwłaszcza wtedy, gdy mają rację?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel kończy rozdział chory, zaniepokojony i bez zrozumienia. W następnym rozdziale sięgnie po zwój proroka Jeremiasza i zacznie się modlić. **Co wy robicie z fragmentami Biblii i z kawałkami własnego życia, których nie rozumiecie?** Zapamiętajcie to pytanie na kolejne spotkanie.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: kim jest mały róg",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Tekst go nie nazywa, więc czytelnicy od wieków proponują odpowiedzi. Dwie są główne.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Większość współczesnych komentarzy widzi tu Antiocha IV, władcę jednego z czterech królestw greckich, który w drugim wieku przed Chrystusem zakazał ofiar w Jerozolimie, zbezcześcił świątynię i prześladował wiernych. Pasuje do tego wyrastanie rogu w sąsiedztwie czterech rogów greckich, atak na świątynię i na codzienną służbę, podstęp i pycha. To odczytanie musi jednak wyjaśnić trzy rzeczy. Baran jest w tekście wielki, kozioł bardzo wielki, a róg przerasta obu, tymczasem Antioch był jednym z wielu władców podzielonego imperium greckiego, mniejszym od Aleksandra. Gabriel dwa razy mówi, że widzenie dotyczy końca czasu. A Jezus, mówiąc o zapowiedzi Daniela, stawia ją w przyszłości:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 24,15",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy więc ujrzycie na miejscu świętym ohydę spustoszenia, którą przepowiedział prorok Daniel – kto czyta, niech uważa -"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Odczytanie historyczne, które przyjmują adwentyści, czyta rozdział 8 równolegle z rozdziałem 7. Po Grecji przychodzi tam czwarta potęga, a z niej róg, który uderza w Boga i świętych:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 7,25-26",
+       "przeklad": "BW",
+       "akapity": [
+        "I będzie mówił zuchwałe słowa przeciwko Najwyższemu, będzie męczył Świętych Najwyższego, będzie zamyślał odmienić czasy i zakon; i będą wydani w jego moc aż do czasu i dwóch czasów i pół czasu. Potem odbędzie się sąd i pozbawią go władzy, aby ją ostatecznie zniszczyć i obalić."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Według tego odczytania róg z rozdziału 8 to Rzym w dwóch odsłonach: najpierw cesarstwo, które zburzyło świątynię i ukrzyżowało „księcia książąt\", potem połączenie władzy kościelnej z państwową, które przez wieki sięgało po przymus w sprawach sumienia i, zdaniem tego odczytania, przesłaniało ludziom służbę samego Chrystusa. Mowa o systemie władzy, nie o wierze ludzi, którzy w nim żyli. To odczytanie też ma co wyjaśniać: skąd dokładnie wyrasta róg, skoro tekst wspomina cztery rogi greckie, i dlaczego Rzym nie jest nazwany. Odpowiada, że „z jednego z nich\" można gramatycznie odnieść do czterech stron nieba, z których róg nadchodzi.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co oba odczytania mają wspólnego, kiedy opisują, co robi ten róg?** Czy wiedza o tym, jak taka władza działa, może być ważniejsza niż pewność co do jej imienia?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Odczytanie historyczne mówi o systemie, który staje między człowiekiem a Bogiem i sięga po przymus. **Dlaczego ważne jest, żeby odróżniać system od ludzi, którzy w nim żyli i szczerze wierzyli?** Gdzie ta sama pokusa może pojawić się w każdym Kościele, także naszym?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "jeśli przy stole są katolicy, powiedz to wprost i spokojnie: to odczytanie nie mówi nic o wierze pojedynczych ludzi. Mówi o tym, co się dzieje, gdy Kościół, każdy Kościół, sięga po władzę i przymus. Bóg nie potrzebuje politycznej siły, żeby prowadzić swój lud.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdzie dziś widzisz „prawdę powaloną na ziemię\"** i łapiesz się na tym, że pytasz „jak długo\"? Nie chodzi o politykę. Chodzi o to, co leży ci na sercu.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Róg zostaje pokonany „bez udziału ludzkiej ręki\". **W jakiej sprawie próbujesz własną ręką załatwić coś, co należy do Boga?** Co by się zmieniło, gdybyś przestał?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest coś, czego w Bogu albo w swoim życiu nie rozumiesz, a mimo to „wstajesz i sprawujesz służbę\"?** Nie musisz mówić co.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg zna kres zła i go wyznaczył. Mimo to pozwala, żeby przez cały ten czas rogowi „cokolwiek czynił, to mu się udawało\", a ludzie byli deptani. **Dlaczego Bóg wyznacza złu termin, zamiast zatrzymać je od razu? Czy odpowiedź „aż do\" jest pociechą, czy trudnością?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie zamykaj tego pytania. Warto, żeby padło jedno spostrzeżenie z tekstu: w tym rozdziale nawet niebo pyta „jak długo\". Niecierpliwość wobec zła nie jest brakiem wiary. Jest tym, co łączy wierzących z aniołami.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Zło ma termin. Pytanie „jak długo?\" pada w niebie i niebo na nie odpowiada.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Dn 8,14 albo Dn 8,25b.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W tym rozdziale pytanie „jak długo?\" zadaje istota niebiańska. Pomyśl o sprawie, w której sam od dawna o to pytasz. Zadaj to pytanie Bogu wprost, bez łagodzenia. Potem zostań chwilę w ciszy z odpowiedzią, którą usłyszał Daniel: nie „zaraz\", nie „nigdy\", tylko „aż do\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zapytaj siebie: **czy jest w moim życiu coś, co stanęło między mną a codziennym przychodzeniem do Boga?** Nie szukaj winnych na zewnątrz. Nazwij to przed Nim.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** przyznaj przed Bogiem jedną rzecz, której w Nim nie rozumiesz, i powiedz Mu, że mimo to jutro wstaniesz i zrobisz to, co do ciebie należy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„To się dzieje teraz, mały róg to...\"**, i pada nazwisko polityka, państwo albo organizacja. Przerwij spokojnie. Materiał nie wskazuje żadnej współczesnej osoby ani instytucji i grupa też nie powinna. Historia zna długą listę takich pewnych utożsamień, z których po latach trzeba było się wycofać. Wróć do pytania, co robi taka władza i co obiecuje werset 14.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna wyliczać daty, także datę końca świata.** Powiedz wprost: ten rozdział nie podaje daty powrotu Jezusa i żadne uczciwe odczytanie jej z niego nie wyprowadza. Rachunek lat jest na poziomie 3 i wróci przy rozdziale 9. Dziś zostajemy przy obietnicy, nie przy kalendarzu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Nic z tego nie rozumiem.\"** To najlepsze zdanie, jakie może dziś paść. Przeczytaj na głos werset 27: Daniel, który to widział na własne oczy, mówi to samo. Potem zapytaj: „A co zrozumiałeś z wersetu 14?\". Zwykle okazuje się, że najważniejsze dotarło.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli papież to antychryst?\"**, albo przeciwnie, ktoś przy stole czuje się zaatakowany jako katolik. Nie pozwól na tę rozmowę w takim tonie. Powiedz, że tekst opisuje władzę, która stawia się na miejscu Boga i używa przymusu, a nie ludzi, którzy szczerze wierzą. Bóg ma swoich ludzi w każdym Kościele. Pokusa władzy dotyczy każdej wspólnoty, naszej też. Jeśli ktoś chce rozmawiać dalej, zaproponuj rozmowę po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś się boi: prześladowania, koniec świata, „okropne nieszczęścia\".** Zwróć uwagę, jak zbudowany jest rozdział. Nie kończy się na rogu, tylko na tym, że róg zostaje zmiażdżony, i to bez naszego udziału. Widzenie dano po to, żeby ludzie wiedzieli, że zło ma kres, a nie po to, żeby ich straszyć.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o własnej krzywdzie i pyta, jak długo jeszcze.** Nie odpowiadaj wersetem. Wysłuchaj. Możesz powiedzieć, że to pytanie jest w Biblii modlitwą, nie buntem, i że zadaje je samo niebo. Zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Po co nam w ogóle takie rozdziały?\"** Dobre pytanie. Pierwsi czytelnicy żyli pod władzą, która deptała wszystko, co było dla nich święte. Dostali dwie wiadomości: Bóg to widzi i Bóg wyznaczył temu koniec. Zapytaj, czy komuś przy stole taka wiadomość by się dziś przydała.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Blok 1 przeczytajcie tylko na głos i od razu przejdźcie do wersetów 20-21 z bloku 4, żeby nazwać zwierzęta. Nie skracaj bloku 3, bo bez niego rozdział zostaje opowieścią o rogu, któremu wszystko się udaje.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„To się dzieje teraz, mały róg to...\"",
+     "odpowiedz": ", i pada nazwisko polityka, państwo albo organizacja. Przerwij spokojnie. Materiał nie wskazuje żadnej współczesnej osoby ani instytucji i grupa też nie powinna. Historia zna długą listę takich pewnych utożsamień, z których po latach trzeba było się wycofać. Wróć do pytania, co robi taka władza i co obiecuje werset 14."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna wyliczać daty, także datę końca świata.",
+     "odpowiedz": "Powiedz wprost: ten rozdział nie podaje daty powrotu Jezusa i żadne uczciwe odczytanie jej z niego nie wyprowadza. Rachunek lat jest na poziomie 3 i wróci przy rozdziale 9. Dziś zostajemy przy obietnicy, nie przy kalendarzu."
+    },
+    {
+     "sytuacja": "„Nic z tego nie rozumiem.\"",
+     "odpowiedz": "To najlepsze zdanie, jakie może dziś paść. Przeczytaj na głos werset 27: Daniel, który to widział na własne oczy, mówi to samo. Potem zapytaj: „A co zrozumiałeś z wersetu 14?\". Zwykle okazuje się, że najważniejsze dotarło."
+    },
+    {
+     "sytuacja": "„Czyli papież to antychryst?\"",
+     "odpowiedz": ", albo przeciwnie, ktoś przy stole czuje się zaatakowany jako katolik. Nie pozwól na tę rozmowę w takim tonie. Powiedz, że tekst opisuje władzę, która stawia się na miejscu Boga i używa przymusu, a nie ludzi, którzy szczerze wierzą. Bóg ma swoich ludzi w każdym Kościele. Pokusa władzy dotyczy każdej wspólnoty, naszej też. Jeśli ktoś chce rozmawiać dalej, zaproponuj rozmowę po spotkaniu."
+    },
+    {
+     "sytuacja": "Ktoś się boi: prześladowania, koniec świata, „okropne nieszczęścia\".",
+     "odpowiedz": "Zwróć uwagę, jak zbudowany jest rozdział. Nie kończy się na rogu, tylko na tym, że róg zostaje zmiażdżony, i to bez naszego udziału. Widzenie dano po to, żeby ludzie wiedzieli, że zło ma kres, a nie po to, żeby ich straszyć."
+    },
+    {
+     "sytuacja": "Ktoś mówi o własnej krzywdzie i pyta, jak długo jeszcze.",
+     "odpowiedz": "Nie odpowiadaj wersetem. Wysłuchaj. Możesz powiedzieć, że to pytanie jest w Biblii modlitwą, nie buntem, i że zadaje je samo niebo. Zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "„Po co nam w ogóle takie rozdziały?\"",
+     "odpowiedz": "Dobre pytanie. Pierwsi czytelnicy żyli pod władzą, która deptała wszystko, co było dla nich święte. Dostali dwie wiadomości: Bóg to widzi i Bóg wyznaczył temu koniec. Zapytaj, czy komuś przy stole taka wiadomość by się dziś przydała."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Blok 1 przeczytajcie tylko na głos i od razu przejdźcie do wersetów 20-21 z bloku 4, żeby nazwać zwierzęta. Nie skracaj bloku 3, bo bez niego rozdział zostaje opowieścią o rogu, któremu wszystko się udaje."
+    }
+   ]
+  }
+ ]
+}

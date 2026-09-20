@@ -1,0 +1,892 @@
+{
+ "tytul": "Daniel 10-11. Wojna za kulisami",
+ "id": "D-11",
+ "seria": "Księga Daniela",
+ "opis": "Trzy tygodnie ciszy po modlitwie i anioł, który mówi, co działo się w tym czasie za kulisami.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": "D-10",
+ "nastepny": "D-12",
+ "teksty": {
+  "p1": "Dn 10,1-9; 10,10-14; 10,15-19; 10,20-21; 11,1-4; 11,31-35",
+  "p2": "Ezd 1,1-3; 4,1-5; Ap 1,13-17; Iz 6,5-7; Mt 24,15-16; Dn 11,44-45",
+  "p3": "Dn 9,23; Jud 9; 1Tes 4,16; Ap 12,7-9"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 28,
+  "p3": 33
+ },
+ "tagi": [
+  "Daniel",
+  "modlitwa",
+  "aniołowie",
+  "historia",
+  "wytrwałość",
+  "proroctwo"
+ ],
+ "wersja": 1,
+ "zdanie": "Cisza po modlitwie nie znaczy, że nic się nie dzieje. Znaczy tylko, że nie widzę kulis.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Rozdziały 10-12 to jedno, ostatnie widzenie Daniela. Dziś czytacie jego początek: stary człowiek pości trzy tygodnie i nie dostaje odpowiedzi, a potem słyszy, że został wysłuchany pierwszego dnia. Między pierwszym a dwudziestym pierwszym dniem coś się działo, tylko nie tam, gdzie mógł to zobaczyć. To spotkanie nie jest wykładem o aniołach. Jest o tym, że historia ma kulisy, że Bóg nikogo w niej nie zmusza i że w środku tej wojny ktoś mówi do zmęczonego człowieka: nie bój się, mężu miły.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Rozdział 11 jest najdłuższym i najtrudniejszym proroctwem księgi. Na poziomie 1 czytacie z niego tylko początek i pięć wersetów ze środka. Szczegółowy wykład rozdziału 11 dzieli nawet komentatorów tej samej szkoły, czytających tą samą metodą. Materiał świadomie go nie rozstrzyga i ty też nie musisz. Centrum spotkania to Dn 11,32: lud, który zna swojego Boga.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole modli się od miesięcy albo lat i nie widzi odpowiedzi. Dla niego blok 2 nie jest teorią. Nie obiecuj mu, że odpowiedź jest w drodze. Tekst mówi o Danielu, nie wystawia gwarancji.",
+      "Temat aniołów i demonów przyciąga opowieści o zjawiskach, snach i „duchowych walkach\" nad miastami. Wracaj do tekstu: Daniel nie walczy, nie wypędza i nie rozkazuje. Daniel się modli.",
+      "Rozdział 11 kusi do wskazywania współczesnych państw i przywódców. Nie idź tam i nie pozwól na to grupie.",
+      "Ktoś może znać jeden wykład rozdziału 11 i uważać go za jedyny. Powiedz spokojnie, że wierzący czytający tę księgę tą samą metodą różnią się tu od siebie."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie buduj nauki o aniołach na jednym wersecie. Nie tłumacz nikomu, dlaczego jego modlitwa czeka. Nie rysuj tabeli królów północy i południa.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "*Pomiń to zdanie, jeśli grupa wchodzi w serię od tego miejsca:* Ostatnio Daniel dostał odpowiedź, zanim skończył się modlić. Dziś modli się trzy tygodnie i nic.",
+     "poziom": 1
+    },
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie czekanie na wiadomość, która długo nie przychodziła: wynik badania, decyzję, list, telefon. Powiedz jednym zdaniem, co wtedy robiłeś z czasem.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Nad Tygrysem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 10,1-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Trzeciego roku Cyrusa, króla perskiego, objawiło się słowo Danielowi, zwanemu Baltazarem. To słowo jest prawdziwe, a treścią jego wielki ucisk. I zważał na słowo, a w widzeniu dane mu było zrozumienie. W owym czasie ja, Daniel, byłem w żałobie przez trzy tygodnie. Nie jadłem smacznych potraw, ani mięsa, ani wina nie brałem do ust, nie namaszczałem się olejkiem, aż upłynęły trzy tygodnie.",
+        "A dwudziestego czwartego dnia pierwszego miesiąca byłem nad brzegiem Wielkiej Rzeki, to jest Tygrysu. A gdy podniosłem oczy i spojrzałem, oto był mąż, ubrany w szatę lnianą, a biodra miał przepasane pasem ze złota z Ufas. Ciało jego było podobne do topazu, oblicze jego jaśniało jak błyskawica, a oczy jego jak pochodnie płonące, ramiona i nogi jego błyszczały jak miedź wypolerowana, a dźwięk jego głosu był potężny jak wrzawa mnóstwa ludu.",
+        "Tylko ja, Daniel, widziałem to zjawisko, a mężowie, którzy byli ze mną, nie widzieli tego zjawiska; lecz padł na nich wielki strach, tak że pouciekali i poukrywali się. I zostałem sam, i widziałem to potężne zjawisko. Lecz nie było we mnie siły; twarz moja zmieniła się do niepoznania i nie miałem żadnej siły. I usłyszałem dźwięk jego słów; a gdy usłyszałem dźwięk jego słów, padłem na twarz nieprzytomny i leżałem twarzą ku ziemi."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jest trzeci rok Cyrusa. Wygnańcy dwa lata wcześniej dostali pozwolenie na powrót, a Daniel jest w żałobie. **Co mogło się stać, że człowiek, który doczekał spełnienia obietnicy, pości i płacze?** Czego tekst o tym nie mówi?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel widział już bestie, rogi i tron w ogniu i zawsze zostawał na nogach. **Co jest innego w tym spotkaniu, że pada nieprzytomny?** Wypiszcie z tekstu, co widzi i co słyszy.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ludzie obok niczego nie widzą, a i tak uciekają. **Co to mówi o tym, jak obecność Boga działa na człowieka, który jej nie rozumie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Pierwszy miesiąc to miesiąc Paschy. Daniel pości przez święto wyjścia z niewoli, w roku, w którym pierwsi wygnańcy są już w Jerozolimie. Sam nie wrócił. Od deportacji minęło blisko siedemdziesiąt lat, więc ma grubo ponad osiemdziesiąt. Księga zaczęła się od nastolatka, który odmówił królewskiego mięsa i wina. Kończy się starcem, który znów ich nie bierze do ust, tym razem z żalu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy w księdze",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** Na początku ostatniego widzenia. Rozdział 10 to wstęp, rozdział 11 to treść, rozdział 12 to zakończenie widzenia i całej księgi. Po wizjach z rozdziałów 7, 8 i 9 to czwarte i najdłuższe spojrzenie na tę samą drogę: od czasów Daniela do końca. Każde kolejne jest bardziej szczegółowe i każde kończy się tak samo, czyli interwencją Boga.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Dwa lata wcześniej Cyrus pozwolił Żydom wrócić i odbudować świątynię. Wróciła mniejszość. Na miejscu od razu zaczęły się kłopoty: sąsiedzi zniechęcali budujących i opłacali urzędników na perskim dworze, żeby zatrzymać prace. Daniel, wysoki urzędnik tego samego dworu, musiał o tym wiedzieć.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezd 1,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "W pierwszym roku panowania Cyrusa, króla perskiego, aby się spełniło słowo Pana wypowiedziane przez usta Jeremiasza, pobudził Pan ducha Cyrusa, króla perskiego, żeby ogłosił ustnie, a także pisemnie w całym swoim królestwie, co następuje: Tak mówi Cyrus, król perski: Wszystkie królestwa ziemi dał mi Pan, Bóg niebios, On też rozkazał mi, abym zbudował mu świątynię w Jeruzalemie, które jest w Judzie. Kto więc spośród was należy do jego ludu, niech jego Bóg będzie z nim! Niech wyruszy do Jeruzalemu, które jest w Judzie, i niech buduje świątynię Panu, Bogu izraelskiemu. To jest bowiem ten Bóg, który jest w Jeruzalemie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Pobudził Pan ducha Cyrusa\". **Jak Bóg wpływa tu na najpotężniejszego człowieka świata?** Czym to się różni od przymusu?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ktoś podobny",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 1,13-17",
+       "przeklad": "BW",
+       "akapity": [
+        "a pośród tych świeczników kogoś podobnego do Syna Człowieczego, odzianego w szatę do stóp długą i przepasanego przez pierś złotym pasem; głowa zaś jego i włosy były lśniące jak śnieżnobiała wełna, a oczy jego jak płomień ognisty, a nogi jego podobne do mosiądzu w piecu rozżarzonego, głos zaś jego jakby szum wielu wód. W prawej dłoni swej trzymał siedem gwiazd, a z ust jego wychodził obosieczny ostry miecz, a oblicze jego jaśniało jak słońce w pełnym swoim blasku. Toteż gdy go ujrzałem, padłem do nóg jego jakby umarły. On zaś położył na mnie swoją prawicę i rzekł: Nie lękaj się, Jam jest pierwszy i ostatni,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Połóżcie obok siebie opis znad Tygrysu i opis z wyspy Patmos. **Co się powtarza?** Wypiszcie szczegóły wyglądu, reakcję człowieka i to, co dzieje się zaraz potem.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jan mówi wprost, kogo widział. Daniel nie mówi. **Co zmienia w czytaniu rozdziału 10 przypuszczenie, że nad rzeką stał ten sam Ktoś?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Od pierwszego dnia",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 10,10-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz oto dotknęła mnie jakaś ręka i podniosła mnie tak, że oparłem się na kolanach i na dłoniach. I rzekł do mnie: Danielu, mężu miły, uważaj na słowa, które ja mówię do ciebie, i stań tam, gdzie stoisz, bo teraz jestem posłany do ciebie! A gdy wypowiedział do mnie te słowa, powstałem drżąc. Wtedy rzekł do mnie: Nie bój się, Danielu, gdyż od pierwszego dnia, gdy postanowiłeś zrozumieć i ukorzyć się przed swoim Bogiem, słowa twoje zostały wysłuchane, a ja przyszedłem z powodu twoich słów! Lecz książę anielski królestwa perskiego sprzeciwiał mi się przez dwadzieścia jeden dni, lecz oto Michał, jeden z pierwszych książąt anielskich, przyszedł mi na pomoc, dlatego ja zostawiłem go tam przy księciu anielskim królestwa perskiego, i przyszedłem, aby ci objawić, co ma przyjść na twój lud w dniach ostatecznych, bo widzenie znów dotyczy dni przyszłych."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Policzcie dni. Daniel pościł trzy tygodnie, posłaniec był zatrzymany dwadzieścia jeden dni. **Co działo się przez ten czas z punktu widzenia Daniela, a co z punktu widzenia posłańca?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Przyszedłem z powodu twoich słów\". **Jaką wagę ten rozdział przypisuje modlitwie jednego starego człowieka nad rzeką?** Co by się zmieniło w tej scenie, gdyby Daniel przestał się modlić dziesiątego dnia?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Pierwsze słowa do leżącego człowieka to nie wyjaśnienie, tylko „mężu miły\" i „nie bój się\". **Dlaczego ta kolejność?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Posłaniec nie mówi, że walczył o terytorium. Był „przy\" perskim dworze, tam, gdzie zapadały decyzje o losie odbudowy. Księga Ezdrasza opowiada tę samą historię od strony ziemi: przekupieni urzędnicy, zniechęceni budowniczowie. Daniel 10 odsuwa zasłonę i pokazuje, że o decyzje króla ktoś zabiega z dwóch stron. Nikt nie może ich wymusić. Bóg nie zmusza człowieka i nie pozwala, żeby zmusił go ktokolwiek inny. Dlatego to trwa.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "To samo od strony ziemi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezd 4,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy wrogowie Judy i Beniamina usłyszeli, że wygnańcy budują świątynię Panu, Bogu Izraela, przystąpili do Zerubbabela, do Jeszuy i do naczelników rodów, i rzekli do nich: Będziemy budować razem z wami, gdyż czcimy Boga waszego tak jak wy i składamy mu ofiary od czasów Asarchaddona, króla asyryjskiego, który nas tutaj sprowadził. Lecz Zerubbabel, Jeszua i pozostali naczelnicy rodów z Izraela odpowiedzieli im: Nie godzi się, abyście wy razem z nami budowali świątynię Bogu naszemu, gdyż my sami budować będziemy dla Pana, Boga Izraela, jak nam nakazał Cyrus, król perski. Odtąd tubylcy studzili zapał ludu judzkiego i odstraszali go od budowy. Ponadto przekupywali przeciwko niemu dostojników dworskich, aby unicestwić ich zamierzenia, póki żył Cyrus, król perski, aż do rządów Dariusza, króla perskiego."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ezdrasz widzi łapówki i intrygi. Daniel słyszy o księciu królestwa perskiego. **Czy to dwie różne historie, czy jedna opowiedziana z dwóch pięter?** Co zyskujemy, czytając je razem?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Budowa i tak stanęła na kilkanaście lat. **Co to mówi o tym, czego modlitwa Daniela nie załatwiła?** A co mimo to załatwiła?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Trzy dotknięcia",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 10,15-19",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy on mówił do mnie tymi słowy, opuściłem twarz ku ziemi i zaniemówiłem. A oto coś jakby ręka ludzka dotknęła moich warg; wtedy otworzyłem usta i przemówiłem, i powiedziałem do tego, który stał przede mną: Panie mój, w czasie zjawiska opadły mnie boleści i nie miałem żadnej siły. Jakże może taki sługa mojego Pana jak ja rozmawiać z takim panem jak ty, gdy teraz nie mam siły i nie ma we mnie tchu? Wtedy ponownie dotknął mnie ktoś podobny do człowieka i posilił mnie, i rzekł: Nie bój się, mężu miły, pokój ci! Bądź mężny, bądź mężny! A gdy rozmawiał ze mną, poczułem siłę i rzekłem: Niech mówi mój Pan, bo mnie posiliłeś."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W tym rozdziale Daniel jest dotykany trzy razy: w wersetach 10, 16 i 18. **Co każde dotknięcie mu przywraca?** Ułóżcie je po kolei.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zanim Daniel usłyszy choć słowo o przyszłości, dostaje siłę, głos i pokój. **Co ta kolejność mówi o tym, czego Bogu zależy najpierw?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Bądź mężny\" pada dwa razy do człowieka, który przeżył jamę lwów. **Dlaczego właśnie on, i właśnie teraz, potrzebuje to usłyszeć?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dotknięte wargi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 6,5-7",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekłem: Biada mi! Zginąłem, bo jestem człowiekiem nieczystych warg i mieszkam pośród ludu nieczystych warg, gdyż moje oczy widziały Króla, Pana Zastępów. Wtedy przyleciał do mnie jeden z serafów, mając w ręku rozżarzony węgielek, który szczypcami wziął z ołtarza, I dotknął moich ust, i rzekł: Oto dotknęło to twoich warg i usunięta jest twoja wina, a twój grzech odpuszczony."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Izajasz i Daniel milkną przed Bogiem i obaj odzyskują głos przez dotknięcie. **Co łączy te dwie sceny, a co je różni?** Na co skarży się Izajasz, a na co Daniel?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Zwrot „mężu miły\" pada w księdze trzy razy: w rozdziale 9 i dwa razy tutaj. Hebrajskie `chamudot` to rzeczownik, którym gdzie indziej nazywa się rzeczy drogocenne, kosztowności, to, czego się pragnie. Dosłownie wychodzi „człowieku kosztowności\", ktoś bardzo cenny. W tym samym rozdziale to słowo pada jeszcze raz, w wersecie 3, gdzie BW tłumaczy je jako „smaczne\" potrawy. Daniel odmówił sobie tego, co cenne, i usłyszał, że sam jest cenny.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 9,23",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy zacząłeś zanosić błaganie, wyszło słowo, a ja przyszedłem, aby ci je oznajmić, bo jesteś bardzo miły; uważaj więc na słowo i zrozum widzenia!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Niebo nie nazywa Daniela wiernym, mądrym ani zasłużonym, tylko cennym. **Co zmienia w modlitwie świadomość, że po drugiej stronie jest się kimś cennym, a nie petentem?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Królowie przychodzą i odchodzą",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 10,20-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy on rzekł: Czy wiesz, dlaczego przyszedłem do ciebie? Lecz teraz muszę wrócić, aby walczyć z księciem anielskim perskim, a gdy wyruszę do boju, oto zjawi się książę anielski grecki. Doprawdy! Oznajmię ci, co jest napisane w księdze prawdy. I nie ma ani jednego, kto by mężnie stał po mojej stronie przeciwko nim, oprócz Michała, waszego księcia anielskiego."
+       ]
+      },
+      {
+       "odnosnik": "Dn 11,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "W pierwszym roku Dariusza Meda powstałem, aby mu dodać siły i ochronić go. Lecz teraz oznajmię ci prawdę: Oto jeszcze trzej królowie powstaną w Persji, lecz czwarty zdobędzie większe bogactwa niż wszyscy. A gdy się wzmocni dzięki swoim bogactwom, poruszy wszystkich przeciwko państwu greckiemu. I powstanie bohaterski król, i będzie miał wielką władzę, i będzie czynił, co zechce. A gdy powstanie, rozpadnie się jego królestwo i będzie rozdzielone między cztery strony świata; lecz nie między jego potomków, i nie będzie miało takiej mocy, z jaką on władał, gdyż jego królestwo będzie rozbite i przypadnie innym z pominięciem tamtych."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Policzcie, ile razy w tych czterech wersetach rozdziału 11 pada słowo „powstanie\", i zobaczcie, co następuje zaraz po nim. **Jaki obraz ludzkiej potęgi rysuje ten rytm?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "O wielkim królu powiedziano: „będzie czynił, co zechce\". Zdanie dalej jego królestwo się rozpada i nie dostają go nawet jego dzieci. **Co znaczy „czynić, co się chce\" w świecie, w którym istnieje „księga prawdy\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Posłaniec stoi przy królach, dodaje im siły, walczy o ich decyzje, a historia i tak jest pełna wojen. **Jak pogodzić to, że Bóg jest obecny przy władzy, z tym, co władza robi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Persję i Grecję wymienia z nazwy sam tekst, tak samo jak w rozdziale 8. Bohaterski król, którego państwo rozpada się na cztery części i nie przechodzi na potomków, to obraz tak wyraźny, że niemal wszyscy czytelnicy widzą w nim Aleksandra Wielkiego. Zmarł w wieku trzydziestu dwóch lat, a imperium podzielili między siebie jego generałowie. Od wersetu 5 zgoda się kończy.",
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Wersety 5-30 opisują długi ciąg wojen między królem północy a królem południa, z przymierzami, zdradami i małżeństwami dynastycznymi, a między nimi leży „prześliczna ziemia\", kraj ludu Bożego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Lud, który zna swojego Boga",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 11,31-35",
+       "przeklad": "BW",
+       "akapity": [
+        "A wojska wysłane przez niego wystąpią i zbezczeszczą świątynię i twierdzę, zniosą stałą codzienną ofiarę i postawią obrzydliwość spustoszenia. A tych, którzy bezbożnie będą postępować wbrew przymierzu, zwiedzie pochlebstwami do odstępstwa, lecz lud tych, którzy znają swojego Boga, umocni się i będą działać. A roztropni wśród ludu doprowadzą wielu do właściwego poznania; lecz przez pewien czas padać będą od miecza i ognia, od uprowadzenia i rabunku. A gdy będą padać, doznają małej pomocy; i wielu przyłączy się do nich obłudnie. Nawet niektórzy spośród roztropnych upadną, aby wśród nich nastąpiło wypławienie, oczyszczenie i wybielenie aż do czasu ostatecznego, gdyż to jeszcze potrwa pewien czas."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "O wiernych powiedziano dwie rzeczy naraz: „umocnią się i będą działać\" oraz „padać będą od miecza i ognia\". **Jak wygląda siła, która nie oznacza ocalenia?** Gdzie w tej księdze już to widzieliśmy?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Tekst nie mówi „ci, którzy wiedzą o Bogu\", tylko „ci, którzy znają swojego Boga\". **Po czym, według całej Księgi Daniela, poznać człowieka, który zna swojego Boga?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Wróg ma tu dwa narzędzia: wojsko i pochlebstwo. **Które z nich tekst wiąże z odstępstwem?** Dlaczego pochlebstwo bywa skuteczniejsze od miecza?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Roztropni w tym fragmencie nie chwytają za broń. Ich działanie to uczenie: „doprowadzą wielu do właściwego poznania\". Tekst nie obiecuje im wielkiej pomocy, tylko małą, i uprzedza, że część z nich upadnie. Upadek nie jest tu końcem, ale oczyszczeniem. To samo słowo „roztropni\" wróci w następnym rozdziale w zdaniu o tych, którzy będą jaśnieć jak gwiazdy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jezus czyta Daniela",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 24,15-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy więc ujrzycie na miejscu świętym ohydę spustoszenia, którą przepowiedział prorok Daniel – kto czyta, niech uważa – wtedy ci, co są w Judei, niech uciekają w góry;"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi o „ohydzie spustoszenia\" jako o czymś, co jego słuchacze dopiero zobaczą. **Co to mówi o tym, jak On sam czytał ten fragment Daniela?** Czy uważał go za zamkniętą przeszłość?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Kto czyta, niech uważa\". **Do czego Jezus zachęca czytelnika Daniela: do obliczeń, do czujności, do czegoś jeszcze?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Koniec króla północy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 11,44-45",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtem przestraszą go wieści ze wschodu i północy, dlatego wyruszy w wielkiej złości, aby wygubić i wytępić wielu. I rozbije wspaniałe swoje namioty między morzem i prześliczną świętą górą. Wtedy dojdzie do swojego kresu i nikt mu nie pomoże."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Najdłuższe proroctwo księgi, czterdzieści pięć wersetów wojen, kończy się sześcioma słowami: „i nikt mu nie pomoże\". **Porównajcie to z tym, co w rozdziale 10 usłyszał Daniel o pomocy.** Kto w tej księdze ma pomoc, a kto zostaje bez niej?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Rozdział 11 urywa się w pół zdania: następne słowa to „W owym czasie powstanie Michał\". **Po tylu „powstaniach\" królów, czego spodziewacie się po tym jednym?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: kim jest Michał",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Michał pojawia się w Biblii pięć razy: trzy razy u Daniela, raz w Liście Judy i raz w Apokalipsie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jud 9",
+       "przeklad": "BW",
+       "akapity": [
+        "Tymczasem archanioł Michał, gdy z diabłem wiódł spór i układał się o ciało Mojżesza, nie ośmielił się wypowiedzieć bluźnierczego sądu, lecz rzekł: Niech cię Pan potępi."
+       ]
+      },
+      {
+       "odnosnik": "1Tes 4,16",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdyż sam Pan na dany rozkaz, na głos archanioła i trąby Bożej zstąpi z nieba; wtedy najpierw powstaną ci, którzy umarli w Chrystusie,"
+       ]
+      },
+      {
+       "odnosnik": "Ap 12,7-9",
+       "przeklad": "BW",
+       "akapity": [
+        "I wybuchła walka w niebie: Michał i aniołowie jego stoczyli bój ze smokiem. I walczył smok i aniołowie jego, lecz nie przemógł i nie było już dla nich miejsca w niebie. I zrzucony został ogromny smok, wąż starodawny, zwany diabłem i szatanem, który zwodzi cały świat; zrzucony został na ziemię, zrzuceni też zostali z nim jego aniołowie."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Wśród chrześcijan są dwa odczytania. Pierwsze, najczęstsze: Michał to najwyższy z aniołów, stworzony wódz niebiańskich zastępów, opiekun Izraela. Przemawia za tym tytuł „jeden z pierwszych książąt\" i to, że w Liście Judy Michał zostawia osąd Panu. Drugie, obecne od dawna u części protestantów i przyjęte przez adwentystów: Michał to imię, pod którym występuje sam Chrystus jako wódz aniołów, a nie jeden z nich. Przemawia za tym znaczenie imienia, czyli „któż jest jak Bóg\", tytuł „waszego księcia\" obok „Księcia książąt\" z rozdziału 8 i „Pomazańca-Księcia\" z rozdziału 9, głos archanioła, którym Pan budzi umarłych, oraz to, że w Dn 12,1 powstanie Michała zbiega się ze zmartwychwstaniem. W tym odczytaniu słowo „archanioł\" znaczy „dowodzący aniołami\" i nie przesądza, że dowódca sam jest stworzeniem.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Oba odczytania łączy to, co w tekście pewne: lud Boży nie jest w tej wojnie sam, a Ten, kto staje po jego stronie, wygrywa. Żadne z nich nie czyni z Chrystusa istoty stworzonej.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które z tych odczytań lepiej tłumaczy zdanie z Dn 12,1, a które zdanie z Jud 9?** Co by się zmieniło w waszej modlitwie, gdyby „wasz książę\" miał twarz Jezusa?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: o kim mówi rozdział 11",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Werset 31 mówi o zbezczeszczeniu świątyni, zniesieniu codziennej ofiary i obrzydliwości spustoszenia. Tu drogi czytelników się rozchodzą.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Odczytanie pierwsze widzi tu Antiocha IV Epifanesa. W 167 roku przed Chrystusem ten syryjski król zakazał Żydom święcenia szabatu, przestrzegania praw pokarmowych i obrzezywania synów, kazał niszczyć zwoje Pisma, a świątynię poświęcił Zeusowi. Zgodność z tekstem jest duża i wielu komentatorów kończy na tym cały rozdział.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Odczytanie drugie, historyczne, zauważa, że Jezus dwieście lat po Antiochu mówił o ohydzie spustoszenia jako o rzeczy przyszłej, a widzenie ma sięgać „dni ostatecznych\" i kończy się zmartwychwstaniem. Czyta więc rozdział jako ciąg dalszy rozdziałów 7 i 8: po Grecji Rzym, po Rzymie władza religijna, która sięga po miecz i po sumienia. Antioch jest w tym odczytaniu wzorem, który historia powtarza w większej skali. Ale uwaga: komentatorzy tej szkoły, pracujący tą samą metodą, nie zgadzają się między sobą, w którym wersecie rozdziału 11 na scenę wchodzi Rzym, a w którym jego religijny następca. Istnieją co najmniej trzy rozpisania.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Odczytanie trzecie, futurystyczne, przenosi koniec rozdziału na przyszłego, jednego władcę tuż przed końcem świata.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Wszystkie trzy czytają tak samo wersety 32-35: za każdym razem, gdy władza sięga po sumienia, jedni dają się kupić pochlebstwem, a inni znają swojego Boga, uczą, padają i zostają oczyszczeni. To zdanie było prawdziwe za Antiocha, było prawdziwe w wiekach prześladowań i nie potrzebuje rozstrzygnięcia sporu, żeby nas dotyczyć.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Komentatorzy, którzy zgadzają się co do metody, nie zgadzają się co do wyniku. **Co to mówi o tym, jak trzymać własny wykład trudnego proroctwa?** Czego trzymać się mocno, a co luźno?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Szabat, jedzenie i obrzezanie to trzy rzeczy, po których w 167 roku dawało się rozpoznać Żyda. **Dlaczego władza, która chce złamać wiarę, uderza najpierw w to, co widać w kalendarzu, na stole i w rodzinie?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdzie jesteś teraz między pierwszym a dwudziestym pierwszym dniem?** O co się modlisz i nie widzisz, żeby coś się ruszyło?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel nie mógł zobaczyć, co dzieje się za kulisami. Mógł tylko dalej robić to, co robił. **Co w twojej sytuacji jest odpowiednikiem jego trzech tygodni?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **które z trzech dotknięć jest ci dziś najbardziej potrzebne: to, które podnosi z ziemi, to, które przywraca głos, czy to, które daje siłę?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Odpowiedź wyszła pierwszego dnia, a dotarła dwudziestego pierwszego, bo ktoś się jej sprzeciwiał. **Jeśli Bóg jest wszechmocny, dlaczego pozwala, żeby Jego posłaniec był zatrzymywany? Co mówi o Bogu to, że woli przekonywać króla przez trzy tygodnie, niż złamać go w jednej chwili? I czy chcielibyśmy Boga, który łamie?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie zamykaj tego pytania. Warto natomiast, żeby padło spostrzeżenie, że ta sama powściągliwość, która opóźniła odpowiedź dla Daniela, chroni też wolność każdego z obecnych.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Cisza po modlitwie nie znaczy, że nic się nie dzieje. Znaczy tylko, że nie widzę kulis.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Dn 10,12 albo Dn 11,32b.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o modlitwie, którą odmawiasz od dawna albo którą już porzuciłeś. Zapytaj siebie: **co uznałem za odpowiedź „nie\", choć mogło być tylko dwunastym dniem?** Nie wyciągaj od razu wniosków. Zostań przy pytaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Posłaniec powiedział Danielowi, kim jest dla nieba, zanim powiedział mu cokolwiek o przyszłości. Stań przed Bogiem i spróbuj usłyszeć to zdanie pod swoim adresem: człowieku cenny, nie bój się. **Zobacz, co się w tobie temu sprzeciwia.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** tekst mówi, że pochlebstwo zwodzi skuteczniej niż miecz. Zapytaj Boga, **czyje uznanie jest ci tak potrzebne, że mogłoby cię kupić.**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Modlę się o to od lat. To znaczy, że mój anioł też gdzieś utknął?\"** Nie potwierdzaj i nie zaprzeczaj. Ten rozdział opowiada jedną historię i nie daje klucza do wszystkich. Możesz powiedzieć: „Nie wiem, co dzieje się z twoją modlitwą. Wiem, co ten tekst mówi o Danielu: że był słyszany od pierwszego dnia, choć nic na to nie wskazywało\". Jeśli osoba jest poruszona, zostań z nią po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada o walce duchowej nad miastem, o demonach terytorialnych, o wiązaniu mocy.** Wróć do tekstu: co w tym rozdziale robi Daniel? Pości, modli się, słucha. Nie rozkazuje żadnemu duchowi i nie dostaje takiego zadania. Walka jest prawdziwa, ale prowadzi ją kto inny.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To o kim jest ten król północy? O Rosji? O papieżu? O islamie?\"** Materiał nie wskazuje żadnego współczesnego państwa, przywódcy ani wspólnoty i grupa też nie powinna. Powiedz, że szczegółowy wykład rozdziału 11 dzieli nawet ludzi tej samej szkoły, i wróć do wersetu 32, który obowiązuje przy każdym wykładzie. To jest stała reguła całej serii: żadnych aktualizacji politycznych i żadnego wyliczania dat.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś wygłasza jedyny słuszny wykład rozdziału 11, werset po wersecie.** Podziękuj i powiedz, że to jedno z kilku rozpisań i że na poziomie 3 jest o tym osobny blok. Nie wchodź w spór przy stole. Zapytaj: „A co z tego wykładu zostaje na poniedziałek?\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Michał to Jezus? Pierwsze słyszę, to chyba nauka świadków Jehowy.\"** Różnica jest zasadnicza i warto ją nazwać spokojnie: w odczytaniu opisanym na poziomie 3 Michał to imię Chrystusa, który jest Bogiem, a nie dowód, że Chrystus jest stworzonym aniołem. Dodaj, że większość chrześcijan widzi w Michale anioła i że to pytanie nie rozstrzyga o niczyjej wierze.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś pyta, czy post Daniela jest wzorem: „to może trzeba pościć, żeby Bóg wysłuchał?\"** Tekst mówi, że Daniel został wysłuchany pierwszego dnia, a nie dwudziestego pierwszego. Post nie był zapłatą. Był wyrazem żałoby człowieka, któremu zależało.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu o własne dwadzieścia jeden dni.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 4 i przeczytajcie go tylko na głos, bez pytań. Bloki 2 i 5 niosą całe spotkanie: „od pierwszego dnia\" i „lud, który zna swojego Boga\".",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Modlę się o to od lat. To znaczy, że mój anioł też gdzieś utknął?\"",
+     "odpowiedz": "Nie potwierdzaj i nie zaprzeczaj. Ten rozdział opowiada jedną historię i nie daje klucza do wszystkich. Możesz powiedzieć: „Nie wiem, co dzieje się z twoją modlitwą. Wiem, co ten tekst mówi o Danielu: że był słyszany od pierwszego dnia, choć nic na to nie wskazywało\". Jeśli osoba jest poruszona, zostań z nią po spotkaniu."
+    },
+    {
+     "sytuacja": "Ktoś opowiada o walce duchowej nad miastem, o demonach terytorialnych, o wiązaniu mocy.",
+     "odpowiedz": "Wróć do tekstu: co w tym rozdziale robi Daniel? Pości, modli się, słucha. Nie rozkazuje żadnemu duchowi i nie dostaje takiego zadania. Walka jest prawdziwa, ale prowadzi ją kto inny."
+    },
+    {
+     "sytuacja": "„To o kim jest ten król północy? O Rosji? O papieżu? O islamie?\"",
+     "odpowiedz": "Materiał nie wskazuje żadnego współczesnego państwa, przywódcy ani wspólnoty i grupa też nie powinna. Powiedz, że szczegółowy wykład rozdziału 11 dzieli nawet ludzi tej samej szkoły, i wróć do wersetu 32, który obowiązuje przy każdym wykładzie. To jest stała reguła całej serii: żadnych aktualizacji politycznych i żadnego wyliczania dat."
+    },
+    {
+     "sytuacja": "Ktoś wygłasza jedyny słuszny wykład rozdziału 11, werset po wersecie.",
+     "odpowiedz": "Podziękuj i powiedz, że to jedno z kilku rozpisań i że na poziomie 3 jest o tym osobny blok. Nie wchodź w spór przy stole. Zapytaj: „A co z tego wykładu zostaje na poniedziałek?\"."
+    },
+    {
+     "sytuacja": "„Michał to Jezus? Pierwsze słyszę, to chyba nauka świadków Jehowy.\"",
+     "odpowiedz": "Różnica jest zasadnicza i warto ją nazwać spokojnie: w odczytaniu opisanym na poziomie 3 Michał to imię Chrystusa, który jest Bogiem, a nie dowód, że Chrystus jest stworzonym aniołem. Dodaj, że większość chrześcijan widzi w Michale anioła i że to pytanie nie rozstrzyga o niczyjej wierze."
+    },
+    {
+     "sytuacja": "Ktoś pyta, czy post Daniela jest wzorem: „to może trzeba pościć, żeby Bóg wysłuchał?\"",
+     "odpowiedz": "Tekst mówi, że Daniel został wysłuchany pierwszego dnia, a nie dwudziestego pierwszego. Post nie był zapłatą. Był wyrazem żałoby człowieka, któremu zależało."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu o własne dwadzieścia jeden dni.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 4 i przeczytajcie go tylko na głos, bez pytań. Bloki 2 i 5 niosą całe spotkanie: „od pierwszego dnia\" i „lud, który zna swojego Boga\"."
+    }
+   ]
+  }
+ ]
+}

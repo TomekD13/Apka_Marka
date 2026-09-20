@@ -1,0 +1,869 @@
+{
+ "tytul": "Daniel 9, część 1. My zgrzeszyliśmy",
+ "id": "D-09",
+ "seria": "Księga Daniela",
+ "opis": "Modlitwa człowieka, który mówi „my zgrzeszyliśmy\", choć sam nie zawinił, i nie powołuje się na żadne zasługi.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": "D-08",
+ "nastepny": "D-10",
+ "teksty": {
+  "p1": "Dn 9,1-3; 9,4-6; 9,7-10; 9,11-14; 9,15-19",
+  "p2": "Jr 29,10-14; Ne 1,4-7; Kpł 26,40-42; Wj 32,11-14; Dn 9,20-21",
+  "p3": "2Krn 36,20-21; 1J 1,8-9; Ez 18,20"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 28,
+  "p3": 33
+ },
+ "tagi": [
+  "Daniel",
+  "modlitwa",
+  "wyznanie",
+  "wstawiennictwo",
+  "miłosierdzie",
+  "obietnica"
+ ],
+ "wersja": 1,
+ "zdanie": "Modlitwa nie stoi na tym, jacy jesteśmy my. Stoi na tym, jaki jest Bóg.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Po dwóch spotkaniach pełnych bestii, rogów i liczb to spotkanie jest inne i tak ma być. Nie ma tu żadnego widzenia. Jest stary człowiek, który czyta zwój Jeremiasza, znajduje w nim obietnicę z terminem i zamiast odliczać dni, zaczyna się modlić. Modli się słowem „my\", choć księga nie zapisała o nim ani jednej winy. I na koniec nie powołuje się na nic, co zrobił on sam albo jego lud. Powołuje się wyłącznie na to, jaki jest Bóg. Wokół tych trzech rzeczy krąży całe spotkanie: czytanie, które prowadzi do modlitwy, „my\" zamiast „oni\" i miłosierdzie zamiast zasług.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Siedemdziesiąt tygodni i przyjście Gabriela to następne spotkanie. Dziś zostajecie przy modlitwie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole nosi ciężkie poczucie winy. Ta modlitwa może go przygnieść, jeśli usłyszy z niej tylko „zgrzeszyliśmy\" i „wstyd\". Pilnuj, żeby równie mocno wybrzmiały wersety 9 i 18.",
+      "Ktoś został skrzywdzony przez rodzinę albo przez Kościół. Słowo „my\" może usłyszeć jako żądanie, żeby wziął na siebie winę krzywdziciela. Daniel tego nie robi i materiał tego nie wymaga.",
+      "Daniel mówi, że nieszczęście przyszło jako skutek grzechu narodu. Ktoś może to przyłożyć do własnej choroby albo straty. Tekst mówi o przymierzu Boga z Izraelem i o ostrzeżeniach powtarzanych przez stulecia. Nie daje klucza do tłumaczenia osobistych nieszczęść.",
+      "Rozmowa o winie zbiorowej łatwo schodzi na historię Polski, rozliczenia narodowe i bieżącą politykę. Nie idźcie tam."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie proś nikogo o wyznawanie grzechów na głos. Nie pytaj, za co „nasz zbór\" albo „nasz naród\" powinien przepraszać. Nie tłumacz cudzego cierpienia karą.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ostatnio zostawiliśmy Daniela chorego i zaniepokojonego po widzeniu, którego nie zrozumiał. Minęło kilkanaście lat. Babilon upadł, a Daniel wciąż nosi w sobie tamto pytanie. *Pomiń te zdania, jeśli grupa wchodzi w serię od tego miejsca.*",
+     "poziom": 1
+    },
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie sytuację, w której powiedziałeś „my zawaliliśmy\", choć mogłeś powiedzieć „oni zawalili\". Albo odwrotnie. Powiedz jednym zdaniem, co o tym zdecydowało.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko, najlepiej przykładem z pracy albo z domu, nie z Kościoła. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Człowiek, który czyta",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 9,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "W pierwszym roku Dariusza, syna Ahaszwerosza z rodu medyjskiego, który został królem państwa chaldejskiego, w pierwszym roku jego panowania ja, Daniel, zwróciłem uwagę w księgach na liczbę lat, które miały upłynąć według słowa Pana do proroka Jeremiasza, nad ruinami Jeruzalemu, to jest siedemdziesiąt lat. I zwróciłem swoje oblicze na Pana, Boga, aby się modlić, błagać, w poście, we włosiennicy i popiele."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel sam miewa widzenia i rozmawia z aniołami. **Skąd tym razem bierze zrozumienie swojej sytuacji?** Co to mówi o tym, jak nawet prorok szuka odpowiedzi?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel znajduje obietnicę z terminem: siedemdziesiąt lat, które właśnie dobiegają końca. Mógłby spokojnie czekać. **Co robi zamiast tego i dlaczego, waszym zdaniem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Post, włosiennica i popiół to znaki żałoby. **Po czym ten wysoki urzędnik imperium jest w żałobie, skoro osobiście niczego mu nie brakuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Zwój Jeremiasza był wtedy świeżym pismem. Jeremiasz prorokował w Jerozolimie, gdy Daniel był chłopcem. Daniel czyta więc proroka ze swojego pokolenia tak, jak my czytamy Biblię: szukając w cudzych słowach światła na własny czas. Księga pokazuje tu zwyczajną drogę, otwartą dla każdego. Najpierw jest czytanie, potem modlitwa, a dopiero w następnej scenie anioł.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy w księdze",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** Między drugim a trzecim widzeniem Daniela. Rozdział 8 skończył się zdaniem „nie rozumiałem go\". Rozdział 9 ma dwie części: modlitwę, którą czytamy dziś, i odpowiedź przyniesioną przez Gabriela, czyli proroctwo o siedemdziesięciu tygodniach, którym zajmie się następne spotkanie. W całej księdze to jedyna tak długa modlitwa i jedyny rozdział, w którym pada imię Boga objawione Mojżeszowi, w BW oddawane jako „Pan\".",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Babilon właśnie upadł, co opowiedział rozdział 5, i władzę przejęli Medowie i Persowie. Daniel jest w Babilonie od niemal siedemdziesięciu lat, ma ich więc ponad osiemdziesiąt. Jerozolima i świątynia leżą w gruzach. W widzeniu z rozdziału 8 usłyszał, że na przywrócenie świątyni trzeba będzie długo czekać. U Jeremiasza czyta, że wygnanie ma trwać siedemdziesiąt lat. Te dwie wiadomości nie chcą mu się złożyć w jedno.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Co przeczytał",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jr 29,10-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo tak mówi Pan: Gdy upłynie dla Babilonu siedemdziesiąt lat, nawiedzę was i spełnię na was swoją obietnicę, że sprowadzę was z powrotem na to miejsce. Albowiem ja wiem, jakie myśli mam o was – mówi Pan – myśli o pokoju, a nie o niedoli, aby zgotować wam przyszłość i natchnąć nadzieją. Gdy będziecie mnie wzywać i zanosić do mnie modły, wysłucham was. A gdy mnie będziecie szukać, znajdziecie mnie. Gdy mnie będziecie szukać całym swoim sercem, objawię się wam – mówi Pan – odmienię wasz los i zgromadzę was ze wszystkich narodów i ze wszystkich miejsc, do których was rozproszyłem – mówi Pan – i sprowadzę was z powrotem do miejsca, skąd skazałem was na wygnanie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co w tym liście jest obietnicą Boga, a co zaproszeniem skierowanym do ludzi?** Przeczytajcie uważnie wersety 12 i 13.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel modli się o coś, co Bóg już obiecał. **Czy to brak zaufania, czy właśnie zaufanie?** Jak ten list pomaga to rozstrzygnąć?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel mógł się bać, że grzech ludu odsunie obietnicę. **Czy wam zdarza się myśleć, że Boża obietnica przestała was dotyczyć, bo coś zepsuliście?** Co na to mówi werset 11 listu?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "My",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 9,4-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Modliłem się więc do Pana, mojego Boga, wyznawałem i mówiłem: Ach, Panie, Boże wielki i straszny, który dochowujesz przymierza i łaski tym, którzy cię miłują i przestrzegają twoich przykazań. Zgrzeszyliśmy, zawiniliśmy i postępowaliśmy bezbożnie, zbuntowaliśmy się i odstąpiliśmy od twoich przykazań i praw. I nie słuchaliśmy twoich sług, proroków, którzy w twoim imieniu przemawiali do naszych królów, naszych książąt, naszych ojców i do całego pospólstwa."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Policzcie czasowniki w wersecie 5 i zobaczcie, w jakiej osobie stoją. Księga Daniela nie zapisała ani jednego jego grzechu, a jego wrogowie w rozdziale 6 nie umieli znaleźć na niego niczego. **Dlaczego mówi „my\", a nie „oni\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zanim Daniel powie cokolwiek o grzechu, mówi coś o Bogu. **Co dokładnie?** Co by się zmieniło w tej modlitwie, gdyby zaczynała się od wersetu 5?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Czym różni się modlitwa „Boże, przebacz im\" od modlitwy „Boże, przebacz nam\"?** Co każda z nich mówi o modlącym się?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Daniel miał kilkanaście lat, kiedy wywieziono go z Jerozolimy. Za politykę królów i głuchotę narodu na proroków odpowiadał najmniej ze wszystkich. Mimo to nie staje obok swojego ludu z listą zarzutów. Staje w środku. Tak modli się ktoś, kto kocha tych, za których prosi. Warto też zauważyć, czego Daniel nie robi: nie każe nikomu innemu brać winy na siebie. Mówi „my\" we własnym imieniu, dobrowolnie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ten sam zaimek",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kilkadziesiąt lat później inny wysoki urzędnik na obcym dworze dostaje złe wieści z Jerozolimy.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ne 1,4-7",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy usłyszałem te słowa, usiadłem i zacząłem płakać, i smuciłem się przez szereg dni, poszcząc i modląc się przed Bogiem niebios tymi słowy: Ach, Panie, Boże niebios! Jesteś Bogiem wielkim i strasznym, który dotrzymuje przymierza i okazuje łaskę tym, co go miłują i przestrzegają jego przykazań. Niechaj twoje ucho będzie uważne, a twoje oczy otworzą się, aby wysłuchać modlitwy twego sługi, którą ja zanoszę teraz do ciebie dniem i nocą za synów Izraela, sługi twoje, oraz wyznania grzechów synów izraelskich, którymi zgrzeszyliśmy wobec ciebie; także ja i dom mojego ojca zgrzeszyliśmy. Niecnie postąpiliśmy wobec ciebie: nie przestrzegaliśmy przykazań i ustaw, i praw, jakie nadałeś Mojżeszowi, swemu słudze."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co modlitwa Nehemiasza ma wspólnego z modlitwą Daniela?** Wypiszcie podobieństwa, także w pierwszym zdaniu.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Obaj mieli wygodne życie na dworze i obaj mogli powiedzieć, że sprawy Jerozolimy ich nie dotyczą. **Co sprawia, że człowiek zaczyna traktować cudzą biedę i cudzą winę jak własną?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Wstyd i zmiłowanie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 9,7-10",
+       "przeklad": "BW",
+       "akapity": [
+        "U ciebie, Panie, jest sprawiedliwość, nam zaś, jak to jest dzisiaj, jest wstyd, nam, mężom judzkim i mieszkańcom Jeruzalemu, całemu Izraelowi, bliskim i dalekim we wszystkich krajach, po których rozproszyłeś ich z powodu niewierności, jakiej się dopuścili wobec ciebie. Panie! Wstyd nam, naszym królom, naszym książętom i naszym ojcom, bo zgrzeszyliśmy przeciwko tobie. U Pana, Boga naszego, jest zmiłowanie i przebaczenie, gdyż zbuntowaliśmy się przeciwko niemu i nie słuchaliśmy głosu Pana, Boga naszego, by postępować według jego wskazań, które nam dał przez swoje sługi, proroków."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel zestawia: „u ciebie\" i „nam\". **Wypiszcie, co według tych wersetów jest u Boga, a co jest po naszej stronie.** Czego jest więcej?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie powoli werset 9. Spodziewalibyśmy się: u Boga jest przebaczenie, mimo że się zbuntowaliśmy. Daniel mówi: „gdyż zbuntowaliśmy się\". **Co znaczy to zaskakujące „gdyż\"?** Dla kogo w ogóle jest przebaczenie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Daniel nazywa wstyd po imieniu i nie ucieka od niego. **Czym różni się wstyd, który prowadzi do Boga, od wstydu, który każe się przed Nim chować?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W wersecie 7 Daniel mówi: „U ciebie, Panie, jest sprawiedliwość\". W wersecie 16 poprosi: „Według twojej sprawiedliwości niech odwróci się twój gniew\". To zaskakuje, bo spodziewalibyśmy się prośby o łaskę wbrew sprawiedliwości. Hebrajskie `tsedaqah` znaczy jednak więcej niż wymierzanie kary. Oznacza wierność temu, do czego ktoś się zobowiązał. Bóg jest sprawiedliwy, kiedy dotrzymuje przymierza, a częścią przymierza była obietnica przebaczenia tym, którzy wrócą. To samo połączenie słów znajdziemy w Nowym Testamencie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1J 1,8-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeśli mówimy, że grzechu nie mamy, sami siebie zwodzimy, i prawdy w nas nie ma. Jeśli wyznajemy grzechy swoje, wierny jest Bóg i sprawiedliwy i odpuści nam grzechy, i oczyści nas od wszelkiej nieprawości."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jan nie pisze, że Bóg jest „łaskawy i pobłażliwy\", tylko że jest „wierny i sprawiedliwy\", i właśnie dlatego odpuszcza. **Co zmienia w modlitwie człowieka świadomość, że przebaczenie nie jest wyjątkiem od Bożej sprawiedliwości, tylko jej częścią?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Bóg miał rację",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "W tym fragmencie Daniel mówi o klęsce narodu jako o skutku złamanego przymierza. Mówi o historii Izraela i o ostrzeżeniach, które naród słyszał przez stulecia. Nie jest to klucz do tłumaczenia czyjejkolwiek osobistej choroby ani straty.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 9,11-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Nawet cały Izrael przekroczył twój zakon i odwrócił się, by nie słuchać twojego głosu. Dlatego rozlała się nad nami klątwa i przysięga, zapisana w zakonie Mojżesza, sługi Bożego, bo zgrzeszyliśmy przeciwko niemu. Przeto spełnił swoje słowo, które wypowiedział przeciwko nam i przeciwko naszym sędziom, którzy nas sądzili, że ześle na nas wielkie nieszczęście, gdyż pod całym niebem nie wydarzyło się to, co się stało w Jeruzalemie. Jak napisano w zakonie Mojżesza, spadło na nas wszelkie nieszczęście; my jednak nie ubłagaliśmy Pana, naszego Boga, odwracając się od naszych win i bacząc na twoją prawdę. Lecz Pan dopilnował nieszczęścia i sprowadził je na nas; bo sprawiedliwy jest Pan, nasz Bóg, we wszystkich swoich dziełach, których dokonał, ale my nie słuchaliśmy jego głosu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel nie mówi, że Bóg przesadził, i nie mówi, że tak wyszło. Mówi: „spełnił swoje słowo\" i „sprawiedliwy jest Pan\". **Ile mogło kosztować to zdanie człowieka, któremu wygnanie zabrało dom i młodość?** Co w tych wersetach pokazuje, że nie mówi go lekko?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie jeszcze raz werset 13. Nieszczęście już spadło, a Daniel dodaje: „my jednak nie ubłagaliśmy Pana\". **Czego według niego zabrakło nawet po katastrofie?** Co to mówi o tym, czy samo cierpienie zmienia człowieka?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Dwa razy pada: „zapisane w zakonie Mojżesza\". **Co zmienia fakt, że ostrzeżenie leżało spisane od stuleci i każdy mógł je przeczytać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Daniel odwołuje się do końcowych rozdziałów Prawa, w których Mojżesz opisał, dokąd prowadzi wierność przymierzu, a dokąd jego złamanie. Nie szuka winnych na zewnątrz. Nie oskarża Babilonu, choć miałby o co. Nie broni też Boga jak adwokat. Przyznaje po prostu, że wszystko poszło tak, jak było zapowiedziane. W tym przyznaniu kryje się nadzieja: jeśli Bóg dotrzymał słowa w sprawie wygnania, dotrzyma go także w sprawie powrotu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Droga powrotu też była zapisana",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W tym samym rozdziale Prawa, który zapowiadał wygnanie, stoi ciąg dalszy.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kpł 26,40-42",
+       "przeklad": "BW",
+       "akapity": [
+        "Będą wyznawać swój grzech i grzech swoich ojców, że odstąpili ode mnie i że postępowali wobec mnie opornie. Więc i Ja będę postępował wobec nich opornie i zaprowadzę ich do ziemi ich wrogów. Może wtedy ukorzy się ich nieobrzezane serce i wtedy zapłacą za swoje winy. Wspomnę na moje przymierze z Jakubem, a także na moje przymierze z Izaakiem, a ponadto wspomnę na moje przymierze z Abrahamem; wspomnę i tę ziemię."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co według tych wersetów robi lud na wygnaniu, a co obiecuje zrobić Bóg?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Porównajcie werset 40 z modlitwą Daniela. **Czy Daniel układa własną modlitwę, czy robi to, co przeczytał?** Co to mówi o związku między czytaniem Pisma a modlitwą?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo: ziemia odpoczywała",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Księga Kronik dodaje do siedemdziesięciu lat wyjaśnienie, którego w liście Jeremiasza nie ma.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Krn 36,20-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Następnie uprowadził do niewoli do Babilonu wszystkich pozostałych, którzy ocaleli od miecza, i tam zostali niewolnikami jego i jego synów aż do nastania królestwa perskiego. Tak wypełniło się słowo Pana, wypowiedziane przez usta Jeremiasza tej treści: Przez cały czas spustoszenia, dopóki kraj nie odpłaci swoich sabatów, będzie odpoczywał, aby dopełnić siedemdziesiąt lat."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Prawo kazało co siódmy rok zostawić pola odłogiem, żeby odpoczęła ziemia, słudzy i zwierzęta. Ten sam rozdział Księgi Kapłańskiej, z którego pochodzi droga powrotu, zapowiadał, że jeśli naród nie da ziemi odpoczynku, ziemia odbierze go sobie sama, gdy ludzi w niej nie będzie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Według Kronik wygnanie było także zaległym odpoczynkiem ziemi. **Co to mówi o Bogu, że nawet w opisie klęski pamięta o ziemi i o odpoczynku, którego jej odmówiono?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Nie dla naszej sprawiedliwości",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 9,15-19",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz teraz, Panie nasz, który wyprowadziłeś mocną ręką swój lud z ziemi egipskiej i zapewniłeś sobie imię, jak to jest dzisiaj: Zgrzeszyliśmy, bezbożnie postąpiliśmy. O Panie! Według twojej sprawiedliwości niech odwróci się twój gniew i twoja popędliwość od twojego miasta, Jeruzalemu, od świętej twojej góry! Gdyż z powodu naszych grzechów i naszych win Jeruzalem i twój lud znosi zniewagi od wszystkich, którzy są wokół nas. Lecz teraz wysłuchaj, o Boże nasz, modlitwy twojego sługi i jego błagania i rozjaśnij swoje oblicze nad twoją spustoszoną świątynią, ze względu na siebie samego, o Panie! Nakłoń, Boże mój, swojego ucha i usłysz! Otwórz oczy i spójrz na nasze spustoszenia i na miasto, które jest nazwane twoim imieniem! Gdyż nie dla naszej sprawiedliwości zanosimy nasze błaganie przed twoje oblicze, lecz dla obfitego twojego miłosierdzia. O Panie, usłysz, o Panie, odpuść! O Panie, dostrzeż i uczyń! Nie zwlekaj przez wzgląd na siebie, mój Boże, bo twoim imieniem nazwane jest to miasto i twój lud!"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Wypiszcie wszystkie powody, które Daniel podaje Bogu, żeby wysłuchał.** Ile z nich dotyczy tego, co zrobił albo zrobi lud, a ile tego, kim jest Bóg?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Nie dla naszej sprawiedliwości, lecz dla obfitego twojego miłosierdzia\". Mówi to człowiek, w którym nawet wrogowie nie umieli znaleźć winy. **Na czym według Daniela w ogóle można oprzeć modlitwę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Modlitwa zaczyna się długimi, uroczystymi zdaniami, a kończy krótkimi okrzykami: usłysz, odpuść, dostrzeż, uczyń, nie zwlekaj. **Co się stało z Danielem po drodze?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Daniel zaczyna od wyjścia z Egiptu, czyli od chwili, w której Bóg uratował ludzi, zanim dał im jakiekolwiek przykazanie. Potem raz po raz powtarza „twoje\": twoje miasto, twoja góra, twoja świątynia, twój lud. Nie prosi o nagrodę i niczego nie obiecuje w zamian. Cała prośba stoi na jednym: Bóg sam związał swoje imię z tymi ludźmi i z tym miejscem. Kto modli się w ten sposób, nie musi najpierw doprowadzić się do porządku, żeby zostać wysłuchanym.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Tak modlił się Mojżesz",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Naród właśnie ulał złotego cielca. Mojżesz stoi przed Bogiem sam.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 32,11-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz Mojżesz łagodził gniew Pana, Boga swego i mówił: Dlaczegóż, Panie, płonie gniew twój przeciwko ludowi twojemu, który wyprowadziłeś z ziemi egipskiej wielką siłą i ręką potężną? Dlaczego to mają rozpowiadać Egipcjanie: W złym zamiarze wyprowadził ich, by pozabijać ich w górach i wytracić z powierzchni ziemi. Odwróć się od zapalczywości swego gniewu i użal się nad złem, jakie chcesz zgotować ludowi swemu. Wspomnij na Abrahama, Izaaka i Izraela, sługi twoje, którym poprzysiągłeś na siebie samego, mówiąc do nich: Rozmnożę potomstwo wasze jak gwiazdy niebieskie i całą tę ziemię, o której mówiłem, dam potomstwu waszemu i posiądą ją na wieki. I użalił się Pan nad złem, które zamierzał sprowadzić na swój lud."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Na co powołuje się Mojżesz?** Porównajcie jego argumenty z argumentami Daniela, punkt po punkcie.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ani Mojżesz, ani Daniel nie mówią „oni na to zasłużyli\", choć obaj mieliby rację. **Czego ich modlitwy uczą o modleniu się za ludzi, którzy naprawdę zawinili?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Następnym razem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 9,20-21",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy jeszcze mówiłem, modliłem się i wyznawałem mój grzech i grzech mojego ludu izraelskiego, i zanosiłem moje błaganie przed oblicze Pana, mojego Boga, za świętą górę mojego Boga. Gdy więc jeszcze mówiłem i modliłem się, oto nagle w czasie ofiary wieczornej przyleciał do mnie ów mąż Gabriel, którego przedtem oglądałem w widzeniu."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel nie zdążył skończyć. **Co waszym zdaniem usłyszy człowiek, który modlił się w ten sposób?** Zapamiętajcie swoje odpowiedzi na kolejne spotkanie.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czy można wyznawać cudze grzechy",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ezechiel, prorok z tego samego wygnania, mówi coś, co wygląda na zaprzeczenie modlitwy Daniela.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ez 18,20",
+       "przeklad": "BW",
+       "akapity": [
+        "Człowiek, który grzeszy, umrze. Syn nie poniesie kary za winę ojca ani ojciec nie poniesie kary za winę syna. Sprawiedliwość będzie zaliczona sprawiedliwemu, a bezbożność spadnie na bezbożnego."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jedni czytelnicy stawiają akcent na Ezechielu. Każdy odpowiada przed Bogiem za siebie, nikt nie dziedziczy winy i nikt nie może jej za kogoś wyznać. Inni stawiają akcent na Danielu i Nehemiaszu. Człowiek należy do rodziny, narodu i Kościoła, korzysta z ich dobra i nosi ich historię, więc może stanąć przed Bogiem razem z nimi. Oba spojrzenia spotykają się w jednym miejscu: Danielowi nikt cudzych win nie przypisuje i on sam nie prosi, żeby go za nie ukarano. Wspólne stanięcie w modlitwie to co innego niż odpowiedzialność przed sądem.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdzie przebiega różnica między zdaniem „biorę na siebie cudzą winę\" a zdaniem „staję przed Bogiem razem z moim ludem\"?** Które z nich opisuje Daniela?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kiedy słowo „my\" w modlitwie jest uczciwe, a kiedy staje się wygodnym sposobem, żeby nikt konkretny nie musiał za nic odpowiedzieć?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "jeśli przy stole siedzi ktoś skrzywdzony, powiedz wprost, że nikt nie ma obowiązku mówić „my\" razem ze swoim krzywdzicielem. Daniel wybiera to słowo sam.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel znalazł obietnicę i zaczął się modlić. **Co ty zwykle robisz z obietnicą, którą znajdujesz w Biblii: czekasz, liczysz czy rozmawiasz o niej z Bogiem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**O kim najłatwiej mówisz „oni\": w rodzinie, w pracy, w zborze, w kraju?** Co by się zmieniło, gdybyś choć raz pomodlił się za nich słowem „my\"?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest sprawa, w której wciąż próbujesz najpierw zasłużyć, zanim o cokolwiek poprosisz?** Nie musisz mówić jaka.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel mówi, że nieszczęście Jerozolimy było sprawiedliwe. W tym samym mieście cierpieli jednak ludzie, którzy proroków słuchali, i dzieci, które niczego nie zawiniły. On sam zapłacił za cudze decyzje całym życiem. **Jak pogodzić zdanie „sprawiedliwy jest Pan we wszystkich swoich dziełach\" z tym, że skutki grzechu jednych spadają na drugich?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie zamykaj tego pytania. Warto natomiast, żeby padło spostrzeżenie, że Daniel też go nie rozwiązuje. Idzie z nim do Boga i mówi „my\".",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Modlitwa nie stoi na tym, jacy jesteśmy my. Stoi na tym, jaki jest Bóg.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Dn 9,18b albo Dn 9,9.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o ludziach, o których mówisz „oni\" z pretensją. Zanim powiesz o nich Bogu cokolwiek, zapytaj siebie: **co mam z nimi wspólnego, czego wolałbym nie widzieć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przypomnij sobie ostatnią modlitwę, w której o coś prosiłeś. **Na co się w niej po cichu powoływałeś: na swoje starania, na swoją biedę czy na to, jaki jest Bóg?** Zostań przy tym pytaniu i nie poprawiaj się od razu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jest sprawa, w której Bóg miał rację, a ty wciąż się z Nim o nią spierasz. Powiedz Mu słowami Daniela: „sprawiedliwy jesteś\". Jeśli to zdanie nie chce ci przejść przez gardło, powiedz Mu i to.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli mam przepraszać Boga za to, co zrobił mój ojciec albo mój mąż?\"** Nie. Daniel mówi „my\" dobrowolnie i nikt mu cudzych win nie przypisuje. Ezechiel z tego samego wygnania mówi wprost, że syn nie ponosi winy ojca. Osoba skrzywdzona nie wyznaje winy swojego krzywdziciela. Jeśli za pytaniem stoi realna krzywda, nie drąż przy grupie. Zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To moja choroba też jest pewnie karą.\"** Zatrzymaj to od razu i spokojnie. Daniel mówi o przymierzu Boga z narodem, który przez stulecia słyszał ostrzeżenia proroków. Nie daje klucza do tłumaczenia niczyjej choroby ani straty. Gdy uczniowie zapytali Jezusa przy niewidomym, kto zgrzeszył, odrzucił samo pytanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na winy narodu, rozliczenia historyczne albo bieżącą politykę.** Przerwij. Powiedz: „Daniel nie układa listy cudzych win, tylko modli się w pierwszej osobie. Zostańmy przy tym, o kim ja mówię oni\". Ten tekst nie komentuje żadnego współczesnego państwa ani żadnego sporu. Nie służy też do wyliczania dat, a do rachunku lat dojdziecie następnym razem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Skoro Bóg i tak obiecał, to po co się modlić?\"** To dobre pytanie i tekst na nie odpowiada. W liście Jeremiasza obietnica i zaproszenie stoją obok siebie: „gdy będziecie mnie wzywać, wysłucham was\". Daniel nie traktuje obietnicy jak rozkładu jazdy. Traktuje ją jak zaproszenie do rozmowy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś milknie, płacze albo mówi, że dla niego przebaczenia już nie ma.** Nie naciskaj i nie pocieszaj na siłę. Przeczytaj jeszcze raz werset 9 i werset 18. Po spotkaniu zostań z tą osobą. Jeśli mówi o beznadziei albo o tym, że nie chce żyć, nie zostawaj z tym sam: telefon zaufania dla dorosłych w kryzysie to 116 123, numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A co z tymi siedemdziesięcioma tygodniami?\"** To następne spotkanie. Dziś zostajecie przy modlitwie, bo odpowiedź Gabriela jest odpowiedzią właśnie na nią.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Blok 4 przeczytajcie tylko na głos, bez pytań. Bloki 2 i 5 niosą całe spotkanie: „my\" i „nie dla naszej sprawiedliwości\".",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Czyli mam przepraszać Boga za to, co zrobił mój ojciec albo mój mąż?\"",
+     "odpowiedz": "Nie. Daniel mówi „my\" dobrowolnie i nikt mu cudzych win nie przypisuje. Ezechiel z tego samego wygnania mówi wprost, że syn nie ponosi winy ojca. Osoba skrzywdzona nie wyznaje winy swojego krzywdziciela. Jeśli za pytaniem stoi realna krzywda, nie drąż przy grupie. Zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "„To moja choroba też jest pewnie karą.\"",
+     "odpowiedz": "Zatrzymaj to od razu i spokojnie. Daniel mówi o przymierzu Boga z narodem, który przez stulecia słyszał ostrzeżenia proroków. Nie daje klucza do tłumaczenia niczyjej choroby ani straty. Gdy uczniowie zapytali Jezusa przy niewidomym, kto zgrzeszył, odrzucił samo pytanie."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na winy narodu, rozliczenia historyczne albo bieżącą politykę.",
+     "odpowiedz": "Przerwij. Powiedz: „Daniel nie układa listy cudzych win, tylko modli się w pierwszej osobie. Zostańmy przy tym, o kim ja mówię oni\". Ten tekst nie komentuje żadnego współczesnego państwa ani żadnego sporu. Nie służy też do wyliczania dat, a do rachunku lat dojdziecie następnym razem."
+    },
+    {
+     "sytuacja": "„Skoro Bóg i tak obiecał, to po co się modlić?\"",
+     "odpowiedz": "To dobre pytanie i tekst na nie odpowiada. W liście Jeremiasza obietnica i zaproszenie stoją obok siebie: „gdy będziecie mnie wzywać, wysłucham was\". Daniel nie traktuje obietnicy jak rozkładu jazdy. Traktuje ją jak zaproszenie do rozmowy."
+    },
+    {
+     "sytuacja": "Ktoś milknie, płacze albo mówi, że dla niego przebaczenia już nie ma.",
+     "odpowiedz": "Nie naciskaj i nie pocieszaj na siłę. Przeczytaj jeszcze raz werset 9 i werset 18. Po spotkaniu zostań z tą osobą. Jeśli mówi o beznadziei albo o tym, że nie chce żyć, nie zostawaj z tym sam: telefon zaufania dla dorosłych w kryzysie to 116 123, numer alarmowy 112."
+    },
+    {
+     "sytuacja": "„A co z tymi siedemdziesięcioma tygodniami?\"",
+     "odpowiedz": "To następne spotkanie. Dziś zostajecie przy modlitwie, bo odpowiedź Gabriela jest odpowiedzią właśnie na nią."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Blok 4 przeczytajcie tylko na głos, bez pytań. Bloki 2 i 5 niosą całe spotkanie: „my\" i „nie dla naszej sprawiedliwości\"."
+    }
+   ]
+  }
+ ]
+}

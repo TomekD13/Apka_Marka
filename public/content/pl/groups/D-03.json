@@ -1,0 +1,773 @@
+{
+ "tytul": "Daniel 3. A jeśli nie",
+ "id": "D-03",
+ "seria": "Księga Daniela",
+ "opis": "Trzej ludzie przed rozpalonym piecem mówią „a jeśli nie”. O wierze, która nie stawia Bogu warunków.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": "D-02",
+ "nastepny": "D-04",
+ "teksty": {
+  "p1": "Dn 3,1-7; 3,8-15; 3,16-18; 3,19-25; 3,26-30",
+  "p2": "Wj 20,3-5; Iz 43,1-3; Hbr 11,32-40",
+  "p3": "Dn 3,25 (Ekum.); Ap 13,14-17; Dz 12,1-5"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 27,
+  "p3": 31
+ },
+ "tagi": [
+  "Daniel",
+  "wierność",
+  "przymus",
+  "cierpienie",
+  "zaufanie",
+  "obecność Boga"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg nie obiecał, że ominie mnie piec. Obiecał, że nie wejdę do niego sam.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Każdy zna tę historię jako opowieść o cudzie. To spotkanie czyta ją od środka, od trzech słów z wersetu 18: „A jeżeli nie\". Trzej mężczyźni nie wiedzą, jak to się skończy. Wiedzą, że Bóg może ich wyratować, i nie robią z tego warunku. Ich wierność nie zależy od wyniku. Drugi wątek to czwarta postać w ogniu: Bóg nie gasi pieca, tylko do niego wchodzi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Rozdział czytacie prawie w całości, w pięciu odcinkach. Bohaterowie występują tu pod babilońskimi imionami Szadrach, Meszach i Abed-Nego. To ci sami Ananiasz, Miszael i Azariasz z rozdziału 1. Daniela w tym rozdziale nie ma i tekst nie mówi dlaczego.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole może siedzieć ktoś, kogo Bóg z pieca nie wyciągnął: modlił się o zdrowie dziecka, o małżeństwo, o pracę, i nie dostał tego. Dla niego szczęśliwe zakończenie tej historii może brzmieć jak wyrzut. Dlatego środek ciężkości leży w wersetach 17-18, nie w wersecie 27.",
+      "Łatwo wyciągnąć wniosek, że wystarczy mocno wierzyć, a ogień nie dotknie. Tekst mówi coś przeciwnego: oni sami dopuszczają, że spłoną.",
+      "Rozmowa o przymusowym pokłonie szybko schodzi na bieżącą politykę i na to, kto dziś jest Babilonem. Nie idź tam."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pytaj nikogo, czy on by się pokłonił. Nie stawiaj trzech młodzieńców jako miary dla obecnych. Nie obiecuj nikomu w imieniu Boga, że jego piec skończy się tak samo.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "*Pomiń to zdanie, jeśli grupa wchodzi w serię od tego miejsca.* Ostatnio król zobaczył we śnie posąg, w którym złota była tylko głowa, i usłyszał, że po jego królestwie przyjdą następne. Dziś stawia własny posąg, cały ze złota.",
+     "poziom": 1
+    },
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie sytuację, w której wszyscy dookoła coś robili, a ty nie chciałeś. Powiedz jednym zdaniem, co było wtedy najtrudniejsze.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Wszyscy padli",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 3,1-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Król Nebukadnesar kazał zrobić posąg ze złota, sześćdziesiąt łokci wysokości, sześć łokci szerokości, i postawił go na równinie Dura w prowincji babilońskiej. Potem król Nebukadnesar wysłał posłów, aby zebrano satrapów, namiestników, zwierzchników, skarbników, sędziów, doradców, urzędników i wszystkich zarządców prowincji, aby przybyli na poświęcenie posągu, który wzniósł król Nebukadnesar. Zgromadzili się więc satrapowie, namiestnicy, zwierzchnicy, doradcy, skarbnicy, sędziowie, urzędnicy i wszyscy zarządcy prowincji na poświęcenie posągu, który wzniósł król Nebukadnesar, i stanęli przed posągiem, który wzniósł król Nebukadnesar. A herold zawołał potężnym głosem: Rozkazuję wam narody, plemiona i języki: W chwili, gdy usłyszycie głos rogu, fletu, cytry, harfy, lutni, dud i wszelkiego rodzaju instrumentów muzycznych, padnijcie i oddajcie pokłon złotemu posągowi, który wzniósł król Nebukadnesar. Kto zaś nie upadnie i nie odda pokłonu, ten będzie natychmiast wrzucony do wnętrza rozpalonego pieca ognistego. Gdy tylko cały lud usłyszał głos rogu, fletu, cytry, harfy i dud oraz wszelkiego rodzaju instrumentów muzycznych, narody, plemiona i języki upadły i oddały pokłon złotemu posągowi, który wzniósł król Nebukadnesar."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Policzcie, ile razy w tych siedmiu wersetach pada zdanie „który wzniósł król Nebukadnesar\". **Po co autor tak uparcie to powtarza?** O kim naprawdę jest ten posąg?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Orkiestra, tłum urzędników, jeden gest w jednej chwili i piec w tle. **Wypiszcie wszystko, czym ta scena naciska na pojedynczego człowieka.** Co z tego działa także bez pieca?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Król nie zaprasza pielgrzymów, tylko całą administrację państwa. **Czemu służy religijna uroczystość, na którą wzywa się urzędników pod karą śmierci?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "We śnie z poprzedniego rozdziału złota była tylko głowa posągu i oznaczała Nebukadnesara. Po nim miały przyjść inne królestwa. Na równinie Dura staje posąg złoty od góry do dołu. Król nie odrzuca snu. Poprawia go tak, żeby jego królestwo nie miało następcy. Uroczystość jest zarazem religijna i polityczna: to przegląd lojalności całego aparatu państwa, a pokłon jest przysięgą.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy w księdze",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** W trzecim z sześciu opowiadań dworskich. W rozdziale 1 czterej młodzi Judejczycy odmówili królewskiego stołu. W rozdziale 2 Daniel wyłożył królowi sen, a na jego prośbę trzej przyjaciele dostali zarząd prowincji babilońskiej. Dlatego teraz stoją na równinie Dura wśród urzędników. Rozdział 3 ma bliźniaka w rozdziale 6: tu piec i trzej przyjaciele, tam jama lwów i Daniel.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Sześćdziesiąt łokci to około trzydziestu metrów, sześć łokci to około trzech. Posąg jest więc smukły jak słup i widać go z daleka na płaskiej równinie. Wyliczanka urzędów i instrumentów wraca w rozdziale kilka razy słowo w słowo. Brzmi jak urzędowy komunikat i ma tak brzmieć: tak mówi państwo, które nie przewiduje wyjątków.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak słucha się tego opowiadania, kiedy się wie, że trzej przyjaciele są tam służbowo, jako zarządcy prowincji?** Co mieli do stracenia oprócz życia?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Przykazanie, które znali na pamięć",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 20,3-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie będziesz miał innych bogów obok mnie. Nie czyń sobie podobizny rzeźbionej czegokolwiek, co jest na niebie w górze, i na ziemi w dole, i tego, co jest w wodzie pod ziemią. Nie będziesz się im kłaniał i nie będziesz im służył, gdyż Ja Pan, Bóg twój, jestem Bogiem zazdrosnym, który karze winę ojców na synach do trzeciego i czwartego pokolenia tych, którzy mnie nienawidzą."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W rozdziale 1 ci sami ludzie przyjęli babilońskie imiona, szkołę i urzędy. **Dlaczego tutaj nie ma już pola do negocjacji?** Co odróżnia pokłon od wszystkiego, na co zgodzili się wcześniej?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Można było uklęknąć i w myślach modlić się do Boga Izraela. Nikt by nie wiedział. **Dlaczego to nie było wyjście?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Który bóg was wyrwie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 3,8-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Dlatego wtedy pewni mężowie chaldejscy wystąpili i złośliwie oskarżyli Żydów. Odezwali się i tak rzekli do króla Nebukadnesara: Królu, żyj na wieki! Ty, królu, wydałeś rozkaz, by każdy, kto usłyszy głos rogu, fletu, cytry, harfy, lutni i dud oraz wszelkiego rodzaju instrumentów muzycznych, padł i oddał pokłon złotemu posągowi; kto by zaś nie upadł i nie oddał pokłonu, ten będzie wrzucony do wnętrza rozpalonego pieca ognistego. Są mężowie judzcy, którym powierzyłeś zarząd prowincji babilońskiej: Szadrach, Meszach i Abed-Nego; ci mężowie nie zważają na twój rozkaz, o królu, nie czczą twojego boga i nie oddają pokłonu złotemu posągowi, który ty wzniosłeś. Wtedy Nebukadnesar w gniewie i złości kazał przyprowadzić Szadracha, Meszacha i Abed-Nego. Przyprowadzono więc tych mężów przed króla. Nebukadnesar odezwał się i rzekł do nich: Czy to prawda, Szadrachu, Meszachu i Abed-Nego, że nie czcicie mojego boga i nie oddajecie pokłonu złotemu posągowi, który wzniosłem? Gdy więc teraz usłyszycie głos rogu, fletu, cytry, harfy, lutni, dud oraz wszelkiego rodzaju instrumentów muzycznych, bądźcie gotowi upaść i oddać pokłon posągowi, który ja wzniosłem; bo jeżeli nie oddacie pokłonu, będziecie natychmiast wrzuceni do wnętrza rozpalonego pieca ognistego, a który bóg wyrwie was z mojej ręki?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przyjrzyjcie się donosowi w wersecie 12. **Co oskarżyciele wypominają królowi, zanim w ogóle powiedzą o posągu?** Co to mówi o ich prawdziwym motywie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Król jest wściekły, a mimo to daje im drugą szansę i każe orkiestrze zagrać jeszcze raz. **Dlaczego druga szansa bywa trudniejsza niż pierwsza odmowa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W poprzednim rozdziale ten sam król powiedział, że Bóg Daniela jest „Bogiem bogów i Panem królów\". Teraz pyta: „który bóg wyrwie was z mojej ręki?\". **Co się stało z jego wyznaniem?** Ile warte jest zdumienie Bogiem, za którym nie idzie nic więcej?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "A jeżeli nie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 3,16-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Szadrach, Meszach i Abed-Nego odpowiedzieli królowi Nebukadnesarowi: My nie mamy potrzeby odpowiadać ci na to. Jeżeli nasz Bóg, któremu służymy, może nas wyratować, wyratuje nas z rozpalonego pieca ognistego i z twojej ręki, o królu. A jeżeli nie, niech ci będzie wiadome, o królu, że twojego boga nie czcimy i złotemu posągowi, który wzniosłeś, pokłonu nie oddamy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ta odpowiedź ma dwie części. **Czego trzej przyjaciele są pewni, a czego nie wiedzą?** Przeczytajcie wersety 17 i 18 jeszcze raz, powoli.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„A jeżeli nie\". **Od czego zależy ich wierność, skoro nie zależy od tego, czy Bóg ich wyratuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Czym różni się zdanie „ufam, że Bóg mnie uratuje\" od zdania „ufam Bogu\"?** Które z nich wypowiadają ci trzej?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Mówią „my\" i odpowiadają jednym głosem. **Co by się zmieniło, gdyby przed królem stał tylko jeden z nich?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Oni nie targują się z Bogiem i nie stawiają Mu warunków. Nie mówią też, że ogień ich nie dotknie. Mówią dwie rzeczy naraz: nasz Bóg może, a jeśli tego nie zrobi, nic się między nami nie zmienia. To nie jest brak wiary w cud. To wiara, która nie potrzebuje cudu, żeby pozostać wiarą. Król pytał, który bóg ich wyrwie. Oni odpowiadają, że to nie jest dla nich najważniejsze pytanie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Przez ogień",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 43,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz teraz – tak mówi Pan – który cię stworzył, Jakubie, i który cię ukształtował, Izraelu: Nie bój się, bo cię wykupiłem, nazwałem cię twoim imieniem – moim jesteś! Gdy będziesz przechodził przez wody, będę z tobą, a gdy przez rzeki, nie zaleją cię; gdy pójdziesz przez ogień nie spłoniesz, a płomień nie spali cię. Bo Ja, Pan, jestem twoim Bogiem, Ja, Święty Izraelski, twoim wybawicielem; daję Egipt na okup za ciebie, Etiopię i Sabę zamiast ciebie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Te słowa Izajasza są starsze niż wygnanie i trzej przyjaciele mogli je znać. **Co ta obietnica mówi: że ognia nie będzie, czy coś innego?** Zwróćcie uwagę na słowa „gdy pójdziesz\" i „będę z tobą\".",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Babilon dał im nowe imiona. Bóg mówi: „nazwałem cię twoim imieniem, moim jesteś\". **Jak to zdanie brzmi w uszach kogoś, kto stoi przed królem jako Szadrach?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Czwarty w ogniu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 3,19-25",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Nebukadnesar bardzo się rozgniewał na Szadracha, Meszacha i Abed-Nega i wyraz jego twarzy zmienił się. Odezwał się więc i kazał rozpalić piec siedem razy bardziej niż go zwykle rozpalano. I najmocniejszym mężom w swoim wojsku rozkazał związać Szadracha, Meszacha i Abed-Nega i wrzucić ich do rozpalonego pieca ognistego. Wtedy związano tych mężów w ich płaszczach, tunikach, czapkach i w pozostałych ubraniach i wrzucono do wnętrza rozpalonego pieca ognistego. Ponieważ jednak rozkaz królewski był tak surowy, a piec był tak bardzo rozpalony, płomień ognia strawił tych mężów, którzy wnosili Szadracha, Meszacha i Abed-Nega. A ci trzej mężowie: Szadrach, Meszach i Abed-Nego wpadli związani do wnętrza rozpalonego pieca. Wtedy król Nebukadnesar przeląkł się, szybko powstał, odezwał się i zapytał swych doradców: Czy nie trzech związanych mężów wrzuciliśmy do ognia? Ci odpowiadając rzekli do króla: Prawda, królu. A on odpowiadając rzekł: Oto ja widzę czterech mężów chodzących wolno w środku ognia i nie ma na nich żadnego uszkodzenia, a wygląd czwartej osoby podobny jest do anioła."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg mógł zgasić piec, powstrzymać króla albo nie dopuścić do donosu. **Co robi zamiast tego?** W którym momencie i w jakim miejscu pojawia się czwarta postać?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wpadli „związani\", a król widzi ich „chodzących wolno\". **Co w takim razie spłonęło w tym piecu?** Co to mówi o tym, czym ogień był dla nich, a czym dla tych, którzy ich wrzucali?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Czwartą postać widzi król, z zewnątrz. Tekst nie mówi, co widzieli i czuli ci trzej. **Dlaczego ratunek bywa lepiej widoczny dla patrzących z boku niż dla tego, kto jest w środku?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Dwa szczegóły trzymają tę scenę na ziemi. Żar zabija żołnierzy przy samym otworze, więc niebezpieczeństwo nie jest przenośnią. A jedyną rzeczą, która w środku płonie, są więzy. Trzej mężczyźni zostają w ubraniach, w czapkach, z włosami na głowie, i chodzą swobodnie. Czwarty nie wyprowadza ich z pieca. Chodzi tam razem z nimi, dopóki król sam nie zawoła.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Biblia Warszawska ma w wersecie 25: „podobny jest do anioła\". W aramejskim oryginale król mówi dosłownie `bar elahin`, czyli „syn bogów\", i tak oddaje to przekład ekumeniczny.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 3,25",
+       "przeklad": "Ekum",
+       "akapity": [
+        "On odrzekł: Oto ja widzę czterech rozwiązanych mężczyzn, przechadzających się pośród ognia i nie dzieje im się nic złego, wygląd zaś czwartego podobny jest do syna bogów."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Nebukadnesar mówi jak poganin. Widzi istotę z boskiego świata i nazywa ją tak, jak umie. W wersecie 28 sam powie o niej „anioł\". Chrześcijanie od pierwszych wieków widzieli w czwartej postaci Chrystusa przed wcieleniem. Tekst Daniela tego nie rozstrzyga.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia się w czytaniu tej sceny, jeśli w ogniu chodzi z nimi Ten, który później sam przejdzie przez śmierć i nie zostanie z niej wyjęty?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Wyjdźcie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 3,26-30",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Nebukadnesar zbliżył się do otworu rozpalonego pieca ognistego, odezwał się i rzekł: Szadrachu, Meszachu i Abed-Nego, słudzy Boga Najwyższego: Wyjdźcie i przyjdźcie tutaj! Na to Szadrach, Meszach i Abed-Nego wyszli ze środka ognia. I zgromadzili się satrapowie, namiestnicy, zwierzchnicy i doradcy króla, i widzieli, że ogień nie ogarnął ciał tych mężów i włos ich głowy nie był spalony, a ich odzienia nie były zniszczone ani też swąd ognia ich nie przeniknął. Nebukadnesar odezwał się i rzekł: Błogosławiony niech będzie Bóg Szadracha, Meszacha i Abed-Nega, który posłał swojego anioła i wyratował swoje sługi, którzy na nim polegali, którzy zmienili rozkaz królewski, a swoje ciała ofiarowali, byle tylko nie służyć i nie oddać pokłonu żadnemu innemu bogu jak tylko swojemu. Dlatego wydaję rozkaz: Ktokolwiek, należący do jakiegoś ludu, plemienia i języka, wypowie bluźnierstwo przeciwko Bogu Szadracha, Meszacha i Abed-Nega, będzie rozsiekany na kawałki, a jego dom zamieniony w kupę gruzu, gdyż nie ma innego Boga, który by mógł wybawić, jak tylko ten.",
+        "Potem król przywrócił Szadrachowi, Meszachowi i Abed-Negowi dawne powodzenie w prowincji babilońskiej."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ci sami urzędnicy, którzy rano padli przed posągiem, teraz oglądają trzech ludzi, którzy nie padli. **Co widzą? Kto w tej scenie okazał się wolny, a kto związany?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Król błogosławi Boga i natychmiast wydaje nowy dekret: kto bluźni temu Bogu, będzie rozsiekany. **Czego się nauczył, a czego wciąż nie rozumie?** Czym nowy dekret różni się od porannego?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Trzej przyjaciele po wyjściu z pieca nie mówią w tym rozdziale ani słowa. **Dlaczego ich milczenie pasuje do tego, co powiedzieli w wersetach 16-18?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ci, którzy zgasili ogień, i ci drudzy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 11,32-40",
+       "przeklad": "BW",
+       "akapity": [
+        "I cóż powiem jeszcze? Zabrakłoby mi przecież czasu, gdybym miał opowiadać o Gedeonie, Baraku, Samsonie, Jeftem, Dawidzie i Samuelu, i o prorokach, którzy przez wiarę podbili królestwa, zaprowadzili sprawiedliwość, otrzymali obietnice, zamknęli paszcze lwom, zgasili moc ognia, uniknęli ostrza miecza, podźwignęli się z niemocy, stali się mężni na wojnie, zmusili do ucieczki obce wojska. Kobiety otrzymały z powrotem swoich zmarłych przez wskrzeszenie; inni zaś zostali zamęczeni na śmierć, nie przyjąwszy uwolnienia, aby dostąpić lepszego zmartwychwstania. Drudzy zaś doznali szyderstw i biczowania, a nadto więzów i więzienia; byli kamienowani, paleni, przerzynani piłą, zabijani mieczem, błąkali się w owczych i kozich skórach, wyzuci ze wszystkiego, uciskani, poniewierani; ci, których świat nie był godny, tułali się po pustyniach i górach, po jaskiniach i rozpadlinach ziemi. A wszyscy ci, choć dla swej wiary zdobyli chlubne świadectwo, nie otrzymali tego, co głosiła obietnica, ponieważ Bóg przewidział ze względu na nas coś lepszego, mianowicie, aby oni nie osiągnęli celu bez nas."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Autor wymienia jednym tchem tych, którzy „zgasili moc ognia\", i tych, którzy byli „paleni\". **Czy traktuje pierwszych jako ludzi większej wiary?** Co łączy obie grupy według wersetu 39?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Do której części tej listy należy zdanie „A jeżeli nie\"?** Co by z niego zostało, gdyby Biblia znała tylko pierwszą część?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Rozdział kończy się słowami króla, że nie ma innego Boga, który by mógł wybawić. W następnym ten sam król opowie własnymi słowami, jak Bóg musiał wybawić jego samego, i to od niego samego. **Jak myślicie, przed czym?** Zapamiętajcie to pytanie na kolejne spotkanie.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: równina Dura i Apokalipsa",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ostatnia księga Biblii opisuje scenę, która brzmi znajomo.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 13,14-17",
+       "przeklad": "BW",
+       "akapity": [
+        "I zwodzi mieszkańców ziemi przez cuda, jakie dano mu czynić na oczach zwierzęcia, namawiając mieszkańców ziemi, by postawili posąg zwierzęciu, które ma ranę od miecza, a jednak zostało przy życiu. I dano mu tchnąć ducha w posąg zwierzęcia, aby posąg zwierzęcia przemówił i sprawił, że wszyscy, którzy nie oddali pokłonu posągowi zwierzęcia, zostaną zabici. On też sprawia, że wszyscy, mali i wielcy, bogaci i ubodzy, wolni i niewolnicy otrzymują znamię na swojej prawej ręce albo na swoim czole, i że nikt nie może kupować ani sprzedawać, jeżeli nie ma znamienia, to jest imienia zwierzęcia lub liczby jego imienia."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zbieżności stoją w samym tekście: posąg, nakaz pokłonu, kara śmierci za odmowę, powszechność sceny, a nawet szóstka w wymiarach posągu i w liczbie z następnego wersetu Apokalipsy. Jan opisuje przyszłość słowami z równiny Dura. Co do tego, kiedy i jak ta scena się wypełnia, chrześcijanie się różnią. Jedni czytają ją jako obraz prześladowań za cesarzy rzymskich. Inni, w tym adwentyści, widzą w niej także ostatnią próbę przed powrotem Chrystusa, w której znów chodzić będzie o przymus w sprawach czci. Wszyscy zgadzają się co do wzoru: władza, która żąda pokłonu pod groźbą, powtarza Babilon, a odpowiedź wiernych jest ta sama co w Dn 3,18.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co z rozdziału 3 powinien zapamiętać ktoś, kto kiedykolwiek stanie przed przymusem w sprawach sumienia?** Czego ten rozdział nie obiecuje?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nebukadnesar na końcu też sięga po przymus, tym razem w obronie prawdziwego Boga. **Czy przymus staje się lepszy, kiedy służy dobrej sprawie?** Co mówi o Bogu to, że sam nikogo w tym rozdziale nie zmusza?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie pozwól, żeby rozmowa zamieniła się w zgadywanie, kto dziś jest zwierzęciem i co jest znamieniem. Materiał nie wskazuje żadnego państwa, instytucji ani daty. Wystarczy wzór i odpowiedź z wersetu 18.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Złote posągi nie zawsze mają trzydzieści metrów. **Przed czym dziś klęka się dlatego, że wszyscy klękają, a odmowa kosztuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**O co prosisz Boga w taki sposób, że twoje zaufanie do Niego zależy od wyniku?** Jak brzmiałoby w tej sprawie twoje „a jeśli nie\"?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy był w twoim życiu piec, z którego Bóg cię nie wyjął, a mimo to wiesz, że nie byłeś w nim sam?** Możesz też powiedzieć, że tego nie wiesz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 12,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "A w owym czasie targnął się król Herod na niektórych członków zboru i począł ich gnębić. Jakuba, brata Janowego, kazał ściąć. Gdy zaś widział, że się to podoba Żydom, kazał pojmać i Piotra; a były to dni Przaśników. A gdy go ujął, wtrącił do więzienia i przekazał czterem czwórkom żołnierzy, aby go strzegli, zamierzając po święcie Paschy stawić go przed ludem. Strzeżono tedy Piotra w więzieniu; zbór zaś modlił się nieustannie za niego do Boga."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Tej samej nocy anioł wyprowadzi Piotra z więzienia. Jakuba nikt nie wyprowadził, choć zbór z pewnością modlił się i za niego. **Dlaczego jednych Bóg z pieca wyjmuje, a innych nie? Co możemy powiedzieć rodzinie Jakuba, a czego powiedzieć nie wolno?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie produkuj odpowiedzi. Biblia jej tu nie daje. Warto, żeby padły dwie rzeczy. Trzej przyjaciele z góry przyjęli obie możliwości i żadnej nie uznali za dowód, że Bóg ich opuścił. A obietnica z Izajasza nie brzmi „ognia nie będzie\", tylko „będę z tobą\".",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg nie obiecał, że ominie mnie piec. Obiecał, że nie wejdę do niego sam.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Dn 3,17-18 albo Iz 43,2.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o sprawie, w której po cichu postawiłeś Bogu warunek: jeśli to mi dasz, będę Ci ufał. Nazwij ten warunek przed Nim wprost. Nie musisz go od razu cofać. Zobacz najpierw, że tam jest.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przypomnij sobie miejsce, w którym ostatnio zrobiłeś to, co wszyscy, choć coś w tobie mówiło nie. Zapytaj siebie bez usprawiedliwień: **czego się wtedy bałem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli nosisz w sobie żal do Boga o piec, z którego kogoś albo ciebie nie wyjął, powiedz Mu o tym własnymi słowami, bez łagodzenia. Potem przeczytaj na głos Iz 43,2 i zostań przy słowach „będę z tobą\".",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Mnie Bóg nie uratował\" albo „modliliśmy się i on i tak umarł\".** To najważniejsza chwila spotkania. Nie tłumacz Boga i nie szukaj powodu. Powiedz, że ta historia ma w środku zdanie właśnie dla takich sytuacji, i że trzej przyjaciele sami dopuszczali, że spłoną. Jeśli prowadzisz poziom 2, sięgnij po Hbr 11, gdzie paleni stoją w jednym szeregu z tymi, którzy zgasili ogień. Zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Gdyby mieli słabą wiarę, toby spłonęli\" albo „kto naprawdę wierzy, tego ogień nie tknie\".** Wróć do wersetu 18. Oni sami nie wiedzieli, jak to się skończy. Tekst nigdzie nie łączy wyniku z siłą ich wiary. Takie zdanie wypowiedziane przy kimś, kto kogoś stracił, rani. Przerwij je spokojnie i od razu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś przyznaje, że kiedyś się „pokłonił\": zaparł się wiary w pracy, w rodzinie, w dawnym systemie.** Nie oceniaj i nie pozwól oceniać grupie. Ten rozdział nie mówi, co Bóg robi z tymi, którzy padli. Mówią o tym inne miejsca Biblii, choćby historia Piotra. Podziękuj za szczerość i nie drąż.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na bieżącą politykę, na to, kto dziś zmusza do pokłonu i kto jest Babilonem.** Przerwij. Materiał nie wskazuje żadnego współczesnego państwa, partii ani instytucji. Zapytaj zamiast tego o posągi bez pieca: opinię środowiska, awans, święty spokój.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A gdzie był Daniel?\"** Tekst nie mówi. Mógł być poza stolicą albo urząd zwalniał go z obecności. Każda odpowiedź jest domysłem. Powiedz to wprost i wróć do tych, którzy w tekście są.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś pyta, czy czwarta postać to Jezus.** Wielu chrześcijan tak to czyta i jest to piękne odczytanie. Sam tekst podaje tylko słowa pogańskiego króla, który w wersecie 28 mówi o aniele. Więcej jest w bloku Słowo na poziomie 3.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu o własne „a jeśli nie\".** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Blok 2 przeczytajcie tylko na głos, bez pytań. Bloków 3 i 4 nie skracaj: jedno zdanie przyjaciół i czwarta postać niosą całe spotkanie.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Mnie Bóg nie uratował\" albo „modliliśmy się i on i tak umarł\".",
+     "odpowiedz": "To najważniejsza chwila spotkania. Nie tłumacz Boga i nie szukaj powodu. Powiedz, że ta historia ma w środku zdanie właśnie dla takich sytuacji, i że trzej przyjaciele sami dopuszczali, że spłoną. Jeśli prowadzisz poziom 2, sięgnij po Hbr 11, gdzie paleni stoją w jednym szeregu z tymi, którzy zgasili ogień. Zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "„Gdyby mieli słabą wiarę, toby spłonęli\" albo „kto naprawdę wierzy, tego ogień nie tknie\".",
+     "odpowiedz": "Wróć do wersetu 18. Oni sami nie wiedzieli, jak to się skończy. Tekst nigdzie nie łączy wyniku z siłą ich wiary. Takie zdanie wypowiedziane przy kimś, kto kogoś stracił, rani. Przerwij je spokojnie i od razu."
+    },
+    {
+     "sytuacja": "Ktoś przyznaje, że kiedyś się „pokłonił\": zaparł się wiary w pracy, w rodzinie, w dawnym systemie.",
+     "odpowiedz": "Nie oceniaj i nie pozwól oceniać grupie. Ten rozdział nie mówi, co Bóg robi z tymi, którzy padli. Mówią o tym inne miejsca Biblii, choćby historia Piotra. Podziękuj za szczerość i nie drąż."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na bieżącą politykę, na to, kto dziś zmusza do pokłonu i kto jest Babilonem.",
+     "odpowiedz": "Przerwij. Materiał nie wskazuje żadnego współczesnego państwa, partii ani instytucji. Zapytaj zamiast tego o posągi bez pieca: opinię środowiska, awans, święty spokój."
+    },
+    {
+     "sytuacja": "„A gdzie był Daniel?\"",
+     "odpowiedz": "Tekst nie mówi. Mógł być poza stolicą albo urząd zwalniał go z obecności. Każda odpowiedź jest domysłem. Powiedz to wprost i wróć do tych, którzy w tekście są."
+    },
+    {
+     "sytuacja": "Ktoś pyta, czy czwarta postać to Jezus.",
+     "odpowiedz": "Wielu chrześcijan tak to czyta i jest to piękne odczytanie. Sam tekst podaje tylko słowa pogańskiego króla, który w wersecie 28 mówi o aniele. Więcej jest w bloku Słowo na poziomie 3."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu o własne „a jeśli nie\".",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Blok 2 przeczytajcie tylko na głos, bez pytań. Bloków 3 i 4 nie skracaj: jedno zdanie przyjaciół i czwarta postać niosą całe spotkanie."
+    }
+   ]
+  }
+ ]
+}

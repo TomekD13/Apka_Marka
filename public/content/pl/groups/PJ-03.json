@@ -1,0 +1,780 @@
+{
+ "tytul": "Miłosierny Samarytanin",
+ "id": "PJ-03",
+ "seria": "Przypowieści Jezusa",
+ "opis": "Uczony pyta, kogo musi kochać, a Jezus odwraca pytanie: komu ty stałeś się bliźnim?",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Łk 10,25-37",
+  "p2": "Kpł 19,17-18.33-34; Oz 6,6; 2Krn 28,14-15; Łk 9,51-56; Mi 6,8",
+  "p3": "Łk 15,20; J 8,48"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 30
+ },
+ "tagi": [
+  "przypowieści",
+  "bliźni",
+  "miłosierdzie",
+  "granice miłości",
+  "obcy"
+ ],
+ "wersja": 1,
+ "zdanie": "Bliźniego nie da się zdefiniować. Można się nim tylko stać.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Wszyscy znają tę historię i prawie wszyscy znają ją jako apel: bądź dobry dla potrzebujących. Tymczasem Jezus opowiada ją człowiekowi, który prosi o definicję, czyli o granicę: kogo muszę kochać, a kogo już nie. Spotkanie ma pokazać, co Jezus robi z tym pytaniem. Nie przesuwa granicy dalej. Odbiera pytającemu prawo do jej wyznaczania. Na końcu pytanie brzmi już inaczej niż na początku i to jest puenta.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Fałszywy obraz Boga, który ta przypowieść koryguje: Bóg jako strona umowy. Uczony pyta, co ma czynić, żeby dostać życie wieczne, a potem o najmniejszy zakres obowiązku, który wystarczy. W takim układzie Bóg jest dostawcą, a bliźni pozycją w rachunku. Jezus pokazuje Boga, który sam jest jak ten trzeci na drodze: nie pyta, czy musi, tylko się zatrzymuje. Na poziomie 3 to odczytanie dostaje własny blok.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest zamkniętą całością i nie wymaga znajomości wcześniejszych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole może siedzieć ktoś wyczerpany pomaganiem: opiekun chorego rodzica, matka dziecka z niepełnosprawnością, osoba, której wszyscy wchodzą na głowę. Dla niej „idź i czyń podobnie\" może zabrzmieć jak kolejny ciężar.",
+      "Ktoś może nosić wspomnienie sytuacji, w której minął potrzebującego. Nie wyciągaj takich historii.",
+      "Rozmowa łatwo skręca w bieżące spory o to, komu dziś należy pomagać. Przypowieść nie jest programem społecznym żadnej strony.",
+      "Kapłan i Lewita kuszą do uogólnień o duchownych albo o Żydach. Jezus nie atakuje żadnej grupy. Wybiera ludzi, których słuchacze szanowali."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pytaj nikogo, kogo ostatnio minął. Nie kończ listą akcji pomocowych. Nie przydzielaj ról.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie sytuację, w której ktoś obcy pomógł ci, choć wcale nie musiał: w podróży, w urzędzie, na drodze. Powiedz jednym zdaniem, co zrobił.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, krótko. Nie komentuj cudzych odpowiedzi. To spotkanie nie wymaga znajomości poprzednich.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Pytanie na próbę",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 10,25-28",
+       "przeklad": "BW",
+       "akapity": [
+        "A oto pewien uczony w zakonie wystąpił i wystawiając go na próbę, rzekł: Nauczycielu, co mam czynić, aby dostąpić żywota wiecznego? On zaś rzekł do niego: Co napisano w zakonie? Jak czytasz? A ten, odpowiadając, rzekł: Będziesz miłował Pana, Boga swego, z całego serca swego i z całej duszy swojej, i z całej myśli swojej, i z całej siły swojej, a bliźniego swego, jak siebie samego. Rzekł mu więc: Dobrze odpowiedziałeś, czyń to, a będziesz żył."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nie odpowiada, tylko odsyła uczonego do tego, co ten sam czyta. **Co uczony wie, zanim padnie choć słowo przypowieści? Czego mu w takim razie brakuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Czyń to, a będziesz żył.\" Przyłóżcie werset 27 do zwykłego tygodnia: całe serce, cała dusza, cała siła, bliźni jak ja sam. **Jak brzmi zdanie Jezusa dla kogoś, kto potraktuje je poważnie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Łukasz uprzedza, że pytanie było próbą. **Co w sposobie, w jaki Jezus rozmawia, pokazuje, że nie traktuje rozmówcy jak wroga?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** Rozdział wcześniej Łukasz zapisał, że Jezus postanowił pójść do Jerozolimy. Od tej chwili wszystko dzieje się w drodze. Pierwszą miejscowością na trasie była wioska samarytańska, która Go nie przyjęła. Potem Jezus rozesłał przed sobą dużą grupę uczniów, a ci wrócili z radością. Rozmowa z uczonym w zakonie stoi zaraz po ich powrocie. Tuż po niej Łukasz stawia scenę w domu Marty i Marii. Przypowieść o Samarytaninie zapisał tylko on.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Uczony w zakonie to znawca Prawa Mojżesza, ktoś pomiędzy prawnikiem a teologiem. Odpowiada dwoma cytatami. Pierwszy pochodzi z wyznania wiary Izraela z Księgi Powtórzonego Prawa, które pobożny Żyd odmawiał codziennie. Drugi pochodzi z Księgi Kapłańskiej. Pytanie, kogo obejmuje słowo „bliźni\", było w tamtych czasach prawdziwym sporem. Jedni czytali je szeroko, inne wspólnoty zawężały je do swoich.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Bliźni w Księdze Kapłańskiej",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kpł 19,17-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie będziesz chował w sercu swoim nienawiści do brata swego. Będziesz gorliwie upominał bliźniego swego, abyś nie ponosił za niego grzechu. Nie będziesz się mścił i nie będziesz chował urazy do synów twego ludu, lecz będziesz miłował bliźniego swego jak siebie samego. Jam jest Pan!"
+       ]
+      },
+      {
+       "odnosnik": "Kpł 19,33-34",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeżeli w waszej ziemi zamieszka z tobą obcy przybysz, nie będziesz go gnębił. Obcy przybysz, który mieszka z wami, niech będzie jako tubylec wpośród was samych; będziesz go miłował jak siebie samego, gdyż i wy byliście obcymi przybyszami w ziemi egipskiej; Ja, Pan, jestem Bogiem waszym."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W wersecie 18 bliźni stoi obok „synów twego ludu\". **Jak można było na tej podstawie zawęzić przykazanie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Kilkanaście wersetów dalej te same słowa, „miłował jak siebie samego\", dotyczą kogoś innego. **Kogo? Co to mówi o pytaniu, które uczony za chwilę zada?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Pytanie o granicę",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 10,29-30",
+       "przeklad": "BW",
+       "akapity": [
+        "On zaś, chcąc się usprawiedliwić, rzekł do Jezusa: A kto jest bliźnim moim? A Jezus, nawiązując do tego, rzekł: Pewien człowiek szedł z Jerozolimy do Jerycha i wpadł w ręce zbójców, którzy go obrabowali, poranili i odeszli, zostawiając go na pół umarłego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Łukasz podaje motyw: „chcąc się usprawiedliwić\". **Z czego uczony chce się usprawiedliwić? O co naprawdę pyta ktoś, kto prosi o definicję bliźniego, i jak wyobraża sobie Boga, z którym chce się w ten sposób rozliczyć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "O tym, kim ktoś jest, mówiły wtedy dwie rzeczy: strój i mowa. Człowiek przy drodze jest obrabowany i nieprzytomny. **Co o nim wiemy? Dlaczego Jezus nie mówi o nim nic więcej niż „pewien człowiek\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus mógł odpowiedzieć definicją. **Co opowieść potrafi zrobić z takim pytaniem, czego nie potrafi definicja?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Dwóch, którzy widzieli",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 10,31-32",
+       "przeklad": "BW",
+       "akapity": [
+        "Przypadkiem szedł tą drogą jakiś kapłan i zobaczywszy go, przeszedł mimo. Podobnie i Lewita, gdy przyszedł na to miejsce i zobaczył go, przeszedł mimo."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Na tych, którzy minęli, Jezus mógł wybrać celnika i zbójcę. Wybrał kapłana i Lewitę, czyli ludzi świątyni. **Co chce przez to powiedzieć człowiekowi, który zawodowo zajmuje się Prawem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przypowieść nie podaje ani jednego powodu. **Jakie powody sami dopisujecie tym dwóm w myślach? Co to mówi o nas, że przychodzą nam do głowy tak łatwo?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Przypadkiem szedł tą drogą.\" **Co to słowo robi w tej historii? Czy ktokolwiek z trzech podróżnych planował to spotkanie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Kapłan miał powód, który dałoby się obronić. Prawo zakazywało mu dotykania zmarłego spoza najbliższej rodziny, a każdy, kto dotknął zwłok, był nieczysty przez siedem dni. Człowiek na pół umarły wygląda z daleka jak umarły. Ta obrona działa jednak tylko wtedy, gdy leżący naprawdę nie żyje, a tego kapłan nie sprawdził. Rabini uczyli z czasem, że ratowanie życia idzie przed przepisami czystości. Lewita podszedł bliżej, zobaczył i też odszedł. Jezus nie opowiada o ludziach złych. Opowiada o porządnych.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Czego chce Bóg",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Oz 6,6",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdyż miłości chcę, a nie ofiary, i poznania Boga, nie całopaleń."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Kapłan i Lewita służyli przy ofiarach. **Co prorok mówi o kolejności rzeczy, na których zależy Bogu? Jak to zdanie brzmi na drodze do Jerycha?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Oliwa i wino były w Prawie także darami składanymi przy ołtarzu. Przeczytajcie werset 34. **Kto w tej historii wylał je tam, gdzie Bóg ich w tej chwili chciał?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Trzeci",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 10,33-35",
+       "przeklad": "BW",
+       "akapity": [
+        "Pewien Samarytanin zaś, podróżując tędy, podjechał do niego i ujrzawszy, ulitował się nad nim. I podszedłszy opatrzył rany jego, zalewając je oliwą i winem, po czym wsadził go na swoje bydlę, zawiózł do gospody i opiekował się nim. A nazajutrz dobył dwa denary, dał je gospodarzowi i rzekł: Opiekuj się nim, a co wydasz ponad to, ja w drodze powrotnej oddam ci."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Po kapłanie i Lewicie słuchacz czekał na trzeciego: zwykłego, pobożnego Izraelitę. Pada słowo „Samarytanin\". **Co stało się w tej chwili ze słuchaczami?** Pomyślcie w ciszy, kogo Jezus musiałby postawić w tym miejscu, żeby podobnie zabolało was. Nie mówcie tego na głos.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Kapłan i Lewita dostają po jednym zdaniu. Samarytanin dostaje trzy długie. **Dlaczego miłosierdzie zajmuje w tej opowieści tyle miejsca? Czego nie da się w nim streścić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Samarytanin wiezie pobitego do gospody i zostaje w niej na noc, w okolicy, w której sam jest obcy i niemile widziany. **Czym ryzykuje? Co zostawia po sobie oprócz pieniędzy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Wrogość była stara i wzajemna. Około stu pięćdziesięciu lat wcześniej żydowski władca zburzył samarytańską świątynię na górze Garizim. Z kolei galilejscy pielgrzymi idący przez Samarię do Jerozolimy bywali napadani, co potwierdzają źródła spoza Biblii. W pismach rabinów zachowało się powiedzenie, że chleb Samarytan jest jak wieprzowina, choć nie wszyscy nauczyciele się z nim zgadzali. Dwa denary to dwie dniówki robotnika. Ważniejsze jest zdanie, które pada potem: co wydasz ponad to, oddam. Samarytanin podpisuje rachunek bez górnej granicy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ludzie z Samarii, droga do Jerycha",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Krn 28,14-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy wojownicy zwolnili jeńców, a łup zostawili przed naczelnikami i całym zgromadzeniem, mężowie zaś, których imiennie wyznaczono, wystąpili i zajęli się jeńcami: wszystkich nagich przyodziali odzieżą z łupu, przyodziali ich, obuli, nakarmili, napoili i namaścili, kulejących wsadzili na osły i zawiedli do Jerycha, miasta palm, do ich współplemieńców, sami zaś powrócili do Samarii."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To scena sprzed kilkuset lat: ludzie z Samarii odsyłają do domu jeńców wziętych z Judy. **Które szczegóły wracają w przypowieści? Co Jezus mógł w ten sposób przypominać człowiekowi, który znał Pisma na pamięć?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ogień z nieba",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 9,51-56",
+       "przeklad": "BW",
+       "akapity": [
+        "I stało się, gdy dopełniały się dni, kiedy miał być wzięty do nieba i postanowił pójść do Jerozolimy, że wysłał przed sobą posłańców. A ci w drodze wstąpili do wioski samarytańskiej, aby mu przygotować gospodę. Lecz nie przyjęli go, dlatego, że droga jego prowadziła do Jerozolimy. A gdy to widzieli uczniowie Jakub i Jan, rzekli: Panie, czy chcesz, abyśmy słowem ściągnęli ogień z nieba, który by ich pochłonął, jak to i Eliasz uczynił? A On, obróciwszy się, zgromił ich i rzekł: Nie wiecie, jakiego ducha jesteście. Albowiem Syn Człowieczy nie przyszedł zatracać dusze ludzkie, ale je zachować. I poszli do innej wioski."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakub i Jan mieli świeżą urazę, biblijny precedens i honor Nauczyciela do obrony. Niedługo potem słyszą przypowieść, w której bohaterem jest Samarytanin. **Jak ona brzmiała w ich uszach?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezusa naprawdę źle potraktowano w samarytańskiej wiosce. **Co to mówi o Nim, że mimo to właśnie Samarytanina czyni wzorem?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Ulitował się\" z wersetu 33 to grecki czasownik `splanchnizomai`. Pochodzi od słowa oznaczającego wnętrzności i opisuje poruszenie, które czuje się w brzuchu. Łukasz używa go tylko trzy razy. Raz o Jezusie, który widzi wdowę idącą za trumną jedynego syna. Raz o Samarytaninie. I raz o ojcu z innej przypowieści:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 15,20",
+       "przeklad": "BW",
+       "akapity": [
+        "Wstał i poszedł do ojca swego. A gdy jeszcze był daleko, ujrzał go jego ojciec, użalił się i pobiegłszy rzucił mu się na szyję, i pocałował go."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Samarytanin dostaje czasownik, który Łukasz poza tym zostawia dla Jezusa i dla ojca wybiegającego na drogę. **Co to mówi o tym, czyj portret Jezus maluje w tej postaci?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: wzór czy portret",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Tę przypowieść czyta się na dwa sposoby. W pierwszym jest przykładem: tak wygląda miłość bliźniego, a ostatnie zdanie mówi wprost „idź i ty czyń podobnie\". W drugim, znanym od starożytności, jest najpierw portretem: to Chrystus schodzi drogą w dół, zatrzymuje się przy człowieku, którego religia minęła, opatruje go, płaci i obiecuje wrócić. Czytelnik jest wtedy najpierw tym przy drodze. Przeciwnicy sami podsunęli Jezusowi tę rolę:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 8,48",
+       "przeklad": "BW",
+       "akapity": [
+        "Odpowiadając, Żydzi rzekli do niego: Czyż nie mówimy słusznie, że jesteś Samarytaninem i masz demona?"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co w samym tekście Łukasza przemawia za pierwszym odczytaniem, a co pozwala na drugie?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Oba odczytania zgadzają się w jednym: miłosierdzia nie da się z siebie wycisnąć samym postanowieniem. **Co zmienia się w zdaniu „idź i czyń podobnie\", kiedy słyszy je ktoś, kto pamięta, że sam został podniesiony z drogi?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Odwrócone pytanie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 10,36-37",
+       "przeklad": "BW",
+       "akapity": [
+        "Który z tych trzech, zdaniem twoim, był bliźnim temu, który wpadł w ręce zbójców? A on rzekł: Ten, który się ulitował nad nim. Rzekł mu Jezus: Idź, i ty czyń podobnie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Połóżcie obok siebie pytanie uczonego z wersetu 29 i pytanie Jezusa z wersetu 36. **Co się zmieniło? Kto jest w każdym z nich bliźnim: ten, komu się pomaga, czy ten, kto pomaga?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Uczony odpowiada poprawnie, ale okrężnie. **Jakiego słowa unika? Co to mówi o tym, jak głęboko ta opowieść w niego weszła i jak daleko jeszcze ma do przejścia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Rozmowa zaczęła się od pytania „co mam czynić, aby dostąpić żywota wiecznego\". **Czy Jezus na nie odpowiedział? Jak?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Już ci oznajmiono",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mi 6,8",
+       "przeklad": "BW",
+       "akapity": [
+        "Oznajmiono ci, człowiecze, co jest dobre i czego Pan żąda od ciebie: tylko, abyś wypełniał prawo, okazywał miłość bratnią i w pokorze obcował ze swoim Bogiem."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Prorok mówi, że to, czego Bóg żąda, zostało już oznajmione. Uczony też znał odpowiedź, zanim zapytał. **Czego w takim razie brakuje człowiekowi, który wie? Czym pytanie o definicję bywa w życiu wierzącego?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Każdy z mijających miał pewnie dobry powód. **Jakie są twoje najczęstsze dobre powody? Który z nich brzmi najbardziej pobożnie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Uczony pytał o granicę obowiązku. **Gdzie ty zadajesz Bogu pytanie „a kogo już nie muszę\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy był w twoim życiu moment, w którym to ty leżałeś przy drodze? Kto się zatrzymał i co to w tobie zmieniło?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Samarytanin spotyka jednego rannego na jednej drodze i następnego dnia jedzie dalej. **Co z kimś, kto na swojej drodze co tydzień mija kogoś leżącego? Czy miłosierdzie ma granice czasu, sił i pieniędzy, a jeśli ma, to kto je wyznacza, skoro uczonemu Jezus odebrał prawo do definicji?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie rozstrzygaj. Warto tylko zauważyć dwie rzeczy z tekstu. Samarytanin nie zamieszkał w gospodzie: zrobił, co było do zrobienia, włączył w opiekę gospodarza i pojechał dalej. A pytanie Jezusa nie brzmi „ilu pomogłeś\", tylko „kim się stałeś dla tego, kogo spotkałeś\".",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bliźniego nie da się zdefiniować. Można się nim tylko stać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Łk 10,36-37 albo Łk 10,33.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przyjrzyj się trasom, którymi chodzisz: w pracy, w rodzinie, w kościele. **Czy jest ktoś, kogo omijasz tak starannie, że już prawie go nie widzisz?** Nie planuj od razu, co z tym zrobisz. Najpierw pozwól sobie go zobaczyć.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zapytaj Boga o swoje dobre powody. **Który z nich jest prawdziwy, a który tylko dobrze brzmi?** Zostań przy tym pytaniu, nawet jeśli odpowiedź będzie niewygodna.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** pomyśl o kimś z grupy ludzi, od której nie chciałbyś przyjąć pomocy. Zapytaj siebie, co by się musiało w tobie zmienić, żebyś mógł powiedzieć o nim słowo, którego uczony nie umiał wymówić.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś wyczerpany opieką nad bliskim mówi: „Ja już nie mam siły nikomu pomagać.\"** Nie dokładaj mu przypowieścią. Powiedz, że on tę historię zna od środka lepiej niż większość przy stole. Możesz zauważyć, że Samarytanin nie niósł rannego sam do końca: zawiózł go do gospody i poprosił gospodarza o dalszą opiekę. Proszenie o pomoc należy do tej przypowieści. Po spotkaniu zapytaj, czego ta osoba potrzebuje od grupy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli wystarczy być dobrym człowiekiem, wiara jest niepotrzebna.\"** Rozmowa zaczyna się od przykazania miłości Boga całym sercem i dopiero z niego wychodzi bliźni. Zapytaj: „Kto z nas może powiedzieć, że czyni werset 27?\" Przypowieść nie obniża poprzeczki. Pokazuje, że jest wyżej, niż uczony myślał.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa skręca w bieżącą politykę: komu dziś należy pomagać, a komu nie.** Przerwij spokojnie. Powiedz, że przypowieść nie rozstrzyga sporów o ustawy, tylko pyta każdego o człowieka, którego spotyka na własnej drodze. Wróć do wersetu 36.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Księża i pastorzy zawsze tacy byli.\"** Albo uogólnienie o Żydach. Nie podejmuj. Jezus wybrał kapłana i Lewitę dlatego, że słuchacze ich szanowali. Dziś w tym miejscu stałby ktoś, kogo my szanujemy, być może my sami. Uczony w zakonie też jest Żydem i to on na końcu odpowiada poprawnie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś ze wstydem wspomina, jak kiedyś nie pomógł.** Wysłuchaj, podziękuj, nie rozgrzeszaj i nie dociskaj. Możesz powiedzieć, że ta historia nie kończy się wyrokiem na kapłana, tylko zdaniem „idź\", które otwiera następny dzień.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś pyta, czy trzeba pomagać także temu, kto wykorzystuje albo krzywdzi.** Przypowieść mówi o człowieku, który leży na pół umarły, nie o kimś, kto nas rani. Miłosierdzie nie oznacza zgody na krzywdę. Jeśli za pytaniem stoi konkretna sytuacja przemocy, porozmawiaj po spotkaniu i pomóż znaleźć pomoc specjalistyczną.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Skróć blok 1. Bloki 2 i 5 muszą zostać oba, bo dopiero razem pokazują, że pytanie zostało odwrócone.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś wyczerpany opieką nad bliskim mówi: „Ja już nie mam siły nikomu pomagać.\"",
+     "odpowiedz": "Nie dokładaj mu przypowieścią. Powiedz, że on tę historię zna od środka lepiej niż większość przy stole. Możesz zauważyć, że Samarytanin nie niósł rannego sam do końca: zawiózł go do gospody i poprosił gospodarza o dalszą opiekę. Proszenie o pomoc należy do tej przypowieści. Po spotkaniu zapytaj, czego ta osoba potrzebuje od grupy."
+    },
+    {
+     "sytuacja": "„Czyli wystarczy być dobrym człowiekiem, wiara jest niepotrzebna.\"",
+     "odpowiedz": "Rozmowa zaczyna się od przykazania miłości Boga całym sercem i dopiero z niego wychodzi bliźni. Zapytaj: „Kto z nas może powiedzieć, że czyni werset 27?\" Przypowieść nie obniża poprzeczki. Pokazuje, że jest wyżej, niż uczony myślał."
+    },
+    {
+     "sytuacja": "Rozmowa skręca w bieżącą politykę: komu dziś należy pomagać, a komu nie.",
+     "odpowiedz": "Przerwij spokojnie. Powiedz, że przypowieść nie rozstrzyga sporów o ustawy, tylko pyta każdego o człowieka, którego spotyka na własnej drodze. Wróć do wersetu 36."
+    },
+    {
+     "sytuacja": "„Księża i pastorzy zawsze tacy byli.\"",
+     "odpowiedz": "Albo uogólnienie o Żydach. Nie podejmuj. Jezus wybrał kapłana i Lewitę dlatego, że słuchacze ich szanowali. Dziś w tym miejscu stałby ktoś, kogo my szanujemy, być może my sami. Uczony w zakonie też jest Żydem i to on na końcu odpowiada poprawnie."
+    },
+    {
+     "sytuacja": "Ktoś ze wstydem wspomina, jak kiedyś nie pomógł.",
+     "odpowiedz": "Wysłuchaj, podziękuj, nie rozgrzeszaj i nie dociskaj. Możesz powiedzieć, że ta historia nie kończy się wyrokiem na kapłana, tylko zdaniem „idź\", które otwiera następny dzień."
+    },
+    {
+     "sytuacja": "Ktoś pyta, czy trzeba pomagać także temu, kto wykorzystuje albo krzywdzi.",
+     "odpowiedz": "Przypowieść mówi o człowieku, który leży na pół umarły, nie o kimś, kto nas rani. Miłosierdzie nie oznacza zgody na krzywdę. Jeśli za pytaniem stoi konkretna sytuacja przemocy, porozmawiaj po spotkaniu i pomóż znaleźć pomoc specjalistyczną."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Skróć blok 1. Bloki 2 i 5 muszą zostać oba, bo dopiero razem pokazują, że pytanie zostało odwrócone."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,885 @@
+{
+ "tytul": "Pszenica i kąkol",
+ "id": "PJ-07",
+ "seria": "Przypowieści Jezusa",
+ "opis": "Skąd zło na Bożym polu, dlaczego Bóg nie wyrywa go od razu i czyje ręce zrobią to na końcu.",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Mt 13,24-26; Mt 13,27-28; Mt 13,29-30; Mt 13,36-39; Mt 13,40-43",
+  "p2": "Iz 5,3-4; Łk 13,16; Łk 9,51-56; J 13,26-30; 1Kor 4,5; Mt 13,47-50; Ez 33,11",
+  "p3": "Mt 18,15-17; 1Kor 5,12-13; Ml 3,19; Dn 12,3; Ap 6,9-10"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 33
+ },
+ "tagi": [
+  "przypowieści",
+  "zło",
+  "cierpliwość Boga",
+  "osądzanie",
+  "Kościół",
+  "sąd"
+ ],
+ "wersja": 1,
+ "zdanie": "Kąkol nie jest od Boga i nie zostanie na zawsze. Do żniwa Bóg chroni pszenicę, także przed naszą gorliwością.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Słudzy zadają gospodarzowi dwa pytania i oba są nasze. Pierwsze: skąd kąkol, skoro pole jest twoje i ziarno było dobre. Drugie: czy mamy iść i go wyrwać. Na pierwsze gospodarz odpowiada jednym zdaniem, które zdejmuje z niego winę. Na drugie odpowiada „nie\" i podaje powód, którym jest troska o pszenicę. Spotkanie ma doprowadzić grupę do dwóch rzeczy: Bóg nie jest autorem zła i nie jest wobec niego obojętny, a Jego cierpliwość ma adres i ma koniec.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Każda przypowieść Jezusa poprawia jakiś fałszywy obraz Boga. Ta poprawia dwa naraz. Pierwszy to Bóg, który sam zasiał to, co boli, albo patrzy na to spokojnie i nic nie robi. Drugi to Bóg niecierpliwy, któremu trzeba pomóc motyką, zanim zdąży sam. Warto pamiętać o zasadzie czytania przypowieści: jest zwierciadłem jednej prawdy, a nie regulaminem, więc nie buduje się nauki na pobocznych szczegółach. Tutaj Jezus sam podaje wykład, co ułatwia sprawę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest zamkniętą całością i nie wymaga znajomości wcześniejszych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole może siedzieć ktoś skrzywdzony, dla kogo „pozwólcie róść razem\" brzmi jak zgoda Boga na krzywdę. Zobacz pierwszą czerwoną flagę.",
+      "Rozmowa łatwo zamienia się w wyliczanie kąkolu: w zborze, w innych kościołach, w polityce. Przypowieść odbiera nam dokładnie tę robotę.",
+      "Ktoś wrażliwy zacznie się bać, że sam jest kąkolem.",
+      "Osoba spoza kościoła może pierwszy raz słyszeć, że diabeł jest kimś realnym. Nie trzeba jej do tego przekonywać, wystarczy czytać tekst."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie wskazuj nikogo, ani po imieniu, ani aluzją. Nie rób z zakazu wyrywania zakazu stawiania granic złu. Nie strasz piecem ognistym i nie łagodź go. Nie podpisuj cudzego nieszczęścia wolą Bożą.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie sytuację, w której byłeś pewny, że dobrze kogoś oceniłeś, a potem okazało się, że się pomyliłeś. Powiedz jednym zdaniem, w którą stronę była ta pomyłka.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, jednym zdaniem i bez nazwisk. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Kiedy ludzie spali",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 13,24-26",
+       "przeklad": "BW",
+       "akapity": [
+        "Inne podobieństwo podał im, mówiąc: Podobne jest Królestwo Niebios do człowieka, który posiał dobre nasienie na swojej roli. A kiedy ludzie spali, przyszedł jego nieprzyjaciel i nasiał kąkolu między pszenicę, i odszedł. A gdy zboże podrosło i wydało owoc, wtedy się pokazał i kąkol."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Nieprzyjaciel nie pali pola i nie rozrzuca kamieni. Sieje coś, co przez długi czas wygląda jak plon. **Co ta metoda mówi o tym, jak działa zło?** Po czym w końcu je widać?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zło w tej historii nie ma własnego pola. Sieje na cudzym i odchodzi. **Co z tego wynika dla pytania, do kogo należy świat?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Tekst mówi, że ludzie spali, i nikomu tego nie wyrzuca. **Dlaczego Jezus nie robi z tej przypowieści historii o czyimś zaniedbaniu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Kąkol z tej przypowieści to najpewniej życica, trujący sobowtór pszenicy. Dopóki zboże się nie wykłosi, obu roślin prawie nie da się odróżnić. Dojrzałe ziarno życicy ciemnieje, a zmielone razem z pszenicą psuje mąkę i szkodzi ludziom. Zasianie jej komuś w zbożu nie było pomysłem bajkowym. Znano taki sposób zemsty na tyle dobrze, że prawo przewidywało za niego karę. Słuchacze nad jeziorem wiedzieli więc od razu, że ktoś tu chciał zniszczyć cały plon cudzymi rękami.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** Trzynasty rozdział Mateusza to jeden dzień nad Jeziorem Galilejskim. Jezus siedzi w łodzi, tłum stoi na brzegu i słucha przypowieści o królestwie. Pierwsza była o siewcy, ta jest druga. Potem Jezus odprawia tłum, wchodzi do domu i tam uczniowie proszą Go o wyjaśnienie właśnie tej historii. To jedna z dwóch przypowieści, które Jezus sam wykłada punkt po punkcie.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Ludzie czekali na królestwo Boże jak na dzień, w którym zło zniknie, a sprawiedliwi zostaną sami. Jezus ogłaszał, że królestwo już przyszło, a wokół nic się nie zmieniło: Rzym rządził, chorzy chorowali, Jan Chrzciciel siedział w więzieniu. Przypowieść odpowiada na pytanie, które musiało paść: jak to może być królestwo, skoro zło ma się dobrze.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jakie pytanie pod adresem Boga nosił w sobie ktoś, kto uwierzył Jezusowi i wrócił wieczorem do tego samego świata?** Czy to pytanie się zestarzało?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Skąd ma ona kąkol",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 13,27-28",
+       "przeklad": "BW",
+       "akapity": [
+        "Przyszli więc słudzy gospodarza i powiedzieli mu: Panie, czy nie posiałeś dobrego nasienia na swojej roli? Skąd więc ma ona kąkol? A on im rzekł: To nieprzyjaciel uczynił. A słudzy mówią do niego: Czy chcesz więc, abyśmy poszli i wybrali go?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Pierwsze pytanie sług zawiera cichy zarzut: może ziarno nie było dobre. **Kiedy ludzie zadają Bogu to samo pytanie?** Co mówi o pytającym to, że widok kąkolu w ogóle go dziwi?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Gospodarz odpowiada krótko: „To nieprzyjaciel uczynił\". **Co to zdanie wyklucza?** Ile rzeczy podpisujemy na co dzień wolą Bożą, choć według tej odpowiedzi nie są od Niego?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Gospodarz mówi, kto to zrobił. Nie mówi, dlaczego do tego doszło ani czemu nie postawił straży. **Na co ta odpowiedź wystarcza, a na co nie?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dwa razy ten sam głos",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 13,16",
+       "przeklad": "BW",
+       "akapity": [
+        "A czy tej córki Abrahama, którą szatan związał już od osiemnastu lat, nie należało rozwiązać od tych pęt w dniu sabatu?"
+       ]
+      },
+      {
+       "odnosnik": "Iz 5,3-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Teraz więc, obywatele jeruzalemscy i mężowie judzcy, rozsądźcie między mną i między moją winnicą! Cóż jeszcze należało uczynić mojej winnicy, czego ja jej nie uczyniłem? Dlaczego oczekiwałem, że wyda szlachetne grona, a ona wydała złe owoce?"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "O pochylonej kobiecie Jezus mówi, że związał ją szatan. Nie bierze na siebie jej choroby, bierze na siebie jej wyprostowanie. **Jak ta scena pomaga usłyszeć zdanie „to nieprzyjaciel uczynił\"?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "U Izajasza Bóg sam prosi ludzi, żeby ocenili Jego pracę przy winnicy. **Co mówi o Bogu to, że poddaje się takiemu osądowi, zamiast go zakazać?** Jak to się ma do czekania aż do żniwa?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Pozwólcie róść razem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 13,29-30",
+       "przeklad": "BW",
+       "akapity": [
+        "A on odpowiada: Nie! Abyście czasem wybierając kąkol, nie powyrywali wraz z nim i pszenicy. Pozwólcie obydwom róść razem aż do żniwa. A w czasie żniwa powiem żeńcom: Zbierzcie najpierw kąkol i powiążcie go w snopki na spalenie, a pszenicę zwieźcie do mojej stodoły."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Gospodarz podaje jeden powód swojego „nie\". **O kogo się boi? Czego ten powód nie zawiera?** Sprawdźcie, czy jest w nim obojętność wobec kąkolu albo wątpliwość, czy żniwo przyjdzie.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Słudzy mieli dobre chęci. **Co stałoby się z polem, gdyby gospodarz się zgodził? Czyj plan by wtedy dokończyli?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Gospodarz mówi o żeńcach, nie o sługach. **Jaką rolę przy żniwach przewidziano dla tych, którzy chcieli wyrywać?** Co to mówi o naszych kompetencjach?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Rolnik rozumiał tę odmowę od strony gleby. Zanim zboże się wykłosi, liście obu roślin różnią się ledwie szerokością. Kiedy różnicę wreszcie widać, korzenie są już splecione pod ziemią i kto ciągnie za jedno, wyrywa drugie. Przypowieść nie każe udawać, że kąkolu nie ma, i nie odwołuje żniwa. Odkłada je i oddaje w inne ręce. Rozdzielenie ma swój czas i swoich wykonawców.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ogień z nieba i kawałek chleba",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 9,51-56",
+       "przeklad": "BW",
+       "akapity": [
+        "I stało się, gdy dopełniały się dni, kiedy miał być wzięty do nieba i postanowił pójść do Jerozolimy, że wysłał przed sobą posłańców. A ci w drodze wstąpili do wioski samarytańskiej, aby mu przygotować gospodę. Lecz nie przyjęli go, dlatego, że droga jego prowadziła do Jerozolimy. A gdy to widzieli uczniowie Jakub i Jan, rzekli: Panie, czy chcesz, abyśmy słowem ściągnęli ogień z nieba, który by ich pochłonął, jak to i Eliasz uczynił? A On, obróciwszy się, zgromił ich i rzekł: Nie wiecie, jakiego ducha jesteście. Albowiem Syn Człowieczy nie przyszedł zatracać dusze ludzkie, ale je zachować. I poszli do innej wioski."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakub i Jan zadają pytanie sług prawie słowo w słowo: czy chcesz, abyśmy. **Co w odpowiedzi Jezusa jest takie samo jak w odpowiedzi gospodarza?** Kilka lat później Samaria przyjęła ewangelię, a Jan był jednym z tych, którzy tam poszli. Co by było, gdyby ogień spadł?",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 13,26-30",
+       "przeklad": "BW",
+       "akapity": [
+        "A Jezus mu odpowiedział: To jest ten, któremu Ja podam umoczony kawałek chleba. Wziął więc kawałek, umoczył go i dał Judaszowi Iskariocie, synowi Szymona. A zaraz potem wszedł w niego szatan. Rzekł więc do niego Jezus: Czyń zaraz, co masz czynić. Ale tego żaden ze współsiedzących nie zrozumiał, po co mu to rzekł. A ponieważ Judasz był skarbnikiem, mniemali niektórzy, iż Jezus mu rzekł: Nakup, czego nam trzeba na święto, lub żeby coś dał ubogim. On więc, wziąwszy kawałek chleba, natychmiast wyszedł, a była noc."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus wiedział o Judaszu od dawna. Przez trzy lata nie zdemaskował go ani razu, powierzył mu sakiewkę, a w ostatni wieczór podał mu chleb. Jedenastu do końca niczego nie podejrzewało. **Jak Jezus sam praktykował przy stole to, co opowiedział nad jeziorem?** Co uczniowie pomyśleliby o Nim, gdyby usunął Judasza rok wcześniej bez słowa wyjaśnienia?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Greckie `zizania`, oddane w BW jako „kąkol\", oznacza konkretny chwast zbożowy, nie zielsko w ogóle. Polskie słowo „kąkol\" nazywa dziś inną roślinę, o różowych kwiatach, którą widać w zbożu z daleka. Tamta podobieństwa do pszenicy nie ma, więc cały sens przypowieści wisi na tym, że chodzi o sobowtóra.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Drugie słowo to `skandala` z wersetu 41, w BW „zgorszenia\". Pierwotnie nazywało pułapkę albo przeszkodę, o którą człowiek się potyka. Aniołowie zbiorą z królestwa najpierw rzeczy, przez które ludzie upadają, a dopiero potem tych, którzy popełniają nieprawość.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia w słuchaniu przypowieści to, że kąkol jest podróbką pszenicy, a nie zwykłym chwastem?** Gdzie dziś zło najskuteczniej wygląda jak plon?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Rola to świat",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jezus odprawia tłum i wchodzi do domu. Uczniowie proszą o wyjaśnienie tylko tej jednej przypowieści.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 13,36-39",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy rozpuścił lud i poszedł do domu. I przystąpili do niego uczniowie jego, mówiąc: Wyłóż nam podobieństwo o kąkolu na roli. A On odpowiadając, rzekł: Ten, który sieje dobre nasienie, to Syn Człowieczy. Rola zaś, to świat, a dobre nasienie, to synowie Królestwa, kąkol zaś, to synowie Złego. A nieprzyjaciel, który go posiał, to diabeł, a żniwo, to koniec świata, żeńcy zaś, to aniołowie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus wyjaśnia siedem obrazów: siewcę, rolę, dobre nasienie, kąkol, nieprzyjaciela, żniwo i żeńców. **Kogo na tej liście brakuje, choć w przypowieści mówił najwięcej?** Co może znaczyć to milczenie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Rola zaś, to świat\". **Jak czyta się tę przypowieść, gdy polem jest cały świat, a jak, gdy ktoś zawęzi ją do swojego zboru?** Co w obu przypadkach zostaje takie samo?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Kłos to nie człowiek. Źdźbło kąkolu nigdy nie stanie się pszenicą. **Czy o człowieku można powiedzieć to samo?** Na co w takim razie Bóg przeznacza czas do żniwa?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie przed czasem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Kor 4,5",
+       "przeklad": "BW",
+       "akapity": [
+        "Przeto nie sądźcie przed czasem, dopóki nie przyjdzie Pan, który ujawni to, co ukryte w ciemności, i objawi zamysły serc; a wtedy każdy otrzyma pochwałę od Boga."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nie mówi, że sądu nie będzie. Mówi: nie przed czasem. **Czego nam brakuje, żeby sądzić już teraz?** Zwróćcie uwagę, czym ten werset się kończy. Czego Paweł spodziewa się po dniu, w którym wyjdą na jaw zamysły serc?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr przy tym samym stole co Judasz najgłośniej zapewniał o swojej wierności. **Co by było, gdyby to Piotra oceniano po nocy na dziedzińcu arcykapłana?** Co ta historia mówi o kąkolu, który rośnie nie obok mnie, tylko we mnie?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czy przypowieść zakazuje porządku w zborze",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Skoro nie wolno wyrywać, to czy wspólnota może kogokolwiek upomnieć albo wyłączyć? Trudność jest realna, bo ten sam Mateusz kilka rozdziałów dalej zapisuje coś, co wygląda na przeciwne polecenie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 18,15-17",
+       "przeklad": "BW",
+       "akapity": [
+        "A jeśliby zgrzeszył brat twój, idź, upomnij go sam na sam; jeśliby cię usłuchał, pozyskałeś brata swego. Jeśliby zaś nie usłuchał, weź z sobą jeszcze jednego lub dwóch, aby na oświadczeniu dwu lub trzech świadków była oparta każda sprawa. A jeśliby ich nie usłuchał, powiedz zborowi; a jeśliby zboru nie usłuchał, niech będzie dla ciebie jak poganin i celnik."
+       ]
+      },
+      {
+       "odnosnik": "1Kor 5,12-13",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo czy to moja rzecz sądzić tych, którzy są poza zborem? Czy to nie wasza rzecz sądzić raczej tych, którzy są w zborze? Tych tedy, którzy są poza nami, Bóg sądzić będzie. Usuńcie tego, który jest zły, spośród siebie."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Są dwa sposoby czytania. Pierwszy trzyma się słów Jezusa, że rolą jest świat: przypowieść tłumaczy, dlaczego królestwo rośnie obok zła, i w ogóle nie zajmuje się porządkiem wspólnoty, który ma własne teksty. Drugi od wczesnych wieków odnosi ją także do Kościoła, bo mieszanina nie zatrzymuje się na jego progu, i widzi w niej hamulec dla gorliwości, która chce wspólnoty złożonej z samych czystych. Oba odczytania łączy rozróżnienie: wspólnota ma prawo i obowiązek reagować na jawne czyny, według jasnej procedury i po to, żeby brata pozyskać. Nie ma prawa orzekać o czyimś sercu ani o czyimś ostatecznym losie. Historia pokazała, co się dzieje, gdy słudzy mimo zakazu ruszają z motykami: przez stulecia więziono i palono ludzi za herezję, prawdziwą albo urojoną, w przekonaniu, że sprząta się Boże pole.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdzie przebiega granica między reagowaniem na czyjś czyn a wyrokowaniem o człowieku?** Po czym poznać, że wspólnota ją przekroczyła?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mateusz każe traktować upartego jak poganina i celnika. **Jak Jezus traktował pogan i celników?** Co to zmienia w rozumieniu tego polecenia?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Jak słońce",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 13,40-43",
+       "przeklad": "BW",
+       "akapity": [
+        "Jak tedy zbiera się kąkol i pali w ogniu, tak będzie przy końcu świata. Syn Człowieczy pośle swoich aniołów i zbiorą z Królestwa jego wszystkie zgorszenia, i tych, którzy popełniają nieprawość, i wrzucą ich do pieca ognistego; tam będzie płacz i zgrzytanie zębów. Wtedy sprawiedliwi zajaśnieją jak słońce w Królestwie Ojca swego. Kto ma uszy, niechaj słucha!"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Cierpliwość gospodarza ma koniec. **Dla kogo wiadomość, że zło zostanie kiedyś zebrane i usunięte, jest dobrą nowiną?** Pomyślcie o ludziach, którzy od lat czekają na sprawiedliwość.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ostatnie zdanie wykładu nie mówi o ogniu, tylko o słońcu i o Królestwie Ojca. **Dlaczego Jezus kończy właśnie tak?** Co by się zmieniło, gdyby skończył wersetem 42?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Rolnik pali chwasty po to, żeby ich nie było. **Co ten obraz mówi o celu ognia?** Do czego służy, a do czego nie?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Sieć i zdanie Ezechiela",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 13,47-50",
+       "przeklad": "BW",
+       "akapity": [
+        "Dalej podobne jest Królestwo Niebios do sieci, zapuszczonej w morze i zagarniającej ryby wszelkiego rodzaju, którą, gdy była pełna, wyciągnęli na brzeg, a usiadłszy dobre wybrali do naczyń, a złe wyrzucili. Tak będzie przy końcu świata; wyjdą aniołowie i wyłączą złych spośród sprawiedliwych, i wrzucą ich w piec ognisty; tam będzie płacz i zgrzytanie zębów."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Tego samego dnia Jezus opowiada drugą historię o rozdzieleniu i kończy ją tymi samymi słowami. Dopóki sieć jest w wodzie, nikt w niej nie przebiera. **Co Jezus chce utrwalić przez to powtórzenie?** Czego według was najbardziej nie chcemy w nim usłyszeć?",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ez 33,11",
+       "przeklad": "BW",
+       "akapity": [
+        "Powiedz im: Jakom żyw – mówi Wszechmocny Pan – nie mam upodobania w śmierci bezbożnego, a raczej, by się bezbożny odwrócił od swojej drogi, a żył. Zawróćcie, zawróćcie ze swoich złych dróg! Dlaczego macie umrzeć, domu izraelski?"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak to zdanie oświetla długie lato między siewem a żniwem?** Co robi przez ten czas Bóg, który tak mówi?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: piec ognisty",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Werset 42 bywa czytany jako opis mąk, które nigdy się nie skończą. Sam obraz mówi co innego: kąkol wrzucony w ogień płonie i przestaje istnieć. Prorok, od którego ten obraz pochodzi, mówi o dniu, który pali jak piec:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ml 3,19",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo oto nadchodzi dzień, który pali jak piec. Wtedy wszyscy zuchwali i wszyscy, którzy czynili zło, staną się cierniem. I spali ich ten nadchodzący dzień – mówi Pan Zastępów – tak, że im nie pozostawi ani korzenia, ani gałązki."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Chrześcijanie czytają to różnie. Jedni widzą w ogniu karę trwającą bez końca. Drudzy, w tym adwentyści, widzą ogień, który zło kończy: płacz i zgrzytanie zębów opisują grozę i żal tego dnia, a nie jego długość. Oba stanowiska zgadzają się, że sąd jest realny, że wykonuje go Bóg, a nie my, i że Jezus opowiada o nim po to, żeby nikt nie musiał znaleźć się po tamtej stronie. W numeracji części wydań werset z Malachiasza to 4,1. Pełne studium tego tematu jest w materiale „Czy Bóg mnie ukarze?\".",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 12,3",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz roztropni jaśnieć będą jak jasność na sklepieniu niebieskim, a ci, którzy wielu wiodą do sprawiedliwości, jak gwiazdy na wieki wieczne."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Który z dwóch obrazów Boga budzi więcej zaufania: Bóg, który kładzie złu kres, czy Bóg, który podtrzymuje jego ból bez końca?** Co za każdym z nich stoi w tekście, który przeczytaliście?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus kończy wykład słowami Daniela o jaśniejących sprawiedliwych. **Dlaczego sięga akurat po ten tekst?** Komu Daniel go pisał?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdzie najczęściej masz ochotę sięgnąć po motykę:** w rodzinie, w zborze, w internecie, w ocenie ludzi, którzy myślą inaczej? Co cię wtedy napędza?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Gospodarz bał się o pszenicę. **Czy pamiętasz sytuację, w której czyjaś gorliwość w tępieniu zła zraniła kogoś niewinnego?** Co by w niej zmieniło zdanie „pozwólcie róść razem\"?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy jest kąkol, który rozpoznajesz we własnym sercu, i jak słuchasz dziś wiadomości, że Bóg nie wyrywa cię razem z nim?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 6,9-10",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy zdjął piątą pieczęć, widziałem poniżej ołtarza dusze zabitych dla Słowa Bożego i dla świadectwa, które złożyli. I wołały donośnym głosem: Kiedyż, Panie święty i prawdziwy, rozpoczniesz sąd i pomścisz krew naszą na mieszkańcach ziemi?"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Cierpliwość, która jednemu daje czas na zmianę, drugiemu wydłuża krzywdę. W Apokalipsie ofiary wołają: jak długo jeszcze. **Co gospodarz z przypowieści miałby do powiedzenia pszenicy, którą kąkol dusi przez całe lato?** Czy tekst daje jakąkolwiek odpowiedź poza tą, że żniwo przyjdzie?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie zamykaj tego pytania. To obraz z wizji, nie opis stanu zmarłych, i nie warto teraz o to się spierać. Warto natomiast, żeby padły dwie rzeczy. Biblia nie ucisza tego wołania, tylko je zapisuje. A Ten, który każe czekać, sam wszedł na pole i dał się na nim zabić, więc o koszcie tej cierpliwości nie mówi z bezpiecznej odległości.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Kąkol nie jest od Boga i nie zostanie na zawsze. Do żniwa Bóg chroni pszenicę, także przed naszą gorliwością.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Mt 13,30a albo Mt 13,43.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o człowieku, którego dawno skreśliłeś jako kąkol. Zapytaj Boga: **co Ty w nim widzisz, czego ja nie widzę?** Nie musisz niczego od razu zmieniać w tej relacji. Zostań przy pytaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przypomnij sobie coś bolesnego, co kiedyś podpisałeś wolą Bożą albo co ktoś podpisał nią za ciebie. Przyłóż do tego zdanie gospodarza: „To nieprzyjaciel uczynił\". **Co się w tobie zmienia, kiedy wina wraca tam, gdzie jej miejsce?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** uczniowie przy stole nie pytali „czy to on?\", tylko „chyba nie ja, Panie?\". Stań przed Bogiem z tym drugim pytaniem i nie odpowiadaj sobie za szybko ani potępieniem, ani uspokojeniem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś skrzywdzony mówi: „Czyli Bóg każe mi to znosić i czekać do końca świata.\"** Nie. Przypowieść odpowiada na pytanie, dlaczego zło jeszcze istnieje, a nie na pytanie, co robić z krzywdą. Zakazane jest wyrokowanie o ludziach, a nie stawianie granic. Z sytuacji krzywdy wolno i trzeba wyjść, a przestępstwo zgłasza się organom ścigania. Powiedz to wprost i nie pozwól grupie doradzać cierpliwości. Jeśli sprawa jest świeża, zostań z tą osobą po spotkaniu. Przy przemocy w rodzinie i przy myślach samobójczych nie zostawaj z tym sam: telefon zaufania dla dorosłych w kryzysie to 116 123, numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna wskazywać kąkol: w zborze, w innym kościele, w polityce.** Przerwij spokojnie. To jest dokładnie ta robota, którą gospodarz sługom odebrał. Wróć do pytania w pierwszej osobie. Możesz przypomnieć, że w wykładzie Jezusa słudzy w ogóle się nie pojawiają, a żeńcami są aniołowie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A może to ja jestem kąkolem.\"** Nie zbywaj tego i nie diagnozuj. Zauważ, że kąkol w przypowieści o nic nie pyta i niczym się nie martwi. Człowiek, który się o to boi, robi to, co uczniowie przy stole. Czas do żniwa jest w tej historii czasem łaski, nie selekcji. Jeśli lęk jest silny i trwa od dawna, zaproponuj rozmowę na osobności.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Skoro wszystko złe jest od diabła, to człowiek za nic nie odpowiada.\"** Tekst tak nie mówi. W wersecie 41 mowa jest o tych, którzy popełniają nieprawość, czyli o ludziach i ich czynach. Przypowieść zdejmuje winę z Boga, a nie z nas.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli w zborze nie wolno nikogo upomnieć ani wyłączyć.\"** To temat bloku Napięcie na poziomie 3. W skrócie: reagować na jawne czyny wolno i trzeba, a wyrokować o sercu i o czyimś zbawieniu nie wolno. Jeśli rozmowa dotyczy konkretnej sprawy z waszego zboru, przerwij ją, bo przy stole nie ma drugiej strony.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Spór o piekło i wieczne męki.** Nie rozstrzygaj dziś. Powiedz, co widać w samym obrazie: chwasty pali się po to, żeby ich nie było. Resztę odłóż do materiału „Czy Bóg mnie ukarze?\". Jeśli ktoś został wychowany w strachu przed piekłem, nie każ mu się z tego tłumaczyć.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Osoba spoza kościoła reaguje na słowo „diabeł\" uśmiechem albo oporem.** Nie przekonuj. Wystarczy powiedzieć, że Jezus mówi w tej historii o nieprzyjacielu jak o kimś realnym, i zapytać, co zmienia w obrazie Boga to, że zło ma innego autora niż On.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Połącz bloki 4 i 5 w jedno czytanie i weź z nich po jednym pytaniu kluczowym. Bloki 2 i 3 niosą całe spotkanie.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś skrzywdzony mówi: „Czyli Bóg każe mi to znosić i czekać do końca świata.\"",
+     "odpowiedz": "Nie. Przypowieść odpowiada na pytanie, dlaczego zło jeszcze istnieje, a nie na pytanie, co robić z krzywdą. Zakazane jest wyrokowanie o ludziach, a nie stawianie granic. Z sytuacji krzywdy wolno i trzeba wyjść, a przestępstwo zgłasza się organom ścigania. Powiedz to wprost i nie pozwól grupie doradzać cierpliwości. Jeśli sprawa jest świeża, zostań z tą osobą po spotkaniu. Przy przemocy w rodzinie i przy myślach samobójczych nie zostawaj z tym sam: telefon zaufania dla dorosłych w kryzysie to 116 123, numer alarmowy 112."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna wskazywać kąkol: w zborze, w innym kościele, w polityce.",
+     "odpowiedz": "Przerwij spokojnie. To jest dokładnie ta robota, którą gospodarz sługom odebrał. Wróć do pytania w pierwszej osobie. Możesz przypomnieć, że w wykładzie Jezusa słudzy w ogóle się nie pojawiają, a żeńcami są aniołowie."
+    },
+    {
+     "sytuacja": "„A może to ja jestem kąkolem.\"",
+     "odpowiedz": "Nie zbywaj tego i nie diagnozuj. Zauważ, że kąkol w przypowieści o nic nie pyta i niczym się nie martwi. Człowiek, który się o to boi, robi to, co uczniowie przy stole. Czas do żniwa jest w tej historii czasem łaski, nie selekcji. Jeśli lęk jest silny i trwa od dawna, zaproponuj rozmowę na osobności."
+    },
+    {
+     "sytuacja": "„Skoro wszystko złe jest od diabła, to człowiek za nic nie odpowiada.\"",
+     "odpowiedz": "Tekst tak nie mówi. W wersecie 41 mowa jest o tych, którzy popełniają nieprawość, czyli o ludziach i ich czynach. Przypowieść zdejmuje winę z Boga, a nie z nas."
+    },
+    {
+     "sytuacja": "„Czyli w zborze nie wolno nikogo upomnieć ani wyłączyć.\"",
+     "odpowiedz": "To temat bloku Napięcie na poziomie 3. W skrócie: reagować na jawne czyny wolno i trzeba, a wyrokować o sercu i o czyimś zbawieniu nie wolno. Jeśli rozmowa dotyczy konkretnej sprawy z waszego zboru, przerwij ją, bo przy stole nie ma drugiej strony."
+    },
+    {
+     "sytuacja": "Spór o piekło i wieczne męki.",
+     "odpowiedz": "Nie rozstrzygaj dziś. Powiedz, co widać w samym obrazie: chwasty pali się po to, żeby ich nie było. Resztę odłóż do materiału „Czy Bóg mnie ukarze?\". Jeśli ktoś został wychowany w strachu przed piekłem, nie każ mu się z tego tłumaczyć."
+    },
+    {
+     "sytuacja": "Osoba spoza kościoła reaguje na słowo „diabeł\" uśmiechem albo oporem.",
+     "odpowiedz": "Nie przekonuj. Wystarczy powiedzieć, że Jezus mówi w tej historii o nieprzyjacielu jak o kimś realnym, i zapytać, co zmienia w obrazie Boga to, że zło ma innego autora niż On."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Połącz bloki 4 i 5 w jedno czytanie i weź z nich po jednym pytaniu kluczowym. Bloki 2 i 3 niosą całe spotkanie."
+    }
+   ]
+  }
+ ]
+}

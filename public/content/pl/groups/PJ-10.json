@@ -1,0 +1,832 @@
+{
+ "tytul": "Dziesięć panien",
+ "id": "PJ-10",
+ "seria": "Przypowieści Jezusa",
+ "opis": "O czekaniu, które się przeciąga, i o gotowości, która pozwala spokojnie zasnąć.",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Mt 24,36.42-51; Mt 25,1-13",
+  "p2": "Łk 12,35-38; 1Tes 5,1-11; Mt 7,21-23; 2P 3,3-4.8-9",
+  "p3": "Mt 7,24-27; Za 4,1-6; Ps 119,105; Mt 5,14-16; Ap 3,20; Iz 55,6-7; 2Kor 6,2"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 25,
+  "p3": 31
+ },
+ "tagi": [
+  "przypowieści",
+  "powtórne przyjście",
+  "czekanie",
+  "gotowość",
+  "nadzieja"
+ ],
+ "wersja": 1,
+ "zdanie": "Gotowość nie polega na tym, żeby nie spać. Polega na tym, żeby mieć przy sobie coś, co pozwala zasnąć spokojnie, i znać Tego, na kogo się czeka.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o czekaniu, które trwa dłużej, niż ktokolwiek planował. Dziesięć dziewcząt czeka na tego samego oblubieńca, z tą samą radością i z takimi samymi lampami. Wszystkie zasypiają i nikt im tego nie wypomina. Różni je jedno: pięć liczyło się z tym, że noc może być długa. Spotkanie ma pokazać grupie dwie rzeczy. Po pierwsze, że gotowość nie jest stanem ciągłego alarmu, tylko czymś, co pozwala spokojnie zasnąć. Po drugie, że ta historia kończy się weselem. Nadchodzi oblubieniec, nie katastrofa.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Każda przypowieść Jezusa poprawia jakiś fałszywy obraz Boga. Ta poprawia obraz Boga, który przychodzi jak kontrola albo jak katastrofa i tylko czeka, żeby przyłapać człowieka na nieprzygotowaniu. Przy takim Bogu da się jedynie nie spać i bać. W przypowieści nadchodzi oblubieniec, a zdanie „nie znam was\" nie jest kaprysem odźwiernego. Nazywa brak więzi, której nie było już wieczorem. Przypowieść jest zwierciadłem jednej prawdy, więc nie tłumaczy się jej szczegół po szczególe: ani oliwy, ani sprzedawców, ani liczby pięć.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przed samą przypowieścią grupa czyta dwa krótkie odcinki z końca poprzedniego rozdziału, bo przypowieść zaczyna się od słowa „wtedy\" i odpowiada na to, co Jezus powiedział chwilę wcześniej. To spotkanie jest zamkniętą całością. Znajomość wcześniejszych spotkań z serii nie jest potrzebna.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole mogą siedzieć ludzie wychowani w lęku przed końcem świata, straszeni zamkniętymi drzwiami od dziecka. Dla nich ten tekst bywa źródłem bezsenności, nie nadziei.",
+      "Temat przyciąga wyliczanie znaków czasu i komentowanie bieżących wydarzeń. Jezus zaczyna od zdania, że dnia i godziny nie zna nikt.",
+      "Ktoś myśli w tej chwili o mężu, żonie albo dziecku, którzy nie wierzą, i słyszy „nie znam was\" jako wyrok na nich.",
+      "Pytanie „czy mam dość oliwy\" potrafi zamienić się w duchowe mierzenie samego siebie bez końca."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie strasz i nie pozwól straszyć. Nie wyliczaj znaków i nie komentuj wiadomości. Nie pytaj nikogo, czy jest gotowy. Nie rozstrzygaj za grupę, czym jest oliwa.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie czekanie, które trwało dużo dłużej, niż się spodziewałeś: na wynik, na czyjś przyjazd, na decyzję. Powiedz jednym zdaniem, co się z tobą działo, kiedy się przeciągało.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, jednym zdaniem. Nie komentuj cudzych odpowiedzi. To spotkanie nie wymaga znajomości poprzednich.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Nikt nie wie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 24,36.42-44",
+       "przeklad": "BW",
+       "akapity": [
+        "A o tym dniu i godzinie nikt nie wie; ani aniołowie w niebie, ani Syn, tylko sam Ojciec. [...]",
+        "Czuwajcie więc, bo nie wiecie, którego dnia Pan wasz przyjdzie. A to zważcie, że gdyby gospodarz wiedział, o której porze złodziej przyjdzie, czuwałby i nie pozwoliłby podkopać domu swego. Dlatego i wy bądźcie gotowi, gdyż Syn Człowieczy przyjdzie o godzinie, której się nie domyślacie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Uczniowie pytali Jezusa, kiedy to będzie. Odpowiedź brzmi: nikt nie wie. **Co według tych wersetów wynika z tej niewiedzy? Czego Jezus tu nie każe robić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Gospodarz z obrazu nie zna godziny i nie może nie spać do końca życia. **Jaka gotowość jest w ogóle możliwa, kiedy nie zna się terminu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„O godzinie, której się nie domyślacie\". **Co to zdanie mówi każdemu, kto jest przekonany, że się domyśla?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** To ostatnie dni przed krzyżem. Jezus wyszedł ze świątyni i siedzi z uczniami na Górze Oliwnej. Zapytali Go, kiedy nastąpi koniec i jaki będzie znak Jego przyjścia. Odpowiedź zajmuje dwa rozdziały, dwudziesty czwarty i dwudziesty piąty. Jej druga połowa prawie nie mówi o wydarzeniach. Mówi o tym, jak czekać: gospodarz i złodziej, dwaj słudzy, dziesięć panien, talenty, owce i kozły. Przypowieść o pannach jest trzecim z tych obrazów i zaczyna się od słowa „wtedy\".",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Wesele trwało wtedy kilka dni. Pan młody szedł po narzeczoną do domu jej ojca, a potem orszak prowadził ją do jego domu, gdzie zaczynała się uczta. Dziewczęta z lampami miały ten orszak powitać i wejść razem z nim. Ile potrwają ostatnie sprawy w domu panny młodej, choćby targi o posag, nie wiedział nikt, więc opóźnienie było czymś zwyczajnym. Greckie słowo oddane jako „lampy\" oznacza raczej pochodnie niż domowe lampki: drążki owinięte szmatami nasączonymi oliwą, które trzeba było zasilać co kilkanaście minut. Zapas w naczyniu był warunkiem udziału w orszaku.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "„Pan mój zwleka\"",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 24,45-51",
+       "przeklad": "BW",
+       "akapity": [
+        "Kto więc jest tym sługą wiernym i roztropnym, którego pan postawił nad czeladzią swoją, aby im dawał pokarm o właściwej porze? Szczęśliwy ów sługa, którego pan jego, gdy przyjdzie, zastanie tak czyniącego. Zaprawdę powiadam wam, że postawi go nad całym mieniem swoim. Jeśliby zaś ów zły sługa rzekł w sercu swoim: Pan mój zwleka z przyjściem, i zacząłby bić współsługi swoje, jeść i pić z pijakami, przyjdzie pan sługi owego w dniu, w którym tego nie oczekuje, i o godzinie, której nie zna. I usunie go, i wyznaczy mu los z obłudnikami; tam będzie płacz i zgrzytanie zębów."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Przy jakim zajęciu pan zastaje wiernego sługę?** Co to mówi o tym, jak wygląda czuwanie w zwykły dzień?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zły sługa mówi w sercu: „Pan mój zwleka\". **Co z tego zdania wyprowadza? Jak zmienia się jego stosunek do ludzi, kiedy pan znika mu z horyzontu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ten sługa pomylił się co do czasu. **Jak nazwalibyście jego błąd jednym zdaniem?** Zapamiętajcie odpowiedź, bo za chwilę zobaczymy ludzi, którzy pomylili się w stronę przeciwną.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pan, który usługuje",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 12,35-38",
+       "przeklad": "BW",
+       "akapity": [
+        "Niechaj biodra wasze będą przepasane i świece zapalone. Wy zaś bądźcie podobni do ludzi oczekujących pana swego, aby mu zaraz otworzyć, kiedy powróci z wesela, przyjdzie i zapuka. Błogosławieni owi słudzy, których pan, gdy przyjdzie, zastanie czuwających. Zaprawdę, powiadam wam, iż się przepasze i posadzi ich przy stole, i przystąpiwszy, będzie im usługiwał. Czy przyjdzie o drugiej, czy o trzeciej straży, a zastanie ich tak, błogosławieni oni!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co robi pan po powrocie?** Żaden słuchacz nie znał gospodarza, który by się tak zachował. Co Jezus mówi w ten sposób o tym, na kogo czekamy?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak zmienia się czekanie, kiedy czeka się na kogoś takiego, a nie na kontrolę?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Dziesięć lamp",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 25,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy podobne będzie Królestwo Niebios do dziesięciu panien, które, wziąwszy lampy swoje, wyszły na spotkanie oblubieńca. A pięć z nich było głupich, pięć zaś mądrych. Głupie bowiem zabrały lampy, ale nie zabrały z sobą oliwy. Mądre zaś zabrały oliwę w naczyniach wraz z lampami swymi. A gdy oblubieniec długo nie nadchodził, zdrzemnęły się wszystkie i zasnęły."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Wypiszcie wszystko, co łączy tych dziesięć dziewcząt.** Potem jedyną różnicę. Czy ktoś patrzący z boku mógł ją tego wieczoru zobaczyć?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Głupie panny wzięły tyle oliwy, ile wystarczy, jeśli oblubieniec przyjdzie szybko. **Porównajcie je ze złym sługą z poprzedniego bloku. Jaki błąd co do czasu popełnia on, a jaki one?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Zasnęły wszystkie, mądre także, i przypowieść nikomu tego nie wypomina. **Co to mówi o różnicy między czuwaniem a niespaniem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Opóźnienie orszaku weselnego było wtedy zwyczajne i każdy, kto przygotowywał się na powitanie pana młodego, brał je pod uwagę. Głupie panny nie są leniwe ani obojętne. Przyszły, czekają i cieszą się na wesele. Nie są nieprzygotowane, tylko niedoprzygotowane: pomyliły się co do tego, ile potrwa noc. Mądre mogą spać spokojnie właśnie dlatego, że zapas mają przy sobie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Mądre\" to po grecku `phronimoi`, czyli roztropne, praktycznie rozsądne. Tym samym słowem Jezus nazwał przed chwilą wiernego sługę w Mt 24,45. „Głupie\" to `mōrai`. Mateusz zestawia tę parę słów jeszcze w jednym miejscu, na samym końcu Kazania na Górze:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 7,24-27",
+       "przeklad": "BW",
+       "akapity": [
+        "Każdy więc, kto słucha tych słów moich i wykonuje je, będzie przyrównany do męża mądrego, który zbudował dom swój na opoce. I spadł deszcz ulewny, i wezbrały rzeki, i powiały wiatry, i uderzyły na ów dom, ale on nie runął, gdyż był zbudowany na opoce. A każdy, kto słucha tych słów moich, lecz nie wykonuje ich, przyrównany będzie do męża głupiego, który zbudował swój dom na piasku. I spadł ulewny deszcz, i wezbrały rzeki, i powiały wiatry, i uderzyły na ów dom, i runął, a upadek jego był wielki."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dwa domy wyglądają tak samo do pierwszej burzy. Dziesięć lamp wygląda tak samo do północy. **Co obie historie mówią o tym, gdzie leży różnica między mądrym a głupim i kiedy wychodzi na jaw?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Północ",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 25,6-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtem o północy powstał krzyk: Oto oblubieniec, wyjdźcie na spotkanie. Wówczas ocknęły się wszystkie te panny i oporządziły swoje lampy. Głupie zaś rzekły do mądrych: Użyczcie nam trochę waszej oliwy, gdyż lampy nasze gasną. Na to odpowiedziały mądre: O nie! Gdyż mogłoby nie starczyć i nam i wam; idźcie raczej do sprzedawców i kupcie sobie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Po okrzyku wszystkie robią to samo. **W którym momencie pierwszy raz widać różnicę? Czy północ coś w tych dziewczętach zmieniła, czy tylko pokazała to, co było od wieczora?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Odmowa mądrych brzmi twardo. **Czy to skąpstwo?** Czego według tej sceny nie da się dostać od drugiego człowieka, nawet bardzo życzliwego?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Lampy nasze gasną\", a więc do tej pory się paliły. **Co to mówi o głupich pannach? Kim one nie są?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W tej historii nikt nie udaje i nikt nie jest wrogiem oblubieńca. Lampy wszystkich dziesięciu płonęły. Zabrakło zapasu, czyli czegoś, czego za dnia nie widać i czego nie zdobywa się w ostatniej chwili. Dlatego ta przypowieść jest skierowana do ludzi, którzy już czekają, a nie do tych, którzy o weselu nie słyszeli.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Czy czuwamy, czy śpimy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Tes 5,1-11",
+       "przeklad": "BW",
+       "akapity": [
+        "A o czasach i porach, bracia, nie ma potrzeby do was pisać. Sami bowiem dokładnie wiecie, iż dzień Pański przyjdzie jak złodziej w nocy. Gdy mówić będą: Pokój i bezpieczeństwo, wtedy przyjdzie na nich nagła zagłada, jak bóle na kobietę brzemienną, i nie umkną. Wy zaś, bracia, nie jesteście w ciemności, aby was dzień ten jak złodziej zaskoczył. Wy wszyscy bowiem synami światłości jesteście i synami dnia. Nie należymy do nocy ani do ciemności. Przeto nie śpijmy jak inni, lecz czuwajmy i bądźmy trzeźwi. Albowiem ci, którzy śpią, w nocy śpią, a ci, którzy się upijają, w nocy się upijają. My zaś, którzy należymy do dnia, bądźmy trzeźwi, przywdziawszy pancerz wiary i miłości oraz przyłbicę nadziei zbawienia. Gdyż Bóg nie przeznaczył nas na gniew, lecz na osiągnięcie zbawienia przez Pana naszego Jezusa Chrystusa, który umarł za nas, abyśmy, czy czuwamy, czy śpimy, razem z nim żyli. Dlatego napominajcie się nawzajem i budujcie jeden drugiego, co też czynicie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł używa tych samych obrazów co Jezus: złodziej, noc, sen. **Na czym według wersetów 9 i 10 opiera się spokój człowieka, który czeka?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„O czasach i porach nie ma potrzeby do was pisać\". **Czym Paweł zajmuje się zamiast tego? Co z tego listu jest „oliwą w naczyniu\" na długą noc?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czym jest oliwa",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przypowieść nie mówi, co oznacza oliwa, i przez wieki podstawiano pod nią różne rzeczy. Trzy odczytania wracają najczęściej. Pierwsze widzi w oliwie Ducha Świętego i powołuje się na wizję Zachariasza, w której oliwa sama płynie z drzew do lamp świątyni:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Za 4,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Anioł, który rozmawiał ze mną, powrócił i obudził mnie, jak budzi się kogoś ze snu, i zapytał mnie: Co widzisz? A ja odpowiedziałem: Widzę, oto jest świecznik cały ze złota, a na jego szczycie jest czasza. Na niej jest siedem lamp, a lampy, które są na jej szczycie, mają po siedem knotów. Dwa drzewa oliwne stoją obok niego, jedno z prawej strony czaszy, a drugie z jej lewej strony. Wtedy odezwałem się i rzekłem do anioła, który rozmawiał ze mną: Co to oznacza, mój panie? Anioł, który rozmawiał ze mną, tak odpowiedział: Czy nie wiesz, co to oznacza? Ja odpowiedziałem: Nie, mój panie! Wtedy on odpowiedział, mówiąc do mnie: Takie jest słowo Pana do Zorobabela: Nie dzięki mocy ani dzięki sile, lecz dzięki mojemu Duchowi to się stanie – mówi Pan Zastępów."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Drugie odczytanie widzi w oliwie osobistą wiarę karmioną Słowem. Trzecie widzi w niej czynną miłość, bo światło u Mateusza to dobre uczynki widziane przez ludzi:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 119,105",
+       "przeklad": "BW",
+       "akapity": [
+        "Słowo twoje jest pochodnią nogom moim I światłością ścieżkom moim."
+       ]
+      },
+      {
+       "odnosnik": "Mt 5,14-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Wy jesteście światłością świata; nie może się ukryć miasto położone na górze. Nie zapalają też świecy i nie stawiają jej pod korcem, lecz na świeczniku, i świeci wszystkim, którzy są w domu. Tak niechaj świeci wasza światłość przed ludźmi, aby widzieli wasze dobre uczynki i chwalili Ojca waszego, który jest w niebie."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Każde odczytanie ma kłopot z radą „idźcie do sprzedawców i kupcie sobie\", bo ani Ducha, ani wiary, ani miłości się nie kupuje. To ostrzeżenie, żeby nie tłumaczyć przypowieści szczegół po szczególe.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co przemawia za każdym z trzech odczytań, kiedy patrzycie na samą przypowieść?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co te trzy odczytania mają wspólnego?** Spróbujcie opisać oliwę nie przez to, czym jest, ale przez to, co przypowieść o niej mówi: jak się ją zdobywa, kiedy jest potrzebna i czego nie da się z nią zrobić.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Drzwi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 25,10-13",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy one odeszły kupować, nadszedł oblubieniec i te, które były gotowe, weszły z nim na wesele i zamknięto drzwi. A później nadeszły i pozostałe panny, mówiąc: Panie! Panie! Otwórz nam. On zaś, odpowiadając, rzekł: Zaprawdę powiadam wam, nie znam was. Czuwajcie więc, bo nie znacie dnia ani godziny, o której Syn Człowieczy przyjdzie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Na co czekało tych dziesięć dziewcząt i dokąd wchodzą te, które były gotowe?** Jakim obrazem Jezus opisuje tu swoje przyjście? Jakich obrazów mógł użyć, a nie użył?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Oblubieniec nie mówi „spóźniłyście się\". Mówi „nie znam was\". **Co to zdanie odsłania o tym, czym naprawdę była gotowość?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus kończy słowem „czuwajcie\", a przecież w tej historii spały wszystkie. **Co w takim razie znaczy czuwać?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "„Nigdy was nie znałem\"",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 7,21-23",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie każdy, kto do mnie mówi: Panie, Panie, wejdzie do Królestwa Niebios; lecz tylko ten, kto pełni wolę Ojca mojego, który jest w niebie. W owym dniu wielu mi powie: Panie, Panie, czyż nie prorokowaliśmy w imieniu twoim i w imieniu twoim nie wypędzaliśmy demonów, i w imieniu twoim nie czyniliśmy wielu cudów? A wtedy im powiem: Nigdy was nie znałem. Idźcie precz ode mnie wy, którzy czynicie bezprawie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To samo „Panie, Panie\" i ta sama odpowiedź. Ci ludzie byli bardzo zajęci sprawami Boga. **Czego im zabrakło? Czym różni się robienie czegoś dla Jezusa od bycia przez Niego znanym?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dlaczego noc jest długa",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2P 3,3-4.8-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Wiedzcie przede wszystkim to, że w dniach ostatecznych przyjdą szydercy z drwinami, którzy będą postępować według swych własnych pożądliwości i mówić: Gdzież jest przyobiecane przyjście jego? Odkąd bowiem zasnęli ojcowie, wszystko tak trwa, jak było od początku stworzenia. [...]",
+        "Niech to jedno, umiłowani, nie uchodzi uwagi waszej, że u Pana jeden dzień jest jak tysiąc lat, a tysiąc lat jak jeden dzień. Pan nie zwleka z dotrzymaniem obietnicy, chociaż niektórzy uważają, że zwleka, lecz okazuje cierpliwość względem was, bo nie chce, aby ktokolwiek zginął, lecz chce, aby wszyscy przyszli do upamiętania."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W przypowieści oblubieniec „długo nie nadchodził\" i nikt nie mówi dlaczego. **Jak Piotr tłumaczy tę zwłokę? Komu służy każdy kolejny dzień?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak zmienia się patrzenie na przeciągające się czekanie, jeśli to nie opieszałość, tylko cierpliwość?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: zamknięte drzwi i Bóg, który szuka",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jezus opowiada o pasterzu, który idzie za jedną owcą, i o ojcu, który wybiega na drogę. Tutaj drzwi są zamknięte i nikt ich nie otwiera. Jedni czytelnicy kładą nacisk na powagę tej sceny: zaproszenie ma swój czas, a przypowieść byłaby pusta, gdyby drzwi i tak otwierano każdemu. Inni przypominają, że ta przypowieść jest ostrzeżeniem wypowiedzianym z góry, do ludzi, dla których drzwi są jeszcze szeroko otwarte, i że właśnie dlatego została opowiedziana. Obie strony zgadzają się, że ten sam Jezus mówi gdzie indziej o drzwiach zupełnie inaczej:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 3,20",
+       "przeklad": "BW",
+       "akapity": [
+        "Oto stoję u drzwi i kołaczę; jeśli ktoś usłyszy głos mój i otworzy drzwi, wstąpię do niego i będę z nim wieczerzał, a on ze mną."
+       ]
+      },
+      {
+       "odnosnik": "Iz 55,6-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Szukajcie Pana, dopóki można Go znaleźć, wzywajcie go, dopóki jest blisko! Niech bezbożny porzuci swoją drogę, a przestępca swoje zamysły i niech się nawróci do Pana, aby się nad nim zlitował, do naszego Boga, gdyż jest hojny w odpuszczaniu!"
+       ]
+      },
+      {
+       "odnosnik": "2Kor 6,2",
+       "przeklad": "BW",
+       "akapity": [
+        "mówi bowiem: W czasie łaski wysłuchałem cię, A w dniu zbawienia pomogłem ci; Oto teraz czas łaski, Oto teraz dzień zbawienia."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W Apokalipsie to Jezus stoi przed zamkniętymi drzwiami i puka. W przypowieści pukają panny. **Kto w każdej z tych scen trzyma klamkę i w jakim czasie każda z nich się dzieje?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy zamknięte drzwi przeczą Bogu, który szuka zagubionych, czy mówią coś o tym, jak poważnie traktuje On ludzkie „teraz\"?** Co w obu przytoczonych stanowiskach jest wspólne?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zły sługa uznał, że ma mnóstwo czasu. Głupie panny uznały, że czekanie będzie krótkie, więc na dłuższą metę nie warto niczego szykować. **Do którego z tych dwóch błędów jest ci bliżej i po czym to poznajesz?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Oliwy nie dało się pożyczyć. **Co w twoim życiu z Bogiem jest twoje własne, a co niesiesz na cudzym zapasie: rodziców, współmałżonka, zboru, dawnych lat?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **co czujesz jako pierwsze, kiedy myślisz o powrocie Jezusa: radość, lęk, zmęczenie czekaniem, a może nic?** Nie ma tu złej odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przypowieść każe być gotowym dziś i zarazem liczyć się z tym, że noc będzie długa. **Jak żyć tak, żeby uczyć się zawodu, sadzić drzewa i planować na trzydzieści lat, a jednocześnie być gotowym na dziś wieczór? Czy jedno nie osłabia drugiego?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie rozstrzygaj. Warto tylko zauważyć, że mądre panny nie przestały czekać i nie przestały żyć. Wzięły zapas, a potem położyły się spać.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Gotowość nie polega na tym, żeby nie spać. Polega na tym, żeby mieć przy sobie coś, co pozwala zasnąć spokojnie, i znać Tego, na kogo się czeka.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Mt 25,13 albo 1Tes 5,9-10.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Sprawdź, czym karmi się twoje czekanie na Jezusa. **Czy czekasz na wydarzenie, czy na Osobę?** Lęk wystarcza na krótko. Zapytaj siebie, co zostaje z twojej wiary, kiedy nikt cię nie straszy i nic się nie dzieje.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Oblubieniec mówi „nie znam was\", więc gotowość ma coś wspólnego ze znajomością. Zapytaj Boga wprost: **kiedy ostatnio byłem z Tobą tak po prostu, nie dlatego, że czegoś potrzebowałem albo czegoś się bałem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** jeśli myśl o powrocie Jezusa budzi w tobie głównie lęk, nie udawaj przed Bogiem radości. Powiedz Mu, czego dokładnie się boisz, i zapytaj, skąd masz ten obraz Oblubieńca.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi, że od dziecka boi się końca świata, zamkniętych drzwi albo tego, że „nie zdąży\".** Potraktuj to poważnie i nie pocieszaj na siłę. Pokaż dwie rzeczy z tekstu: nadchodzi oblubieniec i zaczyna się wesele, a mądre panny tej nocy spokojnie spały. Przeczytaj 1Tes 5,9-10, nawet jeśli prowadzisz poziom 1. Jeśli lęk tej osoby jest silny i trwa latami, porozmawiaj z nią po spotkaniu i zachęć do rozmowy z pastorem albo psychologiem. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna wyliczać znaki czasu albo komentować bieżące wydarzenia i politykę.** Przerwij spokojnie i wróć do pierwszego zdania dzisiejszego tekstu: o tym dniu nikt nie wie. Przypowieść nie uczy rozpoznawać godziny. Uczy, co mieć przy sobie, kiedy godzina jest nieznana.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A co z moim mężem, z moją córką? Zostaną za drzwiami?\"** Nie odpowiadaj za Boga i nie pozwól odpowiadać grupie. Przypowieść jest opowiedziana uczniom o nich samych, nie o ich bliskich. Możesz przeczytać 2P 3,9: Pan nie chce, aby ktokolwiek zginął, i dlatego noc jest długa. Resztę zostaw na rozmowę po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Skąd mam wiedzieć, czy mam dość oliwy?\"** To pytanie potrafi zamienić się w mierzenie siebie bez końca. Zwróć uwagę, że oblubieniec nie pyta o ilość oliwy, tylko mówi o znajomości. Zapytaj: „Co w tej przypowieści pozwoliło mądrym zasnąć?\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Mądre panny były samolubne. Chrześcijanin by się podzielił.\"** Zgódź się, że odmowa kłuje. Potem zapytaj, czy są rzeczy, których naprawdę nie da się komuś dać, choćby się chciało: własna decyzja, własne zaufanie, własna historia z Bogiem. Przypowieść mówi o gotowości, nie o tym, czy się dzielić.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś kpi albo mówi ze zmęczeniem: „Czekamy już tyle lat i nic\".** Nie broń się i nie tłumacz historii Kościoła. Tekst sam mówi, że oblubieniec długo nie nadchodził, i że zmęczeni zasnęli wszyscy. Zmęczenie czekaniem nie jest niewiarą. Na poziomie 2 jest fragment z Drugiego Listu Piotra, który nazywa tę zwłokę cierpliwością.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Bloki 1 i 2 przeczytajcie na głos z jednym pytaniem na każdy. Bloków 3, 4 i 5 nie skracaj, a zwłaszcza pytania o wesele w bloku 5, bo bez niego spotkanie skończy się na zamkniętych drzwiach.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś mówi, że od dziecka boi się końca świata, zamkniętych drzwi albo tego, że „nie zdąży\".",
+     "odpowiedz": "Potraktuj to poważnie i nie pocieszaj na siłę. Pokaż dwie rzeczy z tekstu: nadchodzi oblubieniec i zaczyna się wesele, a mądre panny tej nocy spokojnie spały. Przeczytaj 1Tes 5,9-10, nawet jeśli prowadzisz poziom 1. Jeśli lęk tej osoby jest silny i trwa latami, porozmawiaj z nią po spotkaniu i zachęć do rozmowy z pastorem albo psychologiem. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna wyliczać znaki czasu albo komentować bieżące wydarzenia i politykę.",
+     "odpowiedz": "Przerwij spokojnie i wróć do pierwszego zdania dzisiejszego tekstu: o tym dniu nikt nie wie. Przypowieść nie uczy rozpoznawać godziny. Uczy, co mieć przy sobie, kiedy godzina jest nieznana."
+    },
+    {
+     "sytuacja": "„A co z moim mężem, z moją córką? Zostaną za drzwiami?\"",
+     "odpowiedz": "Nie odpowiadaj za Boga i nie pozwól odpowiadać grupie. Przypowieść jest opowiedziana uczniom o nich samych, nie o ich bliskich. Możesz przeczytać 2P 3,9: Pan nie chce, aby ktokolwiek zginął, i dlatego noc jest długa. Resztę zostaw na rozmowę po spotkaniu."
+    },
+    {
+     "sytuacja": "„Skąd mam wiedzieć, czy mam dość oliwy?\"",
+     "odpowiedz": "To pytanie potrafi zamienić się w mierzenie siebie bez końca. Zwróć uwagę, że oblubieniec nie pyta o ilość oliwy, tylko mówi o znajomości. Zapytaj: „Co w tej przypowieści pozwoliło mądrym zasnąć?\""
+    },
+    {
+     "sytuacja": "„Mądre panny były samolubne. Chrześcijanin by się podzielił.\"",
+     "odpowiedz": "Zgódź się, że odmowa kłuje. Potem zapytaj, czy są rzeczy, których naprawdę nie da się komuś dać, choćby się chciało: własna decyzja, własne zaufanie, własna historia z Bogiem. Przypowieść mówi o gotowości, nie o tym, czy się dzielić."
+    },
+    {
+     "sytuacja": "Ktoś kpi albo mówi ze zmęczeniem: „Czekamy już tyle lat i nic\".",
+     "odpowiedz": "Nie broń się i nie tłumacz historii Kościoła. Tekst sam mówi, że oblubieniec długo nie nadchodził, i że zmęczeni zasnęli wszyscy. Zmęczenie czekaniem nie jest niewiarą. Na poziomie 2 jest fragment z Drugiego Listu Piotra, który nazywa tę zwłokę cierpliwością."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Bloki 1 i 2 przeczytajcie na głos z jednym pytaniem na każdy. Bloków 3, 4 i 5 nie skracaj, a zwłaszcza pytania o wesele w bloku 5, bo bez niego spotkanie skończy się na zamkniętych drzwiach."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,872 @@
+{
+ "tytul": "Wielka uczta",
+ "id": "PJ-09",
+ "seria": "Przypowieści Jezusa",
+ "opis": "O stole u Boga, który jest nakryty już dziś, i o dobrych rzeczach, którymi się od niego wymawiamy.",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Łk 14,1.7-24",
+  "p2": "Łk 14,2-6; Prz 25,6-7; Iz 25,6-9; Pwt 20,5-7; 24,5; Mt 22,1-10",
+  "p3": "Łk 24,28-29; Mt 22,11-14; Ap 19,7-8"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 32
+ },
+ "tagi": [
+  "przypowieści",
+  "zaproszenie",
+  "łaska",
+  "wymówki",
+  "gościnność",
+  "Królestwo Boże"
+ ],
+ "wersja": 1,
+ "zdanie": "Od stołu u Boga rzadko odciąga człowieka wielkie zło. Częściej robi to dobra rzecz, która akurat dziś nie może poczekać.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Cały fragment to jedna scena przy jednym stole. Jezus jest gościem na szabatowym obiedzie u ważnego faryzeusza i przez cały posiłek mówi o posiłkach: kto gdzie siada, kogo się zaprasza, kto przychodzi. Przypowieść o wielkiej uczcie jest odpowiedzią na jedno pobożne zdanie, które przeniosło ucztę Boga w bezpieczną przyszłość. Jezus odpowiada, że stół jest nakryty teraz. Spotkanie ma doprowadzić grupę do dwóch rzeczy naraz: do gospodarza, któremu zależy, żeby dom był pełny, i do pytania, co dobrego nauczyliśmy się stawiać między sobą a Jego zaproszeniem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Każda przypowieść Jezusa poprawia jakiś fałszywy obraz Boga. Ta poprawia dwa naraz. Pierwszy to Bóg, u którego miejsce trzeba sobie wysiedzieć, a lista gości układa się według rangi i tego, kto czym odpłaci. Drugi to Bóg, którego uczta jest zawsze kiedyś, więc dziś nie zobowiązuje do niczego. Gospodarz z przypowieści jest inny: wszystko przygotował sam, woła teraz i bardziej niż na czymkolwiek zależy mu na tym, żeby dom był pełny. Przypowieść jest zwierciadłem tej jednej prawdy, więc nie buduje się nauki na jej pobocznych szczegółach, na przykład na liczbie wymówek.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest zamkniętą całością. Znajomość wcześniejszych spotkań z serii nie jest potrzebna.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Wymówki z przypowieści to ziemia, praca i małżeństwo. Ktoś zapracowany albo ktoś, kto opiekuje się rodziną, może usłyszeć zarzut, że za mało robi dla Boga. Przypowieść mówi o przyjęciu zaproszenia, nie o liczbie obowiązków w kościele.",
+      "Na liście gości są ubodzy, ułomni, chromi i ślepi. Przy stole może siedzieć osoba z niepełnosprawnością albo w biedzie. W przypowieści ci ludzie są gośćmi honorowymi, nie podopiecznymi. Pilnuj, żeby grupa nie mówiła o nich „oni\".",
+      "Słowo „przymuszaj\" ma złą historię. Ktoś może je przywołać z goryczą, a ktoś inny użyć go, żeby usprawiedliwić nacisk na bliskich.",
+      "Rozmowa o zapraszaniu ubogich łatwo skręca w spór o pomoc społeczną i politykę. Nie idź tam."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pytaj nikogo, dlaczego rzadko bywa w kościele. Nie zamieniaj wymówek w listę grzechów współczesności. Nie kończ apelem o większe zaangażowanie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie zaproszenie, na które odpowiedziałeś „chętnie, ale nie tym razem\". Nie mów, kto zapraszał. Powiedz tylko, co wtedy podałeś jako powód.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, jednym zdaniem. Nie komentuj cudzych odpowiedzi. To spotkanie nie wymaga znajomości poprzednich.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Kto gdzie siada",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 14,1.7-11",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy Jezus wszedł w sabat do domu jednego z przedniejszych faryzeuszów, aby spożyć posiłek, oni go podpatrywali. [...]",
+        "Następnie, gdy zauważył, jak obierali pierwsze miejsca, powiedział do zaproszonych podobieństwo, tak do nich mówiąc: Gdy cię ktoś zaprosi na wesele, nie siadaj na pierwszym miejscu, bo czasem zjawi się ktoś znaczniejszy od ciebie, także zaproszony, wtedy przyjdzie ten, który ciebie i tamtego zaprosił i powie ci: Ustąp temu miejsca; i wtedy ze wstydem będziesz musiał zająć ostatnie miejsce. A gdy będziesz zaproszony i pójdziesz, usiądź na ostatnim miejscu, gdy zaś przyjdzie ten, który cię zaprosił, rzecze do ciebie: Przyjacielu, usiądź wyżej! Wtedy doznasz czci wobec wszystkich współbiesiadników. Każdy bowiem, kto się wywyższa, będzie poniżony, a kto się poniża, będzie wywyższony."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W wersecie 1 to oni podpatrują Jezusa. W wersecie 7 okazuje się, kto komu naprawdę się przygląda. **Co Jezus zobaczył? Czego ci ludzie szukają, kiedy wybierają sobie miejsce?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rada brzmi jak lekcja dobrych manier, ale ostatnie zdanie mówi „będzie poniżony\" i „będzie wywyższony\". **Kto w tym zdaniu poniża i wywyższa? O jakim stole Jezus zaczyna tu mówić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Na dobrym miejscu można się znaleźć na dwa sposoby: zająć je samemu albo usłyszeć „Przyjacielu, usiądź wyżej\". **Czym różni się miejsce zdobyte od miejsca otrzymanego, skoro to może być to samo miejsce?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Przy uroczystym posiłku goście leżeli na leżankach ustawionych wokół stołu, a odległość od gospodarza mówiła wszystkim, ile kto znaczy. Wyobraźnia tamtych czasów przenosiła ten porządek nawet do nieba. Regulamin wspólnoty znad Morza Martwego rozpisywał kolejność zasiadania do uczty czasów mesjańskich według rangi i rytualnej czystości. Na takim tle Jezus mówi o ostatnich miejscach.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** Jezus jest w długiej drodze do Jerozolimy, która u Łukasza zajmuje dziesięć rozdziałów. Po drodze raz po raz siada do stołu, także z ludźmi, którzy Mu nie sprzyjają. To szabatowy obiad u jednego z przywódców faryzeuszów. Wersety od 1 do 24 to jedna scena: uzdrowienie, rada dla gości, rada dla gospodarza i przypowieść. Zaraz po niej, w rozdziale piętnastym, przy stole Jezusa siedzą już celnicy i grzesznicy, a pobożni szemrzą.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Czysty, staranny posiłek pobożnych był czymś więcej niż obiadem. Był przedsmakiem uczty, którą Bóg miał wyprawić w czasach Mesjasza, i dlatego tak ważne było, kto przy nim siedzi. Jezus jest tu gościem, a zachowuje się jak gospodarz: poprawia gości, poprawia listę zaproszonych i na koniec mówi o uczcie jako o swojej. Czasownik „zapraszać\" pada w tej jednej scenie dwanaście razy. Cała rozmowa jest o tym, kto jest wzywany i kto przychodzi.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Człowiek, którego nikt nie zaprosił",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 14,2-6",
+       "przeklad": "BW",
+       "akapity": [
+        "I oto zjawił się przed nim pewien człowiek chory na puchlinę. Wtedy Jezus zapytał uczonych w zakonie i faryzeuszów, mówiąc: Czy wolno w sabat uzdrawiać, czy też nie? A oni milczeli. On zaś ujął go, uzdrowił i odprawił. Potem rzekł do nich: Jeśli osioł lub wół którego z was wpadnie do studni, czy zaraz, nawet w dzień sabatu, go nie wyciągnie? I nie mogli mu na to dać odpowiedzi."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Goście milczą dwa razy: przed uzdrowieniem i po nim. **Co to milczenie mówi o atmosferze przy tym stole, zanim padnie pierwsza przypowieść?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Chory pojawia się, zostaje uzdrowiony i odchodzi. Do stołu nikt go nie prosi. **Jak ta scena przygotowuje to, co Jezus za chwilę powie o liście gości?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Stara rada",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 25,6-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie chełp się przed królem i nie stawaj na miejscu możnych; gdyż lepiej jest, gdy oni ci powiedzą: Posuń się wyżej! niż żeby cię miano poniżyć przed księciem."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Goście znali tę radę z Księgi Przysłów. Jezus nie mówi im niczego nowego, tylko przypomina im ich własną mądrość. **Co dodaje do niej werset 11? Dlaczego znać radę i siadać według niej to dwie różne rzeczy?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Lista gości",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 14,12-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Powiedział też do tego, który go zaprosił: Gdy dajesz obiad albo wieczerzę, nie zwołuj swoich przyjaciół ani swoich braci, ani swoich krewnych, ani bogatych sąsiadów, żeby cię czasem i oni nawzajem nie zaprosili, i miałbyś już odpłatę. Lecz gdy urządzasz przyjęcie, zaproś ubogich, ułomnych, chromych, ślepych. I będziesz błogosławiony, bo nie mają ci czym odpłacić. Odpłatę bowiem będziesz miał przy zmartwychwstaniu sprawiedliwych."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi to gospodarzowi w obecności jego gości. **Według jakiej zasady ułożono listę zaproszonych na ten obiad? Czym w tej zasadzie jest „odpłata\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ubodzy, ułomni, chromi, ślepi. **Co łączy tych czworo z punktu widzenia kogoś, kto układa listę gości?** Zapamiętajcie tę czwórkę, jeszcze wróci.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Kto w Biblii karmi tych, którzy nie mają czym odpłacić?** Kogo gospodarz miałby zacząć przypominać, gdyby posłuchał tej rady?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ta czwórka nie jest przypadkowym wyliczeniem biedy. Wspólnota znad Morza Martwego wykluczała na piśmie właśnie chromych, ślepych i okaleczonych ze swoich zgromadzeń. Jezus nie wymienia więc ludzi, o których zapomniano. Wymienia tych, którym pobożni zamknęli drzwi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "„Już wszystko gotowe\"",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 14,15-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy to usłyszał jeden ze współbiesiadników, rzekł do niego: Błogosławiony ten, który będzie spożywał chleb w Królestwie Bożym. A On mu rzekł: Pewien człowiek przygotował wielką wieczerzę i zaprosił wielu. I posłał swego sługę w godzinę wieczerzy, aby powiedział zaproszonym: Przyjdźcie, bo już wszystko gotowe."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Po słowach Jezusa o liście gości ktoś wypowiada pobożne zdanie. Zdanie jest prawdziwe. **Co ono robi z rozmową? Dokąd przenosi ucztę i co dzięki temu przestaje być niewygodne?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Biesiadnik mówi „będzie spożywał\". Sługa w przypowieści mówi „już wszystko gotowe\". **Jak to drugie zdanie odpowiada na pierwsze?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Goście zostali zaproszeni wcześniej i wiedzieli o uczcie od dawna. **Co to zmienia w ocenie tego, co zrobią za chwilę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Na wielkie przyjęcie zapraszano dwa razy. Pierwsze zaproszenie przychodziło z wyprzedzeniem i goście je przyjmowali. W wioskach Bliskiego Wschodu ten zwyczaj przetrwał długo: gospodarz dobierał zwierzę do liczby tych, którzy obiecali przyjść, i dopiero gdy mięso było gotowe, posyłał sługę ze słowami „przyjdźcie, wszystko gotowe\". Kto odmawiał w tej godzinie, zostawiał gospodarza z zastawionym stołem i znieważał jego dom na oczach całej wsi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Skąd wziął się chleb w Królestwie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 25,6-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Pan Zastępów wyprawi wszystkim ludom na tej górze ucztę z tłustych potraw, ucztę z wystałych win, z tłustych potraw ze szpikiem, ze starych dobrze wystałych win. I zniszczy na tej górze zasłonę, rozpostartą nad wszystkimi ludami, i przykrycie, rozciągnięte nad wszystkimi narodami. Wszechmocny Pan zniszczy śmierć na wieki i zetrze łzę z każdego oblicza, i usunie hańbę swojego ludu na całej ziemi, gdyż Pan powiedział. I będą mówić w owym dniu: Oto nasz Bóg, któremu zaufaliśmy, że nas wybawi; to Pan, któremu zaufaliśmy. Weselmy i radujmy się z jego zbawienia!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Biesiadnik nie wymyślił swojego zdania. Nadzieja na ucztę u Boga zaczyna się między innymi tutaj. **Dla kogo Pan wyprawia ucztę u Izajasza? Policzcie, ile razy pada słowo „wszystkim\" albo „każdego\".**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co z listy gości Izajasza zdążyło zniknąć w wyobrażeniach ludzi, którzy wybierali sobie pierwsze miejsca?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Trzy wymówki",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 14,18-20",
+       "przeklad": "BW",
+       "akapity": [
+        "I poczęli się wszyscy jeden po drugim wymawiać. Pierwszy mu rzekł: Kupiłem pole i muszę pójść je zobaczyć; proszę cię, miej mię za wytłumaczonego. A drugi rzekł: Kupiłem pięć par wołów i idę je wypróbować; proszę cię, miej mię za wytłumaczonego. A inny rzekł: Żonę pojąłem i dlatego nie mogę przyjść."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Pole, woły, żona. **Co te trzy rzeczy mają ze sobą wspólnego? Czy którakolwiek z nich jest zła?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Żaden z trzech nie mówi „nie chcę\". **Co mówią zamiast tego? Co to pokazuje o sposobie, w jaki ludzie zwykle odmawiają Bogu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Dwóch prosi o wytłumaczenie, trzeci już nie. **Czy pole i woły naprawdę nie mogły poczekać do rana? Po czym słuchacze Jezusa poznali, że to wymówki, a nie powody?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Nikt wtedy nie kupował ziemi bez obejrzenia jej i nikt nie płacił za pięć zaprzęgów wołów, zanim zobaczył je przy pracy. Przepis o świeżo żonatym zwalniał z wyprawy wojennej, nie z wieczerzy u sąsiada. Wszyscy trzej wcześniej przyjęli zaproszenie. Słuchacze przy stole słyszeli więc trzy uprzejme zdania, z których żadne nie było prawdziwym powodem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Przepis, który ktoś tu naciągnął",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Trzecia wymówka opiera się na przepisie o świeżo żonatym. Dwie pierwsze niektórzy czytelnicy też słyszą jako echo zwolnień z wyprawy wojennej, inni uważają to skojarzenie za zbyt odległe. Przeczytajcie oba przepisy i oceńcie sami.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 20,5-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Następnie przemówią do wojowników nadzorcy tak: Jeżeli ktoś z was zbudował nowy dom, a jeszcze go nie poświęcił, niech wróci do swego domu, aby nie zginął w walce i by ktoś inny go nie poświęcił. I jeżeli ktoś zasadził winnicę, a jeszcze z niej nie korzystał, niech idzie z powrotem do swego domu, aby nie zginął w walce i by ktoś inny z niej nie korzystał. A jeżeli ktoś zaręczył się z kobietą, a jeszcze jej nie pojął, niech idzie z powrotem do swego domu, aby nie zginął w walce i by ktoś inny jej nie pojął."
+       ]
+      },
+      {
+       "odnosnik": "Pwt 24,5",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeżeli ktoś niedawno się ożenił, to nie wyruszy na wojnę i nie nałoży się nań żadnych uciążliwych świadczeń, ale niech będzie wolny przez jeden rok dla swojej rodziny, niech raduje się swoją żoną, którą pojął."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Z czego Prawo zwalniało takich ludzi i dlaczego?** Trzeci gość mówi „dlatego nie mogę przyjść\", jakby powoływał się na przepis. **Do czego przyrównał wieczerzę, jeśli sięgnął po zwolnienie z wojny?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg w tych przepisach chroni radość z domu, z winnicy i z małżeństwa. **Co się dzieje, kiedy dar, który Bóg sam chroni, staje się powodem, żeby do Niego nie przyjść?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Żeby dom był pełny",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 14,21-24",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy wrócił sługa, doniósł o tym panu swemu. Wtedy gospodarz rozgniewał się i rzekł do sługi swego: Wyjdź prędko na place i ulice miasta i sprowadź tutaj ubogich i ułomnych, i ślepych, i chromych. I oznajmił sługa: Panie, tak się stało, jak rozkazałeś, i jeszcze jest miejsce. Wtedy rzekł pan do sługi: Wyjdź na drogi i między opłotki i przymuszaj, by weszli, i niech będzie zapełniony dom mój. Albowiem mówię wam, że żaden z owych zaproszonych mężów nie skosztuje mojej wieczerzy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Gospodarz się gniewa. **Co jego gniew robi w następnym zdaniu?** Porównajcie listę z wersetu 21 z listą z wersetu 13.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„I jeszcze jest miejsce\". **Co to zdanie mówi o domu i o gospodarzu?** Pomyślcie o człowieku spod płotu, którego sługa bierze pod ramię i prowadzi na przyjęcie u bogacza. **Dlaczego właśnie jego trzeba „przymuszać\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Gospodarz rozmawia z jednym sługą, a ostatnie zdanie zaczyna się od „mówię wam\". **Kto to mówi i do kogo?** Wróćcie do stołu z wersetu 15.",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Człowiek z drogi nie uwierzy, że to o niego chodzi. Będzie się cofał i szukał haczyka, bo takich jak on nie zaprasza się do takich domów. Polecenie dla sługi opisuje więc cierpliwe przekonywanie kogoś, kto nie wierzy we własne zaproszenie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ta sama uczta, ostrzej",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Mateusz zapisał podobną przypowieść, opowiedzianą w Jerozolimie kilka dni przed krzyżem.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 22,1-10",
+       "przeklad": "BW",
+       "akapity": [
+        "A Jezus odpowiadając, mówił do nich znowu w podobieństwach tymi słowy: Podobne jest Królestwo Niebios do pewnego króla, który sprawił wesele swemu synowi. I posłał swe sługi, aby wezwali zaproszonych na wesele, ale ci nie chcieli przyjść. Znowu posłał inne sługi, mówiąc: Powiedzcie zaproszonym: Oto ucztę moją przygotowałem, woły moje i bydło tuczne pobito, i wszystko jest gotowe, pójdźcie na wesele. Ale oni, nie dbając o to, odeszli, jeden do własnej roli, drugi do swego handlu. A pozostali, pochwyciwszy jego sługi, znieważyli i pozabijali ich. I rozgniewał się król, a wysławszy swe wojska, wytracił owych morderców i miasto ich spalił. Wtedy rzecze sługom swoim: Wesele wprawdzie jest gotowe, ale zaproszeni nie byli godni. Idźcie przeto na rozstajne drogi, a kogokolwiek spotkacie, zaproście na wesele. Słudzy ci wyszli na drogi, sprowadzili wszystkich, których napotkali: złych i dobrych, i sala weselna zapełniła się gośćmi."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co w obu przypowieściach jest wspólne, a co u Mateusza jest ostrzejsze?** Pomyślcie, komu i kiedy Jezus opowiada każdą z nich.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "U Mateusza słudzy sprowadzają „złych i dobrych\". **Co to mówi o tym, według czego wpuszcza się do tej sali? Co to mówi o każdym zborze, jaki kiedykolwiek istniał?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Muszę pójść je zobaczyć\" z wersetu 18 to po grecku zwrot ze słowem `anankē`, czyli konieczność. „Przymuszaj\" z wersetu 23 to czasownik `anankazō`, utworzony od tego samego rdzenia. Pierwszy gość poczuł przymus ze strony swojego pola. Sługa ma teraz z równą siłą nalegać na ludzi z dróg. Sam czasownik znaczy zarówno „zmuszać\", jak i „usilnie nakłaniać\", a sługa idzie sam, bez oddziału, więc w tej scenie może tylko prosić i przekonywać. Jak wygląda takie naleganie, Łukasz pokazuje dziesięć rozdziałów dalej, choć innym słowem:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 24,28-29",
+       "przeklad": "BW",
+       "akapity": [
+        "I zbliżyli się do miasteczka, do którego zdążali, a On okazywał, jakoby miał iść dalej. I przymusili go, by został, mówiąc: Zostań z nami, gdyż ma się ku wieczorowi i dzień się już nachylił. I wstąpił, by zostać z nimi."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W dziejach Kościoła zdaniem „przymuszaj, by weszli\" usprawiedliwiano nawracanie siłą. **Co w samej przypowieści wyklucza takie odczytanie?** Przyjrzyjcie się temu, kim jest sługa, do kogo idzie i co gospodarz zrobił z tymi, którzy odmówili.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: za darmo, ale nie byle jak",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Mateusz dopisuje do swojej uczty scenę, której u Łukasza nie ma.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 22,11-14",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy wszedł król, aby przypatrzeć się gościom, ujrzał tam człowieka nie odzianego w szatę weselną. I rzecze do niego: Przyjacielu, jak wszedłeś tutaj, nie mając szaty weselnej? A on oniemiał. Wtedy król rzekł sługom: Zwiążcie mu nogi i ręce i wyrzućcie go do ciemności zewnętrznej; tam będzie płacz i zgrzytanie zębów. Albowiem wielu jest wezwanych, ale mało wybranych."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Są dwa główne odczytania szaty. Według pierwszego szata jest darem króla: ludzie zgarnięci prosto z drogi nie mogli mieć własnego stroju, więc dostali go przy wejściu, a ten jeden uznał, że jego ubranie wystarczy. Szata oznacza wtedy sprawiedliwość, którą człowiek przyjmuje od Chrystusa, a nie wytwarza sam. Trzeba uczciwie dodać, że o rozdawaniu szat tekst nie wspomina. Według drugiego odczytania szata to życie, które odpowiada zaproszeniu. Przemawia za nim obraz z Apokalipsy:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 19,7-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Weselmy się i radujmy się, i oddajmy mu chwałę, gdyż nastało wesele Baranka, i oblubienica jego przygotowała się; i dano jej przyoblec się w czysty, lśniący bisior, a bisior oznacza sprawiedliwe uczynki świętych."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co w tekście Mateusza przemawia za pierwszym odczytaniem, a co za drugim?** Zwróćcie uwagę, że gość nie ma nic na swoją obronę.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W Apokalipsie oblubienica „przygotowała się\", a zarazem szatę „dano jej\". **Co łączy oba odczytania?** Czy można przyjąć zaproszenie na tę ucztę i zostać dokładnie takim, jakim się przyszło?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: gniew gospodarza",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ostatnie zdanie przypowieści brzmi twardo: żaden z zaproszonych nie skosztuje wieczerzy. Część czytelników słyszy w nim wyrok, który gospodarz wydaje w gniewie. Inni zauważają, że gospodarz nikomu niczego nie odbiera. Nie wysyła sługi z karą. Stwierdza skutek: uczta odbywa się dziś, a ci trzej wybrali na dziś coś innego. Obie strony zgadzają się w jednym: miejsca przy stole nie zostaną puste i nie przepadają dlatego, że gospodarz był skąpy w zapraszaniu.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy werset 24 jest karą, czy opisem tego, co zaproszeni sami wybrali? Co w tekście przemawia za każdą z odpowiedzi?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pole, woły i małżeństwo są dobre i żadna z tych rzeczy nie miała być przeszkodą. **Co jest twoim polem i twoimi wołami, czyli rzeczą dobrą, która regularnie wygrywa z zaproszeniem od Boga?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wróćcie do wersetów 12-14. **Dla kogo przy naszym stole, w domu albo w tej grupie, jest miejsce, choć nigdy się nie odwdzięczy?** A kto jest na liście głównie dlatego, że się odwdzięczy?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **na które zaproszenie Boga odpowiadasz od dawna „przyjdę, tylko jeszcze nie teraz\"?** Nie musisz mówić, co stoi na przeszkodzie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Gospodarz nie posyła sługi drugi raz do tych, którzy się wymówili. Posyła go gdzie indziej. **Czy jest chwila, w której „nie teraz\" staje się „nigdy\"? Kto o tym decyduje: gospodarz czy zaproszony?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie zamykaj tego pytania formułą i nie pozwól, żeby ktokolwiek zaczął zgadywać, kto z jego bliskich już się spóźnił. Przypowieść jest opowiedziana ludziom, którzy jeszcze siedzą przy stole z Jezusem, więc dla nich wciąż jest zaproszeniem, a nie wyrokiem.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Od stołu u Boga rzadko odciąga człowieka wielkie zło. Częściej robi to dobra rzecz, która akurat dziś nie może poczekać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Łk 14,17 albo Łk 14,23.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Posłuchaj w tym tygodniu własnych wymówek wobec Boga. **Które z nich są powodem, a które tylko uprzejmym zdaniem?** Spróbuj choć raz powiedzieć Mu wprost „nie chcę\" zamiast „nie mogę\" i zobacz, co się wtedy w tobie odezwie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zdanie „już wszystko gotowe\" znaczy, że do tego stołu niczego nie trzeba dokładać. Zapytaj siebie: **co wciąż próbuję przynieść ze sobą, żeby poczuć, że mam prawo wejść?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** pomyśl o kimś, kto twoim zdaniem nie pasuje do stołu u Boga. Powiedz Bogu szczerze, dlaczego tak myślisz, i zostań chwilę przy zdaniu „i jeszcze jest miejsce\".",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli praca i rodzina przeszkadzają w wierze?\"** Tekst tego nie mówi. Pole, woły i żona są dobre, a Prawo Mojżesza samo chroniło radość z nich. Przypowieść pokazuje coś innego: dobra rzecz użyta jako powód, żeby nie przyjść. Zapytaj: „Po czym poznać, że coś dobrego zaczęło mi zasłaniać Tego, kto to dał?\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zapracowany albo opiekujący się chorym słyszy w przypowieści zarzut.** Powiedz wprost, że uczta nie oznacza liczby nabożeństw ani funkcji w zborze. Zaproszenie dotyczy przyjęcia tego, co Bóg przygotował, a to można zrobić także przy łóżku chorej matki. Nie pozwól grupie oceniać czyjegokolwiek kalendarza.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Przymuszaj, by weszli\": ktoś przywołuje przymus religijny z historii albo własne doświadczenie nacisku.** Przyznaj, że to zdanie było nadużywane. Pokaż tekst: jeden sługa, żadnej siły, ludzie spod płotu, a wobec tych, którzy odmówili, gospodarz nie używa żadnego przymusu. Jeśli ktoś opowiada o tym, jak wiarę wymuszano na nim w domu, wysłuchaj i nie broń nikogo.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś używa tego samego zdania, żeby uzasadnić naciskanie na męża, żonę albo dorosłe dzieci.** Wróć do notki w bloku 5. Naleganie z przypowieści przekonuje kogoś, kto nie wierzy, że jest mile widziany. Nie łamie czyjejś woli. Nie doradzaj w konkretnej sprawie rodzinnej przy grupie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa skręca w politykę: bezdomni, zasiłki, migranci.** Przerwij spokojnie. Jezus mówi do gospodarza o jego własnym stole, nie o programie dla państwa. Wróć do pytania w pierwszej osobie: kto jest na mojej liście.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Przy stole siedzi osoba z niepełnosprawnością albo w trudnej sytuacji materialnej, a grupa mówi o „tych biednych ludziach\".** Przeformułuj bez zawstydzania kogokolwiek: w przypowieści ci ludzie nie są przedmiotem dobroczynności, tylko gośćmi, dla których trzymano miejsce. Wszyscy przy tym stole jesteśmy z dróg i opłotków.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To Bóg się obraża i skreśla ludzi?\"** Zapytaj, co gniew gospodarza robi w wersecie 21. Skutkiem gniewu jest szersze zaproszenie, nie odwet. Jeśli grupa pracuje na poziomie 3, jest tam osobny blok o wersecie 24.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś chce spierać się o uzdrawianie w szabat.** To ważny temat, ale nie na dziś. W serii „Szabat jako dar\" jest osobne spotkanie „Jezus i szabat\". Dziś wystarczy zauważyć, że cała ta rozmowa odbywa się przy szabatowym stole.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Skróć bloki 1 i 2 do przeczytania tekstu i jednego pytania. Bloki 3, 4 i 5 to przypowieść, a bez wersetu 15 nie widać, na co ona odpowiada.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Czyli praca i rodzina przeszkadzają w wierze?\"",
+     "odpowiedz": "Tekst tego nie mówi. Pole, woły i żona są dobre, a Prawo Mojżesza samo chroniło radość z nich. Przypowieść pokazuje coś innego: dobra rzecz użyta jako powód, żeby nie przyjść. Zapytaj: „Po czym poznać, że coś dobrego zaczęło mi zasłaniać Tego, kto to dał?\""
+    },
+    {
+     "sytuacja": "Ktoś zapracowany albo opiekujący się chorym słyszy w przypowieści zarzut.",
+     "odpowiedz": "Powiedz wprost, że uczta nie oznacza liczby nabożeństw ani funkcji w zborze. Zaproszenie dotyczy przyjęcia tego, co Bóg przygotował, a to można zrobić także przy łóżku chorej matki. Nie pozwól grupie oceniać czyjegokolwiek kalendarza."
+    },
+    {
+     "sytuacja": "„Przymuszaj, by weszli\": ktoś przywołuje przymus religijny z historii albo własne doświadczenie nacisku.",
+     "odpowiedz": "Przyznaj, że to zdanie było nadużywane. Pokaż tekst: jeden sługa, żadnej siły, ludzie spod płotu, a wobec tych, którzy odmówili, gospodarz nie używa żadnego przymusu. Jeśli ktoś opowiada o tym, jak wiarę wymuszano na nim w domu, wysłuchaj i nie broń nikogo."
+    },
+    {
+     "sytuacja": "Ktoś używa tego samego zdania, żeby uzasadnić naciskanie na męża, żonę albo dorosłe dzieci.",
+     "odpowiedz": "Wróć do notki w bloku 5. Naleganie z przypowieści przekonuje kogoś, kto nie wierzy, że jest mile widziany. Nie łamie czyjejś woli. Nie doradzaj w konkretnej sprawie rodzinnej przy grupie."
+    },
+    {
+     "sytuacja": "Rozmowa skręca w politykę: bezdomni, zasiłki, migranci.",
+     "odpowiedz": "Przerwij spokojnie. Jezus mówi do gospodarza o jego własnym stole, nie o programie dla państwa. Wróć do pytania w pierwszej osobie: kto jest na mojej liście."
+    },
+    {
+     "sytuacja": "Przy stole siedzi osoba z niepełnosprawnością albo w trudnej sytuacji materialnej, a grupa mówi o „tych biednych ludziach\".",
+     "odpowiedz": "Przeformułuj bez zawstydzania kogokolwiek: w przypowieści ci ludzie nie są przedmiotem dobroczynności, tylko gośćmi, dla których trzymano miejsce. Wszyscy przy tym stole jesteśmy z dróg i opłotków."
+    },
+    {
+     "sytuacja": "„To Bóg się obraża i skreśla ludzi?\"",
+     "odpowiedz": "Zapytaj, co gniew gospodarza robi w wersecie 21. Skutkiem gniewu jest szersze zaproszenie, nie odwet. Jeśli grupa pracuje na poziomie 3, jest tam osobny blok o wersecie 24."
+    },
+    {
+     "sytuacja": "Ktoś chce spierać się o uzdrawianie w szabat.",
+     "odpowiedz": "To ważny temat, ale nie na dziś. W serii „Szabat jako dar\" jest osobne spotkanie „Jezus i szabat\". Dziś wystarczy zauważyć, że cała ta rozmowa odbywa się przy szabatowym stole."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Skróć bloki 1 i 2 do przeczytania tekstu i jednego pytania. Bloki 3, 4 i 5 to przypowieść, a bez wersetu 15 nie widać, na co ona odpowiada."
+    }
+   ]
+  }
+ ]
+}

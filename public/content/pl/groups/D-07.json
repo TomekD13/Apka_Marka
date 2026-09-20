@@ -1,0 +1,833 @@
+{
+ "tytul": "Daniel 7. Bestie i Syn Człowieczy",
+ "id": "D-07",
+ "seria": "Księga Daniela",
+ "opis": "Cztery bestie, sala sądowa i ktoś o ludzkiej twarzy: sąd, który staje po stronie skrzywdzonych.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": "D-06",
+ "nastepny": "D-08",
+ "teksty": {
+  "p1": "Dn 7,1-8; 7,9-12; 7,13-14; 7,15-18; 7,19-28",
+  "p2": "Dn 2,39-40.44; Mk 14,61-64; Łk 12,32; Mt 4,8-10",
+  "p3": "Ps 104,1-3; Ps 8,5-9; J 18,36"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 26,
+  "p3": 31
+ },
+ "tagi": [
+  "Daniel",
+  "proroctwo",
+  "sąd",
+  "Syn Człowieczy",
+  "królestwo Boże",
+  "nadzieja",
+  "władza"
+ ],
+ "wersja": 1,
+ "zdanie": "Bestie hałasują na dole, a na górze już postawiono trony i królestwo jest przyznane komuś o ludzkiej twarzy.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Od tego rozdziału księga mówi obrazami. Łatwo zrobić z niego zagadkę: które zwierzę to które państwo i kim jest mały róg. To spotkanie idzie za proporcjami samego tekstu. Kiedy przerażony Daniel prosi o wyjaśnienie, anioł streszcza całą wizję w dwóch zdaniach: będą cztery królestwa, a potem królestwo otrzymają święci. Środkiem rozdziału nie są bestie, tylko sala sądowa i ktoś podobny do człowieka, komu oddano władzę na zawsze. Sąd w tym rozdziale zapada na korzyść skrzywdzonych. Z tym zdaniem grupa ma wyjść.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Tekst nie nazywa po imieniu żadnego królestwa ani małego rogu. Poziom 1 trzyma się tego, co stoi w tekście. Imiona królestw, które podaje sama księga, są na poziomie 2. Odczytania małego rogu są na poziomie 3.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Bieżąca polityka. Ktoś zechce wskazać bestię w dzisiejszym państwie, przywódcy albo organizacji. Materiał tego nie robi i grupa też nie powinna.",
+      "Daty i wyliczenia. Ktoś zna je na pamięć i zechce wygłosić. Materiał celowo nie podaje żadnej daty.",
+      "Przy stole mogą siedzieć katolicy albo ludzie z katolickich rodzin. Adwentystyczne odczytanie małego rogu dotyczy systemu władzy, nie wierzących ludzi. Żadnych żartów, żadnej pogardy, żadnych zdań o współczesnych osobach i wspólnotach.",
+      "Słowo „sąd\" wielu osobom kojarzy się wyłącznie ze strachem. Ten rozdział go odwraca, ale nie każdy uwierzy w to od razu."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie rysuj tabelki, zanim grupa sama nie opisze wizji. Nie dopowiadaj imion, których nie ma w tekście. Nie pozwól, żeby proroctwo stało się pretekstem do mówienia źle o kimkolwiek.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "*Pomiń to zdanie, jeśli grupa wchodzi w serię od tego miejsca.* Ostatnio Daniel przeżył noc wśród lwów, które go nie tknęły. Dziś księga cofa się o kilkanaście lat i pokazuje jego własny sen, w którym zwierzęta są dużo groźniejsze.",
+     "poziom": 1
+    },
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie sytuację, w której ktoś został potraktowany niesprawiedliwie i nikt nie stanął po jego stronie. Nie opowiadaj szczegółów. Powiedz jednym zdaniem, czego wtedy najbardziej brakowało.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Z morza",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 7,1-8",
+       "przeklad": "BW",
+       "akapity": [
+        "W pierwszym roku Belsazara, króla babilońskiego, miał Daniel sen, a to co widział, leżąc na swoim łóżku, zaniepokoiło go. Potem spisał sen, a oto jego treść: Ja, Daniel, miałem w nocy widzenie: Oto cztery wiatry niebieskie wzburzyły Wielkie Morze, i cztery wielkie zwierzęta wychodziły z morza, każde inne. Pierwsze było podobne do lwa i miało orle skrzydła. Gdy potem spojrzałem, wyrwano jego skrzydła; wtedy podniosło się z ziemi i stanęło na dwóch nogach jak człowiek i dano mu ludzkie serce. Potem pojawiło się inne, drugie zwierzę, podobne do niedźwiedzia; było ono podniesione tylko jedną stroną, a miało w paszczy między zębami trzy żebra, i powiedziano mu: Wstań, jedz dużo mięsa! Potem spojrzałem, a oto pojawiło się inne, podobne do pantery; miało ono na grzbiecie cztery ptasie skrzydła, i cztery głowy miało to zwierzę, i dano mu władzę. Potem spojrzałem i w widzeniu nocnym pojawiło się czwarte zwierzę, straszne i groźne, i nadzwyczaj silne; miało ono potężne żelazne zęby: pożerało i miażdżyło, a co pozostało, deptało swoimi nogami, było ono inne aniżeli wszystkie poprzednie zwierzęta, a miało dziesięć rogów. Gdy uważnie przypatrywałem się rogom, zaczął wyrastać między nimi inny, mały róg, i trzy spośród poprzednich rogów zostały wyrwane. Na tym rogu były oczy jakby oczy ludzkie i usta, które mówiły zuchwałe słowa."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Opiszcie cztery zwierzęta po kolei, tylko z tekstu.** Co je łączy? Co się zmienia od pierwszego do czwartego?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Poszukajcie form biernych: „wyrwano\", „dano mu ludzkie serce\", „powiedziano mu\", „dano mu władzę\". **Kto jest w tych zdaniach niewidocznym podmiotem? Co to mówi o potęgach, które wyglądają na wszechmocne?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Mały róg nie ma kłów ani pazurów. Ma ludzkie oczy i usta, które dużo mówią. **Dlaczego właśnie on skupia całą uwagę Daniela? Co jest niepokojącego w potędze, która wygląda po ludzku?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Daniel ma ten sen w pierwszym roku Belsazara, czyli jeszcze przed ucztą z rozdziału 5 i przed lwią jamą. Księga cofa się w czasie, bo zmienia temat: dotąd opowiadała o ludziach na dworze, teraz pokazuje historię widzianą z góry. Wzburzone morze jest w Biblii obrazem niespokojnych narodów. Imperia nie spadają z nieba. Wychodzą z zamętu, jedno po drugim, i każde jest bardziej drapieżne od poprzedniego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy w księdze",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** Dokładnie na zawiasie księgi. To pierwsze widzenie samego Daniela i zarazem ostatni rozdział napisany po aramejsku, w języku narodów. Rozdziały 2 i 7 spinają tę część jak klamra: na początku król widzi cztery królestwa jako lśniący posąg, na końcu prorok widzi te same królestwa jako drapieżniki. Rozdziały od 8 do 12 będą rozwijać to, co tu zostało pokazane.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Nebukadnesar już nie żyje. Na tronie w Babilonie zasiada Belsazar, a imperium, które wyglądało na wieczne, słabnie. Daniel jest starszym człowiekiem i, jak pokazuje rozdział 5, na dworze mało kto o nim pamięta. Do upadku miasta zostało kilkanaście lat.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ten sam sen drugi raz",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 2,39-40.44",
+       "przeklad": "BW",
+       "akapity": [
+        "ale po tobie powstanie inne królestwo, słabsze niż twoje, a potem trzecie królestwo z miedzi, które opanuje całą ziemię. Czwarte królestwo będzie mocne jak żelazo, bo żelazo wszystko kruszy i łamie; i jak żelazo, które kruszy, tak i ono wszystko skruszy i zdruzgocze. [...] Za dni tych królów Bóg niebios stworzy królestwo, które na wieki nie będzie zniszczone, a królestwo to nie przejdzie na inny lud; zniszczy i usunie wszystkie owe królestwa, lecz samo ostoi się na wieki,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Cztery metale i cztery zwierzęta, żelazo i żelazne zęby, a na końcu królestwo, które trwa. **Te same dzieje widzi raz pogański król, a raz prorok na wygnaniu. Czym różni się imperium oglądane z tronu od imperium oglądanego z dołu?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co rozdział 7 dodaje do snu o posągu?** Wypiszcie wszystko, czego w rozdziale 2 nie było.",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Sama księga podaje imiona trzech królestw: Babilon w 2,38, Medowie i Persowie w 5,28, Grecja w 8,20-21. Lew ze skrzydłami, niedźwiedź podniesiony jedną stroną i czterogłowa pantera układają się w tę samą kolejność. Czwartego królestwa Daniel nie nazywa. W dziejach po Grecji przyszedł Rzym, a po nim nie nastało żadne piąte imperium, tylko wiele mniejszych państw. Tak czyta ten rozdział szkoła historyczna, do której należą adwentyści. Inne szkoły liczą królestwa inaczej i jest o tym mowa na poziomie 3.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Trony",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 7,9-12",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy patrzałem, postawiono trony i usiadł Sędziwy. Jego szata była biała jak śnieg, a włosy na głowie czyste jak wełna. Jego tron jak płomienie ogniste, a jego koła jak ogień płonący. Ognista rzeka wypływała i wychodziła sprzed niego. Tysiąc tysięcy służyło mu, a dziesięć tysięcy razy dziesięć tysięcy stało przed nim; zasiadł sąd i otworzono księgi. Potem, na dźwięk zuchwałych słów, które wypowiadał róg, spojrzałem i widziałem, jak zwierzę zostało zabite, jego ciało zniszczone i wrzucone do ognia na spalenie. Również pozostałym zwierzętom odebrano ich władzę, a długość ich życia była ograniczona do pewnego okresu i czasu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wzrok Daniela przenosi się z morza na salę sądową. **Co się zmienia w nastroju sceny? Opiszcie tę salę: kto siedzi, kto stoi, co leży na stole.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Róg wciąż wygłasza swoje zuchwałe słowa, a sąd już zasiada. **Co to znaczy dla ludzi żyjących pod władzą bestii, że rozprawa toczy się, zanim hałas ucichnie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Otworzono księgi\". Nic nie zginęło, wszystko jest zapisane. **Dla kogo to dobra wiadomość, a dla kogo zła?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Dla wielu z nas sąd Boży to sala, w której jesteśmy oskarżonymi. W tej scenie na ławie oskarżonych siedzą bestie. Biblia często mówi o sądzie tak, jak mówi o nim człowiek skrzywdzony: jako o chwili, w której ktoś wreszcie nazwie krzywdę po imieniu i ją naprawi. Dlatego psalmy o sąd proszą, zamiast się go bać. Pierwsi czytelnicy Daniela żyli pod obcą władzą i dla nich słowa „zasiadł sąd\" były obietnicą.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Ktoś podobny do człowieka",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 7,13-14",
+       "przeklad": "BW",
+       "akapity": [
+        "I widziałem w widzeniach nocnych: Oto na obłokach niebieskich przyszedł ktoś, podobny do Syna Człowieczego; doszedł do Sędziwego i stawiono go przed nim. I dano mu władzę i chwałę, i królestwo, aby mu służyły wszystkie ludy, narody i języki, Jego władza – władzą wieczną, niezmienną, jego królestwo – niezniszczalne."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Po czterech drapieżnikach pojawia się ktoś o ludzkiej twarzy. **Zestawcie go z bestiami: skąd przychodzą one, a skąd on? Jak one zdobywają władzę, a jak on ją otrzymuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Wypiszcie z wersetu 14 wszystko, co zostaje mu dane, i na jak długo.** Porównajcie to z wersetem 12, gdzie bestie mają życie „ograniczone do pewnego okresu i czasu\".",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Historia w tej wizji kończy się rządami kogoś, kto jest podobny do człowieka, a nie do zwierzęcia. **Co to mówi o tym, jak Bóg wyobraża sobie władzę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "„Syn Człowieczy\" to określenie, którym Jezus mówił o sobie najczęściej. W Ewangeliach pada kilkadziesiąt razy i prawie zawsze z Jego własnych ust. Nie wymyślił go. Sięgnął po widzenie, które Jego słuchacze znali. Kiedy mówił „Syn Człowieczy ma władzę\", ci, którzy czytali Daniela, słyszeli w tle tę scenę: salę sądową, Sędziwego na tronie i królestwo oddane komuś, kto ma ludzką twarz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Przed innym sądem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 14,61-64",
+       "przeklad": "BW",
+       "akapity": [
+        "On zaś milczał i nic nie odpowiedział. Znowu zapytał go arcykapłan, i rzekł mu: Czy Ty jesteś Chrystus, Syn Błogosławionego? A Jezus rzekł: Jam jest; i ujrzycie Syna Człowieczego, siedzącego na prawicy mocy Bożej i przychodzącego z obłokami niebieskimi. Wtedy arcykapłan rozdarł szaty swoje i rzekł: Na co potrzeba nam jeszcze świadków? Wszak słyszeliście bluźnierstwo. Cóż się wam zdaje? A oni wszyscy rzekli, że zasługuje na śmierć."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus stoi związany przed trybunałem i cytuje Daniela 7. **Kto w Jego słowach jest sędzią, a kto sądzonym? Dlaczego to jedno zdanie wystarczyło za wyrok śmierci?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przez całą Ewangelię Marka Jezus unika tytułów. Mówi wprost dopiero wtedy, gdy kosztuje to życie. **Co ta chwila mówi o królestwie, które ma otrzymać? Jaką drogą do niego idzie?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo: obłoki i kierunek",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Aramejskie wyrażenie znaczy dosłownie „ktoś jak syn człowieka\", czyli ktoś o ludzkim wyglądzie. W Danielu to jeszcze porównanie, nie tytuł. Niezwykłe jest co innego: ta ludzka postać przychodzi na obłokach, a w Starym Testamencie obłoki są pojazdem Boga.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 104,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "Błogosław, duszo moja, Panu! Panie, Boże mój, jesteś bardzo wielki! Przywdziałeś chwałę i majestat. Przyodziewasz się światłością jak szatą, Niebiosa rozciągasz jak kobierzec. Budujesz na wodach swoje górne komnaty; Czynisz obłoki rydwanem swoim, Suniesz na skrzydłach wiatru."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Warto też zauważyć kierunek. W Nowym Testamencie obłoki kojarzą się z powrotem Jezusa na ziemię. Tutaj Syn Człowieczy nie schodzi na ziemię, tylko dochodzi do Sędziwego, który zasiada w niebie. To scena objęcia władzy przed tronem Boga, a nie scena przyjścia do ludzi.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ktoś wygląda jak człowiek, a porusza się jak Bóg, i zostaje postawiony przed Bogiem. **Jakie pytania musiała budzić ta postać u czytelników Daniela przez kilkaset lat, zanim Jezus zaczął tak mówić o sobie?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo: porządek stworzenia",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 8,5-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Czymże jest człowiek, że o nim pamiętasz, Lub syn człowieczy, że go nawiedzasz? Uczyniłeś go niewiele mniejszym od Boga, Chwałą i dostojeństwem uwieńczyłeś go. Dałeś mu panowanie nad dziełami rąk swoich, Wszystko złożyłeś pod stopy jego: Owce i wszelkie bydło, Nadto zwierzęta polne, Ptactwo niebieskie i ryby morskie, Cokolwiek ciągnie szlakami mórz."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Na początku człowiek dostał panowanie nad zwierzętami. W wizji Daniela zwierzęta panują nad ludźmi, aż władzę otrzymuje „syn człowieczy\". **Co ta wizja mówi o historii, jeśli przeczytać ją jako opowieść o odwróconym i przywróconym porządku stworzenia?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Dwa zdania anioła",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 7,15-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Ja, Daniel, byłem zaniepokojony w duchu z tego powodu, a to co widziałem, przestraszyło mnie. Przystąpiłem do jednego z tych, którzy tam stali, i prosiłem go o wiarygodne wyjaśnienie tego wszystkiego. I odpowiedział, i dał mi wykład wydarzeń. Owe wielkie cztery zwierzęta, to czterej królowie, którzy powstaną na ziemi. Lecz potem Święci Najwyższego otrzymają królestwo i posiądą królestwo na wieki, na wieki wieczne."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Anioł streszcza całą wizję w dwóch zdaniach. **Co uznał za najważniejsze? Ile miejsca poświęcił bestiom, a ile zakończeniu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Święci królestwo „otrzymają\". Nie zdobędą go i nie wywalczą. **Co to zmienia w sposobie, w jaki mają żyć pod władzą bestii?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Człowiek, który tłumaczył sny królom, sam nie rozumie własnego snu, boi się i prosi o pomoc. **Czego uczy nas to o postawie wobec proroctw?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Mała trzódka i skrót",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 12,32",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie bój się, maleńka trzódko! Gdyż upodobało się Ojcu waszemu dać wam Królestwo."
+       ]
+      },
+      {
+       "odnosnik": "Mt 4,8-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Znowu wziął go diabeł na bardzo wysoką górę i pokazał mu wszystkie królestwa świata oraz chwałę ich. I rzekł mu: To wszystko dam ci, jeśli upadniesz i złożysz mi pokłon. Wtedy rzekł mu Jezus: Idź precz, szatanie! Albowiem napisano: Panu Bogu swemu pokłon oddawać i tylko jemu służyć będziesz."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi do garstki uczniów słowami anioła z Daniela: królestwo zostanie wam dane. **Jak brzmi to zdanie, kiedy jest się małą trzódką wśród bestii?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wszystkie królestwa świata i tak były przyznane Synowi Człowieczemu. Diabeł proponuje Mu je od ręki, bez krzyża. **Na czym polegała ta pokusa? Gdzie Kościół bywał kuszony tak samo: żeby wziąć władzę na skróty?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Róg, sąd i święci",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 7,19-28",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy zapragnąłem dowiedzieć się prawdy o czwartym zwierzęciu, które było inne niż wszystkie inne, straszne nad miarę, z żelaznymi zębami i miedzianymi pazurami, pożerało i miażdżyło, a to co pozostało, deptało nogami, i o dziesięciu rogach na jego głowie, i o innym rogu, który wyszedł i przed którym trzy z nich wypadły, o rogu, który miał oczy i usta, które mówiły zuchwale, i który wyglądał na większy niż inne. A gdy patrzyłem, wtedy ów róg prowadził wojnę ze Świętymi i przemógł ich, aż przyszedł Sędziwy i odbył się sąd i prawo zostało przyznane Świętym Najwyższego, i nadszedł czas, że Święci otrzymali królestwo.",
+        "I tak rzekł: Czwarte zwierzę oznacza czwarte królestwo na ziemi, które jest inne niż wszystkie królestwa; ono pochłonie całą ziemię, podepcze i zmiażdży ją. A dziesięć rogów znaczy, że z tego królestwa powstanie dziesięciu królów, a po nich powstanie inny; ten będzie inny niż poprzedni i obali trzech królów. I będzie mówił zuchwałe słowa przeciwko Najwyższemu, będzie męczył Świętych Najwyższego, będzie zamyślał odmienić czasy i zakon; i będą wydani w jego moc aż do czasu i dwóch czasów i pół czasu. Potem odbędzie się sąd i pozbawią go władzy, aby ją ostatecznie zniszczyć i obalić. Królestwo, władza i moc nad wszystkimi królestwami pod całym niebem będą przekazane ludowi Świętych Najwyższego. Jego królestwo jest królestwem wiecznym, a wszystkie moce jemu będą służyć i jemu będą poddane.",
+        "Tu kończy się opowiadanie. A mnie, Daniela, bardzo zaniepokoiły moje myśli, barwa mojej twarzy zmieniła się; i zachowałem to słowo w mojej pamięci."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Wypiszcie z wersetu 25 cztery rzeczy, które robi róg.** Przeciw komu albo czemu zwraca się każda z nich? Czy to potęga obojętna na religię, czy bardzo nią zajęta?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dwa razy pada tu „aż\": „przemógł ich, aż przyszedł Sędziwy\" i „aż do czasu\". **Co te słowa znaczą dla ludzi, którzy przegrywają?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Prawo zostało przyznane Świętym Najwyższego\". **Po czyjej stronie staje ten sąd? Jak to się ma do obrazu sądu Bożego, z którym przyszliście na to spotkanie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Wizja kończy się najlepiej, jak można, a Daniel jest blady i zaniepokojony. **Co mówi o tej księdze to, że nie ukrywa strachu własnego autora?**",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "tekst nie podaje imienia rogu. Jeśli grupa zacznie je podawać, zapytaj: „Które cechy z wersetów 24-25 już sprawdziliśmy?\". Odczytania są na poziomie 3.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Przed następnym spotkaniem",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Na tym kończy się aramejska część księgi. Od rozdziału 8 Daniel wraca do hebrajskiego, a zamiast dzikich bestii zobaczy barana i kozła, czyli zwierzęta, które Izrael składał w ofierze w świątyni. **Co może zapowiadać taka zmiana obrazów? O czym będzie następna wizja, skoro jej bohaterami są zwierzęta ofiarne?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: kim jest mały róg",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Tekst nie podaje imienia rogu, ale daje jego rysopis. Wyrasta z czwartego królestwa, już po jego podziale. Jest inny niż pozostałe rogi. Ma ludzkie oczy i usta. Mówi przeciw Najwyższemu, męczy świętych, zamierza zmienić czasy i prawo, działa przez długi wyznaczony okres, a kończy go dopiero sąd Boży. Uczciwe odczytanie musi pasować do całego rysopisu, nie do jednej cechy.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Odczytanie preterystyczne widzi w rogu Antiocha IV, syryjskiego króla, który w drugim wieku przed Chrystusem zbezcześcił świątynię i prześladował Żydów. Żeby czwartym królestwem była Grecja, liczy Medów i Persów osobno. Jego mocną stroną jest podobieństwo czynów Antiocha do rysopisu. Słabą to, że sama księga traktuje Medów i Persów jako jedno królestwo, w 5,28 i 8,20, a po upadku Antiocha nie nastało królestwo świętych.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Odczytanie futurystyczne widzi w rogu jednego człowieka, antychrysta, który pojawi się tuż przed końcem. Zachowuje kolejność królestw, ale zostawia kilkanaście wieków historii bez słowa.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Odczytanie historyczne jest dziedzictwem protestanckim: tak czytało Daniela wielu reformatorów i ich następców, tak czytają adwentyści. Widzi ono w rogu władzę religijno-polityczną, która wyrosła na gruzach cesarstwa rzymskiego: średniowieczny sojusz ołtarza z tronem, z papiestwem w środku, który w sprawach sumienia sięgał po miecz państwa. To odczytanie mówi o systemie, nie o ludziach. Nie wypowiada się o wierze ani o zbawieniu nikogo, dawnego ani dzisiejszego, a w każdym stuleciu i w każdym Kościele żyli szczerzy uczniowie Jezusa. Wniosek dotyczy każdej wspólnoty, także naszej. Bóg nie potrzebuje władzy politycznej, żeby prowadzić i chronić swój lud, a Kościół, który sięga po przymus, staje po złej stronie tej wizji.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Wszystkie trzy odczytania zgadzają się w tym, co najważniejsze. Przemoc w imię religii jest bluźnierstwem, ma wyznaczony koniec, a ostatnie słowo należy do sądu, który staje po stronie skrzywdzonych.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 18,36",
+       "przeklad": "BW",
+       "akapity": [
+        "Odpowiedział Jezus: Królestwo moje nie jest z tego świata; gdyby z tego świata było Królestwo moje, słudzy moi walczyliby, abym nie był wydany Żydom; bo właśnie Królestwo moje nie jest stąd."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które cechy rogu da się ustalić z samego tekstu, zanim otworzy się podręcznik historii?** Dlaczego warto zaczynać od rysopisu, a nie od gotowego imienia?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mały róg jest bardzo religijny: zajmuje się Bogiem, świętymi i prawem. Jezus mówi Piłatowi, że Jego słudzy nie walczą. **Gdzie chrześcijanie, dawniej i dziś, w każdym wyznaniu, ulegają pokusie, żeby Bożych spraw bronić siłą?** Gdzie ulegamy jej my?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie musisz bronić żadnego odczytania. Wystarczy pokazać, że historyczne trzyma się kolejności królestw, którą podaje sama księga. Pilnuj tonu. To proroctwo nikomu nie daje prawa do pogardy.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel zobaczył historię dwa razy: z poziomu morza i z poziomu tronu. **Na co patrzysz częściej, kiedy myślisz o świecie i o własnym życiu: na bestie czy na salę sądową? Co by się zmieniło, gdybyś częściej podnosił wzrok?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Sąd w tej wizji staje po stronie skrzywdzonych. **Jaką krzywdę, swoją albo cudzą, chciałbyś umieć zostawić temu sądowi, zamiast nosić ją sam?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **gdzie w twoim życiu coś hałaśliwego i groźnego wygląda dziś na zwycięzcę, a ty czekasz na swoje „aż\"?** Nie musisz mówić, co to jest.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Róg prowadził wojnę ze Świętymi i przemógł ich\". Bóg w tej wizji widzi wszystko, ma księgi i trony, a mimo to Jego ludzie przegrywają, i to długo. **Dlaczego sąd nie zasiada wcześniej? Co znaczy ufać Bogu, który wygrywa na końcu, ale nie oszczędza swoim porażki po drodze?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie zamykaj tego pytania. Warto, żeby padło jedno spostrzeżenie z tekstu: czas rogu jest odmierzony z góry, co do połowy. Bestia nie decyduje o tym, jak długo trwa.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bestie hałasują na dole, a na górze już postawiono trony i królestwo jest przyznane komuś o ludzkiej twarzy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Dn 7,14 albo Dn 7,18.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przez najbliższe dni zwróć uwagę, co w tobie rośnie, kiedy czytasz albo oglądasz wiadomości: strach, złość, bezradność. Zapytaj siebie: **czy patrzę teraz tylko na morze?** Potem powiedz na głos jedno zdanie: „Zasiadł sąd i otworzono księgi\". Zobacz, co ono robi z tym, co czujesz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o krzywdzie, której nikt nie naprawił. Powiedz o niej Bogu jak sędziemu, który prowadzi twoją sprawę: co się stało, kto zawinił, czego nie da się już cofnąć. Nie łagodź i nie usprawiedliwiaj nikogo na siłę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** mały róg chciał dobrych rzeczy złymi środkami. Zapytaj Boga, gdzie ty sam próbujesz wymusić coś słusznego: w domu, w zborze, w rozmowach o wierze. Zostań przy tym pytaniu, nawet jeśli odpowiedź jest niewygodna.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Ta bestia to przecież...\" i pada nazwa dzisiejszego państwa, przywódcy, organizacji albo wojny.** Przerwij spokojnie i od razu. Wizja zamyka listę imperiów na czwartym i nie opisuje bieżących wydarzeń. Każde pokolenie, które dopasowywało ją do swoich gazet, myliło się. Powiedz: „Zostańmy przy tym, co anioł uznał za najważniejsze\", i wróć do wersetów 17-18.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna wyliczać daty i lata.** Podziękuj i powiedz, że materiał celowo nie podaje żadnej daty, bo anioł też żadnej nie podał, a Daniel zrozumiał z wizji to, co trzeba: kto zasiada na tronie i jak to się kończy. Jeśli grupa chce poznać historyczne odczytanie okresów proroczych, zaproponuj osobne spotkanie z kimś przygotowanym. Nie rób tego przy okazji.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Padają zdania przeciw katolikom, papieżowi albo jakiemukolwiek Kościołowi, także w formie żartu.** Zatrzymaj to natychmiast, nawet jeśli przy stole są sami adwentyści. Powiedz wprost: „To proroctwo mówi o systemie, który łączy wiarę z przymusem, a nie o ludziach. Nikomu nie daje prawa do pogardy\". Jeśli ktoś naciska, przypomnij, że pokusa małego rogu dotyczy każdej wspólnoty, która ma rację i chciałaby mieć jeszcze władzę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Katolik przy stole pyta wprost: „Czy wy uważacie, że papież to antychryst?\"** Nie wykręcaj się i nie atakuj. Możesz powiedzieć: „Adwentyści, podobnie jak wielu protestantów przed nimi, czytają mały róg jako obraz systemu, który w średniowieczu połączył władzę duchowną z państwowym przymusem. To ocena pewnej historii, a nie ludzi, ich wiary ani ich zbawienia. Ten sam tekst ostrzega mój Kościół tak samo jak każdy inny\". Podziękuj za pytanie. Zaproponuj rozmowę po spotkaniu, jeśli chce wiedzieć więcej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś boi się sądu: „ja tam nie mam szans\".** Wróć do tekstu i zapytajcie razem, kto w tej scenie jest oskarżony i na czyją korzyść zapada wyrok. Sąd z Daniela 7 to dobra wiadomość dla tych, którzy należą do Syna Człowieczego. Jeśli lęk jest głęboki i stary, nie rozbrajaj go przy wszystkich. Zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Przecież tę księgę napisano po fakcie.\"** Nie reaguj obronnie. Powiedz, że taki pogląd istnieje i że mowa o nim w materiale do rozdziału 2, na poziomie 3. Zauważ jedno: nawet przy najpóźniejszym datowaniu czwarte królestwo, mały róg i królestwo świętych wybiegają daleko poza czasy autora.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa grzęźnie w szczegółach: które trzy rogi, co znaczą żebra w paszczy niedźwiedzia.** Powiedz uczciwie, że tekst tego nie wyjaśnia, a anioł pominął te szczegóły w swoim wykładzie. Przejdź do bloku 4.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Blok 1 skróć do pierwszego pytania. Nie skracaj bloków 2 i 3, bo one są środkiem rozdziału. Z bloku 5 zostaw pytanie o to, po czyjej stronie staje sąd.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Ta bestia to przecież...\" i pada nazwa dzisiejszego państwa, przywódcy, organizacji albo wojny.",
+     "odpowiedz": "Przerwij spokojnie i od razu. Wizja zamyka listę imperiów na czwartym i nie opisuje bieżących wydarzeń. Każde pokolenie, które dopasowywało ją do swoich gazet, myliło się. Powiedz: „Zostańmy przy tym, co anioł uznał za najważniejsze\", i wróć do wersetów 17-18."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna wyliczać daty i lata.",
+     "odpowiedz": "Podziękuj i powiedz, że materiał celowo nie podaje żadnej daty, bo anioł też żadnej nie podał, a Daniel zrozumiał z wizji to, co trzeba: kto zasiada na tronie i jak to się kończy. Jeśli grupa chce poznać historyczne odczytanie okresów proroczych, zaproponuj osobne spotkanie z kimś przygotowanym. Nie rób tego przy okazji."
+    },
+    {
+     "sytuacja": "Padają zdania przeciw katolikom, papieżowi albo jakiemukolwiek Kościołowi, także w formie żartu.",
+     "odpowiedz": "Zatrzymaj to natychmiast, nawet jeśli przy stole są sami adwentyści. Powiedz wprost: „To proroctwo mówi o systemie, który łączy wiarę z przymusem, a nie o ludziach. Nikomu nie daje prawa do pogardy\". Jeśli ktoś naciska, przypomnij, że pokusa małego rogu dotyczy każdej wspólnoty, która ma rację i chciałaby mieć jeszcze władzę."
+    },
+    {
+     "sytuacja": "Katolik przy stole pyta wprost: „Czy wy uważacie, że papież to antychryst?\"",
+     "odpowiedz": "Nie wykręcaj się i nie atakuj. Możesz powiedzieć: „Adwentyści, podobnie jak wielu protestantów przed nimi, czytają mały róg jako obraz systemu, który w średniowieczu połączył władzę duchowną z państwowym przymusem. To ocena pewnej historii, a nie ludzi, ich wiary ani ich zbawienia. Ten sam tekst ostrzega mój Kościół tak samo jak każdy inny\". Podziękuj za pytanie. Zaproponuj rozmowę po spotkaniu, jeśli chce wiedzieć więcej."
+    },
+    {
+     "sytuacja": "Ktoś boi się sądu: „ja tam nie mam szans\".",
+     "odpowiedz": "Wróć do tekstu i zapytajcie razem, kto w tej scenie jest oskarżony i na czyją korzyść zapada wyrok. Sąd z Daniela 7 to dobra wiadomość dla tych, którzy należą do Syna Człowieczego. Jeśli lęk jest głęboki i stary, nie rozbrajaj go przy wszystkich. Zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "„Przecież tę księgę napisano po fakcie.\"",
+     "odpowiedz": "Nie reaguj obronnie. Powiedz, że taki pogląd istnieje i że mowa o nim w materiale do rozdziału 2, na poziomie 3. Zauważ jedno: nawet przy najpóźniejszym datowaniu czwarte królestwo, mały róg i królestwo świętych wybiegają daleko poza czasy autora."
+    },
+    {
+     "sytuacja": "Rozmowa grzęźnie w szczegółach: które trzy rogi, co znaczą żebra w paszczy niedźwiedzia.",
+     "odpowiedz": "Powiedz uczciwie, że tekst tego nie wyjaśnia, a anioł pominął te szczegóły w swoim wykładzie. Przejdź do bloku 4."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Blok 1 skróć do pierwszego pytania. Nie skracaj bloków 2 i 3, bo one są środkiem rozdziału. Z bloku 5 zostaw pytanie o to, po czyjej stronie staje sąd."
+    }
+   ]
+  }
+ ]
+}

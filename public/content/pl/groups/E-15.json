@@ -1,0 +1,905 @@
+{
+ "tytul": "Rozczarowanie",
+ "id": "E-15",
+ "seria": "Emocje",
+ "opis": "Co zrobić z rozjazdem między tym, czego się spodziewałem, a tym, co przyszło: od ludzi, od siebie, od Boga.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Łk 24,13-21; 2Krl 5,9-14; Jr 17,5-8; J 2,23-25; Łk 24,25-32; Prz 13,12; Rz 5,1-5; Łk 24,33-35",
+  "p2": "Wj 5,22-23; 6,1; 2Krl 5,15; Iz 55,6-9; Hi 6,15-20; Jr 15,18-19; Rz 7,18-19.24-25; Ps 22,2-6",
+  "p3": "Łk 1,68; 2,38; Rz 10,11; Hbr 11,39-40"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 29,
+  "p3": 33
+ },
+ "tagi": [
+  "emocje",
+  "nadzieja",
+  "oczekiwania",
+  "zaufanie",
+  "Emaus"
+ ],
+ "wersja": 1,
+ "zdanie": "Rozczarowanie mówi prawdę o tym, czego się spodziewałem. Nie mówi jeszcze prawdy o tym, co robi Bóg.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Rozczarowanie to rozjazd między tym, czego się spodziewałem, a tym, co przyszło. To spotkanie nie uczy, jak spodziewać się mniej. Idzie za dwoma uczniami, którzy odchodzą z Jerozolimy ze zdaniem „a myśmy się spodziewali\", i patrzy, co Jezus robi z ludźmi rozczarowanymi Nim samym. Po drodze są jeszcze dwa inne rozczarowania: sposobem, w jaki Bóg działa, i ludźmi, na których się oparliśmy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Scenę z Emaus czyta też materiał Zniechęcenie, ale krótko i pod innym kątem. Jeśli grupa go przerabiała, nic nie szkodzi. Tu pytania są inne.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole mogą siedzieć ludzie rozczarowani sobą nawzajem, zborem albo konkretnym pastorem. Nie pozwól na nazwiska i na rozliczenia.",
+      "Ktoś może być rozczarowany Bogiem po modlitwie, która nie została wysłuchana. To nie jest moment na wyjaśnianie mu, dlaczego Bóg tak zrobił.",
+      "Temat łatwo skręca w narzekanie na innych. Pytania prowadzą do pierwszej osoby i tam wracaj."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie broń Boga i nie broń Kościoła. Nie mów „Bóg ma lepszy plan\" i nie pozwól, żeby powiedział to ktoś inny zamiast wysłuchać. Nie sugeruj nikomu, że rozczarował się, bo za dużo oczekiwał.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie coś drobnego, na co bardzo czekałeś, a co okazało się inne, niż sobie wyobrażałeś: wyjazd, prezent, film, spotkanie po latach. Powiedz jednym zdaniem, co to było.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, krótko i lekko. To ma być rzecz mała. Na duże przyjdzie czas.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "A myśmy się spodziewali",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jest niedziela po ukrzyżowaniu Jezusa. Dwaj Jego uczniowie wychodzą z Jerozolimy.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 24,13-21",
+       "przeklad": "BW",
+       "akapity": [
+        "I oto tego samego dnia dwaj z nich szli do miasteczka zwanego Emaus, które było oddalone o sześćdziesiąt stadiów od Jerozolimy. I rozmawiali z sobą o tych wszystkich wydarzeniach. A gdy tak rozmawiali i nawzajem się pytali, sam Jezus, przybliżywszy się, szedł z nimi. Lecz oczy ich były zasłonięte, tak że go poznać nie mogli. I rzekł do nich: Cóż to za rozmowy, idąc, prowadzicie z sobą? I przystanęli przygnębieni.",
+        "A odpowiadając jeden, imieniem Kleopas, rzekł do niego: Czyś Ty jedyny pątnik w Jerozolimie, który nie wie, co się w niej w tych dniach stało? Rzekł im: Co? Oni zaś odpowiedzieli mu: Z Jezusem Nazareńskim, który był mężem, prorokiem mocarnym w czynie i w słowie przed Bogiem i wszystkim ludem, jak arcykapłani i zwierzchnicy nasi wydali na niego wyrok śmierci i ukrzyżowali go. A myśmy się spodziewali, że On odkupi Izraela, lecz po tym wszystkim już dziś trzeci dzień, jak się to stało."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Uczniowie mówią o swojej nadziei w czasie przeszłym. **Na co dokładnie liczyli?** Przeczytajcie jeszcze raz, co mówią o Jezusie w wersetach 19-21: co z tego zostało, a co się rozsypało?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rozczarowanie ma w tej scenie kierunek. **Co ci dwaj zostawiają za plecami i dokąd idą?** Co robi Jezus z kierunkiem, w którym idą?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Już dziś trzeci dzień\". **Po co rozczarowany człowiek liczy dni?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Łukasz mógł tę rozmowę wygładzić. Zapisał ją tak, jak była: najbliżsi uczniowie mówią o Jezusie „był\" i „spodziewaliśmy się\". Czekali na odkupienie Izraela, czyli na wolność dla narodu, i krzyż tę nadzieję zamknął. Warto zauważyć, gdzie Jezus ich spotyka. Nie czeka w Jerozolimie, aż wrócą. Dogania ich na drodze, która prowadzi w przeciwną stronę, i idzie nią razem z nimi. Zaczyna od pytania i słucha całej historii, choć zna ją lepiej niż oni.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Od kiedy poszedłem, jest gorzej",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Mojżesz zrobił to, co Bóg mu kazał: poszedł do faraona. W odpowiedzi faraon podwoił Izraelitom pracę, a nadzorcy z ludu przyszli z pretensjami do Mojżesza.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 5,22-23",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Mojżesz zwrócił się ponownie do Pana, mówiąc: Panie! Dlaczego wyrządziłeś zło temu ludowi? Dlaczego mnie tu posłałeś? Wszak od tej chwili, gdy poszedłem do faraona, aby mówić w imieniu twoim, gorzej postępuje z tym ludem, Ty zaś nie wyratowałeś ludu swego."
+       ]
+      },
+      {
+       "odnosnik": "Wj 6,1",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Pan do Mojżesza: Teraz zobaczysz, co uczynię faraonowi, że zmuszony silną ręką wypuści ich i zmuszony silną ręką wypędzi ich z ziemi swojej."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mojżesz nie pomylił się co do obietnicy. Bóg naprawdę obiecał wyzwolenie. **Na czym więc polega jego rozczarowanie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czego w Bożej odpowiedzi nie ma**, choć Mojżesz mógłby się tego spodziewać? Nie ma nagany. Czego jeszcze?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Greckie „spodziewaliśmy się\" stoi w czasie, który opisuje coś, co trwało i się skończyło: mieliśmy nadzieję, nosiliśmy ją długo, już jej nie mamy. Ważniejsze jest drugie słowo. „Odkupi\" to czasownik z tej samej rodziny, którą Łukasz otwiera swoją Ewangelię.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 1,68",
+       "przeklad": "BW",
+       "akapity": [
+        "Błogosławiony Pan, Bóg Izraela, że nawiedził lud swój i dokonał jego odkupienia,"
+       ]
+      },
+      {
+       "odnosnik": "Łk 2,38",
+       "przeklad": "BW",
+       "akapity": [
+        "I nadszedłszy tejże godziny, wielbiła Boga i mówiła o nim wszystkim, którzy oczekiwali odkupienia Jerozolimy."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ewangelia Łukasza zaczyna się od ludzi, którzy czekają na odkupienie, a kończy się ludźmi, którzy mówią, że się go nie doczekali. **Czy Zachariasz, Anna i dwaj z Emaus czekali na to samo?** Czy dostali to, na co czekali?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Oto myślałem sobie",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Naaman, dowódca wojsk Aramu, jest chory na trąd. Przyjechał do Izraela z listem od króla, ze srebrem, złotem i orszakiem, bo usłyszał, że tamtejszy prorok może go uleczyć.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Krl 5,9-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Przybył tedy Naaman ze swoimi końmi, i ze swoim powozem i stanął przed drzwiami domu Elizeusza. Wtedy Elizeusz wysłał do niego posłańca z takim poleceniem: Idź i obmyj się siedem razy w Jordanie, a twoje ciało wróci do zdrowia i będziesz czysty. Na to Naaman oburzył się i odchodząc powiedział: Oto myślałem sobie, że wyjdzie, stanie przede mną, potem wezwie imienia Pana, Boga swojego, podniesie swoją rękę nad chorym miejscem i usunie trąd. Czy rzeki damasceńskie Abana i Parpar nie są lepsze od wszystkich wód izraelskich? Czy nie mogłem w nich się obmyć i oczyścić? Potem odwrócił się i odszedł pałając gniewem.",
+        "Lecz słudzy jego przystąpili do niego i przemówili tak: Ojcze! Gdyby prorok nakazał ci coś trudnego, czy nie uczyniłbyś tego? Tym bardziej więc powinieneś to uczynić, gdy ci powiedział: Obmyj się, a będziesz czysty! Poszedł więc i zanurzył się w Jordanie siedem razy według słowa męża Bożego, a wtedy jego ciało stało się znowu czyste jak ciało małego dziecięcia."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Oto myślałem sobie\". **Odtwórzcie scenę, którą Naaman miał w głowie, zanim stanął przed drzwiami.** Co w niej było o Bogu, a co o nim samym?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Naaman dostał dokładnie to, po co przyjechał: obietnicę uzdrowienia. **Na co właściwie jest zły?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Słudzy mówią: gdyby kazał ci coś trudnego, zrobiłbyś to. **Dlaczego proste polecenie bywa trudniejsze do przyjęcia niż trudne?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Bywa, że rozczarowanie jest sporem o scenariusz. Naaman nie wątpił, że Bóg Izraela może uzdrowić. Miał tylko gotowy obraz tego, jak to ma wyglądać: prorok wychodzi osobiście, jest gest, jest modlitwa, jest chwila godna dowódcy. Dostał posłańca i rzekę, którą miał za gorszą od własnych. Omal nie wrócił do domu chory, bo uzdrowienie przyszło inną drogą, niż ją sobie narysował. Uratowali go ludzie, którzy mieli odwagę zapytać go o to wprost.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Od „myślałem\" do „wiem\"",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Krl 5,15",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy powrócił do męża Bożego wraz z całym swoim orszakiem, a przyszedłszy tam, stanął przed nim i rzekł: Oto teraz wiem, że nie ma na całej ziemi Boga, jak tylko w Izraelu. Przyjmij zatem teraz dar dziękczynny od twojego sługi."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W wersecie 11 Naaman mówi „oto myślałem\", w wersecie 15 „oto teraz wiem\". **Co musiało się rozsypać, żeby mógł przejść od jednego zdania do drugiego?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Myśli wyższe",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 55,6-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Szukajcie Pana, dopóki można Go znaleźć, wzywajcie go, dopóki jest blisko! Niech bezbożny porzuci swoją drogę, a przestępca swoje zamysły i niech się nawróci do Pana, aby się nad nim zlitował, do naszego Boga, gdyż jest hojny w odpuszczaniu! Bo myśli moje, to nie myśli wasze, a drogi wasze, to nie drogi moje – mówi Pan, lecz jak niebiosa są wyższe niż ziemia, tak moje drogi są wyższe niż drogi wasze i myśli moje niż myśli wasze."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zdaniem „Jego drogi nie są naszymi drogami\" często zamyka się usta ludziom rozczarowanym. **Przeczytajcie je razem z wersetem 7. W czym dokładnie Boże myśli są tu wyższe od naszych?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak to zmienia sposób, w jaki wolno tego zdania używać wobec kogoś, kto jest zawiedziony?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Na kim się oparłem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jr 17,5-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Tak mówi Pan: Przeklęty mąż, który na człowieku polega i z ciała czyni swoje oparcie, a od Pana odwraca się jego serce! Jest on jak jałowiec na stepie i nie widzi tego, że przychodzi dobre; mieszka na zwietrzałym gruncie na pustyni, w glebie słonej, nie zaludnionej. Błogosławiony mąż, który polega na Panu, którego ufnością jest Pan! Jest on jak drzewo zasadzone nad wodą, które nad potok zapuszcza swoje korzenie, nie boi się, gdy upał nadchodzi, lecz jego liść pozostaje zielony, i w roku posuchy się nie frasuje i nie przestaje wydawać owocu."
+       ]
+      },
+      {
+       "odnosnik": "J 2,23-25",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy był w Jerozolimie na święcie Paschy, wielu uwierzyło w imię jego, widząc cuda, których dokonywał. Ale sam Jezus nie miał do nich zaufania, bo przejrzał wszystkich, i od nikogo nie potrzebował świadectwa o człowieku; sam bowiem wiedział, co było w człowieku."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Upał i rok posuchy przychodzą do obu drzew. **Czym się więc różnią, skoro nie pogodą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus „wiedział, co było w człowieku\", a mimo to został z ludźmi, uczył ich, jadł z nimi i oddał za nich życie. **Jak wygląda miłość do ludzi bez złudzeń co do ludzi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Rozczarowanie człowiekiem mówi czasem coś o ciężarze, który na nim położyliśmy. **Czego oczekujemy od ludzi, a co może unieść tylko Bóg?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Słowo „przeklęty\" brzmi ostro, ale Jeremiasz nie zakazuje przyjaźni ani zaufania. Opisuje skutek. Kto z człowieka robi swoje oparcie, stawia dom na gruncie, który tego ciężaru nie uniesie, i wcześniej czy później się zawiedzie. W opisie jałowca jest jeszcze jedno zdanie, łatwe do przeoczenia: „nie widzi tego, że przychodzi dobre\". Długo rozczarowany człowiek przestaje zauważać dobro, nawet kiedy stoi ono tuż obok.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Potok, który wysechł",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hi 6,15-20",
+       "przeklad": "BW",
+       "akapity": [
+        "Moi bracia okazali się zawodni jak potok, jak łożyska potoków, które występują z brzegów. Toczą mętną wodę lodową, w której na dnie kryje się śnieg. W porze letniej znikają, wysychają w upale bez śladu. Wiją się drogi ich biegu, parują w puste powietrze i giną. Karawany temańskie wyglądają ich, koczownicy sabejscy mają w nich nadzieję. Ale zawiedli się w zaufaniu, gdy przyszli do nich, oszukali się."
+       ]
+      },
+      {
+       "odnosnik": "Jr 15,18-19",
+       "przeklad": "BW",
+       "akapity": [
+        "Czemu moja boleść trwa bez końca, a moja rana jest nieuleczalna i nie chce się goić? Jesteś mi jak strumień zawodny, jak wody niepewne. Dlatego tak mówi Pan: Jeżeli zawrócisz, i Ja się zwrócę do ciebie, i będziesz mógł stać przed moim obliczem; a gdy dasz z siebie to, co cenne, bez tego, co pospolite, będziesz moimi ustami. Choćby oni zwrócili się do ciebie, ty się do nich nie zwrócisz."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hiob mówi tak o przyjaciołach. Jeremiasz tym samym obrazem mówi o Bogu, i to w modlitwie. **Co to znaczy, że takie zdanie zostało w Biblii?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co Bóg robi z zarzutem Jeremiasza?** Czego w Jego odpowiedzi nie ma, a co w niej jest?",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Obraz Hioba działa, kiedy zna się realia. Wiosną koryta na pustyni wypełnia woda z deszczów i topniejącego śniegu. Latem, w upale, nie zostaje po niej ślad. Karawana, która ułożyła trasę według tych koryt, dochodzi do suchego żlebu wtedy, kiedy wody potrzebuje najbardziej. Hiob mówi o przyjaciołach: byliście, kiedy was nie potrzebowałem.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Rozczarowany sobą",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 7,18-19.24-25",
+       "przeklad": "BW",
+       "akapity": [
+        "Wiem tedy, że nie mieszka we mnie, to jest w ciele moim, dobro; mam bowiem zawsze dobrą wolę, ale wykonania tego, co dobre, brak; albowiem nie czynię dobrego, które chcę, tylko złe, którego nie chcę, to czynię. [...] Nędzny ja człowiek! Któż mnie wybawi z tego ciała śmierci? Bogu niech będą dzięki przez Jezusa Chrystusa, Pana naszego! Tak więc ja sam służę umysłem zakonowi Bożemu, ciałem zaś zakonowi grzechu."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Między okrzykiem „nędzny ja człowiek\" a podziękowaniem nie ma ani jednego zdania o poprawie. **Co się zmienia między jednym a drugim?** Zwróćcie uwagę, że Paweł nie pyta „co mnie wybawi\", tylko „kto\".",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czym różni się rozczarowanie sobą, które prowadzi do Boga, od takiego, które prowadzi do pogardy dla siebie?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Czyż serce nasze nie pałało",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Uczniowie opowiedzieli nieznajomemu wszystko, łącznie z tym, że kobiety znalazły rano pusty grób. Teraz mówi On.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 24,25-32",
+       "przeklad": "BW",
+       "akapity": [
+        "A On rzekł do nich: O głupi i gnuśnego serca, by uwierzyć we wszystko, co powiedzieli prorocy. Czyż Chrystus nie musiał tego wycierpieć, by wejść do swojej chwały? I począwszy od Mojżesza poprzez wszystkich proroków wykładał im, co o nim było napisane we wszystkich Pismach.",
+        "I zbliżyli się do miasteczka, do którego zdążali, a On okazywał, jakoby miał iść dalej. I przymusili go, by został, mówiąc: Zostań z nami, gdyż ma się ku wieczorowi i dzień się już nachylił. I wstąpił, by zostać z nimi. A gdy zasiadł z nimi przy stole, wziąwszy chleb, pobłogosławił i rozłamawszy, podawał im. Wtedy otworzyły się ich oczy i poznali go. Lecz On znikł sprzed ich oczu. I rzekli do siebie: Czyż serce nasze nie pałało w nas, gdy mówił do nas w drodze i Pisma przed nami otwierał?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nie mówi im, że spodziewali się za dużo. **Na czym według wersetów 25-26 polegała ich pomyłka?** Ich nadzieja była za duża czy za mała?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus mógł dać się poznać na początku drogi i oszczędzić im kilku godzin smutku. Najpierw otwiera Pisma, a poznają Go dopiero przy stole. **Co ta kolejność mówi o tym, jak On leczy rozczarowanie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Okazywał, jakoby miał iść dalej\". **Dlaczego Jezus czeka na zaproszenie od ludzi, którzy są Nim rozczarowani?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Słowa „o głupi\" brzmią jak nagana za smutek, ale zarzut dotyczy czegoś innego: uwierzyli prorokom w połowie. Wzięli z Pism chwałę i zwycięstwo, a pominęli cierpienie. Dlatego krzyż wyglądał dla nich jak koniec planu, choć był jego środkiem. Jezus nie pokazuje im ran ani nie robi cudu. Prowadzi ich przez Pisma, które znali od dziecka, bo ich nadzieja ma odtąd stać na czymś trwalszym niż jedno poruszające przeżycie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Nadzieja, która nie zawodzi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 13,12",
+       "przeklad": "BW",
+       "akapity": [
+        "Przewlekłe oczekiwanie sprawia sercu ból, lecz życzenie spełnione jest drzewem życia."
+       ]
+      },
+      {
+       "odnosnik": "Rz 5,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Usprawiedliwieni tedy z wiary, pokój mamy z Bogiem przez Pana naszego, Jezusa Chrystusa, dzięki któremu też mamy dostęp przez wiarę do tej łaski, w której stoimy, i chlubimy się nadzieją chwały Bożej. A nie tylko to, chlubimy się też z ucisków, wiedząc, że ucisk wywołuje cierpliwość, a cierpliwość doświadczenie, doświadczenie zaś nadzieję; a nadzieja nie zawodzi, bo miłość Boża rozlana jest w sercach naszych przez Ducha Świętego, który nam jest dany."
+       ]
+      },
+      {
+       "odnosnik": "Łk 24,33-35",
+       "przeklad": "BW",
+       "akapity": [
+        "I wstawszy tejże godziny, powrócili do Jerozolimy i znaleźli zgromadzonych jedenastu i tych, którzy z nimi byli, mówiących: Wstał Pan prawdziwie i ukazał się Szymonowi. A oni też opowiedzieli o tym, co zaszło w drodze i jak go poznali po łamaniu chleba."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Księga Przysłów przyznaje rację rozczarowanym: przewlekłe oczekiwanie boli. Paweł pisze o nadziei, która nie zawodzi. **Na czym według wersetu 5 ta nadzieja stoi: na tym, co się wydarzy, czy na czymś innym?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ci sami dwaj, tego samego wieczoru, ta sama droga, tym razem po ciemku. **Co się zmieniło w ich okolicznościach, a co w nich samych?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "U Pawła nadzieja stoi na końcu łańcucha, za uciskiem, cierpliwością i doświadczeniem. **Czym nadzieja po rozczarowaniach różni się od nadziei sprzed nich?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ufali i nie zawiedli się",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 22,2-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Boże mój, Boże mój, czemuś mnie opuścił...? Czemuś tak daleki od wybawienia mego, od słów krzyku mojego? Boże mój! Wołam co dnia, a nie odpowiadasz, I w nocy, a nie mam spokoju. A przecież Ty jesteś święty, Przebywasz w chwałach Izraela. Tobie ufali ojcowie nasi, Ufali i wybawiłeś ich. Do ciebie wołali i ratowałeś ich, Tobie zaufali i nie zawiedli się."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalmista woła i nie dostaje odpowiedzi, a zaraz potem przypomina sobie tych, którzy „nie zawiedli się\". **Jak działa na czekającego wspomnienie cudzych wysłuchanych modlitw: pomaga czy boli?** Dlaczego mimo to je przywołuje?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pierwszym zdaniem tego psalmu Jezus modlił się na krzyżu. **Co to znaczy dla rozczarowanego, że Jezus zna tę modlitwę od środka?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Nie zawodzi\" w Rz 5,5 znaczy dosłownie „nie zawstydza\". W świecie Pawła zawiedziona nadzieja była sprawą publiczną: postawiłem na kogoś, wszyscy to widzieli, zostałem z niczym. To samo słowo wraca kilka rozdziałów dalej.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 10,11",
+       "przeklad": "BW",
+       "akapity": [
+        "Powiada bowiem Pismo: Każdy, kto w niego wierzy, nie będzie zawstydzony."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Ile w naszym rozczarowaniu jest bólu po stracie, a ile wstydu, że uwierzyliśmy i wyszliśmy na naiwnych?** Co Paweł obiecuje w tej drugiej sprawie?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: nie zawiedli się, a nie otrzymali",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Psalm mówi o ojcach: zaufali i nie zawiedli się. List do Hebrajczyków o bohaterach wiary mówi coś, co brzmi odwrotnie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 11,39-40",
+       "przeklad": "BW",
+       "akapity": [
+        "A wszyscy ci, choć dla swej wiary zdobyli chlubne świadectwo, nie otrzymali tego, co głosiła obietnica, ponieważ Bóg przewidział ze względu na nas coś lepszego, mianowicie, aby oni nie osiągnęli celu bez nas."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jedni czytają te teksty tak: obietnica, że nadzieja nie zawiedzie, dotyczy celu ostatecznego, a nie każdej prośby po drodze, i dlatego Biblia bez zażenowania pokazuje wierzących, którzy czegoś nie doczekali. Drudzy kładą nacisk na to, że Bóg jest wierny także tu i teraz, i przypominają, ile modlitw w Biblii zostało wysłuchanych szybko i dosłownie. Obie strony łączy jedno: żaden z tych tekstów nie obiecuje, że Bóg zrealizuje mój scenariusz. Obiecuje Jego samego i „coś lepszego\".",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "List do Hebrajczyków nazywa ludźmi wiary tych, którzy nie doczekali. **Czy można być rozczarowanym i wierzącym jednocześnie?** Po czym poznać, że ktoś jest jednym i drugim naraz?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dziś były trzy rozczarowania: Bogiem, ludźmi i sobą. **Które jest teraz najbliżej ciebie?** Co je według ciebie łączy?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Oto myślałem sobie\". **Jaki scenariusz napisałeś Bogu w jakiejś ważnej sprawie?** Co by się stało, gdybyś go odłożył, nie odkładając samej prośby?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy masz swoją drogę do Emaus, czyli coś albo kogoś, od kogo odchodzisz, bo nie wyszło tak, jak się spodziewałeś?** Nie musisz mówić, co to jest.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Naaman był rozczarowany, bo sam napisał scenariusz. Mojżesz był rozczarowany, choć trzymał się prawdziwej obietnicy. **Skąd mam wiedzieć, w której z tych dwóch sytuacji jestem?** Czy z wnętrza rozczarowania w ogóle da się to odróżnić?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie rozstrzygaj. Warto, żeby padło spostrzeżenie, że obaj zrobili to samo: powiedzieli o swoim rozczarowaniu na głos i nie odeszli, zanim usłyszeli odpowiedź.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Rozczarowanie mówi prawdę o tym, czego się spodziewałem. Nie mówi jeszcze prawdy o tym, co robi Bóg.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Rz 5,5 albo Łk 24,32.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Dokończ przed Bogiem zdanie uczniów: **„a ja się spodziewałem, że...\"**. Nie wygładzaj go i nie dopisuj od razu pobożnego zakończenia. Oni powiedzieli je Jezusowi prosto w twarz i to był początek, nie koniec rozmowy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o człowieku, który cię zawiódł. Zapytaj siebie: **czego od niego oczekiwałem takiego, co mógł mi dać tylko Bóg?** Jeśli odpowiedź brzmi „niczego, po prostu mnie skrzywdził\", to też jest odpowiedź i też warto ją przed sobą nazwać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** powiedz Bogu wprost, czym cię rozczarował. A potem zrób to, co zrobili tamci dwaj pod wieczór: poproś Go, żeby mimo to został.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi: „jestem rozczarowany Bogiem\".** Nie broń Boga i niczego nie wyjaśniaj. Podziękuj za szczerość. Możesz powiedzieć, że Jeremiasz i Mojżesz mówili Bogu rzeczy ostrzejsze i że te zdania zostały w Biblii. Jezus w drodze do Emaus najpierw zapytał i wysłuchał całej historii. Zrób to samo.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś z grupy odpowiada rozczarowanemu frazesem: „Bóg ma lepszy plan\", „wszystko jest po coś\", „trzeba ufać\".** Przerwij łagodnie, zanim padnie drugie takie zdanie. Powiedz: „Zostańmy jeszcze chwilę przy tym, co usłyszeliśmy\". Prawdziwe zdanie wypowiedziane za wcześnie działa jak zamknięcie ust.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozczarowanie zborem, pastorem albo Kościołem, z nazwiskami.** Poproś, żeby mówić bez nazwisk. Nie broń instytucji i nie pomniejszaj tego, co się stało. Jeśli to brzmi jak realna krzywda, a nie zawiedzione oczekiwanie, zaproponuj rozmowę po spotkaniu. Pokrewny materiał to Pytanie 10, Po co mi Kościół.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Przy stole siedzą dwie osoby rozczarowane sobą nawzajem, na przykład małżonkowie, i jedna zaczyna mówić o drugiej.** Zatrzymaj to od razu i spokojnie: „Dziś każdy mówi tylko o sobie\". Grupa nie jest miejscem na rozliczenia między obecnymi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Najlepiej niczego nie oczekiwać, wtedy człowiek się nie rozczaruje.\"** To zdanie zwykle wypowiada ktoś, kto zawiódł się wiele razy. Nie spieraj się. Zapytaj: „Co Jezus zrobił z nadzieją tych dwóch: zmniejszył ją czy powiększył?\" i wróć do bloku 4.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli to moja wina, że się rozczarowałem, bo źle oczekiwałem?\"** Nie. Mojżesz trzymał się prawdziwej obietnicy i też był rozczarowany. Rozczarowanie nie jest grzechem ani dowodem słabej wiary. Tekst nie pyta, kto zawinił, tylko co z tym rozczarowaniem zrobimy i komu o nim powiemy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o rozczarowaniu sobą tak, że brzmi to jak coś więcej: że nie widzi sensu, że wszystkim byłoby lepiej bez niego.** Nie zostawiaj tego bez reakcji i nie zostawaj z tym sam. Porozmawiaj z tą osobą po spotkaniu i zachęć ją do kontaktu ze specjalistą. Telefon zaufania dla dorosłych w kryzysie emocjonalnym: 116 123. W sytuacji zagrożenia życia: 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 3. Bloki 1 i 4 to jedna historia i niosą całe spotkanie, a blok 2 daje zdanie, które ludzie zapamiętają.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś mówi: „jestem rozczarowany Bogiem\".",
+     "odpowiedz": "Nie broń Boga i niczego nie wyjaśniaj. Podziękuj za szczerość. Możesz powiedzieć, że Jeremiasz i Mojżesz mówili Bogu rzeczy ostrzejsze i że te zdania zostały w Biblii. Jezus w drodze do Emaus najpierw zapytał i wysłuchał całej historii. Zrób to samo."
+    },
+    {
+     "sytuacja": "Ktoś z grupy odpowiada rozczarowanemu frazesem: „Bóg ma lepszy plan\", „wszystko jest po coś\", „trzeba ufać\".",
+     "odpowiedz": "Przerwij łagodnie, zanim padnie drugie takie zdanie. Powiedz: „Zostańmy jeszcze chwilę przy tym, co usłyszeliśmy\". Prawdziwe zdanie wypowiedziane za wcześnie działa jak zamknięcie ust."
+    },
+    {
+     "sytuacja": "Rozczarowanie zborem, pastorem albo Kościołem, z nazwiskami.",
+     "odpowiedz": "Poproś, żeby mówić bez nazwisk. Nie broń instytucji i nie pomniejszaj tego, co się stało. Jeśli to brzmi jak realna krzywda, a nie zawiedzione oczekiwanie, zaproponuj rozmowę po spotkaniu. Pokrewny materiał to Pytanie 10, Po co mi Kościół."
+    },
+    {
+     "sytuacja": "Przy stole siedzą dwie osoby rozczarowane sobą nawzajem, na przykład małżonkowie, i jedna zaczyna mówić o drugiej.",
+     "odpowiedz": "Zatrzymaj to od razu i spokojnie: „Dziś każdy mówi tylko o sobie\". Grupa nie jest miejscem na rozliczenia między obecnymi."
+    },
+    {
+     "sytuacja": "„Najlepiej niczego nie oczekiwać, wtedy człowiek się nie rozczaruje.\"",
+     "odpowiedz": "To zdanie zwykle wypowiada ktoś, kto zawiódł się wiele razy. Nie spieraj się. Zapytaj: „Co Jezus zrobił z nadzieją tych dwóch: zmniejszył ją czy powiększył?\" i wróć do bloku 4."
+    },
+    {
+     "sytuacja": "„Czyli to moja wina, że się rozczarowałem, bo źle oczekiwałem?\"",
+     "odpowiedz": "Nie. Mojżesz trzymał się prawdziwej obietnicy i też był rozczarowany. Rozczarowanie nie jest grzechem ani dowodem słabej wiary. Tekst nie pyta, kto zawinił, tylko co z tym rozczarowaniem zrobimy i komu o nim powiemy."
+    },
+    {
+     "sytuacja": "Ktoś mówi o rozczarowaniu sobą tak, że brzmi to jak coś więcej: że nie widzi sensu, że wszystkim byłoby lepiej bez niego.",
+     "odpowiedz": "Nie zostawiaj tego bez reakcji i nie zostawaj z tym sam. Porozmawiaj z tą osobą po spotkaniu i zachęć ją do kontaktu ze specjalistą. Telefon zaufania dla dorosłych w kryzysie emocjonalnym: 116 123. W sytuacji zagrożenia życia: 112."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3. Bloki 1 i 4 to jedna historia i niosą całe spotkanie, a blok 2 daje zdanie, które ludzie zapamiętają."
+    }
+   ]
+  }
+ ]
+}

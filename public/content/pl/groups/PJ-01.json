@@ -2,14 +2,14 @@
  "tytul": "Siewca",
  "id": "PJ-01",
  "seria": "Przypowieści Jezusa",
- "opis": "",
- "tryb": "ksiegi, hybryda: spotkanie jest zamkniętą całością",
+ "opis": "Ten sam siewca, to samo ziarno, cztery sposoby słuchania. I Bóg, który sieje także tam, gdzie nikt by nie siał.",
+ "tryb": "ksiegi-hybrydowy",
  "poprzedni": null,
  "nastepny": null,
  "teksty": {
   "p1": "Mk 4,1-20; Mk 4,26-29",
   "p2": "Ps 126,5-6; Iz 55,10-11; Mk 4,33-34; Mt 13,16-17; Łk 8,12-13; Jr 4,3; Oz 10,12; Łk 8,14-15; Rdz 26,12; Ez 36,26-27",
-  "p3": "Pwt 6,4-5; Iz 6,9-10; Mk 4,22"
+  "p3": "Pwt 6,4-5; Mt 13,1.3; Iz 6,9-10; Mk 4,22"
  },
  "przekladBazowy": "BW",
  "dlugosc": {
@@ -20,7 +20,7 @@
  "liczbaPytan": {
   "p1": 20,
   "p2": 32,
-  "p3": 36
+  "p3": 37
  },
  "tagi": [
   "przypowieści",
@@ -41,6 +41,11 @@
     {
      "typ": "akapit",
      "tekst": "To spotkanie nie jest testem, który ma pokazać, jaką kto jest glebą. Przypowieść zaczyna się i kończy słowem o słuchaniu, a jej bohaterem jest siewca, który nie oszczędza ziarna. Cztery gleby nie dzielą ludzi na cztery gatunki. Biegną przez środek każdego serca, także twojego. Pytanie spotkania brzmi: co dzieje się ze słowem, kiedy już je usłyszałem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Fałszywy obraz Boga, który ta przypowieść koryguje, to Bóg wyrachowany: taki, który inwestuje tylko w rokujących, a słuchaczom wystawia oceny. Siewca Jezusa sieje po całym polu i nie skreśla z góry żadnego kawałka. Do tego obrazu prowadzi pierwsze pytanie kluczowe.",
      "poziom": 1
     },
     {
@@ -137,7 +142,7 @@
     },
     {
      "typ": "notka",
-     "tekst": "Zatokę między Kafarnaum a Tabghą zmierzono sprzętem akustycznym. Głos od linii wody niesie w górę zbocza tak dobrze, że kilka tysięcy ludzi słyszy mówiącego bez wysiłku. Łódź nie była ucieczką przed tłumem, tylko amboną. Siano często przed orką, na twardą po lecie ziemię. Z wierzchu całe pole wyglądało jednakowo, a różnice leżały pod spodem.",
+     "tekst": "Zatokę między Kafarnaum a Tabghą zmierzono sprzętem akustycznym. Głos od linii wody niesie w górę zbocza tak dobrze, że kilka tysięcy ludzi słyszy mówiącego bez wysiłku. Łódź nie była ucieczką przed tłumem, tylko amboną. Siano często przed orką, na twardą po lecie ziemię. W Galilei żyzna gleba, płytka skała i kamienie potrafią sąsiadować na jednym polu. Z wierzchu wyglądało ono jednakowo, a różnice leżały pod spodem.",
      "poziom": 1
     }
    ]
@@ -150,6 +155,11 @@
     {
      "typ": "akapit",
      "tekst": "**Gdzie jesteśmy.** Galilea, brzeg jeziora, tłum. Rozdział wcześniej Marek pokazuje, jak różnie ludzie reagują na to samo nauczanie. Faryzeusze naradzają się, jak Jezusa zgładzić. Krewni mówią, że odszedł od zmysłów. Uczeni z Jerozolimy twierdzą, że działa mocą Belzebuba. A wokół Niego siedzą ludzie, o których mówi: oto moja matka i moi bracia. Jedno słowo, cztery odpowiedzi. Przypowieść o siewcy jest pierwszą dużą przypowieścią u Marka i odpowiada na pytanie, które wisi w powietrzu: dlaczego tak jest.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Ludzie czekali na królestwo, które przyjdzie jak żniwo. Jan Chrzciciel zapowiadał Mocniejszego z wiejadłem w ręku, który oddzieli pszenicę od plew. Jezus zaczyna od siewu: cicho, bez przymusu, z pozornymi stratami. Siew jako obraz nauczania słuchacze znali. Nowe było to, że Mesjasz przychodzi najpierw jako siewca, a nie od razu jako żniwiarz.",
      "poziom": 2
     },
     {
@@ -247,6 +257,47 @@
    "doBloku": 1
   },
   {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo: wyszedł",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Mateusz otwiera tę samą scenę dwoma zdaniami, w których pada ten sam grecki czasownik.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 13,1",
+       "przeklad": "BW",
+       "akapity": [
+        "Tego dnia wyszedł Jezus z domu i usiadł nad morzem."
+       ]
+      },
+      {
+       "odnosnik": "Mt 13,3",
+       "przeklad": "BW",
+       "akapity": [
+        "I mówił do nich wiele w podobieństwach. I rzekł: Oto wyszedł siewca, aby siać."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ewangelista zszywa obie sceny jednym słowem: najpierw wychodzi Jezus, potem wychodzi siewca. **Co słuchacz ma z tego zrozumieć o tym, kim jest siewca i skąd wyszedł?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
    "typ": "blok",
    "poziom": 1,
    "numer": 2,
@@ -267,7 +318,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q9",
+     "id": "q10",
      "kluczowe": true,
      "opcjonalne": false,
      "tekst": "Popatrzcie, kto pyta. To nie tylko Dwunastu, lecz także „ci, którzy z nim byli\". Uczniowie też nie zrozumieli. **Co w takim razie odróżnia ich od tłumu, który rozszedł się do domów?**",
@@ -275,7 +326,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q10",
+     "id": "q11",
      "kluczowe": false,
      "opcjonalne": true,
      "tekst": "Jezus mówi, że ta przypowieść jest kluczem do wszystkich innych. **Dlaczego właśnie ta? Co trzeba z niej pojąć, żeby w ogóle dało się słuchać następnych?**",
@@ -283,7 +334,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q11",
+     "id": "q12",
      "kluczowe": false,
      "opcjonalne": true,
      "tekst": "**Gdzie w tym fragmencie przebiega granica między tymi, którzy są „wewnątrz\", a tymi „zewnątrz\"? Kto ją wyznacza i czy da się ją przekroczyć?**",
@@ -318,7 +369,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q12",
+     "id": "q13",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Marek podsumowuje cały dzień nauczania zdaniem, że Jezus mówił „stosownie do tego, jak mogli słuchać\". **Jak to zdanie oświetla trudne wersety 11-12? Czy przypowieść zasłania, czy odsłania?**",
@@ -326,7 +377,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q13",
+     "id": "q14",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "W wersji Mateusza Jezus w tym samym miejscu mówi uczniom, że są szczęśliwi. **Z czego konkretnie? Czy to ich zasługa?**",
@@ -378,7 +429,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q14",
+     "id": "q15",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "**Jeśli Bóg chciałby, żeby ludzie nie rozumieli, po co w ogóle posyłałby Izajasza i po co Jezus wsiadałby do łodzi?** Co te dwa fakty mówią o tym, jak czytać słowo „aby\"?",
@@ -386,7 +437,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q15",
+     "id": "q16",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Zagadka zatrzymuje tylko tego, kto nie zapyta. **Co uczniowie zrobili z tym, czego nie rozumieli, i co by się stało, gdyby to samo zrobił ktokolwiek z tłumu?**",
@@ -421,7 +472,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q16",
+     "id": "q17",
      "kluczowe": true,
      "opcjonalne": false,
      "tekst": "Policzcie, ile razy w wersetach 14-20 pada „usłyszeli\", „usłyszą\", „słuchają\". **Co z tego wynika: czym różnią się te cztery grupy, skoro słyszą wszystkie?**",
@@ -429,7 +480,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q17",
+     "id": "q18",
      "kluczowe": true,
      "opcjonalne": false,
      "tekst": "Na gruncie skalistym wszystko dzieje się „zaraz\": zaraz przyjmują, z radością, i wnet się gorszą. **Co jest nie tak z tym entuzjazmem? Czego tekst mu nie zarzuca, a co zarzuca?**",
@@ -437,7 +488,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q18",
+     "id": "q19",
      "kluczowe": false,
      "opcjonalne": true,
      "tekst": "Droga to ziemia udeptana, bo wiele razy po niej przeszło. **Co w życiu człowieka potrafi tak udeptać jakieś miejsce, że słowo leży na wierzchu?** Mówcie o mechanizmie, nie o konkretnych osobach.",
@@ -465,7 +516,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q19",
+     "id": "q20",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Porównajcie z Markiem. **Co Łukasz mówi inaczej i co dzięki temu widać wyraźniej?** Zwróćcie uwagę na słowa „z serca\" i „do czasu wierzą\".",
@@ -473,7 +524,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q20",
+     "id": "q21",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "U Marka próbą jest ucisk i prześladowanie, u Łukasza „chwila pokusy\". **Jak wygląda taka próba tam, gdzie za wiarę nikt nie prześladuje?**",
@@ -503,7 +554,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q21",
+     "id": "q22",
      "kluczowe": true,
      "opcjonalne": false,
      "tekst": "Ciernie to trzy rzeczy: troski, ułuda bogactw i pożądanie innych rzeczy. Dwie pierwsze wyglądają na przeciwieństwa, bo jedna dotyka tych, którym brakuje, a druga tych, którzy mają. **Co je łączy? Dlaczego skutek jest ten sam?**",
@@ -511,7 +562,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q22",
+     "id": "q23",
      "kluczowe": true,
      "opcjonalne": false,
      "tekst": "O dobrej ziemi Jezus mówi tylko trzy rzeczy: słuchają, przyjmują, wydają owoc. **Czego na tej liście nie ma, a czego byśmy się spodziewali?**",
@@ -519,7 +570,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q23",
+     "id": "q24",
      "kluczowe": false,
      "opcjonalne": true,
      "tekst": "Między cierniami ziarno nie ginie. Rośnie, tylko nie wydaje plonu. **Czym taka wiara różni się z zewnątrz od wiary z dobrej ziemi? Kto tę różnicę widzi?**",
@@ -527,7 +578,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q24",
+     "id": "q25",
      "kluczowe": false,
      "opcjonalne": true,
      "tekst": "Jezus wymienia trzy różne plony i żadnego nie gani. **Co to mówi komuś, kto porównuje swoje życie z cudzym?**",
@@ -574,7 +625,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q25",
+     "id": "q26",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Obraz siania między ciernie nie jest nowy. Prorocy użyli go całe wieki wcześniej. **Do kogo mówili Jeremiasz i Ozeasz: do pogan czy do ludzi religijnych?** Co to zmienia w słuchaniu przypowieści?",
@@ -582,7 +633,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q26",
+     "id": "q27",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Łukasz dodaje do opisu dobrej ziemi dwa słowa: „zachowują\" i „w wytrwałości\". **Co te słowa mówią o tempie, w jakim powstaje plon?** Zestawcie to z „zaraz\" i „wnet\" z gruntu skalistego.",
@@ -603,10 +654,15 @@
     },
     {
      "typ": "pytanie",
-     "id": "q27",
+     "id": "q28",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "To jedyny stokrotny plon w Starym Testamencie, a rozdział zaczyna się od wiadomości, że w kraju panował głód. **Czemu tekst przypisuje ten wynik?** Co słuchacz znający tę historię usłyszał w zakończeniu przypowieści?",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Zwykły plon w tamtych warunkach to mniej więcej siedem do dziesięciu ziaren z jednego. Trzydzieści to już obfitość, a sto leży blisko granicy tego, co w ogóle notowano. Jezus nie opowiada o cudzie, który łamie prawa pola. Opowiada o polu, na którym mimo wszystkich strat plon przerasta to, czego rolnik miał prawo się spodziewać.",
      "poziom": 2
     }
    ],
@@ -638,7 +694,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q28",
+     "id": "q29",
      "kluczowe": true,
      "opcjonalne": false,
      "tekst": "Tę przypowieść zapisał tylko Marek i postawił ją zaraz po siewcy. **Co ona dopowiada komuś, kto po pierwszej przypowieści postanowił, że weźmie się w garść i będzie lepszą glebą?**",
@@ -646,7 +702,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q29",
+     "id": "q30",
      "kluczowe": true,
      "opcjonalne": false,
      "tekst": "Człowiek z tej przypowieści śpi i wstaje, a o wzroście „nie wie jak\". **Co w takim razie należy do człowieka, a co nie należy?** Szukajcie odpowiedzi w obu przypowieściach naraz.",
@@ -654,7 +710,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q30",
+     "id": "q31",
      "kluczowe": false,
      "opcjonalne": true,
      "tekst": "„Najpierw trawa, potem kłos, potem pełne zboże\". **Jak brzmi to zdanie dla kogoś, kto jest niecierpliwy wobec siebie albo wobec kogoś bliskiego?**",
@@ -682,7 +738,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q31",
+     "id": "q32",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Wypiszcie wszystkie czasowniki z tego fragmentu i sprawdźcie, kto jest ich podmiotem. **Kto według Ezechiela zajmuje się skałą w człowieku?**",
@@ -690,7 +746,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q32",
+     "id": "q33",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Jeremiasz mówi „orzcie sobie ugór\", Ezechiel mówi „usunę, dam\". **Czy te dwa zdania sobie przeczą? Jak wyglądałoby życie kogoś, kto traktuje poważnie oba?**",
@@ -706,7 +762,7 @@
    "elementy": [
     {
      "typ": "pytanie",
-     "id": "q33",
+     "id": "q34",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Cztery gleby nie są czterema rodzajami ludzi. Ten sam człowiek bywa dobrą ziemią wobec jednego słowa i udeptaną drogą wobec innego. **Jak to działa? Wobec jakiego rodzaju słów najłatwiej być dobrą ziemią, a wobec jakiego najtrudniej?**",
@@ -714,7 +770,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q34",
+     "id": "q35",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "**Które z trzech zagrożeń jest w tym okresie życia najbliżej ciebie: słowo, które nie zdążyło wejść, zapał bez korzenia czy ciernie, które rosną razem z wiarą?**",
@@ -722,7 +778,7 @@
     },
     {
      "typ": "pytanie",
-     "id": "q35",
+     "id": "q36",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Jeśli chcesz się tym podzielić: **czy jest jakieś słowo, które słyszysz od dawna i które wciąż leży na wierzchu?** Nie musisz mówić, o co chodzi.",
@@ -737,7 +793,7 @@
    "elementy": [
     {
      "typ": "pytanie",
-     "id": "q36",
+     "id": "q37",
      "kluczowe": false,
      "opcjonalne": false,
      "tekst": "Gleba nie orze samej siebie, a Bóg nie wchodzi na pole siłą. **Na czym w takim razie polega to, co w przypowieści należy do człowieka? Gdzie kończy się „przyjmują słowo\", a zaczyna „staram się być lepszy\"?**",
@@ -834,7 +890,7 @@
     },
     {
      "typ": "akapit",
-     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "tekst": "**„Czyli trzy czwarte ludzi jest stracone?\"** Przypowieść ma jeden punkt i nie jest statystyką zbawionych. Proporcje służą opowieści: słuchacz ma poczuć straty, zanim usłyszy o plonie. Rolnik sieje w polu, które sam przygotował, więc większość ziarna i tak trafia w dobrą ziemię. Na ubocznym szczególe przypowieści nie buduje się żadnej nauki.",
      "poziom": 1
     },
     {
@@ -869,8 +925,8 @@
      "odpowiedz": "Nie ucinaj, to dobre pytanie. Zestaw Jr 4,3 z Ez 36,26 albo przynajmniej Mk 4,20 z Mk 4,27-28. Człowiek przyjmuje i zachowuje. Wzrost i plon nie są w jego rękach. Jeśli grupa chce iść głębiej, to jest dokładnie pytanie z poziomu 3."
     },
     {
-     "sytuacja": "Grupa milczy po pytaniu.",
-     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+     "sytuacja": "„Czyli trzy czwarte ludzi jest stracone?\"",
+     "odpowiedz": "Przypowieść ma jeden punkt i nie jest statystyką zbawionych. Proporcje służą opowieści: słuchacz ma poczuć straty, zanim usłyszy o plonie. Rolnik sieje w polu, które sam przygotował, więc większość ziarna i tak trafia w dobrą ziemię. Na ubocznym szczególe przypowieści nie buduje się żadnej nauki."
     },
     {
      "sytuacja": "Nie zdążycie z materiałem.",

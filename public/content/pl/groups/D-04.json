@@ -1,0 +1,781 @@
+{
+ "tytul": "Daniel 4. Król, który podniósł oczy",
+ "id": "D-04",
+ "seria": "Księga Daniela",
+ "opis": "Najpotężniejszy człowiek świata sam opowiada, jak stracił wszystko i dlaczego nazywa to łaską.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": "D-03",
+ "nastepny": "D-05",
+ "teksty": {
+  "p1": "Dn 3,31-33; 4,1-5; 4,7-14; 4,16-19.21-24; 4,25-30; 4,31-34",
+  "p2": "Ez 31,3-6.10-11; Pwt 8,17-18; Jk 4,6; Łk 18,14",
+  "p3": "Dn 4,13 (Ekum.)"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 25,
+  "p3": 29
+ },
+ "tagi": [
+  "Daniel",
+  "pycha",
+  "pokora",
+  "władza",
+  "nawrócenie",
+  "łaska"
+ ],
+ "wersja": 1,
+ "zdanie": "Pokora zaczyna się od podniesienia oczu: od zobaczenia, skąd mam to, co mam.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ten rozdział jest jedyny w swoim rodzaju: napisał go pogański król, w pierwszej osobie, jako list otwarty do całego imperium. Opowiada w nim o swoim największym upokorzeniu i nazywa je cudem, którego Bóg na nim dokonał. To spotkanie nie jest o tym, że pycha jest zła. Jest o Bogu, który przez trzy rozdziały szedł za człowiekiem palącym Jego miasto i nie odpuścił, dopóki ten nie podniósł oczu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Uwaga na numerację. Biblia Warszawska zalicza początek listu do rozdziału 3 jako wersety 31-33, a rozdział 4 ma w niej 34 wersety. W wielu innych przekładach ten sam tekst to Dn 4,1-37. Jeśli ktoś przy stole ma inny przekład, numery będą mu się różnić o trzy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Rozdział jest długi. Czytacie pięć odcinków, a to, co między nimi, streszczają zdania kursywą. Przeczytaj je grupie na głos.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Siedem lat króla wśród zwierząt kusi, żeby postawić diagnozę. Tekst jej nie stawia i materiał też nie. Przy stole może siedzieć ktoś, kto sam przeszedł kryzys psychiczny albo ma chorego w rodzinie. Choroba psychiczna nie jest karą za pychę i to zdanie musi być dla grupy jasne.",
+      "O pysze najłatwiej rozmawia się w trzeciej osobie: szef, polityk, teść. Pytania prowadzą do pierwszej osoby. Pilnuj tego łagodnie.",
+      "Ktoś może usłyszeć w tej historii, że Bóg łamie ludzi, żeby ich nawrócić. Zwróć uwagę na rok zwłoki, na radę Daniela i na pień zostawiony w ziemi."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie wskazuj nikogo jako przykładu pychy, ani obecnego, ani znanego z mediów. Nie dopowiadaj, co dokładnie dolegało królowi. Nie rób z wersetu 24 obietnicy, że dobre uczynki zapewniają powodzenie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "*Pomiń to zdanie, jeśli grupa wchodzi w serię od tego miejsca.* Ostatnio Nebukadnesar pytał trzech ludzi, który bóg wyrwie ich z jego ręki, a potem błogosławił ich Boga. Dziś sam opowiada, jak ten Bóg upomniał się o niego.",
+     "poziom": 1
+    },
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie coś, co ci się w życiu naprawdę udało. Powiedz jednym zdaniem, komu lub czemu to zawdzięczasz.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "List króla",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 3,31-33",
+       "przeklad": "BW",
+       "akapity": [
+        "Nebukadnesar, król, do wszystkich ludów, plemion i języków, które mieszkają na całej ziemi: Pokój wam! Postanowiłem oznajmić o znakach i cudach, których na mnie dokonał Bóg Najwyższy: Jakże wielkie są jego znaki, jakże potężne jego cuda! Jego królestwo jest królestwem wiecznym, a jego władza z pokolenia w pokolenie."
+       ]
+      },
+      {
+       "odnosnik": "Dn 4,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Ja, Nebukadnesar, żyłem spokojnie w moim domu i szczęśliwie w moim pałacu. Miałem sen, który mnie przestraszył, a myśli, które miałem na moim łożu, i to, co mi się przywidziało, zaniepokoiło mnie. Wyszedł ode mnie rozkaz, aby przyprowadzono przede mnie wszystkich mędrców babilońskich, aby mi podali wykład snu. I przyszli wróżbici, czarownicy, Chaldejczycy i astrologowie, i opowiedziałem im sen; lecz nie podali mi jego wykładu. W końcu przyszedł do mnie Daniel, który ma na imię Baltazar według imienia mojego boga, w którym jest duch świętych bogów; jemu opowiedziałem sen:"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "To jest urzędowe pismo króla do całego imperium. **Co jest w nim niezwykłego, kiedy się wie, o czym za chwilę opowie?** Jak władcy zwykle piszą o swoich porażkach?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Król zaczyna od zakończenia: od uwielbienia Boga. W poprzednich rozdziałach mówił o „waszym Bogu\" i o „Bogu Szadracha, Meszacha i Abed-Nega\". **Jak mówi teraz? Co się zmieniło w zaimkach?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Żyłem spokojnie w moim domu i szczęśliwie w moim pałacu\". **Dlaczego Bóg niepokoi człowieka właśnie wtedy, gdy wszystko mu się układa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Daniel przychodzi „w końcu\", po wszystkich innych. Mędrcy Babilonu zawiedli go już przy śnie o posągu, a król wciąż zaczyna od nich. Wciąż też nazywa Daniela imieniem swojego boga i mówi o „duchu świętych bogów\". Pisze ten list już po wszystkim, a opowiada uczciwie, jak myślał przedtem. Nie wygładza własnej historii.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy w księdze",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** W czwartym z sześciu opowiadań dworskich i w ostatnim, w którym występuje Nebukadnesar. Księga pokazała go cztery razy: jako zdobywcę w rozdziale 1, jako przerażonego śniącego w rozdziale 2, jako budowniczego posągu w rozdziale 3 i teraz. Za każdym razem mówi o Bogu Daniela coś więcej i za każdym razem to za mało. Ten rozdział jest zamknięciem jego drogi. W następnym na tronie siedzi już ktoś inny.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Nebukadnesar panował ponad czterdzieści lat i był jednym z największych budowniczych starożytności. Babilon z jego czasów miał podwójne mury, monumentalną bramę wyłożoną glazurowaną cegłą, pałace i świątynie. Na cegłach kazał odciskać swoje imię. Kiedy w wersecie 27 mówi o mieście, które zbudował, nie przesadza.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Cedr, który sięgał obłoków",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Prorok Ezechiel, także wygnaniec w Babilonii, opisał tym samym obrazem potęgę Asyrii, żeby ostrzec faraona.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ez 31,3-6.10-11",
+       "przeklad": "BW",
+       "akapity": [
+        "Oto przyrównam cię do cedru na Libanie o pięknych konarach, w cienistej gęstwinie, wyrosłego wysoko, z wierzchołkiem w obłokach. Wody go wykarmiły, pratoń wyniosła go wysoko, swoje strumienie roztoczyła dokoła miejsca, gdzie był zasadzony, a swoje potoczki puściła do wszystkich drzew polnych. Dlatego przewyższył swoim wzrostem wszystkie drzewa polne; jego gałęzie rozwinęły się bujnie, jego konary wydłużyły się dzięki obfitym wodom, gdy się rozrastał. W jego gałęziach gnieździły się wszelkie ptaki niebieskie, a pod jego konarami miały swe młode wszelkie zwierzęta polne; w jego cieniu mieszkały gromady licznych ludów. [...]",
+        "Dlatego tak mówi Wszechmocny Pan: Ponieważ był wysokiego wzrostu i wierzchołkiem swym sięgał obłoków, i jego serce wzbiło się w dumę z powodu jego wielkości, dlatego wydam go w ręce mocarza wśród narodów, aby z nim postąpił według jego bezbożności i zniszczył go."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Asyrię ściął właśnie Babilon. Teraz król Babilonu śni o sobie ten sam sen. **Co mówi o ludzkiej potędze to, że ten obraz pasuje do kolejnych imperiów?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Skąd według Ezechiela cedr miał swoją wielkość?** Poszukajcie w wersecie 4. W którym momencie wielkość stała się problemem?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Drzewo i wyrok",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Król opowiada Danielowi, co zobaczył.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 4,7-14",
+       "przeklad": "BW",
+       "akapity": [
+        "A oto co widziałem na moim łożu: Widziałem, a oto w środku ziemi było drzewo, a jego wysokość była duża. Drzewo to rosło i było potężne; jego wysokość sięgała nieba, a było widoczne aż po krańce całej ziemi. Liść jego był piękny, owoc jego obfity i był na nim pokarm dla wszystkich. Zwierzęta polne szukały pod nim cienia, a w jego gałęziach gnieździło się ptactwo niebieskie i żywiło się z niego wszelkie ciało. A oto co jeszcze oglądałem w widzeniach na swoim łożu, oto anioł święty zstępował z niebios. Wołał donośnym głosem i tak rzekł: Zetnijcie to drzewo i obetnijcie jego gałęzie, zerwijcie jego liść i rozrzućcie jego owoc: niech się rozbiegną spod niego zwierzęta i ptactwo z jego gałęzi. Lecz jego pień korzenny pozostawcie w ziemi, w obręczy żelaznej i miedzianej na niwie zielonej; niech rosa niebieska go zrasza i niech ma udział ze zwierzętami polnymi w ziołach ziemi! Jego ludzkie serce niech się odmieni, niech mu będzie dane serce zwierzęce! I niech przejdzie nad nim siedem wieków! Na rozstrzygnięciu stróżów opiera się ten wyrok, a sprawa jest postanowiona przez świętych, a to w tym celu, aby żyjący poznali, że Najwyższy ma moc nad królestwem ludzkim; daje je, komu chce, może nad nim ustanowić najuniżeńszego z ludzi."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Opiszcie drzewo tylko z tekstu. Co w nim jest dobrego?** Kto z niego korzysta? Czy sen potępia samo drzewo?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Drzewo zostaje ścięte, ale pień ma zostać w ziemi, i to zabezpieczony obręczą. **Co ten szczegół mówi o zamiarze Tego, kto wydał wyrok?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Werset 14 podaje cel całego wydarzenia. **Dla kogo jest ta lekcja według tekstu?** Czego mają się dowiedzieć „żyjący\"?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Biblia Warszawska ma w wersecie 13 „siedem wieków\". Aramejskie `iddan` znaczy po prostu „czas, okres\" i większość przekładów oddaje je jako „siedem czasów\" albo „siedem lat\".",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 4,13",
+       "przeklad": "Ekum",
+       "akapity": [
+        "Jego ludzkie serce niech dozna przemiany i niech stanie się sercem zwierzęcym! I niech tak będzie przez siedem lat!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Chodzi o siedem lat z życia jednego człowieka. Warto to zauważyć także dlatego, że w części prorockiej księgi adwentyści i wielu innych czytelników liczą okresy prorocze według zasady, że dzień oznacza rok. Tutaj tej zasady nikt nie stosuje i słusznie: rozdział jest opowiadaniem historycznym, a wyrok dotyczy jednej osoby, która ma go przeżyć i opisać.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Dlaczego ważne jest, żeby zasada czytania proroctw miała granice i żeby było wiadomo, gdzie ich nie stosować?** Co się dzieje z wiarygodnością wykładu, kiedy jedna metoda służy do wszystkiego?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Prorok, który się przeraził",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 4,16-19",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Daniel, zwany Baltazarem, przez krótki czas był osłupiały i przerażony w swoich myślach. Król zaś odezwał się i rzekł: Baltazarze, sen i wykład niech cię nie trwożą! Baltazar odpowiedział i rzekł: Panie mój! Ten sen dotyczy twoich nieprzyjaciół, a jego wykład twoich przeciwników. Drzewo, które widziałeś, które rosło i było potężne, którego wysokość sięgała nieba, a było widoczne na całej ziemi, którego liście były piękne, a owoc obfity, i które miało pokarm dla wszystkich, pod którym mieszkały zwierzęta polne, a w jego gałęziach gnieździły się ptaki niebieskie – to jesteś ty, królu: rosłeś i stałeś się potężny, twoja wielkość urosła i sięga nieba, twoja władza rozciąga się aż po krańce ziemi. [...]"
+       ]
+      },
+      {
+       "odnosnik": "Dn 4,21-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Taki jest wykład, królu, i takie jest rozstrzygnięcie Najwyższego o królu, moim panu: Wypędzą cię spośród ludzi, mieszkać będziesz ze zwierzętami polnymi i jak bydło trawą karmić cię będą; będzie cię zraszać rosa niebieska, siedem wieków przejdzie nad tobą, aż poznasz, że Najwyższy ma władzę nad królestwem ludzkim i że daje je temu, komu chce. A to, że polecono pozostawić pień korzenny drzewa, znaczy: Królestwo twoje będzie ci zachowane, gdy poznasz, że władza należy do niebios. Dlatego, królu, niech ci się spodoba moja rada: Zmaż swoje grzechy sprawiedliwością, a swoje winy miłosierdziem nad ubogimi, może wtedy twoje szczęście będzie trwałe!"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ten król zburzył Jerozolimę i uprowadził Daniela jako chłopca. Daniel ma mu właśnie ogłosić upadek. **Jak reaguje? Czego w jego reakcji nie ma, choć moglibyście się tego spodziewać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel nie kończy na wyroku, tylko dodaje radę. **Co konkretnie radzi i co ta rada zdradza o tym, jak Nebukadnesar rządził?** Co wspólnego ma pycha z ubogimi?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Może wtedy twoje szczęście będzie trwałe\". **Co mówi o Bogu to, że wyrok przychodzi razem z drogą wyjścia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Aramejskie słowo opisujące Daniela w wersecie 16 jest mocne: znaczy być zdruzgotanym, skamienieć. Król musi uspokajać proroka, nie odwrotnie. Daniel nie triumfuje. Życzy królowi, żeby ten sen dotyczył jego wrogów, a potem mówi prawdę, całą i wprost: „to jesteś ty\". Złą wiadomość przynosi ktoś, kogo ona sama łamie. Tak wygląda w tej księdze mówienie prawdy władzy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Skąd to mam",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 8,17-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Abyś nie mówił w swoim sercu: Moja moc i siła mojej ręki zdobyła mi to bogactwo. Pamiętaj, że to Pan, Bóg twój, daje ci siłę do zdobywania bogactwa, aby potwierdzić swoje przymierze, które poprzysiągł twoim ojcom, jak się to dziś okazuje."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mojżesz nie mówi, że człowiek nic nie zrobił. Mówi, skąd miał siłę, żeby to zrobić. **Gdzie przebiega granica między zdrową satysfakcją z własnej pracy a zdaniem z Pwt 8,17?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W rozdziale 2 Daniel powiedział królowi, że Bóg niebios „dał\" mu królestwo, moc i chwałę. **Co król zrobił z tym zdaniem przez następne lata?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Dwanaście miesięcy później",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 4,25-30",
+       "przeklad": "BW",
+       "akapity": [
+        "To wszystko wydarzyło się Nebukadnesarowi: Gdy bowiem król Nebukadnesar po upływie dwunastu miesięcy przechadzał się po pałacu królewskim w Babilonie, odezwał się król i rzekł: Czy to nie jest ów wielki Babilon, który zbudowałem na siedzibę króla dzięki potężnej mojej mocy i dla uświetnienia mojej wspaniałości? Gdy słowo to było jeszcze na ustach króla, zagrzmiał głos z nieba: Oznajmia ci się, królu Nebukadnesarze, że władza królewska zostaje ci odjęta. Będziesz wypędzony spośród ludzi, będziesz mieszkał ze zwierzętami polnymi, trawą jak bydło będą cię karmić i siedem wieków przejdzie nad tobą, aż poznasz, że Najwyższy ma władzę nad królestwem ludzkim i że je daje temu, komu chce. W tej chwili spełniło się słowo na Nebukadnesarze: Wypędzony został spośród ludzi i jadał trawę jak bydło, a rosa niebieska zraszała jego ciało, a jego włosy urosły jak u orłów pierze, a jego paznokcie jak u ptaków pazury."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Między snem a jego spełnieniem mija dwanaście miesięcy. **Czym był ten rok ze strony Boga?** Co mogło się w tym czasie dziać w głowie króla?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie jeszcze raz werset 27 i policzcie słowa „ja\", „moja\", „mojej\". **Co w tym zdaniu jest prawdą, a co nie?** Czego w nim brakuje w porównaniu z tym, co król usłyszał w rozdziale 2?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Człowiek, który chciał być więcej niż człowiekiem, staje się mniej niż człowiekiem. **Co ten obraz mówi o tym, co pycha robi z człowieczeństwem, także bez żadnego cudu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "tekst nie nazywa tego, co spotkało króla, i nie robi z tego reguły. Jeśli ktoś zacznie łączyć choroby psychiczne z karą Bożą, przerwij od razu. Odpowiedź jest w czerwonych flagach.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Podniosłem oczy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dn 4,31-34",
+       "przeklad": "BW",
+       "akapity": [
+        "A po upływie dni ja, Nebukadnesar, podniosłem oczy ku niebu; a gdy znowu rozum mi powrócił, wtedy błogosławiłem Najwyższego, a Żyjącego wiecznie chwaliłem i wysławiałem, gdyż jego władza jest władzą wieczną, a jego królestwo z pokolenia w pokolenie. A wszyscy mieszkańcy ziemi uważani są za nic, według swojej woli postępuje z wojskiem niebieskim i z mieszkańcami ziemi. Nie ma takiego, kto by powstrzymał jego rękę i powiedział mu: Co czynisz? W tym właśnie czasie powrócił mi rozum i dostojność i powróciła mi moja okazałość na chwałę mojego królestwa; moi doradcy i moi dostojnicy szukali mnie i znowu przywrócono mnie do godności królewskiej i dano mi jeszcze większą władzę. Teraz ja, Nebukadnesar, chwalę, wywyższam i wysławiam Króla Niebios, gdyż wszystkie jego dzieła są prawdą i jego ścieżki są sprawiedliwością. Tych zaś, którzy pysznie postępują, może poniżyć."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Opowiadanie wraca do pierwszej osoby: „ja, Nebukadnesar, podniosłem oczy ku niebu\". **Co jest w tym zdaniu pierwsze: spojrzenie czy powrót rozumu?** Co może znaczyć ta kolejność?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Na dachu pałacu król patrzył w dół, na swoje miasto. Teraz patrzy w górę. **Czym jest pokora według tej sceny?** Czym różni się od poniżania samego siebie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Po wszystkim król dostaje „jeszcze większą władzę\". **Co to mówi o tym, czego Bóg chciał, a czego nie chciał mu odebrać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ostatnie słowa Nebukadnesara w Biblii to zdanie człowieka, który mówi z doświadczenia: tych, którzy pysznie postępują, Bóg może poniżyć. Warto zobaczyć, jak długo Bóg do tego dochodził. Sen o posągu, czwarta postać w piecu, sen o drzewie, rada Daniela, rok zwłoki. Dopiero potem upadek, a po nim przywrócenie. Księga, która zaczyna się od króla plądrującego świątynię, daje mu cały rozdział na osobiste świadectwo.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ta sama zasada u Jezusa i u Jakuba",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jk 4,6",
+       "przeklad": "BW",
+       "akapity": [
+        "Owszem, większą jeszcze okazuje łaskę, gdyż mówi: Bóg się pysznym przeciwstawia, a pokornym łaskę daje."
+       ]
+      },
+      {
+       "odnosnik": "Łk 18,14",
+       "przeklad": "BW",
+       "akapity": [
+        "Powiadam wam: Ten poszedł usprawiedliwiony do domu swego, tamten zaś nie; bo każdy, kto siebie wywyższa, będzie poniżony, a kto się poniża, będzie wywyższony."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nowy Testament powtarza zdanie Nebukadnesara prawie dosłownie. **Dlaczego pycha jest czymś, czemu Bóg „się przeciwstawia\", a nie po prostu jedną z wielu wad?** Co ona robi z relacją, w której wszystko jest darem?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Komu w tej historii Bóg dał łaskę i w którym momencie?** Czy król na nią zasłużył?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Następny rozdział przeskakuje kilkadziesiąt lat. Na tronie siedzi potomek Nebukadnesara, który zna całą tę historię. **Jak myślicie, co człowiek może zrobić z cudzym nawróceniem, o którym wie wszystko?** Zapamiętajcie to pytanie na kolejne spotkanie.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czy Bóg łamie ludzi",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ten rozdział można przeczytać na dwa sposoby i oba mają oparcie w tekście.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pierwsze czytanie podkreśla suwerenność. Wyrok zapada w niebie, głos grzmi, król zostaje powalony w pół zdania. Nikt nie może powstrzymać ręki Boga ani zapytać: „Co czynisz?\". Bóg robi z władcami, co chce, a człowiek ma to uznać. Drugie czytanie podkreśla cierpliwość. Bóg ostrzega snem, posyła proroka, który podaje drogę wyjścia, czeka dwanaście miesięcy, zostawia pień w ziemi i z góry zapowiada koniec kary. Upokorzenie nie jest celem, tylko ostatnim ze środków, a celem jest człowiek, który podnosi oczy.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Te czytania nie muszą się wykluczać. Łączy je zdanie, które pada w rozdziale trzy razy: Najwyższy ma władzę nad królestwem ludzkim. Różnią się tym, jak rozumieją tę władzę: jako siłę, której nie można się oprzeć, czy jako cierpliwość, która nie rezygnuje.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które z tych czytań jest wam bliższe i na którym wersecie je opieracie?** Co tracimy, kiedy zostawimy tylko jedno z nich?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Werset 32 mówi, że mieszkańcy ziemi „uważani są za nic\". **Jak pogodzić to zdanie z Bogiem, który tyle zachodu wkłada w jednego człowieka?** Kto wypowiada te słowa i w jakim momencie swojego życia?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Każdy ma swój dach pałacu, czyli miejsce, z którego patrzy na to, co zbudował. **Co jest twoim Babilonem i jak brzmi twoje zdanie z wersetu 27?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel połączył pychę króla z losem ubogich. **Kto w twoim otoczeniu płaci za to, że ty jesteś zajęty budowaniem swojego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy było w twoim życiu upokorzenie, o którym dziś potrafisz powiedzieć, że coś ci uratowało?** Nie musisz opowiadać szczegółów.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nebukadnesar dostał sny, proroka, rok zwłoki, siedem lat i przywrócenie. Wielu tyranów w historii nie dostało niczego takiego i umarło w pałacach, syci i pewni siebie. **Dlaczego Bóg jednego pyszałka zatrzymuje, a innym pozwala iść dalej? Czy to, że mnie nikt nie zatrzymał, jest dobrym znakiem?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie rozstrzygaj. Może paść spostrzeżenie, że list króla został napisany dla „wszystkich ludów, plemion i języków\", czyli także dla tych, których nikt nie zatrzyma. Dla nich zatrzymaniem ma być ta historia.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pokora zaczyna się od podniesienia oczu: od zobaczenia, skąd mam to, co mam.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Dn 4,34 albo Dn 4,31a.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Wybierz jedną rzecz, z której jesteś najbardziej dumny: dom, firmę, dzieci, służbę w zborze, wykształcenie. Powiedz Bogu o niej zdaniem, które zaczyna się od słów: „To Ty mi dałeś\". Zauważ, co się w tobie dzieje, kiedy to mówisz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Daniel dał królowi rok. Zapytaj siebie uczciwie: **czy jest coś, co słyszę od dłuższego czasu, od Boga albo od bliskich, i odkładam, bo na razie wszystko działa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** pomyśl o kimś, kto ma nad tobą władzę i kogo nie lubisz. Daniel przeraził się losem człowieka, który zburzył jego miasto. Spróbuj przez chwilę chcieć dla tej osoby dobra i powiedz o tym Bogu, nawet jeśli na razie nie jest to szczere do końca.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli choroba psychiczna to kara za pychę\" albo żarty o królu, który oszalał.** Przerwij od razu i spokojnie. Tekst opisuje jedno zapowiedziane wydarzenie w życiu jednego człowieka i nie robi z niego reguły. Nie podaje też żadnej diagnozy. Przy stole może siedzieć ktoś po kryzysie psychicznym albo z chorym w rodzinie. Powiedz wprost: choroby, także psychiczne, nie są miarą czyjejś winy, a Biblia odrzuca taki rachunek w wielu miejscach.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada o własnym załamaniu albo o depresji.** Wysłuchaj, podziękuj, nie interpretuj jego historii przez ten rozdział. Grupa towarzyszy, nie leczy. Jeśli osoba jest w kryzysie teraz, zostań z nią po spotkaniu i zachęć do kontaktu ze specjalistą. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa o pysze zamienia się w rozmowę o szefie, polityku albo kimś ze zboru.** Zgódź się, że takich ludzi nie brakuje, i wróć do pierwszej osoby: „A gdzie jest mój dach pałacu?\". Nie dopuszczaj nazwisk.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To znaczy, że mam się niczym nie cieszyć i mówić, że nic nie umiem?\"** Nie. Król po wszystkim dalej jest królem i dostaje jeszcze więcej. Sen nie potępia drzewa, które karmi i daje cień. Problemem nie jest wielkość, tylko zdanie „dzięki potężnej mojej mocy i dla mojej wspaniałości\". Pokora to prawda o tym, skąd co mam, a nie udawanie, że nic nie mam.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Bóg mnie upokorzył, bo byłem pyszny\", powiedziane z goryczą o chorobie, bankructwie albo rozwodzie.** Nie potwierdzaj i nie zaprzeczaj. Nikt przy stole nie wie, dlaczego kogoś coś spotkało, a rozdział 4 zawiera wyjaśnienie tylko dlatego, że Bóg podał je z góry przez proroka. Zapytaj raczej, co pomogło tej osobie podnieść oczy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś czyta werset 24 jako obietnicę: bądź dobry dla biednych, a będzie ci się wiodło.** Daniel mówi „może\". To rada dla władcy, który krzywdził, żeby przestał krzywdzić, a nie umowa handlowa z Bogiem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Pytanie, czy ta historia jest potwierdzona poza Biblią.** Kroniki babilońskie z ostatnich lat Nebukadnesara są niepełne i nie opisują takiego wydarzenia, co przy urzędowych zapisach dworu nie dziwi. Materiał niczego tu nie dopowiada. Niezwykłe jest samo to, że księga oddaje głos królowi i pozwala mu opowiedzieć własny wstyd.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Blok 2 przeczytajcie tylko na głos. Bloków 4 i 5 nie skracaj: dach pałacu i podniesione oczy to oś spotkania.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Czyli choroba psychiczna to kara za pychę\" albo żarty o królu, który oszalał.",
+     "odpowiedz": "Przerwij od razu i spokojnie. Tekst opisuje jedno zapowiedziane wydarzenie w życiu jednego człowieka i nie robi z niego reguły. Nie podaje też żadnej diagnozy. Przy stole może siedzieć ktoś po kryzysie psychicznym albo z chorym w rodzinie. Powiedz wprost: choroby, także psychiczne, nie są miarą czyjejś winy, a Biblia odrzuca taki rachunek w wielu miejscach."
+    },
+    {
+     "sytuacja": "Ktoś opowiada o własnym załamaniu albo o depresji.",
+     "odpowiedz": "Wysłuchaj, podziękuj, nie interpretuj jego historii przez ten rozdział. Grupa towarzyszy, nie leczy. Jeśli osoba jest w kryzysie teraz, zostań z nią po spotkaniu i zachęć do kontaktu ze specjalistą. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, numer alarmowy 112."
+    },
+    {
+     "sytuacja": "Rozmowa o pysze zamienia się w rozmowę o szefie, polityku albo kimś ze zboru.",
+     "odpowiedz": "Zgódź się, że takich ludzi nie brakuje, i wróć do pierwszej osoby: „A gdzie jest mój dach pałacu?\". Nie dopuszczaj nazwisk."
+    },
+    {
+     "sytuacja": "„To znaczy, że mam się niczym nie cieszyć i mówić, że nic nie umiem?\"",
+     "odpowiedz": "Nie. Król po wszystkim dalej jest królem i dostaje jeszcze więcej. Sen nie potępia drzewa, które karmi i daje cień. Problemem nie jest wielkość, tylko zdanie „dzięki potężnej mojej mocy i dla mojej wspaniałości\". Pokora to prawda o tym, skąd co mam, a nie udawanie, że nic nie mam."
+    },
+    {
+     "sytuacja": "„Bóg mnie upokorzył, bo byłem pyszny\", powiedziane z goryczą o chorobie, bankructwie albo rozwodzie.",
+     "odpowiedz": "Nie potwierdzaj i nie zaprzeczaj. Nikt przy stole nie wie, dlaczego kogoś coś spotkało, a rozdział 4 zawiera wyjaśnienie tylko dlatego, że Bóg podał je z góry przez proroka. Zapytaj raczej, co pomogło tej osobie podnieść oczy."
+    },
+    {
+     "sytuacja": "Ktoś czyta werset 24 jako obietnicę: bądź dobry dla biednych, a będzie ci się wiodło.",
+     "odpowiedz": "Daniel mówi „może\". To rada dla władcy, który krzywdził, żeby przestał krzywdzić, a nie umowa handlowa z Bogiem."
+    },
+    {
+     "sytuacja": "Pytanie, czy ta historia jest potwierdzona poza Biblią.",
+     "odpowiedz": "Kroniki babilońskie z ostatnich lat Nebukadnesara są niepełne i nie opisują takiego wydarzenia, co przy urzędowych zapisach dworu nie dziwi. Materiał niczego tu nie dopowiada. Niezwykłe jest samo to, że księga oddaje głos królowi i pozwala mu opowiedzieć własny wstyd."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Blok 2 przeczytajcie tylko na głos. Bloków 4 i 5 nie skracaj: dach pałacu i podniesione oczy to oś spotkania."
+    }
+   ]
+  }
+ ]
+}

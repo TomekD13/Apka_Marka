@@ -1,0 +1,911 @@
+{
+ "tytul": "Skarb, perła, ziarno gorczycy i zakwas",
+ "id": "PJ-06",
+ "seria": "Przypowieści Jezusa",
+ "opis": "Cztery krótkie obrazy królestwa, które zaczyna się małe, pracuje w ukryciu i jest warte wszystkiego.",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Mt 13,31-32; Mt 13,33; Mt 13,34-35; Mt 13,44-46; Mt 13,51-52",
+  "p2": "Ez 17,22-24; Za 4,6.10; Rdz 18,6; Ps 78,2; Iz 53,2; Iz 65,1; Iz 55,1-2; Flp 3,7-8",
+  "p3": "Mk 4,30-32; 1Kor 5,6-8; Łk 12,1; Kpł 23,17; Wj 19,5; 1P 1,18-19"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 33
+ },
+ "tagi": [
+  "przypowieści",
+  "królestwo Boże",
+  "małe początki",
+  "radość",
+  "ukrycie"
+ ],
+ "wersja": 1,
+ "zdanie": "Królestwo zaczyna się małe i pracuje w ukryciu. Kto zobaczył, ile jest warte, nie liczy kosztów.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Cztery miniatury, razem sześć wersetów. Dwie pierwsze mówią, jak królestwo Boże wygląda: jest małe i pracuje w ukryciu. Dwie następne mówią, ile jest warte: wszystko, i to bez żalu. Spotkanie nie jest ani o wzroście kościoła, ani o ofiarności. Jest o tym, czy umiem rozpoznać Boże działanie, kiedy nie robi wrażenia, i co się dzieje z człowiekiem, który zobaczył, co leży w polu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Każda przypowieść Jezusa poprawia jakiś fałszywy obraz Boga. Te cztery poprawiają dwa. Pierwszy to Bóg, który działa tylko przez to, co wielkie, silne i widoczne z daleka, więc tam, gdzie jest mało i cicho, Jego nie ma. Drugi to Bóg poborca, któremu płaci się wyrzeczeniem i zaciśniętymi zębami. Naprzeciw pierwszego stoi ziarnko i zakwas, naprzeciw drugiego człowiek, który sprzedaje wszystko z radości. Jedna uwaga o czytaniu: przypowieść jest zwierciadłem jednej prawdy, więc nie buduje się nauki na pobocznych szczegółach, na przykład na tym, że znalazca zataił skarb. I druga: królestwo to nie to samo co Kościół jako instytucja, więc gorczycy nie mierzy się liczbą członków.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest zamkniętą całością. Nie wymaga znajomości poprzednich przypowieści.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole mogą siedzieć ludzie z małego zboru, którzy od lat słyszą, że nic się u nich nie dzieje. Gorczyca łatwo zamienia się wtedy albo w pocieszankę, albo w obietnicę, że kiedyś będziemy wielcy. Tekst nie mówi ani jednego, ani drugiego.",
+      "„Sprzedał wszystko\" może zabrzmieć jak żądanie i wywołać poczucie winy. Ktoś pomyśli, że dał za mało. Ktoś inny, że dał wszystko i radości nie ma.",
+      "Dla kogoś wiara jest dziś głównie ciężarem. Pytanie o radość może go zaboleć. Nie naprawiaj tego przy stole.",
+      "Ktoś zauważy, że znalazca zataił skarb przed właścicielem pola. Odpowiedź jest w Czerwonych flagach."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pytaj nikogo, co oddał dla Boga. Nie rób z tego spotkania zachęty do ofiarności ani do ewangelizacji. Nie mierz królestwa liczbą członków, ani w górę, ani w dół.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie coś małego, co z czasem okazało się w twoim życiu ważne: jedną rozmowę, przypadkowe spotkanie, drobną decyzję. Powiedz jednym zdaniem, co to było.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi. Jeśli ktoś jest pierwszy raz, niczego nie musi nadrabiać.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Najmniejsze z nasion",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 13,31-32",
+       "przeklad": "BW",
+       "akapity": [
+        "Inne podobieństwo podał im, mówiąc: Podobne jest Królestwo Niebios do ziarnka gorczycznego, które wziąwszy człowiek, zasiał na roli swojej. Jest ono, co prawda, najmniejsze ze wszystkich nasion, ale kiedy urośnie, jest największe ze wszystkich jarzyn, i staje się drzewem, tak iż przylatują ptaki niebieskie i gnieżdżą się w gałęziach jego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ludzie czekali na królestwo Boże jak na coś potężnego i widocznego z daleka. Jezus mówi: ziarnko gorczycy. **Co widział ktoś, kto tamtego dnia patrzył na Jezusa i Jego uczniów? Co to porównanie mówi mu o tym, na co patrzy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie uważnie, czym ziarno się staje: jest „największe ze wszystkich jarzyn\". **Co mówi o królestwie to, że nawet wyrośnięte pozostaje rośliną z warzywnego ogrodu?** Czego ten obraz nie obiecuje?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Przypowieść kończy się na ptakach. **Co roślina daje ptakom i czego od nich nie wymaga?** Kim mogą być ci, którzy przylatują?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ziarno gorczycy było w Galilei przysłowiem na coś najmniejszego. Na jeden gram wchodzi ich ponad siedemset. Nad Jeziorem Galilejskim roślina w jeden sezon dorasta do dwóch i pół, trzech metrów. Jej liście kiszono i jedzono. Słuchacze znali z proroków inny obraz królestwa: cedr na wysokiej górze. Jezus zostawia z tamtego obrazu gałęzie i ptaki, a drzewo zamienia na jarzynę.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** Trzynasty rozdział Mateusza to jeden dzień nad jeziorem. Jezus siedzi w łodzi, tłum stoi na brzegu. Mateusz zebrał tu siedem przypowieści o królestwie. Pierwsze cztery, w tym gorczycę i zakwas, słyszą wszyscy. Potem Jezus odprawia tłum, wchodzi do domu i trzy ostatnie, w tym skarb i perłę, opowiada już tylko uczniom. W rozdziałach poprzedzających Jan Chrzciciel pyta z więzienia, czy Jezus na pewno jest tym, który miał przyjść, miasta Galilei nie odpowiadają na cuda, a faryzeusze naradzają się, jak Jezusa zgładzić.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Oczekiwanie królestwa wyrastało między innymi z Księgi Daniela: po kolejnych imperiach Bóg ustanowi królestwo, które skruszy wszystkie poprzednie i wypełni ziemię. Kto słuchał z takim obrazem w głowie, usłyszał nad jeziorem coś zaskakującego. Królestwo przyszło jako nasiono.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak słuchał przypowieści o ziarnku ktoś, kto czekał na królestwo, które skruszy Rzym?** Co musiał w sobie zmienić, żeby przyjąć, że to jest odpowiedź?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Cedr i dzień małych początków",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ez 17,22-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Tak mówi Wszechmocny Pan: To Ja wezmę z wierzchołka wysokiego cedru, z najwyższych jego gałązek delikatną różdżkę i zasadzę na wysokiej i wyniosłej górze. Na wysokiej górze izraelskiej ją zasadzę. I wypuści pędy i wyda owoce, i stanie cedrem potężnym; i będzie pod nim mieszkać wszelkie ptactwo i w cieniu jego gałęzi zamieszka wszystko, co ma skrzydła. I poznają wszystkie drzewa polne, że Ja, Pan, poniżyłem drzewo wysokie, a wywyższyłem drzewo niskie, że ususzyłem drzewo świeże, a sprawiłem, że zakwitło drzewo suche. Ja, Pan, powiedziałem to i uczynię."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Porównajcie obraz Ezechiela z przypowieścią. **Co Jezus z niego zostawił, a co zmienił?** Które zdanie Ezechiela mogłoby być podpisem pod ziarnkiem gorczycy?",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Za 4,6",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy on odpowiedział, mówiąc do mnie: Takie jest słowo Pana do Zorobabela: Nie dzięki mocy ani dzięki sile, lecz dzięki mojemu Duchowi to się stanie – mówi Pan Zastępów."
+       ]
+      },
+      {
+       "odnosnik": "Za 4,10",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo ci, którzy gardzili dniem małych początków, będą się jeszcze radowali, gdy zobaczą kamień szczytowy w ręku Zorobabela. Te siedem lamp – to oczy Pana; one to przepatrują całą ziemię."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zachariasz mówi do ludzi, którzy po powrocie z wygnania budowali świątynię dużo skromniejszą od dawnej i wstydzili się jej. **Czym dziś najłatwiej wzgardzić jako „dniem małych początków\"?** Jak proroctwo odpowiada na pytanie, skąd bierze się wzrost?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Greckie `lachanon`, oddane w BW jako „jarzyna\", oznacza warzywo ogrodowe, zielsko jadalne. Marek w swojej wersji zostaje przy tym słowie do końca:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 4,30-32",
+       "przeklad": "BW",
+       "akapity": [
+        "I mówił: Do czego przyrównamy Królestwo Boże albo jakim podobieństwem je wyrazimy? Jest jak ziarno gorczyczne, które, gdy zostanie zasiane do ziemi, jest najmniejsze ze wszystkich nasion na ziemi. Ale gdy zostaje zasiane, wyrasta i staje się większe od wszystkich jarzyn, i wypuszcza tak wielkie gałęzie, że w jego cieniu mogą się gnieździć ptaki niebieskie."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Mateusz dopowiada, że jarzyna „staje się drzewem\". Botanicznie to przesada i Mateusz o tym wie. Słowem „drzewo\" odsyła czytelnika do Ezechiela i do snu z czwartego rozdziału Daniela, gdzie drzewo z ptakami w gałęziach jest obrazem wielkiego królestwa.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "U Marka Jezus głośno się zastanawia, do czego przyrównać królestwo, i wybiera jarzynę. **Co zyskuje przypowieść dzięki temu, że obraz jest trochę śmieszny?** Co by straciła, gdyby Jezus powiedział po prostu: cedr?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Trzy miary mąki",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 13,33",
+       "przeklad": "BW",
+       "akapity": [
+        "Inne podobieństwo powiedział im: Podobne jest Królestwo Niebios do kwasu, który wzięła niewiasta i rozczyniła w trzech miarach mąki, aż się wszystko zakwasiło."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Co dzieje się z zakwasem w chwili, gdy kobieta wgniecie go w mąkę? Co widać z zewnątrz godzinę później?** Co ten obraz mówi o sposobie, w jaki działa królestwo?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Gorczyca rośnie na zewnątrz, na oczach wszystkich. Zakwas pracuje od środka i go nie widać. **Co druga przypowieść dopowiada do pierwszej?** Gdzie według niej trzeba szukać królestwa?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Mąka nie zakwasi się sama, choćby leżała w dzieży sto lat. Zakwas musi ktoś do niej włożyć. **Co z tego wynika dla człowieka, który próbuje przemienić siebie własnym wysiłkiem?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Wypiek nie na zwykły dzień",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 18,6",
+       "przeklad": "BW",
+       "akapity": [
+        "I pośpieszył Abraham do namiotu, do Sary, i rzekł: Rozczyń szybko trzy miary wybornej mąki i zrób placki!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Chleb pieczono codziennie. Zaczynem nie były drożdże, tylko kawałek wczorajszego ciasta, którego nie upieczono i odłożono na jutro. Trzy miary mąki to około czterdziestu litrów. Wychodzi z tego chleb dla ponad stu osób. Żadna rodzina nie potrzebowała tyle na jeden dzień.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Kobieta z przypowieści zagniata ciasto na ucztę, której jeszcze nie widać. Tyle samo mąki poszło na posiłek dla trzech gości Abrahama. **Co mówi o królestwie rozmiar tej dzieży?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Gorczycę sieje mężczyzna na polu, ciasto zagniata kobieta w domu. Jezus często opowiada parami: pasterz szuka owcy, kobieta szuka drachmy. **Co to mówi o tym, do kogo Jezus mówił i kogo chciał w swoich opowieściach umieścić?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: zakwas jako obraz zła",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W większości miejsc Biblii zakwas jest obrazem czegoś złego, co przenika całość.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Kor 5,6-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie macie się czym chlubić. Czy nie wiecie, że odrobina kwasu cały zaczyn zakwasza? Usuńcie stary kwas, abyście się stali nowym zaczynem, ponieważ jesteście przaśni; albowiem na naszą wielkanoc jako baranek został ofiarowany Chrystus. Obchodźmy więc święto nie w starym kwasie ani w kwasie złości i przewrotności, lecz w przaśnikach szczerości i prawdy."
+       ]
+      },
+      {
+       "odnosnik": "Łk 12,1",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy się zgromadziły niezliczone rzesze ludu, tak iż nawzajem się deptali, zaczął mówić najpierw do uczniów swoich: Strzeżcie się kwasu faryzeuszów, to jest obłudy."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Stąd dwa odczytania przypowieści. Pierwsze, zdecydowanie częstsze, idzie za słowami samego Jezusa: to królestwo jest podobne do kwasu, więc obraz jest dobry i mówi o cichej sile, która przemienia wszystko, czego dotknie. Drugie trzyma się stałego znaczenia symbolu i widzi tu ostrzeżenie: w to, co Bóg zaczął, wniknie zepsucie. Oba stanowiska łączy obserwacja, że zakwas ma w Biblii jedną właściwość, a nie jedno znaczenie. Przenika całość. Kierunek nadaje mu to, co niesie. Warto też pamiętać, że na zakwasie pieczono chleby składane Bogu w święto pierwszych zbiorów:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kpł 23,17",
+       "przeklad": "BW",
+       "akapity": [
+        "Ze swoich siedzib przyniesiecie na obrzęd potrząsania po dwa chleby, każdy z dwóch dziesiątych efy przedniej mąki. Będą one upieczone na kwasie jako pierwociny dla Pana."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus wziął obraz, który słuchaczom kojarzył się źle, i przyrównał do niego królestwo. **Po co?** Co zyskuje porównanie, które najpierw trochę zgrzyta?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Rzeczy ukryte",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 13,34-35",
+       "przeklad": "BW",
+       "akapity": [
+        "To wszystko mówił Jezus do ludu w podobieństwach, a bez podobieństwa nic do nich nie mówił. Aby się wypełniło, co powiedziano przez proroka, gdy mówił: Otworzę w podobieństwach usta moje, wypowiem rzeczy ukryte od założenia świata."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Mateusz streszcza cały dzień słowami o „rzeczach ukrytych\". **Co w dwóch przypowieściach, które przeczytaliśmy, jest ukryte i gdzie?** Dlaczego Bóg miałby chcieć działać w taki sposób?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus mówi do tłumu o polu i o kuchni. Nie sięga po świątynię ani po pałac. **Co to mówi o miejscach, w których Jego zdaniem dzieje się królestwo?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Przypowieść zarazem odsłania i zasłania. **Kto z tłumu mógł wrócić do domu tylko z historyjką o warzywie, a kto z czymś więcej? Od czego to zależało?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Korzeń z suchej ziemi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 78,2",
+       "przeklad": "BW",
+       "akapity": [
+        "Do przypowieści otworzę usta moje, Opowiem zagadkowe dzieje starodawne."
+       ]
+      },
+      {
+       "odnosnik": "Iz 53,2",
+       "przeklad": "BW",
+       "akapity": [
+        "Wyrósł bowiem przed nim jako latorośl i jako korzeń z suchej ziemi. Nie miał postawy ani urody, które by pociągały nasze oczy i nie był to wygląd, który by nam się mógł podobać."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Izajasz opisuje Sługę Pana słowami, które pasowałyby do kiełkującego ziarna. **Jak wygląd królestwa ma się do wyglądu jego Króla?** Czy królestwo Jezusa mogłoby robić większe wrażenie niż On sam?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Skarb i perła",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jezus odprawia tłum i wchodzi do domu. Dwóch następnych przypowieści słuchają już tylko uczniowie.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 13,44-46",
+       "przeklad": "BW",
+       "akapity": [
+        "Podobne jest Królestwo Niebios do ukrytego w roli skarbu, który człowiek znalazł, ukrył i uradowany odchodzi, i sprzedaje wszystko, co ma, i kupuje oną rolę. Dalej podobne jest Królestwo Niebios do kupca, szukającego pięknych pereł, który, gdy znalazł jedną perłę drogocenną, poszedł, sprzedał wszystko, co miał, i kupił ją."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Pierwszy człowiek niczego nie szukał. Drugi szukał całe życie. **Co ich różni, a co robią tak samo?** Jakie dwie drogi do Boga widać w tej parze?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Tekst podaje tylko jeden motyw sprzedaży: „uradowany odchodzi\". **Czego w tych dwóch zdaniach nie ma, choć byśmy się tego spodziewali?** Jak ta transakcja wyglądała w oczach sąsiadów, a jak w oczach znalazcy?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Czy któryś z tych dwóch ludzi coś stracił?** Jak by odpowiedzieli, gdyby ich zapytać o ich „poświęcenie\"?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Bankom mało kto ufał i nie każdy miał do nich dostęp. Rodzinne srebro zakopywano w ziemi, zwłaszcza przed wojną. Gdy właściciel ginął albo szedł do niewoli, skrytka czekała latami na czyjś pług, więc takie znalezisko było czymś, o czym słuchacze słyszeli. Znalazcą jest tu najpewniej najemny robotnik na cudzym polu, kupcem człowiek zamożny. Królestwo kosztuje obu tyle samo: wszystko, co mają. I obaj wychodzą na tym jak na najlepszym interesie życia.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Znaleziony i szukający",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 65,1",
+       "przeklad": "BW",
+       "akapity": [
+        "Byłem przystępny dla tych, którzy o mnie nie pytali, dałem się znaleźć tym, którzy mnie nie szukali. Oto jestem, oto jestem, mówiłem do narodu, który nie był nazwany moim imieniem."
+       ]
+      },
+      {
+       "odnosnik": "Iz 55,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "Nuże, wszyscy, którzy macie pragnienie, pójdźcie do wód, a którzy nie macie pieniędzy, pójdźcie, kupujcie i jedzcie! Pójdźcie, kupujcie bez pieniędzy i bez płacenia wino i mleko! Czemu macie płacić pieniędzmi za to, co nie jest chlebem, dawać ciężko zdobyty zarobek za to, co nie syci? Słuchajcie mnie uważnie, a będziecie jedli dobre rzeczy, a tłustym pokarmem pokrzepi się wasza dusza!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Izajasz mówi o ludziach, którzy znaleźli Boga, choć Go nie szukali. **Do którego z dwóch bohaterów przypowieści to pasuje? Znacie takie historie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Kupujcie bez pieniędzy\". **Jak to zdanie oświetla przypowieść, w której ktoś sprzedaje wszystko, żeby kupić?** Czym właściwie płaci człowiek, który nie ma czym zapłacić?",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Flp 3,7-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Ale wszystko to, co mi było zyskiem, uznałem ze względu na Chrystusa za szkodę. Lecz więcej jeszcze, wszystko uznaję za szkodę wobec doniosłości, jaką ma poznanie Jezusa Chrystusa, Pana mego, dla którego poniosłem wszelkie szkody i wszystko uznaję za śmiecie, żeby zyskać Chrystusa"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł mówi językiem kupca: zysk, szkoda, zyskać. **Co konkretnie „sprzedał\"?** Przeczytajcie kilka wersetów wcześniej, co było na jego liście. Czy brzmi jak człowiek, który żałuje?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: kto jest kupcem",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Najczęściej czyta się te przypowieści tak: skarbem i perłą jest królestwo, a znalazcą i kupcem człowiek, który dla niego zostawia wszystko. Za tym odczytaniem stoi najprostszy sens zdania i słowa Jezusa o tym, że kto chce iść za Nim, zostawia wszystko.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Istnieje też odczytanie odwrotne: kupcem jest Chrystus, a perłą człowiek, którego On odnalazł i za którego oddał wszystko, co miał. Ci, którzy je przyjmują, zwracają uwagę, że w sąsiednich przypowieściach tego rozdziału człowiekiem, który działa na roli, jest Syn Człowieczy, a my nie mamy czym zapłacić za królestwo.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 19,5",
+       "przeklad": "BW",
+       "akapity": [
+        "A teraz, jeżeli pilnie słuchać będziecie głosu mojego i przestrzegać mojego przymierza, będziecie szczególną moją własnością pośród wszystkich ludów, bo moja jest cała ziemia."
+       ]
+      },
+      {
+       "odnosnik": "1P 1,18-19",
+       "przeklad": "BW",
+       "akapity": [
+        "wiedząc, że nie rzeczami znikomymi, srebrem albo złotem, zostaliście wykupieni z marnego postępowania waszego, przez ojców wam przekazanego, lecz drogą krwią Chrystusa, jako baranka niewinnego i nieskalanego."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Oba odczytania łączy kolejność. Najpierw ktoś oddał wszystko za nas. Kto to zobaczył, oddaje swoje z radości, nie z przymusu. I obie ceny są nieporównywalne.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które odczytanie jest wam bliższe i dlaczego?** Co się dzieje z pierwszym, jeśli zupełnie zapomnieć o drugim?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hebrajskie słowo oddane w Wj 19,5 jako „szczególna własność\" oznacza osobisty skarb króla, to, co trzyma przy sobie. **Jak zmienia się słuchanie przypowieści, gdy wiem, że Bóg mówi tak o ludziach?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Nowe i stare",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Po perle Jezus opowiada jeszcze o sieci, a potem zadaje uczniom jedno pytanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 13,51-52",
+       "przeklad": "BW",
+       "akapity": [
+        "Zrozumieliście to wszystko? Odpowiedzieli mu: Tak. A On rzekł do nich: Dlatego każdy uczony w Piśmie, który stał się uczniem Królestwa Niebios, podobny jest do gospodarza, który dobywa ze swego skarbca nowe i stare rzeczy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Uczniowie odpowiadają jednym słowem: tak. **Ile waszym zdaniem zrozumieli, sądząc po tym, co o nich wiemy z dalszych rozdziałów?** Co mówi o Jezusie to, że przyjmuje tę odpowiedź i nie robi im egzaminu?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Słowo „skarb\" wraca. Znalazca swój skarb ukrył. Uczeń królestwa swój wydobywa. **Kto według Jezusa ma teraz skarb i co ma z nim robić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Co w przypowieściach tego dnia było „stare\", znane słuchaczom z Pism, a co było „nowe\"?** Dlaczego gospodarz potrzebuje jednego i drugiego?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdzie dziś widzisz królestwo w postaci ziarnka albo zakwasu**, czyli coś małego i niepozornego, co jednak pracuje? W domu, w zborze, w mieście, w kimś, kogo znasz.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Która z czterech miniatur jest teraz najbliżej twojego życia:** małe ziarno, ukryty zakwas, niespodziewane znalezisko czy długie szukanie?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czym jest dziś dla ciebie wiara, bardziej skarbem czy bardziej kosztem?** Nie musisz tłumaczyć dlaczego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Znalazca sprzedał wszystko z radości. **A co z człowiekiem, który wierzy od lat, robi wszystko, co trzeba, i radości nie czuje? Nie zobaczył skarbu, zapomniał o nim, czy może radość z przypowieści to coś innego niż uczucie?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus nie opowiada, co było dalej. **Co dzieje się z radością znalazcy po dwudziestu latach posiadania pola?** Co ją podtrzymuje, a co ją gasi?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie diagnozuj nikogo i nie pocieszaj na siłę. Warto, żeby padły dwie rzeczy. Przypowieść nie każe wytwarzać w sobie radości, tylko patrzeć na to, co jest w polu. A lata posuchy w uczuciach znają także ludzie z Psalmów, którym nikt nie odmawia wiary.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Królestwo zaczyna się małe i pracuje w ukryciu. Kto zobaczył, ile jest warte, nie liczy kosztów.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Mt 13,44 albo Za 4,10.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o czymś w swoim życiu z Bogiem, co uważasz za zbyt małe, żeby się liczyło: krótką modlitwę, jedną rozmowę, wiarę, która ledwie się tli. **Zapytaj Boga, czy On widzi to tak samo jak ty.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zapytaj siebie uczciwie: **co w mojej wierze robię z radości, a co wyłącznie z obowiązku?** Niczego nie poprawiaj. Opowiedz Bogu o jednym i o drugim tak, jak jest.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** zakwas przenika wszystko, czego dotknie. Czy jest w twoim życiu dzieża, do której go nie wpuszczasz: pieniądze, praca, jedna relacja, jedna uraza? Nazwij ją przed Bogiem po imieniu i zostań przy niej chwilę.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Nasz zbór jest mały, starzejemy się i nic się nie dzieje.\"** Nie zaprzeczaj i nie pocieszaj statystyką. Wróć do tekstu: Jezus opowiedział to ludziom, którzy patrzyli na garstkę rybaków i pytali o to samo. Zapytaj: „Gdyby tu pracował zakwas, po czym byśmy to poznali, skoro z zewnątrz go nie widać?\"",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli kiedyś będziemy wielkim kościołem.\"** Przypowieść tego nie obiecuje. Gorczyca nie staje się cedrem. Staje się rośliną, w której ptaki znajdują cień. Miarą jest to, czy ktoś może u nas uwić gniazdo, a nie to, jak wysoko sięgamy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli mam wszystko sprzedać?\"** Zwróć uwagę na kolejność w tekście: najpierw znalazł, potem się ucieszył, dopiero potem sprzedał. Przypowieść nie zaczyna od żądania. Opisuje, co robi człowiek, który zobaczył. Pytanie „ile muszę oddać\" zadaje ktoś, kto patrzy na cenę. Znalazca patrzył na skarb.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ten znalazca postąpił nieuczciwie, zataił skarb przed właścicielem.\"** To częste spostrzeżenie. Przypowieść nie ocenia jego postępowania i nie stawia go za wzór w sprawach majątkowych. Ma jeden punkt: co robi człowiek, który znalazł coś wartego więcej niż wszystko, co ma. Jezus nieraz bierze do przypowieści ludzi o wątpliwej opinii.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Zakwas w Biblii to zawsze grzech.\"** Często, ale nie zawsze. Jezus mówi wprost, że to królestwo jest podobne do kwasu, a chleby na święto pierwszych zbiorów pieczono na zakwasie. Jeśli grupa chce iść dalej, to jest temat bloku Napięcie na poziomie 3.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi, że wiara jest dla niego od dawna tylko ciężarem.** Podziękuj za szczerość i niczego nie naprawiaj. Nie mów, że powinien się cieszyć. Możesz powiedzieć, że przypowieść nie każe się zmuszać do radości, i zaproponować rozmowę po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw bloki 3 i 5. Bloki 1, 2 i 4 niosą całość: małe, ukryte, warte wszystkiego.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Nasz zbór jest mały, starzejemy się i nic się nie dzieje.\"",
+     "odpowiedz": "Nie zaprzeczaj i nie pocieszaj statystyką. Wróć do tekstu: Jezus opowiedział to ludziom, którzy patrzyli na garstkę rybaków i pytali o to samo. Zapytaj: „Gdyby tu pracował zakwas, po czym byśmy to poznali, skoro z zewnątrz go nie widać?\""
+    },
+    {
+     "sytuacja": "„Czyli kiedyś będziemy wielkim kościołem.\"",
+     "odpowiedz": "Przypowieść tego nie obiecuje. Gorczyca nie staje się cedrem. Staje się rośliną, w której ptaki znajdują cień. Miarą jest to, czy ktoś może u nas uwić gniazdo, a nie to, jak wysoko sięgamy."
+    },
+    {
+     "sytuacja": "„Czyli mam wszystko sprzedać?\"",
+     "odpowiedz": "Zwróć uwagę na kolejność w tekście: najpierw znalazł, potem się ucieszył, dopiero potem sprzedał. Przypowieść nie zaczyna od żądania. Opisuje, co robi człowiek, który zobaczył. Pytanie „ile muszę oddać\" zadaje ktoś, kto patrzy na cenę. Znalazca patrzył na skarb."
+    },
+    {
+     "sytuacja": "„Ten znalazca postąpił nieuczciwie, zataił skarb przed właścicielem.\"",
+     "odpowiedz": "To częste spostrzeżenie. Przypowieść nie ocenia jego postępowania i nie stawia go za wzór w sprawach majątkowych. Ma jeden punkt: co robi człowiek, który znalazł coś wartego więcej niż wszystko, co ma. Jezus nieraz bierze do przypowieści ludzi o wątpliwej opinii."
+    },
+    {
+     "sytuacja": "„Zakwas w Biblii to zawsze grzech.\"",
+     "odpowiedz": "Często, ale nie zawsze. Jezus mówi wprost, że to królestwo jest podobne do kwasu, a chleby na święto pierwszych zbiorów pieczono na zakwasie. Jeśli grupa chce iść dalej, to jest temat bloku Napięcie na poziomie 3."
+    },
+    {
+     "sytuacja": "Ktoś mówi, że wiara jest dla niego od dawna tylko ciężarem.",
+     "odpowiedz": "Podziękuj za szczerość i niczego nie naprawiaj. Nie mów, że powinien się cieszyć. Możesz powiedzieć, że przypowieść nie każe się zmuszać do radości, i zaproponować rozmowę po spotkaniu."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw bloki 3 i 5. Bloki 1, 2 i 4 niosą całość: małe, ukryte, warte wszystkiego."
+    }
+   ]
+  }
+ ]
+}

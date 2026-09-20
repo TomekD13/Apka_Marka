@@ -1,0 +1,837 @@
+{
+ "tytul": "Faryzeusz i celnik",
+ "id": "PJ-04",
+ "seria": "Przypowieści Jezusa",
+ "opis": "Dwóch ludzi modli się w jednej świątyni, a z darem wraca ten, który przyszedł z pustymi rękami.",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Łk 18,9-14; Łk 18,15-17",
+  "p2": "Łk 18,1-8; Flp 3,4-9; Ps 51,3-6.18-19; Łk 23,48; Łk 22,33-34.61-62; Łk 18,18-23; Łk 18,38-43",
+  "p3": "Rz 3,23-25; Łk 19,5-10"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 32
+ },
+ "tagi": [
+  "przypowieści",
+  "modlitwa",
+  "usprawiedliwienie",
+  "pokora",
+  "pogarda",
+  "łaska"
+ ],
+ "wersja": 1,
+ "zdanie": "Dwóch ludzi powiedziało Bogu, kim są. Z darem wrócił ten, który przyszedł z pustymi rękami.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ta przypowieść ma zapadnię. Jest krótka, morał leży na wierzchu, a czytelnik w pół minuty myśli z ulgą: dobrze, że nie jestem jak ten faryzeusz. W tej samej chwili modli się jego modlitwą. Spotkanie ma doprowadzić grupę do tego miejsca i pozwolić jej to zauważyć bez zawstydzania kogokolwiek. Drugi cel jest jaśniejszy: zobaczyć, o co prosi celnik, na czym tę prośbę opiera i dlaczego Jezus mówi, że to wystarczyło.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Fałszywy obraz Boga, który ta przypowieść koryguje: Bóg jako rada nadzorcza, przed którą odczytuje się sprawozdanie i czeka na zatwierdzenie. Taki Bóg prowadzi rejestr i usprawiedliwia według dorobku. Jezus pokazuje Boga, który usprawiedliwia od strony ołtarza, nie od strony rejestru: daje temu, kto prosi, zanim cokolwiek zostało naprawione.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przypowieść ma sześć wersetów. Czytacie ją powoli, w czterech krótkich odcinkach, a piąty blok bierze scenę, którą Łukasz postawił zaraz po niej. To spotkanie jest zamkniętą całością i nie wymaga znajomości wcześniejszych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Faryzeusz łatwo staje się karykaturą. Wtedy cała grupa stoi bezpiecznie po stronie celnika i nic się nie wydarzy. W oczach słuchaczy Jezusa faryzeusz był człowiekiem godnym szacunku.",
+      "Przy stole może siedzieć ktoś, kto od lat zadręcza się winą. Dla niego wzorem nie jest bicie się w pierś bez końca. Celnik wychodzi ze świątyni usprawiedliwiony.",
+      "Ktoś może użyć przypowieści jako pałki: na zbór, na starszych, na konkretną osobę. To jest dokładnie modlitwa faryzeusza, tylko w nowej wersji.",
+      "Gest bicia się w pierś jest znany z liturgii katolickiej. Należy mu się szacunek, nie komentarz."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie pytaj, kto jest faryzeuszem. Nie pozwól wskazywać palcem nieobecnych. Nie kończ wezwaniem do większej pokory, bo pokora na zamówienie jest kolejnym osiągnięciem do wpisania na listę.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o ostatnim razie, kiedy porównałeś się z kimś i wypadłeś lepiej: za kierownicą, w pracy, w wychowaniu dzieci, w kościele. Nie mów, z kim. Powiedz tylko, w jakiej dziedzinie porównujesz się najchętniej.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, z uśmiechem i krótko. To ma być lekkie. Nie komentuj cudzych odpowiedzi. To spotkanie nie wymaga znajomości poprzednich.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Do kogo i o kim",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 18,9-10",
+       "przeklad": "BW",
+       "akapity": [
+        "I powiedział także do tych, którzy pokładali ufność w sobie samych, że są usprawiedliwieni, a innych lekceważyli, to podobieństwo: Dwóch ludzi weszło do świątyni, aby się modlić, jeden faryzeusz, a drugi celnik."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Łukasz z góry mówi, dla kogo jest ta przypowieść, i wymienia dwie cechy: ufność we własną sprawiedliwość i lekceważenie innych. **Jak jedno łączy się z drugim? Czy da się mieć pierwsze bez drugiego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Dwóch ludzi idzie do tej samej świątyni w tym samym celu. **Co przeciętny słuchacz myślał o każdym z nich, zanim Jezus powiedział cokolwiek więcej? Na kogo z tej pary stawiał?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Adresaci nie są nazwani. To nie „faryzeusze\", tylko „ci, którzy\". **Kto może się znaleźć w tej grupie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Faryzeusze byli w tamtym czasie najbardziej szanowanym nurtem pobożności: ludzie świeccy, którzy traktowali Prawo poważnie i żyli skromnie. Dzisiejszym odpowiednikiem nie jest obłudnik, tylko filar zboru. Celnik ściągał opłaty na rzecz okupanta i żył z tego, co doliczył dla siebie. Dla sąsiadów był zdrajcą i złodziejem jednocześnie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** Jezus jest w drodze do Jerozolimy i zbliża się do Jerycha. Rozdział osiemnasty zaczyna się od dwóch przypowieści o modlitwie postawionych jedna po drugiej. Pierwsza, o wdowie i sędzi, uczy wytrwałości. Druga, dzisiejsza, mówi o tym, z czym człowiek staje przed Bogiem. Zaraz po niej Łukasz pokazuje trzy spotkania: z dziećmi, z bogatym dostojnikiem i ze ślepcem przy drodze. W każdym wraca to samo pytanie, kto wchodzi do Królestwa i z czym.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** W świątyni codziennie składano ofiarę za lud: jedno jagnię rano, drugie przed wieczorem. Była to zarazem pora wspólnej modlitwy. Dzieje Apostolskie wspominają, że Piotr i Jan szli do świątyni „w godzinie modlitwy, o dziewiątej\", czyli po naszemu o trzeciej po południu. Dwaj ludzie z przypowieści najpewniej nie stoją w pustym gmachu. Stoją w tłumie, a na ołtarzu płonie ofiara.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Wdowa i sędzia",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 18,1-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Powiedział im też podobieństwo o tym, że powinni zawsze się modlić i nie ustawać, mówiąc: Był w jednym mieście pewien sędzia, który Boga się nie bał, a z człowiekiem się nie liczył. Była też w owym mieście pewna wdowa, która go nachodziła i mówiła: Weź mię w obronę przed moim przeciwnikiem. I przez długi czas nie chciał. Potem zaś powiedział sobie: Chociaż i Boga się nie boję ani z człowiekiem się nie liczę, jednak ponieważ naprzykrza mi się ta wdowa, wezmę ją w obronę, by w końcu nie przyszła i nie uderzyła mnie w twarz. I rzekł Pan: Słuchajcie, co ten niesprawiedliwy sędzia powiada! A czyżby Bóg nie wziął w obronę swoich wybranych, którzy wołają do niego we dnie i w nocy, chociaż zwleka w ich sprawie? Powiadam wam, że szybko weźmie ich w obronę. Tylko czy Syn Człowieczy znajdzie wiarę na ziemi, gdy przyjdzie?"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dwie przypowieści o modlitwie pod rząd. **Co łączy wdowę z celnikiem? Co oboje mają w rękach, kiedy przychodzą?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pierwsza przypowieść kończy się pytaniem, czy Syn Człowieczy znajdzie wiarę. **Jak druga przypowieść odpowiada na pytanie, jak taka wiara wygląda?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Modlitwa pierwsza",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 18,11-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Faryzeusz stanął i tak się w duchu modlił: Boże, dziękuję ci, że nie jestem jak inni ludzie, rabusie, oszuści, cudzołożnicy albo też jak ten oto celnik. Poszczę dwa razy w tygodniu, daję dziesięcinę z całego mego dorobku."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Modlitwa zaczyna się od „Boże, dziękuję ci\". **Kto jest bohaterem wszystkich następnych zdań? O co faryzeusz w tej modlitwie prosi i jaka rola zostaje w niej dla Boga?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wszystko, co mówi, jest prawdą. Post i dziesięcina to rzeczy dobre, a on daje więcej, niż musi. **Gdzie w takim razie dokładnie leży problem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Albo też jak ten oto celnik.\" **Skąd faryzeusz wie, jaki jest człowiek stojący z tyłu? Do czego jest mu on w tej modlitwie potrzebny?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jezus niczego nie przerysował. W późniejszych pismach rabinów zachowała się modlitwa nauczyciela, który dziękuje Bogu, że on biegnie ku życiu przyszłego świata, a inni ku dołowi zagłady. Post dwa razy w tygodniu i dziesięcina ze wszystkiego to więcej, niż wymagało Prawo Mojżesza.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Lista Pawła",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Flp 3,4-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Chociaż ja mógłbym pokładać ufność w ciele. Jeżeli ktoś inny sądzi, że może pokładać ufność w ciele, to tym bardziej ja: obrzezany dnia ósmego, z rodu izraelskiego, z pokolenia Beniaminowego, Hebrajczyk z Hebrajczyków, co do zakonu faryzeusz, co do żarliwości prześladowca Kościoła, co do sprawiedliwości, opartej na zakonie, człowiek bez nagany. Ale wszystko to, co mi było zyskiem, uznałem ze względu na Chrystusa za szkodę. Lecz więcej jeszcze, wszystko uznaję za szkodę wobec doniosłości, jaką ma poznanie Jezusa Chrystusa, Pana mego, dla którego poniosłem wszelkie szkody i wszystko uznaję za śmiecie, żeby zyskać Chrystusa i znaleźć się w nim, nie mając własnej sprawiedliwości, opartej na zakonie, lecz tę, która się wywodzi z wiary w Chrystusa, sprawiedliwość z Boga, na podstawie wiary,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł był faryzeuszem i miał listę dłuższą niż człowiek z przypowieści. **Co z nią zrobił? Dlaczego nazywa ją szkodą, a nie po prostu czymś bez znaczenia?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nie przestał po nawróceniu żyć porządnie. **Co się zmieniło, skoro nie zmieniło się zachowanie?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Modlitwa druga",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 18,13",
+       "przeklad": "BW",
+       "akapity": [
+        "A celnik stanął z daleka i nie śmiał nawet oczu podnieść ku niebu, lecz bił się w pierś swoją, mówiąc: Boże, bądź miłościw mnie grzesznemu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zanim celnik cokolwiek powie, mówi jego ciało. **Gdzie stoi, gdzie patrzy, co robi rękami? Co z tego wiadomo o nim bez słów?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Celnik niczego nie obiecuje: ani poprawy, ani zwrotu pieniędzy, ani zmiany zawodu. **Na czym w takim razie opiera swoją prośbę? Co ma do zaoferowania?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Faryzeusz porównuje się z innymi. **Z kim porównuje się celnik? Co znika z modlitwy, kiedy człowiek przestaje się rozglądać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W greckim tekście modlitwa faryzeusza ma dwadzieścia dziewięć słów, modlitwa celnika sześć. Żyd modlił się zwykle na stojąco, z oczami i rękami wzniesionymi ku niebu. Celnik robi wszystko odwrotnie. Łukasz opisze gest bicia się w piersi jeszcze tylko raz: u tłumów wracających spod krzyża.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Psalm, który celnik mógł znać",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 51,3-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Zmiłuj się nade mną, Boże, według łaski swojej, Według wielkiej litości swojej zgładź występki moje! Obmyj mnie zupełnie z winy mojej I oczyść mnie z grzechu mego! Ja bowiem znam występki swoje I grzech mój zawsze jest przede mną. Przeciwko tobie samemu zgrzeszyłem I uczyniłem to, co złe w oczach twoich, Abyś okazał się sprawiedliwy w wyroku swoim, Czysty w sądzie swoim."
+       ]
+      },
+      {
+       "odnosnik": "Ps 51,18-19",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem ofiar nie żądasz, A całopalenia, choćbym ci je dał, nie zechcesz przyjąć. Ofiarą Bogu miłą jest duch skruszony, Sercem skruszonym i zgnębionym nie wzgardzisz, Boże."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dawid, tak jak celnik, nie podaje ani jednej okoliczności łagodzącej. **Na co się powołuje w pierwszym zdaniu? Na coś w sobie czy na coś w Bogu?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Sercem skruszonym nie wzgardzisz.\" **Kto w przypowieści gardzi, a kto nie? Co to mówi o różnicy między Bogiem a pobożnym człowiekiem?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pod krzyżem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 23,48",
+       "przeklad": "BW",
+       "akapity": [
+        "A wszystkie te rzesze, które się zeszły na to widowisko, ujrzawszy to, co się stało, bijąc się w piersi, zawracały."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To drugie i ostatnie miejsce, w którym Łukasz opisuje ten gest. **Co łączy celnika w świątyni z tłumem wracającym z Golgoty?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Celnik nie mówi zwykłego „zmiłuj się\". Tak zawoła kilkanaście wersetów dalej ślepiec pod Jerychem i tam stoi potoczne greckie `eleēson`. W modlitwie celnika stoi `hilasthēti`, słowo z języka ofiar: bądź przebłagany, przyjmij przebłaganie za mnie. Z tego samego rdzenia pochodzi w Nowym Testamencie nazwa wieka skrzyni przymierza, miejsca, które kapłan kropił krwią w Dniu Pojednania, oraz słowo, którego Paweł używa o Chrystusie:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 3,23-25",
+       "przeklad": "BW",
+       "akapity": [
+        "gdyż wszyscy zgrzeszyli i brak im chwały Bożej, i są usprawiedliwieni darmo, z łaski jego, przez odkupienie w Chrystusie Jezusie, którego Bóg ustanowił jako ofiarę przebłagalną przez krew jego, skuteczną przez wiarę, dla okazania sprawiedliwości swojej przez to, że w cierpliwości Bożej pobłażliwie odniósł się do przedtem popełnionych grzechów,"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Celnik stoi w świątyni w porze, gdy na ołtarzu składa się ofiarę za lud. **O co dokładnie prosi, jeśli przeczytać jego słowa dosłownie? Na co patrzy człowiek, który nie śmie podnieść oczu ku niebu?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "U Pawła spotykają się te same dwa słowa co w przypowieści: usprawiedliwieni i przebłaganie. **Co Paweł dopowiada do historii celnika, czego w dniu jej opowiadania nikt jeszcze nie mógł wiedzieć?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Werdykt",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 18,14",
+       "przeklad": "BW",
+       "akapity": [
+        "Powiadam wam: Ten poszedł usprawiedliwiony do domu swego, tamten zaś nie; bo każdy, kto siebie wywyższa, będzie poniżony, a kto się poniża, będzie wywyższony."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Usprawiedliwiony\" to słowo z sali sądowej: uznany za sprawiedliwego. **Co zmieniło się w położeniu celnika między wejściem a wyjściem? A co zmieniło się u faryzeusza?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dla pierwszych słuchaczy ten werdykt był skandalem. **Co jest w nim niesprawiedliwego według zwykłej miary? Czyją miarą mierzy Jezus?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bądźmy szczerzy: w którymś momencie czytania większość z nas myśli „dobrze, że nie jestem jak ten faryzeusz\". **Co się w tej chwili właśnie stało? Jak wyjść z tej pułapki, nie wpadając w nią piętro niżej?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jeden człowiek, dwie modlitwy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 22,33-34",
+       "przeklad": "BW",
+       "akapity": [
+        "On zaś rzekł do niego: Panie, z tobą gotów jestem iść i do więzienia, i na śmierć. A On rzekł: Powiadam ci, Piotrze, nie zapieje dzisiaj kur, a ty się trzykroć zaprzesz, że mnie znasz."
+       ]
+      },
+      {
+       "odnosnik": "Łk 22,61-62",
+       "przeklad": "BW",
+       "akapity": [
+        "A Pan, obróciwszy się, spojrzał na Piotra; i przypomniał sobie Piotr słowo Pana, jak do niego rzekł: Zanim kur dziś zapieje, trzykroć się mnie zaprzesz. I wyszedłszy na zewnątrz, gorzko zapłakał."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wieczorem Piotr mówi o swojej gotowości, nad ranem płacze bez słowa. **Która z tych scen przypomina którą modlitwę z przypowieści? Co to mówi o tym, czy faryzeusz i celnik to dwa rodzaje ludzi, czy dwa stany jednego serca?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czy celnik nie musi niczego naprawić",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przypowieść kończy się, zanim celnik cokolwiek zmieni. Jedni czytają ją tak: usprawiedliwienie jest darem dla proszącego, poprzedza każdą poprawę i od żadnej nie zależy, a dopisywanie warunków zamienia celnika z powrotem w faryzeusza. Inni zwracają uwagę, że ten sam Łukasz rozdział dalej pokazuje celnika z krwi i kości, u którego spotkanie z Jezusem natychmiast sięga do portfela:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 19,5-10",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy Jezus przybył na to miejsce, spojrzał w górę i rzekł do niego: Zacheuszu, zejdź śpiesznie, gdyż dziś muszę się zatrzymać w twoim domu. I zszedł śpiesznie, i przyjął go z radością. A widząc to, wszyscy szemrali, mówiąc: Do człowieka grzesznego przybył w gościnę. Zacheusz zaś stanął i rzekł do Pana: Panie, oto połowę majątku mojego daję ubogim, a jeśli na kim co wymusiłem, jestem gotów oddać w czwórnasób. A Jezus rzekł do niego: Dziś zbawienie stało się udziałem domu tego, ponieważ i on jest synem Abrahamowym. Przyszedł bowiem Syn Człowieczy, aby szukać i zbawić to, co zginęło."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Prześledźcie kolejność zdarzeń u Zacheusza. **Co jest pierwsze: deklaracja zwrotu czy wejście Jezusa pod jego dach?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Oba odczytania zgadzają się co do kolejności: najpierw przyjęcie, potem owoce. **Dlaczego ta kolejność ma znaczenie? Co się dzieje z człowiekiem i z jego poprawą, kiedy próbuje ją odwrócić?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Jak dziecię",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 18,15-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Przynieśli też do niego i dzieci, aby się ich dotknął. A widząc to uczniowie, gromili ich. Jezus zaś przywołał je i rzekł: Pozwólcie dzieciom przychodzić do mnie i nie zabraniajcie im. Albowiem do takich należy Królestwo Boże. Zaprawdę, powiadam wam, kto nie przyjmuje Królestwa Bożego jak dziecię, nie wejdzie do niego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Łukasz stawia tę scenę zaraz po przypowieści. Uczniowie gromią ludzi, którzy przynoszą małe dzieci. **Kto w tej scenie stoi w miejscu faryzeusza? Kogo uznał za niegodnego czasu Jezusa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Małe dziecko nie ma osiągnięć, którymi mogłoby się wylegitymować. **Co ma wspólnego z celnikiem? Co znaczy przyjąć Królestwo tak, jak przyjmuje dziecko?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus mówi „przyjmuje\", nie „zdobywa\" i nie „zasługuje\". **Jakie inne czasowniki podkładamy w to miejsce, kiedy myślimy o swojej relacji z Bogiem?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dwóch w drodze do Jerycha",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 18,18-23",
+       "przeklad": "BW",
+       "akapity": [
+        "I zapytał go pewien dostojnik tymi słowy: Nauczycielu dobry, co mam czynić, aby odziedziczyć żywot wieczny? Rzekł do niego Jezus: Dlaczego zwiesz mnie dobrym? Nikt nie jest dobry, tylko jeden Bóg. Znasz przykazania: Nie cudzołóż, nie zabijaj, nie kradnij, nie mów fałszywego świadectwa, czcij ojca swego i matkę swoją. Ten zaś rzekł: Tego wszystkiego przestrzegałem od młodości. A gdy to Jezus usłyszał, rzekł do niego: Jeszcze jednego ci brak. Sprzedaj wszystko, co tylko masz i rozdaj ubogim, a będziesz miał skarb w niebie, a potem przyjdź i naśladuj mnie. Ten zaś, usłyszawszy to, zasmucił się; był bowiem bardzo bogaty."
+       ]
+      },
+      {
+       "odnosnik": "Łk 18,38-43",
+       "przeklad": "BW",
+       "akapity": [
+        "I zaczął wołać: Jezusie, Synu Dawidowy, zmiłuj się nade mną! A ci, którzy szli na przedzie, gromili go, by milczał. On zaś coraz głośniej wołał: Synu Dawidowy, zmiłuj się nade mną! Wtedy Jezus przystanął i kazał przyprowadzić go do siebie. A gdy ten się zbliżył, zapytał go, mówiąc: Co chcesz, abym ci uczynił? A on odrzekł: Panie, abym przejrzał. A Jezus rzekł do niego: Przejrzyj! Wiara twoja uzdrowiła cię. I zaraz odzyskał wzrok, i szedł za nim, wielbiąc Boga. A cały lud, ujrzawszy to, oddał chwałę Bogu."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Do końca rozdziału Jezus spotyka jeszcze dwóch ludzi. **Który z nich mówi jak faryzeusz, a który jak celnik? Który odchodzi zasmucony, a który idzie za Jezusem?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Faryzeusza można w sobie poznać po jednym: pobożność zaczyna produkować pogardę. **Wobec kogo twoja wiara czyni cię mniej cierpliwym zamiast bardziej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przypomnij sobie swoje modlitwy z ostatnich tygodni. **Ile było w nich sprawozdań, a ile próśb? Czego to cię uczy o tym, z czym stajesz przed Bogiem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy był w twoim życiu dzień, kiedy nie miałeś Bogu do powiedzenia nic poza zdaniem celnika? Z czym wtedy wróciłeś do domu?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Kto zauważy własną pokorę, już ją traci. Kto gardzi faryzeuszem, modli się jego modlitwą. **Czy z tej pułapki da się wyjść własnym wysiłkiem? Czy istnieje pokora, która nie wie o sobie, że jest pokorą, i skąd miałaby się brać?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie dawaj recepty. Warto, żeby padło jedno spostrzeżenie z tekstu: celnik nie zajmuje się ani swoją pokorą, ani faryzeuszem. Patrzy w jedno miejsce i prosi o jedno. Być może pokora nie jest czymś, co się wypracowuje, tylko skutkiem ubocznym patrzenia gdzie indziej niż na siebie.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Dwóch ludzi powiedziało Bogu, kim są. Z darem wrócił ten, który przyszedł z pustymi rękami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Łk 18,13 albo Łk 18,14.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kiedy następnym razem przyłapiesz się na myśli „ja przynajmniej nie jestem jak\", nie walcz z nią i nie karz się za nią. **Zapytaj tylko: do czego ten człowiek był mi w tej chwili potrzebny?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Spróbuj raz stanąć przed Bogiem bez żadnej listy: bez listy zasług i bez listy win odmierzonych co do sztuki. **Jedno zdanie celnika i cisza.** Zobacz, czy umiesz w tej ciszy zostać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** pomyśl o człowieku, którego pobożnością albo jej brakiem gardzisz najłatwiej. Wyobraź sobie, że stoi za tobą w świątyni i że Bóg słyszy jego modlitwę, której ty nie słyszysz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„U nas w zborze to dopiero są faryzeusze.\"** Przerwij spokojnie i od razu. Możesz powiedzieć z uśmiechem: „Uwaga, zapadnia\" i wrócić do pytania o to, co dzieje się w nas, kiedy to mówimy. Nie pozwól, żeby padły nazwiska.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś uogólnia: „faryzeusze, czyli Żydzi, czyli obłudnicy\".** Sprostuj krótko. Faryzeusze byli ludźmi szczerze pobożnymi i szanowanymi, a celnik też był Żydem. Przypowieść nie mówi o narodzie ani o wyznaniu. Łukasz adresuje ją do „tych, którzy pokładali ufność w sobie samych\", a tacy są w każdym kościele.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś, kto stale się zadręcza, mówi: „Ja się tak czuję codziennie i nic mi to nie daje.\"** To ważne zdanie i nie wolno go zbyć. Zwróć uwagę na koniec wersetu 14: celnik poszedł do domu usprawiedliwiony. Przypowieść nie każe zostać w biciu się w pierś, tylko pokazuje, że ta modlitwa zostaje wysłuchana od razu. Jeśli poczucie winy jest u tej osoby stałe i przytłaczające, porozmawiaj z nią po spotkaniu i zachęć do rozmowy z duszpasterzem albo psychologiem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli post, dziesięcina i porządne życie są niepotrzebne?\"** Tekst tego nie mówi. Jezus nie krytykuje ani postu, ani dziesięciny. Problemem jest rachunek, który faryzeusz do nich dopisał, i pogarda, która z tego rachunku wyrosła. Na poziomie 2 mówi o tym Paweł w Liście do Filipian.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To ja sobie pogrzeszę, a potem powiem zdanie celnika.\"** Nie oburzaj się. Zapytaj, czy celnik w tej scenie wygląda na kogoś, kto kalkuluje. Jeśli prowadzisz poziom 3, odeślij do Zacheusza: przyjęcie jest darmowe i dlatego tyle zmienia.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na spowiedź albo na bicie się w piersi podczas mszy.** Nie wchodź w porównywanie praktyk kościołów. Przy stole mogą siedzieć katolicy i należy im się szacunek. Wróć do tekstu: komu celnik mówi swoje zdanie i co słyszy w odpowiedzi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu o zapadnię.** To dobrze. Policz w myślach do dziesięciu. To pytanie potrzebuje ciszy bardziej niż odpowiedzi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Skróć blok 1 i pomiń blok 5. Bloki 2, 3 i 4 to cała przypowieść i muszą wybrzmieć razem.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„U nas w zborze to dopiero są faryzeusze.\"",
+     "odpowiedz": "Przerwij spokojnie i od razu. Możesz powiedzieć z uśmiechem: „Uwaga, zapadnia\" i wrócić do pytania o to, co dzieje się w nas, kiedy to mówimy. Nie pozwól, żeby padły nazwiska."
+    },
+    {
+     "sytuacja": "Ktoś uogólnia: „faryzeusze, czyli Żydzi, czyli obłudnicy\".",
+     "odpowiedz": "Sprostuj krótko. Faryzeusze byli ludźmi szczerze pobożnymi i szanowanymi, a celnik też był Żydem. Przypowieść nie mówi o narodzie ani o wyznaniu. Łukasz adresuje ją do „tych, którzy pokładali ufność w sobie samych\", a tacy są w każdym kościele."
+    },
+    {
+     "sytuacja": "Ktoś, kto stale się zadręcza, mówi: „Ja się tak czuję codziennie i nic mi to nie daje.\"",
+     "odpowiedz": "To ważne zdanie i nie wolno go zbyć. Zwróć uwagę na koniec wersetu 14: celnik poszedł do domu usprawiedliwiony. Przypowieść nie każe zostać w biciu się w pierś, tylko pokazuje, że ta modlitwa zostaje wysłuchana od razu. Jeśli poczucie winy jest u tej osoby stałe i przytłaczające, porozmawiaj z nią po spotkaniu i zachęć do rozmowy z duszpasterzem albo psychologiem."
+    },
+    {
+     "sytuacja": "„Czyli post, dziesięcina i porządne życie są niepotrzebne?\"",
+     "odpowiedz": "Tekst tego nie mówi. Jezus nie krytykuje ani postu, ani dziesięciny. Problemem jest rachunek, który faryzeusz do nich dopisał, i pogarda, która z tego rachunku wyrosła. Na poziomie 2 mówi o tym Paweł w Liście do Filipian."
+    },
+    {
+     "sytuacja": "„To ja sobie pogrzeszę, a potem powiem zdanie celnika.\"",
+     "odpowiedz": "Nie oburzaj się. Zapytaj, czy celnik w tej scenie wygląda na kogoś, kto kalkuluje. Jeśli prowadzisz poziom 3, odeślij do Zacheusza: przyjęcie jest darmowe i dlatego tyle zmienia."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na spowiedź albo na bicie się w piersi podczas mszy.",
+     "odpowiedz": "Nie wchodź w porównywanie praktyk kościołów. Przy stole mogą siedzieć katolicy i należy im się szacunek. Wróć do tekstu: komu celnik mówi swoje zdanie i co słyszy w odpowiedzi."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu o zapadnię.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. To pytanie potrzebuje ciszy bardziej niż odpowiedzi."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Skróć blok 1 i pomiń blok 5. Bloki 2, 3 i 4 to cała przypowieść i muszą wybrzmieć razem."
+    }
+   ]
+  }
+ ]
+}

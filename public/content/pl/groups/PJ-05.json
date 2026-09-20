@@ -1,0 +1,939 @@
+{
+ "tytul": "Robotnicy w winnicy",
+ "id": "PJ-05",
+ "seria": "Przypowieści Jezusa",
+ "opis": "Wszyscy dostają tę samą zapłatę i pierwsi czują się skrzywdzeni: dlaczego cudza łaska tak boli?",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Mt 19,27-30; Mt 20,1-16; Mt 20,20-28",
+  "p2": "Mt 19,16-22; Kpł 19,13; Pwt 24,14-15; Łk 23,39-43; Łk 17,7-10; Mt 20,17-19; Mt 27,37-38",
+  "p3": "Rz 4,4-5; 1Kor 3,8; Pwt 15,9; Mt 6,22-23; Mt 22,12; Mt 26,50; Rz 6,23"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 34
+ },
+ "tagi": [
+  "przypowieści",
+  "łaska",
+  "zazdrość",
+  "nagroda",
+  "sprawiedliwość",
+  "służba"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg nikomu nie daje mniej, niż obiecał. Gorszy nas dopiero to, że innym daje tyle samo.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ta przypowieść ma oburzyć i dobrze, jeśli oburzy. Gospodarz płaci tyle samo za godzinę i za dwanaście godzin, a nikt nie dostaje mniej, niż mu obiecano. Spotkanie ma doprowadzić grupę do pytania, skąd w takim razie bierze się poczucie krzywdy. Ważne jest, komu Jezus to opowiada: nie przeciwnikom, tylko uczniom, którzy naprawdę zostawili wszystko. Przypowieść wywołał Piotr pytaniem „cóż za to mieć będziemy\" i jest ona ujęta w klamrę tego samego zdania o pierwszych i ostatnich.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Fałszywy obraz Boga, który ta przypowieść koryguje: Bóg jako pracodawca, który płaci według stażu i zasług, a relacja z Nim jako umowa. Przy takim obrazie Jego hojność wobec innych wygląda jak niesprawiedliwość wobec mnie. Jezus pokazuje gospodarza, który pięć razy sam wychodzi po ludzi i na końcu mówi o sobie tylko jedno: jestem dobry.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest zamkniętą całością i nie wymaga znajomości wcześniejszych. Materiał Zazdrość z serii Emocje czyta wersety 9-15 od strony uczucia. Tutaj czytacie całość od strony tego, jaki jest gospodarz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole mogą siedzieć ludzie wierzący od dziecka, zmęczeni i z cichym żalem, że ich wierność niczego nie dała. Pytanie Piotra jest ich pytaniem i Jezus go nie gani.",
+      "Może też siedzieć ktoś, kto przyszedł do wiary późno i wstydzi się zmarnowanych lat. Dla niego ta przypowieść jest dobrą nowiną i nie wolno mu jej zepsuć.",
+      "Ktoś bez pracy albo po jej utracie może odebrać scenę rynku bardzo osobiście.",
+      "Rozmowa łatwo skręca w płace, pracodawców i politykę socjalną. Przypowieść nie jest modelem gospodarki."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie rozpisuj godzin na epoki dziejów ani na narody. Nie pytaj nikogo, od której godziny jest w winnicy. Nie kończ wnioskiem, że wysiłek nie ma znaczenia, bo tekst tego nie mówi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie sytuację, w której ktoś dostał to samo co ty, choć zrobił mniej: w szkole, w pracy, wśród rodzeństwa. Powiedz jednym słowem, co wtedy poczułeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "odpowiedz pierwszy, krótko i bez opowiadania historii. Nie komentuj cudzych odpowiedzi. To spotkanie nie wymaga znajomości poprzednich.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Pytanie Piotra",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Chwilę wcześniej odszedł od Jezusa zamożny młody człowiek, zasmucony, bo nie umiał rozstać się z majątkiem. Piotr patrzy za nim i odzywa się w imieniu wszystkich.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 19,27-30",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy odpowiadając Piotr rzekł mu: Oto my opuściliśmy wszystko i poszliśmy za tobą; cóż za to mieć będziemy? A Jezus rzekł im: Zaprawdę powiadam wam, że wy, którzy poszliście za mną, przy odrodzeniu, gdy Syn Człowieczy zasiądzie na tronie chwały swojej, zasiądziecie i wy na dwunastu tronach i będziecie sądzić dwanaście pokoleń izraelskich. I każdy, kto by opuścił domy albo braci, albo siostry, albo ojca, albo matkę, albo dzieci, albo rolę dla imienia mego, stokroć tyle otrzyma i odziedziczy żywot wieczny. A wielu pierwszych będzie ostatnimi, a ostatnich pierwszymi."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Piotr mówi prawdę: oni naprawdę zostawili wszystko. **Co w jego pytaniu jest uczciwe, a co w nim zgrzyta? Jak Piotr rozumie w tej chwili to, co łączy go z Jezusem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nie gani Piotra. Odpowiada obietnicą większą, niż ten mógł się spodziewać, i zaraz dodaje zdanie o pierwszych i ostatnich. **Po co hojna obietnica potrzebuje takiego dopisku?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "To samo zdanie wróci na końcu przypowieści, w wersecie 16. **Co taka klamra mówi o tym, do kogo i po co Jezus opowiada tę historię?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst: gdzie jesteśmy",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie jesteśmy.** Jezus opuścił Galileę i idzie przez Zajordanie w stronę Jerozolimy. Mateusz ustawia tu sceny jedna za drugą: rozmowa o małżeństwie, dzieci, które uczniowie chcą odpędzić, bogaty młodzieniec, pytanie Piotra, przypowieść. Zaraz po niej Jezus po raz trzeci zapowie swoją śmierć, a matka Jakuba i Jana poprosi dla synów o dwa pierwsze miejsca. Tę przypowieść zapisał tylko Mateusz. Słuchają jej uczniowie, nie tłum i nie przeciwnicy.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Tło.** Dzień pracy trwał od świtu do zmierzchu. Godziny liczono od wschodu słońca: trzecia to nasza dziewiąta rano, szósta to południe, jedenasta to piąta po południu, godzina przed końcem. Denar był zwykłą dniówką. Rodzina robotnika jadła za niego tego samego dnia i niewiele zostawało. Ludzie bez własnej ziemi stali rano na rynku i czekali, aż ktoś ich najmie. W porze winobrania liczyła się każda para rąk, bo zebranych gron nie dało się przetrzymać.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ten, który odszedł",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 19,16-22",
+       "przeklad": "BW",
+       "akapity": [
+        "I oto ktoś przystąpił do niego, i rzekł: Nauczycielu, co dobrego mam czynić, aby osiągnąć żywot wieczny? A On mu odrzekł: Czemu pytasz mnie o to, co dobre? Jeden jest tylko dobry, Bóg. A jeśli chcesz wejść do żywota, przestrzegaj przykazań. Mówi mu: Których? A Jezus rzekł: Tych: Nie zabijaj, nie cudzołóż, nie kradnij, nie mów fałszywego świadectwa, czcij ojca i matkę, i miłuj bliźniego swego, jak siebie samego. Mówi mu młodzieniec: Tego wszystkiego przestrzegałem od młodości mojej; czegóż mi jeszcze nie dostaje? Rzekł mu Jezus: Jeśli chcesz być doskonały, idź, sprzedaj, co posiadasz, i rozdaj ubogim, a będziesz miał skarb w niebie, potem przyjdź i naśladuj mnie. A gdy młodzieniec usłyszał to słowo, odszedł zasmucony, miał bowiem wiele majętności."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Młodzieniec pyta „co mam czynić, aby osiągnąć\", Piotr pyta „cóż za to mieć będziemy\". **Co łączy te dwa pytania, choć jeden odszedł, a drugi został?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Jeden jest tylko dobry, Bóg.\" Zapamiętajcie to zdanie. **Gdzie słowo „dobry\" wróci w przypowieści i w czyich ustach?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Rynek",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 20,1-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem Królestwo Niebios podobne jest do pewnego gospodarza, który wyszedł wczesnym rankiem najmować robotników do swej winnicy. Ugodziwszy się z robotnikami na jednego denara dziennie, wysłał ich do swojej winnicy. I wyszedłszy około godziny trzeciej ujrzał innych, stojących na rynku bezczynnie, więc rzekł do nich: Idźcie i wy do winnicy, a ja, co się należy, wam zapłacę, i oni poszli. Znowu o szóstej i o dziewiątej godzinie wyszedł i uczynił tak samo. A wyszedłszy około jedenastej znalazł jeszcze innych stojących i mówił do nich: Dlaczego tutaj bezczynnie przez cały dzień stoicie? Oni na to: Nikt nas nie najął. Mówi do nich: Idźcie i wy do winnicy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Policzcie, ile razy gospodarz wychodzi na rynek. W wersecie 8 okaże się, że ma rządcę, a mimo to chodzi sam. **Co mówi o nim to, że wraca tam jeszcze na godzinę przed końcem dnia? Na czym mu zależy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Z pierwszymi gospodarz umawia się na denara. Następnym obiecuje „co się należy\". Ostatnim nie obiecuje nic. **Na czym opiera się każda z tych grup, kiedy idzie do winnicy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Nikt nas nie najął.\" **Jak wyglądał dzień człowieka, który o piątej po południu wciąż stoi na rynku? Z czym wróci do domu, jeśli nikt po niego nie przyjdzie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Takie narożniki istnieją na Bliskim Wschodzie do dziś. Rano ludzie siedzą i rozmawiają, bo dzień jest długi. Po południu już stoją, gotowi ruszyć na pierwsze skinienie. Kto czeka o jedenastej godzinie, nie liczy na dniówkę. Liczy, czym nakarmi wieczorem dzieci. Najęcie kogoś na jedną godzinę nie jest interesem. Zamożny człowiek wysłałby zresztą na rynek rządcę. Ten chodzi sam, pięć razy jednego dnia, jakby ludzie bez pracy obchodzili go bardziej niż winogrona.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Zapłata przed zachodem słońca",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kpł 19,13",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie będziesz uciskał swego bliźniego i nie będziesz go obdzierał. Nie będziesz zatrzymywał u siebie przez noc do rana zapłaty najemnika."
+       ]
+      },
+      {
+       "odnosnik": "Pwt 24,14-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie czyń krzywdy najemnikowi, biedakowi i ubogiemu z twoich braci albo z obcych przybyszów, którzy są w twojej ziemi, w twoich bramach. W tym samym dniu, kiedy wykonał swoją pracę, dasz mu jego zapłatę, przed zachodem słońca, gdyż on jest biedny i z tego się utrzymuje, aby nie wołał do Pana przeciwko tobie, bo miałbyś grzech."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Prawo Mojżesza każe płacić najemnikowi tego samego dnia i podaje powód. **Jaki? Co to mówi o tym, po czyjej stronie stoi Bóg na rynku pracy?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Gospodarz z przypowieści zna to prawo i wypłaca wieczorem. **Co zmienia się w ocenie jego decyzji, kiedy pomyślimy, ile jest wart denar dla rodziny, a ile jedna dwunasta denara?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Wypłata",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 20,8-12",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy nastał wieczór, mówi pan winnicy do rządcy swego: Zwołaj robotników i daj im zapłatę, a zacznij od ostatnich aż do pierwszych. Podeszli tedy najęci o godzinie jedenastej i otrzymali po denarze. A gdy podeszli pierwsi, sądzili, że wezmą więcej. Lecz i oni otrzymali po denarze. Wziąwszy tyle szemrali przeciwko gospodarzowi, mówiąc: Ci ostatni jedną tylko godzinę pracowali, a zrównałeś ich z nami, cośmy znosili ciężar dnia i upał."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Gospodarz każe płacić od ostatnich. Gdyby zaczął od pierwszych, wzięliby denara i poszli do domu spokojni. **Po co mu, żeby pierwsi patrzyli?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie uważnie skargę z wersetu 12. **Czego dotyczy: tego, ile dostali, czy czegoś innego? Które słowo boli ich najbardziej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Pierwsi „sądzili, że wezmą więcej\". **Skąd wzięło się to oczekiwanie? Kto im cokolwiek ponad denara obiecał?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "O jedenastej godzinie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 23,39-43",
+       "przeklad": "BW",
+       "akapity": [
+        "Tedy jeden z zawieszonych złoczyńców urągał mu, mówiąc: Czy nie Ty jesteś Chrystusem? Ratuj siebie i nas. Drugi natomiast, odezwawszy się, zgromił tamtego tymi słowy: Czy ty się Boga nie boisz, choć taki sam wyrok ciąży na tobie? Na nas co prawda sprawiedliwie, gdyż słuszną ponosimy karę za to, co uczyniliśmy, Ten zaś nic złego nie uczynił. I rzekł: Jezu, wspomnij na mnie, gdy wejdziesz do Królestwa swego. I rzekł mu: Zaprawdę, powiadam ci, dziś będziesz ze mną w raju."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ten człowiek nie przepracował w winnicy ani godziny. **Co ma w rękach, kiedy prosi? Na czym opiera swoją prośbę?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wyobraźcie sobie, że pod krzyżem stoi Piotr i słyszy obietnicę daną złoczyńcy. **Jakie uczucia są w tej chwili możliwe? Które z nich opisuje przypowieść, a które byłoby jej przeciwieństwem?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czy praca w winnicy nic nie znaczy",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Tę przypowieść czyta się na dwa sposoby. Jedni widzą w niej obraz czystej łaski: przed Bogiem nikt nie dostaje według wypracowanych godzin, a prosić Go o samą sprawiedliwość to prosić o wyrok.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 4,4-5",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy kto spełnia uczynki, zapłaty za nie nie uważa się za łaskę, lecz za należność; gdy zaś kto nie spełnia uczynków, ale wierzy w tego, który usprawiedliwia bezbożnego, wiarę jego poczytuje mu się za sprawiedliwość,"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Inni zwracają uwagę, że Jezus opowiada ją uczniom, a nie ludziom pytającym o zbawienie, i że w tej samej rozmowie sam obiecuje nagrodę. Według nich przypowieść nie unieważnia wierności, tylko uczy, że Bóg nie liczy tak jak my, i leczy uczniów z zazdrości o pierwszeństwo. Nowy Testament zna przecież i takie zdanie:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Kor 3,8",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo ten, co sadzi, i ten, co podlewa, jedno mają zadanie i każdy własną zapłatę odbierze według swojej pracy."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co w samym tekście Mateusza przemawia za pierwszym odczytaniem, a co za drugim?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Oba odczytania zgadzają się w jednym: nikt nie dostał mniej, niż mu obiecano, a wejście do winnicy było dla każdego zaproszeniem, nie zasługą. **Dlaczego mimo to tak trudno nam przyjąć Boga, który jest hojny nierówno?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Odpowiedź gospodarza",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 20,13-16",
+       "przeklad": "BW",
+       "akapity": [
+        "A on odrzekł jednemu z nich: Przyjacielu, nie czynię ci krzywdy. Czy nie ugodziłeś się ze mną na denara? Bierz, co twoje, i idź! Chcę bowiem temu ostatniemu dać, jak i tobie. Czy nie wolno mi czynić z tym, co moje, jak chcę? Albo czy oko twoje jest zawistne dlatego, iż ja jestem dobry? Tak będą ostatni pierwszymi, a pierwsi ostatnimi."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Gospodarz odpowiada trzema pytaniami. **Na które z nich szemrzący mógłby uczciwie odpowiedzieć „nie\"? Komu w tej historii stała się krzywda?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dobroć gospodarza stała się dla robotnika zarzutem. **Jaki obraz Boga trzeba nosić w głowie, żeby Jego hojność wobec kogoś innego bolała jak własna strata?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Przypowieść urywa się. Nie wiemy, co robotnik zrobił z denarem w zaciśniętej dłoni. **Dlaczego Jezus nie dopowiada zakończenia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Gospodarz nie broni się rachunkiem. Przypomina umowę, której dotrzymał, i mówi jedno zdanie o sobie: jestem dobry. W późniejszych pismach rabinów zachowały się podobne opowieści o robotnikach z równą zapłatą. Kończą się wyjaśnieniem, że ten, kto pracował krócej, zrobił więcej albo był zdolniejszy, więc zasługa wraca na swoje miejsce. U Jezusa nie wraca. Ostatni nie zrobili więcej. Dostali pełną dniówkę tylko dlatego, że taki jest gospodarz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Słudzy po całym dniu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 17,7-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Kto zaś z was, mając sługę, który orze lub pasie, powie do niego, gdy powróci z pola: Chodź zaraz i zasiądź do stołu? Czy nie powie mu raczej: Przygotuj mi wieczerzę, przepasz się i usługuj mi, aż się najem i napiję, a potem i ty będziesz jadł i pił? Czy dziękuje słudze, że uczynił to, co mu polecono? Tak i wy, gdy uczynicie wszystko, co wam polecono, mówcie: Sługami nieużytecznymi jesteśmy, bo co winniśmy byli uczynić, uczyniliśmy."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Sługa, który cały dzień orał, a wieczorem jeszcze podał do stołu, nie jest bezużyteczny. **Co w takim razie znaczy zdanie, które Jezus wkłada uczniom w usta? Czego ten sługa nie może panu wystawić?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W winnicy łaska gorszy, bo daje za dużo tamtym. Tutaj uwiera, bo nie nalicza premii mnie. **Jak te dwie przypowieści razem opisują to, co jest między nami a Bogiem? Co zostaje, kiedy znika rachunek?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo: złe oko",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Tam, gdzie BW ma „oko zawistne\", grecki tekst mówi dosłownie: „czy twoje oko jest złe, ponieważ ja jestem dobry\". Złe oko było w tamtym języku stałym zwrotem na skąpstwo i zawiść, czyli na patrzenie, które cudze dobro liczy jako własną stratę. Tak mówi już Prawo Mojżesza, gdzie BW oddaje ten zwrot słowami „patrzył nieprzychylnie\":",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 15,9",
+       "przeklad": "BW",
+       "akapity": [
+        "Strzeż się, aby nie powstała w twoim sercu niegodziwa myśl: Zbliża się siódmy rok, rok umorzenia długów, i abyś nie patrzył nieprzychylnie na twego ubogiego brata i nic mu nie dał. On będzie wzywał przeciwko tobie Pana i grzech będzie ciążył na tobie."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Tego samego greckiego słowa Jezus używa w Kazaniu na Górze, gdzie BW tłumaczy je jako „chore\":",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 6,22-23",
+       "przeklad": "BW",
+       "akapity": [
+        "Światłem ciała jest oko. Jeśli tedy oko twoje jest zdrowe, całe ciało twoje jasne będzie. A jeśliby oko twoje było chore, całe ciało twoje będzie ciemne. Jeśli tedy światło, które jest w tobie, jest ciemnością, sama ciemność jakaż będzie!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W ostatnim pytaniu gospodarza stoją naprzeciw siebie dwa słowa: złe oko robotnika i dobry gospodarz. **Co złe oko robi z całym dniem spędzonym w winnicy? Co staje się ciemne w człowieku, który tak patrzy?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo: przyjacielu",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Słowo, którym gospodarz zwraca się do szemrzącego, nie jest zwykłym słowem na przyjaciela. W całym Nowym Testamencie pada tylko u Mateusza, trzy razy, zawsze jako zwrot do kogoś:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 22,12",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzecze do niego: Przyjacielu, jak wszedłeś tutaj, nie mając szaty weselnej? A on oniemiał."
+       ]
+      },
+      {
+       "odnosnik": "Mt 26,50",
+       "przeklad": "BW",
+       "akapity": [
+        "A Jezus rzekł do niego: Przyjacielu, po co przychodzisz? Wtedy podeszli bliżej, rzucili się na Jezusa i pochwycili go."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Gość bez szaty weselnej, robotnik z winnicy, Judasz w ogrodzie. **Co łączy tych trzech ludzi? Jak brzmi ten zwrot: jak wyrok czy jak ostatnia wyciągnięta ręka?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Dwa pierwsze miejsca",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Zaraz po przypowieści Jezus bierze Dwunastu na bok i po raz trzeci mówi im, że w Jerozolimie zostanie wydany i zabity. Mateusz stawia następną scenę tuż za tymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 20,20-28",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy przystąpiła do niego matka synów Zebedeuszowych z synami swoimi, złożyła mu pokłon i prosiła go o coś. A On jej rzekł: Czego chcesz? Rzecze mu: Powiedz, aby ci dwaj synowie moi zasiedli jeden po prawicy, a drugi po lewicy twojej w Królestwie twoim. A Jezus, odpowiadając, rzekł: Nie wiecie, o co prosicie. Czy możecie pić kielich, który Ja pić będę? Mówią mu: Możemy. Mówi im: Kielich mój pić będziecie, ale zasiąść po prawicy mojej czy po lewicy – nie moja to rzecz, lecz Ojca mego, który da to tym, którym zostało przez niego przygotowane. A gdy to usłyszało owych dziesięciu, oburzyli się na dwóch braci. Ale Jezus, przywoławszy ich, rzekł: Wiecie, iż książęta narodów nadużywają swej władzy nad nimi, a ich możni rządzą nimi samowolnie. Nie tak ma być między wami; ale ktokolwiek by chciał między wami być wielki, niech będzie sługą waszym. I ktokolwiek by chciał być między wami pierwszy, niech będzie sługą waszym. Podobnie jak Syn Człowieczy nie przyszedł, aby mu służono, lecz aby służył i oddał życie swoje na okup za wielu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dwóch prosi o pierwsze miejsca, dziesięciu się oburza. **Kto w tej scenie nadal liczy? Ile z przypowieści zostało w uczniach kilka wersetów po jej opowiedzeniu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus kończy zdaniem o sobie: nie przyszedł, aby mu służono, lecz aby służył i oddał życie. **Co to zdanie mówi o gospodarzu z przypowieści? Jak brzmi po nim pytanie „cóż za to mieć będziemy\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Nie tak ma być między wami.\" **Jak wyglądałaby wspólnota, w której nikt nie liczy stażu ani zasług? Co by z niej zniknęło?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Po prawicy i po lewicy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 20,17-19",
+       "przeklad": "BW",
+       "akapity": [
+        "A Jezus, mając zamiar pójść do Jerozolimy, wziął dwunastu na osobność i w drodze rzekł do nich: Oto idziemy do Jerozolimy, a Syn Człowieczy będzie wydany arcykapłanom oraz uczonym w Piśmie i skażą go na śmierć. I wydadzą go poganom na pośmiewisko i na ubiczowanie i na ukrzyżowanie, a dnia trzeciego zostanie wzbudzony z martwych."
+       ]
+      },
+      {
+       "odnosnik": "Mt 27,37-38",
+       "przeklad": "BW",
+       "akapity": [
+        "I umieścili nad jego głową napis z podaniem jego winy: Ten jest Jezus, król żydowski. Wraz z nim ukrzyżowali wówczas dwóch złoczyńców, jednego po prawicy, a drugiego po lewicy."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi o krzyżu, a uczniowie w następnym zdaniu o miejscach przy tronie. Słowa „po prawicy i po lewicy\" wrócą u Mateusza jeszcze raz, na Golgocie. **Co to zestawienie mówi o tym, czym w Królestwie Jezusa jest pierwsze miejsce?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czym jest denar",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przypowieść nie mówi, co oznacza denar, i nie wolno budować na tym szczególe osobnej nauki. Czytelnicy od dawna idą jednak dwiema drogami. Jedni mówią: denar to życie wieczne, to samo dla tego, kto służył siedemdziesiąt lat, i dla tego, kto uwierzył w ostatniej godzinie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 6,23",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem zapłatą za grzech jest śmierć, lecz darem łaski Bożej jest żywot wieczny w Chrystusie Jezusie, Panu naszym."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Drudzy idą krok dalej: darem jest sam Dawca. Bóg nie może dać pierwszym więcej niż ostatnim, bo nie może dać ani więcej, ani mniej niż siebie samego, a tego nie da się podzielić na raty ani ustopniować.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Oba odczytania łączy jedno: tego, co daje gospodarz, nie da się dostać „bardziej\". **Co zmienia się w skardze „zrównałeś ich z nami\", jeśli zapłatą nie jest rzecz, tylko Ktoś? Czym staje się wtedy cały dzień w winnicy: kosztem czy przywilejem?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr policzył, co zostawił. **Co ty masz zapisane po swojej stronie rachunku z Bogiem: staż, wierność, ofiary, których inni nie ponieśli?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**W której grupie robotników stoisz dziś we własnych oczach: u tych od świtu, od południa czy od jedenastej godziny? Jak z tego miejsca brzmi zdanie „zrównałeś ich z nami\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **czy była w twoim życiu łaska okazana komuś innemu, z której nie umiałeś się ucieszyć? Co ci to powiedziało o tobie?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Robotnicy z jedenastej godziny nie wybrali sobie pory. Mówią: nikt nas nie najął. **Co z kimś, kto słyszał zaproszenie rano i świadomie odłożył je na wieczór, licząc na tego samego denara? Czy przypowieść w ogóle mówi o takim człowieku i co on traci, nawet jeśli denar go nie ominie?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy da się nauczyć radości z cudzego denara własnym postanowieniem? Skąd miałaby się brać, skoro złe oko nie słucha poleceń?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie rozstrzygaj. Warto, żeby padły dwie obserwacje z tekstu. Ci z rynku przeżyli cały dzień w niepewności wieczoru, a ci od świtu mieli pewność i gospodarza obok, tylko nie umieli tego policzyć jako zysku. A lekarstwem na złe oko w tej przypowieści nie jest nakaz, tylko widok: gospodarz każe pierwszym patrzeć na swoją dobroć.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg nikomu nie daje mniej, niż obiecał. Gorszy nas dopiero to, że innym daje tyle samo.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Mt 20,15 albo Mt 20,16.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kiedy następnym razem poczujesz ukłucie na widok cudzego dobra, zatrzymaj się przy jednym pytaniu: **co mi właśnie zabrano?** Jeśli odpowiedź brzmi „nic\", zostań z pytaniem, skąd w takim razie ten ból.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zapytaj siebie uczciwie, **za co twoim zdaniem Bóg jest ci coś winien.** Powiedz Mu to wprost, tak jak Piotr. On za takie pytanie nie gani.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** pomyśl o kimś, kto twoim zdaniem dostał od Boga albo od ludzi za łatwo. Spróbuj w modlitwie ucieszyć się jego denarem. Zobacz, co w tobie stawia opór, i nazwij to przed Bogiem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„To jest po prostu niesprawiedliwe. Ja też bym szemrał.\"** Zgódź się, bo tak ma być. Jezus opowiedział tę historię tak, żeby słuchacz stanął po stronie pierwszych. Potem zapytaj spokojnie: „Komu w tej historii stała się krzywda? Kto dostał mniej, niż mu obiecano?\" Nie śpiesz się z odpowiedzią za grupę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To po co się starać? Nawrócę się na starość i wyjdzie na to samo.\"** Wróć do wersetu 7. Ci z jedenastej godziny niczego nie planowali, mówią: nikt nas nie najął. Cały dzień stali w strachu o wieczór. Przypowieść nie opisuje sprytu, tylko gospodarza. Możesz dodać, że wejście do winnicy jest darmowe, ale życie w niej zabiera wszystko, i że ci od świtu mieli coś, czego ostatni nie mieli: cały dzień z gospodarzem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś wierzący od dziecka mówi z żalem: „Całe życie w kościele i co z tego mam.\"** Nie poprawiaj go i nie zawstydzaj. To jest dokładnie pytanie Piotra, a Jezus odpowiedział na nie obietnicą, nie naganą. Podziękuj za szczerość. Po spotkaniu zapytaj, co tę osobę tak zmęczyło.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś, kto przyszedł do wiary późno, mówi, że zmarnował najlepsze lata.** Pozwól wybrzmieć i przeczytaj jeszcze raz werset 9. Denar dla ostatnich nie jest mniejszy ani gorszej próby. Nie pocieszaj na siłę i nie pozwól innym mówić, że „lepiej późno niż wcale\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa skręca w płace, pracodawców, zasiłki albo bieżącą politykę.** Przerwij spokojnie. Przypowieść nie jest modelem gospodarki i żadna strona sporu nie może się na nią powołać. Jeśli ktoś pyta, co Biblia mówi o uczciwej zapłacie, wskaż teksty z poziomu 2 i wróć do pytania o gospodarza.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś rozpisuje godziny na epoki dziejów albo mówi, że pierwsi to Żydzi, a ostatni to poganie.** Tekst tego nie mówi. Wszyscy robotnicy przychodzą z tego samego rynku, a Jezus opowiada tę historię własnym uczniom, w odpowiedzi na pytanie Piotra. Pierwsi to ci, którzy są z Nim najdłużej, czyli także my.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś bez pracy mówi, że zna ten rynek od środka.** Wysłuchaj i podziękuj. Nie rób z jego sytuacji ilustracji do przypowieści i nie pozwól grupie udzielać rad. Po spotkaniu zapytaj, czy grupa może w czymś konkretnie pomóc.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Skróć blok 1 do samego czytania i pierwszego pytania. Bloki 3 i 4 muszą zostać razem, bo skarga bez odpowiedzi gospodarza zostawia grupę z oburzeniem, a odpowiedź bez skargi nie ma czego leczyć. Z bloku 5 przeczytajcie przynajmniej ostatni werset.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„To jest po prostu niesprawiedliwe. Ja też bym szemrał.\"",
+     "odpowiedz": "Zgódź się, bo tak ma być. Jezus opowiedział tę historię tak, żeby słuchacz stanął po stronie pierwszych. Potem zapytaj spokojnie: „Komu w tej historii stała się krzywda? Kto dostał mniej, niż mu obiecano?\" Nie śpiesz się z odpowiedzią za grupę."
+    },
+    {
+     "sytuacja": "„To po co się starać? Nawrócę się na starość i wyjdzie na to samo.\"",
+     "odpowiedz": "Wróć do wersetu 7. Ci z jedenastej godziny niczego nie planowali, mówią: nikt nas nie najął. Cały dzień stali w strachu o wieczór. Przypowieść nie opisuje sprytu, tylko gospodarza. Możesz dodać, że wejście do winnicy jest darmowe, ale życie w niej zabiera wszystko, i że ci od świtu mieli coś, czego ostatni nie mieli: cały dzień z gospodarzem."
+    },
+    {
+     "sytuacja": "Ktoś wierzący od dziecka mówi z żalem: „Całe życie w kościele i co z tego mam.\"",
+     "odpowiedz": "Nie poprawiaj go i nie zawstydzaj. To jest dokładnie pytanie Piotra, a Jezus odpowiedział na nie obietnicą, nie naganą. Podziękuj za szczerość. Po spotkaniu zapytaj, co tę osobę tak zmęczyło."
+    },
+    {
+     "sytuacja": "Ktoś, kto przyszedł do wiary późno, mówi, że zmarnował najlepsze lata.",
+     "odpowiedz": "Pozwól wybrzmieć i przeczytaj jeszcze raz werset 9. Denar dla ostatnich nie jest mniejszy ani gorszej próby. Nie pocieszaj na siłę i nie pozwól innym mówić, że „lepiej późno niż wcale\"."
+    },
+    {
+     "sytuacja": "Rozmowa skręca w płace, pracodawców, zasiłki albo bieżącą politykę.",
+     "odpowiedz": "Przerwij spokojnie. Przypowieść nie jest modelem gospodarki i żadna strona sporu nie może się na nią powołać. Jeśli ktoś pyta, co Biblia mówi o uczciwej zapłacie, wskaż teksty z poziomu 2 i wróć do pytania o gospodarza."
+    },
+    {
+     "sytuacja": "Ktoś rozpisuje godziny na epoki dziejów albo mówi, że pierwsi to Żydzi, a ostatni to poganie.",
+     "odpowiedz": "Tekst tego nie mówi. Wszyscy robotnicy przychodzą z tego samego rynku, a Jezus opowiada tę historię własnym uczniom, w odpowiedzi na pytanie Piotra. Pierwsi to ci, którzy są z Nim najdłużej, czyli także my."
+    },
+    {
+     "sytuacja": "Ktoś bez pracy mówi, że zna ten rynek od środka.",
+     "odpowiedz": "Wysłuchaj i podziękuj. Nie rób z jego sytuacji ilustracji do przypowieści i nie pozwól grupie udzielać rad. Po spotkaniu zapytaj, czy grupa może w czymś konkretnie pomóc."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza trwa, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Skróć blok 1 do samego czytania i pierwszego pytania. Bloki 3 i 4 muszą zostać razem, bo skarga bez odpowiedzi gospodarza zostawia grupę z oburzeniem, a odpowiedź bez skargi nie ma czego leczyć. Z bloku 5 przeczytajcie przynajmniej ostatni werset."
+    }
+   ]
+  }
+ ]
+}

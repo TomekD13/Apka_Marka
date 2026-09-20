@@ -2,7 +2,7 @@
  "tytul": "Owce i kozły",
  "id": "PJ-12",
  "seria": "Przypowieści Jezusa",
- "opis": "",
+ "opis": "O sądzie, na którym zdziwieni są wszyscy, i o Królu, którego mijamy, nie wiedząc o tym.",
  "tryb": "ksiegi-hybrydowy",
  "poprzedni": null,
  "nastepny": null,
@@ -41,7 +41,12 @@
    "elementy": [
     {
      "typ": "akapit",
-     "tekst": "To ostatnia opowieść, jaką Jezus mówi przed męką, i jedyny tak rozbudowany obraz sądu w Ewangeliach. Najdziwniejsze w nim jest to, że zdziwieni są wszyscy. Ci po prawej nie pamiętają, żeby kiedykolwiek usłużyli Królowi. Ci po lewej nie pamiętają, żeby Go kiedykolwiek minęli. Sąd dotyczy rzeczy, których nikt nie zapisywał. Spotkanie ma zostać przy tym zdziwieniu i przy zdaniu „mnie uczyniliście\", a nie przy rachunku dobrych uczynków. To spotkanie jest zamkniętą całością i nie wymaga znajomości wcześniejszych.",
+     "tekst": "To ostatnia opowieść, jaką Jezus mówi przed męką, i jedyny tak rozbudowany obraz sądu w Ewangeliach. Najdziwniejsze w nim jest to, że zdziwieni są wszyscy. Ci po prawej nie pamiętają, żeby kiedykolwiek usłużyli Królowi. Ci po lewej nie pamiętają, żeby Go kiedykolwiek minęli. Sąd dotyczy rzeczy, których nikt nie zapisywał. Spotkanie ma zostać przy tym zdziwieniu i przy zdaniu „mnie uczyniliście\", a nie przy rachunku dobrych uczynków. Każda przypowieść Jezusa poprawia jakiś fałszywy obraz Boga. Ta poprawia obraz Króla, którego spotyka się tam, gdzie bywają królowie: w świątyni, przy wielkich okazjach, w rzeczach doniosłych. Ci po lewej byliby gotowi usłużyć takiemu Królowi i właśnie dlatego mijali Go codziennie pod bramą, w kolejce i w celi. Sąd nie pyta tu o rachunek dobrych uczynków. Pyta, jakim człowiekiem ktoś się stał, a czyny są tylko odciskiem palców. Przypowieść jest zwierciadłem tej jednej prawdy, więc nie buduje się nauki na jej pobocznych szczegółach, na przykład na charakterze kóz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest zamkniętą całością i nie wymaga znajomości wcześniejszych.",
      "poziom": 1
     },
     {
@@ -129,7 +134,7 @@
     },
     {
      "typ": "notka",
-     "tekst": "Owce i kozy do dziś pasie się w tamtym regionie razem, bo jedzą nieco inną paszę i można je prowadzić jednym stadem. Wieczorem pasterz często je rozdziela, ponieważ kozy gorzej znoszą chłód i potrzebują cieplejszego schronienia. Słuchacze widzieli tę czynność wiele razy. Pasterz nie musiał się zastanawiać, które zwierzę jest które. Rozróżnienie było widoczne od dawna, wieczór tylko je ujawniał.",
+     "tekst": "Owce i kozy pasie się w tamtym regionie razem, jednym stadem, a wieczorem pasterz rutynowo je rozdziela. Słuchacze widzieli tę czynność wiele razy i nikt nie widział w niej dramatu. Koza nie była zwierzęciem gorszym, więc obraz stoi na samym rozdzieleniu, na prawej i lewej stronie, a nie na charakterze zwierząt. Pasterz nie musiał się zastanawiać, które zwierzę jest które. Rozróżnienie było widoczne od dawna, wieczór tylko je ujawniał.",
      "poziom": 1
     }
    ]
