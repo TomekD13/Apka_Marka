@@ -29,6 +29,7 @@ python tools/extract_youth.py       # śpiewniki obozowe + rozdział 41 -> songs
 python tools/extract_pray40.py      # one27/Teksty{Short,Long} -> pray40/
 python tools/extract_edu.py         # one27/Szkolenia{Short,Long} -> edu/
 python tools/extract_groups.py      # one27/GrupyBiblijne -> groups/ (Grupy Nadziei)
+python tools/build_prayer_texts.py pl  # teksty do modlitwy (United Prayer) -> prayer-texts.json
 python tools/build_bible_full.py    # pełny przekład -> bible/{KOD}/
 python tools/build_bible_be.py pl   # wersety do studiów (Biblia Ekumeniczna)
 python tools/build_index.py pl      # lista studiów w index.json
@@ -36,6 +37,8 @@ python tools/build_index.py pl      # lista studiów w index.json
 
 **Kolejność ma znaczenie:** `extract_spiewnik.py` przed `extract_youth.py` – ten drugi czyta
 plik pośredni `Spiewnik/_701-750.json`, żeby dołożyć rozdział 41 do pieśni młodzieżowych.
+Tak samo `build_prayer_texts.py` przed `build_bible_be.py` – ten drugi zbiera odnośniki
+z `prayer-texts.json` i dopiero wtedy dokłada do `bibles/BE.json` teksty wersetów.
 
 Na Windowsie dawaj `PYTHONIOENCODING=utf-8`, inaczej konsola psuje polskie znaki.
 

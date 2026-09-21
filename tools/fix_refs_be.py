@@ -17,7 +17,7 @@ Uzycie:
 import glob, io, json, os, re, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from build_bible_be import DEFAULT_SRC, OSIS2BE, load_be, map_ref
+from build_bible_be import OSIS2BE, find_src, load_be, map_ref
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STUDIES = os.path.join(ROOT, 'public', 'content', 'pl', 'studies')
@@ -46,7 +46,7 @@ def new_ref(osis, ref, be):
 
 def main():
     save = '--zapisz' in sys.argv
-    be = load_be(DEFAULT_SRC)
+    be = load_be(find_src())
     zmiany = []                                        # (osis, stary, nowy)
 
     for path in sorted(glob.glob(os.path.join(STUDIES, '*.json'))):

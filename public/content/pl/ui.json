@@ -464,5 +464,18 @@
     "leaderMode": "Tryb prowadzącego",
     "showOptional": "Pytania dodatkowe",
     "bibleNote": "Cytaty: Biblia Warszawska, o ile nie oznaczono inaczej."
+  },
+  "prayerTexts": {
+    "title": "Teksty do modlitwy",
+    "intro": "Cztery kroki modlitwy: uwielbienie, skrucha, prośby, wdzięczność.",
+    "cta": "Teksty do modlitwy",
+    "ctaDesc": "Uwielbienie, skrucha, prośby, wdzięczność – z listy albo losowo.",
+    "random": "Losowo",
+    "list": "Wybierz z listy",
+    "drawAgain": "Wylosuj inny zestaw",
+    "share": "Udostępnij",
+    "shareSet": "Udostępnij cały zestaw",
+    "failed": "Nie udało się wczytać tekstów. Sprawdź połączenie i spróbuj ponownie.",
+    "retry": "Spróbuj ponownie"
   }
 }

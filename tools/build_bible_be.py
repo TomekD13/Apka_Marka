@@ -19,6 +19,20 @@ import json, os, glob, re, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONTENT = os.path.join(ROOT, 'public', 'content')
 DEFAULT_SRC = r'C:\Users\MarekMicyk\AIprojekty\qbible\Robocze\all_data.json'
+# Zrzut BE lezy obok repo, w sasiednim projekcie - sciezka bezwzgledna jest z innej
+# maszyny, wiec szukamy tez wzgledem katalogu AIprojekty.
+SRC_CANDIDATES = (
+    DEFAULT_SRC,
+    os.path.join(os.path.dirname(os.path.dirname(ROOT)), 'qbible', 'Robocze', 'all_data.json'),
+)
+
+
+def find_src(src=None):
+    """Pierwszy istniejacy zrzut all_data.json (albo `src`, gdy podany jawnie)."""
+    for p in ((src,) if src else SRC_CANDIDATES):
+        if p and os.path.exists(p):
+            return p
+    raise SystemExit('Nie znajduje zrzutu BE (all_data.json). Podaj --src SCIEZKA.')
 
 TRANSLATION = 'BE'
 NAME = 'Biblia Ekumeniczna (2018)'
@@ -51,7 +65,23 @@ PLACEHOLDER_ANY = re.compile('[\ue000-\ue00f]')
 # Cytat spoza BE jest oznaczany skrotem przekladu doklejonym na koncu tekstu.
 # Tekst pobiera sie z modulu .yes – nigdy nie wpisujemy Pisma z pamieci.
 BOOKS_DIR = r'C:\Users\MarekMicyk\AIprojekty\BibleApp\Books'
+# jak przy zrzucie BE: sciezka bezwzgledna jest z innej maszyny, wiec szukamy
+# modulow takze obok repo (BibleApp/Biblie)
+BOOKS_CANDIDATES = (
+    BOOKS_DIR,
+    os.path.join(os.path.dirname(ROOT), 'Biblie'),
+    os.path.join(os.path.dirname(ROOT), 'Books'),
+)
 YES_FILES = {'BW': 'Warszawska.yes', 'BT': 'Tysiaclecia.yes'}
+
+
+def find_yes(name):
+    """Pierwszy istniejacy modul .yes o tej nazwie albo None."""
+    for d in BOOKS_CANDIDATES:
+        p = os.path.join(d, name)
+        if os.path.exists(p):
+            return p
+    return None
 _YES_CACHE = {}
 FALLBACKS = {
     # osis: (skrot, powod)
@@ -69,7 +99,12 @@ FALLBACKS = {
 
 # Naglowek nastepnego psalmu doklejony do ostatniego wersetu: „… Psalm 5",
 # „… Psalm 114 [113A]" (w nawiasie numeracja Septuaginty/Wulgaty).
-PSALM_RUNON = re.compile(r'\s*Psalm\s+\d+(?:\s*\[\d+[A-Z]?\])?\s*$')
+PSALM_RUNON = re.compile(
+    r'\s*Psalm\s+\d+(?:\s*\[\d+[A-Z]?(?:-\d+[A-Z]?)?\])?'
+    r'(?:\s+[A-ZĄĆĘŁŃÓŚŹŻ][^.!?]*)?\s*$')      # z tytulem perykopy nastepnego psalmu
+# Naglowek czesci ksiegi doklejony do wersetu wraz z tytulem czesci:
+# „… Amen. CZĘŚĆ DRUGAZachęta do jedności i nowego życia".
+PART_MARKER = re.compile(r'\s*CZĘŚĆ\s+[A-ZĄĆĘŁŃÓŚŹŻ]{3,}.*$')
 STRAY_NUMBER = re.compile(r'(?<=[.!?])\s+\d{1,3}$')   # numer strony doklejony na koncu
 
 # Srodtytuly dzialowe (nad perykopami) – nie ma ich w `pericopes`, a ekstraktor
@@ -79,7 +114,13 @@ SECTION_TITLES = (
     'Pierwsze prześladowanie',
     'Trzecia wizja: wielkie zmagania narodów',
     'Pouczenie o nowych relacjach w rodzinie',
+    'Pierwotna wspólnota',
+    'Mowa misyjna',
+    'Bóg ukarze obce narody pogańskie',
 )
+# Krotsze „tytuly" z `pericopes` to artefakty ekstrakcji (np. samo „PANA.") –
+# zdejmowanie ich obcinalo prawdziwe konce wersetow.
+MIN_TITLE = 12
 
 # Ekstraktor gubil spacje przy lamaniu wiersza: „w Panu,abyście", „gniewie:Nie".
 SPACE_AFTER_PUNCT = re.compile(r'(?<=[a-ząćęłńóśźż])([.,;:!?])(?=[A-ZĄĆĘŁŃÓŚŹŻa-ząćęłńóśźż])')
@@ -114,11 +155,17 @@ def clean(text, titles=()):
     for bad, good in TYPOS.items():
         t = t.replace(bad, good)
     t = STRAY_NUMBER.sub('', t)
+    # srodtytul bywa doklejony bez spacji („CZĘŚĆ DRUGAZachęta do jedności…")
     for title in tuple(titles) + SECTION_TITLES:
-        if len(t) > len(title) + 20 and t.endswith(' ' + title):
-            t = t[:-(len(title) + 1)].strip()
+        if len(title) < MIN_TITLE:
+            continue
+        if len(t) > len(title) + 20 and (t.endswith(' ' + title) or t.endswith(title)):
+            t = t[:-len(title)].strip()
             break
-    return t
+    # naglowek nastepnego psalmu bywa schowany pod tytulem perykopy („… Psalm 119
+    # [118] Doskonałość Prawa Bożego") – po zdjeciu tytulu trzeba sprzatnac ponownie
+    t = PSALM_RUNON.sub('', t).strip()
+    return PART_MARKER.sub('', t).strip()
 
 
 def load_be(src):
@@ -134,10 +181,52 @@ def load_be(src):
     return out
 
 
+# Pelny Psalterz w numeracji OSIS (UBG lezy w repo) – wzorzec, do ktorego
+# dopasowuje sie numeracje BE. Sama heurystyka slowna nie wystarcza: raz tytul ma
+# forme calego zdania (Ps 18, 38), raz prawdziwy werset zaczyna sie jak naglowek
+# (Ps 126 „Gdy PAN sprawil…"), a liczba wersetow bywa rowna mimo przesuniecia (Ps 13).
+REF_PSALMS_FILE = os.path.join(CONTENT, 'pl', 'bible', 'UBG', 'Ps.json')
+_REF_PSALMS = None
+_OFFSETS = {}
+
+
+def ref_psalms():
+    """[[werset, …], …] wedlug rozdzialow; pusta lista, gdy brak pliku."""
+    global _REF_PSALMS
+    if _REF_PSALMS is None:
+        try:
+            raw = json.load(open(REF_PSALMS_FILE, encoding='utf-8')).get('chapters', [])
+        except Exception:
+            raw = []
+        _REF_PSALMS = [[re.sub(r'<[^>]+>', ' ', v) for v in ch] for ch in raw]
+    return _REF_PSALMS
+
+
 def psalm_offset(chapters, ps_num):
     """Ile wersetow tytulu ma psalm w BE (0/1/2) – czyli o ile przesunieta jest
     numeracja BE wzgledem OSIS."""
     rows = chapters.get(ps_num) or {}
+    key = (id(chapters), ps_num)
+    if key in _OFFSETS:
+        return _OFFSETS[key]
+
+    # najpierw dopasowanie tresci do wzorca – rozstrzyga najpewniej
+    ref = ref_psalms()
+    ref_rows = ref[ps_num - 1] if 0 < ps_num <= len(ref) else []
+    if ref_rows and rows:
+        best, score = None, 0.0
+        for cand in (0, 1, 2):
+            pairs = [(rows[v + cand], ref_rows[v - 1])
+                     for v in range(1, min(8, len(ref_rows)) + 1) if rows.get(v + cand)]
+            if not pairs:
+                continue
+            s = sum(similarity(a, b) for a, b in pairs) / len(pairs)
+            if s > score:
+                best, score = cand, s
+        if best is not None and score >= 0.3:
+            _OFFSETS[key] = best
+            return best
+
     off = 0
     for v in (1, 2):
         t = rows.get(v, '')
@@ -150,6 +239,7 @@ def psalm_offset(chapters, ps_num):
         if rest.strip():                         # zostal tekst wlasciwy -> to juz werset
             break
         off = v
+    _OFFSETS[key] = off
     return off
 
 
@@ -169,6 +259,8 @@ def map_ref(book, ch, v, chapters):
         return ch, v
     if book == 'Isa' and ch == 64:               # OSIS Iz 64,1 = BE 63,19b; dalej -1
         return (63, 19) if v == 1 else (64, v - 1)
+    if book == 'Isa' and ch == 9:                # OSIS Iz 9,1 = BE 8,23; dalej -1
+        return (8, 23) if v == 1 else (9, v - 1)
     return ch, v
 
 
@@ -197,7 +289,8 @@ def resolve(osis, be):
 
 
 def collect_osis(lang):
-    """Wszystkie odnosniki uzywane przez aplikacje: studia, okazje i fiszki."""
+    """Wszystkie odnosniki uzywane przez aplikacje: studia, okazje, fiszki
+    i teksty do modlitwy."""
     s = set()
     for f in glob.glob(os.path.join(CONTENT, lang, 'studies', '*.json')):
         d = json.load(open(f, encoding='utf-8'))
@@ -210,6 +303,12 @@ def collect_osis(lang):
     if os.path.exists(oc):
         for c in (json.load(open(oc, encoding='utf-8')) or {}).get('categories', []):
             for v in c.get('verses', []):
+                if v.get('osis'):
+                    s.add(v['osis'])
+    pt = os.path.join(CONTENT, lang, 'prayer-texts.json')
+    if os.path.exists(pt):
+        for g in (json.load(open(pt, encoding='utf-8')) or {}).get('groups', []):
+            for v in g.get('verses', []):
                 if v.get('osis'):
                     s.add(v['osis'])
     fc = os.path.join(CONTENT, lang, 'flashcards.json')
@@ -236,7 +335,7 @@ def similarity(a, b):
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith('--')]
     lang = args[0] if args else 'pl'
-    src = DEFAULT_SRC
+    src = None
     compare = None
     for i, a in enumerate(sys.argv):
         if a == '--src' and i + 1 < len(sys.argv):
@@ -244,7 +343,7 @@ def main():
         if a == '--compare' and i + 1 < len(sys.argv):
             compare = sys.argv[i + 1]
 
-    be = load_be(src)
+    be = load_be(find_src(src))
     osis_list = collect_osis(lang)
     verses, missing = {}, []
     for osis in osis_list:
@@ -261,7 +360,10 @@ def main():
         try:
             sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
             from yes_bible import YesBible
-            bible = _YES_CACHE.get(short) or YesBible(os.path.join(BOOKS_DIR, YES_FILES[short]))
+            path = find_yes(YES_FILES[short])
+            if not path:
+                raise FileNotFoundError(YES_FILES[short])
+            bible = _YES_CACHE.get(short) or YesBible(path)
             _YES_CACHE[short] = bible
         except Exception as e:
             print('  UWAGA: nie moge otworzyc %s (%s) – zostaje BE dla %s' % (short, e, osis))
@@ -280,9 +382,10 @@ def main():
     d = os.path.join(CONTENT, lang, 'bibles')
     os.makedirs(d, exist_ok=True)
     outp = os.path.join(d, TRANSLATION + '.json')
-    json.dump({'translation': TRANSLATION, 'name': NAME, 'lang': lang,
-               'license': LICENSE, 'verses': verses},
-              open(outp, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+    with open(outp, 'w', encoding='utf-8') as f:
+        json.dump({'translation': TRANSLATION, 'name': NAME, 'lang': lang,
+                   'license': LICENSE, 'verses': verses}, f, ensure_ascii=False, indent=2)
+        f.write('\n')
     print('Zapisano %s: %d / %d odnosnikow' % (outp, len(verses), len(osis_list)))
     if used_fb:
         print('Z innego przekladu: ' + ', '.join(used_fb))

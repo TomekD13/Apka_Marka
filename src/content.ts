@@ -1,15 +1,32 @@
 import { loadBibleBook, loadBibleIndex, loadTranslations } from './lib/bible'
-import type { Bible, EduIndex, EduItem, Flashcards, GroupItem, GroupsIndex, IndexFile, LangsFile, Occasions, Pray40Day, Pray40Index, SongCollection, SongsFile, Study, Ui } from './types'
+import type { Bible, EduIndex, EduItem, Flashcards, GroupItem, GroupsIndex, IndexFile, LangsFile, Occasions, Pray40Day, Pray40Index, PrayerTexts, SongCollection, SongsFile, Study, Ui } from './types'
 
 const BASE = import.meta.env.BASE_URL // np. '/'
 const cache = new Map<string, unknown>()
 
-async function getJSON<T>(path: string): Promise<T> {
-  const url = `${BASE}content/${path}`.replace(/\/{2,}/g, '/')
-  if (cache.has(url)) return cache.get(url) as T
-  const res = await fetch(url)
+/**
+ * `fresh` omija pamieci podreczne - wlasna, przegladarki i service workera
+ * (ten trzyma tresc w trybie „najpierw z zapasu"). Potrzebne, gdy czytelnik ma
+ * w zapasie plik ze starszego wydania i ponawia probe recznie.
+ */
+async function fetchJSON<T>(url: string, fresh: boolean): Promise<T> {
+  const res = await fetch(fresh ? `${url}?v=${Date.now()}` : url, fresh ? { cache: 'reload' } : undefined)
   if (!res.ok) throw new Error(`Nie udało się wczytać: ${url} (${res.status})`)
-  const data = (await res.json()) as T
+  return (await res.json()) as T
+}
+
+async function getJSON<T>(path: string, fresh = false): Promise<T> {
+  const url = `${BASE}content/${path}`.replace(/\/{2,}/g, '/')
+  if (!fresh && cache.has(url)) return cache.get(url) as T
+  let data: T
+  try {
+    data = await fetchJSON<T>(url, fresh)
+  } catch (err) {
+    // zapas service workera bywa nieczynny albo pochodzi ze starszego wydania -
+    // druga proba idzie prosto do sieci, z pominieciem wszystkich pamieci
+    if (fresh) throw err
+    data = await fetchJSON<T>(url, true)
+  }
   cache.set(url, data)
   return data
 }
@@ -18,10 +35,12 @@ export const loadLangs = () => getJSON<LangsFile>('langs.json')
 export const loadIndex = (lang: string) => getJSON<IndexFile>(`${lang}/index.json`)
 export const loadUi = (lang: string) => getJSON<Ui>(`${lang}/ui.json`)
 export const loadStudy = (lang: string, id: string) => getJSON<Study>(`${lang}/studies/${id}.json`)
-export const loadBible = (lang: string, translation: string) =>
-  getJSON<Bible>(`${lang}/bibles/${translation}.json`)
+export const loadBible = (lang: string, translation: string, fresh = false) =>
+  getJSON<Bible>(`${lang}/bibles/${translation}.json`, fresh)
 export const loadFlashcards = (lang: string) => getJSON<Flashcards>(`${lang}/flashcards.json`)
 export const loadOccasions = (lang: string) => getJSON<Occasions>(`${lang}/occasions.json`)
+export const loadPrayerTexts = (lang: string, fresh = false) =>
+  getJSON<PrayerTexts>(`${lang}/prayer-texts.json`, fresh)
 const SONG_FILES: Record<SongCollection, string> = {
   hymnal: 'songs.json',
   youth: 'songs-youth.json'
@@ -63,6 +82,7 @@ export async function downloadModule(lang: string, onProgress?: (done: number, t
     loadSongs(lang, 'hymnal'),
     loadSongs(lang, 'youth'),
     loadOccasions(lang),
+    loadPrayerTexts(lang),
     loadFlashcards(lang),
     ...(pray?.days ?? []).map((d) => loadPray40Day(lang, d.day)),
     ...(edu?.items ?? []).map((i) => loadEduItem(lang, i.nr)),

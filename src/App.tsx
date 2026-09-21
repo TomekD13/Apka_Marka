@@ -18,6 +18,7 @@ import { Occasions } from './pages/Occasions'
 import { SongsPage, SongPage } from './pages/Songs'
 import { Notes, NoteEdit } from './pages/Notes'
 import { Prayers } from './pages/Prayers'
+import { PrayerTexts } from './pages/PrayerTexts'
 import { Pray40, Pray40DayPage } from './pages/Pray40'
 import { Edu, EduItemPage } from './pages/Edu'
 import { Groups, GroupItemPage } from './pages/Groups'
@@ -87,6 +88,7 @@ export const router = createBrowserRouter(
         { path: 'piesni-mlodziezowe/:nr', element: <SongPage collection="youth" /> },
         { path: 'piesni', element: <SongsHub /> },
         { path: 'modlitwa', element: <PrayerHub /> },
+        { path: 'modlitwa/teksty', element: <PrayerTexts /> },
         { path: 'modlitwy', element: <Prayers /> },
         { path: '40-dni', element: <Pray40 /> },
         { path: '40-dni/:day', element: <Pray40DayPage /> },

@@ -98,6 +98,7 @@ export function AppNavigation() {
           <a href="https://www.youtube.com/@UwielbieniezTekstem" target="_blank" rel="noreferrer" onClick={() => setOpen(false)} className="flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm font-medium text-slate-700 hover:bg-slate-100 dark:text-slate-100 dark:hover:bg-white/10"><AppIcon name="music" className="h-5 w-5 text-brand dark:text-sky-300"/>{t('worship.title', 'Pieśni z muzyką i tekstem')}</a>
         </DrawerGroup>
         <DrawerGroup icon="prayer" title={t('nav.prayer', 'Modlitwa')} open={prayerOpen} onToggle={() => setPrayerOpen(!prayerOpen)}>
+          <DrawerLink to={`${home}/modlitwa/teksty`} icon="prayer" onClick={() => setOpen(false)}>{t('prayerTexts.cta', 'Teksty do modlitwy')}</DrawerLink>
           <DrawerLink to={`${home}/modlitwy`} icon="prayer" onClick={() => setOpen(false)}>{t('prayers.title', 'Dziennik modlitw')}</DrawerLink>
         </DrawerGroup>
         <DrawerLink to={`${home}/kontakt`} icon="contact" onClick={() => setOpen(false)}>{t('contact.title', 'Kontakt')}</DrawerLink>

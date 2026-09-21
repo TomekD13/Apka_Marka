@@ -70,6 +70,10 @@ export interface OccasionVerse { osis: string; ref: string }
 export interface OccasionCategory { id: string; name: string; icon?: string; verses: OccasionVerse[] }
 export interface Occasions { lang: string; translation: string; title?: string; categories: OccasionCategory[] }
 
+// teksty do modlitwy (United Prayer): uwielbienie, skrucha, prośby, wdzięczność
+export interface PrayerTextGroup { id: string; name: string; icon?: string; intro?: string; verses: OccasionVerse[] }
+export interface PrayerTexts { lang: string; translation: string; title?: string; intro?: string; groups: PrayerTextGroup[] }
+
 export interface FlashCard { id: string; ref: string; osis: string[] }
 export interface FlashTheme { id: string; name: string; bonus?: boolean; cards: FlashCard[] }
 export interface Flashcards { lang: string; translation: string; title?: string; quizletUrl?: string; anki?: boolean; themes: FlashTheme[] }
