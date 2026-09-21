@@ -12,7 +12,7 @@ export function AppIcon({ name, className = '' }: { name: IconName; className?: 
   if (name === 'hope') {
     return (
       <svg viewBox="0 0 32 32" fill="none" className={className} aria-hidden>
-        <defs><linearGradient id="hope-gradient" x1="3" y1="5" x2="29" y2="27"><stop stopColor="#36d7e5"/><stop offset=".45" stopColor="#5b74ee"/><stop offset=".72" stopColor="#a35dde"/><stop offset="1" stopColor="#e674aa"/></linearGradient></defs>
+        <defs><linearGradient id="hope-gradient" x1="3" y1="5" x2="29" y2="27"><stop stopColor="#5f8bff"/><stop offset=".42" stopColor="#7c6bf5"/><stop offset=".74" stopColor="#966fff"/><stop offset="1" stopColor="#b466e2"/></linearGradient></defs>
         <path d="M11 5 8 27M23 5l-3 22M4 13h24M3 20h24" stroke="url(#hope-gradient)" strokeWidth="3.5" strokeLinecap="round" />
       </svg>
     )

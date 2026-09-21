@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
 import { useI18n } from '../i18n'
 import { BackLink } from '../components/BackLink'
@@ -398,13 +398,22 @@ export function SongFinder({
   )
 }
 
-/** Pełna lista pieśni: w śpiewniku pogrupowana działami, w młodzieżowych alfabetyczna. */
+/**
+ * Pełna lista pieśni, jedna po drugiej, po numerach.
+ * Nazwy działów śpiewnika nie są tu nagłówkami (decyzja autora 2026-09-21):
+ * czytelnik szuka numeru albo tytułu, a nagłówki tylko rozbijały listę.
+ * Dział pieśni zostaje widoczny na jej własnej stronie.
+ */
 export function SongList({
   collection = 'hymnal',
   compact = false,
+  onlyFavorites = false,
+  onFavChange,
 }: {
   collection?: SongCollection
   compact?: boolean
+  onlyFavorites?: boolean
+  onFavChange?: () => void
 }) {
   const { t } = useI18n()
   const { data, failed } = useSongs(collection)
@@ -413,38 +422,29 @@ export function SongList({
   if (failed) return <p className="text-slate-400">{t('songs.unavailable', 'Śpiewnik jest niedostępny.')}</p>
   if (!data) return <p className="text-slate-400">{t('common.loading', '…')}</p>
 
-  const groups: { name: string; songs: Song[] }[] = []
-  for (const song of data.songs) {
-    const name = song.section || ''
-    const last = groups[groups.length - 1]
-    if (last && last.name === name) last.songs.push(song)
-    else groups.push({ name, songs: [song] })
-  }
+  const fav = onlyFavorites ? listFavorites(collection) : null
+  const songs = fav ? data.songs.filter((s) => fav.includes(s.nr)) : data.songs
+
+  if (fav && songs.length === 0)
+    return (
+      <p className="text-sm text-slate-400">
+        {t('songs.noFavorites', 'Nie masz jeszcze ulubionych pieśni. Dotknij gwiazdki przy pieśni, żeby ją tu zapisać.')}
+      </p>
+    )
 
   return (
-    <div className="space-y-5" key={tick}>
-      {groups.map((g, i) => (
-        <section key={`${g.name}-${i}`}>
-          {g.name && (
-            <h3 className="mb-1.5 flex items-baseline gap-2 text-sm font-semibold text-slate-200">
-              {g.name}
-              <span className="text-xs font-normal text-slate-400">
-                {g.songs[0].nr}–{g.songs[g.songs.length - 1].nr}
-              </span>
-            </h3>
-          )}
-          <div className="space-y-1.5">
-            {g.songs.map((s) => (
-              <SongRow
-                key={s.nr}
-                song={s}
-                collection={collection}
-                showKey={!compact}
-                onFavChange={() => setTick((v) => v + 1)}
-              />
-            ))}
-          </div>
-        </section>
+    <div className="space-y-1.5" key={tick}>
+      {songs.map((s) => (
+        <SongRow
+          key={s.nr}
+          song={s}
+          collection={collection}
+          showKey={!compact}
+          onFavChange={() => {
+            setTick((v) => v + 1)
+            onFavChange?.()
+          }}
+        />
       ))}
     </div>
   )
@@ -453,8 +453,17 @@ export function SongList({
 export function SongsPage({ collection = 'hymnal' }: { collection?: SongCollection }) {
   const { lang, t } = useI18n()
   const { data } = useSongs(collection)
+  // przelacznik nad lista: caly spiewnik albo same ulubione tej kolekcji
+  const [tab, setTab] = useState<'all' | 'fav'>('all')
+  const [favTick, setFavTick] = useState(0)
+  const favCount = useMemo(() => listFavorites(collection).length, [collection, favTick, tab])
   const heading =
     collection === 'youth' ? t('youth.title', 'Pieśni młodzieżowe') : t('songs.title', 'Śpiewnik')
+  const tabClass = (on: boolean) =>
+    'rounded-lg border px-3 py-1.5 text-sm font-semibold transition ' +
+    (on
+      ? 'border-brand bg-brand text-white'
+      : 'border-slate-300 text-slate-600 hover:bg-slate-100 dark:border-slate-600 dark:text-slate-300 dark:hover:bg-slate-800')
 
   return (
     <div>
@@ -469,10 +478,17 @@ export function SongsPage({ collection = 'hymnal' }: { collection?: SongCollecti
         </p>
       )}
       <SongFinder collection={collection} />
-      <h2 className="mb-2 mt-6 text-sm font-semibold uppercase tracking-wide text-slate-400">
-        {t('songs.allSongs', 'Wszystkie pieśni')}
-      </h2>
-      <SongList collection={collection} />
+      <div className="mb-3 mt-6 flex flex-wrap items-center gap-2">
+        <button type="button" onClick={() => setTab('all')} aria-pressed={tab === 'all'} className={tabClass(tab === 'all')}>
+          {t('songs.allSongs', 'Wszystkie pieśni')}
+        </button>
+        <button type="button" onClick={() => setTab('fav')} aria-pressed={tab === 'fav'} className={tabClass(tab === 'fav')}>
+          <span aria-hidden>★ </span>
+          {t('songs.favorites', 'Ulubione')}
+          {favCount > 0 && <span className="ml-1.5 font-normal opacity-80">{favCount}</span>}
+        </button>
+      </div>
+      <SongList collection={collection} onlyFavorites={tab === 'fav'} onFavChange={() => setFavTick((v) => v + 1)} />
       {data?.source?.copyright && <p className="mt-6 text-xs text-slate-500">{data.source.copyright}</p>}
       {data?.source?.note && <p className="mt-2 text-xs text-slate-500">{data.source.note}</p>}
     </div>

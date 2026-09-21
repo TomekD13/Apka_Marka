@@ -121,7 +121,7 @@ html.dark .gradient-panel {
   box-shadow: 0 14px 28px rgba(0,0,0,.25);
 }
 .hope-bottom-nav > span:last-child {
-  background: linear-gradient(110deg, #24bed6, #6970e8 46%, #cf69b7);
+  background: linear-gradient(110deg, #5f8bff, #8b6ff5 46%, #b466e2);
   color: transparent;
   -webkit-background-clip: text;
   background-clip: text;

@@ -5,7 +5,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        brand: { DEFAULT: '#1f4e79', light: '#2f6fb0' }
+        // paleta OneVoice27 (grafika #AllThingsNew): ciemne indygo tla i fiolet akcentu
+        brand: { DEFAULT: '#2c2168', light: '#8b6ff5' }
       },
       fontFamily: {
         sans: ['ui-sans-serif', 'system-ui', 'Segoe UI', 'Roboto', 'Arial', 'sans-serif'],

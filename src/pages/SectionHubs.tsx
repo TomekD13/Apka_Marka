@@ -48,8 +48,10 @@ export function SongsHub() {
 
 export function PrayerHub() {
   const { lang } = useI18n()
-  return <Hub icon="prayer" title="Modlitwa" intro="Zapisuj prośby i odpowiedzi na modlitwy w swoim prywatnym dzienniku.">
+  return <Hub icon="prayer" title="Modlitwa" intro="Wybierz, jak chcesz dziś stanąć przed Bogiem: własne prośby, droga na czterdzieści dni albo tekst na konkretną chwilę.">
     <SectionTile to={`/${lang}/modlitwy`} icon="prayer" title="Dziennik modlitw" description="Twoja osobista lista modlitewna, zapisana tylko na tym urządzeniu." />
+    <SectionTile to={`/${lang}/40-dni`} icon="prayer" title="40 dni modlitwy" description="Codzienna droga przez historie nadziei, dzień po dniu." />
+    <SectionTile to={`/${lang}/okazje`} icon="occasion" title="Teksty na różne okazje" description="Dobierz fragment Pisma do konkretnej sytuacji." />
   </Hub>
 }
 
