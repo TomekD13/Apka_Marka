@@ -48,6 +48,13 @@ fi
 # .htaccess musi trafic na serwer, inaczej odswiezenie strony na trasie typu
 # /pl/biblia/Gen/1 konczy sie bledem 404 (fallback SPA robi wlasnie .htaccess).
 [ -f dist/.htaccess ] || { echo "UWAGA: brak dist/.htaccess - sprawdz public/.htaccess" >&2; exit 1; }
+# dist/ jest wspolny z deploy-beta.sh, ktory buduje z baza /beta/. Wyslanie takiego builda
+# do korzenia zostawia strone bez aplikacji (index.html wola /beta/assets/, .htaccess
+# przepisuje trasy na /beta/index.html i dodaje noindex) - zdarzylo sie 2026-09-21.
+if grep -q '="/[a-z]*/assets/' dist/index.html; then
+  echo "dist/ jest zbudowany z podkatalogiem w bazie ($(grep -o '="/[a-z]*/assets/' dist/index.html | head -1)) - to nie jest build korzenia. Uruchom bez --no-build." >&2
+  exit 1
+fi
 
 TMP="$(mktemp -d)"
 trap 'rm -rf "$TMP"' EXIT
