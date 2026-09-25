@@ -1,0 +1,803 @@
+{
+ "tytul": "Duch w nas, przez nas i wokół nas",
+ "id": "PK-05",
+ "seria": "Sekret pierwotnego kościoła",
+ "opis": "Duch Święty zmienia charakter, rozdaje dary dla innych i czeka na nas u ludzi, do których idziemy.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Ga 5,16.22-25; 1Kor 12,4-11; Dz 8,26-31.35; Dz 10,19-20.44-48; Dz 11,15-18",
+  "p2": "Ez 36,26-27; Rz 5,5; 1P 4,8-11; Iz 56,3-5; Dz 8,36; Dz 10,27-29",
+  "p3": "2Kor 13,13; J 16,7-8; Dz 11,13-14"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 29
+ },
+ "tagi": [
+  "Duch Święty",
+  "owoc Ducha",
+  "dary duchowe",
+  "wspólnota",
+  "misja",
+  "Kościół"
+ ],
+ "wersja": 1,
+ "zdanie": "Duch zmienia nas od środka, rozdaje nas innym i idzie przed nami do ludzi, których jeszcze nie znamy.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pierwszy Kościół nie miał strategii ani budynków. Miał Ducha Świętego, który działał w trzech kierunkach. W ludziach kształtował charakter. Przez ludzi dawał innym to, czego potrzebowali. Wokół nich szedł przodem i czekał na nich u obcych. Spotkanie ma pokazać wszystkie trzy kierunki na tekstach. Misja wygląda wtedy skromniej i radośniej. Dołączamy do Boga tam, gdzie On już pracuje.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś może pomyśleć, że nie ma żadnego daru albo że Ducha w nim nie widać. Tekst mówi „w każdym\". Nie dopuść, żeby rozmowa zamieniła się w sprawdzanie, kto ma Ducha, a kto nie.",
+      "Temat darów łatwo skręca w języki, cuda i uzdrowienia. Ktoś przy stole może mieć takie doświadczenie albo zranienie z nim związane. Słuchaj z szacunkiem i wracaj do słów „ku wspólnemu pożytkowi\".",
+      "Przy stole może siedzieć osoba spoza Kościoła, także innej wiary. Nie rób z niej przykładu Korneliusza. Ma być gościem, nie tematem.",
+      "Zdanie o Duchu działającym wokół nas łatwo przeczytać jako tezę, że każda religia prowadzi do Boga. Teksty tego nie mówią. Mówią o Bogu, który przygotowuje ludzi na spotkanie z Jezusem."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie oceniaj niczyjej duchowości po darach. Nie porównuj Kościołów. Nie rozdawaj ludziom darów przy stole jak etykiet. Jeśli wypłynie pytanie o zbawienie ludzi innych religii, możesz wskazać materiał „Czy Jezus to jedyna droga?\".",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie kogoś, kto pojawił się w twoim życiu dokładnie wtedy, gdy był potrzebny. Nie opowiadaj całej historii. Powiedz jednym albo dwoma słowami, czym ta osoba dla ciebie była.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący, odpowiedz pierwszy i krótko. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Owoc, którego nikt nie produkuje",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paweł pisze do zborów w Galacji, które pokłóciły się o to, co czyni człowieka prawdziwym wierzącym.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ga 5,16",
+       "przeklad": "BW",
+       "akapity": [
+        "Mówię więc: Według Ducha postępujcie, a nie będziecie pobłażali żądzy cielesnej."
+       ]
+      },
+      {
+       "odnosnik": "Ga 5,22-25",
+       "przeklad": "BW",
+       "akapity": [
+        "Owocem zaś Ducha są: miłość, radość, pokój, cierpliwość, uprzejmość, dobroć, wierność, łagodność, wstrzemięźliwość. Przeciwko takim nie ma zakonu. A ci, którzy należą do Chrystusa Jezusa, ukrzyżowali ciało swoje wraz z namiętnościami i żądzami. Jeśli według Ducha żyjemy, według Ducha też postępujmy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przejdźcie powoli po liście z wersetów 22 i 23. **Ile z tych rzeczy da się mieć w pojedynkę, bez drugiego człowieka obok?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł nie pisze „owocami\". Pisze „owocem\". **Czym owoc różni się od wyniku pracy i co to zmienia w patrzeniu na własny charakter?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Werset 25 mówi o życiu według Ducha i o postępowaniu według Ducha. **Gdzie widzicie różnicę między jednym a drugim?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Kilka wersetów wcześniej Paweł wylicza „uczynki ciała\". Uczynki stoją w liczbie mnogiej, owoc w pojedynczej. Grzech rozbija człowieka i wspólnotę na kawałki. Duch wydaje jeden owoc, miłość, która ma wiele twarzy. Uczynki są dziełem człowieka. Owoc rośnie z tego, co Duch w nim zasiał. Pierwszym śladem Ducha w Kościele nie jest więc nic spektakularnego. Jest nim sposób, w jaki ludzie się do siebie odnoszą.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Serce nowe",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ez 36,26-27",
+       "przeklad": "BW",
+       "akapity": [
+        "I dam wam serce nowe, i ducha nowego dam do waszego wnętrza, i usunę z waszego ciała serce kamienne, a dam wam serce mięsiste. Mojego ducha dam do waszego wnętrza i uczynię, że będziecie postępować według moich przykazań, moich praw będziecie przestrzegać i wykonywać je."
+       ]
+      },
+      {
+       "odnosnik": "Rz 5,5",
+       "przeklad": "BW",
+       "akapity": [
+        "a nadzieja nie zawodzi, bo miłość Boża rozlana jest w sercach naszych przez Ducha Świętego, który nam jest dany."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "U Ezechiela prawie każde zdanie zaczyna się od tego, co zrobi Bóg. **Co w tej obietnicy zostaje do zrobienia człowiekowi?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł pisze, że miłość została „rozlana\" w sercach. **Czym takie rozlanie różni się od miłości, którą człowiek z siebie wyciska?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Każdemu i dla wszystkich",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Zbór w Koryncie miał dużo darów i dużo sporów o to, czyj dar jest ważniejszy.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Kor 12,4-11",
+       "przeklad": "BW",
+       "akapity": [
+        "A różne są dary łaski, lecz Duch ten sam. I różne są posługi, lecz Pan ten sam. I różne są sposoby działania, lecz ten sam Bóg, który sprawia wszystko we wszystkich. A w każdym różnie przejawia się Duch ku wspólnemu pożytkowi. Jeden bowiem otrzymuje przez Ducha mowę mądrości, drugi przez tego samego Ducha mowę wiedzy, inny wiarę w tym samym Duchu, inny dar uzdrawiania w tym samym Duchu. Jeszcze inny dar czynienia cudów, inny dar proroctwa, inny dar rozróżniania duchów, inny różne rodzaje języków, inny wreszcie dar wykładania języków. Wszystko to zaś sprawia jeden i ten sam Duch, rozdzielając każdemu poszczególnie, jak chce."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Policzcie, ile razy pada „ten sam\", a ile razy „różne\", „jeden\", „drugi\", „inny\". **Co Paweł chce powiedzieć tym zestawieniem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 7 mówi, w kim przejawia się Duch i po co. **Co by się zmieniło w grupie takiej jak nasza, gdyby każdy potraktował to zdanie serio?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Fragment kończy się słowami „jak chce\". **Co to zdanie zdejmuje z człowieka, a czego mu nie pozwala?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W Koryncie niektórzy traktowali efektowne dary jako dowód wyższej duchowości. Paweł odpowiada słowem „każdemu\". Wersety wcześniej pisze, że nikt nie może powiedzieć „Jezus jest Panem\" inaczej niż w Duchu Świętym. Zanim pada jakakolwiek lista, dar już jest dany. Listy darów w Nowym Testamencie różnią się od siebie. Są przykładami, nie katalogiem. Wspólne jest jedno. Dar nigdy nie jest prywatny.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Gościnność też jest darem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1P 4,8-11",
+       "przeklad": "BW",
+       "akapity": [
+        "Nade wszystko miejcie gorliwą miłość jedni ku drugim, gdyż miłość zakrywa mnóstwo grzechów. Okazujcie gościnność jedni drugim bez szemrania. Usługujcie drugim tym darem łaski, jaki każdy otrzymał, jako dobrzy szafarze rozlicznej łaski Bożej. Jeśli kto mówi, niech mówi jak Słowo Boże. Jeśli kto usługuje, niech czyni to z mocą, której udziela Bóg, aby we wszystkim był uwielbiony Bóg przez Jezusa Chrystusa. Jego jest chwała i moc na wieki wieków. Amen."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr stawia gościnność tuż obok darów łaski. **Jakie inne zwyczajne rzeczy mogłyby stać na takiej liście?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Szafarz zarządza czymś, co do niego nie należy. **Jak to słowo zmienia sposób myślenia o własnych zdolnościach?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Grecki `charisma`, czyli dar łaski, pochodzi od `charis`, czyli łaska. Dar jest z samej nazwy czymś otrzymanym za darmo. Nie da się go zdobyć ani nim się wywyższać.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Paweł kończy drugi list do Koryntian życzeniem, żeby z nimi była „społeczność Ducha Świętego\", 2Kor 13,13. Słowo przetłumaczone jako społeczność to `koinonia`, czyli wspólny udział w czymś jednym. Duch nie tylko mieszka w pojedynczym człowieku. Łączy ludzi tym, że wszyscy mają udział w tym samym Bogu.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Duch mówi: podejdź",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Filip, jeden z siedmiu wybranych do posługi przy stołach, głosi w Samarii. Nagle dostaje polecenie, żeby iść na pustą drogę.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 8,26-31",
+       "przeklad": "BW",
+       "akapity": [
+        "A anioł Pański rzekł do Filipa, mówiąc: Wstań i idź na południe drogą, która prowadzi z Jerozolimy do Gazy. Jest to droga pustynna. I powstawszy, poszedł. A oto Etiopczyk, eunuch, dostojnik królowej etiopskiej Kandaki, który zarządzał jej wszystkimi skarbami, a przyszedł do Jerozolimy, aby się modlić, powracał, a siedząc na swoim wozie, czytał proroka Izajasza. I rzekł Duch Filipowi: Podejdź i przyłącz się do tego wozu. A gdy Filip podbiegł, usłyszał, jak tamten czytał proroka Izajasza, i rzekł: Czy rozumiesz to, co czytasz? Ten zaś powiedział: Jakżebym mógł, jeśli mnie nikt nie pouczył? I poprosił Filipa, aby wsiadł i zajął przy nim miejsce."
+       ]
+      },
+      {
+       "odnosnik": "Dz 8,35",
+       "przeklad": "BW",
+       "akapity": [
+        "A Filip otworzył swoje usta i zwiastował mu dobrą nowinę o Jezusie, począwszy od tego ustępu Pisma."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Co działo się z dworzaninem, zanim Filip podbiegł?** Wypiszcie wszystko, co tekst o nim mówi.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Filip zaczyna od pytania o to, co tamten czyta. **Co ten początek mówi o tym, jak się dołącza do pracy, którą Bóg już zaczął?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Duch mówi „podejdź\", a Filip podbiega. **Co w nas zwykle stoi między usłyszeniem takiego ponaglenia a pierwszym krokiem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W starożytności czytano na głos. Tylko dlatego Filip usłyszał, co czyta człowiek na wozie. Dworzanin był wysokim urzędnikiem i zarazem kimś wykluczonym. Księga Powtórzonego Prawa 23,1 nie dopuszczała eunuchów do zgromadzenia. Mimo to przebył ogromną drogę, żeby się modlić. Zaprosił do swojego wozu nieznajomego z drogi. Filip nie przyniósł Boga na pustynię. Bóg był tam przed nim.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Obietnica kilka rozdziałów dalej",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 56,3-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Niech więc nie mówi cudzoziemiec, który przystał do Pana: Pan na pewno wykluczy mnie ze swojego ludu, i niech nie mówi trzebieniec: Patrzcie, jestem tylko uschłym drzewem. Bo tak mówi Pan: Trzebieńcom, którzy przestrzegają sabatu i wybierają to, w czym mam upodobanie, i trzymają się mojego przymierza, przyznam w moim domu i w obrębie moich murów miejsce i dam im imię lepsze niż mają synowie i córki, imię wieczne, które nie będzie starte."
+       ]
+      },
+      {
+       "odnosnik": "Dz 8,36",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy tak jechali drogą, przybyli nad jakąś wodę, a eunuch rzekł: Oto woda; cóż stoi na przeszkodzie, abym został ochrzczony?"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Słowo „trzebieniec\" w BW oznacza eunucha.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dworzanin czytał Izajasza. Kilka rozdziałów dalej w tym samym zwoju stała obietnica dla ludzi takich jak on. **Co mogło w nim poruszyć pytanie „cóż stoi na przeszkodzie\"?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kogo w naszym otoczeniu Bóg mógł już zapewnić, że nie jest uschłym drzewem, zanim ktokolwiek z nas do niego podszedł?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Duch był szybszy",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Piotr mieszka w Joppie. Ma za sobą widzenie, którego jeszcze nie rozumie. W tym czasie do drzwi pukają ludzie rzymskiego setnika Korneliusza.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 10,19-20",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy Piotr zastanawiał się jeszcze nad widzeniem, rzekł mu Duch: Oto szukają cię trzej mężowie; wstań przeto, zejdź i udaj się z nimi bez wahania, bo Ja ich posłałem."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Piotr idzie do Cezarei, wchodzi do domu Korneliusza i opowiada zebranym o Jezusie.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 10,44-48",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy Piotr jeszcze mówił te słowa, zstąpił Duch Święty na wszystkich słuchających tej mowy. I zdumieli się wierni pochodzenia żydowskiego, którzy z Piotrem przyszli, że i na pogan został wylany dar Ducha Świętego; słyszeli ich bowiem, jak mówili językami i wielbili Boga. Wtedy odezwał się Piotr: Czy może ktoś odmówić wody, aby ochrzcić tych, którzy otrzymali Ducha Świętego jak i my? I rozkazał ich ochrzcić w imię Jezusa Chrystusa. Wtedy uprosili go, aby pozostał u nich kilka dni."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Duch mówi o posłańcach Korneliusza „Ja ich posłałem\". Potem zstępuje, zanim Piotr skończył mówić. **Kto w tej historii przez cały czas prowadzi, a kto próbuje nadążyć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Piotr mówi o poganach „jak i my\". **Co te trzy słowa zrobiły z granicą, którą on i jego towarzysze nosili w sobie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Na końcu to gospodarze proszą Piotra, żeby u nich został. **Kto tu kogo przyjmuje w gościnę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Łukasz pisze, że towarzysze Piotra „zdumieli się\". Greckie słowo znaczy dosłownie, że byli poza sobą. Duch zstąpił przed chrztem, bez obrzezania i bez żadnych przygotowań po ludzkiej stronie. Mowa w językach i uwielbienie Boga były tu znakiem dla wierzących Żydów. Mieli zobaczyć, że to ten sam dar, który sami otrzymali. Korneliusz od dawna modlił się i dawał jałmużny. Bóg przygotował jego dom, zanim Piotr zszedł z dachu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Mur, który stał obok Pisma",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 10,27-29",
+       "przeklad": "BW",
+       "akapity": [
+        "I rozmawiając z nim, wszedł i zastał wielu zgromadzonych; i rzekł do nich: Wy wiecie, że dla Żyda przestawanie z ludźmi innego plemienia lub odwiedzanie ich jest niezgodne z prawem; lecz Bóg dał mi znak, żebym żadnego człowieka nie nazywał skalanym lub nieczystym; dlatego też wezwany, przyszedłem bez sprzeciwu. Zapytuję więc, dlaczego wezwaliście mnie?"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr zaczyna od uczciwego przyznania, jak trudno mu tu być. **Co takie zdanie mogło zrobić z atmosferą w domu Korneliusza?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mur między Żydami a poganami wyrósł z obyczaju. Tora dawała przybyszom miejsce wśród ludu. **Jakie mury w nas samych biorą się raczej ze zwyczaju niż ze Słowa?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: Duch u ludzi, którzy jeszcze nie znają Jezusa",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jeśli Duch był w domu Korneliusza przed Piotrem, to czy każda szczera religijność prowadzi do Boga? Tekst odpowiada ostrożniej, niż byśmy chcieli.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 16,7-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz ja wam mówię prawdę: Lepiej dla was, żebym ja odszedł. Bo jeśli nie odejdę, Pocieszyciel do was nie przyjdzie, jeśli zaś odejdę, poślę go do was. A On, gdy przyjdzie, przekona świat o grzechu i o sprawiedliwości, i o sądzie;"
+       ]
+      },
+      {
+       "odnosnik": "Dz 11,13-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Opowiedział nam on, jak ujrzał anioła, który się pojawił w domu jego i rzekł: Poślij do Joppy i sprowadź Szymona, którego nazywają Piotrem, a on powie ci słowa, przez które będziesz zbawiony, ty i cały dom twój."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jezus mówi, że Duch pracuje w świecie. Łukasz pokazuje, że modlitwy Korneliusza zostały wysłuchane. A jednak Bóg posyła do niego Piotra z wieścią o Jezusie. Duch nie zastępuje ewangelii. Prowadzi do niej człowieka i posłańca naraz.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia w naszej postawie wobec innych przekonanie, że Duch może być u kogoś przed nami?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg mógł załatwić wszystko przez anioła, a jednak posłał człowieka. **Dlaczego?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Kimże byłem",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "W Jerozolimie część wierzących ma Piotrowi za złe, że wszedł do nieobrzezanych i jadł z nimi. Piotr opowiada im po kolei, co się stało.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 11,15-18",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy zacząłem mówić, zstąpił na nich Duch Święty, jak i na nas na początku. I przypomniałem sobie słowo Pana, gdy powiedział: Jan chrzcił wodą, ale wy będziecie ochrzczeni Duchem Świętym. Jeżeli więc Bóg dał im ten sam dar, co i nam, którzy uwierzyliśmy w Pana Jezusa Chrystusa, to jakże ja mogłem przeszkodzić Bogu? A gdy to usłyszeli, uspokoili się i wielbili Boga, mówiąc: Tak więc i poganom dał Bóg upamiętanie ku żywotowi."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Piotr nie broni się uczoną argumentacją. Opowiada, co widział. **Dlaczego to wystarczyło, żeby spór ucichł?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Jakże ja mogłem przeszkodzić Bogu?\" **W jakich sytuacjach wierzący mogą stanąć Bogu na drodze, nawet z dobrymi intencjami?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W wersecie 18 zmieniają się nie tylko poganie. **Kto jeszcze zmienia zdanie i o czym?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Opowiadając to w Jerozolimie, Piotr rozkłada akcenty inaczej niż w domu Korneliusza. Mniej mówi o rzymskim oficerze, więcej o tym, co zrobił Bóg. Ta historia to nawrócenie Korneliusza i zarazem nawrócenie Piotra. Kościół po tym spotkaniu był inny niż przed nim. Duch, który idzie przed nami, zmienia nie tylko tych, do których idziemy. Zmienia też nas.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Gdzie w swoim tygodniu próbujesz wypracować cierpliwość albo łagodność samą siłą woli? **Co się dzieje, kiedy siła woli się kończy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kto w twoim otoczeniu może być jak dworzanin z otwartym zwojem? Po czym dałoby się to poznać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **gdzie czujesz, że Bóg cię wyprzedza, a ty jeszcze stoisz w miejscu?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr rozpoznał działanie Ducha po skutkach, które widzieli także inni. **Jak dziś odróżnić miejsce, w którym Duch naprawdę nas wyprzedza, od miejsca, do którego po prostu chcielibyśmy iść?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący, nie szukaj tu gotowej recepty. Warto, żeby padły dwie rzeczy z dzisiejszych tekstów. Filip i Piotr nie działali sami, rozeznawali w zgodzie z Pismem i z resztą wierzących. Obaj też szli tam, dokąd sami z siebie by nie poszli.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Duch zmienia nas od środka, rozdaje nas innym i idzie przed nami do ludzi, których jeszcze nie znamy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** Ga 5,25 albo 1Kor 12,7.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przyznaj przed Bogiem, której cechy z listy w Ga 5 najbardziej ci brakuje. Powiedz Mu wprost, że sam jej w sobie nie wyhodujesz. Zostań przy tym przyznaniu bez postanowień.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o kimś, o kim myślisz, że Bóg jest od niego daleko. Zapytaj siebie, czy Duch nie był u niego przed tobą. Zapytaj też, co musiałoby się w tobie zmienić, żeby to zobaczyć.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Powiedz komuś z grupy, jaki dar Ducha w nim widzisz. Krótko, bez oceny, jako podziękowanie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja chyba nie mam żadnego daru.\"** Nie przekonuj na siłę i nie rób testu darów. Możesz powiedzieć, że Paweł pisze „w każdym\". Wyznanie, że Jezus jest Panem, już jest dziełem Ducha. Dar często widzą najpierw inni, nie sam człowiek.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„U mnie tego owocu nie widać.\"** To zdanie niesie wstyd. Nie zaprzeczaj i nie przytakuj. Przypomnij, że owoc rośnie powoli i że lista z Ga 5 nie jest miarą do oceniania siebie ani innych. Nikt przy stole nie jest tu egzaminowany.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś stawia języki, cuda albo uzdrowienia jako dowód, że ktoś ma Ducha.** Wysłuchaj z szacunkiem, bez polemiki i bez porównywania Kościołów. Wróć do tekstu. Paweł wylicza te dary obok cichych i każe patrzeć na wspólny pożytek. Pierwszym owocem Ducha nazywa miłość.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Skoro Duch działa wszędzie, to każda religia prowadzi do Boga.\"** Nie wchodź w spór. Pokaż, że Bóg wysłuchał modlitw Korneliusza i właśnie dlatego posłał mu Piotra ze słowem o Jezusie, Dz 11,14. Szerzej prowadzi ten temat materiał „Czy Jezus to jedyna droga?\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Przy stole siedzi osoba innej wiary albo niewierząca.** Nie kieruj do niej pytań o Korneliusza ani o dworzanina. Zadbaj, żeby czuła się gościem. Duch działający wokół nas nie jest planem werbunku.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa zamienia się w narzekanie na własny zbór.** Zdania w rodzaju „u nas nikt nie ma darów\" albo „nasz zbór jest zamknięty\" przesuń na „my\". Zapytaj, gdzie w tej grupie widać już to, o czym czytacie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa rozkręca się tak, że nie zdążycie z materiałem.** Zostaw blok 3 i jego poziomy wyższe. Bloki 1, 2 i 4 niosą trzy kierunki działania Ducha. Bez bloku 5 spotkanie traci puentę o Kościele, który sam się zmienia.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Ja chyba nie mam żadnego daru.\"",
+     "odpowiedz": "Nie przekonuj na siłę i nie rób testu darów. Możesz powiedzieć, że Paweł pisze „w każdym\". Wyznanie, że Jezus jest Panem, już jest dziełem Ducha. Dar często widzą najpierw inni, nie sam człowiek."
+    },
+    {
+     "sytuacja": "„U mnie tego owocu nie widać.\"",
+     "odpowiedz": "To zdanie niesie wstyd. Nie zaprzeczaj i nie przytakuj. Przypomnij, że owoc rośnie powoli i że lista z Ga 5 nie jest miarą do oceniania siebie ani innych. Nikt przy stole nie jest tu egzaminowany."
+    },
+    {
+     "sytuacja": "Ktoś stawia języki, cuda albo uzdrowienia jako dowód, że ktoś ma Ducha.",
+     "odpowiedz": "Wysłuchaj z szacunkiem, bez polemiki i bez porównywania Kościołów. Wróć do tekstu. Paweł wylicza te dary obok cichych i każe patrzeć na wspólny pożytek. Pierwszym owocem Ducha nazywa miłość."
+    },
+    {
+     "sytuacja": "„Skoro Duch działa wszędzie, to każda religia prowadzi do Boga.\"",
+     "odpowiedz": "Nie wchodź w spór. Pokaż, że Bóg wysłuchał modlitw Korneliusza i właśnie dlatego posłał mu Piotra ze słowem o Jezusie, Dz 11,14. Szerzej prowadzi ten temat materiał „Czy Jezus to jedyna droga?\"."
+    },
+    {
+     "sytuacja": "Przy stole siedzi osoba innej wiary albo niewierząca.",
+     "odpowiedz": "Nie kieruj do niej pytań o Korneliusza ani o dworzanina. Zadbaj, żeby czuła się gościem. Duch działający wokół nas nie jest planem werbunku."
+    },
+    {
+     "sytuacja": "Rozmowa zamienia się w narzekanie na własny zbór.",
+     "odpowiedz": "Zdania w rodzaju „u nas nikt nie ma darów\" albo „nasz zbór jest zamknięty\" przesuń na „my\". Zapytaj, gdzie w tej grupie widać już to, o czym czytacie."
+    },
+    {
+     "sytuacja": "Rozmowa rozkręca się tak, że nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3 i jego poziomy wyższe. Bloki 1, 2 i 4 niosą trzy kierunki działania Ducha. Bez bloku 5 spotkanie traci puentę o Kościele, który sam się zmienia."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,832 @@
+{
+ "tytul": "Bóg, który chce z nami zamieszkać",
+ "id": "PK-03",
+ "seria": "Sekret pierwotnego kościoła",
+ "opis": "Po co Bogu namiot na pustyni i co znaczy, że chce zamieszkać wśród ludzi na stałe.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Wj 25,2.8-9.22; 29,45-46; Wj 40,34-38; J 1,14; J 2,19-22; J 14,1-3.23; 1J 1,3-4; 1Kor 1,9; Ef 2,19-22; 1Kor 3,16; Ap 21,3.22",
+  "p2": "Rdz 2,8.15; 3,8-9; Kpł 26,11-12; Wj 33,7.9-11; 1J 4,12-13.16; 1P 2,4-5",
+  "p3": "Lb 3,7-8; Rdz 3,24; J 1,38-39; 1Krl 8,27; 2Sm 7,6"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 29
+ },
+ "tagi": [
+  "Kościół",
+  "wspólnota",
+  "świątynia",
+  "obecność Boga",
+  "dom",
+  "Duch Święty"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg nie szuka odwiedzin. Szuka domu i znalazł go w ludziach, którzy razem należą do Niego.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie zaczyna się od Boga, zanim dojdzie do nas. Biblia opowiada historię Boga, który szuka mieszkania wśród ludzi. Najpierw jest namiot na pustyni, potem Jezus, na końcu miasto, w którym Bóg mieszka ze swoim ludem. Wspólnota wierzących stoi w środku tej historii. Jest miejscem, gdzie Bóg już się wprowadził.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Dla adwentystów słowo „świątynia\" łączy się z nauką o służbie Chrystusa w niebiańskiej świątyni i o sądzie. To ważny temat, ale dziś rozmawiamy o obecności Boga. Pytania o sąd i o daty zapisz na osobne spotkanie.",
+      "Przy stole mogą siedzieć katolicy i ludzie z innych Kościołów. Dla nich świątynia to często konkretny budynek, święte miejsce. Mów z szacunkiem i pokazuj, co mówi tekst.",
+      "Ktoś mógł zostać zraniony w zborze. Zdanie „Kościół to dom Boga\" może mu brzmieć jak dom, z którego go wyrzucono. Nie broń instytucji. Wysłuchaj.",
+      "Temat łatwo zamienia się w wykład o sprzętach przybytku. Grupa nie potrzebuje planu namiotu. Potrzebuje zobaczyć, po co On był."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie oceniaj, czy Bóg „jest\" w twoim albo w cudzym zborze. Nie rozstrzygaj, gdzie Bóg jest bardziej obecny. Nie odpytuj z symboliki.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Po czym poznajesz, że w czyimś domu jesteś jeszcze gościem, a po czym, że jesteś już u siebie? Podaj jeden drobny znak.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi i nie dopytuj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Namiot pośrodku obozu",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Izrael wyszedł z Egiptu i obozuje pod górą Synaj, gdzie Bóg mówi do Mojżesza.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 25,2.8-9.22",
+       "przeklad": "BW",
+       "akapity": [
+        "Powiedz synom izraelskim, aby zebrali dla mnie dar ofiarny. Od każdego człowieka, którego pobudzi serce jego, zbierzcie dla mnie dar ofiarny. [...]",
+        "I wystawią mi świątynię, abym zamieszkał pośród nich, dokładnie według wzoru przybytku i wzoru wszystkich jego sprzętów, które ci pokażę; tak wykonacie. [...]",
+        "Tam będę się spotykał z tobą i sponad wieka będę z tobą rozmawiał spośród dwu cherubów, które są na Skrzyni Świadectwa, o wszystkim, co jako nakaz przekażę ci dla synów izraelskich."
+       ]
+      },
+      {
+       "odnosnik": "Wj 29,45-46",
+       "przeklad": "BW",
+       "akapity": [
+        "I mieszkać będę pośród synów izraelskich, i będę ich Bogiem. I poznają, żem Ja, Pan, ich Bóg, który ich wyprowadziłem z ziemi egipskiej, aby mieszkać pośród nich, Ja, Pan, ich Bóg."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Cały powód budowy mieści się w słowach „abym zamieszkał pośród nich\". **Czym różni się ktoś, kto mieszka pośród was, od kogoś, kto was tylko odwiedza?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W Wj 29,46 Bóg mówi, po co wyprowadził Izraela z Egiptu. **Jak brzmi ten powód i co zmienia w rozumieniu całego wyjścia z niewoli?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Dar na przybytek zbiera się tylko od tego, „którego pobudzi serce jego\". **Dlaczego Bogu zależy, żeby Jego mieszkanie powstało z dobrej woli?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Kolejność w Księdze Wyjścia jest wymowna. Najpierw Bóg wyprowadza lud z niewoli. Potem zawiera z nim przymierze, czyli trwałe zobowiązanie wzajemnej wierności. Dopiero na końcu prosi o namiot. Mieszkanie z Bogiem przychodzi po ratunku i nie trzeba na nie zasłużyć. Sąsiednie ludy też budowały świątynie. Były to domy, w których bóstwo odpoczywało z dala od ludzi. W Izraelu przybytek ma być miejscem spotkania i rozmowy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ogród, po którym Bóg się przechadzał",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 2,8.15",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem zasadził Pan Bóg ogród w Edenie, na wschodzie. Tam umieścił człowieka, którego stworzył. [...] I wziął Pan Bóg człowieka i osadził go w ogrodzie Eden, aby go uprawiał i strzegł."
+       ]
+      },
+      {
+       "odnosnik": "Rdz 3,8-9",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy usłyszeli szelest Pana Boga przechadzającego się po ogrodzie w powiewie dziennym, skrył się Adam z żoną swoją przed Panem Bogiem wśród drzew ogrodu. Lecz Pan Bóg zawołał na Adama i rzekł do niego: Gdzie jesteś?"
+       ]
+      },
+      {
+       "odnosnik": "Kpł 26,11-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Umieszczę też przybytek mój wśród was i dusza moja nie obrzydzi was sobie. Będę się przechadzał wśród was i będę waszym Bogiem, a wy będziecie moim ludem."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W ogrodzie i w obietnicy dla Izraela Bóg się „przechadza\". **Co ten obraz mówi o bliskości, jakiej Bóg chciał od początku?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Po upadku to ludzie się chowają. Bóg przychodzi jak zwykle i woła. **Co słychać w pytaniu „Gdzie jesteś?\", jeśli czytać je jako głos Kogoś, kto szuka towarzystwa?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Część badaczy nazywa Eden pierwszym sanktuarium. Powody leżą w samym tekście. Adam ma ogród „uprawiać i strzec\". Po hebrajsku to para czasowników `avad` i `shamar`, która razem wraca w opisie służby lewitów przy przybytku w Lb 3,7-8. Po wygnaniu cherubini stają u wschodniego wejścia do ogrodu, jak mówi Rdz 3,24. Cherubini zdobią potem wieko skrzyni w przybytku, a wejście do przybytku też było od wschodu. Bóg „przechadza się\" w Rdz 3,8 i w Kpł 26,12 tym samym czasownikiem, `hithallekh`.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Od czasownika `shakhan`, „zamieszkać\", pochodzi `mishkan`, czyli „przybytek\", dosłownie „mieszkanie\". Przybytek jest więc powrotem do ogrodu. Bóg robi na pustyni to, co robił w Edenie.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Słowo rozbiło namiot",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Namiot jest gotowy. Mojżesz skończył pracę i wtedy dzieje się to, na co czekano.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 40,34-38",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy obłok zakrył Namiot Zgromadzenia, a chwała Pana napełniła przybytek. Mojżesz nie mógł wejść do Namiotu Zgromadzenia, gdyż spoczywał na nim obłok a chwała Pana napełniała przybytek. Ilekroć obłok podnosił się w górę nad przybytkiem, wyruszali synowie izraelscy w drogę w ciągu całej swej wędrówki, gdy zaś obłok nie podnosił się, nie wyruszali w drogę aż do dnia, gdy znów się podniósł. Obłok Pana bowiem był nad przybytkiem w dzień, w nocy zaś był w nim ogień przed oczyma całego domu izraelskiego w ciągu całej ich wędrówki."
+       ]
+      },
+      {
+       "odnosnik": "J 1,14",
+       "przeklad": "BW",
+       "akapity": [
+        "A Słowo ciałem się stało i zamieszkało wśród nas, i ujrzeliśmy chwałę jego, chwałę, jaką ma jedyny Syn od Ojca, pełne łaski i prawdy."
+       ]
+      },
+      {
+       "odnosnik": "J 2,19-22",
+       "przeklad": "BW",
+       "akapity": [
+        "Jezus, odpowiadając, rzekł im: Zburzcie tę świątynię, a Ja w trzy dni ją odbuduję. Na to rzekli Żydzi: Czterdzieści sześć lat budowano tę świątynię, a Ty w trzy dni chcesz ją odbudować? Ale On mówił o świątyni ciała swego. Gdy więc został wzbudzony z martwych, przypomnieli sobie uczniowie jego, że to mówił, i uwierzyli Pismu i słowu, które wyrzekł Jezus."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Porównajcie dwie sceny z chwałą, pod Synajem i u Jana. **Co jest w nich wspólne i co się zmieniło dla ludzi, którzy stoją najbliżej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nazywa świątynią własne ciało. **Co zmienia to, że miejscem spotkania z Bogiem stał się człowiek, którego można dotknąć, zaprosić do domu i zapytać o drogę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Uczniowie zrozumieli słowa o świątyni dopiero po zmartwychwstaniu. **Co jeszcze w historii z Jezusem zrozumieli dopiero później i dlaczego tak bywa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Słowo „zamieszkało\" w J 1,14 to po grecku `eskēnōsen`, dosłownie „rozbiło namiot\". Czytelnik znający Księgę Wyjścia słyszy w nim przybytek. Pokrewne `skēnē` to w greckim Starym Testamencie właśnie Namiot Zgromadzenia. Księga Wyjścia kończy się Mojżeszem, który stoi przed namiotem pełnym chwały i nie może wejść. Jan zaczyna od ludzi, którzy tę chwałę widzieli z bliska. Jedli z Nim i chodzili z Nim drogami Galilei.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Twarzą w twarz",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Zanim zbudowano przybytek, Mojżesz rozbijał namiot spotkań z Bogiem poza obozem.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 33,7.9-11",
+       "przeklad": "BW",
+       "akapity": [
+        "Mojżesz zaś zwykł był zabierać namiot, rozbijał go sobie poza obozem, z dala od obozu. I nazwał go Namiotem Zgromadzenia. Toteż każdy, kto miał sprawę do Pana, przychodził do Namiotu Zgromadzenia, który był poza obozem. [...]",
+        "Ilekroć zaś Mojżesz wszedł do Namiotu, słup obłoku opuszczał się i stawał u wejścia do Namiotu, a Pan rozmawiał z Mojżeszem. I widział cały lud słup obłoku stojący u wejścia do Namiotu, i wtedy powstawał cały lud, i kłaniali się, każdy u wejścia do swego namiotu. I rozmawiał Pan z Mojżeszem twarzą w twarz, tak jak człowiek rozmawia ze swoim przyjacielem, po czym wracał Mojżesz do obozu, podczas gdy młody sługa jego, Jozue, syn Nuna, nie oddalał się z Namiotu."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Namiot stoi „z dala od obozu\". Lud kłania się z daleka, każdy u wejścia do swego namiotu. **Kto w tej scenie jest blisko Boga, a kto patrzy z daleka?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pan rozmawia z Mojżeszem „jak człowiek rozmawia ze swoim przyjacielem\". **Co ten obraz mówi o tym, czego Bóg szuka, kiedy prosi o miejsce pośrodku obozu?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Dom, w którym jest miejsce",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jest ostatni wieczór przed ukrzyżowaniem i Jezus mówi do uczniów przy stole.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 14,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "Niechaj się nie trwoży serce wasze; wierzcie w Boga i we mnie wierzcie! W domu Ojca mego wiele jest mieszkań; gdyby było inaczej, byłbym wam powiedział. Idę przygotować wam miejsce. A jeśli pójdę i przygotuję wam miejsce, przyjdę znowu i wezmę was do siebie, abyście, gdzie Ja jestem, i wy byli."
+       ]
+      },
+      {
+       "odnosnik": "J 14,23",
+       "przeklad": "BW",
+       "akapity": [
+        "Odpowiedział Jezus i rzekł mu: Jeśli kto mnie miłuje, słowa mojego przestrzegać będzie, i Ojciec mój umiłuje go, i do niego przyjdziemy, i u niego zamieszkamy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W wersetach 2-3 Jezus odchodzi, żeby przygotować miejsce, i wraca po uczniów. **W którą stronę idzie ruch w wersecie 23 i kto się tam do kogo wprowadza?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dom u Ojca czeka na ucznia w przyszłości. Ojciec i Syn chcą zamieszkać u niego już teraz. **Co zmienia to „teraz\" w zwykłym tygodniu wierzącego człowieka?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus mówi to ludziom, którym „trwoży się serce\". **Dlaczego na ich lęk odpowiada obrazem domu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "„Mieszkań\" w wersecie 2 i „zamieszkamy\" w wersecie 23 to w grece to samo słowo, `monē`. Oznacza miejsce, w którym się zostaje. Dawniej wyobrażano je sobie jako pałace. Tekst mówi skromniej i cieplej, bo chodzi o bycie tam, gdzie jest Ojciec. Kilka zdań dalej Jezus użyje pokrewnego czasownika w J 15,4, „trwajcie we mnie\". Jeden obraz działa w trzy strony. Dom czeka na ucznia, Bóg wprowadza się do ucznia, uczeń zostaje przy Nim.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Grecki czasownik `menō` znaczy „zostać, pozostać, mieszkać\". Rzeczownik `monē` jest od niego utworzony. U Jana to słowo pojawia się już przy pierwszym spotkaniu z Jezusem. Dwaj uczniowie pytają w J 1,38 „gdzie mieszkasz?\". Werset 39 mówi, że poszli i „pozostali u niego w tym dniu\". Wiara u Jana zaczyna się więc od zamieszkania u Kogoś. Kończy się tym, że On zamieszkuje u nas.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Najpierw z Ojcem",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jan pisze do zborów jako starszy świadek, który widział Jezusa na własne oczy.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1J 1,3-4",
+       "przeklad": "BW",
+       "akapity": [
+        "co widzieliśmy i słyszeliśmy, to i wam zwiastujemy, abyście i wy społeczność z nami mieli. A społeczność nasza jest społecznością z Ojcem i z Synem jego, Jezusem Chrystusem. A to piszemy, aby radość nasza była pełna."
+       ]
+      },
+      {
+       "odnosnik": "1Kor 1,9",
+       "przeklad": "BW",
+       "akapity": [
+        "Wierny jest Bóg, który was powołał do społeczności Syna swego Jezusa Chrystusa, Pana naszego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jan mówi o dwóch społecznościach, z ludźmi i z Ojcem. **Jak jedna wiąże się z drugą i od której wszystko się zaczyna?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł pisze to do Koryntu, zboru pełnego kłótni i podziałów. **Dlaczego zaczyna od tego, że Bóg jest wierny i że to On ich powołał?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jan pisze, „aby radość nasza była pełna\". **Dlaczego jego radość byłaby niepełna, gdyby czytelnicy nie mieli udziału w tej samej społeczności?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Słowo „społeczność\" to po grecku `koinōnia`. Znaczy wspólny udział w czymś, co należy do wszystkich naraz. Jan zaczyna od góry. Najpierw jest udział w życiu Ojca i Syna. Dopiero z niego wyrasta więź między ludźmi. Dlatego wspólnota wierzących jest czymś więcej niż grupą ludzi, którzy się polubili. Łączy ich to, że należą do tego samego Ojca. Mogą się różnić, spierać i siebie nie wybierać, a dalej są jedną rodziną.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Boga nikt nie widział",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1J 4,12-13.16",
+       "przeklad": "BW",
+       "akapity": [
+        "Boga nikt nigdy nie widział; jeżeli nawzajem się miłujemy, Bóg mieszka w nas i miłość jego doszła w nas do doskonałości. Po tym poznajemy, że w nim mieszkamy, a On w nas, że z Ducha swojego nam udzielił. [...]",
+        "A myśmy poznali i uwierzyli w miłość, którą Bóg ma do nas. Bóg jest miłością, a kto mieszka w miłości, mieszka w Bogu, a Bóg w nim."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jan zaczyna od tego, że Boga nikt nie widział, a potem mówi o wzajemnej miłości. **Co z tego wynika dla kogoś, kto patrzy na wspólnotę wierzących z zewnątrz?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Słowo „mieszka\" pada w tych wersetach kilka razy, w obie strony. **Co w tym tekście jest Bożym darem, a co naszą odpowiedzią?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Dom z żywych kamieni",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paweł pisze do ludzi spoza Izraela, którym w świątyni jerozolimskiej nie wolno było przejść dalej niż dziedziniec zewnętrzny.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ef 2,19-22",
+       "przeklad": "BW",
+       "akapity": [
+        "Tak więc już nie jesteście obcymi i przychodniami, lecz współobywatelami świętych i domownikami Boga, zbudowani na fundamencie apostołów i proroków, którego kamieniem węgielnym jest sam Chrystus Jezus, na którym cała budowa mocno spojona rośnie w przybytek święty w Panu, na którym i wy się wespół budujecie na mieszkanie Boże w Duchu."
+       ]
+      },
+      {
+       "odnosnik": "1Kor 3,16",
+       "przeklad": "BW",
+       "akapity": [
+        "Czy nie wiecie, że świątynią Bożą jesteście i że Duch Boży mieszka w was?"
+       ]
+      },
+      {
+       "odnosnik": "Ap 21,3.22",
+       "przeklad": "BW",
+       "akapity": [
+        "I usłyszałem donośny głos z tronu mówiący: Oto przybytek Boga między ludźmi! I będzie mieszkał z nimi, a oni będą ludem jego, a sam Bóg będzie z nimi. [...] Lecz świątyni w nim nie widziałem; albowiem Pan, Bóg, Wszechmogący jest jego świątynią, oraz Baranek."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł mówi najpierw, kim ci ludzie byli, a potem, kim są teraz. **Co według tego tekstu zrobiło z obcych domowników Boga?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W 1Kor 3,16 wszystko stoi w liczbie mnogiej, „jesteście\" i „w was\". **Co to zdanie znaczy dla kogoś, kto uważa wiarę za sprawę wyłącznie prywatną?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W Liście do Efezjan budowa „rośnie\". W Apokalipsie głos woła już „Oto przybytek Boga między ludźmi\". **Co łączy te dwa obrazy i co dzieje się pomiędzy nimi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Pierwsze zbory nie miały budynków. Spotykały się w mieszkaniach. Paweł w 1Kor 16,19 przesyła pozdrowienia od Akwili i Pryscylli „ze zborem, który jest w ich domu\". Takie zgromadzenie liczyło zwykle od dziesięciu do trzydziestu osób razem z domownikami. Kiedy Paweł pisał „świątynią Bożą jesteście\", jego czytelnicy siedzieli w czyimś pokoju, przy czyimś stole. Mniej więcej tak jak wy teraz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Kamienie, które żyją",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1P 2,4-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Przystąpcie do niego, do kamienia żywego, przez ludzi wprawdzie odrzuconego, lecz przez Boga wybranego jako kosztowny. I wy sami jako kamienie żywe budujcie się w dom duchowy, w kapłaństwo święte, aby składać duchowe ofiary przyjemne Bogu przez Jezusa Chrystusa."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr mówi o kamieniach, które żyją i same się budują. **Czym taki kamień różni się od cegły, którą ktoś wmurował w ścianę?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W przybytku kapłanami byli nieliczni. **Co zmienia to, że Piotr nazywa kapłaństwem całą wspólnotę?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: Bóg, którego niebo nie ogarnia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Skoro Bóg jest wszędzie, co w ogóle znaczy, że „mieszka\" w namiocie albo we wspólnocie? Zadał to pytanie już Salomon, gdy poświęcał świątynię w Jerozolimie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Krl 8,27",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz czy naprawdę zamieszka Bóg na ziemi? Oto niebiosa i niebiosa niebios nie mogą cię ogarnąć, a cóż dopiero ten dom, który zbudowałem?!"
+       ]
+      },
+      {
+       "odnosnik": "2Sm 7,6",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie mieszkam bowiem w domu od dnia, kiedy wywiodłem synów izraelskich z Egiptu aż do dnia dzisiejszego, ale wędrowałem, mając za mieszkanie namiot."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Salomon buduje świątynię i w tej samej modlitwie mówi, że Bóg się w niej nie zmieści. **Jak te dwie rzeczy mogą być prawdą jednocześnie?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg mówi Dawidowi, że wolał wędrować z ludem w namiocie. **Co to mówi o różnicy między Bogiem, który jest wszędzie, a Bogiem, który jest z kimś?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pomyśl o swojej grupie albo zborze jako o domu, w którym Bóg zamieszkał. **Po czym gość, który przychodzi pierwszy raz, mógłby to poznać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**W którym miejscu twojego życia Bóg jest bardziej gościem niż domownikiem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kto przy tobie może wciąż czuć się obcym i przychodniem i co pomogłoby mu wejść dalej?** Mów tylko, jeśli chcesz się tym podzielić. Nie musisz podawać imienia.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł pisze „świątynią Bożą jesteście\" do zboru, który się kłóci, dzieli i toleruje poważne grzechy. **Co się dzieje z Bożą obecnością we wspólnocie, która rani ludzi? Czy da się po czymś poznać, że Bóg wciąż tam mieszka?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie produkuje tu jednej odpowiedzi. Warto, żeby padło rozróżnienie między obecnością, którą Bóg daje z wierności, jak w 1Kor 1,9, a zasmucaniem Ducha, o którym Paweł pisze w Ef 4,30. Bóg nie wyprowadza się przy pierwszej kłótni. Ludzie mogą jednak zamykać przed Nim kolejne pokoje.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg nie szuka odwiedzin. Szuka domu i znalazł go w ludziach, którzy razem należą do Niego.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** Wj 25,8 albo J 14,23.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jezus obiecuje, że Ojciec i On przyjdą i zamieszkają u tego, kto Go miłuje. Zapytaj siebie, **który pokój swojego życia trzymasz przed Bogiem zamknięty**. Nie musisz go od razu otwierać. Wystarczy przyznać przed Nim, że taki pokój istnieje.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o ludziach, z którymi siedzisz w grupie albo w zborze. Zapytaj Boga, **kogo z nich w sercu wciąż trzymasz za progiem**. Zostań przy tym pytaniu, nawet jeśli odpowiedź cię zawstydzi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Zanim następnym razem wejdziesz na grupę albo do zboru, powiedz Bogu wprost, że chcesz Go tam spotkać. Potem patrz na ludzi w środku jak na Jego domowników.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli budynek kościoła nie jest święty?\"** Nie wchodź w spór o budynki ani o praktykę innych Kościołów. Powiedz, co pokazują dzisiejsze teksty. Bóg wiąże swoją obecność przede wszystkim z ludźmi, a pierwsze zbory spotykały się w mieszkaniach. Każdy może z tym zrobić coś we własnej tradycji.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A co z sądem w niebiańskiej świątyni i z rokiem 1844?\"** To prawdziwy temat i zasługuje na osobne spotkanie. Zapisz pytanie. Dziś patrzymy na świątynię od strony obecności Boga. Ta obecność jest też sercem nauki o służbie Chrystusa w niebie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Nie potrzebuję zboru. Bóg mieszka we mnie.\"** Nie spieraj się. Przeczytaj jeszcze raz 1Kor 3,16 i Ef 2,22 i zapytaj, do kogo Paweł mówi „wy\". Jeśli temat wraca, poleć materiał „Po co mi Kościół?\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„W naszym zborze Boga na pewno nie ma.\"** Za takim zdaniem zwykle stoi zranienie. Wysłuchaj bez obrony zboru i bez przytakiwania. Możesz powiedzieć, że Paweł napisał „świątynią Bożą jesteście\" do Koryntu, jednego z najbardziej skłóconych zborów. Jeśli sprawa jest poważna, zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś chce omawiać sprzęty przybytku i ich symbolikę.** Doceń zainteresowanie i odłóż szczegóły na inny raz. Wróć do pytania, po co Bóg w ogóle chciał mieszkać pośrodku obozu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi, że w tej grupie czuje się obcy.** Potraktuj to poważnie i podziękuj za odwagę. Nie tłumacz grupy. Zapytaj, co pomogłoby mu poczuć się domownikiem. To zdanie jest dla grupy ważniejsze niż cały materiał.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, przeczytaj jeszcze raz werset, o który pytasz, i powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Czyli budynek kościoła nie jest święty?\"",
+     "odpowiedz": "Nie wchodź w spór o budynki ani o praktykę innych Kościołów. Powiedz, co pokazują dzisiejsze teksty. Bóg wiąże swoją obecność przede wszystkim z ludźmi, a pierwsze zbory spotykały się w mieszkaniach. Każdy może z tym zrobić coś we własnej tradycji."
+    },
+    {
+     "sytuacja": "„A co z sądem w niebiańskiej świątyni i z rokiem 1844?\"",
+     "odpowiedz": "To prawdziwy temat i zasługuje na osobne spotkanie. Zapisz pytanie. Dziś patrzymy na świątynię od strony obecności Boga. Ta obecność jest też sercem nauki o służbie Chrystusa w niebie."
+    },
+    {
+     "sytuacja": "„Nie potrzebuję zboru. Bóg mieszka we mnie.\"",
+     "odpowiedz": "Nie spieraj się. Przeczytaj jeszcze raz 1Kor 3,16 i Ef 2,22 i zapytaj, do kogo Paweł mówi „wy\". Jeśli temat wraca, poleć materiał „Po co mi Kościół?\"."
+    },
+    {
+     "sytuacja": "„W naszym zborze Boga na pewno nie ma.\"",
+     "odpowiedz": "Za takim zdaniem zwykle stoi zranienie. Wysłuchaj bez obrony zboru i bez przytakiwania. Możesz powiedzieć, że Paweł napisał „świątynią Bożą jesteście\" do Koryntu, jednego z najbardziej skłóconych zborów. Jeśli sprawa jest poważna, zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "Ktoś chce omawiać sprzęty przybytku i ich symbolikę.",
+     "odpowiedz": "Doceń zainteresowanie i odłóż szczegóły na inny raz. Wróć do pytania, po co Bóg w ogóle chciał mieszkać pośrodku obozu."
+    },
+    {
+     "sytuacja": "Ktoś mówi, że w tej grupie czuje się obcy.",
+     "odpowiedz": "Potraktuj to poważnie i podziękuj za odwagę. Nie tłumacz grupy. Zapytaj, co pomogłoby mu poczuć się domownikiem. To zdanie jest dla grupy ważniejsze niż cały materiał."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, przeczytaj jeszcze raz werset, o który pytasz, i powtórz pytanie tymi samymi słowami."
+    }
+   ]
+  }
+ ]
+}

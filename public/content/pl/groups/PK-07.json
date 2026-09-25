@@ -1,0 +1,779 @@
+{
+ "tytul": "Ręcznik i miska",
+ "id": "PK-07",
+ "seria": "Sekret pierwotnego kościoła",
+ "opis": "Dlaczego Jezus wziął ręcznik i miskę i jak wygląda wspólnota, w której droga prowadzi w dół.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "J 13,1-17; Mk 10,35-45; Łk 22,24-27; Flp 2,3-11",
+  "p2": "Rdz 18,1-5; 1Tm 5,9-10; Rz 12,10-13; Ga 5,13; Flp 2,19-22",
+  "p3": "J 10,17-18"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 31
+ },
+ "tagi": [
+  "wspólnota",
+  "służba",
+  "pokora",
+  "Wieczerza Pańska",
+  "pierwotny Kościół"
+ ],
+ "wersja": 1,
+ "zdanie": "Jezus nie odebrał nam pragnienia wielkości. Pokazał, że jej miejsce jest na kolanach, przy misce z wodą.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o kierunku. Świat uczy iść w górę, szczebel po szczeblu. Jezus bierze ręcznik, klęka przed uczniami i myje im nogi. Pierwsi chrześcijanie uznali tę drogę w dół za swoją. Wielkość mierzyli służbą, i to było widać z ulicy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole może siedzieć ktoś, kto nigdy nie widział obrzędu pokory, albo ktoś z innego Kościoła. Notka w bloku 3 wyjaśnia, co to jest. Mów o tym spokojnie i bez porównań.",
+      "Słowo „służba” bywa używane, żeby kogoś trzymać na dole. Ktoś przy stole może to znać z domu albo z pracy. Jezus schodzi w dół z wolnego wyboru. Tekst nie uczy zgody na krzywdę.",
+      "Rozmowa łatwo skręca w narzekanie na szefów, polityków albo przywódców. Za każdym razem wracaj do tekstu i do słów „między wami”.",
+      "Bose stopy bywają krępujące. Wstyd przy ciele to zwykła ludzka rzecz. Nikogo nie zawstydzaj."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie organizuj obmywania nóg bez zapowiedzi, nie oceniaj praktyki innych wyznań, nie rób z pokory zawodów.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie kogoś, kto zrobił dla ciebie coś, czego wcale nie musiał robić. Coś trochę poniżej swojej pozycji. Powiedz jednym zdaniem, co wtedy poczułeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi i nie dopytuj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Nikt nie wstał",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 13,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Przed świętem Paschy, Jezus, wiedząc, iż nadeszła godzina jego odejścia z tego świata do Ojca, umiłowawszy swoich, którzy byli na świecie, umiłował ich aż do końca. A podczas wieczerzy, gdy diabeł wzbudził w sercu Judasza, syna Szymona Iskarioty, zamysł wydania go, wiedząc, iż Ojciec wszystko dał mu w ręce i że od Boga wyszedł i do Boga odchodzi, wstał od wieczerzy, złożył szaty, a wziąwszy prześcieradło, przepasał się. Potem nalał wody do misy i począł umywać nogi uczniów i wycierać prześcieradłem, którym był przepasany."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jan dwa razy pisze, co Jezus wiedział. **Jak ta wiedza łączy się z tym, co zrobił chwilę później?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie wersety 4 i 5 powoli, czasownik po czasowniku. **Który z tych ruchów najbardziej was zaskakuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Nogi myło się przed posiłkiem, a tu wieczerza już trwa. **Co mogło dziać się przy stole, zanim Jezus wstał?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Na Bliskim Wschodzie gospodarz dawał gościom wodę do nóg. Samo mycie cudzych stóp należało do niewolników albo do kobiet w domu. Drogi były pyliste, a ludzie chodzili w sandałach. W tamtej sali nie było służby. Żaden z dwunastu się nie ruszył. Łukasz zapisuje, że tego wieczoru spierali się, kto z nich jest największy. Jezus wstaje w tę ciszę. Słowa „do końca” znaczą też „do ostatniej miary”.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Woda u wejścia do namiotu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 18,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem ukazał mu się Pan w dąbrowie Mamre, gdy siedział u wejścia do namiotu w skwarne południe. A podniósłszy oczy, ujrzał trzech mężów, którzy stanęli przed nim. Ujrzawszy ich, wybiegł od wejścia do namiotu na ich spotkanie i pokłoniwszy się aż do ziemi, rzekł: Panie, jeślim znalazł łaskę w oczach twoich, nie omijaj, proszę, sługi swego. Pozwól, by przyniesiono trochę wody, abyście obmyli nogi wasze; potem odpocznijcie pod drzewem. Przyniosę też kawałek chleba, abyście się posilili. Wszak po to wstąpiliście do sługi waszego. Potem możecie pójść dalej. Wtedy oni rzekli: Uczyń tak, jak powiedziałeś!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Abraham wybiega, kłania się i nazywa siebie sługą. **Co jego gościnność mówi o tym, jak widzi przybyszów?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Abraham każe przynieść wodę, a goście myją nogi sami. **Co w takim razie przekracza gest Jezusa?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W wersecie 4 Jezus „złożył” szaty. W wersecie 12 znów je bierze. Jan używa tu dwóch greckich czasowników, `tithēmi` i `lambanō`. Tych samych słów użył Jezus o swoim życiu w J 10,17-18. „Ja kładę życie swoje, aby je znowu wziąć”. Scena z miską opowiada więc w małym to, co za chwilę stanie się na krzyżu i przy pustym grobie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co ten zbieg słów dopowiada do sceny z ręcznikiem?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Piotr cofa nogi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 13,6-11",
+       "przeklad": "BW",
+       "akapity": [
+        "Podszedł też do Szymona Piotra, który mu rzekł: Panie, Ty miałbyś umywać moje nogi? Odpowiedział Jezus i rzekł mu: Co Ja czynię, ty nie wiesz teraz, ale się potem dowiesz. Rzecze mu Piotr: Przenigdy nie będziesz umywał nóg moich! Odpowiedział mu Jezus: Jeśli cię nie umyję, nie będziesz miał działu ze mną. Rzecze mu Szymon Piotr: Panie, nie tylko nogi moje, lecz i ręce, i głowę. Rzecze mu Jezus: Kto jest umyty, nie ma potrzeby myć się, chyba tylko nogi, bo czysty jest cały. I wy czyści jesteście, lecz nie wszyscy. Wiedział bowiem, kto go ma wydać; dlatego rzekł: Nie wszyscy jesteście czyści."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Piotr najpierw odmawia, a zaraz potem chce być umyty cały. **Co obie reakcje mówią o tym, jak widzi Jezusa i siebie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi, że bez tego umycia Piotr nie będzie miał z Nim działu. **Dlaczego przyjąć służbę bywa trudniej, niż ją dać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus wie, kto Go wyda, i myje nogi także jemu. **Co to mówi o Jego służbie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Judasz siedział przy tym samym stole. Jego stopy też zostały umyte. Gest wykonany przez samego Jezusa nie otworzył serca, które się zamknęło. Żaden obrzęd nie działa sam z siebie. Werset 10 mówi też coś pocieszającego. Kto jest już umyty, potrzebuje tylko obmyć nogi. Kurz drogi przylega każdego dnia, także do ludzi, którzy należą do Jezusa.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Wy także",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 13,12-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy więc umył nogi ich i przywdział szaty swoje, i znów usiadł, rzekł do nich: Czy wiecie, co wam uczyniłem? Wy nazywacie mnie Nauczycielem i Panem, i słusznie mówicie, bo jestem nim. Jeśli tedy Ja, Pan i Nauczyciel, umyłem nogi wasze, i wy winniście sobie nawzajem umywać nogi. Albowiem dałem wam przykład, byście i wy czynili, jak Ja wam uczyniłem. Zaprawdę, zaprawdę, powiadam wam: Sługa nie jest większy nad pana swego ani poseł nie jest większy od tego, który go posłał. Jeśli to wiecie, błogosławieni jesteście, gdy zgodnie z tym postępować będziecie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nie przestaje być Panem i Nauczycielem. Mówi to wprost w wersecie 13. **Jak w tej scenie władza i służba mieszczą się w jednej osobie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi „sobie nawzajem”. **Co zmienia to jedno słowo we wspólnocie, gdzie jedni zwykle usługują, a inni są obsługiwani?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Werset 17 wiąże błogosławieństwo z robieniem. **Dlaczego samo zrozumienie tej sceny nie wystarcza?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Wielu chrześcijan czyta ten tekst także dosłownie. W Kościele Adwentystów Dnia Siódmego przed Wieczerzą Pańską uczestnicy dobierają się w pary i myją sobie nawzajem nogi. Nazywa się to obrzędem pokory. Jest miska, woda, ręcznik i krótka modlitwa za osobę obok. Potem wszyscy wracają do wspólnego stołu z chlebem i kielichem. Obrzęd przypomina, że Chrystus nas oczyszcza. Uczy też służyć sobie wzajemnie. Przy misce każdy raz klęczy, a raz podaje stopy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Świętym nogi umywała",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paweł pisze do Tymoteusza, jak zbór w Efezie ma się troszczyć o starsze wdowy.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Tm 5,9-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Na listę wdów może być wciągnięta niewiasta licząca lat co najmniej sześćdziesiąt i raz tylko zamężna, mająca dobre imię z powodu szlachetnych uczynków: że dzieci wychowała, że gościny udzielała, że świętym nogi umywała, że prześladowanych wspomagała, że wszelkie dobre uczynki gorliwie pełniła."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wśród dobrych uczynków tej kobiety stoi mycie nóg świętym. **Co ta krótka wzmianka mówi o codziennym życiu pierwszych zborów?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Dlaczego ten gest stoi na liście obok gościnności i pomocy prześladowanym?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: gest czy postawa",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Czy Jezus ustanowił gest do powtarzania, czy pokazał postawę? Tekst mówi jedno i drugie. W wersecie 14 pada słowo „winniście”, czyli jesteście zobowiązani. W wersecie 15 pada słowo „przykład”.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Adwentyści biorą oba słowa naraz. Myją sobie nogi przed każdą Wieczerzą Pańską. Wiedzą też, że gest bez postawy jest pusty. W wielu innych Kościołach ten gest wraca raz w roku, w Wielki Czwartek. Inne wspólnoty widzą w tej scenie przede wszystkim wzór codziennej służby. Wszystkich łączy jedno przekonanie. Uczeń Jezusa nie stawia się ponad drugim człowiekiem.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co dzieje się z postawą, która nigdy nie przybiera widzialnego kształtu? Co dzieje się z gestem, za którym nie stoi serce?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Kto z nas największy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 10,35-45",
+       "przeklad": "BW",
+       "akapity": [
+        "I przystąpili do niego Jakub i Jan, dwaj synowie Zebedeusza, i rzekli: Nauczycielu, chcemy, abyś nam uczynił, o co cię prosić będziemy. A On rzekł do nich: Co chcecie, abym wam uczynił? A oni mu rzekli: Spraw nam to, abyśmy siedzieli w chwale twojej, jeden po prawicy twojej, a drugi po lewicy. A Jezus im powiedział: Nie wiecie, o co prosicie. Czy możecie pić kielich, który Ja piję albo być ochrzczeni tym chrztem, którym Ja jestem ochrzczony? Odpowiedzieli mu: Możemy. Wtedy Jezus rzekł im: Kielich, który ja piję, pić będziecie, i chrztem, którym jestem ochrzczony, zostaniecie ochrzczeni. Ale sprawić, abyście zasiadali po mojej prawicy czy lewicy, nie moja to rzecz; przypadnie to tym, którym zostało zgotowane.",
+        "Gdy to usłyszało dziesięciu, poczęli się oburzać na Jakuba i Jana. Ale Jezus przywoławszy ich, rzekł do nich: Wiecie, że ci, których uważa się za władców narodów, nadużywają swej władzy nad nimi, a możni ich rządzą nimi samowolnie. Lecz nie tak ma być między wami, ale ktokolwiek by chciał być między wami wielki, niech będzie sługą waszym. I ktokolwiek by chciał być między wami pierwszy, niech będzie sługą wszystkich. Albowiem Syn Człowieczy nie przyszedł, aby mu służono, lecz aby służyć i oddać swe życie na okup za wielu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Ten sam spór Łukasz zapisuje przy stole ostatniej wieczerzy.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 22,24-27",
+       "przeklad": "BW",
+       "akapity": [
+        "Powstał też spór między nimi o to, kto z nich ma uchodzić za największego. On zaś rzekł do nich: Królowie narodów panują nad nimi, a władcy ich są nazywani dobroczyńcami. Wy zaś nie tak, lecz kto jest największy wśród was, niech będzie jako najmniejszy, a ten, który przewodzi, niech będzie jako usługujący. Któż bowiem jest większy? Czy ten, który u stołu zasiada, czy ten, który usługuje? Czy nie ten, który u stołu zasiada? Lecz Ja jestem wśród was jako ten, który usługuje."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jakub i Jan proszą o miejsca po prawicy i po lewicy. Dziesięciu się oburza. **Co to oburzenie zdradza o pozostałych uczniach?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus opisuje, jak rządzą władcy narodów, i mówi „nie tak ma być między wami”. **Co konkretnie ma wyglądać inaczej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Spór wraca przy ostatniej wieczerzy, po trzech latach z Jezusem. **Dlaczego ta sprawa tak trudno w ludziach umiera?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Władcy tamtego świata lubili tytuł dobroczyńcy. Bogaci fundowali łaźnie, świątynie i posągi. Swoje dary kazali potem wykuwać w kamieniu. Pozycję kupowało się hojnością i pokazywało publicznie. Jezus nie odbiera uczniom pragnienia wielkości. Pokazuje do niej inną drogę. U Marka po prawicy i po lewicy Jezusa stanęli potem dwaj ukrzyżowani złoczyńcy. Tak wyglądał tron, o który prosili dwaj bracia.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Wyścig w drugą stronę",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 12,10-13",
+       "przeklad": "BW",
+       "akapity": [
+        "Miłością braterską jedni drugich miłujcie, wyprzedzajcie się wzajemnie w okazywaniu szacunku, w gorliwości nie ustawając, płomienni duchem, Panu służcie, w nadziei radośni, w ucisku cierpliwi, w modlitwie wytrwali; wspierajcie świętych w potrzebach, okazujcie gościnność."
+       ]
+      },
+      {
+       "odnosnik": "Ga 5,13",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo wy do wolności powołani zostaliście, bracia; tylko pod pozorem tej wolności nie pobłażajcie ciału, ale służcie jedni drugim w miłości."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł zostawia rywalizację, tylko zmienia jej cel. Wyprzedzać się mamy w okazywaniu szacunku. **Jak wyglądałby taki wyścig w zwykłym tygodniu wspólnoty?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł łączy służbę z wolnością. **Jak te dwie rzeczy mogą iść razem, skoro zwykle stawiamy je naprzeciw siebie?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Marek używa dwóch słów o służbie. W wersecie 43 wielki ma być `diakonos`, czyli ten, kto usługuje przy stole. W wersecie 44 pierwszy ma być `doulos`, czyli niewolnik, i to niewolnik wszystkich. Drugie słowo jest ostrzejsze od pierwszego. Im wyżej ktoś chce stanąć, tym niżej go Jezus posyła.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Werset 45 dodaje słowo `lytron`, w BW „okup”. Pochodzi z rynku niewolników i oznaczało cenę, za którą ktoś wychodził na wolność. Ten, który sam stał się sługą, płaci własnym życiem za wolność innych.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia się w słowach o służbie, gdy czyta się je obok słowa o okupie?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Droga w dół",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Flp 2,3-11",
+       "przeklad": "BW",
+       "akapity": [
+        "I nie czyńcie nic z kłótliwości ani przez wzgląd na próżną chwałę, lecz w pokorze uważajcie jedni drugich za wyższych od siebie. Niechaj każdy baczy nie tylko na to, co jego, lecz i na to, co cudze. Takiego bądźcie względem siebie usposobienia, jakie było w Chrystusie Jezusie, który chociaż był w postaci Bożej, nie upierał się zachłannie przy tym, aby być równym Bogu, lecz wyparł się samego siebie, przyjął postać sługi i stał się podobny ludziom; a okazawszy się z postawy człowiekiem, uniżył samego siebie i był posłuszny aż do śmierci, i to do śmierci krzyżowej. Dlatego też Bóg wielce go wywyższył i obdarzył go imieniem, które jest ponad wszelkie imię, aby na imię Jezusa zginało się wszelkie kolano na niebie i na ziemi, i pod ziemią i aby wszelki język wyznawał, że Jezus Chrystus jest Panem, ku chwale Boga Ojca."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przejdźcie przez wersety 6-8 i nazwijcie kolejne stopnie w dół. **Gdzie ta droga się kończy i co czyni ją tak głęboką?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł zaczyna od kłótni i próżnej chwały w zborze, a potem śpiewa o Chrystusie. **Po co w liście o zwykłych sporach taki hymn?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Wywyższenie przychodzi dopiero w wersecie 9 i daje je Bóg. **Co się dzieje z człowiekiem, który przestaje wywyższać się sam?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Filippi było rzymską kolonią i żyło rzymskim porządkiem czci. Każdy znał swoje miejsce w tym rankingu. Po stroju widać było, komu należy się więcej szacunku. Kariera szła po drabinie urzędów, szczebel po szczeblu, a zasługi wypisywano na kamieniu. Hymn o Chrystusie biegnie w przeciwną stronę. Zaczyna od równości z Bogiem i schodzi do postaci sługi. Kończy na krzyżu, najbardziej haniebnej śmierci tamtego świata. W takim mieście wezwanie, by uważać drugiego za wyższego od siebie, brzmiało wywrotowo.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Taki jak Tymoteusz",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Flp 2,19-22",
+       "przeklad": "BW",
+       "akapity": [
+        "A mam nadzieję w Panu Jezusie, że rychło poślę do was Tymoteusza, abym i ja się ucieszył, dowiedziawszy się, co się z wami dzieje. Albowiem nie mam drugiego takiego, który by się tak szczerze troszczył o was; bo wszyscy inni szukają swego, a nie tego, co jest Chrystusa Jezusa. Wszak wiecie, że jest on wypróbowany, gdyż jak dziecię ojcu, tak on ze mną służył ewangelii."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zaraz po hymnie Paweł pisze o konkretnym człowieku. **Po czym widać, że Tymoteusz ma w sobie to samo usposobienie co Chrystus?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Wszyscy inni szukają swego”. **Po czym w zwykłym tygodniu poznajesz, że szukasz swego?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W wersecie 6 stoi rzadkie greckie słowo `harpagmos`. Oznacza coś, co można wykorzystać dla własnej korzyści. Chrystus był Bogiem i nie użył tego dla siebie. W wersecie 7 BW pisze „wyparł się samego siebie”. Grecki czasownik `ekenōsen` znaczy dosłownie „ogołocił się”. Chrystus nie zostawił bóstwa w niebie. Pozostał Bogiem w ludzkim ciele. Ogołocenie polegało na przyjęciu postaci sługi, `morphē doulou`. To samo słowo `doulos` stoi w Mk 10,44.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co znaczy dla nas, że Jezus miał wszystko i nie wykorzystał tego dla siebie?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdzie w twoim tygodniu czekasz, aż ktoś inny wstanie od stołu i weźmie ręcznik?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Od kogo najtrudniej byłoby ci przyjąć pomoc i co to mówi o tobie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**W której sprawie ciągnie cię dziś w górę, choć czujesz, że Jezus zaprasza w dół?** Odpowiedz, jeśli chcesz się tym podzielić.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus każe pierwszemu być sługą wszystkich. Każda wspólnota potrzebuje jednak ludzi, którzy prowadzą i decydują. **Jak prowadzić i przy tym się nie wspinać? Jak służyć i przy tym nie znikać?**",
+     "poziom": 3
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Dla prowadzącego. Nie ma tu jednej odpowiedzi i nie próbuj jej wyprodukować. Warto, żeby padło spostrzeżenie z Łk 22,26. Jezus nie znosi przewodzenia. Odwraca jego kierunek.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Jezus nie odebrał nam pragnienia wielkości. Pokazał, że jej miejsce jest na kolanach, przy misce z wodą.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Mk 10,45 albo J 13,14.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o jednej osobie, której służysz niechętnie albo wcale. Zapytaj siebie, co stoi między tobą a ręcznikiem. Duma, zmęczenie, dawny żal, a może coś jeszcze.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zauważ w tym tygodniu chwile, w których w myślach liczysz, kto jest wyżej, a kto niżej. Nie oceniaj się za to. Przynieś te chwile Bogu tak, jak są.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Pozwól komuś zrobić coś dla ciebie, choć mógłbyś zrobić to sam. Przyjrzyj się, co wtedy dzieje się w tobie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Czy jako gość mogę wziąć udział w takim obrzędzie?”** Tak, jeśli wierzysz w Jezusa i tego pragniesz. W zborach adwentystycznych do obmycia nóg i do Wieczerzy Pańskiej może przystąpić każdy wierzący. Nikt nie musi. Można też po prostu przyjść i być obok.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„U nas robi się to inaczej” albo „To przesada”.** Nie wchodź w porównania. Powiedz, że grupa czyta dziś tekst Jana i że każda wspólnota odpowiada na niego po swojemu. Wróć do pytania, co ten tekst robi z nami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Służba to ładne słowo, ale mnie wykorzystują.”** Potraktuj to poważnie. Jezus schodzi w dół z wolnego wyboru i wie, kim jest, jak mówi J 13,3. Pokora nie oznacza zgody na przemoc ani na poniżanie. Jeśli ktoś mówi o przemocy w domu albo w pracy, porozmawiaj z nim po spotkaniu i nie zostawaj z tym sam. Pomoc specjalistyczna jest wtedy konieczna. Telefon zaufania dla dorosłych w kryzysie to 116 123, numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa zamienia się w narzekanie na szefów, przywódców albo polityków.** Zgódź się, że władza bywa nadużywana, bo tekst to mówi. Potem wróć do słów „między wami”. Jezus mówi to do uczniów. Pytanie brzmi, co z tym zrobię ja.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś czuje się zawstydzony samą myślą o bosych stopach.** To normalne. Piotr też cofał nogi. Nikogo nie namawiaj i nie żartuj z tego.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu, zanim cokolwiek dodasz. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa rozkręca się tak, że nie zdążycie z materiałem.** Zostaw blok 2 i idź do bloku 3, a potem do bloku 5. Bez bloku 5 spotkanie traci swój kierunek.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Czy jako gość mogę wziąć udział w takim obrzędzie?”",
+     "odpowiedz": "Tak, jeśli wierzysz w Jezusa i tego pragniesz. W zborach adwentystycznych do obmycia nóg i do Wieczerzy Pańskiej może przystąpić każdy wierzący. Nikt nie musi. Można też po prostu przyjść i być obok."
+    },
+    {
+     "sytuacja": "„U nas robi się to inaczej” albo „To przesada”.",
+     "odpowiedz": "Nie wchodź w porównania. Powiedz, że grupa czyta dziś tekst Jana i że każda wspólnota odpowiada na niego po swojemu. Wróć do pytania, co ten tekst robi z nami."
+    },
+    {
+     "sytuacja": "„Służba to ładne słowo, ale mnie wykorzystują.”",
+     "odpowiedz": "Potraktuj to poważnie. Jezus schodzi w dół z wolnego wyboru i wie, kim jest, jak mówi J 13,3. Pokora nie oznacza zgody na przemoc ani na poniżanie. Jeśli ktoś mówi o przemocy w domu albo w pracy, porozmawiaj z nim po spotkaniu i nie zostawaj z tym sam. Pomoc specjalistyczna jest wtedy konieczna. Telefon zaufania dla dorosłych w kryzysie to 116 123, numer alarmowy 112."
+    },
+    {
+     "sytuacja": "Rozmowa zamienia się w narzekanie na szefów, przywódców albo polityków.",
+     "odpowiedz": "Zgódź się, że władza bywa nadużywana, bo tekst to mówi. Potem wróć do słów „między wami”. Jezus mówi to do uczniów. Pytanie brzmi, co z tym zrobię ja."
+    },
+    {
+     "sytuacja": "Ktoś czuje się zawstydzony samą myślą o bosych stopach.",
+     "odpowiedz": "To normalne. Piotr też cofał nogi. Nikogo nie namawiaj i nie żartuj z tego."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu, zanim cokolwiek dodasz. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Rozmowa rozkręca się tak, że nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 2 i idź do bloku 3, a potem do bloku 5. Bez bloku 5 spotkanie traci swój kierunek."
+    }
+   ]
+  }
+ ]
+}

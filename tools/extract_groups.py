@@ -46,6 +46,7 @@ SERIE = [
     ("P", "Pytania, które ludzie zadają", "Dwanaście pytań, z którymi przychodzą ludzie szukający: cierpienie, śmierć, zaufanie do Biblii, Kościół."),
     ("K", "Kryzysy i przełomy życia", "Osiem spotkań dla ludzi, którym coś się zawaliło: żałoba, choroba, rozpad małżeństwa, zaczynanie od nowa."),
     ("S", "Szabat jako dar", "Pięć spotkań od zmęczenia do odpoczynku, który Bóg wpisał w tydzień."),
+    ("PK", "Sekret pierwotnego kościoła", "Siedem spotkań o tym, co pierwsi chrześcijanie mieli wspólnego i dlaczego sąsiedzi to czuli."),
     ("PJ", "Przypowieści Jezusa", "Każda przypowieść to zamknięte spotkanie. Można zacząć w dowolnym miejscu."),
     ("D", "Księga Daniela", "Dwanaście spotkań rozdział po rozdziale: wierność na obczyźnie i Bóg, który prowadzi historię."),
 ]

@@ -1,0 +1,812 @@
+{
+ "tytul": "Byli z Jezusem",
+ "id": "PK-02",
+ "seria": "Sekret pierwotnego kościoła",
+ "opis": "Skąd prości ludzie mieli życie, które zadziwiało sąd i miasto, i czego nauczyli się przy stole Jezusa.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Dz 4,8-10.13-14; Mk 3,13-15; Łk 5,27-32; Łk 19,1-10; J 15,4-5.9-11",
+  "p2": "Dz 3,1-8; Dz 1,21-22; Łk 15,1-2; Dz 11,2-3; Dz 9,26-28; J 14,16-18.23",
+  "p3": "Mk 14,50; 1J 2,6; 2Kor 3,18"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 29
+ },
+ "tagi": [
+  "kościół",
+  "wspólnota",
+  "uczniostwo",
+  "stół",
+  "gościnność",
+  "Duch Święty"
+ ],
+ "wersja": 1,
+ "zdanie": "Kto jest blisko Jezusa, zaczyna mieć Jego nawyki. Widać to przy stole.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Po uzdrowieniu chromego Piotr i Jan stają przed najwyższym sądem swojego narodu. Sędziowie widzą ludzi bez wykształcenia i bez pozycji. A jednak coś w nich rozpoznają. Łukasz ujmuje to krótko. Poznali, że byli z Jezusem. To spotkanie pyta, skąd się to wzięło. Uczniowie przez trzy lata siedzieli z Jezusem przy stole i chodzili z Nim po drogach. Widzieli, do kogo idzie i z kim je. Jego nawyki weszły w nich i nie ustały po Jego odejściu. Grecki Nowy Testament ma na taki wspólny udział w jednym życiu słowo `koinonia`, czyli społeczność, współudział. Zaczyna się od bycia z Jezusem, a potem rozlewa się na ludzi wokół.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole może poczuć, że to spotkanie jest dla „lepszych chrześcijan\", którzy mają czas na modlitwę i Biblię. Tekst mówi o rybakach i celniku. Warto to podkreślić.",
+      "Uczta u Lewiego i dom Zacheusza łatwo zamieniają się w krytykę zboru, który „nie jada z grzesznikami\". Wracaj do pytania, co Jezus robi, zanim ktokolwiek oceni innych.",
+      "Przy stole może siedzieć ktoś, kto sam czuje się jak celnik z tej historii. Nie nazywaj nikogo grzesznikiem ani „tym, do którego trzeba wyjść\".",
+      "Trwanie w winorośli brzmi dla niektórych jak kolejne zadanie do wykonania. Tekst mówi o gałęzi, która nie produkuje owocu na siłę."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie oceniaj, kto z obecnych „był z Jezusem\", a kto nie. Nie porównuj tej grupy ze zborem ani z innymi Kościołami. Nie zamieniaj spotkania w plan duszpasterski.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o kimś, z kim spędziłeś dużo czasu i kto coś w tobie zostawił. Może to być gest, powiedzenie, sposób witania ludzi. Powiedz krótko, co po nim masz.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi i nie dopytuj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Sąd widzi coś, czego się nie spodziewał",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Piotr i Jan uzdrowili w świątyni człowieka chromego od urodzenia. Nazajutrz stoją przed Radą Najwyższą, czyli Sanhedrynem. Sąd pyta, jaką mocą to zrobili.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 4,8-10.13-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Piotr, pełen Ducha Świętego, rzekł do nich: Przełożeni ludu i starsi! Jeżeli my dziś jesteśmy przesłuchiwani z powodu dobrodziejstwa wyświadczonego człowiekowi choremu, dzięki czemu został on uzdrowiony, to niech wam wszystkim i całemu ludowi izraelskiemu wiadome będzie, że stało się to w imieniu Jezusa Chrystusa Nazareńskiego, którego wy ukrzyżowaliście, którego Bóg wzbudził z martwych; dzięki niemu ten oto stoi zdrów przed wami. [...]",
+        "A widząc odwagę Piotra i Jana i wiedząc, że to ludzie nieuczeni i prości, dziwili się; poznali ich też, że byli z Jezusem; patrząc zaś na człowieka uzdrowionego, który stał z nimi, nie wiedzieli co odpowiedzieć."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Sędziowie widzą w Piotrze i Janie trzy rzeczy naraz. **Co w wersecie 13 ich dziwi? Po czym rozpoznają, z kim ci ludzie przebywali?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rada Najwyższa ma wykształcenie, władzę i salę sądową. **Co takiego mają dwaj rybacy, czego ci sędziowie nie potrafią zbyć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Uzdrowiony człowiek po prostu stoi obok apostołów. **Co mówi jego obecność, zanim ktokolwiek otworzy usta?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Sędziowie nie mogli podważyć uzdrowienia, bo uzdrowiony stał przed nimi. Świadek, którego wezwano na oskarżenie, stał się najmocniejszym świadkiem obrony. Łukasz dodaje, że ten człowiek stał „z nimi\". Nie za nimi i nie z boku. Kilka tygodni wcześniej ci sami sędziowie skazali Jezusa. Teraz widzą Jego nawyki w dwóch prostych ludziach z Galilei.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Co widzieli, to robią",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 3,1-8",
+       "przeklad": "BW",
+       "akapity": [
+        "A Piotr i Jan wstępowali do świątyni w godzinie modlitwy, o dziewiątej. I niesiono pewnego męża, chromego od urodzenia, którego sadzano codziennie przy bramie świątyni, zwanej Piękną, aby prosił wchodzących do świątyni o jałmużnę; ten, ujrzawszy Piotra i Jana, gdy mieli wejść do świątyni, prosił o jałmużnę. A Piotr wraz z Janem, wpatrzywszy się uważnie w niego rzekł: Spójrz na nas. On zaś spojrzał na nich uważnie, spodziewając się, że od nich coś otrzyma. I rzekł Piotr: Srebra i złota nie mam, lecz co mam, to ci daję: W imieniu Jezusa Chrystusa Nazareńskiego, chodź! I ująwszy go za prawą rękę, podniósł go; natychmiast też wzmocniły się nogi jego i kostki, i zerwawszy się, stanął i chodził, i wszedł z nimi do świątyni, przechadzając się i podskakując, i chwaląc Boga."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Tłum codziennie mijał tego człowieka przy bramie. **Co Piotr i Jan robią inaczej, zanim w ogóle padnie słowo o uzdrowieniu?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Marek pisze o Jezusie, że ujął teściową Piotra za rękę i podniósł ją. Piotr to widział. **Gdzie w tej scenie widać, że uczeń powtarza gest swojego Nauczyciela?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Sanhedryn nazywa apostołów `agrammatoi` i `idiōtai`. Pierwsze słowo znaczy „bez wykształcenia w piśmie\", czyli bez szkoły u uczonych. Drugie oznaczało człowieka prywatnego, bez urzędu i bez fachu. Nie znaczy „głupi\". W tamtym świecie przepaść między miastem a wsią była ogromna. Wykształcony człowiek ze wsi budził zdziwienie elit jak osobliwość. Tym bardziej uderza, że sąd nie szuka źródła ich odwagi w szkole. Znajduje je w osobie.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Najpierw z Nim",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 3,13-15",
+       "przeklad": "BW",
+       "akapity": [
+        "I wstąpił na górę, i wezwał tych, których sam chciał, a oni przyszli do niego. I powołał ich dwunastu, żeby z nim byli i żeby ich wysłać na zwiastowanie ewangelii, i żeby mieli moc wypędzać demony."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Marek podaje trzy powody powołania Dwunastu. **Który stoi pierwszy i co zmienia ta kolejność?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Wezwał tych, których sam chciał\". **Co to zdanie mówi o tym, od kogo zaczyna się ta wspólnota?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Wśród Dwunastu są rybacy, celnik i Szymon zwany Gorliwym. **Co musiało się dziać, kiedy tacy ludzie mieli po prostu „z nim być\" przez długie miesiące?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W tamtych czasach uczeń zwykle sam szukał sobie nauczyciela i prosił o przyjęcie. Jezus robi odwrotnie. Wychodzi pierwszy i woła. Zanim uczniowie cokolwiek zrobią dla Niego, mają być z Nim. Obecność idzie przed misją. To Jezus przemienia ucznia. Uczeń nie przerabia siebie, żeby zasłużyć na miejsce obok.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Kryterium apostoła",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Po odejściu Judasza Piotr mówi, kogo trzeba wybrać na jego miejsce.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 1,21-22",
+       "przeklad": "BW",
+       "akapity": [
+        "Trzeba więc, aby jeden z tych mężów, którzy chodzili z nami przez cały czas, kiedy Pan Jezus przebywał między nami, począwszy od chrztu Jana, aż do dnia, w którym od nas został wzięty w górę, stał się wraz z nami świadkiem jego zmartwychwstania."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr nie pyta o wykształcenie, zdolności ani wymowę. **Dlaczego jedynym warunkiem jest to, że ktoś „chodził z nami przez cały czas\"?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Stół u celnika",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 5,27-32",
+       "przeklad": "BW",
+       "akapity": [
+        "A potem wyszedł i ujrzał celnika, imieniem Lewi, siedzącego przy cle. I rzekł do niego: Pójdź za mną. I pozostawiwszy wszystko, wstał i poszedł za nim. A Lewi wyprawił wielkie przyjęcie dla niego w domu swoim. I była liczna rzesza celników oraz innych, którzy zasiedli wraz z nimi do stołu. I szemrali faryzeusze i ich uczeni w Piśmie, mówiąc do uczniów jego: Dlaczego z celnikami i grzesznikami jecie i pijecie? A Jezus odpowiadając, rzekł do nich: Nie potrzebują zdrowi lekarza, lecz ci, którzy się źle mają. Nie przyszedłem wzywać do upamiętania sprawiedliwych, lecz grzesznych."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Pierwsza rzecz, którą Lewi robi po powołaniu, to przyjęcie w domu. **Kogo zaprasza i co to mówi o tym, co właśnie przeżył?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Faryzeusze kierują pytanie do uczniów. Mówią „jecie i pijecie\". **Czego uczniowie uczą się w tej chwili, siedząc przy tym stole?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus opisuje siebie jako lekarza. **Gdzie lekarz musi być, żeby leczyć, i co z tego wynika dla Jego uczniów?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W pierwszym wieku wspólny posiłek nie był zwykłym towarzystwem przy jedzeniu. Kto z kimś jadł, ten go przyjmował i wiązał się z nim. Dlatego zarzut był poważny. Celnik pobierał opłaty dla obcej władzy i uchodził za zdrajcę. Lewi zostawił dochodowe zajęcie i od razu zaprosił kolegów z branży, żeby i oni poznali Jezusa. Stół był dla nich pierwszymi drzwiami.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ten sam zarzut, inny adresat",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 15,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "A zbliżali się do niego wszyscy celnicy i grzesznicy, aby go słuchać. Faryzeusze zaś i uczeni w Piśmie szemrali i mówili: Ten grzeszników przyjmuje i jada z nimi."
+       ]
+      },
+      {
+       "odnosnik": "Dz 11,2-3",
+       "przeklad": "BW",
+       "akapity": [
+        "Kiedy zaś Piotr przybył do Jerozolimy, stawiali mu zarzuty rodowici Żydzi, mówiąc: Poszedłeś do mężów nieobrzezanych i jadłeś z nimi."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Piotr wraca z domu rzymskiego setnika Korneliusza w Cezarei, gdzie jadł przy jednym stole z poganami.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zestawcie oba zarzuty słowo po słowie. **Co się zmieniło, a co zostało takie samo?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Kilka lat wcześniej to Piotr siedział przy stole u Lewiego. **Skąd wziął odwagę, żeby teraz samemu usiąść przy stole, który innych gorszy?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Muszę być w twoim domu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 19,1-10",
+       "przeklad": "BW",
+       "akapity": [
+        "I wszedłszy do Jerycha, przechodził przez nie. A oto mąż, imieniem Zacheusz, przełożony nad celnikami, człowiek bogaty, pragnął widzieć Jezusa, kto to jest, lecz nie mógł z powodu tłumu, gdyż był małego wzrostu. Pobiegł więc naprzód i wszedł na drzewo sykomory, aby go ujrzeć, bo tamtędy miał przechodzić. A gdy Jezus przybył na to miejsce, spojrzał w górę i rzekł do niego: Zacheuszu, zejdź śpiesznie, gdyż dziś muszę się zatrzymać w twoim domu. I zszedł śpiesznie, i przyjął go z radością. A widząc to, wszyscy szemrali, mówiąc: Do człowieka grzesznego przybył w gościnę. Zacheusz zaś stanął i rzekł do Pana: Panie, oto połowę majątku mojego daję ubogim, a jeśli na kim co wymusiłem, jestem gotów oddać w czwórnasób. A Jezus rzekł do niego: Dziś zbawienie stało się udziałem domu tego, ponieważ i on jest synem Abrahamowym. Przyszedł bowiem Syn Człowieczy, aby szukać i zbawić to, co zginęło."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Prześledźcie kolejność. **Co jest pierwsze, zaproszenie Jezusa czy zmiana Zacheusza, i dlaczego to ma znaczenie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi „muszę\", zanim Zacheusz powie cokolwiek o sobie. **Co to słowo zdradza o tym, czego Jezus szuka w Jerychu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Wszyscy szemrali\". Wśród tych wszystkich mogli być też uczniowie. **Co musieli przemyśleć, idąc za Jezusem do tego domu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Tamten świat ostrożności stał na jednym założeniu. Nieczyste kala czyste, a świętość się nie przenosi. Dlatego pobożny człowiek trzymał się z dala od celnika. Zamieszkać u takiego kogoś znaczyło wziąć udział w jego grzechu. W domu Zacheusza dzieje się odwrotnie. To świętość Jezusa przechodzi na gospodarza. Zacheusz sam wybiera najsurowszą miarę zwrotu, jaką znało Prawo, i dokłada połowę majątku dla ubogich.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Barnaba",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Kilka lat po wniebowstąpieniu Szaweł, dotąd prześladowca kościoła, przychodzi do Jerozolimy jako uczeń.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 9,26-28",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy przybył do Jerozolimy, starał się przyłączyć do uczniów, ale wszyscy się go bali, nie wierząc, że jest uczniem. Lecz Barnaba zabrał go, zaprowadził do apostołów i opowiedział im, jak w drodze ujrzał Pana i że do niego mówił, i jak w Damaszku nauczał śmiało w imieniu Jezusa. I przestawał z nimi, poruszając się swobodnie w Jerozolimie i występując śmiało w imieniu Pana."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Uczniowie boją się Szawła i mają ku temu dobre powody. **Czym Barnaba przypomina Jezusa pod sykomorą?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ostatnie zdanie mówi, że Szaweł „przestawał z nimi\". **Co zmieniło się dla niego dopiero wtedy, gdy mógł po prostu z nimi być?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Gałąź, która zostaje",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Ostatni wieczór przed męką. Jezus mówi uczniom, że odchodzi, i opisuje, jak ma wyglądać ich życie bez Jego widzialnej obecności.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 15,4-5",
+       "przeklad": "BW",
+       "akapity": [
+        "trwajcie we mnie, a Ja w was. Jak latorośl sama z siebie nie może wydawać owocu, jeśli nie trwa w krzewie winnym, tak i wy, jeśli we mnie trwać nie będziecie. Ja jestem krzewem winnym, wy jesteście latoroślami. Kto trwa we mnie, a Ja w nim, ten wydaje wiele owocu; bo beze mnie nic uczynić nie możecie."
+       ]
+      },
+      {
+       "odnosnik": "J 15,9-11",
+       "przeklad": "BW",
+       "akapity": [
+        "Jak mnie umiłował Ojciec, tak i Ja was umiłowałem; trwajcie w miłości mojej. Jeśli przykazań moich przestrzegać będziecie, trwać będziecie w miłości mojej, jak i Ja przestrzegałem przykazań Ojca mego i trwam w miłości jego. To wam powiedziałem, aby radość moja była w was i aby radość wasza była zupełna."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przez trzy lata uczniowie byli z Jezusem w drodze i przy stole. **Jak według tego obrazu bycie razem ma trwać, kiedy On odejdzie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Gałąź niczego nie produkuje na siłę. **Co w takim razie robi, żeby wydać owoc, i jak to brzmi dla kogoś zmęczonego staraniem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus zaczyna od miłości Ojca, a kończy na radości uczniów. **Jaką drogę przechodzi ta miłość w wersetach 9-11?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Winorośl była w Starym Testamencie obrazem Izraela. Nad wejściem do świątyni w Jerozolimie wisiał wielki złoty krzew winny, do którego darczyńcy dokładali kolejne grona. Uczniowie znali ten widok. Jezus mówi tej nocy, że prawdziwym krzewem jest On sam. Kto trwa w Nim, należy do ludu Bożego. Przyjaźń z Nim, o której mówi dalej w tym rozdziale, rośnie z tego trwania.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie zostawię was sierotami",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 14,16",
+       "przeklad": "BW",
+       "akapity": [
+        "Ja prosić będę Ojca i da wam innego Pocieszyciela, aby był z wami na wieki"
+       ]
+      },
+      {
+       "odnosnik": "J 14,17-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Ducha prawdy, którego świat przyjąć nie może, bo go nie widzi i nie zna; wy go znacie, bo przebywa wśród was i w was będzie. Nie zostawię was sierotami, przyjdę do was."
+       ]
+      },
+      {
+       "odnosnik": "J 14,23",
+       "przeklad": "BW",
+       "akapity": [
+        "Odpowiedział Jezus i rzekł mu: Jeśli kto mnie miłuje, słowa mojego przestrzegać będzie, i Ojciec mój umiłuje go, i do niego przyjdziemy, i u niego zamieszkamy."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus odchodzi, a obiecuje, że przyjdzie. **Jak Jego obecność zmienia się po odejściu i co zostaje takie samo?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wróćcie do Sanhedrynu. **Skąd Piotr wziął odwagę, skoro Jezusa od tygodni nie było już przy nim w ciele?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jan gra jednym słowem przez dwa rozdziały. Czasownik `menō` znaczy „trwać, zostać, mieszkać\". Od tego samego rdzenia pochodzi rzeczownik `monē`, czyli „mieszkanie\". W domu Ojca jest wiele mieszkań, jak czytamy w J 14,2. Ojciec i Syn zamieszkają u tego, kto kocha, według J 14,23. Uczniowie mają trwać w krzewie, jak w J 15,4. To jeden obraz w trzech kierunkach. Dom czeka na uczniów. Bóg wprowadza się do nich. Gałąź zostaje przy krzewie. Bycie z Jezusem nie skończyło się na trzech latach w Galilei. Zmieniło adres.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: naśladować czy trwać",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mk 14,50",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy wszyscy go opuścili i uciekli."
+       ]
+      },
+      {
+       "odnosnik": "1J 2,6",
+       "przeklad": "BW",
+       "akapity": [
+        "Kto mówi, że w nim mieszka, powinien sam tak postępować, jak On postępował."
+       ]
+      },
+      {
+       "odnosnik": "2Kor 3,18",
+       "przeklad": "BW",
+       "akapity": [
+        "My wszyscy tedy, z odsłoniętym obliczem, oglądając jak w zwierciadle chwałę Pana, zostajemy przemienieni w ten sam obraz, z chwały w chwałę, jak to sprawia Pan, który jest Duchem."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Trzy lata z Jezusem nie uchroniły uczniów przed ucieczką w noc pojmania. Odwaga przed Sanhedrynem przyszła później, po zesłaniu Ducha. W Kościele słychać dwa akcenty. Jedni mówią, że trzeba patrzeć na Jezusa i postępować jak On. Jan pisze to wprost. Drudzy przypominają, że samo kopiowanie wzoru z daleka nie działa, bo przemiana jest dziełem Ducha. Paweł mówi, że zostajemy przemienieni. Oba akcenty łączy jedno. Uczniowie nie mieli być kopiami Jezusa. Mieli być Jego bliskimi towarzyszami, którzy do Niego upodabniają się przez bliskość.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jan mówi „postępować jak On\", Paweł „zostajemy przemienieni\". **Jak te dwa zdania pracują razem w życiu jednego człowieka?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ludzie przejmują nawyki tych, z którymi spędzają czas. **Czyje nawyki widzisz dziś u siebie najwyraźniej i skąd się wzięły?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus jadł z ludźmi, z którymi inni nie chcieli siedzieć. **Kto w twoim otoczeniu mógłby się zdziwić, gdybyś zaprosił go do stołu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, opowiedz. **Gdzie ostatnio po prostu byłeś z Jezusem, bez zadania do wykonania?** A jeśli dawno tego nie było, co ci przeszkadza?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Sąd rozpoznał w Piotrze i Janie, że byli z Jezusem. My nie chodziliśmy z Nim po Galilei. **Po czym dziś ktoś obcy mógłby poznać, że jakaś wspólnota była z Jezusem? I czy da się to zobaczyć w jednym człowieku, czy dopiero w ludziach razem?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie zamyka tego pytania. Warto, żeby padło, że sąd widział dwóch ludzi i uzdrowionego obok nich. Jednego bohatera tam nie było.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Kto jest blisko Jezusa, zaczyna mieć Jego nawyki. Widać to przy stole.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Mk 3,14 albo J 15,4.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o jednym ze swoich dni. **Ile w nim było chwil z Jezusem, a ile takich, kiedy tylko coś dla Niego robiłeś?** Nie oceniaj tego. Po prostu to zauważ.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przypomnij sobie osobę, obok której nie chcesz siedzieć. Zapytaj Boga, **co widzi w niej Jezus, kiedy patrzy w górę na jej sykomorę.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** zapytaj kogoś bliskiego, co w twoim sposobie bycia przypomina mu Jezusa, a co nie. Wysłuchaj bez tłumaczenia się.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Oni mieli łatwo. Widzieli Go na własne oczy.\"** Przyznaj, że to prawdziwa różnica. Potem pokaż Mk 14,50. Ci, którzy widzieli Go na własne oczy, uciekli w noc pojmania. Odwagę przed Sanhedrynem dała im obecność Ducha, którą Jezus obiecał w J 14. Ta obietnica jest dla wszystkich.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„W naszym zborze nikt by nie usiadł z Zacheuszem.\"** Nie wchodź w ocenę zboru ani konkretnych ludzi. Zapytaj grupę, kto z nas siedział ostatnio przy takim stole. Tekst pyta najpierw mnie, dopiero potem innych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna wymieniać z imienia ludzi, którzy są „celnikami\" w jego otoczeniu.** Przerwij łagodnie. Łukasz nazywa Zacheusza grzesznikiem ustami tłumu, który szemrze. Jezus nazywa go synem Abrahamowym. Rozmawiamy o tym, jak my patrzymy. Cudze grzechy zostawiamy Bogu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli mam się starać bardziej trwać?\"** Wróć do obrazu gałęzi. Gałąź trwa, bo jest przyrośnięta. Wysiłek niczego tu nie dokłada. Trwanie to zostanie blisko. Nie jest to kolejny obowiązek do odhaczenia.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś czyta dalej J 15,6 i pyta o ogień.** Nie omijaj tego pytania. Zarazem nie rób z niego tematu spotkania. Werset mówi o gałęzi, która sama odłączyła się od krzewu. Dzisiejszy nacisk tekstu leży na zaproszeniu, żeby zostać. Jeśli pytanie wraca, zaproponuj osobną rozmowę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa rozkręca się tak, że nie zdążycie z materiałem.** Zostaw blok 3, idź prosto do bloku 4 i bloku 5. Blok 5 odpowiada na pytanie, jak bycie z Jezusem trwa dziś, i bez niego spotkanie zostaje w przeszłości.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Oni mieli łatwo. Widzieli Go na własne oczy.\"",
+     "odpowiedz": "Przyznaj, że to prawdziwa różnica. Potem pokaż Mk 14,50. Ci, którzy widzieli Go na własne oczy, uciekli w noc pojmania. Odwagę przed Sanhedrynem dała im obecność Ducha, którą Jezus obiecał w J 14. Ta obietnica jest dla wszystkich."
+    },
+    {
+     "sytuacja": "„W naszym zborze nikt by nie usiadł z Zacheuszem.\"",
+     "odpowiedz": "Nie wchodź w ocenę zboru ani konkretnych ludzi. Zapytaj grupę, kto z nas siedział ostatnio przy takim stole. Tekst pyta najpierw mnie, dopiero potem innych."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna wymieniać z imienia ludzi, którzy są „celnikami\" w jego otoczeniu.",
+     "odpowiedz": "Przerwij łagodnie. Łukasz nazywa Zacheusza grzesznikiem ustami tłumu, który szemrze. Jezus nazywa go synem Abrahamowym. Rozmawiamy o tym, jak my patrzymy. Cudze grzechy zostawiamy Bogu."
+    },
+    {
+     "sytuacja": "„Czyli mam się starać bardziej trwać?\"",
+     "odpowiedz": "Wróć do obrazu gałęzi. Gałąź trwa, bo jest przyrośnięta. Wysiłek niczego tu nie dokłada. Trwanie to zostanie blisko. Nie jest to kolejny obowiązek do odhaczenia."
+    },
+    {
+     "sytuacja": "Ktoś czyta dalej J 15,6 i pyta o ogień.",
+     "odpowiedz": "Nie omijaj tego pytania. Zarazem nie rób z niego tematu spotkania. Werset mówi o gałęzi, która sama odłączyła się od krzewu. Dzisiejszy nacisk tekstu leży na zaproszeniu, żeby zostać. Jeśli pytanie wraca, zaproponuj osobną rozmowę."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Rozmowa rozkręca się tak, że nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3, idź prosto do bloku 4 i bloku 5. Blok 5 odpowiada na pytanie, jak bycie z Jezusem trwa dziś, i bez niego spotkanie zostaje w przeszłości."
+    }
+   ]
+  }
+ ]
+}

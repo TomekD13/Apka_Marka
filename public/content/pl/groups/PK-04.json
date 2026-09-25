@@ -1,0 +1,853 @@
+{
+ "tytul": "Od stołu do portfela",
+ "id": "PK-04",
+ "seria": "Sekret pierwotnego kościoła",
+ "opis": "Jak wspólny chleb pierwszych chrześcijan sięgał do ich pieniędzy i dlaczego zawsze bez przymusu.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "1Kor 10,16-17; 1Kor 11,17-26; Dz 4,32-37; Rz 15,25-27; 2Kor 8,1-5; 2Kor 8,7-9.12-15",
+  "p2": "Łk 22,14-20; Jk 2,1-5; Pwt 15,4.7-8; Dz 11,27-30; Ga 2,9-10; 2Kor 9,6-8",
+  "p3": "1Kor 1,9; 1J 1,3; Dz 2,42; Rz 15,26; 2Kor 8,4; Ga 2,9; Hbr 13,16; 1Kor 11,27-29.33; Dz 12,12"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 32
+ },
+ "tagi": [
+  "wspólnota",
+  "Wieczerza Pańska",
+  "dzielenie się",
+  "ubodzy",
+  "pieniądze",
+  "Kościół"
+ ],
+ "wersja": 1,
+ "zdanie": "Kto łamie z innymi jeden chleb, zaczyna widzieć, czy siedzący obok ma co jeść.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pierwsi chrześcijanie mieli jedno słowo na trzy rzeczy, które my trzymamy osobno. Tym samym słowem Paweł nazywa udział w Chrystusie przy Wieczerzy, wspólny chleb i zbiórkę dla ubogich. Spotkanie idzie tą drogą, od stołu do portfela. Chodzi o to, jak więź z Bogiem schodzi w zwykłe życie. Nikt nie powinien wyjść z poczuciem, że daje za mało. Paweł pisze wprost, że nie wydaje rozkazu i że dar liczy się według tego, co kto ma. To zdanie jest dziś najważniejsze dla każdego, komu brakuje.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny.**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole może siedzieć ktoś, komu nie starcza do pierwszego, kto ma długi albo stracił pracę. Rozmowa o dzieleniu się pieniędzmi może go zawstydzić. Nikt nie mówi o kwotach, ani swoich, ani cudzych.",
+      "Temat łatwo zjeżdża w dyskusję o dziesięcinie, o zbiórkach w zborze albo o tym, na co kościół wydaje pieniądze. To nie jest ta rozmowa. Wracaj do tekstu.",
+      "Przy stole mogą być osoby z innych Kościołów, także katolicy, którzy przeżywają Eucharystię po swojemu. Mów o ich praktyce z szacunkiem i bez porównań. Adwentyści zapraszają do Wieczerzy Pańskiej wszystkich wierzących chrześcijan. Każdy sam siebie bada, a Wieczerzę poprzedza umywanie nóg, czyli obrzęd pokory. Wystarczy to powiedzieć, jeśli ktoś zapyta."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie organizuj żadnej zbiórki przy okazji spotkania. Nie podawaj przykładów, kto ile dał. Nie oceniaj bogatych ani biednych, także tych nieobecnych.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie stół, przy którym czułeś się naprawdę przyjęty. Nie opowiadaj całej historii. Powiedz tylko, czyj to był stół i co na nim stało.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi, nie dopytuj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Jeden chleb, jedno ciało",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paweł pisze do Koryntian, z których część chodziła na uczty w pogańskich świątyniach i nie widziała w tym nic złego.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Kor 10,16-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Kielich błogosławieństwa, który błogosławimy, czyż nie jest społecznością krwi Chrystusowej? Chleb, który łamiemy, czyż nie jest społecznością ciała Chrystusowego? Ponieważ jest jeden chleb, my, ilu nas jest, stanowimy jedno ciało, wszyscy bowiem jesteśmy uczestnikami jednego chleba."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł dwa razy mówi o „społeczności\". **Co według tych wersetów łączy człowieka z Chrystusem, a co z ludźmi, którzy siedzą obok?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Każdy odłamuje kawałek z jednego bochenka. **Co ten prosty gest mówi o ludziach, którzy się nim dzielą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paweł nie pyta, czy ci ludzie się lubią ani czy się sobie podobają. **Co w takim razie robi z nich jedno ciało?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "BW oddaje tu jako „społeczność\" greckie słowo `koinonia`. Znaczy ono wspólny udział w czymś jednym, tak jak wspólnicy mają udział w jednej sprawie. Pierwsi chrześcijanie używali go bardzo szeroko. Jan nazywa nim więź z Ojcem i Synem. Tym samym słowem Paweł nazywa pieniądze zebrane dla ubogich w Jerozolimie. Dla nich udział w Chrystusie, wspólny stół i wspólna troska o potrzebujących były jedną rzeczywistością.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Stół w noc wydania",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 22,14-20",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy nadeszła pora, zajął miejsce przy stole, a apostołowie z nim. I rzekł do nich: Gorąco pragnąłem spożyć tę wieczerzę paschalną z wami przed moją męką; powiadam wam bowiem, iż nie będę jej już spożywał, aż nastąpi spełnienie w Królestwie Bożym. I wziąwszy kielich, i podziękowawszy, rzekł: Weźcie go i rozdzielcie między sobą; powiadam wam bowiem, iż odtąd nie będę pił z owocu winorośli, aż przyjdzie Królestwo Boże. I wziąwszy chleb, i podziękowawszy, łamał i dawał im, mówiąc: To jest ciało moje, które się za was daje; to czyńcie na pamiątkę moją. Podobnie i kielich, gdy było po wieczerzy, mówiąc: Ten kielich, to nowe przymierze we krwi mojej, która się za was wylewa."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Gorąco pragnąłem spożyć tę wieczerzę paschalną z wami\", mówi Jezus. **Co to zdanie mówi o tym, czym był dla Niego wspólny posiłek z tymi ludźmi?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Kielich ma być „rozdzielony między sobą\". **Co w tej scenie jest wspólne, a co każdy dostaje do ręki osobno?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Czytelnik polskiej Biblii nie widzi, że jedno greckie słowo stoi w miejscach bardzo od siebie odległych. BW oddaje je za każdym razem inaczej. W 1Kor 1,9 i w 1J 1,3 jest to „społeczność\" z Synem i z Ojcem. W Dz 2,42 to „wspólnota\", w której trwali pierwsi wierzący. W Rz 15,26 to samo słowo staje się „składką\" na ubogich. W 2Kor 8,4 Macedończycy proszą, żeby mogli „uczestniczyć\" w dziele miłosierdzia. W Ga 2,9 apostołowie podają sobie „prawicę na dowód wspólnoty\". W Hbr 13,16 jest to „pomoc wzajemna\", nazwana ofiarą miłą Bogu.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Na zbiórkę dla Jerozolimy Paweł ma zresztą kilka różnych słów. Część z nich pochodzi z języka nabożeństwa, jak służba, posługa i ofiara. Dawanie było dla niego częścią uwielbienia.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia w patrzeniu na pieniądze to, że Paweł nazywa zbiórkę tym samym słowem co udział w chlebie i kielichu?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Kolacja, na której ktoś był głodny",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Zbór w Koryncie obchodził Wieczerzę Pańską razem ze wspólną kolacją, w domu jednego z zamożniejszych braci.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Kor 11,17-26",
+       "przeklad": "BW",
+       "akapity": [
+        "A dając to zalecenie, nie pochwalam, że się schodzicie nie ku lepszemu, ale ku gorszemu. Słyszę bowiem najpierw, że gdy się jako zbór schodzicie, powstają między wami podziały; i po części temu wierzę. Zresztą, muszą nawet być rozdwojenia między wami, aby wyszło na jaw, którzy wśród was są prawdziwymi chrześcijanami. Wy tedy, gdy się schodzicie w zborze, nie spożywacie w sposób należyty Wieczerzy Pańskiej; każdy bowiem zabiera się niezwłocznie do spożycia własnej wieczerzy i skutek jest taki, że jeden jest głodny a drugi pijany. Czy nie macie domów, aby jeść i pić? Albo czy zborem Bożym gardzicie i poniewieracie tymi, którzy nic nie mają? Co mam wam powiedzieć? Czy mam was pochwalić? Nie, za to was nie pochwalam.",
+        "Albowiem ja przejąłem od Pana to, co wam przekazałem, że Pan Jezus tej nocy, której był wydany, wziął chleb, a podziękowawszy, złamał i rzekł: Bierzcie, jedzcie, to jest ciało moje za was wydane; to czyńcie na pamiątkę moją. Podobnie i kielich po wieczerzy, mówiąc: Ten kielich to nowe przymierze we krwi mojej; to czyńcie, ilekroć pić będziecie, na pamiątkę moją. Albowiem, ilekroć ten chleb jecie, a z kielicha tego pijecie, śmierć Pańską zwiastujecie, aż przyjdzie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przy tym samym stole „jeden jest głodny a drugi pijany\". **Co musiało się dziać w tym domu, skoro w jednym zgromadzeniu było i jedno, i drugie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł nie zaczyna od pouczenia o chlebie i kielichu. Zaczyna od tych, „którzy nic nie mają\". **Dlaczego jego zdaniem taka kolacja przestaje być Wieczerzą Pańską?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Słowa o ciele „za was wydanym\" Paweł przypomina właśnie tu. **Co mówią one ludziom, którzy nie umieli poczekać na biedniejszych?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Budynków kościelnych nie było przez ponad dwieście lat, więc zbory spotykały się w domach. Wykopaliska w Koryncie odsłoniły rzymskie wille, które mieściły od trzydziestu do pięćdziesięciu osób. W głównej jadalni leżało przy stole z gospodarzem około dziesięciu najważniejszych gości i dostawało najlepsze jedzenie. Ubodzy i niewolnicy zostawali na dziedzińcu i dostawali to, co gorsze. Wieczerza w takim domu łatwo przejmowała jego porządek. Paweł mówi, że przy stole Pana ten porządek się kończy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pierścienie na palcach",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jk 2,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Bracia moi, nie czyńcie różnicy między osobami przy wyznawaniu wiary w Jezusa Chrystusa, naszego Pana chwały. Bo gdyby na wasze zgromadzenie przyszedł człowiek ze złotymi pierścieniami na palcach i we wspaniałej szacie, a przyszedłby też ubogi w nędznej szacie, a wy zwrócilibyście oczy na tego, który nosi wspaniałą szatę i powiedzielibyście: Ty usiądź tu wygodnie, a ubogiemu powiedzielibyście: Ty stań sobie tam lub usiądź u podnóżka mego, to czyż nie uczyniliście różnicy między sobą i nie staliście się sędziami, którzy fałszywie rozumują? Posłuchajcie, bracia moi umiłowani! Czyż to nie Bóg wybrał ubogich w oczach świata, aby byli bogatymi w wierze i dziedzicami Królestwa, obiecanego tym, którzy go miłują?"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Po czym w tej scenie widać, że zgromadzenie przyjęło miarę z ulicy?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakub nazywa ubogich „bogatymi w wierze\". **Co to określenie odwraca w myśleniu o tym, kto komu coś daje?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: kto jest godny stołu",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Zaraz po słowach ustanowienia Paweł pisze zdania, które przez wieki trzymały wielu ludzi z dala od Wieczerzy.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Kor 11,27-29.33",
+       "przeklad": "BW",
+       "akapity": [
+        "Przeto, ktokolwiek by jadł chleb i pił z kielicha Pańskiego niegodnie, winien będzie ciała i krwi Pańskiej. Niechże więc człowiek samego siebie doświadcza i tak niech je z chleba tego i z kielicha tego pije. Albowiem kto je i pije niegodnie, nie rozróżniając ciała Pańskiego, sąd własny je i pije. [...]",
+        "A tak, bracia moi, gdy się schodzicie, aby jeść, czekajcie jedni na drugich."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Paweł nie pisze o ludziach niegodnych. Pisze o jedzeniu „niegodnie\", czyli w sposób, który przeczy temu, co się je. W Koryncie znaczyło to najeść się, gdy obok ktoś był głodny. Wieczerza przypomina raczej, że nikt z nas nie jest godny sam z siebie.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Słowa „nie rozróżniając ciała Pańskiego\" czyta się w Kościele na dwa sposoby. Jedni widzą tu chleb Wieczerzy, którego nie wolno traktować jak zwykłej kolacji. Inni widzą wspólnotę, która jest ciałem Chrystusa, jak w 1Kor 10,17. Oba odczyty łączy jedno. Kto przychodzi do stołu, bada siebie. Sąsiada nie sprawdza. Adwentyści zapraszają do Wieczerzy wszystkich wierzących chrześcijan i zostawiają każdemu to samobadanie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Dlaczego Paweł każe każdemu badać siebie i nic nie mówi o pilnowaniu, kto przychodzi do stołu?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co by się stało z Wieczerzą, gdyby przychodzili do niej tylko ci, którzy czują się godni?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Nikt nie cierpiał niedostatku",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Niedługo po Pięćdziesiątnicy wierzących w Jerozolimie są już tysiące.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 4,32-37",
+       "przeklad": "BW",
+       "akapity": [
+        "A u tych wszystkich wierzących było jedno serce i jedna dusza i nikt z nich nie nazywał swoim tego, co posiadał, ale wszystko mieli wspólne. Apostołowie zaś składali z wielką mocą świadectwo o zmartwychwstaniu Pana Jezusa, a wielka łaska spoczywała na nich wszystkich. Nie było też między nimi nikogo, który by cierpiał niedostatek, ci bowiem, którzy posiadali ziemię albo domy, sprzedając je, przynosili pieniądze uzyskane ze sprzedaży i kładli u stóp apostołów; i wydzielano każdemu, ile komu było potrzeba.",
+        "I tak, Józef, nazwany przez apostołów Barnabą, co się wykłada Syn Pocieszenia, lewita, rodem z Cypru, sprzedał rolę, którą posiadał, przyniósł pieniądze i złożył u stóp apostołów."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Nikt z nich nie nazywał swoim tego, co posiadał\". **Co musiało się zmienić w człowieku, żeby tak patrzył na swój dom albo pole?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Łukasz nie podaje, ile kto dał. Podaje, że nikt nie cierpiał niedostatku. **Co ta miara mówi o tym, na co patrzyła ta wspólnota?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Między zdaniem o jednym sercu a zdaniem o pieniądzach Łukasz wstawia świadectwo o zmartwychwstaniu. **Co łączy jedno z drugim?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Barnaba to pierwszy ofiarodawca, którego Łukasz wymienia z imienia. Apostołowie nazwali go Synem Pocieszenia i imię do niego pasowało. Kilka lat później to on zabierze nawróconego Saula do apostołów, którzy się go bali, jak opisuje Łukasz w Dziejach 9,27. Razem z nim zawiezie też pomoc z Antiochii do Judei. Człowiek, który oddał pole, umiał też stanąć przy człowieku. Jedno i drugie wynikało z tego samego serca.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Stare prawo o ubogim bracie",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Zdanie Łukasza o tym, że nikt nie cierpiał niedostatku, brzmi jak echo obietnicy z Księgi Powtórzonego Prawa. W greckim przekładzie Starego Testamentu stoi tam to samo rzadkie słowo co w Dz 4,34.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 15,4.7-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo oczywiście nie będzie u ciebie ubogiego, gdyż Pan błogosławić ci będzie w ziemi, którą Pan, Bóg twój, daje ci w dziedziczne posiadanie, [...]",
+        "Jeśliby jednak był u ciebie jakiś ubogi spośród twoich braci w jednej z twoich bram, w twojej ziemi, którą Pan, twój Bóg, ci daje, to nie zamkniesz swego serca i nie zaciśniesz swojej ręki przed twoim ubogim bratem. Lecz otworzysz przed nim swoją rękę i pożyczysz mu pod dostatkiem tego, czego mu będzie brakowało."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mojżesz opisuje stosunek do ubogiego językiem ciała. Serce się zamyka albo otwiera, ręka się zaciska albo otwiera. **Co ten obraz mówi o tym, gdzie naprawdę zaczyna się dzielenie się?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: przepis czy przykład",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Łatwo przeczytać Dz 4 jak opis ustroju, w którym nikt nie miał własności. Łukasz tego nie mówi. Nie pisze, że wszyscy sprzedali wszystko ani że zrobili to naraz. Kilka rozdziałów dalej wierzący zbierają się w domu, który wciąż należy do jednej z nich.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 12,12",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy sobie to uświadomił, udał się do domu Marii, matki Jana, którego nazywano Markiem, gdzie było wielu zgromadzonych na modlitwie."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W dziejach chrześcijaństwa jedni czytali Dz 4 jak wzór do dosłownego naśladowania i zakładali wspólnoty, w których nikt nic nie posiadał. Inni czytali go jak obraz ducha, który może przybierać różne formy. Oba odczyty zgadzają się w jednym. Wspólnota, która łamie jeden chleb, nie zostawia nikogo bez chleba. Łukasz pokazuje przykład. Przepisu nie ustanawia.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co w opisie z Dz 4 rodzi się z przymusu, a co z jednego serca? Po czym to poznać w samym tekście?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Pieniądze, które łączą ludzi",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paweł pisze z Grecji. Macedonia i Achaja to północna i południowa część tego kraju, a święci w Jerozolimie to tamtejsi wierzący.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 15,25-27",
+       "przeklad": "BW",
+       "akapity": [
+        "A teraz idę do Jerozolimy z posługą dla świętych. Macedonia bowiem i Achaja postanowiły urządzić składkę na ubogich spośród świętych w Jerozolimie. Tak jest, postanowiły, bo też w samej rzeczy są ich dłużnikami, gdyż jeżeli poganie stali się uczestnikami ich dóbr duchowych, to powinni usłużyć im dobrami doczesnymi."
+       ]
+      },
+      {
+       "odnosnik": "2Kor 8,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "A powiadamiamy was, bracia, o łasce Bożej, okazanej zborom macedońskim, iż mimo licznych utrapień, które wystawiały ich na próbę, niezwykła radość i skrajne ubóstwo ich przerodziły się w nadzwyczajne bogactwo ich ofiarności; gdyż w miarę możności – mogę to zaświadczyć – owszem, ponad możność, samorzutnie, usilnym naleganiem dopraszając się od nas tej łaski, by mogli uczestniczyć w dziele miłosierdzia dla świętych, i ponad nasze oczekiwanie oddawali nawet samych siebie najpierw Panu, a potem i nam, za wolą Bożą,"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł dwa razy pisze, że zbory same „postanowiły\". Zarazem nazywa je „dłużnikami\". **Co takiego poganie z Grecji dostali od Jerozolimy i dlaczego odpowiadają właśnie chlebem i pieniędzmi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Macedończycy sami żyli w „skrajnym ubóstwie\" i prosili Pawła, żeby mogli coś dać. **Dlaczego możliwość dawania nazywają łaską?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Werset 5 mówi, co Macedończycy oddali najpierw. **Jak to zmienia sens całej zbiórki?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W świecie Pawła o ubogich troszczyła się rodzina, synagoga albo cech rzemieślniczy. Nie robiło tego państwo. Kto w Jerozolimie uwierzył w Jezusa, często tracił wsparcie rodziny i synagogi. Dlatego wierzący tak wcześnie zaczęli dbać o siebie nawzajem. Zbiórka Pawła była czymś nowym w starożytności. Ludzie z jednego narodu zbierali pieniądze dla ubogich z innego narodu, setki kilometrów dalej. Macedończycy, którzy dali najwięcej, sami byli biedni i prześladowani.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pamiętać o ubogich",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 11,27-30",
+       "przeklad": "BW",
+       "akapity": [
+        "W owym to czasie przyszli do Antiochii prorocy z Jerozolimy. I powstał jeden z nich, imieniem Agabus, i przepowiedział, natchniony przez Ducha, że nastanie głód wielki na całym świecie; nastał on też za Klaudiusza. Wówczas uczniowie postanowili posłać, każdy według możliwości, doraźną pomoc braciom, którzy mieszkali w Judei; co też uczynili, przesławszy ją starszym przez Barnabę i Saula."
+       ]
+      },
+      {
+       "odnosnik": "Ga 2,9-10",
+       "przeklad": "BW",
+       "akapity": [
+        "otóż, gdy poznali okazaną mi łaskę, Jakub i Kefas, i Jan, którzy są uważani za filary, podali mnie i Barnabie prawicę na dowód wspólnoty, abyśmy poszli do pogan, a oni do obrzezanych; mieliśmy tylko pamiętać o ubogich, czym się też gorliwie zająłem i co starałem się wykonać."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W Antiochii każdy dał „według możliwości\". **Kogo chroni to sformułowanie i przed czym?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Apostołowie dzielą między siebie pracę, a jako wspólną sprawę zostawiają jedno, pamięć o ubogich. **Dlaczego akurat to ma ich łączyć?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Według tego, co ma",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Kor 8,7-9.12-15",
+       "przeklad": "BW",
+       "akapity": [
+        "A jak we wszystkim się wyróżniacie, w wierze, w słowie i w poznaniu, i we wszelkiej gorliwości oraz w miłości, którą w was wzbudziliśmy, tak i w tej działalności dobroczynnej się wyróżniacie. Nie mówię tego, jakobym wydawał rozkaz, ale pragnę na tle gorliwości innych wypróbować też szczerość waszej miłości. Albowiem znacie łaskę Pana naszego Jezusa Chrystusa, że będąc bogatym, stał się dla was ubogim, abyście ubóstwem jego ubogaceni zostali. [...]",
+        "Jeśli bowiem jest ochotna wola, zasługuje ona na uznanie według tego, co ma, a nie według tego, czego nie ma. Nie chodzi bowiem o to, by inni mieli ulgę, a wy obciążenie, lecz chodzi o równość; w obecnym czasie niech wasz nadmiar wyrówna ich niedostatek, by i ich nadmiar służył na pokrycie waszego niedostatku, ażeby była równość, jak napisano: Kto wiele zebrał, nie miał za wiele, a kto mało, nie miał za mało."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus, „będąc bogatym, stał się dla was ubogim\". **Jak ten obraz zmienia rozmowę o tym, kto przy stole jest bogaty, a kto ubogi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dar liczy się „według tego, co ma, a nie według tego, czego nie ma\". **Kogo ten werset uwalnia i od czego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paweł mówi o równości. Nadmiar jednych wyrównuje niedostatek drugich, a potem odwrotnie. **Co w takiej wymianie może wnieść ktoś, kto akurat nie ma pieniędzy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Werset 15 cytuje opowieść o mannie na pustyni. Jedni zebrali więcej, inni mniej, a przy mierzeniu każdy miał tyle, ile potrzebował. Manny nie dało się odłożyć na zapas. Paweł sięga po ten obraz, żeby opisać pomoc między zborami. Równość nie przychodzi tu z urzędu. Rodzi się z pamięci, że wszystko spadło z nieba i nikt nie zebrał więcej, niż mógł zjeść. Paweł zaznacza też, że nie wydaje rozkazu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ochotny dawca",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Kor 9,6-8",
+       "przeklad": "BW",
+       "akapity": [
+        "A powiadam: Kto sieje skąpo, skąpo też żąć będzie, a kto sieje obficie, obficie też żąć będzie. Każdy, tak jak sobie postanowił w sercu, nie z żalem albo z przymusu; gdyż ochotnego dawcę Bóg miłuje. A władny jest Bóg udzielić wam obficie wszelkiej łaski, abyście, mając zawsze wszystkiego pod dostatkiem, mogli hojnie łożyć na wszelką dobrą sprawę,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Nie z żalem albo z przymusu\". **Po czym poznać dar, który wyszedł z przymusu, nawet jeśli nikt nikogo nie zmuszał?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Werset 8 mówi, skąd bierze się to, co człowiek daje. **Co zmienia myśl, że dający też jest obdarowany?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł zaczyna od stołu, a kończy na pieniądzach. **Gdzie w twoim życiu wiara i pieniądze rozmawiają ze sobą, a gdzie mieszkają osobno?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co przychodzi ci trudniej, dawać czy przyjmować? Skąd to się bierze?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, przypomnij sobie chwilę, gdy ktoś oddał ci coś, co go naprawdę kosztowało. **Co to w tobie zostawiło?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Macedończycy dawali ze skrajnego ubóstwa, ponad możność. Ten sam Paweł pisze, że dar liczy się według tego, co kto ma. **Gdzie leży granica między hojnością człowieka ubogiego a ciężarem, którego nie powinien dźwigać? Kto ma prawo ją wyznaczyć?**",
+     "poziom": 3
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Nie rozstrzygaj tego za grupę. Warto, żeby w rozmowie padła jedna obserwacja z tekstu. Paweł nigdy nie mierzy daru kwotą, a granicę wyznacza sam dający przed Bogiem, jak w 2Kor 9,7.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Kto łamie z innymi jeden chleb, zaczyna widzieć, czy siedzący obok ma co jeść.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** 1Kor 10,17 albo 2Kor 8,9.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przy najbliższym posiłku przypomnij sobie, że chleb był jeden. Zapytaj siebie, kogo przy twoim stole zwykle brakuje.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zapytaj Boga, ile w twoim stosunku do pieniędzy jest lęku, a ile wdzięczności. Nie odpowiadaj od razu. Zostań przy tym pytaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Jeśli czegoś ci brakuje, pozwól komuś sobie pomóc i nie tłumacz się. Jeśli masz więcej, niż potrzebujesz, pomyśl przed Bogiem, czyj niedostatek twój nadmiar mógłby wyrównać. Nikomu o tym nie mów.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś przy stole ledwo wiąże koniec z końcem.** Możesz o tym nie wiedzieć. Dlatego nikt nie mówi o kwotach i nie pada żaden przykład, kto ile dał. Jeśli ktoś sam powie o swoich kłopotach, podziękuj i nie zamieniaj spotkania w naradę. Zostań z tą osobą po spotkaniu. Pomoc, jeśli grupa chce jej udzielić, idzie po cichu i nigdy nie jest ogłaszana. Grupa słucha i towarzyszy, nie doradza w sprawach długów, prawa ani finansów. W każdym powiecie działa bezpłatna pomoc prawna i poradnictwo obywatelskie, także w sprawach zadłużenia. Jeśli ktoś mówi, że nie widzi wyjścia, podaj telefon zaufania 116 123, a przy zagrożeniu życia numer 112. Na osobne spotkanie dobrze nadaje się materiał „Utrata pracy i pieniędzy\".",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli pierwsi chrześcijanie mieli komunizm? Mam sprzedać mieszkanie?\"** Nie. Łukasz opisuje dobrowolne dzielenie się. Maria wciąż miała swój dom, jak widać w Dz 12,12. Paweł pisze wprost, że nie wydaje rozkazu, a w 2Kor 9,7 dodaje, że Bóg miłuje ochotnego dawcę. Wystarczy wskazać te miejsca.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na dziesięcinę, zbiórki w zborze albo wydatki kościoła.** Nie wchodź w to. Powiedz spokojnie, że to osobna rozmowa, najlepiej z pastorem. Wróć do pytania, co wspólny chleb robi z ludźmi przy stole.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś pyta o Ananiasza i Safirę.** Ich historia stoi w Dz 5,1-11, zaraz po Barnabie. Nie otwieraj jej dziś w całości. Wystarczy jedno zdanie Piotra z Dz 5,4. Pole i pieniądze były ich własnością i mogli nimi rozporządzać. Winą było kłamstwo przed Bogiem. Zatrzymanie części pieniędzy grzechem nie było. Jeśli ktoś chce rozmawiać o śmierci, która ich spotkała, umów się na osobną rozmowę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Nie jestem godny, żeby przystąpić do Wieczerzy.\"** Nie przekonuj na siłę. Pokaż, że w 1Kor 11 „niegodnie\" dotyczy sposobu jedzenia, przy którym jedni są głodni, a drudzy syci. Wieczerza przypomina, że nikt nie jest godny sam z siebie. Każdy bada siebie i przychodzi. Decyzja należy do tej osoby.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gość z innego Kościoła pyta, czym Wieczerza u adwentystów różni się od jego praktyki.** Odpowiedz krótko i bez porównań. Adwentyści zapraszają do Wieczerzy wszystkich wierzących chrześcijan, a poprzedza ją umywanie nóg. Nie oceniaj jego Kościoła. Jeśli chce wiedzieć więcej, porozmawiajcie po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa zaczyna oceniać bogatych albo konkretne osoby.** Zatrzymaj to łagodnie. Paweł pisze do całego zboru i nikogo nie wytyka palcem. Macedończycy, których stawia za wzór, sami byli biedni. Tekst nie dzieli ludzi na tych, którzy dają, i tych, którzy biorą. Wymiana idzie w obie strony.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa rozkręca się tak, że nie zdążycie z materiałem.** Zostaw bloki 3 i 4. Idź z bloku 2 prosto do bloku 5 i zastosowania. Blok 5 chroni przed presją i bez niego ktoś może wyjść z poczuciem winy.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś przy stole ledwo wiąże koniec z końcem.",
+     "odpowiedz": "Możesz o tym nie wiedzieć. Dlatego nikt nie mówi o kwotach i nie pada żaden przykład, kto ile dał. Jeśli ktoś sam powie o swoich kłopotach, podziękuj i nie zamieniaj spotkania w naradę. Zostań z tą osobą po spotkaniu. Pomoc, jeśli grupa chce jej udzielić, idzie po cichu i nigdy nie jest ogłaszana. Grupa słucha i towarzyszy, nie doradza w sprawach długów, prawa ani finansów. W każdym powiecie działa bezpłatna pomoc prawna i poradnictwo obywatelskie, także w sprawach zadłużenia. Jeśli ktoś mówi, że nie widzi wyjścia, podaj telefon zaufania 116 123, a przy zagrożeniu życia numer 112. Na osobne spotkanie dobrze nadaje się materiał „Utrata pracy i pieniędzy\"."
+    },
+    {
+     "sytuacja": "„Czyli pierwsi chrześcijanie mieli komunizm? Mam sprzedać mieszkanie?\"",
+     "odpowiedz": "Nie. Łukasz opisuje dobrowolne dzielenie się. Maria wciąż miała swój dom, jak widać w Dz 12,12. Paweł pisze wprost, że nie wydaje rozkazu, a w 2Kor 9,7 dodaje, że Bóg miłuje ochotnego dawcę. Wystarczy wskazać te miejsca."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na dziesięcinę, zbiórki w zborze albo wydatki kościoła.",
+     "odpowiedz": "Nie wchodź w to. Powiedz spokojnie, że to osobna rozmowa, najlepiej z pastorem. Wróć do pytania, co wspólny chleb robi z ludźmi przy stole."
+    },
+    {
+     "sytuacja": "Ktoś pyta o Ananiasza i Safirę.",
+     "odpowiedz": "Ich historia stoi w Dz 5,1-11, zaraz po Barnabie. Nie otwieraj jej dziś w całości. Wystarczy jedno zdanie Piotra z Dz 5,4. Pole i pieniądze były ich własnością i mogli nimi rozporządzać. Winą było kłamstwo przed Bogiem. Zatrzymanie części pieniędzy grzechem nie było. Jeśli ktoś chce rozmawiać o śmierci, która ich spotkała, umów się na osobną rozmowę."
+    },
+    {
+     "sytuacja": "„Nie jestem godny, żeby przystąpić do Wieczerzy.\"",
+     "odpowiedz": "Nie przekonuj na siłę. Pokaż, że w 1Kor 11 „niegodnie\" dotyczy sposobu jedzenia, przy którym jedni są głodni, a drudzy syci. Wieczerza przypomina, że nikt nie jest godny sam z siebie. Każdy bada siebie i przychodzi. Decyzja należy do tej osoby."
+    },
+    {
+     "sytuacja": "Gość z innego Kościoła pyta, czym Wieczerza u adwentystów różni się od jego praktyki.",
+     "odpowiedz": "Odpowiedz krótko i bez porównań. Adwentyści zapraszają do Wieczerzy wszystkich wierzących chrześcijan, a poprzedza ją umywanie nóg. Nie oceniaj jego Kościoła. Jeśli chce wiedzieć więcej, porozmawiajcie po spotkaniu."
+    },
+    {
+     "sytuacja": "Grupa zaczyna oceniać bogatych albo konkretne osoby.",
+     "odpowiedz": "Zatrzymaj to łagodnie. Paweł pisze do całego zboru i nikogo nie wytyka palcem. Macedończycy, których stawia za wzór, sami byli biedni. Tekst nie dzieli ludzi na tych, którzy dają, i tych, którzy biorą. Wymiana idzie w obie strony."
+    },
+    {
+     "sytuacja": "Rozmowa rozkręca się tak, że nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw bloki 3 i 4. Idź z bloku 2 prosto do bloku 5 i zastosowania. Blok 5 chroni przed presją i bez niego ktoś może wyjść z poczuciem winy."
+    }
+   ]
+  }
+ ]
+}

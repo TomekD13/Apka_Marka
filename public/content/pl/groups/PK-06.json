@@ -1,0 +1,820 @@
+{
+ "tytul": "Różni przy jednym stole",
+ "id": "PK-06",
+ "seria": "Sekret pierwotnego kościoła",
+ "opis": "Dlaczego Bóg nie buduje jedności z jednakowych ludzi i jak różni zostają przy jednym stole.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Rdz 11,1-9; Dz 2,1-11; Dz 15,1-2.6-11; Dz 15,19-20.28-31; Ef 4,1-6",
+  "p2": "Rdz 9,1; Rdz 12,1-2; Ap 7,9-10; Dz 11,1-3.17-18; Dz 15,13-18; Ef 3,8-10",
+  "p3": "Rdz 11,3.7.9; Dz 2,6.8; Ap 22,1-2"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 28,
+  "p3": 32
+ },
+ "tagi": [
+  "Kościół",
+  "jedność",
+  "różnice",
+  "wspólnota",
+  "Duch Święty",
+  "spór"
+ ],
+ "wersja": 1,
+ "zdanie": "Babel budowała jedność z jednakowych cegieł. Duch zbiera różnych ludzi przy jednym stole.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Spotkanie stawia obok siebie dwie sceny. W Babel ludzie budują jedność z jednakowych cegieł i jednakowych słów. W Jerozolimie Duch zbiera ludzi z całego świata i każdy słyszy o Bogu we własnej mowie. Potem ten sam Kościół ostro spiera się o to, kogo wpuścić do stołu, i przy stole zostaje. Chodzi o jedność, którą Bóg daje, zanim ktokolwiek zdąży ją wyprodukować.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokrewne materiały to Konflikt oraz Inny niż ja. Tamte mówią o sporze dwóch osób i o życiu z bratem, który myśli inaczej. Ten pyta, skąd w ogóle bierze się jedność ludzi różnych od siebie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Łukasz nie wspomina o Babel. Zestawienie obu scen jest lekturą, którą wolno zaproponować. Nie mów, że autor Dziejów tak to zaplanował.",
+      "Dz 15 łatwo zamienić w spór o prawo, szabat albo przepisy o jedzeniu. Przeczytaj drugą czerwoną flagę przed spotkaniem.",
+      "Rozmowa o narodach i językach może skręcić w politykę albo w bieżące spory kościelne. Nie pozwól na to.",
+      "Przy stole może siedzieć ktoś innej narodowości albo z innego kościoła. Usłyszy każde „oni\" i „tamci\"."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie rozstrzygaj żadnego sporu z waszego zboru. Nie ustawiaj Babel jako obrazu konkretnych ludzi albo instytucji. Nie zamykaj tematu hasłem, że różnice są zawsze dobre.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie chwilę, gdy w obcym miejscu ktoś odezwał się do ciebie w twoim języku albo zrozumiał cię bez tłumaczenia. Powiedz jednym słowem, co wtedy poczułeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuje cudzych odpowiedzi i nie dopytuje.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Miasto jednej mowy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 11,1-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Cała ziemia miała jeden język i jednakowe słowa. Podczas swojej wędrówki ze wschodu znaleźli równinę w kraju Synear i tam się osiedlili. I mówili jeden do drugiego: Nuże, wyrabiajmy cegłę i wypalajmy ją w ogniu! I używali cegły zamiast kamienia, a smoły zamiast zaprawy. Potem rzekli: Nuże, zbudujmy sobie miasto i wieżę, której szczyt sięgałby aż do nieba, i uczyńmy sobie imię, abyśmy nie rozproszyli się po całej ziemi!",
+        "Wtedy zstąpił Pan, aby zobaczyć miasto i wieżę, które budowali ludzie. I rzekł Pan: Oto jeden lud i wszyscy mają jeden język, a to dopiero początek ich dzieła. Teraz już dla nich nic nie będzie niemożliwe, cokolwiek zamierzą uczynić. Przeto zstąpmy tam i pomieszajmy ich język, aby nikt nie rozumiał języka drugiego! I rozproszył ich Pan stamtąd po całej ziemi, i przestali budować miasto. Dlatego nazwano je Babel, bo tam pomieszał Pan język całej ziemi i rozproszył ich stamtąd po całej powierzchni ziemi."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie jeszcze raz werset 4. **Czego ci ludzie się boją i co budują przeciwko temu strachowi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Cała ziemia ma „jeden język i jednakowe słowa\". **Co jest pociągające w takiej jedności, a co w niej niepokoi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Wieża miała sięgać nieba, a Pan musi „zstąpić, aby zobaczyć\". **Co ten szczegół mówi o wieży i o jej budowniczych?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "„Jednakowe słowa\" to więcej niż wspólny język. To te same zdania i ten sam pogląd, miasto, w którym nikt nie mówi inaczej. Budowniczowie chcą też „uczynić sobie imię\". W Księdze Rodzaju imię zwykle nadaje ktoś wyższy. Rozproszenie wygląda jak kara, ale działa też jak hamulec. Nie pozwala ludziom utrwalić się w tym, co zaczęli. Bóg rozbija tu podróbkę jedności, zbudowaną ze strachu i dla własnej chwały.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Imię zrobione i imię dane",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 9,1",
+       "przeklad": "BW",
+       "akapity": [
+        "I pobłogosławił Bóg Noego i synów jego, i powiedział do nich: Rozradzajcie się i rozmnażajcie, i napełniajcie ziemię."
+       ]
+      },
+      {
+       "odnosnik": "Rdz 12,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Pan do Abrama: Wyjdź z ziemi swojej i od rodziny swojej, i z domu ojca swego do ziemi, którą ci wskażę. A uczynię z ciebie naród wielki i będę ci błogosławił, i uczynię sławnym imię twoje, tak że staniesz się błogosławieństwem."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg każe napełniać ziemię. Ludzie w Synearze budują, żeby się nie rozproszyć. **Co to mówi o źródle ich pomysłu na jedność?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W Babel ludzie mówią „uczyńmy sobie imię\". Abramowi Bóg mówi „uczynię sławnym imię twoje\". **Czym różni się imię zrobione od imienia otrzymanego?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Opowieść o Babel gra słowami. W wersecie 3 ludzie mówią `nilbena`, czyli „wyrabiajmy cegłę\". W wersecie 7 Bóg odpowiada `nawla`, czyli „pomieszajmy\". Po hebrajsku to prawie te same litery ułożone w odwrotnej kolejności. Nazwa Babel brzmi z kolei jak czasownik `balal`, „pomieszać\". Mieszkańcy Mezopotamii rozumieli ją jako „bramę boga\". Rodzaj odpowiada, że wyszło z niej pomieszanie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg odpowiada budowniczym ich własnym słowem przeczytanym wspak. **Co to mówi o tym, skąd naprawdę przyszło pomieszanie?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Każdy w swoim języku",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Pięćdziesiąt dni po zmartwychwstaniu uczniowie Jezusa są razem w Jerozolimie. Do miasta zjechali na święto Żydzi z całego ówczesnego świata.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 2,1-11",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy nadszedł dzień Zielonych Świąt, byli wszyscy razem na jednym miejscu. I powstał nagle z nieba szum, jakby wiejącego gwałtownego wiatru, i napełnił cały dom, gdzie siedzieli. I ukazały się im języki jakby z ognia, które się rozdzieliły i usiadły na każdym z nich. I napełnieni zostali wszyscy Duchem Świętym, i zaczęli mówić innymi językami, tak jak im Duch poddawał.",
+        "A przebywali w Jerozolimie Żydzi, mężowie nabożni, spośród wszystkich ludów, jakie są pod niebem; gdy więc powstał ten szum, zgromadził się tłum i zatrwożył się, bo każdy słyszał ich mówiących w swoim języku. I zdumieli się, i dziwili, mówiąc: Czyż oto wszyscy ci, którzy mówią, nie są Galilejczykami? Jakże więc to jest, że słyszymy, każdy z nas, swój własny język, w którym urodziliśmy się? Partowie i Medowie, i Elamici, i mieszkańcy Mezopotamii, Judei i Kapadocji, Pontu i Azji, Frygii i Pamfilii, Egiptu i części Libii, położonej obok Cyreny, i przychodnie rzymscy, zarówno Żydzi jak prozelici, Kreteńczycy i Arabowie – słyszymy ich, jak w naszych językach głoszą wielkie dzieła Boże."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Zielone Święta to w BW polska nazwa Pięćdziesiątnicy, żydowskiego święta żniw.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Duch mógł sprawić, że wszyscy nagle zrozumieją jeden język apostołów. Przeczytajcie wersety 6 i 8. **Co robi zamiast tego i co z tego wynika?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Połóżcie obok siebie Rdz 11 i Dz 2. **Co się w tych dwóch scenach powtarza, a co jest odwrócone?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Łukasz wymienia kilkanaście ludów, jeden po drugim. **Co by zginęło, gdyby napisał po prostu „ludzie z wielu krajów\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Łukasz nie wspomina o Babel. Czytelnicy Biblii od dawna zestawiają jednak te dwie sceny. W Babel zamieszanie wzięło się stąd, że nikt nikogo nie rozumiał. W Jerozolimie tłum jest zdumiony, bo każdy rozumie. Języki zostają. Każdy słyszy o wielkich dziełach Bożych w mowie, w której się urodził. Lista ludów biegnie przez cztery strony świata, od Partów na wschodzie po Rzym na zachodzie. Galilejczycy, ludzie jednej prowincji i jednej gwary, mówią do całego świata.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Tłum z każdego języka",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 7,9-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem widziałem, a oto tłum wielki, którego nikt nie mógł zliczyć, z każdego narodu i ze wszystkich plemion, i ludów, i języków, którzy stali przed tronem i przed Barankiem, odzianych w szaty białe, z palmami w swych rękach. I wołali głosem donośnym, mówiąc: Zbawienie jest u Boga naszego, który siedzi na tronie, i u Baranka."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jan widzi ludzi z każdego narodu i języka już przed tronem Boga. **Co to mówi o tym, czy Bóg chce różnice między ludźmi zatrzeć?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Tłum jest różny, a woła jednym zdaniem. **Co ich łączy, skoro nie język?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W wersetach 4 i 11 Łukasz używa słowa `glossa`, czyli język. W wersetach 6 i 8 pojawia się inne słowo, `dialektos`. To mowa konkretnej okolicy, z jej brzmieniem i akcentem. Większość pielgrzymów zapewne rozumiała grekę, wspólny język tamtego świata. Duch dał im więcej. Usłyszeli mowę swojego domu.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia to, że Bóg mówi do człowieka w mowie jego domu?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Spór o próg",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Kilkanaście lat później do Kościoła należą już ludzie z narodów pogańskich. W Antiochii wybucha spór, na jakich warunkach.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 15,1-2.6-11",
+       "przeklad": "BW",
+       "akapity": [
+        "A pewni ludzie, którzy przybyli z Judei, nauczali braci: Jeśli nie zostaliście obrzezani według zwyczaju Mojżeszowego, nie możecie być zbawieni. Gdy zaś powstał zatarg i spór niemały między Pawłem i Barnabą a nimi, postanowiono, żeby Paweł i Barnaba oraz kilku innych spośród nich udało się w sprawie tego sporu do apostołów i starszych do Jerozolimy. [...]",
+        "Zgromadzili się więc apostołowie i starsi, aby tę sprawę rozważyć. A gdy to już długo rozpatrywano, wstał Piotr i rzekł do nich: Mężowie bracia, wy wiecie, że Bóg już dawno spośród was mnie wybrał, aby poganie przez usta moje usłyszeli słowa Ewangelii i uwierzyli. Bóg też, który zna serca, przyznał się do nich, dając im Ducha Świętego jak i nam, i nie uczynił żadnej różnicy między nami a nimi, oczyściwszy przez wiarę ich serca. Przeto teraz, dlaczego wyzywacie Boga, wkładając na kark uczniów jarzmo, którego ani ojcowie nasi, ani my nie mogliśmy unieść? Wierzymy przecież, że zbawieni będziemy przez łaskę Pana Jezusa, tak samo jak i oni."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie werset 1. **Kim musiałby się stać poganin, żeby według przybyszów z Judei należeć do ludu Bożego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Piotr kończy zdaniem „zbawieni będziemy przez łaskę Pana Jezusa, tak samo jak i oni\". **Kto w tym zdaniu upodabnia się do kogo? Czego słuchacze mogli się spodziewać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Piotr mówi, że Bóg „nie uczynił żadnej różnicy\". **Na czym opiera to zdanie, na argumencie czy na tym, co widział na własne oczy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Obrzezanie było znakiem przymierza danym Abrahamowi. Z czasem stało się też znakiem przynależności do narodu. Poganin, który chciał w pełni należeć do ludu Bożego, miał więc najpierw zostać Żydem. Przybysze z Judei mieli za sobą długą i czcigodną praktykę. Piotr odpowiada tym, co zobaczył w domu rzymskiego setnika Korneliusza. Bóg dał tam poganom Ducha, zanim ktokolwiek zdążył postawić im warunki.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jadłeś z nimi",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Kilka lat przed tym sporem Piotr wraca do Jerozolimy z domu Korneliusza.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 11,1-3.17-18",
+       "przeklad": "BW",
+       "akapity": [
+        "I usłyszeli apostołowie i bracia, którzy mieszkali w Judei, że i poganie przyjęli Słowo Boże. Kiedy zaś Piotr przybył do Jerozolimy, stawiali mu zarzuty rodowici Żydzi, mówiąc: Poszedłeś do mężów nieobrzezanych i jadłeś z nimi. [...]",
+        "Jeżeli więc Bóg dał im ten sam dar, co i nam, którzy uwierzyliśmy w Pana Jezusa Chrystusa, to jakże ja mogłem przeszkodzić Bogu? A gdy to usłyszeli, uspokoili się i wielbili Boga, mówiąc: Tak więc i poganom dał Bóg upamiętanie ku żywotowi."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zarzut wobec Piotra dotyczy stołu. **Dlaczego wspólny posiłek był dla oskarżycieli trudniejszy do przełknięcia niż samo kazanie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Werset 18 opisuje ludzi, którzy przed chwilą oskarżali. **Co musiało się w nich wydarzyć między wersetem 3 a wersetem 18?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "List, który ucieszył",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Po Piotrze mówią Barnaba i Paweł, a potem Jakub, brat Pana, przewodzący zborowi w Jerozolimie.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 15,19-20.28-31",
+       "przeklad": "BW",
+       "akapity": [
+        "Dlatego sądzę, że nie należy czynić trudności tym spośród pogan, którzy nawracają się do Boga, ale polecić im, żeby się wstrzymywali od rzeczy splugawionych przez bałwany, od nierządu, od tego, co zadławione, i od krwi. [...]",
+        "Postanowiliśmy bowiem, Duch Święty i my, by nie nakładać na was żadnego innego ciężaru oprócz następujących rzeczy niezbędnych: Wstrzymywać się od mięsa ofiarowanego bałwanom, od krwi, od tego, co zadławione, i od nierządu; jeśli się tych rzeczy wystrzegać będziecie, dobrze uczynicie. Bywajcie zdrowi. A gdy wysłańcy przyszli do Antiochii, zgromadzili zbór i oddali list. A gdy go przeczytali, uradowali się jego zachęcającą treścią."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Wersety 28-31 pochodzą z listu, który apostołowie i starsi wysłali do Antiochii.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List mówi „postanowiliśmy bowiem, Duch Święty i my\". **Co to zdanie mówi o tym, jak zapadła decyzja? Co by się zmieniło, gdyby brzmiało tylko „postanowiliśmy\"?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Poganie nie dostają jarzma, a jednak dostają kilka próśb. **Po co cokolwiek od nich wymagać, skoro zbawienie jest z łaski? Pomyślcie o tym, kto z kim miał siadać do stołu.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Po przeczytaniu listu w Antiochii „uradowali się\". **Czego ci ludzie mogli się bać, zanim list przyszedł?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Prośby z listu przypominają przepisy, które Prawo Mojżesza stawiało obcym mieszkającym wśród Izraela, w Księdze Kapłańskiej 17 i 18. Ich celem było, żeby wierzący z Żydów i wierzący z pogan mogli jeść przy jednym stole bez zgorszenia. Żyd nie musiał przestać być Żydem. Poganin nie musiał nim zostać. Obie strony coś oddały, żeby stół pozostał jeden. Ewangelii łaski nikt nie oddał.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Kto buduje",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 15,13-18",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy ci umilkli, odezwał się Jakub, mówiąc: Mężowie bracia, posłuchajcie mnie! Szymon opowiedział, jak to Bóg pierwszy zatroszczył się o to, aby spomiędzy pogan wybrać lud dla imienia swego. A z tym zgadzają się słowa proroków, jak napisano: Potem powrócę i odbuduję upadły przybytek Dawida, I odbuduję jego ruiny i podźwignę go, Aby pozostali ludzie szukali Pana, A także wszyscy poganie, Nad którymi wezwane zostało imię moje, Mówi Pan, który to czyni; Znane to jest od wieków."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W proroctwie, które cytuje Jakub, też ktoś buduje. **Kto buduje i dla kogo? Porównajcie to z budowniczymi z Synearu.**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakub mówi, że Bóg „pierwszy zatroszczył się\" o lud spośród pogan. **Co to słowo zmienia w sporze o warunki przyjęcia?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Jedność, której się nie produkuje",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ef 4,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Napominam was tedy ja, więzień w Panu, abyście postępowali, jak przystoi na powołanie wasze, z wszelką pokorą i łagodnością, z cierpliwością, znosząc jedni drugich w miłości, starając się zachować jedność Ducha w spójni pokoju: jedno ciało i jeden Duch, jak też powołani jesteście do jednej nadziei, która należy do waszego powołania; jeden Pan, jedna wiara, jeden chrzest; jeden Bóg i Ojciec wszystkich, który jest ponad wszystkimi, przez wszystkich i we wszystkich."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł wylicza siedem rzeczy, które są jedne. **Którą z nich ktokolwiek z nas zbudował sam? Porównajcie to z miastem w Synearze.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zanim Paweł mówi o jedności, wymienia pokorę, łagodność, cierpliwość i znoszenie się w miłości. **Dlaczego jedność różnych ludzi potrzebuje akurat takich postaw?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Lista kończy się na jednym Ojcu wszystkich. **Czym różni się spór rodzeństwa przy stole ojca od sporu wspólników w firmie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Paweł każe jedność zachować. Zakłada więc, że ona już jest. Nowy Testament nazywa ją słowem `koinonia`, czyli wspólny udział w jednym Bogu, który łączy także ludzi między sobą. W Babel jedność była wyrobem z cegły i wspólnego lęku. Tu jest darem jednego Ducha. Rodzina może się spierać przy stole i dalej być rodziną. Trzyma ją razem Ojciec, który siedzi u szczytu stołu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Różnorodna mądrość",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ef 3,8-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Mnie, najmniejszemu ze wszystkich świętych, została okazana ta łaska, abym zwiastował poganom niezgłębione bogactwo Chrystusowe i abym na światło wywiódł tajemny plan, ukryty od wieków w Bogu, który wszystko stworzył, aby teraz nadziemskie władze i zwierzchności w okręgach niebieskich poznały przez Kościół różnorodną mądrość Bożą,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł pisze, że przez Kościół nawet moce niebieskie poznają „różnorodną mądrość Bożą\". **Co w zborze złożonym z Żydów i pogan mogło im tę mądrość pokazać?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zostałoby z tej lekcji, gdyby w Kościele wszyscy byli jednakowi?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: odwrócenie czy uzdrowienie Babel",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Czy Pięćdziesiątnica cofa to, co stało się w Babel?",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 22,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "I pokazał mi rzekę wody żywota, czystą jak kryształ, wypływającą z tronu Boga i Baranka. Na środku ulicy jego i na obu brzegach rzeki drzewo żywota, rodzące dwanaście razy, wydające co miesiąc swój owoc, a liście drzewa służą do uzdrawiania narodów."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jedni czytają Pięćdziesiątnicę jako odwrócenie Babel. Sąd podzielił ludzi, a Duch zbiera ich z powrotem w jeden lud. Drudzy zwracają uwagę, że w Dz 2 języki zostają, a znikają bariery. W Ap 7 narody i języki wciąż są rozpoznawalne przed tronem. W Ap 22 liście drzewa życia uzdrawiają narody. Goją się rany podziału, a ludy trwają. Obie strony zgadzają się w rzeczy najważniejszej. Jedność ludzi jest w Biblii darem, który schodzi od Boga. Wieża, która wspina się do nieba, jej nie zbuduje.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy w Bożym planie różnice między ludźmi kiedyś znikną? Które z nich mają zostać, a które mają się zagoić?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Gdzie w twoim życiu najłatwiej o jedność w stylu Babel, czyli z ludźmi, którzy mówią i myślą jak ty? **Co sprawia, że jest tak wygodnie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Który z dzisiejszych tekstów najbardziej cię uwiera i dlaczego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, pomyśl o stole, od którego najchętniej byś wstał. **Co cię przy nim trzyma, a co pcha do wyjścia?** Nie musisz mówić, o kogo chodzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W Jerozolimie obie strony coś oddały, żeby stół pozostał jeden. **Gdzie jest granica? Czego nie wolno oddać nawet dla wspólnego stołu, a co trzeba umieć oddać?**",
+     "poziom": 3
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Dla prowadzącego. Nie ma tu gotowej listy i nie próbuj jej ułożyć. Warto zauważyć, że w Dz 15 łaska z wersetu 11 nie była przedmiotem targu. Ustępowano w zwyczajach, które pomagały siedzieć razem.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Babel budowała jedność z jednakowych cegieł. Duch zbiera różnych ludzi przy jednym stole.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Ef 4,3 albo Dz 2,8.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o kimś, kto w twoim zborze albo w rodzinie mówi „innym językiem\" niż ty. Zapytaj siebie uczciwie, **czego od niego naprawdę chcesz**. Żeby cię zrozumiał, czy żeby zaczął mówić tak jak ty?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przyznaj przed Bogiem jedną rzecz, którą w duchu stawiasz innym jako warunek. **Czy to warunek Boga, czy twój?** Zostań przy tym pytaniu, nawet jeśli odpowiedź nie przyjdzie od razu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Wysłuchaj do końca kogoś, z kim się nie zgadzasz. Potem powtórz jego myśl własnymi słowami tak, żeby się w niej rozpoznał. Dopiero wtedy powiedz swoje.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli prawda nie ma znaczenia, byle było miło.\"** Dz 15 pokazuje coś innego. Piotr i Jakub nie ustąpili w sprawie łaski, werset 11. Ustąpili w zwyczajach, które dzieliły stół. Możesz powiedzieć, że jedność w Biblii stoi na wspólnej ewangelii i Pismo pozostaje jej miarą.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To znaczy, że poganie nie muszą przestrzegać przykazań ani szabatu?\"** Spór dotyczył obrzezania jako warunku zbawienia, wersety 1 i 5. O szabacie ani o Dekalogu rozdział nie mówi. Werset 21 wspomina, że Mojżesza czyta się w synagogach „w każdy sabat\". Nie rozwijaj dziś tematu prawa. Pokrewny materiał to Jezus i szabat.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A mówienie językami dzisiaj?\"** W Dz 2 słuchacze słyszą prawdziwe języki swoich krajów, wersety 6 i 8. Tyle mówi tekst. Nie oceniaj praktyk innych wspólnot i wróć do pytania, co Bóg zrobił z różnicą języków.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa skręca w politykę albo w bieżący spór w kościele.** Zatrzymaj ją spokojnie. Powiedz, że dziś patrzymy na to, jak Bóg zbiera różnych ludzi, i wróć do tekstu. Nie komentuj żadnej ze stron.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś przy stole jest innej narodowości albo z innego kościoła i czuje się wskazany.** Pilnuj słów „oni\" i „tamci\". Jeśli ktoś zechce opowiedzieć, jak to jest być obcym w zborze, wysłuchaj bez tłumaczenia się za wszystkich.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada, jak odszedł od stołu albo jak go od niego odsunięto.** Wysłuchaj do końca i podziękuj. Nie ustalaj, kto zawinił. Jeśli sprawa jest świeża, zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa rozkręca się tak, że nie zdążycie z materiałem.** Zostaw blok 4 i przejdź od bloku 3 prosto do bloku 5. Bloki 1 i 2 są tym, bez czego spotkanie traci oś.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Czyli prawda nie ma znaczenia, byle było miło.\"",
+     "odpowiedz": "Dz 15 pokazuje coś innego. Piotr i Jakub nie ustąpili w sprawie łaski, werset 11. Ustąpili w zwyczajach, które dzieliły stół. Możesz powiedzieć, że jedność w Biblii stoi na wspólnej ewangelii i Pismo pozostaje jej miarą."
+    },
+    {
+     "sytuacja": "„To znaczy, że poganie nie muszą przestrzegać przykazań ani szabatu?\"",
+     "odpowiedz": "Spór dotyczył obrzezania jako warunku zbawienia, wersety 1 i 5. O szabacie ani o Dekalogu rozdział nie mówi. Werset 21 wspomina, że Mojżesza czyta się w synagogach „w każdy sabat\". Nie rozwijaj dziś tematu prawa. Pokrewny materiał to Jezus i szabat."
+    },
+    {
+     "sytuacja": "„A mówienie językami dzisiaj?\"",
+     "odpowiedz": "W Dz 2 słuchacze słyszą prawdziwe języki swoich krajów, wersety 6 i 8. Tyle mówi tekst. Nie oceniaj praktyk innych wspólnot i wróć do pytania, co Bóg zrobił z różnicą języków."
+    },
+    {
+     "sytuacja": "Rozmowa skręca w politykę albo w bieżący spór w kościele.",
+     "odpowiedz": "Zatrzymaj ją spokojnie. Powiedz, że dziś patrzymy na to, jak Bóg zbiera różnych ludzi, i wróć do tekstu. Nie komentuj żadnej ze stron."
+    },
+    {
+     "sytuacja": "Ktoś przy stole jest innej narodowości albo z innego kościoła i czuje się wskazany.",
+     "odpowiedz": "Pilnuj słów „oni\" i „tamci\". Jeśli ktoś zechce opowiedzieć, jak to jest być obcym w zborze, wysłuchaj bez tłumaczenia się za wszystkich."
+    },
+    {
+     "sytuacja": "Ktoś opowiada, jak odszedł od stołu albo jak go od niego odsunięto.",
+     "odpowiedz": "Wysłuchaj do końca i podziękuj. Nie ustalaj, kto zawinił. Jeśli sprawa jest świeża, zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "Rozmowa rozkręca się tak, że nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 4 i przejdź od bloku 3 prosto do bloku 5. Bloki 1 i 2 są tym, bez czego spotkanie traci oś."
+    }
+   ]
+  }
+ ]
+}

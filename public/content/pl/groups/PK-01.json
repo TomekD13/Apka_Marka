@@ -1,0 +1,807 @@
+{
+ "tytul": "Kościół, który czuli sąsiedzi",
+ "id": "PK-01",
+ "seria": "Sekret pierwotnego kościoła",
+ "opis": "Pierwsi chrześcijanie nie mieli budynków ani nazwy, a całe miasto widziało, jak żyją.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Dz 2,41-47; Dz 4,32-37; Dz 5,12-16; J 13,34-35; Mt 5,14-16; 1Tes 4,9-12; 1P 2,11-12",
+  "p2": "Dz 3,6-11; Pwt 15,4-5.7-8.11; Dz 11,19-21.25-26; 2Kor 3,2-3",
+  "p3": "Łk 2,52; Rz 10,14-15.17"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 28,
+  "p3": 32
+ },
+ "tagi": [
+  "Kościół",
+  "wspólnota",
+  "świadectwo",
+  "sąsiedzi",
+  "gościnność",
+  "Dzieje Apostolskie"
+ ],
+ "wersja": 1,
+ "zdanie": "Miasto niewiele wiedziało o nauce pierwszych chrześcijan. Znało za to ich stół, i to wystarczyło, żeby zapytać o resztę.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o tym, co widzieli ludzie z zewnątrz. Pierwsi chrześcijanie w Jerozolimie nie mieli budynków ani własnej nazwy. Z Nowego Testamentu nie było jeszcze prawie nic. Większość sąsiadów nie umiałaby powtórzyć, czego ci ludzie uczą. Widzieli za to, jak żyją ze sobą, i to ich przyciągało. Nauka apostołów była wiarygodna, bo otaczało ją takie życie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokrewny materiał to „Sami, ale nie osamotnieni”. Tamten czyta Dz 2 od strony przynależności. Ten czyta go oczami miasta, które patrzy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Łatwo zsunąć się w narzekanie na własny zbór albo w tęsknotę za idealnym początkiem. Łukasz sam pokazuje spory i porażki pierwszego Kościoła. Wracaj do pytania, co w tekście przyciągało ludzi.",
+      "Przy stole może siedzieć ktoś spoza Kościoła. Nie rób z niego sąsiada, na którym grupa ćwiczy świadectwo. Jego spojrzenie z zewnątrz jest cenne, jeśli sam zechce się nim podzielić.",
+      "Teksty o sprzedawaniu ziemi mogą zabrzmieć jak nacisk na pieniądze. Łukasz opisuje dobrowolne dzielenie się. Nie łącz tego z dziesięciną ani ze zbiórkami w zborze.",
+      "Rozmowa może zejść na cuda i na pytanie, dlaczego dziś ich nie widać. Nie rozstrzygaj tego dzisiaj. Tematem jest to, co widziało miasto."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie planujcie akcji dla dzielnicy ani programu ewangelizacji. Nie porównujcie swojego zboru z innymi zborami czy wyznaniami. Nie stawiaj nikogo za wzór gościnności.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o ludziach, którzy mieszkają najbliżej ciebie, za ścianą albo po drugiej stronie ulicy. Powiedz jednym zdaniem, co twoim zdaniem o tobie wiedzą, choć nigdy im tego nie mówiłeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Całe miasto patrzyło",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 2,41-47",
+       "przeklad": "BW",
+       "akapity": [
+        "Ci więc, którzy przyjęli słowo jego, zostali ochrzczeni i pozyskanych zostało owego dnia około trzech tysięcy dusz. I trwali w nauce apostolskiej i we wspólnocie, w łamaniu chleba i w modlitwach. A dusze wszystkich ogarnięte były bojaźnią, albowiem za sprawą apostołów działo się wiele cudów i znaków. Wszyscy zaś, którzy uwierzyli, byli razem i mieli wszystko wspólne, i sprzedawali posiadłości i mienie, i rozdzielali je wszystkim, jak komu było potrzeba.",
+        "Codziennie też jednomyślnie uczęszczali do świątyni, a łamiąc chleb po domach, przyjmowali pokarm z weselem i w prostocie serca, chwaląc Boga i ciesząc się przychylnością całego ludu. Pan zaś codziennie pomnażał liczbę tych, którzy mieli być zbawieni."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 42 wylicza cztery rzeczy, przy których trwali. **Które z nich mógł zobaczyć sąsiad, a które najwyżej usłyszeć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Łukasz pisze o „przychylności całego ludu”. **Co w tym opisie mogło budzić życzliwość ludzi, którzy tej wiary nie podzielali?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jedli „po domach”, „z weselem i w prostocie serca”. **Jak mogła wyglądać taka ulica wieczorem oczami kogoś, kto mieszkał obok?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ostatnie zdanie mówi, kto pomnażał liczbę wierzących. **Co to zdanie zdejmuje z ramion wspólnoty, a co w niej zostawia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Słowo „wspólnota” w wersecie 42 to po grecku `koinonia`, czyli wspólny udział w czymś, dzielenie jednej rzeczy razem. Nauka apostołów stoi na tej liście pierwsza, lecz jest jedną z czterech. Pozostałe trzy to sposoby bycia razem. Nowy Testament dopiero miał powstać. Większość sąsiadów nie zdałaby więc egzaminu z nauki chrześcijan. Znali za to ich stół.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Zdumione miasto",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 3,6-11",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Piotr: Srebra i złota nie mam, lecz co mam, to ci daję: W imieniu Jezusa Chrystusa Nazareńskiego, chodź! I ująwszy go za prawą rękę, podniósł go; natychmiast też wzmocniły się nogi jego i kostki, i zerwawszy się, stanął i chodził, i wszedł z nimi do świątyni, przechadzając się i podskakując, i chwaląc Boga. A cały lud widział go, jak chodził i chwalił Boga; poznali bowiem, że to był ten, który dla jałmużny siadywał przy Bramie Pięknej świątyni; i ogarnęło ich zdumienie i oszołomienie z powodu tego, co mu się przydarzyło. A gdy się on trzymał Piotra i Jana, zbiegł się do nich cały lud zdumiony do przysionka, zwanego Salomonowym."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ten człowiek siedział przy bramie latami i wszyscy go znali. **Dlaczego to, że lud go rozpoznał, tak wiele znaczy w tej scenie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr nie ma srebra ani złota. Mówi „co mam, to ci daję”. **Co ma do dania wspólnota, która nie ma pieniędzy ani budynków?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Przychylność całego ludu” to w wersecie 47 greckie `charis`, czyli łaska. Tym samym słowem Łukasz opisuje dorastającego Jezusa.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 2,52",
+       "przeklad": "BW",
+       "akapity": [
+        "Jezusowi zaś przybywało mądrości i wzrostu oraz łaski u Boga i u ludzi."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W Dz 4,33 słowo wraca jeszcze raz. „Wielka łaska spoczywała na nich wszystkich”. Jedni czytają to zdanie jako łaskę Bożą. Inni widzą w nim życzliwość ludzi. Greka pozwala na jedno i drugie, a Łukasz chyba celowo ich nie rozdziela.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Łaska i życzliwość mieszczą się tu w jednym słowie. **Jak to, co Bóg robi we wspólnocie, przechodzi w to, co czują sąsiedzi?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Nikt nie cierpiał niedostatku",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 4,32-37",
+       "przeklad": "BW",
+       "akapity": [
+        "A u tych wszystkich wierzących było jedno serce i jedna dusza i nikt z nich nie nazywał swoim tego, co posiadał, ale wszystko mieli wspólne. Apostołowie zaś składali z wielką mocą świadectwo o zmartwychwstaniu Pana Jezusa, a wielka łaska spoczywała na nich wszystkich. Nie było też między nimi nikogo, który by cierpiał niedostatek, ci bowiem, którzy posiadali ziemię albo domy, sprzedając je, przynosili pieniądze uzyskane ze sprzedaży i kładli u stóp apostołów; i wydzielano każdemu, ile komu było potrzeba.",
+        "I tak, Józef, nazwany przez apostołów Barnabą, co się wykłada Syn Pocieszenia, lewita, rodem z Cypru, sprzedał rolę, którą posiadał, przyniósł pieniądze i złożył u stóp apostołów."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W środku opisu dzielenia się stoi zdanie o świadectwie apostołów. **Jak to świadectwo o zmartwychwstaniu łączy się z tym, co dzieje się wokół niego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Nikt z nich nie nazywał swoim tego, co posiadał”. **Co musi się zmienić w człowieku, żeby tak patrzył na własne rzeczy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Co zdanie „nie było też między nimi nikogo, który by cierpiał niedostatek” mogło znaczyć dla ubogich Jerozolimy, którzy na to patrzyli?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Łukasz nie opisuje przymusowego ustroju. Ludzie sprzedawali ziemię stopniowo, w miarę potrzeb. Barnaba jest wymieniony z imienia, bo jego dar był dobrowolny i warty zapamiętania. W Dz 12,12 Kościół modli się w domu Marii, matki Marka. Ktoś więc zachował dom i otworzył go dla innych. Pierwszy Kościół nie daje tu przepisu. Daje przykład, co robi z ludźmi wspólne serce.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie będzie u ciebie ubogiego",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 15,4-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo oczywiście nie będzie u ciebie ubogiego, gdyż Pan błogosławić ci będzie w ziemi, którą Pan, Bóg twój, daje ci w dziedziczne posiadanie, jeżeli tylko będziesz słuchał głosu Pana, Boga swego, i starannie spełniał to przykazanie, które ci dziś nadaję,"
+       ]
+      },
+      {
+       "odnosnik": "Pwt 15,7-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeśliby jednak był u ciebie jakiś ubogi spośród twoich braci w jednej z twoich bram, w twojej ziemi, którą Pan, twój Bóg, ci daje, to nie zamkniesz swego serca i nie zaciśniesz swojej ręki przed twoim ubogim bratem. Lecz otworzysz przed nim swoją rękę i pożyczysz mu pod dostatkiem tego, czego mu będzie brakowało."
+       ]
+      },
+      {
+       "odnosnik": "Pwt 15,11",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdyż nie braknie ubogich na tej ziemi, i dlatego nakazuję ci: W ziemi swojej otwieraj szczodrze swoją rękę przed swoim bratem, przed nędzarzem i biedakiem."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ten sam rozdział mówi „nie będzie u ciebie ubogiego” i „nie braknie ubogich”. **Jak te dwa zdania mogą stać obok siebie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Prawo mówi o sercu i o ręce. **Co z tej obietnicy zaczęło się spełniać w Jerozolimie z Dz 4?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "W Dz 4,34 Łukasz używa greckiego słowa na człowieka w potrzebie. W Nowym Testamencie stoi ono tylko w tym jednym miejscu. To samo słowo ma greckie tłumaczenie Pwt 15,4, które znali pierwsi chrześcijanie. Czytelnik znający Pismo mógł więc usłyszeć, że stara obietnica ożyła przy stole zwykłych ludzi.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Z szacunkiem i z daleka",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Tuż wcześniej Łukasz opowiada trudną historię Ananiasza i Safiry, po której wielki strach ogarnął cały zbór i wszystkich, którzy o niej usłyszeli.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 5,12-16",
+       "przeklad": "BW",
+       "akapity": [
+        "A przez ręce apostołów działo się wśród ludu wiele znaków i cudów. I zgromadzali się wszyscy jednomyślnie w przysionku Salomonowym, z postronnych jednak nikt nie ośmielał się do nich przyłączać; ale lud miał ich w wielkim poważaniu. Przybywało też coraz więcej wierzących w Pana, mnóstwo mężczyzn i kobiet, tak iż nawet na ulice wynoszono chorych i kładziono na noszach i łożach, aby przynajmniej cień przechodzącego Piotra mógł paść na którego z nich. Również z okolicznych miast Jerozolimy schodziło się wielu przynosząc chorych i dręczonych przez duchy nieczyste i wszyscy oni zostali uzdrowieni."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 13 mówi dwie rzeczy naraz. Postronni się nie przyłączali, a lud miał wierzących „w wielkim poważaniu”. **Co mogło trzymać ludzi na dystans i zarazem budzić ich szacunek?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przysionek Salomona to kryta kolumnada przy dziedzińcu świątyni. **Co znaczy dla wspólnoty, że jej życie toczy się tam, gdzie każdy może je zobaczyć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Chorych wynoszono na ulice, a ludzie schodzili się z okolicznych miast. **Kto w tej scenie przychodzi do Kościoła i z czym przychodzi?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Po tym poznają",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 13,34-35",
+       "przeklad": "BW",
+       "akapity": [
+        "Nowe przykazanie daję wam, abyście się wzajemnie miłowali, jak Ja was umiłowałem; abyście się i wy wzajemnie miłowali. Po tym wszyscy poznają, żeście uczniami moimi, jeśli miłość wzajemną mieć będziecie."
+       ]
+      },
+      {
+       "odnosnik": "Mt 5,14-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Wy jesteście światłością świata; nie może się ukryć miasto położone na górze. Nie zapalają też świecy i nie stawiają jej pod korcem, lecz na świeczniku, i świeci wszystkim, którzy są w domu. Tak niechaj świeci wasza światłość przed ludźmi, aby widzieli wasze dobre uczynki i chwalili Ojca waszego, który jest w niebie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi, po czym „wszyscy poznają” Jego uczniów. **Czego w tym zdaniu nie ma, choć moglibyśmy się tego spodziewać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ta miłość jest wzajemna, między uczniami. **Dlaczego świat miałby rozpoznać Jezusa właśnie po tym, jak Jego ludzie traktują siebie nawzajem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Miasto na górze nie stara się być widoczne. Po prostu stoi tam, gdzie stoi. **Co z życia wspólnoty sąsiedzi widzą bez żadnego wysiłku z jej strony, i to dobre, i to złe?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Około roku 200 pewien chrześcijański pisarz z Kartaginy zanotował zdanie, które poganie powtarzali o jego współwyznawcach. „Patrzcie, jak oni się miłują”. Półtora wieku później cesarz Julian próbował przywrócić dawne kulty. W liście do pogańskiego kapłana skarżył się, że chrześcijanie karmią swoich ubogich i do tego ubogich pogańskich. Sąsiedzi wciąż niewiele wiedzieli o nauce chrześcijan. Ich życie widzieli doskonale.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co to mówi, że akurat przeciwnik chrześcijan zauważył ich stół dla obcych?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nazwa z ulicy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 11,19-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Tymczasem ci, którzy zostali rozproszeni na skutek prześladowania, jakie wybuchło z powodu Szczepana, dotarli aż do Fenicji, na Cypr i do Antiochii, nikomu nie głosząc słowa, tylko samym Żydom. Niektórzy zaś z nich byli Cypryjczykami i Cyrenejczykami; ci, gdy przyszli do Antiochii, zwracali się również do Greków, głosząc dobrą nowinę o Panu Jezusie. I ręka Pańska była z nimi, wielka też była liczba tych, którzy uwierzyli i nawrócili się do Pana."
+       ]
+      },
+      {
+       "odnosnik": "Dz 11,25-26",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem poszedł do Tarsu, aby odszukać Saula, a gdy go znalazł, przyprowadził go do Antiochii. I tak się ich sprawy ułożyły, że przez cały rok przebywali razem w zborze i nauczali wielu ludzi; w Antiochii też nazwano po raz pierwszy uczniów chrześcijanami."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wierzący sami siebie tak nie nazwali. **Co musieli zobaczyć mieszkańcy Antiochii, żeby w ogóle potrzebować dla nich osobnej nazwy?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jaką nazwę nadaliby wam ludzie z waszej ulicy, gdyby znali tylko wasze życie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Słowo „chrześcijanie” jest greckie, z łacińską końcówką. Najpewniej nie ukuli go więc Żydzi, którzy mówili o uczniach „nazarejczycy”. Na początku brzmiało pewnie drwiąco. Wierzący przyjęli je jako swoje.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Wobec tych, którzy są poza zborem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Tes 4,9-12",
+       "przeklad": "BW",
+       "akapity": [
+        "A o miłości braterskiej nie potrzeba wam pisać, bo jesteście sami przez Boga pouczeni, że należy się nawzajem miłować; to zresztą czynicie względem wszystkich braci w całej Macedonii. My zaś napominamy was, bracia, żebyście tym bardziej obfitowali i gorliwie się starali prowadzić żywot cichy, pełnić swe obowiązki i pracować własnymi rękami, jak wam przykazaliśmy, tak abyście wobec tych, którzy są poza zborem, uczciwie postępowali i na niczyją pomoc nie byli zdani."
+       ]
+      },
+      {
+       "odnosnik": "1P 2,11-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Umiłowani, napominam was, abyście jako pielgrzymi i wychodźcy wstrzymywali się od cielesnych pożądliwości, które walczą przeciwko duszy; prowadźcie wśród pogan życie nienaganne, aby ci, którzy was obmawiają jako złoczyńców, przypatrując się bliżej dobrym uczynkom, wysławiali Boga w dzień nawiedzenia."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł nie prosi o nic nadzwyczajnego. **Co z jego listy zobaczyłby sąsiad, kolega z pracy albo sprzedawca w sklepie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Piotr pisze do ludzi, o których sąsiedzi mówią źle. **Na co liczy, kiedy pisze, że ci sąsiedzi będą się „przypatrywać bliżej”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paweł stawia miłość braterską obok pracy własnymi rękami. **Dlaczego zwykła uczciwość w pracy należy do tego samego świadectwa co wspólny stół?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "List czytany przez wszystkich",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Kor 3,2-3",
+       "przeklad": "BW",
+       "akapity": [
+        "Wy jesteście listem naszym, napisanym w sercach naszych, znanym i czytanym przez wszystkich ludzi; wiadomo przecież, że jesteście listem Chrystusowym sporządzonym przez nasze usługiwanie, napisanym nie atramentem, ale Duchem Boga żywego, nie na tablicach kamiennych, lecz na tablicach serc ludzkich."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nazywa zbór listem „znanym i czytanym przez wszystkich ludzi”. **Co ludzie wokół was czytają z waszej wspólnoty, zanim ktokolwiek otworzy im Biblię?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kto według Pawła pisze ten list? Co to zdejmuje z naszych ramion?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: słowo czy życie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 10,14-15.17",
+       "przeklad": "BW",
+       "akapity": [
+        "Ale jak mają wzywać tego, w którego nie uwierzyli? A jak mają uwierzyć w tego, o którym nie słyszeli? A jak usłyszeć, jeśli nie ma tego, który zwiastuje? A jak mają zwiastować, jeżeli nie zostali posłani? Jak napisano: O jak piękne są nogi tych, którzy zwiastują dobre nowiny! [...] Wiara tedy jest ze słuchania, a słuchanie przez Słowo Chrystusowe."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Paweł mówi, że wiara rodzi się ze słuchania. Jezus i Piotr mówią o życiu, na które ludzie patrzą. W Kościele słychać dwa akcenty. Jedni podkreślają wyraźne głoszenie, bo bez słowa nikt nie pozna imienia Jezusa. Drudzy przypominają, że słowo bez życia traci wiarygodność i że wielu ludzi najpierw patrzy, a dopiero potem słucha. Obie strony zgadzają się co do jednego. Łukasz trzyma jedno i drugie razem. Apostołowie świadczyli z mocą o zmartwychwstaniu w samym środku opisu wspólnego stołu i wspólnego majątku.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdzie w waszej wspólnocie słowo wyprzedza życie, a gdzie życie czeka na słowo, którego nikt jeszcze nie wypowiedział?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co się dzieje z wiarygodnością nauki, gdy ludzie, którzy ją głoszą, żyją obok siebie zamiast ze sobą?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pierwsi chrześcijanie mieli niewiele poza wspólnym życiem. **Co z naszego życia razem widać z ulicy, a co zna tylko zbór od środka?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Łukasz dwa razy w kilku wersetach wspomina stół. **Co sprawia, że twój stół i twoje drzwi łatwo albo trudno otworzyć dla kogoś spoza twojego kręgu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **przy kim chciałbyś, żeby twoja wiara była bardziej widoczna w tym, jak żyjesz?** Nie musisz mówić dlaczego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdyby wasz zbór jutro zniknął z ulicy, kto spoza niego by to zauważył? Co ta odpowiedź mówi o was, a co o miejscu, w którym żyjecie?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie broni zboru i nie szuka winnych. Warto, żeby padło spostrzeżenie, że pierwsi chrześcijanie nie mieli na to strategii. Mieli nawyki, a nawyki są dostępne także dziś.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Miasto niewiele wiedziało o nauce pierwszych chrześcijan. Znało za to ich stół, i to wystarczyło, żeby zapytać o resztę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** J 13,35 albo Dz 2,47.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o sąsiedzie, którego znasz tylko z widzenia. Zapytaj siebie, **co on wie o twojej wierze z tego, jak żyjesz**. Nie z tego, co mówisz. Zostań przy tej odpowiedzi, nawet jeśli jest niewygodna.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "„Nikt z nich nie nazywał swoim tego, co posiadał”. Przyznaj przed Bogiem, **która rzecz albo który czas jest u ciebie najbardziej „mój”**. Nie musisz jeszcze nic z tym robić.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Zapytaj Boga, kogo przy twoim stole brakuje. Jeśli przyjdzie ci na myśl konkretna twarz, nie odganiaj jej. Czasem najprostsze zaproszenie brzmi „wpadnij do nas jutro”.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„U nas w zborze tak nie ma. Pierwszy Kościół był inny.”** Nie broń zboru i nie przytakuj goryczy. Pierwszy Kościół miał swoje spory, przeoczone wdowy i ludzi, którzy kłamali. Łukasz o tym pisze. Zapytaj, co w dzisiejszych tekstach jest małe i możliwe już w tym tygodniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli mamy wszystko sprzedać i oddać?”** Tekst tego nie mówi. Barnaba dał dobrowolnie, a Maria zachowała dom i otworzyła go dla Kościoła. Nie przechodź do tematu dziesięciny ani zbiórek. Wróć do pytania, co znaczy nie nazywać czegoś wyłącznie swoim.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś pyta o Ananiasza i Safirę.** To trudna historia i nie należy jej zbywać. Nie wchodź w nią szczegółowo dzisiaj. Powiedz, że Piotr sam przypomina Ananiaszowi, że ziemia i pieniądze były jego, więc chodziło o kłamstwo przed Bogiem, a nie o to, ile dał. Jeśli grupa chce wrócić do tej historii, zaproponuj osobne spotkanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Dlaczego dziś nie ma takich cudów?”** To uczciwe pytanie i nie ma na nie krótkiej odpowiedzi. Nie rozstrzygaj go. Zwróć uwagę, że w dzisiejszych tekstach sąsiadów przyciągał także stół, dzielenie się i miłość wzajemna, a tego nikt nam nie zabrał.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa zaczyna planować akcję dla osiedla.** Zatrzymaj to łagodnie. Pierwsi chrześcijanie nie mieli programu. Mieli wspólne życie, które było widać. Zapytaj raczej, co każdy już teraz dzieli z ludźmi wokół siebie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś spoza Kościoła mówi, że chrześcijanie, których zna, wcale tak nie żyją.** Podziękuj za szczerość i nie tłumacz się. To dokładnie ten wzrok z zewnątrz, o którym mówią dzisiejsze teksty. Możesz zapytać, co by go przekonało.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 3. Bloki 1, 2 i 4 niosą spotkanie: stół widziany przez miasto, wspólne serce i słowa Jezusa o tym, po czym poznają Jego uczniów.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„U nas w zborze tak nie ma. Pierwszy Kościół był inny.”",
+     "odpowiedz": "Nie broń zboru i nie przytakuj goryczy. Pierwszy Kościół miał swoje spory, przeoczone wdowy i ludzi, którzy kłamali. Łukasz o tym pisze. Zapytaj, co w dzisiejszych tekstach jest małe i możliwe już w tym tygodniu."
+    },
+    {
+     "sytuacja": "„Czyli mamy wszystko sprzedać i oddać?”",
+     "odpowiedz": "Tekst tego nie mówi. Barnaba dał dobrowolnie, a Maria zachowała dom i otworzyła go dla Kościoła. Nie przechodź do tematu dziesięciny ani zbiórek. Wróć do pytania, co znaczy nie nazywać czegoś wyłącznie swoim."
+    },
+    {
+     "sytuacja": "Ktoś pyta o Ananiasza i Safirę.",
+     "odpowiedz": "To trudna historia i nie należy jej zbywać. Nie wchodź w nią szczegółowo dzisiaj. Powiedz, że Piotr sam przypomina Ananiaszowi, że ziemia i pieniądze były jego, więc chodziło o kłamstwo przed Bogiem, a nie o to, ile dał. Jeśli grupa chce wrócić do tej historii, zaproponuj osobne spotkanie."
+    },
+    {
+     "sytuacja": "„Dlaczego dziś nie ma takich cudów?”",
+     "odpowiedz": "To uczciwe pytanie i nie ma na nie krótkiej odpowiedzi. Nie rozstrzygaj go. Zwróć uwagę, że w dzisiejszych tekstach sąsiadów przyciągał także stół, dzielenie się i miłość wzajemna, a tego nikt nam nie zabrał."
+    },
+    {
+     "sytuacja": "Grupa zaczyna planować akcję dla osiedla.",
+     "odpowiedz": "Zatrzymaj to łagodnie. Pierwsi chrześcijanie nie mieli programu. Mieli wspólne życie, które było widać. Zapytaj raczej, co każdy już teraz dzieli z ludźmi wokół siebie."
+    },
+    {
+     "sytuacja": "Ktoś spoza Kościoła mówi, że chrześcijanie, których zna, wcale tak nie żyją.",
+     "odpowiedz": "Podziękuj za szczerość i nie tłumacz się. To dokładnie ten wzrok z zewnątrz, o którym mówią dzisiejsze teksty. Możesz zapytać, co by go przekonało."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3. Bloki 1, 2 i 4 niosą spotkanie: stół widziany przez miasto, wspólne serce i słowa Jezusa o tym, po czym poznają Jego uczniów."
+    }
+   ]
+  }
+ ]
+}
