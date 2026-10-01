@@ -77,6 +77,48 @@ Na Windowsie dawaj `PYTHONIOENCODING=utf-8`, inaczej konsola psuje polskie znaki
 bój; grzech relacyjnie; bóstwo Jezusa i Ducha; sola scriptura; krytyka nauczania i instytucji,
 nigdy ludzi; dar proroctwa i EGW bez nacisku, fundamentem Biblia.
 
+## Beta (`/beta/`) – co siedzi za przełącznikiem
+
+**Stan na 2026-10-02.** Decyzja autora: nowe funkcje powstają **najpierw tylko na becie**
+(https://jestnadzieja.adwent.pl/beta/). Na GitHubie beta **nie jest osobną gałęzią** –
+kod leży w `main`, a wyłącza go flaga:
+
+```ts
+// src/lib/beta.ts
+export const BETA = import.meta.env.DEV || import.meta.env.BASE_URL === '/beta/'
+```
+
+`bash deploy-beta.sh` buduje z `VITE_BASE=/beta/`, więc flaga jest włączona.
+`bash deploy-ftp.sh` buduje z `/`, więc wydanie strony głównej z tego samego drzewa
+**nie pokazuje** niczego z listy niżej. Commity z takimi zmianami mają w tytule `[BETA]`.
+
+Za flagą (`BETA` albo `ACCOUNTS_ENABLED`, które jest jej aliasem):
+
+| funkcja | pliki |
+|---|---|
+| konto: logowanie Google albo linkiem na e-mail, synchronizacja, usuwanie konta | `lib/account.ts` (Firebase, ładowany leniwie), `lib/accountGate.ts`, `lib/firebaseConfig.ts`, `pages/Account.tsx` |
+| synchronizacja list z `localStorage` (scalanie per pozycja, nagrobki usuniętych) | `lib/syncMeta.ts`, wywołanie w `lib/localStore.ts` → `writeList()` |
+| plany czytania (10 planów, przeliczanie tempa) i pasek planu przy rozdziale | `lib/readingPlans.ts`, `pages/ReadingPlans.tsx`, `components/PlanBar.tsx`, `content/pl/reading-plans.json` |
+| przeczytane i ulubione materiały, strona `/ulubione` | `lib/progress.ts`, `lib/favMaterials.ts`, `components/MaterialActions.tsx`, `pages/Favorites.tsx` |
+| pozycje w menu: Plany czytania, Ulubione, Twoje konto | `components/AppNavigation.tsx` |
+
+**Co jedzie do chmury** (`isSyncedKey` w `lib/syncMeta.ts`): notatki, dziennik modlitw,
+zakładki w Biblii, ulubione pieśni, ulubione materiały, plany czytania, przeczytane.
+Nowa lista danych czytelnika = dopisz jej klucz tam i zapisuj ją przez `writeList()`;
+bezpośredni `localStorage.setItem` omija synchronizację.
+
+**Firebase:** projekt `jest-nadzieja`, Firestore `europe-central2` (Warszawa), dane
+w `users/{uid}/lists/{lista}`, reguły wpuszczają wyłącznie właściciela. Konsolą zarządza
+Marek. Dozwolona domena: `jestnadzieja.adwent.pl`.
+
+**Zanim beta pójdzie na stronę główną:**
+1. Plan **Blaze** w Firebase – na darmowym planie Spark idzie najwyżej **5 maili z linkiem
+   logowania dziennie** (https://firebase.google.com/docs/auth/limits).
+2. Przegląd kolejności planu „Biblia chronologicznie” (`reading-plans.json`) – to porządek
+   uproszczony, nie z konkretnego źródła.
+3. Zmiana flagi: `BETA = true` (albo usunięcie warunków) i jedno wydanie `deploy-ftp.sh`.
+   Dotychczasowe oznaczenia „przeczytane” przeniosą się same (`read:v1` → `read:v2`).
+
 ## Publikacja
 
 - Repozytorium: **`pastormarek/aplikacja`, publiczne** (decyzja autora 2026-08-25: podgląd
