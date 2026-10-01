@@ -17,6 +17,7 @@ import {
   readingDates,
   recalcPlan,
   removePlan,
+  setBarPlan,
   schedule,
   startPlan,
   today,
@@ -24,6 +25,7 @@ import {
   type UserPlan,
 } from '../lib/readingPlans'
 import type { BibleBookMeta, ReadingPlanDef } from '../types'
+import { ACCOUNTS_ENABLED, wasSignedIn } from '../lib/accountGate'
 
 // Plany czytania Biblii (na razie tylko beta - BETA w lib/beta.ts).
 // Najpierw wybor planu, potem parametry: start, dlugosc, dni tygodnia.
@@ -86,6 +88,18 @@ export function ReadingPlansPage() {
       <BackLink to={`/${lang}/biblia`} className="mb-4">{t('bible.title', 'Biblia')}</BackLink>
       <PageHeading icon="book" title={t('plans.title', 'Plany czytania')} />
       <p className="mt-3 text-slate-600 dark:text-slate-300">{t('plans.intro', '')}</p>
+      {ACCOUNTS_ENABLED && (
+        <p className="mt-3 rounded-xl border border-brand/30 bg-brand/5 p-3 text-sm text-slate-700 dark:border-sky-300/30 dark:bg-sky-300/5 dark:text-slate-200">
+          {wasSignedIn() ? (
+            t('plans.synced', 'Twoje plany zapisują się na koncie – zobaczysz je na każdym swoim urządzeniu.')
+          ) : (
+            <>
+              {t('plans.signInHint', 'Zaloguj się, żeby plan i postępy były na każdym twoim urządzeniu.')}{' '}
+              <Link to={`/${lang}/konto`} className="font-semibold text-brand underline dark:text-sky-300">{t('plans.signIn', 'Twoje konto')}</Link>
+            </>
+          )}
+        </p>
+      )}
 
       {!defs || !books ? (
         <Status failed={failed} />
@@ -278,7 +292,7 @@ function ChapterRow({ planId, c, books, done, onChange }: { planId: string; c: P
         aria-label={t('plans.markRead', 'Przeczytane')}
         className="h-5 w-5"
       />
-      <Link to={`/${lang}/biblia/${c.osis}/${c.ch}`} className={`flex-1 font-medium ${done ? 'text-slate-400 line-through' : 'text-brand hover:underline dark:text-sky-300'}`}>
+      <Link to={`/${lang}/biblia/${c.osis}/${c.ch}`} onClick={() => setBarPlan(planId)} className={`flex-1 font-medium ${done ? 'text-slate-400 line-through' : 'text-brand hover:underline dark:text-sky-300'}`}>
         {formatChapters([c], books)}
       </Link>
     </li>

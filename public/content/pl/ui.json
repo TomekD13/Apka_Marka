@@ -14,7 +14,7 @@
     "bibleText": "Biblia",
     "songs": "Pieśni",
     "prayer": "Modlitwa",
-    "lessons": "Lekcje biblijne",
+    "lessons": "Szkoła Biblijna",
     "settings": "Ustawienia"
   },
   "home": {
@@ -35,7 +35,7 @@
     "downloading": "Pobieram…",
     "offlineReady": "Offline gotowe",
     "bars": {
-      "studies": "Poznaj Boga i Biblię",
+      "studies": "Lekcje Biblijne",
       "studiesDesc": "Najważniejsze tematy biblijne",
       "hope": "#JestNadzieja",
       "hopeDesc": "Wspólna modlitwa i materiały do dzielenia się nadzieją.",
@@ -217,7 +217,7 @@
     "movedToYouth": "Ta pieśń jest teraz w pieśniach młodzieżowych."
   },
   "sabbathSchool": {
-    "title": "Lekcje biblijne",
+    "title": "Szkoła Biblijna",
     "desc": "Szkoła sobotnia – cotygodniowe studium Biblii (Adventech).",
     "thisWeek": "Na ten tydzień",
     "lesson": "Lekcja"
@@ -424,7 +424,7 @@
   },
   "account": {
     "title": "Twoje konto",
-    "lead": "Konto jest po to, żeby twoje notatki, dziennik modlitw, ulubione pieśni i zakładki były na każdym twoim urządzeniu. Bez konta aplikacja działa tak samo – wszystko zostaje w tej przeglądarce.",
+    "lead": "Konto jest po to, żeby twoje notatki, dziennik modlitw, ulubione pieśni, zakładki i plany czytania były na każdym twoim urządzeniu. Bez konta aplikacja działa tak samo – wszystko zostaje w tej przeglądarce.",
     "soon": "Logowanie nie jest jeszcze podłączone.",
     "soonBody": "Wejdzie logowanie linkiem na e-mail albo kontem Google – bez haseł. Adres służy wyłącznie do logowania: nie ma list wysyłkowych ani śledzenia.",
     "backup": "Do czasu logowania kopię swoich rzeczy zrobisz sam:",
@@ -454,12 +454,12 @@
     "sendLink": "Wyślij link",
     "signedInAs": "Zalogowano jako",
     "syncError": "Synchronizacja chwilowo nie działa. Zmiany są bezpieczne na tym urządzeniu i pójdą, gdy połączenie wróci.",
-    "syncOk": "Notatki, dziennik modlitw, zakładki i ulubione pieśni są zsynchronizowane.",
+    "syncOk": "Notatki, dziennik modlitw, zakładki, ulubione pieśni i plany czytania są zsynchronizowane.",
     "syncing": "Synchronizuję…",
     "signOut": "Wyloguj",
     "delete": "Usuń konto",
     "privacyTitle": "Co dzieje się z twoimi danymi",
-    "privacy": "Na koncie zapisują się tylko twoje notatki, dziennik modlitw, zakładki i ulubione pieśni – nic więcej. Leżą w bazie Google Firebase w Warszawie, a reguły tej bazy wpuszczają do nich wyłącznie twoje konto. Adres e-mail służy tylko do logowania: nie ma list wysyłkowych ani śledzenia. Przycisk „Usuń konto” kasuje konto razem z kopią w chmurze.",
+    "privacy": "Na koncie zapisują się tylko twoje notatki, dziennik modlitw, zakładki, ulubione pieśni i plany czytania – nic więcej. Leżą w bazie Google Firebase w Warszawie, a reguły tej bazy wpuszczają do nich wyłącznie twoje konto. Adres e-mail służy tylko do logowania: nie ma list wysyłkowych ani śledzenia. Przycisk „Usuń konto” kasuje konto razem z kopią w chmurze.",
     "backupLive": "Kopię do pliku zrobisz też bez konta:"
   },
   "reading": {
@@ -566,6 +566,14 @@
     "sat": "Sb",
     "sun": "Nd",
     "tile": "Plany czytania",
-    "tileDesc": "Cała Biblia, Nowy Testament, Psalmy i inne – w tempie, które ustalasz."
+    "tileDesc": "Cała Biblia, Nowy Testament, Psalmy i inne – w Twoim tempie",
+    "synced": "Twoje plany zapisują się na koncie – zobaczysz je na każdym swoim urządzeniu.",
+    "signInHint": "Zaloguj się, żeby plan i postępy były na każdym twoim urządzeniu.",
+    "signIn": "Twoje konto",
+    "barClose": "Zamknij pasek planu",
+    "barNext": "Dalej",
+    "barPrev": "Wstecz",
+    "barOutside": "Ten rozdział nie należy do planu.",
+    "barBackToPlan": "Plan"
   }
 }

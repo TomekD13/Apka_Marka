@@ -207,7 +207,7 @@ function AccountLive() {
             {st?.sync === 'error'
               ? t('account.syncError', 'Synchronizacja chwilowo nie działa. Zmiany są bezpieczne na tym urządzeniu i pójdą, gdy połączenie wróci.')
               : st?.sync === 'ok'
-                ? t('account.syncOk', 'Notatki, dziennik modlitw, zakładki i ulubione pieśni są zsynchronizowane.')
+                ? t('account.syncOk', 'Notatki, dziennik modlitw, zakładki, ulubione pieśni i plany czytania są zsynchronizowane.')
                 : t('account.syncing', 'Synchronizuję…')}
           </p>
           <div className="mt-4 flex flex-wrap gap-2">

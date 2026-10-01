@@ -2,6 +2,7 @@ import { useEffect, useState, type ReactNode } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { useI18n } from '../i18n'
 import { ACCOUNTS_ENABLED } from '../lib/accountGate'
+import { BETA } from '../lib/beta'
 
 export type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' | 'download' | 'settings' | 'close' | 'notes' | 'memory' | 'occasion' | 'lesson' | 'group' | 'contact' | 'account' | 'chevron'
 
@@ -83,13 +84,14 @@ export function AppNavigation() {
         <div className="mb-5 flex items-center justify-between"><Link to={home} viewTransition onClick={() => setOpen(false)} className="text-lg font-bold text-slate-900 dark:text-white">#JestNadzieja</Link><button type="button" onClick={() => setOpen(false)} aria-label={t('common.close', 'Zamknij')} className="rounded-lg p-2 text-slate-600 hover:bg-slate-100 dark:text-slate-200 dark:hover:bg-white/10"><AppIcon name="close" className="h-5 w-5"/></button></div>
         <DrawerGroup icon="book" title={t('nav.bible', 'Biblia')} open={bibleOpen} onToggle={() => setBibleOpen(!bibleOpen)}>
           <DrawerLink to={`${home}/biblia/czytaj`} icon="book" onClick={() => setOpen(false)}>{t('nav.bibleText', 'Biblia')}</DrawerLink>
-          <DrawerLink to={`${home}/poznaj-boga-i-biblie`} icon="lesson" onClick={() => setOpen(false)}>{t('home.bars.studies', 'Poznaj Boga i Biblię')}</DrawerLink>
-          <DrawerLink to={`${home}/lekcje-biblijne`} icon="lesson" onClick={() => setOpen(false)}>{t('nav.lessons', 'Lekcje biblijne')}</DrawerLink>
+          {BETA && <DrawerLink to={`${home}/biblia/plany`} icon="book" onClick={() => setOpen(false)}>{t('plans.title', 'Plany czytania')}</DrawerLink>}
+          <DrawerLink to={`${home}/poznaj-boga-i-biblie`} icon="lesson" onClick={() => setOpen(false)}>{t('home.bars.studies', 'Lekcje Biblijne')}</DrawerLink>
+          <DrawerLink to={`${home}/lekcje-biblijne`} icon="lesson" onClick={() => setOpen(false)}>{t('nav.lessons', 'Szkoła Biblijna')}</DrawerLink>
           <DrawerLink to={`${home}/notatki`} icon="notes" onClick={() => setOpen(false)}>{t('notes.title', 'Moje notatki biblijne')}</DrawerLink>
           <DrawerLink to={`${home}/fiszki`} icon="memory" onClick={() => setOpen(false)}>{t('flashcards.cta', 'Ucz się wersetów na pamięć')}</DrawerLink>
           <DrawerLink to={`${home}/okazje`} icon="occasion" onClick={() => setOpen(false)}>{t('occasions.cta', 'Teksty na różne okazje')}</DrawerLink>
         </DrawerGroup>
-        <DrawerGroup icon="hope" title="#JestNadzieja – materiały" open={hopeOpen} onToggle={() => setHopeOpen(!hopeOpen)}>
+        <DrawerGroup icon="hope" title="#JestNadzieja" open={hopeOpen} onToggle={() => setHopeOpen(!hopeOpen)}>
           <DrawerLink to={`${home}/40-dni`} icon="prayer" onClick={() => setOpen(false)}>{t('home.pray40', '40 dni modlitwy')}</DrawerLink>
           <DrawerLink to={`${home}/edukacja`} icon="lesson" onClick={() => setOpen(false)}>{t('edu.title', 'Człowiek Nadziei')}</DrawerLink>
           <DrawerLink to={`${home}/grupy-nadziei`} icon="group" onClick={() => setOpen(false)}>{t('groups.title', 'Grupy Nadziei')}</DrawerLink>

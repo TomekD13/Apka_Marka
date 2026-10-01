@@ -30,9 +30,9 @@ export function BibleHub() {
   const { lang, t } = useI18n()
   return <Hub icon="book" title="Biblia" intro="Wybierz, w jaki sposób chcesz dziś spotkać się ze Słowem.">
     <SectionTile to={`/${lang}/biblia/czytaj`} icon="book" title="Biblia" description="Księgi, rozdziały, wyszukiwanie, zakładki i przekłady." />
-    {BETA && <SectionTile to={`/${lang}/biblia/plany`} icon="book" title={t('plans.tile', 'Plany czytania')} description={t('plans.tileDesc', 'Cała Biblia, Nowy Testament, Psalmy i inne – w tempie, które ustalasz.')} />}
-    <SectionTile to={`/${lang}/poznaj-boga-i-biblie`} icon="lesson" title="Poznaj Boga i Biblię" description="5 serii po 7 lekcji biblijnych do samodzielnego studiowania." />
-    <SectionTile to={`/${lang}/lekcje-biblijne`} icon="lesson" title="Lekcje biblijne" description="Bieżąca lekcja Szkoły Sobotniej." />
+    {BETA && <SectionTile to={`/${lang}/biblia/plany`} icon="book" title={t('plans.tile', 'Plany czytania')} description={t('plans.tileDesc', 'Cała Biblia, Nowy Testament, Psalmy i inne – w Twoim tempie')} />}
+    <SectionTile to={`/${lang}/poznaj-boga-i-biblie`} icon="lesson" title="Lekcje Biblijne" description="5 serii po 7 lekcji biblijnych do samodzielnego studiowania." />
+    <SectionTile to={`/${lang}/lekcje-biblijne`} icon="lesson" title="Szkoła Biblijna" description="Bieżąca lekcja Szkoły Sobotniej." />
     <SectionTile to={`/${lang}/notatki`} icon="notes" title="Moje notatki biblijne" description="Zapisuj myśli i wracaj do nich później." />
     <SectionTile to={`/${lang}/fiszki`} icon="memory" title="Ucz się wersetów na pamięć" description="Fiszki i powtórki ważnych tekstów." />
     <SectionTile to={`/${lang}/okazje`} icon="occasion" title="Teksty na różne okazje" description="Dobierz fragment Pisma do konkretnej sytuacji." />
@@ -72,7 +72,7 @@ export function BibleStudies() {
   const series = index ? [...index.series].sort((a, b) => a.order - b.order) : []
   return <section className="mx-auto max-w-xl">
     <BackLink to={`/${lang}/biblia`} className="mb-4">Biblia</BackLink>
-    <PageHeading icon="lesson" title="Poznaj Boga i Biblię" />
+    <PageHeading icon="lesson" title="Lekcje Biblijne" />
     <p className="mt-3 text-slate-600 dark:text-slate-300">Pięć serii po siedem lekcji prowadzi przez najważniejsze tematy wiary i Biblii.</p>
     {failed ? <p className="mt-6 text-slate-500 dark:text-slate-400">Materiały są chwilowo niedostępne.</p> : !index ? <p className="mt-6 text-slate-500 dark:text-slate-400">Wczytywanie…</p> : <div className="mt-6 space-y-3">{series.map((entry) => {
       const studies = index.studies.filter((study) => study.seriesId === entry.id).sort((a, b) => a.order - b.order)

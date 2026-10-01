@@ -6,6 +6,7 @@ import { PlaceProvider } from './place'
 import { ThemeProvider } from './theme'
 import { AppNavigation } from './components/AppNavigation'
 import { AddNoteFab } from './components/AddNoteFab'
+import { PlanBar } from './components/PlanBar'
 import { usePinchFontScale } from './components/FontScale'
 import { LangGate } from './pages/LangGate'
 import { Home } from './pages/Home'
@@ -58,6 +59,7 @@ function LangLayout() {
             <main className="flex-1 w-full max-w-3xl mx-auto px-4 py-6 pb-24">
               <Outlet />
             </main>
+            <PlanBar />
             <AddNoteFab />
           </div>
         </PlaceProvider>

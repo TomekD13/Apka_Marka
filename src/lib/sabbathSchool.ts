@@ -1,4 +1,4 @@
-// Lekcje biblijne (szkola sobotnia) prowadzi Adventech - my tylko kierujemy do
+// Szkoła Biblijna (szkola sobotnia) prowadzi Adventech - my tylko kierujemy do
 // wlasciwego tygodnia. API jest publiczne i ma otwarty CORS, wiec biezacy kwartal
 // i lekcje wyliczamy w locie; nic nie trzeba aktualizowac przy zmianie kwartalu.
 const API = 'https://sabbath-school.adventech.io/api/v2'

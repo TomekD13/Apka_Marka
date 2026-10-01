@@ -16,7 +16,7 @@ export function BibleLessons() {
 
   return <section className="mx-auto max-w-xl">
     <BackLink to={`/${lang}/biblia`} className="mb-4">Biblia</BackLink>
-    <PageHeading icon="lesson" title={t('sabbathSchool.title', 'Lekcje biblijne')} />
+    <PageHeading icon="lesson" title={t('sabbathSchool.title', 'Szkoła Biblijna')} />
     <p className="mt-3 text-slate-600 dark:text-slate-300">Bieżąca lekcja Szkoły Sobotniej wraz z materiałami do studium.</p>
     <article className="gradient-panel mt-6 rounded-2xl border p-5">
       <p className="text-sm font-semibold text-brand dark:text-sky-300">{t('home.sabbathSchool', 'Szkoła Sobotnia')}</p>

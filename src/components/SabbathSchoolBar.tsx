@@ -4,7 +4,7 @@ import { MenuBar } from './MenuBar'
 import { fallbackUrl, findCurrentLesson, type CurrentLesson } from '../lib/sabbathSchool'
 
 /**
- * Belka "Lekcje biblijne". Zanim czytelnik ja kliknie, w tle pytamy Adventech
+ * Belka "Szkoła Biblijna". Zanim czytelnik ja kliknie, w tle pytamy Adventech
  * o biezacy kwartal i tydzien - wtedy link prowadzi wprost do lekcji na ten tydzien.
  * Bez sieci (albo gdy API zamilknie) zostaje link do strony jezykowej.
  */
@@ -33,7 +33,7 @@ export function SabbathSchoolBar() {
     <MenuBar
       icon="📅"
       accent="emerald"
-      title={t('sabbathSchool.title', 'Lekcje biblijne')}
+      title={t('sabbathSchool.title', 'Szkoła Biblijna')}
       desc={desc}
       badge={lesson?.lessonNo ? `${t('sabbathSchool.lesson', 'Lekcja')} ${Number(lesson.lessonNo)}` : undefined}
       href={lesson?.url || fallbackUrl(lang)}

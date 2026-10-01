@@ -203,3 +203,26 @@ export function progress(days: PlanDay[], done: string[], total: number, on = to
     finished: next < 0,
   }
 }
+
+// --- pasek planu przy czytaniu ------------------------------------------------
+// Klikniecie rozdzialu w planie otwiera Biblie, a pasek na dole trzyma plan pod reka.
+// Ktory plan pokazuje pasek - tylko to urzadzenie, bez synchronizacji.
+
+const BAR = 'zywe-slowo:plan-bar:v1'
+
+export function getBarPlan(): string {
+  try {
+    return localStorage.getItem(BAR) || ''
+  } catch {
+    return ''
+  }
+}
+
+export function setBarPlan(id: string): void {
+  try {
+    if (id) localStorage.setItem(BAR, id)
+    else localStorage.removeItem(BAR)
+  } catch {
+    /* prywatne okno - pasek po prostu sie nie pokaze */
+  }
+}
