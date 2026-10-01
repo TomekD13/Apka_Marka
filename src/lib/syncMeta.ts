@@ -8,11 +8,13 @@ const PREFIX = 'zywe-slowo:'
 const META = 'zywe-slowo:sync:meta:v1'
 const TOMB_TTL = 365 * 24 * 3600 * 1000
 
-/** Listy, ktore jada do chmury: notatki, dziennik, zakladki, ulubione piesni, plany czytania. */
+/** Listy, ktore jada do chmury: notatki, dziennik, zakladki, ulubione, plany czytania, przeczytane. */
 export function isSyncedKey(key: string): boolean {
   return (
     key === 'zywe-slowo:notes:v1' ||
     key === 'zywe-slowo:reading-plans:v1' ||
+    key === 'zywe-slowo:read:v2' ||
+    key === 'zywe-slowo:fav-materials:v1' ||
     key === 'zywe-slowo:prayers:v1' ||
     key === 'zywe-slowo:bible-bookmarks:v1' ||
     /^zywe-slowo:fav:[^:]+:v1$/.test(key)

@@ -14,6 +14,8 @@ import { BackLink } from '../components/BackLink'
 import { FontScale } from '../components/FontScale'
 import { PageHeading } from '../components/PageHeading'
 import { listRead } from '../lib/progress'
+import { BETA } from '../lib/beta'
+import { ReadPill } from '../components/MaterialActions'
 import type { Pray40Day, Pray40Index } from '../types'
 
 const VERSION_KEY = 'zywe-slowo:pray40:version'
@@ -61,11 +63,11 @@ export function Pray40List({ limit }: { limit?: number }) {
               {d.ref}
             </span>
           </span>
-          {done.has(String(d.day)) && (
+          {done.has(String(d.day)) && (BETA ? <ReadPill /> : (
             <span className="shrink-0 pt-0.5 text-emerald-600" title={t('reading.done', 'Przeczytane')}>
               ✓
             </span>
-          )}
+          ))}
         </Link>
       ))}
       {limit && data.days.length > limit && (

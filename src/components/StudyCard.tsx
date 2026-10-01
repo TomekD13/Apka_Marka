@@ -1,6 +1,9 @@
 import { Link } from 'react-router-dom'
 import { useI18n } from '../i18n'
 import type { StudyEntry } from '../types'
+import { BETA } from '../lib/beta'
+import { isRead } from '../lib/progress'
+import { ReadPill } from './MaterialActions'
 
 export function StudyCard({
   study,
@@ -18,6 +21,7 @@ export function StudyCard({
     >
       <span className="w-6 shrink-0 text-right text-xs tabular-nums text-slate-500">{study.order}</span>
       <span className="min-w-0 flex-1 truncate font-medium leading-snug">{study.title}</span>
+      {BETA && isRead('study', study.id) && <ReadPill />}
     </Link>
   )
 }

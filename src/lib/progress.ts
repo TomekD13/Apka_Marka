@@ -1,45 +1,47 @@
-// Odhaczenie „przeczytane" - czytanki „40 dni" i materialy edukacyjne.
-// Jak notatki, zakladki i ulubione: zostaje w tej przegladarce, nic nie wychodzi
-// na serwer. Klucz to `rodzaj:numer`, wartosc to data odhaczenia (przyda sie,
-// gdy dojdzie synchronizacja konta).
+// Odhaczenie „przeczytane" - czytanki „40 dni", Czlowiek Nadziei, Grupy Nadziei
+// i Lekcje Biblijne. Lista w localStorage; z kontem synchronizuje sie (lib/syncMeta.ts).
+// Pozycja: id `rodzaj:numer`, `at` = chwila odhaczenia.
 
-const KEY = 'zywe-slowo:read:v1'
+import { readList, writeList } from './localStore'
 
-export type ReadKind = 'pray40' | 'edu'
+const KEY = 'zywe-slowo:read:v2'
+// pierwsza wersja trzymala obiekt {`rodzaj:numer`: data} - przenosimy go raz do listy
+const OLD = 'zywe-slowo:read:v1'
 
-type Marks = Record<string, string>
+export type ReadKind = 'pray40' | 'edu' | 'group' | 'study'
 
-function read(): Marks {
-  try {
-    const raw = localStorage.getItem(KEY)
-    const data = raw ? JSON.parse(raw) : {}
-    return data && typeof data === 'object' ? (data as Marks) : {}
-  } catch {
-    return {}
-  }
+interface ReadMark {
+  id: string
+  at: string
 }
 
-function write(marks: Marks): boolean {
+function read(): ReadMark[] {
   try {
-    localStorage.setItem(KEY, JSON.stringify(marks))
-    return true
+    if (localStorage.getItem(KEY) === null && localStorage.getItem(OLD)) {
+      const old = JSON.parse(localStorage.getItem(OLD) || '{}') as Record<string, string>
+      const list = Object.entries(old).map(([id, at]) => ({ id, at }))
+      writeList(KEY, list)
+      return list
+    }
   } catch {
-    return false // prywatne okno albo brak miejsca
+    /* uszkodzony stary wpis - zaczynamy od pustej listy */
   }
+  return readList<ReadMark>(KEY)
 }
 
 const mark = (kind: ReadKind, id: number | string) => `${kind}:${id}`
 
 export function isRead(kind: ReadKind, id: number | string): boolean {
-  return Boolean(read()[mark(kind, id)])
+  const k = mark(kind, id)
+  return read().some((m) => m.id === k)
 }
 
 /** Ustawia stan i zwraca to, co faktycznie zapisano. */
 export function setRead(kind: ReadKind, id: number | string, value: boolean): boolean {
-  const marks = read()
-  if (value) marks[mark(kind, id)] = new Date().toISOString()
-  else delete marks[mark(kind, id)]
-  return write(marks) ? value : !value
+  const k = mark(kind, id)
+  const rest = read().filter((m) => m.id !== k)
+  const next = value ? [{ id: k, at: new Date().toISOString() }, ...rest] : rest
+  return writeList(KEY, next) ? value : !value
 }
 
 // --- ocena materialu -----------------------------------------------------------
@@ -78,6 +80,6 @@ export function setRating(kind: ReadKind, id: number | string, value: number): n
 export function listRead(kind: ReadKind): Set<string> {
   const prefix = `${kind}:`
   const out = new Set<string>()
-  for (const k of Object.keys(read())) if (k.startsWith(prefix)) out.add(k.slice(prefix.length))
+  for (const m of read()) if (m.id.startsWith(prefix)) out.add(m.id.slice(prefix.length))
   return out
 }

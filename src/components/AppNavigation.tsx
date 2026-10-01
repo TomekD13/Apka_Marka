@@ -4,7 +4,7 @@ import { useI18n } from '../i18n'
 import { ACCOUNTS_ENABLED } from '../lib/accountGate'
 import { BETA } from '../lib/beta'
 
-export type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' | 'download' | 'settings' | 'close' | 'notes' | 'memory' | 'occasion' | 'lesson' | 'group' | 'contact' | 'account' | 'chevron'
+export type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' | 'download' | 'settings' | 'close' | 'notes' | 'memory' | 'occasion' | 'lesson' | 'group' | 'contact' | 'account' | 'heart' | 'chevron'
 
 export function AppIcon({ name, className = '' }: { name: IconName; className?: string }) {
   if (name === 'prayer') {
@@ -34,6 +34,7 @@ export function AppIcon({ name, className = '' }: { name: IconName; className?: 
     lesson: <><path d="M5 7h22v18H5zM9 4v6M23 4v6M9 15h14M9 20h8"/></>,
     group: <><circle cx="12" cy="12" r="4"/><circle cx="22.5" cy="13.5" r="3"/><path d="M4 26c0-4.4 3.6-8 8-8s8 3.6 8 8M22 19.5c3.6 0 6.5 2.9 6.5 6.5"/></>,
     contact: <><rect x="4.5" y="6" width="23" height="18" rx="3"/><path d="m6 9 10 7 10-7"/></>,
+    heart: <path d="M16 27s-10-6.2-12.4-12.3C2 10.3 4.8 5.7 9.5 5.7c2.7 0 4.8 1.4 6.5 3.7 1.7-2.3 3.8-3.7 6.5-3.7 4.7 0 7.5 4.6 5.9 9C26 20.8 16 27 16 27z"/>,
     account: <><circle cx="16" cy="11" r="5"/><path d="M6 27c0-5.5 4.5-9.5 10-9.5s10 4 10 9.5"/></>,
     chevron: <path d="m11 7 10 9-10 9"/>,
   }
@@ -106,6 +107,7 @@ export function AppNavigation() {
           <DrawerLink to={`${home}/40-dni`} icon="prayer" onClick={() => setOpen(false)}>{t('home.pray40', '40 dni modlitwy')}</DrawerLink>
           <DrawerLink to={`${home}/modlitwa/teksty`} icon="prayer" onClick={() => setOpen(false)}>{t('prayerTexts.cta', 'Teksty do modlitwy')}</DrawerLink>
         </DrawerGroup>
+        {BETA && <DrawerLink to={`${home}/ulubione`} icon="heart" onClick={() => setOpen(false)}>{t('favorites.title', 'Ulubione')}</DrawerLink>}
         <DrawerLink to={`${home}/kontakt`} icon="contact" onClick={() => setOpen(false)}>{t('contact.title', 'Kontakt')}</DrawerLink>
         <div className="my-3 border-t border-slate-200 dark:border-slate-700"/>
         <DrawerLink to={`${home}/ustawienia`} icon="settings" onClick={() => setOpen(false)}>{t('nav.settings', 'Ustawienia')}</DrawerLink>

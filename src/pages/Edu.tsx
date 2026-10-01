@@ -14,6 +14,8 @@ import { BackLink } from '../components/BackLink'
 import { FontScale } from '../components/FontScale'
 import { PageHeading } from '../components/PageHeading'
 import { listRead } from '../lib/progress'
+import { BETA } from '../lib/beta'
+import { ReadPill } from '../components/MaterialActions'
 import type { EduIndex, EduItem } from '../types'
 
 const VERSION_KEY = 'zywe-slowo:edu:version'
@@ -57,11 +59,11 @@ export function EduList({ limit }: { limit?: number }) {
             <span className="block truncate font-medium leading-snug">{it.title}</span>
             {it.ref && <span className="block truncate text-xs text-slate-500">{it.ref}</span>}
           </span>
-          {done.has(String(it.nr)) && (
+          {done.has(String(it.nr)) && (BETA ? <ReadPill /> : (
             <span className="shrink-0 pt-0.5 text-emerald-600" title={t('reading.done', 'Przeczytane')}>
               ✓
             </span>
-          )}
+          ))}
         </Link>
       ))}
       {limit && data.items.length > limit && (

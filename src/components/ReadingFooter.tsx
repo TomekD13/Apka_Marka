@@ -2,6 +2,8 @@ import { useEffect, useState } from 'react'
 import { useI18n } from '../i18n'
 import { shareContent } from '../lib/share'
 import { getRating, isRead, setRating, setRead, type ReadKind } from '../lib/progress'
+import { BETA } from '../lib/beta'
+import { FavButton } from './MaterialActions'
 
 // Stopka czytanki i materialu edukacyjnego. Odhaczenie „przeczytane" i ocena
 // stoja posrodku - to one koncza czytanie. Nizej dzielenie sie: WhatsApp,
@@ -136,8 +138,9 @@ export function ReadingFooter({
           }`}
         >
           <Ptaszek done={done} />
-          {t('reading.done', 'Przeczytane')}
+          {BETA ? (done ? t('reading.doneOn', 'Przeczytane ✓') : t('reading.markDone', 'Oznacz jako przeczytane')) : t('reading.done', 'Przeczytane')}
         </button>
+        {BETA && <FavButton kind={kind} id={id} title={title} />}
 
         <button
           type="button"

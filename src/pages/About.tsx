@@ -32,13 +32,23 @@ export function About() {
         </p>
       )}
       <p className="mt-6 text-sm text-slate-400">
+        {t('about.authors', 'Autorzy:')}{' '}
         <a
           href={t('about.publisherUrl', 'https://www.facebook.com/pastormarek')}
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-brand-light underline-offset-2 hover:underline"
         >
-          {t('about.publisher')}
+          {t('about.author1', 'Marek Micyk')}
+        </a>
+        {' / '}
+        <a
+          href={t('about.author2Url', 'https://www.facebook.com/tdutkowski')}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hover:text-brand-light underline-offset-2 hover:underline"
+        >
+          {t('about.author2', 'Tomasz Dutkowski')}
         </a>
       </p>
     </div>

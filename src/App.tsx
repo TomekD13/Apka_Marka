@@ -32,6 +32,7 @@ import { Settings } from './pages/Settings'
 import { Contact } from './pages/Contact'
 import { BibleHub, BibleStudies, PrayerHub, SongsHub } from './pages/SectionHubs'
 import { BibleLessons } from './pages/BibleLessons'
+import { Favorites } from './pages/Favorites'
 import { ReadingPlanSetup, ReadingPlanView, ReadingPlansPage } from './pages/ReadingPlans'
 import { BETA } from './lib/beta'
 import { initAppInstall } from './lib/installApp'
@@ -91,6 +92,7 @@ export const router = createBrowserRouter(
               { path: 'biblia/plany', element: <ReadingPlansPage /> },
               { path: 'biblia/plany/nowy/:planId', element: <ReadingPlanSetup /> },
               { path: 'biblia/plany/moje/:id', element: <ReadingPlanView /> },
+              { path: 'ulubione', element: <Favorites /> },
             ]
           : []),
         { path: 'biblia/:book/:chapter', element: <BibleChapterPage /> },

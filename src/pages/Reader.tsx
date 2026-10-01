@@ -9,6 +9,8 @@ import { PassageView } from '../components/PassageView'
 import { NoteView } from '../components/NoteView'
 import { ContactForm } from '../components/ContactForm'
 import { ShareDialog } from '../components/ShareDialog'
+import { BETA } from '../lib/beta'
+import { MaterialActions } from '../components/MaterialActions'
 import type { Bible, Level, Study } from '../types'
 
 export function Reader() {
@@ -106,6 +108,8 @@ export function Reader() {
           </div>
         )}
       </section>
+
+      {BETA && <MaterialActions kind="study" id={study.id} title={study.title} />}
 
       <ContactForm />
 

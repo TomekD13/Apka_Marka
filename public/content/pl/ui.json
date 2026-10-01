@@ -98,8 +98,11 @@
   "about": {
     "title": "O aplikacji",
     "body": "Cały tekst Pisma, studia biblijne, śpiewniki i czytanki – w jednym miejscu.\n\nNic nie trzeba zakładać ani wypełniać: otwierasz i czytasz w swoim tempie, a po pobraniu modułu także bez internetu.",
-    "publisher": "Autorzy: Marek Micyk / Tomasz Dutkowski",
+    "authors": "Autorzy:",
+    "author1": "Marek Micyk",
     "publisherUrl": "https://www.facebook.com/pastormarek",
+    "author2": "Tomasz Dutkowski",
+    "author2Url": "https://www.facebook.com/tdutkowski",
     "privacy": "Notatki, zakładki i dziennik modlitw zostają w twojej przeglądarce. Bez śledzenia i bez reklam."
   },
   "contact": {
@@ -424,7 +427,7 @@
   },
   "account": {
     "title": "Twoje konto",
-    "lead": "Konto jest po to, żeby twoje notatki, dziennik modlitw, ulubione pieśni, zakładki i plany czytania były na każdym twoim urządzeniu. Bez konta aplikacja działa tak samo – wszystko zostaje w tej przeglądarce.",
+    "lead": "Konto jest po to, żeby twoje notatki, dziennik modlitw, ulubione, zakładki, plany czytania i to, co już przeczytane, były na każdym twoim urządzeniu. Bez konta aplikacja działa tak samo – wszystko zostaje w tej przeglądarce.",
     "soon": "Logowanie nie jest jeszcze podłączone.",
     "soonBody": "Wejdzie logowanie linkiem na e-mail albo kontem Google – bez haseł. Adres służy wyłącznie do logowania: nie ma list wysyłkowych ani śledzenia.",
     "backup": "Do czasu logowania kopię swoich rzeczy zrobisz sam:",
@@ -454,12 +457,12 @@
     "sendLink": "Wyślij link",
     "signedInAs": "Zalogowano jako",
     "syncError": "Synchronizacja chwilowo nie działa. Zmiany są bezpieczne na tym urządzeniu i pójdą, gdy połączenie wróci.",
-    "syncOk": "Notatki, dziennik modlitw, zakładki, ulubione pieśni i plany czytania są zsynchronizowane.",
+    "syncOk": "Notatki, dziennik modlitw, zakładki, ulubione, plany czytania i przeczytane materiały są zsynchronizowane.",
     "syncing": "Synchronizuję…",
     "signOut": "Wyloguj",
     "delete": "Usuń konto",
     "privacyTitle": "Co dzieje się z twoimi danymi",
-    "privacy": "Na koncie zapisują się tylko twoje notatki, dziennik modlitw, zakładki, ulubione pieśni i plany czytania – nic więcej. Leżą w bazie Google Firebase w Warszawie, a reguły tej bazy wpuszczają do nich wyłącznie twoje konto. Adres e-mail służy tylko do logowania: nie ma list wysyłkowych ani śledzenia. Przycisk „Usuń konto” kasuje konto razem z kopią w chmurze.",
+    "privacy": "Na koncie zapisują się tylko twoje notatki, dziennik modlitw, zakładki, ulubione, plany czytania i to, co już przeczytane – nic więcej. Leżą w bazie Google Firebase w Warszawie, a reguły tej bazy wpuszczają do nich wyłącznie twoje konto. Adres e-mail służy tylko do logowania: nie ma list wysyłkowych ani śledzenia. Przycisk „Usuń konto” kasuje konto razem z kopią w chmurze.",
     "backupLive": "Kopię do pliku zrobisz też bez konta:"
   },
   "reading": {
@@ -475,7 +478,9 @@
     "invite": "Zaproś przyjaciół",
     "inviteWhatsapp": "Zaproś przez WhatsApp",
     "inviteText": "Zapraszam cię do #JestNadzieja – Biblia, studia biblijne i czytanki w jednym miejscu.",
-    "fbAppId": ""
+    "fbAppId": "",
+    "markDone": "Oznacz jako przeczytane",
+    "doneOn": "Przeczytane ✓"
   },
   "groups": {
     "title": "Grupy Nadziei",
@@ -575,5 +580,18 @@
     "barPrev": "Wstecz",
     "barOutside": "Ten rozdział nie należy do planu.",
     "barBackToPlan": "Plan"
+  },
+  "favorites": {
+    "title": "Ulubione",
+    "intro": "Materiały, pieśni i miejsca w Biblii, do których chcesz wracać. Serduszko dodajesz na końcu materiału albo przy pieśni.",
+    "empty": "Na razie nic tu nie ma. Na końcu czytanki, lekcji albo spotkania Grupy Nadziei kliknij „Dodaj do ulubionych”.",
+    "add": "Dodaj do ulubionych",
+    "added": "W ulubionych",
+    "remove": "Usuń z ulubionych",
+    "kindStudy": "Lekcje Biblijne",
+    "kindPray40": "40 dni modlitwy",
+    "kindEdu": "Człowiek Nadziei",
+    "kindGroup": "Grupy Nadziei",
+    "bookmarks": "Zakładki w Biblii"
   }
 }

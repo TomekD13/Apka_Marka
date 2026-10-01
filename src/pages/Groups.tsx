@@ -8,6 +8,9 @@ import { BackLink } from '../components/BackLink'
 import { FontScale } from '../components/FontScale'
 import { LEVEL_STYLES, LevelToggle } from '../components/LevelToggle'
 import { PageHeading } from '../components/PageHeading'
+import { BETA } from '../lib/beta'
+import { MaterialActions, ReadPill } from '../components/MaterialActions'
+import { listRead } from '../lib/progress'
 import type { GroupBlock, GroupElement, GroupItem, GroupLevel, GroupsIndex, Level } from '../types'
 
 // „Grupy Nadziei" - studia dla grup domowych. Uklad jak w „Poznaj Boga i Biblie":
@@ -64,6 +67,7 @@ export function Groups() {
   const { lang, t } = useI18n()
   const { data, failed } = useGroupsIndex()
   const [openSeries, setOpenSeries] = useState<string | null>(null)
+  const done = listRead('group')
 
   return <section className="mx-auto max-w-xl">
     <BackLink to={`/${lang}/jest-nadzieja`} className="mb-4">#JestNadzieja</BackLink>
@@ -82,6 +86,7 @@ export function Groups() {
           {serie.items.map((item, i) => <Link key={item.id} to={`/${lang}/grupy-nadziei/${item.id}`} viewTransition className="gradient-panel flex items-start gap-3 rounded-lg border border-slate-200 px-3 py-2 text-slate-900 transition hover:border-brand hover:shadow-sm dark:border-slate-700 dark:text-white">
             <span className="w-6 shrink-0 pt-0.5 text-right text-xs tabular-nums text-slate-500 dark:text-slate-400">{i + 1}</span>
             <span className="min-w-0 flex-1"><span className="block font-medium leading-snug">{item.tytul}</span>{item.opis && <span className="mt-0.5 block text-xs leading-snug text-slate-500 dark:text-slate-400">{item.opis}</span>}</span>
+            {BETA && done.has(item.id) && <ReadPill />}
           </Link>)}
         </div>}
       </section>
@@ -215,6 +220,8 @@ export function GroupItemPage() {
         <div className="mt-3 space-y-3">{els.map((el, j) => <Element key={j} el={el} leader={leader} paper={nested} />)}</div>
       </section>
     })}
+
+    {BETA && <MaterialActions kind="group" id={item.id} title={item.tytul} />}
 
     <nav className="no-print mt-8 flex items-center justify-between gap-3 text-sm">
       {prev ? <Link to={`/${lang}/grupy-nadziei/${prev.id}`} className="text-brand-light hover:underline">‹ {prev.tytul}</Link> : <span />}
