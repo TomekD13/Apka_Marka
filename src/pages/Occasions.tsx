@@ -3,6 +3,7 @@ import { useI18n } from '../i18n'
 import { BackLink } from '../components/BackLink'
 import { FontScale } from '../components/FontScale'
 import { PageHeading } from '../components/PageHeading'
+import { TopicIcon } from '../components/TopicIcon'
 import { loadOccasions, loadBible } from '../content'
 import { ShareDialog } from '../components/ShareDialog'
 import type { Bible, Occasions as OccData, OccasionVerse } from '../types'
@@ -66,7 +67,7 @@ export function Occasions() {
                 aria-expanded={isOpen}
                 className="flex w-full items-center gap-3 px-4 py-3 text-left hover:bg-white/5"
               >
-                <span className="text-xl" aria-hidden>{cat.icon}</span>
+                <TopicIcon topic={cat.id} className="h-6 w-6 shrink-0 text-brand dark:text-sky-300" />
                 <span className="flex-1 font-semibold text-slate-100">{cat.name}</span>
                 <span className="text-xs text-slate-400">{cat.verses.length}</span>
                 <span className={`text-slate-400 transition-transform ${isOpen ? 'rotate-180' : ''}`} aria-hidden>▾</span>

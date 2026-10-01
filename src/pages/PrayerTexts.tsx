@@ -4,6 +4,7 @@ import { BackLink } from '../components/BackLink'
 import { FontScale } from '../components/FontScale'
 import { PageHeading } from '../components/PageHeading'
 import { ShareDialog } from '../components/ShareDialog'
+import { TopicIcon } from '../components/TopicIcon'
 import { loadBible, loadPrayerTexts } from '../content'
 import type { Bible, OccasionVerse, PrayerTextGroup, PrayerTexts as PrayerTextsData } from '../types'
 
@@ -142,7 +143,7 @@ export function PrayerTexts() {
             verse ? (
               <section key={group.id} className="overflow-hidden rounded-xl border border-slate-600 bg-slate-800/40">
                 <h2 className="flex items-center gap-2 px-4 py-2 text-sm font-semibold text-slate-100">
-                  {group.icon && <span aria-hidden>{group.icon}</span>}
+                  <TopicIcon topic={group.id} className="h-5 w-5 shrink-0 text-brand dark:text-sky-300" />
                   {group.name}
                 </h2>
                 <div className="reading border-t border-white/10 p-3">
@@ -190,7 +191,7 @@ export function PrayerTexts() {
                   aria-expanded={isOpen}
                   className="flex w-full items-center gap-3 px-4 py-3 text-left hover:bg-white/5"
                 >
-                  {g.icon && <span className="text-xl" aria-hidden>{g.icon}</span>}
+                  <TopicIcon topic={g.id} className="h-6 w-6 shrink-0 text-brand dark:text-sky-300" />
                   <span className="min-w-0 flex-1">
                     <span className="block font-semibold text-slate-100">{g.name}</span>
                     {g.intro && <span className="block text-xs text-slate-400">{g.intro}</span>}
