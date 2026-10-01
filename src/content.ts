@@ -1,5 +1,5 @@
 import { loadBibleBook, loadBibleIndex, loadTranslations } from './lib/bible'
-import type { Bible, EduIndex, EduItem, Flashcards, GroupItem, GroupsIndex, IndexFile, LangsFile, Occasions, Pray40Day, Pray40Index, PrayerTexts, SongCollection, SongsFile, Study, Ui } from './types'
+import type { Bible, EduIndex, EduItem, Flashcards, GroupItem, GroupsIndex, IndexFile, LangsFile, Occasions, Pray40Day, Pray40Index, PrayerTexts, ReadingPlansFile, SongCollection, SongsFile, Study, Ui } from './types'
 
 const BASE = import.meta.env.BASE_URL // np. '/'
 const cache = new Map<string, unknown>()
@@ -39,6 +39,7 @@ export const loadBible = (lang: string, translation: string, fresh = false) =>
   getJSON<Bible>(`${lang}/bibles/${translation}.json`, fresh)
 export const loadFlashcards = (lang: string) => getJSON<Flashcards>(`${lang}/flashcards.json`)
 export const loadOccasions = (lang: string) => getJSON<Occasions>(`${lang}/occasions.json`)
+export const loadReadingPlans = (lang: string) => getJSON<ReadingPlansFile>(`${lang}/reading-plans.json`)
 export const loadPrayerTexts = (lang: string, fresh = false) =>
   getJSON<PrayerTexts>(`${lang}/prayer-texts.json`, fresh)
 const SONG_FILES: Record<SongCollection, string> = {

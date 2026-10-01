@@ -212,7 +212,7 @@ def main() -> int:
 
     index = {
         "lang": "pl",
-        "title": "Materiały edukacyjne",
+        "title": "Człowiek Nadziei",
         "series": "#JestNadzieja",
         "items": index_items,
     }

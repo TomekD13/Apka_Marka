@@ -7,6 +7,7 @@ import { BackLink } from '../components/BackLink'
 import { PageHeading } from '../components/PageHeading'
 import { StudyCard } from '../components/StudyCard'
 import type { IndexFile } from '../types'
+import { BETA } from '../lib/beta'
 
 function SectionTile({ to, href, icon, title, description }: { to?: string; href?: string; icon: IconName; title: string; description: string }) {
   const content = <><span className="rounded-xl bg-brand/10 p-3 text-brand dark:bg-sky-400/15 dark:text-sky-300"><AppIcon name={icon} className="h-7 w-7" /></span><span className="min-w-0 flex-1"><span className="block text-lg font-bold text-slate-900 dark:text-white">{title}</span><span className="mt-1 block text-sm leading-relaxed text-slate-600 dark:text-slate-300">{description}</span></span><span className="text-xl text-brand dark:text-sky-300" aria-hidden>›</span></>
@@ -26,9 +27,10 @@ function Hub({ icon, title, intro, children }: { icon: IconName; title: string; 
 }
 
 export function BibleHub() {
-  const { lang } = useI18n()
+  const { lang, t } = useI18n()
   return <Hub icon="book" title="Biblia" intro="Wybierz, w jaki sposób chcesz dziś spotkać się ze Słowem.">
     <SectionTile to={`/${lang}/biblia/czytaj`} icon="book" title="Biblia" description="Księgi, rozdziały, wyszukiwanie, zakładki i przekłady." />
+    {BETA && <SectionTile to={`/${lang}/biblia/plany`} icon="book" title={t('plans.tile', 'Plany czytania')} description={t('plans.tileDesc', 'Cała Biblia, Nowy Testament, Psalmy i inne – w tempie, które ustalasz.')} />}
     <SectionTile to={`/${lang}/poznaj-boga-i-biblie`} icon="lesson" title="Poznaj Boga i Biblię" description="5 serii po 7 lekcji biblijnych do samodzielnego studiowania." />
     <SectionTile to={`/${lang}/lekcje-biblijne`} icon="lesson" title="Lekcje biblijne" description="Bieżąca lekcja Szkoły Sobotniej." />
     <SectionTile to={`/${lang}/notatki`} icon="notes" title="Moje notatki biblijne" description="Zapisuj myśli i wracaj do nich później." />

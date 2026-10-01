@@ -174,7 +174,7 @@ export function Settings() {
       <ExpandablePanel icon="contact" title={t('about.title', 'O aplikacji')}>
         <p className="whitespace-pre-line text-sm leading-relaxed text-slate-700 dark:text-slate-200">{t('about.body')}</p>
         <p className="mt-3 text-sm leading-relaxed text-slate-500 dark:text-slate-400">{t('about.privacy')}</p>
-        <a href={t('about.publisherUrl', 'https://www.facebook.com/pastormarek')} target="_blank" rel="noreferrer" className="mt-3 inline-block text-sm font-medium text-brand hover:underline dark:text-sky-300">{t('about.publisher', 'Autor: Marek Micyk')}</a>
+        <a href={t('about.publisherUrl', 'https://www.facebook.com/pastormarek')} target="_blank" rel="noreferrer" className="mt-3 inline-block text-sm font-medium text-brand hover:underline dark:text-sky-300">{t('about.publisher', 'Autorzy: Marek Micyk / Tomasz Dutkowski')}</a>
       </ExpandablePanel>
     </div>
   </section>

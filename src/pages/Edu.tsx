@@ -81,7 +81,7 @@ export function Edu() {
       <BackLink to={`/${lang}`} className="mb-4">
         {t('nav.topics', 'Menu główne')}
       </BackLink>
-      <PageHeading icon="lesson" title={t('edu.title', 'Materiały edukacyjne')} className="mb-1" />
+      <PageHeading icon="lesson" title={t('edu.title', 'Człowiek Nadziei')} className="mb-1" />
       <p className="mb-5 text-sm text-slate-400">{data?.series || '#JestNadzieja'}</p>
       <EduList />
     </div>

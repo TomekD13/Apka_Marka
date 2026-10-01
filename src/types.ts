@@ -155,7 +155,7 @@ export interface Pray40Day extends Pray40DayEntry {
 }
 export interface Pray40Index { lang: string; title?: string; series?: string; days: Pray40DayEntry[] }
 
-/** „Materiały edukacyjne" (#JestNadzieja) - każde szkolenie w dwóch wersjach. */
+/** „Człowiek Nadziei" (#JestNadzieja) - każde szkolenie w dwóch wersjach. */
 export interface EduQuote { text: string; ref: string }
 export interface EduBody {
   sections: Pray40Section[]
@@ -318,4 +318,21 @@ export interface GroupItem {
   wersja: number
   zdanie: string
   bloki: GroupBlock[]
+}
+
+/** Plan czytania Biblii (content/{lang}/reading-plans.json). */
+export interface ReadingPlanDef {
+  id: string
+  name: string
+  desc: string
+  /** domyslna dlugosc w dniach kalendarzowych */
+  days: number
+  /**
+   * Strumienie czytan - kazdy rozkladany osobno na te same dni. Odcinek to ksiega
+   * („Ps”), zakres ksiag w kolejnosci kanonu („Gen-Deut”) albo rozdzialy ksiegi („Gen.12-50”).
+   */
+  streams: string[][]
+}
+export interface ReadingPlansFile {
+  plans: ReadingPlanDef[]
 }

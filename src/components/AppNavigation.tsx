@@ -1,8 +1,9 @@
 import { useEffect, useState, type ReactNode } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { useI18n } from '../i18n'
+import { ACCOUNTS_ENABLED } from '../lib/accountGate'
 
-export type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' | 'download' | 'settings' | 'close' | 'notes' | 'memory' | 'occasion' | 'lesson' | 'group' | 'contact' | 'chevron'
+export type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' | 'download' | 'settings' | 'close' | 'notes' | 'memory' | 'occasion' | 'lesson' | 'group' | 'contact' | 'account' | 'chevron'
 
 export function AppIcon({ name, className = '' }: { name: IconName; className?: string }) {
   if (name === 'prayer') {
@@ -32,6 +33,7 @@ export function AppIcon({ name, className = '' }: { name: IconName; className?: 
     lesson: <><path d="M5 7h22v18H5zM9 4v6M23 4v6M9 15h14M9 20h8"/></>,
     group: <><circle cx="12" cy="12" r="4"/><circle cx="22.5" cy="13.5" r="3"/><path d="M4 26c0-4.4 3.6-8 8-8s8 3.6 8 8M22 19.5c3.6 0 6.5 2.9 6.5 6.5"/></>,
     contact: <><rect x="4.5" y="6" width="23" height="18" rx="3"/><path d="m6 9 10 7 10-7"/></>,
+    account: <><circle cx="16" cy="11" r="5"/><path d="M6 27c0-5.5 4.5-9.5 10-9.5s10 4 10 9.5"/></>,
     chevron: <path d="m11 7 10 9-10 9"/>,
   }
   return <svg viewBox="0 0 32 32" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" className={className} aria-hidden>{paths[name]}</svg>
@@ -64,7 +66,7 @@ export function AppNavigation() {
     { to: `${home}/biblia`, label: t('nav.bible', 'Biblia'), icon: 'book' as IconName },
     { to: `${home}/piesni`, label: t('nav.songs', 'Pieśni'), icon: 'music' as IconName },
     { to: `${home}/modlitwa`, label: t('nav.prayer', 'Modlitwa'), icon: 'prayer' as IconName },
-    { to: `${home}/jest-nadzieja`, label: '#JestNadzieja – materiały', icon: 'hope' as IconName },
+    { to: `${home}/jest-nadzieja`, label: '#JestNadzieja', icon: 'hope' as IconName },
   ]
 
   return <>
@@ -89,7 +91,7 @@ export function AppNavigation() {
         </DrawerGroup>
         <DrawerGroup icon="hope" title="#JestNadzieja – materiały" open={hopeOpen} onToggle={() => setHopeOpen(!hopeOpen)}>
           <DrawerLink to={`${home}/40-dni`} icon="prayer" onClick={() => setOpen(false)}>{t('home.pray40', '40 dni modlitwy')}</DrawerLink>
-          <DrawerLink to={`${home}/edukacja`} icon="lesson" onClick={() => setOpen(false)}>{t('edu.title', 'Materiały edukacyjne')}</DrawerLink>
+          <DrawerLink to={`${home}/edukacja`} icon="lesson" onClick={() => setOpen(false)}>{t('edu.title', 'Człowiek Nadziei')}</DrawerLink>
           <DrawerLink to={`${home}/grupy-nadziei`} icon="group" onClick={() => setOpen(false)}>{t('groups.title', 'Grupy Nadziei')}</DrawerLink>
         </DrawerGroup>
         <DrawerGroup icon="music" title={t('nav.songs', 'Pieśni')} open={songsOpen} onToggle={() => setSongsOpen(!songsOpen)}>
@@ -105,6 +107,7 @@ export function AppNavigation() {
         <DrawerLink to={`${home}/kontakt`} icon="contact" onClick={() => setOpen(false)}>{t('contact.title', 'Kontakt')}</DrawerLink>
         <div className="my-3 border-t border-slate-200 dark:border-slate-700"/>
         <DrawerLink to={`${home}/ustawienia`} icon="settings" onClick={() => setOpen(false)}>{t('nav.settings', 'Ustawienia')}</DrawerLink>
+        {ACCOUNTS_ENABLED && <DrawerLink to={`${home}/konto`} icon="account" onClick={() => setOpen(false)}>{t('account.title', 'Twoje konto')}</DrawerLink>}
       </aside>
     </div>}
 
@@ -118,7 +121,7 @@ export function AppNavigation() {
             : active
               ? 'bg-gradient-to-br from-blue-100 to-indigo-100 text-blue-800 ring-1 ring-blue-200 shadow-sm dark:from-sky-400/20 dark:to-indigo-400/20 dark:text-sky-200 dark:ring-sky-300/30'
               : 'text-slate-500 dark:text-slate-400'
-          return <Link key={item.to} to={item.to} viewTransition aria-label={item.label} className={`flex min-h-[62px] flex-col items-center justify-center gap-0.5 rounded-xl text-[11px] font-medium transition ${state}`}><AppIcon name={item.icon} className="h-8 w-8"/><span className="flex flex-col items-center leading-tight">{hope ? <><span>#JestNadzieja</span><span>materiały</span></> : item.label}</span></Link>
+          return <Link key={item.to} to={item.to} viewTransition aria-label={item.label} className={`flex min-h-[62px] flex-col items-center justify-center gap-0.5 rounded-xl text-[11px] font-medium transition ${state}`}><AppIcon name={item.icon} className="h-8 w-8"/><span className="flex flex-col items-center leading-tight">{item.label}</span></Link>
         })}
       </div>
     </nav>

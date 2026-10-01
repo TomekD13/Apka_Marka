@@ -1,0 +1,84 @@
+{
+  "plans": [
+    {
+      "id": "cala-biblia",
+      "name": "Cała Biblia po kolei",
+      "desc": "Od Księgi Rodzaju do Apokalipsy, w kolejności ksiąg. Najprostsza droga przez całe Pismo.",
+      "days": 365,
+      "streams": [["Gen-Rev"]]
+    },
+    {
+      "id": "chronologicznie",
+      "name": "Biblia chronologicznie",
+      "desc": "Wydarzenia mniej więcej w tej kolejności, w jakiej się działy: Hiob przy patriarchach, prorocy obok historii królów, listy Pawła wplecione w Dzieje Apostolskie. Porządek uproszczony – układa całe księgi i ich większe części, nie pojedyncze wersety.",
+      "days": 365,
+      "streams": [[
+        "Gen.1-11", "Job", "Gen.12-50", "Exod", "Lev", "Num", "Deut", "Josh", "Judg", "Ruth",
+        "1Sam", "2Sam", "1Chr", "Ps", "1Kgs.1-11", "2Chr.1-9", "Prov", "Song", "Eccl",
+        "1Kgs.12-22", "2Kgs.1-14", "2Chr.10-25", "Jonah", "Amos", "Hos", "2Kgs.15-17", "2Chr.26-28",
+        "Isa", "Mic", "2Kgs.18-20", "2Chr.29-32", "2Kgs.21-25", "2Chr.33-36", "Nah", "Zeph", "Hab",
+        "Joel", "Jer", "Lam", "Obad", "Ezek", "Dan", "Ezra.1-6", "Hag", "Zech", "Esth", "Ezra.7-10",
+        "Neh", "Mal",
+        "Matt", "Mark", "Luke", "John", "Acts.1-14", "Jas", "Gal", "Acts.15-18", "1Thess", "2Thess",
+        "Acts.19-20", "1Cor", "2Cor", "Rom", "Acts.21-28", "Eph", "Phil", "Col", "Phlm", "1Tim",
+        "Titus", "1Pet", "Heb", "2Tim", "2Pet", "Jude", "1John", "2John", "3John", "Rev"
+      ]]
+    },
+    {
+      "id": "st-i-nt",
+      "name": "Stary i Nowy Testament razem",
+      "desc": "Każdego dnia fragment Starego i fragment Nowego Testamentu. Oba kończą się tego samego dnia.",
+      "days": 365,
+      "streams": [["Gen-Mal"], ["Matt-Rev"]]
+    },
+    {
+      "id": "cztery-czytania",
+      "name": "Cztery czytania dziennie",
+      "desc": "Codziennie Stary Testament, Nowy Testament, psalm i fragment Księgi Przysłów – układ znany z planów „Biblia w rok”.",
+      "days": 365,
+      "streams": [["Gen-Esth", "Job", "Eccl-Mal"], ["Matt-Rev"], ["Ps"], ["Prov"]]
+    },
+    {
+      "id": "nowy-testament",
+      "name": "Nowy Testament",
+      "desc": "Ewangelie, Dzieje Apostolskie, listy i Apokalipsa – dobry początek dla kogoś, kto pierwszy raz czyta Biblię.",
+      "days": 90,
+      "streams": [["Matt-Rev"]]
+    },
+    {
+      "id": "stary-testament",
+      "name": "Stary Testament",
+      "desc": "Prawo, historia Izraela, psalmy, mądrość i prorocy – w kolejności ksiąg.",
+      "days": 365,
+      "streams": [["Gen-Mal"]]
+    },
+    {
+      "id": "ewangelie",
+      "name": "Cztery Ewangelie",
+      "desc": "Życie, nauczanie, śmierć i zmartwychwstanie Jezusa według Mateusza, Marka, Łukasza i Jana.",
+      "days": 30,
+      "streams": [["Matt-John"]]
+    },
+    {
+      "id": "psalmy-i-przyslowia",
+      "name": "Psalmy i Przysłowia",
+      "desc": "Codziennie kilka psalmów i rozdział Księgi Przysłów – modlitwa i mądrość na każdy dzień.",
+      "days": 31,
+      "streams": [["Ps"], ["Prov"]]
+    },
+    {
+      "id": "listy",
+      "name": "Listy apostolskie",
+      "desc": "Od Listu do Rzymian do Listu Judy – nauczanie apostołów dla pierwszych zborów.",
+      "days": 60,
+      "streams": [["Rom-Jude"]]
+    },
+    {
+      "id": "madrosc-i-poezja",
+      "name": "Księgi mądrości i poezji",
+      "desc": "Hiob, Psalmy, Przysłowia, Kohelet i Pieśń nad Pieśniami – pytania o cierpienie, modlitwa, mądrość i miłość.",
+      "days": 60,
+      "streams": [["Job-Song"]]
+    }
+  ]
+}

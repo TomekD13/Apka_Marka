@@ -1,5 +1,8 @@
 // Wspolny spod dla danych, ktore zostaja na urzadzeniu czytelnika (notatki, modlitwy).
-// Zadnego konta ani backendu - jeden klucz w localStorage na kazda liste.
+// Jeden klucz w localStorage na kazda liste. Glownym miejscem zapisu jest zawsze
+// urzadzenie; konto (lib/account.ts) jest opcjonalne i tylko kopiuje zmiany w tle.
+
+import { recordWrite } from './syncMeta'
 
 export function readList<T>(key: string): T[] {
   try {
@@ -16,7 +19,9 @@ export function readList<T>(key: string): T[] {
 /** false = przegladarka nie pozwolila zapisac (tryb prywatny, brak miejsca). */
 export function writeList<T>(key: string, items: T[]): boolean {
   try {
+    const prev = localStorage.getItem(key)
     localStorage.setItem(key, JSON.stringify(items))
+    recordWrite(key, prev, items)
     return true
   } catch {
     return false

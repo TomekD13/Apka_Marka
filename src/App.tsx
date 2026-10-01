@@ -31,11 +31,15 @@ import { Settings } from './pages/Settings'
 import { Contact } from './pages/Contact'
 import { BibleHub, BibleStudies, PrayerHub, SongsHub } from './pages/SectionHubs'
 import { BibleLessons } from './pages/BibleLessons'
+import { ReadingPlanSetup, ReadingPlanView, ReadingPlansPage } from './pages/ReadingPlans'
+import { BETA } from './lib/beta'
 import { initAppInstall } from './lib/installApp'
 import { trackPageView } from './lib/analytics'
+import { bootAccount } from './lib/accountGate'
 
 registerSW({ immediate: true })
 initAppInstall()
+bootAccount()
 
 function LangLayout() {
   const { lang = 'pl' } = useParams()
@@ -79,6 +83,14 @@ export const router = createBrowserRouter(
         { path: 'biblia/szukaj', element: <BibleSearchPage /> },
         { path: 'biblia/zakladki', element: <BibleBookmarksPage /> },
         { path: 'biblia/przeklady', element: <BibleModulesPage /> },
+        // plany czytania - na razie tylko beta
+        ...(BETA
+          ? [
+              { path: 'biblia/plany', element: <ReadingPlansPage /> },
+              { path: 'biblia/plany/nowy/:planId', element: <ReadingPlanSetup /> },
+              { path: 'biblia/plany/moje/:id', element: <ReadingPlanView /> },
+            ]
+          : []),
         { path: 'biblia/:book/:chapter', element: <BibleChapterPage /> },
         { path: 'fiszki', element: <Flashcards /> },
         { path: 'okazje', element: <Occasions /> },

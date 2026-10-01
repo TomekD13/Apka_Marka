@@ -26,6 +26,7 @@ describe('nawigacja aplikacji — regresja', () => {
     expect(screen.getByRole('link', { name: 'Biblia' })).toHaveAttribute('href', '/pl/biblia')
     expect(screen.getByRole('link', { name: 'Pieśni' })).toHaveAttribute('href', '/pl/piesni')
     expect(screen.getByRole('link', { name: 'Modlitwa' })).toHaveAttribute('href', '/pl/modlitwa')
-    expect(screen.getByRole('link', { name: '#JestNadzieja – materiały' })).toHaveAttribute('href', '/pl/jest-nadzieja')
+    // ta sama nazwa ma tez logo w naglowku (prowadzi na strone glowna) - liczy sie zakladka w dolnym menu
+    expect(screen.getAllByRole('link', { name: '#JestNadzieja' }).map((a) => a.getAttribute('href'))).toContain('/pl/jest-nadzieja')
   })
 })

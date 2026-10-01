@@ -31,7 +31,7 @@ describe('#JestNadzieja — regresja strony wyboru', () => {
   it('prowadzi do listy materiałów edukacyjnych, nie do konkretnego materiału', async () => {
     render(<MemoryRouter><Hope /></MemoryRouter>)
 
-    await waitFor(() => expect(screen.getByRole('link', { name: /Materiały edukacyjne/ })).toHaveAttribute('href', '/pl/edukacja'))
+    await waitFor(() => expect(screen.getByRole('link', { name: /Człowiek Nadziei/ })).toHaveAttribute('href', '/pl/edukacja'))
   })
 
   it('zachowuje widoczną drogę powrotu do menu głównego', async () => {
