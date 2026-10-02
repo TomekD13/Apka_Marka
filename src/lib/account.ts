@@ -34,6 +34,7 @@ import {
 import { firebaseConfig } from './firebaseConfig'
 import { markSignedIn } from './accountGate'
 import {
+  clearSyncedLocal,
   docIdOf,
   getKeyMeta,
   isSyncedKey,
@@ -51,6 +52,24 @@ const auth = getAuth(app)
 const db = initializeFirestore(app, { ignoreUndefinedProperties: true })
 
 const EMAIL = 'zywe-slowo:sync:email'
+// uid konta, ktore ostatnio synchronizowalo to urzadzenie (zostaje po wylogowaniu)
+const LAST_UID = 'zywe-slowo:sync:uid'
+
+function lastUid(): string {
+  try {
+    return localStorage.getItem(LAST_UID) || ''
+  } catch {
+    return ''
+  }
+}
+function setLastUid(uid: string): void {
+  try {
+    if (uid) localStorage.setItem(LAST_UID, uid)
+    else localStorage.removeItem(LAST_UID)
+  } catch {
+    /* nic */
+  }
+}
 
 /** Zdarzenie dla stron, ktore chca odswiezyc liste po zmianie z innego urzadzenia. */
 export const SYNCED_EVENT = 'zywe-slowo:synced'
@@ -95,6 +114,16 @@ export function start(): void {
   onAuthStateChanged(auth, (u) => {
     stopSync()
     markSignedIn(!!u)
+    if (u) {
+      // Na tym urzadzeniu leza dane INNEGO konta (ktos sie wylogowal i zostawil je tutaj).
+      // Nie wolno ich scalic z nowym kontem - sa bezpieczne w chmurze poprzedniego wlasciciela.
+      const prev = lastUid()
+      if (prev && prev !== u.uid) {
+        clearSyncedLocal()
+        window.dispatchEvent(new CustomEvent(SYNCED_EVENT))
+      }
+      setLastUid(u.uid)
+    }
     set({ ready: true, user: u ? toUser(u) : null, sync: u ? 'syncing' : 'idle' })
     if (u) startSync(u.uid)
   })
@@ -129,7 +158,7 @@ function readLocal(key: string): unknown[] {
   }
 }
 
-function mergeKey(uid: string, key: string) {
+function mergeKey(uid: string, key: string): Promise<void> {
   const local = readLocal(key)
   const r = remote.get(key) ?? null
   const m = mergeList(key, local, getKeyMeta(key), r)
@@ -146,11 +175,11 @@ function mergeKey(uid: string, key: string) {
   setKeyMeta(key, m.meta)
 
   const empty = !Object.keys(m.remote.items).length && !Object.keys(m.remote.d).length
-  if (!r && empty) return
-  if (r && stableJson({ items: r.items || {}, d: r.d || {} }) === stableJson(m.remote)) return
+  if (!r && empty) return Promise.resolve()
+  if (r && stableJson({ items: r.items || {}, d: r.d || {} }) === stableJson(m.remote)) return Promise.resolve()
   remote.set(key, m.remote)
   set({ sync: 'syncing' })
-  setDoc(doc(db, 'users', uid, 'lists', docIdOf(key)), { ...m.remote, updated: serverTimestamp() })
+  return setDoc(doc(db, 'users', uid, 'lists', docIdOf(key)), { ...m.remote, updated: serverTimestamp() })
     .then(() => set({ sync: 'ok', lastSync: Date.now() }))
     .catch(() => set({ sync: 'error' }))
 }
@@ -171,14 +200,20 @@ function startSync(uid: string) {
       // za pierwszym razem scalamy wszystko: liste z chmury i liste z tego urzadzenia
       const keys = first ? new Set([...remote.keys(), ...localSyncedKeys()]) : new Set(changed)
       first = false
-      for (const k of keys) mergeKey(uid, k)
+      for (const k of keys) void mergeKey(uid, k)
       if (!snap.metadata.hasPendingWrites) set({ sync: 'ok', lastSync: Date.now() })
     },
     () => set({ sync: 'error' })
   )
   stopLocal = onLocalChange((key) => {
     clearTimeout(timers.get(key))
-    timers.set(key, setTimeout(() => mergeKey(uid, key), 800))
+    timers.set(
+      key,
+      setTimeout(() => {
+        timers.delete(key)
+        void mergeKey(uid, key)
+      }, 800)
+    )
   })
 }
 
@@ -235,10 +270,24 @@ export async function finishEmailLink(href: string, email: string): Promise<void
   }
 }
 
-/** Wylogowanie. Rzeczy zostaja na tym urzadzeniu - konto tylko przestaje je kopiowac. */
-export async function signOut(): Promise<void> {
+/**
+ * Wylogowanie. clearLocal = false: rzeczy zostaja na tym urzadzeniu (wlasny telefon).
+ * clearLocal = true: znikaja z urzadzenia (cudzy albo wspolny komputer) - zostaja na koncie.
+ */
+export async function signOut(clearLocal = false): Promise<void> {
+  const u = auth.currentUser
+  if (u && clearLocal) {
+    // najpierw dosylamy zmiany, ktore jeszcze czekaly na wyslanie
+    const pending = [...timers.keys()]
+    await Promise.all(pending.map((k) => mergeKey(u.uid, k))).catch(() => {})
+  }
   stopSync()
   await fbSignOut(auth)
+  if (clearLocal) {
+    clearSyncedLocal()
+    setLastUid('')
+    window.dispatchEvent(new CustomEvent(SYNCED_EVENT))
+  }
 }
 
 /**
@@ -249,6 +298,8 @@ export async function deleteAccount(): Promise<'done' | 'relogin'> {
   const u = auth.currentUser
   if (!u) return 'done'
   stopSync()
+  // po skasowaniu konta rzeczy na urzadzeniu sa juz „niczyje” - nowe konto ma je przyjac
+  setLastUid('')
   const docs = await getDocs(collection(db, 'users', u.uid, 'lists'))
   await Promise.all(docs.docs.map((d) => deleteDoc(d.ref)))
   try {

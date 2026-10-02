@@ -477,7 +477,10 @@
     "privacy": "Na koncie zapisują się tylko twoje notatki, dziennik modlitw, zakładki, ulubione, plany czytania i to, co już przeczytane – nic więcej. Leżą w bazie Google Firebase w Warszawie, a reguły tej bazy wpuszczają do nich wyłącznie twoje konto. Adres e-mail służy tylko do logowania: nie ma list wysyłkowych ani śledzenia. Przycisk „Usuń konto” kasuje konto razem z kopią w chmurze.",
     "backupLive": "Kopię do pliku zrobisz też bez konta:",
     "promptMaterials": "Zaloguj się i zachowaj postępy czytania, notatki i inne dane",
-    "promptButton": "Zaloguj się / załóż konto"
+    "promptButton": "Zaloguj się / załóż konto",
+    "signOutAsk": "Co zrobić z twoimi rzeczami na tym urządzeniu? Na koncie zostają w obu przypadkach.",
+    "signOutKeep": "Zostaw – to moje urządzenie",
+    "signOutClear": "Usuń z tego urządzenia – korzystają z niego inni"
   },
   "reading": {
     "done": "Przeczytane",

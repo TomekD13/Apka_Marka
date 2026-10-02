@@ -7,6 +7,7 @@ import { deleteNote, exportNotes, getNote, importNotes, listNotes, saveNote } fr
 import type { BibleNote } from '../types'
 import { BETA } from '../lib/beta'
 import { NoteSource } from '../components/NoteSource'
+import { safePath } from '../lib/safePath'
 
 function formatDate(iso: string, lang: string) {
   try {
@@ -213,7 +214,7 @@ export function NoteEdit() {
 
       {!BETA && source && (
         <p className="mb-3 text-sm text-slate-400">
-          {t('notes.from', 'Z:')} <Link to={source.path} className="text-brand-light hover:underline">{source.label}</Link>
+          {t('notes.from', 'Z:')} <Link to={safePath(source.path) || `/${lang}/notatki`} className="text-brand-light hover:underline">{source.label}</Link>
         </p>
       )}
 

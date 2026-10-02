@@ -112,6 +112,19 @@ zakładki w Biblii, ulubione pieśni, ulubione materiały, plany czytania, przec
 Nowa lista danych czytelnika = dopisz jej klucz tam i zapisuj ją przez `writeList()`;
 bezpośredni `localStorage.setItem` omija synchronizację.
 
+**Bezpieczeństwo (test 2026-10-02):**
+- Na wspólnym urządzeniu dane jednego konta nie mogą wejść na drugie: `account.ts` pamięta
+  uid ostatniego konta (`zywe-slowo:sync:uid`) i przy innym czyści lokalne listy
+  (`clearSyncedLocal`). Wylogowanie pyta, czy zostawić dane na urządzeniu.
+- Ścieżki z danych czytelnika idą do `<Link>` tylko przez `safePath()` (`lib/safePath.ts`).
+- Reguły Firestore wpuszczają tylko znane listy (`users/{uid}/lists/{lista}`, pola `items`,
+  `d`, `updated`). **Nowa lista w `isSyncedKey` = dopisz jej nazwę w regułach w konsoli**,
+  inaczej zapis będzie odrzucany.
+- Panel `/stat/` (źródło: `../Aplikacja-nowa/public/stat/`, wysyłany osobno przez FTP):
+  limit prób liczony po samym IP, ciasteczko sesji `HttpOnly; SameSite=Strict`.
+- Otwarte: CSP (sprawdzić z logowaniem Google i YouTube), ograniczenie klucza API do domeny,
+  App Check.
+
 **Firebase:** projekt `jest-nadzieja`, Firestore `europe-central2` (Warszawa), dane
 w `users/{uid}/lists/{lista}`, reguły wpuszczają wyłącznie właściciela. Konsolą zarządza
 Marek. Dozwolona domena: `jestnadzieja.adwent.pl`.

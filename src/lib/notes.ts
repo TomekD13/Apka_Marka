@@ -1,5 +1,12 @@
 import type { BibleNote } from '../types'
 import { exportJson, newId, parseBackup, readList, writeList } from './localStore'
+import { safePath } from './safePath'
+
+/** Zrodlo notatki przyjmujemy tylko ze sciezka wewnatrz aplikacji (lib/safePath.ts). */
+function cleanSource(src: BibleNote['source']): BibleNote['source'] {
+  if (!src || typeof src !== 'object' || !safePath(src.path)) return undefined
+  return { ...src, label: String(src.label ?? ''), path: safePath(src.path) }
+}
 
 // Notatki nie opuszczaja urzadzenia - patrz lib/localStore.ts.
 const KEY = 'zywe-slowo:notes:v1'
@@ -29,7 +36,7 @@ export function saveNote(
     title: input.title.trim(),
     body: input.body,
     ref: input.ref?.trim() || undefined,
-    source: input.source,
+    source: cleanSource(input.source),
     createdAt: i >= 0 ? notes[i].createdAt : now,
     updatedAt: now,
   }
@@ -58,7 +65,7 @@ export function importNotes(json: string): number {
       title: raw.title,
       body: raw.body,
       ref: raw.ref,
-      source: raw.source,
+      source: cleanSource(raw.source),
       createdAt: raw.createdAt || now,
       updatedAt: raw.updatedAt || now,
     })

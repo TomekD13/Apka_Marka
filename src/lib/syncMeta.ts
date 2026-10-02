@@ -183,3 +183,24 @@ export function stableJson(x: unknown): string {
   }
   return JSON.stringify(x) ?? 'null'
 }
+
+// --- wspolne urzadzenie ----------------------------------------------------------
+
+/**
+ * Usuwa z tego urzadzenia wszystko, co jedzie do chmury (i slady zmian).
+ * Wolane, gdy loguje sie INNE konto niz poprzednio albo czytelnik wylogowuje sie
+ * z cudzego urzadzenia - inaczej notatki jednej osoby scalilyby sie z kontem drugiej.
+ */
+export function clearSyncedLocal(): void {
+  try {
+    const keys: string[] = []
+    for (let i = 0; i < localStorage.length; i++) {
+      const k = localStorage.key(i)
+      if (k && isSyncedKey(k)) keys.push(k)
+    }
+    for (const k of keys) localStorage.removeItem(k)
+    localStorage.removeItem(META)
+  } catch {
+    /* brak dostepu do localStorage - nie ma czego czyscic */
+  }
+}

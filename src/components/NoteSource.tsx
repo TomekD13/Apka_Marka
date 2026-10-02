@@ -2,13 +2,16 @@ import { useEffect, useState } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { useI18n } from '../i18n'
 import { loadBibleIndex, parseRef } from '../lib/bible'
+import { safePath } from '../lib/safePath'
 import type { NoteSource as Source } from '../types'
 
 // „Zrodlo” notatki zamiast recznie wpisywanego odnosnika: klikalne miejsce, z ktorego
 // notatka powstala. Material -> ta sama strona i przewiniecie do cytatu,
 // werset -> rozdzial Biblii. Stara notatka z samym odnosnikiem -> rozdzial z odnosnika.
 
-export function NoteSource({ source, refText }: { source?: Source; refText?: string }) {
+export function NoteSource({ source: raw, refText }: { source?: Source; refText?: string }) {
+  // dane z synchronizacji albo starej kopii - sciezka musi byc wewnetrzna
+  const source = raw && safePath(raw.path) ? raw : undefined
   const { lang, t } = useI18n()
   const [bibleLink, setBibleLink] = useState('')
 
