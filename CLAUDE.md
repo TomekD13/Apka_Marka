@@ -79,6 +79,11 @@ nigdy ludzi; dar proroctwa i EGW bez nacisku, fundamentem Biblia.
 
 ## Beta (`/beta/`) – co siedzi za przełącznikiem
 
+> **2026-10-02: beta przeniesiona na stronę główną** (decyzja autora). `BETA = true`
+> w `src/lib/beta.ts` – wszystko z tabeli niżej działa już na https://jestnadzieja.adwent.pl/.
+> Opis zostaje, bo mówi, gdzie co leży. Następna nowość „tylko na betę” = przywróć warunek
+> z komentarza w `beta.ts`. Gałęzie `!BETA` w kodzie są teraz martwe – do sprzątnięcia przy okazji.
+
 **Stan na 2026-10-02.** Decyzja autora: nowe funkcje powstają **najpierw tylko na becie**
 (https://jestnadzieja.adwent.pl/beta/). Na GitHubie beta **nie jest osobną gałęzią** –
 kod leży w `main`, a wyłącza go flaga:
@@ -111,7 +116,7 @@ bezpośredni `localStorage.setItem` omija synchronizację.
 w `users/{uid}/lists/{lista}`, reguły wpuszczają wyłącznie właściciela. Konsolą zarządza
 Marek. Dozwolona domena: `jestnadzieja.adwent.pl`.
 
-**Zanim beta pójdzie na stronę główną:**
+**Zanim beta pójdzie na stronę główną** (stan 2026-10-02: poszła, punkty 1–2 zostają otwarte):
 1. Plan **Blaze** w Firebase – na darmowym planie Spark idzie najwyżej **5 maili z linkiem
    logowania dziennie** (https://firebase.google.com/docs/auth/limits).
 2. Przegląd kolejności planu „Biblia chronologicznie” (`reading-plans.json`) – to porządek
