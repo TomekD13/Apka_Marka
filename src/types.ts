@@ -120,7 +120,7 @@ export interface BibleNote {
   body: string
   ref?: string
   /** skąd notatka powstała - tytuł studium/pieśni i ścieżka powrotu */
-  source?: { label: string; path: string }
+  source?: NoteSource
   createdAt: string
   updatedAt: string
 }
@@ -161,10 +161,22 @@ export interface EduBody {
   sections: Pray40Section[]
   quote?: EduQuote | null
   questions: string[]
+  /** wyzwanie na dziś (W myślach / W działaniu) - stoi w ramce razem z pytaniem */
+  challenge?: string[]
 }
-export interface EduEntry { nr: number; title: string; ref: string }
+export interface EduEntry {
+  nr: number
+  title: string
+  /** odnosnik wersetu przewodniego - nowsze teksty go nie maja (pusty) */
+  ref: string
+  /** dzien w cyklu - Czlowiek Nadziei idzie zaraz po 40 dniach modlitwy */
+  date?: string
+  dateLabel?: string
+}
 export interface EduItem extends EduEntry {
   note?: string
+  /** bibliografia z wersji pelnej - lista pozycji */
+  sources?: string[]
   versions: Partial<Record<'short' | 'long', EduBody>>
 }
 export interface EduIndex { lang: string; title?: string; series?: string; items: EduEntry[] }
@@ -335,4 +347,11 @@ export interface ReadingPlanDef {
 }
 export interface ReadingPlansFile {
   plans: ReadingPlanDef[]
+}
+
+/** Źródło notatki: nazwa miejsca, ścieżka powrotu i (z zaznaczenia) początek cytatu - po nim strona przewija się do właściwego akapitu. */
+export interface NoteSource {
+  label: string
+  path: string
+  quote?: string
 }

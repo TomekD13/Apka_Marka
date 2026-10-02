@@ -90,12 +90,11 @@ export function ReadingPlansPage() {
       <p className="mt-3 text-slate-600 dark:text-slate-300">{t('plans.intro', '')}</p>
       {ACCOUNTS_ENABLED && (
         <p className="mt-3 rounded-xl border border-brand/30 bg-brand/5 p-3 text-sm text-slate-700 dark:border-sky-300/30 dark:bg-sky-300/5 dark:text-slate-200">
-          {wasSignedIn() ? (
-            t('plans.synced', 'Twoje plany zapisują się na koncie – zobaczysz je na każdym swoim urządzeniu.')
-          ) : (
+          {t('plans.synced', 'Twoje plany zapisują się na koncie – zobaczysz je na każdym swoim urządzeniu.')}
+          {!wasSignedIn() && (
             <>
-              {t('plans.signInHint', 'Zaloguj się, żeby plan i postępy były na każdym twoim urządzeniu.')}{' '}
-              <Link to={`/${lang}/konto`} className="font-semibold text-brand underline dark:text-sky-300">{t('plans.signIn', 'Twoje konto')}</Link>
+              {' '}
+              <Link to={`/${lang}/konto`} className="ml-1 inline-block rounded-md bg-brand px-2 py-0.5 text-xs font-semibold text-white hover:bg-brand/90 dark:bg-sky-500">{t('plans.signIn', 'Zaloguj się')}</Link>
             </>
           )}
         </p>

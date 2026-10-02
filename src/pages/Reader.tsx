@@ -10,7 +10,7 @@ import { NoteView } from '../components/NoteView'
 import { ContactForm } from '../components/ContactForm'
 import { ShareDialog } from '../components/ShareDialog'
 import { BETA } from '../lib/beta'
-import { MaterialActions } from '../components/MaterialActions'
+import { MaterialActions, ReadTop } from '../components/MaterialActions'
 import type { Bible, Level, Study } from '../types'
 
 export function Reader() {
@@ -50,6 +50,7 @@ export function Reader() {
         {minutes} {t('reader.minutes', 'min')}
         {study.tags?.length ? ' · ' + study.tags.join(', ') : ''}
       </p>
+      {BETA && <ReadTop kind="study" id={study.id} />}
 
       <div className="mt-4 flex flex-wrap items-center justify-between gap-3">
         <div>

@@ -5,6 +5,8 @@ import { BackLink } from '../components/BackLink'
 import { PageHeading } from '../components/PageHeading'
 import { deleteNote, exportNotes, getNote, importNotes, listNotes, saveNote } from '../lib/notes'
 import type { BibleNote } from '../types'
+import { BETA } from '../lib/beta'
+import { NoteSource } from '../components/NoteSource'
 
 function formatDate(iso: string, lang: string) {
   try {
@@ -207,7 +209,9 @@ export function NoteEdit() {
         {isNew ? t('notes.new', 'Nowa notatka') : t('notes.edit', 'Edytuj notatkę')}
       </h1>
 
-      {source && (
+      {BETA && <NoteSource source={source} refText={ref} />}
+
+      {!BETA && source && (
         <p className="mb-3 text-sm text-slate-400">
           {t('notes.from', 'Z:')} <Link to={source.path} className="text-brand-light hover:underline">{source.label}</Link>
         </p>
@@ -223,7 +227,7 @@ export function NoteEdit() {
         />
       </label>
 
-      <label className="mb-3 block">
+      {!BETA && <label className="mb-3 block">
         <span className="mb-1 block text-sm text-slate-300">
           {t('notes.fieldRef', 'Odnośnik biblijny (opcjonalnie)')}
         </span>
@@ -233,7 +237,7 @@ export function NoteEdit() {
           placeholder={t('notes.refPlaceholder', 'np. Jan 3,16')}
           className="w-full rounded-lg border border-slate-300 bg-white px-3 py-2 text-slate-900 outline-none focus:border-brand"
         />
-      </label>
+      </label>}
 
       <label className="mb-4 block">
         <span className="mb-1 block text-sm text-slate-300">{t('notes.fieldBody', 'Notatka')}</span>

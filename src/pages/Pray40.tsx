@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { useI18n } from '../i18n'
-import { loadPray40, loadPray40Day } from '../content'
+import { loadEdu, loadPray40, loadPray40Day } from '../content'
 import { useSetPlace } from '../place'
 import {
   rememberVersion,
@@ -15,10 +15,35 @@ import { FontScale } from '../components/FontScale'
 import { PageHeading } from '../components/PageHeading'
 import { listRead } from '../lib/progress'
 import { BETA } from '../lib/beta'
-import { ReadPill } from '../components/MaterialActions'
-import type { Pray40Day, Pray40Index } from '../types'
+import { ReadPill, ReadTop } from '../components/MaterialActions'
+import type { EduEntry, Pray40Day, Pray40Index } from '../types'
 
 const VERSION_KEY = 'zywe-slowo:pray40:version'
+
+/**
+ * Ramka pod ostatnia czytanka: zaproszenie do dalszej codziennej lektury -
+ * cykl „Człowiek Nadziei” startuje nazajutrz (daty w edu/index.json).
+ */
+function ContinueToEdu() {
+  const { lang, t } = useI18n()
+  const [first, setFirst] = useState<EduEntry | null>(null)
+  useEffect(() => {
+    loadEdu(lang).then((d) => setFirst(d.items[0] ?? null)).catch(() => {})
+  }, [lang])
+  return (
+    <section className="no-print mt-8 rounded-2xl border-2 border-violet-400/50 bg-gradient-to-br from-blue-500/10 via-violet-500/10 to-fuchsia-500/10 p-5 text-center">
+      <p className="text-xs font-semibold uppercase tracking-wide text-violet-300">{t('pray40.nextTitle', 'To nie koniec drogi')}</p>
+      <h2 className="mt-1 text-xl font-bold text-slate-100">{t('pray40.nextHeading', 'Czytaj dalej – codziennie')}</h2>
+      <p className="mt-2 leading-relaxed text-slate-200">
+        {t('pray40.nextBody', 'Czterdzieści dni modlitwy za tobą. Nie przerywaj codziennego spotkania ze Słowem: od jutra zaczyna się cykl „Człowiek Nadziei” – każdego dnia jeden tekst o tym, jak Bóg nas stworzył, jak myślimy, rozmawiamy i podejmujemy decyzje.')}
+      </p>
+      {first?.dateLabel && <p className="mt-2 text-sm text-slate-400">{t('pray40.nextStart', 'Pierwszy tekst')}: {first.dateLabel}</p>}
+      <Link to={`/${lang}/edukacja/${first?.nr ?? 1}`} className="mt-4 inline-block rounded-xl bg-violet-500 px-5 py-2.5 font-semibold text-white hover:bg-violet-400">
+        {t('pray40.nextButton', 'Zacznij „Człowieka Nadziei”')} ›
+      </Link>
+    </section>
+  )
+}
 
 function useIndex() {
   const { lang } = useI18n()
@@ -148,6 +173,7 @@ export function Pray40DayPage() {
         {entry.ref && <p className="mt-1 text-slate-300">{entry.ref}</p>}
         {entry.dateLabel && <p className="mt-0.5 text-sm text-slate-400">{entry.dateLabel}</p>}
         {entry.lead && <p className="mt-3 text-slate-300">{entry.lead}</p>}
+        {BETA && <ReadTop kind="pray40" id={entry.day} />}
       </header>
 
       <div className="mb-5 flex flex-wrap items-center justify-between gap-2">
@@ -178,6 +204,8 @@ export function Pray40DayPage() {
           </ol>
         </section>
       )}
+
+      {BETA && entry.day === total && <ContinueToEdu />}
 
       <ReadingFooter
         kind="pray40"

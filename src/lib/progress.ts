@@ -41,8 +41,13 @@ export function setRead(kind: ReadKind, id: number | string, value: boolean): bo
   const k = mark(kind, id)
   const rest = read().filter((m) => m.id !== k)
   const next = value ? [{ id: k, at: new Date().toISOString() }, ...rest] : rest
-  return writeList(KEY, next) ? value : !value
+  const ok = writeList(KEY, next)
+  // przycisk na gorze i na dole tekstu pokazuja ten sam stan
+  if (ok && typeof window !== 'undefined') window.dispatchEvent(new CustomEvent(READ_EVENT))
+  return ok ? value : !value
 }
+
+export const READ_EVENT = 'zywe-slowo:read-changed'
 
 // --- ocena materialu -----------------------------------------------------------
 // Gwiazdki 1-5. Trzymamy je tutaj, zeby czytelnik widzial swoja ocene po powrocie;

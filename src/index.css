@@ -167,3 +167,11 @@ html.dark .gradient-panel {
   .reading { font-size: 1rem; }
   a[href]::after { content: ""; }
 }
+
+/* miejsce, z ktorego powstala notatka - podswietlenie po wejsciu ze „Zrodla” */
+.note-flash {
+  border-radius: 0.5rem;
+  background-color: rgba(251, 191, 36, 0.25);
+  box-shadow: 0 0 0 4px rgba(251, 191, 36, 0.35);
+  transition: background-color 0.6s, box-shadow 0.6s;
+}

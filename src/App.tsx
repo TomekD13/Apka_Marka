@@ -7,6 +7,8 @@ import { ThemeProvider } from './theme'
 import { AppNavigation } from './components/AppNavigation'
 import { AddNoteFab } from './components/AddNoteFab'
 import { PlanBar } from './components/PlanBar'
+import { SelectionNote } from './components/SelectionNote'
+import { HighlightOnArrival } from './components/NoteSource'
 import { usePinchFontScale } from './components/FontScale'
 import { LangGate } from './pages/LangGate'
 import { Home } from './pages/Home'
@@ -62,6 +64,8 @@ function LangLayout() {
             </main>
             <PlanBar />
             <AddNoteFab />
+            <SelectionNote />
+            {BETA && <HighlightOnArrival />}
           </div>
         </PlaceProvider>
       </I18nProvider>
@@ -93,6 +97,7 @@ export const router = createBrowserRouter(
               { path: 'biblia/plany/nowy/:planId', element: <ReadingPlanSetup /> },
               { path: 'biblia/plany/moje/:id', element: <ReadingPlanView /> },
               { path: 'ulubione', element: <Favorites /> },
+              { path: 'instalacja', element: <Settings installOnly /> },
             ]
           : []),
         { path: 'biblia/:book/:chapter', element: <BibleChapterPage /> },

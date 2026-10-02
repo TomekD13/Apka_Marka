@@ -3,7 +3,8 @@ import { useI18n } from '../i18n'
 import { shareContent } from '../lib/share'
 import { getRating, isRead, setRating, setRead, type ReadKind } from '../lib/progress'
 import { BETA } from '../lib/beta'
-import { FavButton } from './MaterialActions'
+import { FavButton, SignInPrompt } from './MaterialActions'
+import { READ_EVENT } from '../lib/progress'
 
 // Stopka czytanki i materialu edukacyjnego. Odhaczenie „przeczytane" i ocena
 // stoja posrodku - to one koncza czytanie. Nizej dzielenie sie: WhatsApp,
@@ -55,6 +56,12 @@ export function ReadingFooter({
   const [toast, setToast] = useState('')
 
   useEffect(() => {
+    const sync = () => setDone(isRead(kind, id))
+    window.addEventListener(READ_EVENT, sync)
+    return () => window.removeEventListener(READ_EVENT, sync)
+  }, [kind, id])
+
+  useEffect(() => {
     setDone(isRead(kind, id))
     setStars(getRating(kind, id))
     setRatingOpen(false)
@@ -64,14 +71,14 @@ export function ReadingFooter({
   const url = typeof window === 'undefined' ? '' : window.location.href
   const appUrl =
     typeof window === 'undefined' ? '' : window.location.origin + import.meta.env.BASE_URL
-  const inviteText = t('reading.inviteText', 'Zapraszam cię do #JestNadzieja – Biblia, studia biblijne i czytanki w jednym miejscu.')
+  const inviteText = t('reading.inviteText', 'Zapraszam Cię do darmowej platformy edukacyjnej #JestNadzieja. Znajdziesz tam świetne materiały biblijne i edukacyjne.')
 
   function open(target: string) {
     window.open(target, '_blank', 'noopener,noreferrer')
   }
 
-  function whatsapp(text: string, link: string) {
-    open(`https://wa.me/?text=${encodeURIComponent(`${text}\n${link}`)}`)
+  function whatsapp(text: string, link: string, sep = '\n') {
+    open(`https://wa.me/?text=${encodeURIComponent(`${text}${sep}${link}`)}`)
   }
 
   // Messenger otwiera sie tylko przez okno Facebooka, a ono wymaga wlasnego
@@ -141,7 +148,6 @@ export function ReadingFooter({
           {BETA ? (done ? t('reading.doneOn', 'Przeczytane ✓') : t('reading.markDone', 'Oznacz jako przeczytane')) : t('reading.done', 'Przeczytane')}
         </button>
         {BETA && <FavButton kind={kind} id={id} title={title} />}
-
         <button
           type="button"
           onClick={() => setRatingOpen((v) => !v)}
@@ -157,6 +163,7 @@ export function ReadingFooter({
           {stars > 0 && <span className="text-sm font-normal text-amber-200/80">{stars}/5</span>}
         </button>
       </div>
+      {BETA && <SignInPrompt />}
 
       {rating && (
         <div className="mt-3 flex flex-col items-center gap-1">
@@ -208,7 +215,7 @@ export function ReadingFooter({
         >
           {t('reading.invite', 'Zaproś przyjaciół')}
         </button>
-        <button type="button" onClick={() => whatsapp(inviteText, appUrl)} className={btn}>
+        <button type="button" onClick={() => whatsapp(inviteText, appUrl, ' ')} className={btn}>
           {t('reading.inviteWhatsapp', 'Zaproś przez WhatsApp')}
         </button>
         {toast && <span className="text-xs text-slate-400">{toast}</span>}

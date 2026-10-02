@@ -14,9 +14,10 @@ import {
 import { downloadModule } from '../content'
 import { AppIcon, type IconName } from '../components/AppNavigation'
 import { PageHeading } from '../components/PageHeading'
+import { BETA } from '../lib/beta'
 
-function ExpandablePanel({ icon, title, children }: { icon: IconName; title: string; children: ReactNode }) {
-  const [open, setOpen] = useState(false)
+function ExpandablePanel({ icon, title, children, defaultOpen = false }: { icon: IconName; title: string; children: ReactNode; defaultOpen?: boolean }) {
+  const [open, setOpen] = useState(defaultOpen)
   return <section className="overflow-hidden rounded-xl border border-slate-200 bg-white dark:border-slate-700 dark:bg-slate-900">
     <button type="button" onClick={() => setOpen(!open)} aria-expanded={open} className="flex w-full items-center gap-3 px-3 py-2.5 text-left transition hover:bg-slate-50 dark:hover:bg-white/5">
       <span className="rounded-lg bg-brand/10 p-2 text-brand dark:bg-sky-400/15 dark:text-sky-300"><AppIcon name={icon} className="h-5 w-5" /></span>
@@ -41,7 +42,11 @@ function installReport(entries: InstallDiagnostic[], state: InstallState, labels
   ].join('\n')
 }
 
-export function Settings() {
+/**
+ * installOnly - osobna strona „Dodaj aplikację do telefonu” w menu bocznym (beta):
+ * sam panel instalacji i diagnostyka. Na becie Ustawienia ich juz nie powtarzaja.
+ */
+export function Settings({ installOnly = false }: { installOnly?: boolean }) {
   const { lang, t } = useI18n()
   const { theme, setTheme, fontSet, setFontSet } = useTheme()
   const [installState, setInstallState] = useState<InstallState>(getInstallState)
@@ -120,10 +125,11 @@ export function Settings() {
     empty: t('settings.installDiagnosticsEmpty', 'Brak zdarzeń diagnostycznych.'),
   })
 
+  const showInstall = !BETA || installOnly
   return <section className="mx-auto max-w-xl">
-    <PageHeading icon="settings" eyebrow={t('nav.menu', 'Menu boczne')} title={t('nav.settings', 'Ustawienia')} />
-    <p className="mt-2 text-slate-600 dark:text-slate-300">{t('settings.intro', 'Wybierz wygląd, który jest najwygodniejszy dla Ciebie.')}</p>
-    <div className="mt-6 space-y-2.5">
+    <PageHeading icon={installOnly ? 'download' : 'settings'} eyebrow={t('nav.menu', 'Menu boczne')} title={installOnly ? t('settings.install', 'Dodaj aplikację do telefonu') : t('nav.settings', 'Ustawienia')} />
+    {!installOnly && <p className="mt-2 text-slate-600 dark:text-slate-300">{t('settings.intro', 'Wybierz wygląd, który jest najwygodniejszy dla Ciebie.')}</p>}
+    {!installOnly && <div className="mt-6 space-y-2.5">
       <ExpandablePanel icon="settings" title={t('settings.appearance', 'Wygląd aplikacji')}>
         <div className="space-y-2.5">
           {option('light', t('settings.light', 'Light mode'), t('settings.lightDesc', 'Jasny, czytelny wygląd na dzień.'))}
@@ -137,13 +143,13 @@ export function Settings() {
           {fontOption('outfit', 'Outfit', 'Newsreader', t('settings.fontOutfit', 'Lekka i redakcyjna.'))}
         </div>
       </ExpandablePanel>
-    </div>
-    <div className="mt-2.5 space-y-2.5">
-      <ExpandablePanel icon="settings" title="Dodaj aplikację do Twojego telefonu">
+    </div>}
+    <div className={installOnly ? 'mt-6 space-y-2.5' : 'mt-2.5 space-y-2.5'}>
+      {showInstall && <ExpandablePanel icon="download" title={BETA ? t('settings.install', 'Dodaj aplikację do telefonu') : 'Dodaj aplikację do Twojego telefonu'} defaultOpen={installOnly}>
         <p className="text-sm leading-relaxed text-slate-600 dark:text-slate-300">Otwiera się jak zwykła aplikacja i pozostaje dostępna także bez internetu.</p>
         {installedNow || installState === 'installed' ? <p className="mt-3 text-sm font-semibold text-emerald-700 dark:text-emerald-300">Aplikacja jest już dodana do ekranu telefonu.</p> : installState === 'unavailable' ? <p className="mt-3 text-sm text-slate-500 dark:text-slate-400">Otwórz tę stronę w Chrome na Androidzie albo Safari na iPhonie, aby dodać aplikację do ekranu.</p> : <><button type="button" onClick={install} aria-expanded={installState === 'ios' ? showIosSteps : undefined} className="mt-3 rounded-lg bg-brand px-3 py-1.5 text-sm font-semibold text-white shadow-sm transition hover:bg-brand-light dark:bg-sky-300 dark:text-slate-950">{installState === 'ios' ? 'Jak to zrobić' : 'Dodaj aplikację'}</button>{installState === 'ios' && showIosSteps && <ol className="mt-3 list-decimal space-y-1 pl-5 text-sm leading-relaxed text-slate-600 dark:text-slate-300"><li>Dotknij ikony „Udostępnij” na dolnym pasku Safari.</li><li>Przewiń listę i wybierz „Dodaj do ekranu początkowego”.</li><li>Potwierdź „Dodaj” w prawym górnym rogu.</li><li className="text-slate-500 dark:text-slate-400">Na iPhonie użyj Safari — w innych przeglądarkach ta opcja może nie być dostępna.</li></ol>}</>}
-      </ExpandablePanel>
-      {installState !== 'installed' && <ExpandablePanel icon="settings" title={t('settings.installDiagnostics', 'Diagnostyka instalacji')}>
+      </ExpandablePanel>}
+      {showInstall && installState !== 'installed' && <ExpandablePanel icon="settings" title={t('settings.installDiagnostics', 'Diagnostyka instalacji')}>
         <p className="text-sm leading-relaxed text-slate-600 dark:text-slate-300">
           {t('settings.installDiagnosticsLimit', 'Raport pokazuje tylko informacje dostępne stronie. Android i Samsung Internet nie udostępniają jej prywatnych błędów instalatora ani Android Package Managera.')}
         </p>
@@ -164,6 +170,7 @@ export function Settings() {
           </span>
         </div>
       </ExpandablePanel>}
+      {!installOnly && <>
       <ExpandablePanel icon="download" title="Pobierz treści do trybu offline">
         <p className="text-sm leading-relaxed text-slate-600 dark:text-slate-300">Pobierze na to urządzenie Biblię, studia, czytanki „40 dni modlitwy”, materiały edukacyjne, śpiewniki, fiszki i teksty na różne okazje. Po zakończeniu będą dostępne także bez internetu.</p>
         <button type="button" onClick={downloadOffline} disabled={offlineState === 'busy' || offlineState === 'done'} className="mt-3 rounded-lg bg-brand px-3 py-1.5 text-sm font-semibold text-white shadow-sm transition hover:bg-brand-light disabled:cursor-default disabled:opacity-70 dark:bg-sky-300 dark:text-slate-950">
@@ -181,6 +188,7 @@ export function Settings() {
           <a href={t('about.author2Url', 'https://www.facebook.com/tdutkowski')} target="_blank" rel="noreferrer" className="text-brand hover:underline dark:text-sky-300">{t('about.author2', 'Tomasz Dutkowski')}</a>
         </p>
       </ExpandablePanel>
+      </>}
     </div>
   </section>
 }

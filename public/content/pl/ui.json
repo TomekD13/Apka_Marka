@@ -254,7 +254,10 @@
     "cancel": "Anuluj",
     "saved": "Zapisano notatkę",
     "quickPlaceholder": "Zapisz myśl…",
-    "quickHint": "Lista Twoich notatek znajduje się w sekcji: Biblia → Moje notatki biblijne."
+    "quickHint": "Lista Twoich notatek znajduje się w sekcji: Biblia → Moje notatki biblijne.",
+    "fromSelection": "Dodaj do Moje notatki",
+    "sourceLabel": "Źródło",
+    "sourceOwn": "notatka własna"
   },
   "worship": {
     "title": "Pieśni z muzyką i tekstem",
@@ -299,7 +302,12 @@
     "prev": "Poprzedni dzień",
     "next": "Następny dzień",
     "missing": "Nie ma czytanki na ten dzień.",
-    "unavailable": "Czytanki są niedostępne."
+    "unavailable": "Czytanki są niedostępne.",
+    "nextTitle": "To nie koniec drogi",
+    "nextHeading": "Czytaj dalej – codziennie",
+    "nextBody": "Czterdzieści dni modlitwy za tobą. Nie przerywaj codziennego spotkania ze Słowem: od jutra zaczyna się cykl „Człowiek Nadziei” – każdego dnia jeden tekst o tym, jak Bóg nas stworzył, jak myślimy, rozmawiamy i podejmujemy decyzje.",
+    "nextStart": "Pierwszy tekst",
+    "nextButton": "Zacznij „Człowieka Nadziei”"
   },
   "bible": {
     "title": "Biblia",
@@ -400,7 +408,10 @@
     "prev": "Poprzedni materiał",
     "next": "Następny materiał",
     "missing": "Nie ma takiego materiału.",
-    "unavailable": "Materiały są niedostępne."
+    "unavailable": "Materiały są niedostępne.",
+    "sources": "Źródła",
+    "questionChallenge": "Pytanie i wyzwanie",
+    "challenge": "Wyzwanie"
   },
   "settings": {
     "intro": "Wybierz wygląd, który jest najwygodniejszy dla Ciebie.",
@@ -423,7 +434,8 @@
     "installDiagnosticsEmpty": "Brak zdarzeń diagnostycznych.",
     "copyInstallDiagnostics": "Kopiuj raport",
     "installDiagnosticsCopied": "Raport skopiowany.",
-    "installDiagnosticsCopyFailed": "Nie udało się skopiować raportu."
+    "installDiagnosticsCopyFailed": "Nie udało się skopiować raportu.",
+    "install": "Dodaj aplikację do telefonu"
   },
   "account": {
     "title": "Twoje konto",
@@ -463,7 +475,9 @@
     "delete": "Usuń konto",
     "privacyTitle": "Co dzieje się z twoimi danymi",
     "privacy": "Na koncie zapisują się tylko twoje notatki, dziennik modlitw, zakładki, ulubione, plany czytania i to, co już przeczytane – nic więcej. Leżą w bazie Google Firebase w Warszawie, a reguły tej bazy wpuszczają do nich wyłącznie twoje konto. Adres e-mail służy tylko do logowania: nie ma list wysyłkowych ani śledzenia. Przycisk „Usuń konto” kasuje konto razem z kopią w chmurze.",
-    "backupLive": "Kopię do pliku zrobisz też bez konta:"
+    "backupLive": "Kopię do pliku zrobisz też bez konta:",
+    "promptMaterials": "Zaloguj się i zachowaj postępy czytania, notatki i inne dane",
+    "promptButton": "Zaloguj się / załóż konto"
   },
   "reading": {
     "done": "Przeczytane",
@@ -477,7 +491,7 @@
     "messenger": "Messenger",
     "invite": "Zaproś przyjaciół",
     "inviteWhatsapp": "Zaproś przez WhatsApp",
-    "inviteText": "Zapraszam cię do #JestNadzieja – Biblia, studia biblijne i czytanki w jednym miejscu.",
+    "inviteText": "Zapraszam Cię do darmowej platformy edukacyjnej #JestNadzieja. Znajdziesz tam świetne materiały biblijne i edukacyjne.",
     "fbAppId": "",
     "markDone": "Oznacz jako przeczytane",
     "doneOn": "Przeczytane ✓"
@@ -573,8 +587,7 @@
     "tile": "Plany czytania",
     "tileDesc": "Cała Biblia, Nowy Testament, Psalmy i inne – w Twoim tempie",
     "synced": "Twoje plany zapisują się na koncie – zobaczysz je na każdym swoim urządzeniu.",
-    "signInHint": "Zaloguj się, żeby plan i postępy były na każdym twoim urządzeniu.",
-    "signIn": "Twoje konto",
+    "signIn": "Zaloguj się",
     "barClose": "Zamknij pasek planu",
     "barNext": "Dalej",
     "barPrev": "Wstecz",

@@ -1,6 +1,8 @@
 import { useEffect, useRef, useState } from 'react'
 import { useI18n } from '../i18n'
 import { saveNote } from '../lib/notes'
+import { BETA } from '../lib/beta'
+import type { NoteSource } from '../types'
 
 /**
  * Szybka notatka: plywajace okienko z jednym polem, bez tytulu i odnosnika -
@@ -13,7 +15,7 @@ export function QuickNoteDialog({
   onClose,
   onSaved,
 }: {
-  source?: { label: string; path: string }
+  source?: NoteSource
   /** tresc na start - notatka spod zaznaczonego wersetu wchodzi z cytatem */
   initialBody?: string
   onClose: () => void
@@ -76,7 +78,7 @@ export function QuickNoteDialog({
       >
         <div className="mb-2 flex items-baseline justify-between gap-3">
           <h2 className="font-bold text-slate-100">{t('notes.new', 'Nowa notatka')}</h2>
-          {source && <span className="truncate text-xs text-slate-400">{source.label}</span>}
+          {source && <span className="truncate text-xs text-slate-400">{BETA ? `${t('notes.sourceLabel', 'Źródło')}: ` : ''}{source.label}</span>}
         </div>
 
         <textarea

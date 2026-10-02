@@ -9,7 +9,7 @@ import { FontScale } from '../components/FontScale'
 import { LEVEL_STYLES, LevelToggle } from '../components/LevelToggle'
 import { PageHeading } from '../components/PageHeading'
 import { BETA } from '../lib/beta'
-import { MaterialActions, ReadPill } from '../components/MaterialActions'
+import { MaterialActions, ReadPill, ReadTop } from '../components/MaterialActions'
 import { listRead } from '../lib/progress'
 import type { GroupBlock, GroupElement, GroupItem, GroupLevel, GroupsIndex, Level } from '../types'
 
@@ -193,6 +193,7 @@ export function GroupItemPage() {
       <p className="text-xs font-semibold uppercase tracking-wide text-brand dark:text-sky-300">{item.seria}{serie && pos >= 0 ? ` · ${pos + 1} / ${serie.items.length}` : ''}</p>
       <h1 className="mt-1 text-[1.5em] font-bold leading-tight">{item.tytul}</h1>
       <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">{minutes ? `${t('groups.about', 'ok.')} ${minutes} ${t('reader.minutes', 'min')}` : ''}{questions ? ` · ${questions} ${t('groups.questions', 'pytań')}` : ''}{item.tagi.length ? ` · ${item.tagi.join(', ')}` : ''}</p>
+      {BETA && <ReadTop kind="group" id={item.id} />}
     </header>
 
     <div className="no-print flex flex-wrap items-center gap-3">

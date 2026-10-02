@@ -45,9 +45,10 @@ function DrawerLink({ to, icon, children, onClick }: { to: string; icon: IconNam
   return <Link to={to} viewTransition onClick={onClick} className="flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm font-medium text-slate-700 hover:bg-slate-100 dark:text-slate-100 dark:hover:bg-white/10"><AppIcon name={icon} className="h-5 w-5 text-brand dark:text-sky-300"/>{children}</Link>
 }
 
-function DrawerGroup({ icon, title, open, onToggle, children }: { icon: IconName; title: string; open: boolean; onToggle: () => void; children: ReactNode }) {
-  return <div>
-    <button type="button" onClick={onToggle} aria-expanded={open} className="flex w-full items-center justify-between rounded-xl px-3 py-2.5 text-left text-sm font-semibold text-slate-900 hover:bg-slate-100 dark:text-white dark:hover:bg-white/10"><span className="flex items-center gap-3"><AppIcon name={icon} className="h-5 w-5 text-brand dark:text-sky-300"/>{title}</span><AppIcon name="chevron" className={`h-4 w-4 transition ${open ? 'rotate-90' : ''}`}/></button>
+function DrawerGroup({ icon, title, open, onToggle, children, accent = false }: { icon: IconName; title: string; open: boolean; onToggle: () => void; children: ReactNode; accent?: boolean }) {
+  // accent - #JestNadzieja wyrozniony kolorami marki (na razie beta)
+  return <div className={accent ? 'my-1 rounded-xl bg-gradient-to-r from-blue-500/15 via-violet-500/15 to-fuchsia-500/10 ring-1 ring-violet-400/40' : ''}>
+    <button type="button" onClick={onToggle} aria-expanded={open} className="flex w-full items-center justify-between rounded-xl px-3 py-2.5 text-left text-sm font-semibold text-slate-900 hover:bg-slate-100 dark:text-white dark:hover:bg-white/10"><span className="flex items-center gap-3"><AppIcon name={icon} className="h-5 w-5 text-brand dark:text-sky-300"/>{accent ? <span className="bg-gradient-to-r from-blue-600 to-violet-600 bg-clip-text font-bold text-transparent dark:from-sky-300 dark:to-violet-300">{title}</span> : title}</span><AppIcon name="chevron" className={`h-4 w-4 transition ${open ? 'rotate-90' : ''}`}/></button>
     {open && <div className="mb-2 ml-4 border-l border-slate-200 pl-2 dark:border-slate-700">{children}</div>}
   </div>
 }
@@ -88,11 +89,11 @@ export function AppNavigation() {
           {BETA && <DrawerLink to={`${home}/biblia/plany`} icon="book" onClick={() => setOpen(false)}>{t('plans.title', 'Plany czytania')}</DrawerLink>}
           <DrawerLink to={`${home}/poznaj-boga-i-biblie`} icon="lesson" onClick={() => setOpen(false)}>{t('home.bars.studies', 'Lekcje Biblijne')}</DrawerLink>
           <DrawerLink to={`${home}/lekcje-biblijne`} icon="lesson" onClick={() => setOpen(false)}>{t('nav.lessons', 'Szkoła Biblijna')}</DrawerLink>
-          <DrawerLink to={`${home}/notatki`} icon="notes" onClick={() => setOpen(false)}>{t('notes.title', 'Moje notatki biblijne')}</DrawerLink>
+          {!BETA && <DrawerLink to={`${home}/notatki`} icon="notes" onClick={() => setOpen(false)}>{t('notes.title', 'Moje notatki biblijne')}</DrawerLink>}
           <DrawerLink to={`${home}/fiszki`} icon="memory" onClick={() => setOpen(false)}>{t('flashcards.cta', 'Ucz się wersetów na pamięć')}</DrawerLink>
           <DrawerLink to={`${home}/okazje`} icon="occasion" onClick={() => setOpen(false)}>{t('occasions.cta', 'Teksty na różne okazje')}</DrawerLink>
         </DrawerGroup>
-        <DrawerGroup icon="hope" title="#JestNadzieja" open={hopeOpen} onToggle={() => setHopeOpen(!hopeOpen)}>
+        <DrawerGroup icon="hope" title="#JestNadzieja" accent={BETA} open={hopeOpen} onToggle={() => setHopeOpen(!hopeOpen)}>
           <DrawerLink to={`${home}/40-dni`} icon="prayer" onClick={() => setOpen(false)}>{t('home.pray40', '40 dni modlitwy')}</DrawerLink>
           <DrawerLink to={`${home}/edukacja`} icon="lesson" onClick={() => setOpen(false)}>{t('edu.title', 'Człowiek Nadziei')}</DrawerLink>
           <DrawerLink to={`${home}/grupy-nadziei`} icon="group" onClick={() => setOpen(false)}>{t('groups.title', 'Grupy Nadziei')}</DrawerLink>
@@ -108,10 +109,13 @@ export function AppNavigation() {
           <DrawerLink to={`${home}/modlitwa/teksty`} icon="prayer" onClick={() => setOpen(false)}>{t('prayerTexts.cta', 'Teksty do modlitwy')}</DrawerLink>
         </DrawerGroup>
         {BETA && <DrawerLink to={`${home}/ulubione`} icon="heart" onClick={() => setOpen(false)}>{t('favorites.title', 'Ulubione')}</DrawerLink>}
-        <DrawerLink to={`${home}/kontakt`} icon="contact" onClick={() => setOpen(false)}>{t('contact.title', 'Kontakt')}</DrawerLink>
+        {BETA && <DrawerLink to={`${home}/notatki`} icon="notes" onClick={() => setOpen(false)}>{t('notes.title', 'Moje notatki biblijne')}</DrawerLink>}
+        {!BETA && <DrawerLink to={`${home}/kontakt`} icon="contact" onClick={() => setOpen(false)}>{t('contact.title', 'Kontakt')}</DrawerLink>}
         <div className="my-3 border-t border-slate-200 dark:border-slate-700"/>
         <DrawerLink to={`${home}/ustawienia`} icon="settings" onClick={() => setOpen(false)}>{t('nav.settings', 'Ustawienia')}</DrawerLink>
+        {BETA && <DrawerLink to={`${home}/instalacja`} icon="download" onClick={() => setOpen(false)}>{t('settings.install', 'Dodaj aplikację do telefonu')}</DrawerLink>}
         {ACCOUNTS_ENABLED && <DrawerLink to={`${home}/konto`} icon="account" onClick={() => setOpen(false)}>{t('account.title', 'Twoje konto')}</DrawerLink>}
+        {BETA && <DrawerLink to={`${home}/kontakt`} icon="contact" onClick={() => setOpen(false)}>{t('contact.title', 'Kontakt')}</DrawerLink>}
       </aside>
     </div>}
 

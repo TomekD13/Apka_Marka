@@ -32,11 +32,32 @@ import io
 import json
 import re
 import sys
+from datetime import date, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_SRC = Path.home() / "AIprojekty" / "one27"
 OUT = ROOT / "public" / "content" / "pl" / "edu"
+PRAY40 = ROOT / "public" / "content" / "pl" / "pray40" / "index.json"
+
+# Do aplikacji wchodza tylko teksty po korekcie autora - w zrodle leza juz dalsze
+# szkolenia (do 080), ale czekaja. Podnies, gdy autor odda kolejne.
+PUBLISHED = 10
+
+# Czlowiek Nadziei idzie dzien po dniu zaraz po 40 dniach modlitwy (decyzja autora
+# 2026-10-02): material 1 = dzien po ostatniej czytance. Etykieta jak w extract_pray40.py.
+MIESIACE = ("stycznia lutego marca kwietnia maja czerwca lipca sierpnia września października listopada grudnia").split()
+DNI_TYGODNIA = "poniedziałek wtorek środa czwartek piątek sobota niedziela".split()
+
+
+def start_date() -> date:
+    days = json.loads(PRAY40.read_text(encoding="utf-8"))["days"]
+    return date.fromisoformat(max(d["date"] for d in days)) + timedelta(days=1)
+
+
+def dzien(nr: int, start: date) -> tuple[str, str]:
+    d = start + timedelta(days=nr - 1)
+    return d.isoformat(), f"{d.day} {MIESIACE[d.month - 1]}, {DNI_TYGODNIA[d.weekday()]}"
 
 RE_NR_FILE = re.compile(r"^(\d{1,3})[_\-\s]")
 RE_H1 = re.compile(r"^#\s+(.*)$")
@@ -44,6 +65,9 @@ RE_H2 = re.compile(r"^##\s+(.*)$")
 RE_QUESTIONS = re.compile(r"^Pytani[ae]\s+do\s+przemy[sś]lenia\s*:?\s*$", re.I)
 RE_NUMBERED = re.compile(r"^(\d+)[.)]\s*(.+)$", re.S)
 RE_NOTE = re.compile(r"^Cytaty\s*:", re.I)
+# uklad z pazdziernika 2026: na koncu jedno pogrubione pytanie i lista zrodel
+RE_BOLD_BLOCK = re.compile(r"^\*\*(.+)\*\*$", re.S)
+RE_SOURCES = re.compile(r"^(Źródła|Zrodla|Bibliografia)$", re.I)
 # myslnik przed odnoszem wersetu - w zrodlach bywa pauza, polpauza albo dywiz
 RE_QUOTE_REF = re.compile(r"^[\u2014–-]\s*(.+)$")
 
@@ -63,9 +87,12 @@ def read_md(path: Path) -> dict:
         "quote": None,
         "questions": [],
         "note": "",
+        "sources": [],
+        "challenge": [],
     }
     current: dict | None = None
     in_questions = False
+    in_sources = False
 
     for block in blocks(io.open(path, encoding="utf-8").read()):
         lines = [ln.strip() for ln in block.splitlines() if ln.strip()]
@@ -75,6 +102,12 @@ def read_md(path: Path) -> dict:
             out["title"] = m.group(1).strip()
             continue
         m = RE_H2.match(lines[0])
+        if m and RE_SOURCES.match(m.group(1).strip()):
+            in_sources = True
+            continue
+        if in_sources:
+            out["sources"] += [ln.lstrip("-*• ").strip() for ln in lines if ln.lstrip("-*• ").strip()]
+            continue
         if m:
             current = {"heading": m.group(1).strip(), "paragraphs": []}
             out["sections"].append(current)
@@ -95,6 +128,19 @@ def read_md(path: Path) -> dict:
                 continue
         if RE_NOTE.match(lines[0]):
             out["note"] = " ".join(lines)
+            continue
+        # samodzielne pogrubione pytanie zamyka tekst - to pytanie do przemyslenia
+        m = RE_BOLD_BLOCK.match(" ".join(lines))
+        if m and m.group(1).strip().endswith("?") and "**" not in m.group(1):
+            out["questions"].append(m.group(1).strip())
+            # wyzwanie stoi tuz przed pytaniem: w wersji pelnej cala sekcja „Na dzis”,
+            # w krotkiej ostatni akapit („Zanim odlozysz telefon...”). Idzie do ramki z pytaniem.
+            if current and (current["heading"] or "").lower().startswith("na dzi"):
+                out["challenge"] = current["paragraphs"]
+                out["sections"].remove(current)
+                current = None
+            elif current and current["paragraphs"]:
+                out["challenge"] = [current["paragraphs"].pop()]
             continue
         if in_questions:
             for ln in lines:
@@ -140,7 +186,9 @@ def main() -> int:
     long = collect(long_dir)
     print(f"\nSzkolenia: krótkich {len(short)}, pełnych {len(long)}")
 
-    numbers = sorted(set(short) | set(long))
+    numbers = [n for n in sorted(set(short) | set(long)) if n <= PUBLISHED]
+    print(f"Do aplikacji: 1-{PUBLISHED} (reszta czeka na korektę)")
+    start = start_date()
     problems = []
     for n in numbers:
         if n not in short:
@@ -154,11 +202,15 @@ def main() -> int:
         s, l = short.get(n), long.get(n)
         base = l or s
         quote = (base or {}).get("quote") or {}
+        iso, etykieta = dzien(n, start)
         item = {
             "nr": n,
+            "date": iso,
+            "dateLabel": etykieta,
             "title": base["title"],
             "ref": quote.get("ref", ""),
             "note": base["note"],
+            "sources": (l or {}).get("sources") or (s or {}).get("sources") or [],
             "versions": {},
         }
         for key, data in (("short", s), ("long", l)):
@@ -168,14 +220,14 @@ def main() -> int:
                 "sections": data["sections"],
                 "quote": data["quote"],
                 "questions": data["questions"],
+                "challenge": data["challenge"],
             }
         files[n] = item
-        index_items.append({"nr": n, "title": base["title"], "ref": item["ref"]})
+        index_items.append({"nr": n, "date": iso, "dateLabel": etykieta, "title": base["title"], "ref": item["ref"]})
 
         if not base["title"]:
             problems.append(f"Szkolenie {n}: pusty tytuł")
-        if not item["ref"]:
-            problems.append(f"Szkolenie {n}: brak odnośnika do wersetu")
+        # od pazdziernika 2026 teksty nie maja wersetu przewodniego - brak odnosnika jest normalny
         for key, data in (("short", s), ("long", l)):
             if data and not data["questions"]:
                 problems.append(f"Szkolenie {n} ({key}): brak pytań")
