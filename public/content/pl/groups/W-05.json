@@ -1,0 +1,728 @@
+{
+ "tytul": "Modlitwa przed wyborem",
+ "id": "W-05",
+ "seria": "Decyzje i wola Boża",
+ "opis": "Jak rozmawiać z Bogiem przed ważnym wyborem i co robić, kiedy odpowiedź nie przychodzi od razu.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "2Krn 20,1-6.12-13; Ne 1,1-4.11; 2,1-5; Łk 5,15-16; 6,12-13; Dz 13,1-3; Ha 2,1-3; Iz 40,27-31",
+  "p2": "Iz 37,14-17; Mt 6,7-8; Dz 14,23; Jr 42,1-7; 43,4",
+  "p3": "Iz 40,31"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 23,
+  "p3": 26
+ },
+ "tagi": [
+  "decyzje",
+  "wola Boża",
+  "modlitwa",
+  "post",
+  "czekanie",
+  "milczenie Boga"
+ ],
+ "wersja": 1,
+ "zdanie": "Modlitwa przed wyborem nie zawsze przynosi odpowiedź od razu. Prawie zawsze zmienia tego, kto się modli.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o rozmowie z Bogiem przed ważnym wyborem. Można prosić Go o podpis pod planem, który już powstał. Można też położyć przed Nim całą sprawę, razem z lękiem, motywami i niewiedzą. Teksty pokazują ludzi, którzy robią to drugie, i Jezusa, który przed wyborem Dwunastu spędza noc na modlitwie. Pokazują też czekanie, bo odpowiedź rzadko przychodzi w chwili, w której o nią prosimy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W Kościele są dwa sposoby rozumienia tego czekania. Jedni wierzą, że Bóg prowadzi osobiście także w sprawach pracy, miejsca i małżeństwa, i odpowiedź przyjdzie, choćby po czasie. Drudzy podkreślają, że w wielu sprawach Bóg daje mądrość i zostawia wybór. Oba stanowiska łączy przekonanie, że modlitwa nie jest formalnością i że Boże milczenie nie znaczy obojętności. Pokrewny materiał to „Znaki, drzwi i rady”.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole mogą siedzieć ludzie, którzy modlili się latami o coś, co nie przyszło. Nie obiecuj, że każda modlitwa przed wyborem kończy się jasnością.",
+      "Temat postu może dotknąć kogoś chorego albo kogoś, kto zmagał się z zaburzeniami odżywiania. Nie zachęcaj nikogo do postu i nie przedstawiaj go jako warunku odpowiedzi.",
+      "Ktoś może być teraz przed decyzją z twardym terminem i bardzo się bać. Grupa nie podejmuje decyzji za niego.",
+      "Pytanie o Judasza wśród Dwunastu łatwo prowadzi w spór o przeznaczenie. Nie rozstrzygaj go dzisiaj."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie podawaj metody modlitwy, która „działa”. Nie opowiadaj o własnych wysłuchanych modlitwach jako dowodzie dla innych. Nie oceniaj, czyja modlitwa była dość szczera.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie ważną decyzję ze swojego życia. Powiedz jednym zdaniem, czy przed nią się modliłeś i jak ta modlitwa wyglądała.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Nie wiemy, co czynić",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Krn 20,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Po tych wydarzeniach ruszyli Moabici, Ammonici, a z nimi także niektórzy Maonici na wojnę z Jehoszafatem. I przyszli posłańcy do Jehoszafata z doniesieniem: Ruszyło przeciwko tobie wielkie wojsko z tamtej strony morza, z Edomu, i oto są już w Chaseson-Tamar, to jest w En-Gedi. Wtedy Jehoszafat zląkł się i postanowił zwrócić się do Pana, ogłosił też post w całej Judzie. Zebrali się więc Judejczycy, ażeby zwrócić się do Pana o pomoc, również ze wszystkich miast judzkich przyszli, aby szukać Pana.",
+        "Jehoszafat stanął wobec zgromadzenia Judy i Jeruzalemu w świątyni Pańskiej przed nowym dziedzińcem i rzekł: Panie, Boże ojców naszych! Czy nie Ty jesteś Bogiem w niebiesiech? Ty władasz nad wszystkimi królestwami narodów. W twoim ręku jest siła i moc i nie ma takiego, kto by ci mógł sprostać. [...]"
+       ]
+      },
+      {
+       "odnosnik": "2Krn 20,12-13",
+       "przeklad": "BW",
+       "akapity": [
+        "Boże nasz! Czy ich nie osądzisz? Bo myśmy bezsilni wobec tej licznej tłuszczy, która wyruszyła przeciwko nam; nie wiemy też, co czynić, lecz oczy nasze na ciebie są zwrócone. Podczas tego stali przed Panem wszyscy Judejczycy, nawet ich małe dzieci, ich kobiety i synowie,"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Jehoszafat zląkł się i postanowił zwrócić się do Pana”. **Co w tym zdaniu robi strach, a co robi decyzja króla?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Modlitwa zaczyna się od tego, kim jest Bóg, a kończy słowami „nie wiemy też, co czynić”. **Co zmienia taka kolejność w człowieku, który się modli?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Przed Panem stoją także kobiety i małe dzieci. **Dlaczego warto przynosić Bogu decyzję razem z tymi, których ona dotyczy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Przed ważnym wyborem można prosić Boga o błogosławieństwo dla tego, co już postanowiliśmy. Można też położyć przed Nim całą sprawę razem z lękiem i niewiedzą. Jehoszafat robi to drugie. Nie przychodzi do świątyni z planem bitwy. Przychodzi z przyznaniem, że planu nie ma. Taka modlitwa porządkuje człowieka, zanim cokolwiek się wyjaśni. Sprawy nazwane przed Bogiem przestają wirować.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "List rozwinięty przed Panem",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Asyryjski król otacza Jerozolimę i przysyła Hiskiaszowi, królowi Judy, list pełen gróźb.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 37,14-17",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy Hiskiasz przyjął list z rąk posłów i przeczytał go, poszedł do świątyni Pana i rozwinął go przed Panem, i modlił się Hiskiasz do Pana tymi słowy: Panie Zastępów, Boże Izraela, który siedzisz na cherubach! Ty jedynie jesteś Bogiem wszystkich królestw ziemi, Ty stworzyłeś niebo i ziemię. Skłoń, Panie, swoje ucho i słuchaj! Otwórz, Panie, swoje oczy i patrz! Usłysz wszystkie słowa Sancheryba, który to wysłał posłów, aby urągać Bogu żywemu!"
+       ]
+      },
+      {
+       "odnosnik": "Mt 6,7-8",
+       "przeklad": "BW",
+       "akapity": [
+        "A modląc się, nie bądźcie wielomówni jak poganie; albowiem oni mniemają, że dla swej wielomówności będą wysłuchani. Nie bądźcie do nich podobni, gdyż wie Bóg, Ojciec wasz, czego potrzebujecie, przedtem zanim go poprosicie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hiskiasz rozwija list przed Panem, choć Bóg zna jego treść. **Po co pokazywać Bogu coś, o czym On już wie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi, że Ojciec wie, czego potrzebujemy, zanim poprosimy. **Co w takim razie modlitwa zmienia, skoro Bóg i tak wie wszystko?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Miesiące modlitwy i jedno westchnienie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ne 1,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Słowa Nehemiasza, syna Chakaliasza: Gdy w miesiącu Kislew roku dwudziestego przebywałem w twierdzy Susa, przyszedł jeden z moich braci, Chanani, a z nim niektórzy mężowie z Judy. Zapytałem ich wtedy o ocalałych Żydów, którzy przeżyli niewolę, i o Jeruzalem. A oni rzekli do mnie: Ci pozostali, którzy przeżyli niewolę, znajdują się w tamtejszym okręgu w wielkiej biedzie i pohańbieniu; wszak mur Jeruzalemu jest zwalony, a jego bramy spalone ogniem. A gdy usłyszałem te słowa, usiadłem i zacząłem płakać, i smuciłem się przez szereg dni, poszcząc i modląc się przed Bogiem niebios"
+       ]
+      },
+      {
+       "odnosnik": "Ne 1,11",
+       "przeklad": "BW",
+       "akapity": [
+        "ach, Panie! Niechaj twoje ucho będzie uważne na modlitwę twego sługi i modlitwę twoich sług, pragnących uczcić twoje imię. Spraw, proszę, aby poszczęściło się dziś twemu słudze i okaż mu zmiłowanie wobec tego męża. Byłem bowiem podczaszym królewskim."
+       ]
+      },
+      {
+       "odnosnik": "Ne 2,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "W miesiącu Nisan, w dwudziestym roku panowania króla Artakserksesa, usługując mu jako podczaszy, wziąłem wino i podałem królowi, a nigdy przedtem tak źle nie wyglądałem. Wtedy król rzekł do mnie: Czemu tak źle wyglądasz? Chyba nie jesteś chory? Nic to innego, jak tylko zgryzota! A ja bardzo się przestraszyłem i rzekłem do króla: Niech król żyje wiecznie! Lecz jakże nie mam źle wyglądać, skoro miasto, gdzie są groby moich ojców, jest zburzone, a jego bramy przez ogień strawione? A król rzekł do mnie: Czego byś sobie życzył? Pomodliwszy się więc do Boga niebios, rzekłem do króla: Jeżeli odpowiada to królowi i jeżeli twój sługa znalazł łaskę w twoich oczach, to proszę, abyś mnie wysłał do Judei, do miasta, gdzie są groby moich ojców, abym je mógł odbudować."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Nehemiasz usłyszał złą wiadomość w miesiącu Kislew, a z królem rozmawia w miesiącu Nisan. **Co mogło się w nim zmienić przez te miesiące?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Król pyta: „Czego byś sobie życzył?”. Nehemiasz modli się, zanim odpowie. **Jak mogła wyglądać modlitwa, na którą miał kilka sekund?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Nehemiasz długo prosił o tę chwilę, a gdy przyszła, „bardzo się przestraszył”. **Co ten strach mówi o człowieku, który przygotował się w modlitwie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Kislew i Nisan dzieli kilka miesięcy. Przez ten czas Nehemiasz nosi sprawę przed Bogiem i nie mówi o niej królowi. Gdy pada pytanie, nie ma już czasu na długą rozmowę z Bogiem. Wystarcza westchnienie, bo wszystko inne zostało powiedziane wcześniej. Długa modlitwa i modlitwa w ułamku sekundy nie konkurują ze sobą. Ta krótka wyrasta z tamtej długiej.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Noc przed wyborem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 5,15-16",
+       "przeklad": "BW",
+       "akapity": [
+        "I rozchodziła się tym bardziej wieść o nim, i schodziły się wielkie tłumy, aby go słuchać i dać się uzdrowić z chorób swoich. Sam zaś oddalił się na pustkowie i modlił się."
+       ]
+      },
+      {
+       "odnosnik": "Łk 6,12-13",
+       "przeklad": "BW",
+       "akapity": [
+        "I stało się w tych dniach, że wyszedł na górę, aby się modlić, i spędził noc na modlitwie do Boga. A gdy nastał dzień, przywołał uczniów swoich i wybrał z nich dwunastu, których też nazwał apostołami:"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Do Jezusa schodzą się wielkie tłumy, a On oddala się na pustkowie i się modli. **Co to mówi o modlitwie w czasie, kiedy wszyscy czegoś od nas chcą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus spędza noc na modlitwie, a rano wybiera Dwunastu. **Co znaczy, że nawet On nie wybierał najbliższych ludzi bez takiej nocy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Wśród wybranych po tej nocy był także Judasz. **Czego w takim razie modlitwa przed wyborem nie obiecuje?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Wspólnota, która pości",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 13,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "W Antiochii, w tamtejszym zborze, byli prorokami i nauczycielami: Barnaba i Symeon, zwany Niger, i Lucjusz Cyrenejczyk, i Manaen, który się wychowywał razem z Herodem tetrarchą, i Saul. A gdy oni odprawiali służbę Pańską i pościli, rzekł Duch Święty: Odłączcie mi Barnabę i Saula do tego dzieła, do którego ich powołałem. Wtedy, po odprawieniu postów i modlitwy, nałożyli na nich ręce i wyprawili ich."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Słowo Ducha dotyczy dwóch ludzi, a przychodzi do całej grupy przywódców. **Co daje człowiekowi to, że jego powołanie słyszą także inni?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Po słowie Ducha znowu poszczą i się modlą, a dopiero potem wysyłają. **Po co modlić się dalej, skoro odpowiedź już padła?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Na liście przywódców są ludzie z różnych stron świata i z różnych warstw. **Co taka grupa mogła wnosić do wspólnego rozeznawania?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Pięciu przywódców Antiochii ma zupełnie różne życiorysy. Barnaba pochodzi z Cypru. Symeon nosi przydomek Niger, czyli „czarny”. Lucjusz jest z Cyreny w północnej Afryce. Manaen dorastał razem z Herodem, władcą Galilei. Saul jeszcze niedawno ścigał uczniów Jezusa. Post nie był sposobem na wymuszenie odpowiedzi. Był wspólnym wyciszeniem, żeby lepiej słyszeć.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Starsi wybrani wśród postów",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 14,23",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy przez wkładanie rąk wyznaczyli im w każdym zborze starszych, wśród modlitw i postów poruczyli ich Panu, w którego uwierzyli."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł i Barnaba zostawiają młode zbory pod opieką starszych i oddają ich Panu. **Co to mówi o decyzjach, które zapadają w Kościele dzisiaj?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Gdy odpowiedź nie przychodzi",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Prorok Habakuk skarży się Bogu, że zło trwa, a On milczy: „Dokądże, Panie, będę wołał o pomoc, a Ty nie wysłuchasz?” (Ha 1,2).",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ha 2,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "Muszę stanąć na mym posterunku, udać się na basztę; muszę wypatrywać i baczyć, co mi powie, co odpowie na moją skargę. I odpowiedział mi Pan, mówiąc: Zapisz to, co widziałeś, i wyryj to na tablicach, aby to można szybko przeczytać. Gdyż widzenie dotyczy oznaczonego czasu i wypełni się niezawodnie. Jeżeli się odwleka, wyczekuj go, gdyż na pewno się spełni, nie opóźni się."
+       ]
+      },
+      {
+       "odnosnik": "Iz 40,27-31",
+       "przeklad": "BW",
+       "akapity": [
+        "Czemu więc mówisz, Jakubie, i powiadasz, Izraelu: Zakryta jest moja droga przed Panem, a moja sprawa do mojego Boga nie dochodzi? Czy nie wiesz? Czy nie słyszałeś? Bogiem wiecznym jest Pan, Stwórcą krańców ziemi. On się nie męczy i nie ustaje, niezgłębiona jest jego mądrość. Zmęczonemu daje siłę, a bezsilnemu moc w obfitości. Młodzieńcy ustają i mdleją, a pacholęta potykają się i upadają, lecz ci, którzy ufają Panu, nabierają siły, wzbijają się w górę na skrzydłach jak orły, biegną, a nie mdleją, idą, a nie ustają."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Habakuk staje na posterunku i wypatruje. **Czym takie czekanie różni się od bezczynności albo od odkładania decyzji?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Izrael mówi: „Zakryta jest moja droga przed Panem”. **Kiedy człowiek, który modli się przed wyborem, zaczyna tak myśleć? Co Bóg mu tu odpowiada?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Obietnica kończy się zwykłym chodzeniem, po skrzydłach orła i po biegu. **Dlaczego właśnie to może być najtrudniejsze w czasie czekania?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Czekanie na odpowiedź nie oznacza stania w miejscu. Wola Boża na dziś jest zwykle jasna: uczciwa praca, troska o bliskich, prawda w rozmowach. Niewiadoma dotyczy jednej sprawy na później. Gdy termin jest twardy, wolno podjąć decyzję na podstawie wszystkiego, co już się dostało, i oddać Bogu korektę drogi. Brak jasności przed terminem nie jest porażką modlitwy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dziesięć dni",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Po zburzeniu Jerozolimy garstka ludzi, którzy zostali w kraju, boi się Babilończyków i myśli o ucieczce do Egiptu.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jr 42,1-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy wszyscy dowódcy wojsk i Jochanan, syn Kareacha, i Azariasz, syn Hosajasza, oraz wszyscy ludzie, młodsi i starsi, przystąpili do proroka Jeremiasza i rzekli: Niech nasze błaganie dotrze do ciebie! Módl się za nami do Pana, twojego Boga, za tą całą resztą, gdyż z wielkiej liczby pozostała nas tylko mała garstka, jak to widzisz na własne oczy! Niechaj Pan, twój Bóg, wskaże nam drogę, którą mamy pójść, i powie, co mamy czynić. Prorok Jeremiasz odpowiedział im, mówiąc: Dobrze. Oto ja, stosownie do waszego życzenia, będę się modlił do Pana, Boga waszego, i oznajmię wam wszystko, co Pan wam odpowie; nic przed wami nie zataję. Oni zaś rzekli do Jeremiasza: Niech Pan będzie świadkiem przeciwko nam, prawdziwym i wiernym, jeżeli nie postąpimy dokładnie według słowa, z którym cię pośle do nas Pan, twój Bóg. Czy to będzie dobre, czy złe, usłuchamy głosu Pana, naszego Boga, do którego cię wysyłamy, aby się nam dobrze wiodło, gdy usłuchamy głosu Pana, naszego Boga. A po upływie dziesięciu dni doszło Jeremiasza słowo Pana."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Bóg każe im zostać w kraju i obiecuje opiekę. Ludzie oskarżają proroka o kłamstwo.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jr 43,4",
+       "przeklad": "BW",
+       "akapity": [
+        "I nie usłuchał Jochanan, syn Kareacha, i wszyscy dowódcy wojsk, i cały lud głosu Pana, aby pozostać w ziemi judzkiej,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ludzie z góry obiecują: „czy to będzie dobre, czy złe, usłuchamy”. **Co sprawia, że łatwo złożyć taką obietnicę, a trudno ją potem dotrzymać?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Odpowiedź przychodzi po dziesięciu dniach. **Co się dzieje z człowiekiem, który czeka na słowo od Boga, a w środku już kiełkuje mu własna decyzja?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajski czasownik w Iz 40,31, `qawah`, znaczy czekać z nadzieją, wyglądać kogoś. Polski przekład musi wybrać jedno słowo i Biblia Warszawska wybiera „ufają”. Prorok nie rozdziela czekania, nadziei i ufności. Kto czeka na Boga, już Mu ufa, a kto ufa, ma przed sobą przyszłość. Motyw czekania na Pana wraca w Księdze Izajasza wiele razy i spina całą księgę.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak zmienia się czekanie przed decyzją, kiedy nazwiemy je ufnością i nadzieją?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: co znaczy Boże milczenie",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ludzie, którzy modlą się przed wyborem, czytają ciszę na różne sposoby. Jedni wierzą, że Bóg odpowie także w sprawie pracy, miejsca czy małżeństwa, choćby po długim czasie, i że trzeba umieć czekać. Drudzy zwracają uwagę, że w wielu sprawach obie drogi mieszczą się w woli Bożej. Wtedy cisza może znaczyć „wybierz, będę z tobą na każdej z nich”. Bywa też, że Bóg milczy w sprawie, o którą pytamy, a mówi wyraźnie w innej, o której wolelibyśmy nie słyszeć. Oba stanowiska łączy jedno. Milczenie Boga nie oznacza, że przestał patrzeć.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak odróżnić ciszę, która mówi „wybierz”, od ciszy, która mówi „jeszcze nie”?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pomyśl o decyzji, którą masz przed sobą. **Jak brzmi twoja modlitwa w tej sprawie: jak prośba o podpis pod gotowym planem czy jak rozmowa, w której wszystko leży na stole?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Komu mógłbyś powiedzieć o tej decyzji, żeby przez jakiś czas modlił się razem z tobą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **na jaką odpowiedź czekasz najdłużej i co robisz z tym czekaniem?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Termin mija, a jasności nie ma. Czy decyzja podjęta wtedy jest mniej zgodna z wolą Bożą niż ta, przed którą przyszła wyraźna odpowiedź?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie musi rozstrzygać. Warto, żeby padło spostrzeżenie, że Bóg uczy nas przez lata, jak wybierać. Bywa, że brak odpowiedzi przy twardym terminie jest wyrazem Bożego zaufania do człowieka. Jakby Bóg mówił, żeby wybrał najlepiej, jak umie, a On pójdzie z nim.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Modlitwa przed wyborem nie zawsze przynosi odpowiedź od razu. Prawie zawsze zmienia tego, kto się modli.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** 2Krn 20,12 albo Iz 40,31.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Opowiedz Bogu sprawę, która jest przed tobą, ze szczegółami, tak jak opowiedziałbyś ją przyjacielowi. Razem z tym, czego się boisz, i z tym, czego naprawdę chcesz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zapytaj siebie przed Bogiem, **czy jestem gotów usłyszeć „nie”**. Nie musisz odpowiadać od razu. Zostań przy tym pytaniu przez kilka dni.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Pomyśl, o co w tej sprawie Bóg mógł już do ciebie mówić, choć udajesz, że nie słyszysz. Przyznaj to przed Nim, zanim poprosisz o cokolwiek nowego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Modliłem się i nic.”** Nie spiesz się z wyjaśnieniem i nie broń Boga. Habakuk i Izrael z Księgi Izajasza mówili to samo, a Biblia zapisała ich skargi. Możesz zapytać, co ta osoba robi w czasie czekania i czy ktoś czeka razem z nią.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Bóg mi powiedział, że mam to zrobić.”** Nie wchodź w spór przy grupie. Możesz zapytać spokojnie, kto jeszcze się z nim w tej sprawie modlił i czy ta droga zgadza się z Pismem. W Antiochii słowo usłyszała cała grupa przywódców.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi, że nie umie się modlić albo że jego modlitwy są „za słabe”.** Pokaż modlitwę Nehemiasza przed królem. Miała kilka sekund i ani jednego słowa zapisanego. Bóg nie ocenia długości ani stylu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś pyta, czy post jest obowiązkowy i jak pościć.** Teksty pokazują post jako wspólne wyciszenie, nikt go tu nie nakazuje. Nie zachęcaj do postu od jedzenia osób chorych ani nikogo, o kim nie wiesz, jak z jego zdrowiem. Można też odłożyć na czas modlitwy ekran albo inne zajęcie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś jest w świeżej stracie albo kryzysie i musi coś pilnie postanowić.** Wysłuchaj, nie doradzaj i nie podawaj gotowych odpowiedzi. Grupa może się za niego modlić. Jeśli sprawa jest poważna, zostań z nim po spotkaniu albo pomóż znaleźć kogoś, kto pomoże fachowo.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na Judasza i przeznaczenie.** To prawdziwe pytanie, ale nie na dziś. Wróć do tego, co tekst mówi wprost: Jezus modlił się całą noc, a rano wybrał Dwunastu, wśród nich także Judasza.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 4. Bloki 1, 2, 3 i 5 niosą spotkanie: modlitwa bez planu, długie noszenie sprawy przed Bogiem, noc Jezusa i czekanie, które nie jest bezczynnością.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Modliłem się i nic.”",
+     "odpowiedz": "Nie spiesz się z wyjaśnieniem i nie broń Boga. Habakuk i Izrael z Księgi Izajasza mówili to samo, a Biblia zapisała ich skargi. Możesz zapytać, co ta osoba robi w czasie czekania i czy ktoś czeka razem z nią."
+    },
+    {
+     "sytuacja": "„Bóg mi powiedział, że mam to zrobić.”",
+     "odpowiedz": "Nie wchodź w spór przy grupie. Możesz zapytać spokojnie, kto jeszcze się z nim w tej sprawie modlił i czy ta droga zgadza się z Pismem. W Antiochii słowo usłyszała cała grupa przywódców."
+    },
+    {
+     "sytuacja": "Ktoś mówi, że nie umie się modlić albo że jego modlitwy są „za słabe”.",
+     "odpowiedz": "Pokaż modlitwę Nehemiasza przed królem. Miała kilka sekund i ani jednego słowa zapisanego. Bóg nie ocenia długości ani stylu."
+    },
+    {
+     "sytuacja": "Ktoś pyta, czy post jest obowiązkowy i jak pościć.",
+     "odpowiedz": "Teksty pokazują post jako wspólne wyciszenie, nikt go tu nie nakazuje. Nie zachęcaj do postu od jedzenia osób chorych ani nikogo, o kim nie wiesz, jak z jego zdrowiem. Można też odłożyć na czas modlitwy ekran albo inne zajęcie."
+    },
+    {
+     "sytuacja": "Ktoś jest w świeżej stracie albo kryzysie i musi coś pilnie postanowić.",
+     "odpowiedz": "Wysłuchaj, nie doradzaj i nie podawaj gotowych odpowiedzi. Grupa może się za niego modlić. Jeśli sprawa jest poważna, zostań z nim po spotkaniu albo pomóż znaleźć kogoś, kto pomoże fachowo."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na Judasza i przeznaczenie.",
+     "odpowiedz": "To prawdziwe pytanie, ale nie na dziś. Wróć do tego, co tekst mówi wprost: Jezus modlił się całą noc, a rano wybrał Dwunastu, wśród nich także Judasza."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 4. Bloki 1, 2, 3 i 5 niosą spotkanie: modlitwa bez planu, długie noszenie sprawy przed Bogiem, noc Jezusa i czekanie, które nie jest bezczynnością."
+    }
+   ]
+  }
+ ]
+}

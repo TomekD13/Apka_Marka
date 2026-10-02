@@ -1,0 +1,791 @@
+{
+ "tytul": "Kochaj Boga i rób, co chcesz",
+ "id": "W-08",
+ "seria": "Decyzje i wola Boża",
+ "opis": "Wolność wyboru jako dar, zwykła praca jako służba i Bóg, który nie odchodzi po naszej złej decyzji.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Pwt 30,15-20; Joz 24,14-15; Ga 5,1.13-14; 1Kor 10,23-24; Kol 3,23-24; 1Kor 10,31; Pwt 2,7; Rz 8,28-29",
+  "p2": "Pwt 30,11-14; Joz 24,19-24; 1J 4,16.18-19; 5,3; Pwt 8,2-5",
+  "p3": "Ga 5,13"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 30
+ },
+ "tagi": [
+  "decyzje",
+  "wola Boża",
+  "wolność",
+  "miłość",
+  "powołanie",
+  "praca",
+  "legalizm",
+  "błędne decyzje",
+  "łaska"
+ ],
+ "wersja": 1,
+ "zdanie": "Ciężar tego zdania leży w pierwszym słowie. Kto kocha Boga, uczy się chcieć tego, czego chce Bóg, i wtedy może wybierać bez lęku.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Tytuł nawiązuje do zdania, które od szesnastu wieków krąży po Kościele: „kochaj i rób, co chcesz”. Padło w kazaniu biskupa z północnej Afryki o Pierwszym Liście Jana. W oryginale stoi samo „kochaj”, a słowo „Boga” dodała późniejsza tradycja, dobrze oddając, o jaką miłość chodzi. Zdanie brzmi jak przyzwolenie na wszystko, ale autor mówił coś przeciwnego. Tłumaczył, że te same czyny mogą wyrastać z różnych korzeni. Ojciec karci dziecko z miłości, a obcy może je pieścić w złym zamiarze. Liczy się korzeń. Kto naprawdę kocha, ten chce tego, czego chce miłość, i wtedy może wybierać swobodnie. Cały ciężar zdania leży więc w pierwszym słowie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Spotkanie ma trzy kroki. Bóg zostawia człowiekowi prawdziwy wybór. Wolność służy miłości, także w zwykłej pracy. A gdy wybierzemy źle, Bóg nie odchodzi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokrewny materiał to „Serce przy stole decyzyjnym”. Tamten mówi o tym, co w nas potrafi przekrzywić wybór. Ten mówi o wolności, która wyrasta z miłości.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Tytuł łatwo usłyszeć jako „rób, co czujesz”. Nie unikaj tego. Paweł sam przewidział to nieporozumienie w Ga 5,13.",
+      "Ktoś przy stole może żyć pod ciężarem regulaminu i bać się każdej decyzji. Ktoś inny może używać słowa „wolność” jak wymówki. Oboje potrzebują tego samego tekstu.",
+      "Ktoś może nosić decyzję, której nie da się cofnąć: małżeństwo, rozwód, wyjazd, kierunek studiów. Blok 5 jest dla niego, ale nie rób z niego tematu publicznie.",
+      "W Kościele są dwa spojrzenia na wolę Bożą w codziennych wyborach. Materiał pokazuje oba. Nie rozstrzygaj sporu za grupę."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie podawaj przepisu na rozpoznanie woli Bożej. Nie oceniaj cudzych wyborów życiowych. Nie używaj Rz 8,28 jako szybkiej odpowiedzi na czyjś ból. Nie naciskaj na deklaracje.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o decyzji z ostatnich lat, przy której nikt ci niczego nie kazał ani nie zabraniał. Powiedz jednym słowem, jak się wtedy czułeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Życie położone przed tobą",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Mojżesz kończy ostatnią wielką mowę nad Jordanem. Lud za chwilę wejdzie do ziemi obiecanej już bez niego.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 30,15-20",
+       "przeklad": "BW",
+       "akapity": [
+        "Patrz! Kładę dziś przed tobą życie i dobro oraz śmierć i zło; gdyż ja nakazuję ci dzisiaj, abyś miłował Pana, Boga twego, chodził jego drogami i przestrzegał jego przykazań, ustaw i praw, abyś żył i rozmnażał się, a Pan, Bóg twój, będzie ci błogosławił w ziemi, do której idziesz, aby ją posiąść. Jeżeli zaś odwróci się twoje serce i nie będziesz słuchał, jeżeli dasz się odwieść i będziesz oddawał pokłon innym bogom oraz im służył, to oznajmiam wam dzisiaj, że zginiecie i niedługie będą wasze dni na ziemi, do której przeprawiasz się przez Jordan, aby dojść do niej i objąć ją w posiadanie.",
+        "Biorę dziś przeciwko wam na świadków niebo i ziemię. Położyłem dziś przed tobą życie i śmierć, błogosławieństwo i przekleństwo. Wybierz przeto życie, abyś żył, ty i twoje potomstwo, miłując Pana, Boga twego, słuchając jego głosu i lgnąc do niego, gdyż w tym jest twoje życie i przedłużenie twoich dni, abyś mieszkał na ziemi, którą Pan przysiągł dać twoim ojcom, Abrahamowi, Izaakowi i Jakubowi."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg kładzie przed ludem dwie drogi i mówi „wybierz”. **Co w tym tekście pokazuje, że ten wybór naprawdę należy do człowieka?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 20 opisuje wybór życia trzema słowami: miłować, słuchać, lgnąć. **Co mówi o tym wyborze to, że wszystkie trzy pochodzą z języka relacji?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Mojżesz nie podaje tu listy miast, w których wolno zamieszkać, ani zajęć, które wolno podjąć. **O czym w takim razie jest ta decyzja i dlaczego od niej zależą wszystkie następne?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Kilka wersetów wcześniej Mojżesz zapowiada, że to Bóg „obrzeże serce” ludu, aby mógł Go kochać całym sercem (Pwt 30,6). Wezwanie do wyboru pada więc dopiero po obietnicy. Najpierw Bóg daje, potem człowiek odpowiada. Podobny porządek ma pierwsze zdanie Boga do człowieka w Edenie. Zaczyna się od pozwolenia: „Z każdego drzewa tego ogrodu możesz jeść” (Rdz 2,16). Zakaz przychodzi dopiero potem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 2,
+   "tytul": "Słowo blisko ciebie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 30,11-14",
+       "przeklad": "BW",
+       "akapity": [
+        "To przykazanie bowiem, które ja ci dziś nadaję, nie jest dla ciebie ani za trudne, ani za dalekie. Nie jest ono na niebie, aby trzeba było mówić: Któż nam wstąpi do nieba i do nas je sprowadzi, i nam je oznajmi, abyśmy je spełniali? Nie jest też ono za morzem, aby trzeba było mówić: Któż nam się przeprawi za morze i do nas je sprowadzi, i nam je oznajmi, abyśmy je spełniali? Lecz bardzo blisko ciebie jest słowo, w twoich ustach i w twoim sercu, abyś je czynił."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ludzie mówią czasem o woli Bożej tak, jakby była schowana w niebie albo za morzem. **Co Mojżesz odpowiada komuś, kto tak myśli?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Słowo jest „w twoich ustach i w twoim sercu”. **Co to zmienia w szukaniu woli Bożej przy zwykłych decyzjach?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Komu będziecie służyć",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jozue jest już stary. Zwołuje plemiona Izraela do Sychem, przypomina im wszystko, co zrobił dla nich Bóg, i stawia pytanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Joz 24,14-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Oddajcie tedy Panu zbożną cześć i służcie mu szczerze i wiernie: usuńcie bogów, którym służyli wasi ojcowie za Rzeką i w Egipcie, a służcie Panu. A jeśliby się wam wydawało, że źle jest służyć Panu, to wybierzcie sobie dzisiaj, komu będziecie służyć: czy bogom, którym służyli wasi ojcowie, gdy byli za Rzeką, czy też bogom amorejskim, w których ziemi teraz mieszkacie. Lecz ja i dom mój służyć będziemy Panu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jozue każe wybierać, ale nie pyta o ziemię, zawód ani małżeństwo. **O co pyta i dlaczego ta odpowiedź porządkuje wszystkie mniejsze wybory?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jozue mówi „ja i dom mój”, zanim usłyszy odpowiedź ludu. **Co daje innym czyjaś decyzja wypowiedziana spokojnie i bez nacisku?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Wybierzcie sobie dzisiaj”. **Co dzieje się z decyzją, którą wciąż odkładamy na kiedyś?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Najcięższy wybór w życiu rzadko dotyczy dwóch ofert pracy albo dwóch miast. Dotyczy kierunku, czyli tego, komu służę. Bóg jest bardzo stanowczy w jednej sprawie. Nic nie może stanąć przed Nim. W wielu innych sprawach jest zaskakująco hojny. Ten, kto szuka najpierw Jego królestwa, może zostać księgową albo stolarzem, zamieszkać tu albo gdzie indziej. Wtedy świat robi się pełen dobrych możliwości.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie możecie służyć Panu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Joz 24,19-24",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Jozue do ludu: Nie możecie służyć Panu, gdyż jest On Bogiem świętym, Bogiem zazdrosnym, nie odpuści wam przewinień i grzechów waszych. Jeżeli opuścicie Pana i służyć będziecie obcym bogom, to On odwróci się, sprowadzi na was nieszczęście i wygubi was, chociaż przedtem wyświadczał wam dobrodziejstwa. Lecz lud rzekł do Jozuego: Nie tak, ale Panu służyć będziemy. Wtedy Jozue rzekł do ludu: Wy sami jesteście świadkami przeciwko sobie, że obraliście sobie Pana, aby mu służyć. A oni odpowiedzieli: Jesteśmy świadkami. A on na to: Usuńcie tedy obcych bogów, którzy są pośród was i skłońcie serca wasze do Pana, Boga Izraela. I rzekł lud do Jozuego: Panu, Bogu naszemu, służyć będziemy i głosu jego słuchać."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jozue mówi ludowi wprost, że nie da rady. **Po co mówi coś takiego ktoś, kto chce, żeby wybrali Boga?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W wersecie 23 Jozue każe usunąć obcych bogów i skłonić serca. **Co musi się wydarzyć w sercu, żeby wybór z wersetu 15 nie skończył się na słowach?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Wolność, która służy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ga 5,1",
+       "przeklad": "BW",
+       "akapity": [
+        "Chrystus wyzwolił nas, abyśmy w tej wolności żyli. Stójcie więc niezachwianie i nie poddawajcie się znowu pod jarzmo niewoli."
+       ]
+      },
+      {
+       "odnosnik": "Ga 5,13-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Bo wy do wolności powołani zostaliście, bracia; tylko pod pozorem tej wolności nie pobłażajcie ciału, ale służcie jedni drugim w miłości. Albowiem cały zakon streszcza się w tym jednym słowie, mianowicie w tym: Będziesz miłował bliźniego swego, jak siebie samego."
+       ]
+      },
+      {
+       "odnosnik": "1Kor 10,23-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Wszystko wolno, ale nie wszystko jest pożyteczne; wszystko wolno, ale nie wszystko buduje. Niech nikt nie szuka własnej korzyści, lecz korzyści bliźniego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł mówi jednym tchem: jesteście wolni, więc służcie jedni drugim. **Jak to możliwe, że te dwie rzeczy się nie wykluczają?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Wszystko wolno, ale nie wszystko buduje”. **Jakie pytanie podsuwa Paweł w miejsce pytania „czy mi wolno”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W Ga 5,1 wolność jest już dana, zanim pada polecenie. **Co zmienia w codziennych wyborach to, że wolność już mam i mogę z niej korzystać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Biskup, od którego pochodzi zdanie z tytułu, nie znosił przykazań. Mówił, że ten, kto naprawdę kocha, zaczyna chcieć tego, czego chce miłość. Paweł mówi to samo krócej. Cały zakon streszcza się w miłości. Przykazania opisują, jak miłość wygląda w praktyce. Legalizm i „rób, co czujesz” wyglądają na przeciwieństwa, a mają wspólny brak. W obu nie ma Osoby, którą się kocha.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Pod pozorem” w Ga 5,13 to greckie `aphormē`. W języku wojskowym oznaczało punkt wypadowy, przyczółek, z którego rusza atak. Wolność może stać się przyczółkiem dla tego, co Paweł nazywa ciałem, czyli dla życia skupionego na sobie. A „służcie” to czasownik `douleuō`, pokrewny słowu „niewolnik”. Ludzie wolni z własnej woli zostają sługami jedni drugich. Do takiej niewoli, wybranej z miłości, Paweł zachęca.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co w waszym życiu najłatwiej staje się takim przyczółkiem, gdy mówicie sobie „przecież mi wolno”?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Miłość, która nie jest ciężarem",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Zdanie z tytułu padło w kazaniu o tym liście.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1J 4,16",
+       "przeklad": "BW",
+       "akapity": [
+        "A myśmy poznali i uwierzyli w miłość, którą Bóg ma do nas. Bóg jest miłością, a kto mieszka w miłości, mieszka w Bogu, a Bóg w nim."
+       ]
+      },
+      {
+       "odnosnik": "1J 4,18-19",
+       "przeklad": "BW",
+       "akapity": [
+        "W miłości nie ma bojaźni, wszak doskonała miłość usuwa bojaźń, gdyż bojaźń drży przed karą; kto się więc boi, nie jest doskonały w miłości. Miłujmy więc, gdyż On nas przedtem umiłował."
+       ]
+      },
+      {
+       "odnosnik": "1J 5,3",
+       "przeklad": "BW",
+       "akapity": [
+        "Na tym bowiem polega miłość ku Bogu, że się przestrzega przykazań jego, a przykazania jego nie są uciążliwe."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jan pisze, że przykazania „nie są uciążliwe”. **Kiedy przykazanie przestaje być ciężarem?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Miłości nie da się w sobie wytworzyć samym nakazem. **Co mówi Jan o tym, skąd się bierze nasza miłość do Boga?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Kto próbował kochać Boga na siłę, wie, że zaciskanie zębów nie działa. Jan pokazuje inną drogę. Miłość rośnie od patrzenia na miłość, którą ktoś już nam okazał. Dlatego kolejność jest stała. On pierwszy, my potem. Lęk przed karą psuje decyzje, bo każe wybierać tak, żeby tylko nie podpaść.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Cokolwiek czynicie",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paweł zwraca się tu do sług, czyli niewolników w domach Kolosan, którzy nie wybierali sobie pracy.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kol 3,23-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Cokolwiek czynicie, z duszy czyńcie jako dla Pana, a nie dla ludzi, wiedząc, że od Pana otrzymacie jako zapłatę dziedzictwo, gdyż Chrystusowi Panu służycie."
+       ]
+      },
+      {
+       "odnosnik": "1Kor 10,31",
+       "przeklad": "BW",
+       "akapity": [
+        "A więc: Czy jecie, czy pijecie, czy cokolwiek czynicie, wszystko czyńcie na chwałę Bożą."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł pisze te słowa do ludzi, którzy nie mieli wyboru zajęcia. **Co znaczy, że nawet praca, której nikt sobie nie wybrał, może być robiona „jako dla Pana”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Czy jecie, czy pijecie”. **Dlaczego Paweł bierze przykład z czynności tak zwyczajnych?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Jak to przesuwa punkt ciężkości z pytania „co wybrać” na pytanie „jak to robić”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Przez wieki łatwo było dzielić życie na duchowe i zwykłe. Klasztor i ołtarz wydawały się święte, warsztat i kuchnia już mniej. Reformatorzy mocno upomnieli się o zwykłą pracę. Dojarka służy Bogu tak samo jak mnich przy psalmach, a szewc robi to, robiąc dobre buty. Kto piecze chleb, odpowiada czasem na czyjąś prośbę z Modlitwy Pańskiej. Powołanie to nie tylko zawód kościelny. To każde miejsce, w które Bóg cię postawił.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: jedna droga czy wiele dobrych dróg",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W Kościele są dwa spojrzenia na wolę Bożą w codziennych wyborach. Jedni mówią, że Bóg ma dla każdego człowieka konkretną drogę w ważnych sprawach i prowadzi do niej przez modlitwę, Pismo, okoliczności i radę innych. Trzeba się jej uczyć słuchać, bo prowadzenie jest owocem bliskości z Bogiem. Drudzy uważają, że Pismo objawia wolę Bożą moralną. W jej granicach wierzący wybiera z wielu dobrych możliwości, kierując się mądrością, i każdy z tych wyborów może podobać się Bogu. Oba spojrzenia łączy więcej, niż dzieli. Pierwsze miejsce należy do Boga, a wszystko, co jasno powiedział w Piśmie, rozstrzyga sprawę. Oba ostrzegają przed lękiem, że przez jedną pomyłkę można na zawsze wypaść z Jego planu.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które z tych spojrzeń jest ci bliższe i co ono zmienia w decyzji, którą masz przed sobą?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Gdy wybrałem źle",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Izrael bał się wejść do ziemi obiecanej i zawrócił. Ta decyzja kosztowała go trzydzieści osiem lat wędrówki po pustyni. Na końcu tej drogi Mojżesz mówi:",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 2,7",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdyż Pan, twój Bóg, błogosławił cię w każdym dziele rąk twoich. Wiedział o twojej wędrówce po tej wielkiej pustyni. Przez czterdzieści lat był Pan, twój Bóg, z tobą, a niczego ci nie brakowało."
+       ]
+      },
+      {
+       "odnosnik": "Rz 8,28-29",
+       "przeklad": "BW",
+       "akapity": [
+        "A wiemy, że Bóg współdziała we wszystkim ku dobremu z tymi, którzy Boga miłują, to jest z tymi, którzy według postanowienia jego są powołani. Bo tych, których przedtem znał, przeznaczył właśnie, aby się stali podobni do obrazu Syna jego, a On żeby był pierworodnym pośród wielu braci;"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Te lata na pustyni były skutkiem złej decyzji. **Co mimo to Mojżesz może o nich powiedzieć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł nie pisze, że wszystko jest dobre. Pisze, że Bóg „współdziała we wszystkim ku dobremu”. **Jakie dobro wskazuje werset 29?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Obietnica jest dla tych, „którzy Boga miłują”. **Co znaczy, że nie jest zarezerwowana dla tych, którzy zawsze wybierają trafnie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Czasownik „współdziała” opisuje Boga, który pracuje razem z nami. Świat nie prostuje się sam. Paweł nie twierdzi, że zła decyzja była dobra. Twierdzi, że Bóg nie przestaje działać, gdy ją podjęliśmy. Ten werset bywa wypowiadany za szybko przy szpitalnym łóżku albo nad trumną. Paweł pisze go jednak do ludzi, którzy sami cierpią, słabną i wzdychają razem z całym stworzeniem (Rz 8,18-26). To obietnica dla wytrwałych, a nie gotowa odpowiedź na cudzy ból.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Szkoła na pustyni",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 8,2-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Zachowaj też w pamięci całą drogę, którą Pan, Bóg twój, prowadził cię przez czterdzieści lat po pustyni, aby cię ukorzyć i doświadczyć, i aby poznać, co jest w twoim sercu, czy będziesz przestrzegał jego przykazań, czy nie. Upokarzał cię i morzył cię głodem, ale też karmił cię manną, której nie znałeś ani ty, ani nie znali twoi ojcowie, aby dać ci poznać, iż człowiek nie samym chlebem żyje, lecz że człowiek żyć będzie wszystkim, co wychodzi z ust Pana. Twoja odzież nie zniszczała na tobie ani twoja noga nie nabrzmiała przez te czterdzieści lat. Poznaj tedy w swoim sercu, że jak człowiek ćwiczy swego syna, tak Pan, Bóg twój, ćwiczy ciebie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mojżesz mówi, że pustynia miała pokazać, „co jest w twoim sercu”. **Czego mogły nauczyć lata, które z zewnątrz wyglądały na stracone?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Jak człowiek ćwiczy swego syna”. **Jak zmienia się spojrzenie na dawną złą decyzję, gdy patrzy się na nią oczami ojca, który uczy syna?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**W której sprawie żyjesz bardziej jak ktoś pod regulaminem, a w której bardziej jak ktoś, kto robi po prostu to, co czuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pomyśl o decyzji, która stoi przed tobą. **Co się w niej zmienia, gdy zaczynasz od pytania, komu służysz, a dopiero potem pytasz, co wybrać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **która dawna decyzja wciąż cię uwiera i co z dzisiejszych tekstów chciałbyś do niej przynieść?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Po czym poznać, że moje „chcę” naprawdę zmieniła miłość do Boga, skoro serce potrafi ubrać w pobożne słowa każde pragnienie?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie produkuje tu odpowiedzi. Warto, żeby padło spostrzeżenie, że miłość widać po owocach, a owoce rosną w czasie. Pomaga też ktoś, kto zna nas dobrze i powie prawdę.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co by się zmieniło w twoich wyborach, gdybyś naprawdę uwierzył, że Bóg nie czeka na twoją pomyłkę, żeby się wycofać?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Ciężar tego zdania leży w pierwszym słowie. Kto kocha Boga, uczy się chcieć tego, czego chce Bóg, i wtedy może wybierać bez lęku.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Pwt 30,19 albo Ga 5,13.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o decyzji, przed którą stoisz. Zapytaj siebie, **z jakiego korzenia ona wyrasta**: z miłości, ze strachu przed pomyłką czy z chęci pokazania się komuś. Nazwij to przed Bogiem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jeśli nosisz w sobie dawny wybór, który okazał się zły, wróć myślą do zdania z Pwt 2,7. Zapytaj Boga, **gdzie był z tobą w tamtych latach**. Zostań przy tym pytaniu, nawet jeśli odpowiedź nie przyjdzie od razu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** przyznaj przed Bogiem, w której sprawie słowo „wolność” służy ci za wymówkę. Nie musisz od razu składać obietnic. Zacznij od tego, żeby przestać to ukrywać przed sobą i przed Nim.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Skoro wolno mi robić, co chcę, to po co przykazania?”** Nie broń przykazań i nie strasz. Wróć do pierwszego słowa zdania z tytułu i do Ga 5,13. Paweł sam przewidział to nieporozumienie. Wolność jest do służenia, a przykazania opisują, jak wygląda miłość w praktyce.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To niebezpieczne hasło, ludzie je źle zrozumieją.”** Zgódź się, że ryzyko jest prawdziwe. Biskup, od którego pochodzi zdanie, też to wiedział i dlatego tłumaczył je przez korzeń miłości. Lęk przed nadużyciem wolności nie powinien jednak odbierać jej tym, którym Bóg ją dał.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o decyzji, której nie może cofnąć, i słychać w nim żal albo rozpacz.** Nie mów „wszystko ma sens” ani „widocznie tak miało być”. Wysłuchaj. Możesz przypomnieć Pwt 2,7, czyli Boga obecnego także w latach, które przyszły po złej decyzji. Jeśli sprawa jest świeża i bolesna, porozmawiaj z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rz 8,28 pada jako szybka odpowiedź na czyjeś cierpienie.** Zatrzymaj to łagodnie. Werset jest prawdziwy, ale wypowiedziany za szybko rani. Paweł nie mówi, że zło jest dobre. Mówi, że Bóg w nim pracuje, i to zwykle widać dopiero po czasie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa zaczyna się spierać, czy Bóg ma jedną idealną drogę dla każdego.** Pokaż oba spojrzenia z bloku Napięcie i to, co je łączy. Nie rozstrzygaj. Zapytaj, co z dzisiejszych tekstów jest jasne niezależnie od tego sporu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś pyta, kim był autor zdania z tytułu.** Powiedz krótko, że to jeden z najbardziej znanych pisarzy starożytnego Kościoła, czytany przez katolików i protestantów. Nie rozwijaj tematu. Ważniejsze jest, co zdanie znaczy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 4. Bloki 1, 3 i 5 niosą spotkanie: prawdziwy wybór, wolność, która służy, i Bóg, który zostaje z nami po złej decyzji.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Skoro wolno mi robić, co chcę, to po co przykazania?”",
+     "odpowiedz": "Nie broń przykazań i nie strasz. Wróć do pierwszego słowa zdania z tytułu i do Ga 5,13. Paweł sam przewidział to nieporozumienie. Wolność jest do służenia, a przykazania opisują, jak wygląda miłość w praktyce."
+    },
+    {
+     "sytuacja": "„To niebezpieczne hasło, ludzie je źle zrozumieją.”",
+     "odpowiedz": "Zgódź się, że ryzyko jest prawdziwe. Biskup, od którego pochodzi zdanie, też to wiedział i dlatego tłumaczył je przez korzeń miłości. Lęk przed nadużyciem wolności nie powinien jednak odbierać jej tym, którym Bóg ją dał."
+    },
+    {
+     "sytuacja": "Ktoś mówi o decyzji, której nie może cofnąć, i słychać w nim żal albo rozpacz.",
+     "odpowiedz": "Nie mów „wszystko ma sens” ani „widocznie tak miało być”. Wysłuchaj. Możesz przypomnieć Pwt 2,7, czyli Boga obecnego także w latach, które przyszły po złej decyzji. Jeśli sprawa jest świeża i bolesna, porozmawiaj z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "Rz 8,28 pada jako szybka odpowiedź na czyjeś cierpienie.",
+     "odpowiedz": "Zatrzymaj to łagodnie. Werset jest prawdziwy, ale wypowiedziany za szybko rani. Paweł nie mówi, że zło jest dobre. Mówi, że Bóg w nim pracuje, i to zwykle widać dopiero po czasie."
+    },
+    {
+     "sytuacja": "Grupa zaczyna się spierać, czy Bóg ma jedną idealną drogę dla każdego.",
+     "odpowiedz": "Pokaż oba spojrzenia z bloku Napięcie i to, co je łączy. Nie rozstrzygaj. Zapytaj, co z dzisiejszych tekstów jest jasne niezależnie od tego sporu."
+    },
+    {
+     "sytuacja": "Ktoś pyta, kim był autor zdania z tytułu.",
+     "odpowiedz": "Powiedz krótko, że to jeden z najbardziej znanych pisarzy starożytnego Kościoła, czytany przez katolików i protestantów. Nie rozwijaj tematu. Ważniejsze jest, co zdanie znaczy."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 4. Bloki 1, 3 i 5 niosą spotkanie: prawdziwy wybór, wolność, która służy, i Bóg, który zostaje z nami po złej decyzji."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,821 @@
+{
+ "tytul": "Wzór pokazany na górze",
+ "id": "SW-02",
+ "seria": "Świątynia",
+ "opis": "Dlaczego Bóg dał dokładny plan namiotu na pustyni i czego ta budowa uczy o drodze człowieka do Boga.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Wj 24,15-18; Wj 25,9.40; 26,30; Wj 31,1-6; Wj 35,21-22.29; 36,3-7; Wj 40,18-33; Wj 39,43; Hbr 8,1-5",
+  "p2": "1Krn 28,11-12.19; Wj 32,2-4; Ps 15,1-2; J 10,9; J 14,6; Hbr 9,8",
+  "p3": "2Krl 16,10; Ps 77,14"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 30
+ },
+ "tagi": [
+  "świątynia",
+  "przybytek",
+  "Synaj",
+  "dary",
+  "praca",
+  "Chrystus",
+  "List do Hebrajczyków"
+ ],
+ "wersja": 1,
+ "zdanie": "Plan drogi do Boga pochodzi od Niego. Człowiek przynosi serce i ręce, a Bóg prowadzi od bramy aż do środka.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o tym, że przybytek nie był ludzkim pomysłem. Mojżesz spędza czterdzieści dni na górze i dostaje od Boga dokładny wzór namiotu i wszystkich sprzętów. Wzór pochodzi od Boga, ale budują go ludzie. Jedni przynoszą złoto z ochotnego serca, inni dają ręce i talent. Gotowy przybytek układa się w drogę od bramy dziedzińca do skrzyni w najgłębszym pomieszczeniu. List do Hebrajczyków mówi, że ten namiot był obrazem i cieniem. Pokazywał w przestrzeni to, co Chrystus robi dla ludzi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokrewny materiał to „Bóg, który chce z nami zamieszkać”. Tamten pyta, po co Bóg w ogóle chciał mieszkać pośród obozu. Ten patrzy na sam plan i na ludzi, którzy go wykonali.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Teksty o darach łatwo zamienić w apel o ofiarność na rzecz zboru albo budowy. Nie rób tego. Tekst opisuje ludzi, którzy dają dobrowolnie. Nikt ich nie namawia.",
+      "Rozmowa może zejść na drobiazgowe pytania, jak wygląda świątynia w niebie i czy wszystko jest tam takie samo. Nie rozstrzygaj tego przy stole. Poziom 3 pokazuje, że w Kościele są tu dwa akcenty.",
+      "Pytania o sąd w niebiańskiej świątyni i o daty prorocze zapisz na osobne spotkanie.",
+      "Przy stole może siedzieć ktoś, kto uważa, że nie ma żadnych talentów. Fragment o Besalelu może go zaboleć, jeśli ktoś zacznie wyliczać cudze zdolności. Nie róbcie rankingu."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie rysujcie planu przybytku z wymiarami. Nie przypisuj znaczenia każdej desce i każdemu kolorowi. Nie porównuj ofiarności ludzi przy stole.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie coś, co zrobiłeś według cudzej instrukcji albo planu, na przykład mebel, przepis, model, ogród. Powiedz jednym zdaniem, co poczułeś, kiedy rzecz była gotowa.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi i nie dopytuj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Czterdzieści dni w obłoku",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Izrael wyszedł z Egiptu i obozuje pod górą Synaj. Bóg zawarł z ludem przymierze, a teraz woła Mojżesza na szczyt.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 24,15-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy Mojżesz wstąpił na górę, obłok zakrył ją. I zamieszkała chwała Pana na górze Synaj, a obłok okrywał ją przez sześć dni. Siódmego dnia zawołał na Mojżesza z obłoku. A chwała Pana wyglądała w oczach synów izraelskich jak ogień trawiący na szczycie góry. Mojżesz wszedł w środek obłoku i wstąpił na górę. A był Mojżesz na górze czterdzieści dni i czterdzieści nocy."
+       ]
+      },
+      {
+       "odnosnik": "Wj 25,9",
+       "przeklad": "BW",
+       "akapity": [
+        "dokładnie według wzoru przybytku i wzoru wszystkich jego sprzętów, które ci pokażę; tak wykonacie."
+       ]
+      },
+      {
+       "odnosnik": "Wj 25,40",
+       "przeklad": "BW",
+       "akapity": [
+        "Bacz, abyś uczynił to według wzoru, który ci ukazano na górze."
+       ]
+      },
+      {
+       "odnosnik": "Wj 26,30",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem wzniesiesz przybytek według wzoru, który ci pokazano na górze."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Lud widzi na szczycie ogień trawiący, a Mojżesz wchodzi w sam środek obłoku. **Co ta scena mówi o odległości między ludźmi a Bogiem, zanim powstał przybytek?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg trzy razy mówi „według wzoru”. **Dlaczego Bogu tak zależy, żeby ludzie nie urządzili tego miejsca po swojemu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Opis tych czterdziestu dni zajmuje w księdze siedem rozdziałów i prawie cały dotyczy namiotu, sprzętów i szat. **Co to mówi o tym, jak ważne było dla Boga to jedno miejsce?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Hebrajskie słowo przetłumaczone jako „wzór” to `tabnit`. W innych miejscach Biblii oznacza model albo plan budowy, czyli coś konkretnego, co można odwzorować. Na tej samej górze Mojżesz dostał dwie rzeczy. Jedną były kamienne tablice z przykazaniami. Drugą był plan namiotu, w którym Bóg spotyka się z ludźmi i przebacza. Prawo i miejsce przebaczenia przyszły z jednej ręki i w tym samym czasie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Plan dla Salomona",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Kilkaset lat później król Dawid przygotowuje budowę świątyni w Jerozolimie, którą ma postawić jego syn.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Krn 28,11-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Następnie Dawid dał Salomonowi, swemu synowi, plan przedsionka i świątyni, i jej zabudowań, jej skarbców i jej komnat górnych, i jej komór wewnętrznych, i gmachów przebłagalni, dalej plan wszystkiego, co sobie umyślił, dziedzińców świątyni Pana i wszystkich komnat wokoło, skarbców świątyni Bożej i skarbców ofiarowanych darów;"
+       ]
+      },
+      {
+       "odnosnik": "1Krn 28,19",
+       "przeklad": "BW",
+       "akapity": [
+        "O tym wszystkim pouczył Dawid Salomona zgodnie z pismem z ręki Pana pochodzącym i dotyczącym całego wykonania tego planu."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dawid był królem i mógł zaprojektować świątynię, jak chciał. **Co mówi to, że przekazuje synowi plan „z ręki Pana”?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co się zmienia dla budowniczego, który wie, że plan dostał od Boga i ma go wiernie wykonać?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "`Tabnit` to w hebrajskim model albo plan. Tak samo nazwano kopię pogańskiego ołtarza, którą król Achaz kazał przysłać z Damaszku.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Krl 16,10",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy król Achaz wyruszył do Damaszku, aby się spotkać z Tiglat-Pileserem, królem asyryjskim, zobaczył ołtarz, który był w Damaszku. Przesłał więc król Achaz do kapłana Uriasza podobiznę tego ołtarza wraz z planem całej jego budowy."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Gdy List do Hebrajczyków cytuje Wj 25,40, oddaje to słowo greckim `typos`, czyli odcisk, wzór. Sam przybytek nazywa „obrazem” i „cieniem”, po grecku `hypodeigma` i `skia`. Psalm 77 dorzuca jeszcze jedno zdanie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 77,14",
+       "przeklad": "BW",
+       "akapity": [
+        "Boże, święta jest droga twoja! Któryż bóg jest tak wielki jak Bóg?"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajskie `baqqodesh` można przeczytać jako „w świętości” albo „w świątyni”. Polskie przekłady wybierają zwykle „święta jest droga twoja”. Drugie odczytanie wiąże drogę Boga z Jego świątynią.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Achaz bierze plan z Damaszku, a Mojżesz z góry. **Co ten kontrast mówi o tym, skąd człowiek bierze wzór dla swojej wiary?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Ręce, które Bóg napełnił",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 31,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Pan do Mojżesza: Patrz! Powołałem imiennie Besalela, syna Uriego, syna Chura z plemienia Judy, i napełniłem go duchem Bożym, mądrością, rozumem, poznaniem, wszechstronną zręcznością w rzemiośle, pomysłowością w wyrobach ze złota, srebra i miedzi, w szlifowaniu drogich kamieni do oprawy, w snycerstwie i we wszelkiej artystycznej robocie. I oto przydałem mu Oholiaba, syna Achisamacha, z plemienia Dan. A serce każdego zręcznego obdarzyłem umiejętnością wykonania wszystkiego, co ci rozkazałem:"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg mówi o Besalelu „powołałem imiennie” i „napełniłem go duchem Bożym”. **Czego się spodziewaliście po takich słowach i co was zaskakuje w tym, do czego Besalel zostaje powołany?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wzór pochodzi od Boga, ale wykonują go ludzkie ręce z ich zręcznością i pomysłowością. **Jak w tym tekście łączy się Boży plan z ludzką pracą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Besalel pochodzi z plemienia Judy, a Oholiab z plemienia Dan. **Co może znaczyć, że Bóg dobiera do jednej pracy ludzi z różnych plemion?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Słowa „powołałem imiennie” i „napełniłem go duchem” brzmią jak opis wielkiego powołania, a Bóg mówi je o rzemieślniku. Wylicza jego umiejętności tak, jak wylicza się dary. Księgi Kronik opisują potem podobną mądrością króla Salomona, który budował świątynię. Praca przy złocie, kamieniu i drewnie nie jest więc w tym tekście gorszą służbą. Do budowy miejsca Bożej obecności Bóg daje Ducha także temu, kto trzyma dłuto.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Więcej, niż potrzeba",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 35,21-22.29",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem przychodził każdy, kto miał ochotne serce, i każdy, kogo duch pobudził, i przynosili dar ofiarny Panu na wykonanie Namiotu Zgromadzenia i na wszelką służbę w nim, i na święte szaty. Przychodzili zarówno mężczyźni, jak kobiety, i przynosili wszyscy, którzy byli ochotnego serca, obrączki i kolczyki, i pierścienie, i naszyjniki, wszelkie przedmioty złote, i każdy składał dar ofiarny ze złota Panu. [...]",
+        "Każdy mężczyzna i każda kobieta z Izraela, których pobudziło serce, składali się na wszelkie dzieło, jakie Pan nakazał Mojżeszowi wykonać, i przynosili dobrowolne dary dla Pana."
+       ]
+      },
+      {
+       "odnosnik": "Wj 36,3-7",
+       "przeklad": "BW",
+       "akapity": [
+        "I odebrali od Mojżesza wszystkie dary, które przynieśli synowie izraelscy na wykonanie prac, potrzebnych do służby w świątyni. Oni zaś nadal przynosili do niego dobrowolne dary każdego rana. I zeszli się wszyscy zręczni wykonawcy wszelkiej pracy potrzebnej do służby w świątyni, każdy od swojej własnej pracy, jaką dotąd wykonywali, i rzekli do Mojżesza: Lud przynosi więcej, niż potrzeba na wykonanie tego, co Pan nakazał wykonać. Wtedy Mojżesz wydał rozkaz, który ogłoszono w obozie: Niechaj już nikt – ani mężczyzna, ani kobieta, nie przynosi ze swego dorobku żadnego daru ofiarnego na rzecz świątyni. I lud zaprzestał przynosić. A tego, co zniesiono, wystarczało na wykonanie wszelkich prac, a nawet zbywało."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Tekst kilka razy mówi o „ochotnym sercu” i o tym, kogo „pobudziło serce”. **Co sprawiło, że ludzie, jeszcze niedawno niewolnicy, przynosili tak dużo i tak chętnie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rzemieślnicy przerywają pracę, żeby powiedzieć Mojżeszowi, że darów jest za dużo. **Co ta scena mówi o tym, jak wygląda dawanie, którego nikt nie wymusza?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ludzie przynoszą obrączki, kolczyki i naszyjniki, czyli rzeczy noszone na sobie. **Co znaczy oddać na dom Boga coś tak osobistego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Złoto, które Izraelici mieli na pustyni, pochodziło z Egiptu. W Wj 12,35-36 czytamy, że Egipcjanie dali im srebrne i złote przedmioty przy wyjściu. Kilka rozdziałów przed tą sceną złote kolczyki ludu trafiły do Aarona i powstał z nich złoty cielec. Ten sam lud i złoto z tego samego Egiptu posłużyły raz do zrobienia bożka, a raz do budowy miejsca spotkania z żywym Bogiem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Złote kolczyki",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 32,2-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Odpowiedział im Aaron: Zdejmijcie złote kolczyki, które mają w uszach wasze żony, wasi synowie i wasze córki, i przynieście do mnie. I pozdejmował cały lud złote kolczyki, które mieli w uszach swoich, i przynieśli je do Aarona. I przyjął je z ich rąk, i ulał z tego w formie z gliny posąg cielca. Wtedy oni rzekli: To są bogowie twoi, Izraelu, którzy cię wyprowadzili z ziemi egipskiej."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przy cielcu Aaron każe zdjąć kolczyki. Przy przybytku nikt niczego nie każe, ludzie przynoszą sami. **Czym różnią się te dwie sceny, choć w obu ludzie oddają złoto?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Cielec powstał według pomysłu ludzi, a przybytek według wzoru z góry. **Co się dzieje z wiarą, gdy człowiek sam projektuje sobie Boga, którego da się zobaczyć?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Od skrzyni do bramy",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Po wielu miesiącach pracy wszystkie części są gotowe. Mojżesz ogląda je i błogosławi ludzi, którzy je wykonali. Potem sam stawia przybytek.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 39,43",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy Mojżesz obejrzał całe dzieło, zobaczył, że zrobili je tak, jak nakazał Pan, tak je zrobili; więc pobłogosławił ich Mojżesz."
+       ]
+      },
+      {
+       "odnosnik": "Wj 40,18-33",
+       "przeklad": "BW",
+       "akapity": [
+        "Mojżesz postawił przybytek i umieścił jego podstawy, i ustawił jego deski, założył jego poprzeczki i ustawił jego słupy, i rozpiął namiot nad przybytkiem, i ustawił nad namiotem z wierzchu nakrycie, jak Pan nakazał Mojżeszowi. A wziąwszy Świadectwo włożył je do Skrzyni, założył drążki u Skrzyni, a z wierzchu umieścił na Skrzyni wieko. I wniósł Skrzynię do przybytku, i zawiesił kotarę zasłaniającą, i zakrył Skrzynię Świadectwa, jak Pan nakazał Mojżeszowi.",
+        "W Namiocie Zgromadzenia umieścił stół po północnej stronie przybytku na zewnątrz kotary i ułożył na nim chleby pokładne przed Panem, jak Pan nakazał Mojżeszowi. Umieścił świecznik w Namiocie Zgromadzenia, naprzeciw stołu, po południowej stronie przybytku, i nasadził na nim lampy przed Panem, jak Pan nakazał Mojżeszowi. I ustawił złoty ołtarz w Namiocie Zgromadzenia przed zasłoną, i spalił na nim wonne kadzidło, jak Pan nakazał Mojżeszowi, i zawiesił zasłonę u wejścia do przybytku.",
+        "Ołtarz całopalenia ustawił u wejścia do przybytku, do Namiotu Zgromadzenia i złożył na nim ofiarę całopalną i ofiarę z pokarmów, jak Pan nakazał Mojżeszowi. Miednicę ustawił między Namiotem Zgromadzenia a ołtarzem i nalał do niej wody do obmywania. Mojżesz, Aaron i jego synowie obmywali w niej swoje ręce i swoje nogi; Ilekroć wchodzili do namiotu Zgromadzenia i zbliżali się do ołtarza, obmywali się, jak Pan nakazał Mojżeszowi. Na koniec urządził dziedziniec wokoło przybytku i ołtarza i zawiesił zasłonę w bramie dziedzińca. W ten sposób Mojżesz dokonał dzieła."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wypiszcie po kolei, co Mojżesz ustawia. **Od czego zaczyna, a na czym kończy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Teraz przejdźcie tę drogę w przeciwną stronę, jako ktoś, kto przychodzi z obozu i wchodzi przez bramę dziedzińca. **Co spotyka najpierw, co potem, a co jest na samym końcu? Co mówi ta kolejność o drodze człowieka do Boga?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Zdanie „jak Pan nakazał Mojżeszowi” pada w tym fragmencie siedem razy. **Po co tekst tyle razy to powtarza?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Mojżesz urządza przybytek od środka. Gdy namiot już stoi, pierwsza trafia do niego skrzynia z tablicami przymierza, znak Bożej obecności, a zasłona w bramie dziedzińca jest ostatnia. Człowiek idzie odwrotnie. Najpierw spotyka ołtarz ofiary, potem wodę do obmycia, a dopiero dalej światło, chleb i kadzidło. Ostatnie zdanie, „Mojżesz dokonał dzieła”, brzmi w hebrajskim prawie tak samo jak zdanie o Bogu, który ukończył dzieło stworzenia w Rdz 2,2. Mojżesz też ogląda gotowe dzieło i błogosławi, jak Bóg, który po ukończeniu stworzenia pobłogosławił siódmy dzień.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Kto przebywać będzie w namiocie twoim",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 15,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "Psalm Dawidowy. Panie! Kto przebywać będzie w namiocie twoim? Kto zamieszka na twej górze świętej? Ten, kto żyje nienagannie I pełni to, co prawe, I mówi prawdę w sercu swoim."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalmista pyta o namiot Boga, ale odpowiada opisem codziennego życia. **Co łączy drogę od bramy do skrzyni z tym, jak człowiek żyje poza przybytkiem?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kto z nas mógłby z czystym sumieniem odpowiedzieć „to ja” na to pytanie psalmu? Co w takim razie robi dla nas ołtarz, który stoi zaraz za bramą?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Obraz i cień",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 8,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Główną zaś rzeczą w tym, co mówimy, jest to, że mamy takiego arcykapłana, który usiadł po prawicy tronu Majestatu w niebie, jako sługa świątyni i prawdziwego przybytku, który zbudował Pan, a nie człowiek. Albowiem każdy arcykapłan bywa ustanawiany, aby składał dary i ofiary; dlatego jest rzeczą konieczną, żeby i ten miał co ofiarować. Otóż, gdyby był na ziemi, nie byłby kapłanem, skoro są tu tacy, którzy składają dary według przepisów zakonu; służą oni w świątyni, która jest tylko obrazem i cieniem niebieskiej, jak to zostało objawione Mojżeszowi, gdy miał budować przybytek: Bacz, powiedziano mu, abyś uczynił wszystko według wzoru, który ci został ukazany na górze."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Autor nazywa przybytek „obrazem i cieniem”. **Co cień mówi o tym, kto go rzuca, a czego o nim nie mówi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Główną rzeczą” w całym wywodzie jest arcykapłan, który usiadł po prawicy Boga. **Gdzie według tych wersetów jest teraz Chrystus i co tam robi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Prawdziwy przybytek „zbudował Pan”. Mojżesz stawiał namiot ludzkimi rękami, choć według Bożego wzoru. **Co zmienia to, że najważniejsza świątynia w ogóle nie jest ludzkim dziełem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Cień w tym liście nie jest czymś złym ani fałszywym. To Bóg kazał zbudować przybytek, a jego służba była prawdziwym sposobem spotkania z Nim. Autor mówi raczej o czasie. Cień przychodzi przed tym, kto go rzuca, tak jak sylwetka idącego człowieka pojawia się za rogiem pierwsza. Dla autora listu ten, na kogo wskazywał przybytek, już przyszedł. Dlatego ziemski namiot uczy, a Chrystus zbawia.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Drzwi i droga",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 9,8",
+       "przeklad": "BW",
+       "akapity": [
+        "Przez to Duch Święty wskazuje wyraźnie, że droga do świątyni nie została jeszcze objawiona, dopóki stoi pierwszy przybytek;"
+       ]
+      },
+      {
+       "odnosnik": "J 10,9",
+       "przeklad": "BW",
+       "akapity": [
+        "Ja jestem drzwiami; jeśli kto przeze mnie wejdzie, zbawiony będzie i wejdzie, i wyjdzie, i pastwisko znajdzie."
+       ]
+      },
+      {
+       "odnosnik": "J 14,6",
+       "przeklad": "BW",
+       "akapity": [
+        "Odpowiedział mu Jezus: Ja jestem droga i prawda, i żywot, nikt nie przychodzi do Ojca, tylko przeze mnie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dziedziniec przybytku miał tylko jedną bramę, a dalej, do namiotu, wchodzili już tylko kapłani. **Co słyszycie w słowach Jezusa „Ja jestem drzwiami” i „Ja jestem droga”, kiedy pamiętacie ten plan?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W przybytku przez bramę wchodziło się, żeby się zbliżyć do Boga. Jezus mówi, że przez Niego się „wejdzie i wyjdzie”. **Co to dodaje do obrazu?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: jak dosłownie czytać wzór",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajczycy mówią, że w niebie jest „prawdziwy przybytek”. W Kościele czyta się to na dwa sposoby. Jedni rozumieją wzór bardzo dosłownie. Ziemski namiot odwzorowuje niebieską świątynię sprzęt po sprzęcie, choć w innej skali. Drudzy zwracają uwagę, że wzór obejmował też deski, kozią sierść i popielnice przy ołtarzu. Widzą w nim przede wszystkim plan działania Boga, pokazany w przestrzeni. Przypominają też, że ołtarz całopalenia wypełnił się na Golgocie w zupełnie innej postaci, na drewnianym krzyżu, a nie na ołtarzu z brązu. Obie strony zgadzają się w tym, co najważniejsze. Chrystus naprawdę służy w niebie, a przybytek naprawdę uczy, kim On jest i co robi.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co tracimy, gdy czytamy wzór zbyt dosłownie, a co tracimy, gdy czytamy go zbyt luźno?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Dlaczego Bóg mógł wybrać na lekcję o zbawieniu właśnie budynek, przez który się przechodzi krok po kroku?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przybytek powstał z Bożego wzoru, z ludzkich darów i z ludzkich rąk. **Co ze swojego czasu, rzeczy albo umiejętności dajesz Bogu najchętniej, a co najtrudniej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Droga od bramy do skrzyni prowadzi przez ołtarz i przez obmycie. **Gdzie na tej drodze widzisz siebie w tym okresie życia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **w której sprawie budujesz według własnego planu, choć przeczuwasz, że Bóg pokazał ci co innego?** Nie musisz mówić szczegółów.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg podaje Mojżeszowi wzór namiotu co do łokcia i co do koloru nici. W wielu sprawach naszego życia nie daje takiego planu. **Dlaczego w jednych sprawach jest tak dokładny, a w innych zostawia człowiekowi swobodę? Co by się stało z nami, gdyby we wszystkim podawał wzór?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie produkuje tu jednej odpowiedzi. Warto, żeby padło spostrzeżenie, że wzór dotyczył drogi do Boga i przebaczenia. Tego człowiek nie mógł wymyślić sam. W wielu innych sprawach Bóg daje mądrość i zaufanie zamiast planu.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Plan drogi do Boga pochodzi od Niego. Człowiek przynosi serce i ręce, a Bóg prowadzi od bramy aż do środka.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** Wj 25,9 albo Hbr 8,1-2.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ludzie przynosili złoto, które jeszcze niedawno nosili na sobie. Zapytaj siebie, **co jest u ciebie takim osobistym złotem**, czymś, co trudno byłoby ci oddać Bogu do dyspozycji. Nie musisz niczego postanawiać. Wystarczy to nazwać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Bóg napełnił Duchem także rzemieślnika. Pomyśl o swojej zwykłej pracy. **Powiedz Bogu szczerze, czy uważasz ją za coś, co ma z Nim związek**, czy za coś obok Niego.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Przejdź w myślach drogę od bramy do skrzyni. Zatrzymaj się przy tym miejscu, przy którym czujesz największy opór, i powiedz Bogu, dlaczego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„To znaczy, że mamy więcej dawać na zbór.”** Zatrzymaj to łagodnie. Tekst opisuje ludzi, którzy dają z ochotnego serca, i Mojżesza, który każe przestać, gdy wystarcza. Nie ma tu nacisku ani zbiórki. Nie przechodź do dziesięciny ani do bieżących potrzeb zboru.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czy w niebie są naprawdę takie same sprzęty?”** Nie rozstrzygaj tego przy stole. Powiedz, że w Kościele są tu dwa akcenty i że oba zgadzają się co do najważniejszego. Chrystus naprawdę służy w niebie, a przybytek uczy, kim On jest. Jeśli grupa chce, wróćcie do tego na poziomie 3.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A co z sądem w niebiańskiej świątyni i z datami z Księgi Daniela?”** To ważny temat, ale nie na dziś. Zapisz pytanie. Dziś patrzymy na wzór i na drogę od bramy do środka.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja nie mam żadnych talentów, nie jestem Besalelem.”** Nie zaprzeczaj i nie wyliczaj komuś jego zalet przy grupie. Przeczytaj jeszcze raz Wj 31,6. „A serce każdego zręcznego obdarzyłem umiejętnością”, mówi tam Bóg. Zwróć też uwagę, że w Wj 35 przybytek budują także ci, którzy niczego nie zrobili rękami, tylko przynieśli dar.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś krytykuje bogactwo dzisiejszych kościołów i świątyń.** Nie wchodź w spór o budynki ani o praktykę innych Kościołów. Przybytek był namiotem, który się składało i nosiło. Wróć do pytania, po co Bóg dał wzór i dokąd prowadziła droga przez dziedziniec.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa zaczyna rysować plan przybytku i liczyć łokcie.** Doceń zaciekawienie. Pilnuj jednak, żeby wymiary nie zjadły spotkania. Wróć do pytania z bloku 4 o drogę od bramy do skrzyni.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 2. Bloki 1, 4 i 5 niosą spotkanie: wzór z góry, droga przez przybytek i Chrystus, na którego ten namiot wskazywał.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„To znaczy, że mamy więcej dawać na zbór.”",
+     "odpowiedz": "Zatrzymaj to łagodnie. Tekst opisuje ludzi, którzy dają z ochotnego serca, i Mojżesza, który każe przestać, gdy wystarcza. Nie ma tu nacisku ani zbiórki. Nie przechodź do dziesięciny ani do bieżących potrzeb zboru."
+    },
+    {
+     "sytuacja": "„Czy w niebie są naprawdę takie same sprzęty?”",
+     "odpowiedz": "Nie rozstrzygaj tego przy stole. Powiedz, że w Kościele są tu dwa akcenty i że oba zgadzają się co do najważniejszego. Chrystus naprawdę służy w niebie, a przybytek uczy, kim On jest. Jeśli grupa chce, wróćcie do tego na poziomie 3."
+    },
+    {
+     "sytuacja": "„A co z sądem w niebiańskiej świątyni i z datami z Księgi Daniela?”",
+     "odpowiedz": "To ważny temat, ale nie na dziś. Zapisz pytanie. Dziś patrzymy na wzór i na drogę od bramy do środka."
+    },
+    {
+     "sytuacja": "„Ja nie mam żadnych talentów, nie jestem Besalelem.”",
+     "odpowiedz": "Nie zaprzeczaj i nie wyliczaj komuś jego zalet przy grupie. Przeczytaj jeszcze raz Wj 31,6. „A serce każdego zręcznego obdarzyłem umiejętnością”, mówi tam Bóg. Zwróć też uwagę, że w Wj 35 przybytek budują także ci, którzy niczego nie zrobili rękami, tylko przynieśli dar."
+    },
+    {
+     "sytuacja": "Ktoś krytykuje bogactwo dzisiejszych kościołów i świątyń.",
+     "odpowiedz": "Nie wchodź w spór o budynki ani o praktykę innych Kościołów. Przybytek był namiotem, który się składało i nosiło. Wróć do pytania, po co Bóg dał wzór i dokąd prowadziła droga przez dziedziniec."
+    },
+    {
+     "sytuacja": "Grupa zaczyna rysować plan przybytku i liczyć łokcie.",
+     "odpowiedz": "Doceń zaciekawienie. Pilnuj jednak, żeby wymiary nie zjadły spotkania. Wróć do pytania z bloku 4 o drogę od bramy do skrzyni."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 2. Bloki 1, 4 i 5 niosą spotkanie: wzór z góry, droga przez przybytek i Chrystus, na którego ten namiot wskazywał."
+    }
+   ]
+  }
+ ]
+}

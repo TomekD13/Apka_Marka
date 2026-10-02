@@ -1,0 +1,783 @@
+{
+ "tytul": "Ołtarz na dziedzińcu",
+ "id": "SW-03",
+ "seria": "Świątynia",
+ "opis": "Co mówiła ofiara przy ołtarzu o grzechu i o Bogu i dlaczego Jan nazwał Jezusa Barankiem.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Kpł 1,2-9; Kpł 4,27-31; Rdz 22,6-8.13-14; 2Krn 3,1; J 1,29.35-36; Iz 53,6-7; Hbr 10,1-4.11-14",
+  "p2": "Kpł 5,7.11; 1P 1,18-19; Hbr 13,11-12; Hbr 10,5-7; Ps 51,18-19",
+  "p3": "Kpł 17,11; Jr 7,31"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 24,
+  "p3": 28
+ },
+ "tagi": [
+  "świątynia",
+  "ofiara",
+  "przebaczenie",
+  "grzech",
+  "Baranek Boży",
+  "krzyż"
+ ],
+ "wersja": 1,
+ "zdanie": "Ołtarz mówił, że grzech kosztuje życie. Baranek Boży mówi, że to życie Bóg dał sam, raz na zawsze.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie stoi przy pierwszym sprzęcie, który widział człowiek po wejściu na dziedziniec przybytku. Był to ołtarz ofiary całopalnej. Ofiara była mocnym, cielesnym językiem. Człowiek kładł rękę na głowie zwierzęcia, sam je zabijał, patrzył na krew i na ogień. Ten język mówił, że grzech kosztuje życie i że Bóg przyjmuje zastępstwo. Mówił też, że przebaczenie pochodzi od Boga. Opowieść o Abrahamie i Izaaku stawia pytanie o jagnię. Jan Chrzciciel odpowiada na nie, wskazując Jezusa. List do Hebrajczyków dopowiada, że ta jedna ofiara wystarczyła raz na zawsze.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Opisy zabijania zwierząt mogą kogoś zniesmaczyć albo przestraszyć. To normalna reakcja i nie trzeba jej gasić. Tekst jest celowo dosadny, bo grzech nie jest drobiazgiem.",
+      "Historia z Rdz 22 budzi grozę, bo ojciec idzie złożyć syna w ofierze. Ktoś może zapytać, jaki Bóg każe coś takiego. Nie zbywaj tego pytania. Nie musisz też rozwiązywać go w całości. Zobacz czerwone flagi.",
+      "Przy stole może siedzieć ktoś z ciężkim poczuciem winy. Nie pytaj nikogo o jego grzechy i nie zachęcaj do wyznań przy grupie.",
+      "Nie mów źle o Izraelu ani o judaizmie. Ofiary były Bożym darem i prawdziwą drogą do Boga, nie prymitywną religią, z której wyrośliśmy.",
+      "Pytania o Dzień Pojednania, kozła dla Azazela i sąd zapisz na inne spotkanie. Tu stoimy przy codziennym ołtarzu."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie opowiadaj ze szczegółami, jak wyglądała rzeź. Wystarczy to, co mówi tekst. Nie mów „to ty zabiłeś Jezusa” ani podobnych zdań, które przygniatają zamiast prowadzić do łaski.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o prezencie albo o geście, który kogoś naprawdę kosztował, bo dał ci coś drogiego albo coś drogiego oddał dla ciebie. Powiedz jednym zdaniem, co wtedy poczułeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi i nie dopytuj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Ręka na głowie",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Przybytek już stoi. Bóg woła Mojżesza i mówi do niego z Namiotu Zgromadzenia.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kpł 1,2-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Przemów do synów izraelskich i powiedz im: Jeżeli ktoś z was chce złożyć ofiarę Panu, to niech złoży ofiarę swoją z bydła rogatego lub z trzody. Jeżeli ofiara jego ma być całopalna z bydła rogatego, to niechaj złoży na nią samca bez skazy; niech przyprowadzi go do wejścia do Namiotu Zgromadzenia, aby znaleźć upodobanie u Pana; niech położy rękę swoją na głowie zwierzęcia ofiary całopalnej, aby zostało przyjęte z upodobaniem jako przebłaganie za niego.",
+        "Potem zarżnie tego cielca przed Panem, a synowie Aarona, kapłani, ofiarują krew i pokropią tą krwią dookoła ołtarz, który jest u wejścia do Namiotu Zgromadzenia. Następnie zdejmie skórę ze zwierzęcia ofiary całopalnej i pokroi ją na części. Synowie Aarona, kapłani, przyniosą ogień na ołtarz i ułożą drwa na ogniu. Następnie synowie Aarona, kapłani, ułożą owe części oraz głowę i tłuszcz na drwach, które są na ogniu na ołtarzu, wnętrzności jego zaś i nogi obmyją wodą. Kapłan wszystko to spali na ołtarzu jako ofiarę całopalną, ofiarę ogniową, woń przyjemną dla Pana."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wypiszcie, co robi człowiek, który przyprowadza zwierzę, a co robią kapłani. **Co was zaskakuje w tym podziale pracy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Człowiek ma położyć rękę na głowie zwierzęcia, „aby zostało przyjęte z upodobaniem jako przebłaganie za niego”. **Co ten gest mógł znaczyć dla kogoś, kto go wykonywał własną ręką?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Rozdział zaczyna się od słów „jeżeli ktoś z was chce”, a z ofiary całopalnej nic nie wracało do domu. **Dlaczego ktoś przychodził dobrowolnie z darem, z którego nic dla siebie nie zostawiał?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Hebrajskie wyrażenie przetłumaczone jako „położyć rękę” znaczy raczej „oprzeć się”, wesprzeć się na zwierzęciu całym ciężarem. Zwierzę zabijał sam ofiarnik, a kapłan wchodził dopiero przy krwi i przy ogniu. Nie wolno było przynieść zwierzyny upolowanej w lesie. Ofiara musiała pochodzić z własnej trzody, czyli kosztować. Całopalenie spalano w całości. Cały dar szedł do Boga i nic nie zostawało na stole ofiarnika.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Zwierzę ma być „bez skazy”. Hebrajskie `tamim` to samo słowo, którym Biblia nazywa Noego człowiekiem „nienagannym” w Rdz 6,9. Tym słowem Ps 15,2 opisuje też tego, kto może przebywać w namiocie Boga. Od zwierzęcia wymaga się tego, czego ofiarnik sam w sobie nie miał.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Spalanie na ołtarzu nazywa hebrajski innym czasownikiem niż zwykłe palenie, które niszczy. Ten czasownik znaczy „zamienić w dym” i ma ten sam rdzeń co słowo „kadzidło”. Ofiara nie ginie w ogniu. Unosi się do Boga jako „woń przyjemna”.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co mówi o całopaleniu to, że Biblia opisuje je słowami bliskimi kadzidłu?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Ktoś z prostego ludu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kpł 4,27-31",
+       "przeklad": "BW",
+       "akapity": [
+        "A jeżeli jakiś człowiek z prostego ludu zgrzeszy nieświadomie, wykraczając przeciwko jednemu z przykazań Pańskich, których przekraczać nie wolno, i ściągnie na siebie winę, a potem uświadomi sobie swój grzech, który popełnił, złoży jako swoją ofiarę kozę, samicę bez skazy, za swój grzech, który popełnił; położy rękę swoją na głowie ofiary za grzech i zarżnie to zwierzę ofiary za grzech na miejscu, gdzie się składa ofiary całopalne. Kapłan weźmie nieco z jej krwi na swój palec i rozmaże ją po rogach ołtarza całopaleń, resztę zaś jej krwi wyleje u podstawy ołtarza. Wszystek zaś jej tłuszcz usunie, tak jak się usuwa tłuszcz z ofiary pojednania, i spali go kapłan na ołtarzu jako woń przyjemną dla Pana. Kapłan dokona za niego przebłagania i będzie mu odpuszczone."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Tekst opisuje chwilę, w której człowiek „uświadomi sobie swój grzech”. **Co dzieje się w człowieku między tą chwilą a drogą z kozą do ołtarza?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ostatnie zdanie brzmi „będzie mu odpuszczone”. Tekst nie mówi, że to kapłan odpuszcza. **Kto w tej scenie przebacza i co robi każdy z pozostałych uczestników?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ten przepis jest dla „człowieka z prostego ludu”. Wcześniejsze akapity rozdziału mówią o kapłanie, o całym zborze i o księciu. **Co mówi to, że Bóg przewiduje drogę do przebaczenia dla każdego z nich osobno?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W Biblii hebrajskiej czasownik `salach`, czyli „przebaczyć”, nigdy nie ma ludzkiego podmiotu. Zawsze przebacza Bóg. Dlatego przepis kończy się formą bezosobową, „będzie mu odpuszczone”. Kapłan wykonuje obrzęd, ale nie ma władzy, żeby przebaczyć. Ofiara nie jest więc mechanizmem, który działa sam. Jest drogą, którą Bóg wyznaczył, żeby człowiek mógł przyjść i usłyszeć, że jest wolny.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jeśli nie stać go na owcę",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kpł 5,7",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeżeli zaś nie stać go na owcę, niech przyniesie dla Pana jako swoją pokutną ofiarę za grzech, który popełnił, dwie synogarlice albo dwa gołąbki, jedno na ofiarę za grzech, drugie na ofiarę całopalną."
+       ]
+      },
+      {
+       "odnosnik": "Kpł 5,11",
+       "przeklad": "BW",
+       "akapity": [
+        "A jeśli nie stać go także na dwie synogarlice lub dwa gołąbki, to niech złoży jako swoją ofiarę za grzech, który popełnił, dziesiątą część efy mąki przedniej na ofiarę za grzech, lecz niech nie nalewa na nią oliwy i nie daje na nią kadzidła, gdyż jest to ofiara za grzech."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Prawo schodzi od owcy do dwóch ptaków, a potem do garści mąki. **Co mówi ta drabina o tym, kogo Bóg chce widzieć przy ołtarzu?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co w tych ofiarach jest takie samo dla bogatego i dla najbiedniejszego?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Bóg upatrzy sobie jagnię",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Bóg wystawił Abrahama na próbę. Kazał mu iść w krainę Moria i złożyć tam w ofierze syna Izaaka. Po trzech dniach drogi widzą górę z daleka.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 22,6-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Abraham wziął drwa na całopalenie i włożył je na syna swego Izaaka, sam zaś wziął do ręki ogień i nóż i poszli obaj razem. I rzekł Izaak do ojca swego Abrahama tak: Ojcze mój! A ten odpowiedział: Oto jestem, synu mój! I rzekł: Oto ogień i drwa, a gdzie jest jagnię na całopalenie? Abraham odpowiedział: Bóg upatrzy sobie jagnię na całopalenie, synu mój. I szli obaj razem."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Na szczycie Abraham buduje ołtarz i wiąże syna. Gdy podnosi nóż, anioł Pana woła go z nieba i zatrzymuje jego rękę.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 22,13-14",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy Abraham podniósł oczy, ujrzał za sobą barana, który rogami uwikłał się w krzakach. Poszedł tedy Abraham, a wziąwszy barana, złożył go na całopalenie zamiast syna swego. I nazwał Abraham to miejsce: Pan zaopatruje. Dlatego mówi się po dziś dzień: Na górze Pana jest zaopatrzenie."
+       ]
+      },
+      {
+       "odnosnik": "2Krn 3,1",
+       "przeklad": "BW",
+       "akapity": [
+        "Zaczął tedy Salomon budować świątynię Pana w Jeruzalemie na górze Moria, gdzie Pan ukazał się Dawidowi, jego ojcu, w miejscu, które wyznaczył Dawid na klepisku Ornana Jebuzejczyka,"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Izaak niesie drwa, ojciec niesie ogień i nóż. Syn pyta, gdzie jest jagnię. **Co słyszycie w odpowiedzi Abrahama, kiedy pamiętacie, dokąd idą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Baran zostaje złożony „zamiast syna swego”. **Co zmienia w tej historii jedno słowo „zamiast”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Wiele wieków później Salomon stawia świątynię na górze Moria. **Co znaczy, że świątynia z ołtarzem stanęła na tej samej górze, na której Bóg dał barana zamiast syna?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Nazwa Moria pada w Starym Testamencie tylko dwa razy, w tej opowieści i przy budowie świątyni. Pytanie Izaaka nie dostaje w tym rozdziale pełnej odpowiedzi. Abraham znajduje dorosłego barana, nie jagnię. Prorocy Izraela powiedzą potem, że ofiara z dzieci nigdy nie była wolą Boga. Ta historia kończy się właśnie tym, że Bóg zatrzymuje nóż. Pytanie „gdzie jest jagnię?” zostaje otwarte przez wiele stuleci.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Oto Baranek Boży",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Nad Jordanem Jan Chrzciciel chrzci ludzi przychodzących z całej okolicy. Zobaczył Jezusa, który szedł w jego stronę.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 1,29",
+       "przeklad": "BW",
+       "akapity": [
+        "Nazajutrz ujrzał Jezusa, idącego do niego, i rzekł: Oto Baranek Boży, który gładzi grzech świata."
+       ]
+      },
+      {
+       "odnosnik": "J 1,35-36",
+       "przeklad": "BW",
+       "akapity": [
+        "Nazajutrz znowu stał Jan z dwoma uczniami swoimi. I ujrzawszy Jezusa przechodzącego, rzekł: Oto Baranek Boży."
+       ]
+      },
+      {
+       "odnosnik": "Iz 53,6-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Wszyscy jak owce zbłądziliśmy, każdy z nas na własną drogę zboczył, a Pan jego dotknął karą za winę nas wszystkich. Znęcano się nad nim, lecz on znosił to w pokorze i nie otworzył swoich ust, jak jagnię na rzeź prowadzone i jak owca przed tymi, którzy ją strzygą, zamilkł i nie otworzył swoich ust."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jan mógł nazwać Jezusa królem, prorokiem albo Mesjaszem. Mówi „Baranek Boży”. **Co mogli usłyszeć w tym tytule ludzie, którzy znali ołtarz na dziedzińcu i opowieść o Abrahamie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W Kpł 4 jeden człowiek przyprowadza jedną kozę za jeden swój grzech. Jan mówi o „grzechu świata”. **Co zmienia ta skala?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Izajasz pisze o kimś, kto milczy jak jagnię prowadzone na rzeź. Izaak też w końcu nic nie mówi i daje się związać. **Kto w tych tekstach się nie broni i dlaczego to tak ważne?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W tytule „Baranek Boży” spotyka się kilka obrazów. Jest w nim jagnię, które Bóg miał „upatrzyć” na Morii, baranek paschalny z wyjścia z Egiptu i Sługa z Izajasza, który milczy jak owca. Ewangelista nie wyjaśnia tego tytułu. Wraca do obrazu dopiero przy krzyżu, gdy żołnierze nie łamią Jezusowi kości, jak w przepisie o baranku paschalnym (J 19,36). „Grzech świata” stoi w liczbie pojedynczej. Chodzi o całą chorobę świata, nie tylko o listę przewinień.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Cena i miejsce",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1P 1,18-19",
+       "przeklad": "BW",
+       "akapity": [
+        "wiedząc, że nie rzeczami znikomymi, srebrem albo złotem, zostaliście wykupieni z marnego postępowania waszego, przez ojców wam przekazanego, lecz drogą krwią Chrystusa, jako baranka niewinnego i nieskalanego."
+       ]
+      },
+      {
+       "odnosnik": "Hbr 13,11-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem ciała tych zwierząt, których krew arcykapłan wnosi do świątyni za grzech, spala się poza obozem. Dlatego i Jezus, aby uświęcić lud własną krwią, cierpiał poza bramą."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Piotr porównuje krew Chrystusa ze srebrem i złotem. **Co ta cena mówi o tym, ile ci ludzie są warci w oczach Boga?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus umiera „poza bramą”, tam, gdzie palono ciała zwierząt ofiarowanych za grzech i dokąd odsyłano nieczystych. **Co mówi to miejsce o tym, do kogo przyszedł?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Raz na zawsze",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 10,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem zakon, zawierając w sobie tylko cień przyszłych dóbr, a nie sam obraz rzeczy, nie może w żadnym razie przez te same ofiary, nieprzerwanie składane rok w rok, przywieść do doskonałości tych, którzy z nimi przychodzą. Bo czyż nie zaprzestanoby ich składać, gdyby ci, co je składają, nie mieli już żadnej świadomości grzechów, gdy raz zostali oczyszczeni? Przeciwnie, one właśnie przywodzą na pamięć grzechy co roku. Jest bowiem rzeczą niemożliwą, aby krew wołów i kozłów mogła gładzić grzechy."
+       ]
+      },
+      {
+       "odnosnik": "Hbr 10,11-14",
+       "przeklad": "BW",
+       "akapity": [
+        "A każdy kapłan sprawuje codziennie swoją służbę i składa wiele razy te same ofiary, które nie mogą w ogóle zgładzić grzechów; lecz gdy On złożył raz na zawsze jedną ofiarę za grzechy, usiadł po prawicy Bożej, oczekując teraz, aż nieprzyjaciele jego położeni będą jako podnóżek stóp jego. Albowiem jedną ofiarą uczynił na zawsze doskonałymi tych, którzy są uświęceni."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Kapłan „codziennie” stoi przy ołtarzu i składa „wiele razy te same ofiary”. Chrystus złożył jedną i „usiadł”. **Co mówi ten obraz o tym, co zostało zrobione?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ofiary „przywodzą na pamięć grzechy co roku”. **Czym różni się pamięć o grzechu, która prowadzi do Boga, od pamięci, która nie daje człowiekowi spokoju?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Uczynił na zawsze doskonałymi tych, którzy są uświęceni.” **Jak to zdanie brzmi dla kogoś, kto wciąż widzi w sobie bardzo dużo niedoskonałości?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "List do Hebrajczyków nie mówi, że ofiary w przybytku były złe albo prymitywne. Dał je sam Bóg i przez nie ludzie naprawdę przychodzili do Niego z grzechem. Autor mówi o czymś innym. Krew zwierząt wskazywała dalej, poza siebie, i dlatego trzeba ją było powtarzać. Ofiara Chrystusa nie potrzebuje powtórki. Kapłan w przybytku nigdy nie siadał, bo ofiarom nie było końca. Chrystus siedzi, bo swoją ofiarę złożył raz na zawsze. Teraz służy jako Arcykapłan.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie chciałeś ofiar",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 10,5-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Toteż, przychodząc na świat, mówi: Nie chciałeś ofiar krwawych i darów, aleś ciało dla mnie przysposobił; nie upodobałeś sobie w całopaleniach i ofiarach za grzechy. Tedy rzekłem: Oto przychodzę, aby wypełnić wolę twoją, o Boże, jak napisano o mnie w zwoju księgi."
+       ]
+      },
+      {
+       "odnosnik": "Ps 51,18-19",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem ofiar nie żądasz, A całopalenia, choćbym ci je dał, nie zechcesz przyjąć. Ofiarą Bogu miłą jest duch skruszony, Sercem skruszonym i zgnębionym nie wzgardzisz, Boże."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg sam ustanowił ofiary, a psalm i list mówią, że ich „nie chciał”. **Czego w takim razie Bóg chciał od początku, kiedy człowiek przychodził z ofiarą?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Chrystus mówi „aleś ciało dla mnie przysposobił”. **Co znaczy, że ostatnią ofiarą jest sam Chrystus, Jego ciało i Jego posłuszeństwo aż do śmierci?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: co robi krew",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kpł 17,11",
+       "przeklad": "BW",
+       "akapity": [
+        "gdyż życie ciała jest we krwi, a Ja dałem wam ją do użytku na ołtarzu, abyście dokonywali nią przebłagania za dusze wasze, gdyż to krew dokonuje przebłagania za życie."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W Kościele mówi się o ofierze z dwoma akcentami. Jedni podkreślają zastępstwo. Grzech prowadzi do śmierci, a zwierzę, potem Chrystus, umiera w miejsce winnego. Drudzy zwracają uwagę, że krew to w tym wersecie życie, które Bóg sam daje na ołtarz. Ofiara oczyszcza i przywraca więź. Nie służy do przekupienia rozgniewanego Boga. Obie strony zgadzają się w tym, co werset mówi najwyraźniej. To Bóg mówi „Ja dałem wam ją”. Inicjatywa jest po Jego stronie, a krew nie jest magicznym środkiem, który działa sam.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia w rozumieniu ofiary to, że krew na ołtarzu jest darem od samego Boga?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak trzymać razem prawdę, że grzech jest śmiertelnie poważny, i prawdę, że Bóg sam przychodzi z ratunkiem?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ofiarnik sam przyprowadzał zwierzę i sam opierał na nim rękę. Nikt nie robił tego za niego. **Co pomaga człowiekowi przyjść do Boga osobiście z własnym grzechem, a co mu w tym przeszkadza?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdzie w twoim życiu wciąż składasz „te same ofiary”, próbując coś odpracować, choć Chrystus już usiadł?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **co dziś najbardziej poruszyło cię w słowach „Oto Baranek Boży, który gładzi grzech świata”?** Nie musisz mówić dlaczego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jr 7,31",
+       "przeklad": "BW",
+       "akapity": [
+        "Wznieśli miejsce ofiarne Tofet w Dolinie Ben-Hinnoma, aby spalać w ogniu swoich synów i swoje córki, czego Ja nie nakazałem i co mi nawet na myśl nie przyszło."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg mówi przez Jeremiasza, że ofiara z dziecka nawet nie przyszła Mu na myśl. A jednak wystawia Abrahama na taką próbę i sam daje swojego Syna. **Dlaczego przebaczenie w Biblii kosztuje życie? Czy Bóg nie mógł po prostu przebaczyć bez ołtarza i bez krzyża?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie produkuje tu jednej odpowiedzi. Warto, żeby padło spostrzeżenie, że na Morii nóż zostaje zatrzymany nad synem człowieka. Na Golgocie nikt go nie zatrzymuje, bo tym razem ofiarę daje sam Bóg. Ofiara nie jest ceną, którą człowiek płaci Bogu. To Bóg płaci za człowieka.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Ołtarz mówił, że grzech kosztuje życie. Baranek Boży mówi, że to życie Bóg dał sam, raz na zawsze.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** J 1,29 albo Hbr 10,14.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ofiarnik opierał się na zwierzęciu całym ciężarem. Zapytaj siebie, **jaki ciężar nosisz sam, choć mógłbyś go oprzeć na Chrystusie**. Nie musisz o nim nikomu mówić. Nazwij go przed Bogiem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Kapłan w przybytku nigdy nie siadał. Pomyśl, **gdzie wciąż próbujesz zapracować na Boże przebaczenie**, jakby ofiara Chrystusa nie wystarczyła. Przyznaj to przed Nim.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Przeczytaj jeszcze raz Rdz 22,7-8 i zostań przy pytaniu Izaaka „gdzie jest jagnię?”. Zatrzymaj się przy tym pytaniu i odpowiedz na nie Bogu własnymi słowami.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„To okropne, tyle krwi i zabijania.”** Zgódź się, że to trudne do czytania. Nie łagodź tekstu. Powiedz, że właśnie dlatego ofiara była tak wymowna. Człowiek nie mógł myśleć, że grzech to drobiazg. Wróć do pytania z bloku 1 o rękę na głowie zwierzęcia.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Jaki Bóg każe ojcu zabić syna?”** To uczciwe pytanie i nie należy go zbywać. Zwróć uwagę na trzy rzeczy z tekstu. Czytelnik od pierwszego wersetu wie, że to próba. Bóg zatrzymuje nóż. Prorok Jeremiasz mówi wprost w Jr 7,31, że ofiara z dzieci nigdy nie przyszła Bogu na myśl. Nie próbuj rozwiązać całej trudności tej historii dzisiaj.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Bóg potrzebował krwi, żeby przestać się gniewać?”** Nie wchodź w spór o teorie pojednania. Przeczytaj Kpł 17,11. To Bóg mówi „Ja dałem wam ją”. Inicjatywa jest po Jego stronie. Na krzyżu Bóg nie jest kimś, kogo człowiek musi przekupić. To On sam daje środek przebłagania.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli Żydzi mieli religię gorszego gatunku?”** Nie. Ofiary dał sam Bóg i były prawdziwą drogą do Niego. List do Hebrajczyków nazywa je cieniem, czyli zapowiedzią, a nie fałszem. Mów o judaizmie z szacunkiem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi, że jego grzech jest zbyt duży, żeby Bóg mógł go przebaczyć.** Nie spieraj się i nie bagatelizuj. Przeczytaj spokojnie J 1,29 i Hbr 10,14. Jeśli rozmowa robi się bardzo osobista, zaproponuj rozmowę po spotkaniu, w cztery oczy. Nie rób z tego tematu dla całej grupy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A co z Dniem Pojednania i kozłem dla Azazela?”** To osobny temat. Zapisz pytanie. Dziś stoimy przy codziennym ołtarzu na dziedzińcu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 2. Bloki 1, 3, 4 i 5 niosą spotkanie: ręka na głowie zwierzęcia, pytanie o jagnię, odpowiedź Jana i jedna ofiara raz na zawsze.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„To okropne, tyle krwi i zabijania.”",
+     "odpowiedz": "Zgódź się, że to trudne do czytania. Nie łagodź tekstu. Powiedz, że właśnie dlatego ofiara była tak wymowna. Człowiek nie mógł myśleć, że grzech to drobiazg. Wróć do pytania z bloku 1 o rękę na głowie zwierzęcia."
+    },
+    {
+     "sytuacja": "„Jaki Bóg każe ojcu zabić syna?”",
+     "odpowiedz": "To uczciwe pytanie i nie należy go zbywać. Zwróć uwagę na trzy rzeczy z tekstu. Czytelnik od pierwszego wersetu wie, że to próba. Bóg zatrzymuje nóż. Prorok Jeremiasz mówi wprost w Jr 7,31, że ofiara z dzieci nigdy nie przyszła Bogu na myśl. Nie próbuj rozwiązać całej trudności tej historii dzisiaj."
+    },
+    {
+     "sytuacja": "„Bóg potrzebował krwi, żeby przestać się gniewać?”",
+     "odpowiedz": "Nie wchodź w spór o teorie pojednania. Przeczytaj Kpł 17,11. To Bóg mówi „Ja dałem wam ją”. Inicjatywa jest po Jego stronie. Na krzyżu Bóg nie jest kimś, kogo człowiek musi przekupić. To On sam daje środek przebłagania."
+    },
+    {
+     "sytuacja": "„Czyli Żydzi mieli religię gorszego gatunku?”",
+     "odpowiedz": "Nie. Ofiary dał sam Bóg i były prawdziwą drogą do Niego. List do Hebrajczyków nazywa je cieniem, czyli zapowiedzią, a nie fałszem. Mów o judaizmie z szacunkiem."
+    },
+    {
+     "sytuacja": "Ktoś mówi, że jego grzech jest zbyt duży, żeby Bóg mógł go przebaczyć.",
+     "odpowiedz": "Nie spieraj się i nie bagatelizuj. Przeczytaj spokojnie J 1,29 i Hbr 10,14. Jeśli rozmowa robi się bardzo osobista, zaproponuj rozmowę po spotkaniu, w cztery oczy. Nie rób z tego tematu dla całej grupy."
+    },
+    {
+     "sytuacja": "„A co z Dniem Pojednania i kozłem dla Azazela?”",
+     "odpowiedz": "To osobny temat. Zapisz pytanie. Dziś stoimy przy codziennym ołtarzu na dziedzińcu."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 2. Bloki 1, 3, 4 i 5 niosą spotkanie: ręka na głowie zwierzęcia, pytanie o jagnię, odpowiedź Jana i jedna ofiara raz na zawsze."
+    }
+   ]
+  }
+ ]
+}

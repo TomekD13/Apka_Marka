@@ -1,0 +1,737 @@
+{
+ "tytul": "Zabójca na pustyni",
+ "id": "L-04",
+ "seria": "Ludzie drugiej szansy",
+ "opis": "Mojżesz uciekł z Egiptu jako zabójca i latami pasł owce. Potem Bóg zawołał go po imieniu.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Wj 2,11-15; Wj 3,1-6; Wj 2,23-25; 3,7-10; Wj 3,11-14; Wj 4,10-17",
+  "p2": "Dz 7,22-25.29-30; Wj 2,21-22; Wj 4,1-4; Pwt 34,10-12; Hbr 11,27",
+  "p3": "Wj 3,12.14"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 29
+ },
+ "tagi": [
+  "druga szansa",
+  "powołanie",
+  "porażka",
+  "wymówki",
+  "Mojżesz",
+  "Księga Wyjścia"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg nie skreślił Mojżesza w Egipcie. Przyszedł po niego na pustynię, zawołał go po imieniu i powiedział „będę z tobą”.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o człowieku, który zmarnował swoją największą szansę. Mojżesz chciał ratować swój lud, zabił człowieka, został odrzucony przez swoich i uciekł. Przez czterdzieści lat pasł cudze owce na pustyni. Tam Bóg zawołał go po imieniu i posłał z powrotem. Druga szansa nie przychodzi tu jako nagroda za poprawę. Bóg przychodzi pierwszy, Mojżesz odpowiada wymówkami, a Bóg cierpliwie odpowiada na każdą z nich.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole może siedzieć ktoś, kto ma za sobą czyn, który kogoś skrzywdził na zawsze, albo wyrok. Nikogo nie naciskaj na zwierzenia. Wystarczy, że tekst mówi o zabójcy bez owijania w bawełnę.",
+      "Ktoś może być właśnie w swoich latach na pustyni, po utracie pracy, pozycji albo służby. Nie obiecuj mu krzaka gorejącego w przyszłym tygodniu. Tekst mówi o czterdziestu latach.",
+      "Łatwo zrobić z wymówek Mojżesza lekcję moralną o lenistwie. Bóg traktuje je poważnie i odpowiada na każdą. Rób to samo.",
+      "Rozmowa o imieniu Boga może zejść w wykład albo w spór o wymowę. Wracaj do tego, co imię obiecuje Mojżeszowi."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie oceniaj wymówek, które padną przy stole. Nie tłumacz, dlaczego Bóg czekał akurat czterdzieści lat. Nie zakładaj, że wszyscy znają tę historię. Dla części osób będzie nowa.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o okresie w swoim życiu, który wtedy wyglądał na boczny tor. Powiedz jednym zdaniem, czego się tam nauczyłeś, choć wtedy tego nie widziałeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Ręka, która chciała ratować",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Mojżesz był Hebrajczykiem, ale wychował się na dworze faraona jako przybrany syn jego córki. Jego rodacy pracowali w Egipcie jako niewolnicy.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 2,11-15",
+       "przeklad": "BW",
+       "akapity": [
+        "I zdarzyło się w tym czasie, gdy Mojżesz już dorósł, że wyszedł do swoich braci i przypatrywał się ich ciężkiej pracy. Zobaczył też pewnego Egipcjanina, który bił Hebrajczyka, jednego z jego rodaków. Rozejrzał się więc dookoła, a widząc, że nie ma nikogo, zabił Egipcjanina i zagrzebał go w piasku.",
+        "Gdy nazajutrz wyszedł, oto dwaj mężowie hebrajscy kłócili się. Wtedy rzekł do tego, który zawinił: Czemu bijesz bliźniego swego? A ten odpowiedział: Któż cię ustanowił przełożonym i sędzią nad nami? Czy zamierzasz mię zabić, tak jak zabiłeś Egipcjanina? Mojżesz zląkł się i pomyślał: Zapewne sprawa ta wyszła na jaw. A gdy faraon usłyszał o tym, chciał Mojżesza zabić. Lecz Mojżesz uciekł przed faraonem, udał się do ziemi Midianitów i usiadł przy studni."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Mojżesz widzi krzywdę i staje po stronie bitego. **Co mówi o nim to, że przed ciosem rozejrzał się dookoła?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Następnego dnia rodak pyta go: „Któż cię ustanowił przełożonym i sędzią nad nami?”. **Dlaczego to pytanie mogło zaboleć Mojżesza bardziej niż groźba faraona?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Opowieść kończy się tym, że Mojżesz „usiadł przy studni”. **Jak mógł się czuć człowiek, który w ciągu dwóch dni stracił dom, pozycję i własny lud?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Mojżesz zaczyna od dobrej sprawy. Widzi niewolnika bitego przez Egipcjanina i staje w jego obronie. Robi to jednak sam, po kryjomu i siłą. Następnego dnia okazuje się, że ludzie, których chciał ratować, wcale go nie chcą. W całej tej scenie nie ma ani słowa o Bogu. Mojżesz działa na własną rękę i ucieka jako zabójca, którego szuka król.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jak to zapamiętano",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Wiele wieków później Szczepan, jeden z pierwszych chrześcijan, opowiada tę historię przed sądem w Jerozolimie.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 7,22-25",
+       "przeklad": "BW",
+       "akapity": [
+        "Wdrożono też Mojżesza we wszelką mądrość Egipcjan, a był dzielny tak w słowach, jak i w czynach. A kiedy skończył czterdzieści lat, stało się potrzebą jego serca odwiedzić braci swoich, synów Izraela. I ujrzawszy jednego, którego krzywdzono, ujął się za nim, pomścił krzywdzonego i zabił Egipcjanina. Sądził zaś, że bracia zrozumieją, iż Bóg przez jego ręce daje im wybawienie, ale oni nie zrozumieli."
+       ]
+      },
+      {
+       "odnosnik": "Dz 7,29-30",
+       "przeklad": "BW",
+       "akapity": [
+        "I uciekł Mojżesz z powodu tego słowa, i stał się przychodniem w ziemi madiańskiej, gdzie zrodził dwóch synów. A kiedy minęło czterdzieści lat, ukazał mu się na pustyni góry Synaj anioł w płomieniu gorejącego krzaka."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Szczepan mówi, że Mojżesz „sądził, że bracia zrozumieją, iż Bóg przez jego ręce daje im wybawienie”. **Co to zdanie mówi o tym, jak Mojżesz widział swoją rolę, zanim Bóg cokolwiek mu powiedział?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Młody Mojżesz był „dzielny tak w słowach, jak i w czynach”. **Co mogło się stać z tą pewnością siebie przez czterdzieści lat przy owcach?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: zabójstwo czy obrona słabszego",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jedni czytają ten czyn po prostu jako zabójstwo. Ukradkowe rozglądanie się i zagrzebanie ciała w piasku mówią same za siebie, a Biblia nigdzie tego czynu nie chwali. Inni widzą w nim zryw sprawiedliwości wobec okrutnika, tyle że w złym czasie i złymi środkami. Szczepan mówi przecież, że Mojżesz „pomścił krzywdzonego”. Oba odczytania zgadzają się w jednym. Bóg nie zaczyna wyzwolenia od tego czynu. Zaczyna je czterdzieści lat później, przy krzaku na pustyni, i to On posyła.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdzie w tej historii przebiega granica między gorliwością dla dobrej sprawy a braniem sprawy we własne ręce?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Imię wypowiedziane dwa razy",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Mojżesz osiadł w Midianie, ożenił się z córką miejscowego kapłana i przez długie lata pasł jego owce.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 3,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy Mojżesz pasał trzodę teścia swego Jetry, kapłana Midianitów, pognał raz trzodę poza pustynię i przybył do góry Bożej, do Horebu. Wtem ukazał mu się anioł Pański w płomieniu ognia ze środka krzewu; i spojrzał, a oto krzew płonął ogniem, jednakże krzew nie spłonął. Wtedy rzekł Mojżesz: Podejdę, aby zobaczyć to wielkie zjawisko, dlaczego krzew się nie spala.",
+        "Gdy Pan widział, że podchodzi, aby zobaczyć, zawołał nań Bóg spośród krzewu i rzekł: Mojżeszu! Mojżeszu! A on odpowiedział: Oto jestem! Wtedy rzekł: Nie zbliżaj się tu! Zdejm z nóg sandały swoje, bo miejsce, na którym stoisz, jest ziemią świętą. Rzekł też: Jam jest Bóg ojca twego, Bóg Abrahama, Bóg Izaaka, i Bóg Jakuba. Wtedy Mojżesz zakrył oblicze swoje, bał się bowiem patrzeć na Boga."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Mojżesz jest w pracy, przy cudzych owcach, daleko od wszystkiego, kim kiedyś był. **Co znaczy, że Bóg przychodzi do niego właśnie tam, a nie w pałacu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg woła go po imieniu, dwa razy. **Co mogło znaczyć dla zbiega, który od lat żył z dala od swoich, usłyszeć od Boga swoje imię?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Mojżesz zdejmuje sandały i zakrywa twarz. **Co w tej scenie trzyma go na dystans, a co zaprasza bliżej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Według Szczepana od ucieczki minęło czterdzieści lat. Gdy Mojżesz stanie przed faraonem, będzie miał osiemdziesiąt, jak podaje Wj 7,7. Płonący krzak przyciąga wzrok, ale Bóg zaczyna mówić dopiero wtedy, gdy Mojżesz sam podchodzi. Imię powtórzone dwa razy pada w Biblii w chwilach przełomu. Tak Bóg woła Abrahama na górze, gdzie ma ofiarować syna, i małego Samuela w nocy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Gość na obczyźnie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 2,21-22",
+       "przeklad": "BW",
+       "akapity": [
+        "Mojżesz zgodził się pozostać u tego męża, ten zaś dał Mojżeszowi swoją córkę Sypporę za żonę. I urodziła syna, a on dał mu na imię Gerszom, bo rzekł: Byłem gościem na obczyźnie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mojżesz ma żonę, syna i pracę, a nazywa syna od słów „Byłem gościem na obczyźnie”. **Co to imię mówi o tym, jak się czuł w swoim nowym życiu?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Po czym poznać, że ktoś żyje jak gość we własnym życiu, choć z zewnątrz wszystko wygląda na urządzone?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Bóg, który słyszy i zstępuje",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 2,23-25",
+       "przeklad": "BW",
+       "akapity": [
+        "Po upływie długiego czasu umarł król egipski. Jednak Izraelici jęczeli z powodu ciężkiej pracy i narzekali, a ich wołanie o pomoc z powodu ciężkiej pracy dotarło do Boga. I usłyszał Bóg ich narzekanie. I wspomniał Bóg na swoje przymierze z Abrahamem, Izaakiem i Jakubem. I wejrzał Bóg na Izraelitów: Bóg ujął się za nimi."
+       ]
+      },
+      {
+       "odnosnik": "Wj 3,7-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Rzekł jeszcze Pan: Napatrzyłem się na niedolę ludu mojego w Egipcie i słyszałem krzyk ich z powodu naganiaczy jego; znam cierpienia jego. Zstąpiłem przeto, by go wyrwać z mocy Egiptu i wyprowadzić go z tego kraju do ziemi żyznej i rozległej, do ziemi opływającej w mleko i miód, do siedziby Kananejczyków, Chetejczyków i Amorejczyków, i Chiwwijczyków, i Jebuzejczyków. Teraz oto krzyk synów izraelskich dotarł do mnie. Widziałem także udrękę, którą Egipcjanie ich dręczą. Przeto teraz idź! Posyłam cię do faraona. Wyprowadź lud mój, synów izraelskich, z Egiptu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg mówi o sobie, że widzi, słyszy, zna i zstępuje. **Co te słowa mówią ludziom, którzy od lat wołają, a nic się nie zmienia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Najpierw pada „zstąpiłem, by go wyrwać”, a zaraz potem „idź, posyłam cię”. **Jak te dwa zdania stoją obok siebie? Kto właściwie ratuje tu lud?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Mojżesz próbował już kiedyś ratować swój lud. **Co jest inne teraz, gdy to Bóg mówi „posyłam cię”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Zdanie, że Bóg „wspomniał na swoje przymierze”, nie znaczy, że wcześniej zapomniał. W Biblii pamięć Boga zawsze rusza do działania. Przymierze to uroczysta obietnica, którą Bóg związał się z Abrahamem i jego potomkami. Warto zauważyć też porządek opowieści. Po Bożym wejrzeniu na ucisk spodziewalibyśmy się od razu wyprowadzenia. Tymczasem Bóg zaczyna od jednego człowieka na pustyni.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Kim ja jestem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 3,11-14",
+       "przeklad": "BW",
+       "akapity": [
+        "A Mojżesz rzekł do Boga: Kimże jestem, bym miał pójść do faraona i wyprowadzić synów izraelskich z Egiptu? I odpowiedział: Będę z tobą, a to będzie dla ciebie znakiem, że Ja cię posłałem: Gdy wyprowadzisz lud z Egiptu, służyć będziecie Bogu na tej górze.",
+        "A Mojżesz rzekł do Boga: Gdy przyjdę do synów izraelskich i powiem im: Bóg ojców waszych posłał mnie do was, a oni mnie zapytają, jakie jest imię jego, to co im mam powiedzieć? A Bóg rzekł do Mojżesza: Jestem, który jestem. I dodał: Tak powiesz do synów izraelskich: Jahwe posłał mnie do was!"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Mojżesz pyta „Kimże jestem?”, a Bóg nie mówi mu, kim on jest. **Co odpowiada zamiast tego? Co ta odpowiedź daje człowiekowi, który w siebie nie wierzy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Młody Mojżesz sam chwycił za sprawę i nikogo nie pytał. Teraz pyta „kim ja jestem”. **Co z tej zmiany jest dobre, a co wciąż go blokuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Mojżesz boi się, że rodacy zapytają go o imię Boga. **Czego może się bać człowiek, który kiedyś usłyszał od tych samych ludzi „któż cię ustanowił”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Za chwilę faraon odpowie na to samo poselstwo słowami „Któż to jest Pan?”, jak zapisano w Wj 5,2. Mojżesz pyta, kim jest on sam. Faraon pyta, kim jest Bóg. Cała dalsza opowieść odpowiada na oba pytania naraz. Imię podane w wersecie 14 nie jest zagadką do rozwiązania przy stole. Stoi tuż obok obietnicy z wersetu 12, która brzmi „Będę z tobą”.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Co masz w ręku",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 4,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Na to odezwał się Mojżesz i rzekł: A jeżeli nie uwierzą mi i nie usłuchają mnie, lecz powiedzą: Pan nie objawił się tobie? A Pan rzekł do niego: Co masz w ręku swoim? A on odpowiedział: Laskę. I rzekł: Rzuć ją na ziemię. A gdy ją rzucił na ziemię, zamieniła się w węża, Mojżesz zaś uciekał przed nim. I rzekł Pan do Mojżesza: Wyciągnij rękę i chwyć go za ogon; wyciągnął tedy rękę i pochwycił go, a on zamienił się znowu w laskę w jego dłoni."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg zaczyna od pytania „Co masz w ręku swoim?”. **Dlaczego bierze zwykłą pasterską laskę, narzędzie z lat na pustyni, zamiast dać Mojżeszowi coś nowego?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zwyczajnego z waszego codziennego życia mogłoby się okazać tym, co Bóg weźmie do ręki?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W wersecie 12 „będę z tobą” to po hebrajsku `ehje immach`. W wersecie 14 „Jestem, który jestem” to `ehje aszer ehje`. Oba zdania zaczynają się od tego samego słowa, które można oddać „jestem” albo „będę”. Imię, które Mojżesz dostaje, brzmi więc także jak obietnica obecności. Warto też zauważyć, o co pyta Mojżesz. Nie chodzi mu tylko o to, jak się do Boga zwracać. Pyta, jaki jest Ten, który go posyła.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia dla przestraszonego człowieka to, że imię Boga brzmi jak obietnica „będę”?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Poślij kogo innego",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 4,10-17",
+       "przeklad": "BW",
+       "akapity": [
+        "A Mojżesz rzekł do Pana: Proszę, Panie, nie jestem ja mężem wymownym, nie byłem nim dawniej, nie jestem nim teraz, odkąd mówisz do sługi swego, jestem ciężkiej mowy i ciężkiego języka. I rzekł Pan do niego: Kto dał człowiekowi usta? Albo kto czyni go niemym albo głuchym, widzącym albo ślepym? Czyż nie Ja, Pan? Idź więc teraz, a Ja będę z twoimi ustami i pouczę cię, co masz mówić. Ale on rzekł: Proszę, Panie, poślij kogo innego!",
+        "Wtedy rozgniewał się Pan na Mojżesza i rzekł: Czy nie ma Aarona, brata twego, Lewity? Wiem, że on umie mówić; a nawet jest już w drodze i idzie na spotkanie twoje, a gdy cię zobaczy, uraduje się w sercu swoim. Ty będziesz mówił do niego i włożysz słowa w usta jego, a Ja będę z ustami twoimi i z ustami jego i pouczę was, co macie czynić. On będzie mówił za ciebie do ludu, on będzie ustami twoimi, a ty będziesz dla niego jakby Bogiem. A laskę tę weź do ręki swojej, bo nią będziesz dokonywał znaków."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Mojżesz mówi o swojej słabości, o ciężkiej mowie i ciężkim języku. **Jak Bóg odpowiada na to, co Mojżesz w sobie widzi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W końcu pada zdanie bez żadnej wymówki: „Proszę, Panie, poślij kogo innego!”. Bóg się gniewa, a jednak nie odchodzi. **Co robi Bóg z człowiekiem, który po prostu nie chce?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Aaron „jest już w drodze” i ucieszy się na widok brata. **Co ten szczegół mówi o tym, jak Bóg przygotowuje drugą szansę, zanim człowiek się na nią zgodzi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Mojżesz zgłasza po kolei pięć zastrzeżeń. Kim jestem, jak masz na imię, a jeśli mi nie uwierzą, nie umiem mówić, poślij kogo innego. Bóg odpowiada na każde. Gniew Boga w wersecie 14 nie kończy rozmowy. Kończy się ona darem brata, który pójdzie razem z nim. Mojżesz nie dostaje nowego charakteru. Dostaje obecność Boga, laskę w ręku i człowieka u boku.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jak ta historia się skończyła",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 34,10-12",
+       "przeklad": "BW",
+       "akapity": [
+        "I nie powstał już w Izraelu prorok taki jak Mojżesz, z którym by Pan obcował tak bezpośrednio, przez wszystkie znaki i cuda, dla których posłał go Pan, aby je czynił w ziemi egipskiej nad faraonem i wszystkimi jego sługami, i całą jego ziemią, i przez wszystkie przejawy mocy, i wszystkie wspaniałe i wielkie czyny, jakich Mojżesz dokonał na oczach całego Izraela."
+       ]
+      },
+      {
+       "odnosnik": "Hbr 11,27",
+       "przeklad": "BW",
+       "akapity": [
+        "Przez wiarę opuścił Egipt, nie uląkłszy się gniewu królewskiego; trzymał się bowiem tego, który jest niewidzialny, jak gdyby go widział."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które z tych słów o Mojżeszu byłoby nie do pomyślenia dla kogoś, kto znał go tylko z dnia ucieczki z Egiptu?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mojżesz „trzymał się tego, który jest niewidzialny, jak gdyby go widział”. **W którym miejscu dzisiejszej historii mógł się tego nauczyć?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mojżesz wraca do Egiptu z przeszłością, w której zabił człowieka i został odrzucony przez swoich. **Jak taka niezałatwiona przeszłość wpływa na to, co odpowiadamy Bogu dzisiaj?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Która z wymówek Mojżesza brzmi najbardziej jak twoja i co za nią stoi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **gdzie jest dziś twoja pustynia, miejsce, w którym czujesz się odstawiony na bok?** Nie musisz mówić, jak się tam znalazłeś.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Na co Bóg czekał przez czterdzieści lat? Na to, aż Mojżesz się zmieni, aż przestanie liczyć na własną siłę, czy na coś, czego tekst w ogóle nie nazywa? I co z tego wynika dla kogoś, czyje lata na pustyni jeszcze trwają?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie rozstrzyga tego pytania. Warto, żeby padło spostrzeżenie, że Bóg nie przychodzi do Mojżesza z wyrzutem o Egipt. Przychodzi z imieniem, z obietnicą i z zadaniem.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg nie skreślił Mojżesza w Egipcie. Przyszedł po niego na pustynię, zawołał go po imieniu i powiedział „będę z tobą”.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** Wj 3,12 albo Wj 4,12.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o wymówce, którą najczęściej powtarzasz Bogu. Zapytaj siebie, **czego ta wymówka naprawdę pilnuje**. Strachu, wstydu, wygody, a może czegoś jeszcze.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jeśli masz w przeszłości dzień, który wciąż za tobą chodzi, **powiedz Bogu wprost, co się wtedy stało**. Potem zostań przy zdaniu „Będę z tobą”, nawet jeśli jeszcze w nie nie wierzysz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Zapytaj Boga, co masz w ręku. Może to być coś zwyczajnego, czego używasz codziennie, a co On mógłby wziąć. Nie musisz od razu nic z tym robić.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o swoim czynie, który kogoś trwale skrzywdził, albo o wyroku.** Wysłuchaj, podziękuj za zaufanie i nie dopytuj o szczegóły. Nie rozgrzeszaj i nie oceniaj. Możesz powiedzieć, że Biblia nie ukrywa, kim był Mojżesz, a Bóg i tak przyszedł do niego po imieniu. Jeśli sprawa jest świeża albo ciężka, zostań z tą osobą po spotkaniu. Gdy z rozmowy wynika, że komuś nadal grozi krzywda, nie obiecuj tajemnicy i nie zostawaj z tym sam.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Mojżesz dobrze zrobił, bronił słabszego.”** Nie wchodź w spór o przemoc w obronie innych. Tekst opisuje ten czyn bez pochwały, a Bóg zaczyna wyzwolenie zupełnie inaczej. Zapytaj, co się zmieniło między tym, jak Mojżesz działał sam, a tym, jak działał posłany.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Bóg odstawił mnie na boczny tor i nic się nie dzieje.”** Nie pocieszaj obietnicą, że wkrótce wszystko się zmieni. Tekst mówi o czterdziestu latach i o Bogu, który przez cały ten czas słyszał wołanie swojego ludu. Wysłuchaj i nie przyspieszaj cudzej historii.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna spór o imię Boże, o wymowę albo o to, które wyznanie używa go poprawnie.** Zatrzymaj to łagodnie. Dziś wystarczy, że imię z krzaka stoi obok obietnicy „Będę z tobą”. Jeśli grupa chce, zaproponuj osobną rozmowę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Pytanie, czy płonący krzak dało się wytłumaczyć zjawiskiem naturalnym.** Nie rozstrzygaj. Tekst opisuje go jako znak, przy którym Bóg zaczyna mówić. Wróć do tego, co Bóg powiedział.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja też nie umiem mówić, więc się nie nadaję.”** Nie przekonuj na siłę. Zwróć uwagę, że Bóg nie zabrał Mojżeszowi słabości. Dał mu brata do pomocy. Zapytaj, kogo Bóg postawił obok tej osoby.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 3. Bloki 1, 2, 4 i 5 niosą spotkanie: ucieczka, imię na pustyni, „Będę z tobą” i Bóg, który nie odchodzi od człowieka pełnego wymówek.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś mówi o swoim czynie, który kogoś trwale skrzywdził, albo o wyroku.",
+     "odpowiedz": "Wysłuchaj, podziękuj za zaufanie i nie dopytuj o szczegóły. Nie rozgrzeszaj i nie oceniaj. Możesz powiedzieć, że Biblia nie ukrywa, kim był Mojżesz, a Bóg i tak przyszedł do niego po imieniu. Jeśli sprawa jest świeża albo ciężka, zostań z tą osobą po spotkaniu. Gdy z rozmowy wynika, że komuś nadal grozi krzywda, nie obiecuj tajemnicy i nie zostawaj z tym sam."
+    },
+    {
+     "sytuacja": "„Mojżesz dobrze zrobił, bronił słabszego.”",
+     "odpowiedz": "Nie wchodź w spór o przemoc w obronie innych. Tekst opisuje ten czyn bez pochwały, a Bóg zaczyna wyzwolenie zupełnie inaczej. Zapytaj, co się zmieniło między tym, jak Mojżesz działał sam, a tym, jak działał posłany."
+    },
+    {
+     "sytuacja": "„Bóg odstawił mnie na boczny tor i nic się nie dzieje.”",
+     "odpowiedz": "Nie pocieszaj obietnicą, że wkrótce wszystko się zmieni. Tekst mówi o czterdziestu latach i o Bogu, który przez cały ten czas słyszał wołanie swojego ludu. Wysłuchaj i nie przyspieszaj cudzej historii."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna spór o imię Boże, o wymowę albo o to, które wyznanie używa go poprawnie.",
+     "odpowiedz": "Zatrzymaj to łagodnie. Dziś wystarczy, że imię z krzaka stoi obok obietnicy „Będę z tobą”. Jeśli grupa chce, zaproponuj osobną rozmowę."
+    },
+    {
+     "sytuacja": "Pytanie, czy płonący krzak dało się wytłumaczyć zjawiskiem naturalnym.",
+     "odpowiedz": "Nie rozstrzygaj. Tekst opisuje go jako znak, przy którym Bóg zaczyna mówić. Wróć do tego, co Bóg powiedział."
+    },
+    {
+     "sytuacja": "„Ja też nie umiem mówić, więc się nie nadaję.”",
+     "odpowiedz": "Nie przekonuj na siłę. Zwróć uwagę, że Bóg nie zabrał Mojżeszowi słabości. Dał mu brata do pomocy. Zapytaj, kogo Bóg postawił obok tej osoby."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3. Bloki 1, 2, 4 i 5 niosą spotkanie: ucieczka, imię na pustyni, „Będę z tobą” i Bóg, który nie odchodzi od człowieka pełnego wymówek."
+    }
+   ]
+  }
+ ]
+}

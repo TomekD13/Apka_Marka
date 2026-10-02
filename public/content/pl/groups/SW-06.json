@@ -1,0 +1,766 @@
+{
+ "tytul": "Prawo pod przebłagalnią",
+ "id": "SW-06",
+ "seria": "Świątynia",
+ "opis": "Skrzynia z przykazaniami w środku i złotym wiekiem na wierzchu. Jak Bóg łączy sprawiedliwość z przebaczeniem.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Wj 25,10-22; Pwt 10,1-5; Ps 99,1-8; Ps 85,9-14; Rz 3,21-26; Jr 31,31-34",
+  "p2": "Lb 7,89; Kpł 16,2; Wj 32,15-16.19; Hbr 9,3-5; Jr 3,16-17; Ap 11,19",
+  "p3": "Rz 3,25; Lb 20,12"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 29
+ },
+ "tagi": [
+  "świątynia",
+  "przybytek",
+  "prawo",
+  "łaska",
+  "przebaczenie",
+  "sprawiedliwość",
+  "Księga Wyjścia"
+ ],
+ "wersja": 1,
+ "zdanie": "Prawo mówi, jaki jest Bóg. Złote wieko nad nim mówi, co Bóg robi z ludźmi, którzy to prawo złamali.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o jednym przedmiocie z Miejsca Najświętszego. Była to skrzynia przymierza, a w niej dwie kamienne tablice z dziesięcioma przykazaniami. Na wierzchu leżało złote wieko z dwoma cherubami. Nad tym wiekiem Bóg obiecał spotykać się z Mojżeszem i nad nim raz w roku kropiono krew. Prawo i przebaczenie leżały w przybytku w jednym miejscu, jedno nad drugim. Grupa ma najpierw zobaczyć ten przedmiot oczami, a potem zapytać, co mówi o Bogu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Biblia Warszawska mówi „skrzynia” i „wieko”. W innych przekładach stoi „arka” i „przebłagalnia” albo „ubłagalnia”. To te same rzeczy, a materiał używa obu par słów.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokrewny materiał to „Bóg, który chce z nami zamieszkać”. Tamten czyta przybytek od strony Bożej obecności. Ten zatrzymuje się przy jednym sprzęcie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Słowo „prawo” u wielu osób budzi lęk albo od razu spór o to, które przykazania obowiązują. Nie wchodź dziś w ten spór. Tematem jest to, co leży nad prawem i co Bóg robi z ludźmi, którzy je złamali.",
+      "Ktoś przy stole może mieć obraz Boga, który tylko liczy przewinienia. Ps 99,8 mówi o karze i może go w tym utwierdzić. Nie łagodź tekstu i nie zaostrzaj go. Pozwól, żeby psalm i list do Rzymian mówiły razem.",
+      "Rozmowa łatwo ucieka w ciekawostki o zaginionej arce i w filmy. Krótko je przyjmij i wróć do tekstu."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie wykładaj teorii pojednania. Nie rozstrzygaj sporu o słowo z Rz 3,25. Nie porównuj wyznań i nie oceniaj, kto jak traktuje przykazania.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o kimś, kto był wobec ciebie jednocześnie wymagający i bardzo życzliwy. Powiedz jednym zdaniem, kim był i po czym to poznawałeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Skrzynia i wieko",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 25,10-22",
+       "przeklad": "BW",
+       "akapity": [
+        "Zrobią też skrzynię z drzewa akacjowego, dwa i pół łokcia długą, półtora łokcia szeroką i półtora łokcia wysoką. Pokryjesz ją szczerym złotem. Pokryjesz ją od wewnątrz i z zewnątrz. Zrobisz na niej dokoła złoty wieniec. Odlejesz także dla niej cztery złote pierścienie i przytwierdzisz je do czterech jej krawędzi: dwa pierścienie po jednej stronie i dwa pierścienie po drugiej stronie. I zrobisz drążki z drzewa akacjowego, i pokryjesz je złotem. Drążki te włożysz do pierścieni po bokach skrzyni, aby na nich nosić skrzynię. W pierścieniach skrzyni pozostaną te drążki; nie będą z nich wyjmowane. Do tej skrzyni włożysz Świadectwo, które ci dam.",
+        "I zrobisz wieko ze szczerego złota dwa i pół łokcia długie, a półtora łokcia szerokie. Zrobisz też dwa cheruby z litego złota, zrobisz je na obu krawędziach wieka. Jednego cheruba zrobisz na krawędzi z jednej strony, a drugiego cheruba na krawędzi z drugiej strony; razem z wiekiem połączone zrobicie cheruby na obu jego krawędziach. Cheruby będą miały skrzydła rozpostarte do góry. Będą one okrywać swoimi skrzydłami wieko, a twarze ich zwrócone będą ku sobie. Twarze cherubów zwrócone będą ku wieku. Na wierzchu skrzyni położysz wieko, w skrzyni zaś złożysz Świadectwo, które ci dam. Tam będę się spotykał z tobą i sponad wieka będę z tobą rozmawiał spośród dwu cherubów, które są na Skrzyni Świadectwa, o wszystkim, co jako nakaz przekażę ci dla synów izraelskich."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wersety 16 i 21 mówią o tym samym dwa razy. **Co leży w skrzyni, a co na niej? Co może znaczyć taka kolejność?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W wersecie 22 Bóg mówi, gdzie będzie się spotykał z Mojżeszem. **Co jest w tym miejscu pod spodem, a co nad nim? Co to mówi o spotkaniu z Bogiem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Drążki miały zostać w pierścieniach na stałe. **Co mówi o Bogu skrzynia, która zawsze jest gotowa do drogi razem z ludem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Łokieć to około pół metra, więc skrzynia nie była duża. Wieko miało własną nazwę. Hebrajskie `kapporet` pochodzi od tego samego rdzenia co czasownik „dokonać przebłagania”. Stąd w innych przekładach „przebłagalnia”. Prawo leżało w środku, zamknięte. Na wierzchu było miejsce, nad którym Bóg zapowiedział swoją obecność i gdzie raz w roku kropiono krew. Cheruby nie patrzą na lud ani w niebo. Patrzą w dół, na wieko.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Głos znad wieka",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Lb 7,89",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy Mojżesz wchodził do Namiotu Zgromadzenia, aby rozmawiać z Nim, usłyszał głos mówiący do niego znad wieka, które było na Skrzyni Świadectwa, spomiędzy dwóch cherubów; i przemówił do niego."
+       ]
+      },
+      {
+       "odnosnik": "Kpł 16,2",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Pan do Mojżesza: Powiedz Aaronowi, bratu swemu, żeby nie wchodził o każdym czasie do miejsca świętego poza zasłonę przed wieko, które jest na Skrzyni, aby nie umarł, gdyż ukażę się nad wiekiem w obłoku."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mojżesz słyszy głos „znad wieka”. **Co ten szczegół mówi o tym, skąd Bóg przemawia do ludzi, którzy łamią Jego prawo?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeden tekst mówi o rozmowie, drugi o ostrożności, żeby kapłan „nie umarł”. **Jak te dwa zdania mieszczą się w jednym miejscu? Co razem mówią o Bogu?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Te same słowa drugi raz",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Pierwsze tablice Mojżesz potłukł pod górą, kiedy zobaczył, że lud oddaje cześć złotemu cielcowi.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 10,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "W owym czasie rzekł Pan do mnie: Wyciosaj sobie dwie kamienne tablice, takie jak poprzednie, i wstąp do mnie na górę. Sporządź sobie też drewnianą skrzynię, a Ja napiszę na tych tablicach słowa, jakie były na pierwszych tablicach, które ty potłukłeś, i włożysz je do skrzyni. Sporządziłem więc skrzynię z drzewa akacjowego, wyciosałem też dwie kamienne tablice, takie jak poprzednie, i z tymi dwiema tablicami w ręku wstąpiłem na górę. I napisał Pan na tablicach takim pismem, jak poprzednio, dziesięć słów, które wypowiedział do was na górze spośród ognia w dniu zgromadzenia, i wręczył mi je Pan. A obróciwszy się, zstąpiłem z góry i włożyłem tablice do skrzyni, którą sporządziłem; i były tam, jak mi rozkazał Pan."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Po złamaniu przymierza Bóg pisze na nowych tablicach te same słowa, „takim pismem, jak poprzednio”. **Co to mówi o Bogu, że daje te same słowa po raz drugi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Tym razem tablice od razu trafiają do skrzyni. **Dlaczego prawo, które lud już raz złamał, ma leżeć właśnie tam, pod złotym wiekiem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Werset 4 mówi o „dziesięciu słowach”, które Bóg wypowiedział z ognia. **Co się zmienia, kiedy myślisz o przykazaniach jak o słowach, które ktoś do ciebie powiedział?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Bóg nie przygotowuje łagodniejszej wersji przykazań. Zmienia się co innego. Pierwsze tablice skończyły na ziemi pod górą, drugie zostają złożone w skrzyni i przykryte wiekiem. Księga Wyjścia nazywa je „Świadectwem”. Prawo świadczy o tym, jaki jest Bóg i czego chce dla swojego ludu. Leży jednak w miejscu, nad którym ten sam Bóg spotyka się z ludźmi, którzy je złamali.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Potłuczone pod górą",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 32,15-16.19",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem Mojżesz odwrócił się i zszedł z góry, mając w ręku dwie tablice Świadectwa, tablice zapisane z obu stron; z jednej i z drugiej strony były one zapisane. Tablice te były dziełem Bożym, a pismo było pismem Boga, wyrytym na tablicach, [...] A gdy Mojżesz zbliżył się do obozu, ujrzał cielca i tańce. Wtedy Mojżesz zapłonął gniewem i wyrzucił tablice z rąk swoich i potłukł je pod górą."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mojżesz rozbija tablice w chwili, gdy lud już złamał przymierze. **Co ten gest pokazuje lepiej niż słowa?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Tablice były „dziełem Bożym” i „pismem Boga”. **Dlaczego po takiej scenie Bóg w ogóle wraca do rozmowy o tablicach?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Bóg, który przebacza i nie przymyka oczu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 99,1-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Pan jest królem, drżą ludy, Siedzi na cherubach, ziemia się chwieje. Wielki jest Pan na Syjonie I wyniesiony nad wszystkie ludy. Niech wielbią imię twoje wielkie i straszne; On jest święty! Potężny jest król, który miłuje prawo; Tyś ustanowił, co prawe, Ty sprawujesz sąd i sprawiedliwość w Jakubie. Wysławiajcie Pana, Boga naszego, I oddajcie pokłon u podnóżka stóp jego! On jest święty!",
+        "Mojżesz i Aaron są wśród kapłanów jego, A Samuel wśród tych, którzy wzywają imienia jego; Wołali do Pana, a On ich wysłuchał. W słupie obłoku mówił do nich; Strzegli świadectw jego i prawa, które im dał. Panie, Boże nasz, Tyś ich wysłuchał, Byłeś im Bogiem, który przebacza, Lecz karze ich występki."
+       ]
+      },
+      {
+       "odnosnik": "Ps 85,9-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Chciałbym teraz słyszeć, co mówi Bóg, Pan: Zaiste, zwiastuje pokój ludowi swemu i wiernym swoim, Aby tylko nie zawrócili do głupoty swojej. Zaiste, zbawienie jest bliskie Dla tych, którzy się go boją, Aby chwała jego zamieszkała w ziemi naszej. Aby łaska i wierność się spotkały, A sprawiedliwość i pokój pocałowały. Wierność wyrośnie z ziemi, A sprawiedliwość wyjrzy z niebios. Także dobrobytu udzieli Pan I ziemia nasza swój plon wyda. Sprawiedliwość kroczyć przed nim będzie I wyznaczać drogę krokom jego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Psalm 99 mówi o królu, który „miłuje prawo”, a na końcu o Bogu, „który przebacza, lecz karze ich występki”. **Jak te dwie rzeczy mieszczą się w jednym Bogu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W Psalmie 85 łaska i wierność „się spotkały”, a sprawiedliwość i pokój „pocałowały”. **Które z tych słów zwykle się u nas mijają? Gdzie w dzisiejszych tekstach widzisz miejsce, w którym się spotykają?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Wierność wyrośnie z ziemi, a sprawiedliwość wyjrzy z niebios”. **Co w tym obrazie przychodzi od Boga, a co rośnie u ludzi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Cheruby i podnóżek to obrazy skrzyni. Pierwsza Księga Kronik zapisuje, że Dawid nazwał skrzynię przymierza „podnóżkiem stóp Boga naszego”. Izraelita śpiewający ten psalm widział więc Boga zasiadającego na tronie, którego stopy dotykają ziemi nad złotym wiekiem. Tron króla, który „miłuje prawo”, był zarazem miejscem przebaczenia. Psalm 85 bierze słowa łaska i wierność z Wj 34,6, gdzie Bóg sam przedstawił się Mojżeszowi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: przebaczone, a jednak ze skutkiem",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Psalm 99 mówi o Mojżeszu i Aaronie. Bóg ich wysłuchał i im przebaczył. A jednak obaj usłyszeli kiedyś zdanie, którego nie dało się cofnąć.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Lb 20,12",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Pan do Mojżesza i do Aarona: Ponieważ mi nie zaufaliście, aby mnie uwielbić na oczach synów izraelskich, dlatego nie wprowadzicie tego zgromadzenia do ziemi, którą im daję."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W Kościele słychać tu dwa akcenty. Jedni mówią, że przebaczenie usuwa winę, ale nie zawsze usuwa skutki, i że Bóg traktuje nas jak dorosłych. Drudzy podkreślają, że Bóg Mojżesza nie odrzucił. Nie wprowadził go do ziemi, ale Nowy Testament pokazuje go później na górze przemienienia, obok Jezusa. Obie strony zgadzają się co do jednego. Kara z Ps 99,8 nie jest odwołaniem przebaczenia.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak wygląda przebaczenie, które nie wymazuje skutków? Czy znasz to z własnego życia albo z życia kogoś bliskiego?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Sprawiedliwy i usprawiedliwiający",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 3,21-26",
+       "przeklad": "BW",
+       "akapity": [
+        "Ale teraz niezależnie od zakonu objawiona została sprawiedliwość Boża, o której świadczą zakon i prorocy, i to sprawiedliwość Boża przez wiarę w Jezusa Chrystusa dla wszystkich wierzących. Nie ma bowiem różnicy, gdyż wszyscy zgrzeszyli i brak im chwały Bożej, i są usprawiedliwieni darmo, z łaski jego, przez odkupienie w Chrystusie Jezusie, którego Bóg ustanowił jako ofiarę przebłagalną przez krew jego, skuteczną przez wiarę, dla okazania sprawiedliwości swojej przez to, że w cierpliwości Bożej pobłażliwie odniósł się do przedtem popełnionych grzechów, dla okazania sprawiedliwości swojej w teraźniejszym czasie, aby On sam był sprawiedliwym i usprawiedliwiającym tego, który wierzy w Jezusa."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 23 mówi „wszyscy zgrzeszyli”, a werset 24 „usprawiedliwieni darmo”. **Co stoi między tymi dwoma zdaniami? Kto płaci za to „darmo”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł dwa razy pisze o „okazaniu sprawiedliwości” Boga. **Dlaczego przebaczanie grzechów mogło wyglądać tak, jakby Bóg nie był sprawiedliwy? Co w tym fragmencie odpowiada na ten zarzut?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Werset 26 kończy się parą słów, „sprawiedliwym i usprawiedliwiającym”. **Jaki byłby Bóg, który jest tylko jednym z nich?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Po polsku „usprawiedliwić” brzmi jak „znaleźć wymówkę”. U Pawła znaczy coś innego. Na grzech wymówki nie ma, a Bóg mimo to ogłasza wierzącego uniewinnionym. Robi to „przez odkupienie w Chrystusie Jezusie” i „przez krew jego”, czyli wcale nie przymyka oczu. Ten sam Bóg, który dał słowa z tablic, sam ponosi koszt ich złamania. Kilka wersetów dalej Paweł dodaje, że wiara zakon utwierdza (Rz 3,31).",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W wersecie 25 BW ma „ofiarę przebłagalną”. Po grecku stoi tu `hilastērion`. W Nowym Testamencie to słowo pada jeszcze tylko raz, w Hbr 9,5, i tam oznacza złote wieko skrzyni. Tym samym słowem grecki przekład Starego Testamentu nazywa wieko z Wj 25.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 3,25",
+       "przeklad": "BW",
+       "akapity": [
+        "którego Bóg ustanowił jako ofiarę przebłagalną przez krew jego, skuteczną przez wiarę, dla okazania sprawiedliwości swojej przez to, że w cierpliwości Bożej pobłażliwie odniósł się do przedtem popełnionych grzechów,"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Wykładający czytają ten werset dwojako. Jedni widzą tu obraz przybytku i mówią, że Chrystus jest nowym wiekiem przebłagania, miejscem, gdzie Bóg spotyka grzesznika nad złamanym prawem. Inni wolą ogólniejsze znaczenie, czyli ofiarę albo środek przebłagania, bo Paweł nie rozwija tu obrazu skrzyni. Oba odczytania mówią jedno. To Bóg „ustanowił” przebłaganie. W religiach greckich ofiarą często próbowano udobruchać rozgniewane bóstwo. W Biblii Bóg sam daje sposób na usunięcie grzechu.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia w twoim obrazie Boga to, że pierwszy krok robi On sam?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Prawo w sercu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jr 31,31-34",
+       "przeklad": "BW",
+       "akapity": [
+        "Oto idą dni – mówi Pan – że zawrę z domem izraelskim i z domem judzkim nowe przymierze. Nie takie przymierze, jakie zawarłem z ich ojcami w dniu, gdy ich ująłem za rękę, aby ich wyprowadzić z ziemi egipskiej, które to przymierze oni zerwali, chociaż Ja byłem ich Panem – mówi Pan – lecz takie przymierze zawrę z domem izraelskim po tych dniach, mówi Pan: Złożę mój zakon w ich wnętrzu i wypiszę go na ich sercu. Ja będę ich Bogiem, a oni będą moim ludem. I już nie będą siebie nawzajem pouczać, mówiąc: Poznajcie Pana! Gdyż wszyscy oni znać mnie będą, od najmłodszego do najstarszego z nich – mówi Pan – odpuszczę bowiem ich winę, a ich grzechu nigdy nie wspomnę."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W przybytku prawo leżało w skrzyni, za zasłoną. **Gdzie Bóg obiecuje złożyć je w nowym przymierzu? Co się wtedy zmienia w człowieku?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Obietnica kończy się zdaniem „a ich grzechu nigdy nie wspomnę”. **Dlaczego prawo wypisane na sercu i przebaczenie stoją w jednej obietnicy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Wszyscy oni znać mnie będą”. **Czym różni się znajomość Boga od znajomości Jego przykazań?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Co było w skrzyni",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 9,3-5",
+       "przeklad": "BW",
+       "akapity": [
+        "za drugą zaś zasłoną był przybytek, zwany miejscem najświętszym, mieszczący złotą kadzielnicę i Skrzynię Przymierza, pokrytą zewsząd złotem, w której był złoty dzban z manną i laska Aarona, która zakwitła, i tablice przymierza; nad nią zaś cherubini chwały, zacieniający wieko skrzyni, o czym teraz nie ma potrzeby szczegółowo mówić."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W skrzyni leżały trzy rzeczy, chleb z pustyni, sucha laska, która zakwitła, i tablice. **Co mówią o Bogu wszystkie trzy razem?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Autor listu pisze, że „nie ma potrzeby szczegółowo mówić”. **Co dla niego było ważniejsze od samych sprzętów?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Skrzynia, której nikt nie będzie szukał",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jr 3,16-17",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy się rozmnożycie i rozplenicie w kraju w owych dniach – mówi Pan – już nie będą mówić o Skrzyni Przymierza z Panem i nikt o niej nie będzie myślał, i nikt jej nie będzie wspominał, nikt nie będzie odczuwał jej braku ani też nie będą sporządzać nowej. W owym czasie będą nazywać Jeruzalem tronem Pana i tam w Jeruzalemie zgromadzą się wszystkie narody w imieniu Pana i już nie będą postępować według uporu swojego złego serca."
+       ]
+      },
+      {
+       "odnosnik": "Ap 11,19",
+       "przeklad": "BW",
+       "akapity": [
+        "I otworzyła się świątynia Boża, która jest w niebie, i ukazała się Skrzynia Przymierza jego w świątyni jego; i zaczęło się błyskać i głośno grzmieć, i przyszło trzęsienie ziemi, i spadł wielki grad."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeremiasz zapowiada czas, gdy nikt nie będzie tęsknił za skrzynią, bo całe miasto stanie się tronem Pana. **Co to mówi o tym, czym skrzynia była, zanim zaginęła?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jan widzi skrzynię przymierza w świątyni w niebie. **Co daje ten obraz komuś, kto żyje w świecie, w którym prawo i miłosierdzie często się rozjeżdżają?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Kiedy myślisz o Bożych przykazaniach, co widzisz najpierw, kamienne tablice czy złote wieko nad nimi? **Skąd się to u ciebie wzięło?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Który z dzisiejszych tekstów najmocniej zmienił twój obraz Boga? Co się w nim przesunęło?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **czy jest w twoim życiu „potłuczona tablica”, przy której trudno ci uwierzyć, że Bóg nadal chce się z tobą spotykać?** Nie musisz mówić, o co chodzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jeśli Bóg przebacza darmo, po co w skrzyni leży prawo? A jeśli prawo nadal mówi, czego Bóg chce, jak przebaczenie ma nie stać się przyzwoleniem?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie rozstrzyga. Warto, żeby padło spostrzeżenie, że Paweł sam stawia to pytanie w Liście do Rzymian i odpowiada obrazem nowego życia w Chrystusie. Skrzynia trzyma razem jedno i drugie. Wieko nie usuwa tablic, a tablice nie wypychają wieka.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Prawo mówi, jaki jest Bóg. Złote wieko nad nim mówi, co Bóg robi z ludźmi, którzy to prawo złamali.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** Ps 85,11 albo Rz 3,26.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o przykazaniu, które najczęściej cię oskarża. W wyobraźni połóż je tam, gdzie leżało w przybytku, pod wiekiem. Zapytaj Boga, **co On widzi, kiedy patrzy na ciebie z tego miejsca.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zauważ, wobec kogo jesteś tylko sprawiedliwy, a wobec kogo tylko pobłażliwy. **Przyznaj przed sobą, czego brakuje w twojej postawie wobec tych ludzi.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Powiedz Bogu wprost, którego z Jego słów najbardziej się boisz. Nie tłumacz się. Posłuchaj, co zostaje w tobie potem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli przykazania już nie obowiązują?”** Tablice leżą w skrzyni pod wiekiem. Wieko ich nie usuwa. Jr 31 mówi o prawie wypisanym na sercu, a Paweł w Rz 3,31 pisze, że wiara zakon utwierdza. Na tym poprzestań i wróć do tekstu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna spór o szabat albo inne przykazanie.** Zatrzymaj to łagodnie. Powiedz, że to ważna rozmowa na osobny wieczór, i wskaż materiały z serii „Szabat”. Dziś tematem jest to, co leży nad tablicami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Bóg Starego Testamentu jest surowy, a Jezus łagodny.”** Nie spieraj się. Pokaż, że Ps 85 i Ps 99 mówią o łasce i sprawiedliwości w jednym Bogu, a Rz 3 mówi o sprawiedliwości w Nowym Testamencie. Skrzynia stała w przybytku na długo przed Betlejem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś pyta, gdzie jest dziś arka.** Biblia tego nie mówi. Jeremiasz zapowiada czas, gdy nikt nie będzie jej szukał. Nie wchodź w legendy i filmy, wróć do pytania, co ten przedmiot mówił o Bogu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi, że czuje się przez prawo tylko oskarżony.** Nie przekonuj go na siłę, że nie ma się czym martwić. Przeczytaj jeszcze raz Rz 3,24 ze słowem „darmo”. Jeśli rozmowa robi się bardzo osobista, zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 3. Bloki 1, 2 i 4 niosą spotkanie: skrzynia z wiekiem, te same słowa dane drugi raz i Bóg, który jest sprawiedliwy i usprawiedliwia.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Czyli przykazania już nie obowiązują?”",
+     "odpowiedz": "Tablice leżą w skrzyni pod wiekiem. Wieko ich nie usuwa. Jr 31 mówi o prawie wypisanym na sercu, a Paweł w Rz 3,31 pisze, że wiara zakon utwierdza. Na tym poprzestań i wróć do tekstu."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna spór o szabat albo inne przykazanie.",
+     "odpowiedz": "Zatrzymaj to łagodnie. Powiedz, że to ważna rozmowa na osobny wieczór, i wskaż materiały z serii „Szabat”. Dziś tematem jest to, co leży nad tablicami."
+    },
+    {
+     "sytuacja": "„Bóg Starego Testamentu jest surowy, a Jezus łagodny.”",
+     "odpowiedz": "Nie spieraj się. Pokaż, że Ps 85 i Ps 99 mówią o łasce i sprawiedliwości w jednym Bogu, a Rz 3 mówi o sprawiedliwości w Nowym Testamencie. Skrzynia stała w przybytku na długo przed Betlejem."
+    },
+    {
+     "sytuacja": "Ktoś pyta, gdzie jest dziś arka.",
+     "odpowiedz": "Biblia tego nie mówi. Jeremiasz zapowiada czas, gdy nikt nie będzie jej szukał. Nie wchodź w legendy i filmy, wróć do pytania, co ten przedmiot mówił o Bogu."
+    },
+    {
+     "sytuacja": "Ktoś mówi, że czuje się przez prawo tylko oskarżony.",
+     "odpowiedz": "Nie przekonuj go na siłę, że nie ma się czym martwić. Przeczytaj jeszcze raz Rz 3,24 ze słowem „darmo”. Jeśli rozmowa robi się bardzo osobista, zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3. Bloki 1, 2 i 4 niosą spotkanie: skrzynia z wiekiem, te same słowa dane drugi raz i Bóg, który jest sprawiedliwy i usprawiedliwia."
+    }
+   ]
+  }
+ ]
+}

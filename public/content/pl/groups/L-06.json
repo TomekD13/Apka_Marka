@@ -1,0 +1,728 @@
+{
+ "tytul": "Najgorszy król",
+ "id": "L-06",
+ "seria": "Ludzie drugiej szansy",
+ "opis": "Król, który zrobił wszystko, co najgorsze, upokorzył się w niewoli i został przyjęty przez Boga.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "2Krn 33,1-9; 2Krl 21,16; 2Krn 33,10-13; 2Krn 33,14-17; 2Krn 33,18-23; Iz 55,6-7; Ez 33,11",
+  "p2": "2Krn 32,33; 1Krl 21,25-29; Ps 103,8-12; Rz 5,20",
+  "p3": "2Krn 7,14; 2Krl 23,25-26; 24,3-4"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 23,
+  "p3": 26
+ },
+ "tagi": [
+  "druga szansa",
+  "nawrócenie",
+  "przebaczenie",
+  "skutki grzechu",
+  "Manasses",
+  "Księgi Kronik"
+ ],
+ "wersja": 1,
+ "zdanie": "Granica łaski nie leży tam, gdzie ją stawiamy. Bóg dał się uprosić nawet najgorszemu królowi.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o najgorszym królu w dziejach Judy. Manasses przez dziesięciolecia burzył wszystko, co zbudował jego ojciec, wprowadził obce kulty do świątyni, palił w ofierze własnych synów i napełnił Jerozolimę krwią niewinnych. Gdy trafił w łańcuchach do niewoli, ukorzył się przed Bogiem, a Bóg dał się uprosić. Granica łaski nie leży tam, gdzie ją zwykle stawiamy. Jednocześnie Biblia uczciwie mówi, że skutków jego panowania nie dało się cofnąć. Spotkanie trzyma obie prawdy razem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Pierwszy fragment mówi wprost o ofiarach z dzieci. Uprzedź o tym przed czytaniem. Ktoś przy stole może mieć za sobą stratę dziecka albo inną bolesną historię i połączyć ją z tym tekstem.",
+      "Przy stole może siedzieć ktoś skrzywdzony przez człowieka, który potem „się nawrócił” i oczekuje, że wszystko zostanie zapomniane. Dla tej osoby radość z przebaczenia Manassesa może zabrzmieć jak zdrada.",
+      "Łatwo wyciągnąć wniosek, że można żyć, jak się chce, i nawrócić się na końcu. Tekst tego nie mówi.",
+      "Niewola Manassesa jest w tekście przedstawiona jako dzieło Boga. Nie tłumacz w ten sposób czyjegokolwiek nieszczęścia przy stole."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie wyznaczaj, kto dziś byłby „Manassesem”. Bez nazwisk polityków i postaci z wiadomości. Nie przyspieszaj cudzego przebaczenia.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o kimś z historii, z książki albo z filmu, o kim byłeś pewien, że już się nie zmieni. Powiedz jednym zdaniem, co sprawiało, że tak myślałeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Gorzej niż narody",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Manasses był synem Hiskiasza, jednego z najlepszych królów Judy, i objął tron jako dwunastoletni chłopiec. Fragment wymienia wprost także ofiary z dzieci.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Krn 33,1-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Manasses miał dwanaście lat, gdy objął władzę królewską, a pięćdziesiąt pięć lat panował w Jeruzalemie. Czynił zaś to, co złe w oczach Pana, według ohydnych zwyczajów narodów, które Pan wytępił przed synami izraelskimi. Z powrotem pobudował świątynki na wyżynach, które zburzył Hiskiasz, jego ojciec, wznosił też ołtarze dla Baalów i sporządził aszery, oddawał pokłon całemu zastępowi niebieskiemu i służył mu. Zbudował także ołtarze w świątyni Pana, o której Pan powiedział: W Jeruzalemie będzie przebywać imię moje na wieki. Nabudował też ołtarzy dla całego zastępu niebieskiego w obydwu dziedzińcach świątyni Pana.",
+        "On nawet swoich synów oddał na spalenie w Dolinie Syna Chinnomowego, oddawał się wróżbiarstwu, czarom i gusłom, ustanowił wywoływaczy duchów i wróżbitów, wiele złego czynił w oczach Pana, drażniąc go. Postawił też posąg rzeźbiony, który kazał sporządzić, w świątyni Bożej, o której Bóg powiedział do Dawida i do Salomona, jego syna: W tej świątyni i w Jeruzalemie, które wybrałem spośród wszystkich plemion izraelskich, umieszczę imię moje na wieki i nie dopuszczę, aby noga Izraela ustąpiła z tej ziemi, na której postawiłem ich ojców, jeżeli tylko będą ściśle wykonywać to wszystko, co im przykazałem przez Mojżesza zgodnie z całym zakonem, z przykazaniami i ustawami. Lecz Manasses zwiódł Judę i mieszkańców Jeruzalemu, tak iż postępowali gorzej niż narody, które Pan wytępił przed synami izraelskimi."
+       ]
+      },
+      {
+       "odnosnik": "2Krl 21,16",
+       "przeklad": "BW",
+       "akapity": [
+        "Również krwi niewinnej przelał Manasses bardzo wiele, tak iż napełnił nią Jeruzalem po brzegi, poza tym swoim grzechem, do którego wciągnął Judę, czyniąc to, co złe w oczach Pana."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Lista win Manassesa jest długa i bardzo konkretna. **Co uderza was w niej najbardziej i dlaczego akurat to?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Manasses „zwiódł Judę”, a lud zaczął postępować „gorzej niż narody”. **Co się dzieje, gdy zło jednego człowieka u władzy staje się złem całego kraju?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Manasses stawia posąg w świątyni, o której Bóg powiedział, że umieści tam swoje imię. **Dlaczego narrator tak mocno podkreśla właśnie to miejsce?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Dolina Syna Chinnoma leży tuż pod murami Jerozolimy. Palono tam dzieci w ofierze obcym bóstwom, a prorocy ostro to potępiali. Od nazwy tej doliny pochodzi słowo gehenna, którym Jezus nazywał miejsce ostatecznego zniszczenia. Manasses panował pięćdziesiąt pięć lat, dłużej niż jakikolwiek inny król Judy. Księga Królewska dodaje to, czego Kroniki tu nie mówią. Napełnił Jerozolimę niewinną krwią.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hiskiasz, ojciec Manassesa, oczyścił świątynię, zburzył miejsca obcych kultów i przetrwał z Judą oblężenie Jerozolimy przez Asyryjczyków. Biblia wspomina jego pogrzeb z wyjątkową czcią.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Krn 32,33",
+       "przeklad": "BW",
+       "akapity": [
+        "I spoczął Hiskiasz ze swoimi ojcami, i pochowano go powyżej grobów synów Dawidowych. Gdy umarł, cała Juda i mieszkańcy Jeruzalemu oddali mu cześć. Władzę królewską po nim objął jego syn Manasses."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Asyria była wtedy największą potęgą Bliskiego Wschodu, a Juda małym państwem płacącym jej daninę. Manasses odbudował dokładnie to, co jego ojciec zburzył.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co mogło się dziać w synu, który przez dziesięciolecia odwracał wszystko, co zbudował jego ojciec?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "W łańcuchach",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Krn 33,10-13",
+       "przeklad": "BW",
+       "akapity": [
+        "Pan przemawiał do Manassesa i do jego ludu, lecz oni na to nie zważali. Wówczas Pan sprowadził na nich dowódców wojska króla asyryjskiego i ci pochwycili Manassesa hakami, skuli dwoma spiżowymi łańcuchami i uprowadzili do Babilonu. A gdy znalazł się w ucisku, błagał Pana, swojego Boga, ukorzył się bardzo przed obliczem Boga swoich ojców i modlił się do niego, a On dał się uprosić i wysłuchał jego błagania, i pozwolił mu powrócić do Jeruzalemu do swego królestwa. Wtedy Manasses poznał, że Pan jest Bogiem."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg długo mówił do Manassesa, a ten nie słuchał. Zaczął wołać dopiero w łańcuchach. **Co to mówi o drodze, którą czasem człowiek musi przejść, zanim zacznie słuchać Boga?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„On dał się uprosić”. Nie ma tu okresu próbnego ani listy warunków. **Co was zaskakuje w tym, jak szybko Bóg przyjmuje tego człowieka?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ostatnie zdanie mówi, że dopiero wtedy Manasses „poznał, że Pan jest Bogiem”. **Co znaczy, że król, który wychował się przy świątyni, poznał Boga dopiero w niewoli?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Babilon był wtedy pod władzą Asyrii, dlatego asyryjscy dowódcy prowadzą tam judzkiego króla. Haki i łańcuchy mówią, jak głęboko został upokorzony człowiek, który przez lata był panem życia i śmierci. Kronikarz nie zarzuca mu, że zaczął się modlić dopiero w biedzie. Pisze po prostu, że Bóg go wysłuchał i przywrócił na tron.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jeszcze jeden zły król",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Dwa wieki wcześniej w północnym królestwie panował Achab, inny król, o którym Biblia pisze najgorsze rzeczy. Prorok Eliasz zapowiedział mu właśnie wyrok.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Krl 21,25-29",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie było doprawdy takiego jak Achab, który by tak się zaprzedał, czyniąc to, co złe w oczach Pana, do czego przywiodła go Izebel, jego żona. Postępował nader ohydnie, chodząc za bałwanami, podobnie jak to czynili Amorejczycy, których Pan wypędził przed synami izraelskimi. A gdy Achab usłyszał te słowa, rozdarł swoje szaty, wdział wór na swoje ciało i pościł, i sypiał w worze, i chodził przygnębiony. Toteż doszło Eliasza Tiszbity słowo Pana tej treści: Czy widziałeś, że Achab ukorzył się przede mną? Dlatego, że ukorzył się przede mną, nie sprowadzę nieszczęścia na jego życie, ale za życia jego syna sprowadzę nieszczęście na jego ród."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg pyta proroka, czy widział, że Achab „ukorzył się” przed Nim. **Co to pytanie mówi o tym, na co Bóg patrzy u ludzi, których wszyscy już skreślili?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak mógł się poczuć Eliasz, który najlepiej znał zło Achaba, gdy usłyszał to pytanie?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Ukorzył się” to po hebrajsku `kana`, dosłownie „ugiąć się, zniżyć się”. To jedno z ulubionych słów Kronikarza. Stoi w obietnicy, którą Bóg dał przy poświęceniu świątyni.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Krn 7,14",
+       "przeklad": "BW",
+       "akapity": [
+        "i ukorzy się mój lud, który jest nazwany moim imieniem, i będą się modlić, i szukać mojego oblicza, i odwrócą się od swoich złych dróg, to Ja wysłucham z niebios, i odpuszczę ich grzechy i ich ziemię uzdrowię."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W rozdziale o Manassesie to słowo wraca kilka razy. Przy jego modlitwie w niewoli, przy zapisie „jego ukorzenia się” i przy synu Amonie, który się nie ukorzył. Kroniki powstały dla ludzi, którzy wrócili z wygnania. Dla nich Manasses był dowodem, że obietnica z dnia poświęcenia świątyni działa nawet wobec najgorszego.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Dlaczego Kronikarz wraca uparcie do jednego słowa? Co ono mówi o tym, gdzie zaczyna się powrót do Boga?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Sprzątanie po sobie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Krn 33,14-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem wybudował zewnętrzny mur Miasta Dawida na zachód od Gichonu w dolinie Kidron aż do wejścia do Bramy Rybnej, pociągnął go wokół Ofelu i bardzo go podwyższył; ustanowił też dowódców wojskowych we wszystkich warownych grodach judzkich. Następnie usunął obcych bogów oraz posąg ze świątyni Pana i wszystkie ołtarze, które pobudował na górze świątyni Pańskiej w Jeruzalemie i kazał je wyrzucić precz poza miasto. Postawił na nowo ołtarz, i złożył Panu na nim krwawe ofiary pojednania i dziękczynne, i nakazał Judejczykom, aby służyli Panu, Bogu Izraela. Jednak lud nadal składał krwawe ofiary na wzgórzach, lecz tylko dla Pana, swego Boga."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Po powrocie Manasses buduje mur, usuwa posągi i stawia na nowo ołtarz Pana. **Co z tej listy jest naprawianiem szkód, a co nowym początkiem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Jednak lud nadal składał krwawe ofiary na wzgórzach”. **Co to zdanie mówi o tym, czego nawrócony człowiek nie jest już w stanie cofnąć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Manasses wyrzuca poza miasto posąg, który sam kiedyś postawił. **Jak mogło wyglądać takie sprzątanie po sobie na oczach całej Jerozolimy?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: dwie opowieści o jednym królu",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Księga Królewska opowiada o Manassesie bez słowa o jego nawróceniu. Mówi za to, że nawet po wielkiej reformie jego wnuka Jozjasza wyrok nad Judą został.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Krl 23,25-26",
+       "przeklad": "BW",
+       "akapity": [
+        "Nie było przed nim takiego króla jak on, który by wrócił do Pana z całego swego serca i z całej swojej duszy, i ze wszystkich sił swoich ściśle według zakonu Mojżeszowego; po nim też już nie wystąpił taki jak on. Pan jednak nie wyzbył się zawziętości swojego wielkiego gniewu, który rozgorzał na Judę za wszystkie zniewagi, jakimi znieważył go Manasses."
+       ]
+      },
+      {
+       "odnosnik": "2Krl 24,3-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Doprawdy, zgodnie ze słowem Pana spotkało to Judę, aby usunąć ją sprzed oblicza jego za grzechy Manassesa, za to wszystko, co uczynił, a także za krew niewinną, którą przelał, napełniając Jeruzalem niewinną krwią; toteż Pan nie chciał odpuścić."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W Kościele czyta się to zestawienie na dwa sposoby. Jedni widzą w nim dwóch świadków o różnych celach. Księga Królewska tłumaczy wygnańcom, dlaczego Jerozolima upadła. Kroniki mówią do tych, którzy wrócili, i pokazują im Boga, który przyjmuje ukorzonego. Drudzy podkreślają, że jedno nie przeczy drugiemu. Przebaczenie dotyczyło człowieka, a skutki jego panowania zostały w dziejach narodu. Niewinni zabici w Jerozolimie nie wrócili do życia. Obie strony zgadzają się, że trzeba czytać oba teksty razem, bo żaden z nich sam nie mówi wszystkiego.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak to możliwe, że człowiekowi przebaczono, a skutki jego win zostały? Co to mówi o krzywdach, które ktoś nam wyrządził, nawet jeśli ten ktoś znalazł u Boga przebaczenie?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Ojciec i syn",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Krn 33,18-23",
+       "przeklad": "BW",
+       "akapity": [
+        "Pozostałe zaś sprawy Manassesa i jego modlitwa do jego Boga, i słowa jasnowidzów, przemawiających do niego w imieniu Pana, Boga Izraela, spisane są w Dziejach Królów Izraelskich. Modlitwa jego zaś i to, jak go Bóg wysłuchał i cały jego grzech i występek oraz miejsca, na których powznosił świątynki i poustawiał aszery i posągi przed swoim ukorzeniem się, zapisane są w dziejach jego jasnowidzów. I spoczął Manasses ze swoimi ojcami, i pochowano go w jego pałacu, władzę królewską zaś po nim objął Amon, jego syn.",
+        "Amon miał dwadzieścia dwa lata, gdy objął władzę królewską, a panował dwa lata w Jeruzalemie. Czynił on to, co złe w oczach Pana, podobnie jak Manasses, jego ojciec. Wszystkim bałwanom, które kazał sporządzić Manasses, jego ojciec, składał Amon krwawe ofiary i oddawał im cześć. Nie ukorzył się natomiast przed Panem, jak ukorzył się jego ojciec Manasses, owszem on, Amon, jeszcze pomnożył winę."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Kronikarz zapisuje obok siebie „cały jego grzech i występek” i modlitwę, którą Bóg wysłuchał. **Dlaczego opowieść o przebaczeniu nie wymazuje przeszłości?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Amon naśladuje ojca w grzechu, ale nie w ukorzeniu się. **Co dzieci biorą od rodziców łatwiej, ich błędy czy ich nawrócenie, i z czego to wynika?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Bałwany, którym składa ofiary Amon, kazał kiedyś sporządzić jego ojciec. **Co to mówi o tym, jak długo żyją skutki naszych dawnych decyzji w ludziach, którzy są najbliżej?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Hojny w odpuszczaniu",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Dwaj prorocy mówią o Bogu to samo, co pokazuje historia Manassesa.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 55,6-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Szukajcie Pana, dopóki można Go znaleźć, wzywajcie go, dopóki jest blisko! Niech bezbożny porzuci swoją drogę, a przestępca swoje zamysły i niech się nawróci do Pana, aby się nad nim zlitował, do naszego Boga, gdyż jest hojny w odpuszczaniu!"
+       ]
+      },
+      {
+       "odnosnik": "Ez 33,11",
+       "przeklad": "BW",
+       "akapity": [
+        "Powiedz im: Jakom żyw – mówi Wszechmocny Pan – nie mam upodobania w śmierci bezbożnego, a raczej, by się bezbożny odwrócił od swojej drogi, a żył. Zawróćcie, zawróćcie ze swoich złych dróg! Dlaczego macie umrzeć, domu izraelski?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Izajasz mówi, że Bóg „jest hojny w odpuszczaniu”. **Gdzie w historii Manassesa widać tę hojność najwyraźniej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "U Ezechiela Bóg przysięga na samego siebie, że nie ma upodobania w śmierci bezbożnego. **Co by się zmieniło w naszym patrzeniu na ludzi, których uważamy za straconych, gdybyśmy naprawdę w to uwierzyli?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Szukajcie Pana, dopóki można Go znaleźć”. **Co w tym zdaniu jest zaproszeniem, a co ostrzeżeniem?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie według win",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 103,8-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Miłosierny i łaskawy jest Pan, Cierpliwy i pełen dobroci. Nie prawuje się ustawicznie, Nie gniewa się na wieki. Nie postępuje z nami według grzechów naszych Ani nie odpłaca nam według win naszych. Lecz jak wysoko jest niebo nad ziemią, Tak wielka jest dobroć jego dla tych, którzy się go boją. Jak daleko jest wschód od zachodu, Tak oddalił od nas występki nasze."
+       ]
+      },
+      {
+       "odnosnik": "Rz 5,20",
+       "przeklad": "BW",
+       "akapity": [
+        "A zakon wkroczył, aby się upadki pomnożyły; gdzie zaś grzech się rozmnożył, tam łaska bardziej obfitowała,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co znaczy dla kogoś takiego jak Manasses, że Bóg „nie odpłaca nam według win naszych”?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł pisze, że gdzie rozmnożył się grzech, tam łaska „bardziej obfitowała”. **Dla kogo takie zdanie brzmi jak niesprawiedliwość i dlaczego?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**O kim myślimy, że przekroczył granicę łaski? Skąd się bierze to przekonanie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co w historii Manassesa daje ci nadzieję, a co cię uwiera?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **czy jest w twoim życiu coś, o czym myślisz, że Bóg nie może tego przyjąć?** Nie musisz mówić co.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy byłoby nam łatwiej, gdyby Manasses nie został przyjęty? Gdzie sami stawiamy granicę łaski i co by się stało, gdyby Bóg postawił ją w tym samym miejscu dla nas?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie rozstrzyga tego pytania. Warto, żeby padło spostrzeżenie, że przebaczenie Manassesa nie unieważnia krzywdy jego ofiar. Biblia pamięta o niewinnej krwi tak samo uparcie, jak o jego modlitwie.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Granica łaski nie leży tam, gdzie ją stawiamy. Bóg dał się uprosić nawet najgorszemu królowi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** 2Krn 33,13 albo Iz 55,7.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o człowieku, którego w duchu skreśliłeś. Zapytaj siebie, **czego byś się bał, gdyby Bóg przyjął także jego**. Zostań przy tej odpowiedzi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Manasses zaczął od tego, że się ukorzył. Przyznaj przed Bogiem **rzecz, którą najtrudniej ci nazwać po imieniu**. Nie przy ludziach, tylko przed Nim.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Pomyśl o skutkach, które twoje dawne decyzje zostawiły w innych ludziach. Zapytaj Boga, **co możesz jeszcze naprawić, a co musisz Mu oddać**, bo naprawić się już nie da.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś reaguje mocno na wzmiankę o ofiarach z dzieci.** Zatrzymaj się i nie czytaj dalej na siłę. Ktoś może łączyć ten tekst ze stratą dziecka, z aborcją albo z krzywdą z dzieciństwa. Sam nie rób takich połączeń i nie moralizuj. Jeśli ktoś zacznie mówić, wysłuchaj i zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To niesprawiedliwe wobec jego ofiar.”** Zgódź się, że to boli. Biblia nie ukrywa niewinnej krwi i wraca do niej kilka razy, także po nawróceniu Manassesa. Przebaczenie Boga nie znaczy, że krzywda była nieważna. Nie próbuj tego napięcia rozwiązać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o człowieku, który go skrzywdził, a potem „się nawrócił”.** Nie każ tej osobie się cieszyć ani przebaczać. To, że Bóg przyjmuje sprawcę, nie zobowiązuje ofiary do udawania, że nic się nie stało, ani do powrotu do niebezpiecznej relacji. Przy przemocy w rodzinie nie zostawaj z tym sam i pomóż znaleźć pomoc specjalistyczną. Jeśli grupa chce, wskaż materiał „Przebaczenie”.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli mogę żyć, jak chcę, i nawrócić się na końcu.”** Tekst tego nie mówi. Manasses stracił dziesięciolecia, jego syn poszedł za jego grzechem, a nie za jego nawróceniem, a skutki zostały w narodzie. Izajasz mówi „szukajcie Pana, dopóki można Go znaleźć”.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czy moje nieszczęście to też kara, żebym się nawrócił?”** Nie tłumacz nikomu jego cierpienia. Kronikarz pokazuje sens w dziejach jednego króla. Nie daje klucza do cudzego życia. Możesz powiedzieć, że Bóg słyszy wołanie z każdego miejsca, także z takiego, które nie jest niczyją karą.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Spór o to, która księga ma rację.** Odeślij go do poziomu 3. Obie księgi należą do Pisma i każda mówi coś, czego druga nie mówi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 4. Bloki 1, 2, 3 i 5 niosą spotkanie: najgorszy król, modlitwa w łańcuchach, sprzątanie po sobie i Bóg hojny w odpuszczaniu.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś reaguje mocno na wzmiankę o ofiarach z dzieci.",
+     "odpowiedz": "Zatrzymaj się i nie czytaj dalej na siłę. Ktoś może łączyć ten tekst ze stratą dziecka, z aborcją albo z krzywdą z dzieciństwa. Sam nie rób takich połączeń i nie moralizuj. Jeśli ktoś zacznie mówić, wysłuchaj i zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "„To niesprawiedliwe wobec jego ofiar.”",
+     "odpowiedz": "Zgódź się, że to boli. Biblia nie ukrywa niewinnej krwi i wraca do niej kilka razy, także po nawróceniu Manassesa. Przebaczenie Boga nie znaczy, że krzywda była nieważna. Nie próbuj tego napięcia rozwiązać."
+    },
+    {
+     "sytuacja": "Ktoś mówi o człowieku, który go skrzywdził, a potem „się nawrócił”.",
+     "odpowiedz": "Nie każ tej osobie się cieszyć ani przebaczać. To, że Bóg przyjmuje sprawcę, nie zobowiązuje ofiary do udawania, że nic się nie stało, ani do powrotu do niebezpiecznej relacji. Przy przemocy w rodzinie nie zostawaj z tym sam i pomóż znaleźć pomoc specjalistyczną. Jeśli grupa chce, wskaż materiał „Przebaczenie”."
+    },
+    {
+     "sytuacja": "„Czyli mogę żyć, jak chcę, i nawrócić się na końcu.”",
+     "odpowiedz": "Tekst tego nie mówi. Manasses stracił dziesięciolecia, jego syn poszedł za jego grzechem, a nie za jego nawróceniem, a skutki zostały w narodzie. Izajasz mówi „szukajcie Pana, dopóki można Go znaleźć”."
+    },
+    {
+     "sytuacja": "„Czy moje nieszczęście to też kara, żebym się nawrócił?”",
+     "odpowiedz": "Nie tłumacz nikomu jego cierpienia. Kronikarz pokazuje sens w dziejach jednego króla. Nie daje klucza do cudzego życia. Możesz powiedzieć, że Bóg słyszy wołanie z każdego miejsca, także z takiego, które nie jest niczyją karą."
+    },
+    {
+     "sytuacja": "Spór o to, która księga ma rację.",
+     "odpowiedz": "Odeślij go do poziomu 3. Obie księgi należą do Pisma i każda mówi coś, czego druga nie mówi."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 4. Bloki 1, 2, 3 i 5 niosą spotkanie: najgorszy król, modlitwa w łańcuchach, sprzątanie po sobie i Bóg hojny w odpuszczaniu."
+    }
+   ]
+  }
+ ]
+}

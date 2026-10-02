@@ -1,0 +1,724 @@
+{
+ "tytul": "Dzień Pojednania",
+ "id": "SW-07",
+ "seria": "Świątynia",
+ "opis": "Raz w roku arcykapłan wchodził za zasłonę, a lud słyszał, że jest czysty. Co ten dzień mówi o sądzie Boga.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Kpł 16,2-5; Kpł 16,7-10.15-16; Kpł 16,20-22.29-31; Hbr 9,6-14; Hbr 9,24-28",
+  "p2": "Kpł 23,27-32; Mi 7,18-19; Ps 103,12; Za 3,1-5",
+  "p3": "Kpł 16,8.10"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 24,
+  "p3": 28
+ },
+ "tagi": [
+  "świątynia",
+  "przybytek",
+  "Dzień Pojednania",
+  "sąd",
+  "oczyszczenie",
+  "arcykapłan",
+  "nadzieja",
+  "Księga Kapłańska",
+  "List do Hebrajczyków"
+ ],
+ "wersja": 1,
+ "zdanie": "Dzień Pojednania nie był dniem szukania winnych. Był dniem, w którym Bóg ogłaszał swój lud czystym.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o najuroczystszym dniu roku w Izraelu. Raz w roku arcykapłan wchodził za drugą zasłonę, do Miejsca Najświętszego, z krwią ofiary. Potem wyprowadzano na pustynię kozła, na którego złożono wszystkie grzechy ludu. Na koniec lud słyszał, że jest „oczyszczony przed Panem”. To był dzień powagi i zarazem dzień ulgi. List do Hebrajczyków widzi w nim obraz tego, co robi Chrystus. Wszedł do nieba „za nami” i przyjdzie drugi raz „ku zbawieniu tym, którzy go oczekują”. Adwentyści czytają Dzień Pojednania jako obraz Bożego sądu, który dla ludzi ufających Bogu jest dobrą nowiną.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Słowo „sąd” u wielu osób budzi lęk, czasem wyniesiony z domu albo ze zboru. Nie strasz i nie bagatelizuj. Pozwól mówić tekstom, zwłaszcza Kpł 16,30 i Hbr 9,28.",
+      "Ktoś może chcieć rozmawiać o datach i proroctwach. To temat na inne spotkanie. Dziś czytamy obraz, nie kalendarz.",
+      "Łatwo powiedzieć, że ofiary Izraela były prymitywne, a dopiero Chrystus przyniósł coś sensownego. List do Hebrajczyków tak nie mówi. Porównuje dobre z lepszym.",
+      "Przy stole może siedzieć ktoś, kto zna żydowski Jom Kipur z życia albo z rodziny. Mów o tej tradycji z szacunkiem."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie wykładaj dat ani schematów proroczych. Nie rozstrzygaj sporu o Azazela na poziomie podstawowym. Nie używaj tego spotkania do sprawdzania, kto jest „gotowy na sąd”.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie chwilę, w której czekałeś na wynik czegoś ważnego, egzaminu, badania, rozmowy. Powiedz jednym słowem, co czułeś, kiedy wreszcie usłyszałeś odpowiedź.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Raz w roku za zasłonę",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Rozdział zaczyna się od przypomnienia, że dwaj synowie Aarona zginęli, gdy zbliżyli się do Pana na własną rękę. Zaraz potem Bóg mówi, jak można do Niego przystąpić.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kpł 16,2-5",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Pan do Mojżesza: Powiedz Aaronowi, bratu swemu, żeby nie wchodził o każdym czasie do miejsca świętego poza zasłonę przed wieko, które jest na Skrzyni, aby nie umarł, gdyż ukażę się nad wiekiem w obłoku. Oto jak będzie Aaron wchodził do świątyni: z młodym cielcem na ofiarę za grzech i z baranem na ofiarę całopalną. Ubierze świętą lnianą tunikę i na ciele swoim będzie miał lniane spodnie, opasze się lnianym pasem, nawinie sobie lniany zawój. Są to szaty święte; obmyje najpierw swoje ciało wodą, a potem je wdzieje. Od zboru synów izraelskich weźmie dwa kozły na ofiarę za grzech i jednego barana na ofiarę całopalną."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W wersecie 2 Bóg mówi „aby nie umarł” i w tym samym zdaniu „ukażę się nad wiekiem w obłoku”. **Co w tym zdaniu jest ostrzeżeniem, a co darem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przy zwykłej służbie arcykapłan nosił szaty ze złotem i drogimi kamieniami. Do obrzędu za zasłoną wkłada proste lniane szaty. **Dlaczego najważniejszy dzień roku zaczyna się od stroju skromniejszego niż na co dzień?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Najpierw cielec za samego Aarona, dopiero potem kozły od ludu. **Co to mówi o człowieku, który staje przed Bogiem w imieniu innych?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Dzień Pojednania przypadał dziesiątego dnia siódmego miesiąca, jesienią. Tylko tego dnia arcykapłan wchodził do Miejsca Najświętszego, gdzie stała skrzynia przymierza z prawem w środku i złotym wiekiem na wierzchu. Przez cały rok ludzie przynosili ofiary za grzech na dziedziniec. Ten jeden dzień domykał cały rok. Hebrajska nazwa `jom hakippurim` stoi w liczbie mnogiej. Dosłownie to „dzień przebłagań”, jakby zbierał w sobie wszystko, co działo się wcześniej.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Dwa kozły",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kpł 16,7-10.15-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem weźmie owe dwa kozły i postawi je przed Panem u wejścia do Namiotu Zgromadzenia. Następnie Aaron rzuci losy o te dwa kozły: jeden los dla Pana, a drugi los dla Azazela. Potem przyprowadzi Aaron tego kozła, na którego padł los dla Pana, i złoży go na ofiarę za grzech, kozła zaś, na którego padł los dla Azazela, postawi żywego przed Panem, by nim dokonać przebłagania, a potem wypędzić go do Azazela na pustynię. [...]",
+        "Następnie zarżnie kozła na ofiarę za grzech ludu i wniesie jego krew poza zasłonę, i uczyni z jego krwią podobnie, jak uczynił z krwią cielca: pokropi nią ponad wiekiem i przed wiekiem. Tak dokona przebłagania za świątynię z powodu nieczystości synów izraelskich i ich przestępstw spowodowanych wszystkimi ich grzechami. Tak samo też uczyni z Namiotem Zgromadzenia, który jest u nich wśród ich nieczystości."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Oba kozły stoją razem „przed Panem”, a los rozdziela ich drogi. **Co tekst mówi o jednym, a co o drugim?** Zbierzcie tylko to, co stoi w wersetach.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 16 mówi o przebłaganiu „za świątynię z powodu nieczystości synów izraelskich”. **Dlaczego oczyszczenia potrzebuje świątynia, skoro grzeszyli ludzie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Namiot stoi „u nich wśród ich nieczystości”. **Co to mówi o Bogu, który postanowił zamieszkać właśnie tam?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Przez cały rok, przy każdej ofierze za grzech, wina człowieka trafiała do przybytku. Bóg jakby brał ją do swojego domu. Raz w roku ten dom był oczyszczany, a wszystko, co się w nim nagromadziło, zostawało usunięte. Dzień Pojednania nie powtarzał więc ofiar z całego roku. Domykał je. Bóg pokazywał, że to, co przyjął od ludzi, potrafi też ostatecznie usunąć.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dzień całego ludu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kpł 23,27-32",
+       "przeklad": "BW",
+       "akapity": [
+        "Dziesiątego dnia jednak tego samego siódmego miesiąca będzie dzień pojednania. Będzie to dla was święte zgromadzenie. Ukorzycie się i złożycie Panu ofiary ogniowe. Żadnej pracy w tym dniu wykonywać nie będziecie, gdyż jest to dzień pojednania, aby pojednać się z Panem, Bogiem waszym. Każdy zaś, kto się nie ukorzy w tym dniu, będzie wytracony ze swojego ludu. Każdego, kto w tym dniu wykonywać będzie jakąkolwiek pracę, wytępię spośród jego ludu. Żadnej pracy wykonywać nie będziecie; jest to wieczna ustawa dla waszych pokoleń we wszystkich siedzibach waszych. Jest to sabat, dzień całkowitego odpoczynku. Ukórzcie się więc. Dziewiątego dnia tego miesiąca wieczorem, od wieczora do wieczora obchodzić będziecie wasz sabat."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Arcykapłan pracuje za zasłoną, a lud w tym czasie ma się ukorzyć i nie pracować. **Dlaczego Bóg nie pozwala ludziom tego dnia nic „dokładać” od siebie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Prawo mówi bardzo ostro o kimś, kto się nie ukorzy. **Co mogłoby się stać z ludźmi, gdyby oczyszczenie przychodziło do nich bez żadnej skruchy?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Sam obraz kozła wynoszącego winę mógłby sugerować, że oczyszczenie jest łatwe i dzieje się samo. Dlatego obok niego stoi polecenie, żeby się ukorzyć. Tylko szabat cotygodniowy i ten jeden dzień w roku miały całkowity zakaz pracy. Dzień Pojednania nazwano „szabatem całkowitego odpoczynku”, jakby największe oczyszczenie roku było też jego najgłębszym odpoczynkiem.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Od wszystkich waszych grzechów",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kpł 16,20-22.29-31",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy skończy obrzęd przebłagania za świątynię, za Namiot Zgromadzenia oraz ołtarz, przyprowadzi kozła żywego. I położy Aaron obie swoje ręce na głowie kozła żywego, i wyzna nad nim wszystkie przewinienia synów izraelskich i wszystkie ich przestępstwa, którymi zgrzeszyli, i złoży je na głowę kozła, i wypędzi go przez wyznaczonego męża na pustynię. Tak poniesie na sobie ten kozioł wszystkie ich przewinienia do ziemi pustynnej; a tamten wypuści tego kozła na pustynię. [...]",
+        "A to będzie dla was wieczną ustawą: W miesiącu siódmym dziesiątego dnia tegoż miesiąca ukorzycie się i nie będziecie wykonywać żadnej pracy, zarówno tubylec jak i obcy przybysz, który osiadł wśród was. W tym dniu bowiem zostanie dokonane przebłaganie za was, aby was oczyścić. Od wszystkich waszych grzechów będziecie oczyszczeni przed Panem. Jest to dla was sabat, dzień całkowitego odpoczynku. Ukorzycie się w waszych duszach. Ustawa to wieczna."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Aaron kładzie obie ręce na głowie żywego kozła i wyznaje „wszystkie przewinienia”. Potem kozła wyprowadzają na pustynię. **Co widział lud stojący przed namiotem? Co mógł poczuć, kiedy kozioł znikał za obozem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 30 mówi: „Od wszystkich waszych grzechów będziecie oczyszczeni przed Panem”. **Czy ten dzień brzmi bardziej jak wyrok, czy jak ulga? Co w tekście za tym przemawia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Prawo obejmuje tego dnia także „obcego przybysza, który osiadł wśród was”. **Co to mówi o tym, dla kogo jest Boże oczyszczenie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Wszystko, co działo się w Miejscu Najświętszym, było dla ludu niewidoczne. Kozła wyprowadzanego na pustynię widzieli wszyscy. Była to jedyna część tego dnia, która mówiła do oczu. Hebrajskie słowo przetłumaczone jako „poniesie” oznacza tu przeniesienie z miejsca na miejsce. Grzechy, które przez rok gromadziły się w świątyni, odchodziły poza obóz, na pustynię, i już nie wracały.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "W głębiny morskie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mi 7,18-19",
+       "przeklad": "BW",
+       "akapity": [
+        "Któż jest, Boże, jak Ty, który przebaczasz winę, odpuszczasz przestępstwo resztce swojego dziedzictwa, który nie chowasz na wieki gniewu, lecz masz upodobanie w łasce? Znowu zmiłuje się nad nami, zmyje nasze winy, wrzuci do głębin morskich wszystkie nasze grzechy."
+       ]
+      },
+      {
+       "odnosnik": "Ps 103,12",
+       "przeklad": "BW",
+       "akapity": [
+        "Jak daleko jest wschód od zachodu, Tak oddalił od nas występki nasze."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Prorok i psalmista mówią o grzechu, który zostaje wyniesiony daleko, na dno morza, na drugi koniec świata. **Co łączy te obrazy z kozłem odchodzącym na pustynię?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Micheasz zaczyna od pytania „Któż jest, Boże, jak Ty”. **Co w Bożym przebaczeniu tak go zdumiewa?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: kim jest Azazel",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kpł 16,8.10",
+       "przeklad": "BW",
+       "akapity": [
+        "Następnie Aaron rzuci losy o te dwa kozły: jeden los dla Pana, a drugi los dla Azazela. [...] kozła zaś, na którego padł los dla Azazela, postawi żywego przed Panem, by nim dokonać przebłagania, a potem wypędzić go do Azazela na pustynię."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Biblia Warszawska zostawia słowo „Azazel” bez tłumaczenia, bo nikt nie wie na pewno, co znaczy. Wykładający czytają je na kilka sposobów. Jedni widzą w nim nazwę miejsca na pustyni albo opis samego kozła, który odchodzi. Pisarze chrześcijańscy z drugiego wieku odnosili oba kozły do Chrystusa, a wielu chrześcijan widzi w kozle odchodzącym obraz Jezusa, który zabiera grzech.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Adwentyści czytają ten tekst inaczej. Zdanie „jeden los dla Pana, a drugi dla Azazela” stawia obok siebie dwie osoby, dlatego widzą w Azazelu istotę przeciwną Bogu, czyli szatana. Kozioł dla Azazela nie jest ofiarą. Stoi żywy, jego krwi się nie przelewa i nie wnosi do świątyni. Nie jest więc drugim obrazem Zbawiciela. Pokazuje, że na końcu odpowiedzialność za zło wraca do jego sprawcy, a Bóg okazuje się czysty wobec całego świata.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Wszystkie odczytania łączy jedno. Przebłaganie dokonuje się krwią kozła dla Pana, a grzech raz wyniesiony już nie wraca. Adwentyści łączą ten obraz także z proroctwami Daniela.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia dla ciebie myśl, że Bóg nie tylko przebacza grzech, ale też odsyła odpowiedzialność za zło do jego sprawcy?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które z tych odczytań jest dla ciebie trudne i dlaczego? Co mimo różnic zostaje wspólne?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Raz na zawsze",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 9,6-14",
+       "przeklad": "BW",
+       "akapity": [
+        "A skoro tak te rzeczy zostały urządzone, kapłani sprawujący służbę Bożą wchodzą stale do pierwszej części przybytku, do drugiej zaś raz w roku sam tylko arcykapłan, i to nie bez krwi, którą ofiaruje za siebie samego i za uchybienia ludu. Przez to Duch Święty wskazuje wyraźnie, że droga do świątyni nie została jeszcze objawiona, dopóki stoi pierwszy przybytek; ma to znaczenie obrazowe, odnoszące się do teraźniejszego czasu, kiedy to składane bywają dary i ofiary, które nie mogą doprowadzić do wewnętrznej doskonałości tego, kto pełni służbę Bożą; są to tylko przepisy zewnętrzne, dotyczące pokarmów i napojów, i różnych obmywań, nałożone do czasu zaprowadzenia nowego porządku.",
+        "Lecz Chrystus, który się zjawił jako arcykapłan dóbr przyszłych, wszedł przez większy i doskonalszy przybytek, nie ręką zbudowany, to jest nie z tego stworzonego świata pochodzący, wszedł raz na zawsze do świątyni nie z krwią kozłów i cielców, ale z własną krwią swoją, dokonawszy wiecznego odkupienia. Bo jeśli krew kozłów i wołów oraz popiół z jałowicy przez pokropienie uświęcają skalanych i przywracają cielesną czystość, o ileż bardziej krew Chrystusa, który przez Ducha wiecznego ofiarował samego siebie bez skazy Bogu, oczyści sumienie nasze od martwych uczynków, abyśmy mogli służyć Bogu żywemu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Do Miejsca Najświętszego wchodził „raz w roku sam tylko arcykapłan”. **Co według wersetu 8 to ograniczenie miało powiedzieć ludziom?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Chrystus wszedł „z własną krwią swoją” i „raz na zawsze”. **Co ta różnica zmienia dla kogoś, kto wraca do Boga z tym samym grzechem po raz kolejny?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Werset 14 mówi o sumieniu oczyszczonym „od martwych uczynków, abyśmy mogli służyć Bogu żywemu”. **Jak może wyglądać służba człowieka, którego sumienie przestało go oskarżać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Słowo „sumienie” znaczy w tym liście coś więcej niż wewnętrzny sędzia. Chodzi o ciągłe pamiętanie grzechów. Izrael przeżywał je od nowa co roku, gdy wracał Dzień Pojednania. Autor listu nie mówi, że dawne ofiary były bezwartościowe. Mówi o dobrym i o lepszym. Krew Chrystusa oczyszcza samo to pamiętanie, więc człowiek może służyć Bogu bez ciężaru, który wraca co roku.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajski czasownik `kipper`, „dokonać przebłagania”, jest najpewniej spokrewniony z rzeczownikiem `koper`, czyli „okup”. W Księdze Wyjścia oba słowa stoją razem w zwrocie o okupie za życie. Przebłaganie nie polega więc na udawaniu, że grzechu nie było. Bóg daje okup za życie, które było zagrożone. Od tego samego rdzenia pochodzi `kapporet`, złote wieko skrzyni, i nazwa całego dnia, `jom hakippurim`.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia myśl, że przebłaganie to okup za twoje życie, który daje sam Bóg?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Za nami i drugi raz",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 9,24-28",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem Chrystus nie wszedł do świątyni zbudowanej rękami, która jest odbiciem prawdziwej, ale do samego nieba, aby się wstawiać teraz za nami przed obliczem Boga; i nie dlatego, żeby wielekroć ofiarować samego siebie, podobnie jak arcykapłan wchodzi do świątyni co roku z cudzą krwią, gdyż w takim razie musiałby cierpieć wiele razy od początku świata; ale obecnie objawił się On jeden raz u schyłku wieków dla zgładzenia grzechu przez ofiarowanie samego siebie. A jak postanowione jest ludziom raz umrzeć, a potem sąd, tak i Chrystus, raz ofiarowany, aby zgładzić grzechy wielu, drugi raz ukaże się nie z powodu grzechu, lecz ku zbawieniu tym, którzy go oczekują."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 24 mówi, że Chrystus wszedł do nieba, „aby się wstawiać teraz za nami przed obliczem Boga”. **Co to „teraz” znaczy dla ciebie w tym tygodniu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Lud w Dniu Pojednania stał przed przybytkiem i czekał, aż arcykapłan wyjdzie. Werset 28 mówi, że Chrystus „drugi raz ukaże się [...] ku zbawieniu tym, którzy go oczekują”. **Jak wygląda czekanie na kogoś, kto przychodzi ratować?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Słowo „sąd” w wersecie 27 stoi tuż obok zdania o ofierze. **Co sąd znaczy dla człowieka, za którego Chrystus już się wstawia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W Dniu Pojednania arcykapłan był w środku, niewidoczny, a lud czekał na zewnątrz. Kiedy wychodził, było wiadomo, że przebłaganie zostało przyjęte. Wielu wykładających widzi tę scenę w tle wersetu 28. Adwentyści czytają cały Dzień Pojednania jako obraz Bożego sądu, w którym Chrystus staje po stronie swoich ludzi. Taki sąd nie szuka powodu, żeby kogoś odrzucić. Ogłasza przed całym światem, że ci, którzy ufają Bogu, są oczyszczeni.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Brudna szata zdjęta",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Prorok widzi w wizji arcykapłana Jozuego, który stoi przed aniołem Pana, a obok niego oskarżyciel.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Za 3,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem ukazał mi Jozuego, arcykapłana, stojącego przed aniołem Pana i szatana stojącego po jego prawicy, aby go oskarżać. Wtedy anioł Pana rzekł do szatana: Niech cię zgromi Pan, szatanie, niech cię zgromi Pan, który obrał Jeruzalem! Czyż nie jest ono głownią wyrwaną z ognia? A Jozue był ubrany w szatę brudną i tak stał przed aniołem. A ten tak odezwał się i rzekł do sług, którzy stali przed nim: Zdejmijcie z niego brudną szatę! Do niego zaś rzekł: Oto ja zdjąłem z ciebie twoją winę i każę cię przyoblec w szaty odświętne. Potem rzekł: Włóżcie mu na głowę czysty zawój! I włożyli mu na głowę czysty zawój, i przyoblekli go w szaty. A anioł Pana stał przy tym."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To scena sądu, a jednak zgromiony zostaje oskarżyciel, nie oskarżony. **Na czym opiera się uniewinnienie Jozuego, skoro jego szata naprawdę była brudna?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jozue nic w tej scenie nie mówi. **Co robi za niego Bóg? Co z tego możesz zabrać do własnej modlitwy?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Wizja ma wiele szczegółów Dnia Pojednania. Arcykapłan stoi przed Bogiem w imieniu ludu, wina zostaje z niego zdjęta, zmienia szaty. Kilka wersetów dalej Bóg zapowiada, że usunie winę kraju w jednym dniu. Jozue nie zostaje uniewinniony dlatego, że był czysty. Bóg wybrał Jeruzalem i wyrywa je z ognia.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co czujesz, kiedy słyszysz słowo „sąd”? Skąd to się w tobie wzięło i czy dzisiejsze teksty coś w tym poruszyły?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Który obraz z dzisiejszych tekstów najmocniej zostaje ci w pamięci: arcykapłan w lnianej szacie, kozioł odchodzący na pustynię czy Chrystus „za nami” w niebie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **co chciałbyś usłyszeć od Boga tak wyraźnie, jak Izraelici słyszeli „będziecie oczyszczeni”?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Skoro ofiara Chrystusa była „raz na zawsze”, po co jeszcze obraz sądu? Czy Bóg potrzebuje sądu dla siebie, dla nas, czy dla wszystkich, którzy patrzą?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie rozstrzyga. Warto, żeby padło spostrzeżenie, że sąd w Biblii służy też odsłonięciu prawdy. Bóg nie ma nic do ukrycia i pokazuje, że postąpił z grzechem uczciwie wobec każdego.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Dzień Pojednania nie był dniem szukania winnych. Był dniem, w którym Bóg ogłaszał swój lud czystym.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** Kpł 16,30 albo Hbr 9,28.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o grzechu, który wraca do ciebie w pamięci, choć dawno go wyznałeś. Wyobraź sobie kozła, który odchodzi za obóz i nie wraca. **Powiedz Bogu, co chcesz, żeby wreszcie odeszło.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zapytaj siebie uczciwie, **czy na Boży sąd bardziej czekasz, czy się go boisz.** Nie poprawiaj odpowiedzi. Zostań z nią przed Bogiem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Przypomnij sobie kogoś, komu ciągle wypominasz dawną winę. Zapytaj Boga, czy nie czas przestać jej wypominać i pozwolić jej odejść.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś pyta o daty albo o wyliczanie proroctw.** Nie wchodź dziś w daty. Powiedz, że adwentyści łączą ten obraz z proroctwami Daniela i że to temat na osobne spotkanie, na przykład z materiałem „Jak długo?”. Wróć do pytania, co Dzień Pojednania mówi o Bogu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Boję się sądu. Nie wiem, czy zdam.”** Nie zbywaj tego i nie strasz. Przeczytaj jeszcze raz Kpł 16,30 i Za 3,4. W obu tekstach to Bóg oczyszcza i zdejmuje winę. Jeśli lęk jest głęboki, porozmawiaj z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Przecież kozioł dla Azazela to Chrystus.”** Nie spieraj się. Powiedz, że w Kościele są różne odczytania i że materiał pokazuje je na poziomie 3. Wszystkie zgadzają się, że oczyszcza krew kozła dla Pana, a grzech raz wyniesiony nie wraca.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli ofiary Izraela nie miały sensu?”** Miały. List do Hebrajczyków porównuje dobre z lepszym. Bóg naprawdę przebaczał ludziom, którzy przychodzili z ofiarą. Te obrazy przygotowały ich na Chrystusa.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś pyta o synów Aarona z Kpł 16,1.** Powiedz krótko, że Kpł 10 opisuje ich wejście do świątyni z obcym ogniem, na własną rękę. Nie rozwijaj tematu kary. Kpł 16 odpowiada na pytanie, jak można bezpiecznie przystąpić do świętego Boga.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 2. Bloki 1, 3 i 5 niosą spotkanie: wejście za zasłonę, ogłoszenie „będziecie oczyszczeni” i Chrystus, który wstawia się teraz i przyjdzie drugi raz.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś pyta o daty albo o wyliczanie proroctw.",
+     "odpowiedz": "Nie wchodź dziś w daty. Powiedz, że adwentyści łączą ten obraz z proroctwami Daniela i że to temat na osobne spotkanie, na przykład z materiałem „Jak długo?”. Wróć do pytania, co Dzień Pojednania mówi o Bogu."
+    },
+    {
+     "sytuacja": "„Boję się sądu. Nie wiem, czy zdam.”",
+     "odpowiedz": "Nie zbywaj tego i nie strasz. Przeczytaj jeszcze raz Kpł 16,30 i Za 3,4. W obu tekstach to Bóg oczyszcza i zdejmuje winę. Jeśli lęk jest głęboki, porozmawiaj z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "„Przecież kozioł dla Azazela to Chrystus.”",
+     "odpowiedz": "Nie spieraj się. Powiedz, że w Kościele są różne odczytania i że materiał pokazuje je na poziomie 3. Wszystkie zgadzają się, że oczyszcza krew kozła dla Pana, a grzech raz wyniesiony nie wraca."
+    },
+    {
+     "sytuacja": "„Czyli ofiary Izraela nie miały sensu?”",
+     "odpowiedz": "Miały. List do Hebrajczyków porównuje dobre z lepszym. Bóg naprawdę przebaczał ludziom, którzy przychodzili z ofiarą. Te obrazy przygotowały ich na Chrystusa."
+    },
+    {
+     "sytuacja": "Ktoś pyta o synów Aarona z Kpł 16,1.",
+     "odpowiedz": "Powiedz krótko, że Kpł 10 opisuje ich wejście do świątyni z obcym ogniem, na własną rękę. Nie rozwijaj tematu kary. Kpł 16 odpowiada na pytanie, jak można bezpiecznie przystąpić do świętego Boga."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 2. Bloki 1, 3 i 5 niosą spotkanie: wejście za zasłonę, ogłoszenie „będziecie oczyszczeni” i Chrystus, który wstawia się teraz i przyjdzie drugi raz."
+    }
+   ]
+  }
+ ]
+}

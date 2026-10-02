@@ -1,0 +1,775 @@
+{
+ "tytul": "Mądrość, o którą wolno prosić",
+ "id": "W-02",
+ "seria": "Decyzje i wola Boża",
+ "opis": "Salomon prosi o serce, które słucha, a Bóg obiecuje mądrość każdemu, kto o nią prosi.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "1Krl 3,4-9; 1Krl 3,10-14; Prz 2,1-11; Jk 1,2-8; Kol 1,9-12",
+  "p2": "1Krl 3,16.22-28; Prz 1,20-23; Jk 3,13.17-18; Est 4,13-16",
+  "p3": "1Krl 3,3; 11,4; Wj 31,2-3; Hbr 5,14"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 25,
+  "p3": 29
+ },
+ "tagi": [
+  "decyzje",
+  "wola Boża",
+  "mądrość",
+  "modlitwa",
+  "Salomon",
+  "Przysłowia"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg nie zawsze daje gotową odpowiedź. Zawsze daje mądrość temu, kto o nią prosi, i nie wypomina, że prosimy znowu.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przed ważną decyzją wielu z nas prosi Boga o wskazówkę, czyli o gotową odpowiedź. Biblia częściej zachęca do innej prośby. Młody Salomon nie prosi o rozstrzygnięcie jednej sprawy. Prosi o serce, które umie słuchać i rozróżniać. Jakub obiecuje, że o taką mądrość wolno prosić zawsze i że Bóg daje ją hojnie. To spotkanie jest o tej obietnicy i o tym, jak mądrość przychodzi. Przychodzi przez modlitwę, przez Słowo, przez ludzi i przez życie, które ćwiczy rozeznanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Rozum jest darem i trzeba go używać do końca. Ma jednak granice, i to w samym środku życia. Większość tego, co wiemy, mamy z drugiej ręki, rozum chętnie broni tego, czego już chcemy, a o przyszłości nie wiemy prawie nic. Mądrość z Biblii nie wyłącza myślenia. Daje mu oparcie większe niż ono samo.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokrewne materiały to „Czy Bóg gra ze mną w chowanego?” i „Głos, który można rozpoznać”.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole może mieć za sobą modlitwę o mądrość, po której wciąż nie wiedział, co zrobić. Nie mów mu, że prosił bez wiary.",
+      "Słowa Jakuba o człowieku, który wątpi, łatwo zamienić w oskarżenie. Jakub nie potępia pytań. Pilnuj, żeby nikt nie wyszedł z poczuciem, że jego wątpliwości odcinają go od Boga.",
+      "Historia Salomona kończy się źle. Ktoś może to podnieść. Zostaw to na poziom 3 albo powiedz krótko, że mądrość trzeba przyjmować codziennie.",
+      "Temat łatwo zsuwa się w porady na dobre decyzje. Wracaj do tekstu i do Boga, który daje."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie oceniaj, czyja decyzja była mądra, a czyja głupia. Nie stawiaj nikogo za wzór rozsądku. Nie obiecuj, że po modlitwie przyjdzie jasność od razu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o kimś, kogo uważasz za naprawdę mądrego człowieka. Nie mów, kto to jest. Powiedz jednym zdaniem, po czym poznajesz jego mądrość.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Proś, co ci mam dać",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Salomon jest na początku panowania. Pojechał do Gibeonu, gdzie przed budową świątyni stał najważniejszy ołtarz w kraju.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Krl 3,4-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Król udał się też do Gibeonu, aby tam złożyć ofiary, gdyż to było najprzedniejsze wzgórze ofiarne; na tym ołtarzu złożył Salomon tysiąc ofiar całopalnych. W Gibeonie ukazał się Pan Salomonowi nocą we śnie. I rzekł Bóg: Proś, co ci mam dać?",
+        "Salomon odrzekł: Ty okazałeś twemu słudze Dawidowi, mojemu ojcu, wielką łaskę, dlatego, że postępował przed tobą wiernie, sprawiedliwie i w prawości serca i zachowałeś dla niego tę wielką łaskę, że dałeś mu syna, który zasiadł na jego tronie jak to jest dzisiaj. Teraz tedy Panie, Boże mój, Ty ustanowiłeś królem twego sługę w miejsce Dawida, mojego ojca, ja zaś jestem jeszcze bardzo młody i nie wiem, jak należy postępować. A twój sługa jest pośród twojego ludu, który wybrałeś, ludu licznego, który trudno dokładnie zliczyć z powodu wielkiej jego ilości. Daj przeto twemu słudze serce rozumne, aby umiał sądzić twój lud, rozróżniać między dobrem i złem, inaczej bowiem któż potrafi sądzić ten twój ogromny lud?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg daje Salomonowi otwartą kartę. Zanim Salomon o cokolwiek poprosi, mówi o tym, co Bóg już zrobił. **Co ta kolejność mówi o jego modlitwie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Jestem jeszcze bardzo młody i nie wiem, jak należy postępować”. **Dlaczego przyznanie się do niewiedzy jest tu początkiem mądrości?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Salomon nie prosi o rozwiązanie jednej trudnej sprawy. Prosi o serce. **Czym różni się jedna prośba od drugiej przy decyzjach, które macie przed sobą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "„Serce rozumne” to po hebrajsku `lew szomea`, dosłownie „serce słuchające”. Serce oznaczało w Biblii przede wszystkim ośrodek myślenia i decyzji. Salomon prosi więc o umysł, który umie słuchać Boga i ludzi. Prosi też o umiejętność rozróżniania między dobrem i złem. Nie chce gotowej odpowiedzi na każdą sprawę. Chce stać się kimś, kto rozpozna dobrą odpowiedź, gdy przyjdzie czas.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Mądrość przy pracy",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Dwie kobiety mieszkające w jednym domu urodziły dzieci. Jedno niemowlę zmarło w nocy i każda twierdzi, że żywe dziecko jest jej.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Krl 3,16.22-28",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy przyszły do króla dwie kobiety nierządne i stanęły przed nim. [...] Wtedy odezwała się druga kobieta: Nieprawda! Bo moim synem jest ten żywy, a twoim ten umarły. Tamta zaś rzekła: Nieprawda! Twoim synem jest ten umarły, a moim ten żywy. I tak mówiły wobec króla. Wtedy król rzekł: Ta mówi: Moim synem jest ten żywy, a twoim synem ten umarły, tamta zaś mówi: Nieprawda! Bo twoim synem jest ten umarły, a moim synem ten żywy. I rzekł król: Podajcie mi miecz! Przyniesiono więc miecz przed króla. A król rzekł jeszcze: Rozetnijcie to żywe dziecię na dwoje i dajcie połowę jednej, a połowę drugiej.",
+        "Wtedy kobieta, której synem był ten żywy, odezwała się do króla – gdyż wezbrała w niej litość nad swoim synem – i zawołała: Proszę, panie mój, dajcie jej to dziecię żywe, tylko go nie zabijajcie! Tamta natomiast wołała: Niech nie będzie ani moje, ani twoje, rozetnijcie je! Wtedy król zabrał głos i rzekł: Dajcie tej to żywe dziecię i nie zabijajcie go! Ona jest bowiem jego matką. A gdy wszyscy Izraelici dowiedzieli się o tym wyroku, jaki wydał król, nabrali szacunku do króla, widzieli bowiem, że jest w nim mądrość Boża do wymierzania sprawiedliwości."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Salomon nie ma świadków ani dowodów. **Na co patrzy, żeby rozstrzygnąć sprawę?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Lud widzi w nim „mądrość Bożą”, choć Salomon po prostu myśli i słucha. **Co w tej scenie jest Bożym darem, a co pracą królewskiej głowy?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Więcej, niż prosił",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Krl 3,10-14",
+       "przeklad": "BW",
+       "akapity": [
+        "I podobało się to Panu, że Salomon prosił o taką rzecz. Toteż rzekł Bóg do niego: Dlatego że o taką rzecz prosiłeś, a nie prosiłeś dla siebie ani o długie życie, ani nie prosiłeś dla siebie o bogactwo, ani nie prosiłeś o śmierć dla twoich wrogów, lecz prosiłeś o rozum, aby umieć być posłusznym prawu, przeto uczynię zgodnie z twoim życzeniem: Oto daję ci serce mądre i rozumne, że takiego jak ty jeszcze nie było przed tobą i takiego jak ty również po tobie nie będzie.",
+        "Oprócz tego daję ci to, o co nie prosiłeś, a więc bogactwo, jako też sławę, tak iż takiego jak ty męża nie będzie między królami po wszystkie dni twoje. A jeżeli chodzić będziesz moimi drogami, przestrzegając moich ustaw i przykazań, jak chodził Dawid, twój ojciec, przedłużę twoje dni."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg wylicza, o co Salomon nie prosił. **Co te trzy rzeczy mogłyby dać młodemu królowi? Co mówi o Salomonie to, że poprosił o coś innego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "BW mówi, że Salomon prosił o rozum, „aby umieć być posłusznym prawu”. **Jak mądrość łączy się tu z posłuszeństwem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Werset 14 stawia warunek. **Co ten warunek mówi o mądrości, którą się raz dostało?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: najmądrzejszy, który odszedł",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Krl 3,3",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz Salomon miłował Pana, postępując zgodnie z postanowieniami Dawida, swojego ojca, tylko że składał też ofiary i spalał kadzidła na wzgórzach."
+       ]
+      },
+      {
+       "odnosnik": "1Krl 11,4",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy się zaś Salomon zestarzał, jego żony odwróciły jego serce do innych bogów, tak że jego serce nie było szczere wobec Pana, Boga jego, jak serce Dawida, jego ojca."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Młody Salomon miłuje Pana. Stary Salomon ma serce odwrócone od Niego. Tekst zaznacza, kiedy to się stało, czyli na starość, po latach wielkiego sukcesu. Najmądrzejszy król Izraela pokazuje, że mądrość nie działa jak szczepionka podana raz na całe życie. Jedni czytają to jako przestrogę przed pychą, która przychodzi po sukcesie. Inni widzą tu przede wszystkim drobne kompromisy z wersetu 3, które rosły latami. Obie lektury prowadzą do tego samego wniosku. Serce słuchające trzeba utrzymywać w słuchaniu.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak to możliwe, że ktoś, kto dostał mądrość od Boga, podejmuje coraz gorsze decyzje?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co w twoim życiu najłatwiej przestaje słuchać, gdy idzie dobrze?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Szukaj jak srebra",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 2,1-11",
+       "przeklad": "BW",
+       "akapity": [
+        "Synu mój! Jeżeli przyjmiesz moje słowa i zachowasz dla siebie moje wskazania, nadstawiając ucha na mądrość i zwracając serce do rozumu, jeżeli przywołasz rozsądek i donośnie wezwiesz roztropność, jeżeli szukać jej będziesz jak srebra i poszukiwać jej jak skarbów ukrytych, wtedy zrozumiesz bojaźń Pana i uzyskasz poznanie Boga; gdyż Bóg daje mądrość, z jego ust pochodzi poznanie i rozum.",
+        "On zachowuje swoją pomoc dla prawych, jest tarczą dla tych, którzy postępują nienagannie, strzegąc ścieżek prawa i czuwając nad drogą swoich wiernych. Wtedy zrozumiesz sprawiedliwość, prawo i prawość, każdą dobrą drogę. Gdyż mądrość wejdzie do twojego serca, a poznanie będzie miłe twojej duszy. Rozwaga czuwać będzie nad tobą, roztropność cię strzec,"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wersety 1-4 to same „jeżeli”, czyli praca człowieka. Werset 6 mówi, że „Bóg daje mądrość”. **Jak te dwie rzeczy łączą się ze sobą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Jak może dziś wyglądać szukanie mądrości „jak srebra”, w zwykłym tygodniu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Według wersetu 5 szukanie mądrości kończy się poznaniem Boga. **Dlaczego nie po prostu lepszymi decyzjami?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ten rozdział angażuje w szukanie mądrości całego człowieka. Łatwo z niego wyczytać trzy drogi. Przyjąć słowa i zachować wskazania to żyć blisko Pisma. Nadstawić ucha na mądrość to także słuchać mądrych ludzi. Wołanie o rozsądek i roztropność jest bardzo bliskie modlitwie. Nigdzie nie ma tu prośby o odsłonięcie przyszłości. Jest za to wołanie o zrozumienie. Szukanie mądrości okazuje się w gruncie rzeczy szukaniem Boga, bo to On jest jej źródłem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Mądrość na placu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 1,20-23",
+       "przeklad": "BW",
+       "akapity": [
+        "Mądrość woła głośno na ulicy, na placach podnosi swój głos, woła na rogu ulic pełnych wrzawy, wygłasza swoje mowy w bramach miasta: Jak długo wy, prostaczkowie, kochać się będziecie w prostactwie, a wy, szydercy, upodobanie mieć będziecie w szyderstwie, a wy, głupcy, nienawidzić będziecie poznania? Zwróćcie uwagę na moje ostrzeżenie! Oto chcę wam wyjawić moje myśli, obwieścić wam moje słowa."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mądrość woła na rogu ruchliwej ulicy i w bramach miasta, tam, gdzie toczy się zwykłe życie. **Co ten obraz mówi o tym, czy mądrość jest trudno dostępna? Kto w tej scenie się chowa?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Bez wypominania",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jk 1,2-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Poczytujcie to sobie za najwyższą radość, bracia moi, gdy rozmaite próby przechodzicie, wiedząc, że doświadczenie wiary waszej sprawia wytrwałość, wytrwałość zaś niech prowadzi do dzieła doskonałego, abyście byli doskonali i nienaganni, nie mający żadnych braków.",
+        "A jeśli komu z was brak mądrości, niech prosi Boga, który wszystkich obdarza chętnie i bez wypominania, a będzie mu dana. Ale niech prosi z wiarą, bez powątpiewania; kto bowiem wątpi, podobny jest do fali morskiej, przez wiatr tu i tam miotanej. Przeto niechaj nie mniema taki człowiek, że coś od Pana otrzyma, człowiek o rozdwojonej duszy, chwiejny w całym swoim postępowaniu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jakub mówi o prośbie o mądrość zaraz po słowach o próbach. **Czego najczęściej brakuje człowiekowi w środku próby? Informacji czy mądrości?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg daje „chętnie i bez wypominania”. **Co w nas podpowiada, że Bóg będzie nam wypominał, że znowu prosimy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jakub mówi o człowieku „o rozdwojonej duszy”. **Jak wygląda taka rozdwojona dusza przy podejmowaniu decyzji?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W wielu starożytnych kultach bóstwu składano dary, żeby zapewnić sobie jego przychylność. Bóg Jakuba daje bez haczyka i daje to, czego sam wymaga. Słowa o wątpiącym nie znaczą, że wierzący nie może mieć żadnych pytań. Jakub ostrzega przed człowiekiem o rozdwojonej duszy, który podważa uczciwość samego Boga albo próbuje iść dwiema drogami naraz. Kto przychodzi do Boga ze swoimi pytaniami, ten już Mu zaufał.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Mądrość z góry",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jk 3,13",
+       "przeklad": "BW",
+       "akapity": [
+        "Czy jest między wami ktoś mądry i rozumny? Niech to pokaże przez dobre postępowanie uczynkami swymi, nacechowanymi łagodnością i mądrością."
+       ]
+      },
+      {
+       "odnosnik": "Jk 3,17-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Ale mądrość, która jest z góry, jest przede wszystkim czysta, następnie miłująca pokój, łagodna, ustępliwa, pełna miłosierdzia i dobrych owoców, nie stronnicza, nie obłudna. A owoc sprawiedliwości bywa zasiewany w pokoju przez tych, którzy pokój czynią."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Po czym, według tej listy, poznać decyzję podjętą z mądrością z góry?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Która z tych cech znika najszybciej, gdy decydujemy pod presją albo w pośpiechu?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Pełne poznanie woli",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kol 1,9-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Dlatego i my od tego dnia, kiedy to usłyszeliśmy, nie przestajemy się za was modlić i prosić, abyście doszli do pełnego poznania woli jego we wszelkiej mądrości i duchowym zrozumieniu, abyście postępowali w sposób godny Pana ku zupełnemu jego upodobaniu, wydając owoc w każdym dobrym uczynku i wzrastając w poznawaniu Boga, utwierdzeni wszelką mocą według potęgi chwały jego ku wszelkiej cierpliwości i wytrwałości, z radością dziękując Ojcu, który was zdolnymi uczynił do uczestniczenia w dziedzictwie świętych w światłości,"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł modli się, żeby Kolosanie poznali wolę Bożą. **Do czego to poznanie ma według wersetu 10 prowadzić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wola Boża, mądrość i duchowe zrozumienie stoją tu obok siebie. **Jak można według tego wzoru modlić się za kogoś, kto stoi przed ważną decyzją?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Wśród owoców tego poznania są cierpliwość, wytrwałość i radość. **Dlaczego akurat one?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Pełne poznanie woli Bożej nie oznacza tu tajnych wiadomości o pracy czy przeprowadzce. Paweł wylicza owoc, wzrost, wytrwałość i wdzięczność. Mądrość przypomina naukę u dobrego mistrza. Można chcieć, żeby wybitny uczony napisał za nas pracę. Można też u niego studiować, aż nauczymy się pisać jak on. Bóg rzadko robi za nas pierwsze. Chętnie robi drugie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Kto wie",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Królowa Estera dowiaduje się, że jej naród ma zostać wymordowany. Wejście do króla bez wezwania grozi śmiercią.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Est 4,13-16",
+       "przeklad": "BW",
+       "akapity": [
+        "przekazał Mordochaj Esterze taką odpowiedź: Nie wyobrażaj sobie, że ty jedna spośród wszystkich Żydów ocalejesz dlatego, że jesteś w pałacu królewskim. Bo jeśli ty w takim czasie będziesz milczeć, ratunek i ocalenie dla Żydów przyjdą skądinąd, lecz ty i dom twego ojca zginiecie. Kto zaś wie, czy godności królewskiej nie osiągnęłaś właśnie na taki czas, jak obecny?",
+        "Wtedy Estera przekazała Mordochajowi taką odpowiedź: Idź i zbierz wszystkich Żydów, którzy się znajdują w Suzie, i pośćcie za mnie; przez trzy doby nocą i dniem nie jedzcie i nie pijcie; również ja i moje służebnice tak będziemy pościć, a potem udam się do króla, choć to jest wbrew prawu. Jeśli mam zginąć, to zginę!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W Księdze Estery Bóg nie odzywa się ani razu. **Na czym Estera opiera swoją decyzję?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mordochaj mówi „kto wie”. **Co to zdanie mówi o pewności, z jaką podejmuje się ważne decyzje?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajskie `chokma`, czyli mądrość, nie oznacza w Biblii teorii ani filozofii. To praktyczna umiejętność, znajomość realiów życia, czasem po prostu biegłość w rzemiośle. Tym samym słowem opisany jest Besalel, który budował przybytek.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 31,2-3",
+       "przeklad": "BW",
+       "akapity": [
+        "Patrz! Powołałem imiennie Besalela, syna Uriego, syna Chura z plemienia Judy, i napełniłem go duchem Bożym, mądrością, rozumem, poznaniem, wszechstronną zręcznością w rzemiośle,"
+       ]
+      },
+      {
+       "odnosnik": "Hbr 5,14",
+       "przeklad": "BW",
+       "akapity": [
+        "pokarm zaś stały jest dla dorosłych, którzy przez długie używanie mają władze poznawcze wyćwiczone do rozróżniania dobrego i złego."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Mądrość jest więc darem Ducha i zarazem umiejętnością, którą się ćwiczy. List do Hebrajczyków mówi o zmysłach wyćwiczonych „przez długie używanie”. Rośnie powoli, tak jak sprawność rzemieślnika, ruch po ruchu i rok po roku.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**W jakiej dziedzinie twojego życia masz już wyćwiczone rozeznanie, a w jakiej dopiero się uczysz?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pomyśl o decyzji, która jest przed tobą. **O co do tej pory prosiłeś w modlitwie, o odpowiedź czy o mądrość?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Z której z dróg do mądrości korzystasz najrzadziej: ze Słowa, z rady ludzi, z modlitwy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **czego najbardziej boisz się w prośbie o mądrość?** Może tego, że odpowiedź nie będzie po twojej myśli.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jeśli Bóg daje mądrość hojnie, dlaczego po szczerej modlitwie wciąż tak często nie wiemy, co zrobić? Czy brak jasności znaczy, że prosiliśmy źle?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie daje tu gotowej odpowiedzi. Warto, żeby padło spostrzeżenie, że mądrość rzadko przychodzi jak błyskawica. Częściej przychodzi jak wzrost i bywa widoczna dopiero z czasem.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg nie zawsze daje gotową odpowiedź. Zawsze daje mądrość temu, kto o nią prosi, i nie wypomina, że prosimy znowu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** Jk 1,5 albo 1Krl 3,9.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o sprawie, w której od dawna czekasz na jasną odpowiedź. Zapytaj siebie, **czy jesteś gotów usłyszeć odpowiedź inną niż ta, której chcesz**. Nie musisz od razu odpowiadać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Salomon zaczął od przyznania, że nie wie, jak postępować. **Przyznaj przed Bogiem, w jakiej sprawie ty nie wiesz, jak postąpić.** Nazwij to po imieniu, choćby tylko w myślach.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Pomyśl o kimś, kogo uważasz za mądrego i kto zna cię dobrze. Jeśli zbierzesz się na odwagę, zapytaj go o zdanie w swojej sprawie. Wysłuchaj do końca, zanim zaczniesz się tłumaczyć.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Modliłem się o mądrość i nic.”** Nie podważaj jego modlitwy. Zapytaj spokojnie, czy po czasie widzi w tej sprawie coś, czego wtedy nie widział. Jakub łączy mądrość z wytrwałością, a ona potrzebuje czasu. Bóg często daje mądrość przez ludzi i okoliczności, rzadziej przez nagłe olśnienie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli jak wątpię, to Bóg mi nic nie da?”** Jakub nie mówi o kimś, kto ma pytania. Mówi o kimś, kto nie wierzy, że Bóg jest dobry i chętny, albo chce iść dwiema drogami naraz. Przypomnij słowa „bez wypominania”. Kto mimo pytań przychodzi do Boga z prośbą, robi właśnie to, do czego zachęca Jakub.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Salomon i tak skończył źle, więc co mu z tej mądrości?”** To uczciwe pytanie. Powiedz, że mądrość nie zwalnia z codziennej wierności. Werset 14 stawia warunek właśnie dlatego. Jeśli grupa chce, wróć do tego na poziomie 3.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi, że w ogóle nie ufa własnemu rozumowi.** Nie przekonuj go na siłę. Pokaż, że Salomon myśli, słucha i pyta, a lud widzi w tym mądrość Bożą. Bóg nie każe wyłączać głowy. Daje jej oparcie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa zaczyna ustalać, co ktoś powinien zrobić.** Zatrzymaj to łagodnie. Grupa może pomóc komuś myśleć i modlić się za niego. Decyzja należy do niego.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada o decyzji, której bardzo żałuje.** Wysłuchaj, podziękuj i nie oceniaj. Bóg daje mądrość także na to, co zrobić dalej. Jeśli sprawa jest ciężka, zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 3. Bloki 1, 2 i 4 niosą spotkanie: prośba Salomona, hojność Boga i obietnica Jakuba.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Modliłem się o mądrość i nic.”",
+     "odpowiedz": "Nie podważaj jego modlitwy. Zapytaj spokojnie, czy po czasie widzi w tej sprawie coś, czego wtedy nie widział. Jakub łączy mądrość z wytrwałością, a ona potrzebuje czasu. Bóg często daje mądrość przez ludzi i okoliczności, rzadziej przez nagłe olśnienie."
+    },
+    {
+     "sytuacja": "„Czyli jak wątpię, to Bóg mi nic nie da?”",
+     "odpowiedz": "Jakub nie mówi o kimś, kto ma pytania. Mówi o kimś, kto nie wierzy, że Bóg jest dobry i chętny, albo chce iść dwiema drogami naraz. Przypomnij słowa „bez wypominania”. Kto mimo pytań przychodzi do Boga z prośbą, robi właśnie to, do czego zachęca Jakub."
+    },
+    {
+     "sytuacja": "„Salomon i tak skończył źle, więc co mu z tej mądrości?”",
+     "odpowiedz": "To uczciwe pytanie. Powiedz, że mądrość nie zwalnia z codziennej wierności. Werset 14 stawia warunek właśnie dlatego. Jeśli grupa chce, wróć do tego na poziomie 3."
+    },
+    {
+     "sytuacja": "Ktoś mówi, że w ogóle nie ufa własnemu rozumowi.",
+     "odpowiedz": "Nie przekonuj go na siłę. Pokaż, że Salomon myśli, słucha i pyta, a lud widzi w tym mądrość Bożą. Bóg nie każe wyłączać głowy. Daje jej oparcie."
+    },
+    {
+     "sytuacja": "Grupa zaczyna ustalać, co ktoś powinien zrobić.",
+     "odpowiedz": "Zatrzymaj to łagodnie. Grupa może pomóc komuś myśleć i modlić się za niego. Decyzja należy do niego."
+    },
+    {
+     "sytuacja": "Ktoś opowiada o decyzji, której bardzo żałuje.",
+     "odpowiedz": "Wysłuchaj, podziękuj i nie oceniaj. Bóg daje mądrość także na to, co zrobić dalej. Jeśli sprawa jest ciężka, zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3. Bloki 1, 2 i 4 niosą spotkanie: prośba Salomona, hojność Boga i obietnica Jakuba."
+    }
+   ]
+  }
+ ]
+}

@@ -1182,6 +1182,477 @@
    ]
   },
   {
+   "prefiks": "L",
+   "tytul": "Ludzie drugiej szansy",
+   "opis": "Dziesięć postaci, których historia nie skończyła się na najgorszym rozdziale.",
+   "tryb": "tematyczny",
+   "items": [
+    {
+     "id": "L-01",
+     "tytul": "Bóg, który widzi",
+     "opis": "Niewolnica, której nikt nie pytał o zdanie, spotyka na pustyni Boga i jako jedyna nadaje Mu imię.",
+     "teksty": "Rdz 16,1-6; 16,7-14; Rdz 21,9-14; 21,15-21; Ps 56,9; Ps 10,14",
+     "zdanie": "Ludzie mogą przestać cię widzieć. Bóg nie przestaje, także na pustyni, także tam, gdzie właśnie jesteś.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 25,
+      "p3": 29
+     },
+     "tagi": [
+      "Ludzie drugiej szansy",
+      "odrzucenie",
+      "krzywda",
+      "Boża troska",
+      "Księga Rodzaju"
+     ]
+    },
+    {
+     "id": "L-02",
+     "tytul": "Kłamca, który dostał nowe imię",
+     "opis": "Oszust ucieka z domu, a Bóg przychodzi do niego, zanim ten się zmieni. Po latach pyta go o imię.",
+     "teksty": "Rdz 27,18-24.34-36; Rdz 28,10-15; 28,16-22; Rdz 32,23-30; 32,31-33; 2Kor 12,9-10",
+     "zdanie": "Bóg przyszedł do Jakuba, zanim ten się zmienił. Potem zmieniał go przez całą noc i przez całe życie.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 26,
+      "p3": 29
+     },
+     "tagi": [
+      "Ludzie drugiej szansy",
+      "łaska",
+      "tożsamość",
+      "oszustwo",
+      "modlitwa",
+      "Księga Rodzaju"
+     ]
+    },
+    {
+     "id": "L-03",
+     "tytul": "Ten, który sprzedał brata",
+     "opis": "Człowiek, który sprzedał brata za srebro, po latach oddaje siebie w zamian za innego brata.",
+     "teksty": "Rdz 37,23-28.31-33; Rdz 38,11.14.24-26; Rdz 43,8-9; 44,16; Rdz 44,18-20.27-34; Rdz 49,8-10; Mt 1,1-3; Ap 5,5",
+     "zdanie": "Ten, który sprzedał brata, nauczył się oddawać siebie za brata. Bóg nie zostawił Judy w jego najgorszym dniu.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 17,
+      "p2": 22,
+      "p3": 25
+     },
+     "tagi": [
+      "Ludzie drugiej szansy",
+      "przemiana",
+      "wina",
+      "odpowiedzialność",
+      "rodzina",
+      "Księga Rodzaju"
+     ]
+    },
+    {
+     "id": "L-04",
+     "tytul": "Zabójca na pustyni",
+     "opis": "Mojżesz uciekł z Egiptu jako zabójca i latami pasł owce. Potem Bóg zawołał go po imieniu.",
+     "teksty": "Wj 2,11-15; Wj 3,1-6; Wj 2,23-25; 3,7-10; Wj 3,11-14; Wj 4,10-17",
+     "zdanie": "Bóg nie skreślił Mojżesza w Egipcie. Przyszedł po niego na pustynię, zawołał go po imieniu i powiedział „będę z tobą”.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 26,
+      "p3": 29
+     },
+     "tagi": [
+      "druga szansa",
+      "powołanie",
+      "porażka",
+      "wymówki",
+      "Mojżesz",
+      "Księga Wyjścia"
+     ]
+    },
+    {
+     "id": "L-05",
+     "tytul": "Sznur w oknie",
+     "opis": "Kobieta z najgorszą opinią w mieście uwierzyła z samego słuchania i trafiła do rodowodu Jezusa.",
+     "teksty": "Joz 2,1-7; Joz 2,8-14; Joz 2,15-21; Joz 6,22-25; Hbr 11,31; Mt 1,5",
+     "zdanie": "Rachab miała najgorszą opinię w mieście, a jej imię stoi na pierwszej stronie Ewangelii, w rodowodzie Jezusa.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 22,
+      "p3": 25
+     },
+     "tagi": [
+      "druga szansa",
+      "wiara",
+      "etykiety",
+      "nadzieja",
+      "Rachab",
+      "Księga Jozuego"
+     ]
+    },
+    {
+     "id": "L-06",
+     "tytul": "Najgorszy król",
+     "opis": "Król, który zrobił wszystko, co najgorsze, upokorzył się w niewoli i został przyjęty przez Boga.",
+     "teksty": "2Krn 33,1-9; 2Krl 21,16; 2Krn 33,10-13; 2Krn 33,14-17; 2Krn 33,18-23; Iz 55,6-7; Ez 33,11",
+     "zdanie": "Granica łaski nie leży tam, gdzie ją stawiamy. Bóg dał się uprosić nawet najgorszemu królowi.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 23,
+      "p3": 26
+     },
+     "tagi": [
+      "druga szansa",
+      "nawrócenie",
+      "przebaczenie",
+      "skutki grzechu",
+      "Manasses",
+      "Księgi Kronik"
+     ]
+    },
+    {
+     "id": "L-07",
+     "tytul": "Słowo po raz drugi",
+     "opis": "Prorok uciekł przed Bogiem i dostał drugą szansę. Trudniej mu było przyjąć, że dostali ją też inni.",
+     "teksty": "Jon 1,1-6; Jon 2,1-11; Jon 3,1-10; Jon 4,1-4; Jon 4,5-11",
+     "zdanie": "Bóg nie skreślił proroka, który uciekł, ani miasta, które zasłużyło na wyrok. Pyta nas tylko, czy zgodzimy się na tę samą łaskę dla innych.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 32
+     },
+     "tagi": [
+      "druga szansa",
+      "łaska",
+      "ucieczka od Boga",
+      "miłosierdzie",
+      "wrogowie",
+      "Jonasz"
+     ]
+    },
+    {
+     "id": "L-08",
+     "tytul": "Jeszcze dziś",
+     "opis": "Człowiek, który nie zdążył niczego naprawić, w ostatniej godzinie życia słyszy pełną obietnicę.",
+     "teksty": "Łk 23,32-34; Iz 53,12; Łk 23,35-39; Mt 27,44; Łk 23,40-42; Łk 23,43-49; Rz 10,8-13",
+     "zdanie": "Złoczyńca nie zdążył niczego naprawić. Zdążył tylko poprosić, a to wystarczyło, bo obietnica stała na Jezusie, nie na nim.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 24,
+      "p3": 29
+     },
+     "tagi": [
+      "druga szansa",
+      "łaska",
+      "krzyż",
+      "zbawienie",
+      "ostatnia godzina",
+      "złoczyńca na krzyżu"
+     ]
+    },
+    {
+     "id": "L-09",
+     "tytul": "Pierwszy z grzeszników",
+     "opis": "Prześladowca staje się apostołem, a pomagają mu w tym ludzie, którzy mieli powody, żeby się go bać.",
+     "teksty": "Dz 9,1-9; Dz 9,10-18; Dz 9,19-25; Dz 9,26-31; 1Tm 1,12-16",
+     "zdanie": "Bóg zaczął od prześladowcy, żeby nikt nie myślał, że jest za daleko. A do tego potrzebował ludzi, którzy się bali i mimo to poszli.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 28,
+      "p3": 32
+     },
+     "tagi": [
+      "druga szansa",
+      "łaska",
+      "nawrócenie",
+      "wspólnota",
+      "zaufanie",
+      "Paweł",
+      "Dzieje Apostolskie"
+     ]
+    },
+    {
+     "id": "L-10",
+     "tytul": "Nieużyteczny, który stał się pożyteczny",
+     "opis": "Zbiegły niewolnik wraca do swojego pana jako brat, a ktoś inny bierze na siebie jego dług.",
+     "teksty": "Flm 1-7; Flm 8-12; Flm 13-16; Flm 17-25; Kol 3,11; Kol 4,7-9; Ga 3,26-28",
+     "zdanie": "Druga szansa często ma podpis kogoś trzeciego. Ktoś mówi: przyjmij go jak mnie, a jeśli jest coś winien, mnie to przypisz.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 24,
+      "p3": 28
+     },
+     "tagi": [
+      "druga szansa",
+      "przebaczenie",
+      "poręczenie",
+      "wspólnota",
+      "niewolnictwo",
+      "List do Filemona"
+     ]
+    }
+   ]
+  },
+  {
+   "prefiks": "W",
+   "tytul": "Decyzje i wola Boża",
+   "opis": "Osiem spotkań dla ludzi przed wyborem: mądrość, głos Boga, znaki, rady, modlitwa i wolność.",
+   "tryb": "tematyczny",
+   "items": [
+    {
+     "id": "W-01",
+     "tytul": "Czy Bóg gra ze mną w chowanego?",
+     "opis": "Co Biblia wprost nazywa wolą Bożą i dlaczego Bóg nie ukrywa przed nami drogi.",
+     "teksty": "Ps 32,6-11; Prz 16,1-3.9; 19,21; Mi 6,3-8; Pwt 29,28; 1Tes 4,1-3; 5,16-18; Ef 5,15-17; 1P 2,15; Rz 12,1-2.9-13",
+     "zdanie": "Bóg nie chowa przed tobą drogi. Większość jej już oznajmił, a resztę przejdzie razem z tobą.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 23,
+      "p3": 28
+     },
+     "tagi": [
+      "decyzje",
+      "wola Boża",
+      "prowadzenie",
+      "lęk",
+      "wolność",
+      "mądrość"
+     ]
+    },
+    {
+     "id": "W-02",
+     "tytul": "Mądrość, o którą wolno prosić",
+     "opis": "Salomon prosi o serce, które słucha, a Bóg obiecuje mądrość każdemu, kto o nią prosi.",
+     "teksty": "1Krl 3,4-9; 1Krl 3,10-14; Prz 2,1-11; Jk 1,2-8; Kol 1,9-12",
+     "zdanie": "Bóg nie zawsze daje gotową odpowiedź. Zawsze daje mądrość temu, kto o nią prosi, i nie wypomina, że prosimy znowu.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 25,
+      "p3": 29
+     },
+     "tagi": [
+      "decyzje",
+      "wola Boża",
+      "mądrość",
+      "modlitwa",
+      "Salomon",
+      "Przysłowia"
+     ]
+    },
+    {
+     "id": "W-03",
+     "tytul": "Głos, który można rozpoznać",
+     "opis": "Jak młody Samuel uczył się poznawać Boży głos i jak odróżnić go od innych głosów w sobie.",
+     "teksty": "1Sm 3,1-7; 1Sm 3,8-10.19-20; J 10,1-5.27-28; Iz 30,15.18-21; 1J 4,1-6",
+     "zdanie": "Głos Pasterza poznaje się tak jak każdy bliski głos, chodząc z Nim długo i słuchając, zanim się zdecyduje.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 23,
+      "p3": 28
+     },
+     "tagi": [
+      "decyzje",
+      "wola Boża",
+      "głos Boga",
+      "rozeznawanie",
+      "Duch Święty",
+      "modlitwa"
+     ]
+    },
+    {
+     "id": "W-04",
+     "tytul": "Znaki, drzwi i rady",
+     "opis": "Co zrobić ze znakiem, z zamkniętymi drzwiami i z radą ludzi, kiedy naprawdę chcemy wiedzieć, którędy iść.",
+     "teksty": "Sdz 6,14-16.36-40; Dz 1,21-26; Prz 16,33; Dz 16,6-10; 1Krl 12,1-16; Prz 15,22; 11,14; 12,15; 19,20; 20,18",
+     "zdanie": "Jeden znak łatwo pomylić z echem własnych życzeń. Bóg prowadzi zwykle przez kilka głosów naraz i przez ludzi, którzy mają odwagę powiedzieć prawdę.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 26,
+      "p3": 29
+     },
+     "tagi": [
+      "decyzje",
+      "wola Boża",
+      "znaki",
+      "okoliczności",
+      "rada",
+      "mądrość"
+     ]
+    },
+    {
+     "id": "W-05",
+     "tytul": "Modlitwa przed wyborem",
+     "opis": "Jak rozmawiać z Bogiem przed ważnym wyborem i co robić, kiedy odpowiedź nie przychodzi od razu.",
+     "teksty": "2Krn 20,1-6.12-13; Ne 1,1-4.11; 2,1-5; Łk 5,15-16; 6,12-13; Dz 13,1-3; Ha 2,1-3; Iz 40,27-31",
+     "zdanie": "Modlitwa przed wyborem nie zawsze przynosi odpowiedź od razu. Prawie zawsze zmienia tego, kto się modli.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 23,
+      "p3": 26
+     },
+     "tagi": [
+      "decyzje",
+      "wola Boża",
+      "modlitwa",
+      "post",
+      "czekanie",
+      "milczenie Boga"
+     ]
+    },
+    {
+     "id": "W-06",
+     "tytul": "Decyzje we mgle",
+     "opis": "Jak wybierać, kiedy nie widać wyniku, i dlaczego decyzja bez pewności nie musi być decyzją bez wiary.",
+     "teksty": "Rdz 12,1-5; Hbr 11,8-10; Prz 3,5-7; Koh 11,1-6; Jk 4,13-17",
+     "zdanie": "Mgła nie znaczy, że Bóg zniknął. Nie widzę całej drogi, ale znam Tego, który mnie nią prowadzi.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 30
+     },
+     "tagi": [
+      "decyzje",
+      "wola Boża",
+      "niepewność",
+      "wiara",
+      "zaufanie",
+      "planowanie"
+     ]
+    },
+    {
+     "id": "W-07",
+     "tytul": "Serce przy stole decyzyjnym",
+     "opis": "Co pragnienia, emocje i pośpiech robią z naszymi wyborami i dlaczego Biblia każe przy tym pytać Boga.",
+     "teksty": "Joz 9,3-16; Prz 14,12.15; 21,2; Jr 17,9-10; Ps 139,23-24; Ps 37,3-7; Łk 14,28-33",
+     "zdanie": "Serce ma głos przy każdej decyzji. Mądrość polega na tym, żeby nie był to głos jedyny i żeby zapytać Tego, który zna serce lepiej niż my.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 28,
+      "p3": 32
+     },
+     "tagi": [
+      "decyzje",
+      "wola Boża",
+      "serce",
+      "emocje",
+      "pragnienia",
+      "pułapki myślenia",
+      "mądrość",
+      "rozeznawanie"
+     ]
+    },
+    {
+     "id": "W-08",
+     "tytul": "Kochaj Boga i rób, co chcesz",
+     "opis": "Wolność wyboru jako dar, zwykła praca jako służba i Bóg, który nie odchodzi po naszej złej decyzji.",
+     "teksty": "Pwt 30,15-20; Joz 24,14-15; Ga 5,1.13-14; 1Kor 10,23-24; Kol 3,23-24; 1Kor 10,31; Pwt 2,7; Rz 8,28-29",
+     "zdanie": "Ciężar tego zdania leży w pierwszym słowie. Kto kocha Boga, uczy się chcieć tego, czego chce Bóg, i wtedy może wybierać bez lęku.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 26,
+      "p3": 30
+     },
+     "tagi": [
+      "decyzje",
+      "wola Boża",
+      "wolność",
+      "miłość",
+      "powołanie",
+      "praca",
+      "legalizm",
+      "błędne decyzje",
+      "łaska"
+     ]
+    }
+   ]
+  },
+  {
    "prefiks": "S",
    "tytul": "Szabat jako dar",
    "opis": "Pięć spotkań od zmęczenia do odpoczynku, który Bóg wpisał w tydzień.",
@@ -1306,6 +1777,221 @@
       "łaska",
       "legalizm",
       "praktyka"
+     ]
+    }
+   ]
+  },
+  {
+   "prefiks": "SW",
+   "tytul": "Świątynia",
+   "opis": "Osiem spotkań od ogrodu Eden do Arcykapłana: przybytek jako obrazowa lekcja ewangelii.",
+   "tryb": "tematyczny",
+   "items": [
+    {
+     "id": "SW-01",
+     "tytul": "Ogród, pierwsza świątynia",
+     "opis": "Eden jako pierwsze miejsce spotkania z Bogiem i droga, która przez całą Biblię prowadzi z powrotem.",
+     "teksty": "Rdz 2,8-15; Rdz 3,22-24; 1Krl 6,29-30.32; Wj 26,31; Ez 47,1.3-5.7-9.12; Ap 22,1-5",
+     "zdanie": "Biblia zaczyna się i kończy w miejscu, gdzie Bóg mieszka z ludźmi. Wszystko pomiędzy jest drogą powrotną.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 26,
+      "p3": 31
+     },
+     "tagi": [
+      "świątynia",
+      "przybytek",
+      "Eden",
+      "obecność Boga",
+      "nadzieja",
+      "nowa ziemia"
+     ]
+    },
+    {
+     "id": "SW-02",
+     "tytul": "Wzór pokazany na górze",
+     "opis": "Dlaczego Bóg dał dokładny plan namiotu na pustyni i czego ta budowa uczy o drodze człowieka do Boga.",
+     "teksty": "Wj 24,15-18; Wj 25,9.40; 26,30; Wj 31,1-6; Wj 35,21-22.29; 36,3-7; Wj 40,18-33; Wj 39,43; Hbr 8,1-5",
+     "zdanie": "Plan drogi do Boga pochodzi od Niego. Człowiek przynosi serce i ręce, a Bóg prowadzi od bramy aż do środka.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 26,
+      "p3": 30
+     },
+     "tagi": [
+      "świątynia",
+      "przybytek",
+      "Synaj",
+      "dary",
+      "praca",
+      "Chrystus",
+      "List do Hebrajczyków"
+     ]
+    },
+    {
+     "id": "SW-03",
+     "tytul": "Ołtarz na dziedzińcu",
+     "opis": "Co mówiła ofiara przy ołtarzu o grzechu i o Bogu i dlaczego Jan nazwał Jezusa Barankiem.",
+     "teksty": "Kpł 1,2-9; Kpł 4,27-31; Rdz 22,6-8.13-14; 2Krn 3,1; J 1,29.35-36; Iz 53,6-7; Hbr 10,1-4.11-14",
+     "zdanie": "Ołtarz mówił, że grzech kosztuje życie. Baranek Boży mówi, że to życie Bóg dał sam, raz na zawsze.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 24,
+      "p3": 28
+     },
+     "tagi": [
+      "świątynia",
+      "ofiara",
+      "przebaczenie",
+      "grzech",
+      "Baranek Boży",
+      "krzyż"
+     ]
+    },
+    {
+     "id": "SW-04",
+     "tytul": "Kapłan z imionami na sercu",
+     "opis": "Po co kapłan nosił cudze imiona na ramionach i na sercu i co to mówi o każdym wierzącym.",
+     "teksty": "Wj 30,17-21; Wj 38,8; Wj 28,1-4; Wj 28,9-12; Wj 28,15-21; Wj 28,29-30; Wj 28,36-38; Za 3,1-5; Wj 19,4-6; 1P 2,9-10",
+     "zdanie": "Zanim wypowiesz swoje imię przed Bogiem, ktoś już je tam niesie, na ramionach i na sercu.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 26,
+      "p3": 31
+     },
+     "tagi": [
+      "świątynia",
+      "przybytek",
+      "kapłaństwo",
+      "wstawiennictwo",
+      "modlitwa",
+      "łaska",
+      "Kościół"
+     ]
+    },
+    {
+     "id": "SW-05",
+     "tytul": "Chleb, światło i kadzidło",
+     "opis": "Chleb na stole, lampa w nocy i dym modlitwy, czyli co codzienność przybytku mówi o Jezusie i o nas.",
+     "teksty": "Wj 25,23-24.29-30; Kpł 24,5-9; J 6,30-35; Wj 25,31-33.37; Wj 26,35; Wj 27,20-21; J 8,12; J 1,4-5.9; J 12,46; Wj 30,1.6-8; Ps 141,2; Ap 5,8; Ap 8,3-4",
+     "zdanie": "W domu Boga zawsze leżał chleb, zawsze świeciła lampa i zawsze unosił się dym modlitwy. Bóg nie zamyka swojego domu na noc.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 28,
+      "p3": 31
+     },
+     "tagi": [
+      "świątynia",
+      "przybytek",
+      "chleb życia",
+      "światłość",
+      "modlitwa",
+      "codzienność wiary"
+     ]
+    },
+    {
+     "id": "SW-06",
+     "tytul": "Prawo pod przebłagalnią",
+     "opis": "Skrzynia z przykazaniami w środku i złotym wiekiem na wierzchu. Jak Bóg łączy sprawiedliwość z przebaczeniem.",
+     "teksty": "Wj 25,10-22; Pwt 10,1-5; Ps 99,1-8; Ps 85,9-14; Rz 3,21-26; Jr 31,31-34",
+     "zdanie": "Prawo mówi, jaki jest Bóg. Złote wieko nad nim mówi, co Bóg robi z ludźmi, którzy to prawo złamali.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 26,
+      "p3": 29
+     },
+     "tagi": [
+      "świątynia",
+      "przybytek",
+      "prawo",
+      "łaska",
+      "przebaczenie",
+      "sprawiedliwość",
+      "Księga Wyjścia"
+     ]
+    },
+    {
+     "id": "SW-07",
+     "tytul": "Dzień Pojednania",
+     "opis": "Raz w roku arcykapłan wchodził za zasłonę, a lud słyszał, że jest czysty. Co ten dzień mówi o sądzie Boga.",
+     "teksty": "Kpł 16,2-5; Kpł 16,7-10.15-16; Kpł 16,20-22.29-31; Hbr 9,6-14; Hbr 9,24-28",
+     "zdanie": "Dzień Pojednania nie był dniem szukania winnych. Był dniem, w którym Bóg ogłaszał swój lud czystym.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 24,
+      "p3": 28
+     },
+     "tagi": [
+      "świątynia",
+      "przybytek",
+      "Dzień Pojednania",
+      "sąd",
+      "oczyszczenie",
+      "arcykapłan",
+      "nadzieja",
+      "Księga Kapłańska",
+      "List do Hebrajczyków"
+     ]
+    },
+    {
+     "id": "SW-08",
+     "tytul": "Arcykapłan, który współczuje",
+     "opis": "Jezus w niebie zna naszą słabość od środka i wstawia się za nami. Dlatego można przyjść do Boga z odwagą.",
+     "teksty": "Hbr 4,14-16; Hbr 5,1-2.7-9; Hbr 7,23-27; Rz 8,31-34; 1J 2,1-2; J 17,9.15.20",
+     "zdanie": "W niebie jest Ktoś, kto zna twoją słabość od środka i właśnie teraz staje po twojej stronie.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 24,
+      "p3": 29
+     },
+     "tagi": [
+      "świątynia",
+      "arcykapłan",
+      "wstawiennictwo",
+      "współczucie",
+      "modlitwa",
+      "łaska",
+      "List do Hebrajczyków"
      ]
     }
    ]

@@ -1,0 +1,849 @@
+{
+ "tytul": "Jeszcze dziś",
+ "id": "L-08",
+ "seria": "Ludzie drugiej szansy",
+ "opis": "Człowiek, który nie zdążył niczego naprawić, w ostatniej godzinie życia słyszy pełną obietnicę.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Łk 23,32-34; Iz 53,12; Łk 23,35-39; Mt 27,44; Łk 23,40-42; Łk 23,43-49; Rz 10,8-13",
+  "p2": "Rdz 40,14.23; Łk 2,11; Łk 4,21; Ef 2,8-9",
+  "p3": "Rdz 8,1; Rdz 30,22; Ap 2,7; J 20,17; 2Kor 6,2"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 24,
+  "p3": 29
+ },
+ "tagi": [
+  "druga szansa",
+  "łaska",
+  "krzyż",
+  "zbawienie",
+  "ostatnia godzina",
+  "złoczyńca na krzyżu"
+ ],
+ "wersja": 1,
+ "zdanie": "Złoczyńca nie zdążył niczego naprawić. Zdążył tylko poprosić, a to wystarczyło, bo obietnica stała na Jezusie, nie na nim.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o człowieku, który nie miał już czasu na nic. Nie mógł naprawić krzywd, oddać tego, co zabrał, ani zacząć nowego życia. Wisiał na krzyżu za to, co zrobił, i sam przyznał, że kara jest słuszna. Miał tylko jedno zdanie, prośbę do umierającego obok Człowieka. W odpowiedzi usłyszał pełną obietnicę. W tradycji polskiej ten człowiek nazywany jest często dobrym łotrem. Biblia Warszawska mówi o nim „złoczyńca”.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokrewny materiał to „Co jest po śmierci?”. Czyta on słowa „dziś będziesz ze mną w raju” od strony stanu zmarłych. Ta scena pojawia się też w materiale „Robotnicy w winnicy”, obok przypowieści o zapłacie za jedną godzinę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole mógł niedawno stracić bliskiego, który umarł bez wiary albo bez pojednania. Ta historia może dać mu nadzieję albo otworzyć ranę.",
+      "Ktoś może usłyszeć w tej scenie wygodną furtkę. Pożyję po swojemu, a na końcu się nawrócę.",
+      "Pytanie o to, gdzie jest człowiek zaraz po śmierci, prawie na pewno padnie. Na poziomie podstawowym nie rozstrzygaj go. Ma swoje miejsce na poziomie 3 i w osobnym materiale.",
+      "Ktoś może mieć za sobą więzienie albo mieć kogoś bliskiego za kratami. Dla niego słowo „złoczyńca” nie jest abstrakcją."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie mów nikomu, gdzie jest jego zmarły. Nie oceniaj, czy czyjeś nawrócenie było prawdziwe. Nie zamieniaj spotkania w spór o stan zmarłych.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o kimś, kto w twoim życiu powiedział o tobie coś dobrego wtedy, gdy wszyscy inni mówili źle. Powiedz jednym słowem, co wtedy poczułeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Dwaj inni",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jezus został skazany na śmierć przez rzymskiego namiestnika. Żołnierze prowadzą Go za miasto, na miejsce kaźni.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 23,32-34",
+       "przeklad": "BW",
+       "akapity": [
+        "A prowadzono także dwóch innych złoczyńców, by ich razem z nim zgładzić. A gdy przyszli na miejsce, zwane Trupią Czaszką, ukrzyżowali go tam, także i złoczyńców, jednego po prawicy, a drugiego po lewicy. A Jezus rzekł: Ojcze, odpuść im, bo nie wiedzą, co czynią. A przy dzieleniu się jego szatami rzucali losy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Kilka wieków wcześniej prorok Izajasz pisał o cierpiącym Słudze Pana. Jezus odniósł te słowa do siebie w noc przed śmiercią.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 53,12",
+       "przeklad": "BW",
+       "akapity": [
+        "Dlatego dam mu dział wśród wielkich i z mocarzami będzie dzielił łupy za to, że ofiarował na śmierć swoją duszę i do przestępców był zaliczony. On to poniósł grzech wielu i wstawił się za przestępcami."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Łukasz pisze, że Jezusa ukrzyżowano „razem” z dwoma złoczyńcami, jednego z prawej, drugiego z lewej strony. **Co ludzie patrzący z daleka mogli pomyśleć o tych trzech krzyżach?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Obaj złoczyńcy wiszą tuż obok i słyszą pierwsze słowa Jezusa z krzyża. **Co takie zdanie mogło znaczyć dla człowieka, który dobrze wie, co sam zrobił?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Izajasz mówi, że Sługa „do przestępców był zaliczony” i „wstawił się za przestępcami”. **Jak te dwie części zdania spełniają się w tej jednej scenie?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ukrzyżowanie było rzymską karą dla niewolników, buntowników i bandytów. Miało być widowiskiem i ostrzeżeniem, dlatego odbywało się przy drodze, na oczach przechodniów. Nad głową skazańca wieszano tabliczkę z jego winą. Śmierć przychodziła powoli, czasem po wielu godzinach. Ewangelie nie mówią, co zrobili dwaj złoczyńcy. Mateusz i Marek nazywają ich słowem, które oznacza zbrojnego rabusia, a bywało też używane o buntownikach.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co znaczy, że Jezus umiera w miejscu przeznaczonym dla najgorszych, i to w samym środku, między nimi?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Ratuj samego siebie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 23,35-39",
+       "przeklad": "BW",
+       "akapity": [
+        "A lud stał i przyglądał się. Przełożeni zaś naśmiewali się, mówiąc: Innych ratował, niechże ratuje samego siebie, jeżeli jest Chrystusem Bożym, tym wybranym. Szydzili z niego także i żołnierze, podchodząc doń i podając mu ocet, i mówiąc: Jeżeli Ty jesteś królem żydowskim, ratuj samego siebie. Był też i napis nad nim: Ten jest królem żydowskim. Tedy jeden z zawieszonych złoczyńców urągał mu, mówiąc: Czy nie Ty jesteś Chrystusem? Ratuj siebie i nas."
+       ]
+      },
+      {
+       "odnosnik": "Mt 27,44",
+       "przeklad": "BW",
+       "akapity": [
+        "Tak samo urągali mu złoczyńcy, którzy z nim razem byli ukrzyżowani."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przełożeni, żołnierze i złoczyńca mówią prawie to samo zdanie. **Co jest w nim wspólne? Czego wszyscy oni oczekują od prawdziwego Mesjasza?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Innych ratował, niechże ratuje samego siebie”. **Jaką prawdę o Jezusie mówią szydercy, zupełnie o tym nie wiedząc?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Lud „stał i przyglądał się”. **Czym różni się ten, kto patrzy z boku, od tego, kto szydzi, i od tego, kto zaraz się odezwie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Mateusz i Marek piszą, że na początku urągali Jezusowi obaj złoczyńcy. Łukasz opowiada, co później stało się z jednym z nich. Czytane razem relacje pokazują, że przemiana zaszła na krzyżu, w ciągu kilku godzin. Ten człowiek nie przyszedł na Golgotę jako wierzący. Zaczął tak samo jak tamten drugi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Wspomnij na mnie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 23,40-42",
+       "przeklad": "BW",
+       "akapity": [
+        "Drugi natomiast, odezwawszy się, zgromił tamtego tymi słowy: Czy ty się Boga nie boisz, choć taki sam wyrok ciąży na tobie? Na nas co prawda sprawiedliwie, gdyż słuszną ponosimy karę za to, co uczyniliśmy, Ten zaś nic złego nie uczynił. I rzekł: Jezu, wspomnij na mnie, gdy wejdziesz do Królestwa swego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Drugi złoczyńca mówi w kilku zdaniach kilka różnych rzeczy. **Wypiszcie je po kolei. Która z nich wydaje się wam najtrudniejsza do powiedzenia w jego położeniu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Widzi umierającego, pobitego człowieka, a mówi o Jego Królestwie. **Co musiał zobaczyć albo usłyszeć przez te godziny, żeby tak mówić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Wszyscy wokół mówią do Jezusa z drwiną. On jako jedyny zwraca się do Niego po imieniu, „Jezu”. **Co zmienia to, że ktoś zwraca się do drugiego po imieniu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ten człowiek o nic nie targuje się z Bogiem. Nie obiecuje poprawy, nie przypomina dobrych uczynków, nie usprawiedliwia się. Przyznaje, że kara jest słuszna, i prosi tylko o pamięć. W Ewangelii Łukasza, zanim Jezus umrze, nikt poza nim nie mówi przy krzyżu o Jezusie jak o Królu, który ma swoje Królestwo. Znajomi Jezusa stoją z daleka.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Wspomnij o mnie",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Józef, sprzedany przez braci, siedzi w egipskim więzieniu. Wyjaśnił sen podczaszemu faraona, który ma wkrótce wyjść na wolność.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 40,14",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeśli tylko nie zapomnisz o mnie, gdy ci się będzie dobrze powodziło, wyświadcz mi łaskę i wspomnij o mnie przed faraonem, by mnie wydostać z tego więzienia."
+       ]
+      },
+      {
+       "odnosnik": "Rdz 40,23",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz przełożony podczaszych nie pamiętał o Józefie, bo zapomniał o nim."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Józef i złoczyńca proszą prawie tymi samymi słowami. **Czym różni się ten, kogo prosił Józef, od Tego, kogo prosi złoczyńca? Komu w waszym życiu najtrudniej zaufać, że nie zapomni?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Gdy Biblia mówi, że Bóg „wspomina” człowieka, ma na myśli więcej niż przypomnienie sobie czegoś zapomnianego. Hebrajskie `zachar` oznacza pamięć, która działa.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 8,1",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem wspomniał Bóg na Noego i na wszystkie zwierzęta, i na wszystko bydło, które było z nim w arce, i sprawił, że powiał wiatr po ziemi, i wody zaczęły opadać."
+       ]
+      },
+      {
+       "odnosnik": "Rdz 30,22",
+       "przeklad": "BW",
+       "akapity": [
+        "Wspomniał też Bóg na Rachelę i wysłuchał ją Bóg, i uczynił ją płodną."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Prośba „wspomnij na mnie” należy do języka psalmów. Złoczyńca prosi więc Jezusa tak, jak Izrael prosił Boga.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co mówi o tym, za kogo złoczyńca uważał Jezusa, to, że zwraca się do Niego słowami, którymi modlono się do Boga?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Dziś ze mną",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 23,43-49",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł mu: Zaprawdę, powiadam ci, dziś będziesz ze mną w raju.",
+        "A była już mniej więcej godzina szósta i ciemność zaległa całą ziemię aż do godziny dziewiątej, gdy zaćmiło się słońce; i rozdarła się zasłona świątyni na dwoje. A Jezus, zawoławszy wielkim głosem, rzekł: Ojcze, w ręce twoje polecam ducha mego. I powiedziawszy to, skonał. Wtedy setnik, ujrzawszy, co zaszło, oddał chwałę Bogu, powiadając: Zaiste, człowiek ten był sprawiedliwy. A wszystkie te rzesze, które się zeszły na to widowisko, ujrzawszy to, co się stało, bijąc się w piersi, zawracały. Wszyscy zaś jego znajomi stali opodal, również niewiasty, które towarzyszyły mu od Galilei, widziały to."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Złoczyńca prosił, żeby Jezus kiedyś o nim pamiętał. **Porównajcie jego prośbę z odpowiedzią. Co dostaje ponad to, o co prosił?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus o nic go nie pyta i niczego od niego nie wymaga. **Na czym w takim razie stoi ta obietnica?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus umiera pierwszy, a złoczyńca jeszcze żyje. **Co mogła znaczyć dla tego człowieka śmierć Kogoś, kto przed chwilą powiedział mu „ze mną”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Słowo „raj” pochodzi z języka perskiego i oznaczało ogród otoczony murem. W greckim przekładzie Starego Testamentu tym słowem nazwano ogród Eden. Człowiek wyrzucony za mury miasta, na miejsce kaźni, słyszy więc obietnicę ogrodu, z którego ludzie zostali kiedyś wygnani. Najmocniejsze słowo tej obietnicy to jednak „ze mną”.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dziś",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 2,11",
+       "przeklad": "BW",
+       "akapity": [
+        "gdyż dziś narodził się wam Zbawiciel, którym jest Chrystus Pan, w mieście Dawidowym."
+       ]
+      },
+      {
+       "odnosnik": "Łk 4,21",
+       "przeklad": "BW",
+       "akapity": [
+        "Zaczął tedy mówić do nich: Dziś wypełniło się to Pismo w uszach waszych."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Słowo „dziś” stoi u Łukasza w ważnych miejscach. Pierwsze zdanie aniołowie mówią pasterzom. Drugie Jezus mówi w synagodze w Nazarecie, gdy zaczyna swoją służbę. **Co łączy te sceny z obietnicą daną na krzyżu?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co znaczy dla człowieka, który ma przed sobą kilka godzin życia, że łaska Boża ma imię „dziś”, a nie „kiedyś, gdy się poprawisz”?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Słowo „raj” pada w Nowym Testamencie jeszcze dwa razy. W Drugim Liście do Koryntian Paweł pisze, że pewien człowiek został „uniesiony do raju”. Ostatni raz słowo stoi w Apokalipsie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 2,7",
+       "przeklad": "BW",
+       "akapity": [
+        "Kto ma uszy, niechaj słucha, co Duch mówi do zborów. Zwycięzcy dam spożywać z drzewa żywota, które jest w raju Bożym."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Biblia zaczyna się ogrodem z drzewem życia, a kończy się obietnicą powrotu do niego. Złoczyńca dostaje tę samą obietnicę co zwycięzcy z Apokalipsy.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co to mówi, że człowiek, który przegrał całe swoje życie, zostaje wpisany w tę samą obietnicę co ci, którzy wytrwali do końca?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: „dziś będziesz ze mną w raju”",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ten werset bywa najczęściej przywoływany na dowód, że człowiek zaraz po śmierci jest przy Chrystusie. Chrześcijanie czytają go na dwa sposoby. Najstarsze greckie rękopisy pisano zwykle bez przecinków, więc o miejscu przecinka decyduje tłumacz.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pierwsze odczytanie brzmi „powiadam ci, dziś będziesz ze mną w raju”. Jezus obiecuje spotkanie jeszcze tego samego dnia. Przemawia za nim naturalny szyk zdania. Tak czyta ten werset większość przekładów, także Biblia Warszawska.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Drugie odczytanie brzmi „powiadam ci dziś, będziesz ze mną w raju”. Tak czytają go adwentyści i część innych chrześcijan, którzy rozumieją śmierć jako sen aż do zmartwychwstania. Przemawia za nim prośba złoczyńcy, który mówi o dniu, gdy Jezus „wejdzie do Królestwa”. Przemawiają też słowa Jezusa z niedzielnego poranka.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 20,17",
+       "przeklad": "BW",
+       "akapity": [
+        "Rzekł jej Jezus: Nie dotykaj mnie, bo jeszcze nie wstąpiłem do Ojca; ale idź do braci moich i powiedz im: Wstępuję do Ojca mego i Ojca waszego, do Boga mego i Boga waszego."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Obie strony łączy to, co w tej scenie najważniejsze. Obietnica jest pewna. Dostaje ją człowiek, który nie miał nic do zaoferowania. Jej treścią jest „ze mną”. Szerzej tę sprawę omawia materiał „Co jest po śmierci?”.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**O co dokładnie prosił złoczyńca i na kiedy? Czy słowo „dziś” odpowiada bardziej na pytanie „kiedy”, czy na pytanie „czy na pewno”?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Każdy, kto wzywa",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Kilkadziesiąt lat później apostoł Paweł pisze do chrześcijan w Rzymie, jak człowiek zostaje zbawiony.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 10,8-13",
+       "przeklad": "BW",
+       "akapity": [
+        "Ale co powiada Pismo? Blisko ciebie jest słowo, w ustach twoich i w sercu twoim; to znaczy, słowo wiary, które głosimy. Bo jeśli ustami swoimi wyznasz, że Jezus jest Panem, i uwierzysz w sercu swoim, że Bóg wzbudził go z martwych, zbawiony będziesz. Albowiem sercem wierzy się ku usprawiedliwieniu, a ustami wyznaje się ku zbawieniu. Powiada bowiem Pismo: Każdy, kto w niego wierzy, nie będzie zawstydzony. Nie masz bowiem różnicy między Żydem a Grekiem, gdyż jeden jest Pan wszystkich, bogaty dla wszystkich, którzy go wzywają. Każdy bowiem, kto wzywa imienia Pańskiego, zbawiony będzie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł mówi o słowie, które jest „blisko”, w ustach i w sercu. **Co z tego, o czym pisze, zrobił złoczyńca na krzyżu? Czego nie zdążył zrobić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dwa razy pada słowo „każdy”. **Kogo to słowo obejmuje? Kogo czasem chcielibyśmy z niego po cichu wyłączyć, także siebie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Usprawiedliwienie” to słowo z sądu. Znaczy, że Bóg uznaje człowieka za sprawiedliwego, choć ten na to nie zapracował. **Jak to słowo brzmi obok złoczyńcy, który sam przyznał, że jego wyrok jest słuszny?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie z uczynków",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ef 2,8-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem łaską zbawieni jesteście przez wiarę, i to nie z was: Boży to dar; nie z uczynków, aby się kto nie chlubił."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Złoczyńca nie miał czym się chlubić. **Czym my najczęściej próbujemy się chlubić przed Bogiem, choć wiemy, że to nie działa?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co jest trudniejsze: przyjąć dar, na który się nie zasłużyło, czy patrzeć, jak taki dar dostaje ktoś inny?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czy można czekać do ostatniej chwili?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Kor 6,2",
+       "przeklad": "BW",
+       "akapity": [
+        "mówi bowiem: W czasie łaski wysłuchałem cię, A w dniu zbawienia pomogłem ci; Oto teraz czas łaski, Oto teraz dzień zbawienia."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Ta historia przez wieki dawała nadzieję umierającym i ich bliskim. Bywała też czytana jako wygodna furtka, żeby żyć po swojemu i nawrócić się na końcu. Tekst niczego takiego nie obiecuje. Obok wisiał drugi złoczyńca, który miał tę samą godzinę i tego samego Jezusa na wyciągnięcie ręki. Nie skorzystał. Ten, który się odezwał, niczego nie planował. Łaska go zaskoczyła. Paweł mówi „teraz”, bo nikt nie zna swojej ostatniej godziny. Obie prawdy stoją obok siebie. Na łaskę nigdy nie jest za późno, a mimo to nie warto jej odkładać.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Dlaczego jeden z dwóch ludzi w tym samym położeniu, przy tym samym Jezusie, odezwał się z wiarą, a drugi z drwiną? Co to mówi o tym, czy „ostatnia chwila” jest naprawdę łatwiejsza?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Złoczyńca miał tylko kilka godzin i jedno zdanie. **Co w twoim myśleniu o Bogu podpowiada ci, że na łaskę trzeba najpierw zapracować?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kogo z twojego otoczenia uważasz za kogoś, dla kogo jest już „za późno” albo kto jest „za daleko”?** Nie musisz mówić kto. Powiedz, co sprawia, że tak o nim myślisz.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **jakie jedno zdanie powiedziałbyś dziś Jezusowi, tak jak ten człowiek?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czy to sprawiedliwe, że człowiek, który krzywdził innych, w ostatniej godzinie dostaje tę samą obietnicę co ktoś, kto całe życie wiernie służył Bogu? A co z ludźmi, których ten złoczyńca skrzywdził?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie rozstrzyga tego pytania. Warto, żeby padło jedno spostrzeżenie. Złoczyńca nie dostał zwolnienia z kary, umarł na krzyżu tak samo jak drugi. Dostał coś innego, czego nikt nie mógł mu dać poza Jezusem. Pokrewny materiał „Robotnicy w winnicy” zajmuje się właśnie tym, jak przyjmujemy hojność Boga wobec innych.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Złoczyńca nie zdążył niczego naprawić. Zdążył tylko poprosić, a to wystarczyło, bo obietnica stała na Jezusie, nie na nim.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Łk 23,42-43 albo Rz 10,13.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl, **czego jeszcze chcesz dokonać, zanim uznasz, że możesz przyjść do Boga**. Przyznaj przed Nim, że tę listę ułożyłeś ty, nie On.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Wróć myślami do człowieka, którego w duchu skreśliłeś. Zapytaj Boga, **czy On też go skreślił**. Zostań przy tym pytaniu, nawet jeśli odpowiedź cię zaskoczy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** powiedz Jezusowi w ciszy to samo co złoczyńca, własnymi słowami. Nie dodawaj obietnic poprawy ani wyjaśnień. Sprawdź, jak to jest prosić tylko o to, żeby o tobie pamiętał.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli mogę żyć jak chcę i nawrócić się na końcu.”** Nie oburzaj się i nie strasz. Wskaż na drugi krzyż. Tamten człowiek miał tę samą godzinę i tego samego Jezusa obok, a odezwał się z drwiną. Złoczyńca, który poprosił, niczego nie planował. Paweł mówi „teraz”, bo ostatniej godziny nie zna nikt.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o bliskim, który umarł bez wiary albo bez pojednania.** Nie mów, gdzie jest ta osoba i co się z nią stało. Nie wiemy, co działo się w ostatnich chwilach czyjegoś życia. Ta historia pokazuje, że Jezus był blisko człowieka do samego końca. Można powierzyć bliskiego Bogu, który tak samo był przy tamtym złoczyńcy. Jeśli żałoba jest świeża, zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Spór o „dziś” i o to, gdzie jest człowiek po śmierci.** Nie rozstrzygaj tego na poziomie podstawowym. Powiedz, że chrześcijanie czytają ten werset na dwa sposoby, i że obie strony łączy pewność obietnicy i słowa „ze mną”. Odeślij chętnych do materiału „Co jest po śmierci?”. Przy stole mogą siedzieć ludzie różnych tradycji, więc mów o tym spokojnie i bez polemiki.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„On nawet nie był ochrzczony.”** Tekst o tym nie mówi i nie trzeba tego rozstrzygać. Jezus dał obietnicę człowiekowi, który nie mógł już zrobić niczego poza prośbą. Biblia traktuje chrzest poważnie, a zarazem ta scena pokazuje, że zbawia Jezus, nie to, co człowiek zdążył zrobić.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o własnym więzieniu albo o kimś bliskim za kratami.** Wysłuchaj bez oceniania. Zauważ na głos, że jedyny człowiek, który usłyszał od Jezusa „będziesz ze mną w raju”, był skazanym przestępcą. Nie dopytuj o szczegóły przestępstwa.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś towarzyszy umierającemu albo sam jest ciężko chory.** Ta historia może być dla niego bardzo bliska. Pozwól mu mówić, nie pocieszaj na siłę i nie doradzaj w sprawach medycznych. Grupa słucha i towarzyszy. Jeśli ktoś jest w kryzysie emocjonalnym, wskaż telefon zaufania 116 123, a w nagłej sytuacji numer 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 2. Bloki 3 i 4 niosą spotkanie, bo w nich stoi prośba złoczyńcy i odpowiedź Jezusa.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Czyli mogę żyć jak chcę i nawrócić się na końcu.”",
+     "odpowiedz": "Nie oburzaj się i nie strasz. Wskaż na drugi krzyż. Tamten człowiek miał tę samą godzinę i tego samego Jezusa obok, a odezwał się z drwiną. Złoczyńca, który poprosił, niczego nie planował. Paweł mówi „teraz”, bo ostatniej godziny nie zna nikt."
+    },
+    {
+     "sytuacja": "Ktoś mówi o bliskim, który umarł bez wiary albo bez pojednania.",
+     "odpowiedz": "Nie mów, gdzie jest ta osoba i co się z nią stało. Nie wiemy, co działo się w ostatnich chwilach czyjegoś życia. Ta historia pokazuje, że Jezus był blisko człowieka do samego końca. Można powierzyć bliskiego Bogu, który tak samo był przy tamtym złoczyńcy. Jeśli żałoba jest świeża, zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "Spór o „dziś” i o to, gdzie jest człowiek po śmierci.",
+     "odpowiedz": "Nie rozstrzygaj tego na poziomie podstawowym. Powiedz, że chrześcijanie czytają ten werset na dwa sposoby, i że obie strony łączy pewność obietnicy i słowa „ze mną”. Odeślij chętnych do materiału „Co jest po śmierci?”. Przy stole mogą siedzieć ludzie różnych tradycji, więc mów o tym spokojnie i bez polemiki."
+    },
+    {
+     "sytuacja": "„On nawet nie był ochrzczony.”",
+     "odpowiedz": "Tekst o tym nie mówi i nie trzeba tego rozstrzygać. Jezus dał obietnicę człowiekowi, który nie mógł już zrobić niczego poza prośbą. Biblia traktuje chrzest poważnie, a zarazem ta scena pokazuje, że zbawia Jezus, nie to, co człowiek zdążył zrobić."
+    },
+    {
+     "sytuacja": "Ktoś mówi o własnym więzieniu albo o kimś bliskim za kratami.",
+     "odpowiedz": "Wysłuchaj bez oceniania. Zauważ na głos, że jedyny człowiek, który usłyszał od Jezusa „będziesz ze mną w raju”, był skazanym przestępcą. Nie dopytuj o szczegóły przestępstwa."
+    },
+    {
+     "sytuacja": "Ktoś towarzyszy umierającemu albo sam jest ciężko chory.",
+     "odpowiedz": "Ta historia może być dla niego bardzo bliska. Pozwól mu mówić, nie pocieszaj na siłę i nie doradzaj w sprawach medycznych. Grupa słucha i towarzyszy. Jeśli ktoś jest w kryzysie emocjonalnym, wskaż telefon zaufania 116 123, a w nagłej sytuacji numer 112."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 2. Bloki 3 i 4 niosą spotkanie, bo w nich stoi prośba złoczyńcy i odpowiedź Jezusa."
+    }
+   ]
+  }
+ ]
+}

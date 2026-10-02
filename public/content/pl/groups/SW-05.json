@@ -1,0 +1,846 @@
+{
+ "tytul": "Chleb, światło i kadzidło",
+ "id": "SW-05",
+ "seria": "Świątynia",
+ "opis": "Chleb na stole, lampa w nocy i dym modlitwy, czyli co codzienność przybytku mówi o Jezusie i o nas.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Wj 25,23-24.29-30; Kpł 24,5-9; J 6,30-35; Wj 25,31-33.37; Wj 26,35; Wj 27,20-21; J 8,12; J 1,4-5.9; J 12,46; Wj 30,1.6-8; Ps 141,2; Ap 5,8; Ap 8,3-4",
+  "p2": "Pwt 8,3; J 6,48-51; Jr 1,11-12; Za 4,1-6; Ef 5,8-9; Łk 1,8-10",
+  "p3": "Rz 8,26-27"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 28,
+  "p3": 31
+ },
+ "tagi": [
+  "świątynia",
+  "przybytek",
+  "chleb życia",
+  "światłość",
+  "modlitwa",
+  "codzienność wiary"
+ ],
+ "wersja": 1,
+ "zdanie": "W domu Boga zawsze leżał chleb, zawsze świeciła lampa i zawsze unosił się dym modlitwy. Bóg nie zamyka swojego domu na noc.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie dzieje się w pierwszym pomieszczeniu przybytku, w Miejscu Świętym. Stały tam trzy sprzęty: stół z chlebem, świecznik i mały złoty ołtarz do spalania kadzidła. Nic tam nie było odświętnego. Chleb leżał zawsze, lampa paliła się co noc, kadzidło spalano rano i wieczorem. Jeśli lampa świeci, chleb leży na stole, a w powietrzu unosi się wonny dym, to znaczy, że ktoś jest w domu. Grupa ma zobaczyć te trzy rzeczy oczami, a potem usłyszeć Jezusa, który mówi „Ja jestem chlebem” i „Ja jestem światłością”.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokrewny materiał to „Bóg, który chce z nami zamieszkać”. Tamten mówi, dlaczego Bóg w ogóle zamieszkał w namiocie. Ten wchodzi do środka i patrzy, co się tam działo każdego dnia.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy słowach Jezusa o chlebie łatwo zejść na spór o Wieczerzę Pańską i o to, jak różne Kościoły ją rozumieją. Przy stole mogą siedzieć katolicy i prawosławni. Nie rozstrzygaj tego dzisiaj. Trzymaj się tego, co mówi tekst. Jezus wzywa, żeby do Niego przychodzić i w Niego wierzyć.",
+      "Kadzidło kojarzy się wielu osobom z nabożeństwem w ich Kościele. Nie oceniaj niczyjej praktyki. Biblia używa kadzidła jako obrazu modlitwy i o tym rozmawiacie.",
+      "Symbolika sprzętów kusi, żeby szukać znaczenia w każdej gałce świecznika. Tekst mówi mało i wystarczy.",
+      "Ktoś przy stole może mieć za sobą noc, w której nie widział żadnego światła. Słowa „nie będzie chodził w ciemności” nie mogą zabrzmieć jak zarzut, że za mało wierzy."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie rób wykładu o wymiarach stołu i świecznika. Nie oceniaj, kto modli się dobrze, a kto źle. Nie obiecuj, że wiara usuwa każdą ciemność.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Jaka zwykła rzecz w twoim domu daje ci poczucie, że jesteś u siebie? Zapach, światło w oknie, coś na stole. Wystarczy jedno słowo.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Stół, który zawsze był nakryty",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Bóg podaje Mojżeszowi na górze Synaj opis przybytku, namiotu, w którym zamieszka pośród ludu. W pierwszym pomieszczeniu ma stanąć stół.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 25,23-24.29-30",
+       "przeklad": "BW",
+       "akapity": [
+        "Zrobisz także stół z drzewa akacjowego, dwa łokcie długi, łokieć szeroki i półtora łokcia wysoki, i pokryjesz go szczerym złotem, i zrobisz na nim dokoła złoty wieniec. [...] Zrobisz też jego misy i czasze, jego dzbany i kielichy, którymi składa się ofiary z płynów, zrobisz je ze szczerego złota. Na tym stole będziesz kładł zawsze przede mną chleby pokładne."
+       ]
+      },
+      {
+       "odnosnik": "Kpł 24,5-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Weźmiesz też przedniej mąki i upieczesz z niej dwanaście placków, każdy placek z dwóch dziesiątych efy mąki. Ułożysz je w dwóch rzędach, po sześć w rzędzie, na szczerozłotym stole przed Panem; następnie na każdy rząd położysz czystego kadzidła, aby było na tym chlebie ofiarą przypomnienia, ofiarą ogniową dla Pana. W każdy sabat będzie się je nieustannie układać przed Panem od synów izraelskich jako wieczne przymierze. Będą one należały do Aarona i do jego synów; będą je jedli w świętym miejscu, gdyż jest to świętość nad świętościami z ogniowych ofiar dla Pana jako należność wieczysta."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dwanaście placków, tyle, ile plemion Izraela, leży „zawsze przede mną”. **Co znaczy, że lud jest obecny przed Bogiem w postaci zwykłego chleba?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Chleb wymienia się raz w tygodniu, w szabat, a stary jedzą kapłani. **Kto w końcu się tym chlebem karmi? Co to mówi o tym, kto tu kogo żywi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Na chlebie leży kadzidło „ofiarą przypomnienia”. **Kto ma tu o czym pamiętać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W świątyniach sąsiednich ludów bogom podawano jedzenie codziennie, w porach ludzkich posiłków, razem z napojem. W przybytku chleb wymieniano tylko raz w tygodniu, a zjadali go kapłani. Bóg Izraela nie potrzebuje jedzenia. To On karmi. Hebrajska nazwa chleba brzmi dosłownie „chleb oblicza”, bo leżał przed obliczem Pana.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Rano i wieczorem kapłan wchodził do Miejsca Świętego. Przygotowywał lampy świecznika i spalał kadzidło na złotym ołtarzu. W tym samym czasie na dziedzińcu składano baranka. W późniejszej świątyni lud gromadził się o tych godzinach na modlitwę. Namiot był kryty grubymi zasłonami, więc w środku nie było dziennego światła. Świecił tylko świecznik. Raz w tygodniu, w szabat, na stół kładziono świeży chleb. Hebrajskie słowo, które BW oddaje jako „zawsze”, „stale” albo „nieustannie”, brzmi `tamid`. Pada przy chlebie, przy lampie i przy kadzidle.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co mówi o Bogu dom, w którym nigdy nie gaśnie światło, nie pustoszeje stół i nie milknie modlitwa?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Chleb, który zstępuje z nieba",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Dzień po nakarmieniu tłumu chlebem i rybami ludzie odnajdują Jezusa po drugiej stronie jeziora.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 6,30-35",
+       "przeklad": "BW",
+       "akapity": [
+        "Rzekli tedy do niego: Jaki więc znak czynisz, abyśmy widzieli i uwierzyli tobie? Jakie dzieło wykonujesz? Ojcowie nasi jedli mannę na pustyni, jak napisano: Chleb z nieba dał im, aby jedli. Wtedy rzekł im Jezus: Zaprawdę, zaprawdę, powiadam wam, nie Mojżesz dał wam chleb z nieba, ale Ojciec mój daje wam prawdziwy chleb z nieba. Albowiem chleb Boży to ten, który z nieba zstępuje i daje światu żywot. Wtedy rzekli do niego: Panie! Dawaj nam zawsze tego chleba! Odpowiedział im Jezus: Ja jestem chlebem żywota; kto do mnie przychodzi, nigdy łaknąć nie będzie, a kto wierzy we mnie, nigdy pragnąć nie będzie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ludzie proszą o znak i przypominają mannę. **Co Jezus poprawia w ich wspomnieniu? Kto naprawdę dał chleb?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Dawaj nam zawsze tego chleba!” Zamiast kolejnego posiłku Jezus daje im siebie. **Czego chcą ci ludzie, a co On im proponuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Kto do mnie przychodzi, nigdy łaknąć nie będzie”. **Jak rozumiesz to zdanie, skoro wierzący wciąż bywają głodni Boga?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Chleb na stole w przybytku leżał przed Bogiem w imieniu ludu. Ludzie przynosili mąkę, a Bóg oddawał chleb kapłanom do zjedzenia. Jezus odwraca kierunek jeszcze bardziej. Chleb nie idzie od ludzi do Boga. Zstępuje od Boga do ludzi i daje „światu żywot”. Nie trzeba go wypracować ani upiec. Trzeba przyjść.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie samym chlebem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 8,3",
+       "przeklad": "BW",
+       "akapity": [
+        "Upokarzał cię i morzył cię głodem, ale też karmił cię manną, której nie znałeś ani ty, ani nie znali twoi ojcowie, aby dać ci poznać, iż człowiek nie samym chlebem żyje, lecz że człowiek żyć będzie wszystkim, co wychodzi z ust Pana."
+       ]
+      },
+      {
+       "odnosnik": "J 6,48-51",
+       "przeklad": "BW",
+       "akapity": [
+        "Ja jestem chlebem żywota. Ojcowie wasi jedli mannę na pustyni i poumierali; tu natomiast jest chleb, który zstępuje z nieba, aby nie umarł ten, kto go spożywa. Ja jestem chlebem żywym, który z nieba zstąpił; jeśli kto spożywać będzie ten chleb, żyć będzie na wieki; a chleb, który Ja dam, to ciało moje, które Ja oddam za żywot świata."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mojżesz mówi o głodzie na pustyni jak o szkole. **Czego Bóg uczył swój lud przez to, że karmił go codziennie, a nie na zapas?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Chleb, o którym mówi Jezus, kosztuje Go życie: „ciało moje, które Ja oddam”. **Co to zmienia w słowach „chleb żywota”?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Lampa, która płonie nocą",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 25,31-33.37",
+       "przeklad": "BW",
+       "akapity": [
+        "Zrobisz też świecznik ze szczerego złota. Jego podstawę i jego trzon wykujesz z jednej bryły; jego kielichy, gałki i kwiaty będą z tej samej bryły. Sześć ramion wychodzić będzie z jego boków: trzy ramiona świecznika z jednego, a trzy z drugiego boku. Trzy kielichy w kształcie kwiatu migdałowego na jednym ramieniu z gałką i kwiatem; i znowu trzy kielichy w kształcie kwiatu migdałowego na drugim ramieniu z gałką i kwiatem. Tak będzie na sześciu ramionach, wychodzących ze świecznika. [...] Zrobisz też do niego siedem lamp. Lampy jego należy tak ustawić, aby oświecały przeciwległą stronę."
+       ]
+      },
+      {
+       "odnosnik": "Wj 26,35",
+       "przeklad": "BW",
+       "akapity": [
+        "Na zewnątrz zasłony postawisz stół, a naprzeciw stołu świecznik po południowej stronie przybytku, a stół postawisz po stronie północnej."
+       ]
+      },
+      {
+       "odnosnik": "Wj 27,20-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Rozkażesz też synom izraelskim, aby przynosili ci do świecznika oliwę z oliwek, czystą, wytłoczoną, aby stale można było wystawiać lampy. W Namiocie Zgromadzenia poza zasłoną, która jest przed Skrzynią Świadectwa, będzie ją przyrządzał Aaron i jego synowie, aby od wieczora do rana świeciła przed Panem. Jest to przepis wieczysty dla wszystkich pokoleń synów izraelskich."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Świecznik wygląda jak gałąź drzewa migdałowego z kielichami i kwiatami. **Dlaczego światło w domu Boga wyrasta z czegoś, co przypomina żywe drzewo?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Lampa ma świecić „od wieczora do rana”. **Dlaczego Bogu tak zależy na świetle właśnie w nocy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Świecznik stoi naprzeciw stołu i świeci na „przeciwległą stronę”, a oliwę przynoszą zwykli ludzie. **Na co pada to światło i kto pomaga je podtrzymać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Stół z dwunastoma chlebami stał naprzeciw świecznika. Światło lamp padało więc na chleby, po jednym na każde plemię. Można to czytać jak obraz całego ludu w świetle Boga. Większość obrzędów w przybytku odbywała się za dnia. O lampie tekst mówi wprost, że ma świecić od wieczora do rana. Bóg czuwał przy ludzie wtedy, gdy ten spał.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Drzewo, które czuwa",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jr 1,11-12",
+       "przeklad": "BW",
+       "akapity": [
+        "I doszło mnie słowo Pana tej treści: Co widzisz, Jeremiaszu? I odpowiedziałem: Widzę gałązkę drzewa migdałowego. Wtedy Pan rzekł do mnie: Dobrze widziałeś, gdyż czuwam nad moim słowem, aby je wypełnić."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Po hebrajsku migdał to `szaked`, a „czuwam” to `szoked`. Migdałowiec kwitnie w Izraelu pierwszy, jeszcze pod koniec zimy, jakby budził się przed innymi.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co dodaje do obrazu świecznika to, że jego kwiaty są kwiatami drzewa, które „czuwa”?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Oliwa dla lamp",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Za 4,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Anioł, który rozmawiał ze mną, powrócił i obudził mnie, jak budzi się kogoś ze snu, i zapytał mnie: Co widzisz? A ja odpowiedziałem: Widzę, oto jest świecznik cały ze złota, a na jego szczycie jest czasza. Na niej jest siedem lamp, a lampy, które są na jej szczycie, mają po siedem knotów. Dwa drzewa oliwne stoją obok niego, jedno z prawej strony czaszy, a drugie z jej lewej strony. Wtedy odezwałem się i rzekłem do anioła, który rozmawiał ze mną: Co to oznacza, mój panie? Anioł, który rozmawiał ze mną, tak odpowiedział: Czy nie wiesz, co to oznacza? Ja odpowiedziałem: Nie, mój panie! Wtedy on odpowiedział, mówiąc do mnie: Takie jest słowo Pana do Zorobabela: Nie dzięki mocy ani dzięki sile, lecz dzięki mojemu Duchowi to się stanie – mówi Pan Zastępów."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Prorok pyta o świecznik, a odpowiedź mówi o Duchu. **Co znaczy „nie dzięki mocy ani dzięki sile” dla kogoś, kto czuje, że jego światło przygasa?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W dalszej części tej wizji oliwa płynie sama, z drzew stojących obok, złotymi rurkami do lamp. **Kiedy w twoim życiu coś świeciło, choć nie miałeś już sił tego podtrzymywać?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Światłość świata",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jezus jest w świątyni w Jerozolimie, krótko po Święcie Namiotów. Naucza przy skarbcu, na dziedzińcu, gdzie chodzą wszyscy (J 7,2; 8,20).",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 8,12",
+       "przeklad": "BW",
+       "akapity": [
+        "A Jezus znowu przemówił do nich tymi słowy: Ja jestem światłością świata; kto idzie za mną, nie będzie chodził w ciemności, ale będzie miał światłość żywota."
+       ]
+      },
+      {
+       "odnosnik": "J 1,4-5.9",
+       "przeklad": "BW",
+       "akapity": [
+        "W nim było życie, a życie było światłością ludzi. A światłość świeci w ciemności, lecz ciemność jej nie przemogła. [...] Prawdziwa światłość, która oświeca każdego człowieka, przyszła na świat."
+       ]
+      },
+      {
+       "odnosnik": "J 12,46",
+       "przeklad": "BW",
+       "akapity": [
+        "Ja jako światłość przyszedłem na świat, aby nie pozostał w ciemności nikt, kto wierzy we mnie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jezus nie mówi „pokażę wam światło”. Mówi „Ja jestem światłością”. **Co to znaczy dla kogoś, kto szuka drogi w ciemności?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Lampa w przybytku świeciła w zamkniętym namiocie, przed oczami kilku kapłanów. Jezus mówi o świetle dla świata i dla „każdego człowieka”. **Co się zmienia, gdy światło wychodzi z namiotu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Ciemność jej nie przemogła”. **Jak to zdanie brzmi dla kogoś, kto akurat jest w ciemności i nie widzi wyjścia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Późniejsze opisy żydowskie mówią, że w czasie Święta Namiotów na dziedzińcu świątyni zapalano wielkie świeczniki, a ich blask widziało całe miasto. Jezus mówi swoje zdanie w tej samej świątyni, w dniach, gdy to światło było jeszcze w pamięci. Wcześniej lampa w Miejscu Świętym świeciła tylko dla kapłanów. Teraz światło stoi na dziedzińcu, między ludźmi, i woła „kto idzie za mną”.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dzieci światłości",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ef 5,8-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Byliście bowiem niegdyś ciemnością, a teraz jesteście światłością w Panu. Postępujcie jako dzieci światłości, bo owocem światłości jest wszelka dobroć i sprawiedliwość, i prawda."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł pisze mocno: „byliście ciemnością”. **Jak może świecić ktoś, kto sam był ciemnością?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Owocem światłości są „dobroć i sprawiedliwość, i prawda”. **Po czym ludzie wokół ciebie poznaliby, że w tobie pali się lampa?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Modlitwa jak kadzidło",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 30,1.6-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Zrobisz też ołtarz do spalania kadzidła, a zrobisz go z drzewa akacjowego. [...] Umieścisz go przed zasłoną, która jest przed Skrzynią Świadectwa, przed pokrywą, która jest nad Świadectwem, gdzie będę się z tobą spotykał. Na nim będzie Aaron spalał wonne kadzidło. Każdego poranka, gdy będzie przygotowywał lampy, będzie je spalał. Także przed wieczorem, gdy Aaron będzie wstawiał lampy, będzie je spalał. Jest to stała ofiara kadzidlana przed Panem po wszystkie pokolenia wasze."
+       ]
+      },
+      {
+       "odnosnik": "Ps 141,2",
+       "przeklad": "BW",
+       "akapity": [
+        "Niech wznosi się ku tobie modlitwa moja jak kadzidło, A podniesienie rąk moich jak ofiara wieczorna!"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Apostoł Jan widzi w wizji niebo jako świątynię, z tronem Boga i złotym ołtarzem.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 5,8",
+       "przeklad": "BW",
+       "akapity": [
+        "a gdy ją wziął, upadły przed Barankiem cztery postacie i dwudziestu czterech starców, a każdy z nich miał harfę i złotą czaszę pełną wonności; są to modlitwy świętych."
+       ]
+      },
+      {
+       "odnosnik": "Ap 8,3-4",
+       "przeklad": "BW",
+       "akapity": [
+        "I przyszedł inny anioł, i stanął przy ołtarzu, mając złotą kadzielnicę; i dano mu wiele kadzidła, aby je ofiarował wraz z modlitwami wszystkich świętych na złotym ołtarzu przed tronem. I wzniósł się z ręki anioła dym z kadzideł z modlitwami świętych przed Boga."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ołtarz kadzenia stoi najbliżej zasłony, tam, „gdzie będę się z tobą spotykał”. **Co mówi to miejsce o modlitwie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Psalmista prosi, żeby jego modlitwa wznosiła się „jak kadzidło”. **Co obraz dymu mówi o modlitwie, o tym, co widać, i o tym, czego nie widać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W niebie złote czasze są pełne wonności, którymi są modlitwy świętych, a aniołowi „dano wiele kadzidła”, żeby je ofiarował razem z modlitwami. **Co ta scena mówi o modlitwach, które nam samym wydają się słabe?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Lud na dworze",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Zachariasz, ojciec Jana Chrzciciela, był zwykłym kapłanem. Pewnego dnia los wyznaczył go do służby przy ołtarzu kadzenia.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 1,8-10",
+       "przeklad": "BW",
+       "akapity": [
+        "I stało się, gdy sprawował służbę kapłańską przed Bogiem w kolejności przypadającej nań zmiany, że według zwyczaju urzędu kapłańskiego na niego padł los, by wejść do świątyni Pańskiej i złożyć ofiarę z kadzidła, cała zaś rzesza ludu modliła się na dworze w godzinie tej ofiary."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Kapłan wchodzi sam, a cały lud modli się na zewnątrz. **Co łączy tych ludzi z tym, co dzieje się w środku?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kiedy modlisz się sam, co pomaga ci pamiętać, że twoja modlitwa wznosi się razem z modlitwami innych?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czy modlitwie trzeba coś dodać",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 8,26-27",
+       "przeklad": "BW",
+       "akapity": [
+        "Podobnie i Duch wspiera nas w niemocy naszej; nie wiemy bowiem, o co się modlić, jak należy, ale sam Duch wstawia się za nami w niewysłowionych westchnieniach. A Ten, który bada serca, wie, jaki jest zamysł Ducha, bo zgodnie z myślą Bożą wstawia się za świętymi."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W Ap 5,8 kadzidło to same modlitwy świętych. W Ap 8,3 kadzidło zostaje dane aniołowi i dodane do modlitw. Chrześcijanie czytają ten obraz dwojako. Jedni widzą w kadzidle po prostu modlitwę, która wznosi się do Boga jak w psalmie. Inni, także wielu adwentystów, widzą w kadzidle dodanym do modlitw obraz wstawiennictwa Chrystusa. Według nich nasze modlitwy docierają do Boga dzięki temu, kim jest i co zrobił Jezus. Obie strony zgadzają się co do dwóch rzeczy. Modlitwa nie dociera do Boga dzięki naszej wymowie ani sile. A wstawiennictwo nie oznacza, że Ojca trzeba przekonywać do miłości. Bóg kochał nas, zanim ktokolwiek się za nami wstawił.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia w twojej modlitwie myśl, że Duch „wstawia się za nami”, gdy sam nie wiesz, o co prosić?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak mówić o wstawiennictwie Jezusa tak, żeby nie wyszedł z tego obraz Boga, którego trzeba dopiero uprosić?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Chleb, lampa i kadzidło wracały dzień po dniu i tydzień po tygodniu, powtarzalne do znudzenia. **Co w twojej wierze dzieje się zwyczajnie, dzień po dniu, i co by się stało, gdyby to zgasło?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czego potrzebujesz teraz najbardziej: chleba, światła czy modlitwy, która dociera do Boga? Dlaczego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **o jakiej porze dnia modlitwa przychodzi ci najłatwiej, a o jakiej najtrudniej?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kapłani przez stulecia wykonywali codziennie te same czynności: oliwa, knot, kadzidło, co tydzień chleb. Gdzie kończy się wierność w powtarzaniu, a zaczyna obrzęd bez serca? Po czym poznać to u siebie?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "nie ma tu jednej odpowiedzi. Warto, żeby padło spostrzeżenie, że Bóg sam ustanowił ten codzienny rytm. Powtarzanie nie jest wrogiem wiary. Groźne jest dopiero wtedy, gdy przestajemy pamiętać, dla Kogo to robimy.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "W domu Boga zawsze leżał chleb, zawsze świeciła lampa i zawsze unosił się dym modlitwy. Bóg nie zamyka swojego domu na noc.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** J 8,12 albo Ps 141,2.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl, czym karmisz się wtedy, gdy jesteś głodny w środku. Nazwij przed sobą **jedną rzecz, która obiecuje sytość, a zostawia głód**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Lampa w przybytku paliła się od wieczora do rana. Kiedy wieczorem zgasisz światło, przypomnij sobie, że **twoja noc nie jest dla Boga ciemna**. Zostań chwilę przy tej myśli.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** przynieś Bogu modlitwę, której się wstydzisz, bo jest krótka, nieporadna albo pełna pretensji. Psalm mówi, że i ona może wznosić się jak kadzidło.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli chleb żywota to Komunia?”** albo spór o Wieczerzę Pańską. Chrześcijanie różnie rozumieją związek J 6 z Wieczerzą i to nie jest temat na dziś. Powiedz to spokojnie. Wróć do słów, które czytaliście, o przychodzeniu do Jezusa i wierze w Niego. Na to mogą zgodzić się wszyscy przy stole.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„U nas w kościele się kadzi. To dobrze czy źle?”** Nie oceniaj. Biblia zna kadzidło w przybytku i w niebie jako obraz modlitwy. Dzisiaj rozmawiacie o tym, co ten obraz mówi o modlitwie. Zwyczaje Kościołów zostawcie na inną okazję.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś szuka znaczenia w każdej gałce i każdym kwiecie świecznika.** Podziękuj i wróć do tego, co tekst mówi wprost: świecznik ma kształt kwitnącego drzewa, świeci przez noc i pada na chleb. To wystarczy na całe spotkanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja chodzę za Jezusem, a i tak mam ciemność w sobie.”** Nie poprawiaj tej osoby i nie dawaj szybkiej odpowiedzi. Zwróć uwagę, że lampa w przybytku świeciła właśnie w nocy, a Jan pisze, że ciemność nie przemogła światła. Nie pisze, że ciemności nie ma. Jeśli ktoś mówi o długotrwałej beznadziei albo o myślach, żeby nie żyć, porozmawiaj z nim po spotkaniu i zachęć do pomocy specjalisty. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Nie umiem się modlić. Moje modlitwy nigdzie nie docierają.”** To częste i uczciwe zdanie. Nie dawaj instrukcji. Przeczytaj jeszcze raz Rz 8,26 albo Ps 141,2 i zapytaj, co ta osoba słyszy w tych słowach.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o szabacie jako o mierze, kto jest wierny.** Przy chlebie pada słowo „sabat”, bo tak tłumaczy BW. Nie rób z tego sprawdzianu dla nikogo przy stole. Tekst mówi o Bogu, który co tydzień odnawia stół przymierza. O ocenianiu ludzi nie mówi nic.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Pomiń blok 3. Bloki 1, 2, 4 i 5 niosą spotkanie: stół, Jezus jako chleb, Jezus jako światło i modlitwa jak kadzidło.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Czyli chleb żywota to Komunia?”",
+     "odpowiedz": "albo spór o Wieczerzę Pańską. Chrześcijanie różnie rozumieją związek J 6 z Wieczerzą i to nie jest temat na dziś. Powiedz to spokojnie. Wróć do słów, które czytaliście, o przychodzeniu do Jezusa i wierze w Niego. Na to mogą zgodzić się wszyscy przy stole."
+    },
+    {
+     "sytuacja": "„U nas w kościele się kadzi. To dobrze czy źle?”",
+     "odpowiedz": "Nie oceniaj. Biblia zna kadzidło w przybytku i w niebie jako obraz modlitwy. Dzisiaj rozmawiacie o tym, co ten obraz mówi o modlitwie. Zwyczaje Kościołów zostawcie na inną okazję."
+    },
+    {
+     "sytuacja": "Ktoś szuka znaczenia w każdej gałce i każdym kwiecie świecznika.",
+     "odpowiedz": "Podziękuj i wróć do tego, co tekst mówi wprost: świecznik ma kształt kwitnącego drzewa, świeci przez noc i pada na chleb. To wystarczy na całe spotkanie."
+    },
+    {
+     "sytuacja": "„Ja chodzę za Jezusem, a i tak mam ciemność w sobie.”",
+     "odpowiedz": "Nie poprawiaj tej osoby i nie dawaj szybkiej odpowiedzi. Zwróć uwagę, że lampa w przybytku świeciła właśnie w nocy, a Jan pisze, że ciemność nie przemogła światła. Nie pisze, że ciemności nie ma. Jeśli ktoś mówi o długotrwałej beznadziei albo o myślach, żeby nie żyć, porozmawiaj z nim po spotkaniu i zachęć do pomocy specjalisty. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, numer alarmowy 112."
+    },
+    {
+     "sytuacja": "„Nie umiem się modlić. Moje modlitwy nigdzie nie docierają.”",
+     "odpowiedz": "To częste i uczciwe zdanie. Nie dawaj instrukcji. Przeczytaj jeszcze raz Rz 8,26 albo Ps 141,2 i zapytaj, co ta osoba słyszy w tych słowach."
+    },
+    {
+     "sytuacja": "Ktoś mówi o szabacie jako o mierze, kto jest wierny.",
+     "odpowiedz": "Przy chlebie pada słowo „sabat”, bo tak tłumaczy BW. Nie rób z tego sprawdzianu dla nikogo przy stole. Tekst mówi o Bogu, który co tydzień odnawia stół przymierza. O ocenianiu ludzi nie mówi nic."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Pomiń blok 3. Bloki 1, 2, 4 i 5 niosą spotkanie: stół, Jezus jako chleb, Jezus jako światło i modlitwa jak kadzidło."
+    }
+   ]
+  }
+ ]
+}

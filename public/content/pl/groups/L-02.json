@@ -1,0 +1,802 @@
+{
+ "tytul": "Kłamca, który dostał nowe imię",
+ "id": "L-02",
+ "seria": "Ludzie drugiej szansy",
+ "opis": "Oszust ucieka z domu, a Bóg przychodzi do niego, zanim ten się zmieni. Po latach pyta go o imię.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Rdz 27,18-24.34-36; Rdz 28,10-15; 28,16-22; Rdz 32,23-30; 32,31-33; 2Kor 12,9-10",
+  "p2": "Rdz 25,23.26-28; J 1,47-51; Oz 12,4-5; Rdz 35,9-10",
+  "p3": "Rdz 29,25; Jr 9,3"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 26,
+  "p3": 29
+ },
+ "tagi": [
+  "Ludzie drugiej szansy",
+  "łaska",
+  "tożsamość",
+  "oszustwo",
+  "modlitwa",
+  "Księga Rodzaju"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg przyszedł do Jakuba, zanim ten się zmienił. Potem zmieniał go przez całą noc i przez całe życie.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o człowieku, którego imię brzmiało jak oskarżenie. Jakub oszukał niewidomego ojca i brata, a potem uciekł z domu. W drodze ucieczki Bóg przychodzi do niego z obietnicą i nie stawia mu warunków. Dwadzieścia lat później, nad potokiem, ktoś mocuje się z nim do świtu i pyta go o imię. Jakub wypowiada prawdę o sobie i dostaje nowe imię. Odchodzi błogosławiony i kulejący. Druga szansa nie wymazuje przeszłości. Zmienia to, kim człowiek jest przed Bogiem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przy stole mogą siedzieć ludzie, którzy tej historii nie znają. Zdania kursywą przed fragmentami mówią, co wydarzyło się pomiędzy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokrewny materiał to „Pojednanie”. Tamten czyta spotkanie Jakuba z bratem. Ten zatrzymuje się na spotkaniach Jakuba z Bogiem, więc nie wchodźcie dziś w rozmowę z Ezawem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Rodzice w tej historii mają ulubionych synów. Ktoś przy stole może nosić ranę po takim domu. Nie oceniaj niczyich rodziców.",
+      "Ktoś mógł zostać oszukany przez bliską osobę. Historia, w której oszust dostaje błogosławieństwo, może go zaboleć. Daj temu miejsce i nie tłumacz Boga na siłę.",
+      "Zdanie o dziesięcinie w Rdz 28,22 łatwo zamienić w temat zbiórek. Nie rób tego.",
+      "Pytanie, kim był mąż, który walczył z Jakubem, potrafi zjeść pół spotkania. Odpowiedź masz w czerwonych flagach."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie rób z Jakuba wzoru sprytu ani przykładu na to, że kłamstwo się opłaca. Nie rozliczaj go też za każdy krok. Biblia robi to sama, spokojnie i bez komentarza.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o przezwisku albo etykiecie, którą ktoś ci kiedyś przykleił i którą nosiłeś dłużej, niż chciałeś. Nie musisz jej zdradzać. Powiedz jednym zdaniem, jak się z nią czułeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Głos Jakuba, ręce Ezawa",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Izaak był stary i niewidomy. Chciał pobłogosławić starszego z bliźniaków, Ezawa. Za namową matki młodszy, Jakub, przebrał się za brata i obłożył ręce koźlą skórą, żeby ojciec go nie rozpoznał.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 27,18-24",
+       "przeklad": "BW",
+       "akapity": [
+        "A on, wszedłszy do ojca swego rzekł: Ojcze mój! Ten zaś odpowiedział: Otom ja, ale kto ty jesteś synu mój? Wtedy Jakub rzekł do ojca swego: Jestem Ezaw, twój pierworodny. Uczyniłem, jak mi kazałeś; wstań, proszę, siądź i jedz z łowów moich, aby błogosławiła mi dusza twoja. A Izaak rzekł do syna swego: Jakże prędko uwinąłeś się z tym, synu mój? On zaś odpowiedział: Pan, Bóg twój, sprawił, że mi się powiodło.",
+        "Na to rzekł Izaak do Jakuba: Zbliż się, proszę, abym się ciebie dotknął, synu mój, czy to ty jesteś moim synem Ezawem, czy nie. Zbliżył się tedy Jakub do Izaaka, ojca swego, który dotknął się go, i rzekł: Głos jest głosem Jakuba, ale ręce są rękami Ezawa. I nie poznał go, bo ręce jego były owłosione jak ręce Ezawa, brata jego. Wtedy pobłogosławił go. I rzekł: To ty jesteś syn mój Ezaw? A on odpowiedział: Jestem."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Chwilę później wraca z polowania Ezaw.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 27,34-36",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy Ezaw usłyszał słowa ojca swego, podniósł głośny i pełen goryczy krzyk i rzekł do ojca: Pobłogosław także mnie, ojcze mój. A on rzekł: Brat twój przyszedł podstępnie i wziął błogosławieństwo twoje. Wtedy rzekł: Słusznie nazwano go Jakub, podszedł mnie bowiem już dwukrotnie, wziął moje pierworodztwo, a teraz wziął moje błogosławieństwo. I rzekł jeszcze: Czy nie zachowałeś i dla mnie błogosławieństwa?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ojciec dwa razy pyta Jakuba, kim jest. Jakub w kłamstwo wplata nawet Boga, ale mówi „Pan, Bóg twój”. **Co te odpowiedzi mówią o nim samym?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Imię Jakub brzmi po hebrajsku jak „trzymający za piętę” i „ten, który podchodzi”. Ezaw mówi „słusznie nazwano go Jakub”. **Jak się żyje z imieniem, które mówi o tobie najgorszą prawdę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Kto w tej scenie traci najwięcej? Spróbujcie spojrzeć oczami każdej z osób.**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jakub nie działał sam. Plan podsunęła mu matka. Ojciec po cichu chciał pobłogosławić tylko jednego syna, choć zwyczaj kazał wezwać do łoża wszystkich synów. Cały dom grał przeciw sobie. Jeszcze przed narodzinami bliźniąt Bóg zapowiedział, że starszy będzie służył młodszemu. Błogosławieństwo, o które walczyli, i tak miało trafić do Jakuba. Intryga była nieuczciwa i do tego niepotrzebna. Za to jej cena okazała się ogromna.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dwa narody w jednym łonie",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Tak opisano narodziny bliźniąt i dom, w którym dorastali.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 25,23",
+       "przeklad": "BW",
+       "akapity": [
+        "A Pan rzekł do niej: Dwa narody są w łonie twoim i dwa ludy wywiodą się z żywota twego. Jeden naród będzie miał przewagę nad drugim, starszy będzie służył młodszemu."
+       ]
+      },
+      {
+       "odnosnik": "Rdz 25,26-28",
+       "przeklad": "BW",
+       "akapity": [
+        "Następnie wyszedł brat jego, a ręką swą trzymał za piętę Ezawa; i nazwano go Jakub. Izaak zaś miał sześćdziesiąt lat, gdy ich zrodził. A gdy chłopcy wyrośli, Ezaw był mężem biegłym w myślistwie i żył na stepie. Jakub zaś był mężem spokojnym, mieszkającym w namiotach. Izaak miłował Ezawa, bo lubił dziczyznę, Rebeka natomiast kochała Jakuba."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Każde z rodziców ma tu swojego syna. **Jak to mogło ustawić wszystko, co wydarzyło się później?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg zapowiedział przyszłość, zanim chłopcy cokolwiek zrobili. **Dlaczego Jakub i jego matka nie umieli na tę obietnicę po prostu poczekać?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Drabina nad uciekinierem",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Ezaw poprzysiągł bratu śmierć. Jakub uciekł z domu do krewnych matki, daleko na północ.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 28,10-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Jakub zaś wyruszył z Beer-Szeby i udał się do Haranu. A gdy przybył na pewne miejsce, zatrzymał się tam na noc, gdyż słońce zaszło, i wziął jeden kamień z tego miejsca, podłożył go sobie pod głowę i zasnął na tym miejscu. I śniło mu się, że była ustawiona na ziemi drabina, której szczyt sięgał nieba, po niej zaś wstępowali i zstępowali aniołowie Boży.",
+        "A Pan stał nad nią i mówił: Jam jest Pan, Bóg Abrahama, ojca twego, i Bóg Izaaka! Ziemię, na której leżysz, dam tobie i potomstwu twojemu. Potomstwo twoje będzie liczne jak proch ziemi i rozprzestrzenisz się na zachód i na wschód, i na północ, i na południe, i będą błogosławione w tobie i w potomstwie twoim wszystkie plemiona ziemi. A oto Jam jest z tobą i będę cię strzegł wszędzie, dokądkolwiek pójdziesz, i przywiodę cię z powrotem do tej ziemi, bo nie opuszczę cię, dopóki nie uczynię tego, co ci przyrzekłem."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg przychodzi do Jakuba w drodze ucieczki, zaraz po oszustwie. **Czego nie ma w tym, co Bóg mówi, choć moglibyśmy się tego spodziewać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie jeszcze raz werset 15 i policzcie, co Bóg obiecuje zrobić. **Która z tych obietnic była najważniejsza dla kogoś, kto śpi sam na kamieniu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Drabina stoi na ziemi, a Pan stoi nad nią i mówi. **Kto w tym śnie robi pierwszy ruch w stronę drugiego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ludzie w świecie Jakuba budowali wysokie świątynie schodkowe, które miały łączyć ziemię z siedzibą bogów. W Biblii taką budowlą jest wieża Babel, której budowniczowie chcieli sięgnąć nieba. Sen Jakuba odwraca ten pomysł. Schodów nie zbudował człowiek, a Bóg nie czeka na górze, aż ktoś do Niego dotrze. Sam mówi do śpiącego uciekiniera. Te same obietnice usłyszał kiedyś Abraham, gdy przychodził do tej ziemi. Jakub słyszy je, gdy z niej ucieka.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Niebo otwarte",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Wiele wieków później Jezus spotyka Natanaela, który najpierw wątpił, czy z Nazaretu może wyjść coś dobrego.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "J 1,47-51",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy Jezus ujrzał Natanaela, idącego do niego, rzekł o nim: Oto prawdziwy Izraelita, w którym nie ma fałszu. Rzecze mu Natanael: Skąd mnie znasz? Odpowiedział mu Jezus i rzekł: Zanim cię zawołał Filip, widziałem cię, gdy byłeś pod drzewem figowym. Odpowiedział mu Natanael: Mistrzu! Ty jesteś Synem Bożym, Ty jesteś królem Izraela. A Jezus odpowiadając, rzekł do niego: Czy dlatego wierzysz, że powiedziałem ci, iż cię widziałem pod figowym drzewem? Ujrzysz większe rzeczy niż to. Powiedział też do niego: Zaprawdę, zaprawdę, powiadam wam, ujrzycie niebo otwarte i aniołów Bożych wstępujących i zstępujących na Syna Człowieczego."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus nazywa Natanaela Izraelitą, „w którym nie ma fałszu”, a chwilę później przywołuje sen Jakuba. **Co to zestawienie mówi o człowieku, od którego cały Izrael wziął imię?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "We śnie Jakuba aniołowie wchodzą po drabinie. U Jezusa wstępują i zstępują „na Syna Człowieczego”. **Co to mówi o tym, gdzie dziś niebo spotyka się z ziemią?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Pan jest na tym miejscu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 28,16-22",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy Jakub się obudził ze snu, rzekł: Zaprawdę, Pan jest na tym miejscu, a ja nie wiedziałem. Zdjęty trwogą rzekł: O, jakimże lękiem napawa to miejsce! Nic tu innego, tylko dom Boży i brama do nieba. I wstawszy wcześnie rano, wziął Jakub ów kamień, który sobie podłożył pod głowę, postawił go jako pomnik i nalał oliwy na jego wierzch, i nazwał to miejsce Betel. Przedtem miejscowość ta nazywała się Luz.",
+        "I złożył tam Jakub ślub, i powiedział: Jeżeli Bóg będzie ze mną i będzie mnie strzegł w drodze, w którą się udaję, i da mi chleb na pokarm i szatę na odzienie, i powrócę w pokoju do domu ojca mego, to Pan będzie Bogiem moim, a kamień, który postawiłem jako pomnik, będzie domem Bożym, i ze wszystkiego, co mi dasz, będę ci dawał dokładnie dziesięcinę."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Pan jest na tym miejscu, a ja nie wiedziałem”. **Co Jakub odkrywa o miejscu, które wieczorem było dla niego zwykłym postojem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg obiecał bez żadnych warunków. Jakub odpowiada ślubem, który zaczyna się od słowa „Jeżeli”. **Co ten ślub mówi o tym, gdzie Jakub jest w swojej wierze?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Nazwa Betel znaczy „dom Boży”. **Co się zmienia, gdy kamień spod głowy uciekiniera staje się pomnikiem?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czy kłamstwo się opłaciło?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jakub zdobył błogosławieństwo podstępem, a Bóg potwierdził mu obietnice. Wygląda to tak, jakby oszustwo wygrało. W Kościele słychać tu dwa akcenty. Jedni podkreślają, że Bóg wybrał Jakuba, zanim ten cokolwiek zrobił. Kłamstwo niczego mu więc nie dało, za to wiele zabrało. Stracił dom i dwadzieścia lat, a Księga Rodzaju nie wspomina, żeby jeszcze kiedyś zobaczył matkę. Drudzy podkreślają, że Bóg pracuje z ludźmi takimi, jakimi są, i nie czeka z łaską, aż się poprawią.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Obie strony łączy jedno zdanie. Bóg nie pochwala kłamstwa i nie odbiera obietnicy. Rachunek za podstęp przychodzi i tak, a wystawia go życie. Po latach teść oszuka Jakuba przy weselu.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 29,25",
+       "przeklad": "BW",
+       "akapity": [
+        "Nazajutrz rano okazało się, że była to Lea. Wtedy rzekł do Labana: Cóżeś mi to uczynił? Czy nie za Rachelę ci służyłem? Dlaczego oszukałeś mnie?"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak można jednocześnie powiedzieć, że Jakub dostał błogosławieństwo z łaski i że zapłacił za swoje kłamstwo?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Noc nad Jabbokiem",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Mija dwadzieścia lat. Jakub wraca z żonami, dziećmi i stadami. Nad potokiem Jabbok czeka na spotkanie z bratem, którego kiedyś oszukał.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 32,23-30",
+       "przeklad": "BW",
+       "akapity": [
+        "Ale wstawszy tej jeszcze nocy, wziął obie żony swoje, obie służące swoje i jedenastu synów swoich i przebył bród Jabboku. A wziąwszy je, przeprawił je przez rzekę, następnie przeprawił też to, co miał. Jakub zaś pozostał sam. I mocował się z nim pewien mąż aż do wzejścia zorzy. A gdy widział, że go nie przemoże, uderzył go w staw biodrowy i zwichnął staw biodrowy Jakuba, gdy się z nim mocował.",
+        "I rzekł: Puść mnie, bo już wzeszła zorza. Ale on odpowiedział: Nie puszczę cię, dopóki mi nie pobłogosławisz. Wtedy rzekł do niego: Jakie jest imię twoje? I odpowiedział: Jakub. Wtedy rzekł: Nie będziesz już nazywał się Jakub, lecz Izrael, bo walczyłeś z Bogiem i z ludźmi i zwyciężyłeś. A Jakub zapytał, mówiąc: Powiedz mi, proszę, jakie jest imię twoje? Na to odpowiedział: Dlaczego pytasz o imię moje? I tam mu błogosławił."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jakub zostaje sam i ktoś mocuje się z nim do świtu. **Co w jego dotychczasowym życiu przypominało już taką walkę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ostatnim razem, gdy ktoś pytał Jakuba, kim jest, odpowiedział „Jestem Ezaw”. Teraz pada pytanie „Jakie jest imię twoje?”. **Co znaczy, że tym razem mówi „Jakub”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Nie puszczę cię, dopóki mi nie pobłogosławisz”. Ten sam upór kiedyś służył podstępowi. **Co się zmieniło w tym, o co Jakub walczy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jakub pyta przeciwnika o imię i nie dostaje odpowiedzi. Dostaje za to błogosławieństwo. **Dlaczego to mu wystarcza?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Bóg nie pyta Jakuba, co zrobił. Pyta go, jak ma na imię. Dla Jakuba to jedno i to samo, bo jego imię było streszczeniem jego życia. Wypowiedzieć je znaczyło przyznać się do wszystkiego, bez przebrania i bez cudzego głosu. Dopiero wtedy pada nowe imię. W świecie Biblii imię mówiło, kim człowiek jest, więc nowe imię oznaczało nowy początek. Tak było z Abramem, który stał się Abrahamem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Prorok wspomina tę noc",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Kilkaset lat później prorok Ozeasz przypomina potomkom Jakuba ich praojca.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Oz 12,4-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Już w łonie matki podszedł swojego brata, a będąc w pełni sił walczył z Bogiem. Walcząc z aniołem zwyciężył, z płaczem błagał o zmiłowanie; w Betel znalazł Boga i tam z nim rozmawiał:"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ozeasz dodaje szczegół, którego nie ma w Księdze Rodzaju. Jakub walczył „z płaczem”. **Co ten płacz zmienia w obrazie tej walki?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Dlaczego prorok wybiera z życia Jakuba akurat walkę nad rzeką i spotkanie w Betel?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Imię Jakub to po hebrajsku `Ja'akow`. Brzmi jak słowo `akew`, „pięta”, bo przy narodzinach trzymał brata za piętę. Ten sam rdzeń znaczy też „podejść kogoś, oszukać” i tak rozumie je Ezaw. Prorok Jeremiasz napisze później, że każdy brat „knuje zdradę jak Jakub” (Jr 9,3), i w BW samo imię stoi w tym zdaniu jak przezwisko.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Imię `Jisra'el` BW wykłada słowami „walczyłeś z Bogiem”. Gramatycznie Bóg jest w tym imieniu raczej podmiotem, więc można je odczytać także jako „Bóg walczy” albo „Bóg się zmaga”. Oba odczytania mają swoich zwolenników i oba coś mówią. Pierwsze opowiada o człowieku, który nie puścił Boga. Drugie mówi, że od tej nocy to Bóg będzie walczył za Jakuba.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co mówi Jakubowi o jego dalszym życiu imię, które znaczy „Bóg walczy”?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Kulejący i błogosławiony",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 32,31-33",
+       "przeklad": "BW",
+       "akapity": [
+        "I nazwał Jakub to miejsce Peniel, mówiąc: Oglądałem Boga twarzą w twarz, a jednak ocalało życie moje. A gdy przechodził przez Peniel, wschodziło nad nim słońce, on zaś utykał z powodu biodra swego. Dlatego synowie Izraela aż do dnia dzisiejszego nie jedzą ścięgna, które jest w stawie biodrowym, ponieważ uderzył Jakuba w staw biodrowy, w to właśnie ścięgno."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Apostoł Paweł pisze o słabości, od której prosił Boga o uwolnienie. Usłyszał inną odpowiedź.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Kor 12,9-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz powiedział do mnie: Dosyć masz, gdy masz łaskę moją, albowiem pełnia mej mocy okazuje się w słabości. Najchętniej więc chlubić się będę słabościami, aby zamieszkała we mnie moc Chrystusowa. Dlatego mam upodobanie w słabościach, w zniewagach, w potrzebach, w prześladowaniach, w uciskach dla Chrystusa; albowiem kiedy jestem słaby, wtedy jestem mocny."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Nad Jakubem wschodzi słońce, a on idzie dalej i utyka. **Dlaczego śladem tej nocy jest właśnie rana?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Oglądałem Boga twarzą w twarz, a jednak ocalało życie moje”. **Co Jakub mówi tym zdaniem o Bogu, a co o sobie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paweł pisze, że moc Boga okazuje się w słabości. **Jak to zdanie pomaga zrozumieć kulejącego Jakuba?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Imię powtórzone w Betel",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Po latach Jakub wraca do Betel, miejsca swojego pierwszego snu.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 35,9-10",
+       "przeklad": "BW",
+       "akapity": [
+        "I znów ukazał się Bóg Jakubowi, gdy wracał z Paddan-Aram, i błogosławił mu. I rzekł do niego Bóg: Imię twoje jest Jakub; lecz odtąd nie będziesz się nazywał Jakub, ale imię twoje będzie Izrael. I nazwał go imieniem Izrael."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg powtarza nowe imię w miejscu, przez które Jakub kiedyś uciekał. **Dlaczego człowiek czasem musi usłyszeć to samo słowo od Boga drugi raz?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg przyszedł do Jakuba, zanim ten się zmienił. **Co to zmienia w tym, jak myślisz o swoich szansach u Boga?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdzie w twoim życiu upór, który dotąd służył tobie, mógłby zwrócić się w stronę Boga?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **jakie imię chciałbyś usłyszeć od Boga zamiast tego, którym sam siebie nazywasz?** Starego nie musisz zdradzać.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakub dostał nowe imię, a Biblia do końca jego życia nazywa go na zmianę Jakubem i Izraelem. **Czy człowiek po spotkaniu z Bogiem jest już kimś nowym, czy dopiero się nim staje? Co robić, kiedy stare imię wraca?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie rozstrzyga. Warto, żeby padło spostrzeżenie, że Bóg ani razu nie odebrał Jakubowi nowego imienia, choć Jakub nie zawsze żył na jego miarę.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg przyszedł do Jakuba, zanim ten się zmienił. Potem zmieniał go przez całą noc i przez całe życie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** Rdz 28,15 albo Rdz 32,29.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Pan jest na tym miejscu, a ja nie wiedziałem”. Przypomnij sobie jedno miejsce z ostatnich dni, które wydawało ci się zupełnie zwyczajne. Zapytaj siebie, **czy Bóg nie był tam bliżej, niż zauważyłeś**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Bóg zapytał Jakuba o imię. Odpowiedz Mu w ciszy **prawdą o sobie**, bez przebrania i bez cudzego głosu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Jeśli od dawna mocujesz się z Bogiem o jakąś sprawę, nie puszczaj Go. Powiedz Mu wprost, o jakie błogosławieństwo prosisz. Przyjmij, że z tej walki możesz wyjść kulejąc.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli kłamstwo się opłaca?”** Nie. Jakub stracił dom, matkę i dwadzieścia lat, a potem sam został oszukany. Bóg nie nagrodził podstępu. Dotrzymał obietnicy danej, zanim Jakub się urodził. Jeśli grupa pracuje na poziomie 3, macie o tym osobny blok.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Kim był mąż, który walczył z Jakubem?** Jakub mówi, że oglądał Boga twarzą w twarz. Ozeasz nazywa przeciwnika aniołem. Wielu chrześcijan widzi w tej postaci samego Syna Bożego, zanim stał się człowiekiem. Powiedz to krótko i nie rozstrzygaj dłużej niż minutę. Ważniejsze jest to, o co Bóg pyta Jakuba.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada o faworyzowaniu w rodzinie albo o oszustwie ze strony brata czy siostry.** Wysłuchaj, podziękuj i nie oceniaj nieobecnych. Możesz zwrócić uwagę, że Biblia nazywa tę ranę po imieniu i nikogo w tym domu nie wybiela.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na spotkanie z Ezawem.** To dobra historia, ale dzisiaj jej nie czytacie. Wskaż materiał „Pojednanie” i wróć do nocy nad Jabbokiem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja z Bogiem nie walczę, to byłby brak wiary.”** Ozeasz opisuje tę walkę jako płacz i błaganie o zmiłowanie. Biblia nie widzi w niej buntu, tylko modlitwę, która nie chce puścić. Nikogo nie namawiaj ani do walki, ani do spokoju. Każdy przychodzi do Boga tak, jak umie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu o imię.** To dobry znak. Odczekaj w ciszy. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 3. Bloki 2 i 4 niosą spotkanie: Bóg przychodzi do uciekiniera bez warunków, a po latach pyta go o imię i daje nowe.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Czyli kłamstwo się opłaca?”",
+     "odpowiedz": "Nie. Jakub stracił dom, matkę i dwadzieścia lat, a potem sam został oszukany. Bóg nie nagrodził podstępu. Dotrzymał obietnicy danej, zanim Jakub się urodził. Jeśli grupa pracuje na poziomie 3, macie o tym osobny blok."
+    },
+    {
+     "sytuacja": "Kim był mąż, który walczył z Jakubem?",
+     "odpowiedz": "Jakub mówi, że oglądał Boga twarzą w twarz. Ozeasz nazywa przeciwnika aniołem. Wielu chrześcijan widzi w tej postaci samego Syna Bożego, zanim stał się człowiekiem. Powiedz to krótko i nie rozstrzygaj dłużej niż minutę. Ważniejsze jest to, o co Bóg pyta Jakuba."
+    },
+    {
+     "sytuacja": "Ktoś opowiada o faworyzowaniu w rodzinie albo o oszustwie ze strony brata czy siostry.",
+     "odpowiedz": "Wysłuchaj, podziękuj i nie oceniaj nieobecnych. Możesz zwrócić uwagę, że Biblia nazywa tę ranę po imieniu i nikogo w tym domu nie wybiela."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na spotkanie z Ezawem.",
+     "odpowiedz": "To dobra historia, ale dzisiaj jej nie czytacie. Wskaż materiał „Pojednanie” i wróć do nocy nad Jabbokiem."
+    },
+    {
+     "sytuacja": "„Ja z Bogiem nie walczę, to byłby brak wiary.”",
+     "odpowiedz": "Ozeasz opisuje tę walkę jako płacz i błaganie o zmiłowanie. Biblia nie widzi w niej buntu, tylko modlitwę, która nie chce puścić. Nikogo nie namawiaj ani do walki, ani do spokoju. Każdy przychodzi do Boga tak, jak umie."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu o imię.",
+     "odpowiedz": "To dobry znak. Odczekaj w ciszy. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3. Bloki 2 i 4 niosą spotkanie: Bóg przychodzi do uciekiniera bez warunków, a po latach pyta go o imię i daje nowe."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,798 @@
+{
+ "tytul": "Ten, który sprzedał brata",
+ "id": "L-03",
+ "seria": "Ludzie drugiej szansy",
+ "opis": "Człowiek, który sprzedał brata za srebro, po latach oddaje siebie w zamian za innego brata.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Rdz 37,23-28.31-33; Rdz 38,11.14.24-26; Rdz 43,8-9; 44,16; Rdz 44,18-20.27-34; Rdz 49,8-10; Mt 1,1-3; Ap 5,5",
+  "p2": "Rdz 37,34-35; Pwt 25,5-6; Rdz 45,1-2",
+  "p3": "Hbr 7,14"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 17,
+  "p2": 22,
+  "p3": 25
+ },
+ "tagi": [
+  "Ludzie drugiej szansy",
+  "przemiana",
+  "wina",
+  "odpowiedzialność",
+  "rodzina",
+  "Księga Rodzaju"
+ ],
+ "wersja": 1,
+ "zdanie": "Ten, który sprzedał brata, nauczył się oddawać siebie za brata. Bóg nie zostawił Judy w jego najgorszym dniu.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o Judzie, jednym z dwunastu synów Jakuba. W znanej historii Józefa stoi zwykle na drugim planie, a przechodzi najdłuższą przemianę w całej Księdze Rodzaju. Zaczyna od pomysłu, żeby sprzedać brata, bo z jego śmierci nie byłoby zysku. Potem synowa przyłapuje go na hipokryzji i Juda przyznaje publicznie, że to ona jest sprawiedliwsza. Na końcu ofiaruje siebie w niewolę, żeby inny brat mógł wrócić do ojca. Z jego rodu wyjdzie król, a w rodowodzie Jezusa stoi jego imię razem z imieniem Tamar.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Druga szansa przychodzi tu powoli, przez lata, przez stratę i przez wstyd. Bóg prawie się w tej historii nie odzywa, a mimo to działa przez cały czas.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokrewne materiały to „Zazdrość”, który czyta Rdz 37 od strony nienawiści braci, i „Przebaczenie”, który czyta słowa Józefa do braci. Ten materiał patrzy oczami Judy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Rdz 38 opowiada historię seksualną i zawiera dwie śmierci opisane jako kara. Tych wersetów nie czytamy na głos. Zdania kursywą streszczają to, co trzeba wiedzieć. Odpowiedź na pytania masz w czerwonych flagach.",
+      "Przy stole może siedzieć ktoś, kto doświadczył wykorzystania albo kto ma za sobą ciążę, której otoczenie nie przyjęło. Czytaj spokojnie, bez żartów i bez dopytywania.",
+      "Ktoś może mieć brata albo siostrę, z którymi zerwał kontakt. Nie rób z tej historii nakazu pojednania.",
+      "Łatwo zrobić z Judy czarny charakter albo bohatera. Pokazuj drogę, którą przeszedł."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie moralizuj nad Tamar. Nie wchodź w szczegóły obyczajów seksualnych tamtego świata. Nie tłumacz, dlaczego Bóg pozwolił sprzedać Józefa. To temat na inne spotkanie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o czymś, co kiedyś zrobiłeś albo powiedziałeś i co dziś zrobiłbyś zupełnie inaczej. Nie mów, co to było. Powiedz jednym słowem, co się w tobie od tamtej pory zmieniło.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Jaki pożytek",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jakub miał dwunastu synów i najbardziej kochał Józefa, syna ukochanej żony Racheli. Starsi bracia nienawidzili Józefa i gdy przyszedł do nich na pastwisko, postanowili go zabić.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 37,23-28",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy Józef przyszedł do braci swoich, ściągnęli z Józefa szatę jego, szatę z długimi rękawami, którą miał na sobie, pochwycili go i wrzucili go do studni. A studnia ta była wyschnięta, nie było w niej wody. Potem zasiedli do posiłku, a gdy podnieśli oczy, ujrzeli karawanę Ismaelitów, przybywającą z Gileadu; wielbłądy ich niosły wonne korzenie, balsam i mirrę, a szły niosąc to do Egiptu.",
+        "Wtedy rzekł Juda do braci swoich: Jaki pożytek z tego, że zabijemy brata naszego i zataimy, żeśmy go zabili? Chodźcie, sprzedajmy go Ismaelitom. Nie podnośmy na niego ręki naszej, gdyż jest on bratem naszym i z ciała naszego. I usłuchali go bracia. Gdy więc przechodzili mężowie, kupcy midianiccy, wyciągnęli Józefa ze studni na górę i sprzedali Józefa Ismaelitom za dwadzieścia srebrników, ci zaś przywiedli Józefa do Egiptu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Bracia wracają do domu.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 37,31-33",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy wzięli szatę Józefa, zabili kozła i umoczyli szatę we krwi. Potem posłali tę szatę z długimi rękawami do ojca i kazali powiedzieć: Znaleźliśmy to! Rozpoznajże, czy to szata syna twego, czy nie? A on poznał ją i rzekł: To jest szata syna mojego, dziki zwierz pożarł go tak, z pewnością rozszarpał Józefa."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Juda ratuje brata przed śmiercią pytaniem „Jaki pożytek…?”. **Jakim argumentem przekonuje braci i czego w tym argumencie brakuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wrzucili brata do suchej studni i „zasiedli do posiłku”. **Co ten jeden szczegół mówi o tym, co się z nimi stało?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Rozpoznajże, czy to szata syna twego”. **Co bracia robią ojcu tym jednym zdaniem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Dwadzieścia srebrników to dokładnie tyle, na ile późniejsze prawo Mojżesza wycenia chłopca. Jest w tej scenie jeszcze jedno echo. Kiedyś ich ojciec Jakub oszukał niewidomego ojca przy pomocy koźlęcia i cudzej szaty. Teraz synowie tymi samymi rekwizytami, koźlęciem i szatą, oszukują jego. Narrator tego nie komentuje. Po prostu opowiada.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pocieszyciele",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 37,34-35",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Jakub rozdarł szaty swoje i włożył wór na biodra, i przez długi czas opłakiwał syna swego. Próbowali go pocieszać wszyscy synowie jego i wszystkie córki jego, ale nie dał się pocieszyć i mówił: W żałobie zejdę do syna mego do grobu. I opłakiwał go ojciec."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Synowie pocieszają ojca po stracie, którą sami spowodowali. **Jak się żyje z takim sekretem przez lata?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co mogło sprawiać, że Jakub „nie dał się pocieszyć”, choć próbowali wszyscy?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Ona jest sprawiedliwsza niż ja",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Wkrótce potem Juda odszedł od braci i założył rodzinę wśród Kananejczyków. Jego najstarszy syn ożenił się z Tamar i zmarł. Według ówczesnego obyczaju wdowę miał poślubić następny brat, ale i on zmarł.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 38,11",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy rzekł Juda do Tamary, synowej swojej: Zamieszkaj jako wdowa w domu ojca twego, aż podrośnie Szela, syn mój. Myślał bowiem: Niech przynajmniej on nie umrze, podobnie jak jego bracia. I poszła Tamar, i mieszkała w domu ojca swego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Minęły lata. Tamar dowiedziała się, że teść idzie drogą do Timny.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 38,14",
+       "przeklad": "BW",
+       "akapity": [
+        "zdjęła z siebie szaty wdowie, okryła się i otuliła zasłoną, i usiadła przy bramie wejściowej do Enajim, położonego przy drodze do Timny, bo wiedziała, że Szela już dorósł, a nie dano mu jej za żonę."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Juda wziął zasłoniętą kobietę za nierządnicę i nie poznał synowej. W zastaw za obiecaną zapłatę zostawił jej swoją pieczęć, sznur i laskę, czyli znaki, po których można go było rozpoznać.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 38,24-26",
+       "przeklad": "BW",
+       "akapity": [
+        "Po upływie około trzech miesięcy doniesiono Judzie: Tamara, synowa twoja, dopuściła się wszeteczeństwa i jest brzemienna z nierządu. Wtedy Juda rzekł: Wyprowadźcie ją i spalcie! A gdy wyprowadzono ją, posłała do teścia swego i kazała mu powiedzieć: Jestem brzemienna z męża, do którego należą te rzeczy. I rzekła: Rozpoznaj, czyja to pieczęć, sznur i laska? Wtedy Juda poznał je i rzekł: Ona jest sprawiedliwsza niż ja, bo nie dałem jej synowi memu, Szeli. Potem już z nią nie obcował."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Juda wydaje wyrok bez jednego pytania. **Co ten wyrok mówi o nim, skoro sam ma udział w tej historii?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Tamar nie oskarża go przy ludziach. Posyła mu jego własne rzeczy i mówi „Rozpoznaj”. Tym samym słowem bracia zwrócili się kiedyś do ojca nad zakrwawioną szatą. **Co to słowo mogło w Judzie poruszyć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Ona jest sprawiedliwsza niż ja”. **Ile kosztuje człowieka takie zdanie, wypowiedziane tam, gdzie wszyscy słyszą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Juda nie mówi, że Tamar postąpiła dobrze. Mówi, że to on zawiódł bardziej, bo nie dał jej tego, co jej się należało. W Biblii sprawiedliwość często znaczy wierność wobec drugiego człowieka. Tamar była wierna rodzinie męża. Juda był wierny tylko własnemu lękowi. To pierwsze w tej rodzinie zdanie, w którym ktoś publicznie bierze winę na siebie. Wypowiada je człowiek, który kiedyś sprzedał brata.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Obyczaj, o którym mówi ta historia, znało wiele ludów Wschodu, a prawo Mojżesza później go uregulowało. Brat zmarłego żenił się z wdową, a pierwszy syn z tego związku nosił imię zmarłego i dziedziczył po nim. Dla wdowy był to jedyny pewny dom i jedyna przyszłość. Tamar była przyrzeczona Szeli, więc nie mogła wyjść za nikogo innego. Juda nie odmówił jej wprost. Zostawił ją w zawieszeniu, w domu ojca, w szatach wdowy, bez terminu.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 25,5-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeżeli bracia mieszkają razem, a jeden z nich umrze, nie pozostawiwszy po sobie syna, żona zmarłego nie wyjdzie za mąż na zewnątrz za obcego mężczyznę. Jej szwagier sprowadzi się do niej i weźmie ją sobie za żonę, i ożeni się z bezdzietną wdową po swoim bracie. Pierworodny, którego ona urodzi, zostanie uznany za syna zmarłego jego brata i tak nie będzie jego imię wymazane z Izraela."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zostało Tamar, gdy Juda nie dotrzymał słowa, a nikt nie mógł się za nią upomnieć?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Bracia mówią do ojca `haker-na`, „rozpoznaj, proszę”. Tamar posyła Judzie te same dwa hebrajskie słowa. W obu scenach ktoś podaje przedmiot i mówi „rozpoznaj”, a w obu prawda wychodzi na jaw przez rzecz, którą ktoś trzyma w ręku. Narrator łączy w ten sposób dwa rozdziały, które wyglądają na osobne historie. Zdanie, którym Juda i bracia oszukali ojca, wraca do niego z rąk synowej.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Juda słyszy od Tamar dokładnie to, co razem z braćmi kazał powiedzieć ojcu. **Dlaczego Bóg czasem uczy człowieka jego własnymi słowami?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Ja ręczę za niego",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Mijają ponad dwie dekady. W Kanaanie panuje głód. Sprzedany Józef został w Egipcie zarządcą kraju, ale bracia go nie poznają. Józef żąda, żeby przy następnej podróży po zboże przywieźli najmłodszego brata, Beniamina, drugiego syna Racheli. Jakub nie chce go puścić.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 43,8-9",
+       "przeklad": "BW",
+       "akapity": [
+        "A Juda rzekł do Izraela, ojca swego: Pozwól iść chłopcu temu ze mną. Wyruszymy zaraz i pojedziemy, aby zachować życie i nie umrzeć zarówno my, jak i ty, i dzieci nasze, ja ręczę za niego, ode mnie żądaj jego zwrotu. Jeżeli nie przywiodę go do ciebie i nie stawię go przed tobą, będę wobec ciebie obciążony winą po wszystkie dni."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Józef wystawia braci na próbę. Każe ukryć srebrny kubek w worku Beniamina, a potem ogłasza, że chłopiec zostanie w Egipcie jako niewolnik.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 44,16",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy powiedział Juda: Cóż mamy powiedzieć panu naszemu? Cóż mamy rzec? Jak mamy się usprawiedliwić? Bóg odsłonił winę sług twoich. Otośmy niewolnikami pana mego, zarówno my jak i ten, u którego znaleziono kubek."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Juda mówi do ojca „ja ręczę za niego”. **Co znaczy to zdanie w ustach człowieka, który kiedyś sprzedał brata?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bracia są niewinni kradzieży kubka, a Juda mówi „Bóg odsłonił winę sług twoich”. **O jakiej winie może myśleć?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Zamiast chłopca",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 44,18-20",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy przystąpił do niego Juda i rzekł: Proszę, panie mój, pozwól słudze twemu powiedzieć słowo do pana mego i nie gniewaj się na sługę twego, gdyż ty jesteś jak sam faraon. Pan mój pytał sług twoich, mówiąc: Macie ojca albo brata? Wtedy odpowiedzieliśmy panu mojemu: Mamy jeszcze ojca staruszka i małego chłopca, który urodził mu się na starość. Brat zaś jego umarł, tak że on sam jeden pozostał po matce swojej, i ojciec kocha go. [...]"
+       ]
+      },
+      {
+       "odnosnik": "Rdz 44,27-34",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy rzekł sługa twój, ojciec mój, do nas: Wy wiecie, że dwóch synów urodziła mi żona moja. Jeden odszedł ode mnie i musiałem sobie powiedzieć: Z pewnością rozszarpał mi go dziki zwierz; i dotąd go nie widziałem. A jeżeli zabierzecie i tego, a spotka go coś złego, wtedy doprowadzicie mnie osiwiałego ze zmartwienia do grobu. Gdybym więc teraz przyszedł do sługi twego, ojca mojego, a nie byłoby z nami chłopca, z którego duszą jest związana dusza jego, to gdyby spostrzegł, że chłopca nie ma, umarłby. I tak sprawią słudzy twoi, że sługa twój, ojciec nasz, zejdzie osiwiały ze zmartwienia do grobu.",
+        "Bo sługa twój ręczył za chłopca ojcu swemu, mówiąc: Jeśli nie przywiodę go do ciebie, wtedy do końca życia będę obciążony winą. Dlatego niech zostanie zamiast chłopca sługa twój jako niewolnik pana mego, a chłopiec niechaj wróci z braćmi swymi. Bo jakże ja mógłbym wrócić do ojca mego, gdyby nie było ze mną tego chłopca? Nie mógłbym patrzeć na nieszczęście, które by dotknęło ojca mego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Juda powtarza słowa ojca „dwóch synów urodziła mi żona moja”. Sam jest synem innej żony. **Jak to zdanie mogło brzmieć dla niego dwadzieścia lat temu, a jak brzmi teraz?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Niech zostanie zamiast chłopca sługa twój”. **Co się zmieniło w Judzie od dnia przy studni?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W tej mowie słowo „ojciec” wraca raz po raz. **O kogo Juda tak naprawdę walczy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To najdłuższa przemowa w całej Księdze Rodzaju. Punkt po punkcie odwraca dawną zbrodnię. Wtedy Juda sprzedał syna Racheli w niewolę, teraz sam zgłasza się w niewolę, żeby drugi syn Racheli wrócił wolny. Wtedy ulubieniec ojca budził w nim nienawiść. Teraz miłość ojca do ulubieńca jest dla niego powodem, żeby prosić o litość. Słowo „zamiast” pada w tej księdze także przy baranie złożonym w ofierze zamiast Izaaka.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Józef nie mógł się dłużej opanować",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Tak kończy się próba.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 45,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Józef nie mógł już opanować się dłużej wobec wszystkich, którzy stali wokół niego, i zawołał: Wyprowadźcie wszystkich ode mnie. I nie pozostał przy nim nikt, gdy Józef dał się poznać braciom swoim. Zapłakał tak głośno, że usłyszeli to Egipcjanie i usłyszał to dwór faraona."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Józef daje się poznać zaraz po mowie Judy. **Co w tej mowie mogło przekonać go, że bracia nie są już tymi samymi ludźmi?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Dlaczego przemiana Judy okazuje się ważna nie tylko dla niego, ale dla całej rodziny?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Lew z pokolenia Judy",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Pod koniec życia Jakub błogosławi dwunastu synów. Do Judy mówi tak.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 49,8-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Juda – ciebie będą sławić bracia twoi, ręka twoja będzie na karku wrogów twoich, tobie kłaniać się będą synowie ojca twego. Szczenię lwie, Juda; synu mój, z łupu, synu mój, się podniosłeś; czai się jak lew i jak lwica, któż go spłoszy? Nie oddali się berło od Judy ani buława od nóg jego, aż przyjdzie władca jego, i jemu będą posłuszne narody."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Tak zaczyna się Nowy Testament.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 1,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "Rodowód Jezusa Chrystusa, syna Dawidowego, syna Abrahamowego. Abraham był ojcem Izaaka, a Izaak ojcem Jakuba, a Jakub ojcem Judy oraz braci jego. A Juda zrodził z Tamar Faresa i Zarę, a Fares był ojcem Ezrona, a Ezron ojcem Arama."
+       ]
+      },
+      {
+       "odnosnik": "Ap 5,5",
+       "przeklad": "BW",
+       "akapity": [
+        "A jeden ze starców rzecze do mnie: Nie płacz! Zwyciężył lew z pokolenia Judy, korzeń Dawidowy i może otworzyć księgę, i zerwać siedem jej pieczęci."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jakub mówi do Judy „ciebie będą sławić bracia twoi”. **Co musiało się wydarzyć, żeby akurat ten syn usłyszał takie słowa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Mateusz zapisuje w rodowodzie Jezusa zdanie „Juda zrodził z Tamar Faresa i Zarę”. **Dlaczego Ewangelia nie omija tej historii?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jakub nazywa Judę lwem. Ostatnia księga Biblii nazywa tak Jezusa. **Co mówi o Bogu to, że Jego Syn przyszedł na świat właśnie przez ten ród?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: aż przyjdzie władca jego",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Werset 10 należy do najtrudniejszych w Księdze Rodzaju. BW oddaje go słowami „aż przyjdzie władca jego”, a w hebrajskim stoi słowo `Szilo`, którego znaczenie jest niepewne. Jedni widzą w nim nazwę miasta Szilo. Drudzy czytają je jako „ten, do którego to należy”, czyli prawowity władca. Inni łączą je ze słowem oznaczającym pokój. Żydowska tradycja i chrześcijanie od dawna czytali ten werset jako zapowiedź króla, który wyjdzie z Judy.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Wszystkie odczytania łączy jedno. Z rodu człowieka, który sprzedał brata, ma wyjść ktoś, komu będą posłuszne narody. Nowy Testament mówi to wprost.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 7,14",
+       "przeklad": "BW",
+       "akapity": [
+        "Wiadomo bowiem, że Pan nasz pochodził z plemienia Judy, o którym Mojżesz nic nie powiedział, co się tyczy kapłanów."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co znaczy dla ciebie, że obietnica o królu przeszła przez ród Judy, a nie Józefa, który w tej historii był niewinny?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Juda przeszedł drogę od „Jaki pożytek” do „niech zostanę zamiast niego”. **Co twoim zdaniem było na tej drodze najważniejsze?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kiedy łatwiej ci wydać wyrok na kogoś, niż rozpoznać to samo w sobie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **czy jest w twoim życiu zdanie podobne do „ona jest sprawiedliwsza niż ja”, którego jeszcze nie wypowiedziałeś?** Nie musisz mówić, o kogo chodzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Judę zmieniły lata, strata dwóch synów, wstyd przed synową i głód. Bóg prawie się w tej historii nie odzywa. **Czy człowiek zmienia się dzięki Bogu, czy dzięki temu, co go spotyka? Gdzie w tej historii jest Bóg?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie rozstrzyga. Warto, żeby padło spostrzeżenie, że Księga Rodzaju widzi Boga pod spodem zdarzeń. Juda sam wymienia Go w chwili, gdy mówi o własnej winie.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Ten, który sprzedał brata, nauczył się oddawać siebie za brata. Bóg nie zostawił Judy w jego najgorszym dniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** Rdz 44,33 albo Rdz 38,26.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Rozpoznaj”. Pomyśl o sprawie ze swojej przeszłości, która co jakiś czas wraca do ciebie jak pieczęć Judy. Zamiast ją odsuwać, **przyznaj przed Bogiem, że jest twoja**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o kimś słabszym, za kogo mógłbyś poręczyć, czyli stanąć przy nim wtedy, gdy jest mu najtrudniej. Zapytaj siebie, **co cię dziś przed tym powstrzymuje**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Jeśli kogoś skrzywdziłeś i ta osoba o tym wie, przyznaj przed Bogiem, czego się boisz w rozmowie z nią. Nie musisz jeszcze niczego planować.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś pyta o śmierć synów Judy.** Rdz 38 mówi krótko, że obaj starsi synowie czynili zło i Pan pozbawił ich życia. Nie wyciągaj z tego wniosków o chorobach i śmierci ludzi, których znamy. Biblia nie daje tu klucza do cudzych tragedii. Jeśli ktoś przy stole niedawno kogoś stracił, powiedz to wprost i wróć do Judy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Pytanie o Onana i współczesne spory o seksualność.** Nie wchodź w nie. W tekście chodzi o podstęp wobec wdowy. Onan udawał, że wypełnia obowiązek, a pilnował, żeby potomstwo nie przypadło zmarłemu bratu. Krzywda Tamar jest tu sednem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli Tamar dobrze zrobiła?”** Juda nie chwali jej sposobu. Mówi, że sam zawiódł bardziej. Tekst zostawia tę sprawę w napięciu i nie musicie jej domykać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Jak Bóg mógł wybrać na ród Mesjasza akurat Judę, a nie niewinnego Józefa?”** To jedno z najlepszych pytań tego spotkania. Nie odpowiadaj za szybko. Możesz zwrócić uwagę, że Bóg w Biblii raz po raz nie kończy historii człowieka na jego najgorszym rozdziale.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o bracie albo siostrze, z którymi zerwał kontakt.** Wysłuchaj i nie dawaj rad. Historia Judy nie jest nakazem pojednania za wszelką cenę. Pokazuje człowieka, który zmienił się sam, zanim cokolwiek naprawił.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś z gości nie zna historii Józefa i gubi się w imionach.** Zatrzymaj się na chwilę. Wystarczy trzech bohaterów: ojciec Jakub, jego ukochany syn Józef i Juda, który go sprzedał. Reszta dopowie się sama.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 3. Bloki 1, 2 i 4 niosą spotkanie: sprzedany brat, zdanie o sprawiedliwszej synowej i Juda, który oddaje siebie za brata.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś pyta o śmierć synów Judy.",
+     "odpowiedz": "Rdz 38 mówi krótko, że obaj starsi synowie czynili zło i Pan pozbawił ich życia. Nie wyciągaj z tego wniosków o chorobach i śmierci ludzi, których znamy. Biblia nie daje tu klucza do cudzych tragedii. Jeśli ktoś przy stole niedawno kogoś stracił, powiedz to wprost i wróć do Judy."
+    },
+    {
+     "sytuacja": "Pytanie o Onana i współczesne spory o seksualność.",
+     "odpowiedz": "Nie wchodź w nie. W tekście chodzi o podstęp wobec wdowy. Onan udawał, że wypełnia obowiązek, a pilnował, żeby potomstwo nie przypadło zmarłemu bratu. Krzywda Tamar jest tu sednem."
+    },
+    {
+     "sytuacja": "„Czyli Tamar dobrze zrobiła?”",
+     "odpowiedz": "Juda nie chwali jej sposobu. Mówi, że sam zawiódł bardziej. Tekst zostawia tę sprawę w napięciu i nie musicie jej domykać."
+    },
+    {
+     "sytuacja": "„Jak Bóg mógł wybrać na ród Mesjasza akurat Judę, a nie niewinnego Józefa?”",
+     "odpowiedz": "To jedno z najlepszych pytań tego spotkania. Nie odpowiadaj za szybko. Możesz zwrócić uwagę, że Bóg w Biblii raz po raz nie kończy historii człowieka na jego najgorszym rozdziale."
+    },
+    {
+     "sytuacja": "Ktoś mówi o bracie albo siostrze, z którymi zerwał kontakt.",
+     "odpowiedz": "Wysłuchaj i nie dawaj rad. Historia Judy nie jest nakazem pojednania za wszelką cenę. Pokazuje człowieka, który zmienił się sam, zanim cokolwiek naprawił."
+    },
+    {
+     "sytuacja": "Ktoś z gości nie zna historii Józefa i gubi się w imionach.",
+     "odpowiedz": "Zatrzymaj się na chwilę. Wystarczy trzech bohaterów: ojciec Jakub, jego ukochany syn Józef i Juda, który go sprzedał. Reszta dopowie się sama."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3. Bloki 1, 2 i 4 niosą spotkanie: sprzedany brat, zdanie o sprawiedliwszej synowej i Juda, który oddaje siebie za brata."
+    }
+   ]
+  }
+ ]
+}

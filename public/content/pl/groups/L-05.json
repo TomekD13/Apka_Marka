@@ -1,0 +1,680 @@
+{
+ "tytul": "Sznur w oknie",
+ "id": "L-05",
+ "seria": "Ludzie drugiej szansy",
+ "opis": "Kobieta z najgorszą opinią w mieście uwierzyła z samego słuchania i trafiła do rodowodu Jezusa.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Joz 2,1-7; Joz 2,8-14; Joz 2,15-21; Joz 6,22-25; Hbr 11,31; Mt 1,5",
+  "p2": "Wj 12,22-23; Jk 2,24-26; Mt 21,31-32",
+  "p3": "Wj 1,17-21; Joz 2,18"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 22,
+  "p3": 25
+ },
+ "tagi": [
+  "druga szansa",
+  "wiara",
+  "etykiety",
+  "nadzieja",
+  "Rachab",
+  "Księga Jozuego"
+ ],
+ "wersja": 1,
+ "zdanie": "Rachab miała najgorszą opinię w mieście, a jej imię stoi na pierwszej stronie Ewangelii, w rodowodzie Jezusa.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o kobiecie, którą całe miasto znało z najgorszej strony. Rachab z Jerycha była nierządnicą i cudzoziemką, czyli kimś, kogo nikt w Izraelu nie wziąłby za wzór. Usłyszała o Bogu Izraela tylko z opowieści i uwierzyła, zanim cokolwiek zobaczyła. Ukryła dwóch zwiadowców, zawiesiła w oknie czerwony sznur i ocalała razem z całą rodziną. Nowy Testament wymienia ją wśród ludzi wiary i w rodowodzie Jezusa. Bóg nie zaczyna od jej etykiety, tylko od jej nadziei.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W Księdze Jozuego imię brzmi Rachab, w Nowym Testamencie BW pisze Rahab. To ta sama kobieta.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole może siedzieć ktoś, kto ma za sobą wykorzystanie seksualne, prostytucję albo ciężką opinię w swoim środowisku. Żadnych żartów o zawodzie Rachab i żadnych spojrzeń w czyjąś stronę.",
+      "Historia rozgrywa się w czasie zdobycia Jerycha, w którym zginęli mieszkańcy miasta. To prawdziwa trudność. Materiał czyta tę historię od strony domu, który ocalał, a pytanie o zagładę ma osobną flagę.",
+      "Kłamstwo Rachab przed ludźmi króla łatwo zamienić w lekcję moralności. Nie rób tego na poziomie podstawowym.",
+      "Część grupy zna tę historię ze szkółki, część usłyszy ją pierwszy raz. Opowiadaj tak, jakby nikt jej nie znał."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie łagodź słowa „nierządnica” i nie epatuj nim. Nie rób z Rachab bohaterki romansu. Nie przechodź do wykładu o wojnach w Starym Testamencie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o etykiecie, którą ktoś kiedyś ci przykleił, choćby żartem, w szkole, w pracy albo w rodzinie. Nie musisz jej zdradzać. Powiedz jednym zdaniem, jak długo potem trudno było się od niej uwolnić.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Dom w murze",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Lud Izraela po latach wędrówki przez pustynię stanął nad Jordanem. Po drugiej stronie rzeki leżało Jerycho, pierwsze miasto na jego drodze.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Joz 2,1-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Jozue, syn Nuna, wysłał z Szittim potajemnie dwóch mężów jako wywiadowców, mówiąc: Idźcie, obejrzyjcie ziemię i Jerycho. Poszli tedy i wstąpili do domu pewnej nierządnicy, imieniem Rachab, i ułożyli się tam do snu. Wtedy doniesiono królowi Jerycha: Tej nocy przyszli tutaj jacyś mężowie z synów izraelskich, aby przeszukać ziemię. Wtedy król Jerycha posłał do Rachab i kazał jej powiedzieć: Wydaj mężów, którzy przyszli do ciebie i weszli do twojego domu, gdyż przyszli, aby przeszukać całą tę ziemię.",
+        "Lecz kobieta ta wzięła obu tych mężów i ukryła ich, potem zaś rzekła: Rzeczywiście, przyszli do mnie jacyś mężowie, ja jednak nie wiedziałam, skąd oni są. Lecz gdy z nastaniem ciemności miano zamknąć bramę miasta, mężowie ci wyszli i nie wiem, dokąd poszli. Gońcie szybko za nimi, to ich dogonicie. Sama zaś zaprowadziła ich na dach i ukryła pod łodygami lnu, które miała ułożone na dachu. Wyznaczeni tedy mężowie gonili za nimi w kierunku Jordanu aż do brodów, bramę miasta zaś zamknięto, kiedy pogoń za nimi wyszła."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Narrator przedstawia Rachab jednym słowem, zanim powie o niej cokolwiek innego. **Co to słowo robi z naszym spojrzeniem na nią, zanim jeszcze ją poznamy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rachab ryzykuje życie dla dwóch obcych, których przed chwilą zobaczyła pierwszy raz. **Co mogło nią kierować, skoro tekst jeszcze tego nie mówi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Na dachu suszy się len, a ona ukrywa pod nim zwiadowców. **Co mówią o niej te zwykłe szczegóły z domu, o których łatwo zapomnieć przy słowie „nierządnica”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Dom Rachab był wbudowany w mur, na samym skraju miasta. Taki dom bywał też zajazdem, więc dwaj obcy mogli tam przenocować bez większych podejrzeń. Tekst nazywa Rachab nierządnicą i nie łagodzi tego słowa. Tak samo nazywa ją Nowy Testament, i to za każdym razem, gdy ją chwali. Len suszący się na dachu to z kolei zwykły szczegół z domowej pracy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: kłamstwo Rachab",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Rachab ratuje zwiadowców kłamstwem. Podobną scenę Biblia zna z Egiptu, gdzie położne nie wykonały rozkazu faraona.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 1,17-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz położne bały się Boga i nie czyniły tak, jak im nakazał król egipski, ale pozostawiały chłopców przy życiu. Wtedy król egipski wezwał położne i rzekł do nich: Czemuście to uczyniły i pozostawiały przy życiu także chłopców? Położne odpowiedziały faraonowi: Kobiety hebrajskie nie są takie jak kobiety egipskie; są one tak żywotne, że rodzą wcześniej, niż przyjdzie do nich położna. A Bóg nagradzał te położne dobrym powodzeniem, lud zaś rozmnażał się i potężniał. A ponieważ położne bały się Boga, obdarzył je rodzinami."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W Kościele czyta się te sceny dwojako. Jedni mówią, że kłamstwo pozostaje grzechem także w dobrej sprawie. Bóg uszanował wiarę Rachab mimo jej kłamstwa, a Nowy Testament chwali jej wiarę i przyjęcie zwiadowców, o kłamstwie milczy. Drudzy uważają, że ukrycie prawdy przed kimś, kto chce zabić niewinnych, nie jest fałszywym świadectwem przeciw bliźniemu. Obie strony zgadzają się co do jednego. Rachab dopiero poznaje Boga, a On zaczyna od miejsca, w którym ona naprawdę stoi.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co bardziej mówi o człowieku w takiej chwili: to, czego jeszcze nie umie, czy to, komu już zaufał? I czy jedno da się oddzielić od drugiego?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Słyszeliśmy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Joz 2,8-14",
+       "przeklad": "BW",
+       "akapity": [
+        "Zanim ci mężowie ułożyli się do snu, ona wyszła do nich na dach i rzekła do nich: Wiem, że Pan dał wam tę ziemię, gdyż padł na nas strach przed wami i wszyscy mieszkańcy tej ziemi drżą przed wami. Słyszeliśmy bowiem, że Pan wysuszył przed wami wodę Morza Czerwonego, gdy wychodziliście z Egiptu, i co uczyniliście obu królom amorejskim po tamtej stronie Jordanu, Sychonowi i Ogowi, których obłożyliście klątwą na zagładę. A gdy to usłyszeliśmy, zwątpiło serce nasze i wszystkim zbrakło wobec was odwagi, gdyż Pan, Bóg wasz, jest Bogiem w górze na niebie i w dole na ziemi.",
+        "Więc przysięgnijcie mi teraz na Pana, że, jak ja okazałam wam łaskę, tak wy również okażecie łaskę domowi mojego ojca, i dajcie mi porękę, że pozostawicie przy życiu mojego ojca i moją matkę, i moich braci, i moje siostry, i wszystkich ich bliskich i ocalicie nas od śmierci. Rzekli jej tedy ci mężowie: Życiem naszym ręczymy za was, jeżeli nie rozgłosicie tej naszej sprawy. A gdy potem Pan da nam tę ziemię, okażemy ci łaskę i dochowamy wierności."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rachab mówi „wiem” o rzeczach, których nigdy nie widziała. **Skąd się bierze jej pewność i czym różni się od pewności kogoś, kto widział cuda na własne oczy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Całe miasto słyszało te same opowieści i wszystkim „zbrakło odwagi”. **Co Rachab zrobiła z tym samym strachem, czego nie zrobili inni?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Rachab nie prosi tylko za siebie. Wylicza ojca, matkę, braci, siostry i wszystkich ich bliskich. **Co ta lista mówi o niej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Rachab słyszała tylko opowieści. O morzu, które się rozstąpiło czterdzieści lat wcześniej, i o dwóch królach pokonanych niedawno. Jej słowa o Bogu „w górze na niebie i w dole na ziemi” brzmią prawie jak zdanie Mojżesza z Pwt 4,39. Kananejka mówi więc o Bogu Izraela językiem samego Izraela. Słowo „łaska” w jej prośbie to hebrajskie `chesed`, wierna miłość, z jaką dotrzymuje się danego słowa.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Sznur w oknie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Joz 2,15-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Następnie spuściła ich na linie przez okno, bo dom jej był wbudowany w mur miasta i w murze mieszkała. Powiedziała też do nich: Idźcie w góry, aby nie natknęli się na was ścigający. Tam się ukrywajcie przez trzy dni, aż powrócą ścigający, a potem idźcie swoją drogą. Rzekli do niej mężowie: Chcemy dotrzymać tej przysięgi, którą kazałaś nam złożyć.",
+        "Kiedy więc wejdziemy do tej ziemi, przywiążesz ten sznur z czerwonej nici do okna, przez które nas spuściłaś, a swego ojca i matkę, i braci, i całą rodzinę swego ojca zbierzesz u siebie w domu. Każdy, kto wyjdzie z drzwi twojego domu na zewnątrz, będzie sam winien przelania swojej krwi, a my będziemy bez winy. Ale za przelanie krwi każdego, kto będzie u ciebie w domu, a ugodzi go czyjaś ręka, my winę poniesiemy. Jeżeli zaś ty rozgłosisz tę naszą sprawę, my będziemy wolni od przysięgi, którą kazałaś nam złożyć. Ona rzekła: Jak powiedzieliście, tak będzie. Wypuściła ich tedy, a oni poszli. Ona zaś przywiązała czerwony sznur do okna."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rachab przywiązuje sznur od razu, gdy zwiadowcy odchodzą, choć wojsko przyjdzie dopiero za jakiś czas. **Co mówi ten pośpiech o jej wierze?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ocalenie zależy od prostego znaku i od tego, czy ludzie zostaną w domu. **Dlaczego Bóg łączy ratunek z czymś tak widocznym i tak zwyczajnym?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Czerwony sznur wisi w oknie domu w murze, czyli w miejscu widocznym dla całego miasta. **Co mogła czuć Rachab, czekając z tym znakiem na oczach sąsiadów?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Znak na drzwiach",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Czterdzieści lat wcześniej, ostatniej nocy w Egipcie, Izraelici dostali podobne polecenie.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 12,22-23",
+       "przeklad": "BW",
+       "akapity": [
+        "Weźcie też wiązkę hyzopu i zanurzcie we krwi, która jest w misie, i pomażcie nadproże i oba odrzwia krwią z misy. Niech nikt z was nie wychodzi z drzwi domu swego aż do rana, gdyż Pan przechodzić będzie, aby uderzyć Egipcjan. A gdy ujrzy krew na nadprożu i na obu odrzwiach, ominie Pan te drzwi i nie pozwoli niszczycielowi wejść do domów waszych, aby zadać cios."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Porównajcie oba polecenia: znak na wejściu, rodzina w środku, zakaz wychodzenia. **Co znaczy, że Kananejka przeżywa w Jerychu to samo, co Izrael przeżył w noc wyjścia z Egiptu?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co oba znaki mówią o tym, kto naprawdę ratuje dom, i co zostaje do zrobienia człowiekowi?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Słowo, które w wersecie 18 oznacza sznur, to po hebrajsku `tikwa`. W pozostałych miejscach Biblii hebrajskiej znaczy ono prawie zawsze „nadzieja”. Tak jest na przykład w Jr 29,11, gdzie Bóg chce zgotować swojemu ludowi przyszłość i natchnąć go nadzieją. Rachab wiesza więc w oknie słowo, które znaczy także nadzieję. Robi to od razu, kiedy nic jeszcze nie jest przesądzone. Wielu chrześcijan od najdawniejszych czasów widziało w czerwonym sznurze obraz krwi Chrystusa. Sama opowieść przywodzi raczej na myśl krew na drzwiach w noc Paschy.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak wygląda nadzieja, którą trzeba zawiesić w oknie, czyli wystawić na widok innych, zanim cokolwiek się wydarzy?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Ze skraju do środka",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Kilka dni później mury Jerycha runęły, a Izrael zdobył miasto i je zniszczył. Opowieść kończy się przy jednym domu.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Joz 6,22-25",
+       "przeklad": "BW",
+       "akapity": [
+        "Do obu zaś mężów, którzy przeprowadzili wywiad w tej ziemi, rzekł Jozue: Idźcie do domu nierządnicy i wyprowadźcie stamtąd tę kobietę i wszystkich jej najbliższych, jak to jej przysięgliście. I poszli młodzieńcy, którzy przeprowadzili wywiad, i wyprowadzili Rachab, jej ojca i matkę, jej braci, i wszystkich jej najbliższych, całą jej rodzinę wyprowadzili i umieścili ich poza obozem izraelskim. Miasto zaś wraz ze wszystkim, co w nim było, spalili ogniem, a tylko srebro i złoto oraz przedmioty z miedzi i żelaza oddali do skarbca domu Pana.",
+        "Nierządnicę Rachab, rodzinę jej ojca i wszystko, co miała, zachował Jozue przy życiu. Zamieszkała ona wśród Izraela po dzień dzisiejszy, ponieważ ukryła posłańców, których wysłał Jozue, aby przeprowadzili wywiad w Jerychu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Najpierw rodzina Rachab trafia „poza obóz izraelski”, a na końcu czytamy, że „zamieszkała wśród Izraela”. **Co ta droga ze skraju do środka mówi o drugiej szansie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Przysięga zwiadowców zostaje dotrzymana co do joty. **Co dla kogoś z przeszłością Rachab mogło znaczyć, że ktoś wreszcie dotrzymał danego jej słowa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Nawet w ostatnim zdaniu narrator nazywa ją „nierządnicą”. **Dlaczego Biblia nie wymazuje jej przeszłości, choć opowiada o jej ocaleniu?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Imię w rodowodzie",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Wiele wieków później dwaj autorzy Nowego Testamentu wspominają Rachab. Jeden w liście, który wylicza ludzi wiary, drugi na pierwszej stronie Ewangelii, w rodowodzie Jezusa.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 11,31",
+       "przeklad": "BW",
+       "akapity": [
+        "Przez wiarę nie zginęła nierządnica Rachab wraz z nieposłusznymi, bo przyjęła przyjaźnie wywiadowców."
+       ]
+      },
+      {
+       "odnosnik": "Mt 1,5",
+       "przeklad": "BW",
+       "akapity": [
+        "A Salmon zrodził z Rahab Booza, a Booz zrodził z Ruty Jobeda, a Jobed był ojcem Jessego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List do Hebrajczyków stawia Rachab w jednym szeregu z Abrahamem, Mojżeszem i Dawidem. **Co ma wspólnego jej wiara z wiarą tych wielkich postaci?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rodowód był powodem do dumy i pokazywał, z jakiego rodu ktoś pochodzi. **Dlaczego Mateusz, pisząc o Jezusie, wpisuje do rodowodu kobietę z taką przeszłością?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Syn Rachab, Booz, ożeni się z Rut, cudzoziemką z Moabu. **Co mógł wynieść z domu, w którym matka była kiedyś obca i wzgardzona?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Mateusz wymienia w rodowodzie Jezusa tylko cztery kobiety obok Marii. Tamar, Rachab, Rut i żonę Uriasza. Każda z nich była cudzoziemką albo miała za sobą historię, którą wolałoby się przemilczeć. Mateusz nie wpisuje do rodowodu ani Sary, ani Rebeki, ani Racheli. Zanim Jezus powie pierwsze słowo, Jego rodowód mówi już, że Bóg pisze swoją historię także imionami, których nikt by nie wybrał.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Wiara, którą widać",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jk 2,24-26",
+       "przeklad": "BW",
+       "akapity": [
+        "Widzicie, że człowiek bywa usprawiedliwiony z uczynków, a nie jedynie z wiary. W podobny sposób i Rahab, nierządnica, czyż nie z uczynków została usprawiedliwiona, gdy przyjęła posłów i wypuściła ich inną drogą? Bo jak ciało bez ducha jest martwe, tak i wiara bez uczynków jest martwa."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakub chce pokazać, jak wygląda żywa wiara, i spośród wszystkich postaci Starego Testamentu obok Abrahama wybiera właśnie Rachab. **Co w jej historii pokazuje, że wiara i czyn nie dadzą się rozdzielić?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 21,31-32",
+       "przeklad": "BW",
+       "akapity": [
+        "Który z tych dwóch wypełnił wolę ojcowską? Mówią: Ten drugi. Rzecze im Jezus: Zaprawdę powiadam wam, że celnicy i wszetecznice wyprzedzają was do Królestwa Bożego. Albowiem przyszedł Jan do was ze zwiastowaniem sprawiedliwości, ale nie uwierzyliście mu, natomiast celnicy i wszetecznice uwierzyli mu; a wy, chociaż to widzieliście, nie odczuliście potem skruchy, aby mu uwierzyć."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi to do ludzi bardzo religijnych. **Dlaczego ludzie z najgorszą opinią bywają szybsi w wierze niż ci, którzy znają Pismo od dziecka?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Rachab nosiła etykietę, którą znało całe miasto. **Jakie etykiety przyklejamy innym tak mocno, że trudno nam potem uwierzyć, że Bóg może ich chcieć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Rachab zawiesiła sznur, gdy nic jeszcze nie było pewne. **Na czym w twoim życiu wisi teraz nadzieja, choć nic jeszcze nie jest przesądzone?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **jaka etykieta z przeszłości wciąż ci ciąży, choć Bóg dawno zaczął pisać twoje imię gdzie indziej?** Nie musisz jej nazywać.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Wszyscy w Jerychu słyszeli te same opowieści o Bogu Izraela i wszyscy się bali. Tylko jedna kobieta zrobiła z tego strachu krok w stronę Boga. Dlaczego ta sama wiadomość jednych zamyka, a innych otwiera? I co od tego zależy po naszej stronie, a co nie?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie rozstrzyga tego pytania. Warto, żeby padło spostrzeżenie, że Rachab nie wiedziała więcej niż sąsiedzi. Zrobiła coś z tym, co wiedziała.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Rachab miała najgorszą opinię w mieście, a jej imię stoi na pierwszej stronie Ewangelii, w rodowodzie Jezusa.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** Joz 2,11 albo Hbr 11,31.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o kimś z twojego otoczenia, komu w myślach przyklejasz etykietę. Zapytaj siebie, **jak by się zmieniło twoje spojrzenie, gdybyś zobaczył w nim kogoś, czyje imię Bóg może jeszcze wpisać do swojej historii**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Rachab zaczęła od tego, co usłyszała. Przyznaj przed Bogiem, **co już o Nim wiesz, choć jeszcze nic z tym nie zrobiłeś**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Rachab prosiła o ocalenie dla ojca, matki i rodzeństwa. Pomyśl, za kogo z najbliższych chciałbyś prosić tak jak ona. Zostań z tym imieniem przed Bogiem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Jak dobry Bóg mógł pozwolić zniszczyć całe miasto?”** To prawdziwe pytanie i nie wolno go zbyć. Nie rozstrzygaj go dzisiaj i nie broń tekstu na siłę. Możesz zauważyć, że w samym środku tej historii stoi dom, który ocalał, a kobieta z miasta pod klątwą zamieszkała w Izraelu na zawsze. Jeśli grupa chce wrócić do tego pytania, wskaż materiał „Skąd zło, skoro Bóg jest dobry?” albo zaproponuj osobne spotkanie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ona była właścicielką zajazdu, a nie nierządnicą.”** Takie odczytanie bywa proponowane, ale tekst hebrajski i oba listy Nowego Testamentu mówią wprost „nierządnica”. Nie łagodź tego słowa. Bez niego historia traci swoją siłę, bo łaska spotyka tu kogoś, kogo nikt by nie wybrał.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś przy stole ma za sobą prostytucję, wykorzystanie albo ciężką opinię.** Nie kieruj na tę osobę ani pytań, ani spojrzeń. Jeśli sama zacznie mówić, wysłuchaj z szacunkiem i nie dopytuj o szczegóły. Po spotkaniu zostań z nią, jeśli tego potrzebuje. Przy przemocy albo wyzysku nie zostawaj z tym sam i pomóż jej znaleźć pomoc specjalistyczną.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli kłamstwo jest w porządku, jeśli w dobrej sprawie.”** Tekst tego nie mówi i Nowy Testament też tego nie mówi. Chwali wiarę Rachab i to, że przyjęła zwiadowców. Odeślij to pytanie do poziomu 3 albo zostaw je otwarte i wróć do tego, komu Rachab zaufała.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa zaczyna wykład o tym, co symbolizuje czerwony sznur.** To stare i piękne odczytanie, ale nie rób z niego nauki. Sama opowieść przywodzi raczej na myśl znak na drzwiach w noc Paschy. Wróć do tego, co sznur znaczył dla kobiety w oknie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu o etykiety.** To dobrze. Etykiety bolą i trzeba chwili. Powtórz pytanie tymi samymi słowami i poczekaj. Nie odpowiadaj za grupę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 4. Bloki 2, 3 i 5 niosą spotkanie: wiara z samego słuchania, nadzieja zawieszona w oknie i imię kobiety z Jerycha w rodowodzie Jezusa.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Jak dobry Bóg mógł pozwolić zniszczyć całe miasto?”",
+     "odpowiedz": "To prawdziwe pytanie i nie wolno go zbyć. Nie rozstrzygaj go dzisiaj i nie broń tekstu na siłę. Możesz zauważyć, że w samym środku tej historii stoi dom, który ocalał, a kobieta z miasta pod klątwą zamieszkała w Izraelu na zawsze. Jeśli grupa chce wrócić do tego pytania, wskaż materiał „Skąd zło, skoro Bóg jest dobry?” albo zaproponuj osobne spotkanie."
+    },
+    {
+     "sytuacja": "„Ona była właścicielką zajazdu, a nie nierządnicą.”",
+     "odpowiedz": "Takie odczytanie bywa proponowane, ale tekst hebrajski i oba listy Nowego Testamentu mówią wprost „nierządnica”. Nie łagodź tego słowa. Bez niego historia traci swoją siłę, bo łaska spotyka tu kogoś, kogo nikt by nie wybrał."
+    },
+    {
+     "sytuacja": "Ktoś przy stole ma za sobą prostytucję, wykorzystanie albo ciężką opinię.",
+     "odpowiedz": "Nie kieruj na tę osobę ani pytań, ani spojrzeń. Jeśli sama zacznie mówić, wysłuchaj z szacunkiem i nie dopytuj o szczegóły. Po spotkaniu zostań z nią, jeśli tego potrzebuje. Przy przemocy albo wyzysku nie zostawaj z tym sam i pomóż jej znaleźć pomoc specjalistyczną."
+    },
+    {
+     "sytuacja": "„Czyli kłamstwo jest w porządku, jeśli w dobrej sprawie.”",
+     "odpowiedz": "Tekst tego nie mówi i Nowy Testament też tego nie mówi. Chwali wiarę Rachab i to, że przyjęła zwiadowców. Odeślij to pytanie do poziomu 3 albo zostaw je otwarte i wróć do tego, komu Rachab zaufała."
+    },
+    {
+     "sytuacja": "Grupa zaczyna wykład o tym, co symbolizuje czerwony sznur.",
+     "odpowiedz": "To stare i piękne odczytanie, ale nie rób z niego nauki. Sama opowieść przywodzi raczej na myśl znak na drzwiach w noc Paschy. Wróć do tego, co sznur znaczył dla kobiety w oknie."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu o etykiety.",
+     "odpowiedz": "To dobrze. Etykiety bolą i trzeba chwili. Powtórz pytanie tymi samymi słowami i poczekaj. Nie odpowiadaj za grupę."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 4. Bloki 2, 3 i 5 niosą spotkanie: wiara z samego słuchania, nadzieja zawieszona w oknie i imię kobiety z Jerycha w rodowodzie Jezusa."
+    }
+   ]
+  }
+ ]
+}

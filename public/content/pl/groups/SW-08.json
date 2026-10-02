@@ -1,0 +1,727 @@
+{
+ "tytul": "Arcykapłan, który współczuje",
+ "id": "SW-08",
+ "seria": "Świątynia",
+ "opis": "Jezus w niebie zna naszą słabość od środka i wstawia się za nami. Dlatego można przyjść do Boga z odwagą.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Hbr 4,14-16; Hbr 5,1-2.7-9; Hbr 7,23-27; Rz 8,31-34; 1J 2,1-2; J 17,9.15.20",
+  "p2": "Hbr 2,14-18; Hbr 6,19-20; Hbr 8,1-2; Dz 7,55-56",
+  "p3": "Ap 12,10"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 24,
+  "p3": 29
+ },
+ "tagi": [
+  "świątynia",
+  "arcykapłan",
+  "wstawiennictwo",
+  "współczucie",
+  "modlitwa",
+  "łaska",
+  "List do Hebrajczyków"
+ ],
+ "wersja": 1,
+ "zdanie": "W niebie jest Ktoś, kto zna twoją słabość od środka i właśnie teraz staje po twojej stronie.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o tym, co Jezus robi teraz. List do Hebrajczyków mówi o Nim jako o arcykapłanie w świątyni niebieskiej. Zna ludzką słabość od środka, bo sam przeszedł przez próby, łzy i strach przed śmiercią. Żyje zawsze i wstawia się za tymi, którzy przez Niego przychodzą do Boga. Dlatego list zaprasza, żeby do „tronu łaski” przystępować z ufną odwagą. W ziemskim przybytku za zasłonę wchodził jeden człowiek raz w roku. Tu drzwi są otwarte dla każdego.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole mogą siedzieć osoby z różnych Kościołów, także katolicy. Rozmawiamy o Jezusie jako arcykapłanie z Listu do Hebrajczyków. Nie oceniamy, jak inne wspólnoty rozumieją urząd duchowny.",
+      "Ktoś może mieć obraz Boga Ojca surowego i Syna, który musi Go przekonywać. Teksty mówią co innego, bo to Ojciec „wydał” Syna za nas. Nie wykładaj teorii, pokaż Rz 8,31-32.",
+      "Ktoś może nosić w sobie stałe poczucie oskarżenia. Nie obiecuj mu, że po spotkaniu ono zniknie. Pozwól mu usłyszeć, kto w tekście oskarża, a kto broni."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie wchodź w spory o naturę Chrystusa ani w szczegóły służby w niebie, których Biblia nie opisuje. Nie zamieniaj spotkania w wykład o kapłaństwie. Nie naciskaj nikogo, żeby opowiadał o swojej słabości.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o kimś, kto naprawdę zrozumiał, przez co przechodzisz, bo sam przez to przeszedł. Powiedz jednym zdaniem, co zmieniła jego obecność.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Ktoś, kto rozumie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 4,14-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Mając więc wielkiego arcykapłana, który przeszedł przez niebiosa, Jezusa, Syna Bożego, trzymajmy się mocno wyznania. Nie mamy bowiem arcykapłana, który by nie mógł współczuć ze słabościami naszymi, lecz doświadczonego we wszystkim, podobnie jak my, z wyjątkiem grzechu. Przystąpmy tedy z ufną odwagą do tronu łaski, abyśmy dostąpili miłosierdzia i znaleźli łaskę ku pomocy w stosownej porze."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Autor nie pisze po prostu, że arcykapłan współczuje. Pisze, że nie ma takiego, „który by nie mógł współczuć”. **Jakie myśli o Bogu chce w ten sposób rozbroić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Przystąpmy tedy z ufną odwagą do tronu łaski”. **Z czym przychodzi się do takiego tronu? Co cię najczęściej przed tym powstrzymuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Pomoc ma przyjść „w stosownej porze”. **Jak rozumiesz te słowa w chwili, gdy pomoc wydaje się spóźniona?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Słowo „współczuć” to po grecku `sympatheō`, dosłownie „cierpieć razem z kimś”. Ten arcykapłan nie ogląda ludzkiej słabości z daleka. Zna ją od środka, bo był „doświadczony we wszystkim, podobnie jak my”. Wielu wykładających widzi w „tronie łaski” odpowiednik złotego wieka nad skrzynią przymierza. Do tamtego miejsca wchodził jeden człowiek raz w roku. Do tego list zaprasza wszystkich i to „z ufną odwagą”.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Podobny do braci",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 2,14-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Skoro zaś dzieci mają udział we krwi i w ciele, więc i On również miał w nich udział, aby przez śmierć zniszczyć tego, który miał władzę nad śmiercią, to jest diabła, i aby wyzwolić wszystkich tych, którzy z powodu lęku przed śmiercią przez całe życie byli w niewoli. Bo przecież ujmuje się On nie za aniołami, lecz ujmuje się za potomstwem Abrahama. Dlatego musiał we wszystkim upodobnić się do braci, aby mógł zostać miłosiernym i wiernym arcykapłanem przed Bogiem dla przebłagania go za grzechy ludu. A że sam przeszedł przez cierpienie i próby, może dopomóc tym, którzy przez próby przechodzą."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus „musiał we wszystkim upodobnić się do braci”. **Co by straciła Jego pomoc, gdyby był podobny do nas tylko z wierzchu?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Werset 15 mówi o ludziach, którzy „z powodu lęku przed śmiercią przez całe życie byli w niewoli”. **Jak lęk przed śmiercią potrafi rządzić życiem, nawet gdy o niej nie myślimy?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W Hbr 4,15 stoi `sympatheō`, „cierpieć razem”. W Hbr 5,2, o zwykłym arcykapłanie, autor używa innego słowa, `metriopatheō`. Znaczy ono tyle co „zachować miarę w uczuciach”, czyli nie wybuchać gniewem i obchodzić się łagodnie. Ziemski kapłan miał być wyrozumiały, bo sam był słaby. O Jezusie autor mówi więcej. Jego współczucie bierze się z tego, że przeszedł przez te same próby i nie uległ.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czym różni się wyrozumiałość kogoś, kto sam ma te same słabości, od współczucia kogoś, kto przeszedł próbę i nie uległ?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Ze łzami",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 5,1-2.7-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem każdy arcykapłan, wzięty spośród ludzi, bywa ustanawiany z ramienia ludzi w sprawach odnoszących się do Boga, aby składał dary i ofiary za grzechy i mógł współczuć z tymi, którzy nie wiedzą i błądzą, skoro i on sam podlega słabości. [...]",
+        "Za dni swego życia w ciele zanosił On z wielkim wołaniem i ze łzami modlitwy i błagania do tego, który go mógł wybawić od śmierci, i dla bogobojności został wysłuchany; i chociaż był Synem, nauczył się posłuszeństwa przez to, co wycierpiał, a osiągnąwszy pełnię doskonałości, stał się dla wszystkich, którzy mu są posłuszni, sprawcą zbawienia wiecznego"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Arcykapłan jest „wzięty spośród ludzi”. **Dlaczego Bóg chce, żeby za ludzi stawał przed Nim ktoś z ludzi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 7 mówi o „wielkim wołaniu” i „łzach”. **Co dla ciebie znaczy, że Jezus modlił się w ten sposób? Co to mówi o twoich modlitwach, które wyglądają podobnie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus „został wysłuchany”, a jednak przeszedł przez śmierć. **Jak może wyglądać wysłuchana modlitwa, która nie zatrzymała cierpienia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Werset 7 przypomina noc w Getsemani, gdy Jezus w trwodze prosił, żeby kielich Go ominął. Nie dostał nadludzkich sił, żeby tę próbę obejść. „Nauczył się posłuszeństwa” nie znaczy, że wcześniej był nieposłuszny. Posłuszeństwo przeszedł w praktyce, w bólu i do końca. Wysłuchanie przyszło, choć nie przez ominięcie śmierci. Ojciec wyprowadził Go z niej w zmartwychwstaniu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Zawsze żyje",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 7,23-27",
+       "przeklad": "BW",
+       "akapity": [
+        "Tamtych kapłanów było więcej, gdyż śmierć nie pozwalała im pozostawać w urzędzie; ale Ten sprawuje kapłaństwo nieprzechodnie, ponieważ trwa na wieki. Dlatego też może zbawić na zawsze tych, którzy przez niego przystępują do Boga, bo żyje zawsze, aby się wstawiać za nimi. Takiego to przystało nam mieć arcykapłana, świętego, niewinnego, nieskalanego, odłączonego od grzeszników i wywyższonego nad niebiosa; który nie musi codziennie, jak inni arcykapłani, składać ofiar najpierw za własne grzechy, następnie za grzechy ludu; uczynił to bowiem raz na zawsze, gdy ofiarował samego siebie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dawnych kapłanów „śmierć nie pozwalała im pozostawać w urzędzie”. **Co daje człowiekowi świadomość, że jego orędownik nigdy nie umrze, nie wyjedzie i nie zmieni zdania?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Żyje zawsze, aby się wstawiać za nimi”. **Co sobie wyobrażasz, kiedy czytasz, że Jezus teraz się za kimś wstawia? Za kim mógłby się wstawiać w tej chwili?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ten arcykapłan jest „odłączony od grzeszników”, a jednocześnie wcześniej czytaliśmy, że współczuje. **Jak te dwie rzeczy mogą być prawdą naraz?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Za czasów Jezusa arcykapłanów zmieniano często. Między rokiem 37 przed Chrystusem a 70 po Chrystusie urzędowało ich dwudziestu ośmiu. Słuchacze listu dobrze wiedzieli, że urząd przechodzi z rąk do rąk, czasem przez polityczne układy. Autor stawia obok tego Kogoś, kto „trwa na wieki”. Wstawiennictwo Jezusa nie kończy się z wiekiem, chorobą ani zmianą władzy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Kotwica za zasłoną",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 6,19-20",
+       "przeklad": "BW",
+       "akapity": [
+        "Jej to trzymamy się jako kotwicy duszy, pewnej i mocnej, sięgającej aż poza zasłonę, gdzie jako poprzednik wszedł za nas Jezus, stawszy się arcykapłanem według porządku Melchisedeka na wieki."
+       ]
+      },
+      {
+       "odnosnik": "Hbr 8,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "Główną zaś rzeczą w tym, co mówimy, jest to, że mamy takiego arcykapłana, który usiadł po prawicy tronu Majestatu w niebie, jako sługa świątyni i prawdziwego przybytku, który zbudował Pan, a nie człowiek."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Kotwicę rzuca się w dół, w głębinę. Autor listu każe ją rzucić w górę, „poza zasłonę”. **Co trzyma człowieka, którego kotwica jest tam, gdzie wszedł Jezus?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus wszedł tam jako „poprzednik”. **Co mówi to słowo o tych, którzy idą za Nim?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Kto oskarży?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 8,31-34",
+       "przeklad": "BW",
+       "akapity": [
+        "Cóż tedy na to powiemy? Jeśli Bóg za nami, któż przeciwko nam? On, który nawet własnego Syna nie oszczędził, ale go za nas wszystkich wydał, jakżeby nie miał z nim darować nam wszystkiego? Któż będzie oskarżał wybranych Bożych? Przecież Bóg usprawiedliwia. Któż będzie potępiał? Jezus Chrystus, który umarł, więcej, zmartwychwstał, który jest po prawicy Boga, Ten przecież wstawia się za nami."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł stawia pytania jak w sali sądowej. **Kto w tej scenie mógłby oskarżać, kto sądzi, a kto broni? Co tekst odpowiada na każde z tych pytań?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zanim Paweł powie o wstawiennictwie Jezusa, przypomina, że Bóg „własnego Syna nie oszczędził”. **Co to zdanie mówi o Ojcu? Czy Ojca trzeba do czegoś przekonywać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Jeśli Bóg za nami, któż przeciwko nam?” **Czyje oskarżenia w twoim życiu brzmią najgłośniej? Ile ważą wobec tego zdania?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Imię „szatan” znaczy po hebrajsku „przeciwnik”. W Apokalipsie nazwany jest „oskarżycielem braci naszych”, który oskarża ich przed Bogiem dniem i nocą. W Rz 8 Paweł oskarżyciela nie nazywa, za to po stronie człowieka stoją Ojciec, który usprawiedliwia, i Syn, który się wstawia. Kilka wersetów wcześniej Paweł pisze, że wstawia się też Duch. Sąd wygląda tu inaczej, niż się boimy. Sędzia jest po stronie oskarżonego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Stojący po prawicy",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Szczepan, pierwszy męczennik Kościoła, stoi przed Radą Najwyższą. Za chwilę zebrani rzucą się na niego, wypchną go za miasto i ukamienują.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 7,55-56",
+       "przeklad": "BW",
+       "akapity": [
+        "On zaś, będąc pełen Ducha Świętego, utkwiwszy wzrok w niebo, ujrzał chwałę Bożą i Jezusa stojącego po prawicy Bożej i rzekł: Oto widzę niebiosa otwarte i Syna Człowieczego stojącego po prawicy Bożej."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Gdzie indziej Nowy Testament mówi, że Chrystus „siedzi” po prawicy Boga. Szczepan widzi Go „stojącego”. **Co może znaczyć ten szczegół dla człowieka, którego ludzie właśnie potępiają?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co daje Szczepanowi to spojrzenie w chwili, gdy nikt na ziemi nie staje po jego stronie?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czy Ojca trzeba przekonywać",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 12,10",
+       "przeklad": "BW",
+       "akapity": [
+        "I usłyszałem donośny głos w niebie, mówiący: Teraz nastało zbawienie i moc, i panowanie Boga naszego, i władztwo Pomazańca jego, gdyż zrzucony został oskarżyciel braci naszych, który dniem i nocą oskarżał ich przed naszym Bogiem."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Słowo „wstawiać się” łatwo podsuwa obraz, w którym Syn musi uprosić niechętnego Ojca. Teksty tego nie mówią. To Ojciec dał Syna. W Rz 8 Ojciec usprawiedliwia, Syn się wstawia, a Duch wzdycha za nami. Cała Trójca stoi po jednej stronie, a oskarżyciel po drugiej. Wstawiennictwo wypływa z miłości, która była pierwsza.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Biblia nie opisuje, jak dokładnie wygląda wstawiennictwo Jezusa. W Kościele słychać dwa akcenty. Jedni podkreślają, że Chrystus przedstawia przed Bogiem swoją ofiarę, czyli to, co już się stało na krzyżu. Drudzy mówią przede wszystkim o osobistej modlitwie Jezusa za swoich, takiej jak w J 17. Obie strony zgadzają się, że wstawiennictwo opiera się na ofierze, która już się dokonała, i odpowiada oskarżycielowi. Boga nie trzeba łagodzić.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jeśli Ojciec nas kocha i Syn się wstawia, to przeciw komu toczy się ta sprawa? Kto w niej przegrywa?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak zmienia się twoja modlitwa, kiedy wiesz, że nie musisz nikogo w niebie przekonywać do siebie?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Orędownik u Ojca",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1J 2,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "Dzieci moje, to wam piszę, abyście nie grzeszyli. A jeśliby kto zgrzeszył, mamy orędownika u Ojca, Jezusa Chrystusa, który jest sprawiedliwy. On ci jest ubłaganiem za grzechy nasze, a nie tylko za nasze, lecz i za grzechy całego świata."
+       ]
+      },
+      {
+       "odnosnik": "J 17,9.15.20",
+       "przeklad": "BW",
+       "akapity": [
+        "Ja za nimi proszę, nie za światem proszę, lecz za tymi, których mi dałeś, ponieważ oni są twoi; [...] Nie proszę, abyś ich wziął ze świata, lecz abyś ich zachował od złego. [...] A nie tylko za nimi proszę, ale i za tymi, którzy przez ich słowo uwierzą we mnie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jan pisze „abyście nie grzeszyli”, a zaraz potem „a jeśliby kto zgrzeszył”. **Co mówi o Bogu to, że w jednym zdaniu jest i wymaganie, i zabezpieczenie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W modlitwie z Ewangelii Jana Jezus prosi także „za tymi, którzy przez ich słowo uwierzą”. **Kto jest w tym zdaniu? Co czujesz, wiedząc, że Jezus modlił się za ciebie, zanim się urodziłeś?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus nie prosi, żeby uczniowie zostali zabrani ze świata. **O co prosi zamiast tego i dlaczego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Słowo „orędownik” to po grecku `paraklētos`, czyli ktoś wezwany, żeby stanąć przy człowieku, także przed sądem. Tego samego słowa Jezus używa o Duchu Świętym, gdy w Ewangelii Jana mówi o „innym Pocieszycielu”. Mamy więc Orędownika u Ojca i Orędownika, który jest z nami. Jan dodaje, że ten Orędownik jest „sprawiedliwy”. Broni nas, choć nie jesteśmy niewinni. Sam jest bowiem ubłaganiem za nasze grzechy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Ubłaganie” w 1J 2,2 to po grecku `hilasmos`. To słowo z rodziny `hilastērion`, którym Nowy Testament nazywa złote wieko skrzyni przymierza. W religiach greckich ofiarą przebłagalną często próbowano udobruchać rozgniewane bóstwo. W Biblii jest odwrotnie. To Bóg daje środek, przez który usuwa grzech i może mieszkać wśród ludzi. Jezus jest więc jednocześnie obrońcą i tym, na czym opiera się obrona.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co znaczy mieć obrońcę, który sam ponosi koszt twojej sprawy?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "List zaprasza, żeby przystępować do Boga „z ufną odwagą”. **Z czym najtrudniej ci do Niego przychodzić? Co cię wtedy zatrzymuje?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Który z dzisiejszych wersetów chciałbyś mieć przed oczami w dniu, w którym znowu upadniesz?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **w jakiej sprawie potrzebujesz dziś, żeby ktoś stanął po twojej stronie?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jezus był „doświadczony we wszystkim”, ale „z wyjątkiem grzechu”. Czy ktoś, kto nigdy nie uległ, może naprawdę zrozumieć tego, kto ulega? A może właśnie on zna siłę pokusy najlepiej?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie rozstrzyga. Warto, żeby padło spostrzeżenie, że ten, kto ulega, nigdy nie poznaje pokusy do końca, bo poddaje się, zanim ona wyczerpie swoją siłę. Jezus wytrzymał ją do końca.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "W niebie jest Ktoś, kto zna twoją słabość od środka i właśnie teraz staje po twojej stronie.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** Hbr 4,16 albo Hbr 7,25.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o słabości, której wstydzisz się przed Bogiem najbardziej. **Powiedz Mu o niej wprost**, pamiętając, że On „współczuje”.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przypomnij sobie oskarżenie, które najczęściej słyszysz w głowie. **Zapytaj siebie, czyj to głos.** Postaw obok niego zdanie „Ten przecież wstawia się za nami”.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Pomyśl o kimś, kogo w myślach ciągle oskarżasz. Zapytaj Boga, co by się w tobie zmieniło, gdybyś modlił się za tę osobę tak, jak Jezus modli się za tobą.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Jezus był bez grzechu, więc nie wie, jak to jest.”** Nie spieraj się. Przeczytaj Hbr 4,15 i 5,7 jeszcze raz. Zapytaj grupę, czy łzy i wołanie z Getsemani wyglądają na kogoś, komu było łatwo. Możesz wrócić do tego przy pytaniu z poziomu 3.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Po co mi pośrednik? Ja się modlę wprost do Boga.”** Zgódź się, bo list właśnie do tego zaprasza. Arcykapłan z Hebrajczyków nie staje między nami a Bogiem jak urzędnik. Otwiera drogę, żebyśmy mogli przyjść sami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś zaczyna porównywać to z kapłaństwem w swoim Kościele albo w cudzym.** Zatrzymaj to łagodnie. Powiedz, że dziś czytamy, co Pismo mówi o Jezusie. Nie oceniamy praktyki innych wspólnot.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli mogę grzeszyć, bo i tak ktoś się za mną wstawi?”** Jan zaczyna od słów „abyście nie grzeszyli”. Wstawiennictwo jest dla tych, którzy upadają i wracają, nie zachętą do upadania. Nie moralizuj, wystarczy przeczytać werset.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi, że od lat czuje się przez Boga oskarżony.** Nie przekonuj go na siłę. Wróć do Rz 8,33-34 i do pytania, kto w tym tekście oskarża. Jeśli za tym stoi głębsze cierpienie albo przygnębienie, zostań z tą osobą po spotkaniu i pomóż jej znaleźć dalszą pomoc.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 3. Bloki 1, 4 i 5 niosą spotkanie: arcykapłan, który współczuje, Bóg, który jest za nami, i Orędownik u Ojca.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Jezus był bez grzechu, więc nie wie, jak to jest.”",
+     "odpowiedz": "Nie spieraj się. Przeczytaj Hbr 4,15 i 5,7 jeszcze raz. Zapytaj grupę, czy łzy i wołanie z Getsemani wyglądają na kogoś, komu było łatwo. Możesz wrócić do tego przy pytaniu z poziomu 3."
+    },
+    {
+     "sytuacja": "„Po co mi pośrednik? Ja się modlę wprost do Boga.”",
+     "odpowiedz": "Zgódź się, bo list właśnie do tego zaprasza. Arcykapłan z Hebrajczyków nie staje między nami a Bogiem jak urzędnik. Otwiera drogę, żebyśmy mogli przyjść sami."
+    },
+    {
+     "sytuacja": "Ktoś zaczyna porównywać to z kapłaństwem w swoim Kościele albo w cudzym.",
+     "odpowiedz": "Zatrzymaj to łagodnie. Powiedz, że dziś czytamy, co Pismo mówi o Jezusie. Nie oceniamy praktyki innych wspólnot."
+    },
+    {
+     "sytuacja": "„Czyli mogę grzeszyć, bo i tak ktoś się za mną wstawi?”",
+     "odpowiedz": "Jan zaczyna od słów „abyście nie grzeszyli”. Wstawiennictwo jest dla tych, którzy upadają i wracają, nie zachętą do upadania. Nie moralizuj, wystarczy przeczytać werset."
+    },
+    {
+     "sytuacja": "Ktoś mówi, że od lat czuje się przez Boga oskarżony.",
+     "odpowiedz": "Nie przekonuj go na siłę. Wróć do Rz 8,33-34 i do pytania, kto w tym tekście oskarża. Jeśli za tym stoi głębsze cierpienie albo przygnębienie, zostań z tą osobą po spotkaniu i pomóż jej znaleźć dalszą pomoc."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3. Bloki 1, 4 i 5 niosą spotkanie: arcykapłan, który współczuje, Bóg, który jest za nami, i Orędownik u Ojca."
+    }
+   ]
+  }
+ ]
+}

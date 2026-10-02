@@ -1,0 +1,865 @@
+{
+ "tytul": "Słowo po raz drugi",
+ "id": "L-07",
+ "seria": "Ludzie drugiej szansy",
+ "opis": "Prorok uciekł przed Bogiem i dostał drugą szansę. Trudniej mu było przyjąć, że dostali ją też inni.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Jon 1,1-6; Jon 2,1-11; Jon 3,1-10; Jon 4,1-4; Jon 4,5-11",
+  "p2": "2Krl 14,25; Jon 1,9-10.14-16; Ps 139,7-10; Wj 32,14; Jr 18,7-8; Jl 2,12-13; Mt 12,39-41",
+  "p3": "Rdz 4,16; Lb 23,19"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 32
+ },
+ "tagi": [
+  "druga szansa",
+  "łaska",
+  "ucieczka od Boga",
+  "miłosierdzie",
+  "wrogowie",
+  "Jonasz"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg nie skreślił proroka, który uciekł, ani miasta, które zasłużyło na wyrok. Pyta nas tylko, czy zgodzimy się na tę samą łaskę dla innych.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Księga Jonasza opowiada o dwóch drugich szansach. Pierwszą dostaje prorok, który uciekł przed Bogiem. Bóg przychodzi do niego drugi raz z tym samym słowem i nie robi mu wyrzutów. Drugą dostaje Niniwa, wielkie miasto Asyrii, wrogiego imperium. Najciekawsze dzieje się na końcu. Jonasz przyjął łaskę dla siebie. Na łaskę dla wrogów nie umie się zgodzić. Księga kończy się pytaniem Boga, na które Jonasz nie odpowiada. To pytanie zostaje dla grupy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokrewny materiał to „Gniew”. Tamten czyta czwarty rozdział Jonasza od strony złości. Ten czyta całą księgę od strony drugiej szansy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Rozmowa łatwo zjedzie na rybę i na pytanie, czy da się przeżyć trzy dni w jej wnętrzu. Nie rób z tego tematu. Ryba pojawia się w księdze w trzech wersetach.",
+      "Ktoś przy stole może mieć swoją Niniwę, czyli człowieka, który go naprawdę skrzywdził. Miłosierdzie Boga wobec kogoś takiego nie oznacza, że skrzywdzony ma mu zaufać albo do niego wrócić.",
+      "Ktoś może rozpoznać w Jonaszu siebie, kogoś, kto od lat ucieka od Boga. To jest dla niego sprawa osobista. Nie naciskaj na deklaracje.",
+      "Pytanie o to, kto jest dziś Niniwą, kusi do polityki i do mówienia o narodach. Nie idź tam."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie wyśmiewaj Jonasza. Nie mów nikomu, kto jest jego Niniwą. Nie zamykaj księgi własną odpowiedzią za Jonasza.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie sytuację, w której ktoś dał ci drugą szansę, choć wcale nie musiał. Powiedz jednym zdaniem, co wtedy poczułeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Wstał, żeby uciec",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jonasz jest prorokiem w Izraelu. Niniwa to wielkie miasto Asyrii, potęgi, która najeżdżała sąsiadów, w tym Izrael.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jon 1,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Jonasza, syna Amittaja, doszło słowo Pana tej treści: Wstań, idź do Niniwy, tego wielkiego miasta, i mów głośno przeciwko niej, gdyż jej nieprawość doszła do mnie. Lecz Jonasz wstał, aby uciec sprzed oblicza Pana do Tarszyszu. A gdy przybył do Jaffy, znalazł tam okręt, który miał płynąć do Tarszyszu. I zapłaciwszy za przejazd, wszedł na pokład, aby sprzed oblicza Pana jechać z nimi do Tarszyszu.",
+        "Lecz Pan zesłał silny wiatr na morze i zerwała się potężna burza na morzu, tak iż zdawało się, że okrętowi grozi rozbicie. Wtedy żeglarze przestraszyli się i każdy wołał do swojego boga; sprzęt, który był na okręcie, wyrzucili do morza, aby zmniejszyć ciężar. Jonasz zaś zszedł na sam dół okrętu i zasnął twardym snem. Wtedy podszedł do niego kapitan okrętu i tak rzekł do niego: Dlaczego śpisz? Wstań, wołaj do swojego Boga! Może Bóg wspomni na nas i nie zginiemy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg mówi do Jonasza „wstań, idź”. **Co Jonasz robi z każdym z tych dwóch słów?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Dwa razy pada zwrot „sprzed oblicza Pana”. **Przed czym właściwie ucieka Jonasz? Przed miastem, przed zadaniem czy przed Kimś?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Poganie w burzy się modlą, a prorok śpi. Kapitan mówi do niego prawie tymi samymi słowami co Bóg. **Co to znaczy, że wezwanie Boga wraca do Jonasza ustami obcego człowieka?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Tarszysz był portem daleko za morzem. Niniwa leżała w głębi lądu, na wschodzie. Jonasz nie odmawia więc tylko podróży. Wybiera drogę w przeciwną stronę i jeszcze za nią płaci. Księga długo nie mówi, dlaczego to robi. Powód poda sam Jonasz dopiero w ostatnim rozdziale.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jonasz nie był prorokiem znikąd. Druga Księga Królewska wspomina go przy okazji króla Jeroboama II, za którego Izrael odzyskał dawne ziemie.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2Krl 14,25",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz przywrócił Izraelowi granice ciągnące się od wejścia do Chamat aż do Morza Stepowego, zgodnie ze słowem Pana, Boga izraelskiego, które wypowiedział przez swojego sługę Jonasza, syna Amittaja, proroka z Gat-Chefer."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jonasz zapowiadał więc swojemu narodowi dobre czasy. Z Niniwą miał mówić o sądzie. A Asyria była dla Izraela groźnym sąsiadem, który kilkadziesiąt lat później miał go podbić.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak mogło zabrzmieć to wezwanie dla proroka, który dotąd ogłaszał powodzenie własnego kraju?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Żeglarze",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jon 1,9-10",
+       "przeklad": "BW",
+       "akapity": [
+        "I odpowiedział im: Jestem Hebrajczykiem, czczę Pana, Boga niebios, który stworzył morze i ląd. Wtedy ci mężowie bardzo się zlękli i dowiedziawszy się, że ucieka sprzed oblicza Pana, bo im to był powiedział, rzekli do niego: Dlaczego to uczyniłeś?"
+       ]
+      },
+      {
+       "odnosnik": "Jon 1,14-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy wzywali Pana, mówiąc: O Panie! Nie dopuść, abyśmy zginęli z powodu tego człowieka, i nie obarczaj nas winą przelania krwi niewinnej, bo Ty, o Panie, czynisz, co chcesz. Wzięli więc Jonasza i wrzucili do morza; wtedy morze przestało się burzyć. A ci mężowie bardzo się zlękli Pana; złożyli więc Panu ofiarę i uczynili śluby."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jonasz wyznaje wiarę w Boga, który stworzył morze i ląd, a ucieka przed Nim morzem. **Jak to możliwe, że ktoś wyznaje właściwą wiarę, a idzie w przeciwną stronę?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Na początku rozdziału żeglarze wołają każdy do swojego boga. Na końcu składają ofiarę Panu. **Kto w tym rozdziale zbliżył się do Boga, a kto się od Niego oddalał?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Księga powtarza dwa czasowniki, które w przekładzie łatwo przeoczyć. Pierwszy to `qum`, „wstań”. Bóg mówi Jonaszowi „wstań” i Jonasz wstaje, ale do ucieczki. Kapitan budzi go tym samym słowem. W trzecim rozdziale Jonasz wstaje drugi raz, już w stronę Niniwy. Tym samym słowem król Niniwy wstaje z tronu.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Drugi czasownik to `jarad`, „schodzić”. W hebrajskim Jonasz schodzi do Jaffy, schodzi na statek, schodzi na sam dół okrętu, a w modlitwie mówi, że zstąpił do stóp gór. Ucieczka przed Bogiem jest w tej księdze drogą w dół. W całym Starym Testamencie tylko o jednym człowieku poza Jonaszem powiedziano, że odszedł „sprzed oblicza Pana”.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 4,16",
+       "przeklad": "BW",
+       "akapity": [
+        "I odszedł Kain sprzed oblicza Pana, i zamieszkał w ziemi Nod, na wschód od Edenu."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co mówi o ucieczce Jonasza to, że opisano ją tak jak odejście Kaina? I co w historii Jonasza potoczyło się inaczej?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Z głębi",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Los wskazał Jonasza jako winnego burzy. On sam kazał wrzucić się do morza, a gdy żeglarze to zrobili, morze ucichło.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jon 2,1-11",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz Pan wyznaczył wielką rybę, aby połknęła Jonasza. I był Jonasz we wnętrznościach ryby trzy dni i trzy noce. I modlił się Jonasz do Pana, swojego Boga, z wnętrzności ryby, mówiąc:",
+        "Wzywałem Pana w mojej niedoli i odpowiedział mi, z głębi krainy umarłych wołałem o pomoc i wysłuchał mojego głosu. Wrzucił mnie na głębię pośród morza i porwał mnie wir; wszystkie twoje bałwany i fale przeszły nade mną. Już pomyślałem: Jestem wygnany sprzed twoich oczu, jakże będę mógł jeszcze spojrzeć na twój święty przybytek? Wody sięgały mi aż do gardła, ogarnęło mnie topielisko, sitowie wiło się koło mojej głowy. Zstąpiłem do stóp gór, zawory ziemi na zawsze się za mną zamknęły. Lecz Ty wydobyłeś z przepaści moje życie, Panie, Boże mój.",
+        "Gdy ustawało we mnie życie, wspomniałem na Pana; i tak doszła moja modlitwa do ciebie, do twojego świętego przybytku. Ci, którzy trzymają się marnych bożyszczy, opuszczają swojego Miłościwego, lecz ja pragnę ci złożyć ofiarę z głośnym dziękczynieniem, spełnię, co ślubowałem. U Pana jest wybawienie. Wtedy Pan rozkazał rybie, a ta wypluła Jonasza na ląd."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jonasz modli się z miejsca, z którego sam się nie wydostanie. **O czym w tej modlitwie mówi, a o czym w ogóle nie wspomina?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Gdy ustawało we mnie życie, wspomniałem na Pana”. **Dlaczego tak często przypominamy sobie o Bogu dopiero na samym dnie? I co to mówi o Bogu, że odpowiada także wtedy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jonasz mówi o tych, którzy „opuszczają swojego Miłościwego”. **Jak to zdanie brzmi w ustach człowieka, który sam przed chwilą uciekał?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Modlitwa Jonasza ma budowę psalmu dziękczynnego. Takimi psalmami Izrael dziękował za ocalenie od śmierci. Jonasz dziękuje jeszcze we wnętrzu ryby, zanim stanie na lądzie. Rybę uznaje więc za ratunek. Bóg ją „wyznaczył”, tym samym słowem, którym później wyznaczy krzew i robaka. W tej historii ryba jest tylko środkiem, którym Bóg zatrzymał uciekającego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie ma dokąd uciec",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 139,7-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Dokąd ujdę przed duchem twoim? I dokąd przed obliczem twoim ucieknę? Jeśli wstąpię do nieba, Ty tam jesteś, A jeśli przygotuję sobie posłanie w krainie umarłych, I tam jesteś. Gdybym wziął skrzydła rannej zorzy I chciał spocząć na krańcu morza, Nawet tam prowadziłaby mnie ręka twoja, Dosięgłaby mnie prawica twoja."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalmista pyta o to samo, czego doświadczył Jonasz w głębi morza. **Dla jednego człowieka ta myśl jest groźna, dla innego daje spokój. Od czego to zależy?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajskie `mana` znaczy „wyznaczyć, przygotować”. W Księdze Jonasza stoi przy rybie, przy krzewie, przy robaku i przy wietrze ze wschodu. Polski przekład oddaje je raz jako „wyznaczył”, raz jako „zesłał”. Każde z tych stworzeń od razu robi to, do czego zostało wyznaczone. Ryba połyka i wypluwa, krzew rośnie, robak podgryza. Jedyną postacią w księdze, która nie słucha od razu, jest prorok.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co mówi o cierpliwości Boga to, że zamiast zastąpić Jonasza kimś posłusznym, uruchamia całe stworzenie, żeby go odzyskać?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Po raz drugi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jon 3,1-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Słowo Pana tej treści powtórnie doszło Jonasza: Wstań, udaj się do Niniwy, tego wielkiego miasta, i zwiastuj mu poselstwo, które ci przekazuję. Wtedy Jonasz wstał i udał się do Niniwy, według słowa Pana. A Niniwa była bardzo wielkim miastem, na trzy dni drogi pieszej. A Jonasz rozpoczął wędrówkę do miasta, odbywając drogę jednego dnia, i wołał tak: Jeszcze czterdzieści dni pozostaje do zburzenia Niniwy.",
+        "Wtedy obywatele Niniwy uwierzyli w Boga, ogłosili post i oblekli się we włosiennice, wielcy i mali. A gdy wieść o tym doszła do króla Niniwy, wstał ze swojego tronu, zdjął swój płaszcz i oblókł się we włosiennicę, i usiadł w popiele. Na polecenie króla i jego dostojników ogłoszono taki rozkaz: Ludzie i zwierzęta, bydło i owce niech nic nie jedzą, niech się nie pasą i niech nie piją wody! Niech włożą włosiennice, zarówno ludzie jak i bydło, i niech żarliwie wołają do Boga, niech każdy zawróci ze swojej złej drogi i od bezprawia, własnoręcznie popełnionego. A może Bóg znów się użali i odstąpi od swojego gniewu, i nie zginiemy.",
+        "A gdy Bóg widział ich postępowanie, że zawrócili ze swojej złej drogi, wtedy użalił się Bóg nieszczęścia, które postanowił zesłać na nich, i nie uczynił tego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Porównajcie pierwsze zdania tego rozdziału z pierwszymi zdaniami księgi. **Co się zmieniło, a co zostało takie samo? Czego Bóg Jonaszowi tym razem nie mówi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Kazanie Jonasza ma kilka słów. Nie ma w nim wezwania do nawrócenia ani obietnicy. **Skąd w takim razie król i miasto wzięli nadzieję, że jeszcze coś da się zmienić?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jonasz dostał drugą szansę bez proszenia o nią. Niniwa nie miała żadnej pewności, mówi tylko „a może”. **Co te dwie drugie szanse mają wspólnego, a czym się różnią?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Bóg nie rozlicza Jonasza z ucieczki. Nie ma rozmowy o winie, warunków ani okresu próbnego. Jest to samo słowo i to samo zadanie, powtórzone drugi raz. Słowa „użalić się” Biblia używa o Bogu, który odstępuje od zapowiedzianej kary, gdy człowiek się odwraca. Opisuje Boga, który naprawdę odpowiada na to, co robią ludzie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jak przedtem z Izraelem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 32,14",
+       "przeklad": "BW",
+       "akapity": [
+        "I użalił się Pan nad złem, które zamierzał sprowadzić na swój lud."
+       ]
+      },
+      {
+       "odnosnik": "Jr 18,7-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Raz grożę narodowi i królestwu, że je wykorzenię, wywrócę i zniszczę, lecz jeżeli się ów naród odwróci od swojej złości, z powodu której mu groziłem, to pożałuję tego zła, które zamierzałem mu uczynić."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pierwsze zdanie pada po złotym cielcu, gdy Bóg oszczędził własny lud. Zdanie o Niniwie brzmi prawie tak samo. **Co to mówi o tym, jak Bóg traktuje obcych w porównaniu ze swoimi?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeremiasz podaje regułę, którą król Niniwy znał tylko jako „a może”. **Po co Bóg w ogóle zapowiada karę, jeśli chce, żeby nie musiała nadejść?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jonasz ogłasza, że Niniwa zostanie „zburzona”. Hebrajski czasownik `hafach` tak opisuje zniszczenie Sodomy. Ten sam czasownik znaczy jednak także „odwrócić, obrócić w coś innego”. U Jeremiasza Bóg obiecuje w ten sposób obrócić żałobę w radość. Słowa Jonasza wypełniły się więc co do joty, tylko inaczej, niż sam chciał. Miasto nie zostało wywrócone. Zostało odwrócone.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co znaczy dla was, że ten sam wyrok mógł się spełnić jako zagłada albo jako przemiana, i rozstrzygnęło o tym nawrócenie ludzi?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: czy Bóg zmienia zdanie?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Lb 23,19",
+       "przeklad": "BW",
+       "akapity": [
+        "Bóg nie jest człowiekiem, aby nie dotrzymał słowa Ani synem człowieczym, aby żałował. Czy On powiada, a nie czyni, I mówi, a nie spełnia?"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Ta sama Biblia mówi, że Bóg „użalił się” nad Niniwą, i że nie jest człowiekiem, który żałuje. W Kościele czyta się to na dwa sposoby. Jedni podkreślają, że Bóg się nie zmienia. Zapowiedź kary zawsze miała w sobie ukryty warunek, który Jeremiasz nazywa wprost, a zmienili się ludzie, nie Bóg. Drudzy podkreślają, że relacja z Bogiem jest prawdziwa. On naprawdę słyszy i odpowiada, a język „użalił się” nie jest tylko obrazem. Obie strony łączy jedno. Charakter Boga jest stały, a należy do niego właśnie to, że odpowiada na nawrócenie. Jonasz sam to wiedział i właśnie dlatego uciekał.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co by się stało z modlitwą i z nawróceniem, gdyby Bóg w ogóle nie odpowiadał na to, co robią ludzie? A co by się stało z zaufaniem, gdyby Jego charakter się zmieniał?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Wiedziałem, że jesteś łaskawy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jon 4,1-4",
+       "przeklad": "BW",
+       "akapity": [
+        "Jonaszowi bardzo się to nie podobało, tak że się rozgniewał. I modlił się do Pana, mówiąc: Ach, Panie! Czy nie to miałem na myśli, gdy jeszcze byłem w mojej ojczyźnie? Dlatego pierwszym razem uciekałem do Tarszyszu; wiedziałem bowiem, że Ty jesteś Bogiem łaskawym i miłosiernym, cierpliwym i pełnym łaski, który żałuje nieszczęścia. Otóż teraz, Panie, zabierz moją duszę, bo lepiej mi umrzeć aniżeli żyć. A Pan odpowiedział: Czy to słuszne, tak się gniewać?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jonasz w końcu mówi, dlaczego uciekał. **Czego się bał? Co dokładnie go rozgniewało?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jonasz wylicza piękne cechy Boga, ale brzmią u niego jak zarzut. **Kiedy dobroć Boga dla innych potrafi człowieka zaboleć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jonasz sam przed chwilą został wyciągnięty z głębi. **Dlaczego tak łatwo cieszyć się łaską dla siebie i tak trudno cieszyć się nią, gdy dostaje ją ktoś inny?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jonasz powtarza słowa, którymi Bóg przedstawił się Mojżeszowi na Synaju. W innych miejscach Biblii ludzie przytaczają je, żeby Boga chwalić. Jonasz przytacza je, żeby się na Niego poskarżyć. Nie brakowało mu wiedzy o Bogu. Znał Go na tyle dobrze, że przewidział, co Bóg zrobi. I właśnie dlatego nie chciał iść.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "To samo zdanie u Joela",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jl 2,12-13",
+       "przeklad": "BW",
+       "akapity": [
+        "Wszakże jeszcze teraz mówi Pan: Nawróćcie się do mnie całym swym sercem, w poście, płaczu i narzekaniu! Rozdzierajcie swoje serca, a nie swoje szaty, i nawróćcie się do Pana, swojego Boga, gdyż On jest łaskawy i miłosierny, nierychły do gniewu i pełen litości, i żal mu karania!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Joel mówi własnemu ludowi prawie to samo co Jonasz, tylko jako zachętę do powrotu. **Co sprawia, że ta sama prawda o Bogu jednego przyciąga, a drugiego oburza?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Krzew i miasto",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jon 4,5-11",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem Jonasz wyszedł z miasta i zamieszkał na wschód od miasta; i zrobił sobie tam szałas, i usiadł w jego cieniu, aby zobaczyć, co będzie się dziać w mieście. A Pan, Bóg, wyznaczył krzew rycynowy, aby wyrósł nad Jonaszem, dawał cień jego głowie i osłaniał go przed grożącym mu nieszczęściem. I Jonasz radował się bardzo z tego krzewu rycynowego. Lecz nazajutrz z pojawieniem się zorzy wyznaczył Bóg robaka, który podgryzł krzew rycynowy, tak że usechł. A gdy wzeszło słońce, zesłał Bóg suchy wiatr wschodni i słońce prażyło głowę Jonasza, tak że omdlewał i życzył sobie śmierci, mówiąc: Lepiej mi umrzeć niż żyć.",
+        "Wtedy rzekł Bóg do Jonasza: Czy to słuszne, tak się gniewać z powodu krzewu rycynowego? A ten odpowiedział: Słusznie jestem zagniewany, i to na śmierć. A Pan rzekł: Ty żałujesz krzewu rycynowego, koło którego nie pracowałeś i którego nie wyhodowałeś; wyrósł on w ciągu jednej nocy i w ciągu jednej nocy zginął, a Ja nie miałbym żałować Niniwy, tego wielkiego miasta, w którym żyje więcej niż sto dwadzieścia tysięcy ludzi, którzy nie umieją rozróżnić między tym, co prawe, a tym, co lewe, a nadto wiele bydła?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jonasz siada poza miastem, „aby zobaczyć, co będzie się dziać”. **Na co on właściwie czeka? Co by go ucieszyło?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg mówi o stu dwudziestu tysiącach ludzi, którzy nie odróżniają prawej ręki od lewej, i o bydle. **Jak Bóg patrzy na miasto, którego Jonasz nie chciał ratować?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Księga kończy się pytaniem Boga. Odpowiedzi Jonasza nie ma. **Co byście odpowiedzieli na jego miejscu? Co jest w tej odpowiedzi najtrudniejsze?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W całej księdze siedzą dwie osoby. W mieście król siada w popiele i ma nadzieję na ocalenie. Za miastem prorok siada w cieniu i czeka na zagładę. Otwarte zakończenie nie jest usterką. Pytanie Boga jest skierowane do czytelnika. Bóg, który dał Jonaszowi drugą szansę, pyta go teraz, czy zgodzi się na drugą szansę dla innych.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Więcej niż Jonasz",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mt 12,39-41",
+       "przeklad": "BW",
+       "akapity": [
+        "A On odpowiadając, rzekł im: Pokolenie złe i cudzołożne znaku żąda, ale nie otrzyma innego znaku jak tylko znak Jonasza proroka. Albowiem jak Jonasz był w brzuchu wieloryba trzy dni i trzy noce, tak i Syn Człowieczy będzie w łonie ziemi trzy dni i trzy noce. Mężowie z Niniwy staną na sądzie wraz z tym pokoleniem i spowodują jego potępienie, gdyż na skutek zwiastowania Jonasza upamiętali się, a oto tutaj więcej niż Jonasz."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jonasz był w głębi za własną ucieczkę i ratunek dostał. Jezus zstąpi w śmierć z innego powodu. **Na czym polega to „więcej niż Jonasz”?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus stawia mieszkańców Niniwy za przykład ludziom religijnym. **Co to mówi o ludziach, których łatwo uznać za straconych?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jonasz uciekał, choć dobrze znał Boga. **Co w Bogu bywa dla ciebie niewygodne, choć wiesz, że jest prawdą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Komu najtrudniej byłoby ci życzyć drugiej szansy od Boga?** Nie musisz mówić, kto to jest. Wystarczy, że powiesz, dlaczego to trudne.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **czy jest w twoim życiu słowo od Boga, które już raz przyszło i może teraz przychodzi po raz drugi?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdyby Bóg okazał miłosierdzie komuś, kto skrzywdził ciebie albo twoich bliskich, czy umiałbyś się z tego cieszyć? A jeśli nie, co to mówi o twoim rozumieniu własnej drugiej szansy?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie szuka tu jednej odpowiedzi. Warto, żeby padło jedno rozróżnienie. Zgoda na to, że Bóg jest dobry dla mojego krzywdziciela, nie oznacza, że muszę mu zaufać. Nie muszę też do niego wracać ani udawać, że nic się nie stało. Niniwa się nawróciła, a Bóg nie kazał Jonaszowi w niej zamieszkać.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg nie skreślił proroka, który uciekł, ani miasta, które zasłużyło na wyrok. Pyta nas tylko, czy zgodzimy się na tę samą łaskę dla innych.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Jon 3,1 albo Jon 4,2.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Zapytaj siebie, **czy jest coś, przed czym w tej chwili uciekasz**, choć dobrze wiesz, dokąd Bóg cię posyła. Nie musisz od razu zawracać. Wystarczy, że przestaniesz udawać, że płyniesz w dobrą stronę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o człowieku, któremu nie życzysz dobrze. Przyznaj przed Bogiem, **czego się boisz, gdyby On okazał mu łaskę**. Zostań przy tym pytaniu, nawet jeśli odpowiedź jest wstydliwa.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** powiedz Bogu wprost, tak jak Jonasz, co cię w Nim złości. Potem posłuchaj, jakie pytanie On zadaje tobie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Przecież nikt nie przeżyje trzech dni w rybie.”** Nie prowadź sporu o biologię. Możesz powiedzieć, że Jezus traktował tę historię poważnie i nazwał ją znakiem. Dodaj, że dziś pytamy o coś innego. Pytamy, co Bóg zrobił z człowiekiem, który przed Nim uciekł. Jeśli ktoś chce wrócić do tego pytania, zaproponuj rozmowę po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o swoim krzywdzicielu, na przykład o przemocy w domu.** Wysłuchaj, nie przerywaj i nie każ przebaczać na zawołanie. Powiedz jasno, że miłosierdzie Boga wobec sprawcy nie zobowiązuje skrzywdzonego do powrotu, zaufania ani milczenia. Zostań z tą osobą po spotkaniu. Przy przemocy w rodzinie nie zostawaj z tym sam i pomóż jej znaleźć pomoc specjalistyczną.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli Bóg i tak wszystkim przebaczy, niezależnie od tego, co robią.”** Wróć do tekstu. Bóg „widział ich postępowanie, że zawrócili ze swojej złej drogi”. Łaska była darmowa, ale Niniwa się odwróciła. Jonasz też dostał drugą szansę wtedy, gdy przestał uciekać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja jestem Jonaszem. Uciekam od Boga od lat.”** Podziękuj za szczerość i nie przerabiaj tego w wezwanie przy całej grupie. Możesz powiedzieć, że w tej księdze Bóg przychodzi drugi raz bez wyrzutów. Resztę zostaw tej osobie i Bogu, a jeśli zechce, porozmawiaj z nią po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na politykę albo na narody, które „są dziś Niniwą”.** Zatrzymaj to łagodnie. Księga nie daje listy wrogich narodów. Pyta jednego człowieka o jego serce. Wróć do pytania, kto jest moją Niniwą.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu o drugą szansę dla wrogów.** To dobre milczenie, bo pytanie jest trudne. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, przeczytaj jeszcze raz ostatni werset księgi i nic nie dodawaj.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 2. Bloki 3, 4 i 5 niosą spotkanie: słowo po raz drugi, łaska dla Niniwy i pytanie, które zostaje otwarte.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Przecież nikt nie przeżyje trzech dni w rybie.”",
+     "odpowiedz": "Nie prowadź sporu o biologię. Możesz powiedzieć, że Jezus traktował tę historię poważnie i nazwał ją znakiem. Dodaj, że dziś pytamy o coś innego. Pytamy, co Bóg zrobił z człowiekiem, który przed Nim uciekł. Jeśli ktoś chce wrócić do tego pytania, zaproponuj rozmowę po spotkaniu."
+    },
+    {
+     "sytuacja": "Ktoś mówi o swoim krzywdzicielu, na przykład o przemocy w domu.",
+     "odpowiedz": "Wysłuchaj, nie przerywaj i nie każ przebaczać na zawołanie. Powiedz jasno, że miłosierdzie Boga wobec sprawcy nie zobowiązuje skrzywdzonego do powrotu, zaufania ani milczenia. Zostań z tą osobą po spotkaniu. Przy przemocy w rodzinie nie zostawaj z tym sam i pomóż jej znaleźć pomoc specjalistyczną."
+    },
+    {
+     "sytuacja": "„Czyli Bóg i tak wszystkim przebaczy, niezależnie od tego, co robią.”",
+     "odpowiedz": "Wróć do tekstu. Bóg „widział ich postępowanie, że zawrócili ze swojej złej drogi”. Łaska była darmowa, ale Niniwa się odwróciła. Jonasz też dostał drugą szansę wtedy, gdy przestał uciekać."
+    },
+    {
+     "sytuacja": "„Ja jestem Jonaszem. Uciekam od Boga od lat.”",
+     "odpowiedz": "Podziękuj za szczerość i nie przerabiaj tego w wezwanie przy całej grupie. Możesz powiedzieć, że w tej księdze Bóg przychodzi drugi raz bez wyrzutów. Resztę zostaw tej osobie i Bogu, a jeśli zechce, porozmawiaj z nią po spotkaniu."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na politykę albo na narody, które „są dziś Niniwą”.",
+     "odpowiedz": "Zatrzymaj to łagodnie. Księga nie daje listy wrogich narodów. Pyta jednego człowieka o jego serce. Wróć do pytania, kto jest moją Niniwą."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu o drugą szansę dla wrogów.",
+     "odpowiedz": "To dobre milczenie, bo pytanie jest trudne. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, przeczytaj jeszcze raz ostatni werset księgi i nic nie dodawaj."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 2. Bloki 3, 4 i 5 niosą spotkanie: słowo po raz drugi, łaska dla Niniwy i pytanie, które zostaje otwarte."
+    }
+   ]
+  }
+ ]
+}

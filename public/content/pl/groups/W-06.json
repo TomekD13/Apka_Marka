@@ -1,0 +1,775 @@
+{
+ "tytul": "Decyzje we mgle",
+ "id": "W-06",
+ "seria": "Decyzje i wola Boża",
+ "opis": "Jak wybierać, kiedy nie widać wyniku, i dlaczego decyzja bez pewności nie musi być decyzją bez wiary.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Rdz 12,1-5; Hbr 11,8-10; Prz 3,5-7; Koh 11,1-6; Jk 4,13-17",
+  "p2": "Rdz 12,10-13; Rt 2,1-3; Pwt 11,10-12; Est 4,13-16; Dz 20,22-24",
+  "p3": "Prz 3,6"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 30
+ },
+ "tagi": [
+  "decyzje",
+  "wola Boża",
+  "niepewność",
+  "wiara",
+  "zaufanie",
+  "planowanie"
+ ],
+ "wersja": 1,
+ "zdanie": "Mgła nie znaczy, że Bóg zniknął. Nie widzę całej drogi, ale znam Tego, który mnie nią prowadzi.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o wyborach, w których nie widać wyniku. Abraham wyszedł, nie wiedząc, dokąd idzie, a Biblia nazywa to wiarą. Pismo nie obiecuje, że przed decyzją mgła się rozejdzie. Obiecuje Boga, który zna drogę i idzie razem z człowiekiem. Decyzja bez pewności nie musi więc być decyzją bez wiary.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W Kościele słychać tu dwa akcenty. Jedni wierzą, że Bóg ma dla człowieka konkretną drogę także w sprawach pracy, miejsca czy małżeństwa i prowadzi do niej krok po kroku. Drudzy podkreślają, że Bóg daje mądrość i zostawia wybór w granicach tego, co już powiedział. Oba stanowiska zgadzają się, że nikt z nas nie widzi przyszłości i że Bóg nie gra z nami w chowanego. Pokrewny materiał to „Modlitwa przed wyborem”.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole podjął przemyślaną decyzję i stracił, na przykład pracę, pieniądze albo zdrowie. Nie sugeruj, że widocznie źle rozeznał wolę Bożą.",
+      "Ktoś może od miesięcy nie umieć się zdecydować i bardzo się tego wstydzić. Nie popędzaj go przy grupie.",
+      "Tekst z Księgi Koheleta łatwo zamienić w porady finansowe. To nie jest spotkanie o inwestowaniu.",
+      "Słowa „jeżeli Pan zechce” mogą zabrzmieć jak formułka do odhaczenia. Chodzi o postawę serca."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie doradzaj w cudzych sprawach zawodowych ani finansowych. Nie oceniaj niczyich decyzji po tym, jak się skończyły. Nie obiecuj, że po wyjściu w wierze wszystko się ułoży.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o decyzji, którą podjąłeś, nie wiedząc, jak się skończy. Powiedz jednym słowem, co wtedy czułeś.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Wyjdź",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 12,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Pan do Abrama: Wyjdź z ziemi swojej i od rodziny swojej, i z domu ojca swego do ziemi, którą ci wskażę. A uczynię z ciebie naród wielki i będę ci błogosławił, i uczynię sławnym imię twoje, tak że staniesz się błogosławieństwem. I będę błogosławił błogosławiącym tobie, a przeklinających cię przeklinać będę; i będą w tobie błogosławione wszystkie plemiona ziemi.",
+        "Abram wybrał się w drogę, jak mu rozkazał Pan, i poszedł z nim Lot. Abram miał siedemdziesiąt pięć lat, gdy wyszedł z Haranu. Wziął też Abram żonę swoją Saraj i Lota, bratanka swego, i cały ich dobytek, którego się dorobili, i służbę, którą nabyli w Haranie. Wyruszyli, aby się udać do ziemi kanaanejskiej. I przybyli do Kanaanu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg mówi: „do ziemi, którą ci wskażę”. **Czego Abram nie wie w chwili, gdy rusza w drogę? A co wie na pewno?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W obietnicy Bóg pięć razy mówi, co On zrobi. Abram dostaje jedno polecenie: wyjdź. **Co to rozłożenie ciężaru mówi o decyzji podjętej z wiarą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Abram ma siedemdziesiąt pięć lat, żonę, bratanka, służbę i dobytek. **Co ryzykuje człowiek, który na takim etapie życia zaczyna od nowa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Werset 4 jest bardzo krótki. Abram wybrał się w drogę, jak mu rozkazał Pan. Nie ma tu mapy ani terminu. Jest tylko słowo Boga. Na spełnienie dwóch pierwszych obietnic, ziemi i potomstwa, Abram będzie czekał dziesiątki lat. Bliskość Boga ma za to od pierwszego dnia. Ta bliskość nie znika nawet wtedy, gdy kilka wersetów dalej Abram się boi i kłamie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Zaraz po wyjściu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 12,10-13",
+       "przeklad": "BW",
+       "akapity": [
+        "Kiedy zaś nastał głód w tym kraju, Abram udał się do Egiptu, aby się tam zatrzymać jako przybysz, gdyż w kraju był wielki głód. A gdy się już zbliżał do Egiptu, rzekł do swej żony Saraj: Wiem, że jesteś piękną kobietą. Gdy więc zobaczą cię Egipcjanie, powiedzą: To jest jego żona, i zabiją mnie, a ciebie zostawią przy życiu. Mów więc, że jesteś moją siostrą, aby mi się dobrze wiodło ze względu na ciebie i abym dzięki tobie pozostał przy życiu."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Krótko po wielkim kroku wiary przychodzi głód, a Abram sam postanawia jechać do Egiptu. **Co ta scena mówi tym, którzy raz zaufali Bogu i myślą, że teraz będzie już łatwo?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Abram układa plan, który ma go ochronić, i naraża przy tym żonę. **Co strach robi z naszymi decyzjami, kiedy mgła wraca?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Nie wiedząc, dokąd",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hbr 11,8-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Przez wiarę usłuchał Abraham, gdy został powołany, aby pójść na miejsce, które miał wziąć w dziedzictwo, i wyszedł, nie wiedząc, dokąd idzie. Przez wiarę osiedlił się jako cudzoziemiec w ziemi obiecanej na obczyźnie, zamieszkawszy pod namiotami z Izaakiem i Jakubem, współdziedzicami tejże obietnicy. Oczekiwał bowiem miasta mającego mocne fundamenty, którego budowniczym i twórcą jest Bóg."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Wyszedł, nie wiedząc, dokąd idzie”. **Czym wiara różni się od pewności, skoro autor chwali wiarę Abrahama, który nie wiedział, dokąd idzie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Abraham mieszka w ziemi obiecanej jako cudzoziemiec, pod namiotami. **Co znaczy żyć w środku obietnicy, która jeszcze się nie spełniła?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Abraham „oczekiwał miasta mającego mocne fundamenty”. **Jak dalekie spojrzenie pomaga podjąć bliską decyzję?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Zdarzyło się",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Rut, młoda wdowa z Moabu, przychodzi z teściową Noemi do Betlejem. Obie są biedne i nie mają nikogo, kto by je utrzymał.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rt 2,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "A Noemi miała dalekiego krewnego ze strony swego męża, z rodziny Elimelecha, człowieka bardzo zamożnego, który nazywał się Boaz. Rzekła tedy Rut Moabitka do Noemi: Pozwól mi pójść na pole zbierać kłosy za tym, w którego oczach znajdę łaskę. A ona jej odpowiedziała: Idź, córko moja! I poszła, a przyszedłszy na pole, zbierała za żeńcami. Zdarzyło się zaś, że trafiła na kawałek pola, należącego do Boaza, który był z rodziny Elimelecha."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Rut wybiera pole bez znaku i bez słowa od Boga. Tekst mówi tylko: „Zdarzyło się zaś”. **Jak Bóg może prowadzić człowieka, który po prostu robi rozsądny krok?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Autor używa tu słowa, które znaczy przypadek. Czytelnik wie jednak, kim jest Boaz, i widzi rękę Boga. W całej księdze Bóg ani razu nie mówi do Rut wprost. A prowadzi jej życie od wdowieństwa w Moabie aż do rodowodu Dawida (Rt 4,17).",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Ufaj i pamiętaj o Nim",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 3,5-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Zaufaj Panu z całego swojego serca i nie polegaj na własnym rozumie! Pamiętaj o Nim na wszystkich swoich drogach, a On prostować będzie twoje ścieżki! Nie uważaj się sam za mądrego, bój się Pana i unikaj złego!"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Nie polegaj na własnym rozumie”. **Co znaczy to zdanie, skoro ta sama księga każe szukać mądrości jak srebra?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Pamiętaj o Nim na wszystkich swoich drogach”. **Jak wygląda pamiętanie o Bogu w środku decyzji, której wyniku nie znamy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Werset 7 dodaje: „Nie uważaj się sam za mądrego”. **Dlaczego pewność siebie bywa najgorszym przewodnikiem we mgle?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Te wersety nie każą przestać myśleć. Księga Przypowieści zachęca do szukania mądrości jak ukrytego skarbu (Prz 2,4). Przeciwstawia za to mądrość „we własnych oczach” mądrości, która zaczyna się od bojaźni Pana. Kto ufa Bogu, nadal liczy, pyta i planuje. Przestaje tylko traktować własne wyliczenia jak ostatnie słowo o przyszłości.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ziemia, która pije deszcz z nieba",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Pwt 11,10-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdyż ziemia, do której idziecie, aby ją posiąść, nie jest taką jak ziemia egipska, skąd wyszliście, którą zasiawszy swoim ziarnem, nawadniałeś swoimi nogami, jak ogród warzywny. Lecz ziemia, do której się przeprawiacie, aby ją posiąść, to ziemia gór i dolin, zraszana z nieba wodą deszczu. Jest to ziemia, o którą Pan, Bóg twój, się troszczy. Stale spoczywają na niej oczy Pana, Boga twego, od początku roku do końca roku."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Egipt nawadniano wodą z Nilu, rozprowadzaną kanałami. Kanaan zależał od deszczu. **Dlaczego Bóg prowadzi swój lud do ziemi, w której trudniej wszystko zaplanować?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "„Stale spoczywają na niej oczy Pana”. **Co to zdanie mogło znaczyć dla rolnika, który przed siewem patrzy w niebo?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W Prz 3,6 hebrajski czasownik `jaszar` znaczy prostować, wyrównywać, czynić drogę gładką. Biblia Warszawska oddaje to wiernie: „prostować będzie twoje ścieżki”. Werset nie mówi wprost, że Bóg pokaże z góry każdy zakręt. Mówi, że Bóg wyprostuje drogę człowieka, który Mu ufa. Jedni słyszą w tym obietnicę prowadzenia w konkretnych wyborach, inni obietnicę udanego życia w ogóle. Jedno i drugie zakłada Boga, który idzie z człowiekiem.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co się zmienia w podejściu do decyzji, gdy zamiast mapy dostajemy obietnicę wyprostowanej drogi?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Siej od rana",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Koh 11,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Rozdawaj swój chleb w obfitości, a po wielu dniach odnajdziesz go. Rozdziel dział między siedmiu, a nawet ośmiu, bo nie wiesz, jakie nieszczęście może się zdarzyć na ziemi. Gdy chmury są pełne, spuszczają deszcz na ziemię; a czy drzewo pada na południe, czy na północ, tam leży, gdzie pada. Kto zważa na wiatr, nigdy nie będzie siał; a kto patrzy na chmury, nie będzie żął. Jak nie wiesz, dokąd wiatr wieje, jak kształtują się kości w łonie brzemiennej, tak nie znasz dzieła Boga, który wszystko czyni. Z rana siej swoje nasienie, a niech nie spoczywa twoja ręka do wieczora, bo nie wiesz, czy uda się to czy tamto, lub czy jedno i drugie jednakowo wypadną."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Werset 1 Biblia Warszawska oddaje opisowo. Przekład ekumeniczny zachowuje obraz, który stoi w hebrajskim:",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Koh 11,1",
+       "przeklad": "Ekum",
+       "akapity": [
+        "Rzuć swój chleb na powierzchnię wody, a zobaczysz, że po wielu dniach go odnajdziesz."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Kto zważa na wiatr, nigdy nie będzie siał”. **Jak w naszym życiu wygląda czekanie na idealną pogodę przed decyzją?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Kohelet trzy razy mówi „nie wiesz”, a mimo to każe siać od rana do wieczora. **Jak niewiedza może prowadzić do działania zamiast do paraliżu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Rozdziel dział między siedmiu, a nawet ośmiu”. **Co ta rada może znaczyć przy decyzjach, których skutków nie da się przewidzieć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Pierwsze wezwanie czyta się zwykle jako zachętę do hojności. Część czytelników widzi w nim raczej odważne przedsięwzięcie handlowe. W obu odczytaniach rzucić chleb na wodę znaczy zaryzykować jego utratę bez gwarancji zwrotu. Dalej Kohelet mówi o rozkładaniu ryzyka i o pracy od rana do wieczora. Nie obiecuje, że wszystko się uda. Mówi tylko, że kto czeka na pewność, nie zbierze nic. Mędrzec, który przyznaje, że nie zna dzieła Boga, wcale nie zachęca do bezczynności.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Kto wie",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Królewski dekret skazuje Żydów w całym państwie perskim na śmierć. Mordochaj prosi królową Esterę, żeby poszła do króla, choć wejście bez wezwania grozi śmiercią.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Est 4,13-16",
+       "przeklad": "BW",
+       "akapity": [
+        "przekazał Mordochaj Esterze taką odpowiedź: Nie wyobrażaj sobie, że ty jedna spośród wszystkich Żydów ocalejesz dlatego, że jesteś w pałacu królewskim. Bo jeśli ty w takim czasie będziesz milczeć, ratunek i ocalenie dla Żydów przyjdą skądinąd, lecz ty i dom twego ojca zginiecie. Kto zaś wie, czy godności królewskiej nie osiągnęłaś właśnie na taki czas, jak obecny? Wtedy Estera przekazała Mordochajowi taką odpowiedź: Idź i zbierz wszystkich Żydów, którzy się znajdują w Suzie, i pośćcie za mnie; przez trzy doby nocą i dniem nie jedzcie i nie pijcie; również ja i moje służebnice tak będziemy pościć, a potem udam się do króla, choć to jest wbrew prawu. Jeśli mam zginąć, to zginę!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mordochaj nie mówi „Bóg tak chce”. Mówi „kto wie”. **Co znaczy podjąć ważną decyzję na podstawie takiego „kto wie”?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Estera prosi o trzy dni postu, a potem mówi: „Jeśli mam zginąć, to zginę!”. **Co pomaga człowiekowi zrobić dobry krok, choć nie zna jego skutków?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Księga Estery ani razu nie wymienia imienia Boga. Estera nie dostaje snu, proroka ani znaku. Decyduje po rozmowie z Mordochajem i po poście. Czytelnik widzi jednak Boga w każdym zwrocie tej historii.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Jeżeli Pan zechce",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jk 4,13-17",
+       "przeklad": "BW",
+       "akapity": [
+        "A teraz wy, którzy mówicie: Dziś albo jutro pójdziemy do tego lub owego miasta, zatrzymamy się tam przez jeden rok i będziemy handlowali i ciągnęli zyski, wy, którzy nie wiecie, co jutro będzie. Bo czymże jest życie wasze? Parą jesteście, która ukazuje się na krótko, a potem znika. Zamiast tego, winniście mówić: Jeżeli Pan zechce, będziemy żyli i zrobimy to lub owo. Wy natomiast chełpicie się przechwałkami swoimi; wszelka tego rodzaju chełpliwość jest zła. Kto więc umie dobrze czynić, a nie czyni, dopuszcza się grzechu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Kupcy mają plan na rok: miasto, handel, zysk. **Co Jakub zarzuca temu planowi, skoro samo planowanie nie jest niczym złym?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Jeżeli Pan zechce, będziemy żyli i zrobimy to lub owo”. **Jak to zdanie zmienia sposób planowania, kiedy przestaje być pustą formułką?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Po słowach o niepewnym jutrze Jakub przypomina o dobru, które umiemy zrobić. **Dlaczego to, co jasne dzisiaj, waży tu więcej niż to, co niewiadome jutro?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jakub nie gani planu krótkiego ani długiego, wyboru miasta ani zarobku. Gani pewność siebie, która nie liczy się z Bogiem. Paweł też planował podróże i raz mówi wprost, że wróci „za wolą Bożą” (Dz 18,21). Chodzi o postawę, nie o słowa. Plan można trzymać mocno w głowie i lekko w ręku. To, co wiemy o woli Bożej na dziś, waży więcej niż nasze domysły o jutrze.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nie wiedząc, co mnie tam spotka",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paweł żegna się ze starszymi zboru w Efezie. Wraca do Jerozolimy, choć w każdym mieście słyszy ostrzeżenia.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 20,22-24",
+       "przeklad": "BW",
+       "akapity": [
+        "I oto teraz, zniewolony przez Ducha, idę do Jerozolimy, nie wiedząc, co mnie tam spotka, prócz tego, o czym mnie Duch Święty w każdym mieście upewnia, że mnie czekają więzy i uciski. Lecz o życiu moim mówić nie warto i nie przywiązuję do niego wagi, bylebym tylko dokonał biegu mego i służby, którą przyjąłem od Pana Jezusa, żeby składać świadectwo o ewangelii łaski Bożej."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nie wie, co go spotka, a wie, że czekają go więzy. **Co trzyma go na tej drodze?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czego uczy nas człowiek, dla którego dokończenie biegu jest ważniejsze od własnego bezpieczeństwa?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: dobra decyzja, zły wynik",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Łatwo oceniać decyzje po tym, jak się skończyły. Ktoś wybrał bezpieczną pracę, a rok później cała branża stanęła. Ktoś inny zaryzykował i wygrał. Badacze decyzji nazywają to ocenianiem po wyniku i ostrzegają, że uczy fałszywych lekcji. Wynik zależy od wyboru, ale także od rzeczy, na które nikt nie ma wpływu.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W Kościele dochodzi do tego pokusa duchowa. Jedni mówią, że skoro wyszło źle, widocznie człowiek zszedł z woli Bożej. Biblia pokazuje więcej. Paweł szedł za Duchem i trafił do więzienia. Bohaterowie wiary z Listu do Hebrajczyków umierali, nie otrzymawszy obietnic (Hbr 11,13). A jednocześnie Pismo zna drogi, które kończą się źle dlatego, że były złe, jak droga Jonasza do Tarszyszu. Oba spojrzenia łączy jedno. Decyzję ocenia się po tym, co dało się wiedzieć, i po tym, jak człowiek szukał Boga w chwili wyboru.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak oceniać własną decyzję, która była przemyślana i omodlona, a skończyła się źle?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pomyśl o wyborze, który masz przed sobą. **Co w nim jest mgłą, a co wiesz na pewno już dzisiaj?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Na jaką pewność czekasz, zanim się ruszysz? Czy taka pewność jest w tej sprawie w ogóle możliwa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **jaki plan trzymasz dziś zbyt mocno w ręku i co by się zmieniło, gdybyś powiedział o nim „jeżeli Pan zechce”?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Abraham wyszedł, bo Bóg powiedział „wyjdź”. Większość z nas takiego słowa nie słyszy. Czy decyzja podjęta bez wyraźnego polecenia może być takim samym krokiem wiary jak jego wyjście?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie musi rozstrzygać. Warto, żeby padło spostrzeżenie, że Rut i Estera nie usłyszały żadnego słowa, a Biblia stawia je obok tych, którym Bóg mówił wprost. Wiara bywa usłuchaniem polecenia. Bywa też rozsądnym krokiem zrobionym z ufnością.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Mgła nie znaczy, że Bóg zniknął. Nie widzę całej drogi, ale znam Tego, który mnie nią prowadzi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** Hbr 11,8 albo Prz 3,5-6.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Nazwij przed Bogiem lęk, który najbardziej cię trzyma w decyzji, której wyniku nie znasz. Wystarczy jedno zdanie, powiedziane szczerze.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Zapytaj siebie, **co jest wolą Bożą dla mnie na dziś**, bez względu na to, jak rozstrzygnie się sprawa jutra. Zostań przy tej odpowiedzi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Jeśli od dawna odkładasz decyzję, bo czekasz na idealną pogodę, zapytaj siebie przed Bogiem, czy to jeszcze czekanie, czy już ucieczka.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Wybrałem po modlitwie, a wszystko się posypało.”** Nie szukaj winy i nie tłumacz, co ta osoba zrobiła źle. Paweł szedł za Duchem do więzienia. Wysłuchaj do końca. Jeśli sprawa jest świeża i bolesna, zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli nie warto planować, skoro i tak nie wiadomo?”** Jakub nie zakazuje planów, a Kohelet każe siać od rana. Biblia uczy planować z otwartą dłonią. Wróć do pytania o to, co jasne dzisiaj.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś jest w sytuacji, w której każde wyjście jest złe: choroba, długi, rozpad związku.** Nie mów, że wszystko będzie dobrze, i nie podsuwaj rozwiązań. Czasem każde wyjście coś kosztuje i trzeba wybrać to, które najmniej rani. Biblia nie udaje, że takich sytuacji nie ma. Grupa słucha i towarzyszy. Przy sprawach prawnych, medycznych i psychologicznych potrzebna jest pomoc fachowa.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na pieniądze i inwestycje.** Zatrzymaj to łagodnie. Kohelet nie pisze poradnika finansowego. Zapytaj, co ten tekst mówi o lęku przed ryzykiem i o hojności.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Mnie Bóg nigdy nie powiedział «wyjdź».”** Większości z nas nie powiedział tego wprost. Pokaż Rut na polu Boaza i Esterę, która postanawia pójść do króla. Obie wybierały bez słowa z nieba, a Bóg był w ich historii.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 3. Bloki 1, 2, 4 i 5 niosą spotkanie: wyjście bez mapy, wiara bez pewności, siew mimo niewiedzy i plan trzymany lekko w ręku.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Wybrałem po modlitwie, a wszystko się posypało.”",
+     "odpowiedz": "Nie szukaj winy i nie tłumacz, co ta osoba zrobiła źle. Paweł szedł za Duchem do więzienia. Wysłuchaj do końca. Jeśli sprawa jest świeża i bolesna, zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "„Czyli nie warto planować, skoro i tak nie wiadomo?”",
+     "odpowiedz": "Jakub nie zakazuje planów, a Kohelet każe siać od rana. Biblia uczy planować z otwartą dłonią. Wróć do pytania o to, co jasne dzisiaj."
+    },
+    {
+     "sytuacja": "Ktoś jest w sytuacji, w której każde wyjście jest złe: choroba, długi, rozpad związku.",
+     "odpowiedz": "Nie mów, że wszystko będzie dobrze, i nie podsuwaj rozwiązań. Czasem każde wyjście coś kosztuje i trzeba wybrać to, które najmniej rani. Biblia nie udaje, że takich sytuacji nie ma. Grupa słucha i towarzyszy. Przy sprawach prawnych, medycznych i psychologicznych potrzebna jest pomoc fachowa."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na pieniądze i inwestycje.",
+     "odpowiedz": "Zatrzymaj to łagodnie. Kohelet nie pisze poradnika finansowego. Zapytaj, co ten tekst mówi o lęku przed ryzykiem i o hojności."
+    },
+    {
+     "sytuacja": "„Mnie Bóg nigdy nie powiedział «wyjdź».”",
+     "odpowiedz": "Większości z nas nie powiedział tego wprost. Pokaż Rut na polu Boaza i Esterę, która postanawia pójść do króla. Obie wybierały bez słowa z nieba, a Bóg był w ich historii."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3. Bloki 1, 2, 4 i 5 niosą spotkanie: wyjście bez mapy, wiara bez pewności, siew mimo niewiedzy i plan trzymany lekko w ręku."
+    }
+   ]
+  }
+ ]
+}

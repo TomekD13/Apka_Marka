@@ -1,0 +1,836 @@
+{
+ "tytul": "Pierwszy z grzeszników",
+ "id": "L-09",
+ "seria": "Ludzie drugiej szansy",
+ "opis": "Prześladowca staje się apostołem, a pomagają mu w tym ludzie, którzy mieli powody, żeby się go bać.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Dz 9,1-9; Dz 9,10-18; Dz 9,19-25; Dz 9,26-31; 1Tm 1,12-16",
+  "p2": "Dz 7,58-60; Dz 8,1.3; Dz 22,12-16; Ga 1,13-17.22-24; Dz 11,22-26; 1Kor 15,9-10",
+  "p3": "1Kor 15,8; Łk 23,34"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 28,
+  "p3": 32
+ },
+ "tagi": [
+  "druga szansa",
+  "łaska",
+  "nawrócenie",
+  "wspólnota",
+  "zaufanie",
+  "Paweł",
+  "Dzieje Apostolskie"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg zaczął od prześladowcy, żeby nikt nie myślał, że jest za daleko. A do tego potrzebował ludzi, którzy się bali i mimo to poszli.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o człowieku, który polował na chrześcijan, a został najbardziej znanym z nich. Jego druga szansa nie była jednak sprawą tylko między nim a Bogiem. Bóg wplótł w nią ludzi, którzy się go bali i mieli ku temu dobre powody. Ananiasz musiał pójść do domu, w którym czekał prześladowca. Barnaba musiał za niego poręczyć. Dlatego pytania dotyczą także nas. Komu dajemy drugą szansę, a komu jej odmawiamy?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Saul to żydowskie imię tego człowieka, Paweł to imię rzymskie. Łukasz zaczyna nazywać go Pawłem dopiero kilka rozdziałów później, więc imienia nie zmienił przy nawróceniu. W tym materiale piszemy Saul, kiedy mowa o scenach z Dziejów, i Paweł przy jego listach.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole może siedzieć ktoś skrzywdzony przez człowieka, który potem „się nawrócił” i domaga się zaufania. Ten temat łatwo może zabrzmieć jak nacisk na takie zaufanie. Druga szansa od Boga nie zobowiązuje ofiary do powrotu w niebezpieczną relację.",
+      "Łatwo zrobić z nawrócenia pod Damaszkiem wzór obowiązkowy. Ktoś, kto doszedł do wiary powoli albo wciąż szuka, może poczuć się gorszy. Mów o tym, co Bóg zrobił z Saulem. Nie rób z tego przepisu na każde nawrócenie.",
+      "Rozmowa może zejść na wizje i pytanie, dlaczego Bóg nie objawia się tak dzisiaj. Nie rozstrzygaj tego. Zwróć uwagę, że nawet Saul resztę usłyszał od zwykłego człowieka."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie stawiaj nikogo przy stole w roli Saula ani w roli Ananiasza. Nie oceniaj zboru, który kiedyś kogoś nie przyjął. Nie opowiadaj cudzych historii nawrócenia bez zgody tych osób.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o kimś, kto dał ci kredyt zaufania, zanim na niego zasłużyłeś. Nie podawaj imienia. Powiedz jednym zdaniem, co ten człowiek wtedy zrobił.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Droga do Damaszku",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Kilka lat po ukrzyżowaniu Jezusa Saul, młody i gorliwy znawca prawa żydowskiego, uważa uczniów Jezusa za groźną sektę.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 9,1-9",
+       "przeklad": "BW",
+       "akapity": [
+        "A Saul, dysząc jeszcze groźbą i chęcią mordu przeciwko uczniom Pańskim, przyszedł do arcykapłana i prosił go o listy do synagog w Damaszku, aby mógł, jeśliby znalazł jakich zwolenników drogi Pańskiej, zarówno mężczyzn jak i kobiety, uwięzić ich i przyprowadzić do Jerozolimy.",
+        "I stało się w czasie drogi, że gdy się zbliżał do Damaszku, olśniła go nagle światłość z nieba, a gdy padł na ziemię, usłyszał głos mówiący do niego: Saulu, Saulu, czemu mnie prześladujesz? I rzekł: Kto jesteś, Panie? A On: Ja jestem Jezus, którego ty prześladujesz; ale powstań i idź do miasta, tam ci powiedzą, co masz czynić. A mężowie, którzy z nim byli w drodze, stanęli oniemiali, głos bowiem słyszeli, ale nikogo nie widzieli.",
+        "I podniósł się Saul z ziemi, lecz gdy otworzył oczy swoje, nic nie widział; wiodąc go tedy za rękę, zaprowadzili go do Damaszku. I przez trzy dni nie widział i nie jadł, i nie pił."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Saul ściga uczniów, a słyszy pytanie: „czemu mnie prześladujesz?”. **Co to pytanie mówi o tym, jak Jezus łączy się ze swoimi ludźmi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Saul wyrusza z listami i planem, a do Damaszku wchodzi prowadzony za rękę. **Co zmienia się w nim między wersetem 2 a wersetem 8?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jezus nie mówi Saulowi wszystkiego. Mówi tylko „tam ci powiedzą”. **Dlaczego resztę ma usłyszeć od ludzi w mieście?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Saul nie działał na własną rękę. Potrzebował listów od arcykapłana, żeby aresztować ludzi w innym mieście i przywieźć ich do Jerozolimy na sąd. Kobiety wymieniono osobno, bo prześladowanie nie oszczędzało nikogo. Uczniów nazywano wtedy ludźmi „drogi”. Zwróćcie uwagę, że Bóg nie czeka, aż Saul się zmieni. Przychodzi do niego w drodze, w samym środku planu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Przy kamienowaniu",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Szczepan, jeden z pierwszych przywódców Kościoła w Jerozolimie, został ukamienowany po swojej mowie przed Radą.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 7,58-60",
+       "przeklad": "BW",
+       "akapity": [
+        "A wypchnąwszy go poza miasto, kamienowali. Świadkowie zaś złożyli szaty swoje u stóp młodzieńca, zwanego Saulem. I kamienowali Szczepana, który się modlił tymi słowy: Panie Jezu, przyjmij ducha mego. A padłszy na kolana, zawołał donośnym głosem: Panie, nie policz im grzechu tego. A gdy to powiedział, skonał."
+       ]
+      },
+      {
+       "odnosnik": "Dz 8,1",
+       "przeklad": "BW",
+       "akapity": [
+        "A Saul również zgadzał się z tym zabójstwem. W owym czasie rozpoczęło się wielkie prześladowanie zboru w Jerozolimie i wszyscy, z wyjątkiem apostołów, rozproszyli się po okręgach wiejskich Judei i Samarii."
+       ]
+      },
+      {
+       "odnosnik": "Dz 8,3",
+       "przeklad": "BW",
+       "akapity": [
+        "A Saul tępił zbór; wchodził do domów, wywlekał mężczyzn i niewiasty i wtrącał do więzienia."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Saul stoi przy szatach i słyszy, jak umierający modli się: „nie policz im grzechu tego”. **Jak ta modlitwa mogła wracać do niego później, pod Damaszkiem i po nim?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Łukasz pisze, że Saul wchodził do domów. **Co ci ludzie zapamiętali o nim i co musieliby przezwyciężyć, żeby go kiedyś przyjąć?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Ananiasz idzie na ulicę Prostą",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 9,10-18",
+       "przeklad": "BW",
+       "akapity": [
+        "A był w Damaszku pewien uczeń, imieniem Ananiasz. I rzekł Pan do niego w widzeniu: Ananiaszu! On zaś rzekł: Otom ja, Panie. Pan zaś do niego: Wstań i idź na ulicę Prostą, i zapytaj w domu Judy o Saula z Tarsu; oto właśnie się modli. I ujrzał w widzeniu męża, imieniem Ananiasz, jak wszedł, i ręce na niego włożył, aby przejrzał.",
+        "Ananiasz zaś odpowiedział: Panie, słyszałem od wielu o tym mężu, ile złego wyrządził świętym twoim w Jerozolimie; ma także upoważnienie od arcykapłanów, aby tutaj uwięzić wszystkich, którzy wzywają imienia twego. Lecz Pan rzekł do niego: Idź, albowiem mąż ten jest moim narzędziem wybranym, aby zaniósł imię moje przed pogan i królów, i synów Izraela; Ja sam bowiem pokażę mu, ile musi wycierpieć dla imienia mego.",
+        "I poszedł Ananiasz, i wszedł do domu, włożył na niego ręce i rzekł: Bracie Saulu, Pan Jezus, który ci się ukazał w drodze, jaką szedłeś, posłał mnie, abyś przejrzał i został napełniony Duchem Świętym. I natychmiast opadły z oczu jego jakby łuski i przejrzał, wstał i został ochrzczony."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ananiasz mówi Bogu wprost, czego się boi. **Jak Bóg odpowiada na jego obawy i czego w tej odpowiedzi nie ma?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Pierwsze słowa Ananiasza do Saula brzmią „Bracie Saulu”. **Co musiało się stać w Ananiaszu między wersetem 13 a wersetem 17?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ananiasz zna przeszłość Saula, a Bóg mówi mu o jego przyszłości. **Jak takie spojrzenie mogło pomóc mu wstać i pójść?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ananiasz nie był apostołem. Łukasz nazywa go po prostu uczniem. W innym miejscu Paweł wspomina go jako człowieka pobożnego, którego szanowali wszyscy Żydzi w Damaszku. Ryzykował więc wolność i dobre imię w zborze, który mógł uznać go za naiwnego. Pierwszy wierzący, który dotknął Saula, był zwyczajnym człowiekiem z sąsiedztwa.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jak Paweł to zapamiętał",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Po wielu latach Paweł opowiada tę scenę wzburzonemu tłumowi w Jerozolimie.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 22,12-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Niejaki Ananiasz, mąż żyjący bogobojnie według zakonu i cieszący się dobrym świadectwem u wszystkich mieszkających tam Żydów, przyszedł do mnie i stanąwszy przy mnie, rzekł: Bracie Saulu, przejrzyj! A ja w tej chwili przejrzałem i spojrzałem na niego. A on rzekł: Bóg ojców naszych przeznaczył cię, abyś poznał wolę jego oraz abyś oglądał Sprawiedliwego i usłyszał głos z ust jego. Ponieważ będziesz mu świadkiem tego, coś widział i słyszał, wobec wszystkich ludzi. A czemu teraz, zwlekasz? Wstań, daj się ochrzcić i obmyj grzechy swoje, wezwawszy imienia jego."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pierwsze, co Saul zobaczył po trzech dniach ciemności, to twarz Ananiasza. **Co mogło znaczyć dla prześladowcy, że pierwszą osobą, jaką ujrzał, był człowiek, którego miał uwięzić?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ananiasz, który niedawno się bał, teraz pyta: „czemu teraz zwlekasz?”. **Skąd w nim ten pośpiech?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Czy to nie ten?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 9,19-25",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy przyjął pokarm, odzyskał siły. I przebywał zaledwie kilka dni z uczniami, którzy byli w Damaszku, a już zaczął zwiastować w synagogach Jezusa, że On jest Synem Bożym. Wszyscy zaś, którzy go słuchali, zdumiewali się i mówili: Czy to nie ten, co prześladował w Jerozolimie tych, którzy wzywają imienia tego, i po to tu przyszedł, aby ich w więzach odprowadzić do arcykapłanów?",
+        "Lecz Saul coraz bardziej umacniał się i wprawiał w zakłopotanie Żydów, którzy mieszkali w Damaszku, dowodząc, że Ten jest Chrystusem. Po upływie dłuższego czasu uknuli Żydzi spisek na jego życie; ale Saul został powiadomiony o ich spisku. A strzegli bram we dnie i w nocy, aby go zabić. Lecz uczniowie zabrali go w nocy, przerzucili przez mur i spuścili go w koszu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Słuchacze pytają: „Czy to nie ten, co prześladował?”. **Co w tym pytaniu jest zdumieniem, a co podejrzliwością?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Saul przyjechał, żeby zabrać uczniów w więzach. Jakiś czas później to oni ratują mu życie. **Co ta scena mówi o nim, a co o nich?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Nowe życie nie zdjęło z Saula dawnej opinii. **Dlaczego ludzie tak długo pamiętają, kim ktoś był?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Z listu Pawła do Galacjan wiemy, że między nawróceniem a pierwszą wizytą w Jerozolimie minęły trzy lata. Część tego czasu spędził w Arabii. Ucieczkę w koszu sam wspomina w innym liście, w miejscu, gdzie wylicza swoje słabości. Człowiek, który przyjechał z pełnomocnictwem arcykapłana, opuszczał miasto nocą jak zbieg, na łasce ludzi, których przyjechał aresztować.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Wysławiali Boga za mnie",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paweł pisze do zborów w Galacji, w dzisiejszej Turcji, i opowiada, jak zaczęła się jego droga.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ga 1,13-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Słyszeliście bowiem o moim dawniejszym postępowaniu w żydostwie, że srodze prześladowałem zbór Boży i niszczyłem go, i że prześcigałem w żarliwości dla żydostwa wielu rówieśników mojego pokolenia, będąc nader gorliwym zwolennikiem moich ojczystych ustaw. Ale gdy się upodobało Bogu, który mnie sobie obrał, zanim się urodziłem i powołał przez łaskę swoją, żeby objawić mi Syna swego, abym go zwiastował między poganami, ani przez chwilę nie radziłem się ciała i krwi, ani też nie udałem się do Jerozolimy do tych, którzy przede mną byli apostołami, ale poszedłem do Arabii, po czym znowu wróciłem do Damaszku."
+       ]
+      },
+      {
+       "odnosnik": "Ga 1,22-24",
+       "przeklad": "BW",
+       "akapity": [
+        "A osobiście byłem nieznany zborom Chrystusowym w Judei. A tylko niektórzy słyszeli, że ten, który niegdyś nas prześladował, teraz szerzy wiarę, którą dawniej zwalczał, i wysławiali Boga za mnie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nie ukrywa, kim był, choć adresaci i tak o tym słyszeli. **Po co przypomina im swoją przeszłość?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zbory w Judei znały go tylko ze słyszenia, a wysławiały za niego Boga. **Co sprawia, że cudza przemiana budzi w ludziach wdzięczność?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Wszyscy się go bali",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 9,26-31",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy przybył do Jerozolimy, starał się przyłączyć do uczniów, ale wszyscy się go bali, nie wierząc, że jest uczniem. Lecz Barnaba zabrał go, zaprowadził do apostołów i opowiedział im, jak w drodze ujrzał Pana i że do niego mówił, i jak w Damaszku nauczał śmiało w imieniu Jezusa. I przestawał z nimi, poruszając się swobodnie w Jerozolimie i występując śmiało w imieniu Pana.",
+        "Rozmawiał też i rozprawiał z hellenistami, lecz ci usiłowali go zgładzić. A gdy bracia dowiedzieli się o tym, odprowadzili go do Cezarei i wyprawili do Tarsu. Tymczasem kościół, budując się i żyjąc w bojaźni Pańskiej, cieszył się pokojem po całej Judei, Galilei i Samarii, i wspomagany przez Ducha Świętego, pomnażał się."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Uczniowie w Jerozolimie bali się Saula i nie wierzyli mu. **Jakie mieli ku temu powody i co by stracili, gdyby na tych powodach poprzestali?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Barnaba „zabrał go” i „opowiedział”. **Co Barnaba ryzykował, stając obok Saula przed apostołami?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Barnaba nie wymyśla niczego nowego, opowiada tylko to, co się wydarzyło. **Dlaczego słowo kogoś trzeciego waży czasem więcej niż zapewnienia samego zainteresowanego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Barnaba to przydomek. Apostołowie nadali go człowiekowi o imieniu Józef i Łukasz tłumaczy go jako „Syn Pocieszenia”. Był lewitą, czyli pochodził z rodu sług świątyni, a urodził się na Cyprze. Należał więc do dwóch światów naraz i umiał stawać między ludźmi, którzy sobie nie ufali. Kilka lat później sam pojedzie do Tarsu, żeby odszukać Saula i zabrać go do pracy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Człowiek dobry",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 11,22-26",
+       "przeklad": "BW",
+       "akapity": [
+        "Wieść o nich dotarła także do uszu zboru w Jerozolimie; wysłali więc do Antiochii Barnabę, który, gdy tam przybył i ujrzał łaskę Bożą, uradował się i zachęcał wszystkich, aby całym sercem trwali przy Panu. Był to bowiem mąż dobry i pełen Ducha Świętego i wiary. Sporo też ludzi zostało pozyskanych dla Pana. Potem poszedł do Tarsu, aby odszukać Saula, a gdy go znalazł, przyprowadził go do Antiochii. I tak się ich sprawy ułożyły, że przez cały rok przebywali razem w zborze i nauczali wielu ludzi; w Antiochii też nazwano po raz pierwszy uczniów chrześcijanami."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Łukasz mówi o Barnabie krótko: „mąż dobry”. **Co z tego, co dziś przeczytaliśmy, składa się na tę dobroć?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Barnaba sam jedzie szukać Saula, choć nikt go o to nie prosi. **Co to mówi o drugiej szansie, którą daje się drugiemu człowiekowi raz, a potem trzeba ją podtrzymywać?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Pierwszy z grzeszników",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Wiele lat później Paweł, już stary apostoł, pisze do Tymoteusza, młodszego współpracownika, który prowadzi zbór.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Tm 1,12-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Dzięki składam temu, który mnie wzmocnił, Chrystusowi Jezusowi, Panu naszemu, za to, że mnie uznał za godnego zaufania, zleciwszy mi tę służbę, mimo to, że przedtem byłem bluźniercą i prześladowcą, i gnębicielem, ale miłosierdzia dostąpiłem, bo czyniłem to nieświadomie, w niewierze. A łaska Pana naszego stała się bardzo obfita wraz z wiarą i miłością, która jest w Chrystusie Jezusie.",
+        "Prawdziwa to mowa i w całej pełni przyjęcia godna, że Chrystus Jezus przyszedł na świat, aby zbawić grzeszników, z których ja jestem pierwszy. Ale dlatego miłosierdzia dostąpiłem, aby na mnie pierwszym Jezus Chrystus okazał wszelką cierpliwość dla przykładu tym, którzy mają weń uwierzyć ku żywotowi wiecznemu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł dziękuje, że Jezus „uznał go za godnego zaufania”. **Co znaczy, że to Bóg pierwszy zaufał prześladowcy, zanim zaufali mu ludzie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 16 podaje powód miłosierdzia: „dla przykładu”. **Kto ma patrzeć na ten przykład i co ma z niego zrozumieć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paweł pisze „ja jestem pierwszy”, w czasie teraźniejszym. **Co się zmienia, gdy ktoś mówi o swoim grzechu w czasie teraźniejszym, choć już dawno mu przebaczono?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Paweł nie mówi, że był najgorszy, żeby się poniżyć. Mówi, że jest pierwszy, żeby nikt inny nie uznał siebie za przypadek beznadziejny. Słowo przełożone jako „przykład” oznacza wzór albo szkic, według którego robi się następne rzeczy. Skoro Bóg przyjął człowieka, który więził Jego ludzi, granica łaski nie leży tam, gdzie zwykle ją stawiamy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Z łaski Boga jestem tym, czym jestem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Kor 15,9-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Ja bowiem jestem najmniejszym z apostołów i nie jestem godzien nazywać się apostołem, gdyż prześladowałem Kościół Boży. Ale z łaski Boga jestem tym, czym jestem, a łaska jego okazana mi nie była daremna, lecz daleko więcej niż oni wszyscy pracowałem, wszakże nie ja, lecz łaska Boża, która jest ze mną."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł mówi jednocześnie „nie jestem godzien” i „daleko więcej niż oni wszyscy pracowałem”. **Jak te dwa zdania mieszczą się w jednym człowieku?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czym różni się życie z łaski od życia, w którym człowiek próbuje odpracować swoją przeszłość?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Kilka zdań wcześniej Paweł opisuje siebie słowem, które polski przekład oddaje dosadnie.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Kor 15,8",
+       "przeklad": "BW",
+       "akapity": [
+        "a w końcu po wszystkich ukazał się i mnie jako poronionemu płodowi."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Greckie `ektrōma` oznacza poronienie albo dziecko urodzone nie w porę, przedwcześnie. W Nowym Testamencie słowo stoi tylko tutaj. Jest w nim wstyd prześladowcy i coś jeszcze, poczucie, że przyszedł do Jezusa inną drogą i później niż tamci. Paweł nie wygładza swojej historii, a mimo to stawia siebie na liście świadków zmartwychwstania.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co mówi o Bogu to, że wybrał na świadka kogoś, kto sam nazywa siebie płodem poronionym?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: „czyniłem to nieświadomie”",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Paweł pisze, że dostąpił miłosierdzia, „bo czyniłem to nieświadomie”. Czy to znaczy, że niewiedza była warunkiem przebaczenia? Wtedy grzech popełniony świadomie zostawałby poza zasięgiem łaski.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 23,34",
+       "przeklad": "BW",
+       "akapity": [
+        "A Jezus rzekł: Ojcze, odpuść im, bo nie wiedzą, co czynią. A przy dzieleniu się jego szatami rzucali losy."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W Kościele czyta się to zdanie na dwa sposoby. Jedni widzą w nim okoliczność, która tłumaczy, dlaczego Saul był tak zaślepiony, i przypominają modlitwę Jezusa na krzyżu. Inni podkreślają, że Paweł mówi tu o sobie z pokorą i nie stawia żadnego warunku, bo dwa wersety dalej nazywa siebie pierwszym z grzeszników. Oba odczytania łączy jedno. Hojność Boga nie zawęża przebaczenia. Zawęża je co najwyżej gotowość człowieka, żeby je przyjąć.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gdyby niewiedza była warunkiem miłosierdzia, kto z nas mógłby na nie liczyć?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czym różni się wymówka od uczciwego nazwania, dlaczego zrobiłem to, co zrobiłem?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Saul nie przeszedł tej drogi sam. **Kto w twoim życiu zaufał ci, zanim na to zasłużyłeś, i co to w tobie zmieniło?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ananiasz i uczniowie w Jerozolimie bali się z dobrych powodów. **Wobec kogo trudno ci dziś uwierzyć, że się zmienił, i czego się wtedy boisz?** Nie musisz mówić, o kogo chodzi.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **czy jest w twojej przeszłości rozdział, o którym myślisz, że Bóg nie mógłby go użyć?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kiedy ostrożność wobec kogoś, kto skrzywdził innych, jest mądrością, a kiedy staje się odmową drugiej szansy? Co robić, gdy ktoś mówi, że się zmienił, a skrzywdzeni wciąż się go boją?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie rozstrzyga tego pytania. Warto, żeby padło rozróżnienie między przebaczeniem a zaufaniem. Przebaczenie można dać od razu. Zaufanie rośnie z czasem i często potrzebuje świadków takich jak Barnaba.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg zaczął od prześladowcy, żeby nikt nie myślał, że jest za daleko. A do tego potrzebował ludzi, którzy się bali i mimo to poszli.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** 1Tm 1,15.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Przypomnij sobie część swojej przeszłości, o której wolisz nie myśleć. Zapytaj Boga, **czy naprawdę wierzysz, że On widzi w tobie więcej niż ten rozdział**. Zostań przy tej odpowiedzi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o człowieku, któremu odmawiasz drugiej szansy. Nie musisz od razu zmieniać zdania. Przyznaj tylko przed sobą, **czego się boisz, gdybyś mu ją dał**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Zapytaj Boga, czy jest ktoś, dla kogo mógłbyś być Barnabą. Kogoś, kto wraca, a ludzie wciąż się go boją. Jeśli przyjdzie ci na myśl konkretna twarz, nie odganiaj jej.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi, że osoba, która go skrzywdziła, „też się nawróciła” i teraz oczekuje zaufania.** Nie naciskaj na przebaczenie ani na pojednanie. Powiedz jasno, że druga szansa od Boga nie zobowiązuje ofiary do powrotu w niebezpieczną relację. Uczniowie w Jerozolimie nie przyjęli Saula na słowo. Potrzebowali świadka i czasu. Jeśli w grę wchodzi przemoc w rodzinie, nie zostawaj z tym sam i po spotkaniu pomóż tej osobie dotrzeć do pomocy specjalistycznej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja nie jestem aż taki zły jak Paweł.”** Nie spieraj się. Możesz zapytać, po co Paweł w ogóle opowiada swoją przeszłość, skoro i tak wszyscy ją znali. Wróć do wersetu 16 i do słowa „przykład”.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Dlaczego mnie Bóg się tak wyraźnie nie objawił?”** To uczciwe pytanie. Nie obiecuj światła z nieba i nie zbywaj pytającego. Zwróć uwagę, że nawet Saul resztę usłyszał od Ananiasza, zwykłego człowieka, który przyszedł i położył na nim ręce.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś spoza Kościoła pyta, czy musi przeżyć takie nawrócenie.** Nie. Powiedz spokojnie, że Biblia opisuje wielu ludzi, którzy dochodzili do wiary powoli. Historia Saula jest opowieścią o tym, co Bóg potrafi zrobić z kimś, kto szedł w przeciwną stronę. Nie jest wzorem do powtórzenia.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa zamienia się w żal do zboru, który kiedyś kogoś nie przyjął.** Wysłuchaj, ale nie szukaj winnych. Uczniowie w Jerozolimie też się bali i Łukasz ich za to nie potępia. Zapytaj raczej, kto w tej historii zrobił pierwszy krok i co go to kosztowało.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniach z zastosowania.** To dobrze. Te pytania dotykają osobistych spraw. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, przeczytaj jeszcze raz 1Tm 1,15 i przejdź dalej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 3. Bloki 1, 2, 4 i 5 niosą spotkanie: spotkanie pod Damaszkiem, odwagę Ananiasza, poręczenie Barnaby i słowa Pawła o sobie po latach.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś mówi, że osoba, która go skrzywdziła, „też się nawróciła” i teraz oczekuje zaufania.",
+     "odpowiedz": "Nie naciskaj na przebaczenie ani na pojednanie. Powiedz jasno, że druga szansa od Boga nie zobowiązuje ofiary do powrotu w niebezpieczną relację. Uczniowie w Jerozolimie nie przyjęli Saula na słowo. Potrzebowali świadka i czasu. Jeśli w grę wchodzi przemoc w rodzinie, nie zostawaj z tym sam i po spotkaniu pomóż tej osobie dotrzeć do pomocy specjalistycznej."
+    },
+    {
+     "sytuacja": "„Ja nie jestem aż taki zły jak Paweł.”",
+     "odpowiedz": "Nie spieraj się. Możesz zapytać, po co Paweł w ogóle opowiada swoją przeszłość, skoro i tak wszyscy ją znali. Wróć do wersetu 16 i do słowa „przykład”."
+    },
+    {
+     "sytuacja": "„Dlaczego mnie Bóg się tak wyraźnie nie objawił?”",
+     "odpowiedz": "To uczciwe pytanie. Nie obiecuj światła z nieba i nie zbywaj pytającego. Zwróć uwagę, że nawet Saul resztę usłyszał od Ananiasza, zwykłego człowieka, który przyszedł i położył na nim ręce."
+    },
+    {
+     "sytuacja": "Ktoś spoza Kościoła pyta, czy musi przeżyć takie nawrócenie.",
+     "odpowiedz": "Nie. Powiedz spokojnie, że Biblia opisuje wielu ludzi, którzy dochodzili do wiary powoli. Historia Saula jest opowieścią o tym, co Bóg potrafi zrobić z kimś, kto szedł w przeciwną stronę. Nie jest wzorem do powtórzenia."
+    },
+    {
+     "sytuacja": "Rozmowa zamienia się w żal do zboru, który kiedyś kogoś nie przyjął.",
+     "odpowiedz": "Wysłuchaj, ale nie szukaj winnych. Uczniowie w Jerozolimie też się bali i Łukasz ich za to nie potępia. Zapytaj raczej, kto w tej historii zrobił pierwszy krok i co go to kosztowało."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniach z zastosowania.",
+     "odpowiedz": "To dobrze. Te pytania dotykają osobistych spraw. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, przeczytaj jeszcze raz 1Tm 1,15 i przejdź dalej."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3. Bloki 1, 2, 4 i 5 niosą spotkanie: spotkanie pod Damaszkiem, odwagę Ananiasza, poręczenie Barnaby i słowa Pawła o sobie po latach."
+    }
+   ]
+  }
+ ]
+}

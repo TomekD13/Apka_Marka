@@ -1,0 +1,852 @@
+{
+ "tytul": "Znaki, drzwi i rady",
+ "id": "W-04",
+ "seria": "Decyzje i wola Boża",
+ "opis": "Co zrobić ze znakiem, z zamkniętymi drzwiami i z radą ludzi, kiedy naprawdę chcemy wiedzieć, którędy iść.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Sdz 6,14-16.36-40; Dz 1,21-26; Prz 16,33; Dz 16,6-10; 1Krl 12,1-16; Prz 15,22; 11,14; 12,15; 19,20; 20,18",
+  "p2": "Sdz 7,9-11.13-15; Jon 1,1-3.5; 1Krl 22,5-8; Rdz 24,12-14.21.26-27",
+  "p3": "Dz 15,28; 1Krl 12,15"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 29
+ },
+ "tagi": [
+  "decyzje",
+  "wola Boża",
+  "znaki",
+  "okoliczności",
+  "rada",
+  "mądrość"
+ ],
+ "wersja": 1,
+ "zdanie": "Jeden znak łatwo pomylić z echem własnych życzeń. Bóg prowadzi zwykle przez kilka głosów naraz i przez ludzi, którzy mają odwagę powiedzieć prawdę.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o tym, co przychodzi do nas z zewnątrz, kiedy szukamy drogi. Są to znaki, o które prosimy, drzwi, które się otwierają albo zamykają, i rady ludzi. Biblia pokazuje, że Bóg używa tych dróg. Pokazuje też, jak łatwo je nadużyć. Pojedyncza przesłanka zwykle kuleje, a coś mówi dopiero kilka głosów razem, sprawdzonych Pismem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W Kościele słychać tu dwa akcenty. Jedni wierzą, że Bóg ma dla człowieka konkretną drogę w ważnych sprawach i prowadzi go do niej w relacji. Drudzy podkreślają, że Bóg daje mądrość i wolność wyboru w granicach tego, co już powiedział. Oba łączy przekonanie, że Bóg nie gra z nami w chowanego i że żaden znak nie stoi ponad Pismem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Biblia Warszawska nazywa syna Salomona Rechabeamem. W innych przekładach to Roboam. Pokrewny materiał to „Modlitwa przed wyborem”.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole stoi przed prawdziwą decyzją i może chcieć, żeby grupa ją za niego podjęła. Grupa pyta i modli się. Decyzja zostaje przy nim.",
+      "Ktoś może mieć za sobą wybór podjęty „na znak”, który skończył się źle. Nie oceniaj go i nie pozwól, żeby grupa się z tego śmiała.",
+      "Losowanie Macieja czyta się w Kościele na dwa sposoby. Pokaż oba, nie rozstrzygaj.",
+      "Temat rad otwiera stare rany. Ktoś mógł latami słuchać doradcy, który decydował za niego, także w imię Boga."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie podawaj przepisu na poznanie woli Bożej w kilku krokach. Nie opowiadaj własnych niezwykłych znaków jako wzoru. Nie stawaj się doradcą przy stole.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie zbieg okoliczności, który kiedyś wziąłeś za znak od Boga. Powiedz jednym zdaniem, co to było i jak patrzysz na to dzisiaj.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Runo na klepisku",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Midianici co roku łupią Izraela. Bóg zwraca się do Gedeona, który w ukryciu młóci zboże.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Sdz 6,14-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy Pan zwrócił się do niego i rzekł: Idź w tej mocy twojej i wybaw Izraela z ręki Midiańczyków. Przecież to Ja cię wysyłam. On zaś rzekł do niego: Za pozwoleniem, Panie mój! Czym wybawię Izraela? Oto mój ród jest najbiedniejszy wśród Manassesytów, ja sam zaś najmłodszy w domu mego ojca. A Pan rzekł do niego: Ponieważ Ja będę z tobą, pobijesz Midiańczyków jak jednego męża."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Gedeon zbiera wojsko z kilku plemion. Przed bitwą mówi do Boga jeszcze raz.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Sdz 6,36-40",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy rzekł Gedeon do Boga: Jeżeli wybawisz moją ręką Izraela, jak obiecałeś, to ja rozłożę runo wełny na klepisku; jeżeli rosa będzie tylko na runie a cała ziemia wokoło pozostanie sucha, to będę wiedział, że wybawisz moją ręką Izraela, jak obiecałeś. I tak się stało. Gdy bowiem wstał nazajutrz i ścisnął runo, wygniótł z runa tyle rosy, że czasza była pełna wody.",
+        "Lecz Gedeon rzekł jeszcze do Boga: Niech nie zapłonie gniew twój na mnie, że jeszcze raz się odezwę; niech jeszcze raz wypróbuję to na runie: niech tylko runo pozostanie suche, a na całej ziemi wokoło będzie rosa. I uczynił tak Bóg tej nocy. Tylko runo było suche, a na całej ziemi wokoło była rosa."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Gedeon dwa razy mówi do Boga „jak obiecałeś”. **O co właściwie prosi, skoro polecenie i obietnicę już ma?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg spełnia obie prośby i nie mówi ani słowa wyrzutu. **Co to milczenie mówi o tym, jak Bóg traktuje człowieka, który się boi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Gedeon sam czuje, że przesadza: „niech nie zapłonie gniew twój”. **Czym prośba o otuchę różni się od stawiania Bogu warunków?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Runo nie służyło Gedeonowi do szukania drogi. Drogę znał, bo usłyszał ją wprost. Szukał pewności, że nie zostanie sam. Część czytelników widzi w tej scenie słabą wiarę, inni lęk człowieka, który za chwilę ma prowadzić wojsko. Wszyscy widzą Boga, który jest cierpliwy wobec słabości. Kto dziś rozkłada swoje runo przed wyborem pracy, zwykle szuka czegoś innego. Chce, żeby znak zdecydował za niego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Trzeci znak, o który nikt nie prosił",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Sdz 7,9-11.13-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Tejże nocy rzekł Pan do niego: Wstań, wtargnij do obozu, gdyż wydałem go w ręce twoje. Lecz jeżeli się boisz wtargnąć, to podejdź najpierw wraz ze swoim giermkiem Purą pod obóz i posłuchaj, co tam mówią, a potem nabierzesz otuchy i wtargniesz do obozu. Poszedł tedy wraz ze swoim giermkiem Purą aż ku samym zbrojnym, którzy byli na skraju obozu. [...]",
+        "A gdy Gedeon tam podszedł, oto jeden wojownik opowiadał swojemu towarzyszowi, co mu się śniło. Mówił: Oto śniło mi się, że bochenek jęczmiennego chleba wtoczył się do obozu Midiańczyków, dotarł do namiotu i ugodził weń tak, że się obalił i całkowicie przewrócił, i namiot upadł. A towarzysz jego odpowiedział: Nic to innego jak tylko miecz Gedeona, syna Joasza, męża izraelskiego; Bóg wydał w jego ręce Midiańczyków i cały obóz. Gdy tedy Gedeon usłyszał opowiadanie tego snu i jego wykład, oddał cześć Bogu, potem powrócił do obozu izraelskiego i rozkazał: Wstańcie, gdyż Pan wydał w wasze ręce obóz Midiańczyków."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Bóg sam mówi: „jeżeli się boisz”. **Co znaczy, że Bóg zna strach Gedeona i sam podsuwa mu sposób na odwagę?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Po usłyszeniu snu Gedeon najpierw oddaje cześć Bogu, a dopiero potem wstaje. **Co się w nim zmieniło między runem a obozem wroga?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Los i modlitwa",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Po wniebowstąpieniu Jezusa uczniowie czekają w Jerozolimie na obiecanego Ducha. Piotr mówi, że miejsce Judasza wśród Dwunastu trzeba zapełnić.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 1,21-26",
+       "przeklad": "BW",
+       "akapity": [
+        "Trzeba więc, aby jeden z tych mężów, którzy chodzili z nami przez cały czas, kiedy Pan Jezus przebywał między nami, począwszy od chrztu Jana, aż do dnia, w którym od nas został wzięty w górę, stał się wraz z nami świadkiem jego zmartwychwstania. I wskazali dwóch: Józefa, zwanego Barsabą, którego też nazywano Justem, i Macieja. Potem modlili się tymi słowy: Ty, Panie, który znasz serca wszystkich, wskaż z tych dwóch jednego, którego obrałeś, aby zajął miejsce w tej służbie i w posłannictwie, któremu sprzeniewierzył się Judasz, aby pójść na miejsce swoje. I dali im losy; a los padł na Macieja, i został dołączony do grona jedenastu apostołów."
+       ]
+      },
+      {
+       "odnosnik": "Prz 16,33",
+       "przeklad": "BW",
+       "akapity": [
+        "Losem potrząsa się w zanadrzu, lecz jego rozstrzygnięcie zależy od Pana."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zanim rzucili losy, sami ustalili warunek i sami wskazali dwóch kandydatów. **Co uczniowie zrobili własnym rozumem, a co oddali Bogu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Modlą się do Pana, „który zna serca wszystkich”. **Dlaczego akurat ta prawda o Bogu jest ważna, kiedy wybiera się człowieka do służby?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "O Józefie zwanym Barsabą Biblia nie mówi już nic. **Co mógł przeżywać ten, na którego los nie padł, i co mu zostało?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "W Izraelu losem rozstrzygano sprawy, których nie dało się rozsądzić inaczej. Dzielono nim ziemię między pokolenia i ustalano kolejność służby kapłanów. Przysłowie mówi, że wynik i tak należy do Pana. Ważne jest też to, co działo się przed losowaniem. Uczniowie znali warunek, bo świadkiem zmartwychwstania mógł być ktoś, kto chodził z Jezusem od samego początku. Los wybierał między dwoma ludźmi, którzy obaj ten warunek spełniali.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: wzór czy przestroga",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To ostatnie losowanie opisane w Biblii. Kilka dni później przychodzi Duch Święty i Nowy Testament nie wraca już do tej metody. Następną wielką sprawę Kościół rozstrzyga po długiej naradzie, a list z jej wynikiem mówi tak:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 15,28",
+       "przeklad": "BW",
+       "akapity": [
+        "Postanowiliśmy bowiem, Duch Święty i my, by nie nakładać na was żadnego innego ciężaru oprócz następujących rzeczy niezbędnych:"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Scenę z Maciejem czyta się w Kościele na dwa sposoby. Jedni widzą w niej przestrogę. Uczniowie sięgnęli po starą metodę, choć czekali na Ducha, a o Macieju Biblia nie mówi potem ani słowa. Drudzy przypominają, że Łukasz niczego tu nie gani. Uczniowie się modlą, Maciej zostaje dołączony do apostołów, a o połowie Dwunastu wiemy równie mało. Oba odczytania zgadzają się w jednym. Po zesłaniu Ducha nikt w Nowym Testamencie nie szuka już woli Bożej przez los i nikt tego nie zaleca.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia się w podejmowaniu decyzji, gdy Duch mieszka we wspólnocie, która razem myśli i się modli?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Drzwi, które się zamykają",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paweł z Sylasem i Tymoteuszem odwiedza zbory w głębi dzisiejszej Turcji i chce iść dalej. Azja to rzymska prowincja na zachodnim wybrzeżu, Bitynia leży na północy.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 16,6-10",
+       "przeklad": "BW",
+       "akapity": [
+        "I przeszli przez frygijską i galacką krainę, ponieważ Duch Święty przeszkodził w głoszeniu Słowa Bożego w Azji. A gdy przyszli ku Mizji, chcieli pójść do Bitynii, lecz Duch Jezusa nie pozwolił im; minąwszy Mizję, doszli do Troady. I miał Paweł w nocy widzenie: Jakiś Macedończyk stał i prosił go, mówiąc: Przepraw się do Macedonii i pomóż nam. Gdy tylko ujrzał to widzenie, staraliśmy się zaraz wyruszyć do Macedonii, wnioskując, iż nas Bóg powołał, abyśmy im zwiastowali dobrą nowinę."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł nie siedzi w domu i nie czeka na wskazówkę. Planuje i rusza w drogę. **Gdzie w tej historii Bóg spotyka człowieka, który szuka drogi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Drzwi zamykają się dwa razy, a Łukasz nie pisze, w jaki sposób. **Jak mogli się czuć ludzie, którzy idą setki kilometrów, a ich kolejne plany zamykają się jeden po drugim?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Po widzeniu Łukasz pisze „wnioskując” i przechodzi na „my”. **Co to mówi o tym, jak widzenie jednego człowieka stało się decyzją całej grupy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Azja i Bitynia nie były złym planem. Tam też mieszkali ludzie, którzy potrzebowali ewangelii. Kilka lat później Paweł spędził w Azji ponad dwa lata i słowo usłyszała cała prowincja (Dz 19,10). W Azji zamknięte drzwi znaczyły więc „jeszcze nie teraz”. W Troadzie, po długiej drodze i dwóch zamkniętych kierunkach, przyszło widzenie i Paweł po raz pierwszy przeniósł ewangelię do Europy. Wiele zamkniętych drzwi rozumie się dopiero z daleka.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Okręt gotowy do drogi",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jon 1,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "Jonasza, syna Amittaja, doszło słowo Pana tej treści: Wstań, idź do Niniwy, tego wielkiego miasta, i mów głośno przeciwko niej, gdyż jej nieprawość doszła do mnie. Lecz Jonasz wstał, aby uciec sprzed oblicza Pana do Tarszyszu. A gdy przybył do Jaffy, znalazł tam okręt, który miał płynąć do Tarszyszu. I zapłaciwszy za przejazd, wszedł na pokład, aby sprzed oblicza Pana jechać z nimi do Tarszyszu."
+       ]
+      },
+      {
+       "odnosnik": "Jon 1,5",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy żeglarze przestraszyli się i każdy wołał do swojego boga; sprzęt, który był na okręcie, wyrzucili do morza, aby zmniejszyć ciężar. Jonasz zaś zszedł na sam dół okrętu i zasnął twardym snem."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jonasz znalazł statek, zapłacił i wszedł na pokład. Wszystko się ułożyło. **Co ta historia mówi o drzwiach, które otwierają się bez żadnego trudu?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W czasie burzy Jonasz śpi twardym snem. **Dlaczego spokój i łatwa droga nie wystarczą, żeby uznać wybór za dobry?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Dwie rady przy jednym stole",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Po śmierci Salomona jego syn Rechabeam jedzie do Sychem, żeby północne plemiona uznały go za króla. Lud jest zmęczony przymusową pracą i daninami z czasów Salomona.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Krl 12,1-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Rechabeam udał się do Sychem, gdyż do Sychem przybył cały Izrael, aby go obwołać królem. Gdy usłyszał o tym Jeroboam, syn Nebata, który przebywał wtedy jeszcze w Egipcie, dokąd uciekł przed królem Salomonem, powrócił Jeroboam z Egiptu; posłano bowiem po niego i wezwano go, po czym przyszli Jeroboam i całe zgromadzenie izraelskie i rzekli do Rechabeama tak: Ojciec twój nałożył na nas twarde jarzmo; lecz teraz ty uczyń nam lżejszą twardą pańszczyznę twojego ojca – ciężkie jarzmo, jakie na nas nałożył – a będziemy ci służyli. A on rzekł do nich: Odejdźcie jeszcze na trzy dni, a potem powróćcie do mnie. I lud odszedł.",
+        "Wtedy król Rechabeam zasięgnął rady starszych, którzy stawali przed Salomonem, jego ojcem, póki jeszcze żył, pytając ich: Jaką radzicie mi dać odpowiedź temu ludowi? Oni odpowiedzieli mu tak: Jeżeli ty wystąpisz dzisiaj jako sługa tego ludu i usłużysz im, wysłuchasz ich i odezwiesz się do nich łagodnymi słowy, to będą ci służyć po wszystkie dni. Lecz on odrzucił radę starszych, której mu udzielili, a poszedł za radą młodzieńców, którzy z nim wyrośli, a obecnie byli w jego orszaku.",
+        "I zapytał ich: Jaką wy radzicie mi dać odpowiedź temu ludowi, który prosił mnie: Uczyń nam lżejszym jarzmo, jakie nałożył na nas twój ojciec. I rzekli do niego młodzieńcy, którzy z nim wyrośli: Powiedz tak temu ludowi, który rzekł do ciebie: Ojciec twój uczynił ciężkim nasze jarzmo, lecz ty uczyń nam je lżejszym. Tak powiedz do nich: Mój mały palec jest grubszy niż biodra mojego ojca. Otóż jeżeli mój ojciec nałożył na was ciężkie jarzmo, to ja jeszcze dołożę do waszego jarzma; ojciec mój chłostał was biczami, a ja chłostać was będę kańczugami.",
+        "A gdy Jeroboam i cały lud przyszedł do Rechabeama dnia trzeciego, jak król polecił w słowach: Powróćcie do mnie dnia trzeciego, odezwał się król do ludu twardo, odrzuciwszy radę starszych, jakiej mu udzielili, i przemówił do nich według rady młodszych tak: Mój ojciec uczynił ciężkim wasze jarzmo, lecz ja dołożę jeszcze do waszego jarzma; mój ojciec chłostał was biczami, lecz ja chłostać was będę kańczugami. I nie wysłuchał król ludu, gdyż takie było zrządzenie Pana, by utrzymać w mocy słowo jego, jakie wyrzekł przez Achiasza z Sylo do Jeroboama, syna Nebata. Gdy tedy cały Izrael widział, że król ich nie wysłuchał, dał lud królowi taką odpowiedź: Nie mamy nic wspólnego z Dawidem! Nie mamy dziedzictwa z synem Isajego! Do namiotów swoich, o Izraelu! Teraz troszcz się ty o swój dom, Dawidzie! I rozszedł się Izrael do swoich namiotów."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rechabeam pyta dwa razy i dostaje dwie przeciwne rady. **Czym różnią się ludzie, którzy je dają? Co każda z tych grup ma do zyskania albo do stracenia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Starsi radzą mu, żeby został sługą ludu. **Dlaczego właśnie ta rada mogła być dla młodego króla najtrudniejsza do przyjęcia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Tekst nigdzie nie mówi, że Rechabeam zapytał Boga. **Co mogłoby się zmienić, gdyby przed tymi dwiema rozmowami odbyła się trzecia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Młodzieńcy wyrośli razem z królem i należeli do jego dworu. Ich rada schlebiała jego pragnieniu, żeby od pierwszego dnia pokazać siłę. Starsi pamiętali rządy Salomona i znali nastroje ludu. Rada młodych była zła z powodu dumy i interesu, który za nią stał. Wiek nie miał tu znaczenia. Skutkiem był rozpad królestwa, które już nigdy się nie połączyło.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Czterystu jednym głosem",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Achab, król Izraela, namawia Jehoszafata, króla Judy, na wspólną wyprawę wojenną.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Krl 22,5-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Jehoszafat rzekł jeszcze do króla izraelskiego: Wpierw jednak zapytaj Pana o wyrocznię. Król izraelski zgromadził więc proroków w liczbie około czterystu mężów i zapytał ich: Czy mam wyruszać na wojnę pod Ramot Gileadzkie, czy też mam tego zaniechać? A oni odpowiedzieli: Wyrusz, a Pan wyda je w rękę króla. Lecz Jehoszafat zapytał: Czy nie ma tutaj jeszcze jakiegoś proroka Pana, abyśmy i jego zapytali? Król izraelski odpowiedział Jehoszafatowi: Jest jeszcze jeden mąż, przez którego moglibyśmy zapytać się Pana, lecz ja go nienawidzę, gdyż nie zwiastuje mi nigdy nic dobrego, a tylko zło. Jest to Micheasz, syn Jimli. A Jehoszafat rzekł: Niech król tak nie mówi."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Czterystu proroków mówi to samo. **Dlaczego Jehoszafatowi to nie wystarcza?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Achab nienawidzi Micheasza, bo ten nigdy nie mówi mu nic przyjemnego. **Kogo łatwo przestajemy pytać o zdanie, kiedy już coś postanowiliśmy?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: zrządzenie Pana i wybór króla",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Krl 12,15",
+       "przeklad": "BW",
+       "akapity": [
+        "I nie wysłuchał król ludu, gdyż takie było zrządzenie Pana, by utrzymać w mocy słowo jego, jakie wyrzekł przez Achiasza z Sylo do Jeroboama, syna Nebata."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Autor mówi dwie rzeczy naraz. Rechabeam sam odrzucił dobrą radę i sam odpowiada za swoją pychę. A jednocześnie Bóg prowadził historię ku temu, co wcześniej zapowiedział przez proroka. Biblia nie tłumaczy, jak te dwie prawdy się łączą. Nie pozwala jednak ani zrzucić winy na Boga, ani uznać, że Bóg stracił panowanie nad sprawą.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak może żyć obok siebie wolny, zły wybór człowieka i Boży zamiar, który mimo to się wypełnia?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Wielu doradców, jeden Pan",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 15,22",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdzie nie ma narady, nie udają się zamysły; lecz gdzie jest wielu doradców, tam jest powodzenie."
+       ]
+      },
+      {
+       "odnosnik": "Prz 11,14",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdy nie ma umiejętnego kierownictwa, naród upada; lecz gdzie jest wielu doradców, tam jest bezpieczeństwo."
+       ]
+      },
+      {
+       "odnosnik": "Prz 12,15",
+       "przeklad": "BW",
+       "akapity": [
+        "Droga głupiego wydaje mu się właściwa, lecz kto słucha rady, jest mądry."
+       ]
+      },
+      {
+       "odnosnik": "Prz 19,20",
+       "przeklad": "BW",
+       "akapity": [
+        "Słuchaj rady i przyjmij karcenie, abyś w przyszłości był mądry."
+       ]
+      },
+      {
+       "odnosnik": "Prz 20,18",
+       "przeklad": "BW",
+       "akapity": [
+        "Dzięki dobrej radzie plany się udają, toteż tylko z rozwagą należy prowadzić wojnę."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przysłowia łączą radę z karceniem: „Słuchaj rady i przyjmij karcenie”. **Dlaczego dobra rada tak często boli?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Droga głupiego wydaje mu się właściwa”. **Po czym poznać, że prosimy o radę, a po czym, że zbieramy poparcie dla decyzji już podjętej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Jakich ludzi warto pytać o zdanie przy ważnej decyzji, a jakich lepiej omijać?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Badania nad ocenami grupowymi pokazują, że zbiorowa mądrość działa pod jednym warunkiem. Ludzie muszą oceniać sprawę każdy osobno. Kiedy najpierw poznają zdanie innych, wynik się pogarsza. Wielu doradców pomaga więc wtedy, gdy są to naprawdę różne głosy. Trzech ludzi, którzy znają Boga i ciebie i niezależnie od siebie mówią to samo, waży więcej niż tłum powtarzający słowa pierwszego mówcy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Prośba przy studni",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Abraham posyła zaufanego sługę do swojej rodziny w Mezopotamii, żeby znalazł żonę dla Izaaka.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 24,12-14",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł: Panie, Boże pana mojego Abrahama, poszczęść mi dziś i okaż łaskę panu mojemu Abrahamowi. Oto ja stoję u źródła wody, a córki mieszkańców tego miasta wychodzą, aby czerpać wodę. Niechże więc ta dziewczyna, do której powiem: Nachyl dzban twój, proszę, abym się napił, a ona powie: Pij, i wielbłądy twoje też napoję – będzie tą, którą przeznaczyłeś dla sługi swego, dla Izaaka, a ja po tym poznam, że okazałeś łaskę panu mojemu."
+       ]
+      },
+      {
+       "odnosnik": "Rdz 24,21",
+       "przeklad": "BW",
+       "akapity": [
+        "A mąż ów przypatrywał się jej w milczeniu, aby poznać, czy Pan poszczęścił jego drodze, czy nie."
+       ]
+      },
+      {
+       "odnosnik": "Rdz 24,26-27",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy ów mąż padł na kolana, oddał pokłon Panu i rzekł: Błogosławiony Pan, Bóg pana mojego Abrahama, który nie odmówił panu mojemu łaski i wierności swej! Pan prowadził mię drogą do domu braci pana mojego."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Sługa nie prosi o dowolny znak. Prosi o dziewczynę, która sama zaproponuje, że napoi dziesięć spragnionych wielbłądów. **Co taka prośba sprawdzała?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nawet gdy wszystko się zgadza, sługa „przypatrywał się jej w milczeniu”. **Czego uczy ta ostrożność kogoś, komu wydaje się, że właśnie dostał znak?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Spragniony wielbłąd potrafi wypić bardzo dużo, a dzban mieścił niewiele. Dziesięć zwierząt to długa i ciężka praca dla obcego człowieka. Sługa prosił więc o okoliczność, która pokaże charakter. Odpowiedź modlitwy była zarazem dobrą informacją, bo dziewczyna od wielbłądów byłaby rozsądnym wyborem także w oczach trzeźwego swata.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pomyśl o decyzji, przed którą stoisz albo niedawno stałeś. **Na co najłatwiej ci się powołać: na znak, na okoliczności, na radę ludzi czy na własne przeczucie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jaka rada wraca do ciebie z kilku stron, choć wolałbyś jej nie słyszeć?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić: **o co chciałbyś poprosić Boga w sprawie, która jest teraz przed tobą? O znak, o odwagę czy o człowieka, który powie ci prawdę?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Bóg odpowiedział Gedeonowi na runo, choć runo nie było wzorem. Jeśli Bóg czasem zniża się do naszych prób, jak odróżnić Jego cierpliwość wobec słabości od zachęty, żeby robić tak dalej?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie musi tego rozstrzygać. Warto, żeby padło spostrzeżenie, że po runie Gedeon dostał jeszcze jeden znak, o który nie prosił. Bóg prowadził go od lęku do odwagi, i to był cel wszystkich znaków.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Jeden znak łatwo pomylić z echem własnych życzeń. Bóg prowadzi zwykle przez kilka głosów naraz i przez ludzi, którzy mają odwagę powiedzieć prawdę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** Prz 15,22 albo Dz 16,10.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o decyzji, która jest przed tobą. Zapytaj siebie uczciwie, **czy szukam drogi, czy potwierdzenia dla drogi, którą już wybrałem**. Zostań przy tej odpowiedzi, nawet jeśli cię zawstydza.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przypomnij sobie drzwi, które kiedyś się zamknęły i bardzo bolały. Zapytaj Boga, **co dziś widzisz w nich inaczej niż wtedy**. Jeśli nic, to też jest odpowiedź na dziś.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Pomyśl o człowieku, którego zdania unikasz, bo zwykle mówi rzeczy niewygodne. Przyznaj przed sobą, czego boisz się od niego usłyszeć.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Ale mnie Bóg naprawdę dał znak.”** Nie podważaj cudzego doświadczenia. Bóg odpowiedział Gedeonowi dwa razy. Możesz spokojnie zapytać, czy ten znak zgadzał się z Pismem i z tym, co mówili ludzie, którzy tę osobę dobrze znają.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś przynosi konkretną decyzję i prosi grupę, żeby mu powiedziała, co ma zrobić.** Podziękuj za zaufanie. Grupa może zadawać pytania i modlić się razem z nim. Decyzja zostaje przy nim. Zaproponuj rozmowę po spotkaniu z kimś, kto zna go dłużej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli rzut monetą to grzech?”** Biblia zna los jako sposób kończenia sporów, także między możnymi (Prz 18,18). Kłopot zaczyna się wtedy, gdy los ma zastąpić myślenie, modlitwę i radę w wielkiej sprawie życia.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Zamknięte drzwi to znak, że Bóg tego nie chce.”** Czasem tak. Czasem to próba wytrwałości albo „jeszcze nie teraz”. Paweł nie wszedł do Azji w czasie tej podróży, a kilka lat później głosił tam ponad dwa lata. Jedne drzwi rzadko wystarczą do rozstrzygnięcia.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada, jak „duchowy” doradca albo przywódca decydował za niego.** Wysłuchaj do końca i nie oceniaj tej osoby przy grupie. Możesz powiedzieć, że dobra rada zostawia człowiekowi wolność i odpowiedzialność. Jeśli sprawa jest poważna, zostań z nim po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniu.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 2. Bloki 1, 3 i 4 niosą spotkanie: runo i cierpliwość Boga, zamknięte drzwi Pawła i rada odrzucona przez Rechabeama. Blok 5 przeczytaj wtedy na głos bez pytań.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Ale mnie Bóg naprawdę dał znak.”",
+     "odpowiedz": "Nie podważaj cudzego doświadczenia. Bóg odpowiedział Gedeonowi dwa razy. Możesz spokojnie zapytać, czy ten znak zgadzał się z Pismem i z tym, co mówili ludzie, którzy tę osobę dobrze znają."
+    },
+    {
+     "sytuacja": "Ktoś przynosi konkretną decyzję i prosi grupę, żeby mu powiedziała, co ma zrobić.",
+     "odpowiedz": "Podziękuj za zaufanie. Grupa może zadawać pytania i modlić się razem z nim. Decyzja zostaje przy nim. Zaproponuj rozmowę po spotkaniu z kimś, kto zna go dłużej."
+    },
+    {
+     "sytuacja": "„Czyli rzut monetą to grzech?”",
+     "odpowiedz": "Biblia zna los jako sposób kończenia sporów, także między możnymi (Prz 18,18). Kłopot zaczyna się wtedy, gdy los ma zastąpić myślenie, modlitwę i radę w wielkiej sprawie życia."
+    },
+    {
+     "sytuacja": "„Zamknięte drzwi to znak, że Bóg tego nie chce.”",
+     "odpowiedz": "Czasem tak. Czasem to próba wytrwałości albo „jeszcze nie teraz”. Paweł nie wszedł do Azji w czasie tej podróży, a kilka lat później głosił tam ponad dwa lata. Jedne drzwi rzadko wystarczą do rozstrzygnięcia."
+    },
+    {
+     "sytuacja": "Ktoś opowiada, jak „duchowy” doradca albo przywódca decydował za niego.",
+     "odpowiedz": "Wysłuchaj do końca i nie oceniaj tej osoby przy grupie. Możesz powiedzieć, że dobra rada zostawia człowiekowi wolność i odpowiedzialność. Jeśli sprawa jest poważna, zostań z nim po spotkaniu."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniu.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, powtórz pytanie tymi samymi słowami."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 2. Bloki 1, 3 i 4 niosą spotkanie: runo i cierpliwość Boga, zamknięte drzwi Pawła i rada odrzucona przez Rechabeama. Blok 5 przeczytaj wtedy na głos bez pytań."
+    }
+   ]
+  }
+ ]
+}

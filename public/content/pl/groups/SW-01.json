@@ -1,0 +1,848 @@
+{
+ "tytul": "Ogród, pierwsza świątynia",
+ "id": "SW-01",
+ "seria": "Świątynia",
+ "opis": "Eden jako pierwsze miejsce spotkania z Bogiem i droga, która przez całą Biblię prowadzi z powrotem.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Rdz 2,8-15; Rdz 3,22-24; 1Krl 6,29-30.32; Wj 26,31; Ez 47,1.3-5.7-9.12; Ap 22,1-5",
+  "p2": "Wj 27,13.16; Rdz 4,16; Wj 25,31-34; Ps 36,8-10; J 7,37-39; Iz 51,3; Ap 2,7",
+  "p3": "Wj 28,9; Rdz 2,17; Rdz 3,21; Ap 21,16"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 31
+ },
+ "tagi": [
+  "świątynia",
+  "przybytek",
+  "Eden",
+  "obecność Boga",
+  "nadzieja",
+  "nowa ziemia"
+ ],
+ "wersja": 1,
+ "zdanie": "Biblia zaczyna się i kończy w miejscu, gdzie Bóg mieszka z ludźmi. Wszystko pomiędzy jest drogą powrotną.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie czyta ogród Eden jako pierwsze miejsce, w którym Bóg mieszkał z człowiekiem. Biblia opisuje ten ogród słowami, które potem wracają przy przybytku i świątyni. Jest tam wejście od wschodu, złoto i drogie kamienie, rzeka, drzewo życia i cherubowie. Człowiek dostaje zadanie, które później wykonują lewici. Po wygnaniu Bóg nie porzuca tego obrazu. Każe go odtworzyć w przybytku, pokazuje go prorokowi w rzece spod progu świątyni i stawia na ostatniej stronie Biblii.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokrewny materiał to „Bóg, który chce z nami zamieszkać”. Tamten mówi o obecności Boga we wspólnocie. Ten idzie śladem samego ogrodu, od pierwszej strony Biblii do ostatniej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Rozmowa łatwo skręca w spór o wiek ziemi, ewolucję albo dosłowność pierwszych rozdziałów Biblii. Dziś tego nie rozstrzygamy. Pytamy, co tekst mówi o Bogu i o miejscu spotkania z Nim.",
+      "Nie wchodzimy w mechanikę upadku i w pytanie, skąd się wzięło zło. Zajmują się tym inne materiały. Tu zaczynamy od chwili, gdy ogród zostaje zamknięty.",
+      "Słowo „wygnanie” może dotknąć kogoś osobiście. Przy stole może siedzieć ktoś, kto stracił dom, wyjechał z kraju, został odrzucony przez rodzinę albo odszedł ze zboru.",
+      "Obraz cherubów z mieczem może brzmieć jak Bóg-strażnik, który nie wpuszcza. Nie tłumacz tego od razu. Tekst sam pokaże, gdzie ci cherubowie staną później."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie szukajcie Edenu na mapie. Nie odpytuj z symboliki przybytku i nie dopisuj znaczenia do każdego szczegółu. Nie zamieniaj spotkania w wykład o końcu świata.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o miejscu, do którego nie da się już wrócić, choć wciąż o nim pamiętasz. Może to być dom, ogród, podwórko albo czyjaś kuchnia. Powiedz jednym zdaniem, co sprawiało, że było ci tam dobrze.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi i nie dopytuj.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Ogród, który zasadził Bóg",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 2,8-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem zasadził Pan Bóg ogród w Edenie, na wschodzie. Tam umieścił człowieka, którego stworzył. I sprawił Pan Bóg, że wyrosło z ziemi wszelkie drzewo przyjemne do oglądania i dobre do jedzenia oraz drzewo życia w środku ogrodu i drzewo poznania dobra i zła.",
+        "A rzeka wypływała z Edenu, aby nawadniać ogród. Potem rozdzielała się na cztery odnogi. Nazwa pierwszej: Piszon. To ta, która opływa cały kraj Chawila, gdzie jest złoto, a złoto tego kraju jest wyborne. Tam jest żywica bdelium i kamień onyksowy. Nazwa drugiej rzeki: Gichon. To ta, która opływa cały kraj Kusz. A nazwa trzeciej rzeki: Chiddekel. To ta, która płynie na wschód od Asyrii. Czwartą zaś rzeką jest Eufrat.",
+        "I wziął Pan Bóg człowieka i osadził go w ogrodzie Eden, aby go uprawiał i strzegł."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wypiszcie, co w tych wersetach robi Bóg, a co ma robić człowiek. **Co ta lista mówi o tym, czyj jest ten ogród i kto w nim jest gościem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Człowiek ma ogród „uprawiać i strzec”. **Czego trzeba strzec w miejscu, w którym nie ma jeszcze żadnego zła?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Opis zatrzymuje się przy złocie, żywicy i kamieniu onyksowym, choć w ogrodzie nikt ich nie potrzebuje. **Po co w tej opowieści takie szczegóły?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Dwa czasowniki z wersetu 15, „uprawiać i strzec”, stoją razem jeszcze w opisie pracy lewitów przy przybytku w Lb 3,7-8. Tam tłumaczy się je jako „pełnić służbę” i „pilnować”. Izraelita, który słuchał tej opowieści, słyszał w niej słownictwo świątyni. Do tego złoto, drogie kamienie i wejście od wschodu, bo ogród leży „na wschodzie”. Pierwsza praca człowieka była więc czymś więcej niż ogrodnictwem. Była służbą w miejscu, gdzie mieszka Bóg.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrajskie słowo na ogród, `gan`, oznacza miejsce ogrodzone, najczęściej sad za murem. Taki ogród był posiadłością godną króla, więc starożytny słuchacz wyobrażał sobie raczej posiadłość króla niż grządki. Grecki przekład Starego Testamentu oddał je słowem `paradeisos`, zapożyczonym z perskiego, gdzie znaczyło ogrodzony park. Stąd nasze słowo „raj”.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Kamień onyksowy z wersetu 12 wraca w Księdze Wyjścia na szatach arcykapłana.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 28,9",
+       "przeklad": "BW",
+       "akapity": [
+        "Weźmiesz też dwa kamienie onyksowe i wyryjesz na nich imiona synów izraelskich."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ten sam kamień leży w ziemi przy Edenie i na ramionach kapłana, który wchodzi do przybytku z imionami ludu. **Co mówi to powiązanie o tym, kogo kapłan „wnosi” przed Boga?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Strażnicy u wschodniego wejścia",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Ludzie zjedli owoc z drzewa, którego Bóg zakazał. Bóg wychodzi do nich, rozmawia z nimi i sam robi im ubrania ze skór. Potem mówi te słowa.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 3,22-24",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Pan Bóg: Oto człowiek stał się taki jak my: zna dobro i zło. Byleby tylko nie wyciągnął teraz ręki swej i nie zerwał owocu także z drzewa życia, i nie zjadł, a potem żył na wieki! Odprawił go więc Pan Bóg z ogrodu Eden, aby uprawiał ziemię, z której został wzięty. I tak wygnał człowieka, a na wschód od ogrodu Eden umieścił cheruby i płomienisty miecz wirujący, aby strzegły drogi do drzewa życia."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg sam podaje powód, dla którego człowiek nie może teraz zjeść z drzewa życia. **Co by znaczyło żyć na wieki w stanie, w jakim człowiek właśnie się znalazł?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Cherubowie mają „strzec drogi do drzewa życia”. Drogi można strzec przed kimś albo dla kogoś. **Jak czytacie to zdanie i co w tekście przemawia za waszym odczytaniem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W rozdziale 2 człowiek miał strzec ogrodu. Teraz ogród jest strzeżony przed nim. **Co to odwrócenie mówi o tym, co człowiek stracił?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Cherubowie wrócą w przybytku. Wyhaftowano ich na zasłonie przed Miejscem Najświętszym, a dwa złote stały na wieku skrzyni, gdzie Bóg spotykał się z Mojżeszem. Strażnicy zamkniętego ogrodu stoją więc później nad miejscem, gdzie Bóg rozmawia z ludźmi i gdzie przebacza. Czasownik „umieścił” w wersecie 24 ma ten sam rdzeń co „zamieszkać”. Od niego pochodzi hebrajska nazwa przybytku, czyli dosłownie „mieszkanie”.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Na wschód od Edenu",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 4,16",
+       "przeklad": "BW",
+       "akapity": [
+        "I odszedł Kain sprzed oblicza Pana, i zamieszkał w ziemi Nod, na wschód od Edenu."
+       ]
+      },
+      {
+       "odnosnik": "Wj 27,13",
+       "przeklad": "BW",
+       "akapity": [
+        "Szerokość dziedzińca od strony wschodniej, ku wschodowi, będzie na pięćdziesiąt łokci;"
+       ]
+      },
+      {
+       "odnosnik": "Wj 27,16",
+       "przeklad": "BW",
+       "akapity": [
+        "Brama dziedzińca mieć będzie kotarę na dwadzieścia łokci, z fioletowej i czerwonej purpury, z karmazynu i ze skręconego bisioru, wzorzyście haftowaną; do niej cztery słupy i cztery podstawy."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Cherubowie stają na wschód od ogrodu, a Kain odchodzi jeszcze dalej w tę samą stronę. **Co dzieje się z odległością od Boga w pierwszych rozdziałach Biblii, gdy kolejni ludzie odchodzą „sprzed oblicza Pana”?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jedyna brama dziedzińca przybytku była od wschodu. **W którą stronę musiał iść człowiek, który wchodził do środka, i co ten kierunek mógł mu przypominać?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: kara czy ochrona",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 2,17",
+       "przeklad": "BW",
+       "akapity": [
+        "ale z drzewa poznania dobra i zła nie wolno ci jeść, bo gdy tylko zjesz z niego, na pewno umrzesz."
+       ]
+      },
+      {
+       "odnosnik": "Rdz 3,21",
+       "przeklad": "BW",
+       "akapity": [
+        "I uczynił Pan Bóg Adamowi i jego żonie odzienie ze skór, i przyodział ich."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Wygnanie z Edenu czyta się w Kościele na dwa sposoby. Jedni widzą w nim przede wszystkim wyrok. Ludzie nie umierają tego samego dnia, ale zostają odcięci od miejsca, skąd pochodzi życie, i tak zaczyna się śmierć. Drudzy podkreślają litość. Bóg zamyka drogę do drzewa życia, żeby człowiek nie utrwalił się na zawsze w stanie oddalenia. Obie strony zgadzają się co do jednego. Zanim Bóg wygna ludzi, sam ich ubiera, a droga do drzewa jest strzeżona, nie zniszczona.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak w jednym Bogu mieści się wyrok z wersetu 23 i troska z Rdz 3,21, kiedy sam ubiera ludzi?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia to, że drzewo życia nie zostało wycięte, tylko otoczone strażą?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Ogród wyrzeźbiony w świątyni",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Kilkaset lat po wyjściu z Egiptu król Salomon buduje w Jerozolimie świątynię. Jej układ powtarza dawny przybytek z pustyni.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Krl 6,29-30.32",
+       "przeklad": "BW",
+       "akapity": [
+        "Na wszystkich ścianach świątyni wokoło kazał wyryć jako płaskorzeźby postacie cherubów, liście palmowe i rozwarte kielichy kwiatów, od wewnątrz i na zewnątrz. Także posadzkę świątyni kazał wyłożyć złotem zarówno w pomieszczeniu wewnętrznym, jak i zewnętrznym. [...]",
+        "Na obu skrzydłach drzwi z drzewa oliwkowego kazał wyryć jako płaskorzeźby postacie cherubów, liście i rozwarte kielichy kwiatów i pokryć je złotem, przy czym na tych cherubach i liściach palmowych kazał to złoto rozklepać."
+       ]
+      },
+      {
+       "odnosnik": "Wj 26,31",
+       "przeklad": "BW",
+       "akapity": [
+        "Zrobisz też zasłonę z fioletowej i czerwonej purpury, z karmazynu i ze skręconego bisioru; zrobisz ją z wyhaftowanymi na niej artystycznie cherubami"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wypiszcie, co Salomon kazał wyryć na ścianach i drzwiach. **Co widział wokół siebie kapłan, który wchodził do środka świątyni?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Na zasłonie przed Miejscem Najświętszym wyhaftowano cherubów. Przypomnijcie sobie, gdzie stali cherubowie w Edenie. **Czym w takim razie była ta zasłona dla kogoś, kto znał historię ogrodu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Budowniczowie mogli ozdobić dom Boga obrazami wojny, władzy albo bogactwa. **Dlaczego w miejscu spotkania z Bogiem kazali przypominać właśnie ogród?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Cała świątynia była urządzona jak ogród z drewna, kamienia i złota. Były w niej palmy, kwiaty, cherubowie i owoce granatu na kolumnach. W pierwszym pomieszczeniu przybytku stał złoty świecznik w kształcie drzewa z gałęziami i kwiatami migdałowca. Kto wchodził do świątyni, wchodził do Edenu w miniaturze. Zasłona z cherubami przypominała jednak, że do najgłębszego miejsca droga wciąż nie była otwarta dla wszystkich.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Drzewo ze złota",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 25,31-34",
+       "przeklad": "BW",
+       "akapity": [
+        "Zrobisz też świecznik ze szczerego złota. Jego podstawę i jego trzon wykujesz z jednej bryły; jego kielichy, gałki i kwiaty będą z tej samej bryły. Sześć ramion wychodzić będzie z jego boków: trzy ramiona świecznika z jednego, a trzy z drugiego boku. Trzy kielichy w kształcie kwiatu migdałowego na jednym ramieniu z gałką i kwiatem; i znowu trzy kielichy w kształcie kwiatu migdałowego na drugim ramieniu z gałką i kwiatem. Tak będzie na sześciu ramionach, wychodzących ze świecznika. Na samym świeczniku będą cztery kielichy w kształcie kwiatu migdałowego z gałkami i kwiatami."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Opiszcie ten świecznik własnymi słowami, nie używając słowa „świecznik”. **Do czego jest bardziej podobny i co to podobieństwo dodaje do Miejsca Świętego?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W Edenie drzewo życia stało „w środku ogrodu”. **Co mogło znaczyć dla kapłanów, że przy ich codziennej służbie stało złote drzewo, które dawało światło?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Rzeka spod progu",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Prorok Ezechiel żyje na wygnaniu w Babilonie, a świątynia w Jerozolimie leży w gruzach. W widzeniu ktoś oprowadza go po nowej świątyni.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ez 47,1.3-5.7-9.12",
+       "przeklad": "BW",
+       "akapity": [
+        "Potem zaprowadził mnie z powrotem do bramy przybytku; a oto spod progu przybytku wypływała woda w kierunku wschodnim, gdyż przybytek był zwrócony ku wschodowi, a woda spływała ku dołowi spod bocznej prawej ściany świątyni, na południe od ołtarza. [...]",
+        "A gdy ten mąż ze sznurem mierniczym w ręku wyszedł w kierunku wschodnim, wymierzył tysiąc łokci i kazał mi przejść przez wodę, która sięgała mi do kostek. I znowu odmierzył tysiąc łokci, i kazał mi przejść przez wodę, która sięgała mi do kolan. I znowu odmierzył tysiąc łokci, i kazał mi przejść przez wodę, która sięgała mi do pasa. A gdy znowu odmierzył tysiąc łokci, był to już potok, którego nie mogłem przejść, gdyż wody wezbrały, a były tak głębokie, że trzeba by było w nich pływać, potok, którego nie można było przejść. [...]",
+        "A gdy wracałem, widziałem na brzegu potoku bardzo dużo drzew, z jednej i drugiej strony. I rzekł do mnie: Te wody płyną w kierunku okręgu wschodniego i spływają w dół na step i wpadają do Morza, do wody zgniłej, która wtedy staje się zdrowa. I gdzie tylko potok popłynie, każda istota żywa i wszystko, od czego się tam roi, będzie żyło; i będzie tam dużo ryb, bo gdy ta woda tam dotrze, wtedy będzie zdrowa, a wszystko będzie żyć tam, dokąd tylko dotrze potok. [...]",
+        "Na obu brzegach potoku będą rosły różne drzewa owocowe; liść ich nie więdnie i owoc się nie wyczerpie; co miesiąc będą rodzić świeże owoce, gdyż woda dla nich płynie ze świątyni. Owoc ich jest na pokarm, a liście ich na lekarstwo."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Skąd wypływa ta woda i dokąd płynie? **Co się dzieje ze wszystkim, czego ona dotknie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Z każdym tysiącem łokci woda jest głębsza, choć nikt jej nie dolewa i nie wpada do niej żaden dopływ. **Co ten obraz mówi o tym, co wychodzi od Boga?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Porównajcie tę rzekę i te drzewa z ogrodem z Rdz 2. **Co wraca z Edenu, a co jest tu zupełnie nowe?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ezechiel dostaje to widzenie, gdy świątynia leży w gruzach, a lud żyje z dala od swojej ziemi. Woda płynie na wschód, w tę samą stronę, w którą kiedyś odszedł Kain. Wpada do Morza Martwego, najbardziej jałowego miejsca w okolicy, i przywraca mu życie. Rzeka z Edenu nawadniała jeden ogród. Rzeka spod progu świątyni leczy martwą ziemię. Obraz idzie dalej. Na ostatniej stronie Biblii ta woda wypływa wprost z tronu Boga.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Źródło życia",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 36,8-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Jakże cenna jest łaska twoja, Boże! Przeto ludzie chronią się w cieniu skrzydeł twoich. Nasycają się tłustością domu twego, A strumieniem rozkoszy swoich upajasz ich. Bo u ciebie jest źródło życia, W światłości twojej oglądamy światłość."
+       ]
+      },
+      {
+       "odnosnik": "J 7,37-39",
+       "przeklad": "BW",
+       "akapity": [
+        "A w ostatnim, wielkim dniu święta stanął Jezus i głośno zawołał: Jeśli kto pragnie, niech przyjdzie do mnie i pije. Kto wierzy we mnie, jak powiada Pismo, z wnętrza jego popłyną rzeki wody żywej. A to mówił o Duchu, którego mieli otrzymać ci, którzy w niego uwierzyli; albowiem Duch Święty nie był jeszcze dany, gdyż Jezus nie był jeszcze uwielbiony."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalmista pisze o „domu” Boga, o cieniu skrzydeł i o strumieniu. **Co z tego, co dziś czytaliśmy, słychać w tych trzech obrazach?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus mówi o tym w świątyni, w ostatni dzień Święta Namiotów. **Co zmienia to, że rzeka ma płynąć z wnętrza człowieka, a nie spod progu budynku?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "„Cień skrzydeł” w psalmie to najpewniej obraz cherubów, którzy rozpościerali skrzydła nad skrzynią w Miejscu Najświętszym. Słowo przetłumaczone jako „rozkosze” pochodzi od tego samego rdzenia co nazwa Eden. Psalmista mówi więc, że w domu Boga płynie rzeka z ogrodu. Według tradycji żydowskiej w czasie Święta Namiotów kapłani codziennie przynosili wodę i wylewali ją przy ołtarzu.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Ogród na ostatniej stronie",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Na końcu Apokalipsy Jan widzi nowe niebo, nową ziemię i miasto, w którym Bóg mieszka z ludźmi.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 22,1-5",
+       "przeklad": "BW",
+       "akapity": [
+        "I pokazał mi rzekę wody żywota, czystą jak kryształ, wypływającą z tronu Boga i Baranka. Na środku ulicy jego i na obu brzegach rzeki drzewo żywota, rodzące dwanaście razy, wydające co miesiąc swój owoc, a liście drzewa służą do uzdrawiania narodów. I nie będzie już nic przeklętego. Będzie w nim tron Boga i Baranka, a słudzy jego służyć mu będą i oglądać będą jego oblicze, a imię jego będzie na ich czołach. I nocy już nie będzie, i nie będą już potrzebowali światła lampy ani światła słonecznego, gdyż Pan, Bóg, będzie im świecił i panować będą na wieki wieków."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wypiszcie, co z Edenu wraca na ostatniej stronie Biblii. **Czego w pierwszym ogrodzie nie było, a tutaj jest?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Oglądać będą jego oblicze”. Po upadku ludzie chowali się przed Bogiem między drzewami ogrodu. **Co musiało się wydarzyć, żeby człowiek mógł znowu patrzeć Bogu w twarz bez lęku?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Słudzy jego służyć mu będą”. Pierwszym zadaniem człowieka w ogrodzie też była służba. **Jak wyobrażacie sobie pracę i służbę w świecie, w którym nie ma już nic przeklętego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ostatni rozdział Biblii odpowiada na pierwsze. Ludzie bali się Boga, a teraz oglądają Jego twarz. Ziemia była przeklęta, a teraz nie ma nic przeklętego. Droga do drzewa życia była strzeżona, a teraz drzewo rośnie na obu brzegach rzeki. W Edenie mówi się o Bogu i o człowieku. Tutaj na tronie jest jeszcze Baranek. To przez Niego prowadzi droga z powrotem do ogrodu.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pustynia jak Eden",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Iz 51,3",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdyż Pan pocieszy Syjon, pocieszy wszystkie jego rozpadliny. Uczyni z jego pustkowia Eden, a z jego pustyni ogród Pana, radość i wesele zapanują w nim, pieśń dziękczynna i dźwięk pieśni."
+       ]
+      },
+      {
+       "odnosnik": "Ap 2,7",
+       "przeklad": "BW",
+       "akapity": [
+        "Kto ma uszy, niechaj słucha, co Duch mówi do zborów. Zwycięzcy dam spożywać z drzewa żywota, które jest w raju Bożym."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Izajasz zapowiada pocieszenie Syjonu, który leży w ruinie. **Co znaczy dla ludzi patrzących na takie ruiny obietnica, że Bóg zrobi Eden właśnie z tych ruin?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jezus obiecuje zborowi w Efezie owoc z drzewa, do którego droga była zamknięta od Rdz 3. **Komu i dlaczego ta obietnica była wtedy potrzebna?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ap 21,16",
+       "przeklad": "BW",
+       "akapity": [
+        "A miasto jest czworokątne, i długość jego taka sama, co szerokość. I zmierzył miasto kijem mierniczym na dwanaście tysięcy stadiów; długość jego i szerokość, i wysokość są równe."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Nowe Jeruzalem ma więc kształt sześcianu. Ten sam kształt miało w świątyni Salomona jedno pomieszczenie, Miejsce Najświętsze. Tam raz w roku wchodził tylko arcykapłan. W mieście z Apokalipsy wszyscy mieszkają w takim miejscu na stałe. Ogród, miasto i Miejsce Najświętsze stają się na końcu jednym.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co ten obraz mówi o tym, jak blisko siebie Bóg chce mieć człowieka na końcu historii?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Człowiek dostał ogród, żeby go „uprawiał i strzegł”. **Co w twoim zwykłym tygodniu jest takim kawałkiem ogrodu, który Bóg dał ci pod opiekę?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**W którym miejscu swojego życia czujesz się dziś „na wschód od Edenu”, daleko od bliskości, w której chciałbyś być z Bogiem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **który obraz z ostatniej strony Biblii jest ci dziś najbardziej potrzebny?** Nie musisz mówić dlaczego.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Biblia nie kończy się powrotem do pierwszego ogrodu. Kończy się miastem z rzeką i drzewem pośrodku, w którym mieszka mnóstwo ludzi ze wszystkich narodów. **Czy Bóg tylko oddaje to, co zostało stracone, czy daje więcej, niż było na początku? Co to znaczy dla historii, która w czyimś życiu poszła źle?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie produkuje tu jednej odpowiedzi. Warto, żeby padło spostrzeżenie, że rana nie znika z opowieści. Na tronie jest Baranek, a liście drzewa służą do uzdrawiania. Nowy świat pamięta, że coś trzeba było leczyć.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Biblia zaczyna się i kończy w miejscu, gdzie Bóg mieszka z ludźmi. Wszystko pomiędzy jest drogą powrotną.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** Ap 22,3-4 albo Rdz 2,15.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o tym, czego najbardziej brakuje ci w bliskości z Bogiem. Nie szukaj winnych i nie rób planu naprawy. **Nazwij to przed Nim jednym zdaniem** i zostań przy tym przez chwilę.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Człowiek miał strzec ogrodu, który dostał. Zapytaj siebie, **czego w swoim domu, w swoich relacjach albo w swojej pracy pilnujesz, a co od dawna zostawiasz bez opieki**. Przyznaj to przed sobą, zanim cokolwiek postanowisz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Powiedz Bogu wprost, że chcesz kiedyś zobaczyć Jego twarz. Zwróć uwagę, co poczujesz, kiedy to wypowiesz. Jeśli będzie to lęk, nie uciekaj od niego. Powiedz Mu i o nim.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Czy Eden naprawdę istniał? A co z ewolucją?”** Nie wchodź dziś w spór o wiek ziemi i pochodzenie życia. Powiedz, że to ważne pytanie, ale dziś czytamy, co ten tekst mówi o Bogu i o miejscu spotkania z Nim. Jeśli temat wraca, poleć materiał „Wiara i nauka: czy muszę wybierać?”.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Gdzie leżał Eden? Przecież Eufrat i Tygrys istnieją.”** Tekst rzeczywiście podaje nazwy rzek. Nie rozwiązujcie geografii przy stole. Wróć do pytania, czym ten ogród był dla Boga i dla człowieka.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Bóg wyrzucił ich i postawił strażników z mieczem. To okrutne.”** Nie broń Boga na siłę. Przeczytaj jeszcze raz Rdz 3,22 i powód, który podaje sam Bóg. Zwróć uwagę, że chwilę wcześniej sam robi ludziom ubrania. Cherubowie stają potem nad miejscem, gdzie Bóg przebacza.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa schodzi na kapłaństwo kobiet albo na spory o urzędy w Kościele.** Zatrzymaj to łagodnie. Rdz 2,15 mówi o człowieku, którego zadanie przypomina służbę w przybytku. Nie da się z tego zbudować odpowiedzi na dzisiejsze spory i tekst tego nie robi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada o własnym wygnaniu: z domu, z kraju, z rodziny albo ze zboru.** Wysłuchaj do końca i nie porównuj tego z Edenem na siłę. Nie dawaj rad. Podziękuj i spokojnie wróć do tekstu. Jeśli sprawa jest świeża i bolesna, zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„A co z niebiańską świątynią i sądem?”** To prawdziwy temat, ale nie na dziś. Zapisz pytanie. Dziś idziemy śladem ogrodu od pierwszej do ostatniej strony Biblii.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 3. Bloki 1, 2 i 5 niosą spotkanie: ogród, zamknięta droga i ogród na końcu.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Czy Eden naprawdę istniał? A co z ewolucją?”",
+     "odpowiedz": "Nie wchodź dziś w spór o wiek ziemi i pochodzenie życia. Powiedz, że to ważne pytanie, ale dziś czytamy, co ten tekst mówi o Bogu i o miejscu spotkania z Nim. Jeśli temat wraca, poleć materiał „Wiara i nauka: czy muszę wybierać?”."
+    },
+    {
+     "sytuacja": "„Gdzie leżał Eden? Przecież Eufrat i Tygrys istnieją.”",
+     "odpowiedz": "Tekst rzeczywiście podaje nazwy rzek. Nie rozwiązujcie geografii przy stole. Wróć do pytania, czym ten ogród był dla Boga i dla człowieka."
+    },
+    {
+     "sytuacja": "„Bóg wyrzucił ich i postawił strażników z mieczem. To okrutne.”",
+     "odpowiedz": "Nie broń Boga na siłę. Przeczytaj jeszcze raz Rdz 3,22 i powód, który podaje sam Bóg. Zwróć uwagę, że chwilę wcześniej sam robi ludziom ubrania. Cherubowie stają potem nad miejscem, gdzie Bóg przebacza."
+    },
+    {
+     "sytuacja": "Rozmowa schodzi na kapłaństwo kobiet albo na spory o urzędy w Kościele.",
+     "odpowiedz": "Zatrzymaj to łagodnie. Rdz 2,15 mówi o człowieku, którego zadanie przypomina służbę w przybytku. Nie da się z tego zbudować odpowiedzi na dzisiejsze spory i tekst tego nie robi."
+    },
+    {
+     "sytuacja": "Ktoś opowiada o własnym wygnaniu: z domu, z kraju, z rodziny albo ze zboru.",
+     "odpowiedz": "Wysłuchaj do końca i nie porównuj tego z Edenem na siłę. Nie dawaj rad. Podziękuj i spokojnie wróć do tekstu. Jeśli sprawa jest świeża i bolesna, zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "„A co z niebiańską świątynią i sądem?”",
+     "odpowiedz": "To prawdziwy temat, ale nie na dziś. Zapisz pytanie. Dziś idziemy śladem ogrodu od pierwszej do ostatniej strony Biblii."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3. Bloki 1, 2 i 5 niosą spotkanie: ogród, zamknięta droga i ogród na końcu."
+    }
+   ]
+  }
+ ]
+}

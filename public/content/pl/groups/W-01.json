@@ -1,0 +1,789 @@
+{
+ "tytul": "Czy Bóg gra ze mną w chowanego?",
+ "id": "W-01",
+ "seria": "Decyzje i wola Boża",
+ "opis": "Co Biblia wprost nazywa wolą Bożą i dlaczego Bóg nie ukrywa przed nami drogi.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Ps 32,6-11; Prz 16,1-3.9; 19,21; Mi 6,3-8; Pwt 29,28; 1Tes 4,1-3; 5,16-18; Ef 5,15-17; 1P 2,15; Rz 12,1-2.9-13",
+  "p2": "Ez 34,11-12.16; Dz 13,22; Ps 25,4-5",
+  "p3": "Ps 51,15; Ps 139,16"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 23,
+  "p3": 28
+ },
+ "tagi": [
+  "decyzje",
+  "wola Boża",
+  "prowadzenie",
+  "lęk",
+  "wolność",
+  "mądrość"
+ ],
+ "wersja": 1,
+ "zdanie": "Bóg nie chowa przed tobą drogi. Większość jej już oznajmił, a resztę przejdzie razem z tobą.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Wielu wierzących nosi w głowie obraz Boga, który ma dla nich jeden szczegółowy plan i trzyma go w ukryciu. Kto źle odgadnie, ten wypada z planu i żyje potem w gorszej wersji swojego życia. Taki obraz rodzi lęk przed każdą decyzją. To spotkanie sprawdza, co Biblia nazywa wolą Bożą wprost. Okazuje się, że mówi o niej dużo i jasno, przede wszystkim o tym, jakimi ludźmi mamy być. O mieście, zawodzie i nazwisku przyszłego współmałżonka milczy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W Kościele są w tej sprawie dwa akcenty. Jedni wierzą, że Bóg ma zamiar także co do konkretnej pracy czy miejsca i prowadzi do niego tych, którzy pytają. Drudzy uważają, że w granicach tego, co Bóg już powiedział, daje wolność i mądrość do wyboru. Obie strony zgadzają się, że Bóg prowadzi, że nie bawi się z człowiekiem w zgadywanie i że objawiona wola Boża ma pierwszeństwo przed wszystkim innym. Spotkanie nie rozstrzyga sporu. Trzyma się tekstu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokrewne materiały to „Mądrość, o którą wolno prosić” i „Głos, który można rozpoznać”.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole stoi właśnie przed ważnym wyborem. Grupa nie podejmuje za niego decyzji i nie mówi mu, co Bóg dla niego chce.",
+      "Ktoś może się bać, że już kiedyś wybrał źle i żyje w planie B. Nie bagatelizuj tego lęku. Teksty dzisiejsze mają mu dużo do powiedzenia.",
+      "Ktoś może mieć doświadczenie bardzo konkretnego prowadzenia. Nie podważaj go i nie rób z niego normy dla wszystkich.",
+      "Temat łatwo zsuwa się w porady w rodzaju listy plusów i minusów. Wracaj do pytania, jakim Bogiem jest Ten, który prowadzi."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie podawaj formuły na poznanie woli Bożej. Nie oceniaj cudzych decyzji z przeszłości. Nie naciskaj nikogo, żeby powiedział, co postanowi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie decyzję, przy której długo nie mogłeś się zdecydować. Bez szczegółów powiedz jednym słowem, co wtedy najbardziej utrudniało wybór.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Rada zamiast wędzidła",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Psalm zaczyna się od radości człowieka, któremu Bóg przebaczył. Dopiero potem pada obietnica prowadzenia.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 32,6-11",
+       "przeklad": "BW",
+       "akapity": [
+        "Niech modli się do ciebie każdy pobożny w czasie niedoli, Gdy wyleją wielkie wody, do niego nie dotrą. Ty jesteś ochroną moją, strzeżesz mnie od ucisku, Otaczasz mnie radością wybawienia. Sela.",
+        "Pouczę ciebie i wskażę ci drogę, którą masz iść; Będę ci służył radą, a oko moje spocznie na tobie. Nie bądźcie nierozumni jak koń i jak muł, Które wędzidłem i uzdą trzeba wstrzymywać, aby się nie zbliżały. Bezbożny ma mnóstwo cierpień, Kto zaś ufa Panu, tego łaska otacza. Weselcie się w Panu i radujcie się sprawiedliwi! Śpiewajcie radośnie wszyscy prawego serca!"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 8 mówi o pouczaniu, o wskazaniu drogi, o radzie i o oku. **Co te cztery słowa mówią o tym, jak Bóg chce prowadzić człowieka?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Koń i muł idą tam, gdzie pociągnie uzda. **Czym różni się prowadzenie wędzidłem od prowadzenia radą? Na które z nich częściej czekamy przy trudnych decyzjach?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Co zmienia dla człowieka to, że obietnica prowadzenia pada dopiero po przebaczeniu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Obraz z wersetu 9 jest mocny. Zwierzę bez rozumu trzeba ciągnąć, bo samo nie rozumie, dokąd idzie. Człowiekowi Bóg obiecuje coś innego. Chce go uczyć tak, żeby sam zaczął rozumieć drogę. Prowadzenie w tym psalmie jest więc przede wszystkim obietnicą rozeznania. Oko, które „spocznie na tobie”, to spojrzenie nauczyciela, który nie odchodzi od ucznia.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pasterz, który szuka",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ez 34,11-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Gdyż tak mówi Wszechmocny Pan: Oto Ja sam zatroszczę się o moje owce i będę ich doglądał. Jak pasterz troszczy się o swoją trzodę, gdy jest pośród swoich rozproszonych owiec, tak Ja zatroszczę się o moje owce i wyratuję je z wszystkich miejsc, dokąd zostały rozproszone w dniu chmurnym i mrocznym."
+       ]
+      },
+      {
+       "odnosnik": "Ez 34,16",
+       "przeklad": "BW",
+       "akapity": [
+        "Będę szukał zaginionych, rozproszone sprowadzę z powrotem, zranione opatrzę, chore wzmocnię, tłustych i mocnych będę strzegł, i będę pasł sprawiedliwie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W tym obrazie ktoś się gubi i ktoś szuka. **Kto kogo szuka? Jak to się ma do lęku, że Bóg chowa przed nami drogę?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Owce rozproszyły się „w dniu chmurnym i mrocznym”. **Co Bóg obiecuje rozproszonym, zranionym i słabym? Co to mówi o Jego stosunku do tych, którzy się zgubili?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: kto mówi w wersecie 8",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "BW nie mówi wprost, czyj głos słychać w Ps 32,8. Przekład ekumeniczny wstawia przed obietnicą słowo „Powiedziałeś”, więc mówi Bóg. Część komentatorów czyta ten werset inaczej. Według nich mówi sam Dawid. Wcześniej, po swoim upadku, obiecał w innym psalmie, że będzie uczył drugich dróg Bożych.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 51,15",
+       "przeklad": "BW",
+       "akapity": [
+        "Przestępców będę nauczał dróg twoich, I grzesznicy nawrócą się do ciebie."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W pierwszym odczytaniu Bóg obiecuje, że sam poprowadzi. W drugim człowiek, któremu przebaczono, staje się nauczycielem dla innych. Oba odczytania łączy jedno. Prowadzenie przychodzi jako nauka i rada. Szarpnięcia uzdą w nim nie ma.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jeśli w wersecie 8 mówi człowiek po przebaczeniu, co to mówi o tym, przez kogo Bóg zwykle prowadzi innych?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Człowiek planuje",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 16,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "Rzeczą człowieka są rozważania serca, lecz od Pana pochodzi odpowiedź języka. Wszystkie drogi człowieka wydają mu się czyste, lecz Pan bada duchy. Powierz Panu swoje sprawy, a wtedy ziszczą się twoje zamysły."
+       ]
+      },
+      {
+       "odnosnik": "Prz 16,9",
+       "przeklad": "BW",
+       "akapity": [
+        "Serce człowieka obmyśla jego drogę, lecz Pan kieruje jego krokami."
+       ]
+      },
+      {
+       "odnosnik": "Prz 19,21",
+       "przeklad": "BW",
+       "akapity": [
+        "Wiele zamysłów jest w sercu człowieka, lecz dzieje się wola Pana."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przysłowia nie zakazują planowania. **Co w tych wersetach należy do człowieka, a co do Boga?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Powierz Panu swoje sprawy”. **Co w praktyce znaczy powierzyć Bogu plan, który ułożyło się samemu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Werset 2 mówi, że każda droga wydaje się człowiekowi czysta. **Gdzie przy ważnych decyzjach najłatwiej oszukać samego siebie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Przysłowia zakładają, że człowiek myśli, liczy i obmyśla drogę. Nigdzie nie każą mu siedzieć i czekać, aż plan spadnie z nieba. Mówią tylko, że ostatnie słowo nie należy do niego. Przekład ekumeniczny oddaje werset 9 tak, że Pan „umacnia jego kroki”. Bóg nie wyręcza nas w myśleniu. Podtrzymuje tego, kto już idzie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: jeden plan czy wiele dobrych dróg",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 139,16",
+       "przeklad": "BW",
+       "akapity": [
+        "Oczy twoje widziały czyny moje, W księdze twej zapisane były wszystkie dni przyszłe, Gdy jeszcze żadnego z nich nie było."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Ten werset i zdanie „dzieje się wola Pana” czyta się w Kościele na dwa sposoby. Pierwsze stanowisko widzi w nich szczegółowy plan Boga dla każdego człowieka. Bóg prowadzi do niego tych, którzy Go szczerze pytają, choć nie zawsze odsłania go z góry. Drugie stanowisko czyta je jako opis Bożej władzy nad historią. Bóg zna każdy dzień i nic Mu się nie wymyka. Tej księgi nie daje nam jednak do czytania z wyprzedzeniem. W sprawach, których nie rozstrzygnął, zostawia wolność i mądrość. Oba stanowiska zgadzają się, że Bóg jest blisko każdej decyzji i że żadna szczera pomyłka nie wyrywa człowieka z Jego ręki.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które z tych dwóch stanowisk jest ci bliższe? Co w twoim życiu za nim stoi?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak zmienia się codzienne podejmowanie decyzji w zależności od tego, które stanowisko przyjmiesz?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Oznajmiono ci, człowiecze",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Prorok opisuje rozprawę sądową. Bóg wzywa swój lud i przypomina, co dla niego zrobił.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mi 6,3-8",
+       "przeklad": "BW",
+       "akapity": [
+        "Ludu mój! Cóż ci uczyniłem? I czym ci się uprzykrzyłem? – Odpowiedz mi! Wszak wyprowadziłem cię z ziemi egipskiej i z domu niewoli wykupiłem cię, posłałem przed tobą Mojżesza, także Aarona i Miriam. Ludu mój! Pomnij, co zamyślał Balak, król moabski, i co mu odpowiedział Bileam, syn Beora, i co zaszło w drodze od Szittim do Gilgal, abyś poznał sprawiedliwe dzieła Pana!",
+        "Z czym mam wystąpić przed Panem, pokłonić się Bogu Najwyższemu? Czy mam wystąpić przed nim z całopaleniami, z rocznymi cielętami? Czy Pan ma upodobanie w tysiącach baranów, w dziesiątkach tysięcy strumieni oliwy? Czy mam dać swojego pierworodnego za swoje przestępstwo, własne dziecko na oczyszczenie mojego grzechu? Oznajmiono ci, człowiecze, co jest dobre i czego Pan żąda od ciebie: tylko, abyś wypełniał prawo, okazywał miłość bratnią i w pokorze obcował ze swoim Bogiem."
+       ]
+      },
+      {
+       "odnosnik": "Pwt 29,28",
+       "przeklad": "BW",
+       "akapity": [
+        "To, co jest zakryte, należy do Pana, Boga naszego, a co jest jawne, do nas i do naszych synów po wieczne czasy, abyśmy wypełniali wszystkie słowa tego zakonu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Człowiek z wersetów 6-7 podbija stawkę coraz wyżej. **Czego on się boi? Jakiego Boga ma w głowie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 8 zaczyna się od słowa „oznajmiono”, a Mojżesz mówi o tym, co „jawne”. **Co to zmienia dla kogoś, kto myśli, że wola Boża jest zagadką do rozwiązania?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Trzy rzeczy z wersetu 8 nie mówią, gdzie pracować ani z kim się związać. **Jak mimo to dotykają takich decyzji?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Licytacja w wersetach 6-7 rośnie od zwykłej ofiary do ofiar na miarę króla, a kończy się na własnym dziecku. Ta ostatnia była w Izraelu wprost zakazana. Lęk podpowiada, że Bóg chce coraz więcej i coraz trudniej. Odpowiedź Boga jest krótka i znana od dawna. Słowo oddane w BW jako „miłość bratnia” to hebrajskie `chesed`, czyli wierna, dotrzymująca słowa miłość. Tym samym słowem Biblia opisuje samego Boga.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Rozdział 6 Księgi Micheasza jest zbudowany jak proces. Najpierw wezwanie i świadkowie, czyli góry i fundamenty ziemi. Potem mowa powoda, który wylicza swoje dobrodziejstwa. Dalej odpowiedź oskarżonego i na końcu wyrok. Prorocy nazywali taki spór Boga z Jego ludem hebrajskim słowem `riw`. Zaskakuje to, że powód nie domaga się odszkodowania. Pyta, czym zawinił, i przypomina, że to On wyprowadził lud z niewoli.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co mówi o Bogu, że w tej rozprawie zaczyna od pytania „cóż ci uczyniłem”, a nie od listy żądań?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Tak brzmi wola Boża",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Tes 4,1-3",
+       "przeklad": "BW",
+       "akapity": [
+        "A poza tym, bracia, prosimy was i napominamy w Panu Jezusie, abyście stosownie do otrzymanego od nas pouczenia, jak macie postępować i podobać się Bogu, jak zresztą postępujecie, abyście tym bardziej obfitowali. Wszak wiecie, jakie przykazania daliśmy wam w imieniu Pana Jezusa. Taka jest bowiem wola Boża: uświęcenie wasze, żebyście się powstrzymywali od wszeteczeństwa,"
+       ]
+      },
+      {
+       "odnosnik": "1Tes 5,16-18",
+       "przeklad": "BW",
+       "akapity": [
+        "Zawsze się radujcie. Bez przystanku się módlcie. Za wszystko dziękujcie; taka jest bowiem wola Boża w Chrystusie Jezusie względem was."
+       ]
+      },
+      {
+       "odnosnik": "Ef 5,15-17",
+       "przeklad": "BW",
+       "akapity": [
+        "Baczcie więc pilnie, jak macie postępować, nie jako niemądrzy, lecz jako mądrzy, wykorzystując czas, gdyż dni są złe. Dlatego nie bądźcie nierozsądni, ale rozumiejcie, jaka jest wola Pańska."
+       ]
+      },
+      {
+       "odnosnik": "1P 2,15",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem taka jest wola Boża, abyście dobrze czyniąc, zamykali usta niewiedzy ludzi głupich,"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Przeczytajcie jeszcze raz każde zdanie, w którym pada „wola Boża”. **O czym te zdania mówią najwięcej, a o czym milczą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Wielu ludzi czuje lekkie rozczarowanie, gdy słyszy, że to jest wola Boża. **Czego się spodziewaliśmy i dlaczego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Jak radość, modlitwa i dziękczynienie mogą zmienić sposób, w jaki wybierasz pracę albo mieszkanie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Biblia mówi o tym, jakim człowiekiem masz być, na setkach stron. O tym, gdzie masz mieszkać, nie mówi nic. Bóg najwięcej mówi tam, gdzie stawka jest najwyższa. Można to ująć prosto. Bóg chce, żebyś wybrał pracę i dom, w których będziesz wzrastał w świętości. Chodzi mniej o to, gdzie jesteś, a bardziej o to, kim się tam stajesz. Posłuszeństwo w sprawach jasnych uczy słyszeć Boga w sprawach niejasnych.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Umysł, który umie rozróżnić",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 12,1-2",
+       "przeklad": "BW",
+       "akapity": [
+        "Wzywam was tedy, bracia, przez miłosierdzie Boże, abyście składali ciała swoje jako ofiarę żywą, świętą, miłą Bogu, bo taka winna być duchowa służba wasza. A nie upodabniajcie się do tego świata, ale się przemieńcie przez odnowienie umysłu swego, abyście umieli rozróżnić, co jest wolą Bożą, co jest dobre, miłe i doskonałe."
+       ]
+      },
+      {
+       "odnosnik": "Rz 12,9-13",
+       "przeklad": "BW",
+       "akapity": [
+        "Miłość niech będzie nieobłudna. Brzydźcie się złem, trzymajcie się dobrego. Miłością braterską jedni drugich miłujcie, wyprzedzajcie się wzajemnie w okazywaniu szacunku, w gorliwości nie ustawając, płomienni duchem, Panu służcie, w nadziei radośni, w ucisku cierpliwi, w modlitwie wytrwali; wspierajcie świętych w potrzebach, okazujcie gościnność."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł zaczyna od oddania siebie, a kończy na rozpoznawaniu woli Bożej. **Dlaczego w tej kolejności?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Abyście umieli rozróżnić”. **Czym różni się umiejętność rozróżniania od otrzymania gotowej odpowiedzi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Zaraz po wezwaniu do rozpoznawania woli Bożej Paweł pisze o miłości, szacunku i gościnności. **Co to mówi o tym, jak rozumiał wolę Bożą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "„Przemieńcie się” stoi w greckim w stronie biernej i w czasie, który opisuje ciągły proces. Człowiek nie przemienia sam siebie. W całym liście sprawcą tej przemiany jest Bóg, a człowiek ma w niej trwać. Rozpoznawanie woli Bożej jest owocem tej przemiany. Paweł nie podaje metody odczytywania planu na przyszłość. Opisuje człowieka, który dzień po dniu uczy się myśleć tak jak Bóg. Taki człowiek przy decyzjach coraz rzadziej potrzebuje znaku z nieba.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Mąż według serca",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Dz 13,22",
+       "przeklad": "BW",
+       "akapity": [
+        "a gdy go odrzucił, powołał im na króla Dawida i wystawił mu świadectwo w słowach: Znalazłem Dawida, syna Jessego, męża według serca mego, który wykona całkowicie wolę moją."
+       ]
+      },
+      {
+       "odnosnik": "Ps 25,4-5",
+       "przeklad": "BW",
+       "akapity": [
+        "Panie, wskaż mi drogi swoje, Ścieżek swoich naucz mnie! Prowadź mnie w prawdzie swojej i nauczaj mnie. Ty bowiem jesteś Bogiem zbawienia mego, Ciebie tęsknie wyglądam codziennie!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Dawid miał w życiu decyzje fatalne, a Bóg mówi, że wykona „całkowicie wolę moją”. **Co to mówi o lęku, że jeden zły wybór wyrzuca człowieka z Bożego planu na zawsze?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalmista prosi o drogi i ścieżki, a zaraz potem o naukę. **Dlaczego modlitwa o prowadzenie zamienia się tu w prośbę o to, żeby się czegoś nauczyć?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "„Rozróżnić” w Rz 12,2 to greckie `dokimadzo`. Słowo oznaczało sprawdzanie przez próbę, tak jak sprawdza się metal albo monetę, zanim się ją przyjmie. Paweł nie obiecuje więc nagłego olśnienia. Opisuje pracę umysłu, który waży możliwości w obecności Boga i wydaje osąd. Przymiotnik oddany jako „doskonałe” znaczy też „pełne, dojrzałe”. Wola Boża nie jest tu zagadką podsuwaną z zewnątrz. Odnowiony umysł uczy się ją rozpoznawać, dzień po dniu, przy Bogu.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co w twoim sposobie podejmowania decyzji przypomina takie sprawdzanie, a co raczej czekanie na olśnienie?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przypomnij sobie decyzję, która przed tobą stoi albo niedawno stała. **Co z tego, co Bóg już oznajmił, dotyczy jej wprost?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Który z dzisiejszych tekstów najbardziej zmienia twój obraz Boga, który prowadzi?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **gdzie czekasz dziś na wskazówkę, choć Bóg już powiedział, czego chce?** Nie musisz mówić szczegółów.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jeśli Bóg zna każdy przyszły dzień i kieruje krokami, a my naprawdę wybieramy, to co właściwie zależy od nas? Czy można wybrać źle, wybierając między dwiema dobrymi drogami?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie rozstrzyga tego pytania. Warto, żeby padło rozróżnienie między wyborem, który łamie to, co Bóg powiedział, a wyborem między dwiema drogami, które obie mieszczą się w Jego woli.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bóg nie chowa przed tobą drogi. Większość jej już oznajmił, a resztę przejdzie razem z tobą.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** Mi 6,8 albo Ps 32,8.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o decyzji, która cię niepokoi. Zapytaj siebie, **czego się właściwie boisz**. Złego wyniku, czy tego, że Bóg będzie na ciebie zły? Zostań przy tej odpowiedzi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przeczytaj w myślach jeszcze raz Mi 6,8. Przyznaj przed Bogiem, **która z tych trzech rzeczy jest dziś u ciebie najsłabsza**. Nie musisz od razu nic z tym robić.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Jeśli od dawna stoisz przed wyborem między dwiema uczciwymi drogami, powiedz Bogu wprost, że boisz się wybrać. Potem zapytaj Go, czy nie czeka, aż zrobisz pierwszy krok.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli Bogu jest wszystko jedno, co wybiorę?”** Nie. Bóg troszczy się o każdy szczegół życia swojego dziecka. Troska nie oznacza jednak, że dyktuje każdą decyzję. Możesz powiedzieć, że Bóg może być zadowolony z dwóch dróg, które obie zgadzają się z tym, co powiedział.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Mnie Bóg prowadził bardzo konkretnie.”** Przyjmij to z szacunkiem i podziękuj za świadectwo. Biblia zna takie historie. Zwróć uwagę, że nawet wtedy prowadzenie nie szło wbrew temu, co Bóg już oznajmił. Nie rób z jednego doświadczenia reguły dla całej grupy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Ja już wybrałem źle i teraz żyję w planie B.”** Nie spieraj się i nie pocieszaj na siłę. Wróć do Dz 13,22 albo do Ps 32, gdzie obietnica prowadzenia pada po przebaczeniu. Bóg prowadzi dalej z miejsca, w którym człowiek stoi. Jeśli rozmowa dotyka rozwodu albo innej bolesnej sprawy, zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa zaczyna doradzać komuś konkretną decyzję.** Zatrzymaj to łagodnie. Grupa może słuchać i zadawać pytania, ale decyzja należy do tej osoby. Zapytaj raczej, co z dzisiejszych tekstów dotyczy jej sprawy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To brzmi jak rób, co chcesz.”** Wróć do Rz 12,1-2. Wolność, o której mówią teksty, ma za sobą oddanie siebie Bogu i przemieniony umysł. Jest to wolność człowieka, który chce tego, czego chce Bóg.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś spoza Kościoła pyta, skąd wierzący w ogóle wiedzą, czego chce Bóg.** To dobre pytanie. Pokaż, że dzisiejsze teksty mówią o sprawiedliwości, miłosierdziu i pokorze. O tajemnych znakach milczą. Zapytaj, co on sam o tym myśli.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 2. Bloki 1, 3 i 4 niosą spotkanie: Bóg, który prowadzi jak nauczyciel, i wola Boża, która od dawna jest jawna.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Czyli Bogu jest wszystko jedno, co wybiorę?”",
+     "odpowiedz": "Nie. Bóg troszczy się o każdy szczegół życia swojego dziecka. Troska nie oznacza jednak, że dyktuje każdą decyzję. Możesz powiedzieć, że Bóg może być zadowolony z dwóch dróg, które obie zgadzają się z tym, co powiedział."
+    },
+    {
+     "sytuacja": "„Mnie Bóg prowadził bardzo konkretnie.”",
+     "odpowiedz": "Przyjmij to z szacunkiem i podziękuj za świadectwo. Biblia zna takie historie. Zwróć uwagę, że nawet wtedy prowadzenie nie szło wbrew temu, co Bóg już oznajmił. Nie rób z jednego doświadczenia reguły dla całej grupy."
+    },
+    {
+     "sytuacja": "„Ja już wybrałem źle i teraz żyję w planie B.”",
+     "odpowiedz": "Nie spieraj się i nie pocieszaj na siłę. Wróć do Dz 13,22 albo do Ps 32, gdzie obietnica prowadzenia pada po przebaczeniu. Bóg prowadzi dalej z miejsca, w którym człowiek stoi. Jeśli rozmowa dotyka rozwodu albo innej bolesnej sprawy, zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "Grupa zaczyna doradzać komuś konkretną decyzję.",
+     "odpowiedz": "Zatrzymaj to łagodnie. Grupa może słuchać i zadawać pytania, ale decyzja należy do tej osoby. Zapytaj raczej, co z dzisiejszych tekstów dotyczy jej sprawy."
+    },
+    {
+     "sytuacja": "„To brzmi jak rób, co chcesz.”",
+     "odpowiedz": "Wróć do Rz 12,1-2. Wolność, o której mówią teksty, ma za sobą oddanie siebie Bogu i przemieniony umysł. Jest to wolność człowieka, który chce tego, czego chce Bóg."
+    },
+    {
+     "sytuacja": "Ktoś spoza Kościoła pyta, skąd wierzący w ogóle wiedzą, czego chce Bóg.",
+     "odpowiedz": "To dobre pytanie. Pokaż, że dzisiejsze teksty mówią o sprawiedliwości, miłosierdziu i pokorze. O tajemnych znakach milczą. Zapytaj, co on sam o tym myśli."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 2. Bloki 1, 3 i 4 niosą spotkanie: Bóg, który prowadzi jak nauczyciel, i wola Boża, która od dawna jest jawna."
+    }
+   ]
+  }
+ ]
+}

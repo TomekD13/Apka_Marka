@@ -1,0 +1,729 @@
+{
+ "tytul": "Nieużyteczny, który stał się pożyteczny",
+ "id": "L-10",
+ "seria": "Ludzie drugiej szansy",
+ "opis": "Zbiegły niewolnik wraca do swojego pana jako brat, a ktoś inny bierze na siebie jego dług.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Flm 1-7; Flm 8-12; Flm 13-16; Flm 17-25; Kol 3,11; Kol 4,7-9; Ga 3,26-28",
+  "p2": "1Kor 7,21-23; Kol 2,13-14; Kol 3,22-24; Kol 4,1",
+  "p3": "Rz 5,13"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 24,
+  "p3": 28
+ },
+ "tagi": [
+  "druga szansa",
+  "przebaczenie",
+  "poręczenie",
+  "wspólnota",
+  "niewolnictwo",
+  "List do Filemona"
+ ],
+ "wersja": 1,
+ "zdanie": "Druga szansa często ma podpis kogoś trzeciego. Ktoś mówi: przyjmij go jak mnie, a jeśli jest coś winien, mnie to przypisz.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "List do Filemona to najkrótszy list Pawła, mieści się na jednej stronie. Onezym był niewolnikiem Filemona, chrześcijanina z Kolosów w dzisiejszej Turcji. Odszedł od pana i być może zostawił po sobie jakąś szkodę. Przy uwięzionym Pawle uwierzył. Teraz Paweł odsyła go do domu z listem w ręku.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W tej historii są trzy osoby. Onezym musi wrócić do człowieka, którego zawiódł. Filemon ma przyjąć kogoś, kto mógł go skrzywdzić. Paweł staje między nimi i bierze dług na siebie. Spotkanie pokazuje, że druga szansa często potrzebuje kogoś, kto za nią poręczy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś na pewno zapyta, dlaczego Paweł nie potępił niewolnictwa wprost. To uczciwe pytanie. Nie broń Pawła na siłę i nie zbywaj pytania. Pomoże blok Kontekst na poziomie 2 i czerwona flaga.",
+      "Nie porównuj niewolnictwa rzymskiego z pracą u szefa ani z jakąkolwiek dzisiejszą zależnością. To byłoby nieuczciwe wobec ludzi, którzy byli czyjąś własnością.",
+      "Przy stole może siedzieć ktoś z długiem, po wyroku albo z bliskim w więzieniu. Nie wyciągaj takich historii i nie stawiaj nikogo w roli Onezyma.",
+      "Ktoś może być w roli Filemona, czyli skrzywdzony. Przyjąć kogoś jako brata nie znaczy udawać, że szkody nie było."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie zgaduj, co zrobił Onezym. List tego nie mówi. Nie dopowiadaj też, jak Filemon odpowiedział.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pomyśl o chwili, kiedy musiałeś wrócić do kogoś, kogo zawiodłeś. Nie opowiadaj szczegółów. Powiedz jednym słowem, co czułeś przed drzwiami.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Zbór w domu Filemona",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paweł siedzi w więzieniu i pisze krótki list do Filemona, w którego domu zbiera się miejscowy zbór.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Flm 1-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Paweł, więzień Chrystusa Jezusa, i Tymoteusz, brat, do umiłowanego Filemona, współpracownika naszego, i do Appii, siostry, i do Archippa, współbojownika naszego, i do zboru, który jest w twoim domu: Łaska wam i pokój od Boga, Ojca naszego, i od Pana Jezusa Chrystusa.",
+        "Dziękuję Bogu mojemu zawsze, ilekroć wspominam ciebie w modlitwach moich, słysząc o miłości twojej i o wierze, jaką pokładasz w Panu Jezusie, i masz do wszystkich świętych, aby wiara twoja, którą wyznajesz wespół z nami, pogłębiła poznanie wszelkich dobrodziejstw, jakie mamy w Chrystusie. Miałem bowiem wielką radość i pociechę z miłości twojej, ponieważ serca świętych przez ciebie, bracie, zostały pokrzepione."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List jest do Filemona, ale też do Appii, Archippa i całego zboru. **Dlaczego sprawa jednego niewolnika ma być odczytana przy wszystkich?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł chwali Filemona za to, że pokrzepia serca innych. **Jak ta pochwała przygotowuje grunt pod prośbę, która jeszcze nie padła?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Zbór spotyka się w domu, w którym są niewolnicy. **Kto mógł siedzieć na tym spotkaniu, a kto podawał do stołu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Pierwsi chrześcijanie nie mieli budynków kościelnych. Spotykali się w zwykłych domach, zwykle po kilkanaście, kilkadziesiąt osób. List do Filemona wygląda na prywatny, ale miał być przeczytany na głos przed całym zborem. Najpewniej słuchał go też Onezym. Filemon nie odpowiadał więc tylko przed Pawłem. Odpowiadał przed ludźmi, z którymi łamał chleb.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Proszę cię za synem moim",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Flm 8-12",
+       "przeklad": "BW",
+       "akapity": [
+        "Dlatego, chociaż mógłbym śmiało w Chrystusie nakazać ci, co należy, jednak dla miłości raczej proszę, ja, Paweł, który jestem rzecznikiem, a teraz i więźniem Jezusa Chrystusa, proszę cię za synem moim, Onezymem, którego urodziłem w więzieniu, który niegdyś nie był dla ciebie użyteczny, ale teraz jest dla ciebie i dla mnie bardzo użyteczny. Tego ci odsyłam, a on jest sercem moim."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł mógłby nakazać, a prosi. **Co ta różnica zmienia dla Filemona i dla Onezyma?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł nazywa Onezyma „synem moim” i „sercem moim”, zanim padnie słowo o jego dawnej roli. **Jak te słowa ustawiają Onezyma w oczach Filemona?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Niegdyś nie był użyteczny, ale teraz”. **Co się zmieniło w Onezymie i kto to zmienił?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Imię Onezym znaczy po grecku „pożyteczny”. Często nadawano je niewolnikom. Paweł gra tym imieniem. Człowiek, który nazywał się Pożyteczny, był dla pana bezużyteczny, a teraz znów jest pożyteczny. W greckim zdaniu Paweł czeka z imieniem Onezyma do samego końca. Najpierw mówi o synu, którego zrodził w więzieniu, a dopiero potem pada imię.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W miastach rzymskich niewolnicy byli częścią prawie każdego zamożniejszego domu. Stawali się nimi jeńcy wojenni, dzieci niewolnic, a czasem ludzie, którzy popadli w długi. Niewolnictwo nie miało związku z kolorem skóry. Niewolnik był własnością pana, a zbiegowi groziła surowa kara. Wolność można było odzyskać, ale wyzwoleniec do końca życia pozostawał związany z dawnym panem, który stawał się jego opiekunem. Biblia nie nazywa niewolnictwa Bożym zamiarem. Mówi do ludzi w świecie, który zastała, i od środka zmienia w nim relacje.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1Kor 7,21-23",
+       "przeklad": "BW",
+       "akapity": [
+        "Zostałeś powołany, będąc niewolnikiem? Nie trap się tym; ale jeśli możesz stać się wolnym, raczej korzystaj z tego. Kto bowiem jako niewolnik został powołany w Panu, ten jest wyzwoleńcem Pana; podobnie – kto jako wolny został powołany, jest niewolnikiem Chrystusa. Drogoście kupieni; nie stawajcie się niewolnikami ludzi."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł nazywa niewolnika wyzwoleńcem Pana, a wolnego niewolnikiem Chrystusa. **Co to odwrócenie robi z porządkiem, w którym żyli Filemon i Onezym?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co znaczy w tym świecie zdanie „drogoście kupieni”?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Abyś go odzyskał na wieki",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Flm 13-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Chciałem go przy sobie zatrzymać, aby mi w twoim zastępstwie posługiwał w więzieniu, które znoszę dla ewangelii, ale bez twego przyzwolenia nie chciałem nic uczynić, aby twój dobry uczynek nie był jakby wymuszony, lecz był z dobrej woli. Bo, być może, że dlatego utraciłeś go na krótki czas, abyś go odzyskał na wieki, i to już nie jako sługę, ale więcej niż sługę, bo jako brata umiłowanego, zwłaszcza dla mnie, a tym bardziej dla ciebie, tak według ciała, jak i w Panu."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł pisze ostrożnie: „być może”. **Jak to słowo pozwala Filemonowi spojrzeć inaczej na stratę, którą poniósł?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Już nie jako sługę, ale więcej niż sługę, bo jako brata”. **Co musi się zmienić w Filemonie, żeby mógł tak przyjąć własnego niewolnika?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paweł chce, żeby dobro było „z dobrej woli”. **Dlaczego wymuszona druga szansa byłaby czymś innym?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "List nie zawiera zdania, że niewolnictwo jest złem. Zawiera prośbę, po której spełnieniu niewolnictwo w tym jednym domu traci sens. Filemon ma przyjąć Onezyma jako brata „według ciała” i „w Panu”. Na nabożeństwie i w kuchni, w szabat i we wtorek. Trudno być czyimś panem przy stole, przy którym jest się jego bratem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Mnie to przypisz",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Flm 17-25",
+       "przeklad": "BW",
+       "akapity": [
+        "Jeżeli więc masz mnie za przyjaciela, przyjmij go jak mnie. A jeżeli ci jakąś szkodę wyrządził albo jest ci coś winien, mnie to przypisz. Ja, Paweł, piszę własnoręcznie, ja zapłacę; nie mówię już o tym, żeś mi siebie samego winien. Tak, bracie, życz mi, abym się tobą uradował w Panu; pokrzep me serce w Chrystusie. Pewny twego posłuszeństwa, piszę ci to, bo wiem, że uczynisz nawet więcej, niż proszę.",
+        "A zarazem przygotuj mi gościnę; bo mam nadzieję, że dzięki modlitwom waszym otrzymacie mnie w darze. Pozdrawia cię Epafras, współwięzień mój w Chrystusie Jezusie, Marek, Arystarch, Demas, Łukasz, współpracownicy moi. Łaska Pana naszego Jezusa Chrystusa, niech będzie z duchem waszym. Amen."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paweł nie udaje, że szkody nie było. **Co robi z nią zamiast tego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Onezym stoi obok, gdy zbór czyta: „ja zapłacę”. **Co mógł poczuć człowiek, który wrócił z długiem, słysząc to zdanie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Przyjmij go jak mnie”. **Gdzie w tym zdaniu słychać to, co Jezus robi dla nas przed Bogiem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Wersety 18 i 19 brzmią jak weksel. Paweł używa słów z języka rachunków i zobowiązań, a pod spodem składa własnoręczny podpis. To nie jest figura stylistyczna. To dokument, który Filemon mógł zachować. Na liście pozdrowień stoi Marek, którego Paweł kiedyś nie chciał zabrać w podróż. W liście o przyjęciu kogoś z powrotem pozdrawia więc człowiek, który sam tego doświadczył.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "List dłużny przybity do krzyża",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Ten sam Paweł w tym samym czasie pisze do całego zboru w Kolosach.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kol 2,13-14",
+       "przeklad": "BW",
+       "akapity": [
+        "I was, którzy umarliście w grzechach i w nieobrzezanym ciele waszym, wespół z nim ożywił, odpuściwszy nam wszystkie grzechy; wymazał obciążający nas list dłużny, który się zwracał przeciwko nam ze swoimi wymaganiami, i usunął go, przybiwszy go do krzyża;"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Filemon dostaje od Pawła podpisany dług. Zbór w Kolosach słyszy o długu przybitym do krzyża. **Co łączy te dwa obrazy?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kto w obu historiach ponosi koszt przebaczenia?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Czasownik przetłumaczony w wersecie 18 jako „przypisz” pochodzi z rachunkowości. Oznaczał wpisanie należności na czyjeś konto. Paweł używa go jeszcze raz, w Liście do Rzymian, gdzie BW oddaje go słowem „liczy”.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rz 5,13",
+       "przeklad": "BW",
+       "akapity": [
+        "albowiem już przed zakonem grzech był na świecie, ale grzechu się nie liczy, gdy zakonu nie ma;"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "W Liście do Filemona Paweł prosi, żeby cudzy dług zapisać na jego rachunek. Ewangelia mówi o tym samym ruchu w większej skali. Nasz dług trafia na rachunek Chrystusa.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co się dzieje z człowiekiem, który wie, że jego dług został zapisany na kogoś innego?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paweł płaci za Onezyma, ale nie może za Filemona przebaczyć. **Czego poręczyciel nie jest w stanie zrobić za nikogo?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Wierny i umiłowany brat",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Razem z listem do Filemona Paweł wysyła list do całego zboru w Kolosach. Niosą go dwaj ludzie.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kol 3,11",
+       "przeklad": "BW",
+       "akapity": [
+        "W odnowieniu tym nie ma Greka ani Żyda, obrzezania ani nieobrzezania, cudzoziemca, Scyty, niewolnika, wolnego, lecz Chrystus jest wszystkim i we wszystkich."
+       ]
+      },
+      {
+       "odnosnik": "Kol 4,7-9",
+       "przeklad": "BW",
+       "akapity": [
+        "Wszystko, co mnie dotyczy, opowie wam Tychikus, brat umiłowany i wierny sługa, i współsługa w Panu, którego posłałem do was po to, abyście się dowiedzieli, co się z nami dzieje, i aby pocieszył wasze serca; posłałem go z Onezymem, wiernym i umiłowanym bratem, który pochodzi spośród was; oni was powiadomią o wszystkim, co się tutaj dzieje."
+       ]
+      },
+      {
+       "odnosnik": "Ga 3,26-28",
+       "przeklad": "BW",
+       "akapity": [
+        "Albowiem wszyscy jesteście synami Bożymi przez wiarę w Jezusa Chrystusa. Bo wszyscy, którzy zostaliście w Chrystusie ochrzczeni, przyoblekliście się w Chrystusa. Nie masz Żyda ani Greka, nie masz niewolnika ani wolnego, nie masz mężczyzny ani kobiety; albowiem wy wszyscy jedno jesteście w Jezusie Chrystusie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "W liście do zboru Onezym nie jest „zbiegiem” ani „niewolnikiem”. **Jak Paweł go przedstawia i co to znaczy dla kogoś, kto wraca do miasta, gdzie wszyscy znają jego przeszłość?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Onezym ma razem z Tychikiem opowiadać zborowi o Pawle. **Co znaczy, że człowiek z długiem wraca jako ten, któremu się ufa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "„Nie ma niewolnika ani wolnego”. **Gdzie dziś, także w zborze, niewidzialne podziały są wciąż silne?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Słudzy i panowie",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Kol 3,22-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Słudzy, bądźcie posłuszni we wszystkim ziemskim panom, służąc nie tylko pozornie, aby się przypodobać ludziom, lecz w szczerości serca, jako ci, którzy się boją Pana. Cokolwiek czynicie, z duszy czyńcie jako dla Pana, a nie dla ludzi, wiedząc, że od Pana otrzymacie jako zapłatę dziedzictwo, gdyż Chrystusowi Panu służycie."
+       ]
+      },
+      {
+       "odnosnik": "Kol 4,1",
+       "przeklad": "BW",
+       "akapity": [
+        "Panowie, obchodźcie się ze sługami waszymi sprawiedliwie i rzetelnie, wiedząc, że i wy macie Pana w niebie."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W tym samym liście Paweł mówi do niewolników i do panów. Słuchali go razem, w jednym pokoju. **Co oba zdania mówią o tym, kto naprawdę jest panem w tym domu?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak mógł słuchać tych słów Filemon, wiedząc, co Paweł napisał do niego osobno?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: dlaczego Paweł nie zażądał wolności",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "List prosi o przyjęcie Onezyma jako brata. O wyzwolenie wprost nie prosi. W Kościele czyta się to na dwa sposoby. Jedni słyszą w zdaniu „uczynisz nawet więcej, niż proszę” delikatną prośbę o wolność. Paweł zostawia decyzję Filemonowi, bo dobro ma być z dobrej woli. Inni zauważają, że tekst mówi tylko o przyjęciu, a o wolności milczy. Paweł zmienia relację od środka, nie zmieniając prawa. Oba odczytania łączy jedno. Brat przy jednym stole przestaje pasować do roli rzeczy. Kościół potrzebował później wieków, żeby wyciągnąć z tego pełne wnioski.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co mówi o nas to, że prawda zapisana w tak krótkim liście tak długo czekała na wyciągnięcie wniosków?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Onezym wracał z listem kogoś, kto za niego ręczył. **Kto kiedyś stanął między tobą a kimś, kogo zawiodłeś?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W tej historii są trzy role: ten, kto wraca, ten, kto ma przyjąć, i ten, kto poręcza. **Która z nich jest ci dziś najbliższa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **czy jest ktoś, za kogo mógłbyś powiedzieć „mnie to przypisz”?** Nie musisz mówić kto.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Paweł poręczył, ale decyzja należała do Filemona. Co robić, gdy ktoś wraca, poręczenie jest, a ten, kto ma przyjąć, wciąż nie potrafi? Czy druga szansa jest wtedy przegrana?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie rozstrzyga. Nie wiemy, jak Filemon odpowiedział. To, że list przetrwał, każe wielu przypuszczać, że przyjął Onezyma. Warto, żeby padło spostrzeżenie, że przyjęcie u Boga nie zależy od tego, czy przyjmą nas ludzie.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Druga szansa często ma podpis kogoś trzeciego. Ktoś mówi: przyjmij go jak mnie, a jeśli jest coś winien, mnie to przypisz.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** Flm 17-18.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o kimś, kogo w myślach wciąż nazywasz po jego dawnej winie. Zapytaj siebie, **jakim imieniem nazywa go Bóg**. Zostań przy tym pytaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przyznaj przed Bogiem dług, który nosisz i którego nie umiesz spłacić. Przeczytaj w ciszy zdanie „mnie to przypisz” **tak, jakby Jezus mówił je o tobie**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Jeśli jest ktoś, do kogo powinieneś wrócić jak Onezym, zapytaj Boga, kto mógłby pójść z tobą jak Tychikus. Nie odkładaj tej myśli tylko dlatego, że jest trudna.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli Biblia popiera niewolnictwo?”** Nie zbywaj tego pytania i nie broń Pawła na siłę. Powiedz, że Biblia nigdzie nie nazywa niewolnictwa Bożym zamiarem. Mówi do ludzi w świecie, który zastała. Paweł prosi Filemona, żeby przyjął niewolnika jako brata, a takiej prośby nie da się spełnić i dalej traktować człowieka jak rzeczy. Kościół potrzebował czasu, żeby wyciągnąć z tego wszystkie wnioski.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś porównuje list do dzisiejszej pracy albo do szefa.** Zatrzymaj to łagodnie. Onezym był czyjąś własnością. Żadna dzisiejsza umowa o pracę nie jest tym samym, a takie porównanie spłaszcza los ludzi, którzy naprawdę byli niewolnikami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi, że ma dług, odsiedział wyrok albo ma kogoś bliskiego w więzieniu.** Podziękuj za zaufanie i nie dopytuj o szczegóły. Wystarczy powiedzieć, że Onezym uwierzył właśnie przy uwięzionym Pawle. Jeśli trzeba, zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Mam przyjąć z powrotem kogoś, kto mnie skrzywdził?”** Nie naciskaj. Paweł nie udaje, że szkody nie było, nazywa ją i bierze na siebie. Przebaczenie nie oznacza zgody na dalszą krzywdę ani powrotu do niebezpiecznej relacji. Jeśli w grę wchodzi przemoc, nie zostawaj z tym sam i pomóż tej osobie dotrzeć do pomocy specjalistycznej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa zaczyna zgadywać, co ukradł Onezym.** Wróć do tekstu. Paweł pisze warunkowo: „jeżeli ci jakąś szkodę wyrządził”. Nie wiemy, co się stało, i nie musimy wiedzieć. Ważne jest to, co Paweł z tą szkodą robi.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Grupa milczy po pytaniach z zastosowania.** To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, przeczytaj jeszcze raz Flm 17-18 i przejdź dalej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 1. Bloki 2, 3, 4 i 5 niosą spotkanie: prośbę za synem, brata zamiast sługi, dług przypisany Pawłowi i powrót Onezyma do zboru jako wiernego brata.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Czyli Biblia popiera niewolnictwo?”",
+     "odpowiedz": "Nie zbywaj tego pytania i nie broń Pawła na siłę. Powiedz, że Biblia nigdzie nie nazywa niewolnictwa Bożym zamiarem. Mówi do ludzi w świecie, który zastała. Paweł prosi Filemona, żeby przyjął niewolnika jako brata, a takiej prośby nie da się spełnić i dalej traktować człowieka jak rzeczy. Kościół potrzebował czasu, żeby wyciągnąć z tego wszystkie wnioski."
+    },
+    {
+     "sytuacja": "Ktoś porównuje list do dzisiejszej pracy albo do szefa.",
+     "odpowiedz": "Zatrzymaj to łagodnie. Onezym był czyjąś własnością. Żadna dzisiejsza umowa o pracę nie jest tym samym, a takie porównanie spłaszcza los ludzi, którzy naprawdę byli niewolnikami."
+    },
+    {
+     "sytuacja": "Ktoś mówi, że ma dług, odsiedział wyrok albo ma kogoś bliskiego w więzieniu.",
+     "odpowiedz": "Podziękuj za zaufanie i nie dopytuj o szczegóły. Wystarczy powiedzieć, że Onezym uwierzył właśnie przy uwięzionym Pawle. Jeśli trzeba, zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "„Mam przyjąć z powrotem kogoś, kto mnie skrzywdził?”",
+     "odpowiedz": "Nie naciskaj. Paweł nie udaje, że szkody nie było, nazywa ją i bierze na siebie. Przebaczenie nie oznacza zgody na dalszą krzywdę ani powrotu do niebezpiecznej relacji. Jeśli w grę wchodzi przemoc, nie zostawaj z tym sam i pomóż tej osobie dotrzeć do pomocy specjalistycznej."
+    },
+    {
+     "sytuacja": "Grupa zaczyna zgadywać, co ukradł Onezym.",
+     "odpowiedz": "Wróć do tekstu. Paweł pisze warunkowo: „jeżeli ci jakąś szkodę wyrządził”. Nie wiemy, co się stało, i nie musimy wiedzieć. Ważne jest to, co Paweł z tą szkodą robi."
+    },
+    {
+     "sytuacja": "Grupa milczy po pytaniach z zastosowania.",
+     "odpowiedz": "To dobrze. Policz w myślach do dziesięciu. Jeśli cisza się przeciąga, przeczytaj jeszcze raz Flm 17-18 i przejdź dalej."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 1. Bloki 2, 3, 4 i 5 niosą spotkanie: prośbę za synem, brata zamiast sługi, dług przypisany Pawłowi i powrót Onezyma do zboru jako wiernego brata."
+    }
+   ]
+  }
+ ]
+}

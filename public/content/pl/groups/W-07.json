@@ -1,0 +1,854 @@
+{
+ "tytul": "Serce przy stole decyzyjnym",
+ "id": "W-07",
+ "seria": "Decyzje i wola Boża",
+ "opis": "Co pragnienia, emocje i pośpiech robią z naszymi wyborami i dlaczego Biblia każe przy tym pytać Boga.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Joz 9,3-16; Prz 14,12.15; 21,2; Jr 17,9-10; Ps 139,23-24; Ps 37,3-7; Łk 14,28-33",
+  "p2": "Joz 9,18-21.27; Rdz 25,29-34; Jr 41,17-18; 42,1-6.19-21; Jk 1,14-15; Prz 24,27; 21,5",
+  "p3": "Rdz 3,1; Ps 37,4"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 28,
+  "p3": 32
+ },
+ "tagi": [
+  "decyzje",
+  "wola Boża",
+  "serce",
+  "emocje",
+  "pragnienia",
+  "pułapki myślenia",
+  "mądrość",
+  "rozeznawanie"
+ ],
+ "wersja": 1,
+ "zdanie": "Serce ma głos przy każdej decyzji. Mądrość polega na tym, żeby nie był to głos jedyny i żeby zapytać Tego, który zna serce lepiej niż my.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o tym, kto naprawdę siedzi przy stole, gdy podejmujemy decyzję. Oprócz rozumu siedzą tam pragnienia, lęki, zmęczenie i to, co już dawno postanowiliśmy po cichu. Biblia nie każe ich wyprosić za drzwi. Bez pragnień i uczuć człowiek nie umiałby wybrać niczego. Uczy za to, żeby żaden z tych głosów nie mówił sam. Przywódcy Izraela w Gilgal nie byli głupi ani źli. Byli pewni swego i nie zapytali Boga.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokrewny materiał to „Kochaj Boga i rób, co chcesz”. Tamten mówi o wolności wyboru, ten o tym, co w nas samych potrafi ten wybór przekrzywić.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Przy stole siedzą ludzie przed prawdziwymi decyzjami: praca, przeprowadzka, ślub, rozstanie. Ktoś może liczyć, że grupa rozstrzygnie jego sprawę. Grupa pyta i słucha, nie decyduje za nikogo.",
+      "Teksty o podstępnym sercu łatwo zamienić w podejrzliwość wobec wszystkiego, co czuję. To prowadzi do paraliżu, nie do mądrości.",
+      "Ktoś może nosić decyzję, która okazała się błędem, i usłyszeć w tych tekstach oskarżenie. Historia Gibeonitów kończy się inaczej, niż się zaczyna. Warto to pokazać.",
+      "Rozmowa łatwo zejdzie w porady z poradników o decyzjach. Wracaj do tekstu."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić:** nie podawaj grupie metody w punktach na znalezienie woli Bożej. Nie oceniaj cudzych decyzji ani nie pytaj, co ktoś „powinien” wybrać. Nie naciskaj na deklaracje.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie decyzję, którą podjąłeś szybko i bez wahania, bo wszystko wydawało się oczywiste. Powiedz jednym zdaniem, jak to się skończyło.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Spleśniały chleb",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Izrael wszedł do Kanaanu i zdobył Jerycho oraz Aj. Mieszkańcy pobliskiego Gibeonu szukają sposobu, żeby ocaleć.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Joz 9,3-16",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz mieszkańcy Gibeonu, usłyszawszy o tym, jak Jozue postąpił z Jerychem i z Aj, postanowili także użyć podstępu. Wybrali się w drogę, zaopatrzeni w żywność, wzięli z sobą stare worki na swoje osły i stare, popękane i połatane łagwie na wino, włożyli na swoje nogi zdarte i połatane sandały, a na siebie zniszczone szaty; wszystek zaś ich chleb na drogę był suchy i pokruszony.",
+        "I przyszli do Jozuego do obozu w Gilgal i rzekli do niego i do mężów izraelskich: Przybyliśmy z dalekiego kraju, zawrzyjcie więc z nami przymierze. A mężowie izraelscy odpowiedzieli Chiwwijczykom: Może mieszkacie wpośród nas, jakże więc mamy zawrzeć z wami przymierze? Oni zaś rzekli do Jozuego: Sługami twoimi jesteśmy. A Jozue rzekł do nich: Kim jesteście i skąd przybywacie?",
+        "Oni odpowiedzieli mu: Z bardzo dalekiej ziemi przybyli słudzy twoi dla imienia Pana, Boga twego; słyszeliśmy bowiem wieść o nim i o wszystkim, co uczynił w Egipcie; i o wszystkim, co uczynił obu królom amorejskim z tamtej strony Jordanu, Sychonowi, królowi Cheszbonu, i Ogowi, królowi Baszanu, który mieszkał w Asztarot. Rzekli więc do nas nasi starsi i wszyscy mieszkańcy naszej ziemi: Weźcie z sobą żywność na drogę i wyjdźcie na ich spotkanie, i powiedzcie im: Jesteśmy waszymi sługami, zawrzyjcie więc z nami przymierze. Ten chleb nasz był jeszcze ciepły, gdy zaopatrywaliśmy się weń w domach naszych na drogę, wyruszając do was, teraz zaś jest już suchy i pokruszony. Te łagwie na wino, które były nowe, kiedy je napełnialiśmy, są oto popękane; te szaty nasze i sandały są zdarte z powodu bardzo dalekiej drogi.",
+        "Wtedy mężowie izraelscy przyjęli nieco z ich żywności na drogę, ale wyroczni Pana nie pytali. Jozue zawarł z nimi pokój i przymierze, że zachowa ich przy życiu, a przełożeni zboru im to zaprzysięgli. Ale w trzy dni po zawarciu z nimi przymierza dowiedzieli się, że są z bliska i że mieszkają wśród nich."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Gibeonici zbudowali całą opowieść z rzeczy, które można zobaczyć i wziąć do ręki. **Dlaczego dowód, który się ogląda, przekonuje szybciej niż słowa?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 14 mówi, że przyjęli nieco z ich żywności, „ale wyroczni Pana nie pytali”. **Co mogło sprawić, że nikt o tym nie pomyślał, skoro wszystko wyglądało tak jasno?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "W wersecie 7 ktoś jednak zgłasza wątpliwość: „Może mieszkacie wpośród nas”. **Co stało się z tą wątpliwością w dalszej rozmowie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Prawo z Pwt 20 pozwalało zawierać pokój tylko z miastami dalekimi. Ludów Kanaanu to nie obejmowało. Dlatego cała inscenizacja ma udowodnić odległość. Delegaci wspominają Egipt i królów zza Jordanu, a milczą o Jerychu i Aj. Wieść o tak świeżych wydarzeniach nie zdążyłaby przecież dotrzeć do dalekiego kraju. Hebrajski mówi w wersecie 14 dosłownie, że nie pytali „ust Pana”. Sprawdzili chleb. Tego, który wiedział, nie zapytali.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 2,
+   "tytul": "Słowo, które wiąże",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Joz 9,18-21",
+       "przeklad": "BW",
+       "akapity": [
+        "Synowie izraelscy nie pozabijali ich, ponieważ przełożeni zboru zaprzysięgli im to na Pana, Boga Izraela. Cały zbór jednak szemrał przeciwko przełożonym. Wtedy rzekli wszyscy przełożeni do całego zboru: Zaprzysięgliśmy im to na Pana, Boga Izraela, i teraz nie możemy ich tknąć. Lecz to im uczynimy, skoro pozostawimy ich przy życiu, aby nie spadł na nas gniew z powodu złożonej im przysięgi. Powiedzieli im więc przełożeni: Pozostaną przy życiu, lecz będą rąbali drzewo i nosili wodę dla całego zboru, jak powiedzieli im przełożeni."
+       ]
+      },
+      {
+       "odnosnik": "Joz 9,27",
+       "przeklad": "BW",
+       "akapity": [
+        "Ale Jozue przeznaczył ich w tym dniu do rąbania drzewa i noszenia wody dla zboru i dla ołtarza Pana aż do dnia dzisiejszego w miejscu, które miał wybrać."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przywódcy mogli uznać, że umowa wyłudzona podstępem ich nie wiąże. **Dlaczego dotrzymali słowa i co to mówi o decyzjach, których nie da się już cofnąć?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Gibeonici trafiają do pracy przy ołtarzu Pana. **Co w tym zakończeniu pokazuje, że pochopna decyzja ludzi nie zamknęła drogi Bogu?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ta przysięga ważyła długo. Druga Księga Samuela opowiada, że kilka pokoleń później Izrael płacił za to, że król Saul ją złamał. A Gibeon, miasto ukarane służbą przy ołtarzu, za czasów Dawida i Salomona miał u siebie przybytek i najważniejsze wzgórze ofiarne. Z błędu przywódców i z podstępu Gibeonitów Bóg zrobił miejsce spotkania.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W wersecie 4 Gibeonici działają „podstępem”, po hebrajsku `‘ormah`. Ten sam rdzeń ma przymiotnik `‘arum`. W Rdz 3,1 wąż był „chytrzejszy niż wszystkie dzikie zwierzęta”. Czytelnik znający hebrajski od razu słyszy znajomą scenę. Ktoś podchodzi z przekonującą opowieścią, ktoś daje się przekonać i nikt nie zadaje pytania Bogu. Zawarte przymierze nazwane jest zaś tym samym słowem `berit`, którym Biblia opisuje przymierze Boga z Izraelem.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co zmienia w czytaniu tej historii echo ogrodu Eden?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Droga, która wydaje się prosta",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 14,12",
+       "przeklad": "BW",
+       "akapity": [
+        "Niejedna droga zda się człowiekowi prosta, lecz w końcu prowadzi do śmierci."
+       ]
+      },
+      {
+       "odnosnik": "Prz 14,15",
+       "przeklad": "BW",
+       "akapity": [
+        "Prostak wierzy każdemu słowu, lecz roztropny zważa na swoje kroki."
+       ]
+      },
+      {
+       "odnosnik": "Prz 21,2",
+       "przeklad": "BW",
+       "akapity": [
+        "Każda droga człowieka wydaje mu się prawa, lecz tym, który bada serca, jest Pan."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Prz 14,12 nie mówi o kimś, kto świadomie wybiera zło. Mówi o drodze, która „zda się prosta”. **Co sprawia, że zła droga potrafi wyglądać prosto?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Prostak wierzy każdemu słowu”. **Co się dzieje, gdy tym słowem, któremu wierzymy bez sprawdzania, jest nasz własny głos w głowie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Każdemu jego droga „wydaje mu się prawa”. **Co zmienia się w ocenie własnej decyzji, gdy pamiętamy, że ktoś inny bada serce?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Badacze pokazywali doświadczonym ekspertom od odcisków palców pary odcisków, które ci sami eksperci ocenili już wcześniej. Tym razem dodawali szczegół ze sprawy, na przykład że podejrzany się przyznał. W jednym z badań czterech ekspertów na pięciu zmieniło swoją dawną ocenę. Gdy wiemy, co chcemy zobaczyć, oko to znajduje. Przysłowia opisały tę pułapkę długo przed laboratoriami.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Obiad za pierworództwo",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Ezaw jest starszym z bliźniąt i to jemu należy się prawo pierworodnego, czyli większa część dziedzictwa i pierwsze miejsce w rodzie.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 25,29-34",
+       "przeklad": "BW",
+       "akapity": [
+        "Pewnego razu przyrządził Jakub potrawę, a Ezaw przyszedł zmęczony z pola. Rzekł wtedy Ezaw do Jakuba: Daj mi, proszę, skosztować nieco tej oto czerwonej potrawy, bo jestem zmęczony. Dlatego nazwano go Edom. Na to rzekł Jakub: Sprzedaj mi najpierw pierworodztwo twoje. A Ezaw rzekł: Oto jestem bliski śmierci, na cóż mi więc pierworodztwo? Jakub rzekł: Przysięgnij mi wpierw. I przysiągł mu, i sprzedał pierworodztwo swoje Jakubowi. Wtedy Jakub podał Ezawowi chleb i ugotowaną soczewicę, a on jadł i pił. Potem wstał i odszedł. Tak wzgardził Ezaw pierworodztwem."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ezaw mówi: „jestem bliski śmierci”. **Co głód i zmęczenie zrobiły z jego oceną tego, co naprawdę ważne?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Narrator podsumowuje zwykły obiad słowem „wzgardził”. **Co ten wyrok mówi o małych decyzjach podejmowanych w złym stanie?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jest prosta i sprawdzona rada, żeby nie domykać wielkich wyborów, gdy jest się głodnym, rozgniewanym, samotnym albo bardzo zmęczonym. Każdy z tych stanów mówi głośno i przekonująco, a jego kolor bierzemy za cechę samej sprawy. Ezaw jest tego obrazem. Głód był prawdziwy, a jego ocena sytuacji była fałszywa. Decyzja, która po nocy snu i posiłku wygląda tak samo, nabiera wagi.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Serce, które samo siebie nie zna",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jr 17,9-10",
+       "przeklad": "BW",
+       "akapity": [
+        "Podstępne jest serce, bardziej niż wszystko inne, i zepsute, któż może je poznać? Ja, Pan, zgłębiam serce, wystawiam na próbę nerki, aby oddać każdemu według jego postępowania, według owocu jego uczynków."
+       ]
+      },
+      {
+       "odnosnik": "Ps 139,23-24",
+       "przeklad": "BW",
+       "akapity": [
+        "Badaj mnie, Boże, i poznaj serce moje, Doświadcz mnie i poznaj myśli moje! I zobacz, czy nie kroczę drogą zagłady, A prowadź mnie drogą odwieczną!"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jeremiasz pyta „któż może je poznać?” i od razu słyszy odpowiedź. **Co zmienia to, że ta odpowiedź nie brzmi „ty sam”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Psalmista nie próbuje sam przejrzeć swojego serca. Prosi, żeby zrobił to Bóg. **Jak mogłaby wyglądać taka modlitwa przed konkretną decyzją?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Kiedy podejrzliwość wobec własnego serca przestaje pomagać, a zaczyna paraliżować?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Zdanie o podstępnym sercu bywa cytowane bez drugiej połowy i wtedy brzmi jak pogarda dla człowieka. Jeremiasz stawia jednak diagnozę. Wyrok zamykałby rozmowę, a tu rozmowa dopiero się zaczyna. Zaraz po pytaniu „któż może je poznać” mówi Bóg, który zna. Nerki były w języku Biblii miejscem ukrytych uczuć i pobudek. Bóg widzi więc także to, czego sami w sobie nie widzimy, i może nam to pokazać.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Modlitwa po decyzji",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Po upadku Jerozolimy garstka ocalałych boi się zemsty Babilończyków.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jr 41,17-18",
+       "przeklad": "BW",
+       "akapity": [
+        "i wyruszyli, i zatrzymali się w gospodzie Kimhama w pobliżu Betlejemu; zamierzali bowiem ujść do Egiptu z obawy przed Chaldejczykami, dlatego iż Ismael, syn Netaniasza, zamordował Gedaliasza, syna Achikama, którego król babiloński ustanowił namiestnikiem kraju."
+       ]
+      },
+      {
+       "odnosnik": "Jr 42,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "Wtedy wszyscy dowódcy wojsk i Jochanan, syn Kareacha, i Azariasz, syn Hosajasza, oraz wszyscy ludzie, młodsi i starsi, przystąpili do proroka Jeremiasza i rzekli: Niech nasze błaganie dotrze do ciebie! Módl się za nami do Pana, twojego Boga, za tą całą resztą, gdyż z wielkiej liczby pozostała nas tylko mała garstka, jak to widzisz na własne oczy! Niechaj Pan, twój Bóg, wskaże nam drogę, którą mamy pójść, i powie, co mamy czynić. Prorok Jeremiasz odpowiedział im, mówiąc: Dobrze. Oto ja, stosownie do waszego życzenia, będę się modlił do Pana, Boga waszego, i oznajmię wam wszystko, co Pan wam odpowie; nic przed wami nie zataję. Oni zaś rzekli do Jeremiasza: Niech Pan będzie świadkiem przeciwko nam, prawdziwym i wiernym, jeżeli nie postąpimy dokładnie według słowa, z którym cię pośle do nas Pan, twój Bóg. Czy to będzie dobre, czy złe, usłuchamy głosu Pana, naszego Boga, do którego cię wysyłamy, aby się nam dobrze wiodło, gdy usłuchamy głosu Pana, naszego Boga."
+       ]
+      },
+      {
+       "odnosnik": "Jr 42,19-21",
+       "przeklad": "BW",
+       "akapity": [
+        "To Pan rzekł do was, resztko Judy: Nie idźcie do Egiptu! Wiedzcie to dobrze, że Ja was dzisiaj przestrzegałem! Gdyż sami siebie oszukujecie, bo sami wysłaliście mnie do Pana, waszego Boga, mówiąc: Módl się za nami do Pana, naszego Boga, i powtórz nam dokładnie, co każe Pan, nasz Bóg, a według tego postąpimy. Zwiastowałem wam to dzisiaj, lecz nie usłuchaliście głosu Pana, waszego Boga, w niczym, z czym posłał mnie do was."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zanim przyszli do proroka, byli już w drodze do Egiptu. **Co to zmienia w ich prośbie: „Niechaj Pan, twój Bóg, wskaże nam drogę”?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Obiecali posłuchać, „czy to będzie dobre, czy złe”. **Dlaczego tak uroczysta obietnica nie wytrzymała odpowiedzi, której się nie spodziewali?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Pewien duszpasterz sprzed ponad dwustu lat zauważył, że zbyt często najpierw po cichu postanawiamy sami, a dopiero potem przychodzimy do Boga po radę. Wtedy chwytamy się wszystkiego, co sprzyja naszemu ulubionemu planowi. Nawet swoboda w modlitwie o jakąś sprawę niczego jeszcze nie dowodzi. Serce mocno do czegoś przywiązane samo podsuwa słowa i żarliwość. Jeremiasz nazywa to wprost: „sami siebie oszukujecie”.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Pragnienia, które wolno mieć",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 37,3-7",
+       "przeklad": "BW",
+       "akapity": [
+        "Zaufaj Panu i czyń dobrze, Mieszkaj w kraju i dbaj o wierność! Rozkoszuj się Panem, A da ci, czego życzy sobie serce twoje! Powierz Panu drogę swoją, Zaufaj mu, a On wszystko dobrze uczyni. Wyniesie jak światło sprawiedliwość twoją, A prawo twoje jak słońce w południe. Zdaj się w milczeniu na Pana i złóż w nim nadzieję. Nie gniewaj się na tego, któremu się szczęści, Na człowieka, który knuje złe zamiary!"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Psalm nie każe wyrzec się pragnień. Każe najpierw rozkoszować się Panem. **Co dzieje się z pragnieniami człowieka, który zaczyna od tego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "„Powierz Panu drogę swoją”. **Co jest dla ciebie trudniejsze: powierzyć Bogu drogę czy powierzyć Mu wynik? Dlaczego?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Werset 3 jest bardzo zwyczajny: ufaj, czyń dobrze, mieszkaj, dbaj o wierność. **Dlaczego psalm zaczyna od codzienności, zanim powie o pragnieniach serca?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Psalm 37 mówi do człowieka, który patrzy na cudze powodzenie. Werset 7 pokazuje, że kusi go gniew i zazdrość wobec tych, którym się szczęści, choć knują zło. Pragnienia, o których mówi werset 4, rodzą się więc obok pokusy skrótu. Psalm nie gasi tych pragnień. Ustawia je w kolejce za zaufaniem, za dobrym czynem i za cierpliwym czekaniem.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pragnienie, które przestaje słuchać",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jk 1,14-15",
+       "przeklad": "BW",
+       "akapity": [
+        "Lecz każdy bywa kuszony przez własne pożądliwości, które go pociągają i nęcą; potem, gdy pożądliwość pocznie, rodzi grzech, a gdy grzech dojrzeje, rodzi śmierć."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jakub opisuje pożądliwość jak ciążę: poczęcie, narodziny, dorastanie. **Na którym etapie tego łańcucha zwykle zauważasz, co się dzieje? Co pomaga zauważyć to wcześniej?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Czym różni się pragnienie serca z Ps 37 od pożądliwości z listu Jakuba?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jakub używa czasowników z języka myślistwa i rybołówstwa: pociągać jak zwierzynę, nęcić jak rybę przynętą. Silne pragnienie potrafi wyłączyć myślenie. Przynęta działa właśnie wtedy, gdy przestajemy pytać, co jest pod nią.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: kto pisze pragnienia serca",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 37,4",
+       "przeklad": "BW",
+       "akapity": [
+        "Rozkoszuj się Panem, A da ci, czego życzy sobie serce twoje!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Werset 4 czyta się w Kościele na dwa sposoby. Jedni widzą w nim obietnicę, że Bóg z czasem kształtuje pragnienia człowieka, który się Nim cieszy. Wtedy własne pragnienia stają się dla wierzącego ważną wskazówką przy wyborze. Drudzy przypominają, że psalm obiecuje wysłuchanie modlitwy. O przeszczepieniu Bożych pragnień do serca nie mówi. Pragnienia trzeba więc nadal mierzyć Słowem, a te, które próbę przejdą, wolno spełniać spokojnie. Oba odczytania łączy to samo. Pragnienie nie jest wyrocznią, ale też nie jest wrogiem. Najpierw jest radość z Boga, potem cała reszta.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Które z tych odczytań bardziej do ciebie przemawia i co by znaczyło dla twoich obecnych pragnień?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Usiąść i policzyć",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Za Jezusem idą tłumy. Jezus odwraca się do nich i mówi, ile kosztuje pójście za Nim.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Łk 14,28-33",
+       "przeklad": "BW",
+       "akapity": [
+        "Któż bowiem z was, chcąc zbudować wieżę, nie usiądzie najpierw i nie obliczy kosztów, czy ma na wykończenie? Aby gdy już położy fundament, a nie może dokończyć, wszyscy, którzy by to widzieli, nie zaczęli naśmiewać się z niego, mówiąc: ten człowiek zaczął budować, a nie mógł dokończyć. Albo, który król, wyruszając na wojnę z drugim królem, nie siądzie najpierw i nie naradzi się, czy będzie w stanie w dziesięć tysięcy zmierzyć się z tym, który z dwudziestoma tysiącami wyrusza przeciwko niemu? Jeśli zaś nie, to gdy tamten jeszcze jest daleko, wysyła poselstwo i zapytuje o warunki pokoju. Tak więc każdy z was, który się nie wyrzeknie wszystkiego, co ma, nie może być uczniem moim."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Oba obrazy zaczynają się od tych samych słów: „usiądzie najpierw”. **Dlaczego Jezus zaczyna od siedzenia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Werset 33 pokazuje, o jaki koszt chodzi Jezusowi. **Jak to zdanie zmienia słuchanie obu przykładów?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Król, który widzi, że nie da rady, wysyła posłów, póki wróg jest daleko. **Kiedy wycofanie się z planu bywa mądrością i jak odróżnić je od zwykłego strachu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ludzie, którzy badają duże inwestycje, radzą zaczynać od cudzych doświadczeń. Nie pytaj najpierw, ile tobie to zajmie. Zapytaj, ile zajęło innym, którzy robili to samo, i od tej liczby zaczynaj. Nasz zapał prawie zawsze obiecuje szybciej i taniej. Budowniczy z przypowieści nie przegrał z braku wiary. Przegrał, bo nie usiadł do rachunku.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Najpierw pole",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Prz 24,27",
+       "przeklad": "BW",
+       "akapity": [
+        "Wykonaj najpierw swoją pracę na zewnątrz i upraw dla siebie pole, a potem zakładaj swój dom."
+       ]
+      },
+      {
+       "odnosnik": "Prz 21,5",
+       "przeklad": "BW",
+       "akapity": [
+        "Zamysły pilnego prowadzą do zysków, lecz każdy, kto w pośpiechu działa, ma tylko niedostatek."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Przysłowia ustawiają kolejność. Najpierw pole, potem dom. **Gdzie w twoich planach kolejność łatwo się odwraca?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co odróżnia pośpiech z Prz 21,5 od odwagi, której też potrzebuje każda decyzja?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Która z dzisiejszych pułapek jest ci najbliższa: pewność siebie przywódców w Gilgal, decyzja podjęta przed modlitwą czy wieża zaczęta bez rachunku? **Po czym poznajesz, że w nią wchodzisz?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pomyśl o decyzji, która stoi teraz przed tobą. **Co mówi w niej twoje serce, a co mówi rachunek, i gdzie te dwa głosy się rozchodzą?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **kogo mógłbyś zapytać o zdanie w tej sprawie, wiedząc, że nie powie ci po prostu tego, co chcesz usłyszeć?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Serce bywa podstępne, a bez pragnień nie da się wybrać niczego. **Jak odróżnić pragnienie, które Bóg we mnie kształtuje, od pragnienia, które tylko nauczyło się mówić pobożnym językiem?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie szuka tu jednej odpowiedzi. Warto, żeby padło spostrzeżenie, że teksty nie zostawiają nas z tym samych. Psalmista prosi Boga o zbadanie serca, a przypowieść każe usiąść i policzyć, często z kimś, kto widzi sprawę z zewnątrz.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Kto w twoim życiu ma prawo powiedzieć ci, że twoje serce właśnie cię oszukuje?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Serce ma głos przy każdej decyzji. Mądrość polega na tym, żeby nie był to głos jedyny i żeby zapytać Tego, który zna serce lepiej niż my.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania:** Ps 139,23 albo Joz 9,14.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o decyzji, która przed tobą stoi. Zapytaj siebie uczciwie, **czy nie podjąłeś jej już po cichu, zanim zacząłeś się modlić**. Nie musisz nikomu mówić, jaka jest odpowiedź.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Nazwij przed Bogiem, **czego w tej sprawie naprawdę chcesz**. Nazwij wszystkie motywy, także te, które brzmią mało pobożnie. Pragnienie nazwane traci część władzy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych:** zrób miejsce na odpowiedź na modlitwę z Ps 139. Pomyśl o kimś, kto ma powód, żeby widzieć twoją sprawę inaczej niż ty, i pozwól sobie wysłuchać go do końca, zanim zdecydujesz.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada o swojej decyzji i czeka, aż grupa mu ją rozstrzygnie.** Nie rozstrzygajcie. Podziękuj za zaufanie i zaproponuj, żeby grupa zadała mu dwa albo trzy pytania zamiast rad. Decyzja zostaje przy nim. Jeśli sprawa jest poważna, porozmawiaj z nim po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Skoro serce jest podstępne, to nie mogę ufać niczemu, co czuję.”** To częsta reakcja na Jr 17. Pokaż drugą połowę wersetu i Ps 139. Bóg nie każe nam żyć w podejrzliwości wobec siebie. Zaprasza, żeby to On zbadał serce. Psalm 37 mówi przy tym o pragnieniach, które wolno mieć.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„To wszystko psychologia, wystarczy się pomodlić.”** Zgódź się, że bez modlitwy nic tu nie działa, i wróć do Łk 14. To Jezus każe usiąść i liczyć. Przywódcy w Gilgal liczyli bez modlitwy, ludzie z Jr 42 modlili się bez gotowości do słuchania. Modlitwa i rachunek nie są wrogami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o decyzji sprzed lat, która okazała się błędem, i słyszy w tekstach oskarżenie.** Nie przytakuj i nie bagatelizuj. Przypomnij zakończenie historii Gibeonitów. Pochopna decyzja miała skutki, ale Bóg zrobił z niej miejsce służby. Pokrewny materiał „Kochaj Boga i rób, co chcesz” mówi o tym szerzej.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada o decyzji, na którą naciska druga osoba, na przykład małżonek, rodzic albo szef, i słychać w tym przymus albo przemoc.** Nie rozwijaj tego przy grupie. Zostań z tą osobą po spotkaniu. Grupa nie doradza w sprawach prawnych ani psychologicznych. Przy przemocy w rodzinie nie zostawaj z tym sam i pomóż znaleźć pomoc specjalistyczną. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, numer alarmowy 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Rozmowa zamienia się w wymianę porad o decyzjach.** Zatrzymaj ją łagodnie pytaniem do tekstu, na przykład: „Co w tej sprawie zrobiliby przywódcy w Gilgal, gdyby zapytali Boga?”.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 2. Bloki 1, 3 i 5 niosą spotkanie: decyzja bez pytania Boga, serce, które zna tylko On, i rachunek, do którego Jezus każe usiąść.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Ktoś opowiada o swojej decyzji i czeka, aż grupa mu ją rozstrzygnie.",
+     "odpowiedz": "Nie rozstrzygajcie. Podziękuj za zaufanie i zaproponuj, żeby grupa zadała mu dwa albo trzy pytania zamiast rad. Decyzja zostaje przy nim. Jeśli sprawa jest poważna, porozmawiaj z nim po spotkaniu."
+    },
+    {
+     "sytuacja": "„Skoro serce jest podstępne, to nie mogę ufać niczemu, co czuję.”",
+     "odpowiedz": "To częsta reakcja na Jr 17. Pokaż drugą połowę wersetu i Ps 139. Bóg nie każe nam żyć w podejrzliwości wobec siebie. Zaprasza, żeby to On zbadał serce. Psalm 37 mówi przy tym o pragnieniach, które wolno mieć."
+    },
+    {
+     "sytuacja": "„To wszystko psychologia, wystarczy się pomodlić.”",
+     "odpowiedz": "Zgódź się, że bez modlitwy nic tu nie działa, i wróć do Łk 14. To Jezus każe usiąść i liczyć. Przywódcy w Gilgal liczyli bez modlitwy, ludzie z Jr 42 modlili się bez gotowości do słuchania. Modlitwa i rachunek nie są wrogami."
+    },
+    {
+     "sytuacja": "Ktoś mówi o decyzji sprzed lat, która okazała się błędem, i słyszy w tekstach oskarżenie.",
+     "odpowiedz": "Nie przytakuj i nie bagatelizuj. Przypomnij zakończenie historii Gibeonitów. Pochopna decyzja miała skutki, ale Bóg zrobił z niej miejsce służby. Pokrewny materiał „Kochaj Boga i rób, co chcesz” mówi o tym szerzej."
+    },
+    {
+     "sytuacja": "Ktoś opowiada o decyzji, na którą naciska druga osoba, na przykład małżonek, rodzic albo szef, i słychać w tym przymus albo przemoc.",
+     "odpowiedz": "Nie rozwijaj tego przy grupie. Zostań z tą osobą po spotkaniu. Grupa nie doradza w sprawach prawnych ani psychologicznych. Przy przemocy w rodzinie nie zostawaj z tym sam i pomóż znaleźć pomoc specjalistyczną. Telefon zaufania dla dorosłych w kryzysie emocjonalnym to 116 123, numer alarmowy 112."
+    },
+    {
+     "sytuacja": "Rozmowa zamienia się w wymianę porad o decyzjach.",
+     "odpowiedz": "Zatrzymaj ją łagodnie pytaniem do tekstu, na przykład: „Co w tej sprawie zrobiliby przywódcy w Gilgal, gdyby zapytali Boga?”."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 2. Bloki 1, 3 i 5 niosą spotkanie: decyzja bez pytania Boga, serce, które zna tylko On, i rachunek, do którego Jezus każe usiąść."
+    }
+   ]
+  }
+ ]
+}

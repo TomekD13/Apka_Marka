@@ -1,0 +1,783 @@
+{
+ "tytul": "Bóg, który widzi",
+ "id": "L-01",
+ "seria": "Ludzie drugiej szansy",
+ "opis": "Niewolnica, której nikt nie pytał o zdanie, spotyka na pustyni Boga i jako jedyna nadaje Mu imię.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Rdz 16,1-6; 16,7-14; Rdz 21,9-14; 21,15-21; Ps 56,9; Ps 10,14",
+  "p2": "Wj 2,23-25; Wj 3,7; Rdz 17,18-20; Rdz 25,9.12.16",
+  "p3": "Ga 4,28-31"
+ },
+ "przekladBazowy": "BW",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 25,
+  "p3": 29
+ },
+ "tagi": [
+  "Ludzie drugiej szansy",
+  "odrzucenie",
+  "krzywda",
+  "Boża troska",
+  "Księga Rodzaju"
+ ],
+ "wersja": 1,
+ "zdanie": "Ludzie mogą przestać cię widzieć. Bóg nie przestaje, także na pustyni, także tam, gdzie właśnie jesteś.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Zanim zaczniecie",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "To spotkanie jest o kobiecie, która w swojej historii zawiniła najmniej. Hagar była egipską niewolnicą w domu Abrama i Saraj. Inni zdecydowali za nią, potem ją upokorzyli, a w końcu dwa razy znalazła się na pustyni. Druga szansa przychodzi tu jako spojrzenie Boga na kogoś, kogo ludzie przestali widzieć. I właśnie ta kobieta jako jedyna osoba w Biblii nadaje Bogu imię.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przy stole mogą siedzieć ludzie, którzy tej historii nie znają. Wystarczy im to, co przeczytacie, i zdania kursywą przed fragmentami.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Pokrewny materiał to „Niecierpliwość”. Tamten czyta początek tej historii oczami Saraj. Ten czyta ją oczami Hagar.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Gdzie są miny:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Ktoś przy stole mógł doświadczyć wykorzystania w pracy, w rodzinie albo w związku. Historia Hagar może to w nim otworzyć. Nikogo nie dopytuj o szczegóły.",
+      "Bezpłodność i długie czekanie na dziecko to dla wielu ludzi świeża rana. Nie oceniaj Saraj zbyt łatwo i nie wchodź w spory o współczesne metody leczenia.",
+      "Polecenie anioła „Wróć do swej pani” łatwo usłyszeć jako radę dla każdej osoby krzywdzonej. Tekst takiej rady nie daje. Odpowiedź masz w czerwonych flagach.",
+      "Ismaela łączy się czasem z narodami arabskimi i z islamem. Nie wchodź w politykę ani w spór religijny. Trzymaj się tego, co mówi tekst."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Czego nie robić.** Nie rób z Abrahama i Sary czarnych charakterów ani z Hagar świętej. Biblia pokazuje całą trójkę bez retuszu. Nie tłumacz za Boga, dlaczego pozwolił na tyle cierpienia.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Otwarcie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Przypomnij sobie sytuację, w której czułeś się niewidzialny, w pracy, w rodzinie albo wśród ludzi. Powiedz jednym zdaniem, po czym to poznałeś. Bez opowiadania, kto zawinił.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący odpowiada pierwszy i krótko, żeby ustawić długość. Nie komentuj cudzych odpowiedzi.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Kobieta, której nikt nie zapytał",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Abram i jego żona Saraj od lat czekali na syna, którego obiecał im Bóg. Oboje byli już w podeszłym wieku.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 16,1-6",
+       "przeklad": "BW",
+       "akapity": [
+        "A Saraj, żona Abrama, nie urodziła mu dzieci, lecz miała niewolnicę, Egipcjankę, imieniem Hagar. Rzekła więc Saraj do Abrama: Oto Pan odmówił mi potomstwa, obcuj, proszę, z niewolnicą moją, może z niej będę miała dzieci. I usłuchał Abram rady Saraj. Wzięła więc Saraj, żona Abrama, niewolnicę swą Hagar, Egipcjankę – było to po dziesięciu latach pobytu Abrama w ziemi kanaanejskiej – i dała ją za żonę mężowi swemu, Abramowi. A on obcował z Hagar, i poczęła. Lecz gdy spostrzegła, że poczęła, zaczęła pogardzać panią swoją.",
+        "Wtedy rzekła Saraj do Abrama: Krzywdy mojej tyś winien! Ja sama dałam niewolnicę moją tobie za żonę, a ona, gdy spostrzegła, że poczęła, zaczęła mną pogardzać! Niech Pan będzie sędzią między mną a tobą. Na to rzekł Abram do Saraj: Oto niewolnica twoja jest w ręku twoim, zrób z nią, co ci się podoba! A gdy ją Saraj chciała upokorzyć, uciekła od niej."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Saraj i Abram mówią o Hagar kilka razy. **Ile razy mówią do niej? Co ta różnica mówi o tym, kim była w ich oczach?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Każde z tej trójki ma tu swój udział, choć nie każde ma tę samą władzę. **Jak to się dzieje, że rozsądny z pozoru plan kończy się ucieczką kobiety w ciąży?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Abram mówi „zrób z nią, co ci się podoba”. **Co jest najcięższe w tym zdaniu?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Kontekst",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "W świecie Abrama bezpłodna żona mogła dać mężowi swoją niewolnicę. Dziecko z takiego związku liczono jako dziecko pani, a nie matki. Zachowane prawa i umowy z Mezopotamii znają taki układ. Saraj nie łamała więc obyczaju. Robiła to, co uchodziło za rozsądne po dziesięciu latach czekania. Narrator nie ocenia jej wprost. Opowiada jednak tę scenę słowami z historii upadku w ogrodzie Eden. Kobieta wzięła i dała mężowi, a mąż jej usłuchał.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Co znaczyło dla Hagar, że jej dziecko od początku miało należeć do kogoś innego?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Pytanie przy źródle",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 16,7-14",
+       "przeklad": "BW",
+       "akapity": [
+        "I znalazł ją anioł Pański przy źródle wód na pustyni, przy źródle na drodze do Szur, i rzekł: Hagar, niewolnico Saraj, skąd przychodzisz i dokąd idziesz? A ona odpowiedziała: Uciekłam przed panią moją Saraj. Na to rzekł do niej anioł Pański: Wróć do swej pani i oddaj się pod jej władzę! Rzekł jeszcze do niej anioł Pański: Rozmnożę bardzo potomstwo twoje, tak iż z powodu mnogości nie będzie go można policzyć. Nadto rzekł do niej anioł Pański: Oto poczęłaś i urodzisz syna, i nazwiesz go Ismael, bo Pan usłyszał o niedoli twojej. Będzie to człowiek dziki, ręka jego będzie przeciwko wszystkim, a ręka wszystkich będzie przeciwko niemu, i będzie nastawał na wszystkich pobratymców swoich.",
+        "I nazwała Pana, który mówił do niej: Tyś Bóg, który mnie widzi, bo mówiła: Wszak oglądałam tutaj tego, który mnie widzi! Dlatego nazwano tę studnię Studnią Żyjącego, który mnie widzi. Jest ona między Kadesz a Bered."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Anioł zwraca się do niej po imieniu i pyta, skąd przychodzi i dokąd idzie. **Po co pyta, skoro zna odpowiedź? Na którą połowę pytania Hagar odpowiada?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Hagar mówi do Boga „Tyś Bóg, który mnie widzi”. **Co to znaczy dla kogoś, kogo dotąd nikt nie widział?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Imię Ismael znaczy „Bóg słyszy”. **Co to imię przypominało matce za każdym razem, gdy wołała syna?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Anioł każe jej wrócić. **Co z tego, co usłyszała przy źródle, mogło jej pomóc wrócić do tego samego domu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To pierwsze miejsce w Biblii, w którym pojawia się anioł Pański. Pismo często utożsamia tego posłańca z samym Bogiem, a Hagar zwraca się do niego jak do Boga. Przychodzi najpierw do zbiegłej niewolnicy, daleko od namiotu patriarchy. Hagar jest też pierwszą osobą w Biblii, której zapowiedziano narodziny syna razem z jego imieniem. W całym Piśmie tylko ona nadaje imię Bogu. Nazywa Go od tego, co sama przeżyła.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Bóg, który słyszy krzyk",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Kilkaset lat później potomkowie Abrama są niewolnikami w Egipcie.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Wj 2,23-25",
+       "przeklad": "BW",
+       "akapity": [
+        "Po upływie długiego czasu umarł król egipski. Jednak Izraelici jęczeli z powodu ciężkiej pracy i narzekali, a ich wołanie o pomoc z powodu ciężkiej pracy dotarło do Boga. I usłyszał Bóg ich narzekanie. I wspomniał Bóg na swoje przymierze z Abrahamem, Izaakiem i Jakubem. I wejrzał Bóg na Izraelitów: Bóg ujął się za nimi."
+       ]
+      },
+      {
+       "odnosnik": "Wj 3,7",
+       "przeklad": "BW",
+       "akapity": [
+        "Rzekł jeszcze Pan: Napatrzyłem się na niedolę ludu mojego w Egipcie i słyszałem krzyk ich z powodu naganiaczy jego; znam cierpienia jego."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wracają te same słowa co przy źródle Hagar: usłyszał, wejrzał, niedola. **Co łączy jedną niewolnicę z całym ludem niewolników?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "W domu Abrama Hebrajka uciskała Egipcjankę. W Egipcie Egipcjanie uciskają Hebrajczyków. **Co mówi o Bogu to, że słyszy krzyk z obu stron?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Słowo",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hagar mówi o Bogu `El ro'i`, czyli „Bóg, który mnie widzi”. Studnia dostaje nazwę `Beer-lachaj-ro'i`, Studnia Żyjącego, który mnie widzi. Imię Ismael to po hebrajsku `Jiszma'el`, „Bóg słyszy”. Gdy w Biblii Bóg widzi albo słyszy, chodzi o coś więcej niż spojrzenie. Bóg bierze sprawę do serca i zaczyna działać.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Czasownik, którym opisano w wersecie 6, jak Saraj chciała upokorzyć Hagar, brzmi `'ana`. Tym samym słowem Księga Wyjścia opisze, jak Egipcjanie gnębili Izraela. Narrator nie potępia Saraj żadnym przymiotnikiem. Ocenia ją doborem jednego czasownika.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hagar mogła nazwać Boga od tego, co sama zobaczyła. Nazwała Go od tego, że On zobaczył ją. **Co zmienia taka kolejność?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: wróć do swej pani",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Najtrudniejsze zdanie tej sceny brzmi „Wróć do swej pani i oddaj się pod jej władzę”. Bóg odsyła skrzywdzoną do domu, w którym ją skrzywdzono. W Kościele czyta się je na dwa sposoby. Jedni zwracają uwagę, że kobieta w ciąży, sama na drodze przez pustynię, miała małe szanse przeżycia. Powrót był dla niej i dla dziecka ratunkiem, a obietnica dawała im przyszłość. Inni nie łagodzą tego zdania i uczciwie zostawiają je trudnym. Zauważają, że Bóg nie wyrywa Hagar od razu z niesprawiedliwego układu, ale wchodzi w niego z obietnicą. Później sam zaopiekuje się nią poza tym domem.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Obie strony zgadzają się co do dwóch rzeczy. Tekst nie robi z tego polecenia zasady dla wszystkich krzywdzonych. A Bóg nie zostawia Hagar samej ani przy źródle, ani później.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak to polecenie brzmi obok imienia, które Hagar nadaje Bogu kilka wersetów dalej?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Wypędzona",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Mijają lata. Bóg nadał Abramowi i Saraj nowe imiona, Abraham i Sara, i spełnił obietnicę. Sara urodziła syna Izaaka. Gdy chłopiec podrósł, Abraham wyprawił ucztę.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 21,9-14",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy Sara ujrzała, że syn Hagar, Egipcjanki, którego ta urodziła Abrahamowi, szydzi z jej syna Izaaka, rzekła do Abrahama: Wypędź tę niewolnicę i jej syna, nie będzie bowiem dziedziczył syn tej niewolnicy z moim synem Izaakiem! Słowo to bardzo nie podobało się Abrahamowi ze względu na jego syna.",
+        "Lecz Bóg rzekł do Abrahama: Niech ci to nie będzie przykre, co się tyczy chłopca i niewolnicy twojej. Cokolwiek ci powie Sara, posłuchaj jej, gdyż tylko od Izaaka nazwane będzie potomstwo twoje. Jednakże i z syna niewolnicy uczynię naród, bo jest on potomkiem twoim!",
+        "Wstał więc Abraham wcześnie rano, a wziąwszy chleb i bukłak z wodą, dał Hagar, włożył to wraz z dzieckiem na jej barki i odprawił ją. A ona poszła i błąkała się po pustyni Beer-Szeby."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Sara mówi „tę niewolnicę i jej syna”. Narrator pisze, że Abraham martwi się „ze względu na jego syna”. **Co widać w tych dwóch sposobach mówienia o tym samym chłopcu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg nie zatrzymuje wypędzenia, każe nawet Abrahamowi posłuchać Sary, ale obiecuje coś Ismaelowi. **Co ta obietnica zmienia w tym poranku, a czego nie zmienia?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Abraham wstaje wcześnie i sam daje Hagar chleb i wodę. **Co mówi o nim ten gest?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Co do Ismaela, wysłuchałem cię",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Kilkanaście lat wcześniej Bóg zapowiedział Abrahamowi narodziny Izaaka. Abraham prosił wtedy za starszym synem.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 17,18-20",
+       "przeklad": "BW",
+       "akapity": [
+        "I rzekł Abraham do Boga: Oby tylko Ismael pozostał przy życiu przed twoim obliczem! Na to rzekł Bóg: Nie! Ale żona twoja Sara urodzi ci syna i nazwiesz go imieniem Izaak, a Ja ustanowię przymierze moje z nim jako przymierze wieczne dla jego potomstwa po nim. Co do Ismaela, wysłuchałem cię: Oto pobłogosławię mu i rozplenię go, i rozmnożę go nad miarę. Zrodzi on dwunastu książąt, i uczynię z niego naród wielki."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Chłopiec ma na imię „Bóg słyszy”, a Bóg mówi ojcu „Co do Ismaela, wysłuchałem cię”. **Co to mówi o miejscu Ismaela w oczach Boga, choć przymierze miało iść przez Izaaka?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak ta obietnica brzmi, kiedy czyta się ją po scenie wypędzenia?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Napięcie: Paweł i Hagar",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ga 4,28-31",
+       "przeklad": "BW",
+       "akapity": [
+        "Wy zaś, bracia, podobnie jak Izaak, dziećmi obietnicy jesteście. Lecz jak ongiś ten, który się według ciała narodził, prześladował urodzonego według Ducha, tak i teraz. Lecz co mówi Pismo? Wypędź niewolnicę i syna jej; nie będzie bowiem dziedziczył syn niewolnicy z synem wolnej. Przeto, bracia, nie jesteśmy dziećmi niewolnicy, lecz wolnej!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Paweł przywołuje słowa Sary jako słowa Pisma, a Hagar staje się u niego obrazem niewoli. Kilka wersetów wcześniej sam mówi, że czyta tę historię obrazowo. Chodzi mu o dwa przymierza, czyli dwie drogi do Boga. Jedna to próba zasłużenia na Boże przyjęcie, druga to obietnica przyjęta jak dar. Paweł nie wydaje wyroku na Hagar jako człowieka. Księga Rodzaju opowiada o konkretnej kobiecie, którą Bóg znalazł, nazwał po imieniu i wysłuchał. Oba sposoby czytania stoją w jednej Biblii i jeden nie odbiera prawdy drugiemu.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jak czytać biblijny obraz tak, żeby nie zgubić człowieka, który za nim stoi?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Studnia, która była obok",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 21,15-21",
+       "przeklad": "BW",
+       "akapity": [
+        "A gdy wyczerpała się woda z bukłaku, porzuciła dziecko pod jednym z krzaków. Potem odszedłszy, usiadła naprzeciw w odległości, jak łuk doniesie, mówiąc: Nie chcę patrzeć na śmierć dziecka. Siadła więc naprzeciw i głośno płakała.",
+        "I usłyszał Bóg głos chłopca, i zawołał anioł Boży na Hagar z nieba, i rzekł do niej: Cóż ci to, Hagar? Nie bój się, bo Bóg usłyszał głos chłopca tam, gdzie jest. Wstań, podnieś chłopca i ujmij go ręką swoją, bo uczynię z niego naród wielki. I otworzył Bóg oczy jej i ujrzała studnię z wodą, a poszedłszy, napełniła bukłak wodą i dała chłopcu pić.",
+        "I był Bóg z chłopcem, a gdy podrósł, zamieszkał na pustyni i był łucznikiem. Mieszkał on na pustyni Paran; a matka jego wzięła dla niego żonę z ziemi egipskiej."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Hagar odchodzi tak daleko, żeby nie patrzeć na śmierć syna, i płacze. **Co w jej zachowaniu rozumiesz najlepiej?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Bóg słyszy chłopca „tam, gdzie jest”, a potem otwiera Hagar oczy. **Co w tej scenie się zmienia, a co przez cały czas było na miejscu?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Rano Abraham położył dziecko na jej barkach. Teraz anioł mówi „ujmij go ręką swoją”. **Co znaczy, że Bóg oddaje jej syna z powrotem w ręce?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Studnia była tam przez cały czas. Brakowało oczu, które by ją zobaczyły. Anioł mówi, że Bóg usłyszał chłopca „tam, gdzie jest”, czyli pod krzakiem na pustyni. Nikt nie musiał nigdzie dojść, żeby został wysłuchany. Tekst nie mówi nawet, że Hagar się modliła. Mówi, że płakała. Na końcu to ona bierze synowi żonę, choć w tamtym świecie robił to zwykle ojciec. Wygnana matka przejmuje zadanie, którego nie miał kto wykonać.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dwaj synowie przy jednym grobie",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Wiele lat później umiera Abraham.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Rdz 25,9",
+       "przeklad": "BW",
+       "akapity": [
+        "I pochowali go Izaak i Ismael, synowie jego, w jaskini Machpela, na polu Efrona, syna Sochara, Chetyty, naprzeciw Mamre,"
+       ]
+      },
+      {
+       "odnosnik": "Rdz 25,12",
+       "przeklad": "BW",
+       "akapity": [
+        "Takie są dzieje rodu Ismaela, syna Abrahama, którego urodziła Abrahamowi Hagar, Egipcjanka, niewolnica Sary."
+       ]
+      },
+      {
+       "odnosnik": "Rdz 25,16",
+       "przeklad": "BW",
+       "akapity": [
+        "To są synowie Ismaela i takie są nazwy ich zagród i koczowisk, dwunastu książąt plemion ich."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Izaak i Ismael stoją razem nad grobem ojca. **Co mówi ten jeden werset o rodzinie, którą kiedyś rozdzielono?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ismael ma dwunastu książąt, tak jak Bóg obiecał. **Co to mówi o Bogu, który dotrzymuje słowa danego komuś z boku głównej historii?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Łzy w bukłaku",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Dwa krótkie fragmenty z Psalmów, czyli modlitw Izraela.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ps 56,9",
+       "przeklad": "BW",
+       "akapity": [
+        "Tyś policzył dni mojej tułaczki, Zebrałeś łzy moje w bukłak swój. Czyż nie są zapisane w księdze twojej?"
+       ]
+      },
+      {
+       "odnosnik": "Ps 10,14",
+       "przeklad": "BW",
+       "akapity": [
+        "Ty zaś widzisz, bo patrzysz na trud i utrapienie, Aby to ująć w ręce swoje. Na tobie polega nieszczęśliwy, Tyś pomocą sierocie."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Hagar płakała nad pustym bukłakiem. Psalm mówi o Bogu, który zbiera łzy człowieka „w bukłak swój”. **Co to zdanie mówi o łzach, których nikt inny nie widział?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Psalm mówi, że Bóg patrzy na trud, „aby to ująć w ręce swoje”. **Jak wygląda Boże patrzenie, które nie kończy się na patrzeniu?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Zastosowanie",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hagar usłyszała pytanie „skąd przychodzisz i dokąd idziesz?”. **Jak brzmiałaby dziś twoja uczciwa odpowiedź na to pytanie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**W którym miejscu tej historii najłatwiej rozpoznajesz siebie: przy Hagar, przy Saraj czy przy Abramie, który umywa ręce?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeśli chcesz się tym podzielić, **czy był w twoim życiu moment, w którym przekonałeś się, że Bóg cię widzi?** Nie musisz mówić, co się wtedy działo.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "Pytanie bez łatwej odpowiedzi",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hagar dostała od Boga obietnicę, ale od ludzi nie dostała sprawiedliwości. Nikt jej nie przeprosił. **Czy wystarczy wiedzieć, że Bóg widzi, kiedy krzywda nie zostaje naprawiona? Co daje to Boże widzenie, a czego nie zastępuje?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Prowadzący nie szuka jednej odpowiedzi. Warto, żeby padło spostrzeżenie, że Bóg w tej historii widzi i działa, a mimo to nie każe Hagar udawać, że nic się nie stało.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "Jedno zdanie",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Ludzie mogą przestać cię widzieć. Bóg nie przestaje, także na pustyni, także tam, gdzie właśnie jesteś.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Werset do zapamiętania.** Rdz 16,13 albo Rdz 21,17.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "Do zrobienia",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Pomyśl o miejscu w swoim życiu, które przypomina pustynię. Odpowiedz Bogu w ciszy na pytanie, **skąd przychodzisz i dokąd idziesz**. Jeśli na drugą połowę nie masz odpowiedzi, zostań przy pierwszej, tak jak Hagar.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Przypomnij sobie kogoś, kogo w myślach nazywasz rolą zamiast imieniem. Pani z kasy, nowy z pracy, sąsiad z góry. Zapytaj siebie, **co by się zmieniło, gdybyś zobaczył w nim człowieka, którego widzi Bóg**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Dla odważnych.** Jeśli nosisz w sobie krzywdę, której nikt nie naprawił, nazwij ją przed Bogiem po imieniu. Nie musisz jeszcze przebaczać. Wystarczy, że przestaniesz udawać, że jej nie ma.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Modlitwa",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Czerwone flagi",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**„Czyli Bóg każe wracać do kogoś, kto mnie krzywdzi?”** Nie. Słowa do Hagar dotyczyły jej sytuacji na pustyni i Biblia nigdzie nie robi z nich zasady. Ten sam Bóg za drugim razem prowadzi ją z dala od tego domu i sam się nią opiekuje. Jeśli ktoś mówi o przemocy we własnym domu, nie zostawaj z tym sam. Porozmawiaj z tą osobą po spotkaniu i skieruj ją do pomocy specjalistycznej. Telefon zaufania dla dorosłych w kryzysie to 116 123, a w zagrożeniu 112.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś mówi o własnej niepłodności albo o stracie dziecka.** Wysłuchaj i podziękuj. Nie pocieszaj gotowymi zdaniami i nie tłumacz, co Bóg chciał przez to powiedzieć. Możesz wrócić do zdania, że Bóg słyszy, i na tym poprzestać.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Abraham miał być ojcem wiary, a tak się zachował?”** Biblia nie retuszuje swoich bohaterów i to jest jej uczciwość. Abraham też żyje z drugiej szansy. Dziś jednak patrzymy oczami Hagar, więc nie pozwól, żeby rozmowa przeszła w rozliczanie patriarchy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Pytanie o Arabów, islam albo konflikty na Bliskim Wschodzie.** Zatrzymaj to spokojnie. Powiedz, że tekst mówi o Bogu, który był z chłopcem, i że na tym dziś stoimy. Bez polityki i bez porównywania religii.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**„Paweł w Liście do Galacjan mówi o Hagar źle.”** Paweł sam zaznacza, że czyta tę historię obrazowo. Jeśli grupa pracuje na poziomie 3, macie o tym osobny blok. Jeśli nie, wystarczy powiedzieć, że Księga Rodzaju pokazuje Boga, który Hagar widzi i słyszy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Ktoś opowiada długo o własnym wykorzystaniu.** Wysłuchaj spokojnie, nie dopytuj o szczegóły, nie diagnozuj i nie udzielaj rad. Podziękuj i spokojnie wróć do tekstu. Jeśli sprawa jest poważna, zostań z tą osobą po spotkaniu.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Nie zdążycie z materiałem.** Zostaw blok 3 i blok 5. Bloki 2 i 4 niosą spotkanie: imię, które Hagar nadaje Bogu, i studnia otwarta jej oczom.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "„Czyli Bóg każe wracać do kogoś, kto mnie krzywdzi?”",
+     "odpowiedz": "Nie. Słowa do Hagar dotyczyły jej sytuacji na pustyni i Biblia nigdzie nie robi z nich zasady. Ten sam Bóg za drugim razem prowadzi ją z dala od tego domu i sam się nią opiekuje. Jeśli ktoś mówi o przemocy we własnym domu, nie zostawaj z tym sam. Porozmawiaj z tą osobą po spotkaniu i skieruj ją do pomocy specjalistycznej. Telefon zaufania dla dorosłych w kryzysie to 116 123, a w zagrożeniu 112."
+    },
+    {
+     "sytuacja": "Ktoś mówi o własnej niepłodności albo o stracie dziecka.",
+     "odpowiedz": "Wysłuchaj i podziękuj. Nie pocieszaj gotowymi zdaniami i nie tłumacz, co Bóg chciał przez to powiedzieć. Możesz wrócić do zdania, że Bóg słyszy, i na tym poprzestać."
+    },
+    {
+     "sytuacja": "„Abraham miał być ojcem wiary, a tak się zachował?”",
+     "odpowiedz": "Biblia nie retuszuje swoich bohaterów i to jest jej uczciwość. Abraham też żyje z drugiej szansy. Dziś jednak patrzymy oczami Hagar, więc nie pozwól, żeby rozmowa przeszła w rozliczanie patriarchy."
+    },
+    {
+     "sytuacja": "Pytanie o Arabów, islam albo konflikty na Bliskim Wschodzie.",
+     "odpowiedz": "Zatrzymaj to spokojnie. Powiedz, że tekst mówi o Bogu, który był z chłopcem, i że na tym dziś stoimy. Bez polityki i bez porównywania religii."
+    },
+    {
+     "sytuacja": "„Paweł w Liście do Galacjan mówi o Hagar źle.”",
+     "odpowiedz": "Paweł sam zaznacza, że czyta tę historię obrazowo. Jeśli grupa pracuje na poziomie 3, macie o tym osobny blok. Jeśli nie, wystarczy powiedzieć, że Księga Rodzaju pokazuje Boga, który Hagar widzi i słyszy."
+    },
+    {
+     "sytuacja": "Ktoś opowiada długo o własnym wykorzystaniu.",
+     "odpowiedz": "Wysłuchaj spokojnie, nie dopytuj o szczegóły, nie diagnozuj i nie udzielaj rad. Podziękuj i spokojnie wróć do tekstu. Jeśli sprawa jest poważna, zostań z tą osobą po spotkaniu."
+    },
+    {
+     "sytuacja": "Nie zdążycie z materiałem.",
+     "odpowiedz": "Zostaw blok 3 i blok 5. Bloki 2 i 4 niosą spotkanie: imię, które Hagar nadaje Bogu, i studnia otwarta jej oczom."
+    }
+   ]
+  }
+ ]
+}
