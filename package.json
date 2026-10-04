@@ -9,7 +9,7 @@
     "test": "vitest run",
     "test:regression": "vitest run --config vitest.regression.config.ts",
     "test:watch": "vitest",
-    "postbuild": "node tools/prune_dist_langs.mjs && node tools/gen_og_pages.mjs",
+    "postbuild": "node tools/prune_dist_langs.mjs && node tools/gen_og_pages.mjs && node tools/gen_seo.mjs",
     "preview": "vite preview"
   },
   "dependencies": {

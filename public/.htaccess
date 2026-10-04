@@ -11,6 +11,10 @@
   RewriteCond %{HTTP:X-Forwarded-Proto} !=https
   RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
 
+  # Beta zostala zdjeta z serwera 2026-10-04 (zyje na GitHub Pages) - stare linki
+  # i zainstalowana beta trafiaja na strone glowna.
+  RewriteRule ^beta(/.*)?$ /pl/ [R=301,L]
+
   # Brakujacy plik tresci pozostaje bledem 404, a nie strona HTML.
   RewriteRule ^content/ - [L]
 

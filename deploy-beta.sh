@@ -16,6 +16,12 @@
 # (Ctrl+Shift+R) albo w oknie prywatnym.
 set -euo pipefail
 
+# 2026-10-04: beta zdjeta z serwera (decyzja autora). Wersja testowa zyje na GitHub
+# Pages Tomka: https://tomekd13.github.io/Apka_Marka/ - buduje sie sama po kazdym
+# pushu do main (.github/workflows/deploy-pages.yml). Na serwer bety nie wysylamy.
+echo "Beta nie trafia juz na serwer. Wersja testowa: https://tomekd13.github.io/Apka_Marka/ (po git push)." >&2
+exit 1
+
 export MSYS_NO_PATHCONV=1
 export MSYS2_ARG_CONV_EXCL='*'
 

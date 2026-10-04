@@ -79,6 +79,10 @@ nigdy ludzi; dar proroctwa i EGW bez nacisku, fundamentem Biblia.
 
 ## Beta (`/beta/`) – co siedzi za przełącznikiem
 
+> **2026-10-04: beta zdjęta z serwera** (decyzja autora). Wersja testowa = GitHub Pages
+> https://tomekd13.github.io/Apka_Marka/ – buduje się sama po każdym `git push` do `main`.
+> `deploy-beta.sh` odmawia pracy; `/beta/` na serwerze przekierowuje 301 na `/pl/`.
+
 > **2026-10-02: beta przeniesiona na stronę główną** (decyzja autora). `BETA = true`
 > w `src/lib/beta.ts` – wszystko z tabeli niżej działa już na https://jestnadzieja.adwent.pl/.
 > Opis zostaje, bo mówi, gdzie co leży. Następna nowość „tylko na betę” = przywróć warunek
@@ -124,6 +128,12 @@ bezpośredni `localStorage.setItem` omija synchronizację.
   limit prób liczony po samym IP, ciasteczko sesji `HttpOnly; SameSite=Strict`.
 - Otwarte: CSP (sprawdzić z logowaniem Google i YouTube), ograniczenie klucza API do domeny,
   App Check.
+
+**Wyszukiwarki (2026-10-04):** `tools/gen_seo.mjs` (postbuild, tylko base `/`) tworzy
+`dist/<ścieżka>/index.html` dla działów, 40 dni, Człowieka Nadziei, Grup Nadziei, lekcji
+i pieśni – z własnym tytułem, opisem, adresem kanonicznym i początkiem tekstu – oraz
+`sitemap.xml` i `robots.txt`. Wcześniej każda podstrona miała kanoniczny adres strony
+głównej i Google traktował ją jak duplikat. Nowy dział = dopisz go w `gen_seo.mjs`.
 
 **Firebase:** projekt `jest-nadzieja`, Firestore `europe-central2` (Warszawa), dane
 w `users/{uid}/lists/{lista}`, reguły wpuszczają wyłącznie właściciela. Konsolą zarządza
