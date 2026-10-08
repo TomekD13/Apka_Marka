@@ -411,7 +411,12 @@
     "unavailable": "Materiały są niedostępne.",
     "sources": "Źródła",
     "questionChallenge": "Pytanie i wyzwanie",
-    "challenge": "Wyzwanie"
+    "challenge": "Wyzwanie",
+    "availableFrom": "Dostępny od",
+    "locked": "Jeszcze niedostępny",
+    "scheduleInfo": "Każdego dnia otwiera się jeden nowy materiał – w dniu podanym przy tytule. Wcześniejsze możesz czytać w dowolnej chwili.",
+    "lockedBody": "Ten materiał otworzy się",
+    "lockedHint": "Codziennie jeden nowy tekst – wróć tego dnia."
   },
   "settings": {
     "intro": "Wybierz wygląd, który jest najwygodniejszy dla Ciebie.",

@@ -14,6 +14,7 @@ import { BackLink } from '../components/BackLink'
 import { FontScale } from '../components/FontScale'
 import { PageHeading } from '../components/PageHeading'
 import { listRead } from '../lib/progress'
+import { isAvailable } from '../lib/availability'
 import { BETA } from '../lib/beta'
 import { ReadPill, ReadTop } from '../components/MaterialActions'
 import type { EduIndex, EduItem } from '../types'
@@ -54,7 +55,22 @@ export function EduList({ limit }: { limit?: number }) {
 
   return (
     <div className="space-y-1.5">
-      {items.map((it) => (
+      {items.map((it) => !isAvailable(it.date) ? (
+        <div
+          key={it.nr}
+          aria-disabled="true"
+          className="flex items-start gap-3 rounded-lg border border-dashed border-slate-300 bg-slate-100/60 px-3 py-2 text-slate-500"
+        >
+          <span className="w-6 shrink-0 pt-0.5 text-right text-xs tabular-nums text-slate-400">{it.nr}</span>
+          <span className="min-w-0 flex-1">
+            <span className="block truncate font-medium leading-snug">{it.title}</span>
+            <span className="block truncate text-xs">
+              {t('edu.availableFrom', 'Dostępny od')} <span className="font-semibold text-slate-600">{it.dateLabel}</span>
+            </span>
+          </span>
+          <span className="shrink-0 pt-0.5 text-base" aria-hidden title={t('edu.locked', 'Jeszcze niedostępny')}>🔒</span>
+        </div>
+      ) : (
         <Link
           key={it.nr}
           to={`/${lang}/edukacja/${it.nr}`}
@@ -93,7 +109,10 @@ export function Edu() {
         {t('nav.topics', 'Menu główne')}
       </BackLink>
       <PageHeading icon="lesson" title={t('edu.title', 'Człowiek Nadziei')} className="mb-1" />
-      <p className="mb-5 text-sm text-slate-400">{data?.series || '#JestNadzieja'}</p>
+      <p className="mb-3 text-sm text-slate-400">{data?.series || '#JestNadzieja'}</p>
+      <p className="mb-5 rounded-xl border border-violet-400/30 bg-violet-500/10 px-3 py-2 text-sm text-slate-600 dark:text-slate-300">
+        {t('edu.scheduleInfo', 'Każdego dnia otwiera się jeden nowy materiał – w dniu podanym przy tytule. Wcześniejsze możesz czytać w dowolnej chwili.')}
+      </p>
       <EduList />
     </div>
   )
@@ -137,9 +156,26 @@ export function EduItemPage() {
     )
   if (!entry) return <p className="text-slate-400">{t('common.loading', '…')}</p>
 
+  if (!isAvailable(entry.date))
+    return (
+      <div className="mx-auto max-w-xl">
+        <BackLink to={backTo}>{t('edu.backToList', 'Wróć do spisu materiałów')}</BackLink>
+        <div className="mt-6 rounded-2xl border border-violet-400/40 bg-violet-500/10 p-5 text-center">
+          <p className="text-3xl" aria-hidden>🔒</p>
+          <p className="mt-2 text-xs font-semibold uppercase tracking-wide text-violet-300">{t('edu.item', 'Materiał')} {entry.nr}</p>
+          <h1 className="mt-1 text-xl font-bold text-slate-100">{entry.title}</h1>
+          <p className="mt-3 text-slate-200">
+            {t('edu.lockedBody', 'Ten materiał otworzy się')} <strong>{entry.dateLabel}</strong>.
+          </p>
+          <p className="mt-1 text-sm text-slate-400">{t('edu.lockedHint', 'Codziennie jeden nowy tekst – wróć tego dnia.')}</p>
+        </div>
+      </div>
+    )
+
   const available = (['short', 'long'] as TextVersion[]).filter((v) => entry.versions[v])
   const shown = entry.versions[version] ?? entry.versions[available[0]]
   const total = index?.items.length ?? 0
+  const nextItem = index?.items.find((x) => x.nr === entry.nr + 1)
   const questions = shown?.questions ?? []
   const challenge = shown?.challenge ?? []
 
@@ -243,7 +279,11 @@ export function EduItemPage() {
         ) : (
           <span />
         )}
-        {entry.nr < total ? (
+        {entry.nr < total && nextItem && !isAvailable(nextItem.date) ? (
+          <span className="text-slate-500">
+            {t('edu.next', 'Następny materiał')}: {nextItem.dateLabel} 🔒
+          </span>
+        ) : entry.nr < total ? (
           <Link to={`/${lang}/edukacja/${entry.nr + 1}`} className="text-brand-light hover:underline">
             {t('edu.next', 'Następny materiał')} ›
           </Link>

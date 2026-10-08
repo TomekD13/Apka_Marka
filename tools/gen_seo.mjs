@@ -88,7 +88,13 @@ for (const d of pray40.days) {
 
 // --- Czlowiek Nadziei --------------------------------------------------------------
 const edu = json('edu/index.json')
+const today = new Date().toISOString().slice(0, 10)
 for (const it of edu.items) {
+  // material otwiera sie w swoim dniu - wczesniej robot nie dostaje jego tresci
+  if (it.date && it.date > today) {
+    add({ path: `/pl/edukacja/${it.nr}/`, title: `${it.title} – Człowiek Nadziei`, desc: `Materiał z cyklu Człowiek Nadziei – dostępny od ${it.dateLabel}.`, body: [`Dostępny od ${it.dateLabel}.`] })
+    continue
+  }
   const item = json(`edu/${String(it.nr).padStart(2, '0')}.json`)
   const v = item.versions.short || item.versions.long
   const paras = v.sections.flatMap((s) => s.paragraphs).slice(0, 3)
@@ -148,7 +154,6 @@ for (const p of pages) {
 let root = tpl.replace(/<link rel="canonical" href="[^"]*" \/>/, `<link rel="canonical" href="${SITE}/pl/" />`)
 writeFileSync(tplPath, root, 'utf8')
 
-const today = new Date().toISOString().slice(0, 10)
 const sitemap =
   '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
   pages.map((p) => `  <url><loc>${SITE}${p.path}</loc><lastmod>${today}</lastmod></url>`).join('\n') +
