@@ -178,7 +178,7 @@ export function AudioPlayer({
   const total = duration || seconds
   const playLabel = playing ? t('audio.pause', 'Pauza') : t('audio.play', 'Odtwórz')
   // twarda spacja: „5,0 MB” nie rozpada sie na dwie linie obok przycisku w naglowku
-  const meta = [note, clock(seconds), bytes ? `${comma(bytes / 1e6, 1)} MB` : ''].filter(Boolean).join(' · ')
+  const meta = [note, clock(seconds), bytes ? `${comma(bytes / 1e6, 1)}\u00a0MB` : ''].filter(Boolean).join('\u00a0· ')
   const skipBtn =
     'shrink-0 rounded-md border border-slate-500/40 px-2 py-1 text-xs tabular-nums text-slate-200 transition hover:bg-brand/20 hover:text-white'
 
