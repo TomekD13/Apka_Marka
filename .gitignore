@@ -33,3 +33,8 @@ Update_40dni/
 
 # Lokalne makiety i materiały robocze — nie są częścią kompilacji strony.
 docs/
+
+# Nagrania lektorskie (tools/build_edu_audio.py) - po kilka MB na odcinek, a repo jest
+# publiczne. Leza lokalnie i na serwerze (deploy-ftp.sh wysyla je z dist/). Wersja testowa
+# na GitHub Pages bierze je ze strony glownej - adres w src/components/AudioPlayer.tsx.
+public/audio/

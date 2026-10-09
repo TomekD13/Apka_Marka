@@ -46,7 +46,9 @@ export default defineConfig({
         // nie precache'ujemy treści (bywa duża) – cache'ujemy ją w runtime; „Pobierz offline” ją rozgrzewa
         globPatterns: ['**/*.{js,css,html,svg,png,webp,woff2}'],
         // tresc dociagamy w runtime; baner w wersji 2560 tylko wtedy, gdy ekran go potrzebuje
-        globIgnores: ['**/content/**', '**/jestnadzieja-2560.png'],
+        // nagrania (public/audio/) leca wylacznie online - ani precache, ani runtimeCaching;
+        // zadna regula ponizej ich nie obejmuje, wiec service worker przepuszcza je do sieci
+        globIgnores: ['**/content/**', '**/audio/**', '**/jestnadzieja-2560.png'],
         runtimeCaching: [
           {
             urlPattern: ({ url }) => url.pathname.includes('/content/'),

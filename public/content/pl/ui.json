@@ -614,5 +614,18 @@
     "kindEdu": "Człowiek Nadziei",
     "kindGroup": "Grupy Nadziei",
     "bookmarks": "Zakładki w Biblii"
+  },
+  "audio": {
+    "listen": "Posłuchaj",
+    "longVersion": "nagranie wersji pełnej",
+    "play": "Odtwórz",
+    "pause": "Pauza",
+    "position": "Miejsce w nagraniu",
+    "back": "Cofnij o 15 sekund",
+    "forward": "Do przodu o 15 sekund",
+    "speed": "Tempo",
+    "speedReset": "Normalne tempo",
+    "hasAudio": "Z nagraniem do posłuchania",
+    "error": "Nie udało się wczytać nagrania. Sprawdź połączenie z internetem i spróbuj ponownie."
   }
 }

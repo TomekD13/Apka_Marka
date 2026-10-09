@@ -172,8 +172,20 @@ export interface EduEntry {
   /** dzien w cyklu - Czlowiek Nadziei idzie zaraz po 40 dniach modlitwy */
   date?: string
   dateLabel?: string
+  /** otwarty od razu, niezaleznie od daty (np. pierwszy odcinek przed startem cyklu) */
+  open?: boolean
+  /** w spisie: material ma nagranie lektorskie */
+  audio?: boolean | EduAudio
 }
-export interface EduItem extends EduEntry {
+/** Nagranie lektorskie wersji pelnej (`public/audio/edu/NNN.mp3`, robi tools/build_edu_audio.py). */
+export interface EduAudio {
+  /** sciezka wzgledem korzenia strony, z suma pliku w `?v=` */
+  src: string
+  seconds: number
+  bytes: number
+}
+export interface EduItem extends Omit<EduEntry, 'audio'> {
+  audio?: EduAudio
   note?: string
   /** bibliografia z wersji pelnej - lista pozycji */
   sources?: string[]

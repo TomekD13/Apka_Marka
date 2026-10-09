@@ -27,7 +27,8 @@ Nie ma lintera ani frameworka testowego. `npm run build` musi przechodzić czyst
 python tools/extract_spiewnik.py    # PDF -> songs.json (1-700) + Spiewnik/_701-750.json
 python tools/extract_youth.py       # śpiewniki obozowe + rozdział 41 -> songs-youth.json
 python tools/extract_pray40.py      # one27/Teksty{Short,Long} -> pray40/
-python tools/extract_edu.py         # one27/Szkolenia{Short,Long} -> edu/
+python tools/extract_edu.py         # one27/Szkolenia{Short,Long} -> edu/  (--nr 1-7 = tylko te)
+python tools/build_edu_audio.py 1 <wzorzec.mp3>  # nagranie -> public/audio/edu/001.mp3 (48 kb/s mono, -16 LUFS)
 python tools/extract_groups.py      # one27/GrupyBiblijne -> groups/ (Grupy Nadziei)
 python tools/build_prayer_texts.py pl  # teksty do modlitwy (United Prayer) -> prayer-texts.json
 python tools/build_bible_full.py    # pełny przekład -> bible/{KOD}/
@@ -41,6 +42,14 @@ Tak samo `build_prayer_texts.py` przed `build_bible_be.py` – ten drugi zbiera 
 z `prayer-texts.json` i dopiero wtedy dokłada do `bibles/BE.json` teksty wersetów.
 
 Na Windowsie dawaj `PYTHONIOENCODING=utf-8`, inaczej konsola psuje polskie znaki.
+
+**Nagrania Człowieka Nadziei (2026-10-09).** `public/audio/` jest w `.gitignore` (repo publiczne,
+setki plików po kilka MB): nagrania leżą lokalnie i na serwerze, a `deploy-ftp.sh` wysyła je z `dist/`.
+Po `build_edu_audio.py` uruchom `extract_edu.py` – dopisze pole `audio` (ścieżka z sumą `?v=`, długość,
+rozmiar). Odtwarzacz `components/AudioPlayer.tsx` gra **tylko strumieniowo** (decyzja autora):
+`preload="none"`, service worker nie cache'uje `/audio/`, `.htaccess` daje `Cache-Control: no-store`.
+Wersja testowa na GitHub Pages bierze nagrania ze strony głównej. Flaga `open` w JSON-ie
+(`OPEN_NOW` w `extract_edu.py`) otwiera materiał przed jego datą – tak jest z odcinkiem 1.
 
 ## Twarde reguły
 

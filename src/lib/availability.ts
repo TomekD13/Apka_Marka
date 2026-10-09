@@ -11,3 +11,8 @@ export function todayIso(now = new Date()): string {
 export function isAvailable(date?: string, now = new Date()): boolean {
   return !date || date <= todayIso(now)
 }
+
+/** Material z flaga `open` jest dostepny od razu, reszta od swojej daty. */
+export function isOpen(entry: { date?: string; open?: boolean }, now = new Date()): boolean {
+  return Boolean(entry.open) || isAvailable(entry.date, now)
+}

@@ -5,6 +5,7 @@
     python tools/extract_edu.py                  # -> public/content/pl/edu/
     python tools/extract_edu.py --check          # sam raport, bez zapisu
     python tools/extract_edu.py --src <katalog>  # inne zrodlo niz domyslne
+    python tools/extract_edu.py --nr 1-7         # tylko te materialy; reszta zostaje jak jest
 
 Kazde szkolenie ma dwie wersje tego samego tekstu - krotka (SzkoleniaShort)
 i pelna (SzkoleniaLong). Numer bierzemy z nazwy pliku (`001_...md`), reszte
@@ -28,9 +29,11 @@ czytanki - czytelnik pobiera tylko to, co otwiera.
 """
 from __future__ import annotations
 
+import hashlib
 import io
 import json
 import re
+import subprocess
 import sys
 from datetime import date, timedelta
 from pathlib import Path
@@ -43,6 +46,15 @@ PRAY40 = ROOT / "public" / "content" / "pl" / "pray40" / "index.json"
 # Do aplikacji wchodza tylko teksty po korekcie autora - w zrodle leza juz dalsze
 # szkolenia (do 080), ale czekaja. Podnies, gdy autor odda kolejne.
 PUBLISHED = 10
+
+# Materialy otwarte od razu, niezaleznie od daty (decyzja autora 2026-10-09: pierwszy
+# odcinek z nagraniem dostepny przed startem cyklu, reszta w swoim dniu).
+OPEN_NOW = {1}
+
+# Nagrania lektorskie: public/audio/edu/NNN.mp3 (robi je tools/build_edu_audio.py).
+# Katalog jest poza repo (.gitignore), wiec ten skrypt dopisuje pole `audio` tylko
+# tam, gdzie plik lezy lokalnie - uruchamiaj go na komputerze z nagraniami.
+AUDIO = ROOT / "public" / "audio" / "edu"
 
 # Czlowiek Nadziei idzie dzien po dniu zaraz po 40 dniach modlitwy (decyzja autora
 # 2026-10-02): material 1 = dzien po ostatniej czytance. Etykieta jak w extract_pray40.py.
@@ -59,6 +71,25 @@ def dzien(nr: int, start: date) -> tuple[str, str]:
     d = start + timedelta(days=nr - 1)
     return d.isoformat(), f"{d.day} {MIESIACE[d.month - 1]}, {DNI_TYGODNIA[d.weekday()]}"
 
+def audio_info(nr: int) -> dict | None:
+    """Opis nagrania do JSON-a: sciezka z suma (nowe nagranie = nowy adres, stare nie
+    wisi w cache), dlugosc i rozmiar - czytelnik widzi je przed pobraniem."""
+    path = AUDIO / f"{nr:03d}.mp3"
+    if not path.exists():
+        return None
+    data = path.read_bytes()
+    p = subprocess.run(
+        ["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(path)],
+        capture_output=True, text=True,
+    )
+    seconds = float(p.stdout.strip()) if p.returncode == 0 and p.stdout.strip() else len(data) * 8 / 48000
+    return {
+        "src": f"audio/edu/{nr:03d}.mp3?v={hashlib.md5(data).hexdigest()[:8]}",
+        "seconds": round(seconds),
+        "bytes": len(data),
+    }
+
+
 RE_NR_FILE = re.compile(r"^(\d{1,3})[_\-\s]")
 RE_H1 = re.compile(r"^#\s+(.*)$")
 RE_H2 = re.compile(r"^##\s+(.*)$")
@@ -68,6 +99,8 @@ RE_NOTE = re.compile(r"^Cytaty\s*:", re.I)
 # uklad z pazdziernika 2026: na koncu jedno pogrubione pytanie i lista zrodel
 RE_BOLD_BLOCK = re.compile(r"^\*\*(.+)\*\*$", re.S)
 RE_SOURCES = re.compile(r"^(Źródła|Zrodla|Bibliografia)$", re.I)
+# akapity wyzwania na dzis - ida do ramki z pytaniem
+RE_CHALLENGE = re.compile(r"^\*\*W (myślach|działaniu)\.\*\*")
 # myslnik przed odnoszem wersetu - w zrodlach bywa pauza, polpauza albo dywiz
 RE_QUOTE_REF = re.compile(r"^[\u2014–-]\s*(.+)$")
 
@@ -94,7 +127,17 @@ def read_md(path: Path) -> dict:
     in_questions = False
     in_sources = False
 
-    for block in blocks(io.open(path, encoding="utf-8").read()):
+    all_blocks = blocks(io.open(path, encoding="utf-8").read())
+
+    def bold_question(block: str) -> bool:
+        m = RE_BOLD_BLOCK.match(" ".join(ln.strip() for ln in block.splitlines() if ln.strip()))
+        return bool(m) and m.group(1).strip().endswith("?") and "**" not in m.group(1)
+
+    # pytaniem dnia jest tylko OSTATNIE pogrubione pytanie - wczesniejsze (np. wyroznione
+    # pytanie we wstepie 006 u Beaty) zostaje akapitem
+    last_question = max((i for i, b in enumerate(all_blocks) if bold_question(b)), default=-1)
+
+    for bi, block in enumerate(all_blocks):
         lines = [ln.strip() for ln in block.splitlines() if ln.strip()]
 
         m = RE_H1.match(lines[0])
@@ -104,6 +147,8 @@ def read_md(path: Path) -> dict:
         m = RE_H2.match(lines[0])
         if m and RE_SOURCES.match(m.group(1).strip()):
             in_sources = True
+            # lista moze stac tuz pod naglowkiem, bez pustej linii (docx_bd_do_md.py)
+            out["sources"] += [ln.lstrip("-*• ").strip() for ln in lines[1:] if ln.lstrip("-*• ").strip()]
             continue
         if in_sources:
             out["sources"] += [ln.lstrip("-*• ").strip() for ln in lines if ln.lstrip("-*• ").strip()]
@@ -131,7 +176,7 @@ def read_md(path: Path) -> dict:
             continue
         # samodzielne pogrubione pytanie zamyka tekst - to pytanie do przemyslenia
         m = RE_BOLD_BLOCK.match(" ".join(lines))
-        if m and m.group(1).strip().endswith("?") and "**" not in m.group(1):
+        if bi == last_question and m:
             out["questions"].append(m.group(1).strip())
             # wyzwanie stoi tuz przed pytaniem: w wersji pelnej cala sekcja „Na dzis”,
             # w krotkiej ostatni akapit („Zanim odlozysz telefon...”). Idzie do ramki z pytaniem.
@@ -139,6 +184,12 @@ def read_md(path: Path) -> dict:
                 out["challenge"] = current["paragraphs"]
                 out["sections"].remove(current)
                 current = None
+            elif current and any(RE_CHALLENGE.match(p) for p in current["paragraphs"]):
+                # „W myslach” / „W dzialaniu” bez srodtytulu „Na dzis” (004 u Beaty)
+                tail = []
+                while current["paragraphs"] and RE_CHALLENGE.match(current["paragraphs"][-1]):
+                    tail.insert(0, current["paragraphs"].pop())
+                out["challenge"] = tail
             elif current and current["paragraphs"]:
                 out["challenge"] = [current["paragraphs"].pop()]
             continue
@@ -174,6 +225,12 @@ def main() -> int:
     src = DEFAULT_SRC
     if "--src" in args:
         src = Path(args[args.index("--src") + 1])
+    only: set[int] | None = None
+    if "--nr" in args:
+        only = set()
+        for part in args[args.index("--nr") + 1].split(","):
+            a, _, b = part.partition("-")
+            only.update(range(int(a), int(b or a) + 1))
 
     short_dir, long_dir = src / "SzkoleniaShort", src / "SzkoleniaLong"
     for d in (short_dir, long_dir):
@@ -203,14 +260,17 @@ def main() -> int:
         base = l or s
         quote = (base or {}).get("quote") or {}
         iso, etykieta = dzien(n, start)
+        audio = audio_info(n)
         item = {
             "nr": n,
             "date": iso,
             "dateLabel": etykieta,
+            **({"open": True} if n in OPEN_NOW else {}),
             "title": base["title"],
             "ref": quote.get("ref", ""),
             "note": base["note"],
             "sources": (l or {}).get("sources") or (s or {}).get("sources") or [],
+            **({"audio": audio} if audio else {}),
             "versions": {},
         }
         for key, data in (("short", s), ("long", l)):
@@ -223,7 +283,12 @@ def main() -> int:
                 "challenge": data["challenge"],
             }
         files[n] = item
-        index_items.append({"nr": n, "date": iso, "dateLabel": etykieta, "title": base["title"], "ref": item["ref"]})
+        index_items.append({
+            "nr": n, "date": iso, "dateLabel": etykieta,
+            **({"open": True} if n in OPEN_NOW else {}),
+            "title": base["title"], "ref": item["ref"],
+            **({"audio": True} if audio else {}),
+        })
 
         if not base["title"]:
             problems.append(f"Szkolenie {n}: pusty tytuł")
@@ -257,6 +322,12 @@ def main() -> int:
         return 1 if problems else 0
 
     OUT.mkdir(parents=True, exist_ok=True)
+    if only is not None:
+        # pozostale materialy zostaja w obecnej postaci - takze ich wpis w spisie
+        old = {it["nr"]: it for it in json.loads((OUT / "index.json").read_text(encoding="utf-8"))["items"]}
+        index_items = [it if it["nr"] in only or it["nr"] not in old else old[it["nr"]] for it in index_items]
+        files = {n: it for n, it in files.items() if n in only}
+        print(f"Aktualizuję tylko: {', '.join(map(str, sorted(files)))}")
     for n, item in files.items():
         with io.open(OUT / f"{n:02d}.json", "w", encoding="utf-8", newline="\n") as f:
             json.dump(item, f, ensure_ascii=False, indent=2)

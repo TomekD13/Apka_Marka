@@ -14,7 +14,8 @@ import { BackLink } from '../components/BackLink'
 import { FontScale } from '../components/FontScale'
 import { PageHeading } from '../components/PageHeading'
 import { listRead } from '../lib/progress'
-import { isAvailable } from '../lib/availability'
+import { isOpen } from '../lib/availability'
+import { AudioPlayer } from '../components/AudioPlayer'
 import { BETA } from '../lib/beta'
 import { ReadPill, ReadTop } from '../components/MaterialActions'
 import type { EduIndex, EduItem } from '../types'
@@ -55,7 +56,7 @@ export function EduList({ limit }: { limit?: number }) {
 
   return (
     <div className="space-y-1.5">
-      {items.map((it) => !isAvailable(it.date) ? (
+      {items.map((it) => !isOpen(it) ? (
         <div
           key={it.nr}
           aria-disabled="true"
@@ -79,7 +80,12 @@ export function EduList({ limit }: { limit?: number }) {
         >
           <span className="w-6 shrink-0 pt-0.5 text-right text-xs tabular-nums text-slate-500">{it.nr}</span>
           <span className="min-w-0 flex-1">
-            <span className="block truncate font-medium leading-snug">{it.title}</span>
+            <span className="block truncate font-medium leading-snug">
+              {it.audio && (
+                <span className="mr-1" title={t('audio.hasAudio', 'Z nagraniem do posłuchania')} aria-label={t('audio.hasAudio', 'Z nagraniem do posłuchania')}>🎧</span>
+              )}
+              {it.title}
+            </span>
             {BETA && it.dateLabel ? (
               <span className="block truncate text-xs text-slate-500"><span className="font-semibold text-slate-700">{it.dateLabel}</span>{it.ref ? ` · ${it.ref}` : ''}</span>
             ) : it.ref && <span className="block truncate text-xs text-slate-500">{it.ref}</span>}
@@ -156,7 +162,7 @@ export function EduItemPage() {
     )
   if (!entry) return <p className="text-slate-400">{t('common.loading', '…')}</p>
 
-  if (!isAvailable(entry.date))
+  if (!isOpen(entry))
     return (
       <div className="mx-auto max-w-xl">
         <BackLink to={backTo}>{t('edu.backToList', 'Wróć do spisu materiałów')}</BackLink>
@@ -192,6 +198,16 @@ export function EduItemPage() {
         {BETA && entry.dateLabel && <p className="mt-0.5 text-sm text-slate-400">{entry.dateLabel}</p>}
         {BETA && <ReadTop kind="edu" id={entry.nr} />}
       </header>
+
+      {entry.audio && (
+        <AudioPlayer
+          src={entry.audio.src}
+          seconds={entry.audio.seconds}
+          bytes={entry.audio.bytes}
+          title={`${entry.nr}. ${entry.title}`}
+          note={t('audio.longVersion', 'nagranie wersji pełnej')}
+        />
+      )}
 
       <div className="mb-5 flex flex-wrap items-center justify-between gap-2">
         <VersionToggle value={version} onChange={pick} available={available} />
@@ -279,7 +295,7 @@ export function EduItemPage() {
         ) : (
           <span />
         )}
-        {entry.nr < total && nextItem && !isAvailable(nextItem.date) ? (
+        {entry.nr < total && nextItem && !isOpen(nextItem) ? (
           <span className="text-slate-500">
             {t('edu.next', 'Następny materiał')}: {nextItem.dateLabel} 🔒
           </span>

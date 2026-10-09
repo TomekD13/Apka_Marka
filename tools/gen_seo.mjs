@@ -91,7 +91,8 @@ const edu = json('edu/index.json')
 const today = new Date().toISOString().slice(0, 10)
 for (const it of edu.items) {
   // material otwiera sie w swoim dniu - wczesniej robot nie dostaje jego tresci
-  if (it.date && it.date > today) {
+  // (chyba ze jest otwarty od razu - flaga `open`, jak pierwszy odcinek)
+  if (!it.open && it.date && it.date > today) {
     add({ path: `/pl/edukacja/${it.nr}/`, title: `${it.title} – Człowiek Nadziei`, desc: `Materiał z cyklu Człowiek Nadziei – dostępny od ${it.dateLabel}.`, body: [`Dostępny od ${it.dateLabel}.`] })
     continue
   }
