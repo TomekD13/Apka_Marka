@@ -67,12 +67,12 @@ describe('Teksty do modlitwy — regresja', () => {
     render(<MemoryRouter><PrayerTexts /></MemoryRouter>)
 
     const pierwszy = (await screen.findByRole('heading', { name: 'Wdzięczność' }))
-      .closest('section')!.querySelector('.text-brand')!.textContent
+      .closest('section')!.querySelector('span.text-brand')!.textContent
     await userEvent.click(screen.getByRole('button', { name: 'Losowo' }))
 
     await waitFor(() => {
       const teraz = screen.getByRole('heading', { name: 'Wdzięczność' })
-        .closest('section')!.querySelector('.text-brand')!.textContent
+        .closest('section')!.querySelector('span.text-brand')!.textContent
       expect(teraz).not.toBe(pierwszy)
     })
   })

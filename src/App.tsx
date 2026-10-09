@@ -1,5 +1,5 @@
 import { useEffect } from 'react'
-import { createBrowserRouter, Outlet, useLocation, useParams } from 'react-router-dom'
+import { createBrowserRouter, Navigate, Outlet, useLocation, useParams, type RouteObject } from 'react-router-dom'
 import { registerSW } from 'virtual:pwa-register'
 import { I18nProvider } from './i18n'
 import { PlaceProvider } from './place'
@@ -55,7 +55,7 @@ function LangLayout() {
   }, [location.pathname])
   return (
     <ThemeProvider>
-      <I18nProvider lang={lang}>
+      <I18nProvider lang={lang} sections={SECTIONS}>
         <PlaceProvider>
           <div className="min-h-full flex flex-col">
             <AppNavigation />
@@ -73,60 +73,70 @@ function LangLayout() {
   )
 }
 
+const langRoutes: RouteObject[] = [
+  { index: true, element: <Home /> },
+  { path: 'c/:category', element: <CategoryPage /> },
+  { path: 'search', element: <SearchPage /> },
+  { path: 's/:id', element: <Reader /> },
+  { path: 'about', element: <About /> },
+  { path: 'biblia', element: <BibleHub /> },
+  { path: 'biblia/czytaj', element: <BiblePage /> },
+  { path: 'biblia/szukaj', element: <BibleSearchPage /> },
+  { path: 'biblia/zakladki', element: <BibleBookmarksPage /> },
+  { path: 'biblia/przeklady', element: <BibleModulesPage /> },
+  // plany czytania - na razie tylko beta
+  ...(BETA
+    ? [
+        { path: 'biblia/plany', element: <ReadingPlansPage /> },
+        { path: 'biblia/plany/nowy/:planId', element: <ReadingPlanSetup /> },
+        { path: 'biblia/plany/moje/:id', element: <ReadingPlanView /> },
+        { path: 'ulubione', element: <Favorites /> },
+        { path: 'instalacja', element: <Settings installOnly /> },
+      ]
+    : []),
+  { path: 'biblia/:book/:chapter', element: <BibleChapterPage /> },
+  { path: 'fiszki', element: <Flashcards /> },
+  { path: 'okazje', element: <Occasions /> },
+  { path: 'spiewnik', element: <SongsPage collection="hymnal" /> },
+  { path: 'spiewnik/:nr', element: <SongPage collection="hymnal" /> },
+  { path: 'piesni-mlodziezowe', element: <SongsPage collection="youth" /> },
+  { path: 'piesni-mlodziezowe/:nr', element: <SongPage collection="youth" /> },
+  { path: 'piesni', element: <SongsHub /> },
+  { path: 'modlitwa', element: <PrayerHub /> },
+  { path: 'modlitwa/teksty', element: <PrayerTexts /> },
+  { path: 'modlitwy', element: <Prayers /> },
+  { path: '40-dni', element: <Pray40 /> },
+  { path: '40-dni/:day', element: <Pray40DayPage /> },
+  { path: 'edukacja', element: <Edu /> },
+  { path: 'edukacja/:nr', element: <EduItemPage /> },
+  { path: 'grupy-nadziei', element: <Groups /> },
+  { path: 'grupy-nadziei/:id', element: <GroupItemPage /> },
+  { path: 'poznaj-boga-i-biblie', element: <BibleStudies /> },
+  { path: 'lekcje-biblijne', element: <BibleLessons /> },
+  { path: 'jest-nadzieja', element: <Hope /> },
+  { path: 'ustawienia', element: <Settings /> },
+  { path: 'kontakt', element: <Contact /> },
+  { path: 'konto', element: <Account /> },
+  { path: 'notatki', element: <Notes /> },
+  { path: 'notatki/:id', element: <NoteEdit /> },
+  // nieznany adres: przy zlym kodzie jezyka (/edukacja/3) I18nProvider najpierw przekieruje
+  // pod /pl/..., przy dobrym - strona glowna zamiast pustego bledu routera
+  { path: '*', element: <ToHome /> }
+]
+
+function ToHome() {
+  const { lang = 'pl' } = useParams()
+  return <Navigate to={`/${lang}`} replace />
+}
+
+// pierwsze czlony tras (biblia, edukacja, 40-dni...) - po nich I18nProvider poznaje
+// adres bez kodu jezyka, np. /edukacja/edukacja zbudowane z menu na /edukacja
+const SECTIONS = [...new Set(langRoutes.map((r) => r.path?.split('/')[0] ?? '').filter((s) => /^[a-z0-9-]+$/i.test(s)))]
+
 export const router = createBrowserRouter(
   [
     { path: '/', element: <LangGate /> },
-    {
-      path: '/:lang',
-      element: <LangLayout />,
-      children: [
-        { index: true, element: <Home /> },
-        { path: 'c/:category', element: <CategoryPage /> },
-        { path: 'search', element: <SearchPage /> },
-        { path: 's/:id', element: <Reader /> },
-        { path: 'about', element: <About /> },
-        { path: 'biblia', element: <BibleHub /> },
-        { path: 'biblia/czytaj', element: <BiblePage /> },
-        { path: 'biblia/szukaj', element: <BibleSearchPage /> },
-        { path: 'biblia/zakladki', element: <BibleBookmarksPage /> },
-        { path: 'biblia/przeklady', element: <BibleModulesPage /> },
-        // plany czytania - na razie tylko beta
-        ...(BETA
-          ? [
-              { path: 'biblia/plany', element: <ReadingPlansPage /> },
-              { path: 'biblia/plany/nowy/:planId', element: <ReadingPlanSetup /> },
-              { path: 'biblia/plany/moje/:id', element: <ReadingPlanView /> },
-              { path: 'ulubione', element: <Favorites /> },
-              { path: 'instalacja', element: <Settings installOnly /> },
-            ]
-          : []),
-        { path: 'biblia/:book/:chapter', element: <BibleChapterPage /> },
-        { path: 'fiszki', element: <Flashcards /> },
-        { path: 'okazje', element: <Occasions /> },
-        { path: 'spiewnik', element: <SongsPage collection="hymnal" /> },
-        { path: 'spiewnik/:nr', element: <SongPage collection="hymnal" /> },
-        { path: 'piesni-mlodziezowe', element: <SongsPage collection="youth" /> },
-        { path: 'piesni-mlodziezowe/:nr', element: <SongPage collection="youth" /> },
-        { path: 'piesni', element: <SongsHub /> },
-        { path: 'modlitwa', element: <PrayerHub /> },
-        { path: 'modlitwa/teksty', element: <PrayerTexts /> },
-        { path: 'modlitwy', element: <Prayers /> },
-        { path: '40-dni', element: <Pray40 /> },
-        { path: '40-dni/:day', element: <Pray40DayPage /> },
-        { path: 'edukacja', element: <Edu /> },
-        { path: 'edukacja/:nr', element: <EduItemPage /> },
-        { path: 'grupy-nadziei', element: <Groups /> },
-        { path: 'grupy-nadziei/:id', element: <GroupItemPage /> },
-        { path: 'poznaj-boga-i-biblie', element: <BibleStudies /> },
-        { path: 'lekcje-biblijne', element: <BibleLessons /> },
-        { path: 'jest-nadzieja', element: <Hope /> },
-        { path: 'ustawienia', element: <Settings /> },
-        { path: 'kontakt', element: <Contact /> },
-        { path: 'konto', element: <Account /> },
-        { path: 'notatki', element: <Notes /> },
-        { path: 'notatki/:id', element: <NoteEdit /> }
-      ]
-    }
+    { path: '/:lang', element: <LangLayout />, children: langRoutes }
   ],
   { basename: import.meta.env.BASE_URL }
 )

@@ -4,7 +4,7 @@ import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
 import index from '../../public/content/pl/edu/index.json'
 import item4 from '../../public/content/pl/edu/04.json'
 import item1 from '../../public/content/pl/edu/01.json'
-import { EduItemPage } from './Edu'
+import { EduItemPage, EduList } from './Edu'
 
 vi.mock('../i18n', () => ({ useI18n: () => ({ lang: 'pl', t: (_p: string, f = '') => f }) }))
 vi.mock('../place', () => ({ useSetPlace: () => {} }))
@@ -68,6 +68,15 @@ describe('Czlowiek Nadziei - nowy uklad tekstow', () => {
     expect(screen.getAllByRole('button', { name: /Udostępnij/ }).length).toBeGreaterThan(0)
     expect(screen.queryByText(/Ten materiał otworzy się/)).not.toBeInTheDocument()
     expect(screen.getByText('Pytanie i wyzwanie')).toBeInTheDocument()
+  })
+
+  it('spis przed startem: odcinek 1 do czytania, reszta widoczna z data i klodka', async () => {
+    vi.setSystemTime(new Date('2026-10-09T10:00:00'))
+    render(<MemoryRouter><EduList /></MemoryRouter>)
+    expect(await screen.findByRole('link', { name: /Poznając projekt, poznasz Projektanta/ })).toHaveAttribute('href', '/pl/edukacja/1')
+    expect(screen.getByText('Geniusz bez pamięci. Dlaczego ośmiornice nie władają ziemią?')).toBeInTheDocument()
+    expect(screen.queryByRole('link', { name: /Geniusz bez pamięci/ })).not.toBeInTheDocument()
+    expect(screen.getAllByText(/Dostępny od/)).toHaveLength(9)
   })
 
   it('daty ida od dnia po 40 dniach modlitwy', () => {
