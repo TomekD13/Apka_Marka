@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { Link, useParams } from 'react-router-dom'
+import { Link, useParams, useSearchParams } from 'react-router-dom'
 import { useI18n } from '../i18n'
 import { loadEdu, loadEduItem } from '../content'
 import { useSetPlace } from '../place'
@@ -134,6 +134,9 @@ export function EduItemPage() {
   const [version, setVersion] = useState<TextVersion>(() => rememberedVersion(VERSION_KEY))
 
   const n = Number(nr)
+  // `?sluchaj` - wejscie z udostepnionego nagrania
+  const [params] = useSearchParams()
+  const listen = params.has('sluchaj')
 
   useEffect(() => {
     setEntry(null)
@@ -197,23 +200,28 @@ export function EduItemPage() {
         </p>
         <h1 className="mt-1 text-[1.5em] font-bold text-slate-100">{entry.title}</h1>
         {BETA && entry.dateLabel && <p className="mt-0.5 text-sm text-slate-400">{entry.dateLabel}</p>}
-        {BETA && <ReadTop kind="edu" id={entry.nr} />}
+        <div className="flex flex-wrap items-center gap-x-2">
+          {BETA && <ReadTop kind="edu" id={entry.nr} />}
+          <ShareButton variant="pill" className="mt-3" label={t('reading.shareText', 'Udostępnij tekst')} />
+        </div>
       </header>
 
-      {/* na gorze kazdego odcinka: udostepnianie - przy nagraniu w jego naglowku, bez nagrania osobno */}
-      {entry.audio ? (
+      {entry.audio && (
         <AudioPlayer
           src={entry.audio.src}
           seconds={entry.audio.seconds}
           bytes={entry.audio.bytes}
           title={`${entry.nr}. ${entry.title}`}
           note={t('audio.longVersion', 'nagranie wersji pełnej')}
-          action={<ShareButton />}
+          spotlight={listen}
+          action={
+            <ShareButton
+              url={`${window.location.origin}${import.meta.env.BASE_URL}${lang}/edukacja/${entry.nr}?sluchaj`}
+              text={`${t('audio.shareText', 'Posłuchaj')}: ${entry.title}`}
+              label={t('audio.share', 'Udostępnij nagranie')}
+            />
+          }
         />
-      ) : (
-        <div className="mb-3 flex justify-end">
-          <ShareButton />
-        </div>
       )}
 
       <div className="mb-5 flex flex-wrap items-center justify-between gap-2">

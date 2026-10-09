@@ -502,7 +502,8 @@
     "inviteText": "Zapraszam Cię do darmowej platformy edukacyjnej #JestNadzieja. Znajdziesz tam świetne materiały biblijne i edukacyjne.",
     "fbAppId": "",
     "markDone": "Oznacz jako przeczytane",
-    "doneOn": "Przeczytane ✓"
+    "doneOn": "Przeczytane ✓",
+    "shareText": "Udostępnij tekst"
   },
   "groups": {
     "title": "Grupy Nadziei",
@@ -626,6 +627,8 @@
     "speed": "Tempo",
     "speedReset": "Normalne tempo",
     "hasAudio": "Z nagraniem do posłuchania",
-    "error": "Nie udało się wczytać nagrania. Sprawdź połączenie z internetem i spróbuj ponownie."
+    "error": "Nie udało się wczytać nagrania. Sprawdź połączenie z internetem i spróbuj ponownie.",
+    "share": "Udostępnij nagranie",
+    "shareText": "Posłuchaj"
   }
 }

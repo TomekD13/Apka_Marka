@@ -29,7 +29,7 @@ describe('Czlowiek Nadziei - nowy uklad tekstow', () => {
     expect(document.body.textContent).not.toContain('**')
   })
 
-  it('przycisk udostepniania na gorze takze bez nagrania - przekazuje adres materialu', async () => {
+  it('bez nagrania jest tylko udostepnianie tekstu', async () => {
     const share = vi.fn().mockResolvedValue(undefined)
     Object.defineProperty(navigator, 'share', { value: share, configurable: true })
     render(
@@ -37,7 +37,8 @@ describe('Czlowiek Nadziei - nowy uklad tekstow', () => {
         <Routes><Route path="/:lang/edukacja/:nr" element={<EduItemPage />} /></Routes>
       </MemoryRouter>
     )
-    const top = (await screen.findAllByRole('button', { name: /Udostępnij/ }))[0]
+    const top = await screen.findByRole('button', { name: 'Udostępnij tekst' })
+    expect(screen.queryByRole('button', { name: 'Udostępnij nagranie' })).not.toBeInTheDocument()
     expect(screen.queryByRole('button', { name: 'Odtwórz' })).not.toBeInTheDocument()
     top.click()
     expect(share).toHaveBeenCalledWith({ url: window.location.href })
@@ -65,7 +66,17 @@ describe('Czlowiek Nadziei - nowy uklad tekstow', () => {
       </MemoryRouter>
     )
     expect(await screen.findByRole('button', { name: 'Odtwórz' })).toBeInTheDocument()
-    expect(screen.getAllByRole('button', { name: /Udostępnij/ }).length).toBeGreaterThan(0)
+    // dwa przyciski: tekst (obok „Przeczytane”) i nagranie (w odtwarzaczu)
+    const share = vi.fn().mockResolvedValue(undefined)
+    Object.defineProperty(navigator, 'share', { value: share, configurable: true })
+    screen.getByRole('button', { name: 'Udostępnij tekst' }).click()
+    expect(share).toHaveBeenLastCalledWith({ url: window.location.href })
+    screen.getByRole('button', { name: 'Udostępnij nagranie' }).click()
+    expect(share).toHaveBeenLastCalledWith({
+      text: 'Posłuchaj: Poznając projekt, poznasz Projektanta',
+      url: `${window.location.origin}/pl/edukacja/1?sluchaj`,
+    })
+    Reflect.deleteProperty(navigator, 'share')
     expect(screen.queryByText(/Ten materiał otworzy się/)).not.toBeInTheDocument()
     expect(screen.getByText('Pytanie i wyzwanie')).toBeInTheDocument()
   })

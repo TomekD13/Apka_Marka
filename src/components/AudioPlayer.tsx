@@ -70,6 +70,7 @@ export function AudioPlayer({
   title,
   note,
   action,
+  spotlight = false,
 }: {
   /** sciezka wzgledem korzenia strony, np. `audio/edu/001.mp3?v=...` */
   src: string
@@ -82,9 +83,14 @@ export function AudioPlayer({
   note?: string
   /** przycisk po prawej stronie naglowka (np. „Udostępnij”) */
   action?: ReactNode
+  /** wejscie z udostepnionego linku do nagrania (`?sluchaj`): przewin tu i podswietl */
+  spotlight?: boolean
 }) {
   const { t } = useI18n()
   const ref = useRef<HTMLAudioElement>(null)
+  const box = useRef<HTMLElement>(null)
+  const playBtn = useRef<HTMLButtonElement>(null)
+  const [glow, setGlow] = useState(false)
   const [playing, setPlaying] = useState(false)
   const [waiting, setWaiting] = useState(false)
   const [failed, setFailed] = useState(false)
@@ -135,6 +141,17 @@ export function AudioPlayer({
     saveRate(r)
   }
 
+  // link „Posłuchaj” prowadzi prosto do odtwarzacza; samo odtwarzanie zostaje dla czytelnika
+  // (przegladarki i tak nie pozwalaja grac bez dotkniecia)
+  useEffect(() => {
+    if (!spotlight) return
+    box.current?.scrollIntoView?.({ behavior: 'smooth', block: 'center' })
+    playBtn.current?.focus({ preventScroll: true })
+    setGlow(true)
+    const id = window.setTimeout(() => setGlow(false), 4000)
+    return () => window.clearTimeout(id)
+  }, [spotlight])
+
   // ekran blokady telefonu: tytul i przyciski; sprzatamy po wyjsciu z materialu
   useEffect(() => {
     const ms = typeof navigator !== 'undefined' ? navigator.mediaSession : undefined
@@ -184,8 +201,11 @@ export function AudioPlayer({
 
   return (
     <section
+      ref={box}
       aria-label={t('audio.listen', 'Posłuchaj')}
-      className="no-print mb-5 rounded-xl border border-violet-500/30 bg-violet-500/10 p-3"
+      className={`no-print mb-5 scroll-mt-24 rounded-xl border border-violet-500/30 bg-violet-500/10 p-3 transition-shadow duration-700 ${
+        glow ? 'shadow-[0_0_0_3px_rgba(139,111,245,0.75)]' : ''
+      }`}
     >
       <audio
         ref={ref}
@@ -211,7 +231,7 @@ export function AudioPlayer({
 
       <div className="mb-2 flex items-start justify-between gap-2">
         <p className="pt-1 text-xs text-slate-400">
-          <span className="font-semibold uppercase tracking-wide text-violet-300">{t('audio.listen', 'Posłuchaj')}</span>
+          <span className="font-semibold uppercase tracking-wide text-violet-700 dark:text-violet-300">{t('audio.listen', 'Posłuchaj')}</span>
           {meta && <span> · {meta}</span>}
         </p>
         {action}
@@ -219,6 +239,7 @@ export function AudioPlayer({
 
       <div className="flex items-center gap-3">
         <button
+          ref={playBtn}
           type="button"
           onClick={toggle}
           aria-label={playLabel}
