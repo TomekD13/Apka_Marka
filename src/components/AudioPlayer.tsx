@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useRef, useState, type ReactNode } from 'react'
 import { useI18n } from '../i18n'
 
 /**
@@ -69,6 +69,7 @@ export function AudioPlayer({
   bytes,
   title,
   note,
+  action,
 }: {
   /** sciezka wzgledem korzenia strony, np. `audio/edu/001.mp3?v=...` */
   src: string
@@ -79,6 +80,8 @@ export function AudioPlayer({
   title: string
   /** dopisek przy naglowku, np. „nagranie wersji pełnej” */
   note?: string
+  /** przycisk po prawej stronie naglowka (np. „Udostępnij”) */
+  action?: ReactNode
 }) {
   const { t } = useI18n()
   const ref = useRef<HTMLAudioElement>(null)
@@ -174,7 +177,8 @@ export function AudioPlayer({
 
   const total = duration || seconds
   const playLabel = playing ? t('audio.pause', 'Pauza') : t('audio.play', 'Odtwórz')
-  const meta = [note, clock(seconds), bytes ? `${comma(bytes / 1e6, 1)} MB` : ''].filter(Boolean).join(' · ')
+  // twarda spacja: „5,0 MB” nie rozpada sie na dwie linie obok przycisku w naglowku
+  const meta = [note, clock(seconds), bytes ? `${comma(bytes / 1e6, 1)} MB` : ''].filter(Boolean).join(' · ')
   const skipBtn =
     'shrink-0 rounded-md border border-slate-500/40 px-2 py-1 text-xs tabular-nums text-slate-200 transition hover:bg-brand/20 hover:text-white'
 
@@ -205,10 +209,13 @@ export function AudioPlayer({
         }}
       />
 
-      <p className="mb-2 text-xs text-slate-400">
-        <span className="font-semibold uppercase tracking-wide text-violet-300">{t('audio.listen', 'Posłuchaj')}</span>
-        {meta && <span> · {meta}</span>}
-      </p>
+      <div className="mb-2 flex items-start justify-between gap-2">
+        <p className="pt-1 text-xs text-slate-400">
+          <span className="font-semibold uppercase tracking-wide text-violet-300">{t('audio.listen', 'Posłuchaj')}</span>
+          {meta && <span> · {meta}</span>}
+        </p>
+        {action}
+      </div>
 
       <div className="flex items-center gap-3">
         <button

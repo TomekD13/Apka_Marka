@@ -29,6 +29,21 @@ describe('Czlowiek Nadziei - nowy uklad tekstow', () => {
     expect(document.body.textContent).not.toContain('**')
   })
 
+  it('przycisk udostepniania na gorze takze bez nagrania - przekazuje adres materialu', async () => {
+    const share = vi.fn().mockResolvedValue(undefined)
+    Object.defineProperty(navigator, 'share', { value: share, configurable: true })
+    render(
+      <MemoryRouter initialEntries={['/pl/edukacja/4']}>
+        <Routes><Route path="/:lang/edukacja/:nr" element={<EduItemPage />} /></Routes>
+      </MemoryRouter>
+    )
+    const top = (await screen.findAllByRole('button', { name: /Udostępnij/ }))[0]
+    expect(screen.queryByRole('button', { name: 'Odtwórz' })).not.toBeInTheDocument()
+    top.click()
+    expect(share).toHaveBeenCalledWith({ url: window.location.href })
+    Reflect.deleteProperty(navigator, 'share')
+  })
+
   it('przed data pokazuje tylko informacje o dostepnosci, bez tresci', async () => {
     vi.setSystemTime(new Date('2026-10-16T10:00:00'))
     render(
@@ -50,6 +65,7 @@ describe('Czlowiek Nadziei - nowy uklad tekstow', () => {
       </MemoryRouter>
     )
     expect(await screen.findByRole('button', { name: 'Odtwórz' })).toBeInTheDocument()
+    expect(screen.getAllByRole('button', { name: /Udostępnij/ }).length).toBeGreaterThan(0)
     expect(screen.queryByText(/Ten materiał otworzy się/)).not.toBeInTheDocument()
     expect(screen.getByText('Pytanie i wyzwanie')).toBeInTheDocument()
   })

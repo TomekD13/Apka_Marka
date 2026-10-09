@@ -16,6 +16,7 @@ import { PageHeading } from '../components/PageHeading'
 import { listRead } from '../lib/progress'
 import { isOpen } from '../lib/availability'
 import { AudioPlayer } from '../components/AudioPlayer'
+import { ShareButton } from '../components/ShareButton'
 import { BETA } from '../lib/beta'
 import { ReadPill, ReadTop } from '../components/MaterialActions'
 import type { EduIndex, EduItem } from '../types'
@@ -199,14 +200,20 @@ export function EduItemPage() {
         {BETA && <ReadTop kind="edu" id={entry.nr} />}
       </header>
 
-      {entry.audio && (
+      {/* na gorze kazdego odcinka: udostepnianie - przy nagraniu w jego naglowku, bez nagrania osobno */}
+      {entry.audio ? (
         <AudioPlayer
           src={entry.audio.src}
           seconds={entry.audio.seconds}
           bytes={entry.audio.bytes}
           title={`${entry.nr}. ${entry.title}`}
           note={t('audio.longVersion', 'nagranie wersji pełnej')}
+          action={<ShareButton />}
         />
+      ) : (
+        <div className="mb-3 flex justify-end">
+          <ShareButton />
+        </div>
       )}
 
       <div className="mb-5 flex flex-wrap items-center justify-between gap-2">

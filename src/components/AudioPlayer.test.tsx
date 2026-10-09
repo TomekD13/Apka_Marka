@@ -25,7 +25,7 @@ describe('odtwarzacz nagrania', () => {
 
   it('przed pobraniem pokazuje dlugosc i rozmiar, nic nie wczytuje', () => {
     player()
-    expect(screen.getByText(/nagranie wersji pełnej · 13:50 · 5,0 MB/)).toBeInTheDocument()
+    expect(screen.getByText(/nagranie wersji pełnej\s·\s13:50\s·\s5,0\sMB/)).toBeInTheDocument()
     expect(document.querySelector('audio')?.getAttribute('preload')).toBe('none')
   })
 
