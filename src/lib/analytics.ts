@@ -8,6 +8,10 @@ export type AnalyticsEvent =
   | 'material_read'
   | 'plan_started'
   | 'share'
+  | 'theme_light'
+  | 'theme_dark'
+  | 'font_nunito'
+  | 'font_outfit'
 
 function send(data: Record<string, string>) {
   try {

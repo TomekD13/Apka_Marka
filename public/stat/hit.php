@@ -39,7 +39,7 @@ try {
     $db = stat_baza();
     if ($type === 'event') {
         $event = isset($data['e']) ? (string) $data['e'] : '';
-        $allowed = array('account_connected', 'app_installed', 'bible_search', 'material_read', 'plan_started', 'share');
+        $allowed = array('account_connected', 'app_installed', 'bible_search', 'material_read', 'plan_started', 'share', 'theme_light', 'theme_dark', 'font_nunito', 'font_outfit');
         if (!in_array($event, $allowed, true)) stat_koniec('zle zdarzenie');
         $write = $db->prepare('INSERT INTO zdarzenia (dzien, nazwa, ile) VALUES (:d, :n, 1)
             ON CONFLICT (dzien, nazwa) DO UPDATE SET ile = ile + 1');
