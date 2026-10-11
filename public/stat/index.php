@@ -45,10 +45,11 @@ function stat_liczba(SQLite3 $db, string $sql, string $from, ?string $to = null)
     return $row === false ? 0 : (int) $row['ile'];
 }
 
-function stat_wiersze(SQLite3 $db, string $sql, string $from): array
+function stat_wiersze(SQLite3 $db, string $sql, string $from, ?string $to = null): array
 {
     $query = $db->prepare($sql);
     $query->bindValue(':od', $from, SQLITE3_TEXT);
+    if ($to !== null) $query->bindValue(':do', $to, SQLITE3_TEXT);
     $result = $query->execute();
     $rows = array();
     while ($row = $result->fetchArray(SQLITE3_ASSOC)) $rows[] = $row;
@@ -85,9 +86,13 @@ if ($loggedIn) {
     $data['dailyVisits'] = stat_wiersze($db, 'SELECT dzien, COUNT(*) AS ile FROM wizyty WHERE dzien >= :od GROUP BY dzien ORDER BY dzien', $from);
     $data['dailyInstalls'] = stat_wiersze($db, 'SELECT dzien, SUM(ile) AS ile FROM zdarzenia WHERE nazwa = "app_installed" AND dzien >= :od GROUP BY dzien ORDER BY dzien', $from);
     $data['comparisonDaily'] = stat_wiersze($db, 'SELECT dzien, SUM(ile) AS ile FROM odslony WHERE dzien >= :od AND dzien <= :do GROUP BY dzien ORDER BY dzien', $previousFrom, $previousTo);
-    $firstData = stat_wiersze($db, 'SELECT MIN(dzien) AS dzien FROM (SELECT dzien FROM odslony UNION ALL SELECT dzien FROM wizyty UNION ALL SELECT dzien FROM zdarzenia) WHERE dzien >= :od', '0000-01-01');
-    $data['firstDataDate'] = isset($firstData[0]['dzien']) && $firstData[0]['dzien'] !== null ? (string) $firstData[0]['dzien'] : '';
-    $data['firstDataLabel'] = $data['firstDataDate'] !== '' ? date('d.m.Y', strtotime($data['firstDataDate'])) : '';
+    $viewsCoverage = stat_wiersze($db, 'SELECT MIN(dzien) AS dzien FROM odslony WHERE dzien >= :od', '0000-01-01');
+    $visitsCoverage = stat_wiersze($db, 'SELECT MIN(dzien) AS dzien FROM wizyty WHERE dzien >= :od', '0000-01-01');
+    $installsCoverage = stat_wiersze($db, 'SELECT MIN(dzien) AS dzien FROM zdarzenia WHERE nazwa = "app_installed" AND dzien >= :od', '0000-01-01');
+    $data['viewsSince'] = isset($viewsCoverage[0]['dzien']) && $viewsCoverage[0]['dzien'] !== null ? (string) $viewsCoverage[0]['dzien'] : '';
+    $data['visitsSince'] = isset($visitsCoverage[0]['dzien']) && $visitsCoverage[0]['dzien'] !== null ? (string) $visitsCoverage[0]['dzien'] : '';
+    $data['installsSince'] = isset($installsCoverage[0]['dzien']) && $installsCoverage[0]['dzien'] !== null ? (string) $installsCoverage[0]['dzien'] : '';
+    $data['installsTracked'] = $data['installsSince'] !== '';
     $data['events'] = stat_wiersze($db, 'SELECT nazwa, SUM(ile) AS ile FROM zdarzenia WHERE dzien >= :od GROUP BY nazwa ORDER BY ile DESC', $from);
     $eventCoverage = stat_wiersze($db, 'SELECT MIN(dzien) AS dzien FROM zdarzenia WHERE dzien >= :od', '0000-01-01');
     $data['eventsSince'] = isset($eventCoverage[0]['dzien']) && $eventCoverage[0]['dzien'] !== null ? (string) $eventCoverage[0]['dzien'] : '';
@@ -162,23 +167,23 @@ if ($loggedIn) {
 <main id="start"><header class="top"><h1>Statystyki #JestNadzieja</h1><nav class="period"><?php foreach (array(7 => '7 dni', 30 => '30 dni', 90 => '90 dni', 190 => 'pół roku') as $period => $label): ?><a class="<?= $days === $period ? 'on' : '' ?>" href="?dni=<?= $period ?>"><?= $label ?></a><?php endforeach; ?></nav></header>
   <section class="cards" aria-label="Podsumowanie okresu">
     <button class="card card-button" type="button" data-chart="views" aria-pressed="true"><span class="icon">◉</span><b><?= stat_liczba_html($data['views']) ?></b><span>odsłony</span></button>
-    <button class="card card-button" type="button" data-chart="visits" aria-pressed="false"><span class="icon">◌</span><b><?= stat_liczba_html($data['visits']) ?></b><span>anonimowe wizyty dzienne</span></button>
+    <button class="card card-button" type="button" data-chart="visits" aria-pressed="false"><span class="icon">◌</span><b><?= stat_liczba_html($data['visits']) ?></b><span>Unikalne anonimowe identyfikatory (użytkownicy) w ustalonym okresie <sup>*</sup></span></button>
     <button class="card card-button" type="button" data-chart="comparison" aria-pressed="false"><span class="icon">↗</span><b class="<?= $data['views'] >= $data['previousViews'] ? 'good' : '' ?>"><?= stat_h(stat_change($data['views'], $data['previousViews'])) ?></b><span>względem poprzednich <?= $days ?> dni</span></button>
-    <button class="card card-button" type="button" data-chart="installs" aria-pressed="false"><span class="icon">↓</span><b><?= $data['eventsTracked'] ? stat_liczba_html($data['installs']) : '—' ?></b><span><?= $data['eventsTracked'] ? 'instalacje aplikacji' : 'brak historycznych pomiarów' ?></span></button>
+    <button class="card card-button" type="button" data-chart="installs" aria-pressed="false"><span class="icon">↓</span><b><?= $data['installsTracked'] ? stat_liczba_html($data['installs']) : '—' ?></b><span><?= $data['installsTracked'] ? 'instalacje aplikacji' : 'brak zarejestrowanych instalacji' ?></span></button>
   </section>
-  <section class="panel" aria-live="polite"><div class="chart-head"><h2 id="chart-title">Odsłony dzień po dniu</h2><?php if ($data['firstDataDate'] !== ''): ?><span class="chart-start-info">Pierwsze zapisane dane: <?= stat_h($data['firstDataLabel']) ?></span><?php endif; ?><div class="chart-legend" id="chart-legend" hidden><span>Bieżący okres</span><span class="previous-key">Poprzedni okres</span></div></div><div class="chart-wrap"><svg class="chart" id="main-chart" viewBox="0 0 1000 235" preserveAspectRatio="none" role="group" aria-label="Wykres odsłon"><g id="weekend-bands"></g><line class="gridline" x1="0" y1="25" x2="1000" y2="25"/><line class="gridline" x1="0" y1="108" x2="1000" y2="108"/><line class="gridline" x1="0" y1="190" x2="1000" y2="190"/><polygon class="area" id="chart-area" points="<?= $area ?>"/><polyline class="line" id="chart-line" points="<?= implode(' ', $points) ?>"/><polyline class="line previous" id="chart-previous" points=""/><g id="chart-markers"></g><text id="chart-no-data" class="axis" x="500" y="115" text-anchor="middle" visibility="hidden">Brak danych dla tego okresu</text><line class="chart-crosshair" id="chart-crosshair" x1="0" y1="25" x2="0" y2="190" visibility="hidden"/><g id="weekend-ticks"></g><g id="chart-ticks"></g><g id="data-start-marker"></g><rect class="chart-interaction" id="chart-interaction" x="0" y="25" width="1000" height="165" fill="transparent" tabindex="0" role="slider" aria-label="Dzień na wykresie. Użyj strzałek lewo i prawo, aby zmienić dzień." aria-valuemin="1" aria-valuemax="<?= $days ?>" aria-valuenow="1"/></svg><div class="chart-tooltip" id="chart-tooltip" role="status" hidden></div></div><small class="chart-hint">Najedź kursorem lub dotknij wykresu, aby sprawdzić pojedynczy dzień. Soboty i niedziele są oznaczone na pomarańczowo. Fioletowa linia oznacza początek zapisanych danych, jeśli mieści się w wybranym okresie.</small></section>
+  <section class="panel" aria-live="polite"><div class="chart-head"><h2 id="chart-title">Odsłony dzień po dniu</h2><span class="chart-start-info" id="chart-start-info" hidden></span><div class="chart-legend" id="chart-legend" hidden><span>Bieżący okres</span><span class="previous-key">Poprzedni okres</span></div></div><div class="chart-wrap"><svg class="chart" id="main-chart" viewBox="0 0 1000 235" preserveAspectRatio="none" role="group" aria-label="Wykres odsłon"><g id="weekend-bands"></g><line class="gridline" x1="0" y1="25" x2="1000" y2="25"/><line class="gridline" x1="0" y1="108" x2="1000" y2="108"/><line class="gridline" x1="0" y1="190" x2="1000" y2="190"/><polygon class="area" id="chart-area" points="<?= $area ?>"/><polyline class="line" id="chart-line" points="<?= implode(' ', $points) ?>"/><polyline class="line previous" id="chart-previous" points=""/><g id="chart-markers"></g><text id="chart-no-data" class="axis" x="500" y="115" text-anchor="middle" visibility="hidden">Brak danych dla tego okresu</text><line class="chart-crosshair" id="chart-crosshair" x1="0" y1="25" x2="0" y2="190" visibility="hidden"/><g id="weekend-ticks"></g><g id="chart-ticks"></g><g id="data-start-marker"></g><rect class="chart-interaction" id="chart-interaction" x="0" y="25" width="1000" height="165" fill="transparent" tabindex="0" role="slider" aria-label="Dzień na wykresie. Użyj strzałek lewo i prawo, aby zmienić dzień." aria-valuemin="1" aria-valuemax="<?= $days ?>" aria-valuenow="1"/></svg><div class="chart-tooltip" id="chart-tooltip" role="status" hidden></div></div><small class="chart-hint">Najedź kursorem lub dotknij wykresu, aby sprawdzić pojedynczy dzień. Soboty i niedziele są oznaczone na pomarańczowo. Fioletowa linia oznacza początek pomiarów dla wybranej statystyki, jeśli mieści się w wybranym okresie.</small></section>
   <?php $featureTop = array(); foreach ($labels as $event => $details): $featureTop[] = array('nazwa' => $event, 'ile' => $data['eventMap'][$event] ?? 0); endforeach; usort($featureTop, function ($a, $b) { return $b['ile'] <=> $a['ile']; }); ?>
-  <section class="panel" id="funkcje"><h2>Najczęściej używane funkcje</h2><?php if (!$data['eventsTracked']): ?><p class="tracking-note">Ta baza zawiera historię odsłon, ale nie ma historycznych zdarzeń funkcji ani instalacji. Nie da się ich odtworzyć wstecz; pomiary pojawią się, gdy aplikacja zacznie wysyłać te zdarzenia.</p><?php endif; ?><div class="features"><?php foreach (array_slice($featureTop, 0, 10) as $row): $event = (string) $row['nazwa']; [$symbol, $label] = $labels[$event]; ?><div class="feature"><span class="symbol"><?= $symbol ?></span><span><strong><?= stat_h($label) ?></strong><small>zbiorcze zdarzenia</small></span><span class="count"><?= $data['eventsTracked'] ? stat_liczba_html((int) $row['ile']) : '—' ?></span></div><?php endforeach; ?></div><details class="more"><summary>Pełne dane o funkcjach (<?= count($featureTop) ?>)</summary><?php foreach ($featureTop as $row): $event = (string) $row['nazwa']; ?><div class="row"><span><?= stat_h($labels[$event][1]) ?></span><span><?= $data['eventsTracked'] ? stat_liczba_html((int) $row['ile']) : '—' ?></span></div><?php endforeach; ?></details></section>
+  <section class="panel" id="funkcje"><h2>Najczęściej używane funkcje</h2><p class="tracking-note">Pomiary użycia funkcji i instalacji są zbierane od 11.10.2026, od wdrożenia tej funkcjonalności. Wcześniejszych zdarzeń nie da się odtworzyć.</p><div class="features"><?php foreach (array_slice($featureTop, 0, 10) as $row): $event = (string) $row['nazwa']; [$symbol, $label] = $labels[$event]; ?><div class="feature"><span class="symbol"><?= $symbol ?></span><span><strong><?= stat_h($label) ?></strong><small>zbiorcze zdarzenia</small></span><span class="count"><?= $data['eventsTracked'] ? stat_liczba_html((int) $row['ile']) : '—' ?></span></div><?php endforeach; ?></div><details class="more"><summary>Pełne dane o funkcjach (<?= count($featureTop) ?>)</summary><?php foreach ($featureTop as $row): $event = (string) $row['nazwa']; ?><div class="row"><span><?= stat_h($labels[$event][1]) ?></span><span><?= $data['eventsTracked'] ? stat_liczba_html((int) $row['ile']) : '—' ?></span></div><?php endforeach; ?></details></section>
   <section class="details" id="szczegoly">
     <div class="panel"><h2>Najczęściej otwierane strony</h2><?php if (!$data['pages']): ?><p class="empty">Brak danych w tym okresie.</p><?php else: foreach (array_slice($data['pages'], 0, 10) as $row): ?><div class="row"><span><?= stat_h((string) $row['sciezka']) ?></span><span><?= stat_liczba_html((int) $row['ile']) ?></span></div><?php endforeach; if (count($data['pages']) > 10): ?><details class="more"><summary>Pełna lista (<?= count($data['pages']) ?> stron)</summary><?php foreach (array_slice($data['pages'], 10) as $row): ?><div class="row"><span><?= stat_h((string) $row['sciezka']) ?></span><span><?= stat_liczba_html((int) $row['ile']) ?></span></div><?php endforeach; ?></details><?php endif; endif; ?></div>
     <div class="panel"><h2>Skąd przychodzą</h2><?php if (!$data['sources']): ?><p class="empty">Tylko wejścia bezpośrednie.</p><?php else: foreach (array_slice($data['sources'], 0, 10) as $row): ?><div class="row"><span><?= stat_h((string) $row['zrodlo']) ?></span><span><?= stat_liczba_html((int) $row['ile']) ?></span></div><?php endforeach; if (count($data['sources']) > 10): ?><details class="more"><summary>Pełna lista (<?= count($data['sources']) ?> źródeł)</summary><?php foreach (array_slice($data['sources'], 10) as $row): ?><div class="row"><span><?= stat_h((string) $row['zrodlo']) ?></span><span><?= stat_liczba_html((int) $row['ile']) ?></span></div><?php endforeach; ?></details><?php endif; endif; ?></div>
     <div class="panel"><h2>Na czym czytają</h2><?php if (!$data['devices']): ?><p class="empty">Brak danych w tym okresie.</p><?php else: foreach ($data['devices'] as $row): ?><div class="row"><span><?= stat_h((string) $row['urzadzenie']) ?></span><span><?= stat_liczba_html((int) $row['ile']) ?></span></div><?php endforeach; endif; ?></div>
   </section>
-  <p class="privacy"><strong>Dane zbiorcze • bez profili użytkowników.</strong> Panel nie zapisuje kont, e-maili, treści notatek ani wyszukiwanych słów. „Anonimowe wizyty dzienne” to suma anonimowych osób z poszczególnych dni, a nie liczba rozpoznawanych osób w całym okresie.</p>
+  <p class="privacy"><strong>Dane zbiorcze • bez profili użytkowników.</strong> Panel nie zapisuje kont, e-maili, treści notatek ani wyszukiwanych słów. * „Użytkownik” to przybliżony, anonimowy identyfikator wyznaczany z zahaszowanego adresu IP i przeglądarki; ten sam identyfikator liczy się najwyżej raz dziennie. Wynik za wybrany okres jest sumą dziennych identyfikatorów — ta sama osoba może więc zostać policzona ponownie w kolejnych dniach, a kilka osób korzystających z tej samej sieci i przeglądarki może zostać zliczonych razem. To nie jest liczba potwierdzonych osób ani sesji.</p>
 </main></div>
 <script>
-  const chartData = <?= json_encode(array('views' => $data['chart'], 'visits' => $data['chartVisits'], 'installs' => $data['chartInstalls'], 'previous' => $data['chartPrevious'], 'eventsTracked' => $data['eventsTracked'], 'firstDataDate' => $data['firstDataDate']), JSON_HEX_TAG | JSON_HEX_AMP | JSON_HEX_APOS | JSON_HEX_QUOT) ?>;
-  const chartTitles = { views: 'Odsłony dzień po dniu', visits: 'Anonimowe wizyty dzień po dniu', installs: 'Instalacje dzień po dniu', comparison: 'Porównanie odsłon: bieżący i poprzedni okres' };
+  const chartData = <?= json_encode(array('views' => $data['chart'], 'visits' => $data['chartVisits'], 'installs' => $data['chartInstalls'], 'previous' => $data['chartPrevious'], 'installsTracked' => $data['installsTracked'], 'startDates' => array('views' => $data['viewsSince'], 'visits' => $data['visitsSince'], 'installs' => $data['installsSince'])), JSON_HEX_TAG | JSON_HEX_AMP | JSON_HEX_APOS | JSON_HEX_QUOT) ?>;
+  const chartTitles = { views: 'Odsłony dzień po dniu', visits: 'Unikalne anonimowe identyfikatory dzień po dniu', installs: 'Instalacje dzień po dniu', comparison: 'Porównanie odsłon: bieżący i poprzedni okres' };
   const chartButtons = document.querySelectorAll('[data-chart]');
   const svg = document.getElementById('main-chart');
   const svgNS = 'http://www.w3.org/2000/svg';
@@ -225,10 +230,10 @@ if ($loggedIn) {
       const previousInfo = dateInfo(previous.compareDay);
       parts.push(`Bieżący okres: ${point.views} odsłon`);
       parts.push(`${previousInfo.dayName}, ${previousInfo.label}: ${previous.views} odsłon`);
-    } else if (activeMetric === 'installs' && !chartData.eventsTracked) {
-      parts.push('Brak historycznych pomiarów instalacji');
+    } else if (activeMetric === 'installs' && !chartData.installsTracked) {
+      parts.push('Nie zarejestrowano jeszcze instalacji od 11 października 2026');
     } else {
-      const name = activeMetric === 'visits' ? 'anonimowych wizyt' : activeMetric === 'installs' ? 'instalacji' : 'odsłon';
+      const name = activeMetric === 'visits' ? 'unikalnych anonimowych identyfikatorów' : activeMetric === 'installs' ? 'instalacji' : 'odsłon';
       parts.push(`${point.views} ${name}`);
     }
     parts.forEach((text) => {
@@ -261,7 +266,7 @@ if ($loggedIn) {
   const drawMarkers = () => {
     clear(chartMarkers);
     const current = activeSeries();
-    if (activeMetric === 'installs' && !chartData.eventsTracked) return;
+    if (activeMetric === 'installs' && !chartData.installsTracked) return;
     const previous = activeMetric === 'comparison' ? chartData.previous : null;
     const max = Math.max(1, ...current.map((point) => point.views), ...(previous || []).map((point) => point.views));
     current.forEach((point, index) => {
@@ -299,7 +304,7 @@ if ($loggedIn) {
       text.textContent = index === 0 || index === days.length - 1 ? info.short : String(info.date.getUTCDate());
       chartTicks.appendChild(text);
     });
-    const firstDataIndex = days.findIndex((point) => point.day === chartData.firstDataDate);
+    const firstDataIndex = days.findIndex((point) => point.day === chartData.startDates[activeMetric === 'comparison' ? 'views' : activeMetric]);
     if (firstDataIndex >= 0) {
       const x = plotX(firstDataIndex, days.length);
       const labelOnRight = x < 820;
@@ -319,6 +324,7 @@ if ($loggedIn) {
   };
   const renderChart = (metric) => {
     activeMetric = metric;
+    drawAxis();
     tooltipPinned = false;
     const current = activeSeries();
     const previous = activeMetric === 'comparison' ? chartData.previous : null;
@@ -327,12 +333,19 @@ if ($loggedIn) {
     const line = document.getElementById('chart-line');
     const area = document.getElementById('chart-area');
     const priorLine = document.getElementById('chart-previous');
-    const hasMetricData = metric !== 'installs' || chartData.eventsTracked;
+    const hasMetricData = metric !== 'installs' || chartData.installsTracked;
     line.setAttribute('points', hasMetricData ? makeChartPoints(current, max, false) : '');
     area.setAttribute('points', hasMetricData ? makeChartPoints(current, max, true) : '');
     priorLine.setAttribute('visibility', previous ? 'visible' : 'hidden');
     if (previous) priorLine.setAttribute('points', makeChartPoints(previous, max, false));
+    noDataLabel.textContent = metric === 'installs' && !chartData.installsTracked
+      ? 'Nie zarejestrowano jeszcze instalacji od 11.10.2026'
+      : 'Brak danych dla tego okresu';
     noDataLabel.setAttribute('visibility', hasMetricData ? 'hidden' : 'visible');
+    const startDate = chartData.startDates[metric === 'comparison' ? 'views' : metric];
+    const startInfo = document.getElementById('chart-start-info');
+    startInfo.textContent = startDate ? `Pierwsze dane tej statystyki: ${startDate.split('-').reverse().join('.')}` : '';
+    startInfo.hidden = !startDate;
     document.getElementById('chart-title').textContent = chartTitles[metric];
     document.getElementById('chart-legend').hidden = !previous;
     svg.setAttribute('aria-label', chartTitles[metric]);
@@ -342,7 +355,6 @@ if ($loggedIn) {
     drawMarkers();
     chartButtons.forEach((item) => item.setAttribute('aria-pressed', String(item.dataset.chart === metric)));
   };
-  drawAxis();
   chartButtons.forEach((button) => button.addEventListener('click', () => renderChart(button.dataset.chart)));
   const indexAtPointer = (event) => {
     const rect = svg.getBoundingClientRect();
