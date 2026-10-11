@@ -45,6 +45,13 @@ fi
 
 [ -d dist ] || { echo "brak dist/ - uruchom bez --no-build" >&2; exit 1; }
 
+# Lokalna baza statystyk nie moze trafic na hosting, takze przy --no-build
+# przerwij wdrozenie, jesli ktos recznie skopiowal ja do dist/.
+if find dist/stat -maxdepth 1 -type f -name 'dane*.sqlite*' -print -quit 2>/dev/null | grep -q .; then
+  echo "BLAD: dist/stat zawiera lokalna baze SQLite (dane*.sqlite*); wdrozenie przerwane." >&2
+  exit 1
+fi
+
 # .htaccess musi trafic na serwer, inaczej odswiezenie strony na trasie typu
 # /pl/biblia/Gen/1 konczy sie bledem 404 (fallback SPA robi wlasnie .htaccess).
 [ -f dist/.htaccess ] || { echo "UWAGA: brak dist/.htaccess - sprawdz public/.htaccess" >&2; exit 1; }

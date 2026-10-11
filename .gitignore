@@ -38,3 +38,7 @@ docs/
 # publiczne. Leza lokalnie i na serwerze (deploy-ftp.sh wysyla je z dist/). Wersja testowa
 # na GitHub Pages bierze je ze strony glownej - adres w src/components/AudioPlayer.tsx.
 public/audio/
+
+# Lokalne statystyki serwera i sekret panelu - nigdy nie trafiaja do repo
+public/stat/config.php
+public/stat/dane*.sqlite*
