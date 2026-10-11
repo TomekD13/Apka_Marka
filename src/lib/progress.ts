@@ -3,6 +3,7 @@
 // Pozycja: id `rodzaj:numer`, `at` = chwila odhaczenia.
 
 import { readList, writeList } from './localStore'
+import { trackEvent } from './analytics'
 
 const KEY = 'zywe-slowo:read:v2'
 // pierwsza wersja trzymala obiekt {`rodzaj:numer`: data} - przenosimy go raz do listy
@@ -39,11 +40,13 @@ export function isRead(kind: ReadKind, id: number | string): boolean {
 /** Ustawia stan i zwraca to, co faktycznie zapisano. */
 export function setRead(kind: ReadKind, id: number | string, value: boolean): boolean {
   const k = mark(kind, id)
+  const wasRead = read().some((m) => m.id === k)
   const rest = read().filter((m) => m.id !== k)
   const next = value ? [{ id: k, at: new Date().toISOString() }, ...rest] : rest
   const ok = writeList(KEY, next)
   // przycisk na gorze i na dole tekstu pokazuja ten sam stan
   if (ok && typeof window !== 'undefined') window.dispatchEvent(new CustomEvent(READ_EVENT))
+  if (ok && value && !wasRead) trackEvent('material_read')
   return ok ? value : !value
 }
 

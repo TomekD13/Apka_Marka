@@ -1,11 +1,19 @@
 /** Zlicza anonimowe odslony tylko na produkcyjnej domenie #JestNadzieja. */
 const TRACKED_HOST = 'jestnadzieja.adwent.pl'
 
-export function trackPageView(path: string) {
+export type AnalyticsEvent =
+  | 'account_connected'
+  | 'app_installed'
+  | 'bible_search'
+  | 'material_read'
+  | 'plan_started'
+  | 'share'
+
+function send(data: Record<string, string>) {
   try {
     if (typeof window === 'undefined' || window.location.hostname !== TRACKED_HOST) return
 
-    const body = JSON.stringify({ p: path, r: document.referrer || '' })
+    const body = JSON.stringify(data)
     if (typeof navigator.sendBeacon === 'function') {
       navigator.sendBeacon('/stat/hit.php', new Blob([body], { type: 'text/plain;charset=UTF-8' }))
       return
@@ -14,4 +22,13 @@ export function trackPageView(path: string) {
   } catch {
     // Statystyki nie moga zaklocic korzystania z aplikacji.
   }
+}
+
+export function trackPageView(path: string) {
+  send({ t: 'page', p: path, r: document.referrer || '' })
+}
+
+/** Zdarzenia sa celowo zbiorcze: bez tresci, identyfikatora konta i danych czytelnika. */
+export function trackEvent(event: AnalyticsEvent) {
+  send({ t: 'event', e: event })
 }

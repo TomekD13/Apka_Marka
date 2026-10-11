@@ -32,7 +32,8 @@ import {
   type Unsubscribe,
 } from 'firebase/firestore'
 import { firebaseConfig } from './firebaseConfig'
-import { markSignedIn } from './accountGate'
+import { trackEvent } from './analytics'
+import { markSignedIn, wasSignedIn } from './accountGate'
 import {
   clearSyncedLocal,
   docIdOf,
@@ -112,6 +113,7 @@ export function start(): void {
   if (started) return
   started = true
   onAuthStateChanged(auth, (u) => {
+    const hadLocalSession = wasSignedIn()
     stopSync()
     markSignedIn(!!u)
     if (u) {
@@ -125,6 +127,7 @@ export function start(): void {
       setLastUid(u.uid)
     }
     set({ ready: true, user: u ? toUser(u) : null, sync: u ? 'syncing' : 'idle' })
+    if (u && !hadLocalSession) trackEvent('account_connected')
     if (u) startSync(u.uid)
   })
 }

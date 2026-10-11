@@ -1,0 +1,5 @@
+Options -Indexes
+
+<FilesMatch "^(config\.php|dane\.sqlite(-wal|-shm)?)$">
+  Require all denied
+</FilesMatch>

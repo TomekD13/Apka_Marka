@@ -1,3 +1,5 @@
+import { trackEvent } from './analytics'
+
 type DeferredInstallPrompt = Event & {
   prompt: () => Promise<void>
   userChoice: Promise<{ outcome: 'accepted' | 'dismissed'; platform?: string }>
@@ -265,6 +267,7 @@ export function initAppInstall() {
   window.addEventListener('appinstalled', () => {
     deferredPrompt = null
     addDiagnostic('install.appinstalled')
+    trackEvent('app_installed')
     notify()
   })
 }

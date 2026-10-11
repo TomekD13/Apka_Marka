@@ -7,6 +7,7 @@ import { VerseText } from '../components/VerseText'
 import { PageHeading } from '../components/PageHeading'
 import { formatRef, parseRef, searchBible, type SearchHit, type SearchScope } from '../lib/bible'
 import { BIBLE_LIST_PATH, BIBLE_PATH, TranslationPicker, useBibleIndex } from './Bible'
+import { trackEvent } from '../lib/analytics'
 
 // Wyszukiwarka po calym przekladzie. Tekst pobiera sie ksiega po ksiedze, wiec
 // pierwsze trafienia widac, zanim sciagnie sie cala Biblia (3,9 MB). Po „Pobierz
@@ -62,6 +63,7 @@ export function BibleSearchPage() {
     e.preventDefault()
     const query = q.trim()
     if (query.length < MIN) return
+    trackEvent('bible_search')
     setParams({ q: query, z: scope })
   }
 

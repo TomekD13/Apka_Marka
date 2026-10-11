@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-11 — Anonimowe statystyki
+
+- Panel `/stat/` dostał responsywny widok na komputer i telefon: podsumowanie ruchu, wykres dzienny, porównanie okresów, instalacje aplikacji, popularne funkcje oraz dotychczasowe zestawienia stron, źródeł i urządzeń.
+- Aplikacja zapisuje wyłącznie zbiorcze zdarzenia: połączenie konta, instalację, wyszukanie w Biblii, oznaczenie materiału jako przeczytanego, start planu i udostępnienie. Do licznika nie trafiają adres e-mail, identyfikator konta, wyszukiwane słowa ani treść danych czytelnika.
+
 ## 2026-09-21 — Teksty do modlitwy
 
 - W sekcji „Modlitwa” nowa strona „Teksty do modlitwy” w konwencji United Prayer: Uwielbienie (89), Skrucha (80), Prośby (79), Wdzięczność (75). Do wyboru lista działu albo losowanie zestawu czterech tekstów – po jednym z każdego działu.

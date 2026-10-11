@@ -1,5 +1,6 @@
 import type { BibleBookMeta, ReadingPlanDef } from '../types'
 import { newId, readList, writeList } from './localStore'
+import { trackEvent } from './analytics'
 
 // Plany czytania Biblii. Definicja planu (reading-plans.json) mowi tylko, CO czytac
 // i w jakiej kolejnosci. Harmonogram liczy sie tutaj z parametrow czytelnika:
@@ -154,7 +155,9 @@ export const getUserPlan = (id: string) => read().find((p) => p.id === id)
 export function startPlan(planId: string, start: string, span: number, weekdays: number[]): UserPlan | null {
   const now = new Date().toISOString()
   const plan: UserPlan = { id: newId(), planId, start, span, weekdays, base: [], done: [], createdAt: now, updatedAt: now }
-  return write([plan, ...read()]) ? plan : null
+  if (!write([plan, ...read()])) return null
+  trackEvent('plan_started')
+  return plan
 }
 
 function patch(id: string, fn: (p: UserPlan) => UserPlan): boolean {
