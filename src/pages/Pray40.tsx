@@ -21,6 +21,39 @@ import type { EduEntry, Pray40Day, Pray40Index } from '../types'
 const VERSION_KEY = 'zywe-slowo:pray40:version'
 
 /**
+ * Slowo na zakonczenie serii pod pytaniami ostatniego dnia (obie wersje tekstu):
+ * podziekowanie, pytanie o doswiadczenie z adresem do odpowiedzi i stopka autorska.
+ */
+function SeriesClosing() {
+  const { t } = useI18n()
+  const email = t('pray40.closingEmail', 'marek.micyk@adwent.pl')
+  const subject = encodeURIComponent(t('pray40.closingSubject', '40 dni modlitwy – moje doświadczenie'))
+  return (
+    <section className="mt-6 rounded-xl border border-violet-500/30 bg-violet-500/10 p-4">
+      <h2 className="mb-2 font-bold text-slate-100">{t('pray40.closingTitle', 'Na zakończenie serii')}</h2>
+      <p className="mb-2 leading-relaxed text-slate-200">
+        {t('pray40.closingBody', 'Czterdzieści dni temu zaczęliśmy od Edenu, a dziś doszliśmy do nowego nieba i nowej ziemi. Dziękuję, że przeszliśmy tę drogę razem. Na koniec chcę cię zapytać o jedno: czy ta seria pomogła ci duchowo? Może któraś historia przyszła w samą porę albo w tych dniach w twojej modlitwie wydarzyło się coś, czym chcesz się podzielić.')}
+      </p>
+      <p className="leading-relaxed text-slate-200">
+        {t('pray40.closingWrite', 'Napisz kilka zdań na adres')}{' '}
+        <a href={`mailto:${email}?subject=${subject}`} className="font-semibold text-brand-light hover:underline">
+          {email}
+        </a>
+        . {t('pray40.closingRead', 'Każdą odpowiedź przeczytam osobiście.')}
+      </p>
+      <p className="mt-2 leading-relaxed text-slate-200">
+        {t('pray40.closingPdf', 'Już wkrótce cały materiał 40 dni modlitwy będzie do pobrania w PDF.')}
+      </p>
+      <p className="mt-4 text-sm text-slate-400">
+        {t('pray40.closingAuthor', 'Teksty opracował: Marek Micyk')}
+        <br />
+        {t('pray40.closingProof', 'Korekta: Sara Pieszka')}
+      </p>
+    </section>
+  )
+}
+
+/**
  * Ramka pod ostatnia czytanka: zaproszenie do dalszej codziennej lektury -
  * cykl „Człowiek Nadziei” startuje nazajutrz (daty w edu/index.json).
  */
@@ -32,12 +65,11 @@ function ContinueToEdu() {
   }, [lang])
   return (
     <section className="no-print mt-8 rounded-2xl border-2 border-violet-400/50 bg-gradient-to-br from-blue-500/10 via-violet-500/10 to-fuchsia-500/10 p-5 text-center">
-      <p className="text-xs font-semibold uppercase tracking-wide text-violet-300">{t('pray40.nextTitle', 'To nie koniec drogi')}</p>
-      <h2 className="mt-1 text-xl font-bold text-slate-100">{t('pray40.nextHeading', 'Czytaj dalej – codziennie')}</h2>
+      <p className="text-xs font-semibold uppercase tracking-wide text-violet-300">{t('pray40.nextTitle', 'Człowiek Nadziei')}</p>
+      <h2 className="mt-1 text-xl font-bold text-slate-100">{t('pray40.nextHeading', 'To dopiero początek!')}</h2>
       <p className="mt-2 leading-relaxed text-slate-200">
-        {t('pray40.nextBody', 'Czterdzieści dni modlitwy za tobą. Nie przerywaj codziennego spotkania ze Słowem: od jutra zaczyna się cykl „Człowiek Nadziei” – każdego dnia jeden tekst o tym, jak Bóg nas stworzył, jak myślimy, rozmawiamy i podejmujemy decyzje.')}
+        {t('pray40.nextBody', 'Przez czterdzieści dni szukaliśmy nadziei w historiach biblijnych. Od czwartku, 15 października, idziemy dalej. W aplikacji startuje „Człowiek Nadziei”: codziennie nowy materiał o tym, jak jesteśmy zbudowani, jak myślimy, podejmujemy decyzje i budujemy relacje, i o tym, co mówi na ten temat Biblia. To naprawdę świetne materiały, które budują wiarę i dają wiedzę przydatną do opowiadania Ewangelii!')}
       </p>
-      {first?.dateLabel && <p className="mt-2 text-sm text-slate-400">{t('pray40.nextStart', 'Pierwszy tekst')}: {first.dateLabel}</p>}
       <Link to={`/${lang}/edukacja/${first?.nr ?? 1}`} className="mt-4 inline-block rounded-xl bg-violet-500 px-5 py-2.5 font-semibold text-white hover:bg-violet-400">
         {t('pray40.nextButton', 'Zacznij „Człowieka Nadziei”')} ›
       </Link>
@@ -204,6 +236,8 @@ export function Pray40DayPage() {
           </ol>
         </section>
       )}
+
+      {entry.day === total && <SeriesClosing />}
 
       {BETA && entry.day === total && <ContinueToEdu />}
 
