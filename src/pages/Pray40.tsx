@@ -181,7 +181,7 @@ function ContinueToEdu() {
         )}
       </p>
       <Link to={to} className="mt-4 inline-block rounded-xl bg-violet-500 px-5 py-2.5 font-semibold text-white hover:bg-violet-400">
-        {t('pray40.nextButton', 'Zacznij serię')}
+        {t('pray40.nextButtonTop', 'Zacznij serię')}
         <br />
         {t('pray40.nextButton2', 'Człowiek Nadziei')} ›
       </Link>
