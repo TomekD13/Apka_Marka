@@ -142,7 +142,7 @@ function SeriesCredits() {
   const { t } = useI18n()
   return (
     <p className="mt-4 text-[1.05em] font-bold leading-snug text-slate-100">
-      {t('pray40.creditsSeries', 'Teksty 40 dni modlitwy,')}
+      {t('pray40.creditsSeries', 'Teksty 40 dni modlitwy:')}
       <br />
       {t('pray40.creditsAuthor', 'opracował: Marek Micyk,')}
       <br />
@@ -181,7 +181,9 @@ function ContinueToEdu() {
         )}
       </p>
       <Link to={to} className="mt-4 inline-block rounded-xl bg-violet-500 px-5 py-2.5 font-semibold text-white hover:bg-violet-400">
-        {t('pray40.nextButton', 'Zacznij „Człowieka Nadziei”')} ›
+        {t('pray40.nextButton', 'Zacznij serię')}
+        <br />
+        {t('pray40.nextButton2', 'Człowiek Nadziei')} ›
       </Link>
     </section>
   )
