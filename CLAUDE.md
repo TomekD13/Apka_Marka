@@ -130,9 +130,12 @@ bezpośredni `localStorage.setItem` omija synchronizację.
   uid ostatniego konta (`zywe-slowo:sync:uid`) i przy innym czyści lokalne listy
   (`clearSyncedLocal`). Wylogowanie pyta, czy zostawić dane na urządzeniu.
 - Ścieżki z danych czytelnika idą do `<Link>` tylko przez `safePath()` (`lib/safePath.ts`).
-- Reguły Firestore wpuszczają tylko znane listy (`users/{uid}/lists/{lista}`, pola `items`,
-  `d`, `updated`). **Nowa lista w `isSyncedKey` = dopisz jej nazwę w regułach w konsoli**,
-  inaczej zapis będzie odrzucany.
+- Reguły Firestore: **źródłem prawdy jest `firestore.rules` w repo** (od 2026-10-13, po audycie
+  Tomka). Wpuszczają tylko właściciela, tylko znane listy (`users/{uid}/lists/{lista}`), tylko
+  pola `items`, `d`, `updated`, najwyżej 10 000 pozycji. **Nowa lista w `isSyncedKey` = dopisz
+  jej nazwę w `knownList()` i opublikuj plik w konsoli**, inaczej zapis będzie odrzucany.
+  Uwaga: do 13.10 w konsoli działała tylko prosta reguła „właściciel” z 1.10 – zaostrzonej
+  wersji z 2.10 nikt nie opublikował, a ten plik twierdził, że jest.
 - Panel `/stat/` (źródło: `../Aplikacja-nowa/public/stat/`, wysyłany osobno przez FTP):
   limit prób liczony po samym IP, ciasteczko sesji `HttpOnly; SameSite=Strict`.
 - Otwarte: CSP (sprawdzić z logowaniem Google i YouTube), ograniczenie klucza API do domeny,

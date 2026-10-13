@@ -1,0 +1,47 @@
+rules_version = '2';
+
+// Reguly Firestore projektu jest-nadzieja. Ten plik jest zrodlem prawdy:
+// po zmianie wklej go w konsoli (Firestore > Rules) albo `firebase deploy --only firestore:rules`.
+//
+// Dane czytelnika leza wylacznie w users/{uid}/lists/{lista} (src/lib/account.ts).
+// Dostep ma tylko wlasciciel. Wszystko, czego tu nie ma, jest zabronione.
+// Nowa lista w isSyncedKey (src/lib/syncMeta.ts) = dopisz jej nazwe w knownList().
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isOwner(uid) {
+      return request.auth != null && request.auth.uid == uid;
+    }
+
+    // nazwa dokumentu = klucz localStorage bez przedrostka "zywe-slowo:"
+    function knownList(list) {
+      return list in [
+        'notes:v1',
+        'prayers:v1',
+        'bible-bookmarks:v1',
+        'reading-plans:v1',
+        'read:v2',
+        'fav-materials:v1',
+        'fav:hymnal:v1',
+        'fav:youth:v1'
+      ];
+    }
+
+    // ksztalt RemoteList z syncMeta.ts + znacznik serverTimestamp()
+    function validList(data) {
+      return data.keys().hasOnly(['items', 'd', 'updated'])
+        && data.keys().hasAll(['items', 'd', 'updated'])
+        && data.items is map
+        && data.d is map
+        && data.items.size() <= 10000
+        && data.d.size() <= 10000
+        && data.updated == request.time;
+    }
+
+    match /users/{uid}/lists/{list} {
+      allow read, delete: if isOwner(uid);
+      allow create, update: if isOwner(uid) && knownList(list) && validList(request.resource.data);
+    }
+  }
+}
