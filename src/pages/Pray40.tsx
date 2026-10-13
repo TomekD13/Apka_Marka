@@ -63,14 +63,26 @@ function ContinueToEdu() {
   useEffect(() => {
     loadEdu(lang).then((d) => setFirst(d.items[0] ?? null)).catch(() => {})
   }, [lang])
+  const to = `/${lang}/edukacja/${first?.nr ?? 1}`
+  const name = t('pray40.nextName', '„Człowiek Nadziei”')
+  // nazwa cyklu w tekscie zaproszenia jest linkiem do pierwszego materialu
+  const [before, ...rest] = t('pray40.nextBody', 'Przez czterdzieści dni szukaliśmy nadziei w historiach biblijnych. Od czwartku, 15 października, idziemy dalej. W aplikacji startuje „Człowiek Nadziei”: codziennie nowy materiał o tym, jak jesteśmy zbudowani, jak myślimy, podejmujemy decyzje i budujemy relacje, i o tym, co mówi na ten temat Biblia. To naprawdę świetne materiały, które budują wiarę i dają wiedzę przydatną do opowiadania Ewangelii!').split(name)
   return (
     <section className="no-print mt-8 rounded-2xl border-2 border-violet-400/50 bg-gradient-to-br from-blue-500/10 via-violet-500/10 to-fuchsia-500/10 p-5 text-center">
       <p className="text-xs font-semibold uppercase tracking-wide text-violet-300">{t('pray40.nextTitle', 'Człowiek Nadziei')}</p>
       <h2 className="mt-1 text-xl font-bold text-slate-100">{t('pray40.nextHeading', 'To dopiero początek!')}</h2>
       <p className="mt-2 leading-relaxed text-slate-200">
-        {t('pray40.nextBody', 'Przez czterdzieści dni szukaliśmy nadziei w historiach biblijnych. Od czwartku, 15 października, idziemy dalej. W aplikacji startuje „Człowiek Nadziei”: codziennie nowy materiał o tym, jak jesteśmy zbudowani, jak myślimy, podejmujemy decyzje i budujemy relacje, i o tym, co mówi na ten temat Biblia. To naprawdę świetne materiały, które budują wiarę i dają wiedzę przydatną do opowiadania Ewangelii!')}
+        {before}
+        {rest.length > 0 && (
+          <>
+            <Link to={to} className="font-semibold text-brand-light underline hover:no-underline">
+              {name}
+            </Link>
+            {rest.join(name)}
+          </>
+        )}
       </p>
-      <Link to={`/${lang}/edukacja/${first?.nr ?? 1}`} className="mt-4 inline-block rounded-xl bg-violet-500 px-5 py-2.5 font-semibold text-white hover:bg-violet-400">
+      <Link to={to} className="mt-4 inline-block rounded-xl bg-violet-500 px-5 py-2.5 font-semibold text-white hover:bg-violet-400">
         {t('pray40.nextButton', 'Zacznij „Człowieka Nadziei”')} ›
       </Link>
     </section>
