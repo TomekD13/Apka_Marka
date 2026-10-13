@@ -1,0 +1,6 @@
+Options -Indexes
+
+# licznik prob (limit z jednego IP) - nie do pobrania z zewnatrz
+<FilesMatch "^limity\.json$">
+  Require all denied
+</FilesMatch>

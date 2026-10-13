@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useState, type FormEvent } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { useI18n } from '../i18n'
 import { loadEdu, loadPray40, loadPray40Day } from '../content'
@@ -21,27 +21,116 @@ import type { EduEntry, Pray40Day, Pray40Index } from '../types'
 const VERSION_KEY = 'zywe-slowo:pray40:version'
 
 /**
+ * Okienko odpowiedzi rozwijane w miejscu (bez przechodzenia na inna strone).
+ * Wiadomosc idzie do kontakt/odpowiedz.php na serwerze - tam jest adres odbiorcy,
+ * w aplikacji go nie pokazujemy. Ochrona: „Jestem czlowiekiem”, pulapka na boty
+ * i minimalny czas wypelniania (sprawdzany tez po stronie serwera).
+ */
+function FeedbackForm() {
+  const { t } = useI18n()
+  const [open, setOpen] = useState(false)
+  const [openedAt, setOpenedAt] = useState(0)
+  const [msg, setMsg] = useState('')
+  const [name, setName] = useState('')
+  const [email, setEmail] = useState('')
+  const [human, setHuman] = useState(false)
+  const [hp, setHp] = useState('') // pulapka - boty wypelniaja, ludzie nie widza
+  const [stan, setStan] = useState<'idle' | 'busy' | 'sent' | 'failed'>('idle')
+  const ready = human && msg.trim().length > 0 && stan !== 'busy'
+  const field =
+    'w-full rounded-md border border-slate-600 bg-slate-900/50 px-3 py-2 text-sm text-slate-100 placeholder-slate-500 focus:border-brand-light focus:outline-none'
+
+  async function onSubmit(e: FormEvent) {
+    e.preventDefault()
+    if (!ready) return
+    setStan('busy')
+    const dane = new FormData()
+    dane.append('message', msg.trim())
+    dane.append('name', name.trim())
+    dane.append('email', email.trim())
+    dane.append('human', '1')
+    dane.append('hp', hp)
+    dane.append('ms', String(Date.now() - openedAt))
+    dane.append('source', '40 dni modlitwy')
+    try {
+      const res = await fetch(t('pray40.formUrl', 'https://jestnadzieja.adwent.pl/kontakt/odpowiedz.php'), { method: 'POST', body: dane })
+      setStan(res.ok ? 'sent' : 'failed')
+    } catch {
+      setStan('failed')
+    }
+  }
+
+  if (stan === 'sent')
+    return (
+      <p className="mt-3 rounded-lg border border-emerald-400/40 bg-emerald-500/10 px-3 py-2 text-emerald-100">
+        {t('pray40.formSent', 'Dziękuję! Twoja odpowiedź dotarła.')}
+      </p>
+    )
+
+  if (!open)
+    return (
+      <button
+        type="button"
+        onClick={() => {
+          setOpen(true)
+          setOpenedAt(Date.now())
+        }}
+        className="no-print mt-3 rounded-xl bg-violet-500 px-4 py-2 font-semibold text-white hover:bg-violet-400"
+      >
+        {t('pray40.formOpen', 'Napisz odpowiedź')}
+      </button>
+    )
+
+  return (
+    <form onSubmit={onSubmit} className="no-print mt-3 space-y-2">
+      <textarea
+        value={msg}
+        onChange={(e) => setMsg(e.target.value)}
+        placeholder={t('pray40.formMessage', 'Twoja odpowiedź')}
+        rows={4}
+        maxLength={5000}
+        required
+        autoFocus
+        className={field}
+      />
+      <div className="grid gap-2 sm:grid-cols-2">
+        <input value={name} onChange={(e) => setName(e.target.value)} maxLength={80} placeholder={t('pray40.formName', 'Imię (nieobowiązkowo)')} className={field} />
+        <input type="email" value={email} onChange={(e) => setEmail(e.target.value)} maxLength={120} placeholder={t('pray40.formEmail', 'E-mail (nieobowiązkowo, jeśli chcesz odpowiedzi)')} className={field} />
+      </div>
+      <input value={hp} onChange={(e) => setHp(e.target.value)} tabIndex={-1} autoComplete="off" aria-hidden="true" className="hidden" />
+      <label className="flex items-center gap-2 text-sm text-slate-200">
+        <input type="checkbox" checked={human} onChange={(e) => setHuman(e.target.checked)} className="h-4 w-4 accent-violet-500" />
+        {t('pray40.formHuman', 'Jestem człowiekiem')}
+      </label>
+      <button
+        type="submit"
+        disabled={!ready}
+        className="rounded-xl bg-violet-500 px-4 py-2 font-semibold text-white hover:bg-violet-400 disabled:opacity-50"
+      >
+        {stan === 'busy' ? t('pray40.formSending', 'Wysyłam…') : t('pray40.formSend', 'Wyślij')}
+      </button>
+      {stan === 'failed' && <p className="text-sm text-rose-300">{t('pray40.formFailed', 'Nie udało się wysłać. Spróbuj jeszcze raz za chwilę.')}</p>}
+    </form>
+  )
+}
+
+/**
  * Slowo na zakonczenie serii pod pytaniami ostatniego dnia (obie wersje tekstu):
- * podziekowanie i pytanie o doswiadczenie z adresem do odpowiedzi.
+ * podziekowanie, pytanie o doswiadczenie i okienko odpowiedzi.
  */
 function SeriesClosing() {
   const { t } = useI18n()
-  const email = t('pray40.closingEmail', 'marek.micyk@adwent.pl')
-  const subject = encodeURIComponent(t('pray40.closingSubject', '40 dni modlitwy – moje doświadczenie'))
   return (
     <section className="mt-6 rounded-xl border border-violet-500/30 bg-violet-500/10 p-4">
       <h2 className="mb-2 font-bold text-slate-100">{t('pray40.closingTitle', 'Na zakończenie serii')}</h2>
       <p className="mb-2 leading-relaxed text-slate-200">
-        {t('pray40.closingBody', 'Czterdzieści dni temu zaczęliśmy od Edenu, a dziś doszliśmy do nowego nieba i nowej ziemi. Dziękuję, że przeszliśmy tę drogę razem. Na koniec chcę cię zapytać o jedno: czy ta seria pomogła ci duchowo? Może któraś historia przyszła w samą porę albo w tych dniach w twojej modlitwie wydarzyło się coś, czym chcesz się podzielić.')}
+        {t('pray40.closingBody', 'Czterdzieści dni temu zaczęliśmy od Edenu, a dziś doszliśmy do nowego nieba i nowej ziemi. Dziękuję, że przeszliśmy tę drogę razem. Na koniec chcę Cię zapytać o jedno: czy ta seria pomogła Ci duchowo? Może któraś historia przyszła w samą porę albo w tych dniach w Twojej modlitwie wydarzyło się coś, czym chcesz się podzielić.')}
       </p>
       <p className="leading-relaxed text-slate-200">
-        {t('pray40.closingWrite', 'Napisz kilka zdań na adres')}{' '}
-        <a href={`mailto:${email}?subject=${subject}`} className="font-semibold text-brand-light hover:underline">
-          {email}
-        </a>
-        . {t('pray40.closingRead', 'Każdą odpowiedź przeczytam osobiście.')}
+        {t('pray40.closingWrite', 'Napisz kilka zdań w okienku poniżej.')} {t('pray40.closingRead', 'Każdą odpowiedź przeczytam osobiście.')}
       </p>
-      <p className="mt-2 leading-relaxed text-slate-200">
+      <FeedbackForm />
+      <p className="mt-4 leading-relaxed text-slate-200">
         {t('pray40.closingPdf', 'Już wkrótce cały materiał 40 dni modlitwy będzie do pobrania w PDF.')}
       </p>
     </section>
