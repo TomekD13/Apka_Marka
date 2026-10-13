@@ -1,16 +1,19 @@
 #!/usr/bin/env bash
-# Buduje aplikacje i wysyla zawartosc dist/ na hosting jestnadzieja.adwent.pl (FTP).
+# Buduje aplikacje i wysyla zawartosc dist/ na hosting jestnadzieja.adwent.pl (SFTP).
 # Uruchamiac z katalogu Aplikacja-nowa/ w Git Bash:
 #
 #   bash deploy-ftp.sh              # build + wyslanie tylko zmienionych plikow
 #   bash deploy-ftp.sh --all        # build + wyslanie wszystkiego (pierwszy raz, albo po zmianie hostingu)
 #   bash deploy-ftp.sh --no-build   # wyslanie istniejacego dist/ bez przebudowy
 #
-# Dane FTP siedza POZA repozytorium (jest publiczne) w ~/.jestnadzieja-ftp:
-#   FTP_HOST=s1.go3.pl
-#   FTP_USER=ftp@jestnadzieja.adwent.pl
-#   FTP_PASS=...
-#   FTP_DIR=/public_html
+# Dane siedza POZA repozytorium (jest publiczne) w ~/.jestnadzieja-ftp:
+#   SFTP_HOST=s1.go3.pl
+#   SFTP_PORT=10022
+#   SFTP_USER=adwentjestnadzieja
+#   SFTP_KEY=$HOME/.ssh/jestnadzieja_sftp   (klucz prywatny, logowanie bez hasla)
+#   SFTP_DIR=public_html
+# Od 2026-10-14 hosting wylaczyl zwykle FTP (konto ftp@jestnadzieja.adwent.pl dostaje 530),
+# zostal tylko SFTP na porcie 10022. Stare zmienne FTP_* skrypt juz pomija.
 #
 # GitHub Pages publikuje osobny skrypt deploy.sh (tam build idzie z VITE_BASE=/aplikacja/).
 # Tutaj subdomena serwuje z korzenia, wiec build leci bez VITE_BASE (base = '/').
@@ -32,10 +35,10 @@ for a in "$@"; do
   esac
 done
 
-[ -f "$CRED" ] || { echo "brak $CRED - zaloz plik z danymi FTP (opis w naglowku skryptu)" >&2; exit 1; }
+[ -f "$CRED" ] || { echo "brak $CRED - zaloz plik z danymi SFTP (opis w naglowku skryptu)" >&2; exit 1; }
 # shellcheck disable=SC1090
 . "$CRED"
-: "${FTP_HOST:?}" "${FTP_USER:?}" "${FTP_PASS:?}" "${FTP_DIR:?}"
+: "${SFTP_HOST:?}" "${SFTP_PORT:?}" "${SFTP_USER:?}" "${SFTP_KEY:?}" "${SFTP_DIR:?}"
 
 if [ "$BUILD" = 1 ]; then
   echo ">> build (base = / , bez VITE_BASE)"
@@ -92,32 +95,34 @@ if [ ! -s "$TMP/todo.txt" ]; then
 fi
 
 # --- wysylka ---------------------------------------------------------------
-# Jedno wywolanie curl na paczke plikow: to samo poloczenie FTP obsluguje
-# wszystkie transfery w paczce, wiec setki plikow nie oznaczaja setek logowan.
-BASEURL="ftp://${FTP_HOST}${FTP_DIR%/}/"
-CFG="$TMP/curl.cfg"
-# curl.exe to program natywny Windows, a MSYS2_ARG_CONV_EXCL wyzej wylacza
-# tlumaczenie sciezek MSYS -> Windows. Bez cygpath curl dostaje doslowne
-# '/tmp/...' i konczy sie bledem "cannot read config from".
-if command -v cygpath >/dev/null 2>&1; then CFG_ARG="$(cygpath -m "$CFG")"; else CFG_ARG="$CFG"; fi
-CHUNK=80
+# Jedna sesja sftp na wszystkie pliki: najpierw katalogi (z "-", zeby istniejace
+# nie przerywaly wsadu), potem put kazdego pliku. Bez "-" przy put: pierwszy
+# blad konczy sftp kodem != 0 i manifest nie zostaje zapisany.
+BATCH="$TMP/sftp.batch"
 TOTAL=$(wc -l < "$TMP/todo.txt")
-DONE=0
+{
+  printf 'cd "%s"\n' "$SFTP_DIR"
+  # wszystkie poziomy katalogow, od najplytszych
+  while IFS= read -r f; do
+    d="$(dirname "$f")"
+    while [ "$d" != "." ]; do echo "$d"; d="$(dirname "$d")"; done
+  done < "$TMP/todo.txt" | sort -u | awk -F/ '{print NF "\t" $0}' | sort -n | cut -f2- \
+    | while IFS= read -r d; do printf -- '-mkdir "%s"\n' "$d"; done
+  while IFS= read -r f; do
+    printf 'put "dist/%s" "%s"\n' "$f" "$f"
+  done < "$TMP/todo.txt"
+} > "$BATCH"
 
-split -l "$CHUNK" -d "$TMP/todo.txt" "$TMP/part."
-for part in "$TMP"/part.*; do
-  {
-    printf 'user = "%s:%s"\n' "$FTP_USER" "$FTP_PASS"
-    printf 'ftp-create-dirs\n--fail\n--silent\n--show-error\n'
-    while IFS= read -r f; do
-      printf 'url = "%s%s"\n' "$BASEURL" "$f"
-      printf 'upload-file = "dist/%s"\n' "$f"
-    done < "$part"
-  } > "$CFG"
-  curl -K "$CFG_ARG"
-  DONE=$((DONE + $(wc -l < "$part")))
-  echo "   wyslano $DONE / $TOTAL"
-done
+if command -v cygpath >/dev/null 2>&1; then BATCH_ARG="$(cygpath -m "$BATCH")"; else BATCH_ARG="$BATCH"; fi
+echo ">> sftp ${SFTP_USER}@${SFTP_HOST}:${SFTP_PORT}/${SFTP_DIR} ($TOTAL plikow)"
+sftp -q -b "$BATCH_ARG" -i "$SFTP_KEY" -P "$SFTP_PORT" \
+  -o BatchMode=yes -o ConnectTimeout=20 -o StrictHostKeyChecking=accept-new \
+  "${SFTP_USER}@${SFTP_HOST}" > "$TMP/sftp.log" 2>&1 || {
+    echo "BLAD sftp - manifest NIE zapisany, ponowne uruchomienie wysle wszystko jeszcze raz:" >&2
+    grep -vE '^sftp> (put|-mkdir|cd)' "$TMP/sftp.log" | tail -20 >&2
+    exit 1
+  }
+echo "   wyslano $TOTAL / $TOTAL"
 
 cp "$TMP/manifest.txt" "$STATE"
 echo ">> gotowe -> https://jestnadzieja.adwent.pl/"
