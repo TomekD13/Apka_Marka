@@ -22,7 +22,7 @@ const VERSION_KEY = 'zywe-slowo:pray40:version'
 
 /**
  * Slowo na zakonczenie serii pod pytaniami ostatniego dnia (obie wersje tekstu):
- * podziekowanie, pytanie o doswiadczenie z adresem do odpowiedzi i stopka autorska.
+ * podziekowanie i pytanie o doswiadczenie z adresem do odpowiedzi.
  */
 function SeriesClosing() {
   const { t } = useI18n()
@@ -44,12 +44,21 @@ function SeriesClosing() {
       <p className="mt-2 leading-relaxed text-slate-200">
         {t('pray40.closingPdf', 'Już wkrótce cały materiał 40 dni modlitwy będzie do pobrania w PDF.')}
       </p>
-      <p className="mt-4 text-sm text-slate-400">
-        {t('pray40.closingAuthor', 'Teksty opracował: Marek Micyk')}
-        <br />
-        {t('pray40.closingProof', 'Korekta: Sara Pieszka')}
-      </p>
     </section>
+  )
+}
+
+/** Stopka autorska serii - pod trescia ostatniego dnia, przed pytaniami. */
+function SeriesCredits() {
+  const { t } = useI18n()
+  return (
+    <p className="mt-4 text-[1.05em] font-bold leading-snug text-slate-100">
+      {t('pray40.creditsSeries', 'Teksty 40 dni modlitwy,')}
+      <br />
+      {t('pray40.creditsAuthor', 'opracował: Marek Micyk,')}
+      <br />
+      {t('pray40.creditsProof', 'korekta: Sara Pieszka.')}
+    </p>
   )
 }
 
@@ -237,6 +246,8 @@ export function Pray40DayPage() {
           </section>
         ))}
       </div>
+
+      {entry.day === total && <SeriesCredits />}
 
       {entry.questions.length > 0 && (
         <section className="mt-6 rounded-xl border border-violet-500/30 bg-violet-500/10 p-4">
