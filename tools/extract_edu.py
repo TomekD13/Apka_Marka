@@ -180,7 +180,8 @@ def read_md(path: Path) -> dict:
             out["questions"].append(m.group(1).strip())
             # wyzwanie stoi tuz przed pytaniem: w wersji pelnej cala sekcja „Na dzis”,
             # w krotkiej ostatni akapit („Zanim odlozysz telefon...”). Idzie do ramki z pytaniem.
-            if current and (current["heading"] or "").lower().startswith("na dzi"):
+            # srodtytul sekcji: „Na dzis”, od 2026-10-12 „Sprobuj dzisiaj”
+            if current and (current["heading"] or "").lower().startswith(("na dzi", "spróbuj dzi")):
                 out["challenge"] = current["paragraphs"]
                 out["sections"].remove(current)
                 current = None
