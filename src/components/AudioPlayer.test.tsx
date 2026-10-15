@@ -50,6 +50,28 @@ describe('odtwarzacz nagrania', () => {
     expect(audio.playbackRate).toBe(1)
   })
 
+  it('wolniej i szybciej o 5 procent, w granicach 0,5-2x', () => {
+    player()
+    const audio = document.querySelector('audio') as HTMLAudioElement
+    fireEvent.click(screen.getByRole('button', { name: 'Szybciej' }))
+    expect(audio.playbackRate).toBeCloseTo(1.05)
+    fireEvent.click(screen.getByRole('button', { name: 'Wolniej' }))
+    fireEvent.click(screen.getByRole('button', { name: 'Wolniej' }))
+    expect(audio.playbackRate).toBeCloseTo(0.95)
+    expect(localStorage.getItem('zywe-slowo:audio:rate')).toBe('0.95')
+    fireEvent.change(screen.getByRole('slider', { name: /Tempo/ }), { target: { value: '2' } })
+    expect(screen.getByRole('button', { name: 'Szybciej' })).toBeDisabled()
+  })
+
+  it('przewija o 5 sekund przy pasku postepu', () => {
+    player()
+    const audio = document.querySelector('audio') as HTMLAudioElement
+    fireEvent.click(screen.getByRole('button', { name: /Do przodu o 5 sekund/ }))
+    expect(audio.currentTime).toBe(5)
+    fireEvent.click(screen.getByRole('button', { name: /Cofnij o 5 sekund/ }))
+    expect(audio.currentTime).toBe(0)
+  })
+
   it('zapamietane tempo obowiazuje w kolejnym nagraniu', () => {
     localStorage.setItem('zywe-slowo:audio:rate', '0.8')
     player()

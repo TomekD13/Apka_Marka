@@ -9,8 +9,9 @@ import { mediaUrl } from '../lib/media'
  * - Tylko strumieniowo: `preload="none"` (nic sie nie pobiera przed odtworzeniem), service
  *   worker nagran nie zapisuje, a serwer wysyla je z `Cache-Control: no-store` - telefon nie
  *   gromadzi plikow (decyzja autora 2026-10-09). Rozmiar widac przed odtworzeniem.
- * - Tempo plynnie suwakiem 0,5-2x. Wybor zostaje na urzadzeniu i obowiazuje we
- *   wszystkich nagraniach; wysokosc glosu sie nie zmienia (preservesPitch).
+ * - Przewijanie o 5 s przyciskami przy pasku postepu (decyzja autora 2026-10-15).
+ * - Tempo 0,5-2x suwakiem albo przyciskami „Wolniej”/„Szybciej” (krok 5 %). Wybor zostaje
+ *   na urzadzeniu i obowiazuje we wszystkich nagraniach; wysokosc glosu sie nie zmienia (preservesPitch).
  * - Media Session: tytul i przyciski na ekranie blokady telefonu.
  */
 
@@ -18,7 +19,10 @@ const RATE_KEY = 'zywe-slowo:audio:rate'
 export const MIN_RATE = 0.5
 export const MAX_RATE = 2
 const RATE_STEP = 0.05
-const SKIP = 15
+/** przyciski przy pasku postepu */
+const SKIP = 5
+/** ekran blokady telefonu - tam zostaje dluzszy skok */
+const LOCK_SKIP = 15
 
 // Nagrania nie leza w repo (public/audio/ w .gitignore) - adres buduje mediaUrl.
 export const audioUrl = mediaUrl
@@ -165,8 +169,8 @@ export function AudioPlayer({
     const handlers: [MediaSessionAction, MediaSessionActionHandler][] = [
       ['play', () => a?.play()],
       ['pause', () => a?.pause()],
-      ['seekbackward', () => a && seek(a.currentTime - SKIP)],
-      ['seekforward', () => a && seek(a.currentTime + SKIP)],
+      ['seekbackward', () => a && seek(a.currentTime - LOCK_SKIP)],
+      ['seekforward', () => a && seek(a.currentTime + LOCK_SKIP)],
       ['seekto', (d) => d.seekTime != null && seek(d.seekTime)],
     ]
     for (const [action, fn] of handlers) {
@@ -193,6 +197,7 @@ export function AudioPlayer({
   const meta = [note, clock(seconds), bytes ? `${comma(bytes / 1e6, 1)}\u00a0MB` : ''].filter(Boolean).join('\u00a0· ')
   const skipBtn =
     'shrink-0 rounded-md border border-slate-500/40 px-2 py-1 text-xs tabular-nums text-slate-200 transition hover:bg-brand/20 hover:text-white'
+  const rateBtn = `${skipBtn} disabled:cursor-not-allowed disabled:opacity-40 disabled:hover:bg-transparent`
 
   return (
     <section
@@ -254,6 +259,9 @@ export function AudioPlayer({
             </svg>
           )}
         </button>
+        <button type="button" onClick={() => seek(time - SKIP)} className={skipBtn} title={t('audio.back', 'Cofnij o 5 sekund')}>
+          <span aria-hidden>‹ </span>5 s<span className="sr-only"> {t('audio.back', 'Cofnij o 5 sekund')}</span>
+        </button>
         <div className="min-w-0 flex-1">
           <input
             type="range"
@@ -271,14 +279,17 @@ export function AudioPlayer({
             <span>{clock(total)}</span>
           </div>
         </div>
+        <button type="button" onClick={() => seek(time + SKIP)} className={skipBtn} title={t('audio.forward', 'Do przodu o 5 sekund')}>
+          5 s<span aria-hidden> ›</span><span className="sr-only"> {t('audio.forward', 'Do przodu o 5 sekund')}</span>
+        </button>
       </div>
 
       <div className="mt-2 flex items-center gap-2">
-        <button type="button" onClick={() => seek(time - SKIP)} className={skipBtn} title={t('audio.back', 'Cofnij o 15 sekund')}>
-          <span aria-hidden>‹ </span>15 s<span className="sr-only"> {t('audio.back', 'Cofnij o 15 sekund')}</span>
+        <button type="button" onClick={() => changeRate(rate - RATE_STEP)} disabled={rate <= MIN_RATE} className={rateBtn} title={t('audio.slowerHint', 'Wolniej o 5%')}>
+          {t('audio.slower', 'Wolniej')}
         </button>
         <label className="flex min-w-0 flex-1 items-center gap-2 text-xs text-slate-300">
-          <span className="shrink-0">{t('audio.speed', 'Tempo')}</span>
+          <span className="sr-only shrink-0 sm:not-sr-only">{t('audio.speed', 'Tempo')}</span>
           <input
             type="range"
             min={MIN_RATE}
@@ -301,8 +312,8 @@ export function AudioPlayer({
         >
           {comma(rate, 2)}×
         </button>
-        <button type="button" onClick={() => seek(time + SKIP)} className={skipBtn} title={t('audio.forward', 'Do przodu o 15 sekund')}>
-          15 s<span aria-hidden> ›</span><span className="sr-only"> {t('audio.forward', 'Do przodu o 15 sekund')}</span>
+        <button type="button" onClick={() => changeRate(rate + RATE_STEP)} disabled={rate >= MAX_RATE} className={rateBtn} title={t('audio.fasterHint', 'Szybciej o 5%')}>
+          {t('audio.faster', 'Szybciej')}
         </button>
       </div>
 
