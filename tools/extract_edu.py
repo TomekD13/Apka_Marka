@@ -7,8 +7,8 @@
     python tools/extract_edu.py --src <katalog>  # inne zrodlo niz domyslne
     python tools/extract_edu.py --nr 1-7         # tylko te materialy; reszta zostaje jak jest
 
-Kazde szkolenie ma dwie wersje tego samego tekstu - krotka (SzkoleniaShort)
-i pelna (SzkoleniaLong). Numer bierzemy z nazwy pliku (`001_...md`), reszte
+Kazde szkolenie ma dwie wersje tego samego tekstu - krotka (HopeShort)
+i pelna (HopeLong). Numer bierzemy z nazwy pliku (`001_...md`), reszte
 z markdowna, ktory w obu wersjach ma ten sam uklad:
 
     # tytul
@@ -57,7 +57,7 @@ OPEN_NOW = {1}
 AUDIO = ROOT / "public" / "audio" / "edu"
 
 # Grafiki do udostepniania: public/media/edu/NNNa.jpg (robi tools/build_edu_graphics.py),
-# tekst grafiki z one27/SzkoleniaGrafiki/NNNa.txt. Tak jak nagrania - tylko lokalnie i na serwerze.
+# tekst grafiki z one27/HopeGrafiki/NNNa.txt. Tak jak nagrania - tylko lokalnie i na serwerze.
 MEDIA = ROOT / "public" / "media" / "edu"
 
 # Czlowiek Nadziei idzie dzien po dniu zaraz po 40 dniach modlitwy (decyzja autora
@@ -109,9 +109,9 @@ def graphics_info(nr: int, src: Path) -> list[dict]:
         w, h = (int(x) for x in p.stdout.strip().split(",")[:2])
         thumb, view = path.with_name(f"{path.stem}_m.webp"), path.with_name(f"{path.stem}_d.webp")
         # NNN_PLa.txt (nazwy od 2026-10-15) albo NNNa.txt
-        txt = src / "SzkoleniaGrafiki" / f"{path.stem[:3]}_PL{path.stem[3:]}.txt"
+        txt = src / "HopeGrafiki" / f"{path.stem[:3]}_PL{path.stem[3:]}.txt"
         if not txt.exists():
-            txt = src / "SzkoleniaGrafiki" / f"{path.stem}.txt"
+            txt = src / "HopeGrafiki" / f"{path.stem}.txt"
         out.append({
             "src": adres(path),
             **({"thumb": adres(thumb)} if thumb.exists() else {}),
@@ -266,7 +266,7 @@ def main() -> int:
             a, _, b = part.partition("-")
             only.update(range(int(a), int(b or a) + 1))
 
-    short_dir, long_dir = src / "SzkoleniaShort", src / "SzkoleniaLong"
+    short_dir, long_dir = src / "HopeShort", src / "HopeLong"
     for d in (short_dir, long_dir):
         if not d.exists():
             sys.exit(f"Brak katalogu: {d}")

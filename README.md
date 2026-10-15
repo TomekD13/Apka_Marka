@@ -371,7 +371,7 @@ python tools/extract_edu.py --check          # sam raport, bez zapisu
 python tools/extract_edu.py --src <katalog>  # inne źródło niż ~/AIprojekty/one27
 ```
 
-Źródło: projekt **one27** (poza tym repo) – `SzkoleniaShort/` i `SzkoleniaLong/`, po 10
+Źródło: projekt **one27** (poza tym repo) – `HopeShort/` i `HopeLong/`, po 10
 plików `.md`. Numer bierze się z nazwy pliku (`001_...md`), reszta z markdowna: `#` to
 tytuł, `##` śródtytuł (w wersji pełnej „Podsumowanie" i „Spójrz wyżej"), blokquote to
 werset z odnośnikiem, dalej pytania do przemyślenia i nota o przekładzie.

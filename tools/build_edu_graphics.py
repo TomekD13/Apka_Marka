@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 """Grafiki do udostepniania pod materialem Czlowieka Nadziei.
 
-    python tools/build_edu_graphics.py          # wszystkie z one27/SzkoleniaGrafiki
+    python tools/build_edu_graphics.py          # wszystkie z one27/HopeGrafiki
     python tools/build_edu_graphics.py 1        # tylko materialu 1
 
-Zrodlo: one27/SzkoleniaGrafiki/NNNa.png, NNNb.png, NNNc.png albo NNN_PLa.png (NNN_ENa.png to grafiki
+Zrodlo: one27/HopeGrafiki/NNNa.png, NNNb.png, NNNc.png albo NNN_PLa.png (NNN_ENa.png to grafiki
 wersji angielskiej - tu pomijane), PNG ok. 2 MB, 1122x1402. Obok NNNa.txt albo NNN_PLa.txt - tekst
 grafiki: opis dla czytnikow ekranu i podpis przy udostepnianiu (bez pliku opis jest ogolny).
 
@@ -28,7 +28,7 @@ from pathlib import Path
 from PIL import Image
 
 ROOT = Path(__file__).resolve().parent.parent
-SRC = Path.home() / "AIprojekty" / "one27" / "SzkoleniaGrafiki"
+SRC = Path.home() / "AIprojekty" / "one27" / "HopeGrafiki"
 OUT = ROOT / "public" / "media" / "edu"
 RE_NAME = re.compile(r"^(\d{3})(?:_PL)?([a-z]?)\.png$", re.I)
 ROZMIARY = (("_m", 240, 74), ("_d", 720, 80))  # (przyrostek, szerokosc, jakosc WebP)
