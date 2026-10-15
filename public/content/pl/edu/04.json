@@ -17,6 +17,24 @@
     "seconds": 864,
     "bytes": 5182499
   },
+  "graphics": [
+    {
+      "src": "media/edu/004a.jpg?v=6cbbc8b2",
+      "thumb": "media/edu/004a_m.webp?v=1654b28b",
+      "view": "media/edu/004a_d.webp?v=90f81ea4",
+      "width": 1122,
+      "height": 1402,
+      "text": "Rozmowa, którą odkładasz, może być początkiem porozumienia, na które czekasz."
+    },
+    {
+      "src": "media/edu/004b.jpg?v=700bbeb6",
+      "thumb": "media/edu/004b_m.webp?v=4063acd6",
+      "view": "media/edu/004b_d.webp?v=6caee1b7",
+      "width": 1122,
+      "height": 1402,
+      "text": "Bóg może działać przez rozmowę, którą ty odważysz się rozpocząć."
+    }
+  ],
   "versions": {
     "short": {
       "sections": [

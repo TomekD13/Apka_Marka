@@ -17,6 +17,24 @@
     "seconds": 967,
     "bytes": 5804421
   },
+  "graphics": [
+    {
+      "src": "media/edu/003a.jpg?v=45454ae0",
+      "thumb": "media/edu/003a_m.webp?v=1f3323da",
+      "view": "media/edu/003a_d.webp?v=d13f3484",
+      "width": 1122,
+      "height": 1402,
+      "text": "Zanim złożysz obietnicę, pamiętaj: ktoś może już na niej budować swoje plany."
+    },
+    {
+      "src": "media/edu/003b.jpg?v=ca3bcc0a",
+      "thumb": "media/edu/003b_m.webp?v=3bcbedd4",
+      "view": "media/edu/003b_d.webp?v=40b62012",
+      "width": 1122,
+      "height": 1402,
+      "text": "Mówiąc, projektujemy świat, w którym przyjdzie żyć innym ludziom."
+    }
+  ],
   "versions": {
     "short": {
       "sections": [

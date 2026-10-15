@@ -21,16 +21,28 @@
   },
   "graphics": [
     {
-      "src": "media/edu/001a.jpg?v=0ae73f76",
-      "width": 1080,
-      "height": 1350,
+      "src": "media/edu/001a.jpg?v=8769cba3",
+      "thumb": "media/edu/001a_m.webp?v=cd2e9b01",
+      "view": "media/edu/001a_d.webp?v=f137f469",
+      "width": 1122,
+      "height": 1402,
       "text": "Zachwyt zaczyna się tam, gdzie kończy się pośpiech."
     },
     {
-      "src": "media/edu/001b.jpg?v=11ab0789",
-      "width": 1080,
-      "height": 1350,
+      "src": "media/edu/001b.jpg?v=14c1d924",
+      "thumb": "media/edu/001b_m.webp?v=26e4261a",
+      "view": "media/edu/001b_d.webp?v=9ca58e23",
+      "width": 1122,
+      "height": 1402,
       "text": "Zachwyt jest jedną z niewielu rzeczy, które rosną, gdy się nimi dzielisz."
+    },
+    {
+      "src": "media/edu/001c.jpg?v=988dafbc",
+      "thumb": "media/edu/001c_m.webp?v=d93cb4e5",
+      "view": "media/edu/001c_d.webp?v=2341a7ef",
+      "width": 1122,
+      "height": 1402,
+      "text": "To, że widzisz coś codziennie, nie znaczy, że przestało być niezwykłe."
     }
   ],
   "versions": {

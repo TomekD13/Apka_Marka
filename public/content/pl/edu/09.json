@@ -17,6 +17,24 @@
     "seconds": 784,
     "bytes": 4707419
   },
+  "graphics": [
+    {
+      "src": "media/edu/009a.jpg?v=40ac9ea4",
+      "thumb": "media/edu/009a_m.webp?v=f183bad4",
+      "view": "media/edu/009a_d.webp?v=2ab4a997",
+      "width": 1122,
+      "height": 1402,
+      "text": "Nie musisz zmienić wszystkiego od jutra. Zacznij od małego kroku, który powtórzysz."
+    },
+    {
+      "src": "media/edu/009b.jpg?v=3179e754",
+      "thumb": "media/edu/009b_m.webp?v=49cbaa9a",
+      "view": "media/edu/009b_d.webp?v=51f865e8",
+      "width": 1122,
+      "height": 1402,
+      "text": "Na początku liczy się regularność. Rozmach może przyjść później."
+    }
+  ],
   "versions": {
     "short": {
       "sections": [

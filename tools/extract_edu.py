@@ -95,21 +95,27 @@ def audio_info(nr: int) -> dict | None:
 
 
 def graphics_info(nr: int, src: Path) -> list[dict]:
-    """Grafiki materialu: sciezka z suma (podmiana pliku = nowy adres), wymiary i tekst grafiki."""
+    """Grafiki materialu w trzech rozmiarach (tools/build_edu_graphics.py): `thumb` (miniatura pod
+    tekstem), `view` (podglad po dotknieciu), `src` (pelna, tylko do udostepnienia). Kazda sciezka
+    z suma pliku (podmiana = nowy adres), do tego wymiary pelnej i tekst grafiki."""
     out = []
-    for path in sorted(MEDIA.glob(f"{nr:03d}*.jpg")):
-        data = path.read_bytes()
+    for path in sorted(MEDIA.glob(f"{nr:03d}?.jpg")):
+        def adres(p: Path) -> str:
+            return f"media/edu/{p.name}?v={hashlib.md5(p.read_bytes()).hexdigest()[:8]}"
         p = subprocess.run(
             ["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries", "stream=width,height",
              "-of", "csv=p=0", str(path)], capture_output=True, text=True,
         )
         w, h = (int(x) for x in p.stdout.strip().split(",")[:2])
-        # NNN_PLa.txt (nazwy od 2026-10-15) albo starsze NNNa.txt
+        thumb, view = path.with_name(f"{path.stem}_m.webp"), path.with_name(f"{path.stem}_d.webp")
+        # NNN_PLa.txt (nazwy od 2026-10-15) albo NNNa.txt
         txt = src / "SzkoleniaGrafiki" / f"{path.stem[:3]}_PL{path.stem[3:]}.txt"
         if not txt.exists():
             txt = src / "SzkoleniaGrafiki" / f"{path.stem}.txt"
         out.append({
-            "src": f"media/edu/{path.name}?v={hashlib.md5(data).hexdigest()[:8]}",
+            "src": adres(path),
+            **({"thumb": adres(thumb)} if thumb.exists() else {}),
+            **({"view": adres(view)} if view.exists() else {}),
             "width": w,
             "height": h,
             **({"text": txt.read_text(encoding="utf-8").strip()} if txt.exists() else {}),

@@ -29,7 +29,7 @@ python tools/extract_youth.py       # śpiewniki obozowe + rozdział 41 -> songs
 python tools/extract_pray40.py      # one27/Teksty{Short,Long} -> pray40/
 python tools/extract_edu.py         # one27/Szkolenia{Short,Long} -> edu/  (--nr 1-7 = tylko te)
 python tools/build_edu_audio.py 1 <wzorzec.mp3>  # nagranie -> public/audio/edu/001.mp3 (48 kb/s mono, -16 LUFS)
-python tools/build_edu_graphics.py [1]   # one27/SzkoleniaGrafiki/NNNa.png -> public/media/edu/NNNa.jpg (potem extract_edu.py)
+python tools/build_edu_graphics.py [1]   # one27/SzkoleniaGrafiki/NNNa.png -> public/media/edu/NNNa_m.webp, NNNa_d.webp, NNNa.jpg (potem extract_edu.py)
 python tools/extract_groups.py      # one27/GrupyBiblijne -> groups/ (Grupy Nadziei)
 python tools/build_prayer_texts.py pl  # teksty do modlitwy (United Prayer) -> prayer-texts.json
 python tools/build_bible_full.py    # pełny przekład -> bible/{KOD}/
@@ -57,6 +57,10 @@ Wersja testowa na GitHub Pages bierze nagrania ze strony głównej. Flaga `open`
 materiału w opisie, na komputerze grafika się pobiera. Pliki jak nagrania: `public/media/` w
 `.gitignore`, poza precache service workera, adres przez `lib/media.ts` (GitHub Pages bierze
 je ze strony głównej). Tekst grafiki (opis i podpis) z `one27/SzkoleniaGrafiki/NNNa.txt`.
+Od 2026-10-15 trzy rozmiary (decyzja autora: aplikacja nie może cięższeć z każdą lekcją): pod
+tekstem tylko miniatury `NNNa_m.webp` (~15 KB), po dotknięciu okno z podglądem `NNNa_d.webp`
+(~80 KB), pełna `NNNa.jpg` (~250 KB) pobiera się dopiero w otwartym oknie, do udostępnienia.
+`.htaccess`: miniatury i podglądy tydzień w pamięci przeglądarki, pełne `no-store`.
 Źródłowe nagrania materiałów: `one27/SzkoleniaAudio/Jest_Nadzieja_NNN_z_muzyka.mp3`.
 
 ## Twarde reguły

@@ -186,8 +186,12 @@ export interface EduAudio {
 }
 /** Grafika do udostepniania pod materialem (`public/media/edu/NNNa.jpg`, robi tools/build_edu_graphics.py). */
 export interface EduGraphic {
-  /** sciezka wzgledem korzenia strony, z suma pliku w `?v=` */
+  /** pelna grafika (do udostepnienia): sciezka wzgledem korzenia strony, z suma pliku w `?v=` */
   src: string
+  /** miniatura pod tekstem (`NNNa_m.webp`, szer. 240) */
+  thumb?: string
+  /** podglad po dotknieciu miniatury (`NNNa_d.webp`, szer. 720) */
+  view?: string
   width: number
   height: number
   /** tekst z grafiki - opis dla czytnikow ekranu i podpis przy udostepnianiu */

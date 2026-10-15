@@ -17,6 +17,24 @@
     "seconds": 781,
     "bytes": 4686983
   },
+  "graphics": [
+    {
+      "src": "media/edu/007a.jpg?v=4c078dbe",
+      "thumb": "media/edu/007a_m.webp?v=1aa6c49b",
+      "view": "media/edu/007a_d.webp?v=9ad17e6f",
+      "width": 1122,
+      "height": 1402,
+      "text": "Czasem wystarczy usiąść obok kogoś, kogo inni zostawili samego."
+    },
+    {
+      "src": "media/edu/007b.jpg?v=223b0469",
+      "thumb": "media/edu/007b_m.webp?v=be43f5df",
+      "view": "media/edu/007b_d.webp?v=d93f367e",
+      "width": 1122,
+      "height": 1402,
+      "text": "Jeden odważny głos może dodać odwagi tym, którzy dotąd milczeli."
+    }
+  ],
   "versions": {
     "short": {
       "sections": [

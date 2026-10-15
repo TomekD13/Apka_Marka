@@ -17,6 +17,24 @@
     "seconds": 816,
     "bytes": 4894159
   },
+  "graphics": [
+    {
+      "src": "media/edu/002a.jpg?v=b84a2e5b",
+      "thumb": "media/edu/002a_m.webp?v=cd418252",
+      "view": "media/edu/002a_d.webp?v=2fcb42c3",
+      "width": 1122,
+      "height": 1402,
+      "text": "Twoja historia może być początkiem czyjejś nadziei."
+    },
+    {
+      "src": "media/edu/002b.jpg?v=29460b72",
+      "thumb": "media/edu/002b_m.webp?v=2f46b87e",
+      "view": "media/edu/002b_d.webp?v=643b979a",
+      "width": 1122,
+      "height": 1402,
+      "text": "Opowiedz, jak Bóg pomógł ci przetrwać. Ktoś może dziś potrzebować właśnie tej historii."
+    }
+  ],
   "versions": {
     "short": {
       "sections": [
