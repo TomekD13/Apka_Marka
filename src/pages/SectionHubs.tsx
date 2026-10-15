@@ -32,7 +32,7 @@ export function BibleHub() {
     <SectionTile to={`/${lang}/biblia/czytaj`} icon="book" title="Biblia" description="Księgi, rozdziały, wyszukiwanie, zakładki i przekłady." />
     {BETA && <SectionTile to={`/${lang}/biblia/plany`} icon="book" title={t('plans.tile', 'Plany czytania')} description={t('plans.tileDesc', 'Cała Biblia, Nowy Testament, Psalmy i inne – w Twoim tempie')} />}
     <SectionTile to={`/${lang}/poznaj-boga-i-biblie`} icon="lesson" title="Lekcje Biblijne" description="5 serii po 7 lekcji biblijnych do samodzielnego studiowania." />
-    <SectionTile to={`/${lang}/lekcje-biblijne`} icon="lesson" title="Szkoła Biblijna" description="Bieżąca lekcja Szkoły Sobotniej." />
+    <SectionTile to={`/${lang}/lekcje-biblijne`} icon="lesson" title="Szkoła Biblijna" description="Bieżąca lekcja wraz z materiałami do studium." />
     <SectionTile to={`/${lang}/notatki`} icon="notes" title="Moje notatki biblijne" description="Zapisuj myśli i wracaj do nich później." />
     <SectionTile to={`/${lang}/fiszki`} icon="memory" title="Ucz się wersetów na pamięć" description="Fiszki i powtórki ważnych tekstów." />
     <SectionTile to={`/${lang}/okazje`} icon="occasion" title="Teksty na różne okazje" description="Dobierz fragment Pisma do konkretnej sytuacji." />

@@ -123,6 +123,34 @@ def graphics_info(nr: int, src: Path) -> list[dict]:
     return out
 
 
+HTACCESS = ROOT / "public" / ".htaccess"
+LOCK_START = "  # >>> blokada"
+LOCK_END = "  # <<< blokada"
+
+
+def write_lock(items: list[dict]) -> int:
+    """Nagrania i grafiki materialu sa na serwerze dopiero od jego dnia (decyzja autora 2026-10-16):
+    do tego czasu 403. Aplikacja zamyka material o polnocy czasu czytelnika, wiec serwer
+    otwiera pliki juz poprzedniego dnia o 10:00 swojego czasu (= polnoc w najwczesniejszej
+    strefie, UTC+14). Tresc JSON zostaje dostepna - z niej aplikacja pokazuje tytul i date."""
+    rules = []
+    for it in items:
+        if it.get("open") or not it.get("date"):
+            continue
+        d = date.fromisoformat(it["date"]) - timedelta(days=1)
+        if d < date.today():
+            continue  # juz otwarty - bez reguly
+        n = it["nr"]
+        rules.append(f"  RewriteCond %{{TIME}} <{d:%Y%m%d}100000\n"
+                     f"  RewriteRule ^(audio/edu/{n:03d}\.mp3|media/edu/{n:03d}[a-z]?\.jpg)$ - [F,L]")
+    s = HTACCESS.read_text(encoding="utf-8")
+    i, j = s.index(LOCK_START), s.index(LOCK_END)
+    head = s[:i] + s[i:].split("\n", 1)[0] + "\n"
+    s = head + "".join(r + "\n" for r in rules) + s[j:]
+    HTACCESS.write_text(s, encoding="utf-8", newline="")
+    return len(rules)
+
+
 RE_NR_FILE = re.compile(r"^(\d{1,3})[_\-\s]")
 RE_H1 = re.compile(r"^#\s+(.*)$")
 RE_H2 = re.compile(r"^##\s+(.*)$")
@@ -379,6 +407,7 @@ def main() -> int:
         json.dump(index, f, ensure_ascii=False, indent=2)
         f.write("\n")
 
+    print(f"Blokada plików przed datą: {write_lock(index_items)} materiałów (public/.htaccess)")
     total = sum(p.stat().st_size for p in OUT.glob("*.json"))
     print(f"\nZapisano {len(files)} szkoleń + index -> {OUT.relative_to(ROOT)} ({total/1024:.0f} KB)")
     return 1 if problems else 0

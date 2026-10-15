@@ -55,10 +55,10 @@
     "eduOpenOther": "Otwórz materiał",
     "eduAll": "Wszystkie materiały",
     "openToday": "Otwórz dzisiejszy materiał",
-    "sabbathSchool": "Szkoła Sobotnia",
+    "sabbathSchool": "Szkoła Biblijna",
     "bibleSchool": "Szkoła Biblijna",
     "sabbathTitle": "Bieżąca lekcja",
-    "sabbathDesc": "Bieżąca lekcja i materiały do studium.",
+    "sabbathDesc": "Bieżąca lekcja wraz z materiałami do studium.",
     "openLesson": "Otwórz lekcję",
     "continue": "Kontynuuj",
     "continueDesc": "Twoje osobiste narzędzia do codziennego wzrostu.",
@@ -229,7 +229,9 @@
   },
   "sabbathSchool": {
     "title": "Szkoła Biblijna",
-    "desc": "Szkoła sobotnia – cotygodniowe studium Biblii (Adventech).",
+    "desc": "Cotygodniowe studium Biblii.",
+    "intro": "Bieżąca lekcja wraz z materiałami do studium.",
+    "today": "Dzisiaj",
     "thisWeek": "Na ten tydzień",
     "lesson": "Lekcja"
   },

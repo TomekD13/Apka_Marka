@@ -20,6 +20,21 @@ export interface CurrentLesson {
   lessonTitle?: string
   lessonNo?: string
   humanDate?: string
+  /** zakres dat tygodnia, np. „10–16 października” */
+  weekRange?: string
+  /** temat dnia z lekcji (Adventech: lessons/<id>/index.json -> days) */
+  dayTitle?: string
+}
+
+/** „10–16 października” albo „26 września – 2 października”. */
+export function formatRange(start?: string, end?: string, lang = 'pl'): string | undefined {
+  const a = parseDate(start)
+  const b = parseDate(end)
+  if (a === null || b === null) return undefined
+  const fmt = (t: number) => new Intl.DateTimeFormat(lang, { day: 'numeric', month: 'long', timeZone: 'UTC' }).format(t)
+  const da = new Date(a)
+  const db = new Date(b)
+  return da.getUTCMonth() === db.getUTCMonth() ? `${da.getUTCDate()}–${fmt(b)}` : `${fmt(a)} – ${fmt(b)}`
 }
 
 /** Daty z API sa w formacie DD/MM/YYYY. */
@@ -76,12 +91,27 @@ export async function findCurrentLesson(lang: string, timeoutMs = 6000): Promise
     const lesson = pickCurrent(lessons)
     if (!lesson?.id) throw new Error('brak lekcji')
 
+    // temat dnia - dodatek: bez niego karta dziala dalej
+    let dayTitle: string | undefined
+    try {
+      const detail = await getJSON<{ days?: (Period & { date?: string })[] }>(
+        `${API}/${lang}/quarterlies/${quarter.id}/lessons/${lesson.id}/index.json`,
+        ctrl.signal
+      )
+      const today = lessonDayUTC()
+      dayTitle = detail.days?.find((d) => parseDate(d.date) === today)?.title
+    } catch {
+      dayTitle = undefined
+    }
+
     return {
       url: `${WEB}/${lang}/${quarter.id}/${lesson.id}/`,
       quarterTitle: quarter.title,
       lessonTitle: lesson.title,
       lessonNo: lesson.id,
       humanDate: lesson.human_date || quarter.human_date,
+      weekRange: formatRange(lesson.start_date, lesson.end_date, lang),
+      dayTitle,
     }
   } finally {
     clearTimeout(timer)

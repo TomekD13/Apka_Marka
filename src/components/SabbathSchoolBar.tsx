@@ -27,7 +27,7 @@ export function SabbathSchoolBar() {
 
   const desc = lesson?.lessonTitle
     ? `${t('sabbathSchool.thisWeek', 'Na ten tydzień')}: ${lesson.lessonTitle}`
-    : t('sabbathSchool.desc', 'Szkoła sobotnia - cotygodniowe studium Biblii (Adventech).')
+    : t('sabbathSchool.desc', 'Cotygodniowe studium Biblii.')
 
   return (
     <MenuBar
