@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState, type ReactNode } from 'react'
 import { useI18n } from '../i18n'
+import { mediaUrl } from '../lib/media'
 
 /**
  * Prosty odtwarzacz nagrania lektorskiego - stoi na gorze materialu do czytania
@@ -19,14 +20,8 @@ export const MAX_RATE = 2
 const RATE_STEP = 0.05
 const SKIP = 15
 
-// Nagrania nie leza w repo (public/audio/ w .gitignore), tylko lokalnie i na serwerze.
-// Strona glowna i dev biora je z wlasnego adresu, wersja testowa na GitHub Pages - ze strony glownej.
-const MAIN_SITE = 'https://jestnadzieja.adwent.pl/'
-
-export function audioUrl(src: string): string {
-  const base = import.meta.env.BASE_URL
-  return (import.meta.env.DEV || base === '/' ? base : MAIN_SITE) + src
-}
+// Nagrania nie leza w repo (public/audio/ w .gitignore) - adres buduje mediaUrl.
+export const audioUrl = mediaUrl
 
 function clampRate(v: number): number {
   if (!Number.isFinite(v)) return 1

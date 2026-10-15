@@ -56,6 +56,10 @@ OPEN_NOW = {1}
 # tam, gdzie plik lezy lokalnie - uruchamiaj go na komputerze z nagraniami.
 AUDIO = ROOT / "public" / "audio" / "edu"
 
+# Grafiki do udostepniania: public/media/edu/NNNa.jpg (robi tools/build_edu_graphics.py),
+# tekst grafiki z one27/SzkoleniaGrafiki/NNNa.txt. Tak jak nagrania - tylko lokalnie i na serwerze.
+MEDIA = ROOT / "public" / "media" / "edu"
+
 # Czlowiek Nadziei idzie dzien po dniu zaraz po 40 dniach modlitwy (decyzja autora
 # 2026-10-02): material 1 = dzien po ostatniej czytance. Etykieta jak w extract_pray40.py.
 MIESIACE = ("stycznia lutego marca kwietnia maja czerwca lipca sierpnia września października listopada grudnia").split()
@@ -88,6 +92,26 @@ def audio_info(nr: int) -> dict | None:
         "seconds": round(seconds),
         "bytes": len(data),
     }
+
+
+def graphics_info(nr: int, src: Path) -> list[dict]:
+    """Grafiki materialu: sciezka z suma (podmiana pliku = nowy adres), wymiary i tekst grafiki."""
+    out = []
+    for path in sorted(MEDIA.glob(f"{nr:03d}*.jpg")):
+        data = path.read_bytes()
+        p = subprocess.run(
+            ["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries", "stream=width,height",
+             "-of", "csv=p=0", str(path)], capture_output=True, text=True,
+        )
+        w, h = (int(x) for x in p.stdout.strip().split(",")[:2])
+        txt = src / "SzkoleniaGrafiki" / f"{path.stem}.txt"
+        out.append({
+            "src": f"media/edu/{path.name}?v={hashlib.md5(data).hexdigest()[:8]}",
+            "width": w,
+            "height": h,
+            **({"text": txt.read_text(encoding="utf-8").strip()} if txt.exists() else {}),
+        })
+    return out
 
 
 RE_NR_FILE = re.compile(r"^(\d{1,3})[_\-\s]")
@@ -262,6 +286,7 @@ def main() -> int:
         quote = (base or {}).get("quote") or {}
         iso, etykieta = dzien(n, start)
         audio = audio_info(n)
+        graphics = graphics_info(n, src)
         item = {
             "nr": n,
             "date": iso,
@@ -272,6 +297,7 @@ def main() -> int:
             "note": base["note"],
             "sources": (l or {}).get("sources") or (s or {}).get("sources") or [],
             **({"audio": audio} if audio else {}),
+            **({"graphics": graphics} if graphics else {}),
             "versions": {},
         }
         for key, data in (("short", s), ("long", l)):

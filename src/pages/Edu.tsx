@@ -17,6 +17,7 @@ import { listRead } from '../lib/progress'
 import { isOpen } from '../lib/availability'
 import { AudioPlayer } from '../components/AudioPlayer'
 import { ShareButton } from '../components/ShareButton'
+import { EduGraphics } from '../components/EduGraphics'
 import { BETA } from '../lib/beta'
 import { ReadPill, ReadTop } from '../components/MaterialActions'
 import type { EduIndex, EduItem } from '../types'
@@ -281,6 +282,14 @@ export function EduItemPage() {
             <p className="text-slate-200">{questions[0]}</p>
           )}
         </section>
+      )}
+
+      {entry.graphics && entry.graphics.length > 0 && (
+        <EduGraphics
+          items={entry.graphics}
+          nr={entry.nr}
+          pageUrl={`${window.location.origin}${import.meta.env.BASE_URL}${lang}/edukacja/${entry.nr}`}
+        />
       )}
 
       {entry.sources && entry.sources.length > 0 && (

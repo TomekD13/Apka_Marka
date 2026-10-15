@@ -38,6 +38,8 @@ docs/
 # publiczne. Leza lokalnie i na serwerze (deploy-ftp.sh wysyla je z dist/). Wersja testowa
 # na GitHub Pages bierze je ze strony glownej - adres w src/components/AudioPlayer.tsx.
 public/audio/
+# Grafiki do udostepniania pod materialami (tools/build_edu_graphics.py) - tak samo jak nagrania
+public/media/
 
 # Lokalne statystyki serwera i sekret panelu - nigdy nie trafiaja do repo
 public/stat/config.php

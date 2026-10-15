@@ -29,6 +29,7 @@ python tools/extract_youth.py       # śpiewniki obozowe + rozdział 41 -> songs
 python tools/extract_pray40.py      # one27/Teksty{Short,Long} -> pray40/
 python tools/extract_edu.py         # one27/Szkolenia{Short,Long} -> edu/  (--nr 1-7 = tylko te)
 python tools/build_edu_audio.py 1 <wzorzec.mp3>  # nagranie -> public/audio/edu/001.mp3 (48 kb/s mono, -16 LUFS)
+python tools/build_edu_graphics.py [1]   # one27/SzkoleniaGrafiki/NNNa.png -> public/media/edu/NNNa.jpg (potem extract_edu.py)
 python tools/extract_groups.py      # one27/GrupyBiblijne -> groups/ (Grupy Nadziei)
 python tools/build_prayer_texts.py pl  # teksty do modlitwy (United Prayer) -> prayer-texts.json
 python tools/build_bible_full.py    # pełny przekład -> bible/{KOD}/
@@ -50,6 +51,13 @@ rozmiar). Odtwarzacz `components/AudioPlayer.tsx` gra **tylko strumieniowo** (de
 `preload="none"`, service worker nie cache'uje `/audio/`, `.htaccess` daje `Cache-Control: no-store`.
 Wersja testowa na GitHub Pages bierze nagrania ze strony głównej. Flaga `open` w JSON-ie
 (`OPEN_NOW` w `extract_edu.py`) otwiera materiał przed jego datą – tak jest z odcinkiem 1.
+
+**Grafiki do udostępniania (2026-10-15).** Pod materiałem sekcja „Podziel się grafiką”
+(`components/EduGraphics.tsx`): na telefonie „Udostępnij” wysyła sam plik JPG z adresem
+materiału w opisie, na komputerze grafika się pobiera. Pliki jak nagrania: `public/media/` w
+`.gitignore`, poza precache service workera, adres przez `lib/media.ts` (GitHub Pages bierze
+je ze strony głównej). Tekst grafiki (opis i podpis) z `one27/SzkoleniaGrafiki/NNNa.txt`.
+Źródłowe nagrania materiałów: `one27/SzkoleniaAudio/Jest_Nadzieja_NNN_z_muzyka.mp3`.
 
 ## Twarde reguły
 

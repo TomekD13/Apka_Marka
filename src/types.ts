@@ -184,8 +184,18 @@ export interface EduAudio {
   seconds: number
   bytes: number
 }
+/** Grafika do udostepniania pod materialem (`public/media/edu/NNNa.jpg`, robi tools/build_edu_graphics.py). */
+export interface EduGraphic {
+  /** sciezka wzgledem korzenia strony, z suma pliku w `?v=` */
+  src: string
+  width: number
+  height: number
+  /** tekst z grafiki - opis dla czytnikow ekranu i podpis przy udostepnianiu */
+  text?: string
+}
 export interface EduItem extends Omit<EduEntry, 'audio'> {
   audio?: EduAudio
+  graphics?: EduGraphic[]
   note?: string
   /** bibliografia z wersji pelnej - lista pozycji */
   sources?: string[]
