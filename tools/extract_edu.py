@@ -142,7 +142,7 @@ def write_lock(items: list[dict]) -> int:
             continue  # juz otwarty - bez reguly
         n = it["nr"]
         rules.append(f"  RewriteCond %{{TIME}} <{d:%Y%m%d}100000\n"
-                     f"  RewriteRule ^(audio/edu/{n:03d}\.mp3|media/edu/{n:03d}[a-z]?\.jpg)$ - [F,L]")
+                     f"  RewriteRule ^(audio/edu/{n:03d}\.mp3|media/edu/{n:03d}[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]")
     s = HTACCESS.read_text(encoding="utf-8")
     i, j = s.index(LOCK_START), s.index(LOCK_END)
     head = s[:i] + s[i:].split("\n", 1)[0] + "\n"

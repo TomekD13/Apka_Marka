@@ -61,7 +61,7 @@ Od 2026-10-15 trzy rozmiary (decyzja autora: aplikacja nie może cięższeć z k
 tekstem tylko miniatury `NNNa_m.webp` (~15 KB), po dotknięciu okno z podglądem `NNNa_d.webp`
 (~80 KB), pełna `NNNa.jpg` (~250 KB) pobiera się dopiero w otwartym oknie, do udostępnienia.
 `.htaccess`: miniatury i podglądy tydzień w pamięci przeglądarki, pełne `no-store`.
-Źródłowe nagrania materiałów: `one27/SzkoleniaAudio/Jest_Nadzieja_NNN_z_muzyka.mp3`.
+Źródłowe nagrania materiałów: `one27/HopeAudio/Jest_Nadzieja_NNN_z_muzyka.mp3`.
 
 ## Twarde reguły
 
