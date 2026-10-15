@@ -104,7 +104,10 @@ def graphics_info(nr: int, src: Path) -> list[dict]:
              "-of", "csv=p=0", str(path)], capture_output=True, text=True,
         )
         w, h = (int(x) for x in p.stdout.strip().split(",")[:2])
-        txt = src / "SzkoleniaGrafiki" / f"{path.stem}.txt"
+        # NNN_PLa.txt (nazwy od 2026-10-15) albo starsze NNNa.txt
+        txt = src / "SzkoleniaGrafiki" / f"{path.stem[:3]}_PL{path.stem[3:]}.txt"
+        if not txt.exists():
+            txt = src / "SzkoleniaGrafiki" / f"{path.stem}.txt"
         out.append({
             "src": f"media/edu/{path.name}?v={hashlib.md5(data).hexdigest()[:8]}",
             "width": w,

@@ -5,8 +5,9 @@
     python tools/build_edu_graphics.py          # wszystkie z one27/SzkoleniaGrafiki
     python tools/build_edu_graphics.py 1        # tylko materialu 1
 
-Zrodlo: one27/SzkoleniaGrafiki/NNNa.png, NNNb.png ... (PNG ok. 1,7 MB, 1122x1402).
-Opcjonalnie NNNa.txt obok - tekst grafiki: opis dla czytnikow ekranu i podpis przy
+Zrodlo: one27/SzkoleniaGrafiki/NNN_PLa.png, NNN_PLb.png ... (od 2026-10-15; starsze NNNa.png tez
+przechodza, NNN_ENa.png to grafiki wersji angielskiej - tu pomijane), PNG ok. 1,7 MB, 1122x1402.
+Opcjonalnie NNN_PLa.txt (albo NNNa.txt) obok - tekst grafiki: opis dla czytnikow ekranu i podpis przy
 udostepnianiu (bez pliku opis jest ogolny).
 
 Wynik: public/media/edu/NNNa.jpg (szerokosc 1080, JPEG ok. 200 KB) - tyle wystarczy na
@@ -26,7 +27,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SRC = Path.home() / "AIprojekty" / "one27" / "SzkoleniaGrafiki"
 OUT = ROOT / "public" / "media" / "edu"
 WIDTH = 1080
-RE_NAME = re.compile(r"^(\d{3})([a-z]?)\.png$", re.I)
+RE_NAME = re.compile(r"^(\d{3})(?:_PL)?([a-z]?)\.png$", re.I)
 
 
 def main() -> int:
