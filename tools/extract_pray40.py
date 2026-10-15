@@ -39,7 +39,8 @@ except ImportError:
     sys.exit("Brak python-docx. Zainstaluj: pip install python-docx")
 
 ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_SRC = Path.home() / "AIprojekty" / "one27"
+# od 2026-10-16 czytanki 40 dni leza w one27/40dniModlitwy (porzadki autora)
+DEFAULT_SRC = Path.home() / "AIprojekty" / "one27" / "40dniModlitwy"
 OUT = ROOT / "public" / "content" / "pl" / "pray40"
 
 # Akcja zaczyna sie 5 wrzesnia 2026 (sobota) - decyzja autora 2026-08-25.
