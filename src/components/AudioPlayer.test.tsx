@@ -1,4 +1,4 @@
-import { fireEvent, render, screen } from '@testing-library/react'
+import { act, fireEvent, render, screen } from '@testing-library/react'
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
 import { AudioPlayer, audioUrl, clock } from './AudioPlayer'
 
@@ -76,6 +76,34 @@ describe('odtwarzacz nagrania', () => {
     localStorage.setItem('zywe-slowo:audio:rate', '0.8')
     player()
     expect((document.querySelector('audio') as HTMLAudioElement).playbackRate).toBeCloseTo(0.8)
+  })
+
+  it('po wlaczeniu przykleja pasek, gdy odtwarzacz zjedzie pod belke; bez odtwarzania nie', () => {
+    let report: (top: number, visible: boolean) => void = () => {}
+    vi.stubGlobal(
+      'IntersectionObserver',
+      class {
+        constructor(cb: IntersectionObserverCallback) {
+          report = (top, visible) =>
+            cb([{ isIntersecting: visible, boundingClientRect: { top } } as IntersectionObserverEntry], this as never)
+        }
+        observe() {}
+        disconnect() {}
+      }
+    )
+    player()
+    act(() => report(-200, false))
+    expect(document.querySelector('.fixed')).toBeNull() // samo czytanie - nic sie nie przykleja
+    fireEvent.click(screen.getByRole('button', { name: 'Odtwórz' }))
+    expect(document.querySelector('.fixed')).toBeTruthy()
+    fireEvent.click(screen.getAllByRole('button', { name: 'Pauza' })[1])
+    expect(document.querySelector('.fixed')).toBeTruthy() // po pauzie zostaje, zeby wznowic
+    act(() => report(300, true))
+    expect(document.querySelector('.fixed')).toBeNull() // duzy odtwarzacz znow widac
+    act(() => report(-200, false))
+    fireEvent.click(screen.getByRole('button', { name: 'Zatrzymaj i schowaj pasek' }))
+    expect(document.querySelector('.fixed')).toBeNull()
+    vi.unstubAllGlobals()
   })
 
   it('format czasu i adres pliku', () => {

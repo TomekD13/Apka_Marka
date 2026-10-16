@@ -13,6 +13,11 @@ import { mediaUrl } from '../lib/media'
  * - Tempo 0,5-2x suwakiem albo przyciskami „Wolniej”/„Szybciej” (krok 5 %). Wybor zostaje
  *   na urzadzeniu i obowiazuje we wszystkich nagraniach; wysokosc glosu sie nie zmienia (preservesPitch).
  * - Media Session: tytul i przyciski na ekranie blokady telefonu.
+ * - Po wlaczeniu odtwarzania, gdy czytelnik zjedzie z tekstem nizej, pod belka aplikacji
+ *   przykleja sie maly pasek (pauza, ±5 s, postep). Bez odtwarzania nic sie nie przykleja -
+ *   czytajacy ma caly ekran. Pasek zostaje po pauzie (zeby wznowic), znika po koncu nagrania
+ *   albo po „×” (decyzja autora 2026-10-16). Duzy odtwarzacz stoi na swoim miejscu - pasek
+ *   jest osobnym elementem `fixed`, wiec tekst pod spodem nie skacze.
  */
 
 const RATE_KEY = 'zywe-slowo:audio:rate'
@@ -23,6 +28,8 @@ const RATE_STEP = 0.05
 const SKIP = 5
 /** ekran blokady telefonu - tam zostaje dluzszy skok */
 const LOCK_SKIP = 15
+/** wysokosc przyklejonej belki aplikacji (AppNavigation, h-14) */
+const BAR = 56
 
 // Nagrania nie leza w repo (public/audio/ w .gitignore) - adres buduje mediaUrl.
 export const audioUrl = mediaUrl
@@ -96,6 +103,11 @@ export function AudioPlayer({
   const [time, setTime] = useState(0)
   const [duration, setDuration] = useState(seconds)
   const [rate, setRate] = useState(readRate)
+  /** nagranie ruszylo i nie doszlo do konca - tylko wtedy pasek moze sie przykleic */
+  const [docked, setDocked] = useState(false)
+  /** rzad z przyciskiem odtwarzania schowal sie pod belka aplikacji */
+  const [away, setAway] = useState(false)
+  const mainRow = useRef<HTMLDivElement>(null)
 
   // tempo trzeba podawac po kazdym wczytaniu - przegladarka wraca wtedy do defaultPlaybackRate
   function applyRate(v: number) {
@@ -114,7 +126,20 @@ export function AudioPlayer({
     setFailed(false)
     setTime(0)
     setDuration(seconds)
+    setDocked(false)
   }, [src, seconds])
+
+  // czy duzy odtwarzacz zjechal nad ekran; belka aplikacji ma 56 px (h-14)
+  useEffect(() => {
+    const row = mainRow.current
+    if (!row || typeof IntersectionObserver === 'undefined') return
+    const io = new IntersectionObserver(
+      ([e]) => setAway(!e.isIntersecting && e.boundingClientRect.top < BAR),
+      { rootMargin: `-${BAR}px 0px 0px 0px` }
+    )
+    io.observe(row)
+    return () => io.disconnect()
+  }, [])
 
   function toggle() {
     const a = ref.current
@@ -197,6 +222,19 @@ export function AudioPlayer({
   const meta = [note, clock(seconds), bytes ? `${comma(bytes / 1e6, 1)}\u00a0MB` : ''].filter(Boolean).join('\u00a0· ')
   const skipBtn =
     'shrink-0 rounded-md border border-slate-500/40 px-2 py-1 text-xs tabular-nums text-slate-200 transition hover:bg-brand/20 hover:text-white'
+  const mini = docked && away
+  const icon = waiting && playing ? (
+    <span className="h-4 w-4 animate-spin rounded-full border-2 border-white/40 border-t-white" aria-hidden />
+  ) : playing ? (
+    <svg viewBox="0 0 24 24" className="h-5 w-5" fill="currentColor" aria-hidden>
+      <rect x="6" y="5" width="4" height="14" rx="1" />
+      <rect x="14" y="5" width="4" height="14" rx="1" />
+    </svg>
+  ) : (
+    <svg viewBox="0 0 24 24" className="ml-0.5 h-5 w-5" fill="currentColor" aria-hidden>
+      <path d="M8 5.5v13a1 1 0 0 0 1.5.86l10.5-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5z" />
+    </svg>
+  )
   const rateBtn = `${skipBtn} disabled:cursor-not-allowed disabled:opacity-40 disabled:hover:bg-transparent`
 
   return (
@@ -211,9 +249,15 @@ export function AudioPlayer({
         ref={ref}
         src={audioUrl(src)}
         preload="none"
-        onPlay={() => setPlaying(true)}
+        onPlay={() => {
+          setPlaying(true)
+          setDocked(true)
+        }}
         onPause={() => setPlaying(false)}
-        onEnded={() => setPlaying(false)}
+        onEnded={() => {
+          setPlaying(false)
+          setDocked(false)
+        }}
         onWaiting={() => setWaiting(true)}
         onPlaying={() => setWaiting(false)}
         onCanPlay={() => setWaiting(false)}
@@ -237,7 +281,7 @@ export function AudioPlayer({
         {action}
       </div>
 
-      <div className="flex items-center gap-3">
+      <div ref={mainRow} className="flex items-center gap-3">
         <button
           ref={playBtn}
           type="button"
@@ -246,18 +290,7 @@ export function AudioPlayer({
           title={playLabel}
           className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-brand text-white shadow transition hover:bg-brand-light"
         >
-          {waiting && playing ? (
-            <span className="h-4 w-4 animate-spin rounded-full border-2 border-white/40 border-t-white" aria-hidden />
-          ) : playing ? (
-            <svg viewBox="0 0 24 24" className="h-5 w-5" fill="currentColor" aria-hidden>
-              <rect x="6" y="5" width="4" height="14" rx="1" />
-              <rect x="14" y="5" width="4" height="14" rx="1" />
-            </svg>
-          ) : (
-            <svg viewBox="0 0 24 24" className="ml-0.5 h-5 w-5" fill="currentColor" aria-hidden>
-              <path d="M8 5.5v13a1 1 0 0 0 1.5.86l10.5-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5z" />
-            </svg>
-          )}
+          {icon}
         </button>
         <button type="button" onClick={() => seek(time - SKIP)} className={skipBtn} title={t('audio.back', 'Cofnij o 5 sekund')}>
           <span aria-hidden>‹ </span>5 s<span className="sr-only"> {t('audio.back', 'Cofnij o 5 sekund')}</span>
@@ -316,6 +349,63 @@ export function AudioPlayer({
           {t('audio.faster', 'Szybciej')}
         </button>
       </div>
+
+      {mini && (
+        <div
+          role="region"
+          aria-label={t('audio.listen', 'Posłuchaj')}
+          className="fixed inset-x-0 top-14 z-20 border-b border-violet-500/30 bg-white/95 shadow-lg backdrop-blur dark:bg-slate-950/95"
+        >
+          <div className="mx-auto flex max-w-3xl items-center gap-2 px-4 py-2">
+            <button
+              type="button"
+              onClick={toggle}
+              aria-label={playLabel}
+              title={playLabel}
+              className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-brand text-white shadow transition hover:bg-brand-light"
+            >
+              {icon}
+            </button>
+            <button type="button" onClick={() => seek(time - SKIP)} className={skipBtn} title={t('audio.back', 'Cofnij o 5 sekund')}>
+              <span aria-hidden>‹ </span>5 s<span className="sr-only"> {t('audio.back', 'Cofnij o 5 sekund')}</span>
+            </button>
+            <div className="min-w-0 flex-1">
+              <input
+                type="range"
+                min={0}
+                max={Math.max(1, Math.floor(total))}
+                step={1}
+                value={Math.floor(time)}
+                onChange={(e) => seek(Number(e.target.value))}
+                aria-label={t('audio.position', 'Miejsce w nagraniu')}
+                aria-valuetext={`${clock(time)} / ${clock(total)}`}
+                className="block w-full cursor-pointer accent-brand-light"
+              />
+              <div className="flex justify-between text-[11px] leading-tight tabular-nums text-slate-400">
+                <span>{clock(time)}</span>
+                <span>{clock(total)}</span>
+              </div>
+            </div>
+            <button type="button" onClick={() => seek(time + SKIP)} className={skipBtn} title={t('audio.forward', 'Do przodu o 5 sekund')}>
+              5 s<span aria-hidden> ›</span><span className="sr-only"> {t('audio.forward', 'Do przodu o 5 sekund')}</span>
+            </button>
+            <button
+              type="button"
+              onClick={() => {
+                ref.current?.pause()
+                setDocked(false)
+              }}
+              aria-label={t('audio.hideBar', 'Zatrzymaj i schowaj pasek')}
+              title={t('audio.hideBar', 'Zatrzymaj i schowaj pasek')}
+              className="shrink-0 rounded-md p-1.5 text-slate-400 transition hover:bg-brand/20 hover:text-white"
+            >
+              <svg viewBox="0 0 24 24" className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" aria-hidden>
+                <path d="M6 6l12 12M18 6L6 18" />
+              </svg>
+            </button>
+          </div>
+        </div>
+      )}
 
       {failed && (
         <p className="mt-2 text-xs text-rose-400" role="alert">
