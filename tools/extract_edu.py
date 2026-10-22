@@ -7,8 +7,8 @@
     python tools/extract_edu.py --src <katalog>  # inne zrodlo niz domyslne
     python tools/extract_edu.py --nr 1-7         # tylko te materialy; reszta zostaje jak jest
 
-Kazde szkolenie ma dwie wersje tego samego tekstu - krotka (HopeShort)
-i pelna (HopeLong). Numer bierzemy z nazwy pliku (`001_...md`), reszte
+Kazde szkolenie ma dwie wersje tego samego tekstu - krotka (HopeTeksty/HopeShort)
+i pelna (HopeTeksty). Numer bierzemy z nazwy pliku (`001_...md`), reszte
 z markdowna, ktory w obu wersjach ma ten sam uklad:
 
     # tytul
@@ -45,7 +45,7 @@ PRAY40 = ROOT / "public" / "content" / "pl" / "pray40" / "index.json"
 
 # Do aplikacji wchodza tylko teksty po korekcie autora - w zrodle leza juz dalsze
 # szkolenia (do 080), ale czekaja. Podnies, gdy autor odda kolejne.
-PUBLISHED = 10
+PUBLISHED = 11
 
 # Materialy otwarte od razu, niezaleznie od daty (decyzja autora 2026-10-09: pierwszy
 # odcinek z nagraniem dostepny przed startem cyklu, reszta w swoim dniu).
@@ -294,7 +294,7 @@ def main() -> int:
             a, _, b = part.partition("-")
             only.update(range(int(a), int(b or a) + 1))
 
-    short_dir, long_dir = src / "HopeShort", src / "HopeLong"
+    short_dir, long_dir = src / "HopeTeksty" / "HopeShort", src / "HopeTeksty"
     for d in (short_dir, long_dir):
         if not d.exists():
             sys.exit(f"Brak katalogu: {d}")
