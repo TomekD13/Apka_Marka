@@ -8,12 +8,14 @@
 #
 # Dane siedza POZA repozytorium (jest publiczne) w ~/.jestnadzieja-ftp:
 #   SFTP_HOST=s1.go3.pl
-#   SFTP_PORT=10022
+#   SFTP_PORT=22
 #   SFTP_USER=adwentjestnadzieja
 #   SFTP_KEY=$HOME/.ssh/jestnadzieja_sftp   (klucz prywatny, logowanie bez hasla)
 #   SFTP_DIR=public_html
 # Od 2026-10-14 hosting wylaczyl zwykle FTP (konto ftp@jestnadzieja.adwent.pl dostaje 530),
 # zostal tylko SFTP na porcie 10022. Stare zmienne FTP_* skrypt juz pomija.
+# Od 2026-10-23 hosting przejelo LH.pl (ten sam adres s1.go3.pl, nowe klucze serwera):
+# SFTP na domyslnym porcie 22, porty 10022 i 40022 sa zamkniete.
 #
 # GitHub Pages publikuje osobny skrypt deploy.sh (tam build idzie z VITE_BASE=/aplikacja/).
 # Tutaj subdomena serwuje z korzenia, wiec build leci bez VITE_BASE (base = '/').

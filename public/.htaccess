@@ -16,22 +16,12 @@
   RewriteRule ^beta(/.*)?$ /pl/ [R=301,L]
 
   # >>> blokada nagran i grafik przed data materialu (generuje tools/extract_edu.py - nie edytuj recznie)
-  RewriteCond %{TIME} <20261016100000
-  RewriteRule ^(audio/edu/003\.mp3|media/edu/003[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
-  RewriteCond %{TIME} <20261017100000
-  RewriteRule ^(audio/edu/004\.mp3|media/edu/004[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
-  RewriteCond %{TIME} <20261018100000
-  RewriteRule ^(audio/edu/005\.mp3|media/edu/005[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
-  RewriteCond %{TIME} <20261019100000
-  RewriteRule ^(audio/edu/006\.mp3|media/edu/006[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
-  RewriteCond %{TIME} <20261020100000
-  RewriteRule ^(audio/edu/007\.mp3|media/edu/007[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
-  RewriteCond %{TIME} <20261021100000
-  RewriteRule ^(audio/edu/008\.mp3|media/edu/008[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
   RewriteCond %{TIME} <20261022100000
   RewriteRule ^(audio/edu/009\.mp3|media/edu/009[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
   RewriteCond %{TIME} <20261023100000
   RewriteRule ^(audio/edu/010\.mp3|media/edu/010[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
+  RewriteCond %{TIME} <20261024100000
+  RewriteRule ^(audio/edu/011\.mp3|media/edu/011[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
   # <<< blokada
 
   # Brakujacy plik tresci pozostaje bledem 404, a nie strona HTML.
@@ -66,6 +56,13 @@ AddType image/svg+xml .svg
   Header always set X-Content-Type-Options "nosniff"
   Header always set Referrer-Policy "strict-origin-when-cross-origin"
   Header always set Strict-Transport-Security "max-age=31536000"
+
+  # Osadzanie w ramce (2026-10-16): hosting dokleja X-Frame-Options: SAMEORIGIN, co blokuje
+  # aplikacje osadzona na stronie glownej misja.adwent.pl. Zdejmujemy go i pozwalamy tylko
+  # tej domenie. CSP zawiera wylacznie frame-ancestors - nie ogranicza skryptow, Google ani YouTube.
+  Header always unset X-Frame-Options
+  Header unset X-Frame-Options
+  Header always set Content-Security-Policy "frame-ancestors 'self' https://misja.adwent.pl"
 
   # Pliki wskazujace aktualna wersje aplikacji zawsze sprawdzamy ponownie.
   <FilesMatch "(sw\.js|index\.html|manifest\.(webmanifest|json)|registerSW\.js)$">
