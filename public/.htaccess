@@ -16,12 +16,8 @@
   RewriteRule ^beta(/.*)?$ /pl/ [R=301,L]
 
   # >>> blokada nagran i grafik przed data materialu (generuje tools/extract_edu.py - nie edytuj recznie)
-  RewriteCond %{TIME} <20261022100000
-  RewriteRule ^(audio/edu/009\.mp3|media/edu/009[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
-  RewriteCond %{TIME} <20261023100000
-  RewriteRule ^(audio/edu/010\.mp3|media/edu/010[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
-  RewriteCond %{TIME} <20261024100000
-  RewriteRule ^(audio/edu/011\.mp3|media/edu/011[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
+  RewriteCond %{TIME} <20261025100000
+  RewriteRule ^(audio/edu/012\.mp3|media/edu/012[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
   # <<< blokada
 
   # Brakujacy plik tresci pozostaje bledem 404, a nie strona HTML.

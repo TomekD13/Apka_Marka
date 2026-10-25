@@ -305,7 +305,7 @@ export function EduItemPage() {
         kind="edu"
         id={entry.nr}
         title={entry.title}
-        showFull={version === 'short' && Boolean(entry.versions.long)}
+        showFull={version === 'short' && Boolean(entry.versions.short && entry.versions.long)}
         onShowFull={() => pick('long')}
         shareTitle={entry.title}
         shareText={shown?.quote?.text ? `„${shown.quote.text}” (${shown.quote.ref})` : entry.title}
