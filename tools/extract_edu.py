@@ -45,7 +45,7 @@ PRAY40 = ROOT / "public" / "content" / "pl" / "pray40" / "index.json"
 
 # Do aplikacji wchodza tylko teksty po korekcie autora - w zrodle leza juz dalsze
 # szkolenia (do 080), ale czekaja. Podnies, gdy autor odda kolejne.
-PUBLISHED = 14
+PUBLISHED = 15
 
 # Materialy otwarte od razu, niezaleznie od daty (decyzja autora 2026-10-09: pierwszy
 # odcinek z nagraniem dostepny przed startem cyklu, reszta w swoim dniu).
