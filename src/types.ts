@@ -397,6 +397,22 @@ export interface SabbathExtraItem {
   verse?: { text: string; ref: string }
   sections: { label: string; text: string }[]
   questions: string[]
+  /** pelna lekcja dzien po dniu (plik „krotka” z szk_sob) - gdy jest, zastepuje skrot */
+  days?: SabbathExtraDay[]
+  lead?: string
+  sources?: string[]
+  note?: string
+}
+/** Dzień lekcji: „Sobota, 31 października” · „Wprowadzenie”; ostatni (summary) to całość tygodnia. */
+export interface SabbathExtraDay {
+  when: string
+  kind: string
+  title: string
+  texts?: string
+  verse?: { text: string; ref: string }
+  sections: { label: string; text: string }[]
+  questions: string[]
+  summary?: boolean
 }
 export interface SabbathExtra {
   /** np. „2026-4” - człon adresu */

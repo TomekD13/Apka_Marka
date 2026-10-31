@@ -103,6 +103,92 @@ function ExtraBlock() {
   </section>
 }
 
+/** Dzisiejszy dzien lekcji (0 = sobota rozpoczynajaca tydzien) albo -1 poza jej tygodniem. */
+function todayIndex(start: string | undefined, count: number, now = new Date()): number {
+  const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(start || '')
+  if (!m) return -1
+  const diff = Math.round((Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()) - Date.UTC(+m[1], +m[2] - 1, +m[3])) / 86400000)
+  return diff >= 0 && diff < count ? diff : -1
+}
+
+const H2 = 'border-b border-slate-200 pb-1 text-[1.15em] font-semibold text-brand dark:border-slate-700 dark:text-brand-light'
+
+function VerseBox({ verse }: { verse: { text: string; ref: string } }) {
+  const { t } = useI18n()
+  return <blockquote className="mt-4 rounded-xl border-l-4 border-brand bg-brand/10 px-4 py-3 dark:bg-sky-400/10">
+    <p className="text-[0.7em] font-bold uppercase tracking-wide text-brand dark:text-sky-300">{t('sabbathSchool.verse', 'Werset przewodni')}</p>
+    <p className="mt-1 text-[1.05em] font-medium leading-relaxed">„{verse.text}”</p>
+    <p className="mt-1 text-sm text-slate-600 dark:text-slate-300">{verse.ref}</p>
+  </blockquote>
+}
+
+function Questions({ items }: { items: string[] }) {
+  const { t } = useI18n()
+  if (!items.length) return null
+  return <section className="mt-8">
+    <h2 className={H2}>{t('sabbathSchool.questions', 'Pytania do rozmowy')}</h2>
+    <ol className="mt-3 space-y-3">{items.map((q, i) => <li key={i} className="flex gap-3 rounded-xl border border-slate-200 bg-white p-3.5 text-slate-900 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
+      <span className="shrink-0 font-semibold tabular-nums text-brand dark:text-sky-300">{i + 1}.</span>
+      <span className="leading-relaxed">{q}</span>
+    </li>)}</ol>
+  </section>
+}
+
+/** Podsumowanie jako zwykly tekst, ciekawostki w osobnych kartach - jak w wydruku lekcji. */
+function Sections({ items }: { items: { label: string; text: string }[] }) {
+  return <>{items.map((s, i) => s.label === 'Ciekawostka'
+    ? <aside key={i} className="mt-5 rounded-xl border border-amber-200 bg-amber-50 p-4 text-slate-800">
+        <p className="text-[0.7em] font-bold uppercase tracking-wide text-amber-800">{s.label}</p>
+        {s.text.split('\n\n').map((p, j) => <p key={j} className="mt-1.5 leading-relaxed">{p}</p>)}
+      </aside>
+    : <section key={i} className="mt-8">
+        <h2 className={H2}>{s.label}</h2>
+        {s.text.split('\n\n').map((p, j) => <p key={j} className="mt-3 leading-relaxed">{p}</p>)}
+      </section>)}</>
+}
+
+/** Lekcja dzien po dniu: przelacznik dni (dzisiejszy podswietlony i otwarty na start) i tresc wybranego dnia. */
+function LessonDays({ item }: { item: SabbathExtraItem }) {
+  const { t } = useI18n()
+  const days = item.days ?? []
+  const today = todayIndex(item.start, days.length)
+  const [pick, setPick] = useState(today >= 0 ? today : 0)
+  const day = days[pick]
+  if (!day) return null
+  const go = (i: number) => {
+    setPick(i)
+    document.getElementById('dzien')?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+  }
+
+  return <>
+    <nav id="dzien" className="no-print mt-5 flex scroll-mt-20 flex-wrap gap-1.5" aria-label={t('sabbathSchool.days', 'Dni lekcji')}>
+      {days.map((d, i) => {
+        const on = i === pick
+        const now = i === today
+        return <button key={i} type="button" onClick={() => setPick(i)} aria-pressed={on} aria-current={now ? 'date' : undefined}
+          className={`rounded-full border px-3 py-1 text-sm transition ${on ? 'border-brand bg-brand font-semibold text-white dark:border-sky-300 dark:bg-sky-300 dark:text-slate-950' : now ? 'border-brand text-brand ring-1 ring-brand dark:border-sky-300 dark:text-sky-300 dark:ring-sky-300' : 'border-slate-300 text-slate-600 hover:bg-slate-100 dark:border-slate-600 dark:text-slate-300 dark:hover:bg-slate-800'}`}>
+          {d.when.split(/[ ,]/)[0]}
+        </button>
+      })}
+    </nav>
+
+    <section className="mt-6">
+      <p className="text-xs font-semibold uppercase tracking-wide text-brand dark:text-sky-300">{day.when}{day.kind ? ` · ${day.kind}` : ''}</p>
+      <h2 className="mt-1 text-[1.3em] font-bold leading-tight">{day.title}</h2>
+      {pick === today && <p className="mt-2"><span className="rounded-full bg-brand px-2.5 py-0.5 text-xs font-semibold text-white dark:bg-sky-300 dark:text-slate-950">{t('sabbathSchool.today', 'Dzisiaj')}</span></p>}
+      {day.texts && <p className="mt-3 text-sm text-slate-600 dark:text-slate-300"><span className="font-semibold">{t('sabbathSchool.texts', 'Teksty')}:</span> {day.texts}</p>}
+      {day.verse && <VerseBox verse={day.verse} />}
+      <Sections items={day.sections} />
+      <Questions items={day.questions} />
+    </section>
+
+    <nav className="no-print mt-8 flex items-center justify-between gap-3 text-sm">
+      {pick > 0 ? <button type="button" onClick={() => go(pick - 1)} className="text-left text-brand-light hover:underline">‹ {days[pick - 1].when.split(',')[0]}</button> : <span />}
+      {pick < days.length - 1 ? <button type="button" onClick={() => go(pick + 1)} className="text-right text-brand-light hover:underline">{days[pick + 1].when.split(',')[0]} ›</button> : <span />}
+    </nav>
+  </>
+}
+
 export function SabbathExtraPage() {
   const { quarter = '', id = '' } = useParams()
   const { lang, t } = useI18n()
@@ -121,6 +207,9 @@ export function SabbathExtraPage() {
   const next = pos < data.items.length - 1 ? data.items[pos + 1] : null
   const now = item.id === currentExtraId(data.items)
   const href = (it: SabbathExtraItem) => `/${lang}/lekcje-biblijne/${data.quarter}/${it.id}`
+  const sources = item.sources?.length ? item.sources : data.sources
+  const note = item.note || data.note
+  const hasDays = (item.days?.length ?? 0) > 0
 
   return <article className="reading">
     {back}
@@ -129,38 +218,28 @@ export function SabbathExtraPage() {
       <p className="text-xs font-semibold uppercase tracking-wide text-brand dark:text-sky-300">{data.title} · {item.label}{item.range ? ` · ${item.range}` : ''}</p>
       <h1 className="mt-1 text-[1.5em] font-bold leading-tight">{item.title}</h1>
       {now && <p className="mt-2"><span className="rounded-full bg-brand px-2.5 py-0.5 text-xs font-semibold text-white dark:bg-sky-300 dark:text-slate-950">{t('sabbathSchool.thisWeek', 'Na ten tydzień')}</span></p>}
+      {hasDays && item.lead && <p className="mt-3 leading-relaxed text-slate-600 dark:text-slate-300">{item.lead}</p>}
     </header>
 
     <div className="no-print flex justify-end"><FontScale /></div>
 
-    {item.verse && <blockquote className="mt-4 rounded-xl border-l-4 border-brand bg-brand/10 px-4 py-3 dark:bg-sky-400/10">
-      <p className="text-[0.7em] font-bold uppercase tracking-wide text-brand dark:text-sky-300">{t('sabbathSchool.verse', 'Werset przewodni')}</p>
-      <p className="mt-1 text-[1.05em] font-medium leading-relaxed">„{item.verse.text}”</p>
-      <p className="mt-1 text-sm text-slate-600 dark:text-slate-300">{item.verse.ref}</p>
-    </blockquote>}
+    {hasDays
+      ? <LessonDays key={item.id} item={item} />
+      : <>
+          {item.verse && <VerseBox verse={item.verse} />}
+          <Sections items={item.sections} />
+          <Questions items={item.questions} />
+        </>}
 
-    {item.sections.map((s, i) => <section key={i} className="mt-8">
-      <h2 className="border-b border-slate-200 pb-1 text-[1.15em] font-semibold text-brand dark:border-slate-700 dark:text-brand-light">{s.label}</h2>
-      {s.text.split('\n\n').map((p, j) => <p key={j} className="mt-3 leading-relaxed">{p}</p>)}
-    </section>)}
-
-    {item.questions.length > 0 && <section className="mt-8">
-      <h2 className="border-b border-slate-200 pb-1 text-[1.15em] font-semibold text-brand dark:border-slate-700 dark:text-brand-light">{t('sabbathSchool.questions', 'Pytania do rozmowy')}</h2>
-      <ol className="mt-3 space-y-3">{item.questions.map((q, i) => <li key={i} className="flex gap-3 rounded-xl border border-slate-200 bg-white p-3.5 text-slate-900 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
-        <span className="shrink-0 font-semibold tabular-nums text-brand dark:text-sky-300">{i + 1}.</span>
-        <span className="leading-relaxed">{q}</span>
-      </li>)}</ol>
-    </section>}
-
-    <nav className="no-print mt-8 flex items-center justify-between gap-3 text-sm">
+    <nav className="no-print mt-10 flex items-center justify-between gap-3 border-t border-slate-200 pt-4 text-sm dark:border-slate-700">
       {prev ? <Link to={href(prev)} className="text-brand-light hover:underline">‹ {prev.title}</Link> : <span />}
       {next ? <Link to={href(next)} className="text-right text-brand-light hover:underline">{next.title} ›</Link> : <span />}
     </nav>
 
     <div className="no-print mt-6 flex justify-center">{back}</div>
-    {(data.sources.length > 0 || data.note) && <div className="mt-8 space-y-1 text-xs text-slate-500">
-      {data.sources.map((s, i) => <p key={i}>{t('sabbathSchool.source', 'Źródło')}: {s}</p>)}
-      {data.note && <p>{data.note}</p>}
+    {(sources.length > 0 || note) && <div className="mt-8 space-y-1 text-xs text-slate-500">
+      {sources.map((s, i) => <p key={i}>{t('sabbathSchool.source', 'Źródło')}: {s}</p>)}
+      {note && <p>{note}</p>}
     </div>}
   </article>
 }
