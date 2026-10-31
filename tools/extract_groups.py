@@ -6,9 +6,9 @@
     python tools/extract_groups.py --check          # sam raport, bez zapisu
     python tools/extract_groups.py --src <katalog>  # inne zrodlo niz domyslne
 
-Zrodlo prawdy o formacie: one27/GrupyBiblijne/Model materialu, vN.md (punkty 3 i 9).
-Jeden temat = jeden plik `<Tytul>, vN.md`; bierzemy najwyzszy vN. Pliki zaczynajace
-sie od `_` oraz "Model materialu" to zaplecze i nie wchodza. Id wpisane do
+Zrodlo prawdy o formacie: one27/GrupyBiblijne/_Zaplecze/Model materialu, vN.md (punkty 3 i 9).
+Jeden temat = jeden plik `<Tytul>, vN.md` w folderze swojej serii; bierzemy najwyzszy vN.
+Pliki i foldery zaczynajace sie od `_` oraz "Model materialu" to zaplecze i nie wchodza. Id wpisane do
 `_nie-do-apki.txt` w katalogu zrodlowym sa wstrzymane przez autora.
 
 Material ma trzy addytywne poziomy. Kazdy blok i kazdy element niesie `poziom`
@@ -267,9 +267,13 @@ def main() -> int:
         return 1
 
     najnowsze: dict[str, tuple[int, Path]] = {}
-    for p in src.glob("*.md"):
+    # od 2026-10-16 materialy leza w podfolderach serii (Emocje/, Relacje/ ...);
+    # foldery zaczynajace sie od `_` (np. _Zaplecze) to zaplecze
+    for p in src.rglob("*.md"):
         m = RE_WERSJA.match(p.name)
         if not m or p.name.startswith("_") or m.group(1).startswith("Model materialu"):
+            continue
+        if any(c.startswith("_") for c in p.relative_to(src).parts[:-1]):
             continue
         if m.group(1) not in najnowsze or int(m.group(2)) > najnowsze[m.group(1)][0]:
             najnowsze[m.group(1)] = (int(m.group(2)), p)

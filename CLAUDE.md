@@ -32,6 +32,7 @@ python tools/build_edu_audio.py 1 <wzorzec.mp3>  # nagranie -> public/audio/edu/
 python tools/build_edu_graphics.py [1]   # one27/HopeGrafiki/NNNa.png -> public/media/edu/NNNa_m.webp, NNNa_d.webp, NNNa.jpg (potem extract_edu.py)
 python tools/extract_groups.py      # one27/GrupyBiblijne -> groups/ (Grupy Nadziei)
 python tools/build_prayer_texts.py pl  # teksty do modlitwy (United Prayer) -> prayer-texts.json
+python tools/extract_sabbath_extra.py  # Szkoła Biblijna, „Materiały dodatkowe”: ~/AIprojekty/szk_sob/…Calosc kwartalu…vN.md -> sabbath-extra.json
 python tools/build_bible_full.py    # pełny przekład -> bible/{KOD}/
 python tools/build_bible_be.py pl   # wersety do studiów (Biblia Ekumeniczna)
 python tools/build_index.py pl      # lista studiów w index.json
@@ -61,7 +62,7 @@ Od 2026-10-15 trzy rozmiary (decyzja autora: aplikacja nie może cięższeć z k
 tekstem tylko miniatury `NNNa_m.webp` (~15 KB), po dotknięciu okno z podglądem `NNNa_d.webp`
 (~80 KB), pełna `NNNa.jpg` (~250 KB) pobiera się dopiero w otwartym oknie, do udostępnienia.
 `.htaccess`: miniatury i podglądy tydzień w pamięci przeglądarki, pełne `no-store`.
-Źródłowe nagrania materiałów: `one27/HopeAudio/Jest_Nadzieja_NNN_z_muzyka.mp3`.
+Źródłowe nagrania materiałów: `one27/HopeMedia/NNN/Jest_Nadzieja_NNN_intro.mp3`.
 
 ## Twarde reguły
 
