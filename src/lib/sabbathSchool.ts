@@ -117,3 +117,21 @@ export async function findCurrentLesson(lang: string, timeoutMs = 6000): Promise
     clearTimeout(timer)
   }
 }
+
+/**
+ * Materialy dodatkowe (content/{lang}/sabbath-extra.json): id lekcji na biezacy
+ * tydzien wedlug dat z pliku, z ta sama regula soboty co karta Adventech.
+ * Poza kwartalem - undefined, wtedy nic sie nie podswietla.
+ */
+export function currentExtraId(items: { id: string; start?: string; end?: string }[], now = new Date()): string | undefined {
+  const today = lessonDayUTC(now)
+  const iso = (s?: string) => {
+    const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(s || '')
+    return m ? Date.UTC(+m[1], +m[2] - 1, +m[3]) : null
+  }
+  return items.find((it) => {
+    const from = iso(it.start)
+    const to = iso(it.end)
+    return from !== null && to !== null && from <= today && today <= to
+  })?.id
+}

@@ -8,7 +8,9 @@ import { EduItemPage, EduList } from './Edu'
 
 vi.mock('../i18n', () => ({ useI18n: () => ({ lang: 'pl', t: (_p: string, f = '') => f }) }))
 vi.mock('../place', () => ({ useSetPlace: () => {} }))
-vi.mock('../content', () => ({ loadEdu: async () => index, loadEduItem: async (_l: string, n: number) => (n === 1 ? item1 : item4) }))
+// material 4 ma juz nagranie (od 2026-10) - stan „bez nagrania” odtwarzamy, zdejmujac je z kopii
+const { audio: _audio, ...item4NoAudio } = item4
+vi.mock('../content', () => ({ loadEdu: async () => index, loadEduItem: async (_l: string, n: number) => (n === 1 ? item1 : item4NoAudio) }))
 
 describe('Czlowiek Nadziei - nowy uklad tekstow', () => {
   // material 4 otwiera sie 18 pazdziernika - testujemy go jako juz dostepny
@@ -87,7 +89,10 @@ describe('Czlowiek Nadziei - nowy uklad tekstow', () => {
     expect(await screen.findByRole('link', { name: /Poznając projekt, poznasz Projektanta/ })).toHaveAttribute('href', '/pl/edukacja/1')
     expect(screen.getByText('Geniusz bez pamięci. Dlaczego ośmiornice nie władają ziemią?')).toBeInTheDocument()
     expect(screen.queryByRole('link', { name: /Geniusz bez pamięci/ })).not.toBeInTheDocument()
-    expect(screen.getAllByText(/Dostępny od/)).toHaveLength(9)
+    // wszystkie poza otwartym odcinkiem 1 - liczba rosnie z kazdym nowym materialem
+    const locked = index.items.filter((it) => !('open' in it && it.open) && it.date > '2026-10-09').length
+    expect(locked).toBeGreaterThan(0)
+    expect(screen.getAllByText(/Dostępny od/)).toHaveLength(locked)
   })
 
   it('daty ida od dnia po 40 dniach modlitwy', () => {

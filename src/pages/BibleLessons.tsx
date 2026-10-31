@@ -1,8 +1,30 @@
 import { useEffect, useState } from 'react'
+import { Link, useLocation, useParams } from 'react-router-dom'
 import { useI18n } from '../i18n'
-import { fallbackUrl, findCurrentLesson, type CurrentLesson } from '../lib/sabbathSchool'
+import { useSetPlace } from '../place'
+import { loadSabbathExtra } from '../content'
+import { currentExtraId, fallbackUrl, findCurrentLesson, type CurrentLesson } from '../lib/sabbathSchool'
+import { AppIcon } from '../components/AppNavigation'
 import { BackLink } from '../components/BackLink'
+import { FontScale } from '../components/FontScale'
 import { PageHeading } from '../components/PageHeading'
+import type { SabbathExtra, SabbathExtraItem } from '../types'
+
+// Hash, pod ktorym blok „Materialy dodatkowe” jest od razu rozwiniety -
+// powrot ze strony tematu nie zwija listy, z ktorej czytelnik przyszedl.
+const EXTRA_HASH = '#materialy'
+
+function useSabbathExtra() {
+  const { lang } = useI18n()
+  const [data, setData] = useState<SabbathExtra | null>(null)
+  const [failed, setFailed] = useState(false)
+  useEffect(() => {
+    setData(null)
+    setFailed(false)
+    loadSabbathExtra(lang).then(setData).catch(() => setFailed(true))
+  }, [lang])
+  return { data, failed }
+}
 
 export function BibleLessons() {
   const { lang, t } = useI18n()
@@ -30,5 +52,115 @@ export function BibleLessons() {
       )}
       <a href={lesson?.url || fallbackUrl(lang)} target="_blank" rel="noreferrer" className="mt-5 inline-flex rounded-lg bg-brand px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-brand-light dark:bg-sky-300 dark:text-slate-950">{t('home.openLesson', 'Otwórz lekcję')} <span className="ml-1" aria-hidden>↗</span></a>
     </article>
+    <ExtraBlock />
   </section>
+}
+
+/** „Materiały dodatkowe” - zwinięty kafelek; po rozwinięciu wszystkie tematy kwartału, bieżący podświetlony. */
+function ExtraBlock() {
+  const { lang, t } = useI18n()
+  const { hash } = useLocation()
+  const { data } = useSabbathExtra()
+  const [open, setOpen] = useState(hash === EXTRA_HASH)
+  const [thread, setThread] = useState<string | null>(null)
+
+  // bez pliku dla tego jezyka bloku po prostu nie ma
+  if (!data?.items.length) return null
+
+  const current = currentExtraId(data.items)
+  const picked = data.threads.find((th) => th.id === thread)
+  const items = picked ? data.items.filter((it) => it.no !== undefined && picked.lessons.includes(it.no)) : data.items
+
+  return <section id="materialy" className="mt-4 overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm dark:border-slate-700 dark:bg-slate-900">
+    <button type="button" onClick={() => setOpen(!open)} aria-expanded={open} className="gradient-panel flex w-full items-center gap-3 p-4 text-left transition hover:border-brand/60 dark:hover:border-sky-300/60">
+      <span className="rounded-xl bg-brand/10 p-2.5 text-brand dark:bg-sky-400/15 dark:text-sky-300"><AppIcon name="lesson" className="h-6 w-6" /></span>
+      <span className="min-w-0 flex-1">
+        <span className="block text-base font-bold text-slate-900 dark:text-white">{t('sabbathSchool.extra', 'Materiały dodatkowe')}</span>
+        <span className="mt-0.5 block text-sm text-slate-600 dark:text-slate-300">{data.title}{data.subtitle ? ` · ${data.subtitle}` : ''}</span>
+      </span>
+      <span className={`text-xl text-brand transition-transform dark:text-sky-300 ${open ? 'rotate-90' : ''}`} aria-hidden>›</span>
+    </button>
+    {open && <div className="space-y-2 border-t border-slate-200 p-3 dark:border-slate-700">
+      {data.lead && <p className="px-1 pb-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300">{data.lead}</p>}
+      {data.threads.length > 0 && <div className="flex flex-wrap gap-1.5 px-1 pb-1" role="group" aria-label={t('sabbathSchool.threads', 'Wątki kwartału')}>
+        {data.threads.map((th) => {
+          const on = th.id === thread
+          return <button key={th.id} type="button" aria-pressed={on} onClick={() => setThread(on ? null : th.id)} className={`rounded-full border px-2.5 py-1 text-xs transition ${on ? 'border-brand bg-brand/15 font-semibold text-brand dark:border-sky-300 dark:text-sky-300' : 'border-slate-300 text-slate-600 hover:bg-slate-100 dark:border-slate-600 dark:text-slate-300 dark:hover:bg-slate-800'}`}>{th.title}</button>
+        })}
+      </div>}
+      {items.map((it) => {
+        const now = it.id === current
+        return <Link key={it.id} to={`/${lang}/lekcje-biblijne/${data.quarter}/${it.id}`} viewTransition aria-current={now ? 'true' : undefined} className={`flex items-start gap-3 rounded-lg border px-3 py-2 text-slate-900 transition hover:border-brand hover:shadow-sm dark:text-white ${now ? 'border-brand bg-brand/10 ring-1 ring-brand dark:border-sky-300 dark:bg-sky-400/10 dark:ring-sky-300' : 'gradient-panel border-slate-200 dark:border-slate-700'}`}>
+          <span className="w-8 shrink-0 pt-0.5 text-right text-xs tabular-nums text-slate-500 dark:text-slate-400">{it.no ?? '★'}</span>
+          <span className="min-w-0 flex-1">
+            <span className="block font-medium leading-snug">{it.title}</span>
+            <span className="mt-0.5 block text-xs leading-snug text-slate-500 dark:text-slate-400">{it.no === undefined ? it.label : it.range}</span>
+          </span>
+          {now && <span className="shrink-0 rounded-full bg-brand px-2 py-0.5 text-[0.7rem] font-semibold text-white dark:bg-sky-300 dark:text-slate-950">{t('sabbathSchool.thisWeek', 'Na ten tydzień')}</span>}
+        </Link>
+      })}
+    </div>}
+  </section>
+}
+
+export function SabbathExtraPage() {
+  const { quarter = '', id = '' } = useParams()
+  const { lang, t } = useI18n()
+  const { data, failed } = useSabbathExtra()
+  const item = data?.quarter === quarter ? data.items.find((it) => it.id === id) : undefined
+
+  useSetPlace(item?.title)
+
+  const backTo = `/${lang}/lekcje-biblijne${EXTRA_HASH}`
+  const back = <BackLink to={backTo}>{t('sabbathSchool.title', 'Szkoła Biblijna')}</BackLink>
+  if (!data && !failed) return <p className="text-slate-400">{t('common.loading', '…')}</p>
+  if (!data || !item) return <div><p className="text-slate-400">{t('sabbathSchool.missing', 'Nie ma takiego materiału. Możliwe, że należy do poprzedniego kwartału.')}</p><div className="mt-3">{back}</div></div>
+
+  const pos = data.items.indexOf(item)
+  const prev = pos > 0 ? data.items[pos - 1] : null
+  const next = pos < data.items.length - 1 ? data.items[pos + 1] : null
+  const now = item.id === currentExtraId(data.items)
+  const href = (it: SabbathExtraItem) => `/${lang}/lekcje-biblijne/${data.quarter}/${it.id}`
+
+  return <article className="reading">
+    {back}
+
+    <header className="mb-4 mt-3">
+      <p className="text-xs font-semibold uppercase tracking-wide text-brand dark:text-sky-300">{data.title} · {item.label}{item.range ? ` · ${item.range}` : ''}</p>
+      <h1 className="mt-1 text-[1.5em] font-bold leading-tight">{item.title}</h1>
+      {now && <p className="mt-2"><span className="rounded-full bg-brand px-2.5 py-0.5 text-xs font-semibold text-white dark:bg-sky-300 dark:text-slate-950">{t('sabbathSchool.thisWeek', 'Na ten tydzień')}</span></p>}
+    </header>
+
+    <div className="no-print flex justify-end"><FontScale /></div>
+
+    {item.verse && <blockquote className="mt-4 rounded-xl border-l-4 border-brand bg-brand/10 px-4 py-3 dark:bg-sky-400/10">
+      <p className="text-[0.7em] font-bold uppercase tracking-wide text-brand dark:text-sky-300">{t('sabbathSchool.verse', 'Werset przewodni')}</p>
+      <p className="mt-1 text-[1.05em] font-medium leading-relaxed">„{item.verse.text}”</p>
+      <p className="mt-1 text-sm text-slate-600 dark:text-slate-300">{item.verse.ref}</p>
+    </blockquote>}
+
+    {item.sections.map((s, i) => <section key={i} className="mt-8">
+      <h2 className="border-b border-slate-200 pb-1 text-[1.15em] font-semibold text-brand dark:border-slate-700 dark:text-brand-light">{s.label}</h2>
+      {s.text.split('\n\n').map((p, j) => <p key={j} className="mt-3 leading-relaxed">{p}</p>)}
+    </section>)}
+
+    {item.questions.length > 0 && <section className="mt-8">
+      <h2 className="border-b border-slate-200 pb-1 text-[1.15em] font-semibold text-brand dark:border-slate-700 dark:text-brand-light">{t('sabbathSchool.questions', 'Pytania do rozmowy')}</h2>
+      <ol className="mt-3 space-y-3">{item.questions.map((q, i) => <li key={i} className="flex gap-3 rounded-xl border border-slate-200 bg-white p-3.5 text-slate-900 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100">
+        <span className="shrink-0 font-semibold tabular-nums text-brand dark:text-sky-300">{i + 1}.</span>
+        <span className="leading-relaxed">{q}</span>
+      </li>)}</ol>
+    </section>}
+
+    <nav className="no-print mt-8 flex items-center justify-between gap-3 text-sm">
+      {prev ? <Link to={href(prev)} className="text-brand-light hover:underline">‹ {prev.title}</Link> : <span />}
+      {next ? <Link to={href(next)} className="text-right text-brand-light hover:underline">{next.title} ›</Link> : <span />}
+    </nav>
+
+    <div className="no-print mt-6 flex justify-center">{back}</div>
+    {(data.sources.length > 0 || data.note) && <div className="mt-8 space-y-1 text-xs text-slate-500">
+      {data.sources.map((s, i) => <p key={i}>{t('sabbathSchool.source', 'Źródło')}: {s}</p>)}
+      {data.note && <p>{data.note}</p>}
+    </div>}
+  </article>
 }

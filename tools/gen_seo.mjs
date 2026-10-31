@@ -115,6 +115,20 @@ for (const s of groups.serie) {
   }
 }
 
+// --- Szkola Biblijna: materialy dodatkowe do kwartalu ------------------------------
+if (existsSync(join(CONTENT, 'sabbath-extra.json'))) {
+  const extra = json('sabbath-extra.json')
+  for (const it of extra.items) {
+    const paras = it.sections.map((s) => s.text)
+    add({
+      path: `/pl/lekcje-biblijne/${extra.quarter}/${it.id}/`,
+      title: `${it.title} – ${extra.title} – Szkoła Biblijna`,
+      desc: short(paras[0]),
+      body: [`${extra.title} · ${it.label}${it.range ? ` · ${it.range}` : ''}`, ...paras],
+    })
+  }
+}
+
 // --- Lekcje Biblijne (studia) ------------------------------------------------------
 const index = json('index.json')
 for (const st of index.studies) {

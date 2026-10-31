@@ -381,3 +381,31 @@ export interface NoteSource {
   path: string
   quote?: string
 }
+
+/** Szkoła Biblijna - materiały dodatkowe do bieżącego kwartału (content/{lang}/sabbath-extra.json, tools/extract_sabbath_extra.py). */
+export interface SabbathExtraItem {
+  /** numer lekcji albo „calosc” */
+  id: string
+  no?: number
+  label: string
+  /** zakres dat w brzmieniu autora, np. „31 października – 6 listopada” */
+  range?: string
+  title: string
+  /** RRRR-MM-DD */
+  start?: string
+  end?: string
+  verse?: { text: string; ref: string }
+  sections: { label: string; text: string }[]
+  questions: string[]
+}
+export interface SabbathExtra {
+  /** np. „2026-4” - człon adresu */
+  quarter: string
+  title: string
+  subtitle: string
+  lead: string
+  items: SabbathExtraItem[]
+  threads: { id: string; title: string; lessons: number[] }[]
+  sources: string[]
+  note: string
+}

@@ -1,5 +1,5 @@
 import { loadBibleBook, loadBibleIndex, loadTranslations } from './lib/bible'
-import type { Bible, EduIndex, EduItem, Flashcards, GroupItem, GroupsIndex, IndexFile, LangsFile, Occasions, Pray40Day, Pray40Index, PrayerTexts, ReadingPlansFile, SongCollection, SongsFile, Study, Ui } from './types'
+import type { Bible, EduIndex, EduItem, Flashcards, GroupItem, GroupsIndex, IndexFile, LangsFile, Occasions, Pray40Day, Pray40Index, PrayerTexts, ReadingPlansFile, SabbathExtra, SongCollection, SongsFile, Study, Ui } from './types'
 
 const BASE = import.meta.env.BASE_URL // np. '/'
 const cache = new Map<string, unknown>()
@@ -56,6 +56,7 @@ export const loadEduItem = (lang: string, nr: number) =>
   getJSON<EduItem>(`${lang}/edu/${String(nr).padStart(2, '0')}.json`)
 export const loadGroups = (lang: string) => getJSON<GroupsIndex>(`${lang}/groups/index.json`)
 export const loadGroupItem = (lang: string, id: string) => getJSON<GroupItem>(`${lang}/groups/${id}.json`)
+export const loadSabbathExtra = (lang: string) => getJSON<SabbathExtra>(`${lang}/sabbath-extra.json`)
 
 /**
  * Pobiera cały moduł językowy do cache (service worker zachowa go offline).
@@ -85,6 +86,7 @@ export async function downloadModule(lang: string, onProgress?: (done: number, t
     loadOccasions(lang),
     loadPrayerTexts(lang),
     loadFlashcards(lang),
+    loadSabbathExtra(lang),
     ...(pray?.days ?? []).map((d) => loadPray40Day(lang, d.day)),
     ...(edu?.items ?? []).map((i) => loadEduItem(lang, i.nr)),
     ...(groups?.serie ?? []).flatMap((s) => s.items.map((i) => loadGroupItem(lang, i.id))),

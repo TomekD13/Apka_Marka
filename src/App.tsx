@@ -33,7 +33,7 @@ import { Hope } from './pages/Hope'
 import { Settings } from './pages/Settings'
 import { Contact } from './pages/Contact'
 import { BibleHub, BibleStudies, PrayerHub, SongsHub } from './pages/SectionHubs'
-import { BibleLessons } from './pages/BibleLessons'
+import { BibleLessons, SabbathExtraPage } from './pages/BibleLessons'
 import { Favorites } from './pages/Favorites'
 import { ReadingPlanSetup, ReadingPlanView, ReadingPlansPage } from './pages/ReadingPlans'
 import { BETA } from './lib/beta'
@@ -113,6 +113,7 @@ const langRoutes: RouteObject[] = [
   { path: 'grupy-nadziei/:id', element: <GroupItemPage /> },
   { path: 'poznaj-boga-i-biblie', element: <BibleStudies /> },
   { path: 'lekcje-biblijne', element: <BibleLessons /> },
+  { path: 'lekcje-biblijne/:quarter/:id', element: <SabbathExtraPage /> },
   { path: 'jest-nadzieja', element: <Hope /> },
   { path: 'ustawienia', element: <Settings /> },
   { path: 'kontakt', element: <Contact /> },

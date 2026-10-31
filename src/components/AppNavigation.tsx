@@ -94,9 +94,9 @@ export function AppNavigation() {
           <DrawerLink to={`${home}/okazje`} icon="occasion" onClick={() => setOpen(false)}>{t('occasions.cta', 'Teksty na różne okazje')}</DrawerLink>
         </DrawerGroup>
         <DrawerGroup icon="hope" title="#JestNadzieja" accent={BETA} open={hopeOpen} onToggle={() => setHopeOpen(!hopeOpen)}>
-          <DrawerLink to={`${home}/40-dni`} icon="prayer" onClick={() => setOpen(false)}>{t('home.pray40', '40 dni modlitwy')}</DrawerLink>
           <DrawerLink to={`${home}/edukacja`} icon="lesson" onClick={() => setOpen(false)}>{t('edu.title', 'Człowiek Nadziei')}</DrawerLink>
           <DrawerLink to={`${home}/grupy-nadziei`} icon="group" onClick={() => setOpen(false)}>{t('groups.title', 'Grupy Nadziei')}</DrawerLink>
+          <DrawerLink to={`${home}/40-dni`} icon="prayer" onClick={() => setOpen(false)}>{t('home.pray40', '40 dni modlitwy')}</DrawerLink>
         </DrawerGroup>
         <DrawerGroup icon="music" title={t('nav.songs', 'Pieśni')} open={songsOpen} onToggle={() => setSongsOpen(!songsOpen)}>
           <DrawerLink to={`${home}/spiewnik`} icon="music" onClick={() => setOpen(false)}>{t('songs.title', 'Śpiewnik')}</DrawerLink>
