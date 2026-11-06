@@ -18,6 +18,8 @@
   # >>> blokada nagran i grafik przed data materialu (generuje tools/extract_edu.py - nie edytuj recznie)
   RewriteCond %{TIME} <20261106100000
   RewriteRule ^(audio/edu/024\.mp3|media/edu/024[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
+  RewriteCond %{TIME} <20261107100000
+  RewriteRule ^(audio/edu/025\.mp3|media/edu/025[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
   RewriteCond %{TIME} <20261108100000
   RewriteRule ^(audio/edu/026\.mp3|media/edu/026[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
   # <<< blokada
