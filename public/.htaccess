@@ -20,6 +20,8 @@
   RewriteRule ^(audio/edu/030\.mp3|media/edu/030[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
   RewriteCond %{TIME} <20261113100000
   RewriteRule ^(audio/edu/031\.mp3|media/edu/031[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
+  RewriteCond %{TIME} <20261114100000
+  RewriteRule ^(audio/edu/032\.mp3|media/edu/032[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
   # <<< blokada
 
   # Brakujacy plik tresci pozostaje bledem 404, a nie strona HTML.
