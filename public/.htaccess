@@ -70,11 +70,19 @@ AddType image/svg+xml .svg
   <FilesMatch "(sw\.js|index\.html|manifest\.(webmanifest|json)|registerSW\.js)$">
     Header set Cache-Control "no-cache, must-revalidate"
   </FilesMatch>
-  # Nagrania lektorskie tylko strumieniowo (decyzja autora 2026-10-09): telefon nie trzyma
-  # ich w pamieci podrecznej, wiec setki odcinkow nie zapchaja mu miejsca. Przewijanie
-  # dziala dalej - przegladarka pobiera fragmenty (Range), service worker ich nie dotyka.
+  # Nagrania (.mp3): przegladarka sama ich nie zapisuje (no-store). Muzyka do modlitwy
+  # (audio/muzyka/NN_nazwa.mp3) zostaje na telefonie inaczej - zapisuje ja aplikacja
+  # (service worker, decyzja autora 2026-11-19), wiec druga kopia w pamieci przegladarki
+  # bylaby zbedna.
   <FilesMatch "\.mp3$">
     Header set Cache-Control "no-store"
+  </FilesMatch>
+  # Czlowiek Nadziei (audio/edu/NNN.mp3): tydzien w pamieci przegladarki (decyzja autora
+  # 2026-11-19, wczesniej tylko strumieniowo) - powtorne odsluchanie nie pobiera pliku
+  # od nowa; po tygodniu plik jest nieaktualny i przegladarka usuwa go, gdy potrzebuje
+  # miejsca (sama decyduje kiedy). Podmiana nagrania zmienia adres (?v=).
+  <FilesMatch "^[0-9]{3}\.mp3$">
+    Header set Cache-Control "public, max-age=604800"
   </FilesMatch>
   # Grafiki Czlowieka Nadziei (decyzja autora 2026-10-15): miniatury i podglady moga polezec
   # w pamieci przegladarki tydzien (podmiana pliku zmienia adres ?v=), pelna grafika do

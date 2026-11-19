@@ -1,7 +1,13 @@
 # Konta i powiadomienia: PWA → Firebase Auth → Firestore → FCM
 
-Propozycja z 2026-08-25. **Nic nie zostało wdrożone** – kod czeka na decyzje z tabeli niżej
-i na projekt założony w konsoli Firebase.
+Propozycja z 2026-08-25.
+
+> **Stan 2026-11-19:** etap 0 (projekt `jest-nadzieja`, plan Blaze) i etap 1 (logowanie, synchronizacja)
+> **zrobione**. **Etap 2 – powiadomienia – w kolejce**, nic nie wdrożone. Przed startem zapytać Marka:
+> (a) o czym powiadamiać (nowy materiał Człowieka Nadziei, dzień 40 dni modlitwy, lekcja Szkoły Sobotniej,
+> przypomnienie o modlitwie o wybranej godzinie), (b) tylko dla zalogowanych czy też bez konta.
+> Przy przejściu na `injectManifest` przenieść regułę zapisu muzyki (`muzyka-do-modlitwy`, CacheFirst +
+> rangeRequests) z `vite.config.ts` do własnego service workera.
 
 ## Stan decyzji (Marek, 2026-08-25)
 

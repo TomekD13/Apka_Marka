@@ -48,8 +48,11 @@ Na Windowsie dawaj `PYTHONIOENCODING=utf-8`, inaczej konsola psuje polskie znaki
 **Nagrania Człowieka Nadziei (2026-10-09).** `public/audio/` jest w `.gitignore` (repo publiczne,
 setki plików po kilka MB): nagrania leżą lokalnie i na serwerze, a `deploy-ftp.sh` wysyła je z `dist/`.
 Po `build_edu_audio.py` uruchom `extract_edu.py` – dopisze pole `audio` (ścieżka z sumą `?v=`, długość,
-rozmiar). Odtwarzacz `components/AudioPlayer.tsx` gra **tylko strumieniowo** (decyzja autora):
-`preload="none"`, service worker nie cache'uje `/audio/`, `.htaccess` daje `Cache-Control: no-store`.
+rozmiar). Odtwarzacz `components/AudioPlayer.tsx` gra strumieniowo: `preload="none"`, service worker
+nie cache'uje `/audio/edu/`. Od 2026-11-19 (decyzja autora) `.htaccess` daje nagraniom `NNN.mp3`
+`Cache-Control: public, max-age=604800` – tydzień w pamięci przeglądarki, potem przeglądarka sama je usuwa.
+**Formaty nagrań (decyzja autora 2026-11-19):** mowa (Człowiek Nadziei) 48 kb/s mono – lżej niż 128, przy mowie
+wystarcza; muzyka do modlitwy 128 kb/s stereo (`Muzyka_do_modlitwy/katalog.py`).
 Wersja testowa na GitHub Pages bierze nagrania ze strony głównej. Flaga `open` w JSON-ie
 (`OPEN_NOW` w `extract_edu.py`) otwiera materiał przed jego datą – tak jest z odcinkiem 1.
 
@@ -63,6 +66,25 @@ tekstem tylko miniatury `NNNa_m.webp` (~15 KB), po dotknięciu okno z podglądem
 (~80 KB), pełna `NNNa.jpg` (~250 KB) pobiera się dopiero w otwartym oknie, do udostępnienia.
 `.htaccess`: miniatury i podglądy tydzień w pamięci przeglądarki, pełne `no-store`.
 Źródłowe nagrania materiałów: `one27/HopeMedia/NNN/Jest_Nadzieja_NNN_intro.mp3`.
+
+**Muzyka do modlitwy (2026-11-19).** Strona `/pl/modlitwa/muzyka` (z działu Pieśni: `?z=piesni`, powrót do Pieśni).
+20 pętli ok. 5 min w `public/audio/muzyka/NN_nazwa.mp3` (w `.gitignore`, na serwer przez `deploy-ftp.sh`), lista
+w `content/pl/prayer-music.json`, ikony w `components/MusicIcon.tsx`. **Źródło wszystkiego jest poza repo:**
+`../Muzyka_do_modlitwy/` – `katalog.py` (kolejność, budowa pętli), `do_aplikacji/zbuduj.py` (ikony, tytuły, JSON) –
+zmieniaj tam i kopiuj wynik, nie edytuj JSON-a ani `MusicIcon.tsx` ręcznie. Odtwarzacz `lib/prayerMusic.ts` jest jeden
+na całą aplikację: muzyka gra dalej po zmianie strony, wtedy pod belką stoi `MusicMiniBar`. „Wyłącz po”: 15/30/45 min,
+1–8 godzin, na końcu 12 s wyciszania (na iOS samo zatrzymanie – Safari nie zmienia głośności).
+Od 2026-11-19: utwory 1–20 to pętle (plik zaczyna się w najcichszym miejscu pętli), **21–30 to składanki pieśni zboru**
+(ok. 9–11 min, własne wejście i zakończenie, `loop: false` w JSON-ie). Odtwarzacz: tryby „powtarzaj ten utwór” /
+„wszystkie po kolei” / „ulubione po kolei” / „moja playlista”. Przy każdym utworze serce (ulubione: `lib/favorites.ts`,
+kolekcja `music` = `zywe-slowo:fav:music:v1`, synchronizowana z kontem – `fav:music:v1` w `firestore.rules`,
+opublikowane w konsoli 2026-11-19) i plus (playlista w kolejności dodawania, `zywe-slowo:music-list:v1`, tylko na
+urządzeniu). Ulubiona muzyka jest też na stronie `/ulubione`.
+**Muzyka zostaje na telefonie** (decyzja autora 2026-11-19): po 20 s słuchania utwór pobiera się w tle do Cache Storage
+`muzyka-do-modlitwy`, service worker (`vite.config.ts`, CacheFirst + rangeRequests) gra go potem stamtąd, także offline.
+Adres ma `?v=` z sumą pliku (`zbuduj.py`) – nowa wersja wypiera starą. Na stronie: „Zapisane: n · MB” i „Usuń pobraną
+muzykę”. Wersja testowa (GitHub Pages, nagrania z innej domeny) niczego nie zapisuje. Suwak głośności i łagodne wejście/wyciszenie; na iOS strona
+nie może zmieniać głośności – suwaka tam nie ma, wyciszeń też nie; łagodność dają same nagrania.
 
 ## Twarde reguły
 

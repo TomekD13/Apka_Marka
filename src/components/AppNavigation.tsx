@@ -4,7 +4,7 @@ import { useI18n } from '../i18n'
 import { ACCOUNTS_ENABLED } from '../lib/accountGate'
 import { BETA } from '../lib/beta'
 
-export type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' | 'download' | 'settings' | 'close' | 'notes' | 'memory' | 'occasion' | 'lesson' | 'group' | 'contact' | 'account' | 'heart' | 'chevron'
+export type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' | 'download' | 'settings' | 'close' | 'notes' | 'memory' | 'occasion' | 'lesson' | 'group' | 'contact' | 'account' | 'heart' | 'chevron' | 'harp'
 
 export function AppIcon({ name, className = '' }: { name: IconName; className?: string }) {
   if (name === 'prayer') {
@@ -37,6 +37,7 @@ export function AppIcon({ name, className = '' }: { name: IconName; className?: 
     heart: <path d="M16 27s-10-6.2-12.4-12.3C2 10.3 4.8 5.7 9.5 5.7c2.7 0 4.8 1.4 6.5 3.7 1.7-2.3 3.8-3.7 6.5-3.7 4.7 0 7.5 4.6 5.9 9C26 20.8 16 27 16 27z"/>,
     account: <><circle cx="16" cy="11" r="5"/><path d="M6 27c0-5.5 4.5-9.5 10-9.5s10 4 10 9.5"/></>,
     chevron: <path d="m11 7 10 9-10 9"/>,
+    harp: <><path d="M8 27V5.5"/><path d="M8 5.5c5 0 8.5 3.8 15 3 1.2-.1 2-.5 2.5-1"/><path d="M25.5 7.5 11 27"/><path d="M6 27h7"/><path d="M12 6v19.7M16 7v13.3M20 8.2v6.7"/></>,
   }
   return <svg viewBox="0 0 32 32" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" className={className} aria-hidden>{paths[name]}</svg>
 }
@@ -102,11 +103,13 @@ export function AppNavigation() {
           <DrawerLink to={`${home}/spiewnik`} icon="music" onClick={() => setOpen(false)}>{t('songs.title', 'Śpiewnik')}</DrawerLink>
           <DrawerLink to={`${home}/piesni-mlodziezowe`} icon="music" onClick={() => setOpen(false)}>{t('youth.title', 'Pieśni młodzieżowe')}</DrawerLink>
           <a href="https://www.youtube.com/@UwielbieniezTekstem" target="_blank" rel="noreferrer" onClick={() => setOpen(false)} className="flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm font-medium text-slate-700 hover:bg-slate-100 dark:text-slate-100 dark:hover:bg-white/10"><AppIcon name="music" className="h-5 w-5 text-brand dark:text-sky-300"/>{t('worship.title', 'Pieśni z muzyką i tekstem')}</a>
+          <DrawerLink to={`${home}/modlitwa/muzyka?z=piesni`} icon="harp" onClick={() => setOpen(false)}>{t('prayerMusic.title', 'Muzyka do modlitwy')}</DrawerLink>
         </DrawerGroup>
         <DrawerGroup icon="prayer" title={t('nav.prayer', 'Modlitwa')} open={prayerOpen} onToggle={() => setPrayerOpen(!prayerOpen)}>
           <DrawerLink to={`${home}/modlitwy`} icon="prayer" onClick={() => setOpen(false)}>{t('prayers.title', 'Dziennik modlitw')}</DrawerLink>
-          <DrawerLink to={`${home}/40-dni`} icon="prayer" onClick={() => setOpen(false)}>{t('home.pray40', '40 dni modlitwy')}</DrawerLink>
           <DrawerLink to={`${home}/modlitwa/teksty`} icon="prayer" onClick={() => setOpen(false)}>{t('prayerTexts.cta', 'Teksty do modlitwy')}</DrawerLink>
+          <DrawerLink to={`${home}/modlitwa/muzyka`} icon="harp" onClick={() => setOpen(false)}>{t('prayerMusic.title', 'Muzyka do modlitwy')}</DrawerLink>
+          <DrawerLink to={`${home}/40-dni`} icon="prayer" onClick={() => setOpen(false)}>{t('home.pray40', '40 dni modlitwy')}</DrawerLink>
         </DrawerGroup>
         {BETA && <DrawerLink to={`${home}/ulubione`} icon="heart" onClick={() => setOpen(false)}>{t('favorites.title', 'Ulubione')}</DrawerLink>}
         {BETA && <DrawerLink to={`${home}/notatki`} icon="notes" onClick={() => setOpen(false)}>{t('notes.title', 'Moje notatki biblijne')}</DrawerLink>}

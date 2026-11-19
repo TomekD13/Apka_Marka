@@ -41,19 +41,21 @@ export function BibleHub() {
 
 export function SongsHub() {
   const { lang } = useI18n()
-  return <Hub icon="music" title="Pieśni" intro="Wybierz śpiewnik albo otwórz pieśni z muzyką i tekstem.">
+  return <Hub icon="music" title="Pieśni" intro="Wybierz śpiewnik, otwórz pieśni z muzyką i tekstem albo posłuchaj spokojnej muzyki do modlitwy.">
     <SectionTile to={`/${lang}/spiewnik`} icon="music" title="Śpiewnik" description="Pieśni ze śpiewnika „Śpiewajmy Panu”." />
     <SectionTile to={`/${lang}/piesni-mlodziezowe`} icon="music" title="Pieśni młodzieżowe" description="Pieśni z campów i zjazdów młodzieżowych." />
     <SectionTile href="https://www.youtube.com/@UwielbieniezTekstem" icon="music" title="Pieśni z muzyką i tekstem" description="Kanał „Uwielbienie z Tekstem” w YouTube." />
+    <SectionTile to={`/${lang}/modlitwa/muzyka?z=piesni`} icon="harp" title="Muzyka do modlitwy" description="Spokojna muzyka, przy której łatwiej się wyciszyć." />
   </Hub>
 }
 
 export function PrayerHub() {
   const { lang } = useI18n()
-  return <Hub icon="prayer" title="Modlitwa" intro="Wybierz, jak chcesz dziś stanąć przed Bogiem: własne prośby, droga na czterdzieści dni albo tekst na konkretną chwilę.">
+  return <Hub icon="prayer" title="Modlitwa" intro="Wybierz, jak chcesz dziś stanąć przed Bogiem: własne prośby, tekst na konkretną chwilę, spokojna muzyka albo droga na czterdzieści dni.">
     <SectionTile to={`/${lang}/modlitwy`} icon="prayer" title="Dziennik modlitw" description="Twoja osobista lista modlitewna, zapisana tylko na tym urządzeniu." />
-    <SectionTile to={`/${lang}/40-dni`} icon="prayer" title="40 dni modlitwy" description="Codzienna droga przez historie nadziei, dzień po dniu." />
     <SectionTile to={`/${lang}/modlitwa/teksty`} icon="prayer" title="Teksty do modlitwy" description="Uwielbienie, skrucha, prośby, wdzięczność – wybierz z listy albo wylosuj zestaw." />
+    <SectionTile to={`/${lang}/modlitwa/muzyka`} icon="harp" title="Muzyka do modlitwy" description="Spokojna muzyka, przy której łatwiej się wyciszyć." />
+    <SectionTile to={`/${lang}/40-dni`} icon="prayer" title="40 dni modlitwy" description="Codzienna droga przez historie nadziei, dzień po dniu." />
   </Hub>
 }
 

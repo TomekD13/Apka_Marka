@@ -1,4 +1,5 @@
 import { loadBibleBook, loadBibleIndex, loadTranslations } from './lib/bible'
+import type { MusicFile } from './lib/prayerMusic'
 import type { Bible, EduIndex, EduItem, Flashcards, GroupItem, GroupsIndex, IndexFile, LangsFile, Occasions, Pray40Day, Pray40Index, PrayerTexts, ReadingPlansFile, SabbathExtra, SongCollection, SongsFile, Study, Ui } from './types'
 
 const BASE = import.meta.env.BASE_URL // np. '/'
@@ -56,6 +57,7 @@ export const loadEduItem = (lang: string, nr: number) =>
   getJSON<EduItem>(`${lang}/edu/${String(nr).padStart(2, '0')}.json`)
 export const loadGroups = (lang: string) => getJSON<GroupsIndex>(`${lang}/groups/index.json`)
 export const loadGroupItem = (lang: string, id: string) => getJSON<GroupItem>(`${lang}/groups/${id}.json`)
+export const loadPrayerMusic = (lang: string) => getJSON<MusicFile>(`${lang}/prayer-music.json`)
 export const loadSabbathExtra = (lang: string) => getJSON<SabbathExtra>(`${lang}/sabbath-extra.json`)
 
 /**

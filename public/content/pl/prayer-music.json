@@ -1,0 +1,314 @@
+{
+ "tracks": [
+  {
+   "id": "psalm",
+   "nr": 1,
+   "title": "Psalm",
+   "icon": "lyre",
+   "file": "01_psalm.mp3",
+   "seconds": 313.6,
+   "samples": 13829760,
+   "v": "3916e9ad"
+  },
+  {
+   "id": "swit",
+   "nr": 2,
+   "title": "Świt",
+   "icon": "sunrise",
+   "file": "02_swit.mp3",
+   "seconds": 300.0,
+   "samples": 13230000,
+   "v": "934df4c6"
+  },
+  {
+   "id": "cisza",
+   "nr": 3,
+   "title": "Cisza",
+   "icon": "candle",
+   "file": "03_cisza.mp3",
+   "seconds": 300.0,
+   "samples": 13230000,
+   "v": "bf1eaf94"
+  },
+  {
+   "id": "ufnosc",
+   "nr": 4,
+   "title": "Ufność",
+   "icon": "hand-heart",
+   "file": "04_ufnosc.mp3",
+   "seconds": 288.0,
+   "samples": 12700800,
+   "v": "ee938253"
+  },
+  {
+   "id": "dzwonki",
+   "nr": 5,
+   "title": "Dzwonki",
+   "icon": "bell",
+   "file": "05_dzwonki.mp3",
+   "seconds": 320.0,
+   "samples": 14112000,
+   "v": "c831faf9"
+  },
+  {
+   "id": "woda",
+   "nr": 6,
+   "title": "Woda",
+   "icon": "waves",
+   "file": "06_woda.mp3",
+   "seconds": 320.0,
+   "samples": 14112000,
+   "v": "63275c43"
+  },
+  {
+   "id": "kolysanie",
+   "nr": 7,
+   "title": "Kołysanie",
+   "icon": "boat",
+   "file": "07_kolysanie.mp3",
+   "seconds": 300.0,
+   "samples": 13230000,
+   "v": "dc36f42d"
+  },
+  {
+   "id": "gwiazdy",
+   "nr": 8,
+   "title": "Gwiazdy",
+   "icon": "stars",
+   "file": "08_gwiazdy.mp3",
+   "seconds": 288.0,
+   "samples": 12700800,
+   "v": "80b80946"
+  },
+  {
+   "id": "spoczynek",
+   "nr": 9,
+   "title": "Spoczynek",
+   "icon": "moon",
+   "file": "09_spoczynek.mp3",
+   "seconds": 312.0,
+   "samples": 13759200,
+   "v": "4efb091c"
+  },
+  {
+   "id": "nadzieja",
+   "nr": 10,
+   "title": "Nadzieja",
+   "icon": "anchor",
+   "file": "10_nadzieja.mp3",
+   "seconds": 288.0,
+   "samples": 12700800,
+   "v": "1fd9aea8"
+  },
+  {
+   "id": "las_o_poranku",
+   "nr": 11,
+   "title": "Las o poranku",
+   "icon": "forest-sun",
+   "file": "11_las_o_poranku.mp3",
+   "seconds": 300.0,
+   "samples": 13230000,
+   "v": "3e8dd8c0"
+  },
+  {
+   "id": "strumien_w_lesie",
+   "nr": 12,
+   "title": "Strumień w lesie",
+   "icon": "forest-stream",
+   "file": "12_strumien_w_lesie.mp3",
+   "seconds": 300.0,
+   "samples": 13230000,
+   "v": "d4883e3b"
+  },
+  {
+   "id": "wieczor_na_skraju_lasu",
+   "nr": 13,
+   "title": "Wieczór na skraju lasu",
+   "icon": "forest-moon",
+   "file": "13_wieczor_na_skraju_lasu.mp3",
+   "seconds": 300.0,
+   "samples": 13230000,
+   "v": "524531a4"
+  },
+  {
+   "id": "marimba",
+   "nr": 14,
+   "title": "Marimba",
+   "icon": "marimba",
+   "file": "14_marimba.mp3",
+   "seconds": 290.4,
+   "samples": 12806640,
+   "v": "7f46efa7"
+  },
+  {
+   "id": "ukulele",
+   "nr": 15,
+   "title": "Ukulele",
+   "icon": "ukulele",
+   "file": "15_ukulele.mp3",
+   "seconds": 288.0,
+   "samples": 12700800,
+   "v": "5422614f"
+  },
+  {
+   "id": "pianino",
+   "nr": 16,
+   "title": "Pianino",
+   "icon": "piano",
+   "file": "16_pianino.mp3",
+   "seconds": 320.0,
+   "samples": 14112000,
+   "v": "33710c1a"
+  },
+  {
+   "id": "gitara",
+   "nr": 17,
+   "title": "Gitara",
+   "icon": "guitar",
+   "file": "17_gitara.mp3",
+   "seconds": 300.0,
+   "samples": 13230000,
+   "v": "81c7f34d"
+  },
+  {
+   "id": "wiolonczela",
+   "nr": 18,
+   "title": "Wiolonczela",
+   "icon": "cello",
+   "file": "18_wiolonczela.mp3",
+   "seconds": 298.6,
+   "samples": 13168260,
+   "v": "909259d1"
+  },
+  {
+   "id": "flet",
+   "nr": 19,
+   "title": "Flet",
+   "icon": "flute",
+   "file": "19_flet.mp3",
+   "seconds": 300.0,
+   "samples": 13230000,
+   "v": "d9b23576"
+  },
+  {
+   "id": "harfa",
+   "nr": 20,
+   "title": "Harfa",
+   "icon": "harp",
+   "file": "20_harfa.mp3",
+   "seconds": 308.0,
+   "samples": 13582800,
+   "v": "dbfb721f"
+  },
+  {
+   "id": "blizej_ciebie",
+   "nr": 21,
+   "title": "Bliżej Ciebie",
+   "icon": "violin",
+   "file": "21_blizej_ciebie.mp3",
+   "seconds": 584.437,
+   "samples": 25773666,
+   "loop": false,
+   "v": "6cc22a89"
+  },
+  {
+   "id": "prowadz_mnie",
+   "nr": 22,
+   "title": "Prowadź mnie",
+   "icon": "crook",
+   "file": "22_prowadz_mnie.mp3",
+   "seconds": 631.18,
+   "samples": 27835048,
+   "loop": false,
+   "v": "b0177eb7"
+  },
+  {
+   "id": "harfa_piesni",
+   "nr": 23,
+   "title": "Pieśni na harfę",
+   "icon": "harp",
+   "file": "23_harfa_piesni.mp3",
+   "seconds": 458.457,
+   "samples": 20217943,
+   "loop": false,
+   "v": "04c6de96"
+  },
+  {
+   "id": "uwielbienie",
+   "nr": 24,
+   "title": "Uwielbienie",
+   "icon": "clarinet",
+   "file": "24_uwielbienie.mp3",
+   "seconds": 681.298,
+   "samples": 30045233,
+   "loop": false,
+   "v": "f2879793"
+  },
+  {
+   "id": "wieczor",
+   "nr": 25,
+   "title": "Wieczór",
+   "icon": "lamp",
+   "file": "25_wieczor.mp3",
+   "seconds": 548.745,
+   "samples": 24199649,
+   "loop": false,
+   "v": "2f720d53"
+  },
+  {
+   "id": "krzyz",
+   "nr": 26,
+   "title": "Krzyż",
+   "icon": "cross",
+   "file": "26_krzyz.mp3",
+   "seconds": 568.612,
+   "samples": 25075774,
+   "loop": false,
+   "v": "5bbd113f"
+  },
+  {
+   "id": "cicha_noc",
+   "nr": 27,
+   "title": "Cicha noc",
+   "icon": "star",
+   "file": "27_cicha_noc.mp3",
+   "seconds": 594.774,
+   "samples": 26229551,
+   "loop": false,
+   "v": "0a503019"
+  },
+  {
+   "id": "skala",
+   "nr": 28,
+   "title": "Skała",
+   "icon": "rock",
+   "file": "28_skala.mp3",
+   "seconds": 540.985,
+   "samples": 23857435,
+   "loop": false,
+   "v": "8951cfef"
+  },
+  {
+   "id": "radosc",
+   "nr": 29,
+   "title": "Radość",
+   "icon": "sun",
+   "file": "29_radosc.mp3",
+   "seconds": 535.372,
+   "samples": 23609892,
+   "loop": false,
+   "v": "be2c2316"
+  },
+  {
+   "id": "oczekiwanie",
+   "nr": 30,
+   "title": "Oczekiwanie",
+   "icon": "crown",
+   "file": "30_oczekiwanie.mp3",
+   "seconds": 542.356,
+   "samples": 23917895,
+   "loop": false,
+   "v": "2b81c604"
+  }
+ ]
+}

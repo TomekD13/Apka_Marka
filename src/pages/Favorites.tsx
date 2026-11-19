@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useI18n } from '../i18n'
 import { useSetPlace } from '../place'
-import { loadSongs } from '../content'
+import { loadPrayerMusic, loadSongs } from '../content'
 import { BackLink } from '../components/BackLink'
 import { PageHeading } from '../components/PageHeading'
 import { Heart } from '../components/MaterialActions'
@@ -11,8 +11,10 @@ import { listFavorites, toggleFavorite } from '../lib/favorites'
 import { listBookmarks } from '../lib/bookmarks'
 import type { ReadKind } from '../lib/progress'
 import type { SongCollection } from '../types'
+import { FAV_COLLECTION, toggleFav } from '../lib/prayerMusic'
+import { MusicIcon } from '../components/MusicIcon'
 
-// Ulubione w jednym miejscu: materialy, piesni z obu spiewnikow i zakladki w Biblii.
+// Ulubione w jednym miejscu: materialy, piesni z obu spiewnikow, Muzyka do modlitwy i zakladki w Biblii.
 // Na razie tylko beta (BETA w lib/beta.ts).
 
 const KINDS: [ReadKind, string, string][] = [
@@ -44,11 +46,14 @@ export function Favorites() {
   const [songs, setSongs] = useState<Record<string, number[]>>(() => Object.fromEntries(SONGS.map(([c]) => [c, listFavorites(c)])))
   const [titles, setTitles] = useState<Record<string, string>>({})
   const bookmarks = listBookmarks().length
+  const [music, setMusic] = useState<number[]>(() => listFavorites(FAV_COLLECTION))
+  const [musicInfo, setMusicInfo] = useState<Record<number, { title: string; icon: string }>>({})
 
   useEffect(() => {
     const refresh = () => {
       setItems(listFavMaterials())
       setSongs(Object.fromEntries(SONGS.map(([c]) => [c, listFavorites(c)])))
+      setMusic(listFavorites(FAV_COLLECTION))
     }
     window.addEventListener('zywe-slowo:synced', refresh)
     return () => window.removeEventListener('zywe-slowo:synced', refresh)
@@ -64,7 +69,14 @@ export function Favorites() {
     }
   }, [lang, songs])
 
-  const empty = !items.length && SONGS.every(([c]) => !songs[c]?.length) && !bookmarks
+  useEffect(() => {
+    if (!music.length) return
+    loadPrayerMusic(lang)
+      .then((f) => setMusicInfo(Object.fromEntries(f.tracks.map((tr) => [tr.nr, { title: tr.title, icon: tr.icon }]))))
+      .catch(() => {})
+  }, [lang, music.length])
+
+  const empty = !items.length && SONGS.every(([c]) => !songs[c]?.length) && !bookmarks && !music.length
 
   return (
     <section className="mx-auto max-w-xl">
@@ -110,6 +122,21 @@ export function Favorites() {
           </div>
         )
       })}
+
+      {music.length > 0 && (
+        <div className="mt-6">
+          <h2 className="mb-2 text-lg font-bold text-slate-900 dark:text-white">{t('favorites.music', 'Muzyka do modlitwy')}</h2>
+          <div className="space-y-1.5">
+            {[...music].sort((a, b) => a - b).map((nr) => (
+              <div key={nr} className={row}>
+                <MusicIcon name={musicInfo[nr]?.icon ?? 'lyre'} className="h-5 w-5 shrink-0 text-brand dark:text-sky-300" />
+                <Link to={`/${lang}/modlitwa/muzyka`} className="min-w-0 flex-1 truncate font-medium text-slate-900 hover:text-brand dark:text-white dark:hover:text-sky-300">{musicInfo[nr]?.title || '…'}</Link>
+                <Unfav onClick={() => { toggleFav(nr); setMusic(listFavorites(FAV_COLLECTION)) }} />
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
 
       {bookmarks > 0 && (
         <div className="mt-6">

@@ -23,6 +23,8 @@ import { Notes, NoteEdit } from './pages/Notes'
 import { Prayers } from './pages/Prayers'
 import { PrayerTexts } from './pages/PrayerTexts'
 import { TimelineRules } from './pages/TimelineRules'
+import { PrayerMusic } from './pages/PrayerMusic'
+import { MusicMiniBar } from './components/MusicMiniBar'
 import { Pray40, Pray40DayPage } from './pages/Pray40'
 import { Edu, EduItemPage } from './pages/Edu'
 import { Groups, GroupItemPage } from './pages/Groups'
@@ -64,6 +66,7 @@ function LangLayout() {
               <Outlet />
             </main>
             <PlanBar />
+            <MusicMiniBar />
             <AddNoteFab />
             <SelectionNote />
             {BETA && <HighlightOnArrival />}
@@ -105,6 +108,7 @@ const langRoutes: RouteObject[] = [
   { path: 'piesni', element: <SongsHub /> },
   { path: 'modlitwa', element: <PrayerHub /> },
   { path: 'modlitwa/teksty', element: <PrayerTexts /> },
+  { path: 'modlitwa/muzyka', element: <PrayerMusic /> },
   { path: 'modlitwy', element: <Prayers /> },
   { path: '40-dni', element: <Pray40 /> },
   { path: '40-dni/:day', element: <Pray40DayPage /> },

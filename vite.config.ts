@@ -47,10 +47,21 @@ export default defineConfig({
         globPatterns: ['**/*.{js,css,html,svg,png,webp,woff2}'],
         // tresc dociagamy w runtime; baner w wersji 2560 tylko wtedy, gdy ekran go potrzebuje
         // grafiki do udostepniania (public/media/) tez tylko z sieci - laduja sie dopiero pod materialem
-        // nagrania (public/audio/) leca wylacznie online - ani precache, ani runtimeCaching;
-        // zadna regula ponizej ich nie obejmuje, wiec service worker przepuszcza je do sieci
+        // nagrania (public/audio/) nie ida do precache. Czlowiek Nadziei leci z sieci (przegladarka trzyma go
+        // tydzien - .htaccess). Muzyka do modlitwy (decyzja Marka 2026-11-19) zostaje na telefonie: po ok. 20 s
+        // sluchania lib/prayerMusic.ts pobiera caly plik do cache „muzyka-do-modlitwy”, a regula nizej gra go
+        // stamtad, takze bez internetu; rangeRequests - odtwarzacz prosi o kawalki pliku (przewijanie)
         globIgnores: ['**/content/**', '**/audio/**', '**/media/**', '**/jestnadzieja-2560.png'],
         runtimeCaching: [
+          {
+            urlPattern: ({ url }) => url.pathname.includes('/audio/muzyka/'),
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'muzyka-do-modlitwy',
+              rangeRequests: true,
+              cacheableResponse: { statuses: [200] }
+            }
+          },
           {
             urlPattern: ({ url }) => url.pathname.includes('/content/'),
             handler: 'StaleWhileRevalidate',

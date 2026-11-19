@@ -24,7 +24,8 @@ service cloud.firestore {
         'read:v2',
         'fav-materials:v1',
         'fav:hymnal:v1',
-        'fav:youth:v1'
+        'fav:youth:v1',
+        'fav:music:v1'
       ];
     }
 
