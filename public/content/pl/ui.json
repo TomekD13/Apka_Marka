@@ -461,6 +461,11 @@
     "downloadGraphic": "Pobierz",
     "graphicSaved": "Grafika zapisana w pobranych plikach"
   },
+  "refresh": {
+    "button": "Odśwież",
+    "busy": "Odświeżam…",
+    "hint": "Nie widzisz dzisiejszego materiału? Odśwież – pobierzemy najnowszą listę."
+  },
   "settings": {
     "intro": "Wybierz wygląd, który jest najwygodniejszy dla Ciebie.",
     "appearance": "Wygląd aplikacji",

@@ -20,6 +20,7 @@ import { ShareButton } from '../components/ShareButton'
 import { EduGraphics } from '../components/EduGraphics'
 import { BETA } from '../lib/beta'
 import { ReadPill, ReadTop } from '../components/MaterialActions'
+import { RefreshButton } from '../components/RefreshButton'
 import type { EduIndex, EduItem } from '../types'
 
 const VERSION_KEY = 'zywe-slowo:edu:version'
@@ -122,6 +123,7 @@ export function Edu() {
         {t('edu.scheduleInfo', 'Każdego dnia otwiera się jeden nowy materiał – w dniu podanym przy tytule. Wcześniejsze możesz czytać w dowolnej chwili.')}
       </p>
       <EduList />
+      <RefreshButton className="mt-6" />
     </div>
   )
 }
