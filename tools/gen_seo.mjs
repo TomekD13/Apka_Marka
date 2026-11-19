@@ -69,6 +69,7 @@ const sections = [
   ['/pl/piesni-mlodziezowe/', 'Pieśni młodzieżowe', 'Pieśni z obozów i zjazdów młodzieżowych.'],
   ['/pl/okazje/', 'Teksty na różne okazje', 'Fragment Pisma dobrany do konkretnej sytuacji.'],
   ['/pl/fiszki/', 'Ucz się wersetów na pamięć', 'Fiszki i powtórki ważnych tekstów Biblii.'],
+  ['/pl/biblijnytimeline/', 'Biblijny Timeline – zasady gry', 'Zasady rodzinnej gry karcianej Biblijny Timeline: przygotowanie, przebieg gry, daty, warianty zasad i najczęstsze pytania.'],
 ]
 for (const [path, title, desc] of sections) add({ path, title, desc, body: [desc] })
 

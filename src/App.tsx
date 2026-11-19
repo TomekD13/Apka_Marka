@@ -22,6 +22,7 @@ import { SongsPage, SongPage } from './pages/Songs'
 import { Notes, NoteEdit } from './pages/Notes'
 import { Prayers } from './pages/Prayers'
 import { PrayerTexts } from './pages/PrayerTexts'
+import { TimelineRules } from './pages/TimelineRules'
 import { Pray40, Pray40DayPage } from './pages/Pray40'
 import { Edu, EduItemPage } from './pages/Edu'
 import { Groups, GroupItemPage } from './pages/Groups'
@@ -117,6 +118,8 @@ const langRoutes: RouteObject[] = [
   { path: 'jest-nadzieja', element: <Hope /> },
   { path: 'ustawienia', element: <Settings /> },
   { path: 'kontakt', element: <Contact /> },
+  // zasady gry „Biblijny Timeline” – kod QR z karty z instrukcją, bez linku w menu (2026-11-19)
+  { path: 'biblijnytimeline', element: <TimelineRules /> },
   { path: 'konto', element: <Account /> },
   { path: 'notatki', element: <Notes /> },
   { path: 'notatki/:id', element: <NoteEdit /> },
