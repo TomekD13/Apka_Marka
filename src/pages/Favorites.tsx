@@ -127,7 +127,8 @@ export function Favorites() {
         <div className="mt-6">
           <h2 className="mb-2 text-lg font-bold text-slate-900 dark:text-white">{t('favorites.music', 'Muzyka do modlitwy')}</h2>
           <div className="space-y-1.5">
-            {[...music].sort((a, b) => a - b).map((nr) => (
+            {/* utwor zdjety z listy (np. 3 i 7 w 2026-11) nie wisi w ulubionych z samym „…” */}
+            {[...music].filter((nr) => !Object.keys(musicInfo).length || musicInfo[nr]).sort((a, b) => a - b).map((nr) => (
               <div key={nr} className={row}>
                 <MusicIcon name={musicInfo[nr]?.icon ?? 'lyre'} className="h-5 w-5 shrink-0 text-brand dark:text-sky-300" />
                 <Link to={`/${lang}/modlitwa/muzyka`} className="min-w-0 flex-1 truncate font-medium text-slate-900 hover:text-brand dark:text-white dark:hover:text-sky-300">{musicInfo[nr]?.title || '…'}</Link>
