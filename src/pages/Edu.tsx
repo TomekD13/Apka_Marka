@@ -21,9 +21,11 @@ import { EduGraphics } from '../components/EduGraphics'
 import { BETA } from '../lib/beta'
 import { ReadPill, ReadTop } from '../components/MaterialActions'
 import { RefreshButton } from '../components/RefreshButton'
-import type { EduIndex, EduItem } from '../types'
+import { eduBlocks, openByDefault } from '../lib/eduBlocks'
+import type { EduEntry, EduIndex, EduItem } from '../types'
 
 const VERSION_KEY = 'zywe-slowo:edu:version'
+const BLOCKS_KEY = 'zywe-slowo:edu:blocks'
 
 function useIndex() {
   const { lang } = useI18n()
@@ -55,11 +57,105 @@ export function EduList({ limit }: { limit?: number }) {
   if (failed) return <p className="text-sm text-slate-400">{t('edu.unavailable', 'Materiały są niedostępne.')}</p>
   if (!data) return <p className="text-sm text-slate-400">{t('common.loading', '…')}</p>
 
-  const items = limit ? data.items.slice(0, limit) : data.items
+  if (!limit) return <EduBlocks data={data} done={done} />
+
+  const items = data.items.slice(0, limit)
 
   return (
     <div className="space-y-1.5">
-      {items.map((it) => !isOpen(it) ? (
+      {items.map((it) => <EduRow key={it.nr} it={it} done={done} />)}
+      {data.items.length > limit && (
+        <Link to={`/${lang}/edukacja`} viewTransition className="mt-1 block text-sm text-brand-light hover:underline">
+          {t('edu.all', 'Wszystkie materiały')}
+        </Link>
+      )}
+    </div>
+  )
+}
+
+/** „8–14 listopada” z dat pierwszego i ostatniego materialu w bloku. */
+function dateRange(lang: string, from?: string, to?: string): string {
+  if (!from) return ''
+  try {
+    const fmt = new Intl.DateTimeFormat(lang, { day: 'numeric', month: 'long' })
+    const a = new Date(`${from}T12:00:00`)
+    if (!to || to === from) return fmt.format(a)
+    const b = new Date(`${to}T12:00:00`)
+    // formatRange („8–14 listopada”) jest od ES2021 - starsza przegladarka dostaje „8 listopada – 14 listopada”
+    const range = (fmt as Intl.DateTimeFormat & { formatRange?: (x: Date, y: Date) => string }).formatRange
+    return range ? range.call(fmt, a, b) : `${fmt.format(a)} – ${fmt.format(b)}`
+  } catch {
+    return ''
+  }
+}
+
+/** Pelny spis w blokach: biezacy rozwiniety na gorze, wczesniejsze zwiniete pod nim. */
+function EduBlocks({ data, done }: { data: EduIndex; done: Set<string> }) {
+  const { lang, t } = useI18n()
+  const ordered = eduBlocks(data.items, data.blocks)
+  const blocks = [...ordered].reverse() // najnowszy blok na gorze
+  // rozwiniete bloki pamietane do konca wizyty - powrot z materialu nie zwija starszego bloku
+  const [open, setOpen] = useState<Set<number> | null>(() => {
+    try {
+      const raw = sessionStorage.getItem(BLOCKS_KEY)
+      return raw ? new Set<number>(JSON.parse(raw)) : null
+    } catch {
+      return null
+    }
+  })
+  const shown = open ?? openByDefault(ordered)
+
+  function toggle(from: number) {
+    const s = new Set(shown)
+    if (s.has(from)) s.delete(from)
+    else s.add(from)
+    setOpen(s)
+    try { sessionStorage.setItem(BLOCKS_KEY, JSON.stringify([...s])) } catch { /* tryb prywatny */ }
+  }
+
+  return (
+    <div className="space-y-3">
+      {blocks.map((b) => {
+        const expanded = shown.has(b.from)
+        const read = b.items.filter((it) => done.has(String(it.nr))).length
+        const dates = dateRange(lang, b.items[0]?.date, b.items[b.items.length - 1]?.date)
+        return (
+          <section key={b.from}>
+            <button
+              type="button"
+              onClick={() => toggle(b.from)}
+              aria-expanded={expanded}
+              className="flex w-full items-start gap-3 rounded-xl border border-violet-400/40 bg-violet-500/10 px-3 py-2.5 text-left transition hover:border-brand"
+            >
+              <span className="min-w-0 flex-1">
+                <span className="line-clamp-2 block font-bold leading-snug text-slate-900 dark:text-slate-100">
+                  {b.title || `${t('edu.blockItems', 'Materiały')} ${b.from}–${b.to}`}
+                </span>
+                <span className="mt-0.5 block text-xs text-slate-500 dark:text-slate-400">
+                  {t('edu.blockItems', 'Materiały')} {b.from}–{b.items[b.items.length - 1].nr}
+                  {dates ? ` · ${dates}` : ''}
+                  {read > 0 ? ` · ${t('edu.blockRead', 'przeczytane')} ${read}/${b.items.length}` : ''}
+                </span>
+              </span>
+              <svg viewBox="0 0 24 24" className={`mt-0.5 h-5 w-5 shrink-0 text-slate-500 transition-transform ${expanded ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                <path d="m6 9 6 6 6-6" />
+              </svg>
+            </button>
+            {expanded && (
+              <div className="mt-1.5 space-y-1.5">
+                {b.items.map((it) => <EduRow key={it.nr} it={it} done={done} />)}
+              </div>
+            )}
+          </section>
+        )
+      })}
+    </div>
+  )
+}
+
+function EduRow({ it, done }: { it: EduEntry; done: Set<string> }) {
+  const { lang, t } = useI18n()
+  return !isOpen(it) ? (
         <div
           key={it.nr}
           aria-disabled="true"
@@ -99,14 +195,7 @@ export function EduList({ limit }: { limit?: number }) {
             </span>
           ))}
         </Link>
-      ))}
-      {limit && data.items.length > limit && (
-        <Link to={`/${lang}/edukacja`} viewTransition className="mt-1 block text-sm text-brand-light hover:underline">
-          {t('edu.all', 'Wszystkie materiały')}
-        </Link>
-      )}
-    </div>
-  )
+      )
 }
 
 export function Edu() {

@@ -51,6 +51,18 @@ PUBLISHED = 38
 # odcinek z nagraniem dostepny przed startem cyklu, reszta w swoim dniu).
 OPEN_NOW = {1}
 
+# Bloki tematyczne w spisie (decyzja autora 2026-11-20): wstep 1-10, potem tygodnie po 7.
+# W aplikacji biezacy blok jest rozwiniety, wczesniejsze zwiniete do samej nazwy.
+# Nazwa ma sie miescic w dwoch linijkach na telefonie (do ok. 36 znakow). Materialy za
+# ostatnim blokiem aplikacja sama dzieli po 7 i podpisuje „Materiały 39–45” - dopisz tu nazwe.
+BLOKI = [
+    (1, 10, "Zaprojektowani z sensem"),
+    (11, 17, "Relacje pokazują, kim jesteśmy"),
+    (18, 24, "Skąd wiem, że coś jest prawdą?"),
+    (25, 31, "Myśli, które nami rządzą"),
+    (32, 38, "Drobne gesty, wielka różnica"),
+]
+
 # Nagrania lektorskie: public/audio/edu/NNN.mp3 (robi je tools/build_edu_audio.py).
 # Katalog jest poza repo (.gitignore), wiec ten skrypt dopisuje pole `audio` tylko
 # tam, gdzie plik lezy lokalnie - uruchamiaj go na komputerze z nagraniami.
@@ -401,6 +413,7 @@ def main() -> int:
         "lang": "pl",
         "title": "Człowiek Nadziei",
         "series": "#JestNadzieja",
+        "blocks": [{"from": a, "to": b, "title": t} for a, b, t in BLOKI],
         "items": index_items,
     }
     with io.open(OUT / "index.json", "w", encoding="utf-8", newline="\n") as f:

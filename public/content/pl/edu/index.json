@@ -2,6 +2,33 @@
   "lang": "pl",
   "title": "Człowiek Nadziei",
   "series": "#JestNadzieja",
+  "blocks": [
+    {
+      "from": 1,
+      "to": 10,
+      "title": "Zaprojektowani z sensem"
+    },
+    {
+      "from": 11,
+      "to": 17,
+      "title": "Relacje pokazują, kim jesteśmy"
+    },
+    {
+      "from": 18,
+      "to": 24,
+      "title": "Skąd wiem, że coś jest prawdą?"
+    },
+    {
+      "from": 25,
+      "to": 31,
+      "title": "Myśli, które nami rządzą"
+    },
+    {
+      "from": 32,
+      "to": 38,
+      "title": "Drobne gesty, wielka różnica"
+    }
+  ],
   "items": [
     {
       "nr": 1,

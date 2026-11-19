@@ -205,7 +205,10 @@ export interface EduItem extends Omit<EduEntry, 'audio'> {
   sources?: string[]
   versions: Partial<Record<'short' | 'long', EduBody>>
 }
-export interface EduIndex { lang: string; title?: string; series?: string; items: EduEntry[] }
+/** blok tematyczny w spisie (wstep 1-10, potem tygodnie po 7) - zrodlo: BLOKI w tools/extract_edu.py */
+export interface EduBlockDef { from: number; to: number; title: string }
+
+export interface EduIndex { lang: string; title?: string; series?: string; blocks?: EduBlockDef[]; items: EduEntry[] }
 
 // --- Czytnik Biblii (`/pl/biblia`) ------------------------------------------
 // Pelny przeklad lezy w `content/{lang}/bible/{KOD}/`: `index.json` (spis ksiag)
