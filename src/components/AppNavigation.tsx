@@ -3,6 +3,7 @@ import { Link, useLocation } from 'react-router-dom'
 import { useI18n } from '../i18n'
 import { ACCOUNTS_ENABLED } from '../lib/accountGate'
 import { BETA } from '../lib/beta'
+import { TIMELINE_GAME } from '../lib/externalLinks'
 
 export type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' | 'download' | 'settings' | 'close' | 'notes' | 'memory' | 'occasion' | 'lesson' | 'group' | 'contact' | 'account' | 'heart' | 'chevron' | 'harp' | 'timeline'
 
@@ -95,6 +96,7 @@ export function AppNavigation() {
           {!BETA && <DrawerLink to={`${home}/notatki`} icon="notes" onClick={() => setOpen(false)}>{t('notes.title', 'Moje notatki biblijne')}</DrawerLink>}
           <DrawerLink to={`${home}/fiszki`} icon="memory" onClick={() => setOpen(false)}>{t('flashcards.cta', 'Ucz się wersetów na pamięć')}</DrawerLink>
           <DrawerLink to={`${home}/okazje`} icon="occasion" onClick={() => setOpen(false)}>{t('occasions.cta', 'Teksty na różne okazje')}</DrawerLink>
+          <a href={TIMELINE_GAME} target="_blank" rel="noreferrer" onClick={() => setOpen(false)} className="flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm font-medium text-slate-700 hover:bg-slate-100 dark:text-slate-100 dark:hover:bg-white/10"><AppIcon name="timeline" className="h-5 w-5 text-brand dark:text-sky-300"/>{t('timelineGame.title', 'Biblijny Timeline – gra')}</a>
         </DrawerGroup>
         <DrawerGroup icon="hope" title="#JestNadzieja" accent={BETA} open={hopeOpen} onToggle={() => setHopeOpen(!hopeOpen)}>
           <DrawerLink to={`${home}/seria`} icon="lesson" onClick={() => setOpen(false)}>{t('edu.title', 'Człowiek Nadziei')}</DrawerLink>

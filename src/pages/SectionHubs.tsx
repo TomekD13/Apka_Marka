@@ -8,6 +8,7 @@ import { PageHeading } from '../components/PageHeading'
 import { StudyCard } from '../components/StudyCard'
 import type { IndexFile } from '../types'
 import { BETA } from '../lib/beta'
+import { TIMELINE_GAME } from '../lib/externalLinks'
 
 function SectionTile({ to, href, icon, title, description }: { to?: string; href?: string; icon: IconName; title: string; description: string }) {
   const content = <><span className="rounded-xl bg-brand/10 p-3 text-brand dark:bg-sky-400/15 dark:text-sky-300"><AppIcon name={icon} className="h-7 w-7" /></span><span className="min-w-0 flex-1"><span className="block text-lg font-bold text-slate-900 dark:text-white">{title}</span><span className="mt-1 block text-sm leading-relaxed text-slate-600 dark:text-slate-300">{description}</span></span><span className="text-xl text-brand dark:text-sky-300" aria-hidden>›</span></>
@@ -25,8 +26,6 @@ function Hub({ icon, title, intro, children }: { icon: IconName; title: string; 
     <div className="mt-6 space-y-3">{children}</div>
   </section>
 }
-
-const TIMELINE_GAME = 'https://biblijny-timeline.onrender.com/'
 
 export function BibleHub() {
   const { lang, t } = useI18n()
