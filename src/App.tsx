@@ -112,8 +112,12 @@ const langRoutes: RouteObject[] = [
   { path: 'modlitwy', element: <Prayers /> },
   { path: '40-dni', element: <Pray40 /> },
   { path: '40-dni/:day', element: <Pray40DayPage /> },
-  { path: 'edukacja', element: <Edu /> },
-  { path: 'edukacja/:nr', element: <EduItemPage /> },
+  // Czlowiek Nadziei od 2026-11-20 pod /seria (decyzja autora); stare /edukacja zostaje
+  // jako przekierowanie - linki w telefonach, ulubione z zapisana sciezka, udostepnienia
+  { path: 'seria', element: <Edu /> },
+  { path: 'seria/:nr', element: <EduItemPage /> },
+  { path: 'edukacja', element: <OldEduPath /> },
+  { path: 'edukacja/:nr', element: <OldEduPath /> },
   { path: 'grupy-nadziei', element: <Groups /> },
   { path: 'grupy-nadziei/:id', element: <GroupItemPage /> },
   { path: 'poznaj-boga-i-biblie', element: <BibleStudies /> },
@@ -131,6 +135,13 @@ const langRoutes: RouteObject[] = [
   // pod /pl/..., przy dobrym - strona glowna zamiast pustego bledu routera
   { path: '*', element: <ToHome /> }
 ]
+
+/** /pl/edukacja[/:nr][?sluchaj] -> /pl/seria[/:nr][?sluchaj] */
+function OldEduPath() {
+  const { lang = 'pl', nr } = useParams()
+  const { search } = useLocation()
+  return <Navigate to={`/${lang}/seria${nr ? `/${nr}` : ''}${search}`} replace />
+}
 
 function ToHome() {
   const { lang = 'pl' } = useParams()

@@ -19,8 +19,8 @@ describe('Czlowiek Nadziei - nowy uklad tekstow', () => {
 
   it('pokazuje date, pogrubienia, pytanie na koniec i zrodla', async () => {
     render(
-      <MemoryRouter initialEntries={['/pl/edukacja/4']}>
-        <Routes><Route path="/:lang/edukacja/:nr" element={<EduItemPage />} /></Routes>
+      <MemoryRouter initialEntries={['/pl/seria/4']}>
+        <Routes><Route path="/:lang/seria/:nr" element={<EduItemPage />} /></Routes>
       </MemoryRouter>
     )
     expect(await screen.findByText('18 października, niedziela')).toBeInTheDocument()
@@ -35,8 +35,8 @@ describe('Czlowiek Nadziei - nowy uklad tekstow', () => {
     const share = vi.fn().mockResolvedValue(undefined)
     Object.defineProperty(navigator, 'share', { value: share, configurable: true })
     render(
-      <MemoryRouter initialEntries={['/pl/edukacja/4']}>
-        <Routes><Route path="/:lang/edukacja/:nr" element={<EduItemPage />} /></Routes>
+      <MemoryRouter initialEntries={['/pl/seria/4']}>
+        <Routes><Route path="/:lang/seria/:nr" element={<EduItemPage />} /></Routes>
       </MemoryRouter>
     )
     const top = await screen.findByRole('button', { name: 'Udostępnij tekst' })
@@ -50,8 +50,8 @@ describe('Czlowiek Nadziei - nowy uklad tekstow', () => {
   it('przed data pokazuje tylko informacje o dostepnosci, bez tresci', async () => {
     vi.setSystemTime(new Date('2026-10-16T10:00:00'))
     render(
-      <MemoryRouter initialEntries={['/pl/edukacja/4']}>
-        <Routes><Route path="/:lang/edukacja/:nr" element={<EduItemPage />} /></Routes>
+      <MemoryRouter initialEntries={['/pl/seria/4']}>
+        <Routes><Route path="/:lang/seria/:nr" element={<EduItemPage />} /></Routes>
       </MemoryRouter>
     )
     expect(await screen.findByText('18 października, niedziela')).toBeInTheDocument()
@@ -63,8 +63,8 @@ describe('Czlowiek Nadziei - nowy uklad tekstow', () => {
   it('odcinek 1 jest otwarty przed swoja data i ma odtwarzacz na gorze', async () => {
     vi.setSystemTime(new Date('2026-10-09T10:00:00'))
     render(
-      <MemoryRouter initialEntries={['/pl/edukacja/1']}>
-        <Routes><Route path="/:lang/edukacja/:nr" element={<EduItemPage />} /></Routes>
+      <MemoryRouter initialEntries={['/pl/seria/1']}>
+        <Routes><Route path="/:lang/seria/:nr" element={<EduItemPage />} /></Routes>
       </MemoryRouter>
     )
     expect(await screen.findByRole('button', { name: 'Odtwórz' })).toBeInTheDocument()
@@ -76,7 +76,7 @@ describe('Czlowiek Nadziei - nowy uklad tekstow', () => {
     screen.getByRole('button', { name: 'Udostępnij nagranie' }).click()
     expect(share).toHaveBeenLastCalledWith({
       text: 'Posłuchaj: Poznając projekt, poznasz Projektanta',
-      url: `${window.location.origin}/pl/edukacja/1?sluchaj`,
+      url: `${window.location.origin}/pl/seria/1?sluchaj`,
     })
     Reflect.deleteProperty(navigator, 'share')
     expect(screen.queryByText(/Ten materiał otworzy się/)).not.toBeInTheDocument()
@@ -86,7 +86,7 @@ describe('Czlowiek Nadziei - nowy uklad tekstow', () => {
   it('spis przed startem: odcinek 1 do czytania, reszta widoczna z data i klodka', async () => {
     vi.setSystemTime(new Date('2026-10-09T10:00:00'))
     render(<MemoryRouter><EduList /></MemoryRouter>)
-    expect(await screen.findByRole('link', { name: /Poznając projekt, poznasz Projektanta/ })).toHaveAttribute('href', '/pl/edukacja/1')
+    expect(await screen.findByRole('link', { name: /Poznając projekt, poznasz Projektanta/ })).toHaveAttribute('href', '/pl/seria/1')
     expect(screen.getByText('Geniusz bez pamięci. Dlaczego ośmiornice nie władają ziemią?')).toBeInTheDocument()
     expect(screen.queryByRole('link', { name: /Geniusz bez pamięci/ })).not.toBeInTheDocument()
     // wszystkie poza otwartym odcinkiem 1 - liczba rosnie z kazdym nowym materialem

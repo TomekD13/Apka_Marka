@@ -43,10 +43,10 @@ export function EduTodayActions({ index, lang }: { index: EduIndex | null; lang:
       {entry.title}
     </p>
     <div className="mt-4 grid gap-2 sm:grid-cols-2">
-      <Link to={`/${lang}/edukacja/${entry.nr}`} viewTransition className="rounded-xl bg-brand px-3 py-2.5 text-center text-sm font-semibold text-white shadow-sm transition hover:bg-brand-light dark:bg-sky-300 dark:text-slate-950">
+      <Link to={`/${lang}/seria/${entry.nr}`} viewTransition className="rounded-xl bg-brand px-3 py-2.5 text-center text-sm font-semibold text-white shadow-sm transition hover:bg-brand-light dark:bg-sky-300 dark:text-slate-950">
         {state === 'today' ? t('home.eduOpen', 'Otwórz dzisiejszy materiał') : t('home.eduOpenOther', 'Otwórz materiał')}
       </Link>
-      <Link to={`/${lang}/edukacja`} viewTransition className="rounded-xl border border-brand/40 bg-white/70 px-3 py-2.5 text-center text-sm font-semibold text-brand transition hover:border-brand hover:bg-white dark:border-sky-300/40 dark:bg-slate-950/30 dark:text-sky-200 dark:hover:border-sky-300 dark:hover:bg-slate-950/60">
+      <Link to={`/${lang}/seria`} viewTransition className="rounded-xl border border-brand/40 bg-white/70 px-3 py-2.5 text-center text-sm font-semibold text-brand transition hover:border-brand hover:bg-white dark:border-sky-300/40 dark:bg-slate-950/30 dark:text-sky-200 dark:hover:border-sky-300 dark:hover:bg-slate-950/60">
         {t('home.eduAll', 'Wszystkie materiały')}
       </Link>
     </div>

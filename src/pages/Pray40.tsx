@@ -161,7 +161,7 @@ function ContinueToEdu() {
   useEffect(() => {
     loadEdu(lang).then((d) => setFirst(d.items[0] ?? null)).catch(() => {})
   }, [lang])
-  const to = `/${lang}/edukacja/${first?.nr ?? 1}`
+  const to = `/${lang}/seria/${first?.nr ?? 1}`
   const name = t('pray40.nextName', '„Człowiek Nadziei”')
   // nazwa cyklu w tekscie zaproszenia jest linkiem do pierwszego materialu
   const [before, ...rest] = t('pray40.nextBody', 'Przez czterdzieści dni szukaliśmy nadziei w historiach biblijnych. Od czwartku, 15 października, idziemy dalej. W aplikacji startuje „Człowiek Nadziei”: codziennie nowy materiał o tym, jak jesteśmy zbudowani, jak myślimy, podejmujemy decyzje i budujemy relacje, i o tym, co mówi na ten temat Biblia. To naprawdę świetne materiały, które budują wiarę i dają wiedzę przydatną do opowiadania Ewangelii!').split(name)

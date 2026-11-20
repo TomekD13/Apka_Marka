@@ -65,7 +65,7 @@ export function EduList({ limit }: { limit?: number }) {
     <div className="space-y-1.5">
       {items.map((it) => <EduRow key={it.nr} it={it} done={done} />)}
       {data.items.length > limit && (
-        <Link to={`/${lang}/edukacja`} viewTransition className="mt-1 block text-sm text-brand-light hover:underline">
+        <Link to={`/${lang}/seria`} viewTransition className="mt-1 block text-sm text-brand-light hover:underline">
           {t('edu.all', 'Wszystkie materiały')}
         </Link>
       )}
@@ -173,7 +173,7 @@ function EduRow({ it, done }: { it: EduEntry; done: Set<string> }) {
       ) : (
         <Link
           key={it.nr}
-          to={`/${lang}/edukacja/${it.nr}`}
+          to={`/${lang}/seria/${it.nr}`}
           viewTransition
           className="flex items-start gap-3 rounded-lg border border-slate-200 bg-slate-50 px-3 py-2 text-slate-900 transition hover:border-brand hover:shadow-sm"
         >
@@ -245,7 +245,7 @@ export function EduItemPage() {
     rememberVersion(VERSION_KEY, v)
   }
 
-  const backTo = `/${lang}/edukacja`
+  const backTo = `/${lang}/seria`
 
   if (failed)
     return (
@@ -308,7 +308,7 @@ export function EduItemPage() {
           spotlight={listen}
           action={
             <ShareButton
-              url={`${window.location.origin}${import.meta.env.BASE_URL}${lang}/edukacja/${entry.nr}?sluchaj`}
+              url={`${window.location.origin}${import.meta.env.BASE_URL}${lang}/seria/${entry.nr}?sluchaj`}
               text={`${t('audio.shareText', 'Posłuchaj')}: ${entry.title}`}
               label={t('audio.share', 'Udostępnij nagranie')}
             />
@@ -379,7 +379,7 @@ export function EduItemPage() {
         <EduGraphics
           items={entry.graphics}
           nr={entry.nr}
-          pageUrl={`${window.location.origin}${import.meta.env.BASE_URL}${lang}/edukacja/${entry.nr}`}
+          pageUrl={`${window.location.origin}${import.meta.env.BASE_URL}${lang}/seria/${entry.nr}`}
         />
       )}
 
@@ -404,7 +404,7 @@ export function EduItemPage() {
 
       <nav className="no-print mt-6 flex items-center justify-between text-sm">
         {entry.nr > 1 ? (
-          <Link to={`/${lang}/edukacja/${entry.nr - 1}`} className="text-brand-light hover:underline">
+          <Link to={`/${lang}/seria/${entry.nr - 1}`} className="text-brand-light hover:underline">
             ‹ {t('edu.prev', 'Poprzedni materiał')}
           </Link>
         ) : (
@@ -415,7 +415,7 @@ export function EduItemPage() {
             {t('edu.next', 'Następny materiał')}: {nextItem.dateLabel} 🔒
           </span>
         ) : entry.nr < total ? (
-          <Link to={`/${lang}/edukacja/${entry.nr + 1}`} className="text-brand-light hover:underline">
+          <Link to={`/${lang}/seria/${entry.nr + 1}`} className="text-brand-light hover:underline">
             {t('edu.next', 'Następny materiał')} ›
           </Link>
         ) : (

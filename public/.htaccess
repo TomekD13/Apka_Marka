@@ -15,6 +15,14 @@
   # i zainstalowana beta trafiaja na strone glowna.
   RewriteRule ^beta(/.*)?$ /pl/ [R=301,L]
 
+  # Czlowiek Nadziei od 2026-11-20 pod /seria. Krotki adres /seria (do rozpowszechniania)
+  # i stare /pl/edukacja/... (linki w telefonach, udostepnienia, Google) prowadza na /pl/seria/...
+  # Na serwerze moga lezec stare katalogi pl/edukacja/ z gen_seo - przekierowanie idzie przed nimi.
+  RewriteRule ^seria/?$ /pl/seria/ [R=301,L]
+  RewriteRule ^seria/(.+)$ /pl/seria/$1 [R=301,L]
+  RewriteRule ^(pl/)?edukacja/?$ /pl/seria/ [R=301,L]
+  RewriteRule ^(pl/)?edukacja/(.+)$ /pl/seria/$2 [R=301,L]
+
   # >>> blokada nagran i grafik przed data materialu (generuje tools/extract_edu.py - nie edytuj recznie)
   RewriteCond %{TIME} <20261117100000
   RewriteRule ^(audio/edu/035\.mp3|media/edu/035[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]

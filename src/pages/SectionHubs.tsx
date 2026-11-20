@@ -26,6 +26,8 @@ function Hub({ icon, title, intro, children }: { icon: IconName; title: string; 
   </section>
 }
 
+const TIMELINE_GAME = 'https://biblijny-timeline.onrender.com/'
+
 export function BibleHub() {
   const { lang, t } = useI18n()
   return <Hub icon="book" title="Biblia" intro="Wybierz, w jaki sposób chcesz dziś spotkać się ze Słowem.">
@@ -36,6 +38,8 @@ export function BibleHub() {
     <SectionTile to={`/${lang}/notatki`} icon="notes" title="Moje notatki biblijne" description="Zapisuj myśli i wracaj do nich później." />
     <SectionTile to={`/${lang}/fiszki`} icon="memory" title="Ucz się wersetów na pamięć" description="Fiszki i powtórki ważnych tekstów." />
     <SectionTile to={`/${lang}/okazje`} icon="occasion" title="Teksty na różne okazje" description="Dobierz fragment Pisma do konkretnej sytuacji." />
+    {/* gra stoi osobno (serwer Node na Render) - link na zewnatrz, decyzja autora 2026-11-20 */}
+    <SectionTile href={TIMELINE_GAME} icon="timeline" title={t('timelineGame.title', 'Biblijny Timeline – gra')} description={t('timelineGame.desc', 'Ułóż wydarzenia biblijne w kolejności. Graj sam albo ze znajomymi na telefonach.')} />
   </Hub>
 }
 

@@ -4,7 +4,7 @@ import { useI18n } from '../i18n'
 import { ACCOUNTS_ENABLED } from '../lib/accountGate'
 import { BETA } from '../lib/beta'
 
-export type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' | 'download' | 'settings' | 'close' | 'notes' | 'memory' | 'occasion' | 'lesson' | 'group' | 'contact' | 'account' | 'heart' | 'chevron' | 'harp'
+export type IconName = 'book' | 'music' | 'prayer' | 'hope' | 'menu' | 'search' | 'download' | 'settings' | 'close' | 'notes' | 'memory' | 'occasion' | 'lesson' | 'group' | 'contact' | 'account' | 'heart' | 'chevron' | 'harp' | 'timeline'
 
 export function AppIcon({ name, className = '' }: { name: IconName; className?: string }) {
   if (name === 'prayer') {
@@ -37,6 +37,8 @@ export function AppIcon({ name, className = '' }: { name: IconName; className?: 
     heart: <path d="M16 27s-10-6.2-12.4-12.3C2 10.3 4.8 5.7 9.5 5.7c2.7 0 4.8 1.4 6.5 3.7 1.7-2.3 3.8-3.7 6.5-3.7 4.7 0 7.5 4.6 5.9 9C26 20.8 16 27 16 27z"/>,
     account: <><circle cx="16" cy="11" r="5"/><path d="M6 27c0-5.5 4.5-9.5 10-9.5s10 4 10 9.5"/></>,
     chevron: <path d="m11 7 10 9-10 9"/>,
+    // os czasu z trzema kartami - gra „Biblijny Timeline”
+    timeline: <><rect x="3" y="5" width="6.5" height="9" rx="1.2"/><rect x="12.75" y="5" width="6.5" height="9" rx="1.2"/><rect x="22.5" y="5" width="6.5" height="9" rx="1.2"/><path d="M2.5 25h27"/><path d="M6.25 14v11M16 14v11M25.75 14v11"/></>,
     harp: <><path d="M8 27V5.5"/><path d="M8 5.5c5 0 8.5 3.8 15 3 1.2-.1 2-.5 2.5-1"/><path d="M25.5 7.5 11 27"/><path d="M6 27h7"/><path d="M12 6v19.7M16 7v13.3M20 8.2v6.7"/></>,
   }
   return <svg viewBox="0 0 32 32" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" className={className} aria-hidden>{paths[name]}</svg>
@@ -95,7 +97,7 @@ export function AppNavigation() {
           <DrawerLink to={`${home}/okazje`} icon="occasion" onClick={() => setOpen(false)}>{t('occasions.cta', 'Teksty na różne okazje')}</DrawerLink>
         </DrawerGroup>
         <DrawerGroup icon="hope" title="#JestNadzieja" accent={BETA} open={hopeOpen} onToggle={() => setHopeOpen(!hopeOpen)}>
-          <DrawerLink to={`${home}/edukacja`} icon="lesson" onClick={() => setOpen(false)}>{t('edu.title', 'Człowiek Nadziei')}</DrawerLink>
+          <DrawerLink to={`${home}/seria`} icon="lesson" onClick={() => setOpen(false)}>{t('edu.title', 'Człowiek Nadziei')}</DrawerLink>
           <DrawerLink to={`${home}/grupy-nadziei`} icon="group" onClick={() => setOpen(false)}>{t('groups.title', 'Grupy Nadziei')}</DrawerLink>
           <DrawerLink to={`${home}/40-dni`} icon="prayer" onClick={() => setOpen(false)}>{t('home.pray40', '40 dni modlitwy')}</DrawerLink>
         </DrawerGroup>

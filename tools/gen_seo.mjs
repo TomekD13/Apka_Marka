@@ -63,7 +63,7 @@ const sections = [
   ['/pl/modlitwa/teksty/', 'Teksty do modlitwy', 'Uwielbienie, skrucha, prośby i wdzięczność – fragmenty Biblii do modlitwy.'],
   ['/pl/40-dni/', '40 dni modlitwy', 'Czterdzieści biblijnych historii nadziei – codzienna czytanka i pytania na każdy dzień.'],
   ['/pl/jest-nadzieja/', BRAND, 'Czytania, modlitwa i materiały, które pomagają dzielić się nadzieją.'],
-  ['/pl/edukacja/', 'Człowiek Nadziei', 'Codzienne teksty o tym, jak Bóg nas stworzył, jak myślimy, rozmawiamy i podejmujemy decyzje.'],
+  ['/pl/seria/', 'Człowiek Nadziei', 'Codzienne teksty o tym, jak Bóg nas stworzył, jak myślimy, rozmawiamy i podejmujemy decyzje.'],
   ['/pl/grupy-nadziei/', 'Grupy Nadziei', 'Gotowe spotkania dla grup domowych – fragment Biblii, rozmowa i pytania na trzech poziomach.'],
   ['/pl/piesni/', 'Pieśni', 'Śpiewnik „Śpiewajmy Panu” i pieśni młodzieżowe z tekstami i akordami.'],
   ['/pl/spiewnik/', 'Śpiewnik', 'Pieśni ze śpiewnika „Śpiewajmy Panu”.'],
@@ -95,13 +95,13 @@ for (const it of edu.items) {
   // material otwiera sie w swoim dniu - wczesniej robot nie dostaje jego tresci
   // (chyba ze jest otwarty od razu - flaga `open`, jak pierwszy odcinek)
   if (!it.open && it.date && it.date > today) {
-    add({ path: `/pl/edukacja/${it.nr}/`, title: `${it.title} – Człowiek Nadziei`, desc: `Materiał z cyklu Człowiek Nadziei – dostępny od ${it.dateLabel}.`, body: [`Dostępny od ${it.dateLabel}.`] })
+    add({ path: `/pl/seria/${it.nr}/`, title: `${it.title} – Człowiek Nadziei`, desc: `Materiał z cyklu Człowiek Nadziei – dostępny od ${it.dateLabel}.`, body: [`Dostępny od ${it.dateLabel}.`] })
     continue
   }
   const item = json(`edu/${String(it.nr).padStart(2, '0')}.json`)
   const v = item.versions.short || item.versions.long
   const paras = v.sections.flatMap((s) => s.paragraphs).slice(0, 3)
-  add({ path: `/pl/edukacja/${it.nr}/`, title: `${it.title} – Człowiek Nadziei`, desc: short(paras[0]), body: paras })
+  add({ path: `/pl/seria/${it.nr}/`, title: `${it.title} – Człowiek Nadziei`, desc: short(paras[0]), body: paras })
 }
 
 // --- Grupy Nadziei -----------------------------------------------------------------

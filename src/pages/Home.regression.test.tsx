@@ -30,8 +30,8 @@ describe('strona główna — tekst na dziś z Człowieka Nadziei', () => {
   it('przed startem cyklu prowadzi do pierwszego (otwartego) materiału i do spisu', async () => {
     render(<MemoryRouter><Home /></MemoryRouter>)
 
-    expect(await screen.findByRole('link', { name: 'Otwórz materiał' })).toHaveAttribute('href', '/pl/edukacja/1')
-    expect(screen.getByRole('link', { name: 'Wszystkie materiały' })).toHaveAttribute('href', '/pl/edukacja')
+    expect(await screen.findByRole('link', { name: 'Otwórz materiał' })).toHaveAttribute('href', '/pl/seria/1')
+    expect(screen.getByRole('link', { name: 'Wszystkie materiały' })).toHaveAttribute('href', '/pl/seria')
     expect(screen.getByText('Pierwszy materiał')).toBeInTheDocument()
   })
 })

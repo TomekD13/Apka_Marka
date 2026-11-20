@@ -16,7 +16,7 @@ describe('grafiki pod lekcja: miniatury, podglad, pelna tylko do udostepnienia',
 
   it('pod tekstem sa same miniatury i nic wiecej sie nie pobiera', () => {
     const fetchSpy = vi.spyOn(globalThis, 'fetch')
-    render(<EduGraphics items={items} nr={2} pageUrl="https://x/pl/edukacja/2" />)
+    render(<EduGraphics items={items} nr={2} pageUrl="https://x/pl/seria/2" />)
     const srcs = [...document.querySelectorAll('img')].map((i) => i.getAttribute('src'))
     expect(srcs.every((s) => s?.includes('_m.webp'))).toBe(true)
     expect(screen.queryByRole('dialog')).toBeNull()
@@ -26,7 +26,7 @@ describe('grafiki pod lekcja: miniatury, podglad, pelna tylko do udostepnienia',
   it('dotkniecie miniatury otwiera podglad i dopiero wtedy pobiera pelna grafike tej jednej', async () => {
     const user = userEvent.setup()
     const fetchSpy = vi.spyOn(globalThis, 'fetch').mockResolvedValue(new Response(new Blob(['x'], { type: 'image/jpeg' })))
-    render(<EduGraphics items={items} nr={2} pageUrl="https://x/pl/edukacja/2" />)
+    render(<EduGraphics items={items} nr={2} pageUrl="https://x/pl/seria/2" />)
     await user.click(screen.getByRole('button', { name: 'Powiększ grafikę 2' }))
     const dialog = screen.getByRole('dialog')
     expect(dialog.querySelector('img')?.getAttribute('src')).toContain('002b_d.webp')
