@@ -176,6 +176,11 @@ bezpośredni `localStorage.setItem` omija synchronizację.
 - Otwarte: CSP (sprawdzić z logowaniem Google i YouTube), ograniczenie klucza API do domeny,
   App Check.
 
+**Adres Człowieka Nadziei (2026-11-20, decyzja autora):** `/pl/seria` i `/pl/seria/NN`; krótki adres do
+rozpowszechniania `jestnadzieja.adwent.pl/seria`. Stare `/pl/edukacja/...` **zostaje na zawsze jako przekierowanie**:
+301 w `public/.htaccess` (linki w telefonach, Google) i trasa `OldEduPath` w `App.tsx` (zainstalowana PWA, ulubione
+materiały z zapisaną ścieżką). Nie usuwać żadnego z nich.
+
 **Wyszukiwarki (2026-10-04):** `tools/gen_seo.mjs` (postbuild, tylko base `/`) tworzy
 `dist/<ścieżka>/index.html` dla działów, 40 dni, Człowieka Nadziei, Grup Nadziei, lekcji
 i pieśni – z własnym tytułem, opisem, adresem kanonicznym i początkiem tekstu – oraz
