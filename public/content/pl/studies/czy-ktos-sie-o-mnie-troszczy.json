@@ -5,17 +5,18 @@
   "category": "basic_practical",
   "seriesId": "spotkanie-z-bogiem",
   "order": 1,
-  "summary": "Pierwsze spotkanie z Bogiem, który zna mnie osobiście, stworzył mnie z miłości i troszczy się o moją codzienność - punkt wyjścia do relacji, nie do religii.",
+  "summary": "Pierwsze spotkanie z Bogiem, który zna mnie osobiście, stworzył mnie z miłości i troszczy się o moją codzienność – punkt wyjścia do żywej relacji z Nim, która z czasem kształtuje wiarę i całe życie.",
   "minutes": {
     "base": 40,
-    "extended": 60
+    "extended": 80
   },
   "tags": [
     "Bóg",
     "miłość",
     "stworzenie",
     "troska",
-    "tożsamość"
+    "tożsamość",
+    "charakter Boga"
   ],
   "sections": [
     {
@@ -32,11 +33,11 @@
               "ref": "Ps 139,1-4"
             }
           ],
-          "comment": "Zanim zapytamy „czy Bóg istnieje?\", Psalm pyta inaczej: czy ktoś naprawdę mnie zna. Bóg zna każdą myśl i słowo, zanim je wypowiem.",
+          "comment": "Psalmista nie zaczyna od pytania „czy Bóg istnieje?”, tylko od wyznania: Ktoś mnie naprawdę zna. Bóg zna każdą moją myśl i każde słowo, zanim je wypowiem.",
           "questions": [
             {
               "id": "q1",
-              "text": "Co czujesz, czytając, że Ktoś zna cię aż tak dokładnie - niepokój czy ulgę? Dlaczego?"
+              "text": "Co czujesz, czytając, że Ktoś zna cię aż tak dokładnie – niepokój czy ulgę? Dlaczego?"
             }
           ]
         },
@@ -50,7 +51,7 @@
               "ref": "Ps 139,13-16"
             }
           ],
-          "comment": "Nie jestem przypadkiem ani błędem - zostałem „utkany\" i zapisany w Bożej księdze, zanim cokolwiek zrobiłem.",
+          "comment": "Nie jestem przypadkiem ani błędem. Bóg utkał mnie w łonie matki, a moje dni znał, zanim nastał pierwszy z nich.",
           "questions": [
             {
               "id": "q2",
@@ -64,7 +65,7 @@
           "id": "n1",
           "noteType": "background",
           "label": "Psalm 139 jako pocieszenie, nie zagrożenie",
-          "content": "Wszechwiedza i wszechobecność Boga w Ps 139 nie są przedstawione jako inwigilacja, lecz jako troska Tego, który zna i nie opuszcza. To klucz interpretacyjny całego psalmu: „Ty mnie przenikasz i znasz\" znaczy tu „zależy Ci na mnie\".",
+          "content": "Wszechwiedza i wszechobecność Boga nie są tu przedstawione jako inwigilacja, lecz jako troska Tego, który zna i nie opuszcza. Psalm zaczyna się i kończy tą samą parą słów: „Ty mnie przenikasz i znasz” (w. 1) i „Przeniknij mnie, Boże, poznaj moje serce” (w. 23). To, co na początku było stwierdzeniem, na końcu jest prośbą: psalmista sam zaprasza Boga, żeby go badał. Tak mówi się do Sędziego, który bada serce, tylko wtedy, gdy wie się, że jest On także Stwórcą, któremu na człowieku zależy. Dlatego w tym psalmie „znasz” znaczy tyle co „zależy Ci na mnie”. Kto doświadczył kontroli i nadzoru, może czytać te słowa z niepokojem i ma do tego prawo. Psalm nie opisuje jednak strażnika, który pilnuje, lecz Ojca, który prowadzi: „tam też poprowadzi mnie Twoja ręka” (w. 10).",
           "questions": [
             {
               "id": "q17",
@@ -77,8 +78,8 @@
           "level": "advanced",
           "id": "n2",
           "noteType": "background",
-          "label": "„w Twojej księdze zapisane dni\" (Ps 139,16)",
-          "content": "Obraz pochodzi ze świata starożytnych zwojów i ksiąg dworskich, gdzie zapisywano losy i imiona. Psalmista mówi, że Bóg „widział\" jego dni, zanim którykolwiek nastał - to poetycki sposób wyrażenia, że moje życie nie jest serią przypadków bez autora i sensu."
+          "label": "„tkany” i „zapisane w Twej księdze” (Ps 139,15-16)",
+          "content": "Słowo „tkany” (w. 15) to w hebrajskim termin rzemieślniczy: tym samym słowem Księga Wyjścia opisuje tkaczy i hafciarzy, którzy wykonywali zasłony i szaty przybytku (Wj 26,36; 28,39). Człowiek jest dziełem wykonanym z taką samą starannością jak Boże sanktuarium. Obraz Bożej księgi wraca w Biblii wiele razy (Wj 32,32-33; Ps 56,9; Ml 3,16): Bóg pamięta o człowieku i nic z jego życia Mu nie umyka. Psalmista mówi, że „wszystko zostało zapisane w Twej księdze”, zanim nastał pierwszy dzień. Nie chodzi o fatalizm ani o scenariusz, którego nie da się zmienić: Bóg wie z góry także o naszych wolnych wyborach, ale nie podejmuje ich za nas. Psalm mówi o tym, że moje życie ma Autora i sens."
         },
         {
           "type": "passage",
@@ -86,15 +87,15 @@
           "id": "u3",
           "passage": [
             {
-              "osis": "Ps.8.4-6",
-              "ref": "Ps 8,5-7"
+              "osis": "Ps.8.3-6",
+              "ref": "Ps 8,4-7"
             }
           ],
-          "comment": "Wobec ogromu wszechświata człowiek wydaje się mały - a jednak Bóg o nim pamięta i obdarza godnością.",
+          "comment": "Wobec ogromu wszechświata człowiek wydaje się mały – a jednak Bóg o nim pamięta i obdarza godnością.",
           "questions": [
             {
               "id": "q3",
-              "text": "Kiedy ostatnio czułeś się „mały\" lub nieważny? Jak brzmi na to odpowiedź Psalmu?"
+              "text": "Kiedy ostatnio czułeś się „mały” lub nieważny? Jak brzmi na to odpowiedź Psalmu?"
             }
           ]
         }
@@ -114,11 +115,11 @@
               "ref": "1 J 4,8-10"
             }
           ],
-          "comment": "Biblia nie mówi tylko, że Bóg kocha - mówi, że Bóg *jest* miłością, a dowodem jest to, że pierwszy wyszedł do nas.",
+          "comment": "Biblia nie mówi tylko, że Bóg kocha – mówi, że Bóg *jest* miłością. Dowód: to On pierwszy nas umiłował i posłał Syna. A posłał Go, „abyśmy żyli dzięki Niemu” (w. 9): nie tylko po to, by darować winy, ale by przywrócić nam życie z Bogiem.",
           "questions": [
             {
               "id": "q4",
-              "text": "Czym różni się stwierdzenie „Bóg kocha\" od „Bóg jest miłością\"?"
+              "text": "Czym różni się stwierdzenie „Bóg kocha” od „Bóg jest miłością”?"
             }
           ]
         },
@@ -127,19 +128,19 @@
           "level": "advanced",
           "id": "n3",
           "noteType": "term",
-          "label": "„Bóg jest miłością\" (1 J 4,8)",
-          "content": "W grece „miłość\" to *agapē* - miłość ofiarna, wybierająca dobro drugiego, niezależna od jego zasług. Zdanie „Bóg jest miłością\" opisuje nie tylko to, co Bóg robi, ale to, kim jest: miłość to Jego natura, nie nastrój.",
+          "label": "„Bóg jest miłością” (1 J 4,8)",
+          "content": "Zdanie „Bóg jest miłością” opisuje nie tylko to, co Bóg robi, ale to, kim jest: miłość to Jego natura, nie nastrój. Nie wynika to z samego greckiego słowa *agape*, choć często się powtarza, że oznacza ono z natury miłość ofiarną. Pokrewny czasownik *agapao* Paweł odnosi do Demasa, który „umiłował ten świat” (2 Tm 4,10), a Jan do ludzi, którzy „bardziej umiłowali ciemność niż światłość” (J 3,19). O tym, jaka jest miłość Boga, mówi dopiero to, co On zrobił: posłał Syna, zanim my Go pokochaliśmy (w. 9-10). Dlatego „ofiara przebłagalna” nie znaczy tu, że Syn musiał przekonać Ojca, by nas pokochał: tę ofiarę daje sam Bóg i daje ją z miłości (w. 10). Boża miłość nie zależy od naszych zasług, ale nie jest obojętna na odpowiedź: Bóg pragnie miłości odwzajemnionej i dlatego jej nie wymusza.",
           "original": [
             {
               "lang": "grc",
               "text": "ὁ θεὸς ἀγάπη ἐστίν",
-              "translit": "ho theos agapē estin"
+              "translit": "ho theos agape estin"
             }
           ],
           "questions": [
             {
               "id": "q18",
-              "text": "Jak rozumienie *agapē* jako miłości wybierającej (a nie odwzajemnianej) zmienia obraz Boga?"
+              "text": "Co zmienia myśl, że Bóg kocha cię pierwszy i czeka na twoją odpowiedź, ale jej nie wymusza?"
             }
           ]
         },
@@ -153,11 +154,26 @@
               "ref": "J 3,16"
             }
           ],
-          "comment": "Miłość Boga ma konkretny adres - świat, czyli także ja - i konkretną cenę: Syna.",
+          "comment": "Miłość Boga ma konkretny adres – świat, czyli także ja – i konkretną cenę: Syna.",
           "questions": [
             {
               "id": "q5",
-              "text": "Gdybyś wstawił swoje imię w miejsce „świata\", jak brzmiałby ten werset dla ciebie?"
+              "text": "Gdybyś wstawił swoje imię w miejsce „świata”, jak brzmiałby ten werset dla ciebie?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n11",
+          "noteType": "term",
+          "label": "„Jednorodzony” (J 3,16)",
+          "content": "Greckie *monogenes* znaczy „jedyny w swoim rodzaju”, „wyjątkowy”, a nie „zrodzony jako jedyny”. Gdyby Jan chciał powiedzieć o zrodzeniu, użyłby innego słowa (*monogennetos*), którego w Nowym Testamencie nie ma. Słowo „jednorodzony” weszło do przekładów za pośrednictwem łacińskiej Wulgaty z końca IV wieku. Jan mówi więc o wyjątkowej więzi Syna z Ojcem, a nie o tym, że Syn miał początek: Syn jest Bogiem od zawsze (J 1,1-2). Tym samym słowem List do Hebrajczyków nazywa Izaaka, choć Abraham miał też Izmaela: BE mówi tam o „jedynym synu” (Hbr 11,17), czyli o synu wyjątkowym, synu obietnicy. Dla tej lekcji znaczy to jedno: Bóg nie oddał kogoś z wielu, lecz Jedynego – to, co miał najdroższego.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μονογενής",
+              "translit": "monogenes"
             }
           ]
         },
@@ -175,9 +191,35 @@
           "questions": [
             {
               "id": "q6",
-              "text": "Co to znaczy dla kogoś, kto myśli, że najpierw musi „zasłużyć\", by Bóg go pokochał?"
+              "text": "Co to znaczy dla kogoś, kto myśli, że najpierw musi „zasłużyć”, by Bóg go pokochał?"
             }
           ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Gen.3.1-5",
+              "ref": "Rdz 3,1-5"
+            }
+          ],
+          "comment": "Bóg dał ludziom owoce wszystkich drzew z jednym wyjątkiem, a wąż pyta tak, jakby zabronił wszystkich: pierwsza pokusa nie podważa istnienia Boga, tylko Jego dobroć. Na to stare pytanie – czy Bóg naprawdę chce mojego dobra – odpowiada krzyż, o którym mówił poprzedni tekst (Rz 5,8).",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Kiedy najtrudniej ci uwierzyć, że Bóg naprawdę chce twojego dobra?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n12",
+          "noteType": "background",
+          "label": "spór o charakter Boga (Rdz 3; J 14,9)",
+          "content": "Przez całą Biblię toczy się jeden spór: jaki naprawdę jest Bóg. Nazywamy go wielkim bojem. Otwiera go wąż, w którym Apokalipsa rozpoznaje szatana (Ap 12,9). Nie mówi on, że Boga nie ma. Mówi, że Bóg kłamie („Na pewno nie umrzecie”) i że coś dobrego zatrzymuje dla siebie („Ale Bóg wie, że (...)”). Oszczerstwa nie da się odeprzeć siłą: siła może przestraszyć, ale nikogo nie przekona, że ktoś jest dobry. Dlatego Bóg odpowiada tym, kim jest: posyła Syna, który mówi: „Kto Mnie zobaczył, zobaczył Ojca” (J 14,9), i który umarł za nas, „gdy byliśmy jeszcze grzesznikami” (Rz 5,8). Ten wątek rozwija studium 3, „Skąd zło i cierpienie?”."
         },
         {
           "type": "passage",
@@ -189,11 +231,11 @@
               "ref": "Jr 31,3"
             }
           ],
-          "comment": "Boża miłość nie jest chwilowym uczuciem - jest „wieczna\", uparta, szukająca.",
+          "comment": "Boża miłość nie jest chwilowym uczuciem – jest „wieczna”, uparta, szukająca.",
           "questions": [
             {
               "id": "q7",
-              "text": "Co znaczy, że ktoś kocha cię „miłością wieczną\", a nie zależną od twojej formy?"
+              "text": "Co znaczy, że ktoś kocha cię „wieczną miłością”, a nie zależną od twojej formy?"
             }
           ]
         },
@@ -202,13 +244,13 @@
           "level": "advanced",
           "id": "n4",
           "noteType": "term",
-          "label": "„miłość wieczna\" i „łaskawość\" (Jr 31,3)",
-          "content": "„Ukochałem cię miłością wieczną\" to hebr. *ahavat olam* - miłość trwała, bez terminu ważności. Następne słowo, oddawane jako „łaskawość\" lub „przyciągnąłem cię\", to *chesed* - wierna, przymierzowa dobroć Boga, która nie odpuszcza. To nie sentyment, lecz zobowiązanie.",
+          "label": "„wieczna miłość” i *chesed* (Jr 31,3)",
+          "content": "„Wieczna miłość” to po hebrajsku *ahawat olam*: miłość trwała, bez terminu ważności. W drugiej części wersetu stoi *chesed* (w BE: „łaska”): wierna, przymierzowa dobroć Boga, która się nie poddaje. BE oddaje to zdanie słowami „nadal rozciągam łaskę nad tobą”; część przekładów mówi tu o przyciąganiu: Bóg przyciąga człowieka do siebie swoją łaską. Różnica bierze się z hebrajskiego czasownika: znaczy on „pociągnąć”, ale także „przedłużyć, rozciągnąć”. W obu wersjach *chesed* to coś, co Bóg robi, a nie tylko czuje: nie sentyment, lecz zobowiązanie.",
           "original": [
             {
               "lang": "hbo",
               "text": "אַהֲבַת עוֹלָם",
-              "translit": "ahavat olam"
+              "translit": "ahawat olam"
             },
             {
               "lang": "hbo",
@@ -227,7 +269,7 @@
               "ref": "Łk 15,20"
             }
           ],
-          "comment": "W przypowieści to ojciec wybiega pierwszy - obraz Boga, który nie czeka z założonymi rękami.",
+          "comment": "W przypowieści to ojciec wybiega pierwszy – obraz Boga, który nie czeka z założonymi rękami. Grecki czasownik, który BE oddaje tu słowami „wzruszył się do głębi”, Ewangelie poza przypowieściami odnoszą tylko do Jezusa: ojciec z tej opowieści ma Jego serce.",
           "questions": [
             {
               "id": "q8",
@@ -241,7 +283,25 @@
           "id": "n5",
           "noteType": "background",
           "label": "dlaczego bieg ojca był skandalem (Łk 15,20)",
-          "content": "W kulturze Bliskiego Wschodu dostojny, starszy mężczyzna nie biegał publicznie - musiałby podkasać szatę i odsłonić nogi, co uchodziło za upokarzające. Ojciec z przypowieści bierze ten wstyd na siebie, byle pierwszy dobiec do syna. To celowy obraz Boga, który rezygnuje z „godności z dystansu\", aby nas odzyskać."
+          "content": "W kulturze Bliskiego Wschodu dostojny, starszy mężczyzna nie biegał publicznie: musiałby podkasać szatę i odsłonić nogi, co uchodziło za upokarzające. Ojciec z przypowieści bierze ten wstyd na siebie, byle jak najszybciej być przy synu. Nie daje mu też dokończyć przeprosin: każe przynieść „najlepszą szatę” – zapewne własną – i pierścień, zapewne sygnet, znak władzy w domu (w. 22). Przywraca synowi miejsce w domu, choć ten niczym na nie nie zasłużył. To celowy obraz Boga, który rezygnuje z „godności z dystansu”, aby nas odzyskać."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u21",
+          "passage": [
+            {
+              "osis": "Luke.15.28-32",
+              "ref": "Łk 15,28-32"
+            }
+          ],
+          "comment": "Ojciec z przypowieści wychodzi z domu drugi raz – tym razem do syna, który nigdy nie odszedł: „wyszedł i zapraszał go” (w. 28). Starszy syn latami był przy ojcu, a jednak uważa, że ojciec o niego nie dba: „tyle lat ci służę i nigdy nie przekroczyłem twego przykazania, a ty ani razu nie dałeś mi koźlęcia” (w. 29). Ojciec nie podważa jego posłuszeństwa. Ale syn mówi o sobie jak sługa, który czeka na zapłatę, a ojciec nazywa go inaczej: „Dziecko, ty zawsze jesteś ze mną i wszystko, co moje, jest twoje” (w. 31).",
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Czy znasz to uczucie: staram się, robię, co trzeba, a nikt tego nie widzi – może nawet Bóg? Co odpowiada na to ojciec z przypowieści?"
+            }
+          ]
         }
       ]
     },
@@ -259,11 +319,11 @@
               "ref": "Mt 6,26"
             }
           ],
-          "comment": "Jeśli Bóg karmi ptaki, to tym bardziej zależy Mu na tobie - jesteś od nich cenniejszy.",
+          "comment": "Jeśli Bóg karmi ptaki, to tym bardziej zależy Mu na tobie – jesteś od nich cenniejszy.",
           "questions": [
             {
               "id": "q9",
-              "text": "O co najczęściej się martwisz? Jak zmienia to spojrzenie świadomość Bożej troski?"
+              "text": "O co najczęściej się martwisz? Na ile potrafisz uwierzyć, że Bóg o tym wie i że Mu na tobie zależy?"
             }
           ]
         },
@@ -277,11 +337,11 @@
               "ref": "Mt 6,31-33"
             }
           ],
-          "comment": "Bóg nie obiecuje życia bez potrzeb, lecz Ojca, który „wie\", i zaprasza, by szukać najpierw Jego.",
+          "comment": "Jezus nie mówi, że potrzeby znikną. Mówi, że Ojciec je „zna”, i na tej trosce opiera zaproszenie, by zaufać Mu i najpierw szukać Jego Królestwa.",
           "questions": [
             {
               "id": "q10",
-              "text": "Co praktycznie znaczyłoby „szukać najpierw Królestwa\" w twoim tygodniu?"
+              "text": "Co praktycznie znaczyłoby dla ciebie szukać najpierw Bożego Królestwa, czyli stawiać Boga i to, na czym Mu zależy, na pierwszym miejscu?"
             }
           ]
         },
@@ -290,8 +350,26 @@
           "level": "advanced",
           "id": "n6",
           "noteType": "background",
-          "label": "„nie martwcie się\" to nie wezwanie do bierności (Mt 6)",
-          "content": "W Kazaniu na Górze „nie martwcie się\" nie znaczy „nie planujcie\", lecz „nie dajcie się rozedrzeć niepokojowi\". „Szukajcie więc najpierw Królestwa Boga\" mówi o priorytecie, nie o kolejności w czasie: chodzi o to, co jest na pierwszym miejscu, a nie o porzucenie pracy i obowiązków."
+          "label": "„nie martwcie się” to nie wezwanie do bierności (Mt 6)",
+          "content": "W Kazaniu na Górze „nie martwcie się” nie znaczy „nie planujcie”, lecz „nie pozwólcie, żeby rządził wami niepokój”. Jezus powtarza to wezwanie trzy razy (w. 25, 31 i 34): zmartwienia nie przegania się jednym poleceniem. „Szukajcie więc najpierw Królestwa Boga” mówi o priorytecie, nie o kolejności w czasie: chodzi o to, co jest na pierwszym miejscu, a nie o porzucenie pracy i obowiązków."
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "Rom.8.31-32",
+              "ref": "Rz 8,31-32"
+            }
+          ],
+          "comment": "Paweł rozumuje od większego do mniejszego: skoro Bóg „nawet własnego Syna nie oszczędził”, tym bardziej zatroszczy się o wszystko inne. Krzyż jest najmocniejszym dowodem na to, że Bóg nie jest obojętny na moje potrzeby.",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Jeśli Bóg oddał za ciebie Syna, co to mówi o twoich codziennych potrzebach?"
+            }
+          ]
         },
         {
           "type": "passage",
@@ -303,11 +381,11 @@
               "ref": "1 P 5,7"
             }
           ],
-          "comment": "Troskę można „złożyć\" na Boga - bo naprawdę Mu na tobie zależy.",
+          "comment": "Każdą troskę można zrzucić na Boga – bo naprawdę Mu na tobie zależy.",
           "questions": [
             {
               "id": "q11",
-              "text": "Jaką jedną troskę chciałbyś dziś „złożyć\" na Boga?"
+              "text": "Jaką jedną troskę chciałbyś dziś zrzucić na Boga?"
             }
           ]
         },
@@ -316,8 +394,8 @@
           "level": "advanced",
           "id": "n7",
           "noteType": "term",
-          "label": "„całą troskę złóżcie na Niego\" (1 P 5,7)",
-          "content": "„Troska\" to gr. *merimna* - rozdzierająca myśl, niepokój, który rozprasza. Czasownik oddawany jako „złożyć\" to *epiriptō*, dosłownie „przerzucić\" (jak ciężar zrzucany z własnych pleców na kogoś silniejszego). Obraz jest fizyczny: nie „radź sobie z lękiem\", lecz „przerzuć go na Tego, komu na tobie zależy\".",
+          "label": "„Każdą swoją troskę zrzućcie na Niego” (1 P 5,7)",
+          "content": "„Troska” to gr. *merimna*: niepokój, uporczywe zmartwienie. Piotr nie wymyśla tego obrazu, tylko powtarza Psalm 55. W greckim przekładzie Starego Testamentu (Septuagincie) stoją tam te same dwa słowa, *merimna* i *epiripto*, a po polsku brzmi to tak: „Zrzuć swoją troskę na PANA, a On cię podtrzyma” (Ps 55,23). Czasownik *epiripto* znaczy „zrzucić”, „rzucić na kogoś” – jak ciężar zdjęty z własnych pleców i złożony na barkach kogoś silniejszego. W grece to wezwanie jest dalszym ciągiem w. 6: „Uniżcie się więc pod silną ręką Boga”, zrzucając na Niego troskę. Pokora polega tu na tym, że nie dźwiga się wszystkiego samemu.",
           "original": [
             {
               "lang": "grc",
@@ -327,7 +405,7 @@
             {
               "lang": "grc",
               "text": "ἐπιρίπτω",
-              "translit": "epiriptō"
+              "translit": "epiripto"
             }
           ]
         },
@@ -341,11 +419,47 @@
               "ref": "Łk 12,6-7"
             }
           ],
-          "comment": "Policzone włosy to obraz uwagi do najmniejszego szczegółu twojego życia.",
+          "comment": "Za jednego asa kupowało się dwa wróble (Mt 10,29), a za dwa asy – pięć: piątego dorzucano za darmo. Bóg nie zapomina nawet o nim, a policzone włosy mówią, że widzi najmniejszy szczegół twojego życia.",
           "questions": [
             {
               "id": "q12",
-              "text": "Czy łatwiej ci wierzyć w Boga „od wielkich spraw\" czy w Boga uważnego na drobiazgi?"
+              "text": "Czy łatwiej ci wierzyć w Boga „od wielkich spraw” czy w Boga uważnego na drobiazgi?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "Isa.49.14-16",
+              "ref": "Iz 49,14-16"
+            }
+          ],
+          "comment": "Bóg odpowiada na skargę: „mój Pan o mnie zapomniał”. Ludzka pamięć może zawieść nawet tam, gdzie wydaje się najpewniejsza – u matki. Boża nie zawodzi: „Wyryłem cię na dłoniach”.",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Co znaczy dla ciebie, że Bóg o tobie nie zapomina, nawet gdy zawodzą najbliżsi?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u20",
+          "passage": [
+            {
+              "osis": "John.16.33",
+              "ref": "J 16,33"
+            }
+          ],
+          "comment": "Jezus nie obiecuje życia bez kłopotów („Na świecie będziecie mieć ucisk”), lecz „pokój we Mnie”. Ten pokój ma podstawę: „Ja zwyciężyłem świat”.",
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Przypomnij sobie trudny czas. Czego wtedy oczekiwałeś od Boga, a co obiecuje tu Jezus?"
             }
           ]
         }
@@ -365,11 +479,11 @@
               "ref": "Rdz 1,27"
             }
           ],
-          "comment": "Człowiek jest stworzony „na obraz Boży\" - stąd jego wyjątkowa wartość i zdolność do relacji.",
+          "comment": "Człowiek jest stworzony „na obraz Boży” – stąd jego wyjątkowa wartość. Bóg stworzył go tak, żeby mógł Go znać i żyć z Nim w relacji.",
           "questions": [
             {
               "id": "q13",
-              "text": "Jeśli noszę „obraz Boży\", co to mówi o wartości każdego człowieka, także mojej?"
+              "text": "Jeśli noszę „obraz Boży”, co to mówi o wartości każdego człowieka, także mojej?"
             }
           ]
         },
@@ -378,8 +492,8 @@
           "level": "advanced",
           "id": "n8",
           "noteType": "term",
-          "label": "„obraz Boży\" (Rdz 1,27)",
-          "content": "Hebrajskie *celem* („obraz\") to słowo używane też o posągu reprezentującym władcę w odległej prowincji. Człowiek jest „posągiem\" Boga w stworzeniu: reprezentuje Go i jest powołany do relacji z Nim. To fundament ludzkiej godności - niezależnej od osiągnięć, sprawności czy opinii innych.",
+          "label": "„obraz Boży” (Rdz 1,27)",
+          "content": "Hebrajskie *celem* („obraz”) to słowo, którym w starożytności nazywano przede wszystkim posągi bóstw stojące w świątyniach; królowie stawiali też swoje wizerunki w podbitych krajach jako znak władzy. W Babilonie i Egipcie „obrazem boga” nazywano tylko króla, a Biblia mówi tak o każdym mężczyźnie i każdej kobiecie. I odwraca kierunek: to nie ludzie robią bogów na swój obraz, lecz Bóg stwarza człowieka na swój. W świecie, który Bóg stworzył jak swoją świątynię, człowiek jest Jego żywym wizerunkiem: reprezentuje Go i jest stworzony do relacji z Nim. To fundament ludzkiej godności, niezależnej od osiągnięć, sprawności czy opinii innych.",
           "original": [
             {
               "lang": "hbo",
@@ -398,11 +512,11 @@
               "ref": "Iz 43,1"
             }
           ],
-          "comment": "Bóg woła po imieniu i mówi „należysz do Mnie\" - to język relacji, nie anonimowej religii.",
+          "comment": "Te słowa słyszy lud, który od Boga odszedł: „nie chcieliśmy chodzić Jego drogami” (Iz 42,24). Bóg tego nie przemilcza, ale też nie czeka, aż lud się opamięta: woła po imieniu i mówi „należysz do Mnie” – to język relacji, nie anonimowej religii.",
           "questions": [
             {
               "id": "q14",
-              "text": "Co znaczyłoby usłyszeć od Boga swoje własne imię i słowa „należysz do Mnie\"?"
+              "text": "Co znaczyłoby usłyszeć od Boga swoje własne imię i słowa „należysz do Mnie”?"
             }
           ]
         },
@@ -412,12 +526,12 @@
           "id": "n9",
           "noteType": "term",
           "label": "cztery czasowniki bliskości (Iz 43,1)",
-          "content": "W jednym wersecie Bóg mówi: „stworzyłem\" (*bara*), „ukształtowałem\" (*jacar*), „odkupiłem\" (*ga'al*) i „wezwałem po imieniu\". *Ga'al* to termin z prawa rodzinnego: „wykupiciel\" (go'el) to bliski krewny, który spłacał dług i ratował swojego. Bóg nie jest tu odległym Stwórcą, lecz Krewnym, który bierze odpowiedzialność za swojego.",
+          "content": "W jednym wersecie Bóg przedstawia się jako Ten, który Jakuba „stworzył” (*bara*) i „ukształtował” (*jacar*), a potem mówi o sobie: „odkupiłem” (*gaal*) i „wezwałem po imieniu”. *Gaal* to termin z prawa rodzinnego: „wykupiciel” (*goel*) to najbliższy krewny, który miał prawo wykupu, spłacał dług i ratował krewnego w potrzebie (Kpł 25,25; Rt 4). Bóg jest tu nie tylko Stwórcą, lecz także Krewnym, który bierze odpowiedzialność za swoich.",
           "original": [
             {
               "lang": "hbo",
               "text": "גָּאַל",
-              "translit": "ga'al"
+              "translit": "gaal"
             }
           ]
         },
@@ -431,11 +545,11 @@
               "ref": "Dz 17,24-28"
             }
           ],
-          "comment": "Bóg Stwórca nie jest daleki - „W Nim przecież żyjemy, poruszamy się i jesteśmy\", a On chce być znaleziony.",
+          "comment": "Bóg Stwórca nie jest daleki – „W Nim przecież żyjemy, poruszamy się i jesteśmy” – i chce, żebyśmy Go znaleźli.",
           "questions": [
             {
               "id": "q15",
-              "text": "Co w tym tekście mówi, że Bóg jest blisko, mimo że Go nie widzimy?"
+              "text": "Paweł mówi o szukaniu Boga „po omacku”. Jak wyglądało albo wygląda twoje szukanie?"
             }
           ]
         },
@@ -444,8 +558,8 @@
           "level": "advanced",
           "id": "n10",
           "noteType": "background",
-          "label": "Paweł cytuje pogańskiego poetę (Dz 17,28)",
-          "content": "Na ateńskim Areopagu Paweł, mówiąc do niechrześcijan, sięga po ich własną kulturę: „jego rodu jesteśmy\" to cytat z greckiego poety Aratosa. Zamiast zaczynać od potępienia, buduje most: Stwórca jest tak blisko, że nawet pogańscy poeci coś z tego przeczuli. Wzór mówienia o Bogu językiem zrozumiałym dla słuchacza.",
+          "label": "Paweł cytuje greckich poetów (Dz 17,28)",
+          "content": "Na ateńskim Areopagu Paweł mówi do ludzi, którzy nie znali Pisma, więc nie zaczyna od cytatów z Biblii, tylko sięga po ich własną kulturę. Sam zaznacza, że przytacza „niektórych z waszych poetów”. Słowa „W Nim przecież żyjemy, poruszamy się i jesteśmy” tradycja przypisuje kreteńskiemu poecie Epimenidesowi, a zdanie „Jesteśmy bowiem z Jego rodu” stoi niemal dosłownie u Aratosa, greckiego poety z III wieku przed Chr. Zamiast zaczynać od potępienia, Paweł buduje most: Stwórca jest tak blisko, że nawet pogańscy poeci coś z tego przeczuli. Na tym jednak nie poprzestaje: kończy wezwaniem do nawrócenia i zapowiedzią sądu, który Bóg powierzył Człowiekowi wskrzeszonemu z martwych, czyli Jezusowi (w. 30-31).",
           "original": [
             {
               "lang": "grc",
@@ -464,11 +578,11 @@
               "ref": "1 J 3,1"
             }
           ],
-          "comment": "Cel tej miłości to nie podziw z dystansu, lecz nazwanie nas dziećmi Boga.",
+          "comment": "Bóg nie chce, żebyśmy podziwiali Go z daleka: nazywa nas swoimi dziećmi i naprawdę nimi jesteśmy. Ten dar otrzymuje każdy, kto przyjmuje Jezusa i w Niego wierzy, czyli Mu ufa (J 1,12).",
           "questions": [
             {
               "id": "q16",
-              "text": "Co zmienia w relacji z Bogiem przejście od „Stwórca\" do „Ojciec\"?"
+              "text": "Jak brzmi dla ciebie słowo „Ojciec”, gdy mówisz je o Bogu? Co ci to ułatwia, a co utrudnia?"
             }
           ]
         }
@@ -476,13 +590,14 @@
     }
   ],
   "application": {
-    "text": "Bóg nie jest odległym sędzią ani bezosobową siłą. Zna cię po imieniu, stworzył cię z zamysłu i miłości, i troszczy się o twoją codzienność. Wiara nie zaczyna się od wysiłku, żeby zasłużyć - zaczyna się od przyjęcia, że jesteś chciany i kochany.",
-    "challenge": "Przez najbliższy tydzień zapisuj każdego dnia jedną rzecz, w której dostrzegasz Bożą troskę o ciebie. Raz w tym tygodniu „złóż\" na Boga jedną konkretną troskę (1 P 5,7) - wypowiedz ją Mu wprost."
+    "text": "Bóg nie jest chłodnym obserwatorem ani bezosobową siłą. Jest Stwórcą, Ojcem i Odkupicielem: stworzył cię z zamysłu i z miłości, zna cię po imieniu, dał za ciebie swojego Syna i troszczy się o twoją codzienność – także wtedy, gdy przychodzą trudności (J 16,33). Wiara nie zaczyna się od wysiłku, żeby zasłużyć. Zaczyna się od przyjęcia, że jesteś chciany i kochany. Przyjęta miłość nie zostawia człowieka w miejscu: rodzi zaufanie, a z zaufania wyrasta przemiana i posłuszeństwo – odpowiedź, a nie zapłata.",
+    "challenge": "Zapisuj każdego dnia jedną rzecz, w której widzisz, że Bóg o ciebie dba. Wybierz też jedną konkretną troskę i zrzuć ją na Boga (1 P 5,7): powiedz Mu o niej wprost, własnymi słowami."
   },
   "meta": {
-    "status": "draft",
-    "needsReview": true,
+    "status": "reviewed",
+    "needsReview": false,
     "generatedBy": "claude",
-    "notes": "status: draft needsReview: true generatedBy: claude notes: Ciekawostki PRO (10) rozłożone w sekcjach, przy tekstach, których dotyczą (nie na końcu). Źródła tła doktrynalnego: `books/_txt/00103 Doctrine of God`, `00111 Creation` (handbook ADS). Formy oryginalne (PRO) do weryfikacji u recenzenta: `ἀγάπη` (1 J 4,8); `אַהֲבַת עוֹלָם`, `חֶסֶד` (Jr 31,3); `μέριμνα`, `ἐπιρίπτω` (1 P 5,7); `צֶלֶם` (Rdz 1,27); `גָּאַל` (Iz 43,1); cytat `τοῦ γὰρ καὶ γένος ἐσμέν` (Dz 17,28, Aratos) potwierdzić zapis i transliterację. Tło kulturowe do potwierdzenia: zwyczaj „biegnącego ojca\" (Łk 15,20) jako uchybienie godności starszego mężczyzny na Bliskim Wschodzie. Tekst wersetów celowo NIE jest wstawiony tylko odnośniki (osis + ref); treść dociągana z przekładu."
+    "notes": "Przegląd 21.11.2026: zgodność cytatów z BE, filtr SDA (M01, M13, T15; ABC, Peckham, Handbook), baza smaczków, krytyka i korekta językowa. Transliteracja PL: hebrajski zapisem polskim, grecki łacińskim bez znaków diakrytycznych. Tekst wersetów celowo NIE jest wstawiony – tylko odnośniki (osis + ref). 22.11.2026: akcent relacyjny (grzech jako odwrócenie się od Boga, wiara jako zaufanie), nowa jednostka Łk 15,28-32.",
+    "reviewed": "2026-11-22"
   }
 }

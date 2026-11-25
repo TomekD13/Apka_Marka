@@ -5,10 +5,10 @@
   "category": "basic_practical",
   "seriesId": "spotkanie-z-bogiem",
   "order": 4,
-  "summary": "Grzech to nie tylko lista złych uczynków, lecz zerwana więź z Bogiem - utracone zaufanie, z którego wyrastają konkretne grzechy. Skutkiem jest oddzielenie i śmierć, a Bożą odpowiedzią jest krzyż: Jezus zajął moje miejsce, by przywrócić relację. Posłuszeństwo jest owocem pojednania, nie jego warunkiem.",
+  "summary": "Grzech to nie tylko zrobienie czegoś złego, lecz przede wszystkim odwrócenie się od Boga – zerwanie relacji, z którego wynikają wszystkie złe czyny. Kończy się śmiercią, bo poza Dawcą życia nie ma życia. Dlaczego więc Jezus musiał umrzeć? Bo Bóg nie przymyka oczu na zło, a zarazem nie chce nas stracić: na krzyżu Jezus zajął nasze miejsce, a Bóg pojednał nas ze sobą. Posłuszeństwo jest owocem tego pojednania, nie jego warunkiem.",
   "minutes": {
-    "base": 40,
-    "extended": 60
+    "base": 50,
+    "extended": 75
   },
   "tags": [
     "grzech",
@@ -16,6 +16,7 @@
     "krzyż",
     "pojednanie",
     "śmierć Jezusa",
+    "zastępstwo",
     "zaufanie",
     "odkupienie"
   ],
@@ -34,11 +35,11 @@
               "ref": "Iz 59,2"
             }
           ],
-          "comment": "Istota grzechu to oddzielenie: „wasze winy są tym, co was odłącza od Boga\". Problemem nie jest najpierw złamana reguła, lecz utracona bliskość.",
+          "comment": "Żeby zrozumieć, dlaczego Jezus musiał umrzeć, trzeba najpierw zobaczyć, czym jest grzech. Prorok mówi wprost: „wasze winy są przeszkodą pomiędzy wami i waszym Bogiem”. Grzech to coś więcej niż złamany przepis: to życie odwrócone od Boga, w którym każda wina staje między Nim a człowiekiem i odbiera bliskość – grzechy „zakrywają Jego twarz”.",
           "questions": [
             {
               "id": "q1",
-              "text": "Czy myślałeś dotąd o grzechu bardziej jako o „złamaniu przepisu\", czy jako o „zerwaniu relacji\"? Co zmienia ta druga perspektywa?"
+              "text": "Czy myślałeś dotąd o grzechu bardziej jako o złamaniu przepisu, czy jako o zerwaniu relacji? Co zmienia spojrzenie na grzech jako na przeszkodę między tobą a Bogiem?"
             }
           ]
         },
@@ -52,11 +53,11 @@
               "ref": "Rdz 3,8-10"
             }
           ],
-          "comment": "Pierwszym skutkiem grzechu nie jest kara, lecz ukrycie się i lęk przed Bogiem. Człowiek ucieka od Tego, z którym dotąd chodził w bliskości.",
+          "comment": "Pierwszym skutkiem grzechu nie jest kara, lecz lęk i ucieczka: „przestraszyłem się (...) i się schowałem”. Chwilę wcześniej pękło zaufanie do Bożej dobroci (Rdz 3,1-6 – studium 3); teraz człowiek chowa się przed Tym, z którym dotąd był blisko. A Bóg nie odchodzi – przychodzi i woła: „Gdzie jesteś?”.",
           "questions": [
             {
               "id": "q2",
-              "text": "Dlaczego po grzechu człowiek zaczął się Boga bać i przed Nim chować, zamiast do Niego pobiec?"
+              "text": "Dlaczego po grzechu człowiek zaczął się Boga bać i przed Nim chować, zamiast do Niego pobiec? Co mówi o Bogu to, że pierwszy przyszedł i zawołał?"
             }
           ]
         },
@@ -70,17 +71,17 @@
               "ref": "Iz 53,6"
             }
           ],
-          "comment": "Grzech (liczba pojedyncza) opisany jest jako kierunek: „każdy z nas zwrócił się ku własnej drodze\". To samocentryczność, odwrócenie się od Boga ku sobie.",
+          "comment": "Grzech jest tu opisany jako kierunek: „każdy skierował się na własną drogę”. To życie skupione na sobie zamiast na Bogu. I dotyczy wszystkich: „Pobłądziliśmy wszyscy jak owce”. Ale ten sam werset kończy się zapowiedzią ratunku: „PAN go obarczył winą nas wszystkich” – do tego zdania wrócimy przy krzyżu.",
           "questions": [
             {
               "id": "q3",
-              "text": "Jak rozpoznajesz w sobie tendencję, by „iść własną drogą\" zamiast Bożą - nawet gdy nikt nie patrzy?"
+              "text": "Gdzie rozpoznajesz w sobie skłonność, by kierować się „na własną drogę”, a nie Bożą – zwłaszcza wtedy, gdy nikt nie patrzy?"
             }
           ]
         },
         {
           "type": "passage",
-          "level": "extended",
+          "level": "base",
           "id": "u4",
           "passage": [
             {
@@ -88,7 +89,7 @@
               "ref": "J 16,9"
             }
           ],
-          "comment": "Jezus definiuje grzech najgłębiej: „grzech... że we Mnie nie wierzą\". Korzeniem jest brak zaufania do Boga, nie pojedynczy zły czyn.",
+          "comment": "Jezus zapowiada, że Duch Święty „przekona świat o grzechu” (w. 8), i podaje powód: „bo nie wierzą we Mnie”. Nie wymienia zabójstwa ani kłamstwa – wskazuje to, co leży pod nimi: brak zaufania. Chodzi o zaufanie serca, nie o samą zgodę rozumu, bo przecież „i demony wierzą, i drżą” (Jk 2,19). Gdzie tego zaufania nie ma, człowiek żyje z dala od Boga, nawet jeśli na zewnątrz wszystko wygląda porządnie. Z tego korzenia wyrastają grzechy.",
           "questions": [
             {
               "id": "q4",
@@ -97,13 +98,36 @@
           ]
         },
         {
+          "type": "passage",
+          "level": "extended",
+          "id": "u21",
+          "passage": [
+            {
+              "osis": "1John.3.4",
+              "ref": "1 J 3,4"
+            }
+          ],
+          "comment": "Ten werset bywa czytany jako definicja: grzech to złamanie przepisu. Ale Jan mówi najpierw: „Każdy, kto grzeszy, dopuszcza się bezprawia”. Kolejność jest ważna: najpierw grzech – życie odwrócone od Boga – potem łamanie przykazań. Bezprawie jest tym, jak zerwana więź wygląda na zewnątrz. Samo prawo nie przestaje przy tym obowiązywać: opisuje miłość do Boga i do bliźniego, na której „opiera się całe Prawo i Prorocy” (Mt 22,40). Dlatego złamane przykazanie jest zawsze znakiem zranionej więzi – i odwrotnie: „Miłość jest więc wypełnieniem Prawa” (Rz 13,10).",
+          "questions": [
+            {
+              "id": "q5",
+              "text": "Nad czym pracujesz bardziej – nad pojedynczymi grzechami czy nad relacją z Jezusem? Co by się zmieniło, gdyby kolejność się odwróciła?"
+            }
+          ]
+        },
+        {
           "type": "note",
           "level": "advanced",
           "id": "n1",
           "noteType": "term",
-          "label": "„grzech\" jako chybienie celu",
-          "content": "Najczęstsze biblijne słowo na grzech (hebr. *chatta't*, gr. *hamartia*) niesie obraz „chybienia celu, minięcia się z celem\". Celem człowieka jest życie w zaufaniu i relacji z Bogiem (por. J 16,9); grzech (liczba pojedyncza) to rozminięcie się z tym celem - zerwana więź, z której dopiero wynikają poszczególne grzechy (liczba mnoga). Dlatego Ewangelia leczy najpierw relację, a nie tylko koryguje zachowania.",
+          "label": "„grzech” jako chybienie celu (*chattat*, *hamartia*)",
+          "content": "Najczęstsze biblijne słowa na grzech, hebr. *chattat* i gr. *hamartia*, często objaśnia się obrazem chybienia celu. Ma on oparcie w tekście: czasownik, od którego pochodzi hebrajskie *chattat* (*chata*), opisuje procarzy z plemienia Beniamina, z których każdy „rzucał z procy kamieniem do włosa i nie chybiał” (Sdz 20,16). W większości miejsc słowo znaczy po prostu „grzeszyć”, więc to obraz, nie definicja – ale trafny: grzech to minięcie się z tym, do czego człowiek został stworzony. Podobnie Paweł: „wszyscy zgrzeszyli i są pozbawieni chwały Boga” (Rz 3,23) – brak im tego, do czego zostali stworzeni. W tym obrazie grzech (liczba pojedyncza) to stan rozminięcia z Bogiem, z którego dopiero wynikają grzechy (liczba mnoga). Ciekawostka: *chattat* oznacza też „ofiarę za grzech” – w Kpł 4,3 słowo pada w obu znaczeniach. Wrócimy do tego przy 2 Kor 5,21.",
           "original": [
+            {
+              "lang": "hbo",
+              "text": "חַטָּאת",
+              "translit": "chattat"
+            },
             {
               "lang": "grc",
               "text": "ἁμαρτία",
@@ -112,8 +136,8 @@
           ],
           "questions": [
             {
-              "id": "q17",
-              "text": "Jak obraz „chybienia celu, którym jest relacja z Bogiem\" porządkuje rozumienie grzechu jako stanu, a nie tylko serii czynów?"
+              "id": "q6",
+              "text": "Jak obraz chybienia celu porządkuje rozumienie grzechu jako stanu, a nie tylko serii czynów?"
             }
           ]
         }
@@ -121,7 +145,7 @@
     },
     {
       "id": "s2",
-      "heading": "Grzech (liczba pojedyncza) a grzechy (liczba mnoga): korzeń i owoce",
+      "heading": "Grzech i grzechy: korzeń i owoce",
       "items": [
         {
           "type": "passage",
@@ -133,11 +157,11 @@
               "ref": "Mk 7,21-23"
             }
           ],
-          "comment": "Złe czyny („grzechy\", liczba mnoga) wypływają „z wnętrza, z serca\". Są objawami choroby, nie samą chorobą - owocem zepsutego korzenia.",
+          "comment": "Jezus mówi, że złe czyny rodzą się „we wnętrzu (...), w ludzkim sercu”. Lista jest długa, ale wniosek jeden: „Całe to zło pochodzi z wnętrza człowieka”. Grzechy (liczba mnoga) są owocami, nie korzeniem. Korzeniem jest serce odwrócone od Boga.",
           "questions": [
             {
-              "id": "q5",
-              "text": "Co by się zmieniło, gdybyśmy leczyli „korzeń\" (serce), a nie tylko walczyli z pojedynczymi „owocami\"?"
+              "id": "q7",
+              "text": "Co by się zmieniło, gdybyś zamiast walczyć z pojedynczymi owocami, zaczął od pytania o korzeń: jak daleko moje serce jest od Boga?"
             }
           ]
         },
@@ -147,7 +171,7 @@
           "id": "n2",
           "noteType": "term",
           "label": "trzy hebrajskie słowa na grzech",
-          "content": "Stary Testament opisuje grzech trzema głównymi słowami, które razem oddają jego pełnię: *chatta't* (chybienie celu), *pesza* (bunt, świadome przekroczenie, złamanie relacji z władzą) i *awon* (skrzywienie, wina, „pokręcenie\" tego, co miało być proste). Grzech jest więc zarazem pomyłką, buntem i wypaczeniem - nie tylko „błędem\", lecz zranieniem relacji na kilku poziomach.",
+          "content": "Stary Testament opisuje grzech trzema głównymi słowami, które razem oddają jego pełnię: *chattat* (chybienie celu), *pesza* (bunt, świadome przekroczenie, zerwanie lojalności – tak Bóg skarży się na swój lud: „Wychowałem synów i ich wywyższyłem, a oni zbuntowali się przeciwko Mnie”, Iz 1,2) i *awon* (skrzywienie, wina – to, co miało być proste, a zostało pokręcone). Wszystkie trzy rdzenie spotykają się w dwóch pierwszych wersetach Psalmu 32, i to w zdaniach o przebaczeniu: „Szczęśliwy, komu odpuszczono przewinienie, którego grzech został zakryty. Szczęśliwy człowiek, któremu PAN nie poczytuje winy” (Ps 32,1-2) – kolejno *pesza*, słowo z rodziny *chattat* i *awon*. Grzech jest zarazem chybieniem, buntem i wypaczeniem, ale we wszystkich trzech chodzi najpierw o Boga. Dawid, choć skrzywdził Batszebę i Uriasza, wyznaje: „Zgrzeszyłem przeciw Tobie samemu” (Ps 51,6). Boże przebaczenie sięga wszystkich trzech.",
           "original": [
             {
               "lang": "hbo",
@@ -158,6 +182,12 @@
               "lang": "hbo",
               "text": "עָוֺן",
               "translit": "awon"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q8",
+              "text": "Który z trzech obrazów grzechu – chybienie, bunt czy skrzywienie – najlepiej opisuje twoje doświadczenie? Co znaczy, że przebaczenie obejmuje wszystkie trzy?"
             }
           ]
         },
@@ -171,11 +201,11 @@
               "ref": "Jr 17,9"
             }
           ],
-          "comment": "Serce człowieka jest „zwodnicze\" i samo siebie nie uleczy. Dlatego problemu grzechu nie da się rozwiązać samą poprawą zachowania.",
+          "comment": "Jeremiasz mówi, że serce jest „nie do uleczenia” – samo siebie nie naprawi. Dlatego problemu grzechu nie da się rozwiązać samą poprawą zachowania: potrzebne jest nowe serce, a to daje tylko Bóg (Ez 36,26 – studium 6).",
           "questions": [
             {
-              "id": "q6",
-              "text": "Dlaczego „bardziej się starać\" nie wystarcza, jeśli problem siedzi w sercu, a nie tylko w czynach?"
+              "id": "q9",
+              "text": "Dlaczego „bardziej się starać” nie wystarcza, jeśli problem siedzi w sercu, a nie tylko w czynach?"
             }
           ]
         },
@@ -184,12 +214,12 @@
           "level": "advanced",
           "id": "n3",
           "noteType": "background",
-          "label": "grzech „czai się u drzwi\" (Rdz 4,7)",
-          "content": "Tuż przed pierwszym zabójstwem Bóg ostrzega Kaina, że grzech „leży u drzwi\" i „czyha\" na niego - obraz drapieżnika gotowego do skoku, którego trzeba „opanować\". To jeden z pierwszych w Biblii opisów grzechu jako wrogiej siły, nie tylko pojedynczego czynu: coś, co chce nas „dopaść\" i podporządkować, a nie neutralna „pomyłka\".",
+          "label": "grzech „czający się w pobliżu” (Rdz 4,7)",
+          "content": "Tuż przed pierwszym zabójstwem Bóg ostrzega Kaina: „grzech czający się w pobliżu skusi cię, ty zaś masz nad nim panować”. To pierwsze miejsce w Biblii, w którym pada słowo „grzech” – i od razu jako coś żywego. Hebrajski czasownik mówi o zwierzęciu, które przywarło do ziemi; tym samym słowem Jakub opisuje Judę, który „czai jak lew” (Rdz 49,9). Grzech jest więc wrogą siłą, która chce człowieka opanować, a nie neutralną pomyłką. (Niektórzy komentatorzy czytają ten werset inaczej: skoro *chattat* znaczy też „ofiarę za grzech”, Bóg mógłby wskazywać Kainowi ofiarę leżącą tuż obok. To odczyt mniejszościowy.) Najważniejsze jest jednak, kto mówi i kiedy: Bóg przychodzi do Kaina przed zbrodnią, pyta i ostrzega. Grzech nie jest przeznaczeniem – Kain ma nad nim „panować”. Ale Kain nie odpowiada Bogu ani słowem; mówi już tylko do brata: „Chodźmy na pole!” (w. 8), a opowieść kończy się zdaniem: „Kain odszedł więc sprzed oblicza PANA” (w. 16). Tekst nie mówi, że grzech był nie do pokonania. Pokazuje człowieka, który w decydującej chwili przestał rozmawiać z Bogiem.",
           "questions": [
             {
-              "id": "q18",
-              "text": "Co zmienia w walce z pokusą obraz grzechu jako „czyhającego drapieżnika\", którego trzeba opanować, zanim on opanuje nas?"
+              "id": "q10",
+              "text": "Bóg rozmawia z Kainem, zanim ten cokolwiek zrobi. Co zmienia w twoim myśleniu o pokusie to, że pierwszym ruchem nie musi być walka w pojedynkę, lecz rozmowa z Bogiem?"
             }
           ]
         },
@@ -203,44 +233,11 @@
               "ref": "Rz 7,18-19"
             }
           ],
-          "comment": "Nawet Paweł wyznaje rozdarcie: „nie czynię dobra, którego chcę\". To opis bezsilności człowieka wobec grzechu jako siły, nie tylko serii pomyłek.",
+          "comment": "Paweł wyznaje rozdarcie: „Nie czynię bowiem dobra, którego chcę, ale dokonuję zła, którego nie chcę”. Komentatorzy spierają się, czy opisuje życie przed nawróceniem, czy po nim, ale doświadczenie jest wspólne wszystkim: grzech jest siłą, z którą sami nie wygramy. Wyjście pokazuje dopiero w. 25: „Dzięki niech będą Bogu przez Jezusa Chrystusa”.",
           "questions": [
             {
-              "id": "q7",
-              "text": "Czy znasz to doświadczenie „chcę dobrze, a wychodzi inaczej\"? Co ono mówi o naszej potrzebie pomocy z zewnątrz?"
-            }
-          ]
-        },
-        {
-          "type": "passage",
-          "level": "extended",
-          "id": "u8",
-          "passage": [
-            {
-              "osis": "Rom.3.23",
-              "ref": "Rz 3,23"
-            }
-          ],
-          "comment": "„Wszyscy zgrzeszyli i są pozbawieni chwały Bożej.\" Problem jest powszechny - nikt nie stoi poza nim i nikt nie zbawi się sam.",
-          "questions": [
-            {
-              "id": "q8",
-              "text": "Co daje świadomość, że w problemie grzechu wszyscy jesteśmy „na równi\" i wszyscy potrzebujemy tej samej łaski?"
-            }
-          ]
-        },
-        {
-          "type": "note",
-          "level": "advanced",
-          "id": "n4",
-          "noteType": "term",
-          "label": "„odkupienie\" jako wykup z niewoli (Rz 3,24)",
-          "content": "Zaraz po „wszyscy zgrzeszyli\" pada rozwiązanie: usprawiedliwieni „przez odkupienie w Chrystusie\". Greckie *apolytrōsis* to obraz z rynku niewolników i jeńców: wykupienie kogoś na wolność za zapłaconą cenę. Grzech nie jest więc tylko „długiem na koncie\", lecz niewolą, z której sami nie wyjdziemy - potrzebny jest Ktoś, kto zapłaci wykup i wyprowadzi nas na wolność.",
-          "original": [
-            {
-              "lang": "grc",
-              "text": "ἀπολύτρωσις",
-              "translit": "apolytrōsis"
+              "id": "q11",
+              "text": "Czy znasz to doświadczenie „chcę dobrze, a wychodzi inaczej”? Co ono mówi o naszej potrzebie pomocy z zewnątrz?"
             }
           ]
         }
@@ -248,7 +245,7 @@
     },
     {
       "id": "s3",
-      "heading": "Skutek: oddzielenie i śmierć",
+      "heading": "Z dala od Dawcy życia: śmierć",
       "items": [
         {
           "type": "passage",
@@ -260,11 +257,11 @@
               "ref": "Rz 6,23"
             }
           ],
-          "comment": "„Zapłatą za grzech jest śmierć\" - naturalny skutek oderwania od Dawcy życia. Ale to samo zdanie mówi też o „darze\": życiu wiecznym w Chrystusie.",
+          "comment": "„Zapłatą (...) za grzech jest śmierć”. Kto odchodzi od Dawcy życia, odchodzi od życia – i to Bóg, jako Sędzia, wydaje ten wyrok: sprawiedliwie, nie z kaprysu. Paweł przeciwstawia tej śmierci „życie wieczne”; chodzi więc o coś więcej niż kres ziemskich dni: o ostateczną utratę życia. A życie wieczne to według Jezusa więź: „aby poznali Ciebie, jedynego prawdziwego Boga” (J 17,3). Dlatego jest „darem łaski”, a nie zapłatą.",
           "questions": [
             {
-              "id": "q9",
-              "text": "Dlaczego śmierć jest „skutkiem\" oddzielenia od Boga, a nie tylko arbitralną karą?"
+              "id": "q12",
+              "text": "Jeśli życie wieczne to więź z Bogiem (J 17,3), to czym jest śmierć, o której mówi Paweł? Co zmienia to, że w tym samym zdaniu stoi słowo „dar”?"
             }
           ]
         },
@@ -273,13 +270,13 @@
           "level": "advanced",
           "id": "n5",
           "noteType": "term",
-          "label": "„zapłata\" to żołnierski żołd (Rz 6,23)",
-          "content": "Słowo oddane jako „zapłata\" (gr. *opsōnion*) oznaczało żołd wypłacany żołnierzowi - to, co się komuś należy za służbę. Grzechowi „należy się\" śmierć jako wypracowany skutek. Paweł celowo zestawia to z drugą połową wersetu: życie wieczne nie jest „żołdem\", lecz *charisma* - darem łaski. Jedno się zarabia, drugie można tylko przyjąć.",
+          "label": "„zapłata” to żołnierski żołd (Rz 6,23)",
+          "content": "Słowo oddane jako „zapłata” (gr. *opsonion*) oznaczało żołd wypłacany żołnierzowi – to, co się komuś należy za służbę. Cały ten fragment mówi o tym, komu człowiek służy: „jesteście niewolnikami tego, czemu jesteście posłuszni” (Rz 6,16). Nie chodzi więc o sumę pojedynczych przewinień, lecz o to, pod czyją władzą się żyje: grzech płaci swoim sługom śmiercią. Paweł celowo zestawia to z drugą połową wersetu: życie wieczne nie jest „żołdem”, lecz darem łaski (gr. *charisma*). U jednego pana dostaje się żołd, u drugiego – dar, którego nie da się wypracować.",
           "original": [
             {
               "lang": "grc",
               "text": "ὀψώνιον",
-              "translit": "opsōnion"
+              "translit": "opsonion"
             }
           ]
         },
@@ -293,11 +290,25 @@
               "ref": "Ez 18,4"
             }
           ],
-          "comment": "Bóg traktuje grzech poważnie - nie bagatelizuje go. Zerwanie z Życiem prowadzi do śmierci; to nie jest „drobiazg do przeoczenia\".",
+          "comment": "Bóg mówi: „każde życie jest Moje” – i dlatego grzech, który odcina od Niego, prowadzi do śmierci: „Ta osoba, która grzeszy, ta umrze”. Bóg traktuje grzech poważnie, bo traktuje poważnie życie.",
           "questions": [
             {
-              "id": "q10",
+              "id": "q13",
               "text": "Jak pogodzić to, że Bóg jest miłością, z tym, że traktuje grzech śmiertelnie poważnie?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "czy dziedziczymy winę Adama? (Ez 18,20; Rz 5,12)",
+          "content": "W tradycji chrześcijańskiej mówi się tu o „grzechu pierworodnym”, który bywa rozumiany jako wina odziedziczona po Adamie. Ezechiel mówi jednak wyraźnie: „Syn nie poniesie winy ojca, ojciec nie poniesie winy syna” (Ez 18,20). Paweł pisze, że „przez jednego człowieka grzech przyszedł na świat, i przez grzech śmierć, tak też na wszystkich ludzi przeszła śmierć, bo wszyscy zgrzeszyli” (Rz 5,12): po Adamie przechodzi na nas śmierć, a winni jesteśmy tego, co sami zrobiliśmy. Dziedziczymy więc nie jego winę, lecz naturę osłabioną i skłonną do grzechu oraz śmiertelność. Tak można czytać także wyznanie Dawida: „urodziłem się obciążony winą” (Ps 51,7). W modlitwie skruchy za własny grzech mówi o naturze skażonej od samego początku, nie przypisuje sobie winy Adama. Każdy odpowiada za własne grzechy – i każdy potrzebuje tego samego Zbawiciela, bo ta skłonność jest silniejsza od niego.",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Co zmienia to rozróżnienie: nie rodzę się winny grzechu Adama, ale rodzę się ze skłonnością do grzechu, która jest silniejsza ode mnie?"
             }
           ]
         },
@@ -311,11 +322,11 @@
               "ref": "Iz 64,5"
             }
           ],
-          "comment": "Nawet nasze „sprawiedliwe uczynki\" nie zasypią przepaści - same z siebie są „jak skażona szata\". Potrzebny jest ktoś, kto przerzuci most z drugiej strony.",
+          "comment": "Nawet „wszystkie nasze sprawiedliwe czyny były jak skrwawiona szata”. Własnymi zasługami nie zasypiemy przepaści. Potrzebny jest ktoś, kto przerzuci most z drugiej strony.",
           "questions": [
             {
-              "id": "q11",
-              "text": "Co znaczy, że nie da się „dobrymi uczynkami\" odkupić zerwanej relacji z Bogiem?"
+              "id": "q15",
+              "text": "Co znaczy, że zerwanej relacji z Bogiem nie da się odkupić dobrymi uczynkami?"
             }
           ]
         }
@@ -328,18 +339,44 @@
         {
           "type": "passage",
           "level": "base",
-          "id": "u12",
+          "id": "u22",
           "passage": [
             {
-              "osis": "Rom.5.8",
-              "ref": "Rz 5,8"
+              "osis": "Mark.10.45",
+              "ref": "Mk 10,45"
             }
           ],
-          "comment": "Bóg nie czekał, aż się poprawimy. „Gdy byliśmy jeszcze grzesznikami, Chrystus za nas umarł\" - inicjatywa jest po stronie Boga.",
+          "comment": "Jezus kilkakrotnie zapowiadał swoją śmierć i mówił, że „musi wiele wycierpieć” (Mk 8,31). Tu sam mówi, po co: przyszedł, „aby służyć i oddać swoje życie jako okup za wielu”. To „musi” nie jest przymusem z zewnątrz – o swoim życiu mówi: „Nikt Mi go nie odbiera, lecz sam dobrowolnie je oddaję” (J 10,18). A okup płaci się po to, żeby kogoś odzyskać: Jezus oddaje życie, żeby ludzie mogli wrócić do Boga wolni.",
           "questions": [
             {
-              "id": "q12",
-              "text": "Co mówi o Bogu to, że wyszedł z rozwiązaniem, zanim w ogóle o nie poprosiliśmy?"
+              "id": "q16",
+              "text": "Jezus mówi, że przyszedł nie po to, by Mu służono, lecz by oddać życie. Co to odwrócenie ról mówi o Bogu, którego Jezus pokazuje?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n4",
+          "noteType": "term",
+          "label": "„okup” i „odkupienie” – cena wolności (Mk 10,45; Rz 3,24)",
+          "content": "Greckie *lytron* („okup”) to słowo z rynku niewolników i jeńców: cena, za którą ktoś odzyskuje wolność. Przyimek *anti* („za wielu”) znaczy dosłownie „zamiast”, „w miejsce”. Jezus płaci swoim życiem w miejsce wielu. Paweł używa pokrewnego słowa *apolytrosis*: jesteśmy usprawiedliwieni „przez odkupienie w Jezusie Chrystusie” (Rz 3,24). Grzech nie jest więc tylko „długiem na koncie”, lecz niewolą, z której sami nie wyjdziemy. Pismo nie mówi, komu zapłacono – to nie opis handlowej transakcji. Mówi o cenie i o jej skutku: wolności.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "λύτρον",
+              "translit": "lytron"
+            },
+            {
+              "lang": "grc",
+              "text": "ἀπολύτρωσις",
+              "translit": "apolytrosis"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q17",
+              "text": "Z jakiej niewoli – myśli, nawyku, lęku – najbardziej potrzebujesz wykupu? Co znaczy, że cenę już zapłacono?"
             }
           ]
         },
@@ -353,11 +390,11 @@
               "ref": "Iz 53,4-5"
             }
           ],
-          "comment": "„On został przebity za nasze grzechy (...) dzięki jego ranom doznaliśmy uzdrowienia\". Jezus dobrowolnie wziął na siebie skutek, który należał się nam.",
+          "comment": "Izajasz napisał to kilkaset lat przed Jezusem o tajemniczym słudze Boga; Nowy Testament rozpoznaje w nim Jezusa. Sługa cierpi nie za swoje winy, lecz za nasze – to jest sens zdania, które odłożyliśmy wcześniej: „PAN go obarczył winą nas wszystkich” (Iz 53,6). I od razu widać cel: „dzięki jego ranom doznaliśmy uzdrowienia”. Nie chodzi tylko o to, żeby ktoś poniósł karę, lecz o to, żeby zbłąkani mogli wrócić.",
           "questions": [
             {
-              "id": "q13",
-              "text": "Co czujesz, czytając, że cierpienie, które należało się tobie, wziął na siebie Ktoś inny - dobrowolnie?"
+              "id": "q18",
+              "text": "Co czujesz, czytając, że cierpienie, które należało się tobie, wziął na siebie Ktoś inny – dobrowolnie?"
             }
           ]
         },
@@ -367,11 +404,11 @@
           "id": "n6",
           "noteType": "background",
           "label": "pieśń o cierpiącym Słudze (Iz 52,13-53,12)",
-          "content": "Iz 53 to jedna z „pieśni o Słudze Pańskim\". Opisuje Kogoś, kto cierpi nie za własne winy, lecz „za nasze przestępstwa\", i przez to wielu „usprawiedliwia\". Nowy Testament odczytuje ten fragment wprost o Jezusie (np. Dz 8,32-35; 1 P 2,22-25). To jeden z najmocniejszych pomostów między ST a krzyżem: zastępcze cierpienie zapowiedziane wieki przed Golgotą.",
+          "content": "Iz 52,13-53,12 to ostatnia i najpełniejsza z „pieśni o Słudze Pańskim”. Opisuje Kogoś, kto cierpi nie za własne winy, lecz „za nasze grzechy”, oddaje „swe życie na ofiarę zadośćuczynienia” (53,10) i przez to „usprawiedliwi wielu” (53,11). Mało który fragment Starego Testamentu jest tak często przywoływany w Nowym. Filip wychodzi od niego, by opowiedzieć etiopskiemu dworzaninowi „Dobrą Nowinę o Jezusie” (Dz 8,32-35), a Piotr przykłada jego słowa do swoich czytelników: „Byliście bowiem jak owce, które się błąkają” (1 P 2,25; por. Iz 53,6). Nowy Testament widzi tu zapowiedź zastępczego cierpienia Jezusa, spisaną wieki przed Golgotą.",
           "questions": [
             {
               "id": "q19",
-              "text": "Co znaczy, że Boża odpowiedź na grzech - cierpiący w nasze miejsce Sługa - była zapowiedziana na długo przed krzyżem?"
+              "text": "Co znaczy, że Boża odpowiedź na grzech – cierpiący w nasze miejsce Sługa – była zapowiedziana na długo przed krzyżem?"
             }
           ]
         },
@@ -385,11 +422,11 @@
               "ref": "1 P 2,24"
             }
           ],
-          "comment": "Jezus „w swoim ciele poniósł nasze grzechy na drzewo\" - byśmy mogli „umrzeć dla grzechu, a żyć dla sprawiedliwości\". Krzyż nie tylko przebacza, ale uwalnia.",
+          "comment": "Piotr sięga po słowa Izajasza, które przed chwilą czytaliśmy, i mówi je wprost o Jezusie: „w swoim ciele poniósł nasze grzechy na drzewo”, czyli na krzyż. Ponieść grzech znaczy wziąć na siebie jego skutek i wyrok. Po co? „Abyśmy martwi dla grzechu, żyli dla sprawiedliwości” – a rozdział dalej Piotr mówi to jeszcze prościej: „sprawiedliwy za niesprawiedliwych, aby przyprowadzić was do Boga” (1 P 3,18). Krzyż nie tylko przebacza. Przyprowadza z powrotem.",
           "questions": [
             {
-              "id": "q14",
-              "text": "Czym różni się przebaczenie, które tylko „skreśla winę\", od takiego, które uwalnia do nowego życia?"
+              "id": "q20",
+              "text": "Czym różni się przebaczenie, które tylko „skreśla winę”, od takiego, które uwalnia do nowego życia?"
             }
           ]
         },
@@ -398,8 +435,8 @@
           "level": "advanced",
           "id": "n7",
           "noteType": "background",
-          "label": "„przeklęty na drzewie\" (1 P 2,24)",
-          "content": "Wyrażenie „poniósł grzechy na drzewo\" sięga Pwt 21,23: „przeklęty każdy, kto wisi na drzewie\". Paweł odnosi to wprost do krzyża: „Chrystus wykupił nas... stawszy się za nas przekleństwem\" (Ga 3,13). Jezus zajął nie tylko nasze miejsce w śmierci, ale i pod „przekleństwem\" należnym grzechowi - po to, by błogosławieństwo mogło spłynąć na nas."
+          "label": "„wisielec jest przeklęty” (Pwt 21,23; Ga 3,13)",
+          "content": "Wyrażenie „poniósł nasze grzechy na drzewo” najpewniej nawiązuje do Pwt 21,23: „wisielec jest przeklęty przez Boga”. Paweł odnosi to wprost do krzyża: „Chrystus wykupił nas od przekleństwa Prawa, gdyż stał się za nas przekleństwem, jak napisano: Przeklęty każdy, kto wisi na drzewie” (Ga 3,13). Chodzi o przekleństwo, które Prawo zapowiada temu, „kto nie zachowuje wszystkich przepisów” (Ga 3,10). Jezus zajął nasze miejsce nie tylko w śmierci, ale i pod tym przekleństwem – po to, by „błogosławieństwo Abrahama” mogło przyjść na nas (Ga 3,14)."
         },
         {
           "type": "passage",
@@ -411,11 +448,47 @@
               "ref": "2 Kor 5,21"
             }
           ],
-          "comment": "Wielka wymiana: Bezgrzeszny „stał się grzechem za nas, abyśmy w Nim stali się sprawiedliwością Bożą\". On bierze moje, ja otrzymuję Jego.",
+          "comment": "Wielka wymiana: Bóg „Tego, który nie znał grzechu, uczynił grzechem, abyśmy w Nim stali się sprawiedliwością Bożą”. Wielu komentatorów rozumie „uczynił grzechem” jako „uczynił ofiarą za grzech”: w Starym Testamencie jedno hebrajskie słowo oznacza i grzech, i składaną za niego ofiarę (np. Kpł 4,3). Jezus bierze to, co moje, ja otrzymuję to, co Jego – ale zwróć uwagę na słowa „w Nim”. To coś więcej niż zamiana zapisów na koncie: Jego sprawiedliwość ma ten, kto jest z Nim związany.",
           "questions": [
             {
-              "id": "q15",
-              "text": "Co znaczy dla ciebie, że na krzyżu nastąpiła „wymiana\": moja wina za Jego sprawiedliwość?"
+              "id": "q21",
+              "text": "Paweł nie pisze, że dostajemy sprawiedliwość „od Niego”, lecz że stajemy się nią „w Nim”. Co to dla ciebie znaczy: być związanym z Jezusem, a nie tylko coś od Niego mieć?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u24",
+          "passage": [
+            {
+              "osis": "Mark.15.34",
+              "ref": "Mk 15,34"
+            }
+          ],
+          "comment": "Na krzyżu Jezus woła słowami Psalmu 22 (w. 2): „Boże mój, Boże mój, dlaczego Mnie opuściłeś?”. Grzech oddziela od Boga (Iz 59,2) – i to oddzielenie Jezus wziął na siebie: przeżył je jako opuszczenie. Ojciec jednak nie odwrócił się od Syna. Ten sam psalm mówi dalej, że Bóg „nie zakrył przed nim swojego oblicza. Wysłuchał go, gdy ten wołał do Niego o pomoc” (Ps 22,25), a ostatnie słowa Jezusa to znów: „Ojcze, w Twoje ręce powierzam Mojego ducha” (Łk 23,46). Jezus zaznał oddzielenia, abyśmy my nie musieli go zaznać na zawsze.",
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Jezus nie wahał się wołać do Boga z poczuciem opuszczenia. Co to znaczy dla twoich chwil, w których Bóg wydaje się daleko?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u23",
+          "passage": [
+            {
+              "osis": "Rom.3.25-26",
+              "ref": "Rz 3,25-26"
+            }
+          ],
+          "comment": "Tu Paweł odpowiada na pytanie tej lekcji. Czy Bóg nie mógł po prostu przebaczyć? Gdyby przymknął oczy na zło, nie byłby sprawiedliwy. Gdyby zostawił nas z wyrokiem, straciłby nas na zawsze. Na krzyżu nie zrobił ani jednego, ani drugiego: grzech został osądzony z całą powagą, ale wyrok wziął na siebie Jezus. Trudne słowo „przebłaganie” nie znaczy więc, że ludzie musieli Boga udobruchać – to sam Bóg „ustanowił” tę ofiarę, bo chciał nas odzyskać, nie przestając być sprawiedliwy: „aby okazało się, że On sam jest sprawiedliwy i usprawiedliwia tego, kto wierzy w Jezusa” (czyli przyjmuje go jako sprawiedliwego – o tym studium 5).",
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Dlaczego przebaczenie, które udaje, że zła nie było, nie byłoby ani sprawiedliwe, ani naprawdę dobre dla skrzywdzonych?"
             }
           ]
         },
@@ -423,14 +496,20 @@
           "type": "note",
           "level": "advanced",
           "id": "n8",
-          "noteType": "background",
-          "label": "krzyż a Dzień Pojednania (przebłaganie)",
-          "content": "Tło „wymiany\" z 2 Kor 5,21 to starotestamentowy Dzień Pojednania (Kpł 16): grzech ludu był symbolicznie przenoszony na ofiarę, a krew wnoszono do najświętszego miejsca. Nowy Testament nazywa Jezusa „przebłaganiem\" (gr. *hilastērion* - to samo słowo, którym Septuaginta oddaje „przebłagalnię\", wieko Arki, gdzie dokonywano pojednania, Rz 3,25). Krzyż jest spełnieniem tego, co świątynia tylko zapowiadała.",
+          "noteType": "term",
+          "label": "„narzędzie przebłagania” (Rz 3,25)",
+          "content": "Słowo oddane w BE jako „narzędzie przebłagania” (gr. *hilasterion*) występuje w Nowym Testamencie jeszcze tylko raz: w Hbr 9,5 oznacza „przebłagalnię”, wieko Arki Przymierza, które kropiono krwią w Dniu Pojednania (o świątyni i przebłagalni – studium 18). Czy Paweł myśli tu o samej przebłagalni, czy szerzej o ofierze przebłagalnej – komentatorzy się różnią; BE wybiera „narzędzie przebłagania”. Ważniejsze jest, kto tu działa: to Bóg „ustanowił” Jezusa ofiarą przebłagalną. Biblijny Bóg nie jest bóstwem, które człowiek musi udobruchać darami. Jego gniew na zło jest prawdziwy (Rz 1,18), ale ofiarę daje On sam – i dlatego krzyż objawia zarazem Bożą sprawiedliwość wobec grzechu i Bożą miłość do grzesznika.",
           "original": [
             {
               "lang": "grc",
               "text": "ἱλαστήριον",
-              "translit": "hilastērion"
+              "translit": "hilasterion"
+            }
+          ],
+          "questions": [
+            {
+              "id": "q24",
+              "text": "Co zmienia w obrazie Boga to, że ofiarę przebłagalną daje On sam, zamiast jej od nas żądać?"
             }
           ]
         },
@@ -444,11 +523,11 @@
               "ref": "J 15,13"
             }
           ],
-          "comment": "„Nikt nie ma większej miłości niż ta, gdy ktoś daje swoje życie za swoich przyjaciół\". Krzyż jest najwyższym dowodem miłości, nie gniewu.",
+          "comment": "Jezus mówi to uczniom wieczorem przed śmiercią i zaraz dodaje: „Nazwałem was przyjaciółmi” (w. 15). Paweł dopowie, że umarł także za nieprzyjaciół (Rz 5,10). Krzyż pokazuje, jak poważny jest grzech, ale przede wszystkim – jak bardzo Bóg nas kocha i jak bardzo chce nas mieć blisko.",
           "questions": [
             {
-              "id": "q16",
-              "text": "Jak to, że krzyż jest dowodem miłości (a nie złości Boga), zmienia obraz całego chrześcijaństwa?"
+              "id": "q25",
+              "text": "Jak to, że krzyż jest przede wszystkim dowodem miłości, zmienia obraz Boga i całego chrześcijaństwa?"
             }
           ]
         }
@@ -468,11 +547,11 @@
               "ref": "2 Kor 5,18-19"
             }
           ],
-          "comment": "Sercem krzyża jest „pojednanie\" - Bóg „nie poczytuje ludziom ich upadków\" i przywraca zerwaną więź. Cel to relacja, nie tylko czyste konto.",
+          "comment": "Sercem krzyża jest pojednanie: Bóg „pojednał świat z sobą, nie poczytując ludziom ich grzechów”. Inicjatywa wyszła od Niego – „Wszystko to zaś od Boga”. Cel to przywrócona relacja, nie tylko czyste konto, dlatego Paweł zaraz prosi: „Dajcie się pojednać z Bogiem!” (w. 20). Bóg otworzył drogę powrotu; nie wraca za nas. Jak ten dar przyjąć – o tym studium 5.",
           "questions": [
             {
-              "id": "q17",
-              "text": "Czego najbardziej potrzebuje człowiek: „czystego konta\" czy przywróconej relacji? Czy da się jedno bez drugiego?"
+              "id": "q26",
+              "text": "Czego najbardziej potrzebuje człowiek: „czystego konta” czy przywróconej relacji? Czy da się jedno bez drugiego?"
             }
           ]
         },
@@ -481,55 +560,55 @@
           "level": "advanced",
           "id": "n9",
           "noteType": "term",
-          "label": "„pojednanie\": zmiana wrogości w przyjaźń",
-          "content": "Greckie *katallagē* („pojednanie\") pochodzi z języka relacji i oznacza zmianę wrogości w przyjaźń, przywrócenie zerwanej więzi. W 2 Kor 5,18-19 stroną czynną jest Bóg: to On jedna nas ze sobą. Krzyż nie „przekonuje\" niechętnego Boga, by nas pokochał - przeciwnie, jest wyrazem miłości Boga, który już nas kocha i własnym kosztem usuwa to, co nas dzieli.",
+          "label": "„pojednanie”: zmiana wrogości w przyjaźń",
+          "content": "Greckie *katallage* („pojednanie”) pochodzi z języka relacji i oznacza zmianę wrogości w przyjaźń. W 2 Kor 5,18-19 stroną czynną jest Bóg: to On jedna nas ze sobą, a nie my Jego. Krzyż nie „przekonuje” niechętnego Boga, by nas pokochał. Przeciwnie, jest dziełem Boga, który już nas kocha i własnym kosztem usuwa to, co nas dzieli.",
           "original": [
             {
               "lang": "grc",
               "text": "καταλλαγή",
-              "translit": "katallagē"
+              "translit": "katallage"
             }
           ],
           "questions": [
             {
-              "id": "q20",
-              "text": "Dlaczego ważne jest, że to Bóg jedna nas ze sobą, a nie my musimy „przebłagać\" niechętnego Boga?"
+              "id": "q27",
+              "text": "Jak myśl, że Boga trzeba najpierw udobruchać, wpływa na modlitwę i na to, czy w ogóle chce się do Niego wracać? Co się zmienia, gdy wiesz, że pierwszy krok zrobił On?"
             }
           ]
         },
         {
           "type": "passage",
           "level": "base",
-          "id": "u18",
+          "id": "u25",
           "passage": [
             {
-              "osis": "Rom.5.1",
-              "ref": "Rz 5,1"
+              "osis": "Rom.5.10-11",
+              "ref": "Rz 5,10-11"
             }
           ],
-          "comment": "Owocem usprawiedliwienia przez wiarę jest „pokój z Bogiem\". Wrogość się skończyła; można znów chodzić z Nim bez lęku.",
+          "comment": "Paweł nie owija w bawełnę: byliśmy „nieprzyjaciółmi”. A mimo to „zostaliśmy pojednani z Bogiem przez śmierć Jego Syna” – pierwszy krok zrobił Bóg, nie my. I to nie koniec: Ten, który umarł, żyje, a Paweł dodaje, że „zostaniemy zbawieni przez Jego życie”. Dlatego już teraz „radujemy się w Bogu”: Adam się przed Nim chował; pojednany człowiek nie musi.",
           "questions": [
             {
-              "id": "q18",
-              "text": "Co praktycznie zmienia w codzienności życie „w pokoju z Bogiem\", a nie w lęku przed Nim?"
+              "id": "q28",
+              "text": "Paweł pisze: „radujemy się w Bogu”. Jak wyglądałaby twoja codzienność, gdyby Bóg był dla ciebie powodem radości, a nie lęku?"
             }
           ]
         },
         {
           "type": "passage",
           "level": "extended",
-          "id": "u19",
+          "id": "u26",
           "passage": [
             {
-              "osis": "Titus.2.11-12",
-              "ref": "Tt 2,11-12"
+              "osis": "2Cor.5.14-15",
+              "ref": "2 Kor 5,14-15"
             }
           ],
-          "comment": "To „łaska... uczy nas\" odrzucać zło i żyć dobrze. Posłuszeństwo jest owocem otrzymanej łaski, nie ceną, którą trzeba zapłacić, by ją dostać.",
+          "comment": "Pojednanie zmienia kierunek życia. Jezus „za wszystkich umarł, aby ci, co żyją, nie żyli już dłużej dla siebie, lecz dla Tego, który za nich umarł i zmartwychwstał”. To odwrotność „własnej drogi” z Iz 53,6. Siłą, która napędza nowe życie, nie jest strach ani chęć zasłużenia na Bożą przychylność, lecz „miłość Chrystusa”, która „przynagla”.",
           "questions": [
             {
-              "id": "q19",
-              "text": "Dlaczego posłuszeństwo wyrastające z wdzięczności różni się od posłuszeństwa ze strachu lub z chęci „zasłużenia\"?"
+              "id": "q29",
+              "text": "Czym posłuszeństwo, które wyrasta z wdzięczności, różni się od posłuszeństwa ze strachu albo z chęci zasłużenia na Bożą przychylność? Po czym poznajesz jedno i drugie u siebie?"
             }
           ]
         },
@@ -543,11 +622,11 @@
               "ref": "1 J 4,19"
             }
           ],
-          "comment": "„My miłujemy, ponieważ On nas pierwszy umiłował.\" Cała kolejność jest taka: najpierw przyjęta miłość, potem odpowiedź życiem.",
+          "comment": "Jedno krótkie zdanie ustawia kolejność na zawsze: najpierw przyjęta miłość, potem odpowiedź życiem. Posłuszeństwo jest owocem pojednania, nie jego ceną.",
           "questions": [
             {
-              "id": "q20",
-              "text": "Jak zmienia się motywacja do dobrego życia, gdy zaczyna się ono od „On mnie pierwszy umiłował\"?"
+              "id": "q30",
+              "text": "Przypomnij sobie kogoś, kto okazał ci dobro, zanim zdążyłeś na nie zasłużyć. Co to zmieniło w twoim zachowaniu wobec tej osoby – i co mówi o odpowiedzi na miłość Boga?"
             }
           ]
         }
@@ -555,13 +634,14 @@
     }
   ],
   "application": {
-    "text": "Grzech to nie najpierw lista przewinień, lecz zerwana więź - utracone zaufanie do Boga, z którego wyrastają konkretne grzechy. Skutkiem jest oddzielenie i śmierć, bo poza Dawcą życia nie ma życia. Ale Bóg nie zostawił nas po drugiej stronie przepaści: na krzyżu Jezus zajął moje miejsce, wziął na siebie skutek grzechu i otworzył drogę pojednania. Nie muszę najpierw się poprawić, by Bóg mnie przyjął - to przyjęcie jest punktem wyjścia, a posłuszeństwo jego owocem.",
-    "challenge": "Stań w tym tygodniu przed krzyżem z jednym konkretnym „grzechem\" (czynem) i z pytaniem o jego korzeń: gdzie zabrakło mi zaufania do Boga? Powiedz Jezusowi wprost, że przyjmujesz to, co zrobił na twoim miejscu, i poproś nie tyle o „bycie lepszym\", ile o przywróconą bliskość. Zapisz jedną rzecz, którą chcesz oddać Bogu jako pierwszy owoc tej relacji."
+    "text": "Grzech to nie najpierw lista przewinień, lecz odwrócenie się od Boga – zerwana więź i utracone zaufanie, z których wynikają wszystkie złe czyny. Kończy się śmiercią, bo poza Dawcą życia nie ma życia. Bóg nie mógł udawać, że zła nie było, i nie chciał nas stracić. Dlatego na krzyżu Jezus zajął moje miejsce: wziął na siebie moje oddzielenie od Boga i mój wyrok, żebym mógł wrócić. Nie muszę się najpierw poprawić, by Bóg mnie przyjął. Zaczynam od zaufania Temu, który za mnie umarł – a posłuszeństwo wyrasta z tej więzi jak owoc.",
+    "challenge": "Pomyśl o jednej konkretnej rzeczy, która ci ciąży, i zapytaj o jej korzeń: gdzie zabrakło mi zaufania do Boga? Powiedz Jezusowi wprost, że przyjmujesz to, co zrobił na twoim miejscu, i poproś nie tyle o „bycie lepszym”, ile o przywróconą bliskość. Potem zrób jeden krok ku tej bliskości: przeczytaj powoli opis Jego śmierci (Mk 15,22-39) i porozmawiaj z Nim o tym, co przeczytałeś."
   },
   "meta": {
-    "status": "draft",
-    "needsReview": true,
+    "status": "reviewed",
+    "needsReview": false,
     "generatedBy": "claude",
-    "notes": "status: draft needsReview: true generatedBy: claude notes: Ciekawostki PRO (9) rozłożone w sekcjach, przy tekstach, których dotyczą (nie na końcu). Źródła tła doktrynalnego: `books/_txt/00106 Sin`, `00107 Salvation`, `00110 The Sanctuary` (handbook ADS). Formy oryginalne (PRO) do weryfikacji u recenzenta: `ἁμαρτία`; `פֶּשַׁע` (pesza), `עָוֺן` (awon); `ἀπολύτρωσις`; `ὀψώνιον`; `ἱλαστήριον`; `καταλλαγή` potwierdzić zapis i transliterację. Hebrajskie *chatta'tpodane w transliteracji (zapis hbo pominięty jako wymagający weryfikacji wokalizacji). Akcent relacyjny (grzech lp / grzechy lm; posłuszeństwo jako owoc, nie warunek; łaska pierwsza) zgodny z wytycznymi ADS z briefu. Tekst wersetów celowo NIE jest wstawiony tylko odnośniki (osis + ref); treść dociągana z przekładu."
+    "notes": "Przegląd 22.11.2026: zgodność cytatów z BE, filtr SDA (T16, T01, M01, M02; ABC, Handbook), baza smaczków, krytyka i korekta językowa. Transliteracja PL: hebrajski zapisem polskim, grecki łacińskim bez znaków diakrytycznych. Tekst wersetów celowo NIE jest wstawiony – tylko odnośniki (osis + ref).",
+    "reviewed": "2026-11-22"
   }
 }

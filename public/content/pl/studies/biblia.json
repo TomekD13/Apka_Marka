@@ -1,42 +1,61 @@
 {
   "id": "biblia",
   "lang": "pl",
-  "title": "Biblia - Boży głos do mnie",
+  "title": "Biblia – Boży głos do mnie",
   "category": "basic_practical",
   "seriesId": "zycie-z-bogiem",
   "order": 9,
-  "summary": "Biblia to natchnione Słowo Boże - list od Przyjaciela, a nie zbiór ludzkich opinii. Poznajemy, skąd pochodzi jej autorytet (sola scriptura), uczymy się prostych zasad samodzielnego czytania i odkrywamy, od czego najlepiej zacząć. Warstwa PRO odpowiada na pytanie o Pismo i Tradycję oraz kanon.",
+  "summary": "Bóg nie milczy. Biblia to Jego natchnione Słowo – nie zbiór ludzkich opinii, lecz list od Kogoś, kto chce, byśmy Go poznali. Dowiadujemy się, dlaczego można jej ufać bardziej niż innym głosom, jak ją czytać, żeby usłyszeć Boga, i od czego zacząć, by przez Pismo spotkać Jezusa.",
   "minutes": {
-    "base": 40,
-    "extended": 60
+    "base": 45,
+    "extended": 65
   },
   "tags": [
     "Biblia",
     "Słowo Boże",
     "natchnienie",
     "sola scriptura",
-    "czytanie Pisma"
+    "czytanie Pisma",
+    "kanon"
   ],
   "sections": [
     {
       "id": "s1",
-      "heading": "Skąd Biblia ma swój autorytet",
+      "heading": "Bóg, który mówi",
       "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u17",
+          "passage": [
+            {
+              "osis": "Heb.1.1-2",
+              "ref": "Hbr 1,1-2"
+            }
+          ],
+          "comment": "Czy Bóg w ogóle się odzywa? Biblia od pierwszej strony pokazuje Boga, który mówi: „Wtedy Bóg powiedział: Niech się stanie światłość!” (Rdz 1,3). I nie przestaje mówić do ludzi: „Bóg, który dawniej wielokrotnie i na różne sposoby przemawiał do ojców przez proroków, w tych ostatnich dniach przemówił do nas przez Syna”. „Ostatnie dni” to tutaj czas, który zaczął się wraz z przyjściem Jezusa. Dawniej Bóg mówił krok po kroku, przez wielu posłańców – aż przyszedł Ten, który sam jest Bożym Słowem (J 1,14). Słowa proroków i słowa Syna mamy dziś w Biblii. Dlatego nie jest ona podręcznikiem o Bogu napisanym przez ludzi, którzy Go szukali, lecz miejscem, w którym On sam szuka nas i się odzywa – i w którym możemy Go poznać.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Co zmienia myśl, że Bóg nie milczy, lecz sam chce do ciebie mówić – najpełniej przez Jezusa?"
+            }
+          ]
+        },
         {
           "type": "passage",
           "level": "base",
           "id": "u1",
           "passage": [
             {
-              "osis": "2Tim.3.16-17",
-              "ref": "2 Tm 3,16-17"
+              "osis": "2Tim.3.15-17",
+              "ref": "2 Tm 3,15-17"
             }
           ],
-          "comment": "„Całe Pismo jest natchnione przez Boga\" - pochodzi od Niego i jest pożyteczne, by człowiek był „przygotowany do czynienia wszelkiego dobra\". Autorytet Biblii nie bierze się z jej wieku ani z decyzji ludzi, lecz z tego, że to Bóg za nią stoi.",
+          "comment": "Paweł przypomina Tymoteuszowi Pisma, które ten zna od dzieciństwa: „mogą cię nauczyć mądrości wiodącej ku zbawieniu dzięki wierze w Chrystusa Jezusa”. I dodaje: „Całe Pismo jest natchnione przez Boga”. Autorytet Biblii nie bierze się z jej wieku ani z decyzji ludzi, lecz stąd, że stoi za nią Bóg. A jej cel jest osobisty: doprowadzić do zaufania Jezusowi i przygotować człowieka „do czynienia wszelkiego dobra”.",
           "questions": [
             {
-              "id": "q1",
-              "text": "Co zmienia w sposobie czytania Biblii myśl, że jest to słowo od Boga, a nie tylko mądrość ludzi?"
+              "id": "q2",
+              "text": "Pisma mają prowadzić do „mądrości wiodącej ku zbawieniu dzięki wierze w Chrystusa Jezusa”. Czego szukasz – albo czego byś szukał – otwierając Biblię?"
             }
           ]
         },
@@ -45,8 +64,8 @@
           "level": "advanced",
           "id": "n1",
           "noteType": "term",
-          "label": "„natchnione\" znaczy „tchnione przez Boga\" (2 Tm 3,16)",
-          "content": "Greckie *theopneustos* dosłownie znaczy „Bogiem tchnione\" (*theos* - Bóg, *pneo* - tchnąć, wiać). Pismo nie jest „natchnione\" w sensie poetyckiego uniesienia - pochodzi z Bożego tchnienia, tego samego, które dało życie człowiekowi (Rdz 2,7). To fundament jego autorytetu: za słowami stoi oddech Boga.",
+          "label": "„natchnione” znaczy „tchnione przez Boga” (2 Tm 3,16)",
+          "content": "Greckie *theopneustos* dosłownie znaczy „Bogiem tchnione” (*theos* – Bóg, *pneo* – tchnąć, wiać). Pismo nie jest „natchnione” w sensie poetyckiego uniesienia – Paweł mówi, że pochodzi od Boga. Obraz przypomina stworzenie: Bóg ulepił człowieka i „tchnął w jego nozdrza tchnienie życia” (Rdz 2,7), a „przez Jego tchnienie” powstały zastępy niebios (Ps 33,6). Gdzie Bóg tchnie, tam budzi się życie – dlatego Słowo jest „żywe” (Hbr 4,12). Jak to się stało, dopowie Piotr: przez ludzi prowadzonych przez Ducha Świętego (2 P 1,21). Dlatego Pismu można ufać: za słowami stoi oddech Boga.",
           "original": [
             {
               "lang": "grc",
@@ -56,8 +75,8 @@
           ],
           "questions": [
             {
-              "id": "q17",
-              "text": "Jak rozumienie Pisma jako „tchnionego przez Boga\" wpływa na zaufanie do tego, co czytasz?"
+              "id": "q3",
+              "text": "Jak rozumienie Pisma jako „tchnionego przez Boga” wpływa na zaufanie do tego, co czytasz?"
             }
           ]
         },
@@ -71,11 +90,11 @@
               "ref": "2 P 1,20-21"
             }
           ],
-          "comment": "Proroctwo nie powstało z ludzkiej woli - „przepowiadali je natchnieni przez Ducha Świętego, posłani przez Boga ludzie\". Bóg posłużył się ludźmi, ale to On jest pierwszym Autorem.",
+          "comment": "Piotr sam słyszał głos Ojca na górze (2 P 1,17-18), a mimo to odsyła czytelników do słowa proroków: trzeba trwać przy nim „jak przy lampie, która świeci w ciemnym miejscu” (w. 19). I podaje powód: „Nie z woli człowieka bowiem zostało niegdyś dane proroctwo, ale przepowiadali je natchnieni przez Ducha Świętego, posłani przez Boga ludzie”. Prorocy nie głosili własnych pomysłów ani własnego wykładu tego, co zobaczyli: mówili swoim językiem, ale to, co mieli do powiedzenia, dostali od Boga. Stąd „wszelkie proroctwo Pisma nie może być dowolnie wykładane” – skoro przesłanie nie pochodzi od człowieka, to i czytelnik nie może naginać go według własnej wygody. Bóg posłużył się ludźmi, ale to On jest pierwszym Autorem.",
           "questions": [
             {
-              "id": "q2",
-              "text": "Jak rozumiesz to, że Biblia ma autorów ludzkich, a jednocześnie jednego Autora - Boga?"
+              "id": "q4",
+              "text": "Jak rozumiesz to, że Biblia ma autorów ludzkich, a jednocześnie jednego Autora – Boga?"
             }
           ]
         },
@@ -84,8 +103,8 @@
           "level": "advanced",
           "id": "n2",
           "noteType": "term",
-          "label": "autorzy „niesieni\" Duchem (2 P 1,21)",
-          "content": "Użyto tu czasownika *phero* („nieść\") w stronie biernej: ludzie „byli niesieni\" przez Ducha Świętego. Tego samego słowa używa się w Dz 27,15.17 o statku niesionym przez wiatr. Obraz jest wyważony: autorzy biblijni nie byli biernymi maszynami do dyktanda, lecz Duch ich „niósł\" we właściwym kierunku, zachowując ich osobowość, styl i język.",
+          "label": "autorzy „niesieni” Duchem (2 P 1,21)",
+          "content": "Piotr używa tu greckiego czasownika *phero* („nieść”) w stronie biernej: ludzie „byli niesieni” przez Ducha Świętego (BE oddaje to słowem „natchnieni”). Tego samego czasownika Łukasz używa w Dz 27,15.17 o statku niesionym przez sztormowy wiatr (BE: „poniosły nas fale”). Obraz mówi, skąd pochodzi kierunek: nie od żeglarzy. Nie znaczy to, że autorzy byli biernymi maszynami do dyktanda. Łukasz pisze o własnej Ewangelii, że postanowił „wszystko dokładnie zbadać i po kolei wiernie (...) opisać” (Łk 1,3). Duch prowadził autorów, zachowując ich osobowość, styl i język. Dlatego ich słowom można ufać – wiernie przekazują to, co Bóg chciał objawić.",
           "original": [
             {
               "lang": "grc",
@@ -104,11 +123,11 @@
               "ref": "Hbr 4,12"
             }
           ],
-          "comment": "„Żywe jest bowiem Słowo Boga i skuteczne\" - nie jest martwym tekstem z przeszłości, lecz czymś, co dociera do serca i przemienia. Biblia czyta nas tak samo, jak my czytamy ją.",
+          "comment": "„Żywe jest bowiem Słowo Boga i skuteczne” – nie jest martwym tekstem z przeszłości. Kilka zdań wcześniej autor przytacza psalm sprzed wieków i pisze, że Bóg mówi nim dziś, „przez Dawida po tak długim czasie”: „Dzisiaj, jeśli usłyszycie Jego głos, nie zatwardzajcie waszych serc” (Hbr 4,7). Słowo spisane dawno pozostaje głosem skierowanym do nas teraz. Dociera do serca i je odsłania: Biblia czyta nas tak samo, jak my czytamy ją. Nie po to, by nas zawstydzić: zaraz potem autor przypomina o Arcykapłanie, który potrafi „współczuć w naszych słabościach”, i zachęca: „Śmiało więc zbliżajmy się do tronu łaski” (Hbr 4,15-16).",
           "questions": [
             {
-              "id": "q3",
-              "text": "Czy zdarzyło ci się, że jakiś fragment Biblii „trafił\" w ciebie osobiście? Co to było?"
+              "id": "q5",
+              "text": "Czy zdarzyło ci się, że jakiś fragment Biblii „trafił” w ciebie osobiście? Co to było?"
             }
           ]
         },
@@ -117,8 +136,8 @@
           "level": "advanced",
           "id": "n3",
           "noteType": "term",
-          "label": "„ostrzejsze niż miecz obosieczny\" (Hbr 4,12)",
-          "content": "Słowo Boże porównane jest do *machaira* - krótkiego, ostrego miecza - i to „obosiecznego\" (gr. *distomos*, dosłownie „dwuustego\"). Obraz nie jest groźbą, lecz precyzją: Słowo wnika głębiej niż jakiekolwiek ostrze, „aż do rozdzielenia duszy i ducha\", obnażając prawdziwe myśli i zamiary serca. Dlatego czytanie Biblii nie jest neutralne - ono nas prześwietla.",
+          "label": "„ostrzejsze niż wszelki miecz obosieczny” (Hbr 4,12)",
+          "content": "Słowo Boże porównane jest do *machaira* – krótkiego, ostrego miecza – i to „obosiecznego” (gr. *distomos*, dosłownie „dwuustego”). Obraz nie jest groźbą, lecz precyzją: Słowo wnika głębiej niż jakiekolwiek ostrze, „aż do rozdzielenia duszy i ducha”, obnażając prawdziwe myśli i zamiary serca. Dlatego czytanie Biblii nie jest neutralne – ono nas prześwietla.",
           "original": [
             {
               "lang": "grc",
@@ -131,7 +150,7 @@
     },
     {
       "id": "s2",
-      "heading": "Pismo najwyższym autorytetem (sola scriptura)",
+      "heading": "Któremu głosowi ufać (sola scriptura)",
       "items": [
         {
           "type": "passage",
@@ -143,11 +162,11 @@
               "ref": "Iz 8,20"
             }
           ],
-          "comment": "„Ku Prawu i ku świadectwu!\" - wszystko, co ma rościć sobie autorytet w sprawach wiary, trzeba sprawdzić Pismem. To biblijna zasada, którą później nazwano *sola scriptura*: Pismo jest najwyższą miarą.",
+          "comment": "Izajasz woła to do ludu, który namawiano, by zamiast radzić się swego Boga, szukał odpowiedzi u wywoływaczy duchów i wróżbitów (Iz 8,19). „Ku Prawu i ku świadectwu!” – „Prawo” to spisane Boże pouczenie, „świadectwo” to słowo, które Bóg dał przez proroków. Głosów, które chcą nam mówić o Bogu, jest wiele: nauczyciele, tradycja, własne przeżycia. Miarą dla nich wszystkich jest to, co On sam już powiedział; kto mówi inaczej, zostaje bez światła – „nie będzie dla nich jutrzenki”. Tę zasadę nazwano później *sola scriptura* (łac. „samo Pismo”): Pismo jest najwyższą miarą.",
           "questions": [
             {
-              "id": "q4",
-              "text": "Dlaczego potrzebny jest jakiś stały punkt odniesienia („miara\") w pytaniach o wiarę?"
+              "id": "q6",
+              "text": "Z ilu stron słyszysz dziś, kim jest Bóg i jak żyć? Po czym poznajesz, któremu głosowi można zaufać?"
             }
           ]
         },
@@ -156,11 +175,11 @@
           "level": "advanced",
           "id": "n4",
           "noteType": "background",
-          "label": "Pismo a Tradycja",
-          "content": "Pytanie wrażliwe: czy obok Biblii potrzebna jest równorzędna Tradycja jako źródło wiary? Biblia konsekwentnie stawia Pismo jako najwyższy autorytet (*sola scriptura*). Jezus w Mk 7,7-9 wprost przeciwstawia „przykazanie Boże\" ludzkiej „tradycji\", zarzucając, że można „odrzucić przykazanie Boże, aby zachować tradycję\". Iz 8,20 wyznacza miarę. Tradycja kościelna ma wartość historyczną i porządkującą, lecz nie może stać ponad Pismem ani go korygować. Krytyka dotyczy zasady i nauczania, nigdy konkretnych ludzi.",
+          "label": "Pismo a tradycja",
+          "content": "Czy obok Biblii potrzebna jest równorzędna Tradycja jako drugie źródło wiary? Jezus stawia sprawę ostro: „Porzuciliście przykazanie Boga, a trzymacie się ludzkiej tradycji” (Mk 7,8); „Zręcznie potraficie omijać przykazanie Boga, aby utrzymać waszą tradycję” (Mk 7,9). Przykład, który podaje – zwyczaj zwany *korban* (hebr. „dar ofiarny”, Mk 7,10-13), zgodnie z którym majątek ogłoszony darem dla Boga nie musiał już służyć rodzicom – pokazuje, jak religijny zwyczaj potrafi unieważnić Boże przykazanie. Jezusa boli przy tym coś głębszego niż spór o przepisy. Przytacza Izajasza: lud czci Boga wargami, a „jego serce jest daleko ode Mnie” (Iz 29,13). Tradycja staje się groźna, gdy zaczyna zastępować słuchanie Boga. Nowy Testament zna też dobrą tradycję. Paweł prosi: „trzymajcie się mocno tradycji, którą przekazaliśmy wam ustnie czy też za pośrednictwem naszego listu” (2 Tes 2,15). Mówi jednak o nauczaniu samych apostołów, a pewny dostęp do niego mamy dziś w ich pismach – w Nowym Testamencie. Dlatego tradycja Kościoła ma wartość historyczną i porządkującą, ale nie stoi obok Pisma jako drugie, równorzędne źródło: sama podlega jego ocenie – tak jak Jezus ocenił tradycję starszych słowem Mojżesza.",
           "questions": [
             {
-              "id": "q18",
+              "id": "q7",
               "text": "Gdzie przebiega różnica między pomocną tradycją (np. zwyczajem czytania Biblii rano) a tradycją, która zaczyna zastępować Słowo?"
             }
           ]
@@ -175,11 +194,11 @@
               "ref": "Dz 17,11"
             }
           ],
-          "comment": "Mieszkańcy Berei słuchali Pawła, a mimo to „codziennie badali Pisma, czy tak się rzeczy mają\". Biblia chwali tych, którzy sprawdzają nauczanie - nawet apostolskie - w świetle Słowa.",
+          "comment": "Mieszkańcy Berei „przyjęli Słowo z całą gorliwością”, a mimo to „codziennie badali Pisma, czy tak się rzeczy mają”. Nie byli podejrzliwi – byli spragnieni prawdy. Biblia chwali tych, którzy sprawdzają nauczanie, nawet apostolskie, w świetle Pism.",
           "questions": [
             {
-              "id": "q5",
-              "text": "Co znaczy „badać Pisma\", zamiast po prostu wierzyć każdemu, kto mówi w imieniu Boga?"
+              "id": "q8",
+              "text": "Kiedy ostatnio sprawdziłeś w Biblii coś, co usłyszałeś o Bogu? Co mogłoby ci w tym pomóc?"
             }
           ]
         },
@@ -188,8 +207,8 @@
           "level": "advanced",
           "id": "n5",
           "noteType": "term",
-          "label": "Berejczycy „badali\" Pisma (Dz 17,11)",
-          "content": "Użyty czasownik *anakrino* to termin sądowy: „przesłuchiwać, badać dowody, dociekać\". Łukasz nazywa Berejczyków „szlachetniejszymi\" właśnie za to, że sprawdzali nauczanie apostoła w Piśmie - nie z braku szacunku, lecz z szacunku do Słowa jako najwyższej instancji. Wzór dojrzałej wiary: nie łatwowierność i nie podejrzliwość, lecz weryfikacja Pismem.",
+          "label": "Berejczycy „badali” Pisma (Dz 17,11)",
+          "content": "Użyty czasownik *anakrino* to termin sądowy: „przesłuchiwać, badać dowody, dociekać”. Łukasz nazywa Berejczyków „szlachetniejszymi” właśnie za to, że sprawdzali nauczanie apostoła w Piśmie – z szacunku do Pism jako najwyższej instancji. To wzór dojrzałej wiary: ani łatwowierność, ani podejrzliwość, lecz sprawdzanie w Piśmie.",
           "original": [
             {
               "lang": "grc",
@@ -208,37 +227,42 @@
               "ref": "J 17,17"
             }
           ],
-          "comment": "Jezus modli się: „Twoje słowo jest prawdą\". To Pismo wyznacza, co jest prawdą, i to ono uświęca - kształtuje życie wierzącego.",
+          "comment": "Jezus prosi Ojca: „Uświęć ich w prawdzie. Twoje słowo jest prawdą”. To modlitwa za uczniów w ostatni wieczór przed krzyżem. Jezus nie mówi im: zmieńcie się – prosi Ojca, by On ich uświęcił, a Jego narzędziem jest słowo. Czytając Pismo, pozwalamy Bogu kształtować nas tym, co mówi.",
           "questions": [
             {
-              "id": "q6",
-              "text": "Czym różni się traktowanie Biblii jako „prawdy\" od traktowania jej jako jednej z opinii?"
+              "id": "q9",
+              "text": "Jezus prosił Ojca, by Jego słowo uświęcało uczniów. Co chciałbyś, żeby Bóg zmienił w tobie?"
             }
           ]
         },
         {
-          "type": "passage",
-          "level": "extended",
-          "id": "u7",
-          "passage": [
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "Kanon: które księgi należą do Pisma",
+          "content": "„Kanon” (gr. *kanon* – „miara, reguła”) to lista ksiąg uznanych za natchnione; Kościół nie nadał im autorytetu, lecz go w nich rozpoznał. Nowy Testament liczy 27 ksiąg – tyle samo w wydaniach katolickich, prawosławnych i protestanckich. Różnice dotyczą Starego Testamentu. Jezus posługiwał się Pismami Izraela i wymieniał ich trzy części: „w Prawie Mojżesza, u Proroków i w Psalmach” (Łk 24,44). Mówił też o krwi proroków „od krwi Abla aż do krwi Zachariasza” (Łk 11,51) – najpewniej od pierwszego zabitego w Księdze Rodzaju do ostatniego w Drugiej Księdze Kronik (2 Krn 24,20-22), która w tradycyjnym układzie Biblii hebrajskiej stoi na końcu. To te same księgi, które w naszych Bibliach tworzą 39 ksiąg Starego Testamentu; Paweł pisze, że to „Żydom zostały powierzone słowa Boga” (Rz 3,2). Grecki przekład Starego Testamentu (Septuaginta), z którego często cytuje Nowy Testament, zachował się w wielkich kodeksach z IV–V wieku. Obok ksiąg hebrajskich zawierają one – każdy w nieco innym zestawie – inne pisma żydowskie, m.in. Księgi Tobiasza (w BE: Tobita), Judyty, Mądrości, Syracha, Barucha, dwie Księgi Machabejskie oraz dodatki do Estery i Daniela. W tradycji katolickiej nazywa się je księgami deuterokanonicznymi, w protestanckiej – apokryfami. Czytano je w Kościele od starożytności, ale spierano się o ich rangę: Hieronim, tłumacz Wulgaty, odróżniał je od ksiąg kanonu hebrajskiego. Kościół rzymskokatolicki ostatecznie ogłosił je kanonicznymi na soborze w Trydencie (1546). Są cennym świadectwem wiary i dziejów między Starym a Nowym Testamentem, ale same nie podają się za słowo proroków: Pierwsza Księga Machabejska wspomina czas, „gdy przestali pojawiać się prorocy” (1 Mch 9,27). Nowy Testament czasem do nich nawiązuje, lecz nigdzie nie przytacza ich jako Pisma. Samo przytoczenie nie czyni zresztą księgi natchnioną: Juda przywołuje słowa z Księgi Henocha (Jud 14-15), której nie ma ani w kanonie hebrajskim, ani w katolickim, a Paweł – greckich poetów (Dz 17,28). Dlatego przyjmujemy kanon 66 ksiąg: 39 Starego i 27 Nowego Testamentu. Ma to znaczenie także dla nauki: w księgach spoza tego kanonu są myśli, których Pismo nie potwierdza, np. modlitwa i ofiara za zmarłych (2 Mch 12,43-45; o tym, co po śmierci – studium 12). Stąd też w różnych wydaniach Biblii Stary Testament ma różną liczbę ksiąg.",
+          "original": [
             {
-              "osis": "Ps.119.105",
-              "ref": "Ps 119,105"
-            }
-          ],
-          "comment": "„Twoje słowo jest pochodnią dla stóp moich\" - Biblia oświetla najbliższy krok i całą drogę. Jest praktycznym przewodnikiem w decyzjach, nie tylko zbiorem doktryn.",
-          "questions": [
-            {
-              "id": "q7",
-              "text": "W jakiej dziedzinie życia najbardziej potrzebujesz teraz „światła\" Bożego Słowa?"
+              "lang": "grc",
+              "text": "κανών",
+              "translit": "kanon"
             }
           ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n10",
+          "noteType": "background",
+          "label": "Czy tekst Biblii przetrwał wiernie?",
+          "content": "„Trawa usycha, kwiat więdnie, lecz słowo naszego Boga trwa na wieki” (Iz 40,8) – Izajasz mówi o Bożej obietnicy, która nie zawodzi. Ale czy sam tekst, przepisywany ręcznie przez stulecia, nie uległ zmianie? Wiele mówią rękopisy odnajdywane od 1947 roku w Qumran nad Morzem Martwym: są wśród nich zwoje lub fragmenty wszystkich ksiąg Biblii hebrajskiej z wyjątkiem Estery, spisane między III wiekiem przed Chrystusem a I wiekiem po Chrystusie. Wielki Zwój Izajasza jest o mniej więcej tysiąc lat starszy od najstarszych znanych wcześniej pełnych rękopisów hebrajskich, a mimo to zdumiewająco zgodny z tekstem, który czytamy dziś – różnice dotyczą głównie pisowni i drobnych pomyłek kopistów. Rękopisów Nowego Testamentu jest bardzo wiele i one także różnią się w szczegółach. Wydania Biblii mówią o tym otwarcie: w Dz 8 Biblia Ekumeniczna przechodzi od wersetu 36 do 38, bo wersetu 37 brak w najstarszych rękopisach, i wyjaśnia to w przypisie. Żadna z takich różnic nie narusza nauki Pisma."
         }
       ]
     },
     {
       "id": "s3",
-      "heading": "Jak czytać Biblię samemu",
+      "heading": "Jak czytać, żeby usłyszeć",
       "items": [
         {
           "type": "passage",
@@ -250,11 +274,29 @@
               "ref": "Ps 119,18"
             }
           ],
-          "comment": "Zanim zaczniemy czytać, warto się pomodlić: „Otwórz mi oczy, abym mógł oglądać cuda Twojego Prawa\". Ten sam Duch, który natchnął Pismo, pomaga je rozumieć.",
+          "comment": "Psalm 119 jest najdłuższym tekstem Biblii o Bożym słowie – i niemal w całości modlitwą. Psalmista nie mówi o Piśmie, mówi do jego Autora: „Otwórz mi oczy, abym mógł oglądać cuda Twojego Prawa”. W modlitwie my mówimy do Boga, w Piśmie On mówi do nas (o modlitwie – studium 8); dlatego czytanie dobrze zaczynać od rozmowy z Nim. „Prawo” (hebr. *tora*) to w psalmach całe Boże pouczenie, nie tylko przepisy. Ten sam Duch, który natchnął Pismo, pomaga je rozumieć (J 16,13; o tym studium 7) – i nigdy nie prowadzi wbrew temu, co w nim powiedział.",
           "questions": [
             {
-              "id": "q8",
+              "id": "q10",
               "text": "Co by się zmieniło, gdybyś każde czytanie Biblii zaczynał od krótkiej prośby o zrozumienie?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u18",
+          "passage": [
+            {
+              "osis": "John.5.39-40",
+              "ref": "J 5,39-40"
+            }
+          ],
+          "comment": "Jezus wymienia tych, którzy o Nim świadczą: Jana Chrzciciela, własne dzieła, Ojca (J 5,33-37). I mówi do rozmówców, którzy znali Pisma bardzo dobrze: „Badacie Pisma, bo wam się wydaje, że w nich macie życie wieczne. Również one świadczą o Mnie, ale nie chcecie przyjść do Mnie, aby mieć życie”. Można czytać Biblię pilnie i minąć Tego, o kim ona mówi. Życie nie jest w samej znajomości tekstu, lecz w Osobie, do której tekst prowadzi. Dlatego przy czytaniu warto pytać nie tylko „co tu jest napisane?”, ale też „co mówi mi tu Bóg i jak mam Mu odpowiedzieć?”.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Co znaczyłoby dla ciebie dziś przyjść do Jezusa – a nie tylko o Nim przeczytać?"
             }
           ]
         },
@@ -268,11 +310,11 @@
               "ref": "Łk 24,27"
             }
           ],
-          "comment": "Jezus „wyjaśnił im, co we wszystkich Pismach odnosiło się do Niego\". Cała Biblia ma swój środek w Chrystusie - czytamy ją, by spotkać Jego, a nie tylko zdobyć informacje. Czytanie z uwzględnieniem kontekstu chroni przed wyrywaniem zdań z całości.",
+          "comment": "Dwaj uczniowie idą do Emaus zawiedzeni: „A my spodziewaliśmy się…” (Łk 24,21). Jezus, którego nie rozpoznają, nie zaczyna od cudu – otwiera przed nimi Pisma: „zaczynając od Mojżesza i wszystkich proroków, wyjaśnił im, co we wszystkich Pismach odnosiło się do Niego”. Cała Biblia ma swój środek w Chrystusie, a wiara ma mieć oparcie w Słowie, nie tylko w niezwykłym przeżyciu. Uczniowie wspominali potem: „Czy serce nie biło nam mocniej, gdy mówił do nas w drodze i wyjaśniał Pisma?” (Łk 24,32).",
           "questions": [
             {
-              "id": "q9",
-              "text": "Jak myśl, że „centrum\" Biblii jest Jezus, mogłaby zmienić sposób, w jaki ją czytasz?"
+              "id": "q12",
+              "text": "Uczniowie szli z rozczarowaniem. Z jakim pytaniem albo zawodem ty mógłbyś dziś otworzyć Biblię?"
             }
           ]
         },
@@ -282,7 +324,7 @@
           "id": "n6",
           "noteType": "background",
           "label": "cała Biblia prowadzi do Chrystusa (Łk 24,27)",
-          "content": "W drodze do Emaus Jezus „zaczynając od Mojżesza i wszystkich proroków\", pokazał, że Pismo mówi o Nim. To daje klucz do czytania całości: Stary Testament zapowiada, Nowy wypełnia. Dlatego trudniejsze fragmenty warto czytać, pytając „jak to wskazuje na Jezusa i Jego dzieło?\" - zamiast szukać w nich oderwanych reguł. Chrystus jest soczewką, która ogniskuje sens całego Pisma."
+          "content": "Jezus uczył, że Pismo mówi o Nim w każdej swojej części, nie tylko w kilku odosobnionych proroctwach: „musi się spełnić wszystko, co jest o Mnie napisane w Prawie Mojżesza, u Proroków i w Psalmach” (Łk 24,44). To daje klucz do czytania całości: Stary Testament zapowiada, Nowy wypełnia. Nie znaczy to, że w każdym zdaniu trzeba na siłę szukać ukrytej zapowiedzi – znaczy, że cała opowieść Biblii zmierza ku Jezusowi. Dlatego przy trudniejszych fragmentach warto pytać: „jak to łączy się z Jezusem i Jego dziełem?”. Chrystus jest soczewką, która ogniskuje sens całego Pisma."
         },
         {
           "type": "passage",
@@ -290,35 +332,25 @@
           "id": "u10",
           "passage": [
             {
-              "osis": "2Pet.1.20",
-              "ref": "2 P 1,20"
+              "osis": "Acts.8.30-31",
+              "ref": "Dz 8,30-31"
             }
           ],
-          "comment": "„Żadne proroctwo Pisma nie podlega dowolnemu wykładowi\". Pismo wyjaśnia samo siebie - jasne fragmenty pomagają zrozumieć trudniejsze, a żaden werset nie znaczy tego, co nam wygodnie.",
+          "comment": "Dworzanin z Etiopii czyta proroka Izajasza i nie rozumie. Bóg o tym wie: to Duch posyła do niego Filipa (Dz 8,29). Na pytanie: „Czy rozumiesz to, co czytasz?” dworzanin odpowiada szczerze: „Jak mogę rozumieć, jeśli nikt mi nie wyjaśnił?”. Pytania przy czytaniu Biblii nie są wstydem, a pomoc drugiego człowieka bywa Bożą odpowiedzią na prośbę o zrozumienie. Dworzanin pyta zresztą o to, o co zawsze warto pytać: „o kim to Prorok mówi? O sobie samym czy o kimś innym?” (w. 34). Kto mówi, o kim i w jakiej sytuacji – taka uwaga na kontekst chroni przed wyrywaniem zdań z całości; pomaga też samo Pismo, bo jasne fragmenty rzucają światło na trudniejsze. Filip nie odpowiada własnym autorytetem: „poczynając od tego tekstu Pisma, opowiedział mu Dobrą Nowinę o Jezusie” (w. 35). A potem znika – i dworzanin jedzie dalej sam, „z radością” (w. 39). Pomoc jest darem, nie warunkiem: to, co najważniejsze, Biblia mówi jasno każdemu, kto czyta uważnie i z modlitwą.",
           "questions": [
             {
-              "id": "q10",
-              "text": "Dlaczego ryzykowne jest budowanie przekonań na jednym, wyrwanym z kontekstu wersecie?"
+              "id": "q13",
+              "text": "Jakie pytanie o Biblię nosisz w sobie od dawna? Z kim mógłbyś ją czytać tak, by móc pytać?"
             }
           ]
         },
         {
-          "type": "passage",
-          "level": "extended",
-          "id": "u11",
-          "passage": [
-            {
-              "osis": "Isa.28.10",
-              "ref": "Iz 28,10"
-            }
-          ],
-          "comment": "„przepis dla przepisu… trochę tu, trochę tam\" - Biblię poznajemy, zestawiając jej fragmenty ze sobą. Pełny obraz danej prawdy powstaje z całości Pisma, nie z pojedynczego miejsca.",
-          "questions": [
-            {
-              "id": "q11",
-              "text": "Jak porównywanie różnych fragmentów na ten sam temat chroni przed błędnym wnioskiem?"
-            }
-          ]
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "background",
+          "label": "„Trochę tu, trochę tam” – lekcja kontekstu (Iz 28,10)",
+          "content": "Słowa „przepis dla przepisu (...) trochę tu, trochę tam” bywają cytowane jako zasada czytania Biblii: zbierać fragmenty z różnych miejsc. W swoim kontekście znaczą jednak co innego. Izajasz mówi o kapłanach i prorokach, którzy „chwieją się pod wpływem wina” (Iz 28,7) i lekceważą Boże słowo. Po hebrajsku werset 10 to rytmiczny ciąg krótkich słów – *caw la-caw, kaw la-kaw* – który brzmi jak dziecinna wyliczanka, być może jak ćwiczenie z nauki czytania: tak przywódcy słyszą pouczenie Boga (w. 9-10). Ponieważ nie chcieli posłuchać słowa o odpoczynku (w. 12), Bóg zapowiada, że przemówi do nich „w obcym języku” (w. 11), czyli mową najeźdźców, a te same słowa wrócą do nich jako wyrok – „aby szli, upadli na wznak i zginęli” (w. 13). Porównywanie fragmentów Pisma jest dobrą zasadą – tak czytał sam Jezus (Łk 24,27) – ale ten werset mówi o czymś innym. I dobrze pokazuje, jak łatwo zdanie wyjęte z kontekstu zaczyna znaczyć coś, czego autor nie miał na myśli."
         },
         {
           "type": "passage",
@@ -330,11 +362,11 @@
               "ref": "Jk 1,22"
             }
           ],
-          "comment": "„Bądźcie wykonawcami Słowa, a nie tylko słuchaczami\". Czytanie Biblii ma prowadzić do życia nią, nie do gromadzenia wiedzy. Posłuszeństwo nie jest warunkiem przyjęcia przez Boga, lecz owocem relacji z Nim.",
+          "comment": "„Bądźcie więc wykonawcami Słowa, a nie tylko słuchaczami, oszukującymi samych siebie”. Tego, kto tylko słucha, Jakub porównuje do kogoś, kto zobaczył się w lustrze i „natychmiast zapomniał, jak wyglądał” (Jk 1,24). Skąd siła, by wprowadzić Słowo w czyn? Zdanie wcześniej Jakub mówi o Słowie zaszczepionym w nas, „które ma moc zbawić wasze dusze” (Jk 1,21): najpierw je przyjmujemy, potem ono w nas działa. Posłuszeństwo nie jest więc ceną za Bożą akceptację, lecz odpowiedzią na głos Kogoś, komu ufamy – jak owce, które idą za pasterzem, „bo znają jego głos” (J 10,4).",
           "questions": [
             {
-              "id": "q12",
-              "text": "Co ostatnio przeczytałeś w Biblii, co prosi się raczej o „zrobienie\" niż o „zapamiętanie\"?"
+              "id": "q14",
+              "text": "Co ostatnio przeczytałeś w Biblii, co prosi się raczej o „zrobienie” niż o „zapamiętanie”?"
             }
           ]
         }
@@ -342,7 +374,7 @@
     },
     {
       "id": "s4",
-      "heading": "Codzienny pokarm i od czego zacząć",
+      "heading": "Codzienny pokarm – od czego zacząć",
       "items": [
         {
           "type": "passage",
@@ -354,77 +386,29 @@
               "ref": "Mt 4,4"
             }
           ],
-          "comment": "„Nie samym chlebem żyje człowiek, lecz każdym słowem, które pochodzi z ust Boga\". Słowo Boże jest pokarmem - potrzebnym codziennie, nie tylko od święta.",
+          "comment": "Głodny po czterdziestu dniach postu Jezus odpowiada kusicielowi zdaniem Mojżesza (Pwt 8,3): „Nie samym chlebem żyje człowiek, lecz każdym słowem, które pochodzi z ust Boga”. Mojżesz przypominał tam, że Bóg karmił lud na pustyni manną, „aby dać ci poznać”, czym naprawdę się żyje – i że robił to, „jak człowiek wychowuje swego syna” (Pwt 8,5). Jak mannę, tak i swoje Słowo Ojciec daje na każdy dzień (o tym, jak Jezus odpierał pokusy – studium 10).",
           "questions": [
             {
-              "id": "q13",
-              "text": "Jak wyglądałby twój dzień, gdyby Słowo Boże było tak regularne jak posiłek?"
-            }
-          ]
-        },
-        {
-          "type": "passage",
-          "level": "base",
-          "id": "u14",
-          "passage": [
-            {
-              "osis": "John.20.30-31",
-              "ref": "J 20,30-31"
-            }
-          ],
-          "comment": "Ewangelia Jana sama mówi, po co została napisana: „abyście uwierzyli, że Jezus jest Mesjaszem, Synem Boga i abyście wierząc, mieli życie w Jego imię\". To naturalny punkt startu w samodzielnym czytaniu - prosto prowadzi do Jezusa.",
-          "questions": [
-            {
-              "id": "q14",
-              "text": "Dlaczego dobrym początkiem poznawania Boga może być właśnie historia życia Jezusa?"
+              "id": "q15",
+              "text": "Jak wyglądałby twój dzień, gdybyś sięgał po Słowo Boże tak regularnie jak po posiłek?"
             }
           ]
         },
         {
           "type": "passage",
           "level": "extended",
-          "id": "u15",
+          "id": "u7",
           "passage": [
             {
-              "osis": "Josh.1.8",
-              "ref": "Joz 1,8"
+              "osis": "Jer.15.16",
+              "ref": "Jr 15,16"
             }
           ],
-          "comment": "Bóg radzi Jozuemu rozważać Słowo „w dzień i w nocy\" - nie chodzi o ilość, lecz o stałe powracanie i rozmyślanie. Owocem jest mądrość i powodzenie na drodze życia.",
+          "comment": "Te słowa padają w jednej z najbardziej gorzkich skarg Jeremiasza (Jr 15,10-18). A jednak prorok wspomina: „Gdy pojawiały się Twoje słowa – pochłaniałem je. Twoje słowa były mi rozkoszą i radością mojego serca”. Mówi o nich jak o jedzeniu, na które się czeka. Powodem nie jest sam tekst, lecz to, do Kogo prorok należy: „bo Twoje imię zostało wezwane nade mną, PANIE”. Jeremiasz słyszał Boga jako prorok; my słyszymy Go w Piśmie. I dla nas czytanie nie musi być obowiązkiem – może być spotkaniem, które karmi i cieszy, także w trudnym czasie.",
           "questions": [
             {
-              "id": "q15",
-              "text": "Czym „rozważanie\" Słowa różni się od jednorazowego przeczytania i odłożenia?"
-            }
-          ]
-        },
-        {
-          "type": "note",
-          "level": "advanced",
-          "id": "n7",
-          "noteType": "term",
-          "label": "„rozważać\" znaczy „szeptać\" (Joz 1,8; Ps 1,2)",
-          "content": "Hebrajskie *haga*, tłumaczone jako „rozważać, rozmyślać\", dosłownie znaczy „mruczeć, szeptać, pomrukiwać pod nosem\". W starożytności czytano i rozważano Pismo na głos, półgłosem powtarzając słowa. „Rozmyślanie nad Prawem dniem i nocą\" to więc nie abstrakcyjne myślenie, lecz powracanie do tekstu, smakowanie go i powtarzanie - aż wejdzie w pamięć i serce.",
-          "original": [
-            {
-              "lang": "hbo",
-              "text": "הָגָה",
-              "translit": "haga"
-            }
-          ]
-        },
-        {
-          "type": "note",
-          "level": "advanced",
-          "id": "n8",
-          "noteType": "background",
-          "label": "kanon i deuterokanon",
-          "content": "„Kanon\" (gr. *kanon* - „miara, reguła\") to lista ksiąg uznanych za natchnione. Kanon hebrajski Starego Testamentu (przejęty przez protestantyzm) nie zawiera ksiąg zwanych deuterokanonicznymi (przez protestantów: apokryfami) - np. Tobiasza, Judyty, Mądrości, Syracha, 1-2 Machabejskiej - obecnych w greckiej Septuagincie i w kanonie rzymskokatolickim. Jezus i apostołowie cytują obficie Pisma hebrajskie, nie powołując się na deuterokanon jako na „Pismo\". Stąd przyjmujemy kanon 66 ksiąg. To zagadnienie historyczne - przedstawiamy je rzeczowo, bez deprecjonowania osób innych wyznań.",
-          "original": [
-            {
-              "lang": "grc",
-              "text": "κανών",
-              "translit": "kanon"
+              "id": "q16",
+              "text": "Co musiałoby się zmienić, żeby czytanie Biblii było dla ciebie spotkaniem, a nie obowiązkiem?"
             }
           ]
         },
@@ -438,11 +422,98 @@
               "ref": "Ps 1,1-3"
             }
           ],
-          "comment": "Człowiek, który „rozmyśla nad Prawem Pana\", jest jak drzewo nad strumieniem - zakorzeniony, owocny, trwały. Regularny kontakt ze Słowem daje stabilność życia.",
+          "comment": "Psalm 1 opisuje człowieka, który „Prawo PANA nad wszystko ukochał” i „nad Jego Prawem rozmyśla dniem i nocą”. Nie odrabia lekcji – kocha to, co mówi Bóg. Jest jak drzewo „zasadzone nad strumieniami”: nie wysila się, by rodzić, tylko stoi przy wodzie, a owoc przychodzi „we właściwym czasie”. Kto trzyma się blisko tego, co mówi Bóg, ten ma skąd czerpać – także w suszy.",
           "questions": [
             {
-              "id": "q16",
-              "text": "Co w twoim życiu najbardziej skorzystałoby na takim „zakorzenieniu\" w Słowie?"
+              "id": "q17",
+              "text": "Co w twoim życiu najbardziej skorzystałoby na takim „zakorzenieniu” w Słowie?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u20",
+          "passage": [
+            {
+              "osis": "Ps.119.105",
+              "ref": "Ps 119,105"
+            }
+          ],
+          "comment": "„Twoje słowo jest pochodnią dla stóp moich, światłem na mojej ścieżce.” Światło pada „dla stóp” – na najbliższy krok, nie na całą drogę naraz. Boże Słowo rzadko pokazuje z góry cały plan życia, ale wystarcza, by iść dalej i nie zabłądzić. Kto idzie w ciemności, trzyma się blisko światła – i blisko Tego, kto je daje (o rozpoznawaniu Bożej woli – studium 35).",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Przed jakim najbliższym krokiem stoisz teraz – i czego potrzebujesz, by zrobić go w świetle Bożego Słowa?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u15",
+          "passage": [
+            {
+              "osis": "Josh.1.8",
+              "ref": "Joz 1,8"
+            }
+          ],
+          "comment": "Jozue staje przed zadaniem ponad siły: po śmierci Mojżesza ma poprowadzić lud. Bóg nie zaczyna od planu bitwy, lecz od Księgi – „Rozważaj ją w dzień i w nocy” – i od obietnicy: „z tobą jest PAN, twój Bóg, dokądkolwiek się udasz” (Joz 1,9). Nie chodzi o ilość czytania, lecz o stałe powracanie do tego, co Bóg powiedział. Z tego rodzi się odwaga i wierność. „Będzie ci się wiodło” nie znaczy tu łatwego życia, lecz drogę przebytą z Bogiem.",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Które zdanie z Biblii – może z tego studium – chciałbyś dziś nosić przy sobie i wracać do niego w ciągu dnia?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n7",
+          "noteType": "term",
+          "label": "„rozważać” znaczy „szeptać” (Joz 1,8; Ps 1,2)",
+          "content": "Hebrajskie *haga*, tłumaczone jako „rozważać, rozmyślać”, oznacza najpierw cichy dźwięk: „mruczeć, szeptać, pomrukiwać pod nosem”. Tym samym słowem Izajasz opisuje lwa, który „pomrukuje (...) nad swoją zdobyczą” (Iz 31,4) – i nie da jej sobie odebrać. W starożytności czytano zwykle na głos: Filip „usłyszał, że tamten czyta proroka Izajasza” (Dz 8,30). Człowiek, który „nad Jego Prawem rozmyśla dniem i nocą” (Ps 1,2), nie oddaje się więc abstrakcyjnemu myśleniu, lecz wraca do tekstu, smakuje go i półgłosem powtarza – aż zapadnie w pamięć i serce.",
+          "original": [
+            {
+              "lang": "hbo",
+              "text": "הָגָה",
+              "translit": "haga"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "1John.1.3-4",
+              "ref": "1 J 1,3-4"
+            }
+          ],
+          "comment": "Jan mówi wprost, po co pisze: „abyście i wy trwali we wspólnocie z nami. My zaś trwamy we wspólnocie z Ojcem i Jego Synem, Jezusem Chrystusem”. Pismo powstało po to, by czytelnik wszedł w tę samą więź z Ojcem i Synem, w której żyli jego autorzy. I dodaje: „A piszemy to, aby nasza radość była pełna”.",
+          "questions": [
+            {
+              "id": "q20",
+              "text": "Jan pisał, „aby nasza radość była pełna”. Kiedy ostatnio coś, co przeczytałeś w Biblii, naprawdę cię ucieszyło?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u14",
+          "passage": [
+            {
+              "osis": "John.20.30-31",
+              "ref": "J 20,30-31"
+            }
+          ],
+          "comment": "Ewangelia Jana sama mówi, po co została napisana: „abyście uwierzyli, że Jezus jest Mesjaszem, Synem Boga i abyście wierząc, mieli życie w Jego imię”. To to samo życie, o którym Jezus mówił: „przyjść do Mnie, aby mieć życie” (J 5,40). Nie trzeba więc zaczynać od pierwszej strony Biblii – dobrze zacząć tam, gdzie najprościej spotkać Jezusa. Jeśli pierwsze zdania tej Ewangelii wydadzą ci się trudne, czytaj dalej: zaraz zaczyna się opowieść o ludziach, którzy Go spotkali.",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Z jakim pytaniem o Jezusa chciałbyś zacząć czytać Ewangelię Jana?"
             }
           ]
         }
@@ -450,13 +521,14 @@
     }
   ],
   "application": {
-    "text": "Biblia to nie zbiór dawnych opinii ani religijny podręcznik do zaliczenia. To natchnione Słowo Boże - list od Przyjaciela, który chce być poznany. Jej autorytet bierze się z Boga, dlatego jest najwyższą miarą wiary (sola scriptura). Czytaj ją z modlitwą, z uwagą na kontekst, pozwalając, by Pismo wyjaśniało Pismo - i traktuj ją jak codzienny pokarm. Nie musisz zaczynać „od początku\": Ewangelia Jana to najprostsza droga, by spotkać Jezusa.",
-    "challenge": "Przez najbliższy tydzień czytaj codziennie jeden rozdział Ewangelii Jana. Zacznij każde czytanie krótką modlitwą słowami Ps 119,18 („Otwórz oczy moje…\"), a po przeczytaniu zapisz jedno zdanie: czego dziś dowiedziałeś się o Jezusie i co chcesz z tym zrobić."
+    "text": "Bóg nie milczy. Biblia nie jest zbiorem dawnych opinii ani religijnym podręcznikiem do zaliczenia, lecz natchnionym Słowem Bożym – listem od Kogoś, kto chce, byśmy Go poznali. Stoi za nią Bóg, dlatego jest najwyższą miarą wiary i można jej ufać bardziej niż innym głosom. A wszystko w niej prowadzi do Osoby: Pisma „świadczą o Mnie” – mówi Jezus (J 5,39). Czytaj je więc jak ktoś, kto słucha: zacznij od modlitwy, zwracaj uwagę na kontekst, pozwalaj, by Pismo wyjaśniało Pismo, i pytaj, gdy nie rozumiesz. Wracaj do nich codziennie jak do pokarmu – a gdy jakiś dzień opuścisz, po prostu wróć: Bóg nie prowadzi listy obecności, czeka na rozmowę. Nie musisz zaczynać od pierwszej strony: zacznij od Ewangelii Jana, bo napisano ją po to, byś spotkał Jezusa.",
+    "challenge": "Zacznij czytać Ewangelię Jana – po jednym rozdziale dziennie; nie potrzebujesz specjalnego wydania, wystarczy dobry współczesny przekład. Przed każdym czytaniem pomódl się słowami Ps 119,18: „Otwórz mi oczy…”. Po przeczytaniu zapisz jedno zdanie: czego dowiedziałeś się dziś o Jezusie i co chcesz Mu odpowiedzieć."
   },
   "meta": {
-    "status": "draft",
-    "needsReview": true,
+    "status": "reviewed",
+    "needsReview": false,
     "generatedBy": "claude",
-    "notes": "status: draft needsReview: true generatedBy: claude notes: Ciekawostki PRO (8) rozłożone w sekcjach, przy tekstach, których dotyczą (nie na końcu). Źródła tła doktrynalnego: `books/_txt/00101 Revelation and Inspiration`, `00102 Biblical Interpretation` (handbook ADS). Add-on PRO (II/2-D1) zrealizowany jako noty n4 (Pismo a Tradycja; Mk 7,7-9; Iz 8,20) i n8 (kanon i deuterokanon). Formy oryginalne (PRO) do weryfikacji u recenzenta: `θεόπνευστος` (2 Tm 3,16), `φερόμενοι/φέρω` (2 P 1,21), `μάχαιρα` (Hbr 4,12), `ἀνακρίνω` (Dz 17,11), `κανών`, `הָגָה` (Joz 1,8) potwierdzić zapis i transliterację. Termin *distomospodany opisowo. Lista ksiąg deuterokanonicznych podana ogólnie; recenzent niech sprawdzi pełność wyliczenia. Tekst wersetów celowo NIE jest wstawiony tylko odnośniki (osis + ref); treść dociągana z przekładu."
+    "notes": "Przegląd 24.11.2026: zgodność cytatów z BE, filtr SDA (ABC: natchnienie, interpretacja, kanon; Handbook), baza smaczków, krytyka i korekta językowa. Transliteracja PL: hebrajski zapisem polskim, grecki łacińskim bez znaków diakrytycznych. Tekst wersetów celowo NIE jest wstawiony – tylko odnośniki (osis + ref).",
+    "reviewed": "2026-11-24"
   }
 }

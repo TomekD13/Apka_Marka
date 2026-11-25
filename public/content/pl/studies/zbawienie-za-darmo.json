@@ -5,14 +5,15 @@
   "category": "basic_practical",
   "seriesId": "spotkanie-z-bogiem",
   "order": 5,
-  "summary": "Zbawienie jest darem łaski przyjmowanym przez wiarę, nie nagrodą za uczynki. Bóg usprawiedliwia grzesznika i daje pewność życia wiecznego już teraz - pewność opartą na Chrystusie, nie na mojej bezgrzeszności. Uczynki są owocem zbawienia, nigdy jego ceną.",
+  "summary": "Zbawienie jest darem łaski, który przyjmujemy przez zaufanie, a nie nagrodą za uczynki. Bóg usprawiedliwia grzesznika – przyjmuje go jak sprawiedliwego ze względu na Chrystusa – i przywraca mu więź z sobą, a życie wieczne, czyli poznawanie Boga, zaczyna się już teraz. Pewność opiera się na Chrystusie, nie na mojej bezgrzeszności. Uczynki są owocem tej więzi, nigdy jej ceną.",
   "minutes": {
-    "base": 40,
-    "extended": 60
+    "base": 45,
+    "extended": 65
   },
   "tags": [
     "łaska",
     "wiara",
+    "zaufanie",
     "zbawienie",
     "usprawiedliwienie",
     "pewność",
@@ -34,7 +35,7 @@
               "ref": "Ef 2,8-9"
             }
           ],
-          "comment": "Trzy słowa-klucze: „łaską... przez wiarę... dar\". I jasne zaprzeczenie: „nie z uczynków, aby się nikt nie chlubił\". Zbawienie jest od początku do końca prezentem.",
+          "comment": "Bóg otworzył drogę powrotu (studium 4). Jak się na nią wchodzi? Paweł odpowiada trzema słowami: „Łaską (...) przez wiarę (...) darem Boga”. I jasne zaprzeczenie: „Nie z powodu uczynków, aby się nikt nie chlubił”. Zbawienie od początku do końca jest prezentem. A prezent mówi coś o tym, kto go daje: kilka wersetów wcześniej Paweł pisze, że Bóg działa „przez wielką swoją miłość, którą nas ukochał” (w. 4).",
           "questions": [
             {
               "id": "q1",
@@ -47,8 +48,8 @@
           "level": "advanced",
           "id": "n1",
           "noteType": "term",
-          "label": "„łaska\" jako dar bez zasługi",
-          "content": "Greckie *charis* oznacza dar dany z czystej życzliwości, bez zasługi i bez oczekiwania odpłaty. W teologii Pawła łaska nie jest „pomocą do samozbawienia\", lecz całym fundamentem: Bóg daje to, czego nie mogliśmy ani zasłużyć, ani odwzajemnić. Dlatego zbawienie „z łaski przez wiarę\" wyklucza chlubienie się (Ef 2,9) - dar z definicji nie jest zarobkiem.",
+          "label": "„łaska” jako dar bez zasługi",
+          "content": "Gr. *charis* to w świecie Nowego Testamentu życzliwość i dar. Zwykle wiązała się ze wzajemnością: dar szedł do tych, którzy byli go godni, a obdarowany odwdzięczał się i stawał się dłużnikiem. Paweł głosi łaskę innego rodzaju: Bóg daje niegodnym to, czego nie mogli ani zasłużyć, ani odwzajemnić. Łaska to najpierw postawa Boga wobec nas, a dopiero potem to, co z niej płynie. Nie jest „pomocą do samozbawienia”, lecz całym fundamentem – dlatego zbawienie „łaską (...) przez wiarę” wyklucza chlubienie się (Ef 2,9). Wdzięczność zostaje, ale jako odpowiedź na miłość, nie jako spłata długu.",
           "original": [
             {
               "lang": "grc",
@@ -58,25 +59,25 @@
           ],
           "questions": [
             {
-              "id": "q17",
-              "text": "Jak rozumienie łaski jako daru „bez zasługi i bez odpłaty\" chroni przed dwoma skrajnościami: rozpaczą i pychą?"
+              "id": "q2",
+              "text": "Jak łaska, której nie da się odpłacić, a która budzi wdzięczność, chroni przed dwiema skrajnościami: rozpaczą i pychą?"
             }
           ]
         },
         {
           "type": "passage",
-          "level": "base",
+          "level": "extended",
           "id": "u2",
           "passage": [
             {
-              "osis": "Titus.3.5",
-              "ref": "Tt 3,5"
+              "osis": "Titus.3.4-5",
+              "ref": "Tt 3,4-5"
             }
           ],
-          "comment": "Bóg zbawił nas „nie dla uczynków sprawiedliwości, które spełniliśmy, lecz według swego miłosierdzia\". Punktem wyjścia jest Jego miłosierdzie, nie nasz dorobek.",
+          "comment": "Paweł zaczyna od tego, kim jest Bóg: „objawiła się dobroć i miłość naszego Zbawiciela”. Zbawił nas „nie dzięki sprawiedliwym uczynkom, które wykonaliśmy, lecz zgodnie ze swoim miłosierdziem”. Punktem wyjścia jest Jego serce, nie nasz dorobek. (O „kąpieli odradzającej”, czyli nowym narodzeniu – studium 6.)",
           "questions": [
             {
-              "id": "q2",
+              "id": "q3",
               "text": "Co w tobie opiera się przed myślą, że nie musisz (i nie możesz) sobie na zbawienie zasłużyć?"
             }
           ]
@@ -91,11 +92,11 @@
               "ref": "Rz 4,4-5"
             }
           ],
-          "comment": "Paweł przeciwstawia „zapłatę\" (należną za pracę) i „dar\" (zaliczony z łaski temu, kto wierzy). Bóg „usprawiedliwia bezbożnego\" - nie „zasłużonego\".",
+          "comment": "Paweł zestawia dwie sytuacje. Pracownikowi zapłatę liczy się „według należności” – dostaje to, co mu się należy. Ten, kto „nie pracuje, a wierzy”, otrzymuje to, czego nie wypracował: jego wiara „jest liczona jako sprawiedliwość”. Wierzyć znaczy tu zaufać: oprzeć się na Bogu, a nie na własnym dorobku. A Bóg „usprawiedliwia bezbożnego” – przyjmuje jak sprawiedliwego kogoś, kto na to nie zasłużył.",
           "questions": [
             {
-              "id": "q3",
-              "text": "Dlaczego nazwanie zbawienia „zapłatą\" całkowicie zmieniłoby jego sens?"
+              "id": "q4",
+              "text": "Dlaczego nazwanie zbawienia „zapłatą” całkowicie zmieniłoby jego sens?"
             }
           ]
         },
@@ -104,8 +105,8 @@
           "level": "advanced",
           "id": "n2",
           "noteType": "term",
-          "label": "„poczytano\" to termin księgowy (Rz 4)",
-          "content": "W Rz 4 wielokrotnie powraca słowo *logizomai* - „zaliczyć, wpisać na konto\" (język rachunkowości). Bóg „zalicza\" wierzącemu sprawiedliwość, której ten nie wypracował, tak jak wpisuje się komuś dar na konto. To nie fikcja - to decyzja Boga, który ze względu na Chrystusa traktuje grzesznika jak sprawiedliwego. Wiara nie „zarabia\" tego wpisu, lecz go przyjmuje.",
+          "label": "„liczona jako sprawiedliwość” – termin księgowy (Rz 4)",
+          "content": "W Rz 4 wielokrotnie powraca gr. *logizomai* – „liczyć, zaliczyć, wpisać na konto” (język rachunkowości). Bóg zalicza wierzącemu sprawiedliwość, której ten nie wypracował. Co to znaczy, Paweł pokazuje słowami Dawida: „Szczęśliwy człowiek, któremu Pan nie policzy grzechu” (Rz 4,8). To nie fikcja, lecz przebaczenie: ze względu na Chrystusa Bóg nie liczy grzesznikowi jego win i traktuje go jak sprawiedliwego. Wiara nie „zarabia” tego wpisu, lecz go przyjmuje.",
           "original": [
             {
               "lang": "grc",
@@ -124,11 +125,11 @@
               "ref": "Rz 11,6"
             }
           ],
-          "comment": "Łaska i uczynki jako podstawa zbawienia wykluczają się: „Jeśli zaś dzięki łasce, to nie z powodu uczynków, bo wtedy łaska nie byłaby już łaską\". Nie da się ich mieszać.",
+          "comment": "Łaska i uczynki jako podstawa zbawienia wykluczają się: „Jeśli zaś dzięki łasce, to nie z powodu uczynków, bo wtedy łaska nie byłaby już łaską”. Nie da się ich mieszać.",
           "questions": [
             {
-              "id": "q4",
-              "text": "Dlaczego nawet „odrobina zasługi\" dołożona do łaski psuje całą Ewangelię?"
+              "id": "q5",
+              "text": "Dlaczego nawet „odrobina zasługi” dołożona do łaski psuje całą Ewangelię?"
             }
           ]
         },
@@ -142,11 +143,11 @@
               "ref": "Ga 2,16"
             }
           ],
-          "comment": "„Człowiek nie zostaje usprawiedliwiony z uczynków Prawa, lecz przez wiarę.\" To nie pomniejszenie Bożego Prawa, lecz uznanie, że ono nas nie zbawia.",
+          "comment": "„Człowiek nie dostępuje usprawiedliwienia z uczynków Prawa, lecz przez wiarę w Jezusa Chrystusa.” To nie pomniejszenie Bożego Prawa, lecz uznanie, że ono nas nie zbawia. Prawo stawia diagnozę i wskazuje drogę, ale ratuje Osoba.",
           "questions": [
             {
-              "id": "q5",
-              "text": "Jaką funkcję pełni więc Boże Prawo, skoro nie zbawia? (Por. Ga 3,24 - „wychowawca\" prowadzący do Chrystusa.)"
+              "id": "q6",
+              "text": "Paweł pisze, że Prawo „stało się naszym wychowawcą ku Chrystusowi” (Ga 3,24). Kiedy to, czego Bóg oczekuje, pokazało ci, że potrzebujesz Jezusa, a nie mocniejszego postanowienia?"
             }
           ]
         },
@@ -155,8 +156,8 @@
           "level": "advanced",
           "id": "n3",
           "noteType": "term",
-          "label": "„wiara\" to zaufanie, nie sama zgoda umysłu",
-          "content": "Biblijne „wiara\" (gr. *pistis*) to nie tylko przekonanie, że coś jest prawdą, ale zaufanie i oparcie się na kimś - to samo słowo niesie sens „wierność\". Usprawiedliwienie „przez wiarę\" nie znaczy więc „przez poprawne poglądy\", lecz „przez zawierzenie siebie Chrystusowi\". Dlatego wiara nie jest kolejnym „uczynkiem\", którym się chlubimy - jest pustą ręką wyciągniętą po dar.",
+          "label": "„wiara” to zaufanie, nie sama zgoda umysłu",
+          "content": "Biblijna „wiara” (gr. *pistis*) to nie tylko przekonanie, że coś jest prawdą, ale zaufanie i oparcie się na kimś – to samo słowo niesie sens „wierność”. Usprawiedliwienie „przez wiarę” nie znaczy więc „przez poprawne poglądy”, lecz „przez zawierzenie siebie Chrystusowi”. Dlatego wiara nie jest kolejnym „uczynkiem”, którym się chlubimy. Nie da się też wytworzyć jej w sobie na rozkaz: zaufanie rośnie, gdy poznajemy Tego, komu ufamy – „Wiara przecież rodzi się ze słuchania, ze słuchania Słowa Chrystusa” (Rz 10,17).",
           "original": [
             {
               "lang": "grc",
@@ -181,11 +182,11 @@
               "ref": "Rz 3,23-24"
             }
           ],
-          "comment": "Wszyscy zgrzeszyli - i ci sami „wszyscy\" są „usprawiedliwieni darmo, Jego łaską\". Ta sama powszechność grzechu i powszechność oferty.",
+          "comment": "„Wszyscy zgrzeszyli” – i ci sami wszyscy „zostali usprawiedliwieni darmo, Jego łaską”. Ta sama powszechność grzechu i powszechność oferty. „Usprawiedliwić” nie znaczy tu „znaleźć wymówkę”. To słowo z sali sądowej: sędzia ogłasza kogoś sprawiedliwym. „Darmo” znaczy: bez ceny po naszej stronie. Cenę zapłacił Ktoś inny – „przez odkupienie w Jezusie Chrystusie” (studium 4).",
           "questions": [
             {
-              "id": "q6",
-              "text": "Co znaczy dla ciebie, że stoisz w tym samym rzędzie „potrzebujących łaski\" co każdy inny człowiek?"
+              "id": "q7",
+              "text": "Co znaczy dla ciebie, że stoisz w tym samym rzędzie „potrzebujących łaski” co każdy inny człowiek?"
             }
           ]
         },
@@ -194,19 +195,19 @@
           "level": "advanced",
           "id": "n4",
           "noteType": "term",
-          "label": "„usprawiedliwić\" to wyrok, nie proces",
-          "content": "Czasownik *dikaioō* pochodzi z języka sądowego i znaczy „ogłosić sprawiedliwym, uniewinnić\". Usprawiedliwienie to wyrok Boży, który zmienia status grzesznika: nie „uczyniony stopniowo lepszym\", lecz „ogłoszony sprawiedliwym\" ze względu na Chrystusa, przyjętego wiarą. To podstawa pewności: wyrok już zapadł i nie zależy od wahań mojej duchowej kondycji.",
+          "label": "„usprawiedliwić” to wyrok, nie stopniowa poprawa",
+          "content": "Gr. *dikaioo* pochodzi z języka sądowego i znaczy „ogłosić sprawiedliwym, uniewinnić”. Tak samo mówi Stary Testament: „Ten, kto usprawiedliwia niegodziwego, i ten, kto potępia sprawiedliwego – obaj są wstrętni dla Pana” (Prz 17,15). Sędzia nikogo tu nie zmienia – ogłasza wyrok. Tym mocniej brzmi zdanie Pawła, że Bóg „usprawiedliwia bezbożnego” (Rz 4,5); jak może to zrobić i pozostać sprawiedliwy, pokazał krzyż (Rz 3,26 – studium 4). Usprawiedliwienie to Boży wyrok, który zmienia położenie grzesznika: nie „uczyniony stopniowo lepszym”, lecz „ogłoszony sprawiedliwym” ze względu na Chrystusa, przyjętego wiarą. Ten wyrok nie pozostaje w aktach: Sędzia przyjmuje uniewinnionego do siebie – o tym mówi następny tekst (Rz 5,1). To podstawa pewności: wyrok nie zależy od wahań mojego samopoczucia, lecz od Chrystusa, któremu ufam.",
           "original": [
             {
               "lang": "grc",
               "text": "δικαιόω",
-              "translit": "dikaioō"
+              "translit": "dikaioo"
             }
           ],
           "questions": [
             {
-              "id": "q18",
-              "text": "Dlaczego rozumienie usprawiedliwienia jako już ogłoszonego wyroku (a nie procesu „stawania się dobrym\") daje mocniejszą pewność?"
+              "id": "q8",
+              "text": "Dlaczego rozumienie usprawiedliwienia jako już ogłoszonego wyroku (a nie procesu „stawania się dobrym”) daje mocniejszą pewność?"
             }
           ]
         },
@@ -220,11 +221,11 @@
               "ref": "Rz 5,1"
             }
           ],
-          "comment": "„Usprawiedliwieni z wiary, mamy pokój z Bogiem.\" Usprawiedliwienie to nie tylko zmiana statusu prawnego, lecz koniec wrogości i początek pokoju.",
+          "comment": "„Usprawiedliwieni z wiary, mamy pokój z Bogiem.” Usprawiedliwienie to nie tylko zmiana statusu prawnego, lecz koniec naszej wrogości wobec Boga (Rz 5,10 – studium 4) i początek pokoju: przywrócona więź z Nim.",
           "questions": [
             {
-              "id": "q7",
-              "text": "Czym jest „pokój z Bogiem\", którego nie da się wypracować lękiem ani staraniem?"
+              "id": "q9",
+              "text": "Czym jest „pokój z Bogiem”, którego nie da się wypracować lękiem ani staraniem?"
             }
           ]
         },
@@ -234,15 +235,15 @@
           "id": "u8",
           "passage": [
             {
-              "osis": "Gen.15.6",
-              "ref": "Rdz 15,6"
+              "osis": "Gen.15.5-6",
+              "ref": "Rdz 15,5-6"
             }
           ],
-          "comment": "Już Abraham „uwierzył Bogu i poczytano mu to za sprawiedliwość\". Zasada „sprawiedliwość przez wiarę\" nie jest nowinką Pawła - jest sercem Biblii od początku.",
+          "comment": "„Abram uwierzył Panu, i policzono mu to za sprawiedliwość.” Ta wiara nie narodziła się z pewności siebie, lecz w rozmowie. Abram (później nazwany Abrahamem) mówi Bogu wprost o swoim rozczarowaniu – „Nie dałeś mi potomka” (w. 3) – a Bóg odpowiada obietnicą i wyprowadza go pod gwiazdy. Zasada „sprawiedliwość przez wiarę” nie jest nowinką Pawła – stoi już w pierwszej księdze Biblii.",
           "questions": [
             {
-              "id": "q8",
-              "text": "Co mówi fakt, że Bóg „zaliczył sprawiedliwość\" Abrahamowi za wiarę, zanim ten cokolwiek zrobił?"
+              "id": "q10",
+              "text": "Abram mówił Bogu o swoich wątpliwościach, a Bóg policzył mu wiarę za sprawiedliwość. Co to mówi o tym, czym jest wiara – i o czym ty mógłbyś szczerze porozmawiać z Bogiem?"
             }
           ]
         },
@@ -252,23 +253,23 @@
           "id": "n5",
           "noteType": "background",
           "label": "Abraham usprawiedliwiony przed Prawem i obrzezaniem",
-          "content": "Paweł podkreśla kolejność: Bóg uznał Abrahama za sprawiedliwego (Rdz 15,6) wiele lat przed obrzezaniem (Rdz 17) i całe wieki przed nadaniem Prawa na Synaju. To miażdżący argument: skoro „ojciec wierzących\" został usprawiedliwiony samą wiarą, zanim istniało Prawo czy obrzezanie, to i my nie jesteśmy zbawieni przez uczynki Prawa, lecz przez wiarę - dokładnie jak on (Rz 4,9-12)."
+          "content": "Paweł podkreśla kolejność: Bóg uznał Abrahama za sprawiedliwego (Rdz 15,6) co najmniej czternaście lat przed obrzezaniem (Rdz 12,4; 16,3; 17,24) i całe wieki przed nadaniem Prawa na Synaju. Obrzezanie nie było więc warunkiem, lecz „pieczęcią usprawiedliwienia z wiary, którą posiadał przed obrzezaniem” (Rz 4,11). To mocny argument: skoro „ojciec wszystkich wierzących” został usprawiedliwiony z wiary, zanim istniało Prawo czy obrzezanie, to i my nie jesteśmy zbawieni przez uczynki Prawa, lecz przez wiarę – dokładnie jak on (Rz 4,9-12)."
         },
         {
           "type": "passage",
-          "level": "extended",
+          "level": "base",
           "id": "u9",
           "passage": [
             {
-              "osis": "Luke.18.13-14",
-              "ref": "Łk 18,13-14"
+              "osis": "Luke.18.9-14",
+              "ref": "Łk 18,9-14"
             }
           ],
-          "comment": "Celnik nie wylicza zasług, lecz prosi: „Boże, bądź miłościw mnie grzesznemu\" - i to on „odszedł usprawiedliwiony\". Wiara to wyciągnięta pusta ręka.",
+          "comment": "Jezus opowiada tę historię „do tych, którzy byli przekonani o swej doskonałości” (w. 9). Faryzeusz staje przed Bogiem z listą: nie jest jak inni, pości, daje dziesięcinę. Niczego nie potrzebuje i o nic nie prosi. Celnik nie ma nic do pokazania: „bił się w piersi i mówił: Boże, okaż litość mnie grzesznemu”. W tekście greckim występuje tu inne słowo niż zwykłe „zlituj się”, którym kilka wersetów dalej woła niewidomy (w. 38) – spokrewnione z „przebłaganiem” (gr. *hilaskomai*; Rz 3,25, studium 4): celnik prosi, by Bóg sam usunął to, co go od Niego dzieli. I to on „odszedł do swego domu usprawiedliwiony” – przyjęty przez Boga. Tak wygląda wiara: nie lista zasług, lecz wyciągnięta pusta ręka.",
           "questions": [
             {
-              "id": "q9",
-              "text": "Bliżej ci dziś do postawy faryzeusza („mam czym się wykazać\") czy celnika („zdaję się na miłosierdzie\")?"
+              "id": "q11",
+              "text": "Bliżej ci dziś do postawy faryzeusza („mam czym się wykazać”) czy celnika („zdaję się na miłosierdzie”)?"
             }
           ]
         }
@@ -281,6 +282,24 @@
         {
           "type": "passage",
           "level": "base",
+          "id": "u20",
+          "passage": [
+            {
+              "osis": "John.17.3",
+              "ref": "J 17,3"
+            }
+          ],
+          "comment": "Jezus sam mówi, na czym polega życie wieczne: „aby poznali Ciebie, jedynego prawdziwego Boga, i Tego, którego posłałeś”. To nie tylko życie bez końca, ale przede wszystkim życie z Kimś. W Biblii „poznać” znaczy więcej niż wiedzieć coś o kimś – znaczy być z nim blisko. Dlatego życie wieczne zaczyna się już teraz, w zaufaniu i bliskości. Pełnię przyniesie zmartwychwstanie, a Jezus łączy jedno z drugim: kto wierzy, ma „życie wieczne, a Ja go wskrzeszę w dniu ostatecznym” (J 6,40).",
+          "questions": [
+            {
+              "id": "q12",
+              "text": "Jeśli życie wieczne to przede wszystkim znać Boga i być z Nim blisko, a nie nagroda na końcu drogi – gdzie ta bliskość zaczyna się w twoim życiu już dziś?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
           "id": "u10",
           "passage": [
             {
@@ -288,10 +307,10 @@
               "ref": "1 J 5,11-13"
             }
           ],
-          "comment": "Jan pisze wprost: „abyście wiedzieli, że macie życie wieczne\". Pewność nie jest pychą - jest celem, dla którego dano nam to świadectwo.",
+          "comment": "Jan nie mówi o życiu wiecznym jak o rzeczy, którą dostaje się osobno: „życie to jest w Jego Synu”, a „Ten, kto ma Syna, ma życie”. Pewność zbawienia to pewność więzi z Osobą. Jan pisze wprost, „abyście wiedzieli, że macie życie wieczne”. Pewność nie jest pychą – jest celem, dla którego Jan pisze swój list.",
           "questions": [
             {
-              "id": "q10",
+              "id": "q13",
               "text": "Czy do tej pory wydawało ci się, że pewność zbawienia to zarozumiałość? Co zmienia ten tekst?"
             }
           ]
@@ -301,12 +320,12 @@
           "level": "advanced",
           "id": "n6",
           "noteType": "textual",
-          "label": "cel Listu Jana: „abyście WIEDZIELI\" (1 J 5,13)",
-          "content": "Cała pierwsza część Listu Jana zmierza do tego zdania: „napisałem... abyście wiedzieli, że macie życie wieczne\". Użyty czasownik („abyście wiedzieli\") wskazuje na pewną wiedzę, nie na pobożne życzenie. Pewność zbawienia jest tu deklarowanym celem natchnionego tekstu - nie zuchwałością, lecz owocem zaufania świadectwu Boga o Synu (1 J 5,9-12).",
+          "label": "cel Pierwszego Listu Jana: „abyście wiedzieli” (1 J 5,13)",
+          "content": "Tu Jan sam mówi, po co pisze: „napisałem, abyście wiedzieli, że macie życie wieczne”. W Ewangelii podaje inny cel: „Te zaś spisano, abyście uwierzyli (...) i abyście wierząc, mieli życie w Jego imię” (J 20,31). Ewangelia ma doprowadzić do wiary; list, pisany do wierzących, ma doprowadzić ich do pewności. Czasownik „wiedzieć” oznacza tu pewną wiedzę, nie pobożne życzenie – a opiera się ona nie na samopoczuciu, lecz na świadectwie Boga o Synu (1 J 5,9-12).",
           "questions": [
             {
-              "id": "q19",
-              "text": "Skoro pewność zbawienia jest celem natchnionego listu, jak traktować nieustanne wątpienie „czy na pewno jestem zbawiony?\""
+              "id": "q14",
+              "text": "Skoro pewność zbawienia jest celem natchnionego listu, jak traktować nieustanne wątpienie „czy na pewno jestem zbawiony?”"
             }
           ]
         },
@@ -320,11 +339,11 @@
               "ref": "J 5,24"
             }
           ],
-          "comment": "„Kto słucha... i wierzy, ma (teraz) życie wieczne i nie idzie na sąd, lecz przeszedł ze śmierci do życia\". Czas teraźniejszy i dokonany - to już fakt, nie tylko nadzieja.",
+          "comment": "„Kto słucha Mojego słowa i wierzy Temu, który Mnie posłał, ma życie wieczne i nie idzie na potępienie, ale przeszedł ze śmierci do życia.” Jezus mówi „ma”, a nie „będzie miał”, i „przeszedł”, a nie „przejdzie”: dla tego, kto Go słucha i ufa Ojcu, to już się stało. Sąd Boży pozostaje rzeczywisty – „Wszyscy (...) musimy stawić się przed trybunałem Chrystusa” (2 Kor 5,10) – ale wierzącego nie czeka tam potępienie. Obiecuje to sam Sędzia: chwilę wcześniej Jezus mówi, że Ojciec „cały sąd dał Synowi” (w. 22). Tego, kto będzie mnie sądził, mogę znać już dziś (o sądzie – studium 25).",
           "questions": [
             {
-              "id": "q11",
-              "text": "Co znaczy, że życie wieczne jest czymś, co wierzący „ma\" już teraz, a nie tylko dostanie kiedyś?"
+              "id": "q15",
+              "text": "Jezus mówi, że wierzący „przeszedł ze śmierci do życia”. Co zmienia w myśleniu o przyszłości – także o sądzie – to, że najważniejsze przejście ma się już za sobą?"
             }
           ]
         },
@@ -334,15 +353,15 @@
           "id": "u12",
           "passage": [
             {
-              "osis": "John.10.28-29",
-              "ref": "J 10,28-29"
+              "osis": "John.10.27-29",
+              "ref": "J 10,27-29"
             }
           ],
-          "comment": "„Nie zginą na wieki i nikt nie wyrwie ich z mojej ręki.\" Pewność opiera się na mocy Pasterza, nie na sile mojego uchwytu.",
+          "comment": "Jezus mówi o swoich owcach trzy rzeczy: „słuchają Mojego głosu”, „Ja znam je”, „idą za Mną”. To opis więzi, nie cennik – tak wygląda życie tych, którzy Mu zaufali. I im obiecuje: „nikt nie wyrwie ich z Mojej ręki”. Pewność opiera się na mocy Pasterza, nie na sile mojego uchwytu. Nikt i nic z zewnątrz nie oderwie mnie od Niego. On sam nikogo jednak nie trzyma siłą – kiedy wielu uczniów odeszło, zapytał Dwunastu: „Czy i wy chcecie odejść?” (J 6,67). Mogę odejść, ale nie mogę zostać Mu odebrany.",
           "questions": [
             {
-              "id": "q12",
-              "text": "Jak zmienia poczucie bezpieczeństwa to, że trzyma mnie ręka Jezusa, a nie moja Jego?"
+              "id": "q16",
+              "text": "Jak zmienia poczucie bezpieczeństwa to, że trzyma mnie ręka Jezusa, a nie moja ręka Jego?"
             }
           ]
         },
@@ -356,11 +375,11 @@
               "ref": "Rz 8,38-39"
             }
           ],
-          "comment": "„Nic nie zdoła nas odłączyć od miłości Boga w Chrystusie.\" Lista jest wyczerpująca - nawet „ja sam\" nie jestem w niej wyjątkiem zdolnym wypaść poza tę miłość.",
+          "comment": "Paweł wylicza wszystko, co mogłoby stanąć między nami a miłością Boga – śmierć i życie, aniołów i moce, teraźniejszość i przyszłość – i kończy: „ani żadne inne stworzenie nie zdoła nas odłączyć od miłości Boga, która jest w Chrystusie Jezusie”. Nic w całym stworzeniu nie ma takiej siły. Zauważ, o czym mówi: nie o wytrwałości mojej wiary, lecz o Jego miłości. Mogę się od niej odwrócić – nie mogę sprawić, żeby Bóg przestał mnie kochać.",
           "questions": [
             {
-              "id": "q13",
-              "text": "Co na twojej osobistej liście „a może to mnie odłączy?\" Paweł już tu uwzględnił?"
+              "id": "q17",
+              "text": "Co na twojej osobistej liście „a może to mnie odłączy?” Paweł już tu uwzględnił?"
             }
           ]
         },
@@ -374,11 +393,11 @@
               "ref": "Flp 1,6"
             }
           ],
-          "comment": "„Ten, kto rozpoczął w was dobre dzieło, doprowadzi je do końca.\" Zbawienie to projekt Boga, a On nie porzuca tego, co zaczął.",
+          "comment": "„Ten, kto rozpoczął w was dobre dzieło, doprowadzi je do końca.” Zbawienie jest dziełem Boga, a On nie porzuca w połowie tego, co zaczął w człowieku.",
           "questions": [
             {
-              "id": "q14",
-              "text": "Czyją wytrwałością jest podtrzymywane twoje zbawienie - twoją czy Bożą? Co to zmienia?"
+              "id": "q18",
+              "text": "Na czym opierasz nadzieję, że wytrwasz: na własnej sile czy na Tym, który zaczął w tobie dobre dzieło? Co to zmienia w tym, jak trwasz przy Nim?"
             }
           ]
         },
@@ -387,8 +406,8 @@
           "level": "advanced",
           "id": "n7",
           "noteType": "term",
-          "label": "Duch jako „zadatek\" zbawienia",
-          "content": "Na potwierdzenie obietnicy Bóg daje wierzącym Ducha jako *arrabon* (Ef 1,14; 2 Kor 1,22; 5,5) - „zadatek, zaliczkę, gwarancję\". W grece kupieckiej był to zadatek przypieczętowujący transakcję; we współczesnej grece to samo słowo oznacza pierścionek zaręczynowy. Obecność Ducha w życiu wierzącego jest więc „zaliczką nieba\" - Bożą gwarancją, że to, co zaczął, doprowadzi do końca (Flp 1,6).",
+          "label": "Duch jako „zadatek” zbawienia",
+          "content": "Na potwierdzenie obietnicy Bóg daje wierzącym Ducha jako „zadatek” (gr. *arrabon*; Ef 1,14; 2 Kor 1,22; 5,5). W języku handlu była to pierwsza wpłata, która wiązała strony i zapowiadała resztę. W grece nowożytnej słowo żyje dalej w języku zaręczyn: nazywa się nim zaręczyny, a także pierścionek zaręczynowy. Duch w życiu wierzącego jest więc „zadatkiem naszego dziedzictwa” (Ef 1,14) – Bożą gwarancją, że to, co zaczął, doprowadzi do końca (Flp 1,6). I jak przy zaręczynach, nie chodzi tylko o umowę, lecz o obietnicę wspólnego życia.",
           "original": [
             {
               "lang": "grc",
@@ -401,7 +420,7 @@
     },
     {
       "id": "s4",
-      "heading": "Pewność w Chrystusie, uczynki jako owoc",
+      "heading": "Uczynki: owoc więzi, nie jej cena",
       "items": [
         {
           "type": "passage",
@@ -413,25 +432,11 @@
               "ref": "Ef 2,10"
             }
           ],
-          "comment": "Zaraz po „nie z uczynków\" (Ef 2,9) pada: jesteśmy „stworzeni... do dobrych uczynków\". Dobre życie jest celem i owocem zbawienia, nie jego ceną.",
+          "comment": "Zaraz po „nie z powodu uczynków” (Ef 2,9) pada: jesteśmy „stworzeni w Chrystusie Jezusie do dobrych uczynków”. Rodzą się one z bycia w Nim, a przygotował je Bóg. Dobre życie jest tym, do czego Bóg nas na nowo stwarza – owocem zbawienia, nie jego ceną.",
           "questions": [
             {
-              "id": "q15",
-              "text": "Jak rozumiesz różnicę: uczynki „żeby być zbawionym\" kontra uczynki „ponieważ jestem zbawiony\"?"
-            }
-          ]
-        },
-        {
-          "type": "note",
-          "level": "advanced",
-          "id": "n8",
-          "noteType": "background",
-          "label": "usprawiedliwienie a uświęcenie (nie sprzeczność)",
-          "content": "Biblia mówi i „z łaski, nie z uczynków\" (Ef 2,8-9), i „wiara bez uczynków martwa\" (Jk 2,17). To nie sprzeczność, lecz dwa aspekty: usprawiedliwienie (przyjęcie przez Boga) jest darmowe i jednorazowe; uświęcenie (przemiana życia) jest jego owocem i procesem. Uczynki nie są korzeniem zbawienia, lecz jego owocem - porządek jest zawsze: najpierw dar, potem odpowiedź (1 J 4,19).",
-          "questions": [
-            {
-              "id": "q20",
-              "text": "Jak rozróżnienie „korzeń a owoc\" rozwiązuje pozorny konflikt między Pawłem a Jakubem?"
+              "id": "q19",
+              "text": "Jak rozumiesz różnicę: uczynki „żeby być zbawionym” kontra uczynki „ponieważ jestem zbawiony”?"
             }
           ]
         },
@@ -445,11 +450,11 @@
               "ref": "J 15,4-5"
             }
           ],
-          "comment": "Owoc rodzi się z „trwania\" w Krzewie, nie z wysiłku gałązki: „beze Mnie nic nie możecie uczynić\". Najpierw więź, potem owoc.",
+          "comment": "Owoc rodzi się z „trwania” w krzewie winnym, nie z wysiłku latorośli: „beze Mnie nic nie możecie uczynić”. Greckie słowo przełożone jako „trwać” (*meno*) znaczy po prostu „zostać” – w tym samym zdaniu BE oddaje je raz tak, raz tak („jeśli nie pozostanie w krzewie winnym”). Tym słowem uczniowie w drodze do Emaus prosili Jezusa: „Pozostań z nami” (Łk 24,29). Najpierw przyjść do Niego, potem przy Nim zostać. A to ma konkretny kształt: „Jeśli we Mnie będziecie trwać, a Moje słowa w was” (w. 7) – codzienne słuchanie Jego słowa i rozmowa z Nim.",
           "questions": [
             {
-              "id": "q16",
-              "text": "Co praktycznie znaczy „trwać w Jezusie\", zamiast „starać się na własną rękę\"?"
+              "id": "q20",
+              "text": "Jak wygląda u ciebie „zostawanie przy Jezusie” w zwykły dzień – i co je najczęściej wypiera?"
             }
           ]
         },
@@ -463,10 +468,10 @@
               "ref": "Tt 2,11-14"
             }
           ],
-          "comment": "To „łaska... uczy nas\" porzucać zło i żyć pobożnie. Łaska nie jest pozwoleniem na byle jakie życie - jest mocą, która naprawdę przemienia.",
+          "comment": "To „zbawcza łaska Boga (...) wychowuje nas”, abyśmy odrzucili bezbożność i żyli „roztropnie, sprawiedliwie i pobożnie”. Łaska nie jest pozwoleniem na byle jakie życie – jak dobry wychowawca uczy i daje siłę do zmiany. A cel jest osobisty: Jezus „wydał za nas samego siebie”, aby „oczyścić dla siebie na własność lud”. Chce nas mieć dla siebie.",
           "questions": [
             {
-              "id": "q17",
+              "id": "q21",
               "text": "Jak łaska może jednocześnie być darmowa i prowadzić do realnej zmiany życia?"
             }
           ]
@@ -481,11 +486,25 @@
               "ref": "Jk 2,17-18"
             }
           ],
-          "comment": "„Wiara bez uczynków jest martwa.\" To nie zaprzeczenie łaski, lecz jej sprawdzian: żywa wiara zawsze owocuje. Owoc dowodzi życia, nie kupuje go.",
+          "comment": "Wiara, „jeśli nie jest potwierdzona uczynkami, jest martwa sama w sobie”. Jakub nie spiera się z Pawłem. Paweł ostrzega przed próbą zapracowania na zbawienie, Jakub – przed wiarą, która niczego w życiu nie zmienia. Owoc dowodzi życia, nie kupuje go.",
           "questions": [
             {
-              "id": "q18",
-              "text": "Czym różni się „wiara, która owocuje\" (żywa) od „wiary, która ma owocami coś załatwić\" (kupczenie)?"
+              "id": "q22",
+              "text": "Czym różni się „wiara, która owocuje” (żywa) od „wiary, która ma owocami coś załatwić” (kupczenie)?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n8",
+          "noteType": "background",
+          "label": "usprawiedliwienie a uświęcenie (nie sprzeczność)",
+          "content": "Biblia mówi i „nie z powodu uczynków” (Ef 2,9), i „wiara bez uczynków jest martwa” (Jk 2,26). To nie sprzeczność, lecz dwa aspekty. Usprawiedliwienie (przyjęcie przez Boga) jest darmowe i nie jest procesem: Bóg przyjmuje człowieka od razu, gdy ten Mu zaufa, a potem żyje się w „tej łasce, w której trwamy” (Rz 5,2). Uświęcenie (przemiana życia) jest jego owocem i trwa całe życie. Paweł i Jakub powołują się nawet na ten sam werset o Abrahamie (Rdz 15,6; Rz 4,3; Jk 2,23). Paweł patrzy na chwilę, gdy Abraham zaufał Bogu; Jakub – na to, do czego to zaufanie doprowadziło po latach, gdy złożył Izaaka na ołtarzu (Jk 2,21-22). Dlatego te same słowa znaczą u nich co innego. „Wiara”, którą Jakub nazywa martwą, to sama zgoda rozumu – taką mają i demony (Jk 2,19). A gdy pisze, że człowiek „zostaje usprawiedliwiony dzięki uczynkom, a nie wyłącznie dzięki wierze” (Jk 2,24), mówi o wierze, która wyszła na jaw: uczynki pokazują, że jest żywa. I dodaje, kim Abraham przez tę wiarę został: „został nazwany przyjacielem Boga” (Jk 2,23). Uczynki nie są korzeniem zbawienia, lecz jego owocem.",
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Jak rozróżnienie „korzeń a owoc” rozwiązuje pozorny konflikt między Pawłem a Jakubem?"
             }
           ]
         },
@@ -499,10 +518,10 @@
               "ref": "Rz 7,24-25"
             }
           ],
-          "comment": "Nawet wołając „Jak udręczonym jestem człowiekiem!\", Paweł natychmiast dziękuje Bogu „przez Jezusa Chrystusa\". Pewność nie zależy od mojej bezgrzeszności, lecz od Chrystusa.",
+          "comment": "Nawet wołając „Jak udręczonym jestem człowiekiem!”, Paweł zaraz dziękuje „Bogu przez Jezusa Chrystusa, naszego Pana”. A zaraz potem pisze: „Żadne więc teraz potępienie nie zagraża tym, którzy są w Jezusie Chrystusie” (Rz 8,1). Pewność nie zależy od mojej bezgrzeszności, lecz od tego, w Kim jestem (o upadkach i powrocie – studium 10).",
           "questions": [
             {
-              "id": "q19",
+              "id": "q24",
               "text": "Dlaczego świadomość własnej słabości nie musi podkopywać pewności zbawienia opartej na Jezusie?"
             }
           ]
@@ -511,13 +530,14 @@
     }
   ],
   "application": {
-    "text": "Zbawienia nie da się kupić ani zapracować - można je tylko przyjąć jak dar. Bóg z łaski, przez wiarę, ogłasza grzesznika sprawiedliwym ze względu na Chrystusa i daje pewność życia wiecznego już teraz. Ta pewność nie opiera się na tym, jak dobry dziś jestem, lecz na tym, kim jest i co zrobił Jezus. Twoja bezgrzeszność nie jest warunkiem zbawienia - owszem, zmienione życie nadejdzie, ale jako owoc daru, nigdy jako jego cena.",
-    "challenge": "Przeczytaj na głos 1 J 5,11-13 i J 5,24, wstawiając w nie własne imię. Zapisz w pierwszej osobie jedno zdanie pewności (np. „Mam życie wieczne, bo mam Syna\"). W tym tygodniu, ilekroć wróci myśl „muszę zasłużyć\", odpowiedz tym zdaniem - i wykonaj jeden dobry uczynek nie po to, by coś zyskać, lecz z wdzięczności za to, co już otrzymałeś."
+    "text": "Zbawienia nie da się kupić ani wypracować – można je tylko przyjąć jak dar, a przyjąć dar to zaufać Temu, kto go daje. Bóg z łaski, przez wiarę, ogłasza grzesznika sprawiedliwym ze względu na Chrystusa i przyjmuje go do siebie. Życie wieczne zaczyna się już teraz, bo polega na tym, by znać Boga i być z Nim. Stąd pewność: nie opiera się na tym, jak dobry dziś jestem, lecz na tym, kim jest i co zrobił Jezus. Moja bezgrzeszność nie jest warunkiem zbawienia – przemiana życia nastąpi, ale jako owoc więzi z Nim, nigdy jako jej cena. A gdy upadnę, wracam do Tego samego Zbawiciela (o tym w studium 10).",
+    "challenge": "Przeczytaj na głos J 5,24 i 1 J 5,11-13, wstawiając w nie własne imię. Zapisz w pierwszej osobie jedno zdanie pewności (np. „Mam życie wieczne, bo mam Syna”). Ilekroć wróci myśl „muszę zasłużyć”, odpowiedz tym zdaniem i powiedz Bogu, że Mu ufasz. I zostań przy Nim: każdego dnia przeczytaj choć kilka zdań Jezusa (możesz zacząć od J 15,1-11) i powiedz Mu, co z nich chcesz zachować. A gdy nadarzy się okazja, by zrobić komuś coś dobrego, zrób to nie po to, by coś zyskać, lecz z wdzięczności za to, co już otrzymałeś."
   },
   "meta": {
-    "status": "draft",
-    "needsReview": true,
+    "status": "reviewed",
+    "needsReview": false,
     "generatedBy": "claude",
-    "notes": "status: draft needsReview: true generatedBy: claude notes: Ciekawostki PRO (8) rozłożone w sekcjach, przy tekstach, których dotyczą (nie na końcu). Źródła tła doktrynalnego: `books/_txt/00107 Salvation` (handbook ADS). Formy oryginalne (PRO) do weryfikacji u recenzenta: `χάρις`, `λογίζομαι`, `πίστις`, `δικαιόω`, `ἀρραβών` potwierdzić zapis i transliterację. W n6 forma *eidēteopisana bez zapisu greckiego (forma fleksyjna do potwierdzenia). Akcenty ADS: łaska pierwsza, pewność zbawienia jako dobra nowina, bezgrzeszność NIE jako warunek, uczynki = owoc. Ga 2,16 / Jk 2,17 ujęte komplementarnie (bez rozmywania sola gratia / sola fide). Tekst wersetów celowo NIE jest wstawiony tylko odnośniki (osis + ref); treść dociągana z przekładu."
+    "notes": "Przegląd 23.11.2026: zgodność cytatów z BE, filtr SDA (T16, T14, T01, M01, M13; ABC, Handbook), baza smaczków, krytyka i korekta językowa. Transliteracja PL: hebrajski zapisem polskim, grecki łacińskim bez znaków diakrytycznych. Tekst wersetów celowo NIE jest wstawiony – tylko odnośniki (osis + ref).",
+    "reviewed": "2026-11-23"
   }
 }

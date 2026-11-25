@@ -5,9 +5,9 @@
   "category": "basic_practical",
   "seriesId": "zycie-z-bogiem",
   "order": 11,
-  "summary": "Powrót Jezusa to obietnica i serce chrześcijańskiej nadziei. Poznajemy pewność tej obietnicy i znaki czasu, a zwłaszcza charakter Jego przyjścia: widzialne, słyszalne, globalne i ostateczne - „ujrzy Go wszelkie oko\". Odpowiadamy na błędne wyobrażenia o „tajemnym porwaniu\" i „niewidzialnej obecności\". To nadzieja, nie powód do lęku.",
+  "summary": "Powrót Jezusa to Jego osobista obietnica: „znowu przyjdę i zabiorę was do siebie”. Poznajemy jej pewność, sens znaków czasu i to, jak Jezus przyjdzie – widzialnie, słyszalnie, dla całego świata, a nie w ukryciu. Przede wszystkim jednak pytamy, Kto przychodzi i po co: Jezus chce, żebyśmy byli z Nim na zawsze. Dlatego gotowość to więź z Nim już dziś, a Jego przyjście – nadzieja, nie powód do lęku.",
   "minutes": {
-    "base": 40,
+    "base": 45,
     "extended": 60
   },
   "tags": [
@@ -15,12 +15,13 @@
     "nadzieja",
     "znaki czasu",
     "paruzja",
+    "gotowość",
     "eschatologia"
   ],
   "sections": [
     {
       "id": "s1",
-      "heading": "Obietnica powrotu",
+      "heading": "Obietnica: „znowu przyjdę”",
       "items": [
         {
           "type": "passage",
@@ -32,11 +33,49 @@
               "ref": "J 14,1-3"
             }
           ],
-          "comment": "Jezus pociesza uczniów osobistą obietnicą: „znowu przyjdę i zabiorę was do siebie\". To nie idea ani symbol - to zapowiedź powrotu konkretnej Osoby, która odeszła i wróci.",
+          "comment": "Jezus mówi to w ostatni wieczór przed krzyżem. Uczniowie są zatrwożeni, bo właśnie zapowiedział, że odchodzi (J 13,33). Odpowiada im obietnicą: „znowu przyjdę i zabiorę was do siebie” – mówi o dniu, w którym sam wróci, nie o chwili naszej śmierci (o niej studium 12). To nie idea ani symbol, tylko słowo konkretnej Osoby, która odchodzi i wróci. Zwróć uwagę na cel: nie samo „miejsce”, ale „abyście tam, gdzie Ja jestem i wy byli”. Niebo to przede wszystkim bycie z Nim.",
           "questions": [
             {
               "id": "q1",
               "text": "Co znaczy dla ciebie, że powrót Jezusa jest Jego osobistą obietnicą daną tym, których kocha?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u19",
+          "passage": [
+            {
+              "osis": "John.17.24",
+              "ref": "J 17,24"
+            }
+          ],
+          "comment": "Jeszcze tego samego wieczoru Jezus mówi to samo, tym razem do Ojca: „Ojcze, chcę, aby ci, których Mi powierzyłeś, byli ze Mną tam, gdzie Ja jestem, aby oglądali Moją chwałę”. Jego powrót to nie tylko nasze marzenie – to Jego własne pragnienie. Nie my pierwsi tęsknimy za Nim; to On pierwszy chce mieć nas przy sobie.",
+          "questions": [
+            {
+              "id": "q2",
+              "text": "Co zmienia w twoim oczekiwaniu to, że to Jezus pierwszy chce, żebyś był z Nim?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "level": "advanced",
+          "id": "n9",
+          "noteType": "term",
+          "label": "„mieszkania” – miejsce, w którym się zostaje (J 14,2)",
+          "content": "Słowo „mieszkania” (J 14,2) to gr. *monai*, od czasownika *meno* – „pozostawać, trwać”. To samo słowo wraca w J 14,23 – i są to jedyne dwa miejsca w Nowym Testamencie, w których pada: „do niego przyjdziemy, i zamieszkamy u niego” (studium 7). Od tego samego czasownika pochodzi wezwanie „Trwajcie we Mnie” (J 15,4 – studium 5) i Janowe „pozostańcie w Nim” (1 J 2,28), do którego dojdziemy na końcu tego studium. Jezus obiecuje więc nie tyle pałac, ile miejsce, w którym zostaje się na stałe – przy Nim. A ta więź zaczyna się już teraz: zanim zabierze nas do siebie, chce zamieszkać w nas.",
+          "original": [
+            {
+              "lang": "grc",
+              "text": "μοναί",
+              "translit": "monai"
+            },
+            {
+              "lang": "grc",
+              "text": "μένω",
+              "translit": "meno"
             }
           ]
         },
@@ -50,10 +89,10 @@
               "ref": "Dz 1,9-11"
             }
           ],
-          "comment": "Aniołowie zapewniają: „ten Jezus… przyjdzie tak samo, jak Go widzieliście idącego do nieba\". Wzięty w górę na oczach uczniów - wróci w ten sam, widzialny sposób.",
+          "comment": "Uczniowie patrzą, jak obłok zabiera Jezusa sprzed ich oczu, a dwaj mężczyźni w białych szatach mówią: „Ten Jezus, który został wzięty od was do nieba, tak przyjdzie, jak widzieliście Go wstępującego do nieba”. Wróci nie ktoś inny, ale ten sam Jezus, z którym jedli, rozmawiali i którego znali. I wróci tak, jak odszedł: osobiście, w ciele, na oczach ludzi.",
           "questions": [
             {
-              "id": "q2",
+              "id": "q3",
               "text": "Skoro odejście Jezusa było widzialne i rzeczywiste, czego to uczy o sposobie Jego powrotu?"
             }
           ]
@@ -63,12 +102,12 @@
           "level": "advanced",
           "id": "n1",
           "noteType": "background",
-          "label": "„obłoki\" i „Syn Człowieczy\" (Dn 7,13)",
-          "content": "Zapowiedź przyjścia „z obłokami\" (Dz 1,11; Ap 1,7) sięga Dn 7,13-14, gdzie „ktoś podobny do Syna Człowieczego\" przychodzi „na obłokach nieba\" i otrzymuje wieczne królestwo. W całej Biblii obłok towarzyszy objawieniu Bożej chwały (Wj 13,21; 40,34). Powrót Jezusa „na obłokach\" to więc nie meteorologia, lecz język teofanii: nadejście Króla w pełnej chwale Boga - tego samego „Syna Człowieczego\", którym Jezus najczęściej sam siebie nazywał.",
+          "label": "„obłoki” i „Syn Człowieczy” (Dn 7,13)",
+          "content": "Obłok, który zabrał Jezusa sprzed oczu uczniów (Dz 1,9), wraca w zapowiedziach Jego przyjścia. Ten obraz ma starotestamentowe tło: w Dn 7,13-14 „na obłokach niebios” przybywa „ktoś podobny do Syna Człowieczego”: podchodzi do Przedwiecznego – w niebie, przed Jego tron – i otrzymuje panowanie, które „nie przeminie”. Nowy Testament przywołuje ten obraz, gdy mówi o powrocie Jezusa „na obłokach nieba” (Mt 24,30; por. Ap 1,7). Sam Jezus powołał się na te słowa przed arcykapłanem, w chwili gdy po ludzku wszystko przegrał: „Odtąd ujrzycie Syna Człowieczego, siedzącego po prawicy Mocy i przychodzącego na obłokach nieba” (Mt 26,64). W Biblii obłok towarzyszy objawieniu Bożej chwały (Wj 13,21; 40,34). Przyjście „na obłokach” to więc nie meteorologia, lecz język Bożej obecności: Król, któremu powierzono królestwo, wraca w pełnej chwale.",
           "questions": [
             {
-              "id": "q17",
-              "text": "Co dodaje do obrazu powrotu Jezusa świadomość, że „przyjście na obłokach\" to starotestamentowy język Bożej chwały i królowania?"
+              "id": "q4",
+              "text": "Co dodaje do obrazu powrotu Jezusa świadomość, że „przyjście na obłokach” to starotestamentowy język Bożej chwały i królowania?"
             }
           ]
         },
@@ -82,11 +121,11 @@
               "ref": "Hbr 9,28"
             }
           ],
-          "comment": "Chrystus „ukaże się po raz drugi\" - nie po to, by rozprawić się z grzechem (to dokonało się na krzyżu), lecz „dla zbawienia tych, którzy go oczekują\". Powrót jest dopełnieniem dzieła zbawienia.",
+          "comment": "Za pierwszym razem Chrystus przyszedł, by „wziąć na siebie grzechy wielu”. Za drugim „już nie z powodu grzechu da się zobaczyć tym, którzy Go oczekują dla zbawienia”. Krzyż wystarczył – powrót niczego do krzyża nie dodaje, tylko przynosi to, co krzyż zapewnił. Ci, którzy na Niego czekają, czekają na Kogoś, kto już raz oddał za nich życie.",
           "questions": [
             {
-              "id": "q3",
-              "text": "Czym różni się oczekiwanie na kogoś bliskiego od biernego „czekania, aż coś się stanie\"?"
+              "id": "q5",
+              "text": "Czym różni się oczekiwanie na kogoś bliskiego od biernego „czekania, aż coś się stanie”?"
             }
           ]
         }
@@ -94,7 +133,7 @@
     },
     {
       "id": "s2",
-      "heading": "Pewność i znaki czasu",
+      "heading": "Kiedy? Znaki i nieznany dzień",
       "items": [
         {
           "type": "passage",
@@ -106,11 +145,11 @@
               "ref": "Mt 24,3-8"
             }
           ],
-          "comment": "Na pytanie o „znak przyjścia\" Jezus wymienia wojny, głód, trzęsienia ziemi - mówi, że to „dopiero początek boleści\". Znaki nie służą wyliczaniu daty, lecz utrzymywaniu czujności.",
+          "comment": "Chwilę wcześniej Jezus zapowiedział zburzenie świątyni (w. 2), dlatego uczniowie pytają o dwie rzeczy naraz: „kiedy to nastąpi i co będzie znakiem Twojego przyjścia i końca świata?”. Jezus zaczyna od ostrzeżenia: „Uważajcie, aby ktoś was nie zwiódł”. O wojnach mówi: „nie dajcie się zastraszyć. Tak bowiem musi się stać, ale to jeszcze nie koniec”. A całość nazywa „początkiem boleści” – w oryginale to słowo oznacza bóle porodowe: ból prawdziwy, ale taki, który zapowiada narodziny. Znaki nie służą więc wyliczaniu daty ani straszeniu, lecz czujności i spokojnej ufności.",
           "questions": [
             {
-              "id": "q4",
-              "text": "Dlaczego znaki mają budzić czujność, a nie ciekawość „kiedy dokładnie\"?"
+              "id": "q6",
+              "text": "Dlaczego znaki mają budzić czujność, a nie ciekawość „kiedy dokładnie”?"
             }
           ]
         },
@@ -119,8 +158,8 @@
           "level": "advanced",
           "id": "n2",
           "noteType": "term",
-          "label": "„początek boleści\" to bóle porodowe (Mt 24,8)",
-          "content": "Greckie *odin* oznacza ból porodowy. Jezus nie mówi więc o bezsensownym narastaniu cierpień, lecz o czymś, co zapowiada narodziny: skurcze są coraz częstsze i mocniejsze, ale prowadzą do nowego życia. Znaki czasu czyta się jak bóle porodowe - są trudne, lecz są zwiastunem nadchodzącego, nie końcem bez nadziei.",
+          "label": "„początek boleści” to bóle porodowe (Mt 24,8)",
+          "content": "Greckie *odin* (tak samo w 1 Tes 5,3) oznacza ból porodowy. Poród, który się zaczął, prowadzi do narodzin – choć bywa długi. Dlatego Jezus mówi o „początku”, a nie o ostatniej chwili: znaki potwierdzają, że Jego obietnica się spełni, ale nie wyznaczają daty.",
           "original": [
             {
               "lang": "grc",
@@ -139,11 +178,11 @@
               "ref": "Mt 24,14"
             }
           ],
-          "comment": "„Ewangelia o Królestwie będzie głoszona po całej ziemi… a wtedy nadejdzie koniec\". Głoszenie dobrej nowiny całemu światu jest jednym z głównych znaków zbliżającego się powrotu.",
+          "comment": "„A ta Dobra Nowina o Królestwie będzie głoszona po całej ziemi (...). I wówczas nadejdzie koniec”. Ten znak różni się od pozostałych: nie spada na świat z zewnątrz, lecz dzieje się przez ludzi, którzy znają Jezusa i mówią o Nim innym. Czekanie na Jego powrót nie jest więc bezczynne. To Bóg doprowadzi to dzieło do końca – nas zaprasza, byśmy mieli w nim udział.",
           "questions": [
             {
-              "id": "q5",
-              "text": "Jaką rolę w tym znaku - głoszeniu Ewangelii „po całej ziemi\" - możesz mieć ty?"
+              "id": "q7",
+              "text": "Kto opowiedział o Jezusie tobie – i komu ty mógłbyś o Nim powiedzieć?"
             }
           ]
         },
@@ -157,11 +196,11 @@
               "ref": "Mt 24,36"
             }
           ],
-          "comment": "„Nikt jednak nie wie, kiedy nadejdzie ten dzień i godzina\" - ani aniołowie, ani Syn w swoim ziemskim uniżeniu, tylko Ojciec. Dlatego wszelkie wyliczanie dat jest sprzeczne ze słowami Jezusa; pewność dotyczy faktu, nie daty.",
+          "comment": "Ani aniołowie, ani Syn w swoim ziemskim uniżeniu – „tylko sam Ojciec”. Dlatego każda próba wyznaczenia daty powrotu Jezusa jest sprzeczna z Jego słowami. Historia zna wiele takich dat, wyznaczanych nieraz przez szczerze wierzących ludzi – żadna się nie sprawdziła, a niejedna zraniła wiarę. Pewność dotyczy faktu, nie daty. Ten, który obiecał, nie oczekuje od nas kalendarza, lecz zaufania.",
           "questions": [
             {
-              "id": "q6",
-              "text": "Czemu „nieznajomość daty\" jest tu zaletą wiary, a nie jej brakiem?"
+              "id": "q8",
+              "text": "Dlaczego to dobrze, że nie znamy daty? Co zmieniłoby się w twoim życiu z Bogiem, gdybyś ją znał?"
             }
           ]
         },
@@ -173,31 +212,17 @@
             {
               "osis": "2Pet.3.3-4",
               "ref": "2 P 3,3-4"
-            }
-          ],
-          "comment": "Piotr zapowiada szyderców: „gdzie jest obietnica przyjścia Jego?\". Zwłoka bywa źle rozumiana jako odwołanie obietnicy - a jest przestrzenią Bożej cierpliwości.",
-          "questions": [
-            {
-              "id": "q7",
-              "text": "Jak odróżnić zdrowe oczekiwanie od zniecierpliwienia, które zaczyna wątpić w obietnicę?"
-            }
-          ]
-        },
-        {
-          "type": "passage",
-          "level": "extended",
-          "id": "u8",
-          "passage": [
+            },
             {
               "osis": "2Pet.3.9",
               "ref": "2 P 3,9"
             }
           ],
-          "comment": "„Nie zwleka Pan… lecz okazuje cierpliwość, bo nie chce, aby ktokolwiek zginął\". Powód „opóźnienia\" to miłość - czas, by więcej ludzi mogło przyjść do Boga.",
+          "comment": "Piotr zapowiada szyderców, którzy będą „postępować według własnych żądz” i pytać: „Gdzie jest obietnica Jego przyjścia?”. Zauważ kolejność: najpierw życie po swojemu, potem kpina z obietnicy – szyderstwo bywa wygodnym usprawiedliwieniem. Piotr nie mówi tu o ludziach, którzy szczerze pytają. Kilka wersetów dalej odpowiada: „Pan nie zwleka z wypełnieniem obietnicy (...), ale jest cierpliwy względem was, gdyż nie chce, aby ktokolwiek zginął, lecz aby wszyscy się nawrócili”. To, co wygląda na zwłokę, jest cierpliwością miłości: Bóg daje czas, by jeszcze ktoś mógł do Niego wrócić – może ktoś z twoich bliskich, może ty.",
           "questions": [
             {
-              "id": "q8",
-              "text": "Co zmienia spojrzenie, że „zwłoka\" powrotu jest aktem Bożej cierpliwości wobec ludzi?"
+              "id": "q9",
+              "text": "Co się zmienia, gdy na „zwłokę” patrzysz jak na Bożą cierpliwość – także wobec ciebie?"
             }
           ]
         }
@@ -205,7 +230,7 @@
     },
     {
       "id": "s3",
-      "heading": "Jak Jezus przyjdzie: widzialnie, słyszalnie, globalnie",
+      "heading": "Jak Jezus przyjdzie: widzialnie, słyszalnie, dla całego świata",
       "items": [
         {
           "type": "passage",
@@ -217,11 +242,11 @@
               "ref": "Ap 1,7"
             }
           ],
-          "comment": "„Oto przychodzi z obłokami, i ujrzy Go wszelkie oko\". To kluczowy opis: przyjście będzie widzialne dla wszystkich ludzi, bez wyjątku - nie tajne, nie dla wybranych.",
+          "comment": "„Oto przychodzi z obłokami, i ujrzy Go wszelkie oko, i ci, którzy Go przebili”. To myśl przewodnia całej Apokalipsy: przyjście osobiste i widzialne dla wszystkich ludzi – nie w ukryciu i nie dla garstki wtajemniczonych. Zwróć uwagę, Kto przychodzi: Ten, którego przebito. Król nosi ślady ran poniesionych za nas. Dlatego ten sam widok wywoła dwie reakcje: płacz tych, którzy Go odrzucili, i radość tych, którzy Mu zaufali – „Oto jest nasz Bóg!” (Iz 25,9).",
           "questions": [
             {
-              "id": "q9",
-              "text": "Co dla zwykłej wiary oznacza zapewnienie, że Jezusa „ujrzy wszelkie oko\", a nie tylko nieliczni?"
+              "id": "q10",
+              "text": "Co daje ci zapewnienie, że Jezusa ujrzy „wszelkie oko” i nikt nie będzie zdany na cudze relacje?"
             }
           ]
         },
@@ -230,13 +255,31 @@
           "level": "advanced",
           "id": "n3",
           "noteType": "term",
-          "label": "„ujrzy Go wszelkie oko\" (Ap 1,7)",
-          "content": "Grecki zwrot *opsetai… pas ophthalmos* („zobaczy… wszelkie oko\") używa zwykłego czasownika widzenia fizycznego z podmiotem „wszelkie oko\". To język dosłownego, powszechnego oglądania, nie wewnętrznego „dostrzeżenia duchem\". Dodatek „nawet ci, którzy go przebili\" potwierdza realność i powszechność tego widzenia - zobaczą Go także ci, którzy Go odrzucili.",
+          "label": "„ujrzy Go wszelkie oko” (Ap 1,7)",
+          "content": "Ap 1,7 splata dwa proroctwa: Dn 7,13 (przychodzący „na obłokach niebios”) i Za 12,10 („Będą spoglądać na Mnie, którego przebili”). Zwrot *opsetai… pas ophthalmos* („ujrzy… wszelkie oko”) w takim otoczeniu – obłoki i „wszystkie plemiona ziemi”, które „opłakiwać Go będą” – mówi o widzeniu rzeczywistym i powszechnym, a nie o wewnętrznym „dostrzeżeniu duchem”. Jan pisze „przychodzi” w czasie teraźniejszym, jakby to już się działo, i zamyka zapowiedź podwójnym „Tak, amen”: to pewne.",
           "original": [
             {
               "lang": "grc",
               "text": "ὄψεται… πᾶς ὀφθαλμός",
               "translit": "opsetai… pas ophthalmos"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u12",
+          "passage": [
+            {
+              "osis": "Matt.24.23-26",
+              "ref": "Mt 24,23-26"
+            }
+          ],
+          "comment": "Jezus ostrzega wprost: „Jeśli więc powiedzą wam: Oto jest na pustyni, nie idźcie tam; Oto jest w domu, nie wierzcie”. Fałszywi mesjasze będą dokonywać „wielkich znaków i cudów” – cud sam w sobie niczego nie dowodzi. Nie trzeba więc iść za nikim, kto wskazuje Chrystusa w jakimś miejscu. Następny werset mówi dlaczego.",
+          "questions": [
+            {
+              "id": "q11",
+              "text": "Jak to ostrzeżenie pomaga rozpoznać i odrzucić doniesienia, że „Mesjasz jest tutaj” albo „jest tam”?"
             }
           ]
         },
@@ -250,11 +293,11 @@
               "ref": "Mt 24,27"
             }
           ],
-          "comment": "„Jak błyskawica… tak będzie przyjście Syna Człowieczego\". Błyskawica jest widoczna z każdej strony naraz - obraz przyjścia oczywistego dla całej ziemi, którego nie da się przeoczyć ani podrobić w ukryciu.",
+          "comment": "Jezus mówi to zaraz po ostrzeżeniu przed tymi, którzy będą twierdzić, że jest „na pustyni” albo „w domu”. „Syn Człowieczy” – tak najczęściej mówił o sobie. Jego przyjście będzie jak błyskawica: nikt nie musi jej ogłaszać, widać ją z każdej strony naraz. Nie trzeba będzie Go szukać ani nikomu udowadniać, że przyszedł.",
           "questions": [
             {
-              "id": "q10",
-              "text": "Dlaczego obraz błyskawicy wyklucza „ciche, lokalne\" przyjście, o którym wiedzieliby tylko niektórzy?"
+              "id": "q12",
+              "text": "Co mówi o Jezusie to, że swojego przyjścia przed nikim nie ukryje i nikomu nie każe go szukać?"
             }
           ]
         },
@@ -263,25 +306,24 @@
           "level": "advanced",
           "id": "n4",
           "noteType": "term",
-          "label": "paruzja: uroczyste, jawne przybycie (Mt 24,27)",
-          "content": "Greckie *parousia* znaczy „przybycie, obecność\" i w świecie antycznym opisywało oficjalny, publiczny wjazd władcy do miasta - witany przez tłumy, niemożliwy do ukrycia. Nowy Testament używa tego słowa o powrocie Chrystusa (Mt 24,3.27.37; 1 Tes 4,15). Już samo słownictwo wyklucza „prywatne\", ciche przyjście: paruzja z definicji jest wydarzeniem publicznym.",
+          "label": "paruzja i epifania: przybycie Króla (Mt 24,27; Tt 2,13)",
+          "content": "Greckie *parousia* znaczyło w świecie antycznym „obecność”, ale też „przybycie” – zwłaszcza uroczysty, publiczny przyjazd władcy. Nowy Testament używa tego słowa o powrocie Chrystusa (Mt 24,3.27.37; 1 Tes 4,15). Samo słowo nie rozstrzyga sprawy, bo może znaczyć zwykłą „obecność” (tak jest w Flp 2,12: „podczas mojej obecności”). Rozstrzyga kontekst: Jezus łączy swoją *parousia* z błyskawicą widoczną od wschodu do zachodu (Mt 24,27), z obłokami, trąbą i tym, że „ujrzą Syna Człowieczego” (Mt 24,30-31). To opis przybycia Króla, nie niewidzialnej obecności. Drugie słowo, *epiphaneia* („ukazanie się, jawne wystąpienie”), stoi w Tt 2,13 obok „nadziei” i „chwały”: wierzący czeka na dzień, w którym Pan, dotąd niewidzialny, ukaże się jawnie. (O „tajnym porwaniu” i szczegółach przebiegu powrotu – studium 27.)",
           "original": [
             {
               "lang": "grc",
               "text": "παρουσία",
               "translit": "parousia"
-            }
-          ],
-          "questions": [
+            },
             {
-              "id": "q18",
-              "text": "Jak rozumienie *parousia* jako uroczystego, publicznego przybycia podważa ideę „niewidzialnej obecności\" Chrystusa?"
+              "lang": "grc",
+              "text": "ἐπιφάνεια",
+              "translit": "epiphaneia"
             }
           ]
         },
         {
           "type": "passage",
-          "level": "base",
+          "level": "extended",
           "id": "u11",
           "passage": [
             {
@@ -289,94 +331,29 @@
               "ref": "Mt 24,30-31"
             }
           ],
-          "comment": "Syn Człowieczy przyjdzie „z wielką mocą i chwałą\", z głosem trąby i aniołami. Przyjście jest nie tylko widzialne, lecz i słyszalne - spektakularne i jawne.",
+          "comment": "„I ujrzą Syna Człowieczego, przychodzącego na obłokach nieba z mocą i wielką chwałą”. Aniołowie „donośnie zatrąbią” i zgromadzą Jego wybranych „z czterech stron świata”. Przyjście będzie nie tylko widzialne, ale i słyszalne – i obejmie całą ziemię. Nikt z Jego ludzi nie zostanie pominięty.",
           "questions": [
             {
-              "id": "q11",
-              "text": "Czym przyjście „z mocą i wielką chwałą\" różni się od cichego, niezauważalnego zdarzenia?"
+              "id": "q13",
+              "text": "Aniołowie zgromadzą Jego wybranych „z czterech stron świata”. Co znaczy dla ciebie, że nikt z Jego ludzi nie zostanie pominięty?"
             }
           ]
         },
         {
           "type": "passage",
           "level": "base",
-          "id": "u12",
-          "passage": [
-            {
-              "osis": "Matt.24.23-26",
-              "ref": "Mt 24,23-26"
-            }
-          ],
-          "comment": "Jezus ostrzega wprost: „Jeśli więc powiedzą wam: Oto jest na pustyni, nie idźcie tam; Oto jest w domu, nie wierzcie\". Każda zapowiedź lokalnego lub ukrytego przyjścia Chrystusa jest z góry zdemaskowana jako fałsz.",
-          "questions": [
-            {
-              "id": "q12",
-              "text": "Jak to ostrzeżenie pomaga rozpoznać i odrzucić fałszywe doniesienia, że „Chrystus już jest tu albo tam\"?"
-            }
-          ]
-        },
-        {
-          "type": "passage",
-          "level": "extended",
           "id": "u13",
           "passage": [
             {
-              "osis": "1Thess.4.16-17",
-              "ref": "1 Tes 4,16-17"
+              "osis": "1Thess.4.16-18",
+              "ref": "1 Tes 4,16-18"
             }
           ],
-          "comment": "„Sam Pan zstąpi… na głos archanioła i trąby Bożej\". Zmartwychwstanie sprawiedliwych i pochwycenie żywych dokona się przy tym jednym, głośnym, jawnym przyjściu - nie w sekrecie.",
-          "questions": [
-            {
-              "id": "q13",
-              "text": "Skoro przyjście opisane jest jako głośne i jawne, dlaczego nie da się go pogodzić z ideą „cichego porwania\", którego świat nie zauważy?"
-            }
-          ]
-        },
-        {
-          "type": "note",
-          "level": "advanced",
-          "id": "n5",
-          "noteType": "term",
-          "label": "skąd słowo „porwanie\" (rapture) i co naprawdę znaczy (1 Tes 4,17)",
-          "content": "„Zostaniemy pochwyceni\" to gr. *harpazo* („porwać, chwycić z mocą\"). Łacińska Wulgata oddała to słowem *rapiemur*, stąd termin „rapture\", „porwanie\". Kluczowe jest jednak, KIEDY to następuje: w tym samym wersecie, przy „głosie archanioła i trąbie Bożej\" (w. 16) - czyli podczas najgłośniejszego, najbardziej jawnego wydarzenia w historii. Biblijne „porwanie\" jest więc częścią widzialnego powrotu Jezusa, a nie cichym, tajnym zniknięciem wierzących wcześniej.",
-          "original": [
-            {
-              "lang": "grc",
-              "text": "ἁρπάζω",
-              "translit": "harpazo"
-            }
-          ]
-        },
-        {
-          "type": "passage",
-          "level": "extended",
-          "id": "u14",
-          "passage": [
-            {
-              "osis": "Matt.26.64",
-              "ref": "Mt 26,64"
-            }
-          ],
-          "comment": "Przed sądem Jezus zapowiada, że Go zobaczą „przychodzącego na obłokach nieba\". Ci sami, którzy Go skazali, ujrzą Jego powrót - przyjście jest publiczne i niepodważalne.",
+          "comment": "„Sam Pan zstąpi z nieba” – nie przysyła posłańca, przychodzi sam, „na wezwanie Boga, na głos archanioła i dźwięk trąby”. Najpierw powstaną ci, którzy umarli w Chrystusie, potem żyjący „razem z nimi” zostaną zabrani „na spotkanie z Panem”. Nic tu nie dzieje się po cichu. A cel jest ten sam co w J 14,3: „odtąd już na zawsze będziemy z Panem”. Paweł nie pisze tego, by zaspokoić ciekawość, tylko by pocieszyć: „Pocieszajcie się więc nawzajem tymi słowami”. (Co dzieje się z umarłymi do tego dnia – studium 12.)",
           "questions": [
             {
               "id": "q14",
-              "text": "Co mówi o pewności tej obietnicy fakt, że Jezus zapowiedział ją wprost swoim sędziom?"
-            }
-          ]
-        },
-        {
-          "type": "note",
-          "level": "advanced",
-          "id": "n6",
-          "noteType": "background",
-          "label": "odpowiedź na „tajemne porwanie\" i „niewidzialną obecność\"",
-          "content": "Niektóre nurty nauczają o „cichym porwaniu\" Kościoła, którego świat nie zauważy, albo o „niewidzialnej obecności\" Chrystusa, która już się zaczęła. Pismo opisuje powrót Jezusa jako: widzialny (Ap 1,7; Dz 1,11), słyszalny (1 Tes 4,16 - „głos archanioła i trąba\"), globalny (Mt 24,27 - błyskawica od wschodu po zachód) i ostateczny (Mt 24,30-31 - zgromadzenie wybranych przy jednym przyjściu). Co więcej, Jezus z góry ostrzega przed twierdzeniami, że jest „na pustyni\" lub „w komnatach\" (Mt 24,23-26). Krytyka dotyczy nauczania, nie ludzi, którzy w dobrej wierze je przyjęli - miarą jest samo Pismo (Iz 8,20).",
-          "questions": [
-            {
-              "id": "q19",
-              "text": "Które z czterech cech biblijnego opisu (widzialne, słyszalne, globalne, ostateczne) najtrudniej pogodzić z ideą „tajemnego porwania\"?"
+              "text": "Co w tym opisie najbardziej cię pociesza – i komu z bliskich mógłbyś przekazać te słowa jako pociechę, a nie jako groźbę?"
             }
           ]
         }
@@ -396,7 +373,7 @@
               "ref": "Tt 2,13"
             }
           ],
-          "comment": "Paweł nazywa powrót Jezusa „błogosławioną nadzieją\". Dla tych, którzy Go znają, to dzień wytęskniony, nie przerażający.",
+          "comment": "Paweł opisuje chrześcijan jako ludzi, którzy żyją, „oczekując spełnienia się błogosławionej nadziei i objawienia się chwały naszego wielkiego Boga i Zbawiciela, Jezusa Chrystusa”. Zwróć uwagę, jak nazywa Tego, na którego czekamy: „nasz wielki Bóg i Zbawiciel” – Jezus. Dla tych, którzy Go znają, to dzień wytęskniony: przychodzi Zbawiciel, na którego czekali.",
           "questions": [
             {
               "id": "q15",
@@ -405,59 +382,26 @@
           ]
         },
         {
-          "type": "note",
-          "level": "advanced",
-          "id": "n7",
-          "noteType": "term",
-          "label": "„błogosławiona nadzieja\" i jawne „ukazanie się\" (Tt 2,13)",
-          "content": "Powrót Jezusa nazwany jest tu „błogosławioną nadzieją\" i „objawieniem się chwały\" - gr. *epifaneia* („ukazanie się, jawne wystąpienie\"). To kolejne słowo (obok *parousia*) podkreślające widzialność: *epifaneia* oznacza zjawienie się, które rzuca się w oczy. Dla wierzącego nie jest to groźba, lecz spełnienie nadziei - dzień, w którym niewidzialny dotąd Pan ukaże się jawnie.",
-          "original": [
+          "type": "passage",
+          "level": "extended",
+          "id": "u23",
+          "passage": [
             {
-              "lang": "grc",
-              "text": "ἐπιφάνεια",
-              "translit": "epifaneia"
+              "osis": "Isa.25.9",
+              "ref": "Iz 25,9"
+            }
+          ],
+          "comment": "Izajasz widzi ten dzień oczami tych, którzy czekali: „Oto jest nasz Bóg! Jemu zaufaliśmy, że nas wybawi. (...) Weselmy się i radujmy z Jego zbawienia!”. Ap 1,7 mówi o płaczu tych, którzy Go odrzucili. Ten sam widok – dwie reakcje. O różnicy decyduje zaufanie: kto Mu zaufał, rozpozna w Przychodzącym Kogoś, kogo już zna.",
+          "questions": [
+            {
+              "id": "q16",
+              "text": "Po czym rozpoznaje się kogoś, komu się zaufało – i co to mówi o przygotowaniu na spotkanie z Jezusem?"
             }
           ]
         },
         {
           "type": "passage",
           "level": "base",
-          "id": "u16",
-          "passage": [
-            {
-              "osis": "John.14.1",
-              "ref": "J 14,1"
-            }
-          ],
-          "comment": "„Niech się nie trwoży serce wasze\" - te słowa Jezus mówi właśnie w kontekście zapowiedzi swojego powrotu. Wiedza o przyjściu ma uspokajać, nie straszyć.",
-          "questions": [
-            {
-              "id": "q16",
-              "text": "Co dziś najbardziej „trwoży\" twoje serce, gdy myślisz o przyszłości - i jak działa na to obietnica Jezusa?"
-            }
-          ]
-        },
-        {
-          "type": "passage",
-          "level": "extended",
-          "id": "u17",
-          "passage": [
-            {
-              "osis": "1Thess.4.18",
-              "ref": "1 Tes 4,18"
-            }
-          ],
-          "comment": "„Pocieszajcie się więc nawzajem tymi słowami\" - nauka o powrocie Jezusa miała być źródłem wzajemnej pociechy, zwłaszcza wobec śmierci bliskich.",
-          "questions": [
-            {
-              "id": "q17",
-              "text": "Komu z bliskich mógłbyś przekazać tę naukę jako pociechę, a nie jako groźbę?"
-            }
-          ]
-        },
-        {
-          "type": "passage",
-          "level": "extended",
           "id": "u18",
           "passage": [
             {
@@ -465,11 +409,11 @@
               "ref": "Łk 21,28"
             }
           ],
-          "comment": "Gdy spełniają się znaki, Jezus mówi: „podnieście głowy, gdyż zbliża się odkupienie wasze\". Reakcją wierzącego na znaki czasu ma być nadzieja i wyprostowana postawa, nie panika.",
+          "comment": "Jezus opisuje czas, gdy „ludzie ze strachu będą odchodzić od zmysłów” (w. 26) – i właśnie wtedy mówi swoim uczniom: „umocnijcie się i podnieście głowy, ponieważ zbliża się wasze odkupienie”. Nie każe śledzić wiadomości ani wyliczać z nich terminu. Każe pamiętać, do Kogo należy ostatnie słowo: to, co się zbliża, nie jest katastrofą, lecz odkupieniem – a Odkupiciela znamy.",
           "questions": [
             {
-              "id": "q18",
-              "text": "Jak wyglądałoby twoje patrzenie na trudne wydarzenia w świecie, gdyby towarzyszyła im myśl „zbliża się odkupienie\"?"
+              "id": "q17",
+              "text": "Jak wyglądałoby twoje patrzenie na trudne wydarzenia w świecie, gdyby towarzyszyła im myśl: „zbliża się wasze odkupienie”?"
             }
           ]
         },
@@ -479,11 +423,107 @@
           "id": "n8",
           "noteType": "background",
           "label": "powrót Jezusa w perspektywie wielkiego boju",
-          "content": "Powtórne przyjście to punkt kulminacyjny wielkiego boju między Bogiem a złem. Nie jest aktem zemsty, lecz wyzwoleniem i spełnieniem obietnicy danej z miłości (J 14,1-3). Sąd związany z tym dniem jest dla wierzącego dobrą nowiną, bo Chrystus jest Obrońcą, nie oskarżycielem. Dlatego właściwą postawą wobec tej nauki jest „błogosławiona nadzieja\" (Tt 2,13) i podniesiona głowa (Łk 21,28), a nie lęk. Gotowość do czytania proroctw i zaufanie Słowu, które te wydarzenia zapowiada, są częścią tej nadziei.",
+          "content": "Powtórne przyjście otwiera ostatni akt wielkiego boju między Bogiem a złem – akt, na którego końcu nie ma już cierpienia ani śmierci (Ap 21,3-4 – studium 3 i 28). Nie jest aktem zemsty, lecz wyzwoleniem i spełnieniem obietnicy danej z miłości (J 14,1-3). Ten, który przychodzi jako Król i Sędzia, jest tym samym Jezusem, który oddał za nas życie – dlatego dla tych, którzy Mu ufają, Jego przyjście jest dobrą nowiną (o sądzie – studium 25). Właściwą postawą jest więc „błogosławiona nadzieja” (Tt 2,13) i podniesiona głowa (Łk 21,28): „W miłości nie ma lęku” (1 J 4,18).",
+          "questions": [
+            {
+              "id": "q18",
+              "text": "Jak zmienia twoje myślenie o końcu świata to, że Król i Sędzia jest tym samym Jezusem, który oddał za ciebie życie?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "heading": "Gotowi, czyli blisko Niego",
+      "items": [
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u16",
+          "passage": [
+            {
+              "osis": "Matt.25.1-13",
+              "ref": "Mt 25,1-13"
+            }
+          ],
+          "comment": "Wszystkie dziesięć panien czeka i wszystkie zasypiają, bo pan młody się spóźnia. Różni je tylko oliwa: mądre liczyły się z tym, że czekanie potrwa. Gdy rozlega się wołanie: „Idzie pan młody, wyjdźcie mu na spotkanie!”, te, „które były gotowe, weszły z nim na wesele”, a pozostałe słyszą: „Oświadczam wam, że was nie znam”. To nie znaczy, że Jezus czegoś o nich nie wie – Bóg zna każdego na wskroś (Ps 139 – studium 1). Mówi o więzi, której zabrakło. Gotowość to nie znajomość daty ani nerwowe wypatrywanie („nie znacie dnia ani godziny”), lecz życie z Nim już teraz – i dlatego oliwy nie da się pożyczyć: nikt nie może znać Jezusa za mnie. Dziś drzwi są otwarte: „tego, który do Mnie przychodzi, nie odrzucę” (J 6,37 – studium 10).",
+          "questions": [
+            {
+              "id": "q19",
+              "text": "Co według tej przypowieści naprawdę znaczy „być gotowym” – i jak to wygląda w twojej codzienności?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u20",
+          "passage": [
+            {
+              "osis": "1John.2.28",
+              "ref": "1 J 2,28"
+            }
+          ],
+          "comment": "Jan mówi o gotowości najprościej, jak można: „pozostańcie w Nim, abyśmy mieli odwagę i nie zostali zawstydzeni przez Niego, gdy się objawi w swoim przyjściu”. Nie pisze: „starajcie się bardziej” ani „wyznaczajcie termin”, tylko: pozostańcie w Nim. Kto żyje blisko Jezusa dziś, ten spotka Go z odwagą, nie ze wstydem. (O trwaniu w Nim – studium 2 i 5.)",
           "questions": [
             {
               "id": "q20",
-              "text": "Dlaczego to, w jakiej relacji jesteś z Jezusem dziś, decyduje o tym, czy Jego powrót będzie dla ciebie nadzieją, czy lękiem?"
+              "text": "Co dla ciebie znaczy wezwanie „pozostańcie w Nim” w zwykły dzień, bez wielkich wydarzeń?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u21",
+          "passage": [
+            {
+              "osis": "1John.3.2-3",
+              "ref": "1 J 3,2-3"
+            }
+          ],
+          "comment": "„Wiemy, że kiedy On się objawi, będziemy do Niego podobni, ponieważ ujrzymy Go takim, jakim jest”. Ta nadzieja nie jest ucieczką od codzienności – zmienia ją już teraz: „Każdy, kto pokłada w Nim tę nadzieję, uświęca się, podobnie jak On jest święty”. To nie cena gotowości, tylko owoc oczekiwania na Kogoś, kogo się kocha: stajemy się podobni do Tego, na kogo patrzymy.",
+          "questions": [
+            {
+              "id": "q21",
+              "text": "Jak oczekiwanie na spotkanie z Jezusem może zmieniać to, kim stajesz się już dziś?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "extended",
+          "id": "u22",
+          "passage": [
+            {
+              "osis": "Luke.12.35-37",
+              "ref": "Łk 12,35-37"
+            }
+          ],
+          "comment": "Przepasane biodra i zapalone lampy to obraz kogoś, kto w każdej chwili gotów jest wstać i otworzyć. Jezus opowiada o sługach, którzy czekają na swego pana wracającego z wesela, „żeby mu zaraz otworzyć, kiedy przyjdzie i zapuka”. A potem mówi coś niesłychanego: pan „przepasze się, posadzi ich przy stole, a obchodząc będzie im usługiwał”. Dla tych, którzy na Niego czekają, Przychodzący nie jest kontrolerem, przed którym trzeba drżeć – to Pan, który sam będzie im służył. Na Kogoś takiego czeka się przy drzwiach.",
+          "questions": [
+            {
+              "id": "q22",
+              "text": "Co mówi o Jezusie obraz Pana, który po powrocie sam usługuje swoim sługom?"
+            }
+          ]
+        },
+        {
+          "type": "passage",
+          "level": "base",
+          "id": "u24",
+          "passage": [
+            {
+              "osis": "Rev.22.20",
+              "ref": "Ap 22,20"
+            }
+          ],
+          "comment": "Biblia kończy się obietnicą i odpowiedzią. Jezus mówi: „Tak, wkrótce przyjdę”. Kościół odpowiada: „Amen, przyjdź, Panie Jezu!”. Pierwsi chrześcijanie mieli na to aramejskie wołanie „Marana tha!” (1 Kor 16,22) – najpewniej: „Panie nasz, przyjdź!”. Tak woła nie ktoś przestraszony, lecz ktoś, kto tęskni.",
+          "questions": [
+            {
+              "id": "q23",
+              "text": "Czy potrafisz szczerze powiedzieć: „przyjdź, Panie Jezu”? Co ci w tym pomaga, a co przeszkadza?"
             }
           ]
         }
@@ -491,13 +531,14 @@
     }
   ],
   "application": {
-    "text": "Powrót Jezusa to nie mglista idea ani powód do strachu - to osobista obietnica Przyjaciela, który odszedł i zapowiedział, że wróci. Wróci tak, jak odszedł: widzialnie, słyszalnie, na oczach całego świata - „ujrzy Go wszelkie oko\". Dlatego nie daj się zwieść doniesieniom o „tajemnym porwaniu\" czy „niewidzialnej obecności\"; Jezus sam przed nimi ostrzegł. Daty nie znamy i znać nie musimy - pewny jest sam fakt. A dla tych, którzy Go znają, ten dzień jest „błogosławioną nadzieją\": dniem, w którym warto podnieść głowę.",
-    "challenge": "Gdy w tym tygodniu usłyszysz niepokojące wiadomości ze świata, zatrzymaj się i świadomie przełóż je na słowa Jezusa z Łk 21,28 („podnieście głowy\"). Przeczytaj na spokojnie J 14,1-3 i zapisz, co konkretnie daje ci nadzieję w obietnicy powrotu Jezusa - a potem podziel się nią z jedną osobą."
+    "text": "Powrót Jezusa to nie mglista idea ani powód do strachu – to osobista obietnica Przyjaciela, który odszedł i zapowiedział: „znowu przyjdę i zabiorę was do siebie”. Wróci tak, jak odszedł: widzialnie, słyszalnie, na oczach całego świata – „ujrzy Go wszelkie oko”. Nie trzeba więc szukać Go „na pustyni” ani „w domu”; Jezus sam ostrzegł przed takimi doniesieniami. Daty nie znamy i znać nie musimy – pewny jest sam fakt. Najważniejsze jest jednak to, Kto przychodzi: Jezus, który chce, żebyśmy byli z Nim na zawsze. Gotowość na to spotkanie to nie strach ani kalkulacja, lecz więź z Nim już dziś. Dla tych, którzy Go znają, ten dzień jest „błogosławioną nadzieją”. A jeśli jeszcze Go nie znasz albo dawno od Niego odszedłeś – Ten, który kiedyś przyjdzie w chwale, już dziś mówi: „Oto stoję u drzwi i pukam” (Ap 3,20).",
+    "challenge": "Gdy usłyszysz niepokojące wiadomości ze świata, zatrzymaj się i przypomnij sobie słowa Jezusa: „podnieście głowy, ponieważ zbliża się wasze odkupienie” (Łk 21,28) – nie po to, by coś z nich wyliczać, lecz by pamiętać, Kto przychodzi. Przeczytaj na spokojnie J 14,1-3 i zapisz, co konkretnie daje ci nadzieję w obietnicy Jego powrotu. Spróbuj też kończyć modlitwę słowami: „Przyjdź, Panie Jezu”."
   },
   "meta": {
-    "status": "draft",
-    "needsReview": true,
+    "status": "reviewed",
+    "needsReview": false,
     "generatedBy": "claude",
-    "notes": "status: draft needsReview: true generatedBy: claude notes: Ciekawostki PRO (8) rozłożone w sekcjach, przy tekstach, których dotyczą (nie na końcu). Źródła tła doktrynalnego: `books/_txt/00124 The Second Coming of Jesus`, `00121 Biblical Apocalyptic` (handbook ADS). Akcent ADS: powtórne przyjście widzialne i globalne (Ap 1,7), wprost przeciw „porwaniu\" i „niewidzialnej obecności\"; sąd jako dobra nowina (Jezus-Obrońca) ujęte w u9-u14 oraz n3-n6, n8. Krytyka nauczania, nie ludzi. Formy oryginalne (PRO) do weryfikacji u recenzenta: `ὠδίν` (Mt 24,8), `ὄψεται… πᾶς ὀφθαλμός` (Ap 1,7), `παρουσία` (Mt 24,27), `ἁρπάζω` (1 Tes 4,17), `ἐπιφάνεια` (Tt 2,13) potwierdzić zapis i transliterację. Tekst wersetów celowo NIE jest wstawiony tylko odnośniki (osis + ref); treść dociągana z przekładu."
+    "notes": "Przegląd 24–25.11.2026: zgodność cytatów z BE, filtr SDA (ABC do każdego wersetu; Handbook), baza smaczków, krytyka i korekta językowa. Transliteracja PL: grecki łacińskim bez znaków diakrytycznych. Tekst wersetów celowo NIE jest wstawiony – tylko odnośniki (osis + ref).",
+    "reviewed": "2026-11-25"
   }
 }

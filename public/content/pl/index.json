@@ -46,31 +46,37 @@
       "category": "basic_practical",
       "seriesId": "spotkanie-z-bogiem",
       "order": 1,
-      "summary": "Pierwsze spotkanie z Bogiem, który zna mnie osobiście, stworzył mnie z miłości i troszczy się o moją codzienność - punkt wyjścia do relacji, nie do religii.",
+      "summary": "Pierwsze spotkanie z Bogiem, który zna mnie osobiście, stworzył mnie z miłości i troszczy się o moją codzienność – punkt wyjścia do żywej relacji z Nim, która z czasem kształtuje wiarę i całe życie.",
       "minutes": {
         "base": 40,
-        "extended": 60
+        "extended": 80
       },
       "tags": [
         "Bóg",
         "miłość",
         "stworzenie",
         "troska",
-        "tożsamość"
+        "tożsamość",
+        "charakter Boga"
       ],
       "refs": [
         "Ps 139,1-4",
         "Ps 139,13-16",
-        "Ps 8,4-6",
+        "Ps 8,4-7",
         "1 J 4,8-10",
         "J 3,16",
         "Rz 5,8",
+        "Rdz 3,1-5",
         "Jr 31,3",
         "Łk 15,20",
+        "Łk 15,28-32",
         "Mt 6,26",
         "Mt 6,31-33",
+        "Rz 8,31-32",
         "1 P 5,7",
         "Łk 12,6-7",
+        "Iz 49,14-16",
+        "J 16,33",
         "Rdz 1,27",
         "Iz 43,1",
         "Dz 17,24-28",
@@ -83,27 +89,27 @@
       "category": "basic_practical",
       "seriesId": "spotkanie-z-bogiem",
       "order": 2,
-      "summary": "Kim naprawdę jest Jezus z Nazaretu: postacią historyczną i jednocześnie przedwiecznym Bogiem, Stwórcą, który stał się człowiekiem, by mnie zbawić i objawić Ojca - oraz kim chce być dla mnie osobiście.",
+      "summary": "Kim naprawdę jest Jezus z Nazaretu: postacią historyczną i jednocześnie przedwiecznym Bogiem, Stwórcą, który stał się człowiekiem, by mnie zbawić i objawić Ojca – oraz kim chce być dla mnie osobiście.",
       "minutes": {
-        "base": 40,
-        "extended": 60
+        "base": 45,
+        "extended": 75
       },
       "tags": [
         "Jezus",
         "bóstwo",
         "wcielenie",
         "Stwórca",
-        "Ja Jestem",
+        "Ja jestem",
         "objawienie Ojca"
       ],
       "refs": [
         "Mt 16,13-16",
-        "Łk 2,4-7",
+        "Łk 2,1-7",
         "Mk 6,2-3",
         "J 8,58",
-        "J 1,1-3",
+        "J 1,1-5",
         "J 1,14",
-        "Kol 1,16-17",
+        "Kol 1,15-18",
         "Hbr 1,3",
         "J 14,9",
         "J 20,28-29",
@@ -112,7 +118,8 @@
         "Flp 2,6-8",
         "J 1,12",
         "J 10,10",
-        "Mt 11,28-29"
+        "Mt 11,28-29",
+        "J 15,9-11"
       ]
     },
     {
@@ -121,10 +128,10 @@
       "category": "basic_practical",
       "seriesId": "spotkanie-z-bogiem",
       "order": 3,
-      "summary": "Jeśli Bóg jest dobry i wszechmocny, skąd zło? Biblia odpowiada nie filozofią, lecz historią wielkiego boju: świat stworzony dobry, miłość wymagająca wolności, bunt w niebie, upadek człowieka - i Bóg, który nie jest autorem zła, lecz Tym, który je rozwiązuje na krzyżu.",
+      "summary": "Jeśli Bóg jest dobry i wszechmocny, skąd zło? Biblia odpowiada nie filozofią, lecz historią wielkiego boju: świat stworzony dobry, miłość wymagająca wolności, bunt w niebie, upadek człowieka – i Bóg, który nie jest autorem zła, lecz Tym, który pokonał je na krzyżu i usunie je na zawsze.",
       "minutes": {
-        "base": 40,
-        "extended": 60
+        "base": 45,
+        "extended": 70
       },
       "tags": [
         "zło",
@@ -133,13 +140,15 @@
         "wolność",
         "szatan",
         "upadek",
-        "nadzieja"
+        "nadzieja",
+        "krzyż"
       ],
       "refs": [
         "Rdz 1,31",
         "1 J 1,5",
+        "Mt 13,24-30",
         "1 J 4,8",
-        "Pwt 30,19",
+        "Pwt 30,19-20",
         "Joz 24,15",
         "Ap 3,20",
         "Ap 12,7-9",
@@ -151,9 +160,10 @@
         "Rz 5,12",
         "Hi 1,8-12",
         "Ap 12,17",
-        "Ap 21,4",
-        "Rz 8,18",
-        "Nah 1,9"
+        "J 12,31-32",
+        "Rz 8,18-22",
+        "Ap 21,3-4",
+        "Na 1,9"
       ]
     },
     {
@@ -162,10 +172,10 @@
       "category": "basic_practical",
       "seriesId": "spotkanie-z-bogiem",
       "order": 4,
-      "summary": "Grzech to nie tylko lista złych uczynków, lecz zerwana więź z Bogiem - utracone zaufanie, z którego wyrastają konkretne grzechy. Skutkiem jest oddzielenie i śmierć, a Bożą odpowiedzią jest krzyż: Jezus zajął moje miejsce, by przywrócić relację. Posłuszeństwo jest owocem pojednania, nie jego warunkiem.",
+      "summary": "Grzech to nie tylko zrobienie czegoś złego, lecz przede wszystkim odwrócenie się od Boga – zerwanie relacji, z którego wynikają wszystkie złe czyny. Kończy się śmiercią, bo poza Dawcą życia nie ma życia. Dlaczego więc Jezus musiał umrzeć? Bo Bóg nie przymyka oczu na zło, a zarazem nie chce nas stracić: na krzyżu Jezus zajął nasze miejsce, a Bóg pojednał nas ze sobą. Posłuszeństwo jest owocem tego pojednania, nie jego warunkiem.",
       "minutes": {
-        "base": 40,
-        "extended": 60
+        "base": 50,
+        "extended": 75
       },
       "tags": [
         "grzech",
@@ -173,6 +183,7 @@
         "krzyż",
         "pojednanie",
         "śmierć Jezusa",
+        "zastępstwo",
         "zaufanie",
         "odkupienie"
       ],
@@ -181,21 +192,23 @@
         "Rdz 3,8-10",
         "Iz 53,6",
         "J 16,9",
+        "1 J 3,4",
         "Mk 7,21-23",
         "Jr 17,9",
         "Rz 7,18-19",
-        "Rz 3,23",
         "Rz 6,23",
         "Ez 18,4",
-        "Iz 64,6",
-        "Rz 5,8",
+        "Iz 64,5",
+        "Mk 10,45",
         "Iz 53,4-5",
         "1 P 2,24",
         "2 Kor 5,21",
+        "Mk 15,34",
+        "Rz 3,25-26",
         "J 15,13",
         "2 Kor 5,18-19",
-        "Rz 5,1",
-        "Tt 2,11-12",
+        "Rz 5,10-11",
+        "2 Kor 5,14-15",
         "1 J 4,19"
       ]
     },
@@ -205,14 +218,15 @@
       "category": "basic_practical",
       "seriesId": "spotkanie-z-bogiem",
       "order": 5,
-      "summary": "Zbawienie jest darem łaski przyjmowanym przez wiarę, nie nagrodą za uczynki. Bóg usprawiedliwia grzesznika i daje pewność życia wiecznego już teraz - pewność opartą na Chrystusie, nie na mojej bezgrzeszności. Uczynki są owocem zbawienia, nigdy jego ceną.",
+      "summary": "Zbawienie jest darem łaski, który przyjmujemy przez zaufanie, a nie nagrodą za uczynki. Bóg usprawiedliwia grzesznika – przyjmuje go jak sprawiedliwego ze względu na Chrystusa – i przywraca mu więź z sobą, a życie wieczne, czyli poznawanie Boga, zaczyna się już teraz. Pewność opiera się na Chrystusie, nie na mojej bezgrzeszności. Uczynki są owocem tej więzi, nigdy jej ceną.",
       "minutes": {
-        "base": 40,
-        "extended": 60
+        "base": 45,
+        "extended": 65
       },
       "tags": [
         "łaska",
         "wiara",
+        "zaufanie",
         "zbawienie",
         "usprawiedliwienie",
         "pewność",
@@ -221,17 +235,18 @@
       ],
       "refs": [
         "Ef 2,8-9",
-        "Tt 3,5",
+        "Tt 3,4-5",
         "Rz 4,4-5",
         "Rz 11,6",
         "Ga 2,16",
         "Rz 3,23-24",
         "Rz 5,1",
-        "Rdz 15,6",
-        "Łk 18,13-14",
+        "Rdz 15,5-6",
+        "Łk 18,9-14",
+        "J 17,3",
         "1 J 5,11-13",
         "J 5,24",
-        "J 10,28-29",
+        "J 10,27-29",
         "Rz 8,38-39",
         "Flp 1,6",
         "Ef 2,10",
@@ -247,14 +262,15 @@
       "category": "basic_practical",
       "seriesId": "spotkanie-z-bogiem",
       "order": 6,
-      "summary": "Nawrócenie to nie samo-poprawa, lecz zmiana kierunku: pokuta i oddanie życia Bogu, w którym On rodzi człowieka na nowo, daje nowe serce i czyni nowym stworzeniem. To początek relacji odnawianej każdego dnia, a nie jednorazowy akt do odhaczenia.",
+      "summary": "Nawrócenie to nie samopoprawa, lecz powrót do Boga – odpowiedź na Jego dobroć, w której zmienia się myślenie i kierunek życia. Bóg rodzi człowieka na nowo „z góry”, daje mu nowe serce i czyni go nowym stworzeniem. To początek więzi, która odnawia się każdego dnia.",
       "minutes": {
-        "base": 40,
-        "extended": 60
+        "base": 45,
+        "extended": 65
       },
       "tags": [
         "nawrócenie",
         "pokuta",
+        "powrót do Boga",
         "nowe narodzenie",
         "nowe serce",
         "nowe stworzenie",
@@ -262,8 +278,9 @@
       ],
       "refs": [
         "Mk 1,15",
+        "Rz 2,4",
         "Dz 3,19",
-        "Łk 15,17-20",
+        "Łk 15,17-24",
         "2 Kor 7,10",
         "Iz 55,7",
         "Rz 12,1",
@@ -278,9 +295,9 @@
         "2 Kor 5,17",
         "Ef 4,22-24",
         "Flp 2,13",
+        "Lm 3,22-23",
         "2 Kor 4,16",
-        "1 J 1,9",
-        "Flp 3,13-14"
+        "1 J 1,9"
       ]
     },
     {
@@ -289,35 +306,36 @@
       "category": "basic_practical",
       "seriesId": "spotkanie-z-bogiem",
       "order": 7,
-      "summary": "Duch Święty nie jest bezosobową „energią\", lecz Osobą i Bogiem - trzecią Osobą Trójcy. To On prowadzi, pociesza, przekonuje o grzechu, daje moc do życia i rodzi owoc charakteru. Poznajemy Go jako stale obecnego Towarzysza, którym możemy być napełniani.",
+      "summary": "Duch Święty nie jest bezosobową „energią”, lecz Osobą i Bogiem. To przez Niego Jezus jest blisko każdego dnia: Duch wlewa w serce Bożą miłość, uczy, przekonuje o grzechu, prowadzi i wydaje owoc charakteru Chrystusa. Można Go poznać i kochać, można Go zasmucić – i można prosić Ojca, by nas Nim napełniał.",
       "minutes": {
-        "base": 40,
-        "extended": 60
+        "base": 50,
+        "extended": 70
       },
       "tags": [
         "Duch Święty",
         "Trójca",
+        "Orędownik",
         "Pocieszyciel",
         "owoc Ducha",
         "moc",
-        "prowadzenie",
         "napełnienie"
       ],
       "refs": [
-        "Dz 5,3-4",
         "J 14,16-17",
         "J 16,13-14",
-        "Ef 4,30",
+        "Ef 4,30-32",
         "Rz 8,26-27",
+        "Dz 5,3-4",
         "Mt 28,19",
         "2 Kor 13,13",
         "Rdz 1,1-2",
-        "Ps 139,7",
+        "Ps 139,7-10",
         "J 14,26",
-        "J 16,7-8",
+        "J 16,7-11",
         "Rz 8,14",
         "Rz 8,15-16",
         "J 14,18",
+        "Rz 5,5",
         "Dz 1,8",
         "Ga 5,22-23",
         "Ga 5,16",
@@ -334,74 +352,80 @@
       "category": "basic_practical",
       "seriesId": "zycie-z-bogiem",
       "order": 8,
-      "summary": "Modlitwa to nie magiczna formułka ani religijny obowiązek, lecz szczera rozmowa z Bogiem, który słyszy i odpowiada. Uczymy się rozmawiać z Przyjacielem prosto, regularnie i z zaufaniem - i odkrywamy, że modlitwa zmienia nas i nasze sytuacje.",
+      "summary": "Modlitwa to nie magiczna formułka ani religijny obowiązek, lecz szczera rozmowa z Ojcem, który nas kocha, słyszy i odpowiada. Uczymy się rozmawiać z Nim prosto, regularnie i z zaufaniem – i odkrywamy, że Bóg naprawdę odpowiada: zmienia bieg spraw i zmienia nas.",
       "minutes": {
-        "base": 40,
-        "extended": 60
+        "base": 45,
+        "extended": 65
       },
       "tags": [
         "modlitwa",
         "rozmowa",
         "zaufanie",
         "Ojcze nasz",
+        "w imię Jezusa",
         "relacja"
       ],
       "refs": [
         "Mt 6,7-8",
         "Mt 7,7-8",
         "Mt 7,9-11",
-        "Mt 6,9-13",
+        "1 Sm 3,10",
         "Łk 11,1",
+        "Mt 6,9-13",
         "Mt 6,5-6",
-        "Ps 62,9",
         "Flp 4,6-7",
+        "Ps 62,9",
         "1 Tes 5,16-18",
         "Mk 1,35",
-        "Łk 18,1",
+        "Łk 18,1-8",
         "1 J 5,14-15",
         "Iz 65,24",
         "Łk 22,42",
         "2 Kor 12,8-9",
-        "Jk 4,3",
-        "Jk 5,16",
-        "Łk 11,9-13"
+        "Jk 4,2-3",
+        "Jk 5,16-18",
+        "J 16,23-27"
       ]
     },
     {
       "id": "biblia",
-      "title": "Biblia - Boży głos do mnie",
+      "title": "Biblia – Boży głos do mnie",
       "category": "basic_practical",
       "seriesId": "zycie-z-bogiem",
       "order": 9,
-      "summary": "Biblia to natchnione Słowo Boże - list od Przyjaciela, a nie zbiór ludzkich opinii. Poznajemy, skąd pochodzi jej autorytet (sola scriptura), uczymy się prostych zasad samodzielnego czytania i odkrywamy, od czego najlepiej zacząć. Warstwa PRO odpowiada na pytanie o Pismo i Tradycję oraz kanon.",
+      "summary": "Bóg nie milczy. Biblia to Jego natchnione Słowo – nie zbiór ludzkich opinii, lecz list od Kogoś, kto chce, byśmy Go poznali. Dowiadujemy się, dlaczego można jej ufać bardziej niż innym głosom, jak ją czytać, żeby usłyszeć Boga, i od czego zacząć, by przez Pismo spotkać Jezusa.",
       "minutes": {
-        "base": 40,
-        "extended": 60
+        "base": 45,
+        "extended": 65
       },
       "tags": [
         "Biblia",
         "Słowo Boże",
         "natchnienie",
         "sola scriptura",
-        "czytanie Pisma"
+        "czytanie Pisma",
+        "kanon"
       ],
       "refs": [
-        "2 Tm 3,16-17",
+        "Hbr 1,1-2",
+        "2 Tm 3,15-17",
         "2 P 1,20-21",
         "Hbr 4,12",
         "Iz 8,20",
         "Dz 17,11",
         "J 17,17",
-        "Ps 119,105",
         "Ps 119,18",
+        "J 5,39-40",
         "Łk 24,27",
-        "2 P 1,20",
-        "Iz 28,10",
+        "Dz 8,30-31",
         "Jk 1,22",
         "Mt 4,4",
-        "J 20,30-31",
+        "Jr 15,16",
+        "Ps 1,1-3",
+        "Ps 119,105",
         "Joz 1,8",
-        "Ps 1,1-3"
+        "1 J 1,3-4",
+        "J 20,30-31"
       ]
     },
     {
@@ -410,38 +434,42 @@
       "category": "basic_practical",
       "seriesId": "zycie-z-bogiem",
       "order": 10,
-      "summary": "Walka z pokusą jest normalną częścią życia wiary, a nie dowodem porażki. Uczymy się zwyciężać w mocy Jezusa, a po upadku wracać przez wyznanie i przyjęcie przebaczenia. Bóg nie odrzuca upadającego - rozróżniamy między potknięciem a świadomym trwaniem w grzechu, i uczymy się przebaczać sobie oraz innym.",
+      "summary": "Pokusa jest normalną częścią życia wiary, a nie dowodem porażki – w gruncie rzeczy zawsze chodzi w niej o zaufanie do Boga. Uczymy się zwyciężać przez bliskość z Jezusem, a po upadku wracać do Niego: wyznać grzech i przyjąć przebaczenie. Bóg nie odrzuca upadającego. Odróżniamy potknięcie od świadomego trwania w grzechu i uczymy się przebaczać innym tak, jak nam przebaczono.",
       "minutes": {
-        "base": 40,
-        "extended": 60
+        "base": 50,
+        "extended": 70
       },
       "tags": [
-        "grzech",
         "pokusa",
+        "grzech",
+        "wyznanie",
         "przebaczenie",
         "łaska",
         "walka duchowa"
       ],
       "refs": [
         "1 Kor 10,13",
-        "Hbr 4,15",
-        "Jk 1,14-15",
-        "1 Kor 15,57",
-        "Mt 4,4.7.10",
+        "Hbr 4,15-16",
+        "Jk 1,13-15",
+        "1 Kor 15,56-57",
+        "Mt 4,1-4",
+        "Jk 4,7-8",
         "Ga 5,16-17",
-        "Flp 4,13",
-        "Jk 4,7",
-        "1 J 1,9",
-        "1 J 2,1",
-        "Ps 103,10-12",
+        "Mt 26,40-41",
+        "1 J 1,8-9",
+        "Ps 32,1-5",
+        "1 J 2,1-2",
+        "Ps 103,10-14",
         "Iz 1,18",
-        "Prz 24,16",
+        "Mi 7,8-9",
         "J 6,37",
-        "1 J 3,6.9",
-        "Łk 15,17-20",
-        "Mt 6,14-15",
-        "Flp 3,13-14",
-        "Rz 8,1"
+        "Łk 22,31-32",
+        "Łk 22,61-62",
+        "1 J 3,6",
+        "1 J 3,9",
+        "Rz 8,1",
+        "1 J 3,19-20",
+        "Mt 6,14-15"
       ]
     },
     {
@@ -450,9 +478,9 @@
       "category": "basic_practical",
       "seriesId": "zycie-z-bogiem",
       "order": 11,
-      "summary": "Powrót Jezusa to obietnica i serce chrześcijańskiej nadziei. Poznajemy pewność tej obietnicy i znaki czasu, a zwłaszcza charakter Jego przyjścia: widzialne, słyszalne, globalne i ostateczne - „ujrzy Go wszelkie oko\". Odpowiadamy na błędne wyobrażenia o „tajemnym porwaniu\" i „niewidzialnej obecności\". To nadzieja, nie powód do lęku.",
+      "summary": "Powrót Jezusa to Jego osobista obietnica: „znowu przyjdę i zabiorę was do siebie”. Poznajemy jej pewność, sens znaków czasu i to, jak Jezus przyjdzie – widzialnie, słyszalnie, dla całego świata, a nie w ukryciu. Przede wszystkim jednak pytamy, Kto przychodzi i po co: Jezus chce, żebyśmy byli z Nim na zawsze. Dlatego gotowość to więź z Nim już dziś, a Jego przyjście – nadzieja, nie powód do lęku.",
       "minutes": {
-        "base": 40,
+        "base": 45,
         "extended": 60
       },
       "tags": [
@@ -460,10 +488,12 @@
         "nadzieja",
         "znaki czasu",
         "paruzja",
+        "gotowość",
         "eschatologia"
       ],
       "refs": [
         "J 14,1-3",
+        "J 17,24",
         "Dz 1,9-11",
         "Hbr 9,28",
         "Mt 24,3-8",
@@ -472,15 +502,18 @@
         "2 P 3,3-4",
         "2 P 3,9",
         "Ap 1,7",
+        "Mt 24,23-26",
         "Mt 24,27",
         "Mt 24,30-31",
-        "Mt 24,23-26",
-        "1 Tes 4,16-17",
-        "Mt 26,64",
+        "1 Tes 4,16-18",
         "Tt 2,13",
-        "J 14,1",
-        "1 Tes 4,18",
-        "Łk 21,28"
+        "Iz 25,9",
+        "Łk 21,28",
+        "Mt 25,1-13",
+        "1 J 2,28",
+        "1 J 3,2-3",
+        "Łk 12,35-37",
+        "Ap 22,20"
       ]
     },
     {
@@ -489,7 +522,7 @@
       "category": "basic_practical",
       "seriesId": "zycie-z-bogiem",
       "order": 12,
-      "summary": "Biblia mówi o śmierci jako o „śnie\", z którego budzi zmartwychwstanie przy powrocie Jezusa - to nadzieja, nie powód do lęku. Poznajemy tę naukę, ostrzeżenie przed spirytyzmem i „kontaktami ze zmarłymi\", oraz biblijną odpowiedź na reinkarnację. Warstwa PRO odnosi się do nauki o czyśćcu i modlitwach za zmarłych.",
+      "summary": "Biblia mówi o śmierci jako o „śnie”, z którego budzi zmartwychwstanie przy powrocie Jezusa – to nadzieja, nie powód do lęku. Poznajemy tę naukę, ostrzeżenie przed spirytyzmem i „kontaktami ze zmarłymi”, oraz biblijną odpowiedź na reinkarnację. Warstwa PRO odnosi się do nauki o czyśćcu i modlitwach za zmarłych.",
       "minutes": {
         "base": 40,
         "extended": 60
@@ -527,7 +560,7 @@
       "category": "basic_practical",
       "seriesId": "zycie-z-bogiem",
       "order": 13,
-      "summary": "Kościół to nie budynek, lecz rodzina i ciało Chrystusa - miejsce wspólnoty, wsparcia i wzrostu. Poznajemy sens przynależności, jedność wyrażoną w posłuszeństwie Chrystusowi-Głowie oraz Wieczerzę Pańską jako pamiątkę ofiary, z obrzędem pokory. Warstwy dodatkowe: rozpoznawanie Bożej woli oraz Wieczerza jako pamiątka wobec mszy i transsubstancjacji.",
+      "summary": "Kościół to nie budynek, lecz rodzina i ciało Chrystusa – miejsce wspólnoty, wsparcia i wzrostu. Poznajemy sens przynależności, jedność wyrażoną w posłuszeństwie Chrystusowi-Głowie oraz Wieczerzę Pańską jako pamiątkę ofiary, z obrzędem pokory. Warstwy dodatkowe: rozpoznawanie Bożej woli oraz Wieczerza jako pamiątka wobec mszy i transsubstancjacji.",
       "minutes": {
         "base": 40,
         "extended": 60
@@ -566,7 +599,7 @@
       "category": "basic_practical",
       "seriesId": "zycie-z-bogiem",
       "order": 14,
-      "summary": "Chrzest to publiczne wyznanie wiary i utożsamienie ze śmiercią i zmartwychwstaniem Jezusa - chrzest wiary przez zanurzenie. Mówimy spokojnie o „ponownym chrzcie” po chrzcie z dzieciństwa, podkreślamy, że to deklaracja gotowości, nie pośpiech, i że siłę do wytrwania daje sam Jezus. To zamknięcie serii i zaproszenie do codziennej decyzji chodzenia z Bogiem.",
+      "summary": "Chrzest to publiczne wyznanie wiary i utożsamienie ze śmiercią i zmartwychwstaniem Jezusa – chrzest wiary przez zanurzenie. Mówimy spokojnie o „ponownym chrzcie” po chrzcie z dzieciństwa, podkreślamy, że to deklaracja gotowości, nie pośpiech, i że siłę do wytrwania daje sam Jezus. To zamknięcie serii i zaproszenie do codziennej decyzji chodzenia z Bogiem.",
       "minutes": {
         "base": 40,
         "extended": 60
@@ -605,7 +638,7 @@
       "category": "basic_systematic",
       "seriesId": "zycie-w-przymierzu",
       "order": 15,
-      "summary": "Bóg od stworzenia wiąże się z człowiekiem przymierzem; gdy upadamy, szuka nas i ponawia obietnicę - bo zawsze dotrzymuje słowa. Tu odsłania się serce wielkiego boju: czy Bogu można zaufać. Krew Jezusa to nowe przymierze, a Dekalog to objawienie charakteru Boga, nie legalizm.",
+      "summary": "Bóg od stworzenia wiąże się z człowiekiem przymierzem; gdy upadamy, szuka nas i ponawia obietnicę – bo zawsze dotrzymuje słowa. Tu odsłania się serce wielkiego boju: czy Bogu można zaufać. Krew Jezusa to nowe przymierze, a Dekalog to objawienie charakteru Boga, nie legalizm.",
       "minutes": {
         "base": 45,
         "extended": 65
@@ -646,7 +679,7 @@
       "category": "basic_systematic",
       "seriesId": "zycie-w-przymierzu",
       "order": 16,
-      "summary": "Biblia rozróżnia prawo moralne (Dekalog - trwałe, bo wyraża charakter Boga) i prawo ceremonialne Mojżesza (zapowiadało Chrystusa i w Nim się wypełniło). Przestrzeganie przykazań to nie legalizm, lecz posłuszeństwo z miłości i w mocy Ducha - relacja przed regułami.",
+      "summary": "Biblia rozróżnia prawo moralne (Dekalog – trwałe, bo wyraża charakter Boga) i prawo ceremonialne Mojżesza (zapowiadało Chrystusa i w Nim się wypełniło). Przestrzeganie przykazań to nie legalizm, lecz posłuszeństwo z miłości i w mocy Ducha – relacja przed regułami.",
       "minutes": {
         "base": 45,
         "extended": 65
@@ -684,11 +717,11 @@
     },
     {
       "id": "szabat",
-      "title": "Szabat - czas z Bogiem",
+      "title": "Szabat – czas z Bogiem",
       "category": "basic_systematic",
       "seriesId": "zycie-w-przymierzu",
       "order": 17,
-      "summary": "Szabat ustanowiony już przy stworzeniu, dla wszystkich ludzi, jako pamiątka Stwórcy i cotygodniowy dar relacji oraz wolności. Czwarte przykazanie, które zachowywał sam Jezus, prowadzi do odpoczynku w Chrystusie - to nie ciężar, lecz przestrzeń spotkania z Bogiem.",
+      "summary": "Szabat ustanowiony już przy stworzeniu, dla wszystkich ludzi, jako pamiątka Stwórcy i cotygodniowy dar relacji oraz wolności. Czwarte przykazanie, które zachowywał sam Jezus, prowadzi do odpoczynku w Chrystusie – to nie ciężar, lecz przestrzeń spotkania z Bogiem.",
       "minutes": {
         "base": 45,
         "extended": 70
@@ -721,11 +754,11 @@
     },
     {
       "id": "swiatynia-i-przymierze",
-      "title": "Jezus - nasz Arcykapłan",
+      "title": "Jezus – nasz Arcykapłan",
       "category": "basic_systematic",
       "seriesId": "zycie-w-przymierzu",
       "order": 18,
-      "summary": "Ziemska świątynia była modelem planu zbawienia: jej ofiary wskazywały na Jezusa-Baranka, a kapłaństwo na Jego służbę. Dziś Jezus jest Arcykapłanem w niebiańskiej świątyni - naszym jedynym Pośrednikiem. Świątynia łączy się z przymierzem: prawo w arce, łaska na przebłagalni; mamy pewny dostęp do Boga.",
+      "summary": "Ziemska świątynia była modelem planu zbawienia: jej ofiary wskazywały na Jezusa-Baranka, a kapłaństwo na Jego służbę. Dziś Jezus jest Arcykapłanem w niebiańskiej świątyni – naszym jedynym Pośrednikiem. Świątynia łączy się z przymierzem: prawo w arce, łaska na przebłagalni; mamy pewny dostęp do Boga.",
       "minutes": {
         "base": 45,
         "extended": 65
@@ -765,7 +798,7 @@
       "category": "basic_systematic",
       "seriesId": "zycie-w-przymierzu",
       "order": 19,
-      "summary": "Ciało jest darem Boga i świątynią Ducha. Zdrowie ujmujemy holistycznie: odżywianie, ruch, odpoczynek, woda, słońce, wstrzemięźliwość i zaufanie Bogu, a także emocje, przebaczenie, wdzięczność, radość i służba. „Niebieskie strefy\" (m.in. Loma Linda) pokazują, że Boże zasady życia naprawdę służą długowieczności.",
+      "summary": "Ciało jest darem Boga i świątynią Ducha. Zdrowie ujmujemy holistycznie: odżywianie, ruch, odpoczynek, woda, słońce, wstrzemięźliwość i zaufanie Bogu, a także emocje, przebaczenie, wdzięczność, radość i służba. „Niebieskie strefy” (m.in. Loma Linda) pokazują, że Boże zasady życia naprawdę służą długowieczności.",
       "minutes": {
         "base": 45,
         "extended": 65
@@ -802,7 +835,7 @@
       "category": "basic_systematic",
       "seriesId": "zycie-w-przymierzu",
       "order": 20,
-      "summary": "Bóg wyposaża każdego wierzącego do służby. Duch rozdziela różne dary, a jedno ciało - Kościół - łączy je w całość. Każdy ma odkryć i używać swój dar. Biblia podaje też kryteria rozpoznawania prawdziwego daru i proroka. Dar uzdrawiania przypomina, że Bóg działa dziś - w ramach swojej woli i tajemnicy cierpienia. Cel wszystkich darów: budowanie Kościoła.",
+      "summary": "Bóg wyposaża każdego wierzącego do służby. Duch rozdziela różne dary, a jedno ciało – Kościół – łączy je w całość. Każdy ma odkryć i używać swojego daru. Biblia podaje też kryteria rozpoznawania prawdziwego daru i proroka. Dar uzdrawiania przypomina, że Bóg działa dziś – w ramach swojej woli i tajemnicy cierpienia. Cel wszystkich darów: budowanie Kościoła.",
       "minutes": {
         "base": 45,
         "extended": 65
@@ -843,7 +876,7 @@
       "category": "basic_systematic",
       "seriesId": "zycie-w-przymierzu",
       "order": 21,
-      "summary": "Wszystko należy do Boga - jestem zarządcą, nie właścicielem. Wierne zarządzanie obejmuje czas, zdolności i pieniądze (dziesięcina i dary) i wypływa z wdzięczności, nie z przymusu. Z tego rodzi się moja osobista i lokalna misja: jak konkretnie służę Bogu i ludziom w mojej wspólnocie i otoczeniu.",
+      "summary": "Wszystko należy do Boga – jestem zarządcą, nie właścicielem. Wierne zarządzanie obejmuje czas, zdolności i pieniądze (dziesięcina i dary) i wypływa z wdzięczności, nie z przymusu. Z tego rodzi się moja osobista i lokalna misja: jak konkretnie służę Bogu i ludziom w mojej wspólnocie i otoczeniu.",
       "minutes": {
         "base": 45,
         "extended": 65
@@ -884,7 +917,7 @@
       "category": "basic_systematic",
       "seriesId": "proroctwo-i-nadzieja",
       "order": 22,
-      "summary": "Sen Nebukadnesara z Daniela 2 pokazuje, że Bóg zna i prowadzi bieg dziejów: kolejne imperia przeminą, a Jego wieczne Królestwo - „kamień\" - pozostanie. Spełnione proroctwo staje się mocnym fundamentem zaufania do Biblii.",
+      "summary": "Sen Nebukadnesara z Daniela 2 pokazuje, że Bóg zna i prowadzi bieg dziejów: kolejne imperia przeminą, a Jego wieczne Królestwo – „kamień” – pozostanie. Spełnione proroctwo staje się mocnym fundamentem zaufania do Biblii.",
       "minutes": {
         "base": 40,
         "extended": 60
@@ -918,7 +951,7 @@
       "category": "basic_systematic",
       "seriesId": "proroctwo-i-nadzieja",
       "order": 23,
-      "summary": "Liczbowe proroctwa Daniela - 70 tygodni i 2300 dni - odczytane zasadą „dzień za rok\". 70 tygodni precyzyjnie wskazuje Mesjasza (dowód, że Jezus jest Chrystusem), a 2300 dni prowadzi do roku 1844 i otwiera temat oczyszczenia świątyni niebiańskiej oraz sądu.",
+      "summary": "Liczbowe proroctwa Daniela – 70 tygodni i 2300 dni – odczytane zasadą „dzień za rok”. 70 tygodni precyzyjnie wskazuje Mesjasza (dowód, że Jezus jest Chrystusem), a 2300 dni prowadzi do roku 1844 i otwiera temat oczyszczenia świątyni niebiańskiej oraz sądu.",
       "minutes": {
         "base": 40,
         "extended": 60
@@ -955,7 +988,7 @@
       "category": "basic_systematic",
       "seriesId": "proroctwo-i-nadzieja",
       "order": 24,
-      "summary": "Daniel 7 powtarza linię imperiów językiem zwierząt, a „mały róg\" zapowiada moc religijno-polityczną działającą przez okres 1260 dni-lat (Dn 7,25; Ap 12; 13). To proroctwo o dominacji i prześladowaniu - ale jego sercem jest Baranek, który zwycięża i przejmuje wieczne królestwo.",
+      "summary": "Daniel 7 powtarza linię imperiów językiem zwierząt, a „mały róg” zapowiada moc religijno-polityczną działającą przez okres 1260 dni-lat (Dn 7,25; Ap 12; 13). To proroctwo o dominacji i prześladowaniu – ale jego sercem jest Baranek, który zwycięża i przejmuje wieczne królestwo.",
       "minutes": {
         "base": 40,
         "extended": 60
@@ -997,7 +1030,7 @@
       "category": "basic_systematic",
       "seriesId": "proroctwo-i-nadzieja",
       "order": 25,
-      "summary": "Poselstwo trzech aniołów ogłasza, że „nadeszła godzina sądu\" - w kontekście wiecznej ewangelii i wezwania, by oddać cześć Stwórcy. Sąd śledczy z Daniela 7 nie ma straszyć: w niebie Jezus jest naszym Obrońcą, a wierzący w Nim są bezpieczni.",
+      "summary": "Poselstwo trzech aniołów ogłasza, że „nadeszła godzina sądu” – w kontekście wiecznej ewangelii i wezwania, by oddać cześć Stwórcy. Sąd śledczy z Daniela 7 nie ma straszyć: w niebie Jezus jest naszym Obrońcą, a wierzący w Nim są bezpieczni.",
       "minutes": {
         "base": 40,
         "extended": 60
@@ -1034,7 +1067,7 @@
       "category": "basic_systematic",
       "seriesId": "proroctwo-i-nadzieja",
       "order": 26,
-      "summary": "Proroctwo nie tylko opisuje moce wrogie Bogu - wskazuje też, gdzie w czasach końca jest Jego wierny lud: „ostatek\", który zachowuje przykazania, ma świadectwo Jezusa i dar proroctwa, a jego znakiem rozpoznawczym jest globalna misja głoszenia powrotu Chrystusa.",
+      "summary": "Proroctwo nie tylko opisuje moce wrogie Bogu – wskazuje też, gdzie w czasach końca jest Jego wierny lud: „ostatek”, który zachowuje przykazania, ma świadectwo Jezusa i dar proroctwa, a jego znakiem rozpoznawczym jest globalna misja głoszenia powrotu Chrystusa.",
       "minutes": {
         "base": 40,
         "extended": 60
@@ -1054,7 +1087,7 @@
         "1 J 2,3-4",
         "J 14,15",
         "Ap 19,10",
-        "Jl 2,28",
+        "Jl 3,1",
         "Ap 22,7",
         "1 Tes 5,19-21",
         "Iz 8,20",
@@ -1071,7 +1104,7 @@
       "category": "basic_systematic",
       "seriesId": "proroctwo-i-nadzieja",
       "order": 27,
-      "summary": "Pogłębione spojrzenie na powtórne przyjście: będzie widzialne, słyszalne, chwalebne i globalne. Towarzyszy mu zmartwychwstanie sprawiedliwych i przemiana żyjących, a potem tysiąc lat (millenium) - zbawieni w niebie, opustoszała ziemia, szatan związany i sąd nad bezbożnymi.",
+      "summary": "Pogłębione spojrzenie na powtórne przyjście: będzie widzialne, słyszalne, chwalebne i globalne. Towarzyszy mu zmartwychwstanie sprawiedliwych i przemiana żyjących, a potem tysiąc lat (millenium) – zbawieni w niebie, opustoszała ziemia, szatan związany i sąd nad bezbożnymi.",
       "minutes": {
         "base": 40,
         "extended": 60
@@ -1109,7 +1142,7 @@
       "category": "basic_systematic",
       "seriesId": "proroctwo-i-nadzieja",
       "order": 28,
-      "summary": "Finał wielkiego boju: grzech, śmierć i zło zostają unicestwione na zawsze, a Bóg stwarza nowe niebo i nową ziemię. Bez łez, bólu i śmierci, z przywróconym Edenem i wieczną, bliską relacją z Bogiem - to cel całej drogi i otwarte zaproszenie.",
+      "summary": "Finał wielkiego boju: grzech, śmierć i zło zostają unicestwione na zawsze, a Bóg stwarza nowe niebo i nową ziemię. Bez łez, bólu i śmierci, z przywróconym Edenem i wieczną, bliską relacją z Bogiem – to cel całej drogi i otwarte zaproszenie.",
       "minutes": {
         "base": 40,
         "extended": 60
@@ -1128,7 +1161,7 @@
         "Ap 20,14",
         "1 Kor 15,26",
         "Na 1,9",
-        "Mal 4,1-3",
+        "Ml 3,19-21",
         "Ap 21,1",
         "Ap 21,3-4",
         "Iz 65,17",
@@ -1223,7 +1256,7 @@
       "category": "topic",
       "seriesId": "zycie-i-emocje",
       "order": 31,
-      "summary": "Co Pismo mówi o trosce, lęku i przeciążeniu - i jak rodzi się pokój, który „przewyższa wszelki rozum\". Nie chodzi o tłumienie emocji, lecz o przeniesienie ciężaru na Boga, który zna nasze potrzeby i jest blisko.",
+      "summary": "Co Pismo mówi o trosce, lęku i przeciążeniu – i jak rodzi się pokój, który „przewyższa wszelki rozum”. Nie chodzi o tłumienie emocji, lecz o przeniesienie ciężaru na Boga, który zna nasze potrzeby i jest blisko.",
       "minutes": {
         "base": 40,
         "extended": 60
@@ -1261,7 +1294,7 @@
       "category": "topic",
       "seriesId": "zycie-i-emocje",
       "order": 32,
-      "summary": "Dla dni, gdy jest ciężko, pusto albo ciemno. Pismo nie wstydzi się smutku ani samotności - pokazuje Boga, który jest blisko złamanych na duchu, oraz ludzi wiary, którzy przechodzili przez dołek. O nadziei, wspólnocie i o tym, że szukanie pomocy nie jest brakiem wiary.",
+      "summary": "Dla dni, gdy jest ciężko, pusto albo ciemno. Pismo nie wstydzi się smutku ani samotności – pokazuje Boga, który jest blisko złamanych na duchu, oraz ludzi wiary, którzy przechodzili przez dołek. O nadziei, wspólnocie i o tym, że szukanie pomocy nie jest brakiem wiary.",
       "minutes": {
         "base": 40,
         "extended": 60
@@ -1275,9 +1308,9 @@
         "wspólnota"
       ],
       "refs": [
-        "Ps 42,4-6",
-        "Ps 42,11",
-        "Ps 88,2-4",
+        "Ps 42,5-7",
+        "Ps 42,12",
+        "Ps 88,3-5",
         "Koh 3,4",
         "Ps 34,19",
         "Ps 147,3",
@@ -1292,7 +1325,7 @@
         "Ga 6,2",
         "Koh 4,9-10",
         "Rz 12,15",
-        "Ps 40,2-4"
+        "Ps 40,3-5"
       ]
     },
     {
@@ -1301,7 +1334,7 @@
       "category": "topic",
       "seriesId": "zycie-i-emocje",
       "order": 33,
-      "summary": "O radości, która nie zależy od okoliczności, o dziękczynieniu „w każdym położeniu\" i o tym, gdzie szukać sensu życia. Wdzięczność i radość w Panu nie są naiwnym optymizmem - to postawy, które realnie zmieniają serce i nadają kierunek codzienności.",
+      "summary": "O radości, która nie zależy od okoliczności, o dziękczynieniu „w każdym położeniu” i o tym, gdzie szukać sensu życia. Wdzięczność i radość w Panu nie są naiwnym optymizmem – to postawy, które realnie zmieniają serce i nadają kierunek codzienności.",
       "minutes": {
         "base": 40,
         "extended": 60
@@ -1340,7 +1373,7 @@
       "category": "topic",
       "seriesId": "zycie-i-emocje",
       "order": 34,
-      "summary": "Czym jest prawdziwa wolność - nie „róbta, co chceta\", lecz uwolnienie od tego, co zniewala: nałogów, władzy pieniądza, presji i przymusu grzechu. Jak Chrystus wyzwala, jak panować nad sobą jako owoc Ducha i jak czynić codzienne wybory (pieniądze, praca) jako wolny człowiek.",
+      "summary": "Czym jest prawdziwa wolność – nie „róbta, co chceta”, lecz uwolnienie od tego, co zniewala: nałogów, władzy pieniądza, presji i przymusu grzechu. Jak Chrystus wyzwala, jak panować nad sobą jako owoc Ducha i jak czynić codzienne wybory (pieniądze, praca) jako wolny człowiek.",
       "minutes": {
         "base": 40,
         "extended": 60
@@ -1381,7 +1414,7 @@
       "category": "topic",
       "seriesId": "zycie-i-emocje",
       "order": 35,
-      "summary": "Jak podejmować decyzje i rozpoznawać prowadzenie Boga - bez magii „znaków\" i bez paraliżu lęku. O zaufaniu, odnowionym umyśle, roli Słowa, modlitwy, okoliczności i wspólnoty oraz o tym, że gotowość posłuszeństwa otwiera poznanie woli Bożej.",
+      "summary": "Jak podejmować decyzje i rozpoznawać prowadzenie Boga – bez magii „znaków” i bez paraliżu lęku. O zaufaniu, odnowionym umyśle, roli Słowa, modlitwy, okoliczności i wspólnoty oraz o tym, że gotowość posłuszeństwa otwiera poznanie woli Bożej.",
       "minutes": {
         "base": 40,
         "extended": 60
