@@ -26,6 +26,8 @@
   # >>> blokada nagran i grafik przed data materialu (generuje tools/extract_edu.py - nie edytuj recznie)
   RewriteCond %{TIME} <20261125100000
   RewriteRule ^(audio/edu/043\.mp3|media/edu/043[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
+  RewriteCond %{TIME} <20261126100000
+  RewriteRule ^(audio/edu/044\.mp3|media/edu/044[a-z]?(\.jpg|_[md]\.webp))$ - [F,L]
   # <<< blokada
 
   # Brakujacy plik tresci pozostaje bledem 404, a nie strona HTML.
