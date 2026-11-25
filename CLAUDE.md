@@ -21,6 +21,25 @@ bash deploy-beta.sh# to samo pod /beta/ - wydanie testowe, glownej strony nie ru
 
 Nie ma lintera ani frameworka testowego. `npm run build` musi przechodzić czysto.
 
+### Wysyłka na serwer – tylko z zapisanego stanu (decyzja Marka 2026-11-25)
+
+Kilka sesji pracuje równolegle w tym repo: jedna w katalogu głównym, często z cudzą niezapisaną pracą
+w drzewie (np. przegląd lekcji), inne w osobnej kopii (`git worktree`, `~/AIrobocze/_apka_d29`).
+Do 25.11 wysyłka z katalogu z niezapisanymi zmianami wypychała cudzą pracę na serwer, a wysyłka ze
+starszej kopii cofała ją i cudze commity – na zmianę. Dlatego `deploy-ftp.sh` **odmawia**, gdy:
+- w `src/ public/ tools/` (i plikach konfiguracji) są niezapisane albo nieśledzone zmiany,
+- bieżący commit nie zawiera całej gałęzi `main` (stara kopia cofnęłaby cudze zmiany).
+
+Obieg:
+1. Commituj **tylko swoje pliki** na `main` w katalogu głównym (`git add <pliki>`, nie `git add -A`).
+   Nie commituj w odłączonej kopii – commit poza `main` nie przejdzie kontroli.
+2. Jeśli katalog główny jest czysty: `bash deploy-ftp.sh`. Jeśli leży w nim cudza praca, wysyłaj z czystej kopii:
+   `git -C ~/AIrobocze/_apka_d29 checkout --detach main && cd ~/AIrobocze/_apka_d29 && bash deploy-ftp.sh`.
+   Nagrania i grafiki (`public/audio`, `public/media`) są poza gitem i zostają w kopii, w której powstały.
+3. Po wysyłce `git push` (skrypt przypomina, gdy coś nie jest na GitHubie).
+
+`--bez-kontroli` wyłącza obie blokady – tylko awaryjnie i za zgodą Marka.
+
 ## Pipeline treści (`tools/`, Python)
 
 ```

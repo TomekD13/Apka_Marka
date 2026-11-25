@@ -6,6 +6,8 @@
 #   bash deploy-ftp.sh --all        # build + wyslanie wszystkiego (pierwszy raz, albo po zmianie hostingu)
 #   bash deploy-ftp.sh --no-build   # wyslanie istniejacego dist/ bez przebudowy
 #
+# Wysyla tylko stan zapisany w gicie, ktory zawiera cala galaz main (kontrola nizej, od 2026-11-25).
+#
 # Dane siedza POZA repozytorium (jest publiczne) w ~/.jestnadzieja-ftp:
 #   SFTP_HOST=s1.go3.pl
 #   SFTP_PORT=22
@@ -28,14 +30,44 @@ CRED="$HOME/.jestnadzieja-ftp"
 STATE="$HOME/.jestnadzieja-ftp-state"   # manifest ostatniej wysylki (md5 + sciezka), poza repo
 BUILD=1
 ALL=0
+CHECK=1
 
 for a in "$@"; do
   case "$a" in
     --all) ALL=1 ;;
     --no-build) BUILD=0 ;;
+    --bez-kontroli) CHECK=0 ;;
     *) echo "nieznany argument: $a" >&2; exit 2 ;;
   esac
 done
+
+# --- bezpieczna wysylka (2026-11-25) ----------------------------------------
+# Kilka sesji pracuje rownolegle: jedna w katalogu glownym (z cudza niezapisana praca w drzewie),
+# inna w osobnej kopii (git worktree, np. ~/AIrobocze/_apka_d29). Wysylka z drzewa z niezapisanymi
+# zmianami wypychala cudza prace na serwer, a wysylka ze starszej kopii ja cofala - na zmiane.
+# Dlatego na serwer idzie tylko stan zapisany w gicie i zawierajacy CALA galaz main.
+# --bez-kontroli tylko awaryjnie i swiadomie (Marek).
+if [ "$CHECK" = 1 ]; then
+  DIRTY="$(git status --porcelain --untracked-files=all -- src public tools index.html vite.config.ts package.json package-lock.json 'tsconfig*.json' 2>/dev/null || true)"
+  if [ -n "$DIRTY" ]; then
+    echo "STOP: w tej kopii sa niezapisane zmiany, ktore pojechalyby na serwer:" >&2
+    echo "$DIRTY" | head -20 | sed 's/^/     /' >&2
+    echo "  Zacommituj SWOJE pliki na main (git add <pliki>; git commit) i wyslij z czystej kopii:" >&2
+    echo "  git -C ~/AIrobocze/_apka_d29 checkout --detach main && cd ~/AIrobocze/_apka_d29 && bash deploy-ftp.sh" >&2
+    exit 1
+  fi
+  if ! git merge-base --is-ancestor main HEAD 2>/dev/null; then
+    echo "STOP: ta kopia nie zawiera calej galezi main - wysylka cofnelaby na serwerze te commity:" >&2
+    git log --oneline HEAD..main | head -10 | sed 's/^/     /' >&2
+    echo "  Commituj na main, potem tutaj: git checkout --detach main" >&2
+    exit 1
+  fi
+  AHEAD="$(git rev-list --count origin/main..HEAD 2>/dev/null || echo '?')"
+  [ "$AHEAD" = 0 ] || echo "uwaga: $AHEAD commit(ow) jeszcze nie na GitHubie - po wysylce zrob git push"
+  echo ">> kontrola OK: wysylam commit $(git log --oneline -1 HEAD)"
+else
+  echo "UWAGA: --bez-kontroli - wysylam to, co lezy w katalogu, takze niezapisane zmiany" >&2
+fi
 
 [ -f "$CRED" ] || { echo "brak $CRED - zaloz plik z danymi SFTP (opis w naglowku skryptu)" >&2; exit 1; }
 # shellcheck disable=SC1090
