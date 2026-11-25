@@ -61,6 +61,7 @@ BLOKI = [
     (18, 24, "Skąd wiem, że coś jest prawdą?"),
     (25, 31, "Myśli, które nami rządzą"),
     (32, 38, "Drobne gesty, wielka różnica"),
+    (39, 45, "Wiara, która rusza z miejsca"),
 ]
 
 # Nagrania lektorskie: public/audio/edu/NNN.mp3 (robi je tools/build_edu_audio.py).

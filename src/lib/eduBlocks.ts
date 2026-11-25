@@ -32,12 +32,15 @@ export function eduBlocks(items: EduEntry[], defs: EduBlockDef[] = [], size = 7)
  * gdy zaczyna nowy tydzien.
  */
 export function openByDefault(blocks: EduBlock[], now = new Date()): Set<number> {
-  const open = new Set<number>()
-  let current: EduBlock | undefined
-  for (const b of blocks) {
-    if (b.items.some((it) => isOpen(it, now))) current = b
-    else open.add(b.from)
-  }
-  if (current) open.add(current.from)
+  const open = new Set<number>(blocks.filter((b) => !b.items.some((it) => isOpen(it, now))).map((b) => b.from))
+  const current = currentBlock(blocks, now)
+  if (current !== undefined) open.add(current)
   return open
+}
+
+/** Blok z najnowszym otwartym materialem (jego `from`); undefined, gdy nic jeszcze nie jest otwarte. */
+export function currentBlock(blocks: EduBlock[], now = new Date()): number | undefined {
+  let current: number | undefined
+  for (const b of blocks) if (b.items.some((it) => isOpen(it, now))) current = b.from
+  return current
 }

@@ -21,7 +21,7 @@ import { EduGraphics } from '../components/EduGraphics'
 import { BETA } from '../lib/beta'
 import { ReadPill, ReadTop } from '../components/MaterialActions'
 import { RefreshButton } from '../components/RefreshButton'
-import { eduBlocks, openByDefault } from '../lib/eduBlocks'
+import { currentBlock, eduBlocks, openByDefault } from '../lib/eduBlocks'
 import type { EduEntry, EduIndex, EduItem } from '../types'
 
 const VERSION_KEY = 'zywe-slowo:edu:version'
@@ -104,6 +104,8 @@ function EduBlocks({ data, done }: { data: EduIndex; done: Set<string> }) {
     }
   })
   const shown = open ?? openByDefault(ordered)
+  // „Odśwież” stoi pod biezacym blokiem - tam czytelnik szuka dzisiejszego materialu
+  const current = currentBlock(ordered) ?? blocks[blocks.length - 1]?.from
 
   function toggle(from: number) {
     const s = new Set(shown)
@@ -146,6 +148,7 @@ function EduBlocks({ data, done }: { data: EduIndex; done: Set<string> }) {
                 {b.items.map((it) => <EduRow key={it.nr} it={it} done={done} />)}
               </div>
             )}
+            {b.from === current && <RefreshButton className="mt-4 mb-2" />}
           </section>
         )
       })}
@@ -212,7 +215,6 @@ export function Edu() {
         {t('edu.scheduleInfo', 'Każdego dnia otwiera się jeden nowy materiał – w dniu podanym przy tytule. Wcześniejsze możesz czytać w dowolnej chwili.')}
       </p>
       <EduList />
-      <RefreshButton className="mt-6" />
     </div>
   )
 }
