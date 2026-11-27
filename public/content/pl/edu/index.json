@@ -32,6 +32,11 @@
       "from": 39,
       "to": 45,
       "title": "Wiara, która rusza z miejsca"
+    },
+    {
+      "from": 46,
+      "to": 52,
+      "title": "Codzienne błędy"
     }
   ],
   "items": [
@@ -393,6 +398,14 @@
       "date": "2026-11-28",
       "dateLabel": "28 listopada, sobota",
       "title": "Nadzieja w czasie przeszłym. O Bogu, który idzie obok rozczarowanych",
+      "ref": "",
+      "audio": true
+    },
+    {
+      "nr": 46,
+      "date": "2026-11-29",
+      "dateLabel": "29 listopada, niedziela",
+      "title": "Ostra odpowiedź. O tym, jak jedno zdanie może zamienić rozmowę w kłótnię",
       "ref": "",
       "audio": true
     }

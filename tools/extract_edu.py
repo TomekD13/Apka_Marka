@@ -45,7 +45,7 @@ PRAY40 = ROOT / "public" / "content" / "pl" / "pray40" / "index.json"
 
 # Do aplikacji wchodza tylko teksty po korekcie autora - w zrodle leza juz dalsze
 # szkolenia (do 080), ale czekaja. Podnies, gdy autor odda kolejne.
-PUBLISHED = 45
+PUBLISHED = 46
 
 # Materialy otwarte od razu, niezaleznie od daty (decyzja autora 2026-10-09: pierwszy
 # odcinek z nagraniem dostepny przed startem cyklu, reszta w swoim dniu).
@@ -62,6 +62,7 @@ BLOKI = [
     (25, 31, "Myśli, które nami rządzą"),
     (32, 38, "Drobne gesty, wielka różnica"),
     (39, 45, "Wiara, która rusza z miejsca"),
+    (46, 52, "Codzienne błędy"),
 ]
 
 # Nagrania lektorskie: public/audio/edu/NNN.mp3 (robi je tools/build_edu_audio.py).
